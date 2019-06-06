@@ -1,5 +1,5 @@
 title: Supreme Court Judgements
-remote_theme: opendocsg/opendoc-theme@v2-no-pdf
+remote_theme: opendocsg/opendoc-theme@v2-no-pdf-preload
 repository: opendocsg/opendoc-supreme-court-judgments
 plugins:
   - jekyll-include-cache
