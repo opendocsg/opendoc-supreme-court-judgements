@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # Marina Bay Sands Pte Ltd _v_ Osuki Yohei  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Bankruptcy No 359 of 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">03 May 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Jonathan Ng Pang Ern AR</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Choy Wai Kit, Victor (Drew &amp; Napier LLC) for the plaintiff; The defendant absent and unrepresented.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Marina Bay Sands Pte Ltd — Osuki Yohei</td></tr></tbody></table>
@@ -8,19 +9,19 @@ Insolvency Law – Bankruptcy – Statutory demand
 
 ### Jonathan Ng Pang Ern AR:
 
-1       Bankruptcy No 359 of 2019 (“B 359”) is an application by the plaintiff, Marina Bay Sands Pte Ltd, for a bankruptcy order to be made against the defendant, Osuki Yohei. B 359 is founded on a statutory demand dated 17 December 2018 (the “SD”).[\[note: 1\]](#Ftn_1) Not unusually, the plaintiff’s solicitors purported to serve the SD by mailing, pursuant to the parties’ agreement, a copy of the SD to the defendant’s last known business address. Unusually, however, the SD was returned unclaimed. Was the SD validly served in such circumstances? Counsel for the plaintiff, Mr Victor Choy, submitted that it was. After hearing Mr Choy on two occasions, I reserved judgment. This is my decision.
+1       Bankruptcy No 359 of 2019 (“B 359”) is an application by the plaintiff, Marina Bay Sands Pte Ltd, for a bankruptcy order to be made against the defendant, Osuki Yohei. B 359 is founded on a statutory demand dated 17 December 2018 (the “SD”).[^1] Not unusually, the plaintiff’s solicitors purported to serve the SD by mailing, pursuant to the parties’ agreement, a copy of the SD to the defendant’s last known business address. Unusually, however, the SD was returned unclaimed. Was the SD validly served in such circumstances? Counsel for the plaintiff, Mr Victor Choy, submitted that it was. After hearing Mr Choy on two occasions, I reserved judgment. This is my decision.
 
 ## Background facts
 
-2       On 5 October 2018, the plaintiff obtained judgment in default of appearance against the defendant in High Court Suit No 923 of 2018. The judgment was for the sum of $2,000,000, together with contractual interest and costs.[\[note: 2\]](#Ftn_2)
+2       On 5 October 2018, the plaintiff obtained judgment in default of appearance against the defendant in High Court Suit No 923 of 2018. The judgment was for the sum of $2,000,000, together with contractual interest and costs.[^2]
 
-3       Pursuant to this judgment, the plaintiff issued the SD for the sum of $2,030,598.65.[\[note: 3\]](#Ftn_3) The SD was dated 17 December 2018.[\[note: 4\]](#Ftn_4) Two days later, on 19 December 2018, the plaintiff’s solicitors mailed a copy of the SD in a prepaid envelope by way of certificate of posting via Singapore Post Limited to the defendant’s last known business address.[\[note: 5\]](#Ftn_5) This was pursuant to cl 10 of a Credit Agreement between the plaintiff and the defendant (“cl 10”), which provided as follows:
+3       Pursuant to this judgment, the plaintiff issued the SD for the sum of $2,030,598.65.[^3] The SD was dated 17 December 2018.[^4] Two days later, on 19 December 2018, the plaintiff’s solicitors mailed a copy of the SD in a prepaid envelope by way of certificate of posting via Singapore Post Limited to the defendant’s last known business address.[^5] This was pursuant to cl 10 of a Credit Agreement between the plaintiff and the defendant (“cl 10”), which provided as follows:
 
-10    … \[The plaintiff\] may effect service of any legal process on the \[defendant\] by sending it by ordinary post from Singapore to, (i) \[the defendant’s\] last known address (being a post office box, or a place of residence or business, or otherwise) and/or, (ii) the address provided by the \[defendant\] above. Such process or documents shall be deemed validly served on the \[defendant\].[\[note: 6\]](#Ftn_6)
+10    … \[The plaintiff\] may effect service of any legal process on the \[defendant\] by sending it by ordinary post from Singapore to, (i) \[the defendant’s\] last known address (being a post office box, or a place of residence or business, or otherwise) and/or, (ii) the address provided by the \[defendant\] above. Such process or documents shall be deemed validly served on the \[defendant\].[^6]
 
-4       As it turned out, however, the SD was returned unclaimed to the plaintiff’s solicitors with the remark “\[n\]o such name/company”.[\[note: 7\]](#Ftn_7)
+4       As it turned out, however, the SD was returned unclaimed to the plaintiff’s solicitors with the remark “\[n\]o such name/company”.[^7]
 
-5       Relying on the SD and the presumption under s 62(_a_) of the Bankruptcy Act (Cap 20, 2009 Rev Ed) (the “BA”) (see \[9\] below),[\[note: 8\]](#Ftn_8) the plaintiff commenced B 359 against the defendant on 13 February 2019. The application was mailed to the defendant in a similar manner as the SD.[\[note: 9\]](#Ftn_9)
+5       Relying on the SD and the presumption under s 62(_a_) of the Bankruptcy Act (Cap 20, 2009 Rev Ed) (the “BA”) (see \[9\] below),[^8] the plaintiff commenced B 359 against the defendant on 13 February 2019. The application was mailed to the defendant in a similar manner as the SD.[^9]
 
 6       B 359 first came up for hearing before me on 14 March 2019. The defendant was absent. However, I was prepared to give him a chance as this was the first hearing, and therefore adjourned B 359 for four weeks. At this hearing, I also highlighted to Mr Choy my concern that the SD was returned unclaimed. To this, Mr Choy submitted that service was nonetheless successful and briefly brought me through two High Court decisions: _Re Rasmachayana Sulistyo (alias Chang Whe Ming), ex parte The Hongkong and Shanghai Banking Corp Ltd and other appeals_ (“_Rasmachayana_”) and _Oversea-Chinese Banking Corp Ltd v Measurex Corp Bhd_ (“_OCBC_”). At the end of the hearing, I invited Mr Choy to put in written submissions for the next hearing, if he thought this necessary.
 
@@ -143,7 +144,7 @@ The essence of the _service requirements_ under the \[Bankruptcy Rules (Cap 20, 
 
 29     Returning to r 108(3)(_d_) of the BR (see \[26\] above), this provision, in my view, leaves no room for a situation where the statutory demand is returned unclaimed. In such a situation, the person who makes the affidavit proving service of the statutory demand is simply unable to specify the relevant date because he knows that the statutory demand would _not_ come to the debtor’s attention. In fact, this is evident from Mr Choy’s Affidavit of Service of Statutory Demand under Section 62 of the Bankruptcy Act. In this affidavit, Mr Choy deposed as follows:
 
-… I verily believe that the \[SD\] _was served_ on the \[d\]efendant by 20 December 2018, that is, one working day after the \[p\]laintiff’s letter enclosing the \[SD\] was mailed. \[emphasis added\][\[note: 10\]](#Ftn_10)
+… I verily believe that the \[SD\] _was served_ on the \[d\]efendant by 20 December 2018, that is, one working day after the \[p\]laintiff’s letter enclosing the \[SD\] was mailed. \[emphasis added\][^10]
 
 30     Presumably, this was meant to comply with r 108(3)(_d_) of the BR. However, the choice of words is telling. Mr Choy could only say when he believed the SD “was served”. He could not depose to when, to use the language of r 108(3)(_d_) of the BR, the SD “would have come” to the defendant’s attention. The SD having been returned unclaimed, Mr Choy knew for a fact that the SD would _not_ come to the defendant’s attention.
 
@@ -165,7 +166,7 @@ The essence of the _service requirements_ under the \[Bankruptcy Rules (Cap 20, 
 
 37     The parties’ agreement in this specific case can be found in cl 10, which I reproduce again for ease of reference:
 
-10    … \[The plaintiff\] may effect service of any legal process on the \[defendant\] by sending it by ordinary post from Singapore to, (i) \[the defendant’s\] last known address (being a post office box, or a place of residence or business, or otherwise) and/or, (ii) the address provided by the \[defendant\] above. Such process or documents shall be deemed validly served on the \[defendant\].[\[note: 11\]](#Ftn_11)
+10    … \[The plaintiff\] may effect service of any legal process on the \[defendant\] by sending it by ordinary post from Singapore to, (i) \[the defendant’s\] last known address (being a post office box, or a place of residence or business, or otherwise) and/or, (ii) the address provided by the \[defendant\] above. Such process or documents shall be deemed validly served on the \[defendant\].[^11]
 
 38     What is evident is that cl 10 does not expressly state that the “process or documents” shall be deemed validly served on the defendant _whether or not the “process or documents” are successfully delivered_, or something to similar effect. This contrasts the relevant clauses in both _Rasmachayana_ and _OCBC_.
 
@@ -205,27 +206,27 @@ We irrevocably appoint Measurex Engineering Pte Ltd at its address in Singapore 
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)Affidavit of Service of Statutory Demand under section 62 of the Bankruptcy Act at pp 12-16.
+[^1]: Affidavit of Service of Statutory Demand under section 62 of the Bankruptcy Act at pp 12-16.
 
-[\[note: 2\]](#Ftn_2_1)Affidavit in Support of Creditor’s Bankruptcy Application at p 12.
+[^2]: Affidavit in Support of Creditor’s Bankruptcy Application at p 12.
 
-[\[note: 3\]](#Ftn_3_1)Affidavit of Service of Statutory Demand under section 62 of the Bankruptcy Act at pp 12-16.
+[^3]: Affidavit of Service of Statutory Demand under section 62 of the Bankruptcy Act at pp 12-16.
 
-[\[note: 4\]](#Ftn_4_1)Affidavit of Service of Statutory Demand under section 62 of the Bankruptcy Act at pp 12-16.
+[^4]: Affidavit of Service of Statutory Demand under section 62 of the Bankruptcy Act at pp 12-16.
 
-[\[note: 5\]](#Ftn_5_1)Affidavit of Service of Statutory Demand under section 62 of the Bankruptcy Act at para 6.
+[^5]: Affidavit of Service of Statutory Demand under section 62 of the Bankruptcy Act at para 6.
 
-[\[note: 6\]](#Ftn_6_1)Affidavit of Service of Statutory Demand under section 62 of the Bankruptcy Act at para 4 and p 6.
+[^6]: Affidavit of Service of Statutory Demand under section 62 of the Bankruptcy Act at para 4 and p 6.
 
-[\[note: 7\]](#Ftn_7_1)Affidavit of Service of Statutory Demand under section 62 of the Bankruptcy Act at para 9.
+[^7]: Affidavit of Service of Statutory Demand under section 62 of the Bankruptcy Act at para 9.
 
-[\[note: 8\]](#Ftn_8_1)Affidavit in Support of Creditor’s Bankruptcy Application at para 3(d).
+[^8]: Affidavit in Support of Creditor’s Bankruptcy Application at para 3(d).
 
-[\[note: 9\]](#Ftn_9_1)Affidavit of Service of Bankruptcy Application at para 6.
+[^9]: Affidavit of Service of Bankruptcy Application at para 6.
 
-[\[note: 10\]](#Ftn_10_1)Affidavit of Service of Statutory Demand under Section 62 of the Bankruptcy Act at para 8.
+[^10]: Affidavit of Service of Statutory Demand under Section 62 of the Bankruptcy Act at para 8.
 
-[\[note: 11\]](#Ftn_11_1)Affidavit of Service of Statutory Demand under section 62 of the Bankruptcy Act at para 4 and p 6.
+[^11]: Affidavit of Service of Statutory Demand under section 62 of the Bankruptcy Act at para 4 and p 6.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23131-SSP.xml)

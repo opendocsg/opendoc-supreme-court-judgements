@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # Lim Hun Joo and others _v_ Kok Yin Chong and others  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Originating Summons No 841 of 2018</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">02 January 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Woo Bih Li J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Wong Soon Peng Adrian, Ang Leong Hao, Gan Hiang Chye and Norman Ho (Rajah &amp; Tann Singapore LLP) for the plaintiffs; Tan Gim Hai Adrian, Ong Pei Ching and Goh Qian'en, Benjamin (TSMP Law Corporation) for the defendants.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Lim Hun Joo — Awe Ying Fatt — Chan Keng Siang Gregory — Kok Yin Chong — Ng Yuen Yau Olivia — Ng Khee Shen — Michelle Ang Suan Choo — Lim Choo Hwee — Poon Meng Mee — Chong Chiah Joo — Tan Thiam Yee — Goh Lay Hoon (Wu Lifen) — Gan Seng Hong — Toh Wai Ling, Kathleen (Zhuo Weiling, Kathleen) — Ang Ann Kiat — Wong Lai Fun</td></tr></tbody></table>
@@ -14,7 +15,7 @@ Land – Strata titles – Collective sales
 
 2       The defendants are 13 subsidiary proprietors who filed objections to the collective sale to the High Court. They mainly contended that the present application was _ultra vires_, that there was a flagrant breach of certain statutory requirements, and that the transaction in respect of the collective sale to the purchaser was not in good faith. On this last point, the defendants raised many factors to argue that this court should not approve the collective sale application pursuant to s 84A(9)(_a_)(i).
 
-3       I heard OS 841/2018 from 12 September 2018 to 14 September 2018. At the end of the hearing on 14 September 2018, I reserved judgment. I was informed that the plaintiffs had to obtain an order in respect of the collective sale by 26 November 2018, failing which the purchaser who entered into a sale and purchase agreement to buy the Property (_ie_, the sale and purchase agreement, amended as at 8 March 2018 (“the SPA”)) might treat it as rescinded.[\[note: 1\]](#Ftn_1) I delivered my oral judgment (_Lim Hun Joo and others v Kok Yin Chong and others_ ) on 26 November 2018, addressing the main issues of law and fact, and indicated that more detailed grounds of decision would follow. In short, I granted the primary orders sought by the plaintiffs with costs and disbursements to be determined at a later date.
+3       I heard OS 841/2018 from 12 September 2018 to 14 September 2018. At the end of the hearing on 14 September 2018, I reserved judgment. I was informed that the plaintiffs had to obtain an order in respect of the collective sale by 26 November 2018, failing which the purchaser who entered into a sale and purchase agreement to buy the Property (_ie_, the sale and purchase agreement, amended as at 8 March 2018 (“the SPA”)) might treat it as rescinded.[^1] I delivered my oral judgment (_Lim Hun Joo and others v Kok Yin Chong and others_ ) on 26 November 2018, addressing the main issues of law and fact, and indicated that more detailed grounds of decision would follow. In short, I granted the primary orders sought by the plaintiffs with costs and disbursements to be determined at a later date.
 
 4       These are the grounds of my decision. References to statutory provisions are to provisions of the LTSA unless otherwise stated.
 
@@ -22,45 +23,45 @@ Land – Strata titles – Collective sales
 
 5       I set out the background facts as far as they were undisputed.
 
-6       The Property is a freehold development comprising 210 units.[\[note: 2\]](#Ftn_2) In or around May 2017, the management council of the Property’s management corporation invited Knight Frank Pte Ltd (“Knight Frank”) to share with the subsidiary proprietors an overview of the collective sale process.[\[note: 3\]](#Ftn_3) Knight Frank will be referred to as a “marketing agent” in these grounds.[\[note: 4\]](#Ftn_4) On 27 May 2017, Knight Frank gave a presentation to the subsidiary proprietors where it estimated the sale price for the Property to be at least $455.8m, and estimated the development charge (“DC”) payable for the redevelopment of the Property to be $48.4m.[\[note: 5\]](#Ftn_5) The DC is a tax payable by developers to the relevant authorities when planning permission is granted to carry out a development project which increases the value of the land.[\[note: 6\]](#Ftn_6)
+6       The Property is a freehold development comprising 210 units.[^2] In or around May 2017, the management council of the Property’s management corporation invited Knight Frank Pte Ltd (“Knight Frank”) to share with the subsidiary proprietors an overview of the collective sale process.[^3] Knight Frank will be referred to as a “marketing agent” in these grounds.[^4] On 27 May 2017, Knight Frank gave a presentation to the subsidiary proprietors where it estimated the sale price for the Property to be at least $455.8m, and estimated the development charge (“DC”) payable for the redevelopment of the Property to be $48.4m.[^5] The DC is a tax payable by developers to the relevant authorities when planning permission is granted to carry out a development project which increases the value of the land.[^6]
 
-7       On 1 July 2017, an extraordinary general meeting (“EGM”) of the management corporation was convened. At this EGM, the CSC was constituted to act jointly on behalf of the subsidiary proprietors for the purposes of a collective sale.[\[note: 7\]](#Ftn_7) The subsidiary proprietors resolved that the CSC comprise six members, and that the three plaintiffs and three other individuals form the CSC.[\[note: 8\]](#Ftn_8) The first plaintiff became the chairman of the CSC.[\[note: 9\]](#Ftn_9)
+7       On 1 July 2017, an extraordinary general meeting (“EGM”) of the management corporation was convened. At this EGM, the CSC was constituted to act jointly on behalf of the subsidiary proprietors for the purposes of a collective sale.[^7] The subsidiary proprietors resolved that the CSC comprise six members, and that the three plaintiffs and three other individuals form the CSC.[^8] The first plaintiff became the chairman of the CSC.[^9]
 
-8       The CSC thereafter contacted a few marketing agents, including Knight Frank, with the intention of appointing one of them for the proposed collective sale. Sometime in early July 2017, the CSC members unanimously agreed to appoint Knight Frank as the marketing agent.[\[note: 10\]](#Ftn_10) The CSC members also unanimously agreed to appoint Rajah & Tann Singapore LLP (“R&T”) as the legal firm for the collective sale.[\[note: 11\]](#Ftn_11)
+8       The CSC thereafter contacted a few marketing agents, including Knight Frank, with the intention of appointing one of them for the proposed collective sale. Sometime in early July 2017, the CSC members unanimously agreed to appoint Knight Frank as the marketing agent.[^10] The CSC members also unanimously agreed to appoint Rajah & Tann Singapore LLP (“R&T”) as the legal firm for the collective sale.[^11]
 
-9       On 9 September 2017, an EGM of the management corporation was convened and was attended, in person or by proxy, by subsidiary proprietors who collectively own 135 units of the Property.[\[note: 12\]](#Ftn_12) At the EGM, Knight Frank shared a proposed reserve price of $500m for the collective sale and an estimated DC of around $58.5m, subject to verification.[\[note: 13\]](#Ftn_13) Knight Frank explained the apportionment method of sale proceeds.[\[note: 14\]](#Ftn_14) R&T then went through the terms and conditions of the collective sale agreement (“the CSA”).[\[note: 15\]](#Ftn_15) The CSA stated that the reserve price was $500m, although this reserve price could be changed in accordance with the provisions in the CSA.[\[note: 16\]](#Ftn_16) However, at the EGM, the subsidiary proprietors did not vote on or otherwise approve the apportionment of sale proceeds and the terms and conditions of the CSA.[\[note: 17\]](#Ftn_17) Instead, after the EGM was concluded, subsidiary proprietors who collectively own 76 units signed the CSA that day.[\[note: 18\]](#Ftn_18)
+9       On 9 September 2017, an EGM of the management corporation was convened and was attended, in person or by proxy, by subsidiary proprietors who collectively own 135 units of the Property.[^12] At the EGM, Knight Frank shared a proposed reserve price of $500m for the collective sale and an estimated DC of around $58.5m, subject to verification.[^13] Knight Frank explained the apportionment method of sale proceeds.[^14] R&T then went through the terms and conditions of the collective sale agreement (“the CSA”).[^15] The CSA stated that the reserve price was $500m, although this reserve price could be changed in accordance with the provisions in the CSA.[^16] However, at the EGM, the subsidiary proprietors did not vote on or otherwise approve the apportionment of sale proceeds and the terms and conditions of the CSA.[^17] Instead, after the EGM was concluded, subsidiary proprietors who collectively own 76 units signed the CSA that day.[^18]
 
-10     Thereafter, the CSC circulated a situational update dated 18 October 2017, which was provided with inputs from Knight Frank, where the CSC stated that the DC was one of the factors that had been taken into consideration to establish the reserve price.[\[note: 19\]](#Ftn_19)
+10     Thereafter, the CSC circulated a situational update dated 18 October 2017, which was provided with inputs from Knight Frank, where the CSC stated that the DC was one of the factors that had been taken into consideration to establish the reserve price.[^19]
 
-11     On 22 November 2017, the CSC, in consultation with Knight Frank, resolved to increase the reserve price from $500m to $550m,[\[note: 20\]](#Ftn_20) and did so pursuant to Schedule 3 cl 3 of the CSA.[\[note: 21\]](#Ftn_21)
+11     On 22 November 2017, the CSC, in consultation with Knight Frank, resolved to increase the reserve price from $500m to $550m,[^20] and did so pursuant to Schedule 3 cl 3 of the CSA.[^21]
 
-12     On the same day, Knight Frank appointed an architectural company, Ong & Ong Pte Ltd (“Ong & Ong”), to carry out for the Property, the Gross Floor Area (“GFA”) verification and the Development Baseline search with the Urban Redevelopment Authority (“URA”).[\[note: 22\]](#Ftn_22) These searches would provide information to determine the actual amount of DC payable for the Property (“the DC verification”).[\[note: 23\]](#Ftn_23) Consequently, Ong & Ong spent some weeks to do the necessary preparatory work for submitting the search applications to URA.[\[note: 24\]](#Ftn_24)
+12     On the same day, Knight Frank appointed an architectural company, Ong & Ong Pte Ltd (“Ong & Ong”), to carry out for the Property, the Gross Floor Area (“GFA”) verification and the Development Baseline search with the Urban Redevelopment Authority (“URA”).[^22] These searches would provide information to determine the actual amount of DC payable for the Property (“the DC verification”).[^23] Consequently, Ong & Ong spent some weeks to do the necessary preparatory work for submitting the search applications to URA.[^24]
 
-13     Thereafter, Knight Frank sent letters dated 24 November 2017 to the subsidiary proprietors to inform them that the CSC had resolved to increase the reserve price to $550m.[\[note: 25\]](#Ftn_25)
+13     Thereafter, Knight Frank sent letters dated 24 November 2017 to the subsidiary proprietors to inform them that the CSC had resolved to increase the reserve price to $550m.[^25]
 
-14     As at 7 December 2017, subsidiary proprietors of the lots with less than 80% of the share values and less than 80% of the total area of all the lots had signed the CSA. Knight Frank then sent a letter dated 8 December 2017 to urge the subsidiary proprietors to support the collective sale.[\[note: 26\]](#Ftn_26) The letter stated that “\[DC\] rates are highly expected to increase on 1 March 2018 and it will have a direct impact on \[the potential bidders’\] bid price\[s\]”. The letter added that “\[i\]t is ideal to lock in a buyer before further \[DC\] rates increment, as this directly affects the land rate – developers may factor in potential \[DC\] increase during tender and discount the price to owners”.
+14     As at 7 December 2017, subsidiary proprietors of the lots with less than 80% of the share values and less than 80% of the total area of all the lots had signed the CSA. Knight Frank then sent a letter dated 8 December 2017 to urge the subsidiary proprietors to support the collective sale.[^26] The letter stated that “\[DC\] rates are highly expected to increase on 1 March 2018 and it will have a direct impact on \[the potential bidders’\] bid price\[s\]”. The letter added that “\[i\]t is ideal to lock in a buyer before further \[DC\] rates increment, as this directly affects the land rate – developers may factor in potential \[DC\] increase during tender and discount the price to owners”.
 
-15     Thereafter, by 15 January 2018, subsidiary proprietors of the lots with not less than 80% of the share values and not less than 80% of the total area of all the lots had signed the CSA.[\[note: 27\]](#Ftn_27) The subsidiary proprietors thus reached the 80% consent threshold required for making any collective sale application pursuant to s 84A(1)(_b_). (Subsidiary proprietors who signed the CSA (at this point or thereafter) will be referred to as “majority owners” or “assenting subsidiary proprietors”, and subsidiary proprietors who did not sign the CSA will be referred to as “minority owners” or “dissenting subsidiary proprietors”.)
+15     Thereafter, by 15 January 2018, subsidiary proprietors of the lots with not less than 80% of the share values and not less than 80% of the total area of all the lots had signed the CSA.[^27] The subsidiary proprietors thus reached the 80% consent threshold required for making any collective sale application pursuant to s 84A(1)(_b_). (Subsidiary proprietors who signed the CSA (at this point or thereafter) will be referred to as “majority owners” or “assenting subsidiary proprietors”, and subsidiary proprietors who did not sign the CSA will be referred to as “minority owners” or “dissenting subsidiary proprietors”.)
 
-16     On 18 January 2018, Ong & Ong submitted the search applications for the DC verification to URA.[\[note: 28\]](#Ftn_28)
+16     On 18 January 2018, Ong & Ong submitted the search applications for the DC verification to URA.[^28]
 
-17     On 25 January 2018, the CSC convened what they called an “owners’ meeting”.[\[note: 29\]](#Ftn_29) Knight Frank informed the subsidiary proprietors that the 80% consent threshold had been reached and that the Property would be launched for sale by way of public tender on 26 January 2018. Knight Frank mentioned that the estimated DC was $63.19m, and that it had appointed an architect to carry out the DC verification.[\[note: 30\]](#Ftn_30)
+17     On 25 January 2018, the CSC convened what they called an “owners’ meeting”.[^29] Knight Frank informed the subsidiary proprietors that the 80% consent threshold had been reached and that the Property would be launched for sale by way of public tender on 26 January 2018. Knight Frank mentioned that the estimated DC was $63.19m, and that it had appointed an architect to carry out the DC verification.[^30]
 
-18     On 26 January 2018, the Property was launched for sale by way of public tender. The public tender was scheduled to close on 7 March 2018. When the Property was launched for sale, Knight Frank’s marketing efforts included sending emails to some 652 potential bidders on its database to notify them of the launch.[\[note: 31\]](#Ftn_31) In the emails, it was mentioned that the reserve price was $550m, that there was an additional estimated DC of approximately $63.2m, and that Knight Frank was awaiting a reply from URA on the Development Baseline which Knight Frank expected to receive within the next two weeks (this was a reference to the DC verification).[\[note: 32\]](#Ftn_32) Knight Frank also published an article on its webpage and from 26 January 2018 to 22 February 2018, placed four advertisements in the Business Times and one advertisement in the Straits Times to market the Property.[\[note: 33\]](#Ftn_33) In these various marketing materials, it was stated that the Master Plan 2014 (which was a reference to the URA Master Plan 2014) had zoned the site of the Property “Residential” with a Gross Plot Ratio (“GPR”) of 1.4. The GPR relates to the intensity of the land use permitted on a site.[\[note: 34\]](#Ftn_34)
+18     On 26 January 2018, the Property was launched for sale by way of public tender. The public tender was scheduled to close on 7 March 2018. When the Property was launched for sale, Knight Frank’s marketing efforts included sending emails to some 652 potential bidders on its database to notify them of the launch.[^31] In the emails, it was mentioned that the reserve price was $550m, that there was an additional estimated DC of approximately $63.2m, and that Knight Frank was awaiting a reply from URA on the Development Baseline which Knight Frank expected to receive within the next two weeks (this was a reference to the DC verification).[^32] Knight Frank also published an article on its webpage and from 26 January 2018 to 22 February 2018, placed four advertisements in the Business Times and one advertisement in the Straits Times to market the Property.[^33] In these various marketing materials, it was stated that the Master Plan 2014 (which was a reference to the URA Master Plan 2014) had zoned the site of the Property “Residential” with a Gross Plot Ratio (“GPR”) of 1.4. The GPR relates to the intensity of the land use permitted on a site.[^34]
 
-19     From 26 January 2018 to 25 February 2018, three potential bidders requested a site inspection of the Property.[\[note: 35\]](#Ftn_35)
+19     From 26 January 2018 to 25 February 2018, three potential bidders requested a site inspection of the Property.[^35]
 
-20     On 26 February 2018, there was a very important development. The CSC received a copy of URA’s letter to Ong & Ong dated the same day (“URA’s letter”), which set out the recomputed GFA and the development charge baseline of the Property, and the CSC forwarded it to Knight Frank.[\[note: 36\]](#Ftn_36) According to Knight Frank, URA’s letter meant that no DC would be payable for the Property.[\[note: 37\]](#Ftn_37)
+20     On 26 February 2018, there was a very important development. The CSC received a copy of URA’s letter to Ong & Ong dated the same day (“URA’s letter”), which set out the recomputed GFA and the development charge baseline of the Property, and the CSC forwarded it to Knight Frank.[^36] According to Knight Frank, URA’s letter meant that no DC would be payable for the Property.[^37]
 
-21     The following took place on 26 February 2018. Knight Frank immediately began updating potential bidders in various ways that no DC was payable. Knight Frank sent emails to some 652 potential bidders,[\[note: 38\]](#Ftn_38) and made direct calls to potential bidders who had earlier expressed interest in the Property.[\[note: 39\]](#Ftn_39) Knight Frank also informed Colliers International Consultancy & Valuation (Singapore) Pte Ltd (“Colliers”), which had been appointed to give an independent valuation of the Property as at 7 March 2018, of the development charge baseline.[\[note: 40\]](#Ftn_40) There were also urgent discussions between Knight Frank and the CSC. Knight Frank advised that there was no reason to extend the closing date of the tender, _ie_, 7 March 2018. If any potential bidder requested an extension of the closing date, Knight Frank would discuss the request with the CSC. The CSC did not disagree with this approach.[\[note: 41\]](#Ftn_41)
+21     The following took place on 26 February 2018. Knight Frank immediately began updating potential bidders in various ways that no DC was payable. Knight Frank sent emails to some 652 potential bidders,[^38] and made direct calls to potential bidders who had earlier expressed interest in the Property.[^39] Knight Frank also informed Colliers International Consultancy & Valuation (Singapore) Pte Ltd (“Colliers”), which had been appointed to give an independent valuation of the Property as at 7 March 2018, of the development charge baseline.[^40] There were also urgent discussions between Knight Frank and the CSC. Knight Frank advised that there was no reason to extend the closing date of the tender, _ie_, 7 March 2018. If any potential bidder requested an extension of the closing date, Knight Frank would discuss the request with the CSC. The CSC did not disagree with this approach.[^41]
 
-22     On 1 March 2018, Knight Frank also advertised in the Business Times that no DC was payable.[\[note: 42\]](#Ftn_42)
+22     On 1 March 2018, Knight Frank also advertised in the Business Times that no DC was payable.[^42]
 
-23     Prior to the closing date of the tender, the CSC did not update the subsidiary proprietors that no DC was payable.[\[note: 43\]](#Ftn_43)
+23     Prior to the closing date of the tender, the CSC did not update the subsidiary proprietors that no DC was payable.[^43]
 
-24     From 26 February 2018 to 7 March 2018, five potential bidders requested a site inspection of the Property. There was no request for an extension of the closing date of the tender.[\[note: 44\]](#Ftn_44)
+24     From 26 February 2018 to 7 March 2018, five potential bidders requested a site inspection of the Property. There was no request for an extension of the closing date of the tender.[^44]
 
-25     On 7 March 2018, the tender was closed as scheduled and the tender box was opened.[\[note: 45\]](#Ftn_45) There were:
+25     On 7 March 2018, the tender was closed as scheduled and the tender box was opened.[^45] There were:
 
 (a)     one expression of interest at $480m;
 
@@ -68,15 +69,15 @@ Land – Strata titles – Collective sales
 
 (c)     a second bid at $610m.
 
-26     Colliers’ valuation report dated 7 March 2018, which had been placed in the tender box, was also opened.[\[note: 46\]](#Ftn_46) Amongst other things, Colliers took into account URA’s letter dated 26 January 2018,[\[note: 47\]](#Ftn_47) and was of the opinion that the market value of the Property was $542m.[\[note: 48\]](#Ftn_48)
+26     Colliers’ valuation report dated 7 March 2018, which had been placed in the tender box, was also opened.[^46] Amongst other things, Colliers took into account URA’s letter dated 26 January 2018,[^47] and was of the opinion that the market value of the Property was $542m.[^48]
 
-27     As the higher of the two bids, _ie_, at $610m, was higher than both the valuation by Colliers and the reserve price of $550m, the CSC awarded the tender on 8 March 2018 to the joint-bidders who had submitted that bid.[\[note: 49\]](#Ftn_49) Thereafter, Knight Frank sent a letter dated 8 March 2018 to the subsidiary proprietors to inform them that a sale contract (_ie_, the SPA) had been entered into that day for the Property for the sale price of $610m.[\[note: 50\]](#Ftn_50) Knight Frank did not mention in this letter that there was no DC payable.[\[note: 51\]](#Ftn_51)
+27     As the higher of the two bids, _ie_, at $610m, was higher than both the valuation by Colliers and the reserve price of $550m, the CSC awarded the tender on 8 March 2018 to the joint-bidders who had submitted that bid.[^49] Thereafter, Knight Frank sent a letter dated 8 March 2018 to the subsidiary proprietors to inform them that a sale contract (_ie_, the SPA) had been entered into that day for the Property for the sale price of $610m.[^50] Knight Frank did not mention in this letter that there was no DC payable.[^51]
 
-28     On 19 March 2018, an owners’ meeting was convened to explain to the subsidiary proprietors the progress made in the collective sale process thus far, including the past marketing campaign and the terms and conditions of the SPA. It was at this meeting that the CSC informed the subsidiary proprietors for the first time that there was no DC payable.[\[note: 52\]](#Ftn_52) Although queries were raised as to why they were not informed more promptly,[\[note: 53\]](#Ftn_53) no assenting subsidiary proprietor sought to withdraw from the CSA. Indeed, apparently subsidiary proprietors of ten units subsequently added their signatures to the CSA.[\[note: 54\]](#Ftn_54)
+28     On 19 March 2018, an owners’ meeting was convened to explain to the subsidiary proprietors the progress made in the collective sale process thus far, including the past marketing campaign and the terms and conditions of the SPA. It was at this meeting that the CSC informed the subsidiary proprietors for the first time that there was no DC payable.[^52] Although queries were raised as to why they were not informed more promptly,[^53] no assenting subsidiary proprietor sought to withdraw from the CSA. Indeed, apparently subsidiary proprietors of ten units subsequently added their signatures to the CSA.[^54]
 
-29     On 5 April 2018, the joint-bidders nominated the purchaser to purchase the Property in place of them, as allowed under the SPA.[\[note: 55\]](#Ftn_55)
+29     On 5 April 2018, the joint-bidders nominated the purchaser to purchase the Property in place of them, as allowed under the SPA.[^55]
 
-30     On 25 April 2018, the plaintiffs made an application to a Strata Titles Board for an order for the collective sale of the Property, pursuant to s 84A(2A)(_a_).[\[note: 56\]](#Ftn_56) On 10 May 2018 and 11 May 2018, various defendants filed two sets of objections to the collective sale to the Board.[\[note: 57\]](#Ftn_57) The Board held two mediation sessions on 1 June 2018 and 19 June 2018. Thereafter, on 27 June 2018, the Board ordered a discontinuance of all proceedings before it in connection with the plaintiffs’ application pursuant to s 84A(6A) (_ie_, the Board issued a “section 84A stop order”).[\[note: 58\]](#Ftn_58) The plaintiffs then commenced OS 841/2018 on or about 10 July 2018, pursuant to s 84A(2A)(_b_), to apply to the High Court for an order for the collective sale of the Property. On 20 August 2018, the defendants filed their objections to the collective sale to the High Court.
+30     On 25 April 2018, the plaintiffs made an application to a Strata Titles Board for an order for the collective sale of the Property, pursuant to s 84A(2A)(_a_).[^56] On 10 May 2018 and 11 May 2018, various defendants filed two sets of objections to the collective sale to the Board.[^57] The Board held two mediation sessions on 1 June 2018 and 19 June 2018. Thereafter, on 27 June 2018, the Board ordered a discontinuance of all proceedings before it in connection with the plaintiffs’ application pursuant to s 84A(6A) (_ie_, the Board issued a “section 84A stop order”).[^58] The plaintiffs then commenced OS 841/2018 on or about 10 July 2018, pursuant to s 84A(2A)(_b_), to apply to the High Court for an order for the collective sale of the Property. On 20 August 2018, the defendants filed their objections to the collective sale to the High Court.
 
 31     By way of a summary, a table for the chronology of the key events has been set out in the Annex to the grounds of my decision.
 
@@ -130,19 +131,19 @@ Land – Strata titles – Collective sales
 
 ### Parties’ arguments
 
-41     The defendants submitted that an objection to the collective sale filed to the High Court may include grounds of objection not initially stated in the objection filed to a Board. First, they argued that s 84A(4A) does not bar this.[\[note: 59\]](#Ftn_59) The provision expressly restricts the persons who may file objections to the High Court, by providing that any person “who filed an objection to the Board (_but no others_) may re-file his objection to the sale … to the High Court” \[emphasis added\]. The defendants submitted that the provision does not expressly restrict the grounds of objection that may be stated in the objection filed to the High Court, because the phrase “but no others” is used to qualify only the persons who may file objections to the High Court, but is not used to qualify the grounds of objection that may be raised before the High Court.
+41     The defendants submitted that an objection to the collective sale filed to the High Court may include grounds of objection not initially stated in the objection filed to a Board. First, they argued that s 84A(4A) does not bar this.[^59] The provision expressly restricts the persons who may file objections to the High Court, by providing that any person “who filed an objection to the Board (_but no others_) may re-file his objection to the sale … to the High Court” \[emphasis added\]. The defendants submitted that the provision does not expressly restrict the grounds of objection that may be stated in the objection filed to the High Court, because the phrase “but no others” is used to qualify only the persons who may file objections to the High Court, but is not used to qualify the grounds of objection that may be raised before the High Court.
 
-42     Second, the defendants submitted that, in any event, the High Court in _Ngui Gek Lian Philomene and others v Chan Kiat and others (HSR International Realtors Pte Ltd, intervener)_ (“_Thomson View Condominium (HC)_”) held that s 84A(4A) does not prevent an objector from raising a new ground of objection before the High Court if, through no fault of his, it became known to him only after he had filed an objection to the Board (at \[45\]).[\[note: 60\]](#Ftn_60)
+42     Second, the defendants submitted that, in any event, the High Court in _Ngui Gek Lian Philomene and others v Chan Kiat and others (HSR International Realtors Pte Ltd, intervener)_ (“_Thomson View Condominium (HC)_”) held that s 84A(4A) does not prevent an objector from raising a new ground of objection before the High Court if, through no fault of his, it became known to him only after he had filed an objection to the Board (at \[45\]).[^60]
 
-43     Third, the defendants raised the point that the LTSA is silent as to whether an objection filed to the Board may be amended after it has been filed.[\[note: 61\]](#Ftn_61) If the objection filed to the Board may not be amended and the objection filed to the High Court may not include additional grounds of objection which were not raised before the Board, an objector who was not legally represented when filing his objection to the Board might be disadvantaged.[\[note: 62\]](#Ftn_62) Counsel for the defendants nevertheless agreed that this argument carried less weight in this case where only two of the 13 defendants had not been legally represented in the proceedings before the Board.[\[note: 63\]](#Ftn_63)
+43     Third, the defendants raised the point that the LTSA is silent as to whether an objection filed to the Board may be amended after it has been filed.[^61] If the objection filed to the Board may not be amended and the objection filed to the High Court may not include additional grounds of objection which were not raised before the Board, an objector who was not legally represented when filing his objection to the Board might be disadvantaged.[^62] Counsel for the defendants nevertheless agreed that this argument carried less weight in this case where only two of the 13 defendants had not been legally represented in the proceedings before the Board.[^63]
 
-44     Fourth, the defendants argued that the court has to ultimately look at the collective sale transaction holistically with all the facts available to it and make the determination of good faith under s 84A(9).[\[note: 64\]](#Ftn_64) The defendants premised this argument on s 84A(10), which states:
+44     Fourth, the defendants argued that the court has to ultimately look at the collective sale transaction holistically with all the facts available to it and make the determination of good faith under s 84A(9).[^64] The defendants premised this argument on s 84A(10), which states:
 
 (10)  Where no objection has been filed under subsection (4) to a Board or under subsection (4A) to the High Court, the determination under subsection (9) shall be made by the High Court or the Board on the basis of the facts available to the High Court or Board, as the case may be.
 
-The defendants submitted that an objector who wished to state additional grounds of objection when filing his objection to the High Court could not be in a worse position than if no objection had been filed to the High Court.[\[note: 65\]](#Ftn_65) The defendants also argued that the plaintiffs’ objection to additional grounds being raised before the High Court was a technical one.[\[note: 66\]](#Ftn_66)
+The defendants submitted that an objector who wished to state additional grounds of objection when filing his objection to the High Court could not be in a worse position than if no objection had been filed to the High Court.[^65] The defendants also argued that the plaintiffs’ objection to additional grounds being raised before the High Court was a technical one.[^66]
 
-45     On the other hand, the plaintiffs submitted that s 84A(4A) expressly provides that an objector is only entitled to re-file his objection to the collective sale to the High Court, “stating the same grounds of objection” as those stated in his objection filed to the Board.[\[note: 67\]](#Ftn_67) The plaintiffs supported their submission with the decision of the High Court in _Choo Liang Haw (alias Choo Liang Hoa) and others v Chua Seet Mui and others and another matter_ (“_Gilstead Court (HC)_”) on which I will say more later. It seemed that, in the alternative, counsel for the plaintiffs accepted (in chambers) the decision in _Thomson View Condominium (HC)_ that an objector may raise a new ground of objection before the High Court only if, through no fault of his, it became known to him only after he had filed an objection to the Board.
+45     On the other hand, the plaintiffs submitted that s 84A(4A) expressly provides that an objector is only entitled to re-file his objection to the collective sale to the High Court, “stating the same grounds of objection” as those stated in his objection filed to the Board.[^67] The plaintiffs supported their submission with the decision of the High Court in _Choo Liang Haw (alias Choo Liang Hoa) and others v Chua Seet Mui and others and another matter_ (“_Gilstead Court (HC)_”) on which I will say more later. It seemed that, in the alternative, counsel for the plaintiffs accepted (in chambers) the decision in _Thomson View Condominium (HC)_ that an objector may raise a new ground of objection before the High Court only if, through no fault of his, it became known to him only after he had filed an objection to the Board.
 
 ### Decision
 
@@ -172,19 +173,19 @@ The defendants submitted that an objector who wished to state additional grounds
 
 ### Parties’ arguments
 
-57     The defendants argued that the present application before the court by all three plaintiffs was _ultra vires_ as all three were to act jointly in bringing the application but they could not have done so because the elections of Lim and Chan as members of the CSC were void.[\[note: 68\]](#Ftn_68) The defendants referred me to _Gilstead Court (CA)_ (\[47\] _supra_) which considered whether the originating summons in that case was _ultra vires_.[\[note: 69\]](#Ftn_69) The defendants acknowledged, however, that _Gilstead Court (CA)_ did not address a situation where the elections of some of the authorised representatives as members of the collective sale committee were void.[\[note: 70\]](#Ftn_70) The defendants also submitted that the CSC could have chosen other members of the CSC to be the authorised representatives instead of Lim and Chan, such that the defendants would not have been able to mount this _ultra vires_ argument.[\[note: 71\]](#Ftn_71)
+57     The defendants argued that the present application before the court by all three plaintiffs was _ultra vires_ as all three were to act jointly in bringing the application but they could not have done so because the elections of Lim and Chan as members of the CSC were void.[^68] The defendants referred me to _Gilstead Court (CA)_ (\[47\] _supra_) which considered whether the originating summons in that case was _ultra vires_.[^69] The defendants acknowledged, however, that _Gilstead Court (CA)_ did not address a situation where the elections of some of the authorised representatives as members of the collective sale committee were void.[^70] The defendants also submitted that the CSC could have chosen other members of the CSC to be the authorised representatives instead of Lim and Chan, such that the defendants would not have been able to mount this _ultra vires_ argument.[^71]
 
-58     The plaintiffs submitted that this ground of objection that the present application was _ultra vires_ had not been raised before the Board.[\[note: 72\]](#Ftn_72) The plaintiffs submitted that, in any event, even if the elections of Lim and Chan as members of the CSC were void, para 10 of the Third Schedule provides that the acts of the CSC done in good faith shall be as valid as if any defect in the appointment or any disqualification of a CSC member did not exist and the CSC were fully and properly constituted.[\[note: 73\]](#Ftn_73)
+58     The plaintiffs submitted that this ground of objection that the present application was _ultra vires_ had not been raised before the Board.[^72] The plaintiffs submitted that, in any event, even if the elections of Lim and Chan as members of the CSC were void, para 10 of the Third Schedule provides that the acts of the CSC done in good faith shall be as valid as if any defect in the appointment or any disqualification of a CSC member did not exist and the CSC were fully and properly constituted.[^73]
 
-59     The plaintiffs also argued that the defendants failed to dispute the jurisdiction of the High Court in these proceedings as stipulated under O 100 r 6 of the Rules of Court (Cap 322, R 5, 2014 Rev Ed).[\[note: 74\]](#Ftn_74) The plaintiffs further contended that pursuant to O 15 r 6, no cause or matter shall be defeated by reason of the misjoinder of any party.[\[note: 75\]](#Ftn_75)
+59     The plaintiffs also argued that the defendants failed to dispute the jurisdiction of the High Court in these proceedings as stipulated under O 100 r 6 of the Rules of Court (Cap 322, R 5, 2014 Rev Ed).[^74] The plaintiffs further contended that pursuant to O 15 r 6, no cause or matter shall be defeated by reason of the misjoinder of any party.[^75]
 
-60     In reply, the defendants submitted that O 100 r 6 was irrelevant because they were not disputing the jurisdiction of the High Court by reason of any irregularity in the originating summons or service thereof.[\[note: 76\]](#Ftn_76)
+60     In reply, the defendants submitted that O 100 r 6 was irrelevant because they were not disputing the jurisdiction of the High Court by reason of any irregularity in the originating summons or service thereof.[^76]
 
 ### Decision
 
-61     I took the plaintiffs’ position to be that the defendants had not raised before the Board the ground of objection that the collective sale application, whether made to the Board or to the High Court, was _ultra vires_. The defendants submitted that they could not have raised this ground of objection before the Board because the plaintiffs only answered on 7 August 2018 that Lim and Chan have associates who each owns another unit in the Property (see \[125\] below). This answer came after the defendants had filed their objections to the Board (and even after OS 841/2018 had commenced on or about 10 July 2018).[\[note: 77\]](#Ftn_77)
+61     I took the plaintiffs’ position to be that the defendants had not raised before the Board the ground of objection that the collective sale application, whether made to the Board or to the High Court, was _ultra vires_. The defendants submitted that they could not have raised this ground of objection before the Board because the plaintiffs only answered on 7 August 2018 that Lim and Chan have associates who each owns another unit in the Property (see \[125\] below). This answer came after the defendants had filed their objections to the Board (and even after OS 841/2018 had commenced on or about 10 July 2018).[^77]
 
-62     I noted that in one set of objections filed before the Board, there was no mention of conflict of interest.[\[note: 78\]](#Ftn_78) In another set, conflict of interest was raised but in a different context, _ie_, that “the members of the CSC did not declare their ownership details to the \[subsidiary proprietors\]”.[\[note: 79\]](#Ftn_79) This is different from saying that certain members of the CSC failed to disclose details of ownership by their associates. However, I also noted that in this set of objections, it was parenthetically suggested, without further explanation, that paras 2(1)(_c_) and 2(1)(_g_) of the Third Schedule were breached. These paragraphs are set out at \[64\] below.
+62     I noted that in one set of objections filed before the Board, there was no mention of conflict of interest.[^78] In another set, conflict of interest was raised but in a different context, _ie_, that “the members of the CSC did not declare their ownership details to the \[subsidiary proprietors\]”.[^79] This is different from saying that certain members of the CSC failed to disclose details of ownership by their associates. However, I also noted that in this set of objections, it was parenthetically suggested, without further explanation, that paras 2(1)(_c_) and 2(1)(_g_) of the Third Schedule were breached. These paragraphs are set out at \[64\] below.
 
 63     In any event, since the information about ownership of units by associates was not disclosed to the defendants before they raised objections before the Board, I was of the view that the defendants were not precluded from raising such ownership as giving rise to conflicts of interest in their objections to the High Court.
 
@@ -238,23 +239,23 @@ be as valid as if the vacancy, defect or disqualification did not exist and the 
 
 ### Parties’ arguments
 
-73     As regards the second main issue, the defendants submitted that there was a flagrant breach of paras 7(1)(_b_) and 7(1)(_c_) of the Third Schedule because the approvals of the apportionment of sale proceeds and of the terms and conditions of the CSA were not given at a general meeting of the management corporation, in this case, the EGM on 9 September 2017. The defendants argued, in the course of oral submissions, that this was such a flagrant breach that the collective sale process and the CSA were invalidated.[\[note: 80\]](#Ftn_80)
+73     As regards the second main issue, the defendants submitted that there was a flagrant breach of paras 7(1)(_b_) and 7(1)(_c_) of the Third Schedule because the approvals of the apportionment of sale proceeds and of the terms and conditions of the CSA were not given at a general meeting of the management corporation, in this case, the EGM on 9 September 2017. The defendants argued, in the course of oral submissions, that this was such a flagrant breach that the collective sale process and the CSA were invalidated.[^80]
 
-74     The plaintiffs submitted that no objection had been raised before the Board and the High Court about the apportionment method.[\[note: 81\]](#Ftn_81)
+74     The plaintiffs submitted that no objection had been raised before the Board and the High Court about the apportionment method.[^81]
 
-75     Initially, the plaintiffs also did not admit that there was a breach of the relevant provisions. The plaintiffs argued that there was overwhelming support of the apportionment of sale proceeds and of the terms and conditions of the CSA by the subsidiary proprietors who attended the EGM.[\[note: 82\]](#Ftn_82) The plaintiffs submitted that it was sufficient if more than 50% of the subsidiary proprietors who attended the EGM signed the CSA that day, after the EGM was concluded.[\[note: 83\]](#Ftn_83)
+75     Initially, the plaintiffs also did not admit that there was a breach of the relevant provisions. The plaintiffs argued that there was overwhelming support of the apportionment of sale proceeds and of the terms and conditions of the CSA by the subsidiary proprietors who attended the EGM.[^82] The plaintiffs submitted that it was sufficient if more than 50% of the subsidiary proprietors who attended the EGM signed the CSA that day, after the EGM was concluded.[^83]
 
-76     The plaintiffs also contended that, in any event, considering s 84A(7C), the High Court should not invalidate the application for an order for the collective sale by reason only of non-compliance with paras 7(1)(_b_) and 7(1)(_c_) of the Third Schedule if such non-compliance did not prejudice the interest of any person.[\[note: 84\]](#Ftn_84) The plaintiffs argued that the test was ultimately whether the sale price was appropriate in the circumstances.[\[note: 85\]](#Ftn_85)
+76     The plaintiffs also contended that, in any event, considering s 84A(7C), the High Court should not invalidate the application for an order for the collective sale by reason only of non-compliance with paras 7(1)(_b_) and 7(1)(_c_) of the Third Schedule if such non-compliance did not prejudice the interest of any person.[^84] The plaintiffs argued that the test was ultimately whether the sale price was appropriate in the circumstances.[^85]
 
 ### Decision
 
-77     The objection that non-compliance with para 7(1) of the Third Schedule had invalidated the CSA had been raised before the Board, where the defendants stated, _inter alia_:[\[note: 86\]](#Ftn_86)
+77     The objection that non-compliance with para 7(1) of the Third Schedule had invalidated the CSA had been raised before the Board, where the defendants stated, _inter alia_:[^86]
 
 There was no opportunity for \[the subsidiary proprietors\] to vote on important matters regarding the apportionment of sale proceeds and the terms and conditions of the CSA … There was therefore a breach of paragraph 7(1) of the Third Schedule to the LTSA. The CSA is thus consequently void.
 
-78     However, it appeared that the defendants did not specifically mention this non-compliance with para 7(1) as a discrete ground to invalidate the CSA in their objections filed to the High Court by affidavit pursuant to O 100 r 5(1) of the Rules of Court.[\[note: 87\]](#Ftn_87) The defendants instead mentioned in their objections filed to the High Court that such non-compliance was a factor which assisted them to show that the collective sale transaction was not in good faith.[\[note: 88\]](#Ftn_88)
+78     However, it appeared that the defendants did not specifically mention this non-compliance with para 7(1) as a discrete ground to invalidate the CSA in their objections filed to the High Court by affidavit pursuant to O 100 r 5(1) of the Rules of Court.[^87] The defendants instead mentioned in their objections filed to the High Court that such non-compliance was a factor which assisted them to show that the collective sale transaction was not in good faith.[^88]
 
-79     The same seemed to be the case with respect to the defendants’ written submissions to the court, _ie_, the defendants did not specifically mention that non-compliance with para 7(1) invalidated the CSA but instead mentioned that such non-compliance was a factor to show that the transaction was not in good faith.[\[note: 89\]](#Ftn_89) It was only during the hearing before the court that the defendants orally submitted that non-compliance with para 7(1) invalidated the CSA.[\[note: 90\]](#Ftn_90)
+79     The same seemed to be the case with respect to the defendants’ written submissions to the court, _ie_, the defendants did not specifically mention that non-compliance with para 7(1) invalidated the CSA but instead mentioned that such non-compliance was a factor to show that the transaction was not in good faith.[^89] It was only during the hearing before the court that the defendants orally submitted that non-compliance with para 7(1) invalidated the CSA.[^90]
 
 80     The defendants should have specifically mentioned in their objections filed to the High Court, and thereafter in their written submissions, the non-compliance with para 7(1) as a discrete ground to invalidate the CSA. As they had not, then strictly speaking, they were precluded from raising it as a discrete ground. However, for completeness, I will address it as if it had been raised as a discrete ground.
 
@@ -290,9 +291,9 @@ There was no opportunity for \[the subsidiary proprietors\] to vote on important
 
 This provision does not mention the High Court.
 
-89     The plaintiffs relied on s 84A(7C) to submit that not every non-compliance with any requirement in the First, Second or Third Schedule is fatal to an application to a Board or to the High Court. The plaintiffs submitted that although the High Court is not mentioned in s 84A(7C), this was an inadvertent omission.[\[note: 91\]](#Ftn_91) They argued that the High Court in _Gilstead Court (HC)_ (\[45\] _supra_) did not say that the power to invalidate an application under s 84A(7C) belonged only to the Board.[\[note: 92\]](#Ftn_92) Also, there seemed to be no argument by the parties in _Gilstead Court (HC)_ on this point,[\[note: 93\]](#Ftn_93) and the Court of Appeal in _Gilstead Court (CA)_ (\[47\] _supra_) did not discuss s 84A(7C). The plaintiffs submitted that it could not be that the High Court has a lesser power than the Board.[\[note: 94\]](#Ftn_94) This was reinforced by the fact that if there is any objection filed to the Board, it is the High Court, and not the Board, which eventually decides whether to approve the collective sale application when that subsequent application is made to the High Court after the Board issues a “section 84A stop order” (see s 84A(2A) set out at \[91\] below).
+89     The plaintiffs relied on s 84A(7C) to submit that not every non-compliance with any requirement in the First, Second or Third Schedule is fatal to an application to a Board or to the High Court. The plaintiffs submitted that although the High Court is not mentioned in s 84A(7C), this was an inadvertent omission.[^91] They argued that the High Court in _Gilstead Court (HC)_ (\[45\] _supra_) did not say that the power to invalidate an application under s 84A(7C) belonged only to the Board.[^92] Also, there seemed to be no argument by the parties in _Gilstead Court (HC)_ on this point,[^93] and the Court of Appeal in _Gilstead Court (CA)_ (\[47\] _supra_) did not discuss s 84A(7C). The plaintiffs submitted that it could not be that the High Court has a lesser power than the Board.[^94] This was reinforced by the fact that if there is any objection filed to the Board, it is the High Court, and not the Board, which eventually decides whether to approve the collective sale application when that subsequent application is made to the High Court after the Board issues a “section 84A stop order” (see s 84A(2A) set out at \[91\] below).
 
-90     On the other hand, the defendants submitted that the omission to mention the High Court in s 84A(7C) was deliberate. Therefore, s 84A(7C) does not apply to an application made to the High Court.[\[note: 95\]](#Ftn_95)
+90     On the other hand, the defendants submitted that the omission to mention the High Court in s 84A(7C) was deliberate. Therefore, s 84A(7C) does not apply to an application made to the High Court.[^95]
 
 91     I set out two other provisions of the LTSA, ss 84A(2A) and 84A(3):
 
@@ -348,7 +349,7 @@ The court has to approve the application unless the circumstances set out in ss�
 
 (C)    the relationship of the purchaser to any of the subsidiary proprietors; …
 
-99     The meaning of “good faith” under s 84A(9)(_a_)(i) has been considered on various occasions by the Court of Appeal, and recently in _Shunfu Ville (CA)_ (\[95\] _supra_). In its decision in _Shunfu Ville (CA)_, the Court of Appeal generally affirmed, once again, its judgment in _Ng Eng Ghee and others v Mamata Kapildev Dave and others (Horizon Partners Pte Ltd, intervener) and another appeal_ (“_Horizon Towers (CA)_”). These two cases should be the starting point for the test of good faith and not the High Court case of _Tsai Jean v Har Mee Lee and others_ (“_Cairnhill Heights (HC)_”) which the plaintiffs relied on.[\[note: 96\]](#Ftn_96)
+99     The meaning of “good faith” under s 84A(9)(_a_)(i) has been considered on various occasions by the Court of Appeal, and recently in _Shunfu Ville (CA)_ (\[95\] _supra_). In its decision in _Shunfu Ville (CA)_, the Court of Appeal generally affirmed, once again, its judgment in _Ng Eng Ghee and others v Mamata Kapildev Dave and others (Horizon Partners Pte Ltd, intervener) and another appeal_ (“_Horizon Towers (CA)_”). These two cases should be the starting point for the test of good faith and not the High Court case of _Tsai Jean v Har Mee Lee and others_ (“_Cairnhill Heights (HC)_”) which the plaintiffs relied on.[^96]
 
 100    In _Horizon Towers (CA)_, the Court of Appeal stated at \[133\]:
 
@@ -386,9 +387,9 @@ In our view, the term “good faith” under s 84A(9)(_a_)(i) must be read in t
 
 107    A preliminary issue was, which party had the burden of proof in respect of good faith under s 84A(9)(_a_)(i)? As set out at \[98\] above, s 84A(9)(_a_)(i) states that, “The High Court … shall not approve an application made under subsection (1) if the High Court … is satisfied that the transaction is not in good faith …”
 
-108    The plaintiffs said that based on the statutory language of s 84A(9)(_a_)(i),[\[note: 97\]](#Ftn_97) the burden of proof was on the defendants to prove the absence of good faith. The plaintiffs relied on the decision of the High Court in _Woo Hon Wai and others v Ramachandran Jayakumar and others_ (“_Shunfu Ville (HC)_”). There, the High Court said, at \[55\], that he who asserts must prove and also referred to the language in s 84A(9)(_a_)(i) to conclude that the burden lay on the objectors there to establish the absence of good faith. It seems, as the defendants submitted,[\[note: 98\]](#Ftn_98) that there was no argument by the parties in _Shunfu Ville (HC)_ on the issue of burden of proof. On appeal, the Court of Appeal in _Shunfu Ville (CA)_ did not specifically deal with the issue of burden of proof in respect of good faith.
+108    The plaintiffs said that based on the statutory language of s 84A(9)(_a_)(i),[^97] the burden of proof was on the defendants to prove the absence of good faith. The plaintiffs relied on the decision of the High Court in _Woo Hon Wai and others v Ramachandran Jayakumar and others_ (“_Shunfu Ville (HC)_”). There, the High Court said, at \[55\], that he who asserts must prove and also referred to the language in s 84A(9)(_a_)(i) to conclude that the burden lay on the objectors there to establish the absence of good faith. It seems, as the defendants submitted,[^98] that there was no argument by the parties in _Shunfu Ville (HC)_ on the issue of burden of proof. On appeal, the Court of Appeal in _Shunfu Ville (CA)_ did not specifically deal with the issue of burden of proof in respect of good faith.
 
-109    The plaintiffs also submitted that the High Court in _Cairnhill Heights (HC)_ (\[99\] _supra_) seemed to suggest that the objectors to a collective sale have the burden of proving the absence of good faith, with the words “the threshold for objectors to cross” (at \[21\]).[\[note: 99\]](#Ftn_99) The High Court in _Cairnhill Heights (HC)_ was otherwise silent on this issue of burden of proof. I add that _Cairnhill Heights (HC)_ was decided before the decision of the Court of Appeal in _Horizon Towers (CA)_.
+109    The plaintiffs also submitted that the High Court in _Cairnhill Heights (HC)_ (\[99\] _supra_) seemed to suggest that the objectors to a collective sale have the burden of proving the absence of good faith, with the words “the threshold for objectors to cross” (at \[21\]).[^99] The High Court in _Cairnhill Heights (HC)_ was otherwise silent on this issue of burden of proof. I add that _Cairnhill Heights (HC)_ was decided before the decision of the Court of Appeal in _Horizon Towers (CA)_.
 
 110    On the other hand, the defendants said that the burden of proof was on the plaintiffs to prove that the transaction was in good faith. The defendants relied on the decision of the Court of Appeal in _Horizon Towers (CA)_ where the Court of Appeal was of the view at \[200\] that the Board had wrongly placed the burden of proof on the objectors. The Court of Appeal said that once _prima facie_ evidence of bad faith is produced by the objectors, the applicants have the task of disproving such bad faith and establishing that the transaction is in good faith.
 
@@ -424,31 +425,31 @@ _Illustrations_
 
 ### Sub-issues
 
-120    I come now to the factors which the defendants raised to allege bad faith, _ie_, that the transaction in respect of the collective sale to the purchaser was not in good faith. I will refer to them as sub-issues. However, one should also bear in mind that the defendants did not allege that there was bad faith on the part of any individual person or entity specifically, whether in the CSC, Knight Frank or R&T.[\[note: 100\]](#Ftn_100)
+120    I come now to the factors which the defendants raised to allege bad faith, _ie_, that the transaction in respect of the collective sale to the purchaser was not in good faith. I will refer to them as sub-issues. However, one should also bear in mind that the defendants did not allege that there was bad faith on the part of any individual person or entity specifically, whether in the CSC, Knight Frank or R&T.[^100]
 
 #### Conflict of interest
 
 ##### (1)   Parties’ arguments
 
-121    The first sub-issue was the question about conflict of interest, _ie_, whether Lim and Chan had actual or potential conflicts of interest which were not disclosed. This was one of the main factors which the defendants raised to allege bad faith. As mentioned already, it was not in dispute that Lim and Chan have associates who each owns another unit in the Property. Specifically, Lim’s brother and Chan’s brother and mother each owns another unit,[\[note: 101\]](#Ftn_101) and the units they own are of the same type as those Lim and Chan own respectively.[\[note: 102\]](#Ftn_102) It was also not in dispute that before Lim and Chan were elected as members of the CSC, they did not declare any conflict of interest. Indeed, their position was that there was no actual or potential conflict.
+121    The first sub-issue was the question about conflict of interest, _ie_, whether Lim and Chan had actual or potential conflicts of interest which were not disclosed. This was one of the main factors which the defendants raised to allege bad faith. As mentioned already, it was not in dispute that Lim and Chan have associates who each owns another unit in the Property. Specifically, Lim’s brother and Chan’s brother and mother each owns another unit,[^101] and the units they own are of the same type as those Lim and Chan own respectively.[^102] It was also not in dispute that before Lim and Chan were elected as members of the CSC, they did not declare any conflict of interest. Indeed, their position was that there was no actual or potential conflict.
 
-122    First, it was unclear whether the defendants were suggesting that both Lim and Chan had actual or potential conflicts of interest, or only actual conflicts of interest. The objections filed to the High Court on 20 August 2018 seemed to generally allege that Lim and Chan had conflicts of interest.[\[note: 103\]](#Ftn_103) I add that while the defendants’ written submissions to the court dated 10 September 2018 appeared to suggest that both Lim and Chan had actual conflicts of interest,[\[note: 104\]](#Ftn_104) the earlier correspondence from the defendants’ lawyers to the plaintiffs’ lawyers dated 14 June 2018 suggested that both Lim and Chan had actual or potential conflicts of interest.[\[note: 105\]](#Ftn_105) Taking the defendants’ case at its highest, I proceeded on the basis that they were suggesting that both Lim and Chan had actual or potential conflicts of interest.
+122    First, it was unclear whether the defendants were suggesting that both Lim and Chan had actual or potential conflicts of interest, or only actual conflicts of interest. The objections filed to the High Court on 20 August 2018 seemed to generally allege that Lim and Chan had conflicts of interest.[^103] I add that while the defendants’ written submissions to the court dated 10 September 2018 appeared to suggest that both Lim and Chan had actual conflicts of interest,[^104] the earlier correspondence from the defendants’ lawyers to the plaintiffs’ lawyers dated 14 June 2018 suggested that both Lim and Chan had actual or potential conflicts of interest.[^105] Taking the defendants’ case at its highest, I proceeded on the basis that they were suggesting that both Lim and Chan had actual or potential conflicts of interest.
 
-123    The defendants contended that it was a reasonable inference that with associates who own the same type of units, Lim and Chan had extra interest and felt additional urgency to push through with the collective sale as quickly as possible even if the sale price was not necessarily the appropriate price that could be obtained.[\[note: 106\]](#Ftn_106) The defendants also submitted that in view of the fact that the associates of Lim and Chan own the same type of unit as them, this resulted in what would appear to be an overrepresentation of that type of unit on the CSC.[\[note: 107\]](#Ftn_107) The defendants argued that this point should also have been disclosed to the subsidiary proprietors before they were asked to vote Lim and Chan into the CSC.
+123    The defendants contended that it was a reasonable inference that with associates who own the same type of units, Lim and Chan had extra interest and felt additional urgency to push through with the collective sale as quickly as possible even if the sale price was not necessarily the appropriate price that could be obtained.[^106] The defendants also submitted that in view of the fact that the associates of Lim and Chan own the same type of unit as them, this resulted in what would appear to be an overrepresentation of that type of unit on the CSC.[^107] The defendants argued that this point should also have been disclosed to the subsidiary proprietors before they were asked to vote Lim and Chan into the CSC.
 
-124    Second, the defendants submitted that Lim and Chan did not declare their alleged conflicts of interest on multiple occasions, such as: (i) before Lim and Chan were elected into the CSC on 1 July 2017;[\[note: 108\]](#Ftn_108) (ii) when Lim and Chan signed the conflict of interest declaration forms on 5 September 2017 to indicate there was no conflict;[\[note: 109\]](#Ftn_109) and (iii) at the EGM on 9 September 2017.[\[note: 110\]](#Ftn_110) The defendants argued that Lim and Chan were trying to hide the fact of ownership by their associates because when questions were asked about such ownership at the EGM on 9 September 2017, they declined to answer frankly.
+124    Second, the defendants submitted that Lim and Chan did not declare their alleged conflicts of interest on multiple occasions, such as: (i) before Lim and Chan were elected into the CSC on 1 July 2017;[^108] (ii) when Lim and Chan signed the conflict of interest declaration forms on 5 September 2017 to indicate there was no conflict;[^109] and (iii) at the EGM on 9 September 2017.[^110] The defendants argued that Lim and Chan were trying to hide the fact of ownership by their associates because when questions were asked about such ownership at the EGM on 9 September 2017, they declined to answer frankly.
 
-125    Furthermore, the defendants submitted that subsequently, when their lawyers wrote to the plaintiffs’ lawyers to pursue this question after objections had been filed to the Board, the plaintiffs’ lawyers avoided giving an answer. The defendants’ lawyers had sent the plaintiffs’ lawyers a letter dated 14 June 2018, asking whether the CSC members had failed to declare their actual or potential conflicts of interest, and specifically to confirm whether Lim and Chan have associates who own or possess the units as specified in the letter.[\[note: 111\]](#Ftn_111) The plaintiffs’ lawyers did not respond to this letter. The defendants’ lawyers then sent the plaintiffs’ lawyers a letter dated 12 July 2018 informing them that they had yet to respond to the earlier letter dated 14 June 2018, and also requesting for certain documents.[\[note: 112\]](#Ftn_112) However, when the plaintiffs’ lawyers sent the defendants’ lawyers a letter dated 19 July 2018, the plaintiffs’ lawyers addressed the request for documents but did not respond on the issue of conflict of interest or whether Lim and Chan have associates who own or possess the specified units.[\[note: 113\]](#Ftn_113) The defendants submitted that it was only when their lawyers sent a more formal request by way of interrogatories to the plaintiffs on 2 August 2018 that they gave the answer on 7 August 2018 that Lim and Chan have associates who each owns another unit.[\[note: 114\]](#Ftn_114)
+125    Furthermore, the defendants submitted that subsequently, when their lawyers wrote to the plaintiffs’ lawyers to pursue this question after objections had been filed to the Board, the plaintiffs’ lawyers avoided giving an answer. The defendants’ lawyers had sent the plaintiffs’ lawyers a letter dated 14 June 2018, asking whether the CSC members had failed to declare their actual or potential conflicts of interest, and specifically to confirm whether Lim and Chan have associates who own or possess the units as specified in the letter.[^111] The plaintiffs’ lawyers did not respond to this letter. The defendants’ lawyers then sent the plaintiffs’ lawyers a letter dated 12 July 2018 informing them that they had yet to respond to the earlier letter dated 14 June 2018, and also requesting for certain documents.[^112] However, when the plaintiffs’ lawyers sent the defendants’ lawyers a letter dated 19 July 2018, the plaintiffs’ lawyers addressed the request for documents but did not respond on the issue of conflict of interest or whether Lim and Chan have associates who own or possess the specified units.[^113] The defendants submitted that it was only when their lawyers sent a more formal request by way of interrogatories to the plaintiffs on 2 August 2018 that they gave the answer on 7 August 2018 that Lim and Chan have associates who each owns another unit.[^114]
 
-126    Third, the defendants further submitted that Lim and Chan were key members of the CSC and the key movers of the collective sale, and that they had in fact pushed for a quick sale.[\[note: 115\]](#Ftn_115) The defendants argued that Lim and Chan breached their duty of fidelity and that it was not possible to conclude that the CSC’s decision to sell the Property so hastily was not infected by the conflicts of interest of Lim and Chan.
+126    Third, the defendants further submitted that Lim and Chan were key members of the CSC and the key movers of the collective sale, and that they had in fact pushed for a quick sale.[^115] The defendants argued that Lim and Chan breached their duty of fidelity and that it was not possible to conclude that the CSC’s decision to sell the Property so hastily was not infected by the conflicts of interest of Lim and Chan.
 
-127    On the other hand, the plaintiffs submitted that the mere fact that a CSC member has an associate who owns another unit did not in and of itself give rise to any actual or potential conflict of interest.[\[note: 116\]](#Ftn_116) The plaintiffs submitted, in their skeletal submissions, that the CSC members were only required to declare any conflict of interest that they were aware of and which arose from the relationship of the CSC members and their associates with the purchaser under the proposed collective sale.[\[note: 117\]](#Ftn_117) Since there was no such relationship with the purchaser, the plaintiffs argued that there was no actual or potential conflict of interest to be declared. At the hearing, the plaintiffs added that a CSC member also had to be “aware” of the actual or potential conflict of interest before he was required to declare it, _ie_, this was a subjective inquiry.[\[note: 118\]](#Ftn_118)
+127    On the other hand, the plaintiffs submitted that the mere fact that a CSC member has an associate who owns another unit did not in and of itself give rise to any actual or potential conflict of interest.[^116] The plaintiffs submitted, in their skeletal submissions, that the CSC members were only required to declare any conflict of interest that they were aware of and which arose from the relationship of the CSC members and their associates with the purchaser under the proposed collective sale.[^117] Since there was no such relationship with the purchaser, the plaintiffs argued that there was no actual or potential conflict of interest to be declared. At the hearing, the plaintiffs added that a CSC member also had to be “aware” of the actual or potential conflict of interest before he was required to declare it, _ie_, this was a subjective inquiry.[^118]
 
-128    The plaintiffs also submitted that the defendants’ complaint regarding the composition of the CSC had not been raised before the Board.[\[note: 119\]](#Ftn_119) The plaintiffs argued that this ground of objection was, in any event, a red herring because the LTSA does not prescribe or limit the composition of the CSC, and there was no need for the CSC members to declare their ownership details. The plaintiffs added that the defendants were not challenging the method of distributing the proceeds of sale.
+128    The plaintiffs also submitted that the defendants’ complaint regarding the composition of the CSC had not been raised before the Board.[^119] The plaintiffs argued that this ground of objection was, in any event, a red herring because the LTSA does not prescribe or limit the composition of the CSC, and there was no need for the CSC members to declare their ownership details. The plaintiffs added that the defendants were not challenging the method of distributing the proceeds of sale.
 
-129    Second, the plaintiffs submitted that the CSC members had before their elections orally declared at the EGM on 1 July 2017 that they did not have any conflict of interest.[\[note: 120\]](#Ftn_120) (The defendants seemed to take the position that nothing was said orally to the subsidiary proprietors to deny any conflict of interest.[\[note: 121\]](#Ftn_121)) As for the EGM on 9 September 2017, the plaintiffs submitted that the CSC had been advised by R&T and the CSC members did not declare any conflict of interest because they were of the view that they had none.[\[note: 122\]](#Ftn_122)
+129    Second, the plaintiffs submitted that the CSC members had before their elections orally declared at the EGM on 1 July 2017 that they did not have any conflict of interest.[^120] (The defendants seemed to take the position that nothing was said orally to the subsidiary proprietors to deny any conflict of interest.[^121]) As for the EGM on 9 September 2017, the plaintiffs submitted that the CSC had been advised by R&T and the CSC members did not declare any conflict of interest because they were of the view that they had none.[^122]
 
-130    The plaintiffs explained orally, at the hearing before this court, that it was the oversight of their lawyers in omitting to respond to the written requests by the defendants’ lawyers for the information as to whether Lim and Chan have associates who each owns another unit.[\[note: 123\]](#Ftn_123) The plaintiffs explained that the letter dated 14 June 2018 from the defendants’ lawyers had been addressed to R&T’s conveyancing lawyers and while the litigation lawyers should have responded to it, they had omitted to do so.[\[note: 124\]](#Ftn_124) As for the letter dated 12 July 2018 from the defendants’ lawyers, the plaintiffs’ lawyers informed the court that they had omitted to respond on the issue of conflict of interest in their reply dated 19 July 2018, because the matter was then transitioning from R&T’s conveyancing lawyers to the litigation lawyers, and the litigation team was at the material time focused on drafting OS 841/2018.[\[note: 125\]](#Ftn_125) The plaintiffs’ lawyers explained that the application to the High Court, _ie_, OS 841/2018, had to be made within 14 days after the section 84A stop order was issued on 27 June 2018 (pursuant to s 84A(2B)). The plaintiffs’ lawyers stated that there was no intention not to disclose the fact of ownership by the associates of Lim and Chan.[\[note: 126\]](#Ftn_126) When the interrogatories were served on the plaintiffs, they answered promptly without challenging the need for the interrogatories.
+130    The plaintiffs explained orally, at the hearing before this court, that it was the oversight of their lawyers in omitting to respond to the written requests by the defendants’ lawyers for the information as to whether Lim and Chan have associates who each owns another unit.[^123] The plaintiffs explained that the letter dated 14 June 2018 from the defendants’ lawyers had been addressed to R&T’s conveyancing lawyers and while the litigation lawyers should have responded to it, they had omitted to do so.[^124] As for the letter dated 12 July 2018 from the defendants’ lawyers, the plaintiffs’ lawyers informed the court that they had omitted to respond on the issue of conflict of interest in their reply dated 19 July 2018, because the matter was then transitioning from R&T’s conveyancing lawyers to the litigation lawyers, and the litigation team was at the material time focused on drafting OS 841/2018.[^125] The plaintiffs’ lawyers explained that the application to the High Court, _ie_, OS 841/2018, had to be made within 14 days after the section 84A stop order was issued on 27 June 2018 (pursuant to s 84A(2B)). The plaintiffs’ lawyers stated that there was no intention not to disclose the fact of ownership by the associates of Lim and Chan.[^126] When the interrogatories were served on the plaintiffs, they answered promptly without challenging the need for the interrogatories.
 
 ##### (2)   Decision
 
@@ -518,7 +519,7 @@ he must, within the relevant period, declare in writing to the chairperson of th
 
 Hereafter, it is proposed that candidates will also be required to declare the extent of ownership they have in the strata development. In addition, they will have to declare any ownership interests held by connected persons related to them. Such connected persons will include immediate family members as well as companies in which the candidate and/or his family collectively hold more than 5% voting power. The aim of this additional disclosure requirement is to enhance the transparency of the sales committee election process and help other owners make a more informed decision on whom they should elect to their sale committee.
 
-142    The defendants referred to the Minister’s explanation for their submission that declaration of the fact that an associate owns another unit must be made. Because the Minister did not discuss the “awareness” element (see \[139\] above), the defendants also contended that there was no scope for the argument that declaration is only required when a candidate believes he has any actual or potential conflict of interest.[\[note: 127\]](#Ftn_127)
+142    The defendants referred to the Minister’s explanation for their submission that declaration of the fact that an associate owns another unit must be made. Because the Minister did not discuss the “awareness” element (see \[139\] above), the defendants also contended that there was no scope for the argument that declaration is only required when a candidate believes he has any actual or potential conflict of interest.[^127]
 
 143    It seemed to me that it was arguable that the Minister’s explanation went even further than the defendants’ submissions if considered at face value only. The Minister’s explanation suggested that a candidate was to declare the extent of his ownership in the strata development even if he owned only one unit. The first part of the Minister’s explanation did not say that a candidate was to declare the extent of his ownership only if he owned more than one unit. “In addition”, a candidate was to declare the extent of ownership of “connected persons” related to him, _ie_, “associates”.
 
@@ -600,9 +601,9 @@ Two members of the sale committee in that case, one of whom was the chairman, _h
 
 170    That said, I agreed that the matter should have been better handled by Lim, Chan and R&T, the lawyers for the CSC who also acted for the plaintiffs.
 
-171    I asked the plaintiffs at the hearing as to why the CSC and R&T took the risk of choosing not to disclose the ownership by the associates of Lim and Chan when specifically questioned on this matter at the EGM on 9 September 2017.[\[note: 128\]](#Ftn_128)
+171    I asked the plaintiffs at the hearing as to why the CSC and R&T took the risk of choosing not to disclose the ownership by the associates of Lim and Chan when specifically questioned on this matter at the EGM on 9 September 2017.[^128]
 
-172    From the minutes of that EGM,[\[note: 129\]](#Ftn_129) it was recorded that two subsidiary proprietors had asked what “conflict of interest” meant when the Third Schedule required the CSC to declare conflicts of interest. One of them mentioned that the conflict of interest declaration should be pasted at prominent spots of the Property. A third subsidiary proprietor specifically asked whether the CSC members have associates who own other units. Of these three subsidiary proprietors, only one of them is a defendant in the present application.[\[note: 130\]](#Ftn_130) These queries were dealt with in the following manner as recorded in the minutes:[\[note: 131\]](#Ftn_131)
+172    From the minutes of that EGM,[^129] it was recorded that two subsidiary proprietors had asked what “conflict of interest” meant when the Third Schedule required the CSC to declare conflicts of interest. One of them mentioned that the conflict of interest declaration should be pasted at prominent spots of the Property. A third subsidiary proprietor specifically asked whether the CSC members have associates who own other units. Of these three subsidiary proprietors, only one of them is a defendant in the present application.[^130] These queries were dealt with in the following manner as recorded in the minutes:[^131]
 
 Managing Agent mentioned the last EOGM \[_ie_, the EGM on 1 July 2017\] was voice-recorded with the CSC elected declaring that they do not have any conflict of interests.
 
@@ -612,11 +613,11 @@ CSC mentioned that the procedures will be adhered by the CSC, \[Knight Frank\] a
 
 \[R&T\] advised that the member of the CSC must declare his conflict of interest as provided in Paragraph 2 of the Third Schedule of the Land Titles (Strata) Act. The declaration will be pasted on the notice board within 7 days if he is aware of the conflict of interest or potential conflict of interest as member of the CSC. This is under the Land Titles Strata Act Schedule 3 Paragraph 2(4), and paragraph 3 is a continual declaration.
 
-173    Neither the CSC nor R&T answered the question whether the CSC members have associates who own other units. The transcript provided of the audio recording of that EGM showed that this was in spite of the abovementioned three subsidiary proprietors’ persistence in asking about the disclosure of conflicts of interest, to the point that one of them requested specifically that the minutes record the discussion of this issue.[\[note: 132\]](#Ftn_132)
+173    Neither the CSC nor R&T answered the question whether the CSC members have associates who own other units. The transcript provided of the audio recording of that EGM showed that this was in spite of the abovementioned three subsidiary proprietors’ persistence in asking about the disclosure of conflicts of interest, to the point that one of them requested specifically that the minutes record the discussion of this issue.[^132]
 
 174    Even though R&T had advised that there was no conflict, R&T should also have advised Lim and Chan to disclose the ownership by their associates to avoid unnecessary suspicion. Furthermore, this would have been the prudent step in case R&T’s advice that there was no conflict was wrong.
 
-175    I add also that Chan was recorded as saying:[\[note: 133\]](#Ftn_133)
+175    I add also that Chan was recorded as saying:[^133]
 
 … We are not here, as volunteers, as ah… supporting the interests of the majority hopefully, to actually mess up along the way. … Nobody is interested in making ensuring ah.., ah.., to allow ourselves to be screwed by some _technical_ ah.., proceedings. \[emphasis added\]
 
@@ -636,37 +637,37 @@ CSC mentioned that the procedures will be adhered by the CSC, \[Knight Frank\] a
 
 181    To recapitulate, this omission was a breach of paras 7(1)(_b_) and 7(1)(_c_) of the Third Schedule.
 
-182    The defendants alleged that Lim had made it clear to the subsidiary proprietors before the EGM that there would be no voting or variations at the EGM in respect of these aspects of the CSA.[\[note: 134\]](#Ftn_134) The defendants argued that the CSC also misrepresented to the subsidiary proprietors that they could not vote on these aspects of the CSA, thus severely prejudicing the rights of the minority owners to vote on them.[\[note: 135\]](#Ftn_135) Further, the defendants submitted that the EGM was attended by subsidiary proprietors of lots with 335 share values out of the total of 783 share values (_ie_, 42.8%, a minority by share value).[\[note: 136\]](#Ftn_136)
+182    The defendants alleged that Lim had made it clear to the subsidiary proprietors before the EGM that there would be no voting or variations at the EGM in respect of these aspects of the CSA.[^134] The defendants argued that the CSC also misrepresented to the subsidiary proprietors that they could not vote on these aspects of the CSA, thus severely prejudicing the rights of the minority owners to vote on them.[^135] Further, the defendants submitted that the EGM was attended by subsidiary proprietors of lots with 335 share values out of the total of 783 share values (_ie_, 42.8%, a minority by share value).[^136]
 
-183    The plaintiffs submitted that on or around 18 August 2017, the CSC had circulated the CSA to the subsidiary proprietors ahead of the EGM.[\[note: 137\]](#Ftn_137) The plaintiffs submitted that the apportionment of sale proceeds and the terms and conditions of the CSA were then explained at the EGM. As mentioned at \[75\] above, the plaintiffs did not initially admit that there was a breach of paras 7(1)(_b_) and 7(1)(_c_) of the Third Schedule, and had instead stressed that it was sufficient if more than 50% of the subsidiary proprietors who attended the EGM signed the CSA that day, after the EGM was concluded. According to the plaintiffs, the EGM was attended by subsidiary proprietors of the lots with 507 share values who collectively own 135 units, and those with 296 share values (58.4%) who collectively own 76 units (56.3%) signed the CSA that day, after the EGM was concluded.[\[note: 138\]](#Ftn_138) There seemed to be a discrepancy between the parties on the total number of share values held by the subsidiary proprietors who attended the EGM (_ie_, the defendants’ figure of 335 share values (see \[182\] above) and the plaintiffs’ figure of 507 share values), but the defendants appeared to have accepted that in any event, more than 50% of them, by share values or units, had signed the CSA that day, after the EGM was concluded.
+183    The plaintiffs submitted that on or around 18 August 2017, the CSC had circulated the CSA to the subsidiary proprietors ahead of the EGM.[^137] The plaintiffs submitted that the apportionment of sale proceeds and the terms and conditions of the CSA were then explained at the EGM. As mentioned at \[75\] above, the plaintiffs did not initially admit that there was a breach of paras 7(1)(_b_) and 7(1)(_c_) of the Third Schedule, and had instead stressed that it was sufficient if more than 50% of the subsidiary proprietors who attended the EGM signed the CSA that day, after the EGM was concluded. According to the plaintiffs, the EGM was attended by subsidiary proprietors of the lots with 507 share values who collectively own 135 units, and those with 296 share values (58.4%) who collectively own 76 units (56.3%) signed the CSA that day, after the EGM was concluded.[^138] There seemed to be a discrepancy between the parties on the total number of share values held by the subsidiary proprietors who attended the EGM (_ie_, the defendants’ figure of 335 share values (see \[182\] above) and the plaintiffs’ figure of 507 share values), but the defendants appeared to have accepted that in any event, more than 50% of them, by share values or units, had signed the CSA that day, after the EGM was concluded.
 
-184    The plaintiffs subsequently conceded orally at the hearing that “there may well not have been approval at the meeting _per se_” of the apportionment of sale proceeds and of the terms and conditions of the CSA.[\[note: 139\]](#Ftn_139)
+184    The plaintiffs subsequently conceded orally at the hearing that “there may well not have been approval at the meeting _per se_” of the apportionment of sale proceeds and of the terms and conditions of the CSA.[^139]
 
-185    The plaintiffs orally explained that R&T had advised the CSC that no voting by the subsidiary proprietors was needed at the EGM to approve these aspects of the CSA.[\[note: 140\]](#Ftn_140) The plaintiffs informed the court that R&T had given its advice based on the previous paras 7(1)(_b_), 7(1)(_c_) and 7(2) of the Third Schedule in operation prior to the Land Titles (Strata) (Amendment) Act 2010.[\[note: 141\]](#Ftn_141) Under these provisions, before any subsidiary proprietor signed the collective sale agreement, the collective sale committee had to convene general meetings of the management corporation to “consider” the apportionment of sale proceeds and the terms and conditions of the collective sale agreement. These provisions did not mention the need to approve these aspects of the CSA at such meetings.
+185    The plaintiffs orally explained that R&T had advised the CSC that no voting by the subsidiary proprietors was needed at the EGM to approve these aspects of the CSA.[^140] The plaintiffs informed the court that R&T had given its advice based on the previous paras 7(1)(_b_), 7(1)(_c_) and 7(2) of the Third Schedule in operation prior to the Land Titles (Strata) (Amendment) Act 2010.[^141] Under these provisions, before any subsidiary proprietor signed the collective sale agreement, the collective sale committee had to convene general meetings of the management corporation to “consider” the apportionment of sale proceeds and the terms and conditions of the collective sale agreement. These provisions did not mention the need to approve these aspects of the CSA at such meetings.
 
-186    The plaintiffs also submitted that to date, subsidiary proprietors of lots with more than 80% of the share values and more than 80% of the total area of all the lots had signed the CSA and they continued to support the collective sale.[\[note: 142\]](#Ftn_142)
+186    The plaintiffs also submitted that to date, subsidiary proprietors of lots with more than 80% of the share values and more than 80% of the total area of all the lots had signed the CSA and they continued to support the collective sale.[^142]
 
 ##### (2)   Decision
 
 187    Unfortunately, the non-compliance with paras 7(1)(_b_) and 7(1)(_c_) of the Third Schedule was the result of advice from R&T. R&T had advised that it was sufficient for the assenting subsidiary proprietors to sign the CSA after the EGM. Clearly, such advice was wrong.
 
-188    Relying on such advice, the CSC stuck to the position that there was to be no voting at the EGM even though some subsidiary proprietors had questioned whether this position was correct.[\[note: 143\]](#Ftn_143) It was unfortunate that the CSC members appeared not to have considered the matter more carefully by themselves. It appeared that they had simply accepted their lawyers’ advice without question. While, in principle, they were entitled to rely on their lawyers’ advice, the CSC members should have questioned the validity of the advice in the circumstances in the light of questions being raised and of the clear terms of paras 7(1)(_b_) and 7(1)(_c_) and also para 7(2). A collective sale committee cannot simply delegate its duties to its professional advisers or simply rely on the advice given to excuse any lapses in respect of its duties (see _Horizon Towers (CA)_ at \[160\], which discussed valuers specifically). Be that as it may, the breach of the relevant provisions was caused by R&T. It was not evidence of bad faith on the part of the CSC.
+188    Relying on such advice, the CSC stuck to the position that there was to be no voting at the EGM even though some subsidiary proprietors had questioned whether this position was correct.[^143] It was unfortunate that the CSC members appeared not to have considered the matter more carefully by themselves. It appeared that they had simply accepted their lawyers’ advice without question. While, in principle, they were entitled to rely on their lawyers’ advice, the CSC members should have questioned the validity of the advice in the circumstances in the light of questions being raised and of the clear terms of paras 7(1)(_b_) and 7(1)(_c_) and also para 7(2). A collective sale committee cannot simply delegate its duties to its professional advisers or simply rely on the advice given to excuse any lapses in respect of its duties (see _Horizon Towers (CA)_ at \[160\], which discussed valuers specifically). Be that as it may, the breach of the relevant provisions was caused by R&T. It was not evidence of bad faith on the part of the CSC.
 
 189    It is true that s 84A(9)(_a_)(i) is concerned with whether “the transaction is not in good faith”, and a finding that the transaction is not in good faith does not necessarily need to be confined to the conduct of the collective sale committee alone but may take into account the conduct of its professional advisers too (see _Harbour View Gardens (CA)_ (\[49\] _supra_) at \[45\], \[52\]). In any case, the collective sale committee’s professional advisers are also its agents for the purposes of the collective sale (see _Harbour View Gardens (CA)_ at \[45\]). However, while it was regrettable that the legal advice provided here was obviously wrong, I did not conclude that R&T acted in bad faith in giving this wrong legal advice to the CSC.
 
-190    I added that I was not persuaded that there was prejudice to any subsidiary proprietor. Despite the unsatisfactory state of affairs where the subsidiary proprietors, especially the minority owners, were deprived of their entitlement to vote on the apportionment of sale proceeds and on the terms and conditions of the CSA at the EGM, it was not disputed that a simple majority of the subsidiary proprietors who attended the EGM signed the CSA that day, after the EGM was concluded. Furthermore, although there had been a suggestion prior to the EGM that some subsidiary proprietors might not attend the EGM if they thought that there would not be any voting on the various aspects of the CSA,[\[note: 144\]](#Ftn_144) there was no evidence from anyone to say he did not attend the EGM on this basis. As at the date of the hearing, subsidiary proprietors of lots with not less than 80% of the share values and not less than 80% of the total area of all the lots had signed the CSA and made an application for an order for the collective sale pursuant to s 84A(1)(_b_).
+190    I added that I was not persuaded that there was prejudice to any subsidiary proprietor. Despite the unsatisfactory state of affairs where the subsidiary proprietors, especially the minority owners, were deprived of their entitlement to vote on the apportionment of sale proceeds and on the terms and conditions of the CSA at the EGM, it was not disputed that a simple majority of the subsidiary proprietors who attended the EGM signed the CSA that day, after the EGM was concluded. Furthermore, although there had been a suggestion prior to the EGM that some subsidiary proprietors might not attend the EGM if they thought that there would not be any voting on the various aspects of the CSA,[^144] there was no evidence from anyone to say he did not attend the EGM on this basis. As at the date of the hearing, subsidiary proprietors of lots with not less than 80% of the share values and not less than 80% of the total area of all the lots had signed the CSA and made an application for an order for the collective sale pursuant to s 84A(1)(_b_).
 
 #### Election of the CSC members
 
 ##### (1)   Parties’ arguments
 
-191    The third sub-issue on the question of good faith pertained to how the six elected CSC members had campaigned to be elected as a “6-man bloc”.[\[note: 145\]](#Ftn_145) The defendants submitted that Lim had said at the EGM on 1 July 2017 that the team of six “had to be elected in its entirety or none would accept the appointment” and that Lim had “spent a considerable time during the meeting to ask the owners to limit the number of CSC members to six”.[\[note: 146\]](#Ftn_146) The defendants submitted that as the team sought to limit the number of the CSC members to a small number of six, that ran the risk that the CSC would tend not to represent a wider cross-section of owners of various types of units in the Property.[\[note: 147\]](#Ftn_147) The defendants also suggested that if Lim and Chan had declared their alleged conflicts of interest before their elections into the CSC (see \[34\] above), the seventh and last candidate who stood for election might have been elected into the CSC instead. The defendants further suggested that since the elections of Lim and Chan were void (pursuant to para 2(2) of the Third Schedule) because they did not declare their alleged conflicts of interest before their elections,[\[note: 148\]](#Ftn_148) the elections of the other CSC members should also be void since they chose to campaign to be elected as a “6-man bloc”.[\[note: 149\]](#Ftn_149)
+191    The third sub-issue on the question of good faith pertained to how the six elected CSC members had campaigned to be elected as a “6-man bloc”.[^145] The defendants submitted that Lim had said at the EGM on 1 July 2017 that the team of six “had to be elected in its entirety or none would accept the appointment” and that Lim had “spent a considerable time during the meeting to ask the owners to limit the number of CSC members to six”.[^146] The defendants submitted that as the team sought to limit the number of the CSC members to a small number of six, that ran the risk that the CSC would tend not to represent a wider cross-section of owners of various types of units in the Property.[^147] The defendants also suggested that if Lim and Chan had declared their alleged conflicts of interest before their elections into the CSC (see \[34\] above), the seventh and last candidate who stood for election might have been elected into the CSC instead. The defendants further suggested that since the elections of Lim and Chan were void (pursuant to para 2(2) of the Third Schedule) because they did not declare their alleged conflicts of interest before their elections,[^148] the elections of the other CSC members should also be void since they chose to campaign to be elected as a “6-man bloc”.[^149]
 
-192    As mentioned before at \[128\] above, the plaintiffs submitted that the defendants’ complaint regarding the composition of the CSC had not been raised before the Board.[\[note: 150\]](#Ftn_150) The plaintiffs argued that the LTSA does not prescribe or limit the composition of the CSC and the CSC members did not have to declare their unit ownership details. The plaintiffs submitted that the subsidiary proprietors voted and determined the size of the CSC and then voted each CSC member into the CSC individually.[\[note: 151\]](#Ftn_151) The plaintiffs submitted that despite Lim’s campaigning slogan that the team of six “had to be elected in its entirety or none would accept the appointment”, if one of them had not been elected into the CSC, the remaining five members could continue to be members of the CSC and were not obliged to step down.[\[note: 152\]](#Ftn_152) The plaintiffs added that the defendants were not challenging the method of distributing the proceeds of the collective sale.[\[note: 153\]](#Ftn_153)
+192    As mentioned before at \[128\] above, the plaintiffs submitted that the defendants’ complaint regarding the composition of the CSC had not been raised before the Board.[^150] The plaintiffs argued that the LTSA does not prescribe or limit the composition of the CSC and the CSC members did not have to declare their unit ownership details. The plaintiffs submitted that the subsidiary proprietors voted and determined the size of the CSC and then voted each CSC member into the CSC individually.[^151] The plaintiffs submitted that despite Lim’s campaigning slogan that the team of six “had to be elected in its entirety or none would accept the appointment”, if one of them had not been elected into the CSC, the remaining five members could continue to be members of the CSC and were not obliged to step down.[^152] The plaintiffs added that the defendants were not challenging the method of distributing the proceeds of the collective sale.[^153]
 
 ##### (2)   Decision
 
-193    I found that not all aspects of this ground of objection pertaining to the election of the CSC members had been raised before the Board. Before the Board, the defendants stated:[\[note: 154\]](#Ftn_154)
+193    I found that not all aspects of this ground of objection pertaining to the election of the CSC members had been raised before the Board. Before the Board, the defendants stated:[^154]
 
 The election of the CSC members was not carried out in good faith. At the EGM on 1 July 2017, \[Lim\] said that 6 candidates had formed a team which had to be elected in its entirety or none would accept the appointment. There is no requirement under the LTSA that a team must be voted for in its entirety. In addition, since the number of CSC members had already been voted and fixed at 6, this precluded any minority \[subsidiary proprietor\] representation in the CSC committee.
 
@@ -684,15 +685,15 @@ The election of the CSC members was not carried out in good faith. At the EGM on
 
 ##### (1)   Parties’ arguments
 
-199    The fourth sub-issue on the question of good faith pertained to the appointment of Knight Frank and the CSC’s failure to re-negotiate Knight Frank’s fees subsequently. The defendants submitted that the CSC appointed Knight Frank as the marketing agent in undue haste and with undue preference for Knight Frank.[\[note: 155\]](#Ftn_155) The defendants submitted that it was unclear if the CSC had genuinely reviewed all other candidates before Knight Frank was appointed.[\[note: 156\]](#Ftn_156) The defendants also alleged that the CSC had failed to provide to the subsidiary proprietors information on the competing proposals from other marketing agents.[\[note: 157\]](#Ftn_157)
+199    The fourth sub-issue on the question of good faith pertained to the appointment of Knight Frank and the CSC’s failure to re-negotiate Knight Frank’s fees subsequently. The defendants submitted that the CSC appointed Knight Frank as the marketing agent in undue haste and with undue preference for Knight Frank.[^155] The defendants submitted that it was unclear if the CSC had genuinely reviewed all other candidates before Knight Frank was appointed.[^156] The defendants also alleged that the CSC had failed to provide to the subsidiary proprietors information on the competing proposals from other marketing agents.[^157]
 
-200    The defendants also submitted that Knight Frank had offered the worst terms with the highest DC estimate, the lowest reserve price range and the highest abortive fee.[\[note: 158\]](#Ftn_158) The defendants argued that Knight Frank’s fees were structured based on the reserve price of $550m which had been set on the basis that there was a DC payable for the Property.[\[note: 159\]](#Ftn_159) The defendants submitted that when the CSC subsequently learnt that no DC was payable, the CSC ought to have negotiated to adjust Knight Frank’s fees accordingly so the costs of the collective sale could remain competitive and not cause loss to the subsidiary proprietors.[\[note: 160\]](#Ftn_160) The defendants argued that Knight Frank had been the one giving the wrong information about there being a DC.[\[note: 161\]](#Ftn_161)
+200    The defendants also submitted that Knight Frank had offered the worst terms with the highest DC estimate, the lowest reserve price range and the highest abortive fee.[^158] The defendants argued that Knight Frank’s fees were structured based on the reserve price of $550m which had been set on the basis that there was a DC payable for the Property.[^159] The defendants submitted that when the CSC subsequently learnt that no DC was payable, the CSC ought to have negotiated to adjust Knight Frank’s fees accordingly so the costs of the collective sale could remain competitive and not cause loss to the subsidiary proprietors.[^160] The defendants argued that Knight Frank had been the one giving the wrong information about there being a DC.[^161]
 
-201    On the other hand, the plaintiffs submitted that this ground of objection concerning the CSC’s dealings with Knight Frank had not been raised before the Board.[\[note: 162\]](#Ftn_162) The plaintiffs submitted that in any event, the CSC had only appointed Knight Frank after careful consideration of the competing proposals by the other two potential marketing agents.[\[note: 163\]](#Ftn_163) The plaintiffs argued that Knight Frank’s fee rate was the lowest at the time it was appointed because the CSC had reasonably expected a collective sale at around $500m then.[\[note: 164\]](#Ftn_164) At the sale price of $610m, Knight Frank’s fees were eventually higher than the others because its fees were on a tiered basis.[\[note: 165\]](#Ftn_165) It would receive more only because the sale price was higher than expected. The plaintiffs also argued that there was no legal basis for the CSC to have re-negotiated Knight Frank’s fees as suggested by the defendants, and that such action might have been unconscionable when Knight Frank had substantially performed its contractual obligations.[\[note: 166\]](#Ftn_166) The plaintiffs submitted that the CSC was also not prepared to distract and discourage Knight Frank from doing its job of marketing the Property in the midst of the tender period.[\[note: 167\]](#Ftn_167)
+201    On the other hand, the plaintiffs submitted that this ground of objection concerning the CSC’s dealings with Knight Frank had not been raised before the Board.[^162] The plaintiffs submitted that in any event, the CSC had only appointed Knight Frank after careful consideration of the competing proposals by the other two potential marketing agents.[^163] The plaintiffs argued that Knight Frank’s fee rate was the lowest at the time it was appointed because the CSC had reasonably expected a collective sale at around $500m then.[^164] At the sale price of $610m, Knight Frank’s fees were eventually higher than the others because its fees were on a tiered basis.[^165] It would receive more only because the sale price was higher than expected. The plaintiffs also argued that there was no legal basis for the CSC to have re-negotiated Knight Frank’s fees as suggested by the defendants, and that such action might have been unconscionable when Knight Frank had substantially performed its contractual obligations.[^166] The plaintiffs submitted that the CSC was also not prepared to distract and discourage Knight Frank from doing its job of marketing the Property in the midst of the tender period.[^167]
 
 ##### (2)   Decision
 
-202    This ground of objection pertaining to the appointment of Knight Frank and the CSC’s failure to subsequently re-negotiate Knight Frank’s fees had been raised before the Board, where the defendants stated, _inter alia_:[\[note: 168\]](#Ftn_168)
+202    This ground of objection pertaining to the appointment of Knight Frank and the CSC’s failure to subsequently re-negotiate Knight Frank’s fees had been raised before the Board, where the defendants stated, _inter alia_:[^168]
 
 The CSC acted with undue haste and undue preference in appointing Knight Frank as the property consultant and marketing agent\[.\]
 
@@ -700,11 +701,11 @@ The CSC acted with undue haste and undue preference in appointing Knight Frank a
 
 As the \[DC\] had been revised, which in turn meant that the \[reserve price\] ought to have been increased above the eventual price of $550 million, the CSC ought to have carried out corresponding negotiations or adjustments of the marketing fees for Knight Frank accordingly …
 
-203    There was some dispute as to the date of appointment of Knight Frank. The defendants submitted that Knight Frank must have been appointed on 7 July 2017, as it had stated in its presentation slides for the EGM on 9 September 2017.[\[note: 169\]](#Ftn_169) Knight Frank would then have been appointed two days before the CSC meeting on 9 July 2017, contrary to the plaintiffs’ submission that the CSC had evaluated and selected Knight Frank as the marketing agent during that CSC meeting.[\[note: 170\]](#Ftn_170) Knight Frank would then also have been appointed the same day (_ie_, 7 July 2017) on which another marketing agent had made its presentation to the CSC.[\[note: 171\]](#Ftn_171) To these allegations, Lim and Knight Frank’s representative filed affidavits stating that Knight Frank had made a typographical error in its presentation slides as to its appointment date.[\[note: 172\]](#Ftn_172) The defendants argued that this was hardly believable and appeared to be a convenient excuse.[\[note: 173\]](#Ftn_173) It was not in dispute that the CSC met with the other two potential marketing agents on 5 July 2017 and 7 July 2017 respectively, and that the CSC received their competing proposals.[\[note: 174\]](#Ftn_174) I thus proceeded on the basis that Knight Frank was selected as the marketing agent after the CSC considered the respective proposals by the potential marketing agents.
+203    There was some dispute as to the date of appointment of Knight Frank. The defendants submitted that Knight Frank must have been appointed on 7 July 2017, as it had stated in its presentation slides for the EGM on 9 September 2017.[^169] Knight Frank would then have been appointed two days before the CSC meeting on 9 July 2017, contrary to the plaintiffs’ submission that the CSC had evaluated and selected Knight Frank as the marketing agent during that CSC meeting.[^170] Knight Frank would then also have been appointed the same day (_ie_, 7 July 2017) on which another marketing agent had made its presentation to the CSC.[^171] To these allegations, Lim and Knight Frank’s representative filed affidavits stating that Knight Frank had made a typographical error in its presentation slides as to its appointment date.[^172] The defendants argued that this was hardly believable and appeared to be a convenient excuse.[^173] It was not in dispute that the CSC met with the other two potential marketing agents on 5 July 2017 and 7 July 2017 respectively, and that the CSC received their competing proposals.[^174] I thus proceeded on the basis that Knight Frank was selected as the marketing agent after the CSC considered the respective proposals by the potential marketing agents.
 
-204    The CSC was already authorised at the EGM on 1 July 2017 to appoint a property consultant which meant a marketing agent.[\[note: 175\]](#Ftn_175) Accordingly, there was no need for the CSC to convene another general meeting of the management corporation to appoint Knight Frank as the marketing agent. This was consistent with para 7(1)(_a_) of the Third Schedule. Since the subsidiary proprietors would then not be appointing the marketing agent at another general meeting, there was thus no need for the CSC to provide to the subsidiary proprietors information on the competing proposals from the other marketing agents.
+204    The CSC was already authorised at the EGM on 1 July 2017 to appoint a property consultant which meant a marketing agent.[^175] Accordingly, there was no need for the CSC to convene another general meeting of the management corporation to appoint Knight Frank as the marketing agent. This was consistent with para 7(1)(_a_) of the Third Schedule. Since the subsidiary proprietors would then not be appointing the marketing agent at another general meeting, there was thus no need for the CSC to provide to the subsidiary proprietors information on the competing proposals from the other marketing agents.
 
-205    There was no suggestion by the defendants that the CSC’s initial expectation of a sale price of $500m was untrue or was too low at the time it appointed Knight Frank as the marketing agent. Furthermore, Knight Frank’s terms of remuneration were on a tiered basis meaning that its fees would be proportionately higher only if a sale price higher than $550m was achieved. The fees for the other two potential marketing agents were higher if the sale price did not exceed $550m.[\[note: 176\]](#Ftn_176) In the light of this, I was of the view that Knight Frank’s terms of remuneration were not excessive at the time it was appointed.
+205    There was no suggestion by the defendants that the CSC’s initial expectation of a sale price of $500m was untrue or was too low at the time it appointed Knight Frank as the marketing agent. Furthermore, Knight Frank’s terms of remuneration were on a tiered basis meaning that its fees would be proportionately higher only if a sale price higher than $550m was achieved. The fees for the other two potential marketing agents were higher if the sale price did not exceed $550m.[^176] In the light of this, I was of the view that Knight Frank’s terms of remuneration were not excessive at the time it was appointed.
 
 206    I also found it unrealistic for the defendants to suggest that the CSC ought to have re-negotiated Knight Frank’s fees when the CSC subsequently learnt that no DC was payable. The CSC and Knight Frank only found out that there was no DC payable at a very late stage, _ie_, nine days from the close of the public tender (see \[20\] and \[25\] above). The CSC (and the subsidiary proprietors) would have very much needed Knight Frank’s expertise in advising on the next course of action in the collective sale process and acting quickly, if the need arose, at that time. It would hardly be reasonable, let alone prudent, for the CSC to have attempted to re-negotiate Knight Frank’s fees at such a critical time. On the contrary, if the CSC had attempted to re-negotiate Knight Frank’s fees at such a time, an objection might validly be raised that the CSC had distracted itself and the marketing agent from focusing on doing what was necessary to obtain the appropriate sale price in the circumstances. The defendants’ argument that the CSC ought to have re-negotiated Knight Frank’s fees at that time did not reflect well on the defendants. It suggested that they were trying to find fault with the CSC.
 
@@ -712,13 +713,13 @@ As the \[DC\] had been revised, which in turn meant that the \[reserve price\] o
 
 ##### (1)   Parties’ arguments
 
-207    For the fifth sub-issue on the question of good faith, the defendants submitted, at the hearing, that the CSC failed to keep and/or display the minutes of three meetings: the EGM on 9 September 2017, the owners’ meeting on 25 January 2018 and the owners’ meeting on 19 March 2018.[\[note: 177\]](#Ftn_177) The defendants argued that the CSC thus failed to comply with paras 9(1) and 9(2) of the Third Schedule and/or an extension of these requirements which was discussed by the Court of Appeal in _Harbour View Gardens (CA)_ (\[49\] _supra_) (which I will discuss later).[\[note: 178\]](#Ftn_178) The defendants submitted that the CSC’s non-compliance prejudiced the rights of the subsidiary proprietors to recapitulate and understand the key points of these important meetings.[\[note: 179\]](#Ftn_179)
+207    For the fifth sub-issue on the question of good faith, the defendants submitted, at the hearing, that the CSC failed to keep and/or display the minutes of three meetings: the EGM on 9 September 2017, the owners’ meeting on 25 January 2018 and the owners’ meeting on 19 March 2018.[^177] The defendants argued that the CSC thus failed to comply with paras 9(1) and 9(2) of the Third Schedule and/or an extension of these requirements which was discussed by the Court of Appeal in _Harbour View Gardens (CA)_ (\[49\] _supra_) (which I will discuss later).[^178] The defendants submitted that the CSC’s non-compliance prejudiced the rights of the subsidiary proprietors to recapitulate and understand the key points of these important meetings.[^179]
 
-208    The plaintiffs submitted that this ground of objection concerning the minutes of meetings had not been raised before the Board.[\[note: 180\]](#Ftn_180) The plaintiffs submitted in their skeletal submissions that Lim had stated in his affidavit that “the CSC had, at the relevant time, published the 1st and 2nd EGM \[held on 1 July 2017 and 9 September 2017 respectively\] and all CSC meeting minutes”.[\[note: 181\]](#Ftn_181) However, at the hearing, the plaintiffs instead orally submitted that the minutes of the EGM on 9 September 2017 were not posted and did not have to be posted under para 9(2) of the Third Schedule, which required only minutes of the CSC meetings to be displayed on the notice board in the Property.[\[note: 182\]](#Ftn_182) The plaintiffs also argued that while the CSC kept the minutes of the owners’ meetings on both 25 January 2018 and 19 March 2018,[\[note: 183\]](#Ftn_183) paras 9(1) and 9(2) did not apply to these minutes because owners’ meetings were neither CSC meetings nor general meetings.[\[note: 184\]](#Ftn_184)
+208    The plaintiffs submitted that this ground of objection concerning the minutes of meetings had not been raised before the Board.[^180] The plaintiffs submitted in their skeletal submissions that Lim had stated in his affidavit that “the CSC had, at the relevant time, published the 1st and 2nd EGM \[held on 1 July 2017 and 9 September 2017 respectively\] and all CSC meeting minutes”.[^181] However, at the hearing, the plaintiffs instead orally submitted that the minutes of the EGM on 9 September 2017 were not posted and did not have to be posted under para 9(2) of the Third Schedule, which required only minutes of the CSC meetings to be displayed on the notice board in the Property.[^182] The plaintiffs also argued that while the CSC kept the minutes of the owners’ meetings on both 25 January 2018 and 19 March 2018,[^183] paras 9(1) and 9(2) did not apply to these minutes because owners’ meetings were neither CSC meetings nor general meetings.[^184]
 
 ##### (2)   Decision
 
-209    I found that this ground of objection as the defendants submitted at the hearing (_ie_, that the CSC failed to keep and/or display the minutes of the three abovementioned meetings) had not been raised before the Board. Before the Board, the defendants stated:[\[note: 185\]](#Ftn_185)
+209    I found that this ground of objection as the defendants submitted at the hearing (_ie_, that the CSC failed to keep and/or display the minutes of the three abovementioned meetings) had not been raised before the Board. Before the Board, the defendants stated:[^185]
 
 The CSC did not comply with the requirement to keep records in accordance with paragraph 9 of the Third Schedule of the LTSA. At the owners’ meeting on 19 March 2018, the CSC and Knight Frank claimed that after the CSC found out from the URA on 26 February 2018 that there would be no \[DC\], they had engaged in extensive marketing efforts to update potential purchasers of this error in \[DC\]. It would therefore be reasonable to expect that _meetings would have been held to discuss these extensive marketing efforts, if there were any_. However, despite a request on 15 March 2018 by some of the \[subsidiary proprietors\] for a copy of _all the CSC meeting minutes to date_, there were no records kept of meetings, if any, _after the update from the URA on 26 February 2018_. \[emphasis added\]
 
@@ -746,17 +747,17 @@ Paragraphs 9(1) and 9(2) do not require the CSC to display the minutes of the E
 
 ##### (1)   Parties’ arguments
 
-214    The sixth sub-issue on the question of good faith pertained to the CSC’s failure to allow minority owners to raise valid concerns over the collective sale on multiple occasions throughout the collective sale process.[\[note: 186\]](#Ftn_186) The defendants also alleged that the CSC did not act with impartiality and good faith to safeguard the interests of minority owners whom the CSC publicly reprimanded and ridiculed.[\[note: 187\]](#Ftn_187) The defendants further alleged that the CSC condoned the unruly behaviour of the majority owners by not asking them to calm down when they booed the minority owners and prevented them from expressing their concerns.[\[note: 188\]](#Ftn_188) The defendants submitted that the CSC owed the duty of even-handedness to both majority owners and minority owners.[\[note: 189\]](#Ftn_189)
+214    The sixth sub-issue on the question of good faith pertained to the CSC’s failure to allow minority owners to raise valid concerns over the collective sale on multiple occasions throughout the collective sale process.[^186] The defendants also alleged that the CSC did not act with impartiality and good faith to safeguard the interests of minority owners whom the CSC publicly reprimanded and ridiculed.[^187] The defendants further alleged that the CSC condoned the unruly behaviour of the majority owners by not asking them to calm down when they booed the minority owners and prevented them from expressing their concerns.[^188] The defendants submitted that the CSC owed the duty of even-handedness to both majority owners and minority owners.[^189]
 
-215    On the other hand, the plaintiffs submitted that the CSC, with Knight Frank, had always been prepared to listen to the views of all subsidiary proprietors whether they were majority owners or minority owners.[\[note: 190\]](#Ftn_190) The plaintiffs also submitted that the conduct of other subsidiary proprietors was not within the CSC’s control and could not be imputed to the CSC.[\[note: 191\]](#Ftn_191) The plaintiffs also contended that the conduct of other subsidiary proprietors was irrelevant to the merits of the present application before the court.
+215    On the other hand, the plaintiffs submitted that the CSC, with Knight Frank, had always been prepared to listen to the views of all subsidiary proprietors whether they were majority owners or minority owners.[^190] The plaintiffs also submitted that the conduct of other subsidiary proprietors was not within the CSC’s control and could not be imputed to the CSC.[^191] The plaintiffs also contended that the conduct of other subsidiary proprietors was irrelevant to the merits of the present application before the court.
 
 ##### (2)   Decision
 
-216    It was not disputed that this ground of objection pertaining to the CSC’s failure to allow minority owners to raise valid concerns had been raised before the Board.[\[note: 192\]](#Ftn_192)
+216    It was not disputed that this ground of objection pertaining to the CSC’s failure to allow minority owners to raise valid concerns had been raised before the Board.[^192]
 
-217    I did not find that the CSC prevented minority owners from raising valid concerns over the collective sale. From the defendants’ own affidavit, they stated that “\[t\]he 8th Defendant, together with the 3rd Defendant and the 9th Defendant, had only spent an hour or so with Knight Frank where they did discuss the \[reserve price\] among other things. The CSC had also joined this meeting on their own accord.”[\[note: 193\]](#Ftn_193)
+217    I did not find that the CSC prevented minority owners from raising valid concerns over the collective sale. From the defendants’ own affidavit, they stated that “\[t\]he 8th Defendant, together with the 3rd Defendant and the 9th Defendant, had only spent an hour or so with Knight Frank where they did discuss the \[reserve price\] among other things. The CSC had also joined this meeting on their own accord.”[^193]
 
-218    In considering the transcript provided of the audio recording of the owners’ meeting on 19 March 2018,[\[note: 194\]](#Ftn_194) I found that the minority owner in question (who is one of the defendants) had been given the floor to raise his concerns, and in particular, over the issue concerning the nil DC.[\[note: 195\]](#Ftn_195) I found that the CSC (and R&T) did provide responses to his questions, even if the responses provided were more argumentative than necessary and even if the minority owner might not have been satisfied with the responses.
+218    In considering the transcript provided of the audio recording of the owners’ meeting on 19 March 2018,[^194] I found that the minority owner in question (who is one of the defendants) had been given the floor to raise his concerns, and in particular, over the issue concerning the nil DC.[^195] I found that the CSC (and R&T) did provide responses to his questions, even if the responses provided were more argumentative than necessary and even if the minority owner might not have been satisfied with the responses.
 
 219    The defendants’ complaints must be considered in the context of the collective sale process where there were majority owners and minority owners who held opposite positions towards the collective sale. It is unfortunate that at times tensions are unnecessarily high during this process, and perhaps even higher at meetings with subsidiary proprietors when each camp may express its views in language which is unnecessarily strong.
 
@@ -790,33 +791,33 @@ Paragraphs 9(1) and 9(2) do not require the CSC to display the minutes of the E
 
 ##### (1)   Parties’ arguments
 
-230    I mention first that the defendants had originally argued in their written submissions that, since there was ultimately no DC, the requisite 80% approval obtained for the collective sale (as required under s 84A(1)(_b_)) was invalid because it had been given in reliance on a reserve price that had been calculated on the contrary basis that there was a DC payable.[\[note: 196\]](#Ftn_196) As the defendants further explained at the hearing, the CSC and Knight Frank had allegedly misrepresented to the subsidiary proprietors that the last DC estimate was $63.19m and that the DC (rate) was increasing.[\[note: 197\]](#Ftn_197) However, the defendants eventually accepted that the CSC and Knight Frank did not make any misrepresentation of fact to the subsidiary proprietors as initially suggested since it was clear that the $63.19m figure was an estimate subject to verification.[\[note: 198\]](#Ftn_198) Accordingly, I proceeded on the basis that the defendants were not maintaining their original submission that the requisite 80% approval obtained for the collective sale was invalid because of a misrepresentation of fact.
+230    I mention first that the defendants had originally argued in their written submissions that, since there was ultimately no DC, the requisite 80% approval obtained for the collective sale (as required under s 84A(1)(_b_)) was invalid because it had been given in reliance on a reserve price that had been calculated on the contrary basis that there was a DC payable.[^196] As the defendants further explained at the hearing, the CSC and Knight Frank had allegedly misrepresented to the subsidiary proprietors that the last DC estimate was $63.19m and that the DC (rate) was increasing.[^197] However, the defendants eventually accepted that the CSC and Knight Frank did not make any misrepresentation of fact to the subsidiary proprietors as initially suggested since it was clear that the $63.19m figure was an estimate subject to verification.[^198] Accordingly, I proceeded on the basis that the defendants were not maintaining their original submission that the requisite 80% approval obtained for the collective sale was invalid because of a misrepresentation of fact.
 
 (A)   Defendants’ arguments
 
-231    As a preliminary point, with regard to the arguments raised under this ground of objection, the defendants submitted that Knight Frank was the CSC’s agent, and the CSC could not simply be absolved from their duties by delegating them to their professional adviser.[\[note: 199\]](#Ftn_199)
+231    As a preliminary point, with regard to the arguments raised under this ground of objection, the defendants submitted that Knight Frank was the CSC’s agent, and the CSC could not simply be absolved from their duties by delegating them to their professional adviser.[^199]
 
-232    The defendants’ objection was that the DC verification was material. This was so especially since the subsidiary proprietors had been informed of increasing estimates of the DC before the launch of the Property for sale,[\[note: 200\]](#Ftn_200) and about the likelihood of an increase in the DC rates from 1 March 2018.[\[note: 201\]](#Ftn_201) The defendants submitted that as a result, the subsidiary proprietors were given the impression that the reserve price had to be kept low and that they should sign the CSA as soon as possible.[\[note: 202\]](#Ftn_202) The defendants submitted that the DC had a bearing on the reserve price and on bids from potential bidders, and the CSC and Knight Frank had repeatedly represented to the subsidiary proprietors the same.[\[note: 203\]](#Ftn_203) The relation was that if the DC increased, the reserve price and bid prices would have to be lowered accordingly.[\[note: 204\]](#Ftn_204)
+232    The defendants’ objection was that the DC verification was material. This was so especially since the subsidiary proprietors had been informed of increasing estimates of the DC before the launch of the Property for sale,[^200] and about the likelihood of an increase in the DC rates from 1 March 2018.[^201] The defendants submitted that as a result, the subsidiary proprietors were given the impression that the reserve price had to be kept low and that they should sign the CSA as soon as possible.[^202] The defendants submitted that the DC had a bearing on the reserve price and on bids from potential bidders, and the CSC and Knight Frank had repeatedly represented to the subsidiary proprietors the same.[^203] The relation was that if the DC increased, the reserve price and bid prices would have to be lowered accordingly.[^204]
 
-233    The defendants alleged that the CSC should have obtained the DC verification from URA before the launch of the Property for sale (and before fixing the reserve price).[\[note: 205\]](#Ftn_205) Knight Frank’s terms of appointment stipulated that the searches to obtain the DC verification were to be done before the Property was launched for sale.[\[note: 206\]](#Ftn_206) The defendants submitted that the CSC should not have rushed to have the Property launched for sale without obtaining the DC verification,[\[note: 207\]](#Ftn_207) because there was no immense time pressure to sell the Property.[\[note: 208\]](#Ftn_208) They contended that there was no specific urgency like that in _Shunfu Ville (CA)_, where the collective sale committee there was driven to meet the statutory timelines imposed for the collective sale (at \[69\]).[\[note: 209\]](#Ftn_209) In this case, the statutory deadline for making the collective sale application for the Property was in January 2019 (see paras 1–2 of the First Schedule).[\[note: 210\]](#Ftn_210) The defendants also submitted that the property market was still vibrant in early 2018, such that the government subsequently introduced cooling measures in July 2018 to cool the collective sale fever.[\[note: 211\]](#Ftn_211) As Knight Frank had expected to obtain the DC verification in two weeks’ time from the launch of the Property for sale, the CSC could and should have waited those two weeks instead before having the Property launched for sale.[\[note: 212\]](#Ftn_212)
+233    The defendants alleged that the CSC should have obtained the DC verification from URA before the launch of the Property for sale (and before fixing the reserve price).[^205] Knight Frank’s terms of appointment stipulated that the searches to obtain the DC verification were to be done before the Property was launched for sale.[^206] The defendants submitted that the CSC should not have rushed to have the Property launched for sale without obtaining the DC verification,[^207] because there was no immense time pressure to sell the Property.[^208] They contended that there was no specific urgency like that in _Shunfu Ville (CA)_, where the collective sale committee there was driven to meet the statutory timelines imposed for the collective sale (at \[69\]).[^209] In this case, the statutory deadline for making the collective sale application for the Property was in January 2019 (see paras 1–2 of the First Schedule).[^210] The defendants also submitted that the property market was still vibrant in early 2018, such that the government subsequently introduced cooling measures in July 2018 to cool the collective sale fever.[^211] As Knight Frank had expected to obtain the DC verification in two weeks’ time from the launch of the Property for sale, the CSC could and should have waited those two weeks instead before having the Property launched for sale.[^212]
 
-234    The defendants also submitted that Knight Frank was inept in attempting to calculate the DC, when that should have been done by a “qualified person” (like an architect) as listed in the First Schedule to the Planning Act (Cap 232, 1998 Rev Ed).[\[note: 213\]](#Ftn_213) The defendants contended that this resulted in Knight Frank requesting for and relying on incorrect information in arriving at its DC estimates.[\[note: 214\]](#Ftn_214)
+234    The defendants also submitted that Knight Frank was inept in attempting to calculate the DC, when that should have been done by a “qualified person” (like an architect) as listed in the First Schedule to the Planning Act (Cap 232, 1998 Rev Ed).[^213] The defendants contended that this resulted in Knight Frank requesting for and relying on incorrect information in arriving at its DC estimates.[^214]
 
-235    Furthermore, the defendants submitted that when the DC verification was obtained on 26 February 2018 through URA’s letter, the CSC should have extended the closing date of the tender to give the market time to react appropriately to the change in information pertaining to the DC.[\[note: 215\]](#Ftn_215)
+235    Furthermore, the defendants submitted that when the DC verification was obtained on 26 February 2018 through URA’s letter, the CSC should have extended the closing date of the tender to give the market time to react appropriately to the change in information pertaining to the DC.[^215]
 
-236    The defendants also submitted that the CSC should have informed and consulted the subsidiary proprietors about this material information so that they could decide whether to raise the reserve price. Alternatively, the CSC should have increased the reserve price.[\[note: 216\]](#Ftn_216) Increasing the reserve price might in turn have yielded a higher bid from potential bidders. With the dramatic change in DC from the estimate of $63.2m to zero, the defendants contended that the CSC should have had reasonable doubts whether the original mandate to sell the Property at the reserve price of $550m still reflected the wishes of the subsidiary proprietors.[\[note: 217\]](#Ftn_217) The CSC should thus have halted the tender process to seek a fresh mandate from the subsidiary proprietors on how to proceed.
+236    The defendants also submitted that the CSC should have informed and consulted the subsidiary proprietors about this material information so that they could decide whether to raise the reserve price. Alternatively, the CSC should have increased the reserve price.[^216] Increasing the reserve price might in turn have yielded a higher bid from potential bidders. With the dramatic change in DC from the estimate of $63.2m to zero, the defendants contended that the CSC should have had reasonable doubts whether the original mandate to sell the Property at the reserve price of $550m still reflected the wishes of the subsidiary proprietors.[^217] The CSC should thus have halted the tender process to seek a fresh mandate from the subsidiary proprietors on how to proceed.
 
-237    The CSC did not update the subsidiary proprietors that no DC was payable at any time before the close of the tender.[\[note: 218\]](#Ftn_218) The CSC only informed them of this information at the owners’ meeting on 19 March 2018, 12 days after the tender had closed and almost a month after the CSC had been informed of it.[\[note: 219\]](#Ftn_219) Consequently, the CSC, Knight Frank and R&T were questioned on their course of conduct with respect to the information concerning the DC, even by those in support of the collective sale.[\[note: 220\]](#Ftn_220)
+237    The CSC did not update the subsidiary proprietors that no DC was payable at any time before the close of the tender.[^218] The CSC only informed them of this information at the owners’ meeting on 19 March 2018, 12 days after the tender had closed and almost a month after the CSC had been informed of it.[^219] Consequently, the CSC, Knight Frank and R&T were questioned on their course of conduct with respect to the information concerning the DC, even by those in support of the collective sale.[^220]
 
-238    The defendants also argued that the publicity of the information that no DC was payable should have been via the same channels as those when the Property had been first marketed.[\[note: 221\]](#Ftn_221) Yet, Knight Frank advertised this information for only one day on 1 March 2018 in the Business Times.[\[note: 222\]](#Ftn_222) Potential bidders were also not informed of the maximum allowable development potential of the site of the Property.[\[note: 223\]](#Ftn_223)
+238    The defendants also argued that the publicity of the information that no DC was payable should have been via the same channels as those when the Property had been first marketed.[^221] Yet, Knight Frank advertised this information for only one day on 1 March 2018 in the Business Times.[^222] Potential bidders were also not informed of the maximum allowable development potential of the site of the Property.[^223]
 
-239    Further, the defendants submitted that the CSC members did not hold any CSC meeting after being informed that no DC was payable to discuss how to proceed in relation to the tender process, although all decisions of the CSC had to be made at CSC meetings pursuant to para 8 of the Third Schedule.[\[note: 224\]](#Ftn_224) The defendants further argued that while Lim indicated that the CSC members had discussions over the phone, they did not provide any documentary evidence of the phone messages or minutes of these discussions and were thus in breach of paras 8(3) and 9(1) of the Third Schedule.[\[note: 225\]](#Ftn_225)
+239    Further, the defendants submitted that the CSC members did not hold any CSC meeting after being informed that no DC was payable to discuss how to proceed in relation to the tender process, although all decisions of the CSC had to be made at CSC meetings pursuant to para 8 of the Third Schedule.[^224] The defendants further argued that while Lim indicated that the CSC members had discussions over the phone, they did not provide any documentary evidence of the phone messages or minutes of these discussions and were thus in breach of paras 8(3) and 9(1) of the Third Schedule.[^225]
 
-240    The defendants submitted that the CSC had acted wrongly in sticking to the original deadline for the close of the tender. The defendants argued that it was unlikely that the sale price of $610m was the appropriate sale price in the circumstances.[\[note: 226\]](#Ftn_226) The defendants also suggested that the manner in which the SPA was entered into evidenced that the sale was conducted with undue haste.[\[note: 227\]](#Ftn_227) The SPA itself was a document with tracked changes, amendments and cancellations, and was entered into within a day of the close of the tender.
+240    The defendants submitted that the CSC had acted wrongly in sticking to the original deadline for the close of the tender. The defendants argued that it was unlikely that the sale price of $610m was the appropriate sale price in the circumstances.[^226] The defendants also suggested that the manner in which the SPA was entered into evidenced that the sale was conducted with undue haste.[^227] The SPA itself was a document with tracked changes, amendments and cancellations, and was entered into within a day of the close of the tender.
 
-241    The defendants argued that the CSC had also acted wrongly in relying on Colliers’ report which was fundamentally flawed.[\[note: 228\]](#Ftn_228) On this point, the defendants relied on a belated valuation by Asian Assets Allianz Pte Ltd (“AAA”) dated 20 August 2018 which valued the Property at $637m.[\[note: 229\]](#Ftn_229)
+241    The defendants argued that the CSC had also acted wrongly in relying on Colliers’ report which was fundamentally flawed.[^228] On this point, the defendants relied on a belated valuation by Asian Assets Allianz Pte Ltd (“AAA”) dated 20 August 2018 which valued the Property at $637m.[^229]
 
-242    To summarise, the defendants submitted that the CSC breached three duties: (i) the duty to consult the subsidiary proprietors, (ii) the duty to make full disclosure of relevant information, and (iii) the duty to obtain the appropriate sale price in the circumstances.[\[note: 230\]](#Ftn_230) The CSC had these duties as a fiduciary and the trustee of the power of sale for all the subsidiary proprietors, and the defendants added that they were expressly spelt out to be the duties of the CSC pursuant to the resolution by the subsidiary proprietors at the EGM on 1 July 2017.[\[note: 231\]](#Ftn_231)
+242    To summarise, the defendants submitted that the CSC breached three duties: (i) the duty to consult the subsidiary proprietors, (ii) the duty to make full disclosure of relevant information, and (iii) the duty to obtain the appropriate sale price in the circumstances.[^230] The CSC had these duties as a fiduciary and the trustee of the power of sale for all the subsidiary proprietors, and the defendants added that they were expressly spelt out to be the duties of the CSC pursuant to the resolution by the subsidiary proprietors at the EGM on 1 July 2017.[^231]
 
 243    The defendants submitted that the above conduct of the CSC was evidence of bad faith.
 
@@ -824,21 +825,21 @@ Paragraphs 9(1) and 9(2) do not require the CSC to display the minutes of the E
 
 244    The plaintiffs disagreed.
 
-245    The plaintiffs submitted that the CSC had relied on Knight Frank to advise them of the necessary steps in connection with the collective sale, including when to carry out the DC verification.[\[note: 232\]](#Ftn_232) The plaintiffs and Knight Frank said that Knight Frank was to obtain the DC verification only after the 80% consent threshold had been achieved. This was done. The plaintiffs contended that this was in line with market practice for the “qualified person” (in this case, Ong & Ong) to be appointed to obtain the DC verification only after the 80% consent threshold had been achieved, because the DC verification would generally cost around $20,000.[\[note: 233\]](#Ftn_233) The plaintiffs submitted that there was no obligation on Knight Frank to obtain the DC verification before the launch of the Property for sale.[\[note: 234\]](#Ftn_234) Instead, they argued that it was market practice for the marketing agent to estimate the DC at the early stages of the sale process and thereafter market the Property based on the estimated DC.[\[note: 235\]](#Ftn_235) The plaintiffs also contended that it was market practice to launch the Property for sale and seek the DC verification concurrently especially when there was an urgency for such a launch.[\[note: 236\]](#Ftn_236) The plaintiffs submitted that there was such a real urgency in this case because there were multiple competing land sites which were up for sale in the first quarter of 2018, whether via public tender or private contract.[\[note: 237\]](#Ftn_237) In considering the market conditions, Knight Frank also considered whether the government would introduce any cooling measures.[\[note: 238\]](#Ftn_238)
+245    The plaintiffs submitted that the CSC had relied on Knight Frank to advise them of the necessary steps in connection with the collective sale, including when to carry out the DC verification.[^232] The plaintiffs and Knight Frank said that Knight Frank was to obtain the DC verification only after the 80% consent threshold had been achieved. This was done. The plaintiffs contended that this was in line with market practice for the “qualified person” (in this case, Ong & Ong) to be appointed to obtain the DC verification only after the 80% consent threshold had been achieved, because the DC verification would generally cost around $20,000.[^233] The plaintiffs submitted that there was no obligation on Knight Frank to obtain the DC verification before the launch of the Property for sale.[^234] Instead, they argued that it was market practice for the marketing agent to estimate the DC at the early stages of the sale process and thereafter market the Property based on the estimated DC.[^235] The plaintiffs also contended that it was market practice to launch the Property for sale and seek the DC verification concurrently especially when there was an urgency for such a launch.[^236] The plaintiffs submitted that there was such a real urgency in this case because there were multiple competing land sites which were up for sale in the first quarter of 2018, whether via public tender or private contract.[^237] In considering the market conditions, Knight Frank also considered whether the government would introduce any cooling measures.[^238]
 
-246    The plaintiffs also submitted that Knight Frank had taken the necessary steps to estimate the DC and each estimate it provided had been calculated with the latest information available to it at the relevant time.[\[note: 239\]](#Ftn_239) The plaintiffs contended that Knight Frank’s overall message to the subsidiary proprietors was that its DC estimates were subject to verification.[\[note: 240\]](#Ftn_240) The plaintiffs submitted that there was no evidence of any subsidiary proprietor who had signed the CSA: (i) in reliance of the alleged representation that the DC was rising and he should thus sign the CSA as soon as possible; or (ii) seeking to withdraw from the CSA after being informed that no DC was payable at the owners’ meeting on 19 March 2018.[\[note: 241\]](#Ftn_241)
+246    The plaintiffs also submitted that Knight Frank had taken the necessary steps to estimate the DC and each estimate it provided had been calculated with the latest information available to it at the relevant time.[^239] The plaintiffs contended that Knight Frank’s overall message to the subsidiary proprietors was that its DC estimates were subject to verification.[^240] The plaintiffs submitted that there was no evidence of any subsidiary proprietor who had signed the CSA: (i) in reliance of the alleged representation that the DC was rising and he should thus sign the CSA as soon as possible; or (ii) seeking to withdraw from the CSA after being informed that no DC was payable at the owners’ meeting on 19 March 2018.[^241]
 
-247    Further, the plaintiffs suggested that the DC was not material. They submitted that there was no direct correlation between (a) the DC and bid prices,[\[note: 242\]](#Ftn_242) (b) the DC and the reserve price[\[note: 243\]](#Ftn_243) and (c) the reserve price and bid prices.[\[note: 244\]](#Ftn_244) The plaintiffs thus argued that there was no obligation under the CSA and no need for the CSC to increase the reserve price upon learning that no DC was payable since there was no guarantee that higher bid prices would have been received.[\[note: 245\]](#Ftn_245) Instead, the plaintiffs contended that the marketing strategy of the CSC (and Knight Frank) was to keep the reserve price reasonable to encourage more competition between potential bidders and in turn drive up bid prices.[\[note: 246\]](#Ftn_246)
+247    Further, the plaintiffs suggested that the DC was not material. They submitted that there was no direct correlation between (a) the DC and bid prices,[^242] (b) the DC and the reserve price[^243] and (c) the reserve price and bid prices.[^244] The plaintiffs thus argued that there was no obligation under the CSA and no need for the CSC to increase the reserve price upon learning that no DC was payable since there was no guarantee that higher bid prices would have been received.[^245] Instead, the plaintiffs contended that the marketing strategy of the CSC (and Knight Frank) was to keep the reserve price reasonable to encourage more competition between potential bidders and in turn drive up bid prices.[^246]
 
-248    The plaintiffs also submitted that the defendants had not raised before the Board the ground of objection that the CSC required or should have sought fresh instructions or guidance from the subsidiary proprietors where there was a material change in the actual DC from Knight Frank’s last DC estimate.[\[note: 247\]](#Ftn_247) The plaintiffs contended that in any event, the CSA did not require the CSC to seek any fresh instructions or guidance where there was a material change in circumstances,[\[note: 248\]](#Ftn_248) and the subsidiary proprietors had authorised the CSC to sell the Property as long as the sale price was above the reserve price (and the independent valuation price, which in this case was Colliers’ valuation).[\[note: 249\]](#Ftn_249) The plaintiffs added that there was no utility in immediately notifying the subsidiary proprietors that no DC was payable,[\[note: 250\]](#Ftn_250) and that all subsidiary proprietors would be deemed to have been made aware of this fact by the time Knight Frank advertised it in the Business Times on 1 March 2018.[\[note: 251\]](#Ftn_251)
+248    The plaintiffs also submitted that the defendants had not raised before the Board the ground of objection that the CSC required or should have sought fresh instructions or guidance from the subsidiary proprietors where there was a material change in the actual DC from Knight Frank’s last DC estimate.[^247] The plaintiffs contended that in any event, the CSA did not require the CSC to seek any fresh instructions or guidance where there was a material change in circumstances,[^248] and the subsidiary proprietors had authorised the CSC to sell the Property as long as the sale price was above the reserve price (and the independent valuation price, which in this case was Colliers’ valuation).[^249] The plaintiffs added that there was no utility in immediately notifying the subsidiary proprietors that no DC was payable,[^250] and that all subsidiary proprietors would be deemed to have been made aware of this fact by the time Knight Frank advertised it in the Business Times on 1 March 2018.[^251]
 
-249    Furthermore, the plaintiffs said that Knight Frank had acted promptly to notify potential bidders about the fact that no DC was payable. Immediately after Knight Frank knew that no DC was payable, it undertook extensive marketing efforts to publicise this fact, including emailing some 652 potential bidders on 26 February 2018.[\[note: 252\]](#Ftn_252) The plaintiffs argued that potential bidders would have been able to react quickly to the news as they would have done their homework already. Given the large site of the Property, they would have conducted their feasibility studies ahead of time pending the DC verification.[\[note: 253\]](#Ftn_253) The DC was just an acquisition cost item and it would be a question of simply computing the figures depending on whether a DC was payable.[\[note: 254\]](#Ftn_254) This cost item would also be recouped by passing it on to future purchasers.[\[note: 255\]](#Ftn_255) The plaintiffs further argued that by the close of the tender, all potential bidders had in fact been informed that no DC was payable, and the market, which was weak at that time, had fully reacted to this new information.[\[note: 256\]](#Ftn_256) The plaintiffs added that five potential bidders had also requested a site inspection of the Property.[\[note: 257\]](#Ftn_257)
+249    Furthermore, the plaintiffs said that Knight Frank had acted promptly to notify potential bidders about the fact that no DC was payable. Immediately after Knight Frank knew that no DC was payable, it undertook extensive marketing efforts to publicise this fact, including emailing some 652 potential bidders on 26 February 2018.[^252] The plaintiffs argued that potential bidders would have been able to react quickly to the news as they would have done their homework already. Given the large site of the Property, they would have conducted their feasibility studies ahead of time pending the DC verification.[^253] The DC was just an acquisition cost item and it would be a question of simply computing the figures depending on whether a DC was payable.[^254] This cost item would also be recouped by passing it on to future purchasers.[^255] The plaintiffs further argued that by the close of the tender, all potential bidders had in fact been informed that no DC was payable, and the market, which was weak at that time, had fully reacted to this new information.[^256] The plaintiffs added that five potential bidders had also requested a site inspection of the Property.[^257]
 
-250    The plaintiffs thus submitted that there was no need to extend the closing date of the tender and there was no request for such an extension.[\[note: 258\]](#Ftn_258) On the other hand, the plaintiffs argued that a unilateral extension by the CSC of the closing date of the tender would only send the signal that the Property was undesirable and might be construed as a sign of desperation.[\[note: 259\]](#Ftn_259) The plaintiffs also contended that the defendants’ argument that the CSC should have extended the closing date of the tender needed to be particularised, _ie_, the defendants had to state specifically how long such extension should be.[\[note: 260\]](#Ftn_260)
+250    The plaintiffs thus submitted that there was no need to extend the closing date of the tender and there was no request for such an extension.[^258] On the other hand, the plaintiffs argued that a unilateral extension by the CSC of the closing date of the tender would only send the signal that the Property was undesirable and might be construed as a sign of desperation.[^259] The plaintiffs also contended that the defendants’ argument that the CSC should have extended the closing date of the tender needed to be particularised, _ie_, the defendants had to state specifically how long such extension should be.[^260]
 
-251    The plaintiffs also submitted that the CSC and Knight Frank had chosen to adopt a “wait and see approach” to the tender process, where the tender would be closed as scheduled to ascertain the market’s interest in the Property with the bids submitted.[\[note: 261\]](#Ftn_261) Until that time, the CSC would also consider any request for an extension of the closing date of the tender. Thereafter at the close of the tender, the CSC did not have to award the tender to any bidder and could decide to launch the Property for sale again by public tender, if needed.[\[note: 262\]](#Ftn_262)
+251    The plaintiffs also submitted that the CSC and Knight Frank had chosen to adopt a “wait and see approach” to the tender process, where the tender would be closed as scheduled to ascertain the market’s interest in the Property with the bids submitted.[^261] Until that time, the CSC would also consider any request for an extension of the closing date of the tender. Thereafter at the close of the tender, the CSC did not have to award the tender to any bidder and could decide to launch the Property for sale again by public tender, if needed.[^262]
 
-252    The plaintiffs argued that in any event, even if the CSC or Knight Frank had breached any of its duties, the defendants had not suffered any prejudice because the higher bid was more than 12.5% higher than Colliers’ valuation and Colliers’ valuation was valid whereas the valuation by AAA was not.[\[note: 263\]](#Ftn_263) The plaintiffs explained that the CSC had awarded the tender to the joint-bidders the day after the tender was closed, because the joint-bidders had required the CSC to decide whether to award the tender to them by 3pm on 8 March 2018.[\[note: 264\]](#Ftn_264)
+252    The plaintiffs argued that in any event, even if the CSC or Knight Frank had breached any of its duties, the defendants had not suffered any prejudice because the higher bid was more than 12.5% higher than Colliers’ valuation and Colliers’ valuation was valid whereas the valuation by AAA was not.[^263] The plaintiffs explained that the CSC had awarded the tender to the joint-bidders the day after the tender was closed, because the joint-bidders had required the CSC to decide whether to award the tender to them by 3pm on 8 March 2018.[^264]
 
 ##### (2)   Decision
 
@@ -846,11 +847,11 @@ Paragraphs 9(1) and 9(2) do not require the CSC to display the minutes of the E
 
 253    I make two preliminary points in relation to this ground of objection pertaining to the DC.
 
-254    First, I found that the defendants had raised before the Board the complaint that the CSC should have sought a fresh mandate from the subsidiary proprietors upon learning that no DC was payable. Before the Board, the defendants stated:[\[note: 265\]](#Ftn_265)
+254    First, I found that the defendants had raised before the Board the complaint that the CSC should have sought a fresh mandate from the subsidiary proprietors upon learning that no DC was payable. Before the Board, the defendants stated:[^265]
 
 Further, once the CSC found out that there was no \[DC\], the CSC ought to have halted the tender process to seek a fresh mandate from the \[subsidiary proprietors\] on whether to proceed at the \[reserve price\] of $550 million or to hold a re-tender. With no \[DC\], the \[subsidiary proprietors\] would likely have been able to set a higher \[reserve price\].
 
-255    It was not disputed that the other aspects of the ground of objection pertaining to the DC had been raised before the Board.[\[note: 266\]](#Ftn_266)
+255    It was not disputed that the other aspects of the ground of objection pertaining to the DC had been raised before the Board.[^266]
 
 256    Second, as mentioned at \[188\]–\[189\] above, while the CSC could rely on the advice of their professional advisers, Knight Frank and R&T, the CSC could not simply delegate their duties to the professional advisers or simply rely on the advice given to excuse every lapse on the part of the CSC in respect of their own duties. In any case, Knight Frank and R&T were also the CSC’s agents for the purposes of the collective sale. A finding that the transaction was not in good faith under s 84A(9)(_a_)(i) did not necessarily need to be confined to the conduct of the CSC alone but could take into account the conduct of their professional advisers too.
 
@@ -858,9 +859,9 @@ Further, once the CSC found out that there was no \[DC\], the CSC ought to have 
 
 257    I turn to consider the importance of the DC. I was of the view that the DC verification was material. It was absurd for the plaintiffs and Knight Frank to try and downplay its importance for the hearing of the plaintiffs’ application to the court.
 
-258    In a situational update from the CSC dated 18 October 2017, which was provided with inputs from Knight Frank, the CSC had stated that the DC was one of the factors that had been taken into consideration to establish the reserve price.[\[note: 267\]](#Ftn_267) It was not disputed that the reserve price was important to the subsidiary proprietors as they would not be obliged to sell if a bid was below the reserve price.
+258    In a situational update from the CSC dated 18 October 2017, which was provided with inputs from Knight Frank, the CSC had stated that the DC was one of the factors that had been taken into consideration to establish the reserve price.[^267] It was not disputed that the reserve price was important to the subsidiary proprietors as they would not be obliged to sell if a bid was below the reserve price.
 
-259    While it might be likely that potential bidders would not place too much weight on the reserve price when deciding how much the Property was worth, this did not mean that the DC was irrelevant to them. On the contrary, they would still take into account the DC. Indeed, Knight Frank said as much when it sent a letter dated 8 December 2017 to alert the subsidiary proprietors of the high likelihood that DC rates would rise from 1 March 2018.[\[note: 268\]](#Ftn_268) Furthermore, the fact that Knight Frank had to act urgently to inform potential bidders that there was no DC payable proved that the DC was material information to such parties.
+259    While it might be likely that potential bidders would not place too much weight on the reserve price when deciding how much the Property was worth, this did not mean that the DC was irrelevant to them. On the contrary, they would still take into account the DC. Indeed, Knight Frank said as much when it sent a letter dated 8 December 2017 to alert the subsidiary proprietors of the high likelihood that DC rates would rise from 1 March 2018.[^268] Furthermore, the fact that Knight Frank had to act urgently to inform potential bidders that there was no DC payable proved that the DC was material information to such parties.
 
 260    In summary:
 
@@ -868,7 +869,7 @@ Further, once the CSC found out that there was no \[DC\], the CSC ought to have 
 
 (b)     the DC was also a factor in determining the reserve price which was more important to subsidiary proprietors than to potential bidders.
 
-261    In this regard, the defendants submitted that with no DC, the reserve price should have been increased. On the other hand, the plaintiffs brought to my attention that after the subsidiary proprietors were informed of an increase in Knight Frank’s estimate of the DC from an earlier estimate of around $58.5m to $63.19m, the reserve price was not reduced but remained at $550m.[\[note: 269\]](#Ftn_269)
+261    In this regard, the defendants submitted that with no DC, the reserve price should have been increased. On the other hand, the plaintiffs brought to my attention that after the subsidiary proprietors were informed of an increase in Knight Frank’s estimate of the DC from an earlier estimate of around $58.5m to $63.19m, the reserve price was not reduced but remained at $550m.[^269]
 
 262    I accepted that a reduction in the DC would not necessarily mean an increase in the reserve price. Likewise, an increase in the DC would not necessarily mean a reduction in the reserve price.
 
@@ -878,29 +879,29 @@ Further, once the CSC found out that there was no \[DC\], the CSC ought to have 
 
 264    I turn next to the question as to whether Knight Frank could provide estimates of the DC to the subsidiary proprietors. Section 13(1A) of the Planning Act provides that a person applying for planning permission is to appoint an architect or engineer to carry out certain duties. The Planning Act does not preclude Knight Frank from making DC estimates. However, because these were only estimates, the CSC should have proceeded with more caution.
 
-265    In so far as the defendants relied on AAA’s comments that Knight Frank had based its previous estimates of the DC on the wrong basis,[\[note: 270\]](#Ftn_270) Knight Frank disputed this. It was unnecessary for me to decide how Knight Frank had arrived at the wrong figures as there was no suggestion that the CSC should have known of the wrong basis. I add that regardless of the correctness or incorrectness of Knight Frank’s methodologies for estimating the DC, the fact of the matter was that Knight Frank was way off in its assessment of the actual DC. Knight Frank’s third and last estimate to the subsidiary proprietors on 25 January 2018 had been $63.19m when there was in fact no DC payable. As the defendants drew to my attention, Knight Frank’s over-estimation of $63.19m was much worse than the over-estimation in _Chua Choon Cheng and others v Allgreen Properties Ltd and another appeal_ .[\[note: 271\]](#Ftn_271) The Court of Appeal, in describing the facts of that case, remarked at \[12\] that the DC (which was factored into the sale price) had been “grossly over-estimated by some $6.6m”, where the actual DC of $950,894 was “a startling 87% difference from the original estimate of $7.6m”.
+265    In so far as the defendants relied on AAA’s comments that Knight Frank had based its previous estimates of the DC on the wrong basis,[^270] Knight Frank disputed this. It was unnecessary for me to decide how Knight Frank had arrived at the wrong figures as there was no suggestion that the CSC should have known of the wrong basis. I add that regardless of the correctness or incorrectness of Knight Frank’s methodologies for estimating the DC, the fact of the matter was that Knight Frank was way off in its assessment of the actual DC. Knight Frank’s third and last estimate to the subsidiary proprietors on 25 January 2018 had been $63.19m when there was in fact no DC payable. As the defendants drew to my attention, Knight Frank’s over-estimation of $63.19m was much worse than the over-estimation in _Chua Choon Cheng and others v Allgreen Properties Ltd and another appeal_ .[^271] The Court of Appeal, in describing the facts of that case, remarked at \[12\] that the DC (which was factored into the sale price) had been “grossly over-estimated by some $6.6m”, where the actual DC of $950,894 was “a startling 87% difference from the original estimate of $7.6m”.
 
 (D)   Obtaining the DC verification before the launch of the Property for sale
 
-266    Should Knight Frank have obtained the DC verification before the launch of the Property for sale? Leaving aside the evidence for the time being, I would have thought that, as a matter of general principle, such important information should logically be obtained first before a sales launch so that subsidiary proprietors are making an informed decision as to what reserve price to set and also eventually what price to accept. Also, even though I accepted that the reserve price is not likely to influence the bid price from potential bidders, the DC itself does influence the bid price. Therefore, it is also preferable if the DC verification is provided to potential bidders earlier rather than later. I come now to the terms of the scope of services which Knight Frank was to provide. The terms of the scope of services were included in the CSA (under Sched 5 to the CSA) and both sides relied on the terms.[\[note: 272\]](#Ftn_272)
+266    Should Knight Frank have obtained the DC verification before the launch of the Property for sale? Leaving aside the evidence for the time being, I would have thought that, as a matter of general principle, such important information should logically be obtained first before a sales launch so that subsidiary proprietors are making an informed decision as to what reserve price to set and also eventually what price to accept. Also, even though I accepted that the reserve price is not likely to influence the bid price from potential bidders, the DC itself does influence the bid price. Therefore, it is also preferable if the DC verification is provided to potential bidders earlier rather than later. I come now to the terms of the scope of services which Knight Frank was to provide. The terms of the scope of services were included in the CSA (under Sched 5 to the CSA) and both sides relied on the terms.[^272]
 
 267    While it was true that the terms provided for Knight Frank to carry out the exercise to obtain the DC verification upon achieving the 80% consent threshold, this did not mean that Knight Frank was to obtain the DC verification concurrently in the period when the public tender remained open.
 
 268    Both the CSC and Knight Frank had overlooked the following. Knight Frank had divided its scope of work into three stages: “Pre-Sale Preparation”, “Marketing Stage” and “Post Marketing Stage”. The provision about obtaining the DC verification was placed only under the first stage, _ie_, the Pre-Sale Preparation. The second stage, _ie_, the Marketing Stage, did not include any work pertaining to the receipt of or evaluation of the DC verification.
 
-269    Likewise, in an “Estimated Project Timeline” provided by Knight Frank at the EGM on 9 September 2017 which showed the sequence of various events, the step to carry out the DC verification was shown as occurring before the launch of the Property for sale.[\[note: 273\]](#Ftn_273) There was no other step shown to suggest that the receipt of and evaluation of the DC verification would be done concurrently in the period when the public tender remained open.
+269    Likewise, in an “Estimated Project Timeline” provided by Knight Frank at the EGM on 9 September 2017 which showed the sequence of various events, the step to carry out the DC verification was shown as occurring before the launch of the Property for sale.[^273] There was no other step shown to suggest that the receipt of and evaluation of the DC verification would be done concurrently in the period when the public tender remained open.
 
 270    Quite clearly, Knight Frank’s own terms of appointment envisaged that the DC verification was to have been carried out and concluded before the launch of the Property for sale. It was therefore not open to Knight Frank or the CSC to try and argue that it was market practice to do otherwise.
 
 271    It was not the case of the plaintiffs that the CSC and Knight Frank knew that Knight Frank was supposed to obtain the DC verification first but, for some good reason, they both agreed not to stick to the original sequence envisaged and agreed instead to obtain the DC verification later. Instead, it was the plaintiffs’ case that Knight Frank’s terms of appointment did not require Knight Frank to obtain the DC verification first before the launch of the Property for sale. As I have mentioned, the plaintiffs were wrong on this point.
 
-272    It seemed that the CSC and Knight Frank were in some haste to launch the sale because of concerns about competing land sites and the likelihood that DC rates would be raised from 1 March 2018. Even then, they should have been more careful about the possibility that the DC might be materially different from Knight Frank’s latest estimate. After all, one of the marketing agents which submitted a competing proposal to the CSC had considered that the DC payable ranged from _zero_ to $38.7m.[\[note: 274\]](#Ftn_274) I found that there was some merit in the defendants’ argument that the CSC could have waited two weeks to obtain the DC verification before having the Property launched for sale, since that was Knight Frank’s expectation with regard to when the DC verification would be obtained (although I noted that the DC verification was eventually obtained around four weeks later).
+272    It seemed that the CSC and Knight Frank were in some haste to launch the sale because of concerns about competing land sites and the likelihood that DC rates would be raised from 1 March 2018. Even then, they should have been more careful about the possibility that the DC might be materially different from Knight Frank’s latest estimate. After all, one of the marketing agents which submitted a competing proposal to the CSC had considered that the DC payable ranged from _zero_ to $38.7m.[^274] I found that there was some merit in the defendants’ argument that the CSC could have waited two weeks to obtain the DC verification before having the Property launched for sale, since that was Knight Frank’s expectation with regard to when the DC verification would be obtained (although I noted that the DC verification was eventually obtained around four weeks later).
 
 273    The truth of the matter was that Knight Frank and the CSC, as well as R&T, were all complacent about the DC. Even though Knight Frank had made it clear that Knight Frank’s estimates of the DC were subject to verification, they had all assumed that there would be no material difference between the last estimate of the DC given by Knight Frank before the launch of the Property for sale and the actual DC as verified. This was why the CSC, Knight Frank and R&T were prepared to let the Property be launched for sale without obtaining the DC verification first. That was also why none of them had highlighted to the subsidiary proprietors that the actual DC could be very different from the last estimate provided. Apparently neither Knight Frank nor R&T advised the CSC to ask for guidance from the subsidiary proprietors as to what the CSC should do in the event of a material difference.
 
 274    Had the CSC, Knight Frank and R&T given adequate thought to the possibility of a material difference, they ought to have realised that it would have been prudent to obtain the DC verification before the Property was launched for sale. Alternatively, they ought to have highlighted to the subsidiary proprietors that the actual DC could be very different and ought to have sought consensus as to what the CSC should do if in fact there was a material difference.
 
-275    Indeed, it was ironic that the CSC’s situational update dated 18 October 2017 to the subsidiary proprietors had stated, “The worse thing that can happen is a decision made based on wrong information.”[\[note: 275\]](#Ftn_275)
+275    Indeed, it was ironic that the CSC’s situational update dated 18 October 2017 to the subsidiary proprietors had stated, “The worse thing that can happen is a decision made based on wrong information.”[^275]
 
 (E)   Extending the closing date of the public tender
 
@@ -916,7 +917,7 @@ Further, once the CSC found out that there was no \[DC\], the CSC ought to have 
 
 (d)     7 March 2018: the tender was closed as scheduled.
 
-278    The DC verification result was a material development. There was nil DC instead of the $63.19m given in the last estimate by Knight Frank. It was unclear when R&T knew about this development.[\[note: 276\]](#Ftn_276)
+278    The DC verification result was a material development. There was nil DC instead of the $63.19m given in the last estimate by Knight Frank. It was unclear when R&T knew about this development.[^276]
 
 279    In my view, as the information concerning the nil DC was received barely over a week, _ie_, nine days, before the close of the tender, the CSC should have extended the closing date of the tender by at least one week. Knight Frank had estimated in its marketing efforts that potential bidders would have known the actual DC around a month before the close of the tender, but this time estimation was off and potential bidders had around 2.5 weeks less to consider the information concerning the actual DC.
 
@@ -934,7 +935,7 @@ Further, once the CSC found out that there was no \[DC\], the CSC ought to have 
 
 285    As the trustee of the power of collective sale, the CSC had duties to act conscientiously in exercising this power and to make full disclosure of relevant information. These were continuing duties. As the Court of Appeal stated in _Horizon Towers (CA)_, “whenever there is reasonable doubt as to the proper course to adopt, the \[collective sale committee\] ought to seek fresh instructions or guidance from the consenting subsidiary proprietors from whom it draws its mandate” (at \[166\]). This is even if the collective sale agreement did not specifically require the collective sale committee to seek any fresh instructions or guidance where there was a material change in circumstances, as in this case. I noted here that the Court of Appeal emphasised the importance of the collective sale committee consulting the subsidiary proprietors who had already signed the collective sale agreement of new material information, and not just merely updating those who had not signed the collective sale agreement. A collective sale committee must not assume that as and when new material information arises in relation to the collective sale, the majority owners would still simply agree with all the subsequent decisions the collective sale committee makes when these decisions affect the sale of the subsidiary proprietors’ individual properties.
 
-286    It was also not sufficient for the CSC to say that they had the power to increase the reserve price under the CSA,[\[note: 277\]](#Ftn_277) because this power was only meant to facilitate and expedite the collective sale process. Indeed, if the actual DC was materially higher than the last DC estimate, the CSC had no authority to reduce the reserve price even if it might be prudent to do so. The CSC only had authority to increase the reserve price. It was also not sufficient for the CSC to say that the subsidiary proprietors had authorised the CSC to sell the Property as long as the sale price was above the reserve price and the independent valuation price. That was also not the point.
+286    It was also not sufficient for the CSC to say that they had the power to increase the reserve price under the CSA,[^277] because this power was only meant to facilitate and expedite the collective sale process. Indeed, if the actual DC was materially higher than the last DC estimate, the CSC had no authority to reduce the reserve price even if it might be prudent to do so. The CSC only had authority to increase the reserve price. It was also not sufficient for the CSC to say that the subsidiary proprietors had authorised the CSC to sell the Property as long as the sale price was above the reserve price and the independent valuation price. That was also not the point.
 
 287    While a collective sale committee does not have to consult the subsidiary proprietors every time there is new information, the question as to whether the collective sale committee ought to do so depends particularly on the materiality of the information and whether it is something which may not have been within the reasonable contemplation of the subsidiary proprietors. Furthermore, seeking such fresh instructions is more critical when there is “reasonable doubt that \[the collective sale committee’s\] original mandate no longer reflects the consensus of the consenting subsidiary proprietors” (_Horizon Towers (CA)_ at \[168(i)\]).
 
@@ -944,17 +945,17 @@ Further, once the CSC found out that there was no \[DC\], the CSC ought to have 
 
 290    I found that, unfortunately, Knight Frank and the CSC did not even consider whether the new information should have been disclosed to the subsidiary proprietors at the material time. This was not a case where they had raised and discussed this question. It did not cross their minds.
 
-291    In this regard, I reproduce what Lim (the chairman of the CSC) stated in his affidavit:[\[note: 278\]](#Ftn_278)
+291    In this regard, I reproduce what Lim (the chairman of the CSC) stated in his affidavit:[^278]
 
 Given that one of \[Knight Frank\]’s proposed steps was to advertise the fact that no \[DC\] was payable, we did not focus on updating the subsidiary proprietors immediately about the \[DC\] as _this news would be publicly announced_ **_in any event_** _when the newspaper advertisement was published_. _The CSC was also planning to update the owners at the owners’ meeting_ **_after the close of tender_** _on all relevant matters_, **_including the fact that no \[DC\] was payable_**_._ \[emphasis added in italics and bold italics\]
 
 292    This paragraph could give the impression that the CSC did consider updating the subsidiary proprietors on the nil DC but did not focus on doing so as the CSC thought that a newspaper advertisement (_ie_, that in the Business Times on 1 March 2018) would bring the news to the attention of all the subsidiary proprietors in any event. However, the truth of the matter was that the CSC did not consider updating the subsidiary proprietors at all as their attention was only on what to do _vis-à-vis_ the tender process. Had the CSC really considered this point of notifying all the subsidiary proprietors, the CSC would have realised that a newspaper advertisement would not have been adequate in doing so. Furthermore, the CSC would then also have ensured that the subsidiary proprietors were informed as soon as possible either before or immediately after the close of the tender. It was telling that when Knight Frank first sent the subsidiary proprietors a letter after the close of the tender on 8 March 2018 to inform them that a sale contract had been entered into, Knight Frank did not disclose the new information on the nil DC (see \[27\] above). This suggested that the point of disclosure was not on Knight Frank’s mind and neither had the CSC impressed the point upon Knight Frank.
 
-293    I noted that in answering the queries at the owners’ meeting on 19 March 2018 as to why the subsidiary proprietors were not informed more promptly on the nil DC, Chan had conceded (albeit very briefly): “I would concede we could have done better”.[\[note: 279\]](#Ftn_279) But even then, Lim sought to explain away this acknowledgment by Chan. In Lim’s affidavit, he sought to qualify this acknowledgment by pointing to the statement from Chan following the acknowledgment: “but bear in mind it was 3.5 working days and the developers were watching this baseline number very quickly and we had to react very fast by taking out the ads …”[\[note: 280\]](#Ftn_280) In my view, this qualification did not assist the CSC and instead suggested that they were resiling from Chan’s admission that the CSC could have done better.
+293    I noted that in answering the queries at the owners’ meeting on 19 March 2018 as to why the subsidiary proprietors were not informed more promptly on the nil DC, Chan had conceded (albeit very briefly): “I would concede we could have done better”.[^279] But even then, Lim sought to explain away this acknowledgment by Chan. In Lim’s affidavit, he sought to qualify this acknowledgment by pointing to the statement from Chan following the acknowledgment: “but bear in mind it was 3.5 working days and the developers were watching this baseline number very quickly and we had to react very fast by taking out the ads …”[^280] In my view, this qualification did not assist the CSC and instead suggested that they were resiling from Chan’s admission that the CSC could have done better.
 
 294    I noted that the CSC did not convene any CSC meeting after being informed that no DC was payable to discuss how to proceed in relation to the tender process. The discussions which they had with Knight Frank or internally amongst themselves were mostly through the use of the phone. The defendants suggested that all decisions of the CSC had to be made at CSC meetings and, consequently, minutes of such meetings should have been kept.
 
-295    Paragraph 8 of the Third Schedule does seem to suggest that decisions of a collective sale committee are to be made at physical meetings of a collective sale committee. Paragraph 8(1) refers to a quorum for such a meeting and para 8(2) refers to a decision by the majority of members of the collective sale committee present and voting at any meeting of the collective sale committee. Paragraph 8 is silent on the question whether discussions and decisions of a collective sale committee may be made other than at a physical meeting. In times of urgency and in view of technological advances, it seemed incongruous to insist that all important decisions must be made at a physical meeting. I doubted that that is required. However, even if a physical meeting is not always necessary, the CSC members should have kept a written record of any discussions they had had with Knight Frank or amongst themselves whether through the use of the phone or in person especially on important matters.[\[note: 281\]](#Ftn_281) Such a record could then be made available to the subsidiary proprietors if required. This would also be in accordance with para 9(1) of the Third Schedule which states that a collective sale committee “shall keep minutes of its proceedings”. While the omission to keep such records was not evidence of a lack of good faith, it was an illustration of the low standards of the CSC.
+295    Paragraph 8 of the Third Schedule does seem to suggest that decisions of a collective sale committee are to be made at physical meetings of a collective sale committee. Paragraph 8(1) refers to a quorum for such a meeting and para 8(2) refers to a decision by the majority of members of the collective sale committee present and voting at any meeting of the collective sale committee. Paragraph 8 is silent on the question whether discussions and decisions of a collective sale committee may be made other than at a physical meeting. In times of urgency and in view of technological advances, it seemed incongruous to insist that all important decisions must be made at a physical meeting. I doubted that that is required. However, even if a physical meeting is not always necessary, the CSC members should have kept a written record of any discussions they had had with Knight Frank or amongst themselves whether through the use of the phone or in person especially on important matters.[^281] Such a record could then be made available to the subsidiary proprietors if required. This would also be in accordance with para 9(1) of the Third Schedule which states that a collective sale committee “shall keep minutes of its proceedings”. While the omission to keep such records was not evidence of a lack of good faith, it was an illustration of the low standards of the CSC.
 
 (G)   Conclusion
 
@@ -966,47 +967,47 @@ Given that one of \[Knight Frank\]’s proposed steps was to advertise the fact 
 
 ##### (1)   Parties’ arguments
 
-298    The question then was whether Colliers’ valuation was fundamentally flawed or was at an undervalue as alleged by the defendants.[\[note: 282\]](#Ftn_282) This pertained to the eighth and final sub-issue about good faith. The defendants thus submitted that Colliers’ report failed to be a valuation report that satisfied the requirements in para 11(2) of the Third Schedule.[\[note: 283\]](#Ftn_283)
+298    The question then was whether Colliers’ valuation was fundamentally flawed or was at an undervalue as alleged by the defendants.[^282] This pertained to the eighth and final sub-issue about good faith. The defendants thus submitted that Colliers’ report failed to be a valuation report that satisfied the requirements in para 11(2) of the Third Schedule.[^283]
 
-299    It was not disputed that this ground of objection pertaining to Colliers’ valuation had not been raised before the Board specifically.[\[note: 284\]](#Ftn_284) However, the defendants submitted that since the CSC was relying on Colliers’ valuation, the defendants should be permitted to show why it was unreliable.[\[note: 285\]](#Ftn_285) Alternatively, the defendants argued that this ground of objection pertaining to Colliers’ valuation could come under the broad issue of good faith which had been raised before the Board.[\[note: 286\]](#Ftn_286)
+299    It was not disputed that this ground of objection pertaining to Colliers’ valuation had not been raised before the Board specifically.[^284] However, the defendants submitted that since the CSC was relying on Colliers’ valuation, the defendants should be permitted to show why it was unreliable.[^285] Alternatively, the defendants argued that this ground of objection pertaining to Colliers’ valuation could come under the broad issue of good faith which had been raised before the Board.[^286]
 
-300    In summary, both Colliers’ valuation and AAA’s valuation took into account the fact that there was no DC. However, AAA’s valuation at $637m,[\[note: 287\]](#Ftn_287) which the defendants relied on, was much higher than Colliers’ valuation at $542m. This was because both valuations were based on different premises.
+300    In summary, both Colliers’ valuation and AAA’s valuation took into account the fact that there was no DC. However, AAA’s valuation at $637m,[^287] which the defendants relied on, was much higher than Colliers’ valuation at $542m. This was because both valuations were based on different premises.
 
-301    Colliers’ valuation was based on a GPR of 1.4 as permitted under the URA Master Plan 2014.[\[note: 288\]](#Ftn_288) AAA’s valuation was based on a GPR of 1.655. This was because AAA did not use the GPR provided under the URA Master Plan 2014. Instead, it used the information from the development charge baseline applicable to the Property, which it claimed provided the maximum allowable development potential of the site of the Property, obtainable by applying for permission from URA.[\[note: 289\]](#Ftn_289)
+301    Colliers’ valuation was based on a GPR of 1.4 as permitted under the URA Master Plan 2014.[^288] AAA’s valuation was based on a GPR of 1.655. This was because AAA did not use the GPR provided under the URA Master Plan 2014. Instead, it used the information from the development charge baseline applicable to the Property, which it claimed provided the maximum allowable development potential of the site of the Property, obtainable by applying for permission from URA.[^289]
 
-302    The plaintiffs disputed AAA’s valuation and argued that it was speculative whether a GPR higher than 1.4 would have been allowed by URA.[\[note: 290\]](#Ftn_290) They also submitted that AAA’s valuation was prepared with the benefit of hindsight, and was out of sync with the assessment of independent valuers, marketing agents and developers at the material time.[\[note: 291\]](#Ftn_291)
+302    The plaintiffs disputed AAA’s valuation and argued that it was speculative whether a GPR higher than 1.4 would have been allowed by URA.[^290] They also submitted that AAA’s valuation was prepared with the benefit of hindsight, and was out of sync with the assessment of independent valuers, marketing agents and developers at the material time.[^291]
 
-303    In so far as AAA also criticised certain steps or omissions of Knight Frank as to how Knight Frank arrived at its DC estimates (see \[265\] above), the plaintiffs alleged that AAA had not participated in any collective sale project previously and was a partisan expert.[\[note: 292\]](#Ftn_292) I did not need to delve into this allegation as it did not add much to the arguments already raised by the plaintiffs or the defendants.
+303    In so far as AAA also criticised certain steps or omissions of Knight Frank as to how Knight Frank arrived at its DC estimates (see \[265\] above), the plaintiffs alleged that AAA had not participated in any collective sale project previously and was a partisan expert.[^292] I did not need to delve into this allegation as it did not add much to the arguments already raised by the plaintiffs or the defendants.
 
 ##### (2)   Decision
 
 304    I considered first the question as to whether the defendants were allowed to raise this ground of objection pertaining to Colliers’ valuation before the High Court.
 
-305    It was imperative for the defendants to have raised this ground of objection before the Board since, as the defendants acknowledged at the hearing, they knew or ought to have known that the plaintiffs were relying on Collier’s valuation.[\[note: 293\]](#Ftn_293)
+305    It was imperative for the defendants to have raised this ground of objection before the Board since, as the defendants acknowledged at the hearing, they knew or ought to have known that the plaintiffs were relying on Collier’s valuation.[^293]
 
-306    Further, the defendants could have raised this ground of objection before the Board. The GPR of 1.655, on which AAA’s valuation was based, was derived by “working backwards” from the GFA of 55,384m2 provided for the development charge baseline as given in URA’s letter, by dividing that GFA by the site area of 33,457.2m2.[\[note: 294\]](#Ftn_294) While the defendants did not have URA’s letter at the time they filed their objections to the Board in May 2018,[\[note: 295\]](#Ftn_295) they had a copy of Colliers’ report which specifically mentioned URA’s reply dated 26 February 2018 (_ie_, URA’s letter) and the information therein pertaining to the aforementioned GFA.[\[note: 296\]](#Ftn_296) The defendants could also have requested a copy of URA’s letter from the plaintiffs then, if the defendants thought it was necessary. It seemed to me that they did not request a copy of URA’s letter because initially they were not contesting Colliers’ valuation then. The idea of contesting it was an afterthought. Consequently, I was of the view that the defendants were not allowed to raise this ground of objection pertaining to Colliers’ valuation before the High Court, pursuant to s 84A(4A).
+306    Further, the defendants could have raised this ground of objection before the Board. The GPR of 1.655, on which AAA’s valuation was based, was derived by “working backwards” from the GFA of 55,384m2 provided for the development charge baseline as given in URA’s letter, by dividing that GFA by the site area of 33,457.2m2.[^294] While the defendants did not have URA’s letter at the time they filed their objections to the Board in May 2018,[^295] they had a copy of Colliers’ report which specifically mentioned URA’s reply dated 26 February 2018 (_ie_, URA’s letter) and the information therein pertaining to the aforementioned GFA.[^296] The defendants could also have requested a copy of URA’s letter from the plaintiffs then, if the defendants thought it was necessary. It seemed to me that they did not request a copy of URA’s letter because initially they were not contesting Colliers’ valuation then. The idea of contesting it was an afterthought. Consequently, I was of the view that the defendants were not allowed to raise this ground of objection pertaining to Colliers’ valuation before the High Court, pursuant to s 84A(4A).
 
 307    For completeness, I nevertheless discussed this ground of objection in my oral judgment especially since the defendants made much of it at the hearing. As mentioned, the crux of the dispute concerning Colliers’ valuation was whether Colliers was right in basing its valuation on the URA Master Plan 2014 and a GPR of 1.4, or whether it should have based its valuation on the development charge baseline information and a GPR of 1.655 as AAA did instead.
 
-308    URA’s letter had stated at para 5:[\[note: 297\]](#Ftn_297)
+308    URA’s letter had stated at para 5:[^297]
 
 Please note that the development charge baseline as conveyed is for purpose of computing \[DC\] and **does not indicate the allowable development potential on the site**. What can be developed on the site, i.e. the development potential, is guided by the current Master Plan \[_ie_, the URA Master Plan 2014\]. \[emphasis in original\]
 
-309    In the course of oral arguments before me, the defendants raised an additional argument. They stressed that the SPA was in fact entered into on the basis that the allowable development potential of the site of the Property would be based on the development charge baseline information and not the development potential as guided by the URA Master Plan 2014.[\[note: 298\]](#Ftn_298) They referred to Rider Clause 6C in the Appendix to the SPA which stated, _inter alia_, that the SPA was subject to the purchaser obtaining from URA a written confirmation that the Development Baseline of the site of the Property shall be a GFA of not less than 55,384m2.[\[note: 299\]](#Ftn_299) They thus submitted that Colliers was not correct to have based its valuation on a GPR of 1.4, which would mean a GFA of 46,840.08m2 only.
+309    In the course of oral arguments before me, the defendants raised an additional argument. They stressed that the SPA was in fact entered into on the basis that the allowable development potential of the site of the Property would be based on the development charge baseline information and not the development potential as guided by the URA Master Plan 2014.[^298] They referred to Rider Clause 6C in the Appendix to the SPA which stated, _inter alia_, that the SPA was subject to the purchaser obtaining from URA a written confirmation that the Development Baseline of the site of the Property shall be a GFA of not less than 55,384m2.[^299] They thus submitted that Colliers was not correct to have based its valuation on a GPR of 1.4, which would mean a GFA of 46,840.08m2 only.
 
-310    As it turned out, this submission was based on a misinterpretation of the SPA by the defendants. As the plaintiffs submitted, Rider Clause 6C was concerned with ensuring that no DC was payable.[\[note: 300\]](#Ftn_300)
+310    As it turned out, this submission was based on a misinterpretation of the SPA by the defendants. As the plaintiffs submitted, Rider Clause 6C was concerned with ensuring that no DC was payable.[^300]
 
-311    The question of the GPR was addressed in a different provision, _ie_, Rider Clause 6B in the Appendix to the SPA. Rider Clause 6B stated, _inter alia_, that the SPA was subject to the purchaser obtaining the written approval of URA for the outline planning permission for proposed redevelopment of the Property into a residential development with a GPR of not less than 1.4.[\[note: 301\]](#Ftn_301) As mentioned, the GPR of 1.4 was that permitted under the URA Master Plan 2014.
+311    The question of the GPR was addressed in a different provision, _ie_, Rider Clause 6B in the Appendix to the SPA. Rider Clause 6B stated, _inter alia_, that the SPA was subject to the purchaser obtaining the written approval of URA for the outline planning permission for proposed redevelopment of the Property into a residential development with a GPR of not less than 1.4.[^301] As mentioned, the GPR of 1.4 was that permitted under the URA Master Plan 2014.
 
 312    I come now to the defendants’ argument that it was the duty of the CSC to obtain the appropriate sale price in the circumstances and that the independent valuation obtained pursuant to para 11(2) of the Third Schedule should also be on that basis. Paragraph 11(2) states:
 
 (2)    A valuation report by an independent valuer on the value of the development as at the date of the close of the public tender or public auction shall be obtained by the collective sale committee on the date of the close of the public tender or public auction.
 
-313    The Court of Appeal in _Horizon Towers (CA)_ held that without obtaining an independent valuation prior to settling on the sale price, a collective sale committee “would have no way to gauge whether or not it is obtaining a _fair_ (not to mention the best) price for the property” \[emphasis added\] (at \[160\]). In this case, the CSA also provided at cll 4.4 and 4.5.1 that the CSC may not sell the Property at a price less than the independent valuation price.[\[note: 302\]](#Ftn_302)
+313    The Court of Appeal in _Horizon Towers (CA)_ held that without obtaining an independent valuation prior to settling on the sale price, a collective sale committee “would have no way to gauge whether or not it is obtaining a _fair_ (not to mention the best) price for the property” \[emphasis added\] (at \[160\]). In this case, the CSA also provided at cll 4.4 and 4.5.1 that the CSC may not sell the Property at a price less than the independent valuation price.[^302]
 
 314    The defendants thus argued that the independent valuation should have been based on the development charge baseline information and a GPR of 1.655, just as AAA had done in its valuation. However, it was clear that the development charge baseline information only determined whether there would be any DC. The development charge baseline information did not provide information on the permissible GPR. URA’s letter stated as much (see \[308\] above). The defendants’ argument had thus conflated the two concepts, “the development charge baseline” and “the allowable development potential”. The development potential was instead guided by the URA Master Plan 2014 which permitted a GPR of 1.4.
 
-315    Nevertheless, AAA was of the view that a valuation should take into account the possibility that URA might allow a higher GPR in view of the development charge baseline.[\[note: 303\]](#Ftn_303) It reasoned that there was no doubt that any developer would promptly request URA to approve a development based on a GPR of 1.655.[\[note: 304\]](#Ftn_304)
+315    Nevertheless, AAA was of the view that a valuation should take into account the possibility that URA might allow a higher GPR in view of the development charge baseline.[^303] It reasoned that there was no doubt that any developer would promptly request URA to approve a development based on a GPR of 1.655.[^304]
 
 316    I was of the view that AAA’s reasoning was misplaced. It is one thing to assume that a successful bidder will request for a higher GPR, it is another to assume that it is prepared to commit to a price based on a possibility that it would obtain approval for a higher GPR.
 
@@ -1055,613 +1056,613 @@ Please note that the development charge baseline as conveyed is for purpose of c
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)See Kok Yin Chong’s 1st affidavit filed on 20 August 2018 (“Kok’s 1st affidavit”) at pp 485, 494; see Notes of Arguments of 12 September 2018 (“NAs 12/09/18”) at p 51 lines 5–7.
+[^1]: See Kok Yin Chong’s 1st affidavit filed on 20 August 2018 (“Kok’s 1st affidavit”) at pp 485, 494; see Notes of Arguments of 12 September 2018 (“NAs 12/09/18”) at p 51 lines 5–7.
 
-[\[note: 2\]](#Ftn_2_1)See Lim Hun Joo’s 1st affidavit filed on 10 July 2018 (“Lim’s 1st affidavit”) at paras 7(1), 9; Kok’s 1st affidavit at para 5.
+[^2]: See Lim Hun Joo’s 1st affidavit filed on 10 July 2018 (“Lim’s 1st affidavit”) at paras 7(1), 9; Kok’s 1st affidavit at para 5.
 
-[\[note: 3\]](#Ftn_3_1)See Lim’s 1st affidavit at para 10.
+[^3]: See Lim’s 1st affidavit at para 10.
 
-[\[note: 4\]](#Ftn_4_1)See Lim’s 1st affidavit at p 572.
+[^4]: See Lim’s 1st affidavit at p 572.
 
-[\[note: 5\]](#Ftn_5_1)See Lim’s 1st affidavit at para 11; Kok’s 1st affidavit at para 7.
+[^5]: See Lim’s 1st affidavit at para 11; Kok’s 1st affidavit at para 7.
 
-[\[note: 6\]](#Ftn_6_1)Loh Kai Chieh’s 1st affidavit filed on 10 July 2018 (“Loh’s 1st affidavit”) at para 10.
+[^6]: Loh Kai Chieh’s 1st affidavit filed on 10 July 2018 (“Loh’s 1st affidavit”) at para 10.
 
-[\[note: 7\]](#Ftn_7_1)See Lim’s 1st affidavit at p 409.
+[^7]: See Lim’s 1st affidavit at p 409.
 
-[\[note: 8\]](#Ftn_8_1)Lim’s 1st affidavit at pp 408–409.
+[^8]: Lim’s 1st affidavit at pp 408–409.
 
-[\[note: 9\]](#Ftn_9_1)Kok’s 1st affidavit at para 9.
+[^9]: Kok’s 1st affidavit at para 9.
 
-[\[note: 10\]](#Ftn_10_1)See Lim’s 1st affidavit at p 570; Kok’s 1st affidavit at para 139.
+[^10]: See Lim’s 1st affidavit at p 570; Kok’s 1st affidavit at para 139.
 
-[\[note: 11\]](#Ftn_11_1)See Lim’s 1st affidavit at p 571.
+[^11]: See Lim’s 1st affidavit at p 571.
 
-[\[note: 12\]](#Ftn_12_1)See Lim’s 1st affidavit at pp 575–578.
+[^12]: See Lim’s 1st affidavit at pp 575–578.
 
-[\[note: 13\]](#Ftn_13_1)See Lim’s 1st affidavit at pp 579, 588.
+[^13]: See Lim’s 1st affidavit at pp 579, 588.
 
-[\[note: 14\]](#Ftn_14_1)See Lim’s 1st affidavit at p 580.
+[^14]: See Lim’s 1st affidavit at p 580.
 
-[\[note: 15\]](#Ftn_15_1)See Lim’s 1st affidavit at p 580.
+[^15]: See Lim’s 1st affidavit at p 580.
 
-[\[note: 16\]](#Ftn_16_1)See Kok’s 1st affidavit at p 248.
+[^16]: See Kok’s 1st affidavit at p 248.
 
-[\[note: 17\]](#Ftn_17_1)Defendants’ Written Submissions at para 10.
+[^17]: Defendants’ Written Submissions at para 10.
 
-[\[note: 18\]](#Ftn_18_1)See Lim’s 1st affidavit at para 25, p 581.
+[^18]: See Lim’s 1st affidavit at para 25, p 581.
 
-[\[note: 19\]](#Ftn_19_1)Kok’s 1st affidavit at p 184.
+[^19]: Kok’s 1st affidavit at p 184.
 
-[\[note: 20\]](#Ftn_20_1)Lim’s 1st affidavit at p 610.
+[^20]: Lim’s 1st affidavit at p 610.
 
-[\[note: 21\]](#Ftn_21_1)See Kok’s 1st affidavit at p 248.
+[^21]: See Kok’s 1st affidavit at p 248.
 
-[\[note: 22\]](#Ftn_22_1)Loh’s 1st affidavit at para 67.
+[^22]: Loh’s 1st affidavit at para 67.
 
-[\[note: 23\]](#Ftn_23_1)See Lim’s 1st affidavit at p 623; Loh’s 1st affidavit at para 36(1)(b).
+[^23]: See Lim’s 1st affidavit at p 623; Loh’s 1st affidavit at para 36(1)(b).
 
-[\[note: 24\]](#Ftn_24_1)See Loh’s 1st affidavit at para 30.
+[^24]: See Loh’s 1st affidavit at para 30.
 
-[\[note: 25\]](#Ftn_25_1)See Lim’s 1st affidavit at p 612; Kok’s 1st affidavit at p 190.
+[^25]: See Lim’s 1st affidavit at p 612; Kok’s 1st affidavit at p 190.
 
-[\[note: 26\]](#Ftn_26_1)Kok’s 1st affidavit at pp 192–194.
+[^26]: Kok’s 1st affidavit at pp 192–194.
 
-[\[note: 27\]](#Ftn_27_1)See Loh’s 1st affidavit at para 34; Kok’s 1st affidavit at para 19.
+[^27]: See Loh’s 1st affidavit at para 34; Kok’s 1st affidavit at para 19.
 
-[\[note: 28\]](#Ftn_28_1)See Loh’s 1st affidavit at para 30.
+[^28]: See Loh’s 1st affidavit at para 30.
 
-[\[note: 29\]](#Ftn_29_1)See Lim’s 1st affidavit at pp 614–615.
+[^29]: See Lim’s 1st affidavit at pp 614–615.
 
-[\[note: 30\]](#Ftn_30_1)See Lim’s 1st affidavit at p 623; Loh’s 1st affidavit at para 36(1)(b).
+[^30]: See Lim’s 1st affidavit at p 623; Loh’s 1st affidavit at para 36(1)(b).
 
-[\[note: 31\]](#Ftn_31_1)See Loh’s 1st affidavit at para 37.
+[^31]: See Loh’s 1st affidavit at para 37.
 
-[\[note: 32\]](#Ftn_32_1)See Loh’s 1st affidavit at p 261.
+[^32]: See Loh’s 1st affidavit at p 261.
 
-[\[note: 33\]](#Ftn_33_1)See Kok’s 1st affidavit at pp 196–197; Loh’s 1st affidavit at pp 285–289.
+[^33]: See Kok’s 1st affidavit at pp 196–197; Loh’s 1st affidavit at pp 285–289.
 
-[\[note: 34\]](#Ftn_34_1)Defendants’ Written Submissions at para 14.
+[^34]: Defendants’ Written Submissions at para 14.
 
-[\[note: 35\]](#Ftn_35_1)Loh’s 1st affidavit at para 41.
+[^35]: Loh’s 1st affidavit at para 41.
 
-[\[note: 36\]](#Ftn_36_1)See Lim Hun Joo’s 4th affidavit filed on 11 September 2018 (“Lim’s 4th affidavit”) at paras 5–6; Lim’s 1st affidavit at pp 684–685.
+[^36]: See Lim Hun Joo’s 4th affidavit filed on 11 September 2018 (“Lim’s 4th affidavit”) at paras 5–6; Lim’s 1st affidavit at pp 684–685.
 
-[\[note: 37\]](#Ftn_37_1)See Lim’s 4th affidavit at para 7.
+[^37]: See Lim’s 4th affidavit at para 7.
 
-[\[note: 38\]](#Ftn_38_1)See Loh’s 1st affidavit at para 43, p 295.
+[^38]: See Loh’s 1st affidavit at para 43, p 295.
 
-[\[note: 39\]](#Ftn_39_1)See Loh’s 1st affidavit at para 44.
+[^39]: See Loh’s 1st affidavit at para 44.
 
-[\[note: 40\]](#Ftn_40_1)See Lim’s 1st affidavit at p 374.
+[^40]: See Lim’s 1st affidavit at p 374.
 
-[\[note: 41\]](#Ftn_41_1)See Lim’s 4th affidavit at para 10.
+[^41]: See Lim’s 4th affidavit at para 10.
 
-[\[note: 42\]](#Ftn_42_1)See Loh’s 1st affidavit at para 45, p 329.
+[^42]: See Loh’s 1st affidavit at para 45, p 329.
 
-[\[note: 43\]](#Ftn_43_1)See Kok’s 1st affidavit at para 24.
+[^43]: See Kok’s 1st affidavit at para 24.
 
-[\[note: 44\]](#Ftn_44_1)See Loh’s 1st affidavit at para 46.
+[^44]: See Loh’s 1st affidavit at para 46.
 
-[\[note: 45\]](#Ftn_45_1)Loh’s 1st affidavit at paras 47–48.
+[^45]: Loh’s 1st affidavit at paras 47–48.
 
-[\[note: 46\]](#Ftn_46_1)Lim’s 1st affidavit at para 38.
+[^46]: Lim’s 1st affidavit at para 38.
 
-[\[note: 47\]](#Ftn_47_1)Goh Seow Leng’s affidavit filed on 4 September 2018 (“Goh’s affidavit”) at para 3.
+[^47]: Goh Seow Leng’s affidavit filed on 4 September 2018 (“Goh’s affidavit”) at para 3.
 
-[\[note: 48\]](#Ftn_48_1)Kok’s 1st affidavit at p 578.
+[^48]: Kok’s 1st affidavit at p 578.
 
-[\[note: 49\]](#Ftn_49_1)See Loh’s 1st affidavit at para 50.
+[^49]: See Loh’s 1st affidavit at para 50.
 
-[\[note: 50\]](#Ftn_50_1)Kok’s 1st affidavit at p 204.
+[^50]: Kok’s 1st affidavit at p 204.
 
-[\[note: 51\]](#Ftn_51_1)Kok’s 1st affidavit at para 25.
+[^51]: Kok’s 1st affidavit at para 25.
 
-[\[note: 52\]](#Ftn_52_1)See Kok’s 1st affidavit at para 28; Lim’s 1st affidavit at pp 372–378.
+[^52]: See Kok’s 1st affidavit at para 28; Lim’s 1st affidavit at pp 372–378.
 
-[\[note: 53\]](#Ftn_53_1)See Kok’s 1st affidavit at p 211.
+[^53]: See Kok’s 1st affidavit at p 211.
 
-[\[note: 54\]](#Ftn_54_1)See Lim’s 1st affidavit at pp 44–55.
+[^54]: See Lim’s 1st affidavit at pp 44–55.
 
-[\[note: 55\]](#Ftn_55_1)Kok’s 1st affidavit at pp 479–480.
+[^55]: Kok’s 1st affidavit at pp 479–480.
 
-[\[note: 56\]](#Ftn_56_1)See Lim’s 1st affidavit at pp 33–34.
+[^56]: See Lim’s 1st affidavit at pp 33–34.
 
-[\[note: 57\]](#Ftn_57_1)See Kok’s 1st affidavit at p 704.
+[^57]: See Kok’s 1st affidavit at p 704.
 
-[\[note: 58\]](#Ftn_58_1)See Kok’s 1st affidavit at para 32, pp 704–705.
+[^58]: See Kok’s 1st affidavit at para 32, pp 704–705.
 
-[\[note: 59\]](#Ftn_59_1)See NAs 12/09/18 at p 97 lines 3–7, 13–17.
+[^59]: See NAs 12/09/18 at p 97 lines 3–7, 13–17.
 
-[\[note: 60\]](#Ftn_60_1)See Defendants’ Written Submissions at paras 199–200.
+[^60]: See Defendants’ Written Submissions at paras 199–200.
 
-[\[note: 61\]](#Ftn_61_1)See NAs 12/09/18 at p 69 lines 10–11.
+[^61]: See NAs 12/09/18 at p 69 lines 10–11.
 
-[\[note: 62\]](#Ftn_62_1)See NAs 12/09/18 at p 69 lines 17–18.
+[^62]: See NAs 12/09/18 at p 69 lines 17–18.
 
-[\[note: 63\]](#Ftn_63_1)See NAs 12/09/18 at p 71 lines 5–6, 24–25, p 72 lines 1–2.
+[^63]: See NAs 12/09/18 at p 71 lines 5–6, 24–25, p 72 lines 1–2.
 
-[\[note: 64\]](#Ftn_64_1)See NAs 12/09/18 at p 101 lines 7–11.
+[^64]: See NAs 12/09/18 at p 101 lines 7–11.
 
-[\[note: 65\]](#Ftn_65_1)See NAs 12/09/18 at p 98 lines 11–14.
+[^65]: See NAs 12/09/18 at p 98 lines 11–14.
 
-[\[note: 66\]](#Ftn_66_1)See NAs 12/09/18 at p 100 lines 8–9.
+[^66]: See NAs 12/09/18 at p 100 lines 8–9.
 
-[\[note: 67\]](#Ftn_67_1)See Plaintiffs’ Skeletal Submissions at paras 10–11.
+[^67]: See Plaintiffs’ Skeletal Submissions at paras 10–11.
 
-[\[note: 68\]](#Ftn_68_1)See Defendants’ Aide Memoire for Reply Submissions at para 2.
+[^68]: See Defendants’ Aide Memoire for Reply Submissions at para 2.
 
-[\[note: 69\]](#Ftn_69_1)See NAs 12/09/18 at p 23 lines 16–17.
+[^69]: See NAs 12/09/18 at p 23 lines 16–17.
 
-[\[note: 70\]](#Ftn_70_1)See NAs 12/09/18 at p 25 lines 13–15.
+[^70]: See NAs 12/09/18 at p 25 lines 13–15.
 
-[\[note: 71\]](#Ftn_71_1)See Notes of Arguments of 14 September 2018 (“NAs 14/09/18”) at p 111 lines 2–4, 11–14.
+[^71]: See Notes of Arguments of 14 September 2018 (“NAs 14/09/18”) at p 111 lines 2–4, 11–14.
 
-[\[note: 72\]](#Ftn_72_1)See Notes of Arguments of 13 September 2018 (“NAs 13/09/18”) at p 100 lines 6–12.
+[^72]: See Notes of Arguments of 13 September 2018 (“NAs 13/09/18”) at p 100 lines 6–12.
 
-[\[note: 73\]](#Ftn_73_1)See NAs 13/09/18 at p 97 lines 4–6, p 100 lines 13–19.
+[^73]: See NAs 13/09/18 at p 97 lines 4–6, p 100 lines 13–19.
 
-[\[note: 74\]](#Ftn_74_1)See NAs 13/09/18 at p 101 lines 16–22.
+[^74]: See NAs 13/09/18 at p 101 lines 16–22.
 
-[\[note: 75\]](#Ftn_75_1)See NAs 13/09/18 at p 103 lines 14–16.
+[^75]: See NAs 13/09/18 at p 103 lines 14–16.
 
-[\[note: 76\]](#Ftn_76_1)See NAs 14/09/18 at p 72 lines 20–23.
+[^76]: See NAs 14/09/18 at p 72 lines 20–23.
 
-[\[note: 77\]](#Ftn_77_1)See NAs 12/09/18 at p 6 lines 10–16, p 22 lines 3–8.
+[^77]: See NAs 12/09/18 at p 6 lines 10–16, p 22 lines 3–8.
 
-[\[note: 78\]](#Ftn_78_1)See Kok’s 1st affidavit at pp 636–637.
+[^78]: See Kok’s 1st affidavit at pp 636–637.
 
-[\[note: 79\]](#Ftn_79_1)See Kok’s 1st affidavit at p 647.
+[^79]: See Kok’s 1st affidavit at p 647.
 
-[\[note: 80\]](#Ftn_80_1)See NAs 14/09/18 at p 124 line 18, p 125 lines 16–19.
+[^80]: See NAs 14/09/18 at p 124 line 18, p 125 lines 16–19.
 
-[\[note: 81\]](#Ftn_81_1)Plaintiffs’ Skeletal Submissions at para 112.
+[^81]: Plaintiffs’ Skeletal Submissions at para 112.
 
-[\[note: 82\]](#Ftn_82_1)See Plaintiffs’ Skeletal Submissions at para 113.
+[^82]: See Plaintiffs’ Skeletal Submissions at para 113.
 
-[\[note: 83\]](#Ftn_83_1)See Plaintiffs’ Skeletal Submissions at para 113.
+[^83]: See Plaintiffs’ Skeletal Submissions at para 113.
 
-[\[note: 84\]](#Ftn_84_1)See NAs 13/09/18 at p 128 lines 5–10.
+[^84]: See NAs 13/09/18 at p 128 lines 5–10.
 
-[\[note: 85\]](#Ftn_85_1)See NAs 13/09/18 at p 62 lines 20–25, p 63 line 1.
+[^85]: See NAs 13/09/18 at p 62 lines 20–25, p 63 line 1.
 
-[\[note: 86\]](#Ftn_86_1)See Kok’s 1st affidavit at pp 644–645.
+[^86]: See Kok’s 1st affidavit at pp 644–645.
 
-[\[note: 87\]](#Ftn_87_1)See Kok’s 1st affidavit at paras 131–135.
+[^87]: See Kok’s 1st affidavit at paras 131–135.
 
-[\[note: 88\]](#Ftn_88_1)See also Kok’s 1st affidavit at para 34(c).
+[^88]: See also Kok’s 1st affidavit at para 34(c).
 
-[\[note: 89\]](#Ftn_89_1)See Defendants’ Written Submissions at paras 158–164; see also Defendants’ Revised Aide Memoire at p 9 paras 5–10; Defendants’ Aide Memoire for Reply Submissions at pp 7–8 paras 35–39.
+[^89]: See Defendants’ Written Submissions at paras 158–164; see also Defendants’ Revised Aide Memoire at p 9 paras 5–10; Defendants’ Aide Memoire for Reply Submissions at pp 7–8 paras 35–39.
 
-[\[note: 90\]](#Ftn_90_1)See NAs 14/09/18 at p 124 line 18, p 125 lines 16–19.
+[^90]: See NAs 14/09/18 at p 124 line 18, p 125 lines 16–19.
 
-[\[note: 91\]](#Ftn_91_1)See NAs 14/09/18 at p 137 lines 2–3.
+[^91]: See NAs 14/09/18 at p 137 lines 2–3.
 
-[\[note: 92\]](#Ftn_92_1)See NAs 14/09/18 at p 135 lines 10–12.
+[^92]: See NAs 14/09/18 at p 135 lines 10–12.
 
-[\[note: 93\]](#Ftn_93_1)See NAs 14/09/18 at p 136 lines 1–2.
+[^93]: See NAs 14/09/18 at p 136 lines 1–2.
 
-[\[note: 94\]](#Ftn_94_1)See NAs 14/09/18 at p 136 lines 8–10.
+[^94]: See NAs 14/09/18 at p 136 lines 8–10.
 
-[\[note: 95\]](#Ftn_95_1)See NAs 14/09/18 at p 78 lines 7–10.
+[^95]: See NAs 14/09/18 at p 78 lines 7–10.
 
-[\[note: 96\]](#Ftn_96_1)See NAs 13/09/18 at p 72 lines 1–2.
+[^96]: See NAs 13/09/18 at p 72 lines 1–2.
 
-[\[note: 97\]](#Ftn_97_1)See NAs 13/09/18 at p 63 lines 10–19, 23–25, p 64 lines 1–3.
+[^97]: See NAs 13/09/18 at p 63 lines 10–19, 23–25, p 64 lines 1–3.
 
-[\[note: 98\]](#Ftn_98_1)See NAs 13/09/18 at p 55 lines 1–9.
+[^98]: See NAs 13/09/18 at p 55 lines 1–9.
 
-[\[note: 99\]](#Ftn_99_1)See NAs 13/09/18 at p 74 lines 11–19.
+[^99]: See NAs 13/09/18 at p 74 lines 11–19.
 
-[\[note: 100\]](#Ftn_100_1)See _eg_, Defendants’ Aide Memoire for Reply Submissions at para 34; NAs 14/09/18 at p 89 lines 7–10.
+[^100]: See _eg_, Defendants’ Aide Memoire for Reply Submissions at para 34; NAs 14/09/18 at p 89 lines 7–10.
 
-[\[note: 101\]](#Ftn_101_1)Defendants’ Written Submissions at para 137; Kok’s 1st affidavit at para 114.
+[^101]: Defendants’ Written Submissions at para 137; Kok’s 1st affidavit at para 114.
 
-[\[note: 102\]](#Ftn_102_1)Defendants’ Written Submissions at para 138.
+[^102]: Defendants’ Written Submissions at para 138.
 
-[\[note: 103\]](#Ftn_103_1)See Kok’s 1st affidavit at para 127.
+[^103]: See Kok’s 1st affidavit at para 127.
 
-[\[note: 104\]](#Ftn_104_1)See Defendants’ Written Submissions at para 148.
+[^104]: See Defendants’ Written Submissions at para 148.
 
-[\[note: 105\]](#Ftn_105_1)Kok’s 1st affidavit at pp 834–835.
+[^105]: Kok’s 1st affidavit at pp 834–835.
 
-[\[note: 106\]](#Ftn_106_1)See Defendants’ Written Submissions at para 139.
+[^106]: See Defendants’ Written Submissions at para 139.
 
-[\[note: 107\]](#Ftn_107_1)Defendants’ Written Submissions at para 138.
+[^107]: Defendants’ Written Submissions at para 138.
 
-[\[note: 108\]](#Ftn_108_1)See Defendants’ Written Submissions at para 136.
+[^108]: See Defendants’ Written Submissions at para 136.
 
-[\[note: 109\]](#Ftn_109_1)See Defendants’ Written Submissions at paras 136–137; Kok’s 1st affidavit at pp 827–828, 831–832.
+[^109]: See Defendants’ Written Submissions at paras 136–137; Kok’s 1st affidavit at pp 827–828, 831–832.
 
-[\[note: 110\]](#Ftn_110_1)See Defendants’ Written Submissions at para 144(a).
+[^110]: See Defendants’ Written Submissions at para 144(a).
 
-[\[note: 111\]](#Ftn_111_1)Kok’s 1st affidavit at pp 834–835.
+[^111]: Kok’s 1st affidavit at pp 834–835.
 
-[\[note: 112\]](#Ftn_112_1)Kok’s 1st affidavit at pp 839–840.
+[^112]: Kok’s 1st affidavit at pp 839–840.
 
-[\[note: 113\]](#Ftn_113_1)Kok’s 1st affidavit at p 851.
+[^113]: Kok’s 1st affidavit at p 851.
 
-[\[note: 114\]](#Ftn_114_1)See Defendants’ Written Submissions at para 145; Kok’s 1st affidavit at pp 864–867.
+[^114]: See Defendants’ Written Submissions at para 145; Kok’s 1st affidavit at pp 864–867.
 
-[\[note: 115\]](#Ftn_115_1)See Defendants’ Written Submissions at paras 140–142.
+[^115]: See Defendants’ Written Submissions at paras 140–142.
 
-[\[note: 116\]](#Ftn_116_1)See Plaintiffs’ Skeletal Submissions at para 70.
+[^116]: See Plaintiffs’ Skeletal Submissions at para 70.
 
-[\[note: 117\]](#Ftn_117_1)Plaintiffs’ Skeletal Submissions at para 71.
+[^117]: Plaintiffs’ Skeletal Submissions at para 71.
 
-[\[note: 118\]](#Ftn_118_1)See NAs 13/09/18 at p 93 lines 1–4.
+[^118]: See NAs 13/09/18 at p 93 lines 1–4.
 
-[\[note: 119\]](#Ftn_119_1)Plaintiffs’ Skeletal Submissions at para 73.
+[^119]: Plaintiffs’ Skeletal Submissions at para 73.
 
-[\[note: 120\]](#Ftn_120_1)See Plaintiffs’ Skeletal Submissions at para 72; Lim’s 1st affidavit at p 409.
+[^120]: See Plaintiffs’ Skeletal Submissions at para 72; Lim’s 1st affidavit at p 409.
 
-[\[note: 121\]](#Ftn_121_1)See NAs 12/09/18 at p 15 lines 9–11, p 20 lines 8–9.
+[^121]: See NAs 12/09/18 at p 15 lines 9–11, p 20 lines 8–9.
 
-[\[note: 122\]](#Ftn_122_1)See Lim’s 1st affidavit at p 579; NAs 13/09/18 at p 117 lines 20–23.
+[^122]: See Lim’s 1st affidavit at p 579; NAs 13/09/18 at p 117 lines 20–23.
 
-[\[note: 123\]](#Ftn_123_1)See NAs 13/09/18 at p 123 lines 15–18.
+[^123]: See NAs 13/09/18 at p 123 lines 15–18.
 
-[\[note: 124\]](#Ftn_124_1)See NAs 13/09/18 at p 121 lines 20–25, p 122 line 1.
+[^124]: See NAs 13/09/18 at p 121 lines 20–25, p 122 line 1.
 
-[\[note: 125\]](#Ftn_125_1)See NAs 13/09/18 at p 122 lines 7–22.
+[^125]: See NAs 13/09/18 at p 122 lines 7–22.
 
-[\[note: 126\]](#Ftn_126_1)See NAs 13/09/18 at p 123 line 2.
+[^126]: See NAs 13/09/18 at p 123 line 2.
 
-[\[note: 127\]](#Ftn_127_1)See NAs 12/09/18 at p 39 lines 1–7.
+[^127]: See NAs 12/09/18 at p 39 lines 1–7.
 
-[\[note: 128\]](#Ftn_128_1)See NAs 13/09/18 at p 116 lines 5–9.
+[^128]: See NAs 13/09/18 at p 116 lines 5–9.
 
-[\[note: 129\]](#Ftn_129_1)Lim’s 1st affidavit at p 579.
+[^129]: Lim’s 1st affidavit at p 579.
 
-[\[note: 130\]](#Ftn_130_1)See NAs 12/09/18 at p 56 lines 10–15.
+[^130]: See NAs 12/09/18 at p 56 lines 10–15.
 
-[\[note: 131\]](#Ftn_131_1)Lim’s 1st affidavit at p 579.
+[^131]: Lim’s 1st affidavit at p 579.
 
-[\[note: 132\]](#Ftn_132_1)Kok’s 1st affidavit at pp 859–860; see also Kok’s 1st affidavit at para 123, pp 853–860.
+[^132]: Kok’s 1st affidavit at pp 859–860; see also Kok’s 1st affidavit at para 123, pp 853–860.
 
-[\[note: 133\]](#Ftn_133_1)Kok’s 1st affidavit at p 858.
+[^133]: Kok’s 1st affidavit at p 858.
 
-[\[note: 134\]](#Ftn_134_1)See Defendants’ Written Submissions at paras 162, 164; Kok’s 1st affidavit at p 90.
+[^134]: See Defendants’ Written Submissions at paras 162, 164; Kok’s 1st affidavit at p 90.
 
-[\[note: 135\]](#Ftn_135_1)Defendants’ Written Submissions at para 163.
+[^135]: Defendants’ Written Submissions at para 163.
 
-[\[note: 136\]](#Ftn_136_1)See Lim’s 1st affidavit at p 578; NAs 12/09/18 at p 54 line 25, p 55 lines 1–2.
+[^136]: See Lim’s 1st affidavit at p 578; NAs 12/09/18 at p 54 line 25, p 55 lines 1–2.
 
-[\[note: 137\]](#Ftn_137_1)See Lim’s 1st affidavit at para 22; NAs 13/09/18 at p 108 lines 2–6.
+[^137]: See Lim’s 1st affidavit at para 22; NAs 13/09/18 at p 108 lines 2–6.
 
-[\[note: 138\]](#Ftn_138_1)Plaintiffs’ “List of owners who signed CSA on 9 September 2017 EGM” at p 5; Plaintiffs’ Skeletal Submissions at para 113. In this regard, it was noted that the latter reference (citing Loh’s 1st affidavit at para 25) provided that subsidiary proprietors who collectively own 76 units signed the CSA, while the former reference provided that subsidiary proprietors who collectively own 77 units signed the CSA.
+[^138]: Plaintiffs’ “List of owners who signed CSA on 9 September 2017 EGM” at p 5; Plaintiffs’ Skeletal Submissions at para 113. In this regard, it was noted that the latter reference (citing Loh’s 1st affidavit at para 25) provided that subsidiary proprietors who collectively own 76 units signed the CSA, while the former reference provided that subsidiary proprietors who collectively own 77 units signed the CSA.
 
-[\[note: 139\]](#Ftn_139_1)See NAs 13/09/18 at p 125 line 25, p 126 line 1.
+[^139]: See NAs 13/09/18 at p 125 line 25, p 126 line 1.
 
-[\[note: 140\]](#Ftn_140_1)See NAs 13/09/18 at p 128 lines 16–19.
+[^140]: See NAs 13/09/18 at p 128 lines 16–19.
 
-[\[note: 141\]](#Ftn_141_1)See NAs 14/09/18 at p 66 lines 20–25, p 67 line 1.
+[^141]: See NAs 14/09/18 at p 66 lines 20–25, p 67 line 1.
 
-[\[note: 142\]](#Ftn_142_1)See Plaintiffs’ Skeletal Submissions at para 115.
+[^142]: See Plaintiffs’ Skeletal Submissions at para 115.
 
-[\[note: 143\]](#Ftn_143_1)See Kok’s 1st affidavit at pp 76–92.
+[^143]: See Kok’s 1st affidavit at pp 76–92.
 
-[\[note: 144\]](#Ftn_144_1)See Kok’s 1st affidavit at p 84; NAs 14/09/18 at p 120 lines 21–24.
+[^144]: See Kok’s 1st affidavit at p 84; NAs 14/09/18 at p 120 lines 21–24.
 
-[\[note: 145\]](#Ftn_145_1)See Defendants’ Written Submissions at para 149; Lim Hun Joo’s 3rd affidavit filed on 4 September 2018 (“Lim’s 3rd affidavit”) at para 44.
+[^145]: See Defendants’ Written Submissions at para 149; Lim Hun Joo’s 3rd affidavit filed on 4 September 2018 (“Lim’s 3rd affidavit”) at para 44.
 
-[\[note: 146\]](#Ftn_146_1)Defendants’ Written Submissions at para 151.
+[^146]: Defendants’ Written Submissions at para 151.
 
-[\[note: 147\]](#Ftn_147_1)Defendants’ Written Submissions at para 152.
+[^147]: Defendants’ Written Submissions at para 152.
 
-[\[note: 148\]](#Ftn_148_1)Defendants’ Written Submissions at para 155.
+[^148]: Defendants’ Written Submissions at para 155.
 
-[\[note: 149\]](#Ftn_149_1)Defendants’ Written Submissions at para 156.
+[^149]: Defendants’ Written Submissions at para 156.
 
-[\[note: 150\]](#Ftn_150_1)Plaintiffs’ Skeletal Submissions at para 73.
+[^150]: Plaintiffs’ Skeletal Submissions at para 73.
 
-[\[note: 151\]](#Ftn_151_1)Plaintiffs’ Skeletal Submissions at para 74.
+[^151]: Plaintiffs’ Skeletal Submissions at para 74.
 
-[\[note: 152\]](#Ftn_152_1)See NAs 13/09/18 at p 99 lines 1–21.
+[^152]: See NAs 13/09/18 at p 99 lines 1–21.
 
-[\[note: 153\]](#Ftn_153_1)Plaintiffs’ Skeletal Submissions at para 73.
+[^153]: Plaintiffs’ Skeletal Submissions at para 73.
 
-[\[note: 154\]](#Ftn_154_1)See Kok’s 1st affidavit at p 647.
+[^154]: See Kok’s 1st affidavit at p 647.
 
-[\[note: 155\]](#Ftn_155_1)See Defendants’ Written Submissions at paras 166, 172.
+[^155]: See Defendants’ Written Submissions at paras 166, 172.
 
-[\[note: 156\]](#Ftn_156_1)Defendants ’Written Submissions at para 168.
+[^156]: Defendants ’Written Submissions at para 168.
 
-[\[note: 157\]](#Ftn_157_1)Defendants’ Written Submissions at para 168.
+[^157]: Defendants’ Written Submissions at para 168.
 
-[\[note: 158\]](#Ftn_158_1)Defendants’ Written Submissions at para 171.
+[^158]: Defendants’ Written Submissions at para 171.
 
-[\[note: 159\]](#Ftn_159_1)Defendants’ Written Submissions at para 173.
+[^159]: Defendants’ Written Submissions at para 173.
 
-[\[note: 160\]](#Ftn_160_1)Defendants’ Written Submissions at para 174.
+[^160]: Defendants’ Written Submissions at para 174.
 
-[\[note: 161\]](#Ftn_161_1)See NAs 14/09/18 at p 130 lines 16–20, p 133 lines 10–12.
+[^161]: See NAs 14/09/18 at p 130 lines 16–20, p 133 lines 10–12.
 
-[\[note: 162\]](#Ftn_162_1)Plaintiffs’ Skeletal Submissions at para 75.
+[^162]: Plaintiffs’ Skeletal Submissions at para 75.
 
-[\[note: 163\]](#Ftn_163_1)See Plaintiffs’ Skeletal Submissions at para 76.
+[^163]: See Plaintiffs’ Skeletal Submissions at para 76.
 
-[\[note: 164\]](#Ftn_164_1)See Plaintiffs’ Skeletal Submissions at para 78.
+[^164]: See Plaintiffs’ Skeletal Submissions at para 78.
 
-[\[note: 165\]](#Ftn_165_1)See Lim’s 1st affidavit at p 570; Kok’s 1st affidavit at para 148.
+[^165]: See Lim’s 1st affidavit at p 570; Kok’s 1st affidavit at para 148.
 
-[\[note: 166\]](#Ftn_166_1)Plaintiffs’ Skeletal Submissions at para 80.
+[^166]: Plaintiffs’ Skeletal Submissions at para 80.
 
-[\[note: 167\]](#Ftn_167_1)Plaintiffs’ Skeletal Submissions at para 81.
+[^167]: Plaintiffs’ Skeletal Submissions at para 81.
 
-[\[note: 168\]](#Ftn_168_1)See Kok’s 1st affidavit at pp 645–646.
+[^168]: See Kok’s 1st affidavit at pp 645–646.
 
-[\[note: 169\]](#Ftn_169_1)See Lim’s 1st affidavit at p 595.
+[^169]: See Lim’s 1st affidavit at p 595.
 
-[\[note: 170\]](#Ftn_170_1)See Lim’s 1st affidavit at para 19, p 570.
+[^170]: See Lim’s 1st affidavit at para 19, p 570.
 
-[\[note: 171\]](#Ftn_171_1)See Lim’s 1st affidavit at p 554.
+[^171]: See Lim’s 1st affidavit at p 554.
 
-[\[note: 172\]](#Ftn_172_1)See Lim’s 3rd affidavit at para 51; Loh Kai Chieh’s 2nd affidavit filed on 4 September 2018 (“Loh’s 2nd affidavit”) at para 62.
+[^172]: See Lim’s 3rd affidavit at para 51; Loh Kai Chieh’s 2nd affidavit filed on 4 September 2018 (“Loh’s 2nd affidavit”) at para 62.
 
-[\[note: 173\]](#Ftn_173_1)See Defendants’ Written Submissions at para 169.
+[^173]: See Defendants’ Written Submissions at para 169.
 
-[\[note: 174\]](#Ftn_174_1)See Lim’s 1st affidavit at pp 501, 554, 570.
+[^174]: See Lim’s 1st affidavit at pp 501, 554, 570.
 
-[\[note: 175\]](#Ftn_175_1)See Lim’s 1st affidavit at pp 409, 418.
+[^175]: See Lim’s 1st affidavit at pp 409, 418.
 
-[\[note: 176\]](#Ftn_176_1)See Kok’s 1st affidavit at para 148.
+[^176]: See Kok’s 1st affidavit at para 148.
 
-[\[note: 177\]](#Ftn_177_1)See NAs 13/09/18 at p 8 lines 20–21, p 10 lines 7–16, p 14 lines 5–12.
+[^177]: See NAs 13/09/18 at p 8 lines 20–21, p 10 lines 7–16, p 14 lines 5–12.
 
-[\[note: 178\]](#Ftn_178_1)See Defendants’ Written Submissions at paras 177–178; Kok’s 1st affidavit at para 157; NAs 13/09/18 at p 8 lines 21–24.
+[^178]: See Defendants’ Written Submissions at paras 177–178; Kok’s 1st affidavit at para 157; NAs 13/09/18 at p 8 lines 21–24.
 
-[\[note: 179\]](#Ftn_179_1)See Defendants’ Written Submissions at paras 183–184.
+[^179]: See Defendants’ Written Submissions at paras 183–184.
 
-[\[note: 180\]](#Ftn_180_1)See Plaintiffs’ Skeletal Submissions at paras 116–117.
+[^180]: See Plaintiffs’ Skeletal Submissions at paras 116–117.
 
-[\[note: 181\]](#Ftn_181_1)See also Lim’s 3rd affidavit at para 59.
+[^181]: See also Lim’s 3rd affidavit at para 59.
 
-[\[note: 182\]](#Ftn_182_1)See NAs 14/09/18 at p 63 lines 22–25, p 64 lines 1–7.
+[^182]: See NAs 14/09/18 at p 63 lines 22–25, p 64 lines 1–7.
 
-[\[note: 183\]](#Ftn_183_1)Lim’s 1st affidavit at pp 372–378, 614–615.
+[^183]: Lim’s 1st affidavit at pp 372–378, 614–615.
 
-[\[note: 184\]](#Ftn_184_1)See NAs 14/09/18 at p 63 lines 17–18.
+[^184]: See NAs 14/09/18 at p 63 lines 17–18.
 
-[\[note: 185\]](#Ftn_185_1)See Kok’s 1st affidavit at p 644.
+[^185]: See Kok’s 1st affidavit at p 644.
 
-[\[note: 186\]](#Ftn_186_1)Defendants’ Written Submissions at para 186.
+[^186]: Defendants’ Written Submissions at para 186.
 
-[\[note: 187\]](#Ftn_187_1)Defendants’ Written Submissions at para 192.
+[^187]: Defendants’ Written Submissions at para 192.
 
-[\[note: 188\]](#Ftn_188_1)Defendants’ Written Submissions at para 188.
+[^188]: Defendants’ Written Submissions at para 188.
 
-[\[note: 189\]](#Ftn_189_1)Defendants’ Written Submissions at para 190.
+[^189]: Defendants’ Written Submissions at para 190.
 
-[\[note: 190\]](#Ftn_190_1)Plaintiffs’ Skeletal Submissions at para 119.
+[^190]: Plaintiffs’ Skeletal Submissions at para 119.
 
-[\[note: 191\]](#Ftn_191_1)Plaintiffs’ Skeletal Submissions at para 120.
+[^191]: Plaintiffs’ Skeletal Submissions at para 120.
 
-[\[note: 192\]](#Ftn_192_1)See Kok’s 1st affidavit at p 648.
+[^192]: See Kok’s 1st affidavit at p 648.
 
-[\[note: 193\]](#Ftn_193_1)Kok’s 1st affidavit at para 171.
+[^193]: Kok’s 1st affidavit at para 171.
 
-[\[note: 194\]](#Ftn_194_1)Kok’s 1st affidavit at pp 210–220.
+[^194]: Kok’s 1st affidavit at pp 210–220.
 
-[\[note: 195\]](#Ftn_195_1)Kok’s 1st affidavit at pp 215–216.
+[^195]: Kok’s 1st affidavit at pp 215–216.
 
-[\[note: 196\]](#Ftn_196_1)See Defendants’ Written Submissions at para 87.
+[^196]: See Defendants’ Written Submissions at para 87.
 
-[\[note: 197\]](#Ftn_197_1)See NAs 14/09/18 at p 91 lines 16–25, p 92 lines 1–4.
+[^197]: See NAs 14/09/18 at p 91 lines 16–25, p 92 lines 1–4.
 
-[\[note: 198\]](#Ftn_198_1)See NAs 14/09/18 at p 93 lines 12–17.
+[^198]: See NAs 14/09/18 at p 93 lines 12–17.
 
-[\[note: 199\]](#Ftn_199_1)Defendants’ Written Submissions at para 58.
+[^199]: Defendants’ Written Submissions at para 58.
 
-[\[note: 200\]](#Ftn_200_1)See Defendants’ Written Submissions at para 78.
+[^200]: See Defendants’ Written Submissions at para 78.
 
-[\[note: 201\]](#Ftn_201_1)See Kok’s 1st affidavit at p 192.
+[^201]: See Kok’s 1st affidavit at p 192.
 
-[\[note: 202\]](#Ftn_202_1)Defendants’ Written Submissions at para 80.
+[^202]: Defendants’ Written Submissions at para 80.
 
-[\[note: 203\]](#Ftn_203_1)Defendants’ Written Submissions at paras 71–72.
+[^203]: Defendants’ Written Submissions at paras 71–72.
 
-[\[note: 204\]](#Ftn_204_1)Defendants’ Written Submissions at paras 73.
+[^204]: Defendants’ Written Submissions at paras 73.
 
-[\[note: 205\]](#Ftn_205_1)Defendants’ Written Submissions at para 56.
+[^205]: Defendants’ Written Submissions at para 56.
 
-[\[note: 206\]](#Ftn_206_1)See Defendants’ Written Submissions at paras 66, 68.
+[^206]: See Defendants’ Written Submissions at paras 66, 68.
 
-[\[note: 207\]](#Ftn_207_1)See Defendants’ Written Submissions at para 64.
+[^207]: See Defendants’ Written Submissions at para 64.
 
-[\[note: 208\]](#Ftn_208_1)See Defendants’ Written Submissions at para 124.
+[^208]: See Defendants’ Written Submissions at para 124.
 
-[\[note: 209\]](#Ftn_209_1)NAs 12/09/18 at p 133 lines 18–25, p 134 lines 1–2.
+[^209]: NAs 12/09/18 at p 133 lines 18–25, p 134 lines 1–2.
 
-[\[note: 210\]](#Ftn_210_1)Defendants’ Written Submissions at para 123(e).
+[^210]: Defendants’ Written Submissions at para 123(e).
 
-[\[note: 211\]](#Ftn_211_1)Defendants’ Written Submissions at para 124.
+[^211]: Defendants’ Written Submissions at para 124.
 
-[\[note: 212\]](#Ftn_212_1)See Defendants’ Written Submissions at paras 64, 125; NAs 12/09/18 at p 135 lines 10–21; NAs 14/09/18 at p 96 lines 13–17.
+[^212]: See Defendants’ Written Submissions at paras 64, 125; NAs 12/09/18 at p 135 lines 10–21; NAs 14/09/18 at p 96 lines 13–17.
 
-[\[note: 213\]](#Ftn_213_1)See Defendants’ Written Submissions at para 59; NAs 12/09/18 at p 108 lines 14–18, p 112 lines 3–7.
+[^213]: See Defendants’ Written Submissions at para 59; NAs 12/09/18 at p 108 lines 14–18, p 112 lines 3–7.
 
-[\[note: 214\]](#Ftn_214_1)Defendants’ Written Submissions at para 60.
+[^214]: Defendants’ Written Submissions at para 60.
 
-[\[note: 215\]](#Ftn_215_1)Defendants’ Written Submissions at para 115.
+[^215]: Defendants’ Written Submissions at para 115.
 
-[\[note: 216\]](#Ftn_216_1)Defendants’ Written Submissions at para 99.
+[^216]: Defendants’ Written Submissions at para 99.
 
-[\[note: 217\]](#Ftn_217_1)See Defendants’ Written Submissions at paras 86–87, 94–95.
+[^217]: See Defendants’ Written Submissions at paras 86–87, 94–95.
 
-[\[note: 218\]](#Ftn_218_1)Defendants’ Written Submissions at para 83.
+[^218]: Defendants’ Written Submissions at para 83.
 
-[\[note: 219\]](#Ftn_219_1)Defendants’ Written Submissions at para 86.
+[^219]: Defendants’ Written Submissions at para 86.
 
-[\[note: 220\]](#Ftn_220_1)See Defendants’ Written Submissions at paras 91–93; NAs 12/09/18 at p 184 lines 10–11.
+[^220]: See Defendants’ Written Submissions at paras 91–93; NAs 12/09/18 at p 184 lines 10–11.
 
-[\[note: 221\]](#Ftn_221_1)See NAs 12/09/18 at p 166 lines 5–8.
+[^221]: See NAs 12/09/18 at p 166 lines 5–8.
 
-[\[note: 222\]](#Ftn_222_1)See Defendants’ Written Submissions at para 117.
+[^222]: See Defendants’ Written Submissions at para 117.
 
-[\[note: 223\]](#Ftn_223_1)See Defendants’ Written Submissions at para 119.
+[^223]: See Defendants’ Written Submissions at para 119.
 
-[\[note: 224\]](#Ftn_224_1)See Defendants’ Written Submissions at para 96.
+[^224]: See Defendants’ Written Submissions at para 96.
 
-[\[note: 225\]](#Ftn_225_1)See Defendants’ Written Submissions at para 97; see also Lim’s 4th affidavit at paras 13, 18.
+[^225]: See Defendants’ Written Submissions at para 97; see also Lim’s 4th affidavit at paras 13, 18.
 
-[\[note: 226\]](#Ftn_226_1)See Defendants’ Written Submissions at para 117(c).
+[^226]: See Defendants’ Written Submissions at para 117(c).
 
-[\[note: 227\]](#Ftn_227_1)See NAs 12/09/18 at p 176 lines 23–25, p 177 lines 1, 5–10.
+[^227]: See NAs 12/09/18 at p 176 lines 23–25, p 177 lines 1, 5–10.
 
-[\[note: 228\]](#Ftn_228_1)Defendants’ Written Submissions at p 50 (heading F), para 111.
+[^228]: Defendants’ Written Submissions at p 50 (heading F), para 111.
 
-[\[note: 229\]](#Ftn_229_1)See Wilson Lim Yen Kia’s affidavit filed on 20 August 2018 (“Dr Lim’s affidavit”) at p 38.
+[^229]: See Wilson Lim Yen Kia’s affidavit filed on 20 August 2018 (“Dr Lim’s affidavit”) at p 38.
 
-[\[note: 230\]](#Ftn_230_1)See NAs 12/09/18 at p 172 lines 17–22.
+[^230]: See NAs 12/09/18 at p 172 lines 17–22.
 
-[\[note: 231\]](#Ftn_231_1)See Defendants’ Written Submissions at para 90; NAs 12/09/18 at p 162 lines 20–24; Lim’s 1st affidavit at pp 409, 418.
+[^231]: See Defendants’ Written Submissions at para 90; NAs 12/09/18 at p 162 lines 20–24; Lim’s 1st affidavit at pp 409, 418.
 
-[\[note: 232\]](#Ftn_232_1)See Plaintiffs’ Skeletal Submissions at para 101.
+[^232]: See Plaintiffs’ Skeletal Submissions at para 101.
 
-[\[note: 233\]](#Ftn_233_1)See Plaintiffs’ Skeletal Submissions at para 84(1); Loh’s 1st affidavit at para 30; NAs 13/9/18 at p 138 lines 13–17.
+[^233]: See Plaintiffs’ Skeletal Submissions at para 84(1); Loh’s 1st affidavit at para 30; NAs 13/9/18 at p 138 lines 13–17.
 
-[\[note: 234\]](#Ftn_234_1)Plaintiffs’ Skeletal Submissions at para 101.
+[^234]: Plaintiffs’ Skeletal Submissions at para 101.
 
-[\[note: 235\]](#Ftn_235_1)Plaintiffs’ Skeletal Submissions at para 84(2).
+[^235]: Plaintiffs’ Skeletal Submissions at para 84(2).
 
-[\[note: 236\]](#Ftn_236_1)Plaintiffs’ Skeletal Submissions at para 102.
+[^236]: Plaintiffs’ Skeletal Submissions at para 102.
 
-[\[note: 237\]](#Ftn_237_1)See Plaintiffs’ Skeletal Submissions at para 103; Lim’s 3rd affidavit at para 19; Loh’s 1st affidavit at para 35.
+[^237]: See Plaintiffs’ Skeletal Submissions at para 103; Lim’s 3rd affidavit at para 19; Loh’s 1st affidavit at para 35.
 
-[\[note: 238\]](#Ftn_238_1)Loh’s 1st affidavit at para 35.
+[^238]: Loh’s 1st affidavit at para 35.
 
-[\[note: 239\]](#Ftn_239_1)Plaintiffs’ Skeletal Submissions at para 107.
+[^239]: Plaintiffs’ Skeletal Submissions at para 107.
 
-[\[note: 240\]](#Ftn_240_1)Plaintiffs’ Skeletal Submissions at para 110.
+[^240]: Plaintiffs’ Skeletal Submissions at para 110.
 
-[\[note: 241\]](#Ftn_241_1)Plaintiffs’ Skeletal Submissions at paras 105–106.
+[^241]: Plaintiffs’ Skeletal Submissions at paras 105–106.
 
-[\[note: 242\]](#Ftn_242_1)Plaintiffs’ Skeletal Submissions at para 55.
+[^242]: Plaintiffs’ Skeletal Submissions at para 55.
 
-[\[note: 243\]](#Ftn_243_1)Plaintiffs’ Skeletal Submissions at para 56.
+[^243]: Plaintiffs’ Skeletal Submissions at para 56.
 
-[\[note: 244\]](#Ftn_244_1)Plaintiffs’ Skeletal Submissions at para 58.
+[^244]: Plaintiffs’ Skeletal Submissions at para 58.
 
-[\[note: 245\]](#Ftn_245_1)Plaintiffs’ Skeletal Submissions at paras 57, 61.
+[^245]: Plaintiffs’ Skeletal Submissions at paras 57, 61.
 
-[\[note: 246\]](#Ftn_246_1)Plaintiffs’ Skeletal Submissions at para 59.
+[^246]: Plaintiffs’ Skeletal Submissions at para 59.
 
-[\[note: 247\]](#Ftn_247_1)Plaintiffs’ Skeletal Submissions at paras 9(4), 64.
+[^247]: Plaintiffs’ Skeletal Submissions at paras 9(4), 64.
 
-[\[note: 248\]](#Ftn_248_1)Plaintiffs’ Skeletal Submissions at para 65.
+[^248]: Plaintiffs’ Skeletal Submissions at para 65.
 
-[\[note: 249\]](#Ftn_249_1)Plaintiffs’ Skeletal Submissions at para 65; Kok’s 1st affidavit at p 231, cl 4.4.
+[^249]: Plaintiffs’ Skeletal Submissions at para 65; Kok’s 1st affidavit at p 231, cl 4.4.
 
-[\[note: 250\]](#Ftn_250_1)Plaintiffs’ Skeletal Submissions at para 66.
+[^250]: Plaintiffs’ Skeletal Submissions at para 66.
 
-[\[note: 251\]](#Ftn_251_1)Plaintiffs’ Skeletal Submissions at para 67.
+[^251]: Plaintiffs’ Skeletal Submissions at para 67.
 
-[\[note: 252\]](#Ftn_252_1)See Plaintiffs’ Skeletal Submissions at paras 41, 62(1).
+[^252]: See Plaintiffs’ Skeletal Submissions at paras 41, 62(1).
 
-[\[note: 253\]](#Ftn_253_1)Loh’s 1st affidavit at para 40.
+[^253]: Loh’s 1st affidavit at para 40.
 
-[\[note: 254\]](#Ftn_254_1)Loh’s 1st affidavit at para 40; NAs 13/09/18 at p 148 line 8; NAs 14/09/18 at p 4 lines 22–23, p 10 line 1.
+[^254]: Loh’s 1st affidavit at para 40; NAs 13/09/18 at p 148 line 8; NAs 14/09/18 at p 4 lines 22–23, p 10 line 1.
 
-[\[note: 255\]](#Ftn_255_1)Plaintiffs’ Skeletal Submissions at para 55; Loh’s 2nd affidavit at para 6.
+[^255]: Plaintiffs’ Skeletal Submissions at para 55; Loh’s 2nd affidavit at para 6.
 
-[\[note: 256\]](#Ftn_256_1)See Plaintiffs’ Skeletal Submissions at para 63.
+[^256]: See Plaintiffs’ Skeletal Submissions at para 63.
 
-[\[note: 257\]](#Ftn_257_1)See Plaintiffs’ Skeletal Submissions at para 62(2).
+[^257]: See Plaintiffs’ Skeletal Submissions at para 62(2).
 
-[\[note: 258\]](#Ftn_258_1)Plaintiffs’ Skeletal Submissions at paras 62(3), 63.
+[^258]: Plaintiffs’ Skeletal Submissions at paras 62(3), 63.
 
-[\[note: 259\]](#Ftn_259_1)Lim’s 4th affidavit at para 17.
+[^259]: Lim’s 4th affidavit at para 17.
 
-[\[note: 260\]](#Ftn_260_1)See NAs 13/09/18 at p 77 lines 6–11.
+[^260]: See NAs 13/09/18 at p 77 lines 6–11.
 
-[\[note: 261\]](#Ftn_261_1)See Lim’s 4th affidavit at paras 10–11, 13.
+[^261]: See Lim’s 4th affidavit at paras 10–11, 13.
 
-[\[note: 262\]](#Ftn_262_1)See Lim’s 4th affidavit at paras 17–18.
+[^262]: See Lim’s 4th affidavit at paras 17–18.
 
-[\[note: 263\]](#Ftn_263_1)Plaintiffs’ Skeletal Submissions at para 68.
+[^263]: Plaintiffs’ Skeletal Submissions at para 68.
 
-[\[note: 264\]](#Ftn_264_1)See Kok’s 1st affidavit at p 490.
+[^264]: See Kok’s 1st affidavit at p 490.
 
-[\[note: 265\]](#Ftn_265_1)Kok’s 1st affidavit at p 643.
+[^265]: Kok’s 1st affidavit at p 643.
 
-[\[note: 266\]](#Ftn_266_1)See Kok’s 1st affidavit at pp 636–637, 641–644, 647.
+[^266]: See Kok’s 1st affidavit at pp 636–637, 641–644, 647.
 
-[\[note: 267\]](#Ftn_267_1)Kok’s 1st affidavit at pp 183–184.
+[^267]: Kok’s 1st affidavit at pp 183–184.
 
-[\[note: 268\]](#Ftn_268_1)Kok’s 1st affidavit at pp 192–194.
+[^268]: Kok’s 1st affidavit at pp 192–194.
 
-[\[note: 269\]](#Ftn_269_1)See Plaintiffs’ Skeletal Submissions at para 57.
+[^269]: See Plaintiffs’ Skeletal Submissions at para 57.
 
-[\[note: 270\]](#Ftn_270_1)See Defendants’ Written Submissions at para 60; Dr Lim’s affidavit at pp 29–32.
+[^270]: See Defendants’ Written Submissions at para 60; Dr Lim’s affidavit at pp 29–32.
 
-[\[note: 271\]](#Ftn_271_1)Defendants’ Written Submissions at para 70.
+[^271]: Defendants’ Written Submissions at para 70.
 
-[\[note: 272\]](#Ftn_272_1)See Kok’s 1st affidavit at pp 254–256.
+[^272]: See Kok’s 1st affidavit at pp 254–256.
 
-[\[note: 273\]](#Ftn_273_1)Lim’s 1st affidavit at p 605.
+[^273]: Lim’s 1st affidavit at p 605.
 
-[\[note: 274\]](#Ftn_274_1)Lim’s 1st affidavit at pp 556, 560.
+[^274]: Lim’s 1st affidavit at pp 556, 560.
 
-[\[note: 275\]](#Ftn_275_1)Kok’s 1st affidavit at p 188.
+[^275]: Kok’s 1st affidavit at p 188.
 
-[\[note: 276\]](#Ftn_276_1)See NAs 14/09/18 at p 17 lines 6–9.
+[^276]: See NAs 14/09/18 at p 17 lines 6–9.
 
-[\[note: 277\]](#Ftn_277_1)See Kok’s 1st affidavit at p 248.
+[^277]: See Kok’s 1st affidavit at p 248.
 
-[\[note: 278\]](#Ftn_278_1)See Lim’s 4th affidavit at para 14.
+[^278]: See Lim’s 4th affidavit at para 14.
 
-[\[note: 279\]](#Ftn_279_1)See Kok’s 1st affidavit at p 213.
+[^279]: See Kok’s 1st affidavit at p 213.
 
-[\[note: 280\]](#Ftn_280_1)See Lim’s 3rd affidavit at para 30; Kok’s 1st affidavit at p 213.
+[^280]: See Lim’s 3rd affidavit at para 30; Kok’s 1st affidavit at p 213.
 
-[\[note: 281\]](#Ftn_281_1)Lim’s 3rd affidavit at para 60; Lim’s 4th affidavit at paras 13, 18.
+[^281]: Lim’s 3rd affidavit at para 60; Lim’s 4th affidavit at paras 13, 18.
 
-[\[note: 282\]](#Ftn_282_1)Defendants’ Written Submissions at p 50 (heading F), para 111.
+[^282]: Defendants’ Written Submissions at p 50 (heading F), para 111.
 
-[\[note: 283\]](#Ftn_283_1)Defendants’ Written Submissions at para 114.
+[^283]: Defendants’ Written Submissions at para 114.
 
-[\[note: 284\]](#Ftn_284_1)Plaintiffs’ Skeletal Submissions at para 9(5); Defendants’ Written Submissions at para 196.
+[^284]: Plaintiffs’ Skeletal Submissions at para 9(5); Defendants’ Written Submissions at para 196.
 
-[\[note: 285\]](#Ftn_285_1)Defendants’ Written Submissions at para 195.
+[^285]: Defendants’ Written Submissions at para 195.
 
-[\[note: 286\]](#Ftn_286_1)Defendants’ Written Submissions at para 196.
+[^286]: Defendants’ Written Submissions at para 196.
 
-[\[note: 287\]](#Ftn_287_1)Dr Lim’s affidavit at p 38.
+[^287]: Dr Lim’s affidavit at p 38.
 
-[\[note: 288\]](#Ftn_288_1)See Kok’s 1st affidavit at p 573.
+[^288]: See Kok’s 1st affidavit at p 573.
 
-[\[note: 289\]](#Ftn_289_1)See Defendants’ Written Submissions at para 111.
+[^289]: See Defendants’ Written Submissions at para 111.
 
-[\[note: 290\]](#Ftn_290_1)See Plaintiffs’ Skeletal Submissions at paras 98–99; NAs 14/09/18 at p 56 lines 22–23.
+[^290]: See Plaintiffs’ Skeletal Submissions at paras 98–99; NAs 14/09/18 at p 56 lines 22–23.
 
-[\[note: 291\]](#Ftn_291_1)Plaintiffs’ Skeletal Submissions at para 97.
+[^291]: Plaintiffs’ Skeletal Submissions at para 97.
 
-[\[note: 292\]](#Ftn_292_1)See NAs 14/09/18 at p 59 lines 10–12, 17–18.
+[^292]: See NAs 14/09/18 at p 59 lines 10–12, 17–18.
 
-[\[note: 293\]](#Ftn_293_1)See NAs 12/09/18 at p 179 lines 19–24.
+[^293]: See NAs 12/09/18 at p 179 lines 19–24.
 
-[\[note: 294\]](#Ftn_294_1)See NAs 13/09/18 at p 34 lines 2–4, 13–19; Dr Lim’s affidavit at p 35.
+[^294]: See NAs 13/09/18 at p 34 lines 2–4, 13–19; Dr Lim’s affidavit at p 35.
 
-[\[note: 295\]](#Ftn_295_1)See NAs 13/09/18 at p 34 lines 22–25, p 35 lines 1–7.
+[^295]: See NAs 13/09/18 at p 34 lines 22–25, p 35 lines 1–7.
 
-[\[note: 296\]](#Ftn_296_1)Kok’s 1st affidavit at p 573; see also Goh’s affidavit at para 3.
+[^296]: Kok’s 1st affidavit at p 573; see also Goh’s affidavit at para 3.
 
-[\[note: 297\]](#Ftn_297_1)Loh’s 1st affidavit at p 292.
+[^297]: Loh’s 1st affidavit at p 292.
 
-[\[note: 298\]](#Ftn_298_1)See NAs 12/09/18 at p 178 lines 10–19.
+[^298]: See NAs 12/09/18 at p 178 lines 10–19.
 
-[\[note: 299\]](#Ftn_299_1)Kok’s 1st affidavit at p 527.
+[^299]: Kok’s 1st affidavit at p 527.
 
-[\[note: 300\]](#Ftn_300_1)See NAs 14/09/18 at p 60 lines 15–18.
+[^300]: See NAs 14/09/18 at p 60 lines 15–18.
 
-[\[note: 301\]](#Ftn_301_1)Kok’s 1st affidavit at p 526.
+[^301]: Kok’s 1st affidavit at p 526.
 
-[\[note: 302\]](#Ftn_302_1)Kok’s 1st affidavit at p 231.
+[^302]: Kok’s 1st affidavit at p 231.
 
-[\[note: 303\]](#Ftn_303_1)Defendants’ Written Submissions at paras 111, 113.
+[^303]: Defendants’ Written Submissions at paras 111, 113.
 
-[\[note: 304\]](#Ftn_304_1)See Dr Lim’s affidavit at p 36.
+[^304]: See Dr Lim’s affidavit at p 36.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F22684-SSP.xml)

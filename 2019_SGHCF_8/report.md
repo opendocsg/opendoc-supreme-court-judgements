@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # UTS _v_ UTT  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Divorce (Transferred) No 3783 of 2017</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">23 April 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court (Family Division)</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Tan Puay Boon JC</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Malathi d/o Das (Joyce A Tan &amp; Partners LLC) for the plaintiff; Gooi Chi Duan and Cheryl Tsai (Donaldson &amp; Burkinshaw LLP) for the defendant.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">UTS — — UTT —</td></tr></tbody></table>
@@ -26,7 +27,7 @@ Family Law – Maintenance – Wife
 
 4       The power of the court to divide matrimonial assets, and the matters that it has to have regard to are set out in s 112 of the Women’s Charter (Cap 353, 2009 Rev Ed) (“WC”). These matters include those which are relevant for the assessment of maintenance for the wife set out in s 114 of the WC.
 
-5       The Parties submitted that the matrimonial assets should be pooled and divided.[\[note: 1\]](#Ftn_1) Since this is not a case where there are multiple classes of assets to which the parties had made different contributions (the Husband was responsible for acquiring the assets as the Wife did not work), the “global assessment methodology” is the appropriate methodology to be used here. This involves the identification, assessment, division and apportionment of these assets: _NK v NL_ (“_NK v NL_”) at \[31\].
+5       The Parties submitted that the matrimonial assets should be pooled and divided.[^1] Since this is not a case where there are multiple classes of assets to which the parties had made different contributions (the Husband was responsible for acquiring the assets as the Wife did not work), the “global assessment methodology” is the appropriate methodology to be used here. This involves the identification, assessment, division and apportionment of these assets: _NK v NL_ (“_NK v NL_”) at \[31\].
 
 ### Identification and Assessment of the matrimonial assets
 
@@ -56,19 +57,19 @@ Family Law – Maintenance – Wife
 
 ##### (1)   European car
 
-11     The Husband values the car at $35,000 while the Wife values it at $28,000.[\[note: 2\]](#Ftn_2) Since neither party has tendered any documentary evidence to substantiate their positions, and as their positions are not poles apart, I will adopt the average value of $31,500.
+11     The Husband values the car at $35,000 while the Wife values it at $28,000.[^2] Since neither party has tendered any documentary evidence to substantiate their positions, and as their positions are not poles apart, I will adopt the average value of $31,500.
 
 ##### (2)   Korean car
 
-12     The Husband values the car at $10,000 while the Wife has not taken a position on the value of this car, even though she appears to disagree with the Husband’s valuation.[\[note: 3\]](#Ftn_3) In the absence of any other evidence, I adopt the Husband’s value of $10,000.
+12     The Husband values the car at $10,000 while the Wife has not taken a position on the value of this car, even though she appears to disagree with the Husband’s valuation.[^3] In the absence of any other evidence, I adopt the Husband’s value of $10,000.
 
 ##### (3)   Singapore country club membership
 
-13     The parties agree that the market value of this membership is $190,000. However, the Husband submits that this is not a “true representation of the value of the membership”; the transfer fee payable to the country club ($32,100) in the event of a transfer of this membership should be deducted to arrive at an accurate value of this membership.[\[note: 4\]](#Ftn_4) The Wife disagrees and submits that the transfer fee should not be deducted since the Husband wishes to retain the membership.
+13     The parties agree that the market value of this membership is $190,000. However, the Husband submits that this is not a “true representation of the value of the membership”; the transfer fee payable to the country club ($32,100) in the event of a transfer of this membership should be deducted to arrive at an accurate value of this membership.[^4] The Wife disagrees and submits that the transfer fee should not be deducted since the Husband wishes to retain the membership.
 
 14     The Husband cites two cases in support of his submissions, the first of which is _Wee Beng Choo v Er Sye King_ , where the district judge deducted the transfer fee from the values of the club memberships: at \[26\]. However, it is unclear from the judgment whether the deduction of the transfer fee was in dispute in that case. The second case is the decision of the High Court in _Fong Wai Har v Seah Boon Chai and another_ , where the judicial commissioner accepted the husband’s argument “that the transfer fee … ought to be deducted from \[the country club’s valuation\], given that any transfer would necessarily incur that expense”: at \[11\]. However, it is unclear from the judgment whether the husband was seeking to retain the country club membership.
 
-15     In the present case, the Husband has stated unequivocally that he is “unwilling to sell the \[country club\] membership as it is \[his\] main source of entertainment and exercise”.[\[note: 5\]](#Ftn_5) The Wife does not object to the Husband’s retention of his membership. Since the Husband does not wish to transfer the membership to someone else, I see no reason to deduct the transfer fee from the value of the membership.
+15     In the present case, the Husband has stated unequivocally that he is “unwilling to sell the \[country club\] membership as it is \[his\] main source of entertainment and exercise”.[^5] The Wife does not object to the Husband’s retention of his membership. Since the Husband does not wish to transfer the membership to someone else, I see no reason to deduct the transfer fee from the value of the membership.
 
 16     I also note that when a party retains property (such as a house) in his or her own name in the event of a divorce, fees that are usually incurred in a potential future sale (such as conveyancing fees) are not typically deducted from the value of that property. Further, where real property (such as the matrimonial home) is transferred from one party to another, it is typically the transferee who bears the cost of any future transfer. Thus, by analogy, I find it reasonable for the Husband, who will continue to retain the benefits of the membership, to solely bear the notional cost of transfer as the membership is already in his own name. I thus adopt the Wife’s valuation of $190,000.
 
@@ -78,17 +79,17 @@ Family Law – Maintenance – Wife
 
 ##### (5)   Wife’s Prudential Limited Pay insurance policy
 
-18     This is an insurance policy taken out in the Wife’s name. The Wife values it at $33,000 while the Husband values it at $34,764.99. The Wife’s valuation is based solely on the participating assured sum, and the Husband’s valuation consists of that as well as the total guaranteed bonus as at 31 December 2016 and the 2017 guaranteed bonus.[\[note: 6\]](#Ftn_6)
+18     This is an insurance policy taken out in the Wife’s name. The Wife values it at $33,000 while the Husband values it at $34,764.99. The Wife’s valuation is based solely on the participating assured sum, and the Husband’s valuation consists of that as well as the total guaranteed bonus as at 31 December 2016 and the 2017 guaranteed bonus.[^6]
 
-19     In my judgment, the bonuses should not be included in the value of the policy. When valuing insurance policies, the courts generally take the surrender value of the policies as the date of the ancillary matters hearing, or any other date agreed by the parties. In other words, the courts do not take into account any increase in the value of policies after the divorce proceedings. Returning to the facts of this case, the bonuses which the Husband has included are payable on claims or maturity only.[\[note: 7\]](#Ftn_7) These are events which may or may not happen in the future; in other words, the bonuses do not represent the _present_ value of the policy. Accordingly, I adopt the Wife’s value of $33,000.
+19     In my judgment, the bonuses should not be included in the value of the policy. When valuing insurance policies, the courts generally take the surrender value of the policies as the date of the ancillary matters hearing, or any other date agreed by the parties. In other words, the courts do not take into account any increase in the value of policies after the divorce proceedings. Returning to the facts of this case, the bonuses which the Husband has included are payable on claims or maturity only.[^7] These are events which may or may not happen in the future; in other words, the bonuses do not represent the _present_ value of the policy. Accordingly, I adopt the Wife’s value of $33,000.
 
 ##### (6)   Wife’s Prudential Vantage insurance policy
 
-20     This is another insurance policy taken out in the Wife’s name. The Wife adopts the net cash surrender value of $26,156.37. The Husband adopts the indicative current value of $32,709.34.[\[note: 8\]](#Ftn_8) It appears from a statement that the indicative current value is payable only upon the Wife’s death.[\[note: 9\]](#Ftn_9) For the reasons set out in the previous paragraph, I adopt the Wife’s value of $26,156.37.
+20     This is another insurance policy taken out in the Wife’s name. The Wife adopts the net cash surrender value of $26,156.37. The Husband adopts the indicative current value of $32,709.34.[^8] It appears from a statement that the indicative current value is payable only upon the Wife’s death.[^9] For the reasons set out in the previous paragraph, I adopt the Wife’s value of $26,156.37.
 
 ##### (7)   Wife’s bank accounts
 
-21     The Husband adopts the value of $73,226.47 while the Wife adopts the value of $70,084.12. The difference is attributable to the Wife’s exclusion of certain accounts which she claims she does not operate, and which she submits should be listed under the Husband’s assets.[\[note: 10\]](#Ftn_10) Besides the relatively small difference between the two values, as will become apparent below, it is not necessary to determine each party’s precise direct financial contributions. Thus, it is also unnecessary to determine whether the difference in value should be under the Husband’s or the Wife’s name. I will adopt the Husband’s value of $73,226.47.
+21     The Husband adopts the value of $73,226.47 while the Wife adopts the value of $70,084.12. The difference is attributable to the Wife’s exclusion of certain accounts which she claims she does not operate, and which she submits should be listed under the Husband’s assets.[^10] Besides the relatively small difference between the two values, as will become apparent below, it is not necessary to determine each party’s precise direct financial contributions. Thus, it is also unnecessary to determine whether the difference in value should be under the Husband’s or the Wife’s name. I will adopt the Husband’s value of $73,226.47.
 
 22     In summary, for the assets with disputed values, I set out in the table below the values which the Wife and Husband submitted, and the values which I have found:
 
@@ -118,13 +119,13 @@ Family Law – Maintenance – Wife
 
 26     This approach has been applied in a number of cases. In _UMU v UMT and another appeal_ , the parties were married for 22 years. Although the Wife worked for a number of years, her monthly income was only $650 to $900, a sum so low that she was unable to make any direct financial contribution to the acquisition of matrimonial assets. In the circumstances, the High Court recognised that the husband was the primary breadwinner and the wife a primary homemaker, which resulted in the wife receiving 45% of the assets (before taking into account an adverse inference drawn against the husband). Another similar case is _UKA v UKB_ , where the parties were married for almost 28 years. The husband’s contributions were “very substantial in the breadwinning role”, in building and running a company which was the source of the family’s wealth. Conversely, the wife’s most substantial contributions were in homemaking, largely in raising four children. And while the Wife helped out in the company and the Husband also spent time with the children, the High Court found that the marriage “was an equal partnership of different efforts and should be recognised as such in the division of assets”, and ordered that the assets be divided equally.
 
-27     In my judgment, the present case involves a quintessential long single income marriage. The Parties were married for 39 years before they started leading separate lives: \[2\] above. The Wife was a homemaker throughout the entire marriage. The Husband’s career took him to many countries: between 1973 and 1980, he was posted to Indonesia, Africa and the United States of America. The Wife followed him overseas, where the children spent their initial years. I recognise that it was not easy for the Wife to care for young children, especially when the family was living in Khartoum, Sudan from 1975 to 1978, when the daughters were still babies. There, the family experienced times of food and petrol shortages. As the Husband accepted, it was a difficult posting which he contemplated abandoning when he first arrived.[\[note: 11\]](#Ftn_11) I also note that that was before a time where one could easily communicate across borders with smart devices and social media. Thus, the Wife’s efforts in caring for the family, particularly in the early years of the marriage, were substantial. This was all the more the case as she did not always have domestic help. On the other hand, I accept that the Husband played his part at home whenever he could. However, the reality was that a substantial proportion of time was spent on his career. Nevertheless, it was through his efforts that the Parties were able to amass more than $7 million worth of assets.
+27     In my judgment, the present case involves a quintessential long single income marriage. The Parties were married for 39 years before they started leading separate lives: \[2\] above. The Wife was a homemaker throughout the entire marriage. The Husband’s career took him to many countries: between 1973 and 1980, he was posted to Indonesia, Africa and the United States of America. The Wife followed him overseas, where the children spent their initial years. I recognise that it was not easy for the Wife to care for young children, especially when the family was living in Khartoum, Sudan from 1975 to 1978, when the daughters were still babies. There, the family experienced times of food and petrol shortages. As the Husband accepted, it was a difficult posting which he contemplated abandoning when he first arrived.[^11] I also note that that was before a time where one could easily communicate across borders with smart devices and social media. Thus, the Wife’s efforts in caring for the family, particularly in the early years of the marriage, were substantial. This was all the more the case as she did not always have domestic help. On the other hand, I accept that the Husband played his part at home whenever he could. However, the reality was that a substantial proportion of time was spent on his career. Nevertheless, it was through his efforts that the Parties were able to amass more than $7 million worth of assets.
 
 28     Although each party attempted to accentuate their contributions while downplaying that of the other party, this marriage is in my judgment “an equal partnership of different efforts”. Applying the approach in _TNL v TNK_, I am of the view that the pool of assets should be divided equally. Each party is therefore entitled to $3,609,234.30 worth of assets.
 
 ### Adverse inference
 
-29     The Wife appears to suggest on affidavit that the Husband’s belated disclosure of certain assets shows that he had failed to make full and frank disclosure of his assets. She also suggests that the Husband may be earning undeclared income.[\[note: 12\]](#Ftn_12) However, she did not request this court to draw an adverse inference against the Husband in her written submissions or at the hearing before me.
+29     The Wife appears to suggest on affidavit that the Husband’s belated disclosure of certain assets shows that he had failed to make full and frank disclosure of his assets. She also suggests that the Husband may be earning undeclared income.[^12] However, she did not request this court to draw an adverse inference against the Husband in her written submissions or at the hearing before me.
 
 30     In any event, I would have declined to do so. Mere suspicion is not enough to ground an adverse inference: _BOR v BOS and another appeal_ at \[75\]. Belated disclosures alone are also insufficient, because “parties to a functioning marriage do not keep records of their transactions with a view to building a case should a divorce occur”: _TXW v TXX_ at \[46\].
 
@@ -140,9 +141,9 @@ The overarching principle embodied in s 114(2) of the Act is that of **financial
 
 33     Nevertheless, s 114(2) must be applied in a “commonsense holistic manner that takes into account the new realities that flow from the breakdown of a marriage”: at \[16\].
 
-34     In the present case, the Husband turns 80 this year and has been retired for around 20 years. Although he remains a consultant for what appears to be a building company, a document printed with the company’s letterhead and signed by a manager from the company confirms that the Husband receives no salary and only CPF contribution of around $150 a month.[\[note: 13\]](#Ftn_13) The Wife does not challenge the authenticity of this document. And while the Husband also receives dividends of about a few thousand dollars a year from the shares which he owns,[\[note: 14\]](#Ftn_14) his present income is relatively insubstantial compared to the assets which the Parties have amassed. I also note that the Wife will receive $3,609,234.30 worth of assets. In my view, this is sufficient for her to live comfortably, especially since, on her own evidence, her expenses amount to $3,000 a month.[\[note: 15\]](#Ftn_15)
+34     In the present case, the Husband turns 80 this year and has been retired for around 20 years. Although he remains a consultant for what appears to be a building company, a document printed with the company’s letterhead and signed by a manager from the company confirms that the Husband receives no salary and only CPF contribution of around $150 a month.[^13] The Wife does not challenge the authenticity of this document. And while the Husband also receives dividends of about a few thousand dollars a year from the shares which he owns,[^14] his present income is relatively insubstantial compared to the assets which the Parties have amassed. I also note that the Wife will receive $3,609,234.30 worth of assets. In my view, this is sufficient for her to live comfortably, especially since, on her own evidence, her expenses amount to $3,000 a month.[^15]
 
-35     Considering these circumstances in the round, I order that there be no maintenance for the Wife. In coming to this decision, I also note the Wife’s assertion on affidavit that:[\[note: 16\]](#Ftn_16)
+35     Considering these circumstances in the round, I order that there be no maintenance for the Wife. In coming to this decision, I also note the Wife’s assertion on affidavit that:[^16]
 
 … my claim for lump sum maintenance is founded not on my dependence on the \[Husband\], but in seeking some recognition to my sacrifice of my career as a wife and mother in this long marriage.
 
@@ -150,7 +151,7 @@ The overarching principle embodied in s 114(2) of the Act is that of **financial
 
 ## Other issues
 
-37     In his written submissions, the Husband points out that the Parties had in 2009 agreed to split household expenses equally following the sale of an apartment where each party received an equal share of the sale proceeds. He highlights that the Wife has only reimbursed him for her share of the household expenses up to March 2018. He seeks an order that:[\[note: 17\]](#Ftn_17)
+37     In his written submissions, the Husband points out that the Parties had in 2009 agreed to split household expenses equally following the sale of an apartment where each party received an equal share of the sale proceeds. He highlights that the Wife has only reimbursed him for her share of the household expenses up to March 2018. He seeks an order that:[^17]
 
 (a)     the Wife is to make payment for the reimbursement claims for the months of April 2018 to September 2018;
 
@@ -158,7 +159,7 @@ The overarching principle embodied in s 114(2) of the Act is that of **financial
 
 (c)     such sums shall be deducted from the Wife’s share of the proceeds from the sale of the matrimonial home should the Wife fail to make the reimbursement payments.
 
-38     At the hearing, counsel for the Husband informed me that the Parties are attempting to resolve this issue between themselves, but sought liberty to apply in the event that they could not do so. I decline to grant such an order. The claimed expenses for the month of April 2018 amounted to only $1,063.42.[\[note: 18\]](#Ftn_18) Thus, the total claimed expenses is unlikely to be large, and will be insignificant relative to the size of the pool of assets. I encourage them to come to an agreement, failing which they would have to resolve their dispute at a forum where the costs incurred will be commensurate with the amount involved.
+38     At the hearing, counsel for the Husband informed me that the Parties are attempting to resolve this issue between themselves, but sought liberty to apply in the event that they could not do so. I decline to grant such an order. The claimed expenses for the month of April 2018 amounted to only $1,063.42.[^18] Thus, the total claimed expenses is unlikely to be large, and will be insignificant relative to the size of the pool of assets. I encourage them to come to an agreement, failing which they would have to resolve their dispute at a forum where the costs incurred will be commensurate with the amount involved.
 
 ## Conclusion
 
@@ -168,41 +169,41 @@ The overarching principle embodied in s 114(2) of the Act is that of **financial
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)Wife’s skeletal submissions at para 56 and Husband’s written submissions at para 76(a).
+[^1]: Wife’s skeletal submissions at para 56 and Husband’s written submissions at para 76(a).
 
-[\[note: 2\]](#Ftn_2_1)Joint summary at p 3.
+[^2]: Joint summary at p 3.
 
-[\[note: 3\]](#Ftn_3_1)Joint summary at p 3.
+[^3]: Joint summary at p 3.
 
-[\[note: 4\]](#Ftn_4_1)Joint summary at p 4.
+[^4]: Joint summary at p 4.
 
-[\[note: 5\]](#Ftn_5_1)Husband’s affidavit of assets and means at p 14.
+[^5]: Husband’s affidavit of assets and means at p 14.
 
-[\[note: 6\]](#Ftn_6_1)Joint summary at pp 3–4. Wife’s affidavit of assets and means at p 33.
+[^6]: Joint summary at pp 3–4. Wife’s affidavit of assets and means at p 33.
 
-[\[note: 7\]](#Ftn_7_1)Wife’s affidavit of assets and means at p 34.
+[^7]: Wife’s affidavit of assets and means at p 34.
 
-[\[note: 8\]](#Ftn_8_1)Joint summary at p 5.
+[^8]: Joint summary at p 5.
 
-[\[note: 9\]](#Ftn_9_1)Wife’s affidavit of assets and means at p 38.
+[^9]: Wife’s affidavit of assets and means at p 38.
 
-[\[note: 10\]](#Ftn_10_1)Joint summary at p 5.
+[^10]: Joint summary at p 5.
 
-[\[note: 11\]](#Ftn_11_1)Husband’s ancillary affidavit dated 15 October 2018 at para 55.
+[^11]: Husband’s ancillary affidavit dated 15 October 2018 at para 55.
 
-[\[note: 12\]](#Ftn_12_1)Wife’s ancillary affidavit dated 17 October 2018 at paras 8–16.
+[^12]: Wife’s ancillary affidavit dated 17 October 2018 at paras 8–16.
 
-[\[note: 13\]](#Ftn_13_1)Husband’s ancillary affidavit dated 15 October 2018 at p 23.
+[^13]: Husband’s ancillary affidavit dated 15 October 2018 at p 23.
 
-[\[note: 14\]](#Ftn_14_1)Husband’s affidavit of assets and means at p 4.
+[^14]: Husband’s affidavit of assets and means at p 4.
 
-[\[note: 15\]](#Ftn_15_1)Wife’s affidavit of assets and means at p 8.
+[^15]: Wife’s affidavit of assets and means at p 8.
 
-[\[note: 16\]](#Ftn_16_1)Wife’s ancillary affidavit dated 17 October 2018 at para 78.
+[^16]: Wife’s ancillary affidavit dated 17 October 2018 at para 78.
 
-[\[note: 17\]](#Ftn_17_1)Husband’s written submissions at paras 73–75.
+[^17]: Husband’s written submissions at paras 73–75.
 
-[\[note: 18\]](#Ftn_18_1)Husband’s affidavit of assets and means at pp 32–33.
+[^18]: Husband’s affidavit of assets and means at pp 32–33.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23075-SSP.xml)

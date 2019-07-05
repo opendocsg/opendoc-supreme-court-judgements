@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # Teo Lay Gek and another _v_ Hoang Trong Binh and others  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Originating Summons No 935 of 2018</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">27 March 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Tan Siong Thye J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Lee Ee Yang and Wong En Hui, Charis (Covenant Chambers LLC) for the plaintiffs; Hing Shan Shan Blossom, Tan Yi Yin, Amy and Chin Tian Hui, Joshua (Drew &amp; Napier LLC) for the defendants.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Teo Lay Gek — Lok Kexin Melissa — Hoang Trong Binh — Truong Quang Con — IPMM (Singapore) Pte. Ltd.</td></tr></tbody></table>
@@ -10,9 +11,9 @@ Professions – Valuer – Judicial review of valuation
 
 ## Introduction
 
-1       This case arose from a dispute in a settlement agreement between the plaintiffs and the defendants dated 16 June 2017 (“the Settlement Agreement”) regarding the valuation of the plaintiffs’ shares in Agape Holdings Pte Ltd (“the Company”), a company incorporated in Singapore, that were sold to the defendants.[\[note: 1\]](#Ftn_1) The plaintiffs hold 19% shareholding in the Company[\[note: 2\]](#Ftn_2) while the defendants hold the remainder of the shares.[\[note: 3\]](#Ftn_3) Pursuant to cl 1.1 of the Settlement Agreement, the parties had agreed to appoint an independent valuer to value and assess the fair market value of the plaintiffs’ 19% shareholding in the Company.[\[note: 4\]](#Ftn_4) The purpose of this valuation was for the defendants to purchase all of the plaintiffs’ shares based on the fair market value (cl 1.5 of the Settlement Agreement).[\[note: 5\]](#Ftn_5)
+1       This case arose from a dispute in a settlement agreement between the plaintiffs and the defendants dated 16 June 2017 (“the Settlement Agreement”) regarding the valuation of the plaintiffs’ shares in Agape Holdings Pte Ltd (“the Company”), a company incorporated in Singapore, that were sold to the defendants.[^1] The plaintiffs hold 19% shareholding in the Company[^2] while the defendants hold the remainder of the shares.[^3] Pursuant to cl 1.1 of the Settlement Agreement, the parties had agreed to appoint an independent valuer to value and assess the fair market value of the plaintiffs’ 19% shareholding in the Company.[^4] The purpose of this valuation was for the defendants to purchase all of the plaintiffs’ shares based on the fair market value (cl 1.5 of the Settlement Agreement).[^5]
 
-2       On 14 August 2017, the parties agreed to appoint Ernst & Young Solutions LLP (“EY”) as the independent valuer of the Company’s shares.[\[note: 6\]](#Ftn_6) EY’s valuation report dated 2 January 2018 (“the EY Report”) was sent to the parties on 10 January 2018.[\[note: 7\]](#Ftn_7) The EY Report assessed the fair market value of the plaintiffs’ shares to be US$4,165,675 as at 31 December 2016 (“the Valuation Date”).[\[note: 8\]](#Ftn_8) For the payment of this “Settlement Sum”, the defendants were required to make two instalment payments to the plaintiffs in April 2018 and June 2018 respectively (cl 1.6 of the Settlement Agreement).[\[note: 9\]](#Ftn_9)
+2       On 14 August 2017, the parties agreed to appoint Ernst & Young Solutions LLP (“EY”) as the independent valuer of the Company’s shares.[^6] EY’s valuation report dated 2 January 2018 (“the EY Report”) was sent to the parties on 10 January 2018.[^7] The EY Report assessed the fair market value of the plaintiffs’ shares to be US$4,165,675 as at 31 December 2016 (“the Valuation Date”).[^8] For the payment of this “Settlement Sum”, the defendants were required to make two instalment payments to the plaintiffs in April 2018 and June 2018 respectively (cl 1.6 of the Settlement Agreement).[^9]
 
 3       The defendants did not make any payment to the plaintiffs. Accordingly, the plaintiffs commenced Originating Summons No 935 of 2018 (“OS 935/2018”) which, _inter alia_, sought the following orders:
 
@@ -28,7 +29,7 @@ Professions – Valuer – Judicial review of valuation
 
 ### Events leading up to the Settlement Agreement
 
-6       On 14 July 2016, the plaintiffs commenced an action against the defendants for minority oppression in Suit No 754 of 2016 (“S 754/2016”).[\[note: 10\]](#Ftn_10) Subsequently, the parties attended a mediation session at the Singapore Mediation Centre on 16 June 2017 and entered into the Settlement Agreement in full and final settlement of all matters in S 754/2016.[\[note: 11\]](#Ftn_11) The relevant clauses of the Settlement Agreement are reproduced for ease of reference:[\[note: 12\]](#Ftn_12)
+6       On 14 July 2016, the plaintiffs commenced an action against the defendants for minority oppression in Suit No 754 of 2016 (“S 754/2016”).[^10] Subsequently, the parties attended a mediation session at the Singapore Mediation Centre on 16 June 2017 and entered into the Settlement Agreement in full and final settlement of all matters in S 754/2016.[^11] The relevant clauses of the Settlement Agreement are reproduced for ease of reference:[^12]
 
 **1**.     **Settlement Terms**
 
@@ -44,19 +45,19 @@ Professions – Valuer – Judicial review of valuation
 
 ### The Vietnam Project
 
-7       At this juncture, it is necessary to provide further details of the Company in order to better understand EY’s valuation exercise. The Company is a holding company and owns 100% of the shares in Agape Vietnam Company Limited (“Agape Vietnam”). Agape Vietnam was incorporated for the purpose of investing in a waterfront city project in Vietnam (“the Vietnam Project”). Since the Vietnam Project was critical to EY’s valuation exercise, EY appointed CBRE (Vietnam) Co., Ltd (“CBRE”), a property valuer in Vietnam, to assess the market value of the Vietnam Project. For the purposes of this dispute, one significant fact is that under Vietnam laws, Agape Vietnam has an obligation to set aside part of the residential land in the Vietnam Project to build social houses.[\[note: 13\]](#Ftn_13)
+7       At this juncture, it is necessary to provide further details of the Company in order to better understand EY’s valuation exercise. The Company is a holding company and owns 100% of the shares in Agape Vietnam Company Limited (“Agape Vietnam”). Agape Vietnam was incorporated for the purpose of investing in a waterfront city project in Vietnam (“the Vietnam Project”). Since the Vietnam Project was critical to EY’s valuation exercise, EY appointed CBRE (Vietnam) Co., Ltd (“CBRE”), a property valuer in Vietnam, to assess the market value of the Vietnam Project. For the purposes of this dispute, one significant fact is that under Vietnam laws, Agape Vietnam has an obligation to set aside part of the residential land in the Vietnam Project to build social houses.[^13]
 
-8       CBRE’s report was duly completed on 14 November 2017 (“the CBRE Report”) and was included in the EY Report.[\[note: 14\]](#Ftn_14) The defendants’ arguments focused on the CBRE Report to allege that EY had departed from its contractual mandate and that the EY Report contained manifest errors.
+8       CBRE’s report was duly completed on 14 November 2017 (“the CBRE Report”) and was included in the EY Report.[^14] The defendants’ arguments focused on the CBRE Report to allege that EY had departed from its contractual mandate and that the EY Report contained manifest errors.
 
 ### Events subsequent to the EY Report
 
-9       On 29 March 2018, _after_ EY had completed its valuation, the defendants wrote to EY as they were of the view that EY did not have the benefit of all the relevant documents and information required for the purposes of its valuation (“the Additional Documents”).[\[note: 15\]](#Ftn_15) Therefore, the defendants invited EY to reassess the valuation of the Company’s shares. I note that this letter was sent four days before the deadline for the defendants to make their first instalment payment to the plaintiffs.
+9       On 29 March 2018, _after_ EY had completed its valuation, the defendants wrote to EY as they were of the view that EY did not have the benefit of all the relevant documents and information required for the purposes of its valuation (“the Additional Documents”).[^15] Therefore, the defendants invited EY to reassess the valuation of the Company’s shares. I note that this letter was sent four days before the deadline for the defendants to make their first instalment payment to the plaintiffs.
 
-10     EY maintained the position that it could only take into account the Additional Documents and conduct a reassessment with the approval of both parties.[\[note: 16\]](#Ftn_16) This position was taken by EY as the parties had already agreed with the timetable to provide all relevant information.
+10     EY maintained the position that it could only take into account the Additional Documents and conduct a reassessment with the approval of both parties.[^16] This position was taken by EY as the parties had already agreed with the timetable to provide all relevant information.
 
-11     The plaintiffs did not consent to a reassessment of the Company’s shares.[\[note: 17\]](#Ftn_17) The plaintiffs highlighted that the defendants had sufficient time to submit the Additional Documents during EY’s valuation exercise. In fact, EY had granted the defendants’ repeated requests for extension of time to submit relevant documents and information.[\[note: 18\]](#Ftn_18) EY also conducted an in-person explanation session with Agape Vietnam’s management to explain the information and documents required by EY.[\[note: 19\]](#Ftn_19)
+11     The plaintiffs did not consent to a reassessment of the Company’s shares.[^17] The plaintiffs highlighted that the defendants had sufficient time to submit the Additional Documents during EY’s valuation exercise. In fact, EY had granted the defendants’ repeated requests for extension of time to submit relevant documents and information.[^18] EY also conducted an in-person explanation session with Agape Vietnam’s management to explain the information and documents required by EY.[^19]
 
-12     Pursuant to cl 12.1 of the Settlement Agreement, the parties attended a mediation session on 9 July 2018 in the light of the defendants’ request for reassessment. The attempt at mediation was unsuccessful. Thereafter, the plaintiffs commenced OS 935/2018 on 1 August 2018. In the course of filing their affidavits, the defendants also presented a report prepared by Savills Vietnam Co., Ltd (“Savills”) dated 26 September 2018 (“the Savills Report”).[\[note: 20\]](#Ftn_20) Savills, like CBRE, is a property valuer in Vietnam. The defendants relied primarily on the Savills Report to convince the court that EY had departed from its contractual mandate and that the EY Report was marred by manifest errors. I shall now elaborate on the parties’ cases.
+12     Pursuant to cl 12.1 of the Settlement Agreement, the parties attended a mediation session on 9 July 2018 in the light of the defendants’ request for reassessment. The attempt at mediation was unsuccessful. Thereafter, the plaintiffs commenced OS 935/2018 on 1 August 2018. In the course of filing their affidavits, the defendants also presented a report prepared by Savills Vietnam Co., Ltd (“Savills”) dated 26 September 2018 (“the Savills Report”).[^20] Savills, like CBRE, is a property valuer in Vietnam. The defendants relied primarily on the Savills Report to convince the court that EY had departed from its contractual mandate and that the EY Report was marred by manifest errors. I shall now elaborate on the parties’ cases.
 
 ## The parties’ cases
 
@@ -66,27 +67,27 @@ Professions – Valuer – Judicial review of valuation
 
 13     The defendants contended that there were manifest errors in the EY Report. Thus, the EY Report was liable to be set aside. I should emphasise that, strictly speaking, the alleged errors identified by the defendants were in relation to the CBRE Report which, in turn, was relied on by EY in the EY Report.
 
-14     Firstly, the defendants submitted that there were assumptions and statements made in the EY Report that were inaccurate and in contravention of Vietnam laws.[\[note: 21\]](#Ftn_21) The alleged errors were as follows:
+14     Firstly, the defendants submitted that there were assumptions and statements made in the EY Report that were inaccurate and in contravention of Vietnam laws.[^21] The alleged errors were as follows:
 
-(a)     CBRE had assumed that all the social houses in the Vietnam Project were to be “sold”, when Vietnam’s Housing Law No. 65/2014/QH13 (“Housing Law 2014”) required at least 20% of the social houses to be “leased” for at least five years. In this regard, the defendants relied on the expert opinion of a Vietnamese lawyer, Mr Nguyen Ba Son (“Mr Nguyen”).[\[note: 22\]](#Ftn_22)
+(a)     CBRE had assumed that all the social houses in the Vietnam Project were to be “sold”, when Vietnam’s Housing Law No. 65/2014/QH13 (“Housing Law 2014”) required at least 20% of the social houses to be “leased” for at least five years. In this regard, the defendants relied on the expert opinion of a Vietnamese lawyer, Mr Nguyen Ba Son (“Mr Nguyen”).[^22]
 
-(b)     CBRE had failed to apply the statutorily prescribed formula for determining the maximum selling price of the social houses (“the Sale Price Formula”). Instead, CBRE merely referred to two comparable projects, made certain adjustments and arrived at the average selling price of US$550 per sqm.[\[note: 23\]](#Ftn_23) The defendants, similarly, relied on Mr Nguyen’s expert opinion. The defendants also relied on the Savills Report which applied the Sale Price Formula to determine the maximum selling price of the social houses at US$391 per sqm.[\[note: 24\]](#Ftn_24)
+(b)     CBRE had failed to apply the statutorily prescribed formula for determining the maximum selling price of the social houses (“the Sale Price Formula”). Instead, CBRE merely referred to two comparable projects, made certain adjustments and arrived at the average selling price of US$550 per sqm.[^23] The defendants, similarly, relied on Mr Nguyen’s expert opinion. The defendants also relied on the Savills Report which applied the Sale Price Formula to determine the maximum selling price of the social houses at US$391 per sqm.[^24]
 
 15     Secondly, the defendants submitted that the EY Report was also marred by manifest errors of fact. The purported errors were as follows:
 
-(a)     Agape Vietnam had to pay the relevant authority “Land Costs” with respect to the land that had been allocated and handed over to Agape Vietnam. As at the Valuation Date, there was still “Residual Land” which had yet to be handed over to Agape Vietnam. CBRE failed to take into account the Land Costs for the Residual Land, which were yet to be ascertained by the relevant authority.[\[note: 25\]](#Ftn_25)
+(a)     Agape Vietnam had to pay the relevant authority “Land Costs” with respect to the land that had been allocated and handed over to Agape Vietnam. As at the Valuation Date, there was still “Residual Land” which had yet to be handed over to Agape Vietnam. CBRE failed to take into account the Land Costs for the Residual Land, which were yet to be ascertained by the relevant authority.[^25]
 
-(b)     Agape Vietnam had sold 244 units in the Vietnam Project through a marketing agent known as Mai Anh Co., Ltd (“MACL”) as at the Valuation Date. CBRE did not fully take into account all the commission expenses that were payable by Agape Vietnam to MACL which were not recorded in Agape Vietnam’s books.[\[note: 26\]](#Ftn_26) Furthermore, it was not clear if CBRE had accounted for part of the commission expenses which were on Agape Vietnam’s books.[\[note: 27\]](#Ftn_27)
+(b)     Agape Vietnam had sold 244 units in the Vietnam Project through a marketing agent known as Mai Anh Co., Ltd (“MACL”) as at the Valuation Date. CBRE did not fully take into account all the commission expenses that were payable by Agape Vietnam to MACL which were not recorded in Agape Vietnam’s books.[^26] Furthermore, it was not clear if CBRE had accounted for part of the commission expenses which were on Agape Vietnam’s books.[^27]
 
-(c)     CBRE had identified several similar properties to derive the value of the school land in the Vietnam Project (“the Direct Comparison Approach”).[\[note: 28\]](#Ftn_28) However, these properties were “wholly dissimilar from the \[Vietnam Project\] in terms of both location and development type”.[\[note: 29\]](#Ftn_29) The defendants highlighted that Savills had calculated the value of the school land in the Vietnam Project based on residual land value (“RLV”) and attributed a _negative_ value of US$3.3m to the school land in the Vietnam Project.[\[note: 30\]](#Ftn_30)
+(c)     CBRE had identified several similar properties to derive the value of the school land in the Vietnam Project (“the Direct Comparison Approach”).[^28] However, these properties were “wholly dissimilar from the \[Vietnam Project\] in terms of both location and development type”.[^29] The defendants highlighted that Savills had calculated the value of the school land in the Vietnam Project based on residual land value (“RLV”) and attributed a _negative_ value of US$3.3m to the school land in the Vietnam Project.[^30]
 
-16     Thirdly, the defendants contended that the EY Report was marred by manifest errors because EY and CBRE had conducted their respective valuations based on incomplete information. EY and CBRE ought to have considered the Additional Documents which the defendants provided after the EY Report was sent to the parties.[\[note: 31\]](#Ftn_31)
+16     Thirdly, the defendants contended that the EY Report was marred by manifest errors because EY and CBRE had conducted their respective valuations based on incomplete information. EY and CBRE ought to have considered the Additional Documents which the defendants provided after the EY Report was sent to the parties.[^31]
 
 #### EY exceeded the scope of its contractual mandate
 
 17     The defendants’ second ground of grievance was that EY had exceeded the scope of its contractual mandate.
 
-18     The defendants argued that, in determining the scope of EY’s contractual mandate, it must be implied that EY’s valuation had to be in accordance with all applicable laws.[\[note: 32\]](#Ftn_32) The defendants also relied on the International Valuation Standards’ definition of “market value”, which states that “the market value of an asset will reflect its highest and best use … that is … legally permissible”.
+18     The defendants argued that, in determining the scope of EY’s contractual mandate, it must be implied that EY’s valuation had to be in accordance with all applicable laws.[^32] The defendants also relied on the International Valuation Standards’ definition of “market value”, which states that “the market value of an asset will reflect its highest and best use … that is … legally permissible”.
 
 19     The defendants submitted that EY’s valuation was not in accordance with all applicable laws, for the reasons stated at \[14\] above. Therefore, EY had exceeded the scope of its contractual mandate and its determination was liable to be set aside.
 
@@ -94,27 +95,27 @@ Professions – Valuer – Judicial review of valuation
 
 #### There were no manifest errors in the EY Report
 
-20     The plaintiffs contended that there were no errors in the EY Report, let alone manifest errors.[\[note: 33\]](#Ftn_33) The alleged errors that were identified by the defendants, as stated at \[14\] and \[15\] above, were merely differences of opinion. The plaintiffs relied on the expert opinion of a Vietnamese lawyer, Dr Luu Tien Dung (“Dr Luu”) and submitted that the EY Report was fully compliant with Vietnam laws.[\[note: 34\]](#Ftn_34)
+20     The plaintiffs contended that there were no errors in the EY Report, let alone manifest errors.[^33] The alleged errors that were identified by the defendants, as stated at \[14\] and \[15\] above, were merely differences of opinion. The plaintiffs relied on the expert opinion of a Vietnamese lawyer, Dr Luu Tien Dung (“Dr Luu”) and submitted that the EY Report was fully compliant with Vietnam laws.[^34]
 
 21     In relation to the assumptions and statements made by CBRE that were said to be inaccurate and in contravention of Vietnam laws (see \[14\] above), the plaintiffs submitted that:
 
-(a)     Social houses disposed through “lease-purchase” counted towards the requirement for at least 20% of the social houses to be “leased”. All “lease-purchase” units would eventually be sold to the purchasers. Therefore, CBRE’s assumption that all the social houses would be sold was not incorrect. In this regard, the plaintiffs relied on the expert opinion of Dr Luu.[\[note: 35\]](#Ftn_35)
+(a)     Social houses disposed through “lease-purchase” counted towards the requirement for at least 20% of the social houses to be “leased”. All “lease-purchase” units would eventually be sold to the purchasers. Therefore, CBRE’s assumption that all the social houses would be sold was not incorrect. In this regard, the plaintiffs relied on the expert opinion of Dr Luu.[^35]
 
-(b)     The Sale Price Formula could not be applied to value the Vietnam Project due to insufficient information. Such information included the filing costs, site formation works, external works, and finance and legal expenses.[\[note: 36\]](#Ftn_36) The plaintiffs relied on Dr Luu’s expert opinion who opined that CBRE’s calculation of the maximum selling price was more reliable than that of Savills, whose calculation was based on hypothetical figures.[\[note: 37\]](#Ftn_37)
+(b)     The Sale Price Formula could not be applied to value the Vietnam Project due to insufficient information. Such information included the filing costs, site formation works, external works, and finance and legal expenses.[^36] The plaintiffs relied on Dr Luu’s expert opinion who opined that CBRE’s calculation of the maximum selling price was more reliable than that of Savills, whose calculation was based on hypothetical figures.[^37]
 
 22     In relation to the alleged manifest errors of fact, the plaintiffs contended that:
 
-(a)     Agape Vietnam’s liability for Land Costs in respect of the Residual Land was entirely speculative. It was possible that no Land Costs would be payable for the Residual Land.[\[note: 38\]](#Ftn_38)
+(a)     Agape Vietnam’s liability for Land Costs in respect of the Residual Land was entirely speculative. It was possible that no Land Costs would be payable for the Residual Land.[^38]
 
-(b)     Agape Vietnam had fully accounted for all the commission expenses that were payable by Agape Vietnam to MACL which were recorded in Agape Vietnam’s books. Any other purported commission expenses were based on the Additional Documents which the defendants sought to provide to EY after the valuation exercise.[\[note: 39\]](#Ftn_39) In addition, the defendants’ contention that CBRE had not accounted for part of the commission expenses recorded in Agape Vietnam’s books was a mere assertion.[\[note: 40\]](#Ftn_40)
+(b)     Agape Vietnam had fully accounted for all the commission expenses that were payable by Agape Vietnam to MACL which were recorded in Agape Vietnam’s books. Any other purported commission expenses were based on the Additional Documents which the defendants sought to provide to EY after the valuation exercise.[^39] In addition, the defendants’ contention that CBRE had not accounted for part of the commission expenses recorded in Agape Vietnam’s books was a mere assertion.[^40]
 
-(c)     CBRE’s utilisation of the Direct Comparison Approach was made honestly in its professional judgment. CBRE made appropriate adjustments in arriving at its valuation.[\[note: 41\]](#Ftn_41) Although Savills calculated the value of the school land in the Vietnam Project based on residual land value, this was merely a difference in methodology and opinion.[\[note: 42\]](#Ftn_42)
+(c)     CBRE’s utilisation of the Direct Comparison Approach was made honestly in its professional judgment. CBRE made appropriate adjustments in arriving at its valuation.[^41] Although Savills calculated the value of the school land in the Vietnam Project based on residual land value, this was merely a difference in methodology and opinion.[^42]
 
-23     In relation to the defendants’ contention that EY’s valuation was based on incomplete information, the plaintiffs submitted that this was not a ground for setting aside an expert’s determination. Furthermore, parties had ample time to submit all relevant documents and information to EY during the valuation exercise. The defendants had only sought to provide the Additional Documents after the valuation exercise had well concluded.[\[note: 43\]](#Ftn_43)
+23     In relation to the defendants’ contention that EY’s valuation was based on incomplete information, the plaintiffs submitted that this was not a ground for setting aside an expert’s determination. Furthermore, parties had ample time to submit all relevant documents and information to EY during the valuation exercise. The defendants had only sought to provide the Additional Documents after the valuation exercise had well concluded.[^43]
 
 #### EY did not exceed the scope of its contractual mandate
 
-24     The plaintiffs submitted that EY would only have exceeded the scope of its contractual mandate if it had made “fundamental mistakes”.[\[note: 44\]](#Ftn_44) The plaintiffs relied on _Jones v Sherwood Computer Services plc_ at 287 for examples of such “fundamental mistakes”. These included the situation where a valuer of shares valued the wrong number of shares, or valued shares in the wrong company. On the facts, EY had valued the plaintiffs’ shares in the Company fully in accordance with their terms of engagement.[\[note: 45\]](#Ftn_45) Accordingly, EY could not have been said to have exceeded the scope of its contractual mandate.
+24     The plaintiffs submitted that EY would only have exceeded the scope of its contractual mandate if it had made “fundamental mistakes”.[^44] The plaintiffs relied on _Jones v Sherwood Computer Services plc_ at 287 for examples of such “fundamental mistakes”. These included the situation where a valuer of shares valued the wrong number of shares, or valued shares in the wrong company. On the facts, EY had valued the plaintiffs’ shares in the Company fully in accordance with their terms of engagement.[^45] Accordingly, EY could not have been said to have exceeded the scope of its contractual mandate.
 
 ## My decision
 
@@ -152,7 +153,7 @@ Professions – Valuer – Judicial review of valuation
 
 … Now experts can be wrong; they can be muddle-headed; and, unfortunately, on occasions they can give their opinions negligently. _Anyone who agrees to accept the opinion of an expert accepts the risk of these sorts of misfortunes happening._ … \[emphasis added\]
 
-31     The principles enunciated above are particularly pertinent in this case, where parties were embroiled in litigation but decided to submit to expert determination as part of the Settlement Agreement. The defendants have themselves stated that their motivation for entering into the Settlement Agreement was to avoid protracted litigation.[\[note: 46\]](#Ftn_46) The parties did not dispute that only a manifest error and not a mere error would suffice to set aside the EY Report.
+31     The principles enunciated above are particularly pertinent in this case, where parties were embroiled in litigation but decided to submit to expert determination as part of the Settlement Agreement. The defendants have themselves stated that their motivation for entering into the Settlement Agreement was to avoid protracted litigation.[^46] The parties did not dispute that only a manifest error and not a mere error would suffice to set aside the EY Report.
 
 32     There is some debate over the approach the court should adopt with respect to manifest errors. In _Geowin Construction Pte Ltd (in liquidation) v Management Corporation Strata Title Plan No 1256_ (“_Geowin_”) at \[16\], Rajah J preferred a narrow approach, and explained that the term “manifest error” is “no more than a convenient shorthand reference to a patent error _on the ‘face’ of the award or decision_” \[emphasis added\]. This approach was similarly adopted in _Quek Kwee Kee Victoria (in her personal capacity and as executor of the estate of Quek Kiat Song, deceased) and another v Quek Khuay Chuah_ at \[33\]. The rationale for the narrow approach was stated succinctly by Rajah J in _Geowin_ at \[19\]:
 
@@ -178,17 +179,17 @@ Even on Chan J’s approach, it is clear that not all error is manifest error. O
 
 40     Therefore, there are two requirements that the dissatisfied party has to fulfil before the court will conclude that an error is a manifest error. Firstly, the error must be obvious and admit of no difference of opinion. Secondly, the error must be one that is obviously capable of affecting the expert’s determination.
 
-41     On the facts, even if I had applied Chan J’s approach which was advocated by the defendants, I found that EY had not made any manifest errors. The alleged errors identified by the defendants were not obvious – they required the court to extensively investigate whether or not EY and CBRE had made any error. This was plainly not the appropriate forum for such an inquiry to be undertaken given the court’s limited right of review. Furthermore, the alleged errors identified by the defendants were merely differences of opinion between the defendants (relying on Mr Nyugen’s expert opinion and the Savills Report) and the plaintiffs (relying on Dr Luu’s expert opinion and the CBRE Report). As acknowledged by counsel for the defendants, the defendants would not have been able to identify the alleged errors of law without the benefit of Mr Nyugen’s expert opinion and the Savills Report.[\[note: 47\]](#Ftn_47) It was not proper for the court to adjudicate between the _merits_ of the contrasting opinions in deciding whether or not to set aside an expert’s determination. I shall now explain with reference to each of the alleged errors.
+41     On the facts, even if I had applied Chan J’s approach which was advocated by the defendants, I found that EY had not made any manifest errors. The alleged errors identified by the defendants were not obvious – they required the court to extensively investigate whether or not EY and CBRE had made any error. This was plainly not the appropriate forum for such an inquiry to be undertaken given the court’s limited right of review. Furthermore, the alleged errors identified by the defendants were merely differences of opinion between the defendants (relying on Mr Nyugen’s expert opinion and the Savills Report) and the plaintiffs (relying on Dr Luu’s expert opinion and the CBRE Report). As acknowledged by counsel for the defendants, the defendants would not have been able to identify the alleged errors of law without the benefit of Mr Nyugen’s expert opinion and the Savills Report.[^47] It was not proper for the court to adjudicate between the _merits_ of the contrasting opinions in deciding whether or not to set aside an expert’s determination. I shall now explain with reference to each of the alleged errors.
 
 ### Manifest errors of law
 
-42     The defendants relied on Mr Nyugen’s legal opinion and contended that Vietnam’s Housing Law 2014 required at least 20% of the social houses to be leased for at least five years.[\[note: 48\]](#Ftn_48) According to the defendants, CBRE erred in stating that all the social houses were to be sold. Therefore, the EY Report was marred by a manifest error of law.
+42     The defendants relied on Mr Nyugen’s legal opinion and contended that Vietnam’s Housing Law 2014 required at least 20% of the social houses to be leased for at least five years.[^48] According to the defendants, CBRE erred in stating that all the social houses were to be sold. Therefore, the EY Report was marred by a manifest error of law.
 
-43     However, the plaintiffs relied on Dr Luu’s legal opinion which stated that social houses which are disposed through lease-purchase for a term of at least five years will still satisfy the requirement for at least 20% of the social houses to be leased.[\[note: 49\]](#Ftn_49) Accordingly, CBRE’s assumption that all of the social houses were to be sold was not in violation of Vietnam laws.[\[note: 50\]](#Ftn_50)
+43     However, the plaintiffs relied on Dr Luu’s legal opinion which stated that social houses which are disposed through lease-purchase for a term of at least five years will still satisfy the requirement for at least 20% of the social houses to be leased.[^49] Accordingly, CBRE’s assumption that all of the social houses were to be sold was not in violation of Vietnam laws.[^50]
 
 44     The other manifest error of law alleged by the defendants was that CBRE failed to apply the Sale Price Formula in arriving at the maximum selling price of the social houses. Instead, CBRE had referred to two comparable projects and arrived at the average selling price of US$550 per sqm after making certain adjustments. Similarly, the defendants relied on Mr Nyugen’s legal opinion and the Savills Report.
 
-45     In contrast, the plaintiffs relied on Dr Luu’s legal opinion which suggested that the Sale Price Formula could not be meaningfully applied by CBRE. Dr Luu opined as follows:[\[note: 51\]](#Ftn_51)
+45     In contrast, the plaintiffs relied on Dr Luu’s legal opinion which suggested that the Sale Price Formula could not be meaningfully applied by CBRE. Dr Luu opined as follows:[^51]
 
 25.    The allegations \[of Mr Nyugen and the first defendant\] that the average selling price of the social housing units adopted by CBRE contravenes Vietnam law and their reliance on the Savills Report for the maximum selling price of the social housing units is completely baseless.
 
@@ -210,15 +211,15 @@ Even on Chan J’s approach, it is clear that not all error is manifest error. O
 
 48     Firstly, the defendants submitted that CBRE failed to take into account the Land Costs for the Residual Land. The plaintiffs rebutted the defendants’ submission by stating that the Land Costs for the Residual Land was entirely speculative, since it was possible that no Land Costs would be payable at all.
 
-49     In my view, it was open for CBRE, in exercising its honest, independent and professional judgment, not to take into account the Land Costs for the Residual Land since it was possible that there might not be any Land Costs. This was particularly so as Agape Vietnam’s liability for Land Costs for the Residual Land was speculative as of the Valuation Date. Moreover, the defendants stated that “land costs in the sum approximately VND 609 billion was payable in respect of _more than half of the area_” handed over to Agape Vietnam \[emphasis added\].[\[note: 52\]](#Ftn_52) On the defendants’ own case, Agape Vietnam was not liable for Land Costs with respect to _some_ of the area that was already handed over to Agape Vietnam.
+49     In my view, it was open for CBRE, in exercising its honest, independent and professional judgment, not to take into account the Land Costs for the Residual Land since it was possible that there might not be any Land Costs. This was particularly so as Agape Vietnam’s liability for Land Costs for the Residual Land was speculative as of the Valuation Date. Moreover, the defendants stated that “land costs in the sum approximately VND 609 billion was payable in respect of _more than half of the area_” handed over to Agape Vietnam \[emphasis added\].[^52] On the defendants’ own case, Agape Vietnam was not liable for Land Costs with respect to _some_ of the area that was already handed over to Agape Vietnam.
 
-50     Secondly, the defendants contended that CBRE failed to take into account all of Agape Vietnam’s commission expenses in its valuation. However, this contention was also unmeritorious. The other commission expenses referred to by the defendants were not found on Agape Vietnam’s books. In all fairness to CBRE, the unreported commission expenses were not brought to CBRE’s attention by Agape Vietnam during the period of the valuation, notwithstanding the various extensions of time granted by CBRE for Agape Vietnam to provide the relevant information. In fact, the unreported commission expenses formed the subject of some of the Additional Documents provided by the defendants after EY’s valuation had concluded.[\[note: 53\]](#Ftn_53) The defendants expressly acknowledged in the letter dated 29 March 2018 that these documents had not been provided to EY previously. Accordingly, it could not be seriously contended that EY had made a manifest error in not taking into account all of Agape Vietnam’s commission expenses, when these expenses were not even recorded on Agape Vietnam’s books. The defendants’ other assertion that it is “not clear” if CBRE had fully taken into account all the commission expenses recorded on Agape Vietnam’s books was also speculative.[\[note: 54\]](#Ftn_54) If there were any omissions, the defendants were entirely to blame as they were dilatory in their rendering of assistance to CBRE during the valuation exercise.
+50     Secondly, the defendants contended that CBRE failed to take into account all of Agape Vietnam’s commission expenses in its valuation. However, this contention was also unmeritorious. The other commission expenses referred to by the defendants were not found on Agape Vietnam’s books. In all fairness to CBRE, the unreported commission expenses were not brought to CBRE’s attention by Agape Vietnam during the period of the valuation, notwithstanding the various extensions of time granted by CBRE for Agape Vietnam to provide the relevant information. In fact, the unreported commission expenses formed the subject of some of the Additional Documents provided by the defendants after EY’s valuation had concluded.[^53] The defendants expressly acknowledged in the letter dated 29 March 2018 that these documents had not been provided to EY previously. Accordingly, it could not be seriously contended that EY had made a manifest error in not taking into account all of Agape Vietnam’s commission expenses, when these expenses were not even recorded on Agape Vietnam’s books. The defendants’ other assertion that it is “not clear” if CBRE had fully taken into account all the commission expenses recorded on Agape Vietnam’s books was also speculative.[^54] If there were any omissions, the defendants were entirely to blame as they were dilatory in their rendering of assistance to CBRE during the valuation exercise.
 
 51     Thirdly, the defendants submitted that the Direct Comparison Approach adopted by CBRE to value the school land in the Vietnam Project was a manifest error. In contrast, Savills had valued the school land in the Vietnam Project based on RLV, resulting in a negative value. However, this is merely a _difference in methodology_ between CBRE and Savills, both of whom are professional valuers who are entitled to a certain degree of latitude in their valuations. A mere difference in methodology cannot qualify as a manifest error.
 
 ### EY failed to consider the Additional Documents
 
-52     In my view, the defendants’ arguments that EY ought to have considered the Additional Documents were completely unmeritorious. EY acted even-handedly by not granting the defendants’ request for reassessment without the plaintiffs’ consent. This was the proper course for EY to take in the interests of due process and finality as well as fairness to both parties. Furthermore, I note that EY had, in the course of the valuation exercise, granted various extensions of time to the defendants at their requests.[\[note: 55\]](#Ftn_55) If the defendants were of the view that the Additional Documents were relevant and pertinent for EY and CBRE’s valuations, then they should have been provided to EY and CBRE _before_ the valuations were complete and not after.
+52     In my view, the defendants’ arguments that EY ought to have considered the Additional Documents were completely unmeritorious. EY acted even-handedly by not granting the defendants’ request for reassessment without the plaintiffs’ consent. This was the proper course for EY to take in the interests of due process and finality as well as fairness to both parties. Furthermore, I note that EY had, in the course of the valuation exercise, granted various extensions of time to the defendants at their requests.[^55] If the defendants were of the view that the Additional Documents were relevant and pertinent for EY and CBRE’s valuations, then they should have been provided to EY and CBRE _before_ the valuations were complete and not after.
 
 ## Issue 2: Whether EY exceeded the scope of its contractual mandate
 
@@ -238,7 +239,7 @@ Even on Chan J’s approach, it is clear that not all error is manifest error. O
 
 ### Application to the facts of this case
 
-56     On the facts, the relevant instructions provided by the parties to EY can be found in EY’s “Statement of Work”. These instructions include:[\[note: 56\]](#Ftn_56)
+56     On the facts, the relevant instructions provided by the parties to EY can be found in EY’s “Statement of Work”. These instructions include:[^56]
 
 (a)     The appropriate basis of valuing the plaintiffs’ 19% shareholding in the Company shall be market value.
 
@@ -250,7 +251,7 @@ Even on Chan J’s approach, it is clear that not all error is manifest error. O
 
 ## Whether the court should have invited CBRE to provide clarifications
 
-58     At the hearing of OS 935/2018, the defendants submitted that the court should have exercised its discretion to invite CBRE to clarify the assumptions made in its valuation.[\[note: 57\]](#Ftn_57) The defendants argued that CBRE had expressly stated in its report that “\[i\]f any of our assumptions are found to be inaccurate our valuation is void and all reliance is revoked”.[\[note: 58\]](#Ftn_58) Thus, CBRE should be invited to clarify whether or not its assumptions were still accurate.
+58     At the hearing of OS 935/2018, the defendants submitted that the court should have exercised its discretion to invite CBRE to clarify the assumptions made in its valuation.[^57] The defendants argued that CBRE had expressly stated in its report that “\[i\]f any of our assumptions are found to be inaccurate our valuation is void and all reliance is revoked”.[^58] Thus, CBRE should be invited to clarify whether or not its assumptions were still accurate.
 
 59     The court is an adversarial process and the burden is on the parties to prove their respective cases. The court is entitled to rely on all the available information that is before it at the time of the hearing. If the defendants believed that CBRE had made inaccurate assumptions, then the burden was on _the defendants_ to produce an affidavit from CBRE. Based on what was before the court, it could not be said that CBRE had made any inaccurate assumptions. CBRE did not admit that it had made any errors. The defendants’ assertions that CBRE had made inaccurate assumptions were robustly contested by the plaintiffs, as stated above at \[42\]–\[51\]. If CBRE refused to engage the defendants and the defendants were insistent that CBRE had made inaccurate assumptions, then it is for the defendants to initiate an action against CBRE for negligence in its valuation that resulted in the defendants paying more for the plaintiffs’ 19% shareholding in the Company.
 
@@ -260,7 +261,7 @@ Even on Chan J’s approach, it is clear that not all error is manifest error. O
 
 61     In summary, for Issue 1, I found that the EY Report was not marred by manifest errors. The central plank of the defendants’ case was premised on the Savills Report. It was undeniable that without the Savills Report and Mr Nyugen’s expert opinion, almost all of the defendants’ allegations of manifest errors would not have been identifiable and visible for the defendants to launch a series of attacks on the EY Report. The plaintiffs, on the other hand, disagreed with the Savills Report and its accompanying criticism of the EY Report. In other words, this was a case of a difference of opinions between the two pundits on the valuation of the plaintiffs’ 19% shareholding in the Company.
 
-62     The Savills Report was commissioned by the defendants after they had seen the EY Report and realised that they had to pay US$4,165,675 for the plaintiffs’ 19% shareholding in the Company. The defendants must have felt that the Settlement Sum was too much and decided to seek a second opinion which they were not allowed to do under the Settlement Agreement. Nevertheless, the defendants went ahead and commissioned the Savills Report. If the Savills Report had valued the plaintiffs’ 19% shareholding in the Company higher than the EY Report, the defendants would not have taken issue with the EY Report and this case would not have come before the court. However, from the Savills Report, the defendants alleged that the “Disputed Value would be reduced by approximately US$3.4 million (_ie_, 15.5%)”[\[note: 59\]](#Ftn_59). Since the defendants had agreed in the Settlement Agreement to be bound by the EY Report, they must abide and honour that agreement notwithstanding the findings of the Savills Report. If the defendants felt strongly that the EY Report was erroneous and unfair, then the appropriate recourse would be to commence an action against EY for professional negligence which resulted in the defendants paying more to the plaintiffs for their 19% shareholding in the Company.
+62     The Savills Report was commissioned by the defendants after they had seen the EY Report and realised that they had to pay US$4,165,675 for the plaintiffs’ 19% shareholding in the Company. The defendants must have felt that the Settlement Sum was too much and decided to seek a second opinion which they were not allowed to do under the Settlement Agreement. Nevertheless, the defendants went ahead and commissioned the Savills Report. If the Savills Report had valued the plaintiffs’ 19% shareholding in the Company higher than the EY Report, the defendants would not have taken issue with the EY Report and this case would not have come before the court. However, from the Savills Report, the defendants alleged that the “Disputed Value would be reduced by approximately US$3.4 million (_ie_, 15.5%)”[^59]. Since the defendants had agreed in the Settlement Agreement to be bound by the EY Report, they must abide and honour that agreement notwithstanding the findings of the Savills Report. If the defendants felt strongly that the EY Report was erroneous and unfair, then the appropriate recourse would be to commence an action against EY for professional negligence which resulted in the defendants paying more to the plaintiffs for their 19% shareholding in the Company.
 
 63     EY had engaged CBRE to value the Company’s assets in Vietnam. The plaintiffs’ legal pundit in Vietnam laws, Dr Luu, confirmed that CBRE’s valuation was in compliance with Vietnam laws. The defendants’ legal pundit, Mr Nyugen, on the other hand, had a contrary legal opinion. Hence, this was a difference in legal interpretation and there were no manifest errors of law.
 
@@ -274,123 +275,123 @@ Even on Chan J’s approach, it is clear that not all error is manifest error. O
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)Plaintiffs’ Bundle of Documents (“PBOD”), Tab 2, p 104.
+[^1]: Plaintiffs’ Bundle of Documents (“PBOD”), Tab 2, p 104.
 
-[\[note: 2\]](#Ftn_2_1)PBOD, Tab 2, p 3 para 4.
+[^2]: PBOD, Tab 2, p 3 para 4.
 
-[\[note: 3\]](#Ftn_3_1)PBOD, Tab 2, p 3 para 4.
+[^3]: PBOD, Tab 2, p 3 para 4.
 
-[\[note: 4\]](#Ftn_4_1)PBOD, Tab 2, p 107.
+[^4]: PBOD, Tab 2, p 107.
 
-[\[note: 5\]](#Ftn_5_1)PBOD, Tab 2, p 107.
+[^5]: PBOD, Tab 2, p 107.
 
-[\[note: 6\]](#Ftn_6_1)PBOD, Tab 2, p 8 para 17.
+[^6]: PBOD, Tab 2, p 8 para 17.
 
-[\[note: 7\]](#Ftn_7_1)PBOD, Tab 2, p 17 para 28.
+[^7]: PBOD, Tab 2, p 17 para 28.
 
-[\[note: 8\]](#Ftn_8_1)PBOD, Tab 2, p 16 para 26.
+[^8]: PBOD, Tab 2, p 16 para 26.
 
-[\[note: 9\]](#Ftn_9_1)PBOD, Tab 2, p 16 para 27.
+[^9]: PBOD, Tab 2, p 16 para 27.
 
-[\[note: 10\]](#Ftn_10_1)PBOD, Tab 2, p 4 para 8.
+[^10]: PBOD, Tab 2, p 4 para 8.
 
-[\[note: 11\]](#Ftn_11_1)PBOD, Tab 2, p 6 para 14.
+[^11]: PBOD, Tab 2, p 6 para 14.
 
-[\[note: 12\]](#Ftn_12_1)PBOD, Tab 2, p 107.
+[^12]: PBOD, Tab 2, p 107.
 
-[\[note: 13\]](#Ftn_13_1)PBOD, Tab 8, pp 13–14.
+[^13]: PBOD, Tab 8, pp 13–14.
 
-[\[note: 14\]](#Ftn_14_1)PBOD, Tab 7, pp 373–462.
+[^14]: PBOD, Tab 7, pp 373–462.
 
-[\[note: 15\]](#Ftn_15_1)PBOD, Tab 7, pp 563–569.
+[^15]: PBOD, Tab 7, pp 563–569.
 
-[\[note: 16\]](#Ftn_16_1)PBOD, Tab 7, pp 570–571.
+[^16]: PBOD, Tab 7, pp 570–571.
 
-[\[note: 17\]](#Ftn_17_1)PBOD, Tab 7, pp 572–573.
+[^17]: PBOD, Tab 7, pp 572–573.
 
-[\[note: 18\]](#Ftn_18_1)PBOD, Tab 7, p 583.
+[^18]: PBOD, Tab 7, p 583.
 
-[\[note: 19\]](#Ftn_19_1)PBOD, Tab 7, p 584.
+[^19]: PBOD, Tab 7, p 584.
 
-[\[note: 20\]](#Ftn_20_1)PBOD, Tab 7, pp 672–687.
+[^20]: PBOD, Tab 7, pp 672–687.
 
-[\[note: 21\]](#Ftn_21_1)Defendants’ Written Submissions (“DWS”), paras 78–81.
+[^21]: Defendants’ Written Submissions (“DWS”), paras 78–81.
 
-[\[note: 22\]](#Ftn_22_1)DWS, paras 48–63.
+[^22]: DWS, paras 48–63.
 
-[\[note: 23\]](#Ftn_23_1)DWS, para 67; PBOD, Tab 7, p 414.
+[^23]: DWS, para 67; PBOD, Tab 7, p 414.
 
-[\[note: 24\]](#Ftn_24_1)DWS, para 70(a); PBOD, Tab 10, p 35.
+[^24]: DWS, para 70(a); PBOD, Tab 10, p 35.
 
-[\[note: 25\]](#Ftn_25_1)DWS, paras 83–95.
+[^25]: DWS, paras 83–95.
 
-[\[note: 26\]](#Ftn_26_1)DWS, para 101.
+[^26]: DWS, para 101.
 
-[\[note: 27\]](#Ftn_27_1)DWS, paras 109–114.
+[^27]: DWS, paras 109–114.
 
-[\[note: 28\]](#Ftn_28_1)DWS, para 117.
+[^28]: DWS, para 117.
 
-[\[note: 29\]](#Ftn_29_1)DWS, paras 116–121.
+[^29]: DWS, paras 116–121.
 
-[\[note: 30\]](#Ftn_30_1)DWS, para 121.
+[^30]: DWS, para 121.
 
-[\[note: 31\]](#Ftn_31_1)DWS, paras 122–127.
+[^31]: DWS, paras 122–127.
 
-[\[note: 32\]](#Ftn_32_1)DWS, paras 41–43.
+[^32]: DWS, paras 41–43.
 
-[\[note: 33\]](#Ftn_33_1)Plaintiffs’ Skeletal Submissions (“PSS”), para 44.
+[^33]: Plaintiffs’ Skeletal Submissions (“PSS”), para 44.
 
-[\[note: 34\]](#Ftn_34_1)PBOD, Tab 4.
+[^34]: PBOD, Tab 4.
 
-[\[note: 35\]](#Ftn_35_1)PBOD, Tab 4, paras 16–22.
+[^35]: PBOD, Tab 4, paras 16–22.
 
-[\[note: 36\]](#Ftn_36_1)PSS, paras 111–112.
+[^36]: PSS, paras 111–112.
 
-[\[note: 37\]](#Ftn_37_1)PBOD, Tab 4, para 31.
+[^37]: PBOD, Tab 4, para 31.
 
-[\[note: 38\]](#Ftn_38_1)PSS, paras 115–118.
+[^38]: PSS, paras 115–118.
 
-[\[note: 39\]](#Ftn_39_1)PSS, para 133.
+[^39]: PSS, para 133.
 
-[\[note: 40\]](#Ftn_40_1)PSS, para 138.
+[^40]: PSS, para 138.
 
-[\[note: 41\]](#Ftn_41_1)PSS, para 147.
+[^41]: PSS, para 147.
 
-[\[note: 42\]](#Ftn_42_1)PSS, paras 151–157.
+[^42]: PSS, paras 151–157.
 
-[\[note: 43\]](#Ftn_43_1)PSS, paras 158–160.
+[^43]: PSS, paras 158–160.
 
-[\[note: 44\]](#Ftn_44_1)For The Record (“FTR”), 8 February 2019, Chamber 6B, 3.01.05pm.
+[^44]: For The Record (“FTR”), 8 February 2019, Chamber 6B, 3.01.05pm.
 
-[\[note: 45\]](#Ftn_45_1)PBOD, Tab 2, pp 117–136.
+[^45]: PBOD, Tab 2, pp 117–136.
 
-[\[note: 46\]](#Ftn_46_1)DWS, para 10.
+[^46]: DWS, para 10.
 
-[\[note: 47\]](#Ftn_47_1)FTR, 3:31:30pm.
+[^47]: FTR, 3:31:30pm.
 
-[\[note: 48\]](#Ftn_48_1)PBOD, Tab 8, p 15 para 32.
+[^48]: PBOD, Tab 8, p 15 para 32.
 
-[\[note: 49\]](#Ftn_49_1)PBOD, Tab 4, p 24 para 18.
+[^49]: PBOD, Tab 4, p 24 para 18.
 
-[\[note: 50\]](#Ftn_50_1)PBOD, Tab 4, p 25 para 22.
+[^50]: PBOD, Tab 4, p 25 para 22.
 
-[\[note: 51\]](#Ftn_51_1)PBOD, Tab 4, pp 27–29.
+[^51]: PBOD, Tab 4, pp 27–29.
 
-[\[note: 52\]](#Ftn_52_1)DWS, para 93.
+[^52]: DWS, para 93.
 
-[\[note: 53\]](#Ftn_53_1)PBOD, Tab 2, pp 228–229.
+[^53]: PBOD, Tab 2, pp 228–229.
 
-[\[note: 54\]](#Ftn_54_1)DWS, para 109.
+[^54]: DWS, para 109.
 
-[\[note: 55\]](#Ftn_55_1)PSS, para 18.
+[^55]: PSS, para 18.
 
-[\[note: 56\]](#Ftn_56_1)PBOD, Tab 2, p 121.
+[^56]: PBOD, Tab 2, p 121.
 
-[\[note: 57\]](#Ftn_57_1)FTR, 3:46:30pm.
+[^57]: FTR, 3:46:30pm.
 
-[\[note: 58\]](#Ftn_58_1)PBOD, Tab 7, p 378.
+[^58]: PBOD, Tab 7, p 378.
 
-[\[note: 59\]](#Ftn_59_1)DWS, p 35 para 80.
+[^59]: DWS, p 35 para 80.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F22992-SSP.xml)

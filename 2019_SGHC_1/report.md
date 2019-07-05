@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # Lalwani Ashok Bherumal _v_ Lalwani Shalini Gobind and another  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Originating Summons (Bankruptcy) No 51 of 2018 (Registrar's Appeal No 169 of 2018)</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">02 January 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Valerie Thean J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Madan Assomull (Assomull &amp; Partners) for the plaintiff; Nandwani Manoj Prakash and Henry Li-Zheng Setiono (Gabriel Law Corporation) for the defendants.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Lalwani Ashok Bherumal — Lalwani Shalini Gobind — Malti Gobind Lalwani</td></tr></tbody></table>
@@ -18,9 +19,9 @@ Equity – Maxims – Equity sees as done that which ought to be done
 
 ## Background
 
-3       The defendants are two sisters, who are the surviving beneficiaries (“the Beneficiaries”) of the estate of their late father, Mr Lalwani Gobind Bherumal (“the Testator”).[\[note: 1\]](#Ftn_1) The plaintiff, Mr Lalwani Ashok Bherumal, is the sole executor and trustee of the estate (“the Executor”), and is the younger brother of the Testator and uncle of the defendants.[\[note: 2\]](#Ftn_2)
+3       The defendants are two sisters, who are the surviving beneficiaries (“the Beneficiaries”) of the estate of their late father, Mr Lalwani Gobind Bherumal (“the Testator”).[^1] The plaintiff, Mr Lalwani Ashok Bherumal, is the sole executor and trustee of the estate (“the Executor”), and is the younger brother of the Testator and uncle of the defendants.[^2]
 
-4       The Testator passed away on 9 July 1999. His son, Lalwani Ameet Gobind, was named as an executor, trustee and a beneficiary under the Testator’s handwritten will (“the Will”), but died on 20 March 2002. With his passing, the Beneficiaries became equally entitled to their father’s estate (“the Estate”), and the plaintiff became the sole executor and trustee of the Estate.[\[note: 3\]](#Ftn_3)
+4       The Testator passed away on 9 July 1999. His son, Lalwani Ameet Gobind, was named as an executor, trustee and a beneficiary under the Testator’s handwritten will (“the Will”), but died on 20 March 2002. With his passing, the Beneficiaries became equally entitled to their father’s estate (“the Estate”), and the plaintiff became the sole executor and trustee of the Estate.[^3]
 
 5       On 7 April 2015 the Beneficiaries commenced Suit 323 of 2015 (“Suit 323”) against the Executor for the recovery of sums misappropriated and for accounts to be taken.
 
@@ -34,7 +35,7 @@ Equity – Maxims – Equity sees as done that which ought to be done
 
 7       The account ordered was thereafter taken by a Senior Assistant Registrar (“SAR”) from 6 January to 21 September 2017.
 
-8       The Executor’s appeal against the orders of Abdullah JC, Civil Appeal No 2 of 2017, was heard and dismissed by the Court of Appeal on 20 March 2018. The Court of Appeal clarified their order on 28 March 2018 in relation to the interest payable on certain sums. The cumulative effect of the various orders was as follows:[\[note: 4\]](#Ftn_4)
+8       The Executor’s appeal against the orders of Abdullah JC, Civil Appeal No 2 of 2017, was heard and dismissed by the Court of Appeal on 20 March 2018. The Court of Appeal clarified their order on 28 March 2018 in relation to the interest payable on certain sums. The cumulative effect of the various orders was as follows:[^4]
 
 (a)     The sums of $136,561.76 and $118,000.00 were to be repaid to the Estate with interest at 5.33% per annum accruing from 8 February 2012 (the “Equitable Compensation Sums”).
 
@@ -42,7 +43,7 @@ Equity – Maxims – Equity sees as done that which ought to be done
 
 (c)     The costs of the appeal were ordered against the Executor and fixed at $25,000.
 
-9       A demand for payment of the judgment sum was made by letter by the Beneficiaries on 4 April 2018 when the draft judgments were sent to the Executor, requesting a response by 11 April 2018. The draft judgments were engrossed and returned on 6 April 2018 without a response to the demand for payment of the judgment sums. On 11 April 2018, the Executor’s solicitors responded to say that they were in the process of taking instructions, and requested that the Beneficiaries hold their hands in the meantime. After two further weeks passed without any response from the Executor or his solicitors, the Beneficiaries proceeded to issue a statutory demand dated 25 April 2018 under s 62 of Bankruptcy Act (Cap 20, 2009 Rev Ed) (“Bankruptcy Act”).[\[note: 5\]](#Ftn_5) This was served on the Executor on 28 April 2018.[\[note: 6\]](#Ftn_6)
+9       A demand for payment of the judgment sum was made by letter by the Beneficiaries on 4 April 2018 when the draft judgments were sent to the Executor, requesting a response by 11 April 2018. The draft judgments were engrossed and returned on 6 April 2018 without a response to the demand for payment of the judgment sums. On 11 April 2018, the Executor’s solicitors responded to say that they were in the process of taking instructions, and requested that the Beneficiaries hold their hands in the meantime. After two further weeks passed without any response from the Executor or his solicitors, the Beneficiaries proceeded to issue a statutory demand dated 25 April 2018 under s 62 of Bankruptcy Act (Cap 20, 2009 Rev Ed) (“Bankruptcy Act”).[^5] This was served on the Executor on 28 April 2018.[^6]
 
 10     On 11 May 2018, the Executor filed an application to set aside the statutory demand. On 27 June 2018, an Assistant Registrar (“AR”) set aside the statutory demand. The Beneficiaries filed an appeal against that decision on 4 July 2018 and the matter came before me.
 
@@ -70,7 +71,7 @@ Equity – Maxims – Equity sees as done that which ought to be done
 
 13     The Beneficiaries conceded that there were miscalculations in the debt, and it was common ground that these miscalculations resulted in a technical breach of r 94 of the Bankruptcy Rules. They highlighted, however, that they stood ready to re-calculate the debt and that these irregularities did not warrant a setting aside of the statutory demand.
 
-14     When the matter went before the AR, he held that a joint statutory demand could not be issued by two or more creditors with different debts. In this case, although the statutory demand was premised upon a single court judgment, on the face of the judgment, the Equitable Compensation Sums were owed to the Estate while the other debts relating to the costs orders were owed to the Beneficiaries.[\[note: 7\]](#Ftn_7) This argument was also adopted by the Executor on the appeal.
+14     When the matter went before the AR, he held that a joint statutory demand could not be issued by two or more creditors with different debts. In this case, although the statutory demand was premised upon a single court judgment, on the face of the judgment, the Equitable Compensation Sums were owed to the Estate while the other debts relating to the costs orders were owed to the Beneficiaries.[^7] This argument was also adopted by the Executor on the appeal.
 
 15     On appeal, accordingly, the issues were essentially twofold. First, should a miscalculation in the sum specified in the statutory demand be fatal to the validity of the statutory demand? Second, should the statutory demand be set aside because one part of the sum demanded by the Beneficiaries was in fact ordered to be paid into the Estate rather than to the Beneficiaries?
 
@@ -112,15 +113,15 @@ Although the version of the Bankruptcy Act cited in _Rasmachayana_ has since bee
 
 26     At the next hearing on 24 October 2018, I found the following facts from the accounts taken to be of particular significance:
 
-(a)     The debts of the Estate have been wholly paid; and if they had not, the relevant limitation period would likely have elapsed as the Testator died on 9 July 1999.[\[note: 8\]](#Ftn_8) The Schedule of Assets for the Estate was filed on 31 December 2008, and as at that date the Commissioner for Estate Duties certified that all estate duties had been paid.[\[note: 9\]](#Ftn_9)
+(a)     The debts of the Estate have been wholly paid; and if they had not, the relevant limitation period would likely have elapsed as the Testator died on 9 July 1999.[^8] The Schedule of Assets for the Estate was filed on 31 December 2008, and as at that date the Commissioner for Estate Duties certified that all estate duties had been paid.[^9]
 
-(b)     The Estate’s bank account was in surplus, and between 30 September 2014 to 30 April 2017, there had been no activity save for the monthly debit of the bank’s administrative charge and the credit of interest payments into the account.[\[note: 10\]](#Ftn_10) This resulted in a slight increase in amount each month. The Executor had omitted to pay the sum out to the Beneficiaries or to take steps to close the account.
+(b)     The Estate’s bank account was in surplus, and between 30 September 2014 to 30 April 2017, there had been no activity save for the monthly debit of the bank’s administrative charge and the credit of interest payments into the account.[^10] This resulted in a slight increase in amount each month. The Executor had omitted to pay the sum out to the Beneficiaries or to take steps to close the account.
 
-(c)     While the Estate was owed monies from three businesses (Bob’s Partnership, Basco Enterprises Pte Ltd and Eltee Development Pte Ltd),[\[note: 11\]](#Ftn_11) again, it would have been the Executor’s responsibility to pursue those debts.
+(c)     While the Estate was owed monies from three businesses (Bob’s Partnership, Basco Enterprises Pte Ltd and Eltee Development Pte Ltd),[^11] again, it would have been the Executor’s responsibility to pursue those debts.
 
-(d)     The Will provided for the payment of cash to the Beneficiaries once funeral expenses, debts and taxes had been paid. The Equitable Compensation Sums in the present statutory demand that the court had directed be paid into the Estate (see \[8(a)\] above) came from a part of the Estate that the Executor had purported to have already distributed. The sum of $136,561.76 arose from the Estate’s half share of the sum in a UOB account which the Testator and the Executor jointly held. The account was closed by the Executor in October 2000 and the sum was pocketed by the Executor instead of being distributed to the Beneficiaries. The sum of $118,000.00 came from thirteen unauthorised withdrawals made by the Executor between December 2010 and February 2012 from the Estate’s bank account. The Executor purported to make a “final distribution” to the Beneficiaries out of the Estate’s bank account on 1 August 2014.[\[note: 12\]](#Ftn_12)
+(d)     The Will provided for the payment of cash to the Beneficiaries once funeral expenses, debts and taxes had been paid. The Equitable Compensation Sums in the present statutory demand that the court had directed be paid into the Estate (see \[8(a)\] above) came from a part of the Estate that the Executor had purported to have already distributed. The sum of $136,561.76 arose from the Estate’s half share of the sum in a UOB account which the Testator and the Executor jointly held. The account was closed by the Executor in October 2000 and the sum was pocketed by the Executor instead of being distributed to the Beneficiaries. The sum of $118,000.00 came from thirteen unauthorised withdrawals made by the Executor between December 2010 and February 2012 from the Estate’s bank account. The Executor purported to make a “final distribution” to the Beneficiaries out of the Estate’s bank account on 1 August 2014.[^12]
 
-27     Counsel for the Executor, Mr Assomull, argued that the Will gave the Executor absolute and unfettered discretion whether to disburse money to the Beneficiaries.[\[note: 13\]](#Ftn_13) However, this premise is factually incorrect. The Will states:[\[note: 14\]](#Ftn_14)
+27     Counsel for the Executor, Mr Assomull, argued that the Will gave the Executor absolute and unfettered discretion whether to disburse money to the Beneficiaries.[^13] However, this premise is factually incorrect. The Will states:[^14]
 
 …
 
@@ -144,7 +145,7 @@ c)    estate and other taxes
 
 30     What were the Beneficiaries to do, faced with the Executor’s intransigence? Rather than to start another action to replace the Executor, they have issued a statutory demand, on the footing that if the debt remained unpaid, his resulting insolvency would lead to the same result. Having the right to institute an action to protect the Estate, they would have the right to issue a statutory demand to compel him to pay the Estate. On that hypothesis, if they so compelled him, they would then also have a right to enforce the terms of the Will. It would follow then, that in circumstances such as these where there are no debts outstanding and no _bona fide_ reason preventing distribution, they would have the right to compel him to distribute monies. Here they have issued a statutory demand for him to pay them directly. This could, so to speak, be viewed as a summation of the otherwise multiple steps. The critical question is hence whether there are any rules or principles that enabled the court to acknowledge the substance of the matter, and regard the Beneficiaries as the creditor.
 
-31     Mr Prakash’s submission was that the maxim, “equity looks on as done that which ought to be done”, enabled the Beneficiaries to take this route.[\[note: 15\]](#Ftn_15) In _HR Trustees Limited v Wembley Plc (In Liquidation), Mr Paul Lorber_ \[2011\] EWHC 2974 (Ch) (“_HR Trustees_”), the claimant sought directions on a scheme amendment made to a pension scheme. The power of amendment contained in the scheme’s trust deed was to be exercised “in writing under their hands”. The declaration ought to have been signed by all five trustees. One failed to do so arising purely from an administrative error. Justice Vos applied the same equitable maxim and decided that the amendment was valid as at the date signed by the four trustees. At \[66\]–\[67\] Vos J explained the matter in the following terms:
+31     Mr Prakash’s submission was that the maxim, “equity looks on as done that which ought to be done”, enabled the Beneficiaries to take this route.[^15] In _HR Trustees Limited v Wembley Plc (In Liquidation), Mr Paul Lorber_ \[2011\] EWHC 2974 (Ch) (“_HR Trustees_”), the claimant sought directions on a scheme amendment made to a pension scheme. The power of amendment contained in the scheme’s trust deed was to be exercised “in writing under their hands”. The declaration ought to have been signed by all five trustees. One failed to do so arising purely from an administrative error. Justice Vos applied the same equitable maxim and decided that the amendment was valid as at the date signed by the four trustees. At \[66\]–\[67\] Vos J explained the matter in the following terms:
 
 66.    Here it seems clear to me that the trustees exercised their discretion to amend the rule in the way contained in the amendment. They were obliged, having done so under clause 16, to make an appropriate declaration in a particular form. They could have been compelled on behalf of the members, who are not volunteers, to specifically perform their exercise of the power. Not to make a valid declaration was a breach of the terms of the definitive deed. Thus, in my judgment, this is a classic case in which the maxim of equity can and should properly be applied. Mr Moeran is wrong, in my judgment, to submit that this is an extension of the doctrine. It may be that there has never been before a case on all fours with the present, but law and equity would be made to look ridiculous if it were powerless to correct what has been an obvious administrative error like the one made in this case. Moreover, none of the members of the scheme in any category have any reason to feel aggrieved. The members, apart from those in former scheme B, were told about the change at the time in July 2000. They never expected to continue to accrue rights on the previous basis. If they did so, they would be receiving a windfall which they had no right to expect. They cannot have known until much later that the amendment had been defectively executed.
 
@@ -190,7 +191,7 @@ Essentially, Equity has picked on particular instances where it considers the co
 
 ### Should the Court inquire into the rights and obligations of the parties?
 
-42     Mr Assomull raised one final argument in relation to the Equitable Compensation Sums. He suggested that “Equity … has no role in this matter as the provisions of the Bankruptcy Act and Bankruptcy Rules are clear”.[\[note: 16\]](#Ftn_16) It was also strenuously argued that it was not for the court sitting in its bankruptcy jurisdiction to “transgress” from the High Court judgment and Court of Appeal orders, which expressed the Equitable Compensation Sums as being due to the Estate instead of the Beneficiaries.[\[note: 17\]](#Ftn_17) At its core, both these arguments go to the issue of whether it is open to a court in its bankruptcy jurisdiction to undertake an inquiry into the rights and obligations of the parties, and determine, as the court has done, that the Beneficiary can be viewed, in the eyes of equity, as the true creditor in the present case.
+42     Mr Assomull raised one final argument in relation to the Equitable Compensation Sums. He suggested that “Equity … has no role in this matter as the provisions of the Bankruptcy Act and Bankruptcy Rules are clear”.[^16] It was also strenuously argued that it was not for the court sitting in its bankruptcy jurisdiction to “transgress” from the High Court judgment and Court of Appeal orders, which expressed the Equitable Compensation Sums as being due to the Estate instead of the Beneficiaries.[^17] At its core, both these arguments go to the issue of whether it is open to a court in its bankruptcy jurisdiction to undertake an inquiry into the rights and obligations of the parties, and determine, as the court has done, that the Beneficiary can be viewed, in the eyes of equity, as the true creditor in the present case.
 
 43     In my view, this is permissible and entirely consistent with the underlying philosophy behind bankruptcy proceedings. The Court of Appeal in _Mohd Zain bin Abdullah v Chimbusco International Petroleum (Singapore ) Pte Ltd and another appeal_ (“_Chimbusco_”) at \[18\] held that it was appropriate to extend the analogy of a summary judgment application to the imposition of conditions for granting a stay of bankruptcy proceedings. In explaining the rationale for this decision, the court stated at \[22\]:
 
@@ -212,7 +213,7 @@ If a bankruptcy court were unwilling to grant a conditional stay of bankruptcy p
 
 49     Notwithstanding this, the Beneficiaries’ amended sum which was proposed during the first hearing before me on 23 July 2018 was erroneous for another reason. The components of the crystallised judgment debt proposed included: (a) the sums of $136,561.76 and $118,000.00, (b) costs and (c) pre-judgment interest on the sums of $136,561.76 and $118,000.00. The pre-judgment interest on the sums of $136,561.76 and $118,000.00 was taken as crystallised on 29 November 2016, the date of Abdullah JC’s judgment, and post-judgment interest was applied on the entire crystallised sum. However, pre-judgment interest was only subsequently clarified by the Court of Appeal to commence from 8 February 2012. This was done on 28 March 2018. In this context, the guidance of the Court of Appeal in _Grains and Industrial Products Trading Pte Ltd v Bank of India and another_ (“_Grains_”) is relevant. In that case, the Court of Appeal, in reversing the High Court’s decision not to award pre-judgment interest, awarded pre-judgment interest up to the date of the Court of Appeal judgment (see _Grains_ at \[143\]). In doing so, the Court of Appeal made clear at \[138\] that the entitlement to such pre-judgment interest, the relevant rate of interest, the proportion of the sum which should bear interest, and the period for which interest should be awarded were matters of judicial discretion. In this case, while pre-judgment interest was awarded by the High Court, its date of commencement was not at that time settled. This was determined, in an exercise of judicial discretion by the Court of Appeal, on 28 March 2018. It would thus be more appropriate to take 28 March 2018 as the applicable date for the crystallisation of the pre-judgement interest which ran from 8 February 2012.
 
-50     Mr Prakash clarified at the hearing on 24 October 2018 that taking into account the errors highlighted at \[47\] and \[49\] above, the correct sum payable as at 24 October 2018 was therefore $425,338.87.[\[note: 18\]](#Ftn_18) Mr Assomull declined to comment on the sum although opportunity was given to him to do so. His view was that it was not his obligation to assist in ascertaining the sum owed by his client.
+50     Mr Prakash clarified at the hearing on 24 October 2018 that taking into account the errors highlighted at \[47\] and \[49\] above, the correct sum payable as at 24 October 2018 was therefore $425,338.87.[^18] Mr Assomull declined to comment on the sum although opportunity was given to him to do so. His view was that it was not his obligation to assist in ascertaining the sum owed by his client.
 
 #### Ensuring the absence of prejudice
 
@@ -228,41 +229,41 @@ If a bankruptcy court were unwilling to grant a conditional stay of bankruptcy p
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)Bundle of Affidavits (“BA”) Tab 2, p 2.
+[^1]: Bundle of Affidavits (“BA”) Tab 2, p 2.
 
-[\[note: 2\]](#Ftn_2_1)BA Tab 2, p 3.
+[^2]: BA Tab 2, p 3.
 
-[\[note: 3\]](#Ftn_3_1)BA Tab 2, pp 3–4.
+[^3]: BA Tab 2, pp 3–4.
 
-[\[note: 4\]](#Ftn_4_1)BA Tab 2, pp 5–6
+[^4]: BA Tab 2, pp 5–6
 
-[\[note: 5\]](#Ftn_5_1)BA Tab 1, p 7.
+[^5]: BA Tab 1, p 7.
 
-[\[note: 6\]](#Ftn_6_1)BA Tab 2, p 7.
+[^6]: BA Tab 2, p 7.
 
-[\[note: 7\]](#Ftn_7_1)Plaintiff/Respondent’s Bundle of Documents Tab 8.
+[^7]: Plaintiff/Respondent’s Bundle of Documents Tab 8.
 
-[\[note: 8\]](#Ftn_8_1)Appellant’s Written Submissions II, pp 5 and 7.
+[^8]: Appellant’s Written Submissions II, pp 5 and 7.
 
-[\[note: 9\]](#Ftn_9_1)Affidavit of Lalwani Ashok Bherumal dated 6 June 2017, p 9.
+[^9]: Affidavit of Lalwani Ashok Bherumal dated 6 June 2017, p 9.
 
-[\[note: 10\]](#Ftn_10_1)Affidavit of Lalwani Ashok Bherumal dated 6 June 2017, pp 283–284 to 359–360.
+[^10]: Affidavit of Lalwani Ashok Bherumal dated 6 June 2017, pp 283–284 to 359–360.
 
-[\[note: 11\]](#Ftn_11_1)Appellant’s Written Submissions II, p 6.
+[^11]: Appellant’s Written Submissions II, p 6.
 
-[\[note: 12\]](#Ftn_12_1)Affidavit of Lalwani Ashok Bherumal dated 6 June 2017, p 189.
+[^12]: Affidavit of Lalwani Ashok Bherumal dated 6 June 2017, p 189.
 
-[\[note: 13\]](#Ftn_13_1)Respondent’s Reply Submissions, p 7.
+[^13]: Respondent’s Reply Submissions, p 7.
 
-[\[note: 14\]](#Ftn_14_1)Plaintiff/Respondent’s Bundle of Documents Tab 5, p 7.
+[^14]: Plaintiff/Respondent’s Bundle of Documents Tab 5, p 7.
 
-[\[note: 15\]](#Ftn_15_1)Appellant’s Written Submissions II, p 13.
+[^15]: Appellant’s Written Submissions II, p 13.
 
-[\[note: 16\]](#Ftn_16_1)Respondent’s Reply Submissions, p 9.
+[^16]: Respondent’s Reply Submissions, p 9.
 
-[\[note: 17\]](#Ftn_17_1)Respondent’s Reply Submissions, p 5.
+[^17]: Respondent’s Reply Submissions, p 5.
 
-[\[note: 18\]](#Ftn_18_1)Annex C tendered at the hearing on 24 October 2018.
+[^18]: Annex C tendered at the hearing on 24 October 2018.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F22690-SSP.xml)

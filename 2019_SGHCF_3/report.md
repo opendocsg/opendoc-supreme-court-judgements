@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # TZQ _v_ TZR  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">District Court Appeal from the Family Courts No 164 of 2016</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">18 January 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Tan Puay Boon JC</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Yeow Tin Tin Margaret and Jeanna Loe Yuqing (Hoh Law Corporation) for the Appellant; Seenivasan Lalita and Tan Li Yi, Caleb (Virginia Quek Lalita &amp; Partners) for the Respondent; Abdul Wahab Bin Saul Hamid and Jovita Ann Dhanaraj (IRB Law LLP) for the Interveners.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">TZQ — TZR — BUE — BUF</td></tr></tbody></table>
@@ -12,7 +13,7 @@ Family Law – Divorce – Ancillary Matters – Division of matrimonial a
 
 1       This is an appeal (“the Appeal”) by the Plaintiff (husband) against the decision of the District Judge (“DJ”) in the Ancillary Matters hearing of the divorce proceedings between him and the Defendant (wife) (“parties”). The Interveners are the sons of the Plaintiff, and are the step-sons of the Defendant.
 
-2       Parties were married on 10 July 2003. This was both parties’ second marriage. (Although the Defendant said this was the Plaintiff’s third marriage,[\[note: 1\]](#Ftn_1) nothing turns on this). While they do not have any children from this marriage, besides the sons of the Plaintiff from his previous marriage, the Defendant has three daughters from her previous marriage. The Plaintiff filed for divorce against the Defendant on 10 November 2014 on the ground of four years’ separation. Interim Judgment was granted on the Defendant’s amended counterclaim on 31 March 2016. The ground was the unreasonable behaviour of the Plaintiff. The ancillary matters were heard by the DJ on 24 November 2016, and the orders were given on 29 November 2016.
+2       Parties were married on 10 July 2003. This was both parties’ second marriage. (Although the Defendant said this was the Plaintiff’s third marriage,[^1] nothing turns on this). While they do not have any children from this marriage, besides the sons of the Plaintiff from his previous marriage, the Defendant has three daughters from her previous marriage. The Plaintiff filed for divorce against the Defendant on 10 November 2014 on the ground of four years’ separation. Interim Judgment was granted on the Defendant’s amended counterclaim on 31 March 2016. The ground was the unreasonable behaviour of the Plaintiff. The ancillary matters were heard by the DJ on 24 November 2016, and the orders were given on 29 November 2016.
 
 3       The Interveners had earlier applied unsuccessfully to intervene to set aside the decision of the DJ who ruled that they did not have an interest in the Housing and Development Board (“HDB”) flat in \[redacted address\] (“the matrimonial flat”) that they and the parties were residing in (_TZQ v TZR_ (“GD”), at \[6\]). The decision was made as there was no documentary evidence to support their claim of having made financial contributions toward its acquisition when they were added as joint tenants with the Plaintiff in October 2012. After the Plaintiff filed the Appeal on 9 December 2016, he applied successfully to admit the documents showing the Interveners’ financial contributions to the matrimonial flat. Parties also consented to them intervening in the Appeal. Subsequently, before the hearing of the Appeal, the Interim Judgment was made final on 15 December 2016.
 
@@ -45,7 +46,7 @@ Family Law – Divorce – Ancillary Matters – Division of matrimonial a
 
 ## Issues in the Appeal
 
-8       The issues in the Appeal are as follows:[\[note: 2\]](#Ftn_2)
+8       The issues in the Appeal are as follows:[^2]
 
 (a)     Division of matrimonial assets:
 
@@ -75,15 +76,15 @@ Family Law – Divorce – Ancillary Matters – Division of matrimonial a
 
 ## Background Facts
 
-9       The Plaintiff and the Interveners’ mother were married in 1983.[\[note: 3\]](#Ftn_3) They purchased the matrimonial flat on 1 October 1992.[\[note: 4\]](#Ftn_4) It was later transferred by gift to the Plaintiff in his sole name on 25 September 1996.[\[note: 5\]](#Ftn_5) The Plaintiff and the Interveners have lived in the matrimonial flat since its purchase. The marriage between the Plaintiff and their mother ended in 2003.[\[note: 6\]](#Ftn_6)
+9       The Plaintiff and the Interveners’ mother were married in 1983.[^3] They purchased the matrimonial flat on 1 October 1992.[^4] It was later transferred by gift to the Plaintiff in his sole name on 25 September 1996.[^5] The Plaintiff and the Interveners have lived in the matrimonial flat since its purchase. The marriage between the Plaintiff and their mother ended in 2003.[^6]
 
 10     The Defendant first came into the Plaintiff’s life in 1993 (GD, at \[3\]). At that time, the Interveners were aged eight and six, respectively (GD, at \[4a\]).
 
-11     The earlier marriage of the Defendant ended in 1995.[\[note: 7\]](#Ftn_7) She and the Plaintiff were married on 10 July 2003 after his divorce earlier that year,[\[note: 8\]](#Ftn_8) and she and one of her daughters from her first marriage moved into the matrimonial flat. The Interveners were then aged 18 and 16, respectively (GD, at \[4a\]).
+11     The earlier marriage of the Defendant ended in 1995.[^7] She and the Plaintiff were married on 10 July 2003 after his divorce earlier that year,[^8] and she and one of her daughters from her first marriage moved into the matrimonial flat. The Interveners were then aged 18 and 16, respectively (GD, at \[4a\]).
 
-12     The Defendant was never given any legal title to the matrimonial flat. She and her second daughter left the matrimonial flat in May 2012 for a trip to India, and came back to Singapore in August that year. They did not return to the matrimonial flat, but went to live with the Defendant’s eldest daughter.[\[note: 9\]](#Ftn_9) The Defendant applied for maintenance from the Plaintiff in September 2012, and a consent maintenance order was made on 18 October 2012 for the Plaintiff to pay her $850.00 per month from 1 November 2012. She has not gone back to live at the matrimonial flat since she left.
+12     The Defendant was never given any legal title to the matrimonial flat. She and her second daughter left the matrimonial flat in May 2012 for a trip to India, and came back to Singapore in August that year. They did not return to the matrimonial flat, but went to live with the Defendant’s eldest daughter.[^9] The Defendant applied for maintenance from the Plaintiff in September 2012, and a consent maintenance order was made on 18 October 2012 for the Plaintiff to pay her $850.00 per month from 1 November 2012. She has not gone back to live at the matrimonial flat since she left.
 
-13     On 2 October 2012, the Plaintiff executed a transfer of the matrimonial flat into the joint names of the Plaintiff and the Interveners (“the Transfer”). The Transfer was registered to be “By Gift”, and the consideration was stated as “natural love and affection”.[\[note: 10\]](#Ftn_10) On 10 October 2012, the Interveners withdrew from their respective CPF accounts a total of $26,073.85 comprising $25,905.05 to redeem the mortgage on the matrimonial flat and another $168.80 for conveyancing and registration fees.[\[note: 11\]](#Ftn_11)
+13     On 2 October 2012, the Plaintiff executed a transfer of the matrimonial flat into the joint names of the Plaintiff and the Interveners (“the Transfer”). The Transfer was registered to be “By Gift”, and the consideration was stated as “natural love and affection”.[^10] On 10 October 2012, the Interveners withdrew from their respective CPF accounts a total of $26,073.85 comprising $25,905.05 to redeem the mortgage on the matrimonial flat and another $168.80 for conveyancing and registration fees.[^11]
 
 14     The Plaintiff then filed for divorce against the Defendant on 10 November 2014 on the ground of four years’ separation.
 
@@ -107,9 +108,9 @@ Family Law – Divorce – Ancillary Matters – Division of matrimonial a
 
 20     In _Yeo Chong Lin v Tay Ang Choo & another appeal_ (“_Yeo Chong Lin v Tay Ang Choo_”) at \[39\], the Court of Appeal held that the cut-off date for the division of matrimonial assets can be the date of separation, date of filing of divorce, date of interim judgment, or the date of hearing of ancillary matters. This is because the circumstances of acquiring an asset by a spouse are so varied, and it is best left to the court to determine where the line should be drawn after taking account all the circumstances (at \[32\]). Indeed, multiple dates are possible, and the adoption of an operative date or dates might not be as critical as arriving at a just and equitable division (at \[36\] – \[40\]).
 
-21     The parties separated in 2012, the divorce petition was filed in 2014 and the Interim Judgment was granted in 2016. The Plaintiff’s position is that the determination should be at the date of separation,[\[note: 12\]](#Ftn_12) while the Defendant was of the view that it should be the date of the Interim Judgment because the ground upon which the divorce was granted was the unreasonable behaviour of the Plaintiff.[\[note: 13\]](#Ftn_13) The Defendant also relied on _ARY v ARX_ (“_ARY v ARX_”), where the Court of Appeal stated that to determine the pool of matrimonial assets, “unless the particular circumstances of justice of the case warrant it, the _starting point_ or _default position_ should be the date that interim judgment is granted” (at \[31\]). In that case, however, the Court of Appeal agreed with the High Court that the fairer date was the date on which the ancillary matters proceedings were commenced. This was because, besides caring for the children (which was not exceptional), some of the husband’s assets which were acquired after the interim judgment date were very substantial, and could be attributed to the wife’s indirect contributions before the interim judgment (at \[42\]).
+21     The parties separated in 2012, the divorce petition was filed in 2014 and the Interim Judgment was granted in 2016. The Plaintiff’s position is that the determination should be at the date of separation,[^12] while the Defendant was of the view that it should be the date of the Interim Judgment because the ground upon which the divorce was granted was the unreasonable behaviour of the Plaintiff.[^13] The Defendant also relied on _ARY v ARX_ (“_ARY v ARX_”), where the Court of Appeal stated that to determine the pool of matrimonial assets, “unless the particular circumstances of justice of the case warrant it, the _starting point_ or _default position_ should be the date that interim judgment is granted” (at \[31\]). In that case, however, the Court of Appeal agreed with the High Court that the fairer date was the date on which the ancillary matters proceedings were commenced. This was because, besides caring for the children (which was not exceptional), some of the husband’s assets which were acquired after the interim judgment date were very substantial, and could be attributed to the wife’s indirect contributions before the interim judgment (at \[42\]).
 
-22     The DJ chose the date of the Interim Judgment (GD, at \[7\]), and included in the pool of matrimonial assets – the matrimonial flat, the Plaintiff’s car, and the CPF and other savings of parties. I accept that the choice is within her discretion, so long as adjustment are made to arrive at a just and equitable division. I also note that in the submissions at the hearing, the Plaintiff accepted that the date of division should be the date of the Interim Judgment.[\[note: 14\]](#Ftn_14)
+22     The DJ chose the date of the Interim Judgment (GD, at \[7\]), and included in the pool of matrimonial assets – the matrimonial flat, the Plaintiff’s car, and the CPF and other savings of parties. I accept that the choice is within her discretion, so long as adjustment are made to arrive at a just and equitable division. I also note that in the submissions at the hearing, the Plaintiff accepted that the date of division should be the date of the Interim Judgment.[^14]
 
 #### The matrimonial flat
 
@@ -117,7 +118,7 @@ Family Law – Divorce – Ancillary Matters – Division of matrimonial a
 
 #### The car
 
-24     The car was purchased around April 2016. It is the Plaintiff’s submission that it should be excluded because it was paid for using the CPF savings that he withdrew. Accordingly, to include the car in the pool of matrimonial assets would amount to double counting if the CPF savings that were withdrawn were also included in the pool.[\[note: 15\]](#Ftn_15) However, as submitted by the Defendant, the car was purchased before the Plaintiff withdrew his CPF savings in August 2016, and the hire purchase agreement dated 14 April 2016 showed that a cash payment of $69,999.00 was made and hire purchase repayments of $557.00 per month started in May 2016. The source of funds for the purchase could not have been the Plaintiff’s CPF savings, and would have been from his other savings. I therefore accept the Defendant’s submission that there is no double counting of CPF savings when the car is included in the pool of matrimonial assets.
+24     The car was purchased around April 2016. It is the Plaintiff’s submission that it should be excluded because it was paid for using the CPF savings that he withdrew. Accordingly, to include the car in the pool of matrimonial assets would amount to double counting if the CPF savings that were withdrawn were also included in the pool.[^15] However, as submitted by the Defendant, the car was purchased before the Plaintiff withdrew his CPF savings in August 2016, and the hire purchase agreement dated 14 April 2016 showed that a cash payment of $69,999.00 was made and hire purchase repayments of $557.00 per month started in May 2016. The source of funds for the purchase could not have been the Plaintiff’s CPF savings, and would have been from his other savings. I therefore accept the Defendant’s submission that there is no double counting of CPF savings when the car is included in the pool of matrimonial assets.
 
 25     Where assets acquired after the separation could be attributed to the Plaintiff alone, they should not be included in the pool of matrimonial assets. Since the car was bought using his savings, if there is evidence that it was bought using savings accumulated after the separation, it would be excluded from the pool of matrimonial assets. As there is no evidence of what the source of funds for the purchase of the car was, I hold that the car is a matrimonial asset that is available for division.
 
@@ -125,14 +126,14 @@ Family Law – Divorce – Ancillary Matters – Division of matrimonial a
 
 26     The issue in question is whether the Plaintiff’s amount of CPF moneys acquired prior to marriage and the interest accrued thereon ought to have been included in the pool of matrimonial assets.
 
-27     In the present case, the CPF savings of the Plaintiff were acquired both before and during the marriage of parties. He submitted that the savings in his CPF Account that were accumulated before their marriage in July 2003 should be deducted. At that time, the total savings in the Plaintiff’s CPF Account were $159,256.03.[\[note: 16\]](#Ftn_16)
+27     In the present case, the CPF savings of the Plaintiff were acquired both before and during the marriage of parties. He submitted that the savings in his CPF Account that were accumulated before their marriage in July 2003 should be deducted. At that time, the total savings in the Plaintiff’s CPF Account were $159,256.03.[^16]
 
 <table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="18.8%"> <col width="20.46%"> <col width="20.56%"> <col width="20.56%"> <col width="19.62%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p class="Table-Heading-Center">Balance as at:</p></td><td align="left" class="br" rowspan="1" valign="top"><p class="Table-Heading-Center">Ordinary</p><p class="Table-Heading-Center">Account ($)</p></td><td align="left" class="br" rowspan="1" valign="top"><p class="Table-Heading-Center">Special</p><p class="Table-Heading-Center">Account ($)</p></td><td align="left" class="br" rowspan="1" valign="top"><p class="Table-Heading-Center">Medisave</p><p class="Table-Heading-Center">Account ($)</p></td><td align="left" class="b" rowspan="1" valign="top"><p class="Table-Heading-Center">Total</p><p class="Table-Heading-Center">($)</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">June 2003</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="right" class="Table-Para-1">125,259.88</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="right" class="Table-Para-1">5,996.15</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="right" class="Table-Para-1">28,000.00</p></td><td align="left" class="" rowspan="1" valign="top"><p align="right" class="Table-Para-1">159,256.03</p></td></tr></tbody></table>
 
   
   
 
-28     The Plaintiff further submitted that the interest on this sum should also be deducted. Accordingly, the amount to be deducted is $236,292.30, which includes interest until June 2016.[\[note: 17\]](#Ftn_17)
+28     The Plaintiff further submitted that the interest on this sum should also be deducted. Accordingly, the amount to be deducted is $236,292.30, which includes interest until June 2016.[^17]
 
 29     For the reasons set out later in this judgment under the Assessment of the Matrimonial Assets, I am of the view that the CPF savings of the Plaintiff which were acquired before the marriage that have not been commingled with other matrimonial assets acquired later do not become matrimonial assets. Since these savings acquired before the marriage remained in the Plaintiff’s CPF Account, and were not merged into other assets, they will be deducted from the pool of matrimonial assets.
 
@@ -142,7 +143,7 @@ Family Law – Divorce – Ancillary Matters – Division of matrimonial a
 
 32     I will take the above into consideration when I assess the amount of the CPF savings to be included in the pool of matrimonial assets.
 
-33     The Defendant had owned a flat that she sold in 2004 for $83,795.13.[\[note: 18\]](#Ftn_18) The Plaintiff submits that the proceeds of sale should be subject to division. Although I accept this is correct in principle, it should be noted that the flat was sold some ten years before the matrimonial assets were to be divided. There is no evidence of how much was left by the time of the Interim Judgment, or even at the time of the separation or the commencement of divorce. There is also a dispute between parties on how the money was spent. The Defendant said that the Plaintiff had used most of it, with $20,000.00 spent on the renovations of the matrimonial flat as well. The Plaintiff denies this. He also pointed out the Defendant only exhibited bank statements for April 2007 to December 2008.[\[note: 19\]](#Ftn_19) In my view, the sum was not so large that an explanation is required on where it went. If $83,795.13 was spent uniformly over ten years, the amount spent each year would have been about $8,300.00, or $690.00 each month. It can be seen that little, if anything at all, would have been left by 2016.
+33     The Defendant had owned a flat that she sold in 2004 for $83,795.13.[^18] The Plaintiff submits that the proceeds of sale should be subject to division. Although I accept this is correct in principle, it should be noted that the flat was sold some ten years before the matrimonial assets were to be divided. There is no evidence of how much was left by the time of the Interim Judgment, or even at the time of the separation or the commencement of divorce. There is also a dispute between parties on how the money was spent. The Defendant said that the Plaintiff had used most of it, with $20,000.00 spent on the renovations of the matrimonial flat as well. The Plaintiff denies this. He also pointed out the Defendant only exhibited bank statements for April 2007 to December 2008.[^19] In my view, the sum was not so large that an explanation is required on where it went. If $83,795.13 was spent uniformly over ten years, the amount spent each year would have been about $8,300.00, or $690.00 each month. It can be seen that little, if anything at all, would have been left by 2016.
 
 34     In the absence of clear evidence how much of it still remains, I do not think the DJ was wrong to have excluded the proceeds of sale of the Defendant’s flat from the pool of matrimonial assets.
 
@@ -178,7 +179,7 @@ Family Law – Divorce – Ancillary Matters – Division of matrimonial a
 
 46     The next issue is whether the Plaintiff’s direct financial contribution towards the matrimonial flat prior to marriage and the interest accrued thereon ought to have been included in the pool of matrimonial assets.
 
-47     The Plaintiff’s position is that the CPF contributions that he paid towards the acquisition of the matrimonial flat before the marriage should be excluded from division. He relied on _BGT v BGU_ (“_BGT v BGU_”) to support his submission.[\[note: 20\]](#Ftn_20)
+47     The Plaintiff’s position is that the CPF contributions that he paid towards the acquisition of the matrimonial flat before the marriage should be excluded from division. He relied on _BGT v BGU_ (“_BGT v BGU_”) to support his submission.[^20]
 
 48     In _BGT v BGU_, the husband had bought an apartment in his sole name shortly before he married the wife in 1995, using his CPF savings and a bank loan. They lived in it until 2001, when they moved into a house bought in their joint names. The husband, who paid for the mortgage solely using his CPF savings, sold the apartment about one month before the wife filed for divorce. A sum of $678,996.00 was deposited into his CPF account. Although the High Court held that the apartment was not a matrimonial asset (see \[28\]), the money that the husband expended after the marriage to pay off the mortgage would have to be included as part of the matrimonial assets (see \[29\]). This is because if the money was not used to pay off the mortgage, it would have remained in the CPF account and will be available for division. The High Court therefore included for division the $678,996.00 less the husband’s CPF savings of $138,834.48 that were acquired before the marriage.
 
@@ -186,7 +187,7 @@ Family Law – Divorce – Ancillary Matters – Division of matrimonial a
 
 50     Unlike the property in _BGT v BGU_ which had already been sold at the time of the division, the matrimonial flat in the present case remained registered to the Plaintiff and the Interveners at the time of the division and the CPF savings used by the Plaintiff to acquire the matrimonial flat were still commingled in the property. In the circumstances, these direct contributions of the Plaintiff should not be excluded before the division. It is only when these premarital direct contributions have reverted to their original form at the time of division, _eg_, when the matrimonial asset has been sold and the proceeds of sale returned to the CPF account, such as in _BGT v BGU_, that they should be excluded from division. Also, by the time of the time of the separation in 2012, the parties had been living in the matrimonial flat for 9 years if the year of the marriage in 2003 is taken as the starting point, and 19 years, if the starting date of the cohabitation chosen by the DJ (1995) is taken as the starting point. During those years, the Plaintiff has used his CPF savings to pay for the mortgage. It is therefore equitable for the entire value of the matrimonial flat to be included, as the Defendant can be said to have contributed indirectly to the accumulation of those savings through looking after the family and household.
 
-51     At the time of the Ancillary Matters hearing, the matrimonial flat was fully paid up. Parties have agreed the valuation of the matrimonial flat to be $500,000.00. Although this was an estimated sum,[\[note: 21\]](#Ftn_21) the DJ has taken this as the value in making the order for the division of matrimonial assets.
+51     At the time of the Ancillary Matters hearing, the matrimonial flat was fully paid up. Parties have agreed the valuation of the matrimonial flat to be $500,000.00. Although this was an estimated sum,[^21] the DJ has taken this as the value in making the order for the division of matrimonial assets.
 
 52     Since I have found at \[45\] above that the entire matrimonial flat is to be included in the pool of matrimonial assets, it follows that the amount that is available for division is the agreed sum of $500,000.00.
 
@@ -198,28 +199,28 @@ Family Law – Divorce – Ancillary Matters – Division of matrimonial a
 
 #### The CPF and other bank savings of the Plaintiff
 
-55     The CPF savings of the Plaintiff were acquired over the years, both before and after his marriage to the Defendant. When the Plaintiff turned 55 in March 2010, he became eligible to withdraw the savings in his CPF Account that year, but did not do so. There is no evidence of what the amount was, or if he made any withdrawals. By 28 June 2016, the balances in his CPF Account were as set out in the table below:[\[note: 22\]](#Ftn_22)
+55     The CPF savings of the Plaintiff were acquired over the years, both before and after his marriage to the Defendant. When the Plaintiff turned 55 in March 2010, he became eligible to withdraw the savings in his CPF Account that year, but did not do so. There is no evidence of what the amount was, or if he made any withdrawals. By 28 June 2016, the balances in his CPF Account were as set out in the table below:[^22]
 
 <table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="13.58%"> <col width="18.2%"> <col width="14.96%"> <col width="17.94%"> <col width="18.24%"> <col width="17.08%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p class="Table-Heading-Center">Balance as at:</p></td><td align="left" class="br" rowspan="1" valign="top"><p class="Table-Heading-Center">Ordinary Account ($)</p></td><td align="left" class="br" rowspan="1" valign="top"><p class="Table-Heading-Center">Special Account ($)</p></td><td align="left" class="br" rowspan="1" valign="top"><p class="Table-Heading-Center">Medisave Account ($)</p></td><td align="left" class="br" rowspan="1" valign="top"><p class="Table-Heading-Center">Retirement Account ($)</p></td><td align="left" class="b" rowspan="1" valign="top"><p class="Table-Heading-Center">Total ($)</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">28 June 2016</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="right" class="Table-Para-1">221,767.07</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="right" class="Table-Para-1">2,098.68</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="right" class="Table-Para-1">49,800.00</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="right" class="Table-Para-1">152,450.32</p></td><td align="left" class="" rowspan="1" valign="top"><p align="right" class="Table-Para-1">426,116.07</p></td></tr></tbody></table>
 
   
   
 
-56     Whilst in the midst of the divorce proceedings, after Interim Judgment was granted on 31 March 2016 and during the course of the Ancillary Matters hearings, the Plaintiff withdrew on 1 August 2016 from his various CPF accounts the following amounts:[\[note: 23\]](#Ftn_23)
+56     Whilst in the midst of the divorce proceedings, after Interim Judgment was granted on 31 March 2016 and during the course of the Ancillary Matters hearings, the Plaintiff withdrew on 1 August 2016 from his various CPF accounts the following amounts:[^23]
 
 <table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="18.9437887577516%"> <col width="16.8633726745349%"> <col width="13.9227845569114%"> <col width="15.503100620124%"> <col width="17.9035807161432%"> <col width="16.8633726745349%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p class="Table-Heading-Center">Withdrawal date</p></td><td align="left" class="br" rowspan="1" valign="top"><p class="Table-Heading-Center">Ordinary Account ($)</p></td><td align="left" class="br" rowspan="1" valign="top"><p class="Table-Heading-Center">Special Account ($)</p></td><td align="left" class="br" rowspan="1" valign="top"><p class="Table-Heading-Center">Medisave Account ($)</p></td><td align="left" class="br" rowspan="1" valign="top"><p class="Table-Heading-Center">Retirement Account($)</p></td><td align="left" class="b" rowspan="1" valign="top"><p class="Table-Heading-Center">Total ($)</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="center" class="Table-Para-1">1 August 2016</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="right" class="Table-Para-1">226,645.66</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="right" class="Table-Para-1">2,436.01</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="right" class="Table-Para-1">1,156.89</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="right" class="Table-Para-1">-</p></td><td align="left" class="" rowspan="1" valign="top"><p align="right" class="Table-Para-1">230,238.56</p></td></tr></tbody></table>
 
   
   
 
-57     By 10 April 2017, the balances in the Plaintiff’s CPF Account were as follows:[\[note: 24\]](#Ftn_24)
+57     By 10 April 2017, the balances in the Plaintiff’s CPF Account were as follows:[^24]
 
 <table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="15.32%"> <col width="15.98%"> <col width="15.16%"> <col width="16.3%"> <col width="17.98%"> <col width="19.26%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p class="Table-Heading-Center">Balance as at:</p></td><td align="left" class="br" rowspan="1" valign="top"><p class="Table-Heading-Center">Ordinary Account ($)</p></td><td align="left" class="br" rowspan="1" valign="top"><p class="Table-Heading-Center">Special Account ($)</p></td><td align="left" class="br" rowspan="1" valign="top"><p class="Table-Heading-Center">Medisave Account ($)</p></td><td align="left" class="br" rowspan="1" valign="top"><p class="Table-Heading-Center">Retirement Account ($)</p></td><td align="left" class="b" rowspan="1" valign="top"><p class="Table-Heading-Center">Total ($)</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">10 April 2017</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="right" class="Table-Para-1">7,833.92</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="right" class="Table-Para-1">1,679.72</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="right" class="Table-Para-1">52,000.00</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="right" class="Table-Para-1">159,448.36</p></td><td align="left" class="" rowspan="1" valign="top"><p align="right" class="Table-Para-1">220,962.00</p></td></tr></tbody></table>
 
   
   
 
-58     The Plaintiff claimed that most of the moneys were spent as follows:[\[note: 25\]](#Ftn_25)
+58     The Plaintiff claimed that most of the moneys were spent as follows:[^25]
 
 <table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="52.12%"> <col width="47.88%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p class="Table-Heading-Center">Purpose</p></td><td align="left" class="b" rowspan="1" valign="top"><p class="Table-Heading-Center">Approximate amount</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Paying of sons’ debts</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">$70,000</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Gift to elder son</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">$20,000</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Gift to younger son</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">$20,000</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Gift to his mother</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">$30,000</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Purchase of car</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">$70,000</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Cancer treatment</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">$20,000</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Total</b></p></td><td align="left" class="" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>$230,000</b></p></td></tr></tbody></table>
 
@@ -230,11 +231,11 @@ Family Law – Divorce – Ancillary Matters – Division of matrimonial a
 
 60     As the CPF moneys were withdrawn by the Plaintiff in August 2016 and disposed of him right in the middle of the divorce proceedings, it is patently clear that he was dissipating the matrimonial assets so that they would no longer be available for division. For the same reasons I have decided that the entire matrimonial flat should be regarded as part of pool of matrimonial assets, I was of the view that the CPF moneys, including the amounts withdrawn by the Plaintiff, should still be included as part of the pool of matrimonial assets available for division. Further, even if the Plaintiff was not dissipating the matrimonial assets, based on the decision of the Court of Appeal in _TNL v TNK_ (at \[24\]), the amount withdrawn will have to be returned to the pool of matrimonial assets for division. I would, however, exclude the $20,000.00 which the Plaintiff spent on cancer treatment, from the pool. Even though this expenditure does not fall into the category of “daily, run-of-the-mill expenses” referred to by the Court of Appeal, it is a necessity for the Plaintiff and should be excluded.
 
-61     The Plaintiff also relied on _BGT v BGU_ (at \[29\]) as authority that the CPF savings that were accumulated by him before the marriage should be excluded from the matrimonial assets that are available for division.[\[note: 26\]](#Ftn_26) I agree. Under s 112(10) of the WC, property acquired before the marriage would not be a matrimonial asset unless it has been substantially improved during the marriage by the other party of both parties to the marriage. Accordingly, CPF savings acquired before the marriage would be excluded. This is because they would not have been improved during the marriage by the Defendant. Also, as I stated at \[30\] above, the interest on this sum would have to be deducted as well.
+61     The Plaintiff also relied on _BGT v BGU_ (at \[29\]) as authority that the CPF savings that were accumulated by him before the marriage should be excluded from the matrimonial assets that are available for division.[^26] I agree. Under s 112(10) of the WC, property acquired before the marriage would not be a matrimonial asset unless it has been substantially improved during the marriage by the other party of both parties to the marriage. Accordingly, CPF savings acquired before the marriage would be excluded. This is because they would not have been improved during the marriage by the Defendant. Also, as I stated at \[30\] above, the interest on this sum would have to be deducted as well.
 
 62     In the result, I was of the view that $169,823.77 (being $426,116.07 - $236,292.30 - $20,000.00) should properly be included in the pool of matrimonial assets available for apportionment.
 
-63     While I would treat the bank savings of the Plaintiff in the same manner, in the absence of any evidence to show when it was acquired, I will include the entire amount of $7,000.00[\[note: 27\]](#Ftn_27) in the pool of matrimonial assets.
+63     While I would treat the bank savings of the Plaintiff in the same manner, in the absence of any evidence to show when it was acquired, I will include the entire amount of $7,000.00[^27] in the pool of matrimonial assets.
 
 #### The CPF savings of the Defendant
 
@@ -282,21 +283,21 @@ Family Law – Divorce – Ancillary Matters – Division of matrimonial a
 
 74     The Plaintiff disputed that he and the Defendant had started cohabitation from 1993/1994, and that she was helping him to look after the Interveners. He said that she was only a paid baby sitter after his previous wife left in 1994, and it was his mother who was looking after them. The Interveners were only either eight and six, or nine and seven, in 1993/1994. The Plaintiff claimed that at the time his wife left him, they were independent and was able to walk to their school nearby, and he was able to buy them meals, wash their clothes, and care for them when he returned from work. The Defendant’s version was that the Plaintiff often stayed away for weeks. The Interveners frequently missed their school bus and called her, and she would have to rush to bring them to school. They would also mess up the kitchen when they tried to cook, and she had to clean up after them as they were afraid of being disciplined by the Plaintiff.
 
-75     Having regard to the evidence of the parties, I do not think that the DJ was wrong to conclude that parties had started cohabitation in 1993/1994. The Plaintiff was then employed in a petrol refinery as a technician doing shift work on an island off the southern shore of Singapore.[\[note: 28\]](#Ftn_28) Even if he was able to return home after his shift every day and did not stay away for long periods, he would have returned home at different times of the day depending on what shift he was working. He could not have done all that he was claiming to do, and managed without help. The admission by the Plaintiff that one of the Interveners had gone to live for a few months with the Defendant in 1999 after parties had a quarrel and she moved out was also evidence of the close relationship between her and the Interveners, and showed that it was she and not the Interveners’ grandmother who was looking after them.
+75     Having regard to the evidence of the parties, I do not think that the DJ was wrong to conclude that parties had started cohabitation in 1993/1994. The Plaintiff was then employed in a petrol refinery as a technician doing shift work on an island off the southern shore of Singapore.[^28] Even if he was able to return home after his shift every day and did not stay away for long periods, he would have returned home at different times of the day depending on what shift he was working. He could not have done all that he was claiming to do, and managed without help. The admission by the Plaintiff that one of the Interveners had gone to live for a few months with the Defendant in 1999 after parties had a quarrel and she moved out was also evidence of the close relationship between her and the Interveners, and showed that it was she and not the Interveners’ grandmother who was looking after them.
 
-76     Moreover, the Plaintiff had his dates wrong. He said that the Defendant was divorced only in 1997 or 1998, and set out the events in their relationship from 1994 till then which led to her divorce.[\[note: 29\]](#Ftn_29) However, the Defendant was actually divorced in 1995, and her version of events in her life with the Plaintiff and the Interveners, whom she was spending more time with from 1993/1994,[\[note: 30\]](#Ftn_30) contained the more likely reasons for her divorce.
+76     Moreover, the Plaintiff had his dates wrong. He said that the Defendant was divorced only in 1997 or 1998, and set out the events in their relationship from 1994 till then which led to her divorce.[^29] However, the Defendant was actually divorced in 1995, and her version of events in her life with the Plaintiff and the Interveners, whom she was spending more time with from 1993/1994,[^30] contained the more likely reasons for her divorce.
 
-77     In any case, while the Plaintiff had earlier disputed when parties started cohabitation, he appeared to have accepted the finding of the DJ that it began in 1993.[\[note: 31\]](#Ftn_31)
+77     In any case, while the Plaintiff had earlier disputed when parties started cohabitation, he appeared to have accepted the finding of the DJ that it began in 1993.[^31]
 
-78     Accordingly, I do not think that the DJ was wrong in choosing 1995 as the start of the period of the Defendant’s indirect contributions. By then, the Plaintiff’s previous wife had left him and their two Interveners in 1994.[\[note: 32\]](#Ftn_32) The Defendant’s earlier marriage was dissolved, and there was no question of the Defendant making indirect contributions to two marriages at the same time. This is of course provided that there is evidence of her indirect contributions from that year.
+78     Accordingly, I do not think that the DJ was wrong in choosing 1995 as the start of the period of the Defendant’s indirect contributions. By then, the Plaintiff’s previous wife had left him and their two Interveners in 1994.[^32] The Defendant’s earlier marriage was dissolved, and there was no question of the Defendant making indirect contributions to two marriages at the same time. This is of course provided that there is evidence of her indirect contributions from that year.
 
-79     However, the Plaintiff maintained that the period to be considered should instead be from 2003, the year of the marriage, to 2012,[\[note: 33\]](#Ftn_33) a period of nine years.[\[note: 34\]](#Ftn_34) The Plaintiff relied on a number of cases to support his submission.
+79     However, the Plaintiff maintained that the period to be considered should instead be from 2003, the year of the marriage, to 2012,[^33] a period of nine years.[^34] The Plaintiff relied on a number of cases to support his submission.
 
 80     In _Koh Bee Choo v Choo Chai Huah_ (“_Koh Bee Choo v Choo Chai Huah_”), the parties had cohabited together for eight years before they registered their marriage in 1984. During that period, the wife worked as a computer typist while the husband was a dentistry undergraduate. The reported judgment did not indicate whether she had made any contributions to the relationship during their cohabitation. The High Court had treated the marriage as one of 20 years (at \[27\]), which was from the registration of the marriage to _decree nisi._
 
 81     In _Smith Brian Walker v Foo Moo Chye Julie_ (“_Smith Brian Walker v Foo Moo Chye_”) the wife had helped the husband to secure a consultancy project during the period of cohabitation before their marriage. He received from this a substantial commission that he used to fund the purchase of a property. The High Court accepted the indirect contribution of the wife and awarded her 33% of the property.
 
-82     The Plaintiff also referred to _Foley v Foley_ (“_Foley v Foley_”), at p 288 where the English Court of Appeal referred to _Campbell v Campbell_ (“_Campbell v Campbell_”),[\[note: 35\]](#Ftn_35) which refused to treat the period of cohabitation as being included in “the duration of the marriage” within the meaning of s 25(1)(d) of the Matrimonial Causes Act 1973 (UK). That section provides that for both financial provision orders (_ie_ maintenance) and property adjustment orders (_ie_ division of assets), the court should take into account the “duration of the marriage”.
+82     The Plaintiff also referred to _Foley v Foley_ (“_Foley v Foley_”), at p 288 where the English Court of Appeal referred to _Campbell v Campbell_ (“_Campbell v Campbell_”),[^35] which refused to treat the period of cohabitation as being included in “the duration of the marriage” within the meaning of s 25(1)(d) of the Matrimonial Causes Act 1973 (UK). That section provides that for both financial provision orders (_ie_ maintenance) and property adjustment orders (_ie_ division of assets), the court should take into account the “duration of the marriage”.
 
 83     The factors to be considered when dividing matrimonial assets are set out in s 112(2) of the WC. These factors are non-exhaustive and, more importantly, there is no requirement to consider the duration of the marriage.
 
@@ -306,7 +307,7 @@ Family Law – Divorce – Ancillary Matters – Division of matrimonial a
 
 86     Nor do I think _Foley v Foley_ and _Campbell v Campbell_ assist the Plaintiff’s submission that the Defendant’s contributions to the family before their marriage have to be disregarded, given the difference between the statutes on what is to be taken into consideration. In any case, I decline to follow the approach adopted in those cases.
 
-87     I therefore agree with the DJ that the period of cohabitation can be taken into account when deciding the division of the matrimonial assets. This was indeed the approach taken by the High Court in _JAF v JAE_ , a case that was not referred to by parties, at \[20\] – \[21\]. The duration of 20 years was within the discretion of the DJ to decide based on the evidence, which showed that the Defendant had in fact looked after the Plaintiff and the Interveners, especially when they were younger. The 2nd Intervener has also acknowledged that the Defendant showed the Interveners love and care, and helped to look after them.[\[note: 36\]](#Ftn_36)
+87     I therefore agree with the DJ that the period of cohabitation can be taken into account when deciding the division of the matrimonial assets. This was indeed the approach taken by the High Court in _JAF v JAE_ , a case that was not referred to by parties, at \[20\] – \[21\]. The duration of 20 years was within the discretion of the DJ to decide based on the evidence, which showed that the Defendant had in fact looked after the Plaintiff and the Interveners, especially when they were younger. The 2nd Intervener has also acknowledged that the Defendant showed the Interveners love and care, and helped to look after them.[^36]
 
 88     As I have accepted the decision of the DJ to treat the length of marriage between parties to be 20 years (from 1995, when the Defendant’s previous marriage ended, to 2014, when the Plaintiff commenced divorce proceedings), I do not think that the 50% indirect contribution she attributed to the Defendant was wrong. Even if the period had ended in 2012, when parties started living apart, a 50% indirect contribution was still within her discretion to make. Accordingly, I do not find it necessary to change the percentage of indirect contribution by the Defendant.
 
@@ -316,13 +317,13 @@ Family Law – Divorce – Ancillary Matters – Division of matrimonial a
 
 90     The DJ did not think it necessary to draw any adverse inference over the non-disclosure of certain classes documents. As there is no appeal by the Defendant, I will not deal with them. The DJ did draw an adverse inference on the non-disclosure of the following documents: documents relating to the employment and re-employment which would show the terms of remuneration of the Plaintiff; his payslips for 2015 and 2016; the retirement benefits he received in 2015; statements of Central Depository (“CDP”) Account for 2014-2016 which would show his shares portfolio; 2016 Notice of Assessment from the Inland Revenue Authority of Singapore (“IRAS”); statements on his loan from DBS Bank Ltd (“DBS”); bank statements from 2014-2016; credit card account statements from 2014-2016; and the DBS debit card statements from 2014-2016. She did so even though the Plaintiff selectively disclosed certain documents, _eg_ certificate of service with his former employer; pay slips of certain months; bank account balances of certain months; and credit card statements of certain months. His position was that he was not in possession of the rest. He also blamed the non-furnishing of documents on his former solicitors.
 
-91     As submitted by the Defendant, the Plaintiff had not provided the documents which are needed to show his financial status.[\[note: 37\]](#Ftn_37) These included his payslips, letters from his former employer which would confirm if he did receive any retirement benefits when he retired after working for 40 years, or had other assets that he did not disclose.
+91     As submitted by the Defendant, the Plaintiff had not provided the documents which are needed to show his financial status.[^37] These included his payslips, letters from his former employer which would confirm if he did receive any retirement benefits when he retired after working for 40 years, or had other assets that he did not disclose.
 
 92     I agree with the Defendant that the documents could have been obtained by the Plaintiff if he had wanted to. For example, even though he has now left his employment, he could have obtained a written confirmation from his former employer to support his position. Statements from banks, credit card companies, CDP and IRAS could also be obtained if requests were made. Even if such documents were not forthcoming, there was nothing to show that he has even tried to ask for them.
 
 93     The Plaintiff has since belatedly furnished the documents listed in para 5 of the Appellant’s Case. These are: his payslips for 2015 (April to November), 2016 (March to July and September to December) and 2017 (March to April); photograph of the gold medal he received upon his retirement in 2015; letter from the Singapore Exchange (“SGX”) to show that he does not and did not have any SGX accounts; 2016 Notice of Assessment from IRAS; CPF statements for 2015 and 2016; CPF Investment Scheme yearly statements for 2014 to 2016; letter from DBS stating that he does not have a DBS Cashline account, nor certain credit card accounts; monthly statements of his POSB current and savings accounts from January 2014 to July 2015 and August 2015 to April 2017; quarterly credit card statements for 2014 and 2015 and others. He submitted that they show that there was no basis for an adverse inference to be drawn.
 
-94     Leaving aside the prejudice to the Defendant who now has to deal with a case of the Plaintiff that is not the same as that at the Ancillary Matters hearing before the DJ, I am of the view that these documents still do not fully address all the reasons for the drawing of the adverse inference. For example, while the 2016 Notice of Assessment shows his taxable income from 2015, there is still no information on what he received from his former employer. Besides the gold medal, there is no indication if he received other retirement benefits, such as a lump sum pension, which do not normally appear in payslips as it is not a salary, that may be subject to different rules for taxation. Nor did the Plaintiff provide statements of a bank account that was revealed in his first Affidavit of Means, nor bank accounts which would show where the over $230,000.00 that he withdrew from his CPF Account have moved to.[\[note: 38\]](#Ftn_38)
+94     Leaving aside the prejudice to the Defendant who now has to deal with a case of the Plaintiff that is not the same as that at the Ancillary Matters hearing before the DJ, I am of the view that these documents still do not fully address all the reasons for the drawing of the adverse inference. For example, while the 2016 Notice of Assessment shows his taxable income from 2015, there is still no information on what he received from his former employer. Besides the gold medal, there is no indication if he received other retirement benefits, such as a lump sum pension, which do not normally appear in payslips as it is not a salary, that may be subject to different rules for taxation. Nor did the Plaintiff provide statements of a bank account that was revealed in his first Affidavit of Means, nor bank accounts which would show where the over $230,000.00 that he withdrew from his CPF Account have moved to.[^38]
 
 95     In the result, I am of the view that an adverse inference should still be drawn against the Plaintiff for the continuing non-disclosure of certain documents even though he has disclosed other documents. The increase in the Defendant’s share of the matrimonial properties by 10% ordered by the DJ was within her discretion based on the non-disclosure of the documents at the time of the Ancillary Matters hearing, and I do not see any reason to depart from it based on the non-disclosure of the documents at the appeal.
 
@@ -367,9 +368,9 @@ Family Law – Divorce – Ancillary Matters – Division of matrimonial a
 
 106    I accept that unless the DJ has committed an error of law or principle, or failed to take into consideration crucial facts, it is not for an appellate court to interfere with the order and substitute what it views should be the correct amount for maintenance. In this regard, I do not think that the DJ was wrong in deciding that a fair amount for the Defendant’s monthly maintenance was $400.00.
 
-107    With regard to the period of maintenance, the Plaintiff submitted it should not exceed 3 years.[\[note: 39\]](#Ftn_39) This is after taking into consideration: the length of the marriage, his age, that he has stopped working, his ill health and associated medical expenses, and the expenses to support his aged mother. He submitted that the Defendant’s daughters can help to support her, especially when she is helping to look after her grandchildren.[\[note: 40\]](#Ftn_40)
+107    With regard to the period of maintenance, the Plaintiff submitted it should not exceed 3 years.[^39] This is after taking into consideration: the length of the marriage, his age, that he has stopped working, his ill health and associated medical expenses, and the expenses to support his aged mother. He submitted that the Defendant’s daughters can help to support her, especially when she is helping to look after her grandchildren.[^40]
 
-108    I am of the view that the DJ had not taken into consideration the Plaintiff’s age and his actual employment status correctly when she considered him to be “gainfully employed” (GD, at \[9\]). In 2016, when the order was made, the Plaintiff was already 61 years old. He had retired in March 2015,[\[note: 41\]](#Ftn_41) and was on a contract of re-employment with his employer. A maintenance period of 10 years assumes that he is likely to be employed until 71 years old, and will receive the same or similar pay until he stops working eventually. I do not think that this is realistic, given that he was already suffering from Stage 4 cancer. The Plaintiff asked for the maintenance period not to exceed three years. I agree that a more appropriate period is three years from the date of the ancillary matters order. In doing so, I note that after the diagnosis and treatment that he received in 2014, a medical report in 2015 shows that it has spread.[\[note: 42\]](#Ftn_42) He had also gone for a bone scan in 2016[\[note: 43\]](#Ftn_43) and 2017.[\[note: 44\]](#Ftn_44) I have also taken note that the Defendant was 57 years old in 2016, when the DJ made the order. However, she is in good health and will be able to seek gainful employment although not in a high paying job. Moreover, she will be receiving $303,098.00 from the division of the matrimonial assets.
+108    I am of the view that the DJ had not taken into consideration the Plaintiff’s age and his actual employment status correctly when she considered him to be “gainfully employed” (GD, at \[9\]). In 2016, when the order was made, the Plaintiff was already 61 years old. He had retired in March 2015,[^41] and was on a contract of re-employment with his employer. A maintenance period of 10 years assumes that he is likely to be employed until 71 years old, and will receive the same or similar pay until he stops working eventually. I do not think that this is realistic, given that he was already suffering from Stage 4 cancer. The Plaintiff asked for the maintenance period not to exceed three years. I agree that a more appropriate period is three years from the date of the ancillary matters order. In doing so, I note that after the diagnosis and treatment that he received in 2014, a medical report in 2015 shows that it has spread.[^42] He had also gone for a bone scan in 2016[^43] and 2017.[^44] I have also taken note that the Defendant was 57 years old in 2016, when the DJ made the order. However, she is in good health and will be able to seek gainful employment although not in a high paying job. Moreover, she will be receiving $303,098.00 from the division of the matrimonial assets.
 
 109    I note the difficulties in the past for the Defendant in receiving the maintenance sums under the consent order of 2012, and that the Plaintiff’s re-employment was terminated on 9 June 2017. I therefore order that the maintenance amount is to be paid as a lump sum from the Plaintiff’s share of the proceeds of sale of the matrimonial flat. This amount of $14,400.00 ($400.00 x 12 x 3) is an amount which the Plaintiff will be in a position to pay using his share of the proceeds of sale of the matrimonial flat, and will not cripple him financially.
 
@@ -407,93 +408,93 @@ Family Law – Divorce – Ancillary Matters – Division of matrimonial a
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)Defendant’s affidavit of 31 July 2018, at para 11.
+[^1]: Defendant’s affidavit of 31 July 2018, at para 11.
 
-[\[note: 2\]](#Ftn_2_1)Appellant’s Case (“AC”), at para 21.
+[^2]: Appellant’s Case (“AC”), at para 21.
 
-[\[note: 3\]](#Ftn_3_1)AC, at para 14.
+[^3]: AC, at para 14.
 
-[\[note: 4\]](#Ftn_4_1)AC, at para 74.
+[^4]: AC, at para 74.
 
-[\[note: 5\]](#Ftn_5_1)Defendant’s first affidavit of assets and means (“AOM”) of 26 July 2016, at p 43.
+[^5]: Defendant’s first affidavit of assets and means (“AOM”) of 26 July 2016, at p 43.
 
-[\[note: 6\]](#Ftn_6_1)Affidavit of Evidence in Chief filed by the Plaintiff of 11 January 2016, at para 24.
+[^6]: Affidavit of Evidence in Chief filed by the Plaintiff of 11 January 2016, at para 24.
 
-[\[note: 7\]](#Ftn_7_1)Affidavit of Evidence in Chief filed by the Defendant (Respondent) of 29 January 2016, at para 7.
+[^7]: Affidavit of Evidence in Chief filed by the Defendant (Respondent) of 29 January 2016, at para 7.
 
-[\[note: 8\]](#Ftn_8_1)AC, at para 13.
+[^8]: AC, at para 13.
 
-[\[note: 9\]](#Ftn_9_1)Respondent’s Case (“RC”), at p 23, Sect D, para 5(a).
+[^9]: Respondent’s Case (“RC”), at p 23, Sect D, para 5(a).
 
-[\[note: 10\]](#Ftn_10_1)Interveners’ affidavit of 30 January 2018, at para 4 and pp 9 – 16.
+[^10]: Interveners’ affidavit of 30 January 2018, at para 4 and pp 9 – 16.
 
-[\[note: 11\]](#Ftn_11_1)AC, at para 85; Core Bundle (“CB”), at pp 100 – 103.
+[^11]: AC, at para 85; Core Bundle (“CB”), at pp 100 – 103.
 
-[\[note: 12\]](#Ftn_12_1)AC, at para 30.
+[^12]: AC, at para 30.
 
-[\[note: 13\]](#Ftn_13_1)RC, at p 6, Sect D, para 1(b).
+[^13]: RC, at p 6, Sect D, para 1(b).
 
-[\[note: 14\]](#Ftn_14_1)Notes of Argument of 11 May 2018, at p 2.
+[^14]: Notes of Argument of 11 May 2018, at p 2.
 
-[\[note: 15\]](#Ftn_15_1)Notes of Argument of 11 May 2018, at p 3.
+[^15]: Notes of Argument of 11 May 2018, at p 3.
 
-[\[note: 16\]](#Ftn_16_1)CB, at p 92.
+[^16]: CB, at p 92.
 
-[\[note: 17\]](#Ftn_17_1)AC, at para 18 and p 68.
+[^17]: AC, at para 18 and p 68.
 
-[\[note: 18\]](#Ftn_18_1)Defendant’s first AOM of 6 June 2016, at p 60.
+[^18]: Defendant’s first AOM of 6 June 2016, at p 60.
 
-[\[note: 19\]](#Ftn_19_1)Plaintiff’s affidavit for ancillary matters of 25 October 2016, at para 31.
+[^19]: Plaintiff’s affidavit for ancillary matters of 25 October 2016, at para 31.
 
-[\[note: 20\]](#Ftn_20_1)AC, at para 17.
+[^20]: AC, at para 17.
 
-[\[note: 21\]](#Ftn_21_1)Plaintiff’s affidavit of means 1, at para 7(d)(2).
+[^21]: Plaintiff’s affidavit of means 1, at para 7(d)(2).
 
-[\[note: 22\]](#Ftn_22_1)Plaintiff’s first AOM, at para 13.
+[^22]: Plaintiff’s first AOM, at para 13.
 
-[\[note: 23\]](#Ftn_23_1)Plaintiff’s affidavit of 18 July 2017, at p 69.
+[^23]: Plaintiff’s affidavit of 18 July 2017, at p 69.
 
-[\[note: 24\]](#Ftn_24_1)Defendant’s affidavit of 13 March 2018, at para 12 and pp 62, 63.
+[^24]: Defendant’s affidavit of 13 March 2018, at para 12 and pp 62, 63.
 
-[\[note: 25\]](#Ftn_25_1)Plaintiff’s affidavit of 18 July 2017, at para 26.
+[^25]: Plaintiff’s affidavit of 18 July 2017, at para 26.
 
-[\[note: 26\]](#Ftn_26_1)AC, at paras 61 to 63.
+[^26]: AC, at paras 61 to 63.
 
-[\[note: 27\]](#Ftn_27_1)Plaintiff’s first AOM, at para 12.
+[^27]: Plaintiff’s first AOM, at para 12.
 
-[\[note: 28\]](#Ftn_28_1)CB, at p 74 (Plaintiff’s affidavit of 22 December 2015, at p 3).
+[^28]: CB, at p 74 (Plaintiff’s affidavit of 22 December 2015, at p 3).
 
-[\[note: 29\]](#Ftn_29_1)CB, at p 75.
+[^29]: CB, at p 75.
 
-[\[note: 30\]](#Ftn_30_1)CB, at p 72.
+[^30]: CB, at p 72.
 
-[\[note: 31\]](#Ftn_31_1)AC, at para 34.
+[^31]: AC, at para 34.
 
-[\[note: 32\]](#Ftn_32_1)AC, at para 19.
+[^32]: AC, at para 19.
 
-[\[note: 33\]](#Ftn_33_1)AC, at para 20.
+[^33]: AC, at para 20.
 
-[\[note: 34\]](#Ftn_34_1)AC, at para 49.
+[^34]: AC, at para 49.
 
-[\[note: 35\]](#Ftn_35_1)AC, at paras 44 to 47.
+[^35]: AC, at paras 44 to 47.
 
-[\[note: 36\]](#Ftn_36_1)2nd Intervener’s affidavit of 9 January 2015, at para 8.
+[^36]: 2nd Intervener’s affidavit of 9 January 2015, at para 8.
 
-[\[note: 37\]](#Ftn_37_1)Notes of Argument on 11 May 2018, at p 10.
+[^37]: Notes of Argument on 11 May 2018, at p 10.
 
-[\[note: 38\]](#Ftn_38_1)RC, at p 45, para 7(n).
+[^38]: RC, at p 45, para 7(n).
 
-[\[note: 39\]](#Ftn_39_1)AC, at para 130.
+[^39]: AC, at para 130.
 
-[\[note: 40\]](#Ftn_40_1)AC, at paras 122 and 123.
+[^40]: AC, at paras 122 and 123.
 
-[\[note: 41\]](#Ftn_41_1)Plaintiff’s affidavit of 22 December 2015, at para 4 and p 21.
+[^41]: Plaintiff’s affidavit of 22 December 2015, at para 4 and p 21.
 
-[\[note: 42\]](#Ftn_42_1)CB, Tab 29, p 133.
+[^42]: CB, Tab 29, p 133.
 
-[\[note: 43\]](#Ftn_43_1)CB, Tab 29, p 131.
+[^43]: CB, Tab 29, p 131.
 
-[\[note: 44\]](#Ftn_44_1)CB, Tab 28, p 127.
+[^44]: CB, Tab 28, p 127.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F22739-SSP.xml)

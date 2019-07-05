@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # B2C2 Ltd _v_ Quoine Pte Ltd  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Suit No 7 of 2017</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">14 May 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Singapore International Commercial Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Simon Thorley IJ</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Danny Ong, Sheila Ng and Jason Teo (Rajah &amp; Tann Singapore LLP) for the plaintiff; Paul Ong, Ivan Lim and Marrissa Karuna (Allen &amp; Gledhill LLP) for the defendant.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">B2C2 Ltd — Quoine Pte Ltd</td></tr></tbody></table>
@@ -16,7 +17,7 @@ Equity – Remedies – Equitable compensation
 
 1       Judgment was given on 14 March 2019 in _B2C2 Ltd v Quoine Pte Ltd_ \[2019\] SGHC(I) 03 (“the Judgment”) following the trial of this action. The action succeeded both in breach of contract and breach of trust but, for the reasons given in \[254\]–\[257\] of the Judgment, I held that the plaintiff (“B2C2”) was not entitled to an order for specific performance. Its remedy lay only in damages.
 
-2       I invited the parties to liaise to seek to agree on an Order giving effect to the Judgment. This they were unable to do and travelling drafts were prepared indicating the areas of dispute.[\[note: 1\]](#Ftn_1) Having reviewed these drafts, I directed the Registry to issue a letter on 8 April 2019 which stated:
+2       I invited the parties to liaise to seek to agree on an Order giving effect to the Judgment. This they were unable to do and travelling drafts were prepared indicating the areas of dispute.[^1] Having reviewed these drafts, I directed the Registry to issue a letter on 8 April 2019 which stated:
 
 Subject to anything the parties wish to submit to the contrary, the Court proposes first to deal with the following issues:
 
@@ -168,7 +169,7 @@ AT THE CASE MANAGEMENT CONFERENCE on \[●\], UPON READING \[●\], AND UPON HEA
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)See Annex A (Plaintiff’s proposed draft judgment), and Annex B (Defendant’s proposed draft judgment). The Plaintiff also prepared a draft Order, excerpted at Annex C.
+[^1]: See Annex A (Plaintiff’s proposed draft judgment), and Annex B (Defendant’s proposed draft judgment). The Plaintiff also prepared a draft Order, excerpted at Annex C.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23155-SSP.xml)

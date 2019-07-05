@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # Lendlease Singapore Pte Ltd _v_ M & S Management & Contracts Services Pte Ltd  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Originating Summons 426 of 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">30 May 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Lee Seiu Kin J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Joseph Lee Sien Liang, Chew Wei Jie and Yap Pei Yin (LVM Law Chambers LLC) for the plaintiff; Brendon Choa Sn-Yien, Zachariah Chow Jie Rui and Milon Goh (ACIES Law Corporation) for the defendant.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Lendlease Singapore Pte Ltd — M &amp; S Management &amp; Contracts Services Pte Ltd</td></tr></tbody></table>
@@ -12,19 +13,19 @@ Building and Construction Law – Timeline for lodging Adjudication Applicatio
 
 ## Background
 
-2       The plaintiff is the main contractor for a project titled “Paya Lebar Quarter”,[\[note: 1\]](#Ftn_1) and engaged the defendant to supply general labour for the project pursuant to a contract.[\[note: 2\]](#Ftn_2) This contract was termed the “Labour Hire Agreement”.[\[note: 3\]](#Ftn_3) The contract provided for payment claims to be made on the 20th day of each month.
+2       The plaintiff is the main contractor for a project titled “Paya Lebar Quarter”,[^1] and engaged the defendant to supply general labour for the project pursuant to a contract.[^2] This contract was termed the “Labour Hire Agreement”.[^3] The contract provided for payment claims to be made on the 20th day of each month.
 
 3       On 18 January 2019, the defendant served payment claim no 29 (“PC29”) on the plaintiff. This was a Friday. However, PC29 was dated 20 January 2019, which was a Sunday.
 
-4       The plaintiff subsequently served its payment response (“PR29”) on 8 February 2019. Thereafter, the defendant served its notice of intention to apply for adjudication on 25 February 2019 and lodged the AA in SOP/AA 084 of 2019 with the Singapore Mediation Centre on 25 February 2019.[\[note: 4\]](#Ftn_4) The plaintiff then filed its adjudication response on 5 March 2019, detailing its objection that the AA lodged on 25 February 2019 was out of time.[\[note: 5\]](#Ftn_5)
+4       The plaintiff subsequently served its payment response (“PR29”) on 8 February 2019. Thereafter, the defendant served its notice of intention to apply for adjudication on 25 February 2019 and lodged the AA in SOP/AA 084 of 2019 with the Singapore Mediation Centre on 25 February 2019.[^4] The plaintiff then filed its adjudication response on 5 March 2019, detailing its objection that the AA lodged on 25 February 2019 was out of time.[^5]
 
-5       The adjudicator below dismissed the plaintiff’s jurisdictional objection in the adjudication determination (“AD”) and found that the defendant had lodged the AA within time.[\[note: 6\]](#Ftn_6)
+5       The adjudicator below dismissed the plaintiff’s jurisdictional objection in the adjudication determination (“AD”) and found that the defendant had lodged the AA within time.[^6]
 
 ## Parties’ cases
 
 6       The plaintiff argued that the operative date from which the time began to run for the purpose of lodging the AA (“the operative date”) was the date on which PC29 was _physically_ served. The plaintiff cited contractual terms, which in its view, showed that the operative date as the physical date of service.
 
-7       Clause 7.1(c)(i) read with Annexture Part A of the contract provided for payment claims to be made on the 20th day of each calendar month. The provision reads:[\[note: 7\]](#Ftn_7)
+7       Clause 7.1(c)(i) read with Annexture Part A of the contract provided for payment claims to be made on the 20th day of each calendar month. The provision reads:[^7]
 
 **7.1**      **Payment Claim**
 
@@ -44,7 +45,7 @@ Payment Claim Date     **20th calendar day of each month**
 
 \[emphasis in original\]
 
-8       If the 20th day was on a non-business day, the contract required the payment claim to be given on the preceding business day. This is found in cl 1.2 which provides as follows:[\[note: 8\]](#Ftn_8)
+8       If the 20th day was on a non-business day, the contract required the payment claim to be given on the preceding business day. This is found in cl 1.2 which provides as follows:[^8]
 
 **1.2**.     **Interpretation**
 
@@ -52,7 +53,7 @@ Payment Claim Date     **20th calendar day of each month**
 
 d)    If any notice is to be given, or any other act, matter or thing is to be done on a specified day, and that day falls on a day which is not a Business Day, then it must be given or done on the preceding Business Day
 
-9       A “Business Day” is defined under cl 1.1 as follows:[\[note: 9\]](#Ftn_9)
+9       A “Business Day” is defined under cl 1.1 as follows:[^9]
 
 1.1.   **Business Day** means any day other than:
 
@@ -64,7 +65,7 @@ c)    27, 28, 29, 30 and 31 December.
 
 10     Thus, since the 20th of January 2019 was a Sunday, the plaintiff argued that the contract required that the payment claim be given on the preceding Business Day, _ie_, on 18 January 2019, a Friday.
 
-11     The contract also specified when a payment certificate (contractually deemed to be a payment response) was to be issued. Clause 7.2(a) states:[\[note: 10\]](#Ftn_10)
+11     The contract also specified when a payment certificate (contractually deemed to be a payment response) was to be issued. Clause 7.2(a) states:[^10]
 
 **7.2**.     **Payment Certificate**
 
@@ -94,25 +95,25 @@ We emphasise, however that our decision in this regard was made on the basis of 
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)Levis David Alan, 1st Affidavit at para 5.
+[^1]: Levis David Alan, 1st Affidavit at para 5.
 
-[\[note: 2\]](#Ftn_2_1)Levis David Alan, 1st Affidavit at para 6.
+[^2]: Levis David Alan, 1st Affidavit at para 6.
 
-[\[note: 3\]](#Ftn_3_1)Manjit Singh Affidavit, para 4.
+[^3]: Manjit Singh Affidavit, para 4.
 
-[\[note: 4\]](#Ftn_4_1)Levis David Alan, 1st Affidavit at para 9.
+[^4]: Levis David Alan, 1st Affidavit at para 9.
 
-[\[note: 5\]](#Ftn_5_1)Levis David Alan, 1st Affidavit at para 11.
+[^5]: Levis David Alan, 1st Affidavit at para 11.
 
-[\[note: 6\]](#Ftn_6_1)Levis David Alan, 1st Affidavit at para 12.
+[^6]: Levis David Alan, 1st Affidavit at para 12.
 
-[\[note: 7\]](#Ftn_7_1)Levis David Alan, 1st Affidavit at p 48; p 57.
+[^7]: Levis David Alan, 1st Affidavit at p 48; p 57.
 
-[\[note: 8\]](#Ftn_8_1)Levis David Alan, 1st Affidavit at p 42.
+[^8]: Levis David Alan, 1st Affidavit at p 42.
 
-[\[note: 9\]](#Ftn_9_1)Levis David Alan, 1st Affidavit at p 40.
+[^9]: Levis David Alan, 1st Affidavit at p 40.
 
-[\[note: 10\]](#Ftn_10_1)Levis David Alan, 1st Affidavit at p 48 – 49.
+[^10]: Levis David Alan, 1st Affidavit at p 48 – 49.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23243-SSP.xml)

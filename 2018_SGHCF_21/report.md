@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # TWD and another _v_ UQE  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Originating Summons (Family) No 46 of 2016 (Registrar's Appeal No 13 of 2017)</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">21 December 2018</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Tan Puay Boon JC</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Viviene Kaur Sandhu and Gabriel Choo (Clifford Law LLP) for the appellants; Anthony Wee and Manoj Belani (United Legal Alliance LLC) for the respondent; Chia Huai Yuan (Dentons Rodyk &amp; Davidson LLP) as young amicus curiae.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">TWD — TWE — UQE</td></tr></tbody></table>
@@ -14,15 +15,15 @@ Family Law – Procedure
 
 ### The parties and the Accident
 
-2       The appellants are respectively the mother and sister of the person who was alleged to lack capacity in this matter (“P”).[\[note: 1\]](#Ftn_1) P is a male Singaporean who is presently 27 years old.[\[note: 2\]](#Ftn_2)
+2       The appellants are respectively the mother and sister of the person who was alleged to lack capacity in this matter (“P”).[^1] P is a male Singaporean who is presently 27 years old.[^2]
 
-3       The respondent was the driver of a car that collided into P, who was a pedestrian at the material time, in an accident on 3 April 2015.[\[note: 3\]](#Ftn_3) At the time of the accident, P was a 23-year-old polytechnic student.[\[note: 4\]](#Ftn_4) As a result of the accident, P suffered multiple injuries including severe traumatic brain injury.[\[note: 5\]](#Ftn_5)
+3       The respondent was the driver of a car that collided into P, who was a pedestrian at the material time, in an accident on 3 April 2015.[^3] At the time of the accident, P was a 23-year-old polytechnic student.[^4] As a result of the accident, P suffered multiple injuries including severe traumatic brain injury.[^5]
 
 ### The Deputy and Joinder Applications
 
-4       On 2 March 2016, the appellants filed an application in the Family Courts under s 20 of the Mental Capacity Act (Cap 177A, 2010 Rev Ed) (“the MCA”) to be appointed as deputies for P to make decisions on his behalf relating to his personal welfare and property and affairs (“the Deputy Application”).[\[note: 6\]](#Ftn_6)
+4       On 2 March 2016, the appellants filed an application in the Family Courts under s 20 of the Mental Capacity Act (Cap 177A, 2010 Rev Ed) (“the MCA”) to be appointed as deputies for P to make decisions on his behalf relating to his personal welfare and property and affairs (“the Deputy Application”).[^6]
 
-5       The Deputy Application was supported by an affidavit of one Dr Chan Lai Gwen (“Dr Chan”), a Consultant in the Department of Psychological Medicine in Tan Tock Seng Hospital,[\[note: 7\]](#Ftn_7) which enclosed a medical report dated 2 December 2015 (“Dr Chan’s 1st Report”) based on Dr Chan’s examination of P on 20 November 2015.[\[note: 8\]](#Ftn_8) In the report, Dr Chan stated the following:[\[note: 9\]](#Ftn_9)
+5       The Deputy Application was supported by an affidavit of one Dr Chan Lai Gwen (“Dr Chan”), a Consultant in the Department of Psychological Medicine in Tan Tock Seng Hospital,[^7] which enclosed a medical report dated 2 December 2015 (“Dr Chan’s 1st Report”) based on Dr Chan’s examination of P on 20 November 2015.[^8] In the report, Dr Chan stated the following:[^9]
 
 (a)     P was diagnosed to have “\[c\]ognitive impairment due to severe Traumatic Brain Injury”.
 
@@ -30,23 +31,23 @@ Family Law – Procedure
 
 (c)     However, P was “still recovering neurologically and \[was\] expected to improve further over the next \[two\] years”. Further, P was “likely to regain mental capacity”.
 
-6       By a letter dated 18 March 2016, the respondent’s solicitors (who are also the solicitors for the respondent’s insurers) stated that their clients were an interested party in the Deputy Application and that they would attend a hearing of the same fixed for 22 March 2016.[\[note: 10\]](#Ftn_10)
+6       By a letter dated 18 March 2016, the respondent’s solicitors (who are also the solicitors for the respondent’s insurers) stated that their clients were an interested party in the Deputy Application and that they would attend a hearing of the same fixed for 22 March 2016.[^10]
 
-7       On 22 March 2016, the parties attended a Case Conference for the Deputy Application, where the respondent’s solicitors stated that the respondent intended to apply to be joined as a party to the Deputy Application.[\[note: 11\]](#Ftn_11)
+7       On 22 March 2016, the parties attended a Case Conference for the Deputy Application, where the respondent’s solicitors stated that the respondent intended to apply to be joined as a party to the Deputy Application.[^11]
 
-8       By a letter dated 22 March 2016, the appellants’ solicitors informed the respondent’s solicitors that they disagreed that the respondent and his insurer were interested parties in the Deputy Application, unless they conceded liability. Nonetheless, for the purposes of resolving the issue of P’s capacity, the appellants’ solicitors were “prepared to take the Court’s suggestion and advise \[P\] to attend a medical re-examination conducted by \[the respondent’s\] expert to determine whether \[P\] lacks mental capacity”.[\[note: 12\]](#Ftn_12)
+8       By a letter dated 22 March 2016, the appellants’ solicitors informed the respondent’s solicitors that they disagreed that the respondent and his insurer were interested parties in the Deputy Application, unless they conceded liability. Nonetheless, for the purposes of resolving the issue of P’s capacity, the appellants’ solicitors were “prepared to take the Court’s suggestion and advise \[P\] to attend a medical re-examination conducted by \[the respondent’s\] expert to determine whether \[P\] lacks mental capacity”.[^12]
 
-9       In reply, the respondent’s solicitors reiterated in a letter dated 25 March 2016 that their clients were interested parties in the Deputy Application. They added they were prepared to arrange for P to be re-examined by their clients’ doctors, but that an application for the respondent to be joined as a party to the Deputy Application was “unavoidable” since “either party \[would\] be instructed to challenge the outcome of the medical re-examination irrespective of the results”.[\[note: 13\]](#Ftn_13)
+9       In reply, the respondent’s solicitors reiterated in a letter dated 25 March 2016 that their clients were interested parties in the Deputy Application. They added they were prepared to arrange for P to be re-examined by their clients’ doctors, but that an application for the respondent to be joined as a party to the Deputy Application was “unavoidable” since “either party \[would\] be instructed to challenge the outcome of the medical re-examination irrespective of the results”.[^13]
 
-10     On 25 April 2016, the respondent applied to be joined as a party to and be heard in the Deputy Application (“the Joinder Application”).[\[note: 14\]](#Ftn_14) In an affidavit supporting the Joinder Application, his then solicitor stated the following:[\[note: 15\]](#Ftn_15)
+10     On 25 April 2016, the respondent applied to be joined as a party to and be heard in the Deputy Application (“the Joinder Application”).[^14] In an affidavit supporting the Joinder Application, his then solicitor stated the following:[^15]
 
-(a)     There was evidence from surveillance carried out on P that raised issues regarding the extent of his incapacity. In this regard, the affidavit enclosed a report dated 27 October 2015 (“the 1st PI Report”) by AJAX Investigation & Security Services Pte Ltd (“AJAX”) detailing surveillance carried out on P from September to October 2015,[\[note: 16\]](#Ftn_16) which was carried out on the instructions of the respondent’s insurers.[\[note: 17\]](#Ftn_17) According to the report, P was able to ambulate without aid, had a good range of movement in respect of his neck, could bend his back and sit without difficulty and could climb and descend stairs with assistance. He was also observed to have been carrying out daily activities accompanied by his family members.[\[note: 18\]](#Ftn_18)
+(a)     There was evidence from surveillance carried out on P that raised issues regarding the extent of his incapacity. In this regard, the affidavit enclosed a report dated 27 October 2015 (“the 1st PI Report”) by AJAX Investigation & Security Services Pte Ltd (“AJAX”) detailing surveillance carried out on P from September to October 2015,[^16] which was carried out on the instructions of the respondent’s insurers.[^17] According to the report, P was able to ambulate without aid, had a good range of movement in respect of his neck, could bend his back and sit without difficulty and could climb and descend stairs with assistance. He was also observed to have been carrying out daily activities accompanied by his family members.[^18]
 
 (b)     If the respondent was not joined as a party to the Deputy Application, he would not be able to adduce evidence that might assist the court in “clarifying the issue of P’s mental incapacity”. In those circumstances, if the court granted the Deputy Application, the respondent would be prejudiced in any subsequent legal action by P or his deputies against him (because the fact that deputies were appointed for P would be evidence of the severity of the injuries suffered by him).
 
 (c)     If the respondent was joined as a party, he had no objections to his involvement being limited to the issue of P’s mental incapacity.
 
-11     The second appellant filed an affidavit dated 13 May 2016 in reply to the Joinder Application. In brief, she averred that there was no basis for the respondent to be joined to the Deputy Application and stated the following:[\[note: 19\]](#Ftn_19)
+11     The second appellant filed an affidavit dated 13 May 2016 in reply to the Joinder Application. In brief, she averred that there was no basis for the respondent to be joined to the Deputy Application and stated the following:[^19]
 
 (a)     Granting the Deputy Application would not prejudice the respondent or his insurers because they would be able to contest the issue of P’s capacity in the civil suit which P intended to commence against the respondent (“the Civil Suit”).
 
@@ -54,25 +55,25 @@ Family Law – Procedure
 
 (c)     The 1st PI Report, which was not a medical report, did not raise any issues in relation to P’s mental capacity.
 
-12     The second appellant’s affidavit exhibited a Financial Counselling Form dated 14 April 2016 (“the Form”) that was signed by P in the presence of his father, to acknowledge that he “\[had\] undergone financial counselling … and irrevocably agree\[d\] and under\[took\] to pay in full the final hospital charges”.[\[note: 20\]](#Ftn_20)
+12     The second appellant’s affidavit exhibited a Financial Counselling Form dated 14 April 2016 (“the Form”) that was signed by P in the presence of his father, to acknowledge that he “\[had\] undergone financial counselling … and irrevocably agree\[d\] and under\[took\] to pay in full the final hospital charges”.[^20]
 
 ### Procedural history and subsequent events
 
-13     On 31 May 2016, the District Judge (‘the DJ”) heard the parties on the Joinder Application. The next day, he informed the parties that he would defer his decision on the Joinder Application for four weeks. In the interim, the appellants were to obtain a clarification medical report on P’s capacity, while the respondent was to obtain a separate report on P’s capacity.[\[note: 21\]](#Ftn_21)
+13     On 31 May 2016, the District Judge (‘the DJ”) heard the parties on the Joinder Application. The next day, he informed the parties that he would defer his decision on the Joinder Application for four weeks. In the interim, the appellants were to obtain a clarification medical report on P’s capacity, while the respondent was to obtain a separate report on P’s capacity.[^21]
 
-14     On 7 June 2016, the appellants’ solicitors wrote to the court to request further arguments on the DJ’s direction to the respondent to obtain a medical report on P’s capacity. They submitted that the court had effected a “backdoor joinder” in making this direction. The DJ had no jurisdiction to direct P to be examined by a non-party to the proceedings. Instead, the court should first decide whether the respondent should be joined to the Deputy Application. It was only if the respondent was made a party to the Deputy Application that he could then apply for a further medical examination of P. If the court had doubts regarding P’s capacity, it should “direct the necessary questions to P’s doctor(s) and/or appoint a Court expert to assess P’s mental capacity”.[\[note: 22\]](#Ftn_22)
+14     On 7 June 2016, the appellants’ solicitors wrote to the court to request further arguments on the DJ’s direction to the respondent to obtain a medical report on P’s capacity. They submitted that the court had effected a “backdoor joinder” in making this direction. The DJ had no jurisdiction to direct P to be examined by a non-party to the proceedings. Instead, the court should first decide whether the respondent should be joined to the Deputy Application. It was only if the respondent was made a party to the Deputy Application that he could then apply for a further medical examination of P. If the court had doubts regarding P’s capacity, it should “direct the necessary questions to P’s doctor(s) and/or appoint a Court expert to assess P’s mental capacity”.[^22]
 
-15     From 15 to 23 June 2016, AJAX conducted further surveillance on P on the instructions of the respondent’s insurer,[\[note: 23\]](#Ftn_23) and prepared a further report dated 10 July 2016 (“the 2nd PI Report”). I note the following regarding this report:
+15     From 15 to 23 June 2016, AJAX conducted further surveillance on P on the instructions of the respondent’s insurer,[^23] and prepared a further report dated 10 July 2016 (“the 2nd PI Report”). I note the following regarding this report:
 
-(a)     First, the report contained “video recording printouts” of P in his home.[\[note: 24\]](#Ftn_24)
+(a)     First, the report contained “video recording printouts” of P in his home.[^24]
 
-(b)     Second, the report stated that the investigators had engaged P in a conversation on the pretext of carrying out a “survey” and recorded this conversation. They had gleaned from the conversation that P could recall details regarding his primary school and polytechnic. P had also suggested enhancements to the neighbourhood.[\[note: 25\]](#Ftn_25)
+(b)     Second, the report stated that the investigators had engaged P in a conversation on the pretext of carrying out a “survey” and recorded this conversation. They had gleaned from the conversation that P could recall details regarding his primary school and polytechnic. P had also suggested enhancements to the neighbourhood.[^25]
 
-(c)     Third, according to the report, P had commuted on his own by public transport and ascended and descended stairs without difficulty.[\[note: 26\]](#Ftn_26)
+(c)     Third, according to the report, P had commuted on his own by public transport and ascended and descended stairs without difficulty.[^26]
 
-16     The respondent’s solicitors subsequently applied for the 2nd PI Report to be placed before the court.[\[note: 27\]](#Ftn_27)
+16     The respondent’s solicitors subsequently applied for the 2nd PI Report to be placed before the court.[^27]
 
-17     Dr Chan prepared a clarification medical report on P dated 8 July 2016. In this report, Dr Chan stated the following:[\[note: 28\]](#Ftn_28)
+17     Dr Chan prepared a clarification medical report on P dated 8 July 2016. In this report, Dr Chan stated the following:[^28]
 
 (a)     She had reassessed P on 5 July 2016 in an outpatient clinic and interviewed his parents and sister individually.
 
@@ -80,7 +81,7 @@ Family Law – Procedure
 
 (c)     Dr Chan reiterated her opinion that P lacked capacity in relation to his personal welfare and his property and affairs.
 
-18     On 18 July 2016, the DJ heard further arguments (see \[14\] above) on his earlier directions. He then varied his directions, ordering as follows:[\[note: 29\]](#Ftn_29)
+18     On 18 July 2016, the DJ heard further arguments (see \[14\] above) on his earlier directions. He then varied his directions, ordering as follows:[^29]
 
 (a)     P was to be examined by an independent doctor appointed by the court (rather than by a doctor appointed by the respondent).
 
@@ -90,7 +91,7 @@ Family Law – Procedure
 
 (d)     The appellants would be permitted to file an affidavit in reply to the 2nd PI Report, and furnish the same to the court-appointed doctor.
 
-19     However, the DJ did not accede to the request of the appellants’ counsel (“Ms Sandhu”) to make a decision on the Joinder Application. He explained this in his written grounds of decision as follows:[\[note: 30\]](#Ftn_30)
+19     However, the DJ did not accede to the request of the appellants’ counsel (“Ms Sandhu”) to make a decision on the Joinder Application. He explained this in his written grounds of decision as follows:[^30]
 
 (a)     His initial inclination had been to make a decision on the Joinder Application. However, Ms Sandhu had pointed out that joinder might lead to confidential information regarding P’s assets and family matters being disclosed to the respondent. Further, P might suffer prejudice in the Civil Suit if the respondent was able to access confidential or privileged information in the eLitigation case file for the Deputy Application, upon being joined as a defendant thereto.
 
@@ -98,19 +99,19 @@ Family Law – Procedure
 
 (c)     Having heard the further arguments, the DJ considered that he should still adopt the same broad approach, _ie_, to have P examined by another doctor before he decided on the Joinder Application (albeit this doctor would be appointed by the court, not by the respondent’s insurer).
 
-20     The appellants appealed against the DJ’s decision in Registrar’s Appeal No 32 of 2016 (“RAS 32”). On 24 April 2017, Chua Lee Ming J heard the appeal and affirmed the DJ’s orders that P was to be examined by a court-appointed independent doctor, and that both of the PI Reports were to be made available to the doctor. But Chua J allowed the appeal to the extent that he ruled that the DJ should not have invited the respondent to submit names of doctors to the court, since he had not been joined as a party to the Deputy Application. Chua J also indicated that the DJ should decide the Joinder Application, so that the issue of whether the respondent was entitled to attend the hearings of the Deputy Application could be dealt with.[\[note: 31\]](#Ftn_31)
+20     The appellants appealed against the DJ’s decision in Registrar’s Appeal No 32 of 2016 (“RAS 32”). On 24 April 2017, Chua Lee Ming J heard the appeal and affirmed the DJ’s orders that P was to be examined by a court-appointed independent doctor, and that both of the PI Reports were to be made available to the doctor. But Chua J allowed the appeal to the extent that he ruled that the DJ should not have invited the respondent to submit names of doctors to the court, since he had not been joined as a party to the Deputy Application. Chua J also indicated that the DJ should decide the Joinder Application, so that the issue of whether the respondent was entitled to attend the hearings of the Deputy Application could be dealt with.[^31]
 
-21     On 1 August 2017, after hearing the parties, the DJ granted leave to the respondent to be joined as a party to and heard in the Deputy Application, albeit that he limited the respondent’s right to be heard to the issue of whether P lacked capacity (“the Joinder Decision”). On the same day, the DJ appointed Dr Calvin Fones (“Dr Fones”) to assess P’s capacity.[\[note: 32\]](#Ftn_32)
+21     On 1 August 2017, after hearing the parties, the DJ granted leave to the respondent to be joined as a party to and heard in the Deputy Application, albeit that he limited the respondent’s right to be heard to the issue of whether P lacked capacity (“the Joinder Decision”). On the same day, the DJ appointed Dr Calvin Fones (“Dr Fones”) to assess P’s capacity.[^32]
 
-22     On 14 August 2017, the appellants filed this appeal against the Joinder Decision.[\[note: 33\]](#Ftn_33)
+22     On 14 August 2017, the appellants filed this appeal against the Joinder Decision.[^33]
 
-23     Dr Fones subsequently prepared a report on P dated 17 January 2018. In this report, Dr Fones stated, among other things, the following:[\[note: 34\]](#Ftn_34)
+23     Dr Fones subsequently prepared a report on P dated 17 January 2018. In this report, Dr Fones stated, among other things, the following:[^34]
 
 (a)     P was suffering from “Major Neurocognitive Disorder due to Traumatic Brain Injury”. This condition was now permanent and P’s cognitive disability was likely to remain the same over time.
 
 (b)     P lacked capacity as defined by the MCA with regard to his personal welfare and his property and affairs. In particular, P did not have the capacity to manage sums of money exceeding $100.
 
-24     On 5 March 2018, the DJ granted the Deputy Application, appointing the appellants as P’s deputies (albeit ordering, in line with Dr Fones’ report, that the appellants had no authority to make decisions on P’s behalf in respect of financial transactions involving less than $100).[\[note: 35\]](#Ftn_35) The minutes of the hearing on 5 March 2018 show that the respondent’s counsel contested some orders sought by the appellants, in relation to their authority to decide both where and with whom P should live and the arrangements for P’s care. I return to this below.
+24     On 5 March 2018, the DJ granted the Deputy Application, appointing the appellants as P’s deputies (albeit ordering, in line with Dr Fones’ report, that the appellants had no authority to make decisions on P’s behalf in respect of financial transactions involving less than $100).[^35] The minutes of the hearing on 5 March 2018 show that the respondent’s counsel contested some orders sought by the appellants, in relation to their authority to decide both where and with whom P should live and the arrangements for P’s care. I return to this below.
 
 ## The decision below
 
@@ -134,29 +135,29 @@ Family Law – Procedure
 
 28     The appellants make the following submissions:
 
-(a)     First, the DJ applied the wrong principles in making the Joinder Decision. The principles articulated in _Alsagoff_ and _Abdul Gaffar_, which the DJ relied on (see \[27(b)\]–\[27(d)\] above), do not apply to joinder under r 178(2) of the FJR.[\[note: 36\]](#Ftn_36) The applicable principles are those set out in _Re SK_ \[2012\] EWCOP 1990 (“_Re SK_”) and applying those principles, the respondent should not have been joined to the Deputy Application.[\[note: 37\]](#Ftn_37)
+(a)     First, the DJ applied the wrong principles in making the Joinder Decision. The principles articulated in _Alsagoff_ and _Abdul Gaffar_, which the DJ relied on (see \[27(b)\]–\[27(d)\] above), do not apply to joinder under r 178(2) of the FJR.[^36] The applicable principles are those set out in _Re SK_ \[2012\] EWCOP 1990 (“_Re SK_”) and applying those principles, the respondent should not have been joined to the Deputy Application.[^37]
 
-(b)     Second, _Gurtner_ is distinguishable, and the principles in _Alsagoff_ and _Abdul Gaffar_ do not support the Joinder Decision.[\[note: 38\]](#Ftn_38)
+(b)     Second, _Gurtner_ is distinguishable, and the principles in _Alsagoff_ and _Abdul Gaffar_ do not support the Joinder Decision.[^38]
 
-(c)     Third, the respondent would not suffer prejudice if he was not joined to the Deputy Application and, in any event, the key inquiry is whether joinder was in P’s best interests. Here, the Joinder Decision was not in P’s best interests. It had caused P to suffer real prejudice because, among other things, it had delayed commencement of the Civil Suit.[\[note: 39\]](#Ftn_39)
+(c)     Third, the respondent would not suffer prejudice if he was not joined to the Deputy Application and, in any event, the key inquiry is whether joinder was in P’s best interests. Here, the Joinder Decision was not in P’s best interests. It had caused P to suffer real prejudice because, among other things, it had delayed commencement of the Civil Suit.[^39]
 
 29     The respondent makes the following submissions:
 
-(a)     First, the DJ was entitled to “invite any evidence or join any party he deemed necessary” in arriving at a decision on P’s capacity, because r 22(1) of the FJR requires the court to take a judge-led approach. Further, the court should be apprised of all relevant evidence in a Deputy Application, because it should not lightly find that a person lacks capacity, and the DJ had a broad discretion under r 178(2) of the FJR to order the respondent to be joined as a party to the Deputy Application.[\[note: 40\]](#Ftn_40)
+(a)     First, the DJ was entitled to “invite any evidence or join any party he deemed necessary” in arriving at a decision on P’s capacity, because r 22(1) of the FJR requires the court to take a judge-led approach. Further, the court should be apprised of all relevant evidence in a Deputy Application, because it should not lightly find that a person lacks capacity, and the DJ had a broad discretion under r 178(2) of the FJR to order the respondent to be joined as a party to the Deputy Application.[^40]
 
-(b)     Second, Dr Chan’s 1st Report, the PI Reports and the Form raised serious questions regarding P’s capacity.[\[note: 41\]](#Ftn_41) Thus, the Joinder Application was meritorious because:
+(b)     Second, Dr Chan’s 1st Report, the PI Reports and the Form raised serious questions regarding P’s capacity.[^41] Thus, the Joinder Application was meritorious because:
 
-(i)       the respondent had a “moral duty” to intervene in the Deputy Application in the interest of P;[\[note: 42\]](#Ftn_42)
+(i)       the respondent had a “moral duty” to intervene in the Deputy Application in the interest of P;[^42]
 
-(ii)       he would be financially affected by a finding of mental incapacity in the Deputy Application, and this financial interest should not be a bar to joinder;[\[note: 43\]](#Ftn_43) and
+(ii)       he would be financially affected by a finding of mental incapacity in the Deputy Application, and this financial interest should not be a bar to joinder;[^43] and
 
-(iii)       joinder would not give him two bites of the cherry on the issue of P’s mental incapacity, since he would not be challenging the findings of the court that decided the Deputy Application.[\[note: 44\]](#Ftn_44)
+(iii)       joinder would not give him two bites of the cherry on the issue of P’s mental incapacity, since he would not be challenging the findings of the court that decided the Deputy Application.[^44]
 
-(c)     Third, any complexity and delay in the Deputy Application was due to the appellants’ litigiousness.[\[note: 45\]](#Ftn_45)
+(c)     Third, any complexity and delay in the Deputy Application was due to the appellants’ litigiousness.[^45]
 
 ## The YAC’s submissions and the parties’ further submissions
 
-30     Given the novelty and importance of the issue at hand, I appointed a young _amicus curiae_, Mr Chia Huai Yuan (“Mr Chia”), to address me on the following two questions:[\[note: 46\]](#Ftn_46)
+30     Given the novelty and importance of the issue at hand, I appointed a young _amicus curiae_, Mr Chia Huai Yuan (“Mr Chia”), to address me on the following two questions:[^46]
 
 (a)      Question 1: In an application for deputyship of a person, what considerations should guide the court in determining whether it is desirable to permit the joinder of a non-party who is or is alleged to be liable in tort for causing the person’s loss of capacity?
 
@@ -164,7 +165,7 @@ Family Law – Procedure
 
 31     Mr Chia made the following submissions in response to these questions:
 
-(a)      Question 1: The court has a broad discretion under r 178(2) of the FJR to add a person as a party to a deputy application.[\[note: 47\]](#Ftn_47) However, the court should exercise this power with regard to the following:[\[note: 48\]](#Ftn_48)
+(a)      Question 1: The court has a broad discretion under r 178(2) of the FJR to add a person as a party to a deputy application.[^47] However, the court should exercise this power with regard to the following:[^48]
 
 (i)       First, the court should bear in mind that exercise of the power of joinder may encroach upon the privacy of the person alleged to lack capacity and his family, and enable the applicant for joinder to obtain a collateral advantage (such as access to documents that may be used in later litigation). In this light, the power of joinder should not be an “open door” to persons who may wish to intervene in deputy applications.
 
@@ -176,17 +177,17 @@ Family Law – Procedure
 
 (v)       Fifth, the court should consider whether there may be less intrusive means of achieving the aim of joinder, and possible limitations on the scope of the joined party’s participation and access to documents or information in the proceedings.
 
-(b)      Question 2: As an alternative to joinder, the court may call a non-party as a witness to give and/or adduce evidence pursuant to rr 22(3)(_b_) and 22(3)(g) of the FJR. This could ensure that all relevant material is before the court, while safeguarding the privacy of the person alleged to lack capacity and that of his family.[\[note: 49\]](#Ftn_49)
+(b)      Question 2: As an alternative to joinder, the court may call a non-party as a witness to give and/or adduce evidence pursuant to rr 22(3)(_b_) and 22(3)(g) of the FJR. This could ensure that all relevant material is before the court, while safeguarding the privacy of the person alleged to lack capacity and that of his family.[^49]
 
 32     The parties filed further submissions addressing Mr Chia’s submissions, in which they advance the following points:
 
-(a)     The appellants agree that the court should account for the five considerations highlighted by Mr Chia (see \[31(a)(i)\]–\[31(a)(v)\] above) in deciding whether to join a non-party to a deputy application. They submit that in view of those considerations, the respondent should not have been joined as a party to the Deputy Application.[\[note: 50\]](#Ftn_50)
+(a)     The appellants agree that the court should account for the five considerations highlighted by Mr Chia (see \[31(a)(i)\]–\[31(a)(v)\] above) in deciding whether to join a non-party to a deputy application. They submit that in view of those considerations, the respondent should not have been joined as a party to the Deputy Application.[^50]
 
-(b)     The respondent submits that the court should consider three main factors in deciding whether to join a non-party to a deputy application: the interest of the applicant for joinder, the extent to which the latter may contribute to the proceedings, and the potential prejudice to him or her if the application for joinder is refused. The respondent argues that applying these factors, the DJ did not err in ordering the joinder.[\[note: 51\]](#Ftn_51)
+(b)     The respondent submits that the court should consider three main factors in deciding whether to join a non-party to a deputy application: the interest of the applicant for joinder, the extent to which the latter may contribute to the proceedings, and the potential prejudice to him or her if the application for joinder is refused. The respondent argues that applying these factors, the DJ did not err in ordering the joinder.[^51]
 
 ## The issue
 
-33     The sole issue in this appeal, broadly stated, is whether the DJ erred in making the Joinder Decision. The DJ relied on r 178(2) of the FJR in making the Joinder Decision (see \[27(a)\] above) and on appeal, the respondent has confirmed that this was the legal basis of the Joinder Application.[\[note: 52\]](#Ftn_52) Therefore, the narrow issue for me to determine is whether the Joinder Decision amounted to an erroneous exercise of the DJ’s discretion under r 178(2) of the FJR.
+33     The sole issue in this appeal, broadly stated, is whether the DJ erred in making the Joinder Decision. The DJ relied on r 178(2) of the FJR in making the Joinder Decision (see \[27(a)\] above) and on appeal, the respondent has confirmed that this was the legal basis of the Joinder Application.[^52] Therefore, the narrow issue for me to determine is whether the Joinder Decision amounted to an erroneous exercise of the DJ’s discretion under r 178(2) of the FJR.
 
 ## My decision
 
@@ -288,7 +289,7 @@ It is trite law that an appeal against the exercise of a judge’s discretion wi
 
 58     I begin with the disadvantages of joinder. First, joinder of the (alleged) tortfeasor would inevitably delay the disposition of the deputy application and increase the related costs. I note that the courts in _Re SK_ and _Re Z_ emphasised this factor in dismissing the joinder applications in those cases (see \[47\] and \[51(a)\] above). As a party to the deputy application, the (alleged) tortfeasor would be entitled, at the very least, to introduce evidence and make submissions on X’s capacity. Satellite issues flowing from that issue such as those arising in this case, _eg_, whether X should be examined by a doctor appointed by the (alleged) tortfeasor and/or a court-appointed expert, might also arise. All this would delay the resolution of deputy applications, which would also become more expensive. The delay and expense would only increase if the involvement of the (alleged) tortfeasor was not restricted to the issue of whether X lacked capacity, or if the (alleged) tortfeasor contested such a restriction. In this regard, I note that although the respondent’s right to be heard in the Deputy Application was ostensibly limited to the issue of whether P lacked capacity (see \[21\] above), the DJ also heard him on the terms of the deputyship (see \[24\] above).
 
-59     In my judgment, such delay and expense would generally not be in X’s best interests and would therefore be undesirable. For example, the appellants submitted that the delay in the resolution of the Deputy Application had delayed the commencement of the Civil Suit (the appellants could only commence it on P’s behalf once they had been appointed as his deputies) (see \[28(c)\] above).[\[note: 53\]](#Ftn_53)
+59     In my judgment, such delay and expense would generally not be in X’s best interests and would therefore be undesirable. For example, the appellants submitted that the delay in the resolution of the Deputy Application had delayed the commencement of the Civil Suit (the appellants could only commence it on P’s behalf once they had been appointed as his deputies) (see \[28(c)\] above).[^53]
 
 60     Second, a key concern with allowing the (alleged) tortfeasor to be joined as party to the deputy application is that joinder would probably afford the latter access to private and confidential information about X (and possibly X’s family, if X’s family members were applying to be appointed as X’s deputies). This point was noted in _Re G_ and _Re DNS_ (see \[49\] and \[54(a)\] above). The concern arises because, as Munby P noted in _Re G_, a party to proceedings is generally entitled to all of the documents filed in those proceedings. I note that this point led the DJ to initially defer his decision on the Joinder Application. The DJ was concerned that if the respondent became a party to the Deputy Application, he would be able to access the eLitigation case file for that application and thereby obtain confidential or privileged information (see \[19(a)\] above). In my view, the DJ was correct to recognise that joinder carried this drawback. It is difficult to see why the (alleged) tortfeasor should have access to private and potentially sensitive information about X in connection with a deputy application. It seems that he should only be entitled to access such information, if at all, through the discovery process in a civil suit commenced by X against him.
 
@@ -320,7 +321,7 @@ It is trite law that an appeal against the exercise of a judge’s discretion wi
 
 67     I now consider whether joinder would bring any other advantages apart from allowing relevant evidence to be introduced into a deputy application.
 
-68     The respondent submits that joinder would afford the court the opportunity to hear submissions on X’s capacity by a party independent from the applicants bringing the deputy application, namely, the (alleged) tortfeasor. By contrast, a mere witness would not be entitled to make submissions. The respondent emphasised that submissions might be of considerable assistance to the court where the deputy application was uncontested, or where the evidence indicated that there was fraud or other forms of abuse.[\[note: 54\]](#Ftn_54)
+68     The respondent submits that joinder would afford the court the opportunity to hear submissions on X’s capacity by a party independent from the applicants bringing the deputy application, namely, the (alleged) tortfeasor. By contrast, a mere witness would not be entitled to make submissions. The respondent emphasised that submissions might be of considerable assistance to the court where the deputy application was uncontested, or where the evidence indicated that there was fraud or other forms of abuse.[^54]
 
 69     I accept that the opportunity of hearing submissions from the (alleged) tortfeasor may be an advantage of joinder. Yet in my judgment, leaving aside perhaps cases of fraud or other forms of abuse, it would generally not outweigh the disadvantages noted above. This is because the court’s conclusion on the extent of X’s capacity, and the consequential orders in the deputy application, would, by and large, turn on the medical evidence and, in particular, the doctors’ opinions on the extent of X’s capacity. This point is illustrated by the DJ’s orders in this case, which tracked the views expressed by Dr Fones in his report (see \[23\]–\[24\] above). It is therefore unclear that the court would be greatly assisted in most cases by the submissions of the (alleged) tortfeasor. What is critical is that all relevant and material _evidence_ regarding X’s mental incapacity is put before the court. Once that is achieved, it is not obvious that submissions by the (alleged) tortfeasor would generally add significant value. My views in this regard are consistent with the position taken by the respondent. At the hearing, Mr Wee submitted that the respondent’s participation “was no longer relevant” once the evidence his clients sought to introduce was admitted.
 
@@ -348,9 +349,9 @@ So long as \[a judgment\] is legally enforceable against \[a\] person … the co
 
 74     In short, in _Gurtner_, joinder of the MIB was desirable because the MIB would have been _directly_ affected by the result of the plaintiff’s action, in that it would have been liable to pay the damages awarded to the plaintiff _even if it was not joined to the action_. In those circumstances, natural justice required that the MIB be joined to the action so that it would have an opportunity to be heard.
 
-75     On one view, the factual matrix at hand is similar to that in _Gurtner_. The respondent argues that where a MCA court appoints a deputy to make decisions on a person’s behalf, this would be premised on a finding that the person lacks capacity as to certain matters, and this finding, which concerns the status of the person, would be a judgment _in rem_ that binds the world.[\[note: 55\]](#Ftn_55) If this is correct, then as was the case in _Gurtner_, a non-party (here, the respondent) could be bound by findings made by a court in proceedings that it was not party to.
+75     On one view, the factual matrix at hand is similar to that in _Gurtner_. The respondent argues that where a MCA court appoints a deputy to make decisions on a person’s behalf, this would be premised on a finding that the person lacks capacity as to certain matters, and this finding, which concerns the status of the person, would be a judgment _in rem_ that binds the world.[^55] If this is correct, then as was the case in _Gurtner_, a non-party (here, the respondent) could be bound by findings made by a court in proceedings that it was not party to.
 
-76     However, in my view, _Gurtner_ is distinguishable from the factual matrix under consideration. Even if a MCA court’s finding that a person lacks capacity binds the world, such that the (alleged) tortfeasor may not dispute X’s _status_ as a person who lacks capacity, it would still be open to the (alleged) tortfeasor to dispute, at least, the _extent_ to which X lacks capacity. I have arrived at this view, which the respondent accepts,[\[note: 56\]](#Ftn_56) for the following reasons.
+76     However, in my view, _Gurtner_ is distinguishable from the factual matrix under consideration. Even if a MCA court’s finding that a person lacks capacity binds the world, such that the (alleged) tortfeasor may not dispute X’s _status_ as a person who lacks capacity, it would still be open to the (alleged) tortfeasor to dispute, at least, the _extent_ to which X lacks capacity. I have arrived at this view, which the respondent accepts,[^56] for the following reasons.
 
 77     A person’s capacity is a dynamic attribute. It may improve or deteriorate over time. A deputy application and a related tort action may be commenced at different points in time and, indeed, the former will often precede the latter because the decision to sue will often have to be made by the deputies. It follows from this that findings made by a MCA court in a deputy application as to X’s capacity may be overtaken by changes in X’s condition. By the time the related tort action is brought, the earlier findings may not reflect X’s true condition. In those circumstances, it is difficult to accept that the (alleged) tortfeasor would be precluded from adducing evidence of those changes in the related tort action.
 
@@ -392,117 +393,117 @@ So long as \[a judgment\] is legally enforceable against \[a\] person … the co
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)Medical report dated 17 January 2018 at paras 7 and 8: Record of Appeal (“RA”) in HCF/RAS 13/2017 (“RAS 13”) at p 44.
+[^1]: Medical report dated 17 January 2018 at paras 7 and 8: Record of Appeal (“RA”) in HCF/RAS 13/2017 (“RAS 13”) at p 44.
 
-[\[note: 2\]](#Ftn_2_1)Memo dated 13 May 2015: RA in HCF/RAS 32/2016 (“RAS 32”) at p 236.
+[^2]: Memo dated 13 May 2015: RA in HCF/RAS 32/2016 (“RAS 32”) at p 236.
 
-[\[note: 3\]](#Ftn_3_1)Affidavit of 2nd appellant dated 13 May 2016 at para 6: RA in RAS 32 at p 165.
+[^3]: Affidavit of 2nd appellant dated 13 May 2016 at para 6: RA in RAS 32 at p 165.
 
-[\[note: 4\]](#Ftn_4_1)Medical report dated 17 January 2018 at para 9: RA in RAS 13 at p 44.
+[^4]: Medical report dated 17 January 2018 at para 9: RA in RAS 13 at p 44.
 
-[\[note: 5\]](#Ftn_5_1)Medical report dated 2 December 2015: RA in RAS 32 at p 100.
+[^5]: Medical report dated 2 December 2015: RA in RAS 32 at p 100.
 
-[\[note: 6\]](#Ftn_6_1)FC/OSM 46/2016 (“OS”) at prayer 4a: RA in RAS 32 at p 92.
+[^6]: FC/OSM 46/2016 (“OS”) at prayer 4a: RA in RAS 32 at p 92.
 
-[\[note: 7\]](#Ftn_7_1)Medical report dated 2 December 2015: RA in RAS 32 at p 103.
+[^7]: Medical report dated 2 December 2015: RA in RAS 32 at p 103.
 
-[\[note: 8\]](#Ftn_8_1)Medical report dated 2 December 2015: RA in RAS 32 at p 100.
+[^8]: Medical report dated 2 December 2015: RA in RAS 32 at p 100.
 
-[\[note: 9\]](#Ftn_9_1)Medical report dated 2 December 2015: RA in RAS 32 at pp 101–103.
+[^9]: Medical report dated 2 December 2015: RA in RAS 32 at pp 101–103.
 
-[\[note: 10\]](#Ftn_10_1)Letter dated 18 March 2016: RA in RAS 32 at pp 171–172.
+[^10]: Letter dated 18 March 2016: RA in RAS 32 at pp 171–172.
 
-[\[note: 11\]](#Ftn_11_1)Respondent’s skeletal submissions for FC/SUM 1340/2016 at para 4: RA in RAS 32 at p 180.
+[^11]: Respondent’s skeletal submissions for FC/SUM 1340/2016 at para 4: RA in RAS 32 at p 180.
 
-[\[note: 12\]](#Ftn_12_1)Letter dated 22 March 2016: RA in RAS 32 at p 173.
+[^12]: Letter dated 22 March 2016: RA in RAS 32 at p 173.
 
-[\[note: 13\]](#Ftn_13_1)Letter dated 25 March 2016: RA in RAS 32 at pp 174–175.
+[^13]: Letter dated 25 March 2016: RA in RAS 32 at pp 174–175.
 
-[\[note: 14\]](#Ftn_14_1)FC/SUM 1340/2016 in OS: RA in RAS 32 at pp 108–109.
+[^14]: FC/SUM 1340/2016 in OS: RA in RAS 32 at pp 108–109.
 
-[\[note: 15\]](#Ftn_15_1)Affidavit of Nicholas Yong Yoong Han dated 25 April 2016 at paras 11–14: RA in RAS 32 at pp 113–115.
+[^15]: Affidavit of Nicholas Yong Yoong Han dated 25 April 2016 at paras 11–14: RA in RAS 32 at pp 113–115.
 
-[\[note: 16\]](#Ftn_16_1)1st PI Report at paras 7–11: RA in RAS 32 at pp 123–125.
+[^16]: 1st PI Report at paras 7–11: RA in RAS 32 at pp 123–125.
 
-[\[note: 17\]](#Ftn_17_1)1st PI Report at paras 1 and 3: RA in RAS 32 at p 122.
+[^17]: 1st PI Report at paras 1 and 3: RA in RAS 32 at p 122.
 
-[\[note: 18\]](#Ftn_18_1)1st PI Report at paras 14–16: RA in RAS 32 at p 126.
+[^18]: 1st PI Report at paras 14–16: RA in RAS 32 at p 126.
 
-[\[note: 19\]](#Ftn_19_1)Affidavit of 2nd appellant dated 13 May 2016 at paras 12, 14–15 and 20: RA in RAS 32 at pp 166–167.
+[^19]: Affidavit of 2nd appellant dated 13 May 2016 at paras 12, 14–15 and 20: RA in RAS 32 at pp 166–167.
 
-[\[note: 20\]](#Ftn_20_1)Affidavit of 2nd appellant dated 13 May 2016 at NABML-1: RA in RAS 32 at pp 177–178.
+[^20]: Affidavit of 2nd appellant dated 13 May 2016 at NABML-1: RA in RAS 32 at pp 177–178.
 
-[\[note: 21\]](#Ftn_21_1)Notes of Evidence dated 1 June 2016: RA in RAS 32 at p 21.
+[^21]: Notes of Evidence dated 1 June 2016: RA in RAS 32 at p 21.
 
-[\[note: 22\]](#Ftn_22_1)Letter dated 7 June 2016 at paras 3, 5 and 7–8: RA in RAS 32 at pp 197–198.
+[^22]: Letter dated 7 June 2016 at paras 3, 5 and 7–8: RA in RAS 32 at pp 197–198.
 
-[\[note: 23\]](#Ftn_23_1)Affidavit of Nicholas Yong Yoong Han dated 15 July 2016 at para 6: RA in RAS 32 at p 204.
+[^23]: Affidavit of Nicholas Yong Yoong Han dated 15 July 2016 at para 6: RA in RAS 32 at p 204.
 
-[\[note: 24\]](#Ftn_24_1)2nd PI Report at Appendix B: RA in RAS 32 at pp 231–232.
+[^24]: 2nd PI Report at Appendix B: RA in RAS 32 at pp 231–232.
 
-[\[note: 25\]](#Ftn_25_1)2nd PI Report at para 16: RA in RAS 32 at p 214.
+[^25]: 2nd PI Report at para 16: RA in RAS 32 at p 214.
 
-[\[note: 26\]](#Ftn_26_1)2nd PI Report at para 15: RA in RAS 32 at p 214.
+[^26]: 2nd PI Report at para 15: RA in RAS 32 at p 214.
 
-[\[note: 27\]](#Ftn_27_1)Affidavit of Nicholas Yong Yoong Han dated 15 July 2016 at para 3: RA in RAS 32 at p 203.
+[^27]: Affidavit of Nicholas Yong Yoong Han dated 15 July 2016 at para 3: RA in RAS 32 at p 203.
 
-[\[note: 28\]](#Ftn_28_1)Medical report dated 8 July 2016: RA in RAS 32 at pp 200–201.
+[^28]: Medical report dated 8 July 2016: RA in RAS 32 at pp 200–201.
 
-[\[note: 29\]](#Ftn_29_1)GD dated 28 December 2016 at paras 56 and 66: RA in RAS 32 at pp 85 and 89.
+[^29]: GD dated 28 December 2016 at paras 56 and 66: RA in RAS 32 at pp 85 and 89.
 
-[\[note: 30\]](#Ftn_30_1)GD dated 28 December 2016 at paras 40–42, 46–48 and 55–56: RA in RAS 32 at pp 81–85.
+[^30]: GD dated 28 December 2016 at paras 40–42, 46–48 and 55–56: RA in RAS 32 at pp 81–85.
 
-[\[note: 31\]](#Ftn_31_1)Notes of Argument in RAS 32 dated 24 April 2017 at p 4.
+[^31]: Notes of Argument in RAS 32 dated 24 April 2017 at p 4.
 
-[\[note: 32\]](#Ftn_32_1)Certified Transcript dated 1 August 2017 in OS at pp 25 and 37.
+[^32]: Certified Transcript dated 1 August 2017 in OS at pp 25 and 37.
 
-[\[note: 33\]](#Ftn_33_1)Notice of Appeal: RA in RAS 13 at pp 1–3.
+[^33]: Notice of Appeal: RA in RAS 13 at pp 1–3.
 
-[\[note: 34\]](#Ftn_34_1)Medical report dated 17 January 2018 at paras 35, 37, 39, 41 and 45: RA in RAS 13 at pp 50–52.
+[^34]: Medical report dated 17 January 2018 at paras 35, 37, 39, 41 and 45: RA in RAS 13 at pp 50–52.
 
-[\[note: 35\]](#Ftn_35_1)Order of Court dated 8 March 2018 in OS at Orders 3a and 6h.
+[^35]: Order of Court dated 8 March 2018 in OS at Orders 3a and 6h.
 
-[\[note: 36\]](#Ftn_36_1)Appellants’ Case at paras 39–41.
+[^36]: Appellants’ Case at paras 39–41.
 
-[\[note: 37\]](#Ftn_37_1)Appellants’ Case at para 57.
+[^37]: Appellants’ Case at para 57.
 
-[\[note: 38\]](#Ftn_38_1)Appellants’ Case at paras 37 and 42–45.
+[^38]: Appellants’ Case at paras 37 and 42–45.
 
-[\[note: 39\]](#Ftn_39_1)Appellants’ Case at paras 58–63.
+[^39]: Appellants’ Case at paras 58–63.
 
-[\[note: 40\]](#Ftn_40_1)Respondent’s Case at paras 29, 32 and 45–46.
+[^40]: Respondent’s Case at paras 29, 32 and 45–46.
 
-[\[note: 41\]](#Ftn_41_1)Respondent’s Case at paras 34–41.
+[^41]: Respondent’s Case at paras 34–41.
 
-[\[note: 42\]](#Ftn_42_1)Respondent’s Case at paras 50–54 and 82.
+[^42]: Respondent’s Case at paras 50–54 and 82.
 
-[\[note: 43\]](#Ftn_43_1)Respondent’s Case at paras 55–62.
+[^43]: Respondent’s Case at paras 55–62.
 
-[\[note: 44\]](#Ftn_44_1)Respondent’s Case at paras 68.
+[^44]: Respondent’s Case at paras 68.
 
-[\[note: 45\]](#Ftn_45_1)Respondent’s Case at paras 76–79.
+[^45]: Respondent’s Case at paras 76–79.
 
-[\[note: 46\]](#Ftn_46_1)Letter from the Family Justice Courts dated 23 July 2018.
+[^46]: Letter from the Family Justice Courts dated 23 July 2018.
 
-[\[note: 47\]](#Ftn_47_1)YAC’s brief at para 7.
+[^47]: YAC’s brief at para 7.
 
-[\[note: 48\]](#Ftn_48_1)YAC’s brief at paras 9–16.
+[^48]: YAC’s brief at paras 9–16.
 
-[\[note: 49\]](#Ftn_49_1)YAC’s brief at paras 18–24.
+[^49]: YAC’s brief at paras 18–24.
 
-[\[note: 50\]](#Ftn_50_1)Appellants’ further submissions dated 28 September 2018.
+[^50]: Appellants’ further submissions dated 28 September 2018.
 
-[\[note: 51\]](#Ftn_51_1)Respondent’s further submissions dated 28 September 2018.
+[^51]: Respondent’s further submissions dated 28 September 2018.
 
-[\[note: 52\]](#Ftn_52_1)Respondent’s Case at paras 42–48.
+[^52]: Respondent’s Case at paras 42–48.
 
-[\[note: 53\]](#Ftn_53_1)Appellants’ Case at para 63(a).
+[^53]: Appellants’ Case at para 63(a).
 
-[\[note: 54\]](#Ftn_54_1)Respondent’s further submissions dated 28 September 2018 at para 22.
+[^54]: Respondent’s further submissions dated 28 September 2018 at para 22.
 
-[\[note: 55\]](#Ftn_55_1)Respondent’s further submissions dated 28 September 2018 at para 11.
+[^55]: Respondent’s further submissions dated 28 September 2018 at para 11.
 
-[\[note: 56\]](#Ftn_56_1)Respondent’s further submissions dated 28 September 2018 at para 13.
+[^56]: Respondent’s further submissions dated 28 September 2018 at para 13.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F22673-SSP.xml)

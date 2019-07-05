@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # P & P Engineering & Construction Pte Ltd _v_ Kori Construction (S) Pte Ltd  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Suit No 1255 of 2016</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">31 December 2018</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Tan Lee Meng SJ</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Andrew J Hanam (Andrew LLC) for the plaintiff; Twang Kern Zern and Simone B Chettiar (Central Chambers Law Corporation) for the defendant.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">P &amp; P Engineering &amp; Construction Pte Ltd — Kori Construction (S) Pte Ltd</td></tr></tbody></table>
@@ -94,7 +95,7 @@ The workers supplied by the Plaintiff to the Defendant comprised the Plaintiff�
 
 29     PPE was also ordered to pay Kori $3,200 as costs incidental to the application for disclosure of documents.
 
-30     PPE contended that whatever may have happened in the past, Kori “admitted” liability on the manpower claim on the second day of the trial on 19 October 2017 and that the latter should thus be liable for the costs of this head of claim. However, Kori rightly pointed out that there was no admission of liability on its part and what was recorded by the court on that day was a “settlement” of the claim for manpower costs. This is confirmed by the record of the proceedings on the second day of the trial,[\[note: 1\]](#Ftn_1) which is as follows:
+30     PPE contended that whatever may have happened in the past, Kori “admitted” liability on the manpower claim on the second day of the trial on 19 October 2017 and that the latter should thus be liable for the costs of this head of claim. However, Kori rightly pointed out that there was no admission of liability on its part and what was recorded by the court on that day was a “settlement” of the claim for manpower costs. This is confirmed by the record of the proceedings on the second day of the trial,[^1] which is as follows:
 
 <table align="left" cellpadding="0" cellspacing="0" class="Judg-2" frame="none" pgwide="1"><colgroup><col width="29.46%"> <col width="70.54%"> </colgroup><tbody><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Kori’s counsel:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">… Before we resume cross-examination, we would just wish to record the agreement between the parties on certain aspects of the claim. Firstly, with regard to the manpower claim, it has been agreed between the parties that the defendant … agrees to pay a sum of $236,731.48 to the plaintiffs in respect of that claim and this takes into account the claim and payments previously made. There’s also the issue of the counterclaim for the debit note. And for that, the ... plaintiff has confirmed that they are conceding the sum of $543.73.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">PPE’s counsel:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Your Honour, I confirm that <em>settlement</em> on the manpower claim and the <em>settlement</em> on the counterclaim in respect of the administrative fees.</p></td></tr><tr><td align="left" class="" colspan="2" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">[emphasis added]</p></td></tr></tbody></table>
 
@@ -117,7 +118,7 @@ The workers supplied by the Plaintiff to the Defendant comprised the Plaintiff�
 
 36     PPE adduced no evidence of any request or instruction by Kori to fabricate steel materials after 3 April 2016. Neither did it adduce any evidence of any acknowledgement by Kori that it had carried out any steel fabrication work or delivered steel fabricated materials to the worksite after March 2016. Surely, some of the supervisors and workers who undertook the steel fabrication work could and should have been called as witnesses to testify that they were on site to carry out steel fabrication work for Kori between April and September 2016.
 
-37     PPE’s director, Mr Krishnamoorthy Pugazendhi (“Mr Pugaz”), testified that he had time cards to show that his workers were at Kori’s yard to carry out welding work during the relevant period. Why these documents were not included as evidence to support PPE’s claim for fabrication work done after March 2016 cannot be readily understood. When cross-examined,[\[note: 2\]](#Ftn_2) Mr Pugaz stated as follows:
+37     PPE’s director, Mr Krishnamoorthy Pugazendhi (“Mr Pugaz”), testified that he had time cards to show that his workers were at Kori’s yard to carry out welding work during the relevant period. Why these documents were not included as evidence to support PPE’s claim for fabrication work done after March 2016 cannot be readily understood. When cross-examined,[^2] Mr Pugaz stated as follows:
 
 Q:So, do you have any record of the workers that you used for the fabrication works?
 
@@ -161,7 +162,7 @@ A:I did not put the time cards into this affidavit.
 
 The fabrication work required cutting and welding of steel structures and oxygen and acetylene cylinders are necessary materials that are needed for the jobs. The Plaintiff ordered lifting gear, welding equipment, oxygen, acetylene from WKS Industrial Gas Ltd and I exhibit the delivery orders, invoices and statement of accounts for the period December 2015 to June 2016 … which shows that these supplies were delivered to the Plaintiff at an area next to Marina Bay MRT station, which was one of the Defendant’s job sites.
 
-41     Although Mr Pugaz stated in para 9 of his affidavit that PPE ordered lifting gear from WKS Industrial Gas Pte Ltd (“WKS”), he appeared bewildered when he was cross-examined and admitted that he did not order any such equipment from WKS. The relevant part of the proceedings[\[note: 3\]](#Ftn_3) is as follows:
+41     Although Mr Pugaz stated in para 9 of his affidavit that PPE ordered lifting gear from WKS Industrial Gas Pte Ltd (“WKS”), he appeared bewildered when he was cross-examined and admitted that he did not order any such equipment from WKS. The relevant part of the proceedings[^3] is as follows:
 
 Q:… Here, this is your affidavit, you said:
 
@@ -205,7 +206,7 @@ With regard to the Plaintiffs’ reliance on delivery orders for oxygen and cutt
 
 46     Undoubtedly, Kori’s thundering silence and inaction for such a long time after receiving from PPE a large number of delivery orders must be taken into account, and especially so since the former’s explanation for its silence and inaction after receiving the numerous delivery orders as early as May and July 2016 only served to undermine the credibility of its defence.
 
-47     In relation to the first set of delivery orders, which were handed over by PPE to Kori on 7 May 2016, Mr Hooi claimed that Kori had not taken any action to disclaim liability for payment of the fabricated steel materials referred to therein because one of its unnamed employees failed to notice that these documents were placed below another document called “Material Checklist”. As such, the whole set of documents, including the delivery orders, was allegedly filed away in a file on technical matters without anyone realising that the delivery orders in question were also filed in that file. However, Mr Hooi could not name the employee who failed to separate the delivery orders from the top technical document and Kori did not call the employee who made the alleged filing mistake as a witness. As such, PPE’s counsel, Mr Andrew Hanam (“Mr Hanam”), took Mr Hooi to task for giving hearsay evidence. In any case, even if the delivery orders were placed below a document that showed that it was a “Material Checklist”, someone in the office must have had the task of looking at the contents of the checklist and if he or she had gone through the stack of documents, it would be evident that the stack contained delivery orders. Interestingly, although the delivery orders had been allegedly filed in the wrong file by some employee who did not check the stack of documents, Mr Hooi refused to acknowledge that there had been a mix-up of documents at his office. The relevant part of the cross-examination is as follows.[\[note: 4\]](#Ftn_4)
+47     In relation to the first set of delivery orders, which were handed over by PPE to Kori on 7 May 2016, Mr Hooi claimed that Kori had not taken any action to disclaim liability for payment of the fabricated steel materials referred to therein because one of its unnamed employees failed to notice that these documents were placed below another document called “Material Checklist”. As such, the whole set of documents, including the delivery orders, was allegedly filed away in a file on technical matters without anyone realising that the delivery orders in question were also filed in that file. However, Mr Hooi could not name the employee who failed to separate the delivery orders from the top technical document and Kori did not call the employee who made the alleged filing mistake as a witness. As such, PPE’s counsel, Mr Andrew Hanam (“Mr Hanam”), took Mr Hooi to task for giving hearsay evidence. In any case, even if the delivery orders were placed below a document that showed that it was a “Material Checklist”, someone in the office must have had the task of looking at the contents of the checklist and if he or she had gone through the stack of documents, it would be evident that the stack contained delivery orders. Interestingly, although the delivery orders had been allegedly filed in the wrong file by some employee who did not check the stack of documents, Mr Hooi refused to acknowledge that there had been a mix-up of documents at his office. The relevant part of the cross-examination is as follows.[^4]
 
 Q:So you are saying some mess up in your office resulted in you not seeing the document?
 
@@ -233,7 +234,7 @@ A:Most of the documents who come to me from Joanne, but Joanne has her tasks. �
 
 \[emphasis added\]
 
-48     The next set of PPE’s delivery orders dated 4 July 2016 were submitted to Kori on 12 July 2016, some three months after the latter had allegedly terminated the Fabrication Contract on 3 April 2016. When cross-examined on why Kori did not return the documents to PPE immediately and make it clear to the latter that the contract had already been terminated and that the goods covered by these delivery orders had not been not been received, Mr Hooi was rather combative but did not advance Kori’s position in any way. He claimed to have called for a meeting with Mr Pugaz on 27 July 2016 to tell the latter to take back the delivery orders. The relevant part of the proceedings[\[note: 5\]](#Ftn_5) is as follows:
+48     The next set of PPE’s delivery orders dated 4 July 2016 were submitted to Kori on 12 July 2016, some three months after the latter had allegedly terminated the Fabrication Contract on 3 April 2016. When cross-examined on why Kori did not return the documents to PPE immediately and make it clear to the latter that the contract had already been terminated and that the goods covered by these delivery orders had not been not been received, Mr Hooi was rather combative but did not advance Kori’s position in any way. He claimed to have called for a meeting with Mr Pugaz on 27 July 2016 to tell the latter to take back the delivery orders. The relevant part of the proceedings[^5] is as follows:
 
 Q:… Now, here we are on July 2016, it’s about 3 months after you terminated the contract apparently. Why didn’t you call up, Mr Pugaz? Why didn’t you tell him, “Hey, why are sending me these delivery orders for? I’ve terminated your contract?”
 
@@ -257,7 +258,7 @@ A:We asked him to come to our office.
 
 49     Although Mr Hooi claimed to have called a meeting on 27 July 2016 to discuss, among other things, the delivery orders submitted by PPE to Kori, there was no reference to this in his AEIC. Instead, what was stated therein was that the meeting concerned the sale by Kori to PPE of scrap steel, which is the subject matter of Kori’s counterclaim.
 
-50     Mr Pugaz testified that he only dealt with the scrap metal issue at this meeting. His testimony in relation to the said meeting on 27 July 2016 is as follows:[\[note: 6\]](#Ftn_6)
+50     Mr Pugaz testified that he only dealt with the scrap metal issue at this meeting. His testimony in relation to the said meeting on 27 July 2016 is as follows:[^6]
 
 Q:And I am told by Mr Hooi that when he met you on 27th July 2016, he had actually asked you why you had sent the delivery orders. Do you agree with that?
 
@@ -269,7 +270,7 @@ Q:Okay. So you … in response to my question about whether Mr Hooi asked you wh
 
 A:He did not ask that question.
 
-51     I prefer the evidence of Mr Pugaz. PPE’s counsel, Mr Hanam, cross-examined Mr Hooi on this new revelation on the additional purpose for the 27 July 2016 meeting. The relevant part of the cross-examination is as follows:[\[note: 7\]](#Ftn_7)
+51     I prefer the evidence of Mr Pugaz. PPE’s counsel, Mr Hanam, cross-examined Mr Hooi on this new revelation on the additional purpose for the 27 July 2016 meeting. The relevant part of the cross-examination is as follows:[^7]
 
 Q:… \[T\]he stories just don’t add up. Now let’s go to this meeting that you are talking about. You are saying that he came to your office and you told him to take it back?
 
@@ -297,17 +298,17 @@ A: _My lawyer did not put it in._
 
 52     Had Mr Hooi called a meeting on 27 July 2016 to ask PPE to take back the delivery orders, this would have surely been mentioned in his AEIC. This is a very material point and had he informed his lawyers about the dual purpose of the meeting on that day, his lawyers would not, as he alleged, have advised that this be left out in his AEIC.
 
-53     It also appears from Mr Hooi’s testimony that he did not ask Mr Pugaz to take back the May 2016 and July 2016 delivery orders on 27 July 2016. When cross-examined, he stated as follows:[\[note: 8\]](#Ftn_8)
+53     It also appears from Mr Hooi’s testimony that he did not ask Mr Pugaz to take back the May 2016 and July 2016 delivery orders on 27 July 2016. When cross-examined, he stated as follows:[^8]
 
 I didn’t ask \[Mr Pugaz\] to take it back. Can I clarify with the counsel? The first stage of the meeting works like what was stated \[in the AEIC\]. The second part where I _was about to say, “Why are you sending me this July then?”_ Straightaway Mr Pugaz said, “I want to prepare to take the material.” And he leave the meeting.
 
-54     As for what Mr Hooi claimed to have said to Mr Pugaz on 27 July 2016 about the delivery orders for goods that were allegedly not received, he testified as follows:[\[note: 9\]](#Ftn_9)
+54     As for what Mr Hooi claimed to have said to Mr Pugaz on 27 July 2016 about the delivery orders for goods that were allegedly not received, he testified as follows:[^9]
 
 As I mentioned to the counsel, the first part was on the material sales … The second part when I start to ask him, “What is all this coming on?” I bear in mind, counsel, is that the fact is that we have been working so many years together. In a relationship, we still treat … each other as partners. We don’t come to a situation where I bring up these issues very coarse. So I bring it up to say that “There is this purchase orders which you have in mind. Why are all this coming in?” Straightaway he start to talk about other things and then he say he wants to prepare for material certification. And we did note he say it like that and he moved out from the meeting room, said he needs to get ready to take the materials tomorrow. It is --- he moved out from the meeting room when I highlight all these document issues. I did say that, but he moved out.
 
 55     If Mr Hooi had indeed called the meeting on 27 July 2016 to discuss the May 2016 and July 2016 delivery orders for goods which he claimed were never delivered to Kori, a question arises as to why he did not stop Mr Pugaz from leaving as the delivery orders involved a grave matter that should have been sorted out urgently. I believe Mr Pugaz’s evidence that there was no conversation between the parties about the delivery orders on 27 July 2016.
 
-56     After the meeting of 27 July 2016, PPE delivered to Kori yet another set of delivery orders for steel fabrication work on 7 October 2016. Again, Kori did not ask PPE to take back these delivery orders or make any reference in any contemporaneous correspondence to the alleged termination of the Fabrication Contract. All that Mr Hooi could say to justify Kori’s inaction in relation to these delivery orders in October 2016 was that he was “accumulating all the documentation to see how far this is going”. His testimony is as follows:[\[note: 10\]](#Ftn_10)
+56     After the meeting of 27 July 2016, PPE delivered to Kori yet another set of delivery orders for steel fabrication work on 7 October 2016. Again, Kori did not ask PPE to take back these delivery orders or make any reference in any contemporaneous correspondence to the alleged termination of the Fabrication Contract. All that Mr Hooi could say to justify Kori’s inaction in relation to these delivery orders in October 2016 was that he was “accumulating all the documentation to see how far this is going”. His testimony is as follows:[^10]
 
 Q:… This time you get one shot, 26 delivery orders, all dated 4th September received 7th October 2016. Now these are a lot of delivery orders, 26th. By now you are quite familiar with what this means. It means he wants payments, he wants you to certify and yet according to you, no work was done. Why did you not in October 2016 write to him and tell him, “I thought I made myself clear to you. You didn’t do any work. I’m not paying you.” Why didn’t you do that in October 2016?
 
@@ -331,7 +332,7 @@ A: _Yes, it is._
 
 58     It is also quite unbelievable that if the delivery orders submitted by PPE to Kori in May and July 2016 were indeed fraudulent, the latter would continue to deal with Mr Pugaz as if things were normal.
 
-59     Strangely, Mr Hooi testified that in July 2016, he still regarded Mr Pugaz as a “partner”[\[note: 11\]](#Ftn_11) and that he believed that Mr Pugaz was not a person who wanted to “cheat” his company. The relevant part of his testimony is as follows:[\[note: 12\]](#Ftn_12)
+59     Strangely, Mr Hooi testified that in July 2016, he still regarded Mr Pugaz as a “partner”[^11] and that he believed that Mr Pugaz was not a person who wanted to “cheat” his company. The relevant part of his testimony is as follows:[^12]
 
 Q:Don’t you agree that this man is out to cheat you if no work was actually done and he was then issuing delivery orders for you to certify?
 
@@ -343,7 +344,7 @@ A: _At July, no_. When the next one came, I did.
 
 \[emphasis added\]
 
-60     Despite the allegedly blatant attempt by PPE to charge Kori large amounts of money for goods that were not delivered to the latter, Mr Hooi went so far as to testify that Kori still trusted Mr Pugaz in September 2016, as the latter was allowed in that month to take delivery of excess fabricated steel materials from his company. Mr Hooi testified that if he did not trust Mr Pugaz, “would we have allowed him to collect \[the\] material?”[\[note: 13\]](#Ftn_13) Subsequently, when cross-examined on why Kori did not ask PPE to confirm the price of the excess steel materials that the latter agreed to buy from it on 27 July 2016, Mr Hooi returned to the theme of a partnership with PPE despite the latter’s presentation of allegedly bogus delivery orders. He testified as follows:[\[note: 14\]](#Ftn_14)
+60     Despite the allegedly blatant attempt by PPE to charge Kori large amounts of money for goods that were not delivered to the latter, Mr Hooi went so far as to testify that Kori still trusted Mr Pugaz in September 2016, as the latter was allowed in that month to take delivery of excess fabricated steel materials from his company. Mr Hooi testified that if he did not trust Mr Pugaz, “would we have allowed him to collect \[the\] material?”[^13] Subsequently, when cross-examined on why Kori did not ask PPE to confirm the price of the excess steel materials that the latter agreed to buy from it on 27 July 2016, Mr Hooi returned to the theme of a partnership with PPE despite the latter’s presentation of allegedly bogus delivery orders. He testified as follows:[^14]
 
 Q:… I would have thought that someone like you would have thought that since the price is $1,200 per metric ton; that you would have wanted to make sure that it is either acknowledged by him or that you have proved that \[the quotation\] was delivered to him.
 
@@ -361,7 +362,7 @@ A: _We don’t ask partners to do such thing, partners has \[sic\] a trust in it
 
 64     Mr Hooi testified that the termination letter was posted to PPE, which claimed that it did not receive the said letter. PPE pointed out that although Kori had been put on notice in its pleadings that it did not receive the letter of termination, the latter took no steps to call the employee who allegedly sent out the termination letter to testify that the said letter had indeed been posted.
 
-65     Further, PPE questioned why the termination notice was not sent to it by email in the same way other documents were usually sent to it. In his AEIC, Mr Pugaz stated at para 8 that Kori “usually sends by email notification to me” and “\[i\]t is curious that this notice was not send \[_sic_\] by email”. When cross-examined on this matter, Mr Hooi could give no convincing answer. The relevant part of the proceedings is as follows:[\[note: 15\]](#Ftn_15)
+65     Further, PPE questioned why the termination notice was not sent to it by email in the same way other documents were usually sent to it. In his AEIC, Mr Pugaz stated at para 8 that Kori “usually sends by email notification to me” and “\[i\]t is curious that this notice was not send \[_sic_\] by email”. When cross-examined on this matter, Mr Hooi could give no convincing answer. The relevant part of the proceedings is as follows:[^15]
 
 Q:Why was \[the termination notice\] not sent by email as well?
 
@@ -375,7 +376,7 @@ A:…. We do not email documents such importance like this _because we do not wa
 
 66     Mr Hooi’s testimony that the letter of termination was not emailed to PPE because Kori did not want its staff to see the contents of the said notice made no sense whatsoever. He did not claim to have typed the letter himself and as such, the employee or employees involved in the preparation and posting of the alleged letter of termination would have known about its contents regardless of whether it was sent by post or email.
 
-67     As Mr Hooi testified that Kori preferred to send important documents, such as a letter of termination, by post, he was asked why the termination letter was not sent by registered post. Again, he had no answer. The relevant part of the proceedings is as follows:[\[note: 16\]](#Ftn_16)
+67     As Mr Hooi testified that Kori preferred to send important documents, such as a letter of termination, by post, he was asked why the termination letter was not sent by registered post. Again, he had no answer. The relevant part of the proceedings is as follows:[^16]
 
 Q:But this is such an important document, you said. It’s a termination letter. Why didn’t you send it by registered post?
 
@@ -409,7 +410,7 @@ Thank you.
 
 \[emphasis added\]
 
-71     Undoubtedly, if the Fabrication Contract had been terminated on 3 April 2016, this would have been stated in Kori’s letter of 18 November 2016. When questioned as to why there was no reference to the termination of the Fabrication Contract in the said letter, Mr Hooi avoided the question by saying that it was unnecessary for such a reference to be made. The relevant part of the proceedings is as follows:[\[note: 17\]](#Ftn_17)
+71     Undoubtedly, if the Fabrication Contract had been terminated on 3 April 2016, this would have been stated in Kori’s letter of 18 November 2016. When questioned as to why there was no reference to the termination of the Fabrication Contract in the said letter, Mr Hooi avoided the question by saying that it was unnecessary for such a reference to be made. The relevant part of the proceedings is as follows:[^17]
 
 Q:Now very interesting. Can you tell me why in this letter, it does not state that the contract had been terminated on the 31st March 2016?
 
@@ -461,7 +462,7 @@ The Defendant issued their interim payment certification with _unilaterally impo
 
 \[emphasis added\]
 
-82     Although PPE contended that Kori failed to certify the first category of delivery orders correctly and had unilaterally imposed reductions without justification, the fact remains that Mr Pugaz testified that he had agreed to the said reductions. When re-examined by his counsel, Mr Hanam, Mr Pugaz testified[\[note: 18\]](#Ftn_18) as follows:
+82     Although PPE contended that Kori failed to certify the first category of delivery orders correctly and had unilaterally imposed reductions without justification, the fact remains that Mr Pugaz testified that he had agreed to the said reductions. When re-examined by his counsel, Mr Hanam, Mr Pugaz testified[^18] as follows:
 
 Joanne called ... my handphone. She asked me to … meet the boss. Mr Hooi, the boss … they say that … I do not have the licence to do fabrication. And under Kori’s regulation, they deducted $50. So I agreed to what they said. I believe what they said and I agreed with this amount.
 
@@ -511,7 +512,7 @@ When the Defendant was unable to pay the Plaintiff, the Defendant then proposed 
 
 96     Regardless of whether or not Kori’s quotation was sent to PPE or received by the letter, it is for Kori to prove its case that the agreed price for the excess fabricated steel materials was indeed $1,200 per metric tonne and it clearly failed to do so. Kori could have asked PPE to confirm its acceptance of the offer to sell the goods at $1,200 per metric tonne by signing the quotation and returning it but it did not do so.
 
-97     Kori submitted that it is not possible that it had agreed to sell the excess metal to PPE for only $245 because it had offered the same type of excess metal to other buyers for $1,200 per metric tonne. However, Kori could only point to one other company, namely Fuchiang Construction Pte Ltd (“Fuchiang”), which, according to it, had purchased its excess fabricated steel materials at $1,200 per metric tonne. A copy of Kori’s delivery order and tax invoice with respect to this sale to Fuchiang, a company in which Kori’s holding company was formerly a shareholder, was furnished to the court. However, no one from Fuchiang was called by Kori to prove the documents. When cross-examined on why no one from Fuchiang was called to testify and prove Kori’s claim that excess fabricated steel materials were sold to that company at $1,200 per metric tonne, Kori’s Mr Hooi’s testimony was not helpful as he merely stated as follows:[\[note: 19\]](#Ftn_19)
+97     Kori submitted that it is not possible that it had agreed to sell the excess metal to PPE for only $245 because it had offered the same type of excess metal to other buyers for $1,200 per metric tonne. However, Kori could only point to one other company, namely Fuchiang Construction Pte Ltd (“Fuchiang”), which, according to it, had purchased its excess fabricated steel materials at $1,200 per metric tonne. A copy of Kori’s delivery order and tax invoice with respect to this sale to Fuchiang, a company in which Kori’s holding company was formerly a shareholder, was furnished to the court. However, no one from Fuchiang was called by Kori to prove the documents. When cross-examined on why no one from Fuchiang was called to testify and prove Kori’s claim that excess fabricated steel materials were sold to that company at $1,200 per metric tonne, Kori’s Mr Hooi’s testimony was not helpful as he merely stated as follows:[^19]
 
 Q:Now, in your affidavit you mentioned that you sold similar steel to Fuchiang Corporation for $1,200 per metric ton.
 
@@ -547,7 +548,7 @@ A:Yes.
 
 6.    I sell the scrap steel to NatSteel and for the consignment from \[PPE\], this was sold at about $280 per ton. I understand that the Defendant in this case has alleged that they sold the scrap steel to \[PPE\] at $1,200 per ton. I find that unlikely to be true as the Defendant’s scrap steel could not be sold for such an amount.
 
-101    When cross-examined on his purchase of the excess fabricated steel materials from PPE, Mr Neo explained that after inspecting the goods that PPE wanted to sell to him, he found that the steel was only fit to be sold as scrap. He also explained that most of the pieces of steel were shorter than 7 metres and that the steel was less valuable as they were not “clean” in the sense they had attachments such as welded joints and brackets. The relevant part of his evidence during cross-examination[\[note: 20\]](#Ftn_20) is as follows:
+101    When cross-examined on his purchase of the excess fabricated steel materials from PPE, Mr Neo explained that after inspecting the goods that PPE wanted to sell to him, he found that the steel was only fit to be sold as scrap. He also explained that most of the pieces of steel were shorter than 7 metres and that the steel was less valuable as they were not “clean” in the sense they had attachments such as welded joints and brackets. The relevant part of his evidence during cross-examination[^20] is as follows:
 
 <table align="left" cellpadding="0" cellspacing="0" class="Judg-2" frame="none" pgwide="1"><colgroup><col width="29.58%"> <col width="70.42%"> </colgroup><tbody><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Q.</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Then if I turn you to page 403 or 142, if you looking at small number, the first item is 7.2 metres in length, yes?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">A:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Yes, first one.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Q:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">So this is something that you could reuse and resell. Because you say anything above 7 metres.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">A:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Actually, if we buy for reuse, should be big quantity, maybe 100 number, 200 number. Few piece will not get the price. Like that. Should be big quantity.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Q:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">So, now you are saying that whether you buy it for reusing doesn’t depend on the size alone?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">A:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Actually, all these he sell me are all scrap one because got attachment. What we buy is new one, no attachment.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Court:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">What do you mean by “got attachment”?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Witness:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">“Attachment” that mean that got may welding, weld, all cannot be used one, that’s why.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Q:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">The welding is … the reinforcement to the beams, isn’t it?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">A:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Yah yah, this one are all weld attachment. That means they will put bracket, H-beam, angle bar. Cannot be used one. Yah.</p></td></tr></tbody></table>
 
@@ -564,45 +565,45 @@ A:Yes.
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)Notes of Evidence (“NE”), Day 2, 19 October 2016, p 1, lines 10-22.
+[^1]: Notes of Evidence (“NE”), Day 2, 19 October 2016, p 1, lines 10-22.
 
-[\[note: 2\]](#Ftn_2_1)NE, Day 2, p 7, lines 1 – 29.
+[^2]: NE, Day 2, p 7, lines 1 – 29.
 
-[\[note: 3\]](#Ftn_3_1)NE, Day 1, 17 October 2017, p 20, lines 27-31, p 21, lines 6 – 16.
+[^3]: NE, Day 1, 17 October 2017, p 20, lines 27-31, p 21, lines 6 – 16.
 
-[\[note: 4\]](#Ftn_4_1)NE, Day 2, 19 October 2017, p 29 lines 13-30, p 30 lines 1-7.
+[^4]: NE, Day 2, 19 October 2017, p 29 lines 13-30, p 30 lines 1-7.
 
-[\[note: 5\]](#Ftn_5_1)NE, Day 2, 19 October 2016, p 30, lines 12-26.
+[^5]: NE, Day 2, 19 October 2016, p 30, lines 12-26.
 
-[\[note: 6\]](#Ftn_6_1)NE, Day 1, 17 October 2017, p 29, lines 1-19.
+[^6]: NE, Day 1, 17 October 2017, p 29, lines 1-19.
 
-[\[note: 7\]](#Ftn_7_1)NE, Day 2, 19 October 2016, p 30, lines 27-31, p 31, lines 1-32. P 32, lines 1-3.
+[^7]: NE, Day 2, 19 October 2016, p 30, lines 27-31, p 31, lines 1-32. P 32, lines 1-3.
 
-[\[note: 8\]](#Ftn_8_1)NE, Day 2, 19 October 2017, p 31, lines 20-23.
+[^8]: NE, Day 2, 19 October 2017, p 31, lines 20-23.
 
-[\[note: 9\]](#Ftn_9_1)NE, Day 2, 19 October 2017, p 32, lines 28-32, p 33, lines 1-7.
+[^9]: NE, Day 2, 19 October 2017, p 32, lines 28-32, p 33, lines 1-7.
 
-[\[note: 10\]](#Ftn_10_1)NE, Day 2, 19 October 2017, p 35 lines 24-32, p 36, lines 1-17.
+[^10]: NE, Day 2, 19 October 2017, p 35 lines 24-32, p 36, lines 1-17.
 
-[\[note: 11\]](#Ftn_11_1)NE, Day 2, 19 October 2017, p 34, line 9.
+[^11]: NE, Day 2, 19 October 2017, p 34, line 9.
 
-[\[note: 12\]](#Ftn_12_1)NE, Day 2, 19 October 2017, p 34, lines 30-31, p 35, lines 1-13.
+[^12]: NE, Day 2, 19 October 2017, p 34, lines 30-31, p 35, lines 1-13.
 
-[\[note: 13\]](#Ftn_13_1)NE, Day 2, 19 October 2017, p 36, lines 24-25.
+[^13]: NE, Day 2, 19 October 2017, p 36, lines 24-25.
 
-[\[note: 14\]](#Ftn_14_1)NE, Day 2, 19 October 2017, p 51, lines 24-30.
+[^14]: NE, Day 2, 19 October 2017, p 51, lines 24-30.
 
-[\[note: 15\]](#Ftn_15_1)NE, Day 2, 19 October 2016, p 26, lines 17-27.
+[^15]: NE, Day 2, 19 October 2016, p 26, lines 17-27.
 
-[\[note: 16\]](#Ftn_16_1)NE, Day 2, p 27, lines 22-31.
+[^16]: NE, Day 2, p 27, lines 22-31.
 
-[\[note: 17\]](#Ftn_17_1)NE, Day 2, 19 October 2017, p 38, lines 28-32, p 19, lines 5-14.
+[^17]: NE, Day 2, 19 October 2017, p 38, lines 28-32, p 19, lines 5-14.
 
-[\[note: 18\]](#Ftn_18_1)NE, Day 2, p 13, lines 8-12.
+[^18]: NE, Day 2, p 13, lines 8-12.
 
-[\[note: 19\]](#Ftn_19_1)NE, Day 2, 19 October 2017, p 52, lines 18-19 and 28-32, p 53, lines 3-6.
+[^19]: NE, Day 2, 19 October 2017, p 52, lines 18-19 and 28-32, p 53, lines 3-6.
 
-[\[note: 20\]](#Ftn_20_1)NE, 12 March 2018, p 20 lines 12-28, p 21, lines 1-8.
+[^20]: NE, 12 March 2018, p 20 lines 12-28, p 21, lines 1-8.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F22686-SSP.xml)

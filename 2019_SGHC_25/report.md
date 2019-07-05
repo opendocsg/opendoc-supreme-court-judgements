@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # D Rashpal Singh Sidhu _v_ Public Prosecutor  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Magistrate's Appeal No 9001 of 2018/01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">07 February 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Aedit Abdullah J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">The appellant in person; Muhamad Imaduddien and Sia Jiazheng (Attorney-General's Chamber) for the Prosecution; Jo Tay Yu Xi (Allen &amp; Gledhill LLP) as young amicus curiae.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">D Rashpal Singh Sidhu — Public Prosecutor</td></tr></tbody></table>
@@ -10,7 +11,7 @@ Criminal Law – Statutory offences – Misuse of Drugs Act (Cap 185, 2008 R
 
 1       I have considered the parties’ submissions, the evidence and the judgment of the learned District Judge.
 
-2       The facts are sufficiently summarised in the grounds of decision (“GD”) in _PP v D Rashpal Singh Sidhu_ . The appellant had been found unconscious at a void deck. He remained unconscious while being conveyed to Ng Teng Fong General Hospital (“the Hospital”) and when the Staff Nurse found exhibit DRSS-A1, a red straw containing drugs, near his crotch.[\[note: 1\]](#Ftn_1) The District Judge agreed with the Prosecution that the location where the straw was found meant that “it could only have come from the accused”.[\[note: 2\]](#Ftn_2) The District Judge held that the Defence failed to prove “on a balance of probabilities” that the straw could have come from the hospital blanket.[\[note: 3\]](#Ftn_3) She further held that the Defence’s suggestion that the straw had been caught on the appellant’s clothing at an earlier stage was “incredible”.[\[note: 4\]](#Ftn_4) Accordingly, she found that the appellant had actual possession of the straw containing the drugs in question.[\[note: 5\]](#Ftn_5) She convicted him on an offence under s 8(_a_) and punishable under s 33(1) of the Misuse of Drugs Act (Cap 185, 2008 Rev Ed) (“MDA”), and sentenced him to 43 months’ imprisonment.
+2       The facts are sufficiently summarised in the grounds of decision (“GD”) in _PP v D Rashpal Singh Sidhu_ . The appellant had been found unconscious at a void deck. He remained unconscious while being conveyed to Ng Teng Fong General Hospital (“the Hospital”) and when the Staff Nurse found exhibit DRSS-A1, a red straw containing drugs, near his crotch.[^1] The District Judge agreed with the Prosecution that the location where the straw was found meant that “it could only have come from the accused”.[^2] The District Judge held that the Defence failed to prove “on a balance of probabilities” that the straw could have come from the hospital blanket.[^3] She further held that the Defence’s suggestion that the straw had been caught on the appellant’s clothing at an earlier stage was “incredible”.[^4] Accordingly, she found that the appellant had actual possession of the straw containing the drugs in question.[^5] She convicted him on an offence under s 8(_a_) and punishable under s 33(1) of the Misuse of Drugs Act (Cap 185, 2008 Rev Ed) (“MDA”), and sentenced him to 43 months’ imprisonment.
 
 ## Parties’ submissions
 
@@ -40,7 +41,7 @@ Criminal Law – Statutory offences – Misuse of Drugs Act (Cap 185, 2008 R
 
 10     In proving possession, it was for the Prosecution to discharge its burden of proving beyond reasonable doubt that the appellant had both physical control over the straw, as well as knowledge of its existence. It was not at this point for the Defence to prove on the balance of probabilities that there were alternative explanations that accounted for the presence of the straw at the location where it was found.
 
-11     I found that there was insufficient evidence, or no evidence, at trial to show that the appellant had any knowledge of the existence of the straw before or when it was discovered on his person. In discharging its burden of proof, it was insufficient for the Prosecution to assert that there “was no other reasonable way \[the straw\] could have appeared at the \[appellant’s\] crotch area”,[\[note: 6\]](#Ftn_6) without at least establishing the circumstances during or leading up to the period when the appellant was unconscious. Without knowing these circumstances, there was insufficient evidence to conclude that there was no other reasonable explanation to account for the appearance of straw.
+11     I found that there was insufficient evidence, or no evidence, at trial to show that the appellant had any knowledge of the existence of the straw before or when it was discovered on his person. In discharging its burden of proof, it was insufficient for the Prosecution to assert that there “was no other reasonable way \[the straw\] could have appeared at the \[appellant’s\] crotch area”,[^6] without at least establishing the circumstances during or leading up to the period when the appellant was unconscious. Without knowing these circumstances, there was insufficient evidence to conclude that there was no other reasonable explanation to account for the appearance of straw.
 
 12     I should note that this case was quite different from cases where the circumstances rule out any reasonable explanation for the appearance of the drug on an offender, so as to remove any reasonable doubt that the offender had not been in possession of the drug before he fell unconscious. This was not a situation where an unconscious offender had been found in possession of drugs in a locked room that only he had access to. The appellant had been found unconscious in a void deck, where he had lain for an indeterminate period of time and in unknown circumstances. No doubt, the drugs in this case were found on a private area of the appellant’s body, but I could not in the circumstances conclude that there was no other reasonable explanation for how the drugs came to be there, and the burden remained for the Prosecution to prove at least the element of possession before the presumption under s 18(2) of the MDA came into play.
 
@@ -50,17 +51,17 @@ Criminal Law – Statutory offences – Misuse of Drugs Act (Cap 185, 2008 R
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)GD at paras 29 and 31.
+[^1]: GD at paras 29 and 31.
 
-[\[note: 2\]](#Ftn_2_1)GD at para 41.
+[^2]: GD at para 41.
 
-[\[note: 3\]](#Ftn_3_1)GD at para 41.
+[^3]: GD at para 41.
 
-[\[note: 4\]](#Ftn_4_1)GD at para 43.
+[^4]: GD at para 43.
 
-[\[note: 5\]](#Ftn_5_1)GD at para 46.
+[^5]: GD at para 46.
 
-[\[note: 6\]](#Ftn_6_1)Prosecution’s Closing Submissions at para 5.
+[^6]: Prosecution’s Closing Submissions at para 5.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F22807-SSP.xml)

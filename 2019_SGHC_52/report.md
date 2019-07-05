@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # Debotosh Lodh _v_ Boustead Services Pte Ltd and another  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Originating Summons No 842 of 2018</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">18 March 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Vinodh Coomaraswamy J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">N Sreenivasan SC and Lim Min (Straits Law Practice LLC) for the plaintiff; Josephine Choo, Kerry Chan and Melvin Lin (WongPartnership LLP) for the first defendant and second defendant.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Debotosh Lodh — Boustead Services Pte Ltd — Controls &amp; Electrics Pte Ltd</td></tr></tbody></table>
@@ -12,7 +13,7 @@ Injunction – Purposes for grant – Protection of contractual rights
 
 1       The plaintiff brings these proceedings to restrain a threatened breach of contract. The plaintiff is a shareholder of and a director of the second defendant. The plaintiff’s case is that he has an express contractual right to hold office as a director of the second defendant so long as he remains a shareholder of the second defendant. I shall refer to that alleged right as the “directorship right”. In these proceedings, the plaintiff seeks a final injunction against the defendants to prevent his removal as a director in breach of the directorship right.
 
-2       Together with the originating summons which commenced these proceedings, the plaintiff filed an application seeking an urgent interlocutory injunction[\[note: 1\]](#Ftn_1) to restrain his removal until his application for final relief had been determined. He sought the interlocutory injunction to forestall his removal at an extraordinary general meeting (“EGM”) of the second defendant which was then imminent.[\[note: 2\]](#Ftn_2) When the application for the interlocutory injunction came up for hearing, the defendants quite sensibly agreed to postpone taking any steps to remove the plaintiff as a director of the second defendant until the plaintiff’s application for final relief had been determined.[\[note: 3\]](#Ftn_3)
+2       Together with the originating summons which commenced these proceedings, the plaintiff filed an application seeking an urgent interlocutory injunction[^1] to restrain his removal until his application for final relief had been determined. He sought the interlocutory injunction to forestall his removal at an extraordinary general meeting (“EGM”) of the second defendant which was then imminent.[^2] When the application for the interlocutory injunction came up for hearing, the defendants quite sensibly agreed to postpone taking any steps to remove the plaintiff as a director of the second defendant until the plaintiff’s application for final relief had been determined.[^3]
 
 3       I have found that the directorship right does not exist and, accordingly, have dismissed the plaintiff’s application with costs. The plaintiff has appealed. I now set out the grounds for my decision.
 
@@ -20,57 +21,57 @@ Injunction – Purposes for grant – Protection of contractual rights
 
 ### The parties
 
-4       The first defendant is an engineering company. It is also the majority shareholder of the second defendant.[\[note: 4\]](#Ftn_4) The second defendant runs a highly-profitable subset of the first defendant’s engineering business installing, distributing, selling, and marketing control systems such as instrumentation, automation and fire and gas detection systems.[\[note: 5\]](#Ftn_5)
+4       The first defendant is an engineering company. It is also the majority shareholder of the second defendant.[^4] The second defendant runs a highly-profitable subset of the first defendant’s engineering business installing, distributing, selling, and marketing control systems such as instrumentation, automation and fire and gas detection systems.[^5]
 
-5       Both defendants are members of the Boustead group of companies. The ultimate holding company of the group is a listed company, Boustead Singapore Ltd.[\[note: 6\]](#Ftn_6) The group’s Chairman and Group Chief Executive Officer is Mr Wong Fong Fui (“Mr Wong”).[\[note: 7\]](#Ftn_7) Mr Wong is also the single largest deemed shareholder of Boustead Singapore Ltd. The group’s Chief Financial Officer until January 2018 was Mr Loh Kai Keong (“Mr Loh”).[\[note: 8\]](#Ftn_8) Both men are directors of both defendants.[\[note: 9\]](#Ftn_9)
+5       Both defendants are members of the Boustead group of companies. The ultimate holding company of the group is a listed company, Boustead Singapore Ltd.[^6] The group’s Chairman and Group Chief Executive Officer is Mr Wong Fong Fui (“Mr Wong”).[^7] Mr Wong is also the single largest deemed shareholder of Boustead Singapore Ltd. The group’s Chief Financial Officer until January 2018 was Mr Loh Kai Keong (“Mr Loh”).[^8] Both men are directors of both defendants.[^9]
 
-6       The plaintiff is a senior and long-standing employee of the Boustead group. He is also one of the minority shareholders of the second defendant and one of its five directors.[\[note: 10\]](#Ftn_10)
+6       The plaintiff is a senior and long-standing employee of the Boustead group. He is also one of the minority shareholders of the second defendant and one of its five directors.[^10]
 
-7       The plaintiff was employed by the group in one capacity or another from 1987 to 2017. The plaintiff began his relationship with the group when the first defendant employed him to manage its controls division in 1987. He later took over management of the first defendant’s electric motors division. The division was subsequently renamed the controls & electrics (“C&E”) division[\[note: 11\]](#Ftn_11) and hived off to the second defendant. From 2002 until 2015, the plaintiff was the second defendant’s managing director. From 2015 until he retired in 2017, the plaintiff was the second defendant’s Executive Chairman.[\[note: 12\]](#Ftn_12)
+7       The plaintiff was employed by the group in one capacity or another from 1987 to 2017. The plaintiff began his relationship with the group when the first defendant employed him to manage its controls division in 1987. He later took over management of the first defendant’s electric motors division. The division was subsequently renamed the controls & electrics (“C&E”) division[^11] and hived off to the second defendant. From 2002 until 2015, the plaintiff was the second defendant’s managing director. From 2015 until he retired in 2017, the plaintiff was the second defendant’s Executive Chairman.[^12]
 
 ### Transfer of the first defendant’s business division
 
-8       In 1998, the plaintiff and three other members of the senior management team of the C&E division (“the management team”) proposed a management buyout of the division to the Boustead group. The three other members of the management team are Mr VRM Sundaram, Mr Prasun Chakraborty, and Mr Raghavan Nair Gopakumar.[\[note: 13\]](#Ftn_13) It can be inferred that the reason for the proposal was to enable the management team to acquire for themselves the entire benefit of profits which they generated for the Boustead group by their skill and effort.
+8       In 1998, the plaintiff and three other members of the senior management team of the C&E division (“the management team”) proposed a management buyout of the division to the Boustead group. The three other members of the management team are Mr VRM Sundaram, Mr Prasun Chakraborty, and Mr Raghavan Nair Gopakumar.[^13] It can be inferred that the reason for the proposal was to enable the management team to acquire for themselves the entire benefit of profits which they generated for the Boustead group by their skill and effort.
 
-9       Eventually, in or about 2001, the parties reached an in-principle agreement under which the management team would be allocated 40% of the profits of the C&E division, with the Boustead group retaining the remaining 60%. Under this proposal, the first defendant was to transfer the entire business of the C&E division to a new legal entity.[\[note: 14\]](#Ftn_14) The intention was that the first defendant would own 60% of the new entity and the management team would own the remaining 40%.
+9       Eventually, in or about 2001, the parties reached an in-principle agreement under which the management team would be allocated 40% of the profits of the C&E division, with the Boustead group retaining the remaining 60%. Under this proposal, the first defendant was to transfer the entire business of the C&E division to a new legal entity.[^14] The intention was that the first defendant would own 60% of the new entity and the management team would own the remaining 40%.
 
-10     In 2002, the first defendant nominated the second defendant to be the legal entity to be the transferee of the C&E division. At that time, the second defendant was a wholly-owned subsidiary of the first defendant. On 1 April 2002, the first defendant transferred the entire business of its C&E division to the second defendant. At the same time, the employment contracts of the management team were also transferred to the second defendant.[\[note: 15\]](#Ftn_15)
+10     In 2002, the first defendant nominated the second defendant to be the legal entity to be the transferee of the C&E division. At that time, the second defendant was a wholly-owned subsidiary of the first defendant. On 1 April 2002, the first defendant transferred the entire business of its C&E division to the second defendant. At the same time, the employment contracts of the management team were also transferred to the second defendant.[^15]
 
 11     When the transfer took place on 1 April 2002, the management team acquired no shares in the second defendant. That is because, at that time, there was only an informal, in-principle agreement as to how the management team would participate in the profits of the C&E division after the transfer.
 
-12     Despite this, at the same time as the transfer, four things happened. First, the plaintiff and Mr Chakraborty were appointed directors of the second defendant.[\[note: 16\]](#Ftn_16) Second, the plaintiff was appointed the second defendant’s managing director. Third, the management team paid the first defendant the sum of $200,000 as a deposit against the price of the shares in the second defendant which the first defendant intended to transfer to them,[\[note: 17\]](#Ftn_17) with the balance to be paid when the actual transfer took place.[\[note: 18\]](#Ftn_18) And finally, the parties agreed that, even though the management team held no shares in the second defendant at that time, the team’s entitlement to 40% of the second defendant’s profits would take effect from 1 April 2002.[\[note: 19\]](#Ftn_19)
+12     Despite this, at the same time as the transfer, four things happened. First, the plaintiff and Mr Chakraborty were appointed directors of the second defendant.[^16] Second, the plaintiff was appointed the second defendant’s managing director. Third, the management team paid the first defendant the sum of $200,000 as a deposit against the price of the shares in the second defendant which the first defendant intended to transfer to them,[^17] with the balance to be paid when the actual transfer took place.[^18] And finally, the parties agreed that, even though the management team held no shares in the second defendant at that time, the team’s entitlement to 40% of the second defendant’s profits would take effect from 1 April 2002.[^19]
 
 ### The parties formalise their relationship
 
-13     From 1 April 2002 and into 2003, the first defendant and the management team continued to negotiate the terms of the team’s participation in the second defendant. In March 2003, the terms were agreed. A formal agreement was signed on 21 April 2003[\[note: 20\]](#Ftn_20) by the first defendant, the second defendant, and each member of the management team.
+13     From 1 April 2002 and into 2003, the first defendant and the management team continued to negotiate the terms of the team’s participation in the second defendant. In March 2003, the terms were agreed. A formal agreement was signed on 21 April 2003[^20] by the first defendant, the second defendant, and each member of the management team.
 
-14     The plaintiff refers to the 21 April 2003 agreement as a joint venture agreement[\[note: 21\]](#Ftn_21) and characterises the parties’ relationship as that of joint venturers.[\[note: 22\]](#Ftn_22) The defendants deny that the parties were ever joint venturers[\[note: 23\]](#Ftn_23) and characterises the agreement simply as a shareholders’ agreement.[\[note: 24\]](#Ftn_24) The labels are not important. I will refer to the agreement simply and neutrally as “the Agreement”, as the defendants do.[\[note: 25\]](#Ftn_25) And I shall refer to the parties’ relationship simply as a collaboration.
+14     The plaintiff refers to the 21 April 2003 agreement as a joint venture agreement[^21] and characterises the parties’ relationship as that of joint venturers.[^22] The defendants deny that the parties were ever joint venturers[^23] and characterises the agreement simply as a shareholders’ agreement.[^24] The labels are not important. I will refer to the agreement simply and neutrally as “the Agreement”, as the defendants do.[^25] And I shall refer to the parties’ relationship simply as a collaboration.
 
 15     It was only upon completion under the Agreement in April 2003 that the management team acquired 40% of the shares in the second defendant from the first defendant at a price of $400,000. After taking into account the part-payment of $200,000 made in 2002, that left a further $200,000 which the management team was obliged to pay the first defendant in April 2003. The team duly did so.
 
-16     Thus, the management team acquired 40% of the second defendant at total price of $400,000. Under the terms of the Agreement, that 40% of the second defendant was allocated to the management team in the following proportions: (i) the plaintiff acquired 25% of the second defendant; (ii) Mr Sundaram acquired 6%; (iii) Mr Chakraborty acquired 6%; and (iv) Mr Gopakumar acquired 3%.[\[note: 26\]](#Ftn_26)
+16     Thus, the management team acquired 40% of the second defendant at total price of $400,000. Under the terms of the Agreement, that 40% of the second defendant was allocated to the management team in the following proportions: (i) the plaintiff acquired 25% of the second defendant; (ii) Mr Sundaram acquired 6%; (iii) Mr Chakraborty acquired 6%; and (iv) Mr Gopakumar acquired 3%.[^26]
 
-17     As shareholders of the second defendant, the management team became entitled to participate in the second defendant’s profits from the date they acquired their shares. But, as agreed in 2002 (see \[11\] above), the Agreement records expressly that the management team’s entitlement to 40% of the second defendant’s profits had taken effect on 1 April 2002.[\[note: 27\]](#Ftn_27)
+17     As shareholders of the second defendant, the management team became entitled to participate in the second defendant’s profits from the date they acquired their shares. But, as agreed in 2002 (see \[11\] above), the Agreement records expressly that the management team’s entitlement to 40% of the second defendant’s profits had taken effect on 1 April 2002.[^27]
 
-18     The Agreement provides expressly that the second defendant’s board is to comprise five directors, with three directors nominated by the first defendant and two directors drawn from the management team.[\[note: 28\]](#Ftn_28) The Agreement names Mr Wong as one of the three directors nominated by the first defendant. It also names the plaintiff and Mr Chakraborty as the two directors to be drawn from the management team. In addition, the Agreement expressly provides that the plaintiff is to hold office as the second defendant’s managing director.
+18     The Agreement provides expressly that the second defendant’s board is to comprise five directors, with three directors nominated by the first defendant and two directors drawn from the management team.[^28] The Agreement names Mr Wong as one of the three directors nominated by the first defendant. It also names the plaintiff and Mr Chakraborty as the two directors to be drawn from the management team. In addition, the Agreement expressly provides that the plaintiff is to hold office as the second defendant’s managing director.
 
-19     Giving effect to these provisions of the Agreement did not require any changes to the second defendant’s board. The plaintiff and Mr Chakraborty had already been appointed directors on 1 April 2002.[\[note: 29\]](#Ftn_29) The evidence also shows that they have held these positions uninterrupted from 1 April 2002 to the date of these proceedings.[\[note: 30\]](#Ftn_30) And Mr Wong had been a director of the second defendant even before 1 April 2002.
+19     Giving effect to these provisions of the Agreement did not require any changes to the second defendant’s board. The plaintiff and Mr Chakraborty had already been appointed directors on 1 April 2002.[^29] The evidence also shows that they have held these positions uninterrupted from 1 April 2002 to the date of these proceedings.[^30] And Mr Wong had been a director of the second defendant even before 1 April 2002.
 
-20     One of the matters which the Agreement expressly envisaged was that the second defendant would incorporate a subsidiary in India to carry on the controls business there.[\[note: 31\]](#Ftn_31) The second defendant eventually did establish this subsidiary and eventually did expand its controls business to India. The status of the Indian subsidiary has become a bone of contention between the parties.
+20     One of the matters which the Agreement expressly envisaged was that the second defendant would incorporate a subsidiary in India to carry on the controls business there.[^31] The second defendant eventually did establish this subsidiary and eventually did expand its controls business to India. The status of the Indian subsidiary has become a bone of contention between the parties.
 
 ### The share sale agreement
 
-21     In 2006, the parties to the Agreement entered into a share sale agreement (“the SSA”).[\[note: 32\]](#Ftn_32) The SSA was meant to restructure the second defendant’s shareholding for tax and accounting purposes. It was not the purpose of the SSA to alter the terms of the parties’ collaboration underlying the Agreement.
+21     In 2006, the parties to the Agreement entered into a share sale agreement (“the SSA”).[^32] The SSA was meant to restructure the second defendant’s shareholding for tax and accounting purposes. It was not the purpose of the SSA to alter the terms of the parties’ collaboration underlying the Agreement.
 
-22     Under the SSA, the management team collectively transferred 300,000 shares in the second defendant, representing 18.75% of its shares, back to the first defendant in exchange for a payment of just over $465,000.[\[note: 33\]](#Ftn_33) As a result of the transfer: (i) the first defendant’s shareholding in the second defendant increased from 60% to 78.75%; (ii) the plaintiff’s shareholding fell from 25% to 15.625%; (iii) Mr Chakraborty’s shareholding fell to 3.75%; (iv) Mr Gopakumar’s shareholding fell to 1.875%; and (v) Mr Sundaram sold all his shares back to the first defendant and exited entirely as a shareholder of the second defendant, although he remained an employee.[\[note: 34\]](#Ftn_34)
+22     Under the SSA, the management team collectively transferred 300,000 shares in the second defendant, representing 18.75% of its shares, back to the first defendant in exchange for a payment of just over $465,000.[^33] As a result of the transfer: (i) the first defendant’s shareholding in the second defendant increased from 60% to 78.75%; (ii) the plaintiff’s shareholding fell from 25% to 15.625%; (iii) Mr Chakraborty’s shareholding fell to 3.75%; (iv) Mr Gopakumar’s shareholding fell to 1.875%; and (v) Mr Sundaram sold all his shares back to the first defendant and exited entirely as a shareholder of the second defendant, although he remained an employee.[^34]
 
-23     Because the SSA was not intended to have any effect on the parties’ collaboration underlying the Agreement, the management team (save for Mr Sundaram)[\[note: 35\]](#Ftn_35) continued to be entitled to participate in the profits of the second defendant based on their original shareholding, as though the SSA had never been entered into.[\[note: 36\]](#Ftn_36) So too each transferor (save for Mr Sundaram) had an option to buy back the shares he had transferred to the first defendant at the very same price which the first defendant had paid for the shares in 2006, _ie_ regardless of any subsequent appreciation in the value of the shares.[\[note: 37\]](#Ftn_37)
+23     Because the SSA was not intended to have any effect on the parties’ collaboration underlying the Agreement, the management team (save for Mr Sundaram)[^35] continued to be entitled to participate in the profits of the second defendant based on their original shareholding, as though the SSA had never been entered into.[^36] So too each transferor (save for Mr Sundaram) had an option to buy back the shares he had transferred to the first defendant at the very same price which the first defendant had paid for the shares in 2006, _ie_ regardless of any subsequent appreciation in the value of the shares.[^37]
 
-24     Thus, for example, the plaintiff received $290,781 from the first defendant under the SSA in exchange for a transfer of a 9.375% stake in the second defendant.[\[note: 38\]](#Ftn_38) Under the SSA, he had an option to repurchase that 9.375% stake at exactly the same price, _ie_ $290,781, which was exercisable before the second defendant could deal otherwise with that shareholding. For that reason, I shall continue to refer to the plaintiff as having a notional 25% shareholding in the second defendant, even after the share transfers under the SSA were implemented. And I shall also refer to the value of the plaintiff’s 25% shareholding without taking into consideration his obligation to repay $290,781 to the first defendant.
+24     Thus, for example, the plaintiff received $290,781 from the first defendant under the SSA in exchange for a transfer of a 9.375% stake in the second defendant.[^38] Under the SSA, he had an option to repurchase that 9.375% stake at exactly the same price, _ie_ $290,781, which was exercisable before the second defendant could deal otherwise with that shareholding. For that reason, I shall continue to refer to the plaintiff as having a notional 25% shareholding in the second defendant, even after the share transfers under the SSA were implemented. And I shall also refer to the value of the plaintiff’s 25% shareholding without taking into consideration his obligation to repay $290,781 to the first defendant.
 
 ### The succession plan
 
-25     The plaintiff was due to retire from the second defendant’s employment on 1 April 2017, at or around the time he turned 70 years of age. It appears that his retirement had been postponed from 2009, when he turned 62 years of age and would otherwise have had to retire.[\[note: 39\]](#Ftn_39) In August 2014, Mr Wong Yu Loon and the plaintiff agreed to a succession plan for the plaintiff.[\[note: 40\]](#Ftn_40) According to the plaintiff, the key features of the plan were as follows:
+25     The plaintiff was due to retire from the second defendant’s employment on 1 April 2017, at or around the time he turned 70 years of age. It appears that his retirement had been postponed from 2009, when he turned 62 years of age and would otherwise have had to retire.[^39] In August 2014, Mr Wong Yu Loon and the plaintiff agreed to a succession plan for the plaintiff.[^40] According to the plaintiff, the key features of the plan were as follows:
 
 (a)     From 1 October 2014, the first defendant would appoint a managing director designate for the second defendant, to take over from the plaintiff as the second defendant’s managing director from 1 April 2015.
 
@@ -82,53 +83,53 @@ Injunction – Purposes for grant – Protection of contractual rights
 
 ### Implementing the succession plan
 
-27     As agreed in the succession plan, on 1 October 2014, the plaintiff began the six-month transition period. At the end of those six months, on 1 April 2015, the plaintiff retired as managing director of the second defendant. He was given a two-year employment contract with the second defendant as its Executive Chairman.[\[note: 41\]](#Ftn_41)
+27     As agreed in the succession plan, on 1 October 2014, the plaintiff began the six-month transition period. At the end of those six months, on 1 April 2015, the plaintiff retired as managing director of the second defendant. He was given a two-year employment contract with the second defendant as its Executive Chairman.[^41]
 
-28     Between 2014 and 2016, the plaintiff and Mr Wong discussed directly with each other the value of the plaintiff’s 25% shareholding in the second defendant.[\[note: 42\]](#Ftn_42) The plaintiff’s evidence is that one of the methods of valuing his shares in the second defendant which was discussed in August 2014 was a multiple of earnings plus a share of the second defendant’s cash.[\[note: 43\]](#Ftn_43)
+28     Between 2014 and 2016, the plaintiff and Mr Wong discussed directly with each other the value of the plaintiff’s 25% shareholding in the second defendant.[^42] The plaintiff’s evidence is that one of the methods of valuing his shares in the second defendant which was discussed in August 2014 was a multiple of earnings plus a share of the second defendant’s cash.[^43]
 
-29     In September 2015, Mr Wong suggested valuing the plaintiff’s shares based on the second defendant’s net tangible assets plus a 20% premium.[\[note: 44\]](#Ftn_44) The plaintiff rejected that as being too low. He countered that a valuation based on a multiple of earnings plus a share of cash had been discussed in August 2014.
+29     In September 2015, Mr Wong suggested valuing the plaintiff’s shares based on the second defendant’s net tangible assets plus a 20% premium.[^44] The plaintiff rejected that as being too low. He countered that a valuation based on a multiple of earnings plus a share of cash had been discussed in August 2014.
 
-30     In April 2016, Mr Loh sent the plaintiff an email containing a valuation of the second defendant on two bases:[\[note: 45\]](#Ftn_45)
+30     In April 2016, Mr Loh sent the plaintiff an email containing a valuation of the second defendant on two bases:[^45]
 
 (a)     Net tangible assets plus a premium; and
 
 (b)     Five times the average of the past three years’ earning plus a share of the defendant’s cash.
 
-Mr Loh’s point was that both methods valued the second defendant at $20m, implying a value of $5m for the plaintiff’s 25% shareholding. On 5 May 2016, the plaintiff rejected Mr Loh’s offer on the basis that $20m was not a fair valuation of the second defendant.[\[note: 46\]](#Ftn_46) He noted that Mr Loh himself had expressed the view just a few months earlier that a substantially higher figure of $35m was too low a valuation of the second defendant. The plaintiff also made the point that Mr Loh’s figures had not taken account of: (i) revenue which the second defendant had invoiced but had not yet recognised; (ii) that the second defendant had over-provided in the accounts for bad debts; and (iii) the true value of the second defendant’s wholly-owned Indian subsidiary.
+Mr Loh’s point was that both methods valued the second defendant at $20m, implying a value of $5m for the plaintiff’s 25% shareholding. On 5 May 2016, the plaintiff rejected Mr Loh’s offer on the basis that $20m was not a fair valuation of the second defendant.[^46] He noted that Mr Loh himself had expressed the view just a few months earlier that a substantially higher figure of $35m was too low a valuation of the second defendant. The plaintiff also made the point that Mr Loh’s figures had not taken account of: (i) revenue which the second defendant had invoiced but had not yet recognised; (ii) that the second defendant had over-provided in the accounts for bad debts; and (iii) the true value of the second defendant’s wholly-owned Indian subsidiary.
 
-31     In February 2017, the first defendant put the plaintiff on notice that his employment contract with the second defendant was due to come to an end on 31 March 2017.[\[note: 47\]](#Ftn_47) On 31 March 2017, the plaintiff’s employment contract expired in accordance with its terms. On and from 1 April 2017, the plaintiff ceased to be an employee of the second defendant.[\[note: 48\]](#Ftn_48)
+31     In February 2017, the first defendant put the plaintiff on notice that his employment contract with the second defendant was due to come to an end on 31 March 2017.[^47] On 31 March 2017, the plaintiff’s employment contract expired in accordance with its terms. On and from 1 April 2017, the plaintiff ceased to be an employee of the second defendant.[^48]
 
-32     In 2017, the plaintiff and Mr Wong had three meetings to discuss the sale of the plaintiff’s shares to the first defendant.[\[note: 49\]](#Ftn_49)
+32     In 2017, the plaintiff and Mr Wong had three meetings to discuss the sale of the plaintiff’s shares to the first defendant.[^49]
 
 (a)     At a meeting in March 2017, the plaintiff’s figure was $7m and Mr Wong’s figure was $5m. Mr Wong also agreed to finalise the acquisition of the plaintiff’s shares by the end of April 2017.
 
-(b)     At a meeting in April 2017, Mr Wong brought with him a set of figures which the plaintiff says were most likely prepared by Mr Loh.[\[note: 50\]](#Ftn_50) Based on those figures, Mr Wong arrived at a figure of just under $5.7m for the plaintiff’s shares. The plaintiff arrived at a figure of $6.5m.
+(b)     At a meeting in April 2017, Mr Wong brought with him a set of figures which the plaintiff says were most likely prepared by Mr Loh.[^50] Based on those figures, Mr Wong arrived at a figure of just under $5.7m for the plaintiff’s shares. The plaintiff arrived at a figure of $6.5m.
 
-(c)     At their final meeting in July 2017. That meeting ended with Mr Wong writing the following text in his own hand and with both the plaintiff and Mr Wong signing it:[\[note: 51\]](#Ftn_51)
+(c)     At their final meeting in July 2017. That meeting ended with Mr Wong writing the following text in his own hand and with both the plaintiff and Mr Wong signing it:[^51]
 
 \[The plaintiff\] and \[Mr Wong\] both agree to settle the purchase of all \[the plaintiff’s\] shareholdings in \[the second defendant\] for $6.00 m nett after the deduction of $290,781 (for the purpose of another share buyback of 9% approx.). Any dividend that have been declared earlier but not paid out will be paid to \[the plaintiff\] by \[the second defendant\] including \[profit-sharing bonus\] in lieu of dividend.
 
 ### The plaintiff commences other proceedings
 
-33     The plaintiff takes the position that, as a result of the document signed at the meeting in July 2017, he has a binding contract with the first defendant under which it is obliged to buy his 25% shareholding in the second defendant at a price of $6m, subject only to the deduction of $290,781 due to the first defendant under the SSA. He also takes the position that the contract contains an implied term that the first defendant would conclude the sale and purchase within a reasonable time after July 2017. The plaintiff takes that reasonable time to be 30 days.[\[note: 52\]](#Ftn_52) The first defendant takes the position that it is not obliged to purchase the plaintiff’s shares in the second defendant as alleged or at all.
+33     The plaintiff takes the position that, as a result of the document signed at the meeting in July 2017, he has a binding contract with the first defendant under which it is obliged to buy his 25% shareholding in the second defendant at a price of $6m, subject only to the deduction of $290,781 due to the first defendant under the SSA. He also takes the position that the contract contains an implied term that the first defendant would conclude the sale and purchase within a reasonable time after July 2017. The plaintiff takes that reasonable time to be 30 days.[^52] The first defendant takes the position that it is not obliged to purchase the plaintiff’s shares in the second defendant as alleged or at all.
 
-34     As a result, in February 2018, the plaintiff commenced an action against the first defendant in Suit No 146 of 2018 (“S146”) seeking specific performance of the July 2017 contract; alternatively, damages for breach of contract. The first defendant’s defence in S146 is that: (i) the parties did not enter into any contract in July 2017 because the figures proposed were expressly subject to verification; alternatively (ii) even if they did enter into a contract in July 2017, it was induced by misrepresentation by the plaintiff.[\[note: 53\]](#Ftn_53)
+34     As a result, in February 2018, the plaintiff commenced an action against the first defendant in Suit No 146 of 2018 (“S146”) seeking specific performance of the July 2017 contract; alternatively, damages for breach of contract. The first defendant’s defence in S146 is that: (i) the parties did not enter into any contract in July 2017 because the figures proposed were expressly subject to verification; alternatively (ii) even if they did enter into a contract in July 2017, it was induced by misrepresentation by the plaintiff.[^53]
 
-35     In July 2018, the plaintiff and the first defendant attempted to resolve their dispute in S146 through mediation. The mediation did not succeed.[\[note: 54\]](#Ftn_54) S146 is now fixed to be tried in April 2019.[\[note: 55\]](#Ftn_55)
+35     In July 2018, the plaintiff and the first defendant attempted to resolve their dispute in S146 through mediation. The mediation did not succeed.[^54] S146 is now fixed to be tried in April 2019.[^55]
 
 ### Attempt to remove the plaintiff as a director
 
-36     On 5 July 2018, the second defendant issued a notice convening an EGM of its shareholders to be held on 20 July 2018.[\[note: 56\]](#Ftn_56) The purpose of the EGM was to replace the plaintiff as a director of the second defendant with Mr Gopakumar under Article 79 of its corporate constitution.
+36     On 5 July 2018, the second defendant issued a notice convening an EGM of its shareholders to be held on 20 July 2018.[^56] The purpose of the EGM was to replace the plaintiff as a director of the second defendant with Mr Gopakumar under Article 79 of its corporate constitution.
 
-37     Article 79, on its face, gives the second defendant’s members an unqualified right to remove a director and to appoint another person in his stead:[\[note: 57\]](#Ftn_57)
+37     Article 79, on its face, gives the second defendant’s members an unqualified right to remove a director and to appoint another person in his stead:[^57]
 
 The company may by ordinary resolution remove any director before the expiration of this period of office and may by an ordinary resolution appoint another person in his stead …
 
-38     The plaintiff takes the position that, notwithstanding the unqualified right conferred on the first defendant under Article 79, it would be a breach of the directorship right for the first defendant to vote in favour of removing the plaintiff as a director of the second defendant because he remains a shareholder of the second defendant. He also takes the position that the directorship right prevails over anything to the contrary in the second defendant’s corporate constitution.[\[note: 58\]](#Ftn_58)
+38     The plaintiff takes the position that, notwithstanding the unqualified right conferred on the first defendant under Article 79, it would be a breach of the directorship right for the first defendant to vote in favour of removing the plaintiff as a director of the second defendant because he remains a shareholder of the second defendant. He also takes the position that the directorship right prevails over anything to the contrary in the second defendant’s corporate constitution.[^58]
 
-39     As a result, the plaintiff characterises the first defendant’s attempt to remove him as a director of the second defendant as nothing more than an attempt: (i) to put pressure on him in connection with the sale of his shares and his ongoing action in S146 against the first defendant; (ii) to prevent him from having access to financial information about the second defendant which is relevant to a valuation of his shares; and (iii) to stifle the difficult questions which he has been asking of the first and second defendant about the latter’s Indian subsidiary.[\[note: 59\]](#Ftn_59) The defendants reject all of this as false and pure speculation.[\[note: 60\]](#Ftn_60)
+39     As a result, the plaintiff characterises the first defendant’s attempt to remove him as a director of the second defendant as nothing more than an attempt: (i) to put pressure on him in connection with the sale of his shares and his ongoing action in S146 against the first defendant; (ii) to prevent him from having access to financial information about the second defendant which is relevant to a valuation of his shares; and (iii) to stifle the difficult questions which he has been asking of the first and second defendant about the latter’s Indian subsidiary.[^59] The defendants reject all of this as false and pure speculation.[^60]
 
-40     The plaintiff also complains that the defendants are acting in concert to keep him in the dark about the affairs of the second defendant.[\[note: 61\]](#Ftn_61) The defendants reject all of these allegations too.[\[note: 62\]](#Ftn_62) They assert that they have provided to him all of the information to which he is entitled as a director and will continue to do so for as long as he remains a director. They further say that they will provide to him all of the information to which he is entitled as a shareholder for as long as he remains a shareholder.
+40     The plaintiff also complains that the defendants are acting in concert to keep him in the dark about the affairs of the second defendant.[^61] The defendants reject all of these allegations too.[^62] They assert that they have provided to him all of the information to which he is entitled as a director and will continue to do so for as long as he remains a director. They further say that they will provide to him all of the information to which he is entitled as a shareholder for as long as he remains a shareholder.
 
 41     These allegations and counter-allegations illustrate the animosity and mistrust which has poisoned a harmonious and successful working relationship which endured for decades. But they are ultimately irrelevant to the issue which I have to determine. That issue requires me to do no more than to determine whether plaintiff has the directorship right which he claims.
 
@@ -138,19 +139,19 @@ The company may by ordinary resolution remove any director before the expiration
 
 43     As a result, on 10 July 2018, the plaintiff commenced these proceedings.
 
-44     In these proceedings, the plaintiff seeks the following two heads of relief:[\[note: 63\]](#Ftn_63)
+44     In these proceedings, the plaintiff seeks the following two heads of relief:[^63]
 
 (a)     An order restraining the first defendant from voting at any general meeting of the second defendant to remove the plaintiff as a director of the second defendant so long as the plaintiff remains a shareholder of the second defendant;
 
 (b)     Alternatively, an order that the defendants (in effect) treat the plaintiff as though he were a director: by giving him the information, furnishing him the documents and providing him the notices to which a director is entitled, even if he were to be removed as a director at any time in the future.
 
-The plaintiff has withdrawn his alternative prayer for relief,[\[note: 64\]](#Ftn_64) leaving only his primary prayer for a permanent injunction to prevent the second defendant from breaching the plaintiff’s directorship right.
+The plaintiff has withdrawn his alternative prayer for relief,[^64] leaving only his primary prayer for a permanent injunction to prevent the second defendant from breaching the plaintiff’s directorship right.
 
 45     The plaintiff’s primary prayer is, therefore, the only issue I have to decide.
 
 ## The issues to be determined
 
-46     The plaintiff’s case on the directorship right proceeds in two steps.[\[note: 65\]](#Ftn_65) The first step is that cl 4.1.3.2 of the Agreement on its true construction confers upon him an express directorship right as a matter of contract. This clause stipulates that the plaintiff and Mr Chakraborty are to be the two members of the management team to be appointed directors of the second defendant:[\[note: 66\]](#Ftn_66)
+46     The plaintiff’s case on the directorship right proceeds in two steps.[^65] The first step is that cl 4.1.3.2 of the Agreement on its true construction confers upon him an express directorship right as a matter of contract. This clause stipulates that the plaintiff and Mr Chakraborty are to be the two members of the management team to be appointed directors of the second defendant:[^66]
 
 On Completion Date … \[the first defendant\] shall procure \[the second defendant\] to … appoint 5 directors to its board comprising … two persons from the Minority Shareholders, namely: \[the plaintiff\] and Prasun Chakraborty …
 
@@ -164,13 +165,13 @@ On Completion Date … \[the first defendant\] shall procure \[the second defend
 
 48     At this point, I note three important features of the plaintiff’s case against the defendants.
 
-49     First, the plaintiff rests the directorship right only on a _contractual_ right to hold office as a director so long as he remains a shareholder of the second defendant. He does not allege that removing him as a director would be oppressive to him within the meaning of s 216 of the Companies Act (Cap 50, 2006 Rev Ed) (“CA”). Further, the plaintiff confirms that he does not pray in aid any estoppel which might have arisen from the first defendant’s conduct over the many years since the parties entered into the Agreement which precludes the first defendant from now removing him as a director.[\[note: 67\]](#Ftn_67)
+49     First, the plaintiff rests the directorship right only on a _contractual_ right to hold office as a director so long as he remains a shareholder of the second defendant. He does not allege that removing him as a director would be oppressive to him within the meaning of s 216 of the Companies Act (Cap 50, 2006 Rev Ed) (“CA”). Further, the plaintiff confirms that he does not pray in aid any estoppel which might have arisen from the first defendant’s conduct over the many years since the parties entered into the Agreement which precludes the first defendant from now removing him as a director.[^67]
 
-50     Second, as a matter of contract, the plaintiff rests the directorship right on an _express_ term in the Agreement.[\[note: 68\]](#Ftn_68) As a result, the plaintiff does not allege that the directorship right is an _implied_ term of the Agreement.[\[note: 69\]](#Ftn_69) Nor does he allege that the directorship right springs from an overarching duty on the first defendant’s part to act towards the plaintiff in good faith, whether arising by reason of an implied term to that effect in the Agreement or, on the plaintiff’s case, as an implied aspect of the parties’ relationship as joint venturers.[\[note: 70\]](#Ftn_70)
+50     Second, as a matter of contract, the plaintiff rests the directorship right on an _express_ term in the Agreement.[^68] As a result, the plaintiff does not allege that the directorship right is an _implied_ term of the Agreement.[^69] Nor does he allege that the directorship right springs from an overarching duty on the first defendant’s part to act towards the plaintiff in good faith, whether arising by reason of an implied term to that effect in the Agreement or, on the plaintiff’s case, as an implied aspect of the parties’ relationship as joint venturers.[^70]
 
-51     Third, the plaintiff rests the directorship right only on cl 4.1.3.2 of the Agreement.[\[note: 71\]](#Ftn_71) The plaintiff does not suggest that the directorship right arises from any other clause in the Agreement.
+51     Third, the plaintiff rests the directorship right only on cl 4.1.3.2 of the Agreement.[^71] The plaintiff does not suggest that the directorship right arises from any other clause in the Agreement.
 
-52     Because the plaintiff relies on – and only on – an express contractual right arising from cl 4.1.3.2 of the Agreement, the only two issues I have to determine in these proceedings are the following:[\[note: 72\]](#Ftn_72)
+52     Because the plaintiff relies on – and only on – an express contractual right arising from cl 4.1.3.2 of the Agreement, the only two issues I have to determine in these proceedings are the following:[^72]
 
 (a)     Does cl 4.1.3.2 of the Agreement, on its proper construction, expressly confer the directorship right on the plaintiff?
 
@@ -208,11 +209,11 @@ On Completion Date … \[the first defendant\] shall procure \[the second defend
 
 ### Analysis of cl 4
 
-57     Applying these principles, the plaintiff argues that cl 4.1.3.2, properly construed, expressly confers upon him the directorship right, _ie_ a right to hold office as a director of the second defendant so long as he remains a shareholder of the second defendant.[\[note: 73\]](#Ftn_73) The plaintiff does, however, accept that cl 4.1.3.2 is capable of bearing another construction.[\[note: 74\]](#Ftn_74) The other construction – and the one which the defendants rely on – is that cl 4.1.3.2 sets out a one-off obligation to be performed only upon completion. On that construction, cl 4.1.3.2 confers upon the plaintiff only the right to be _appointed_ a director of the second defendant upon completion. It says nothing about the future. In in particular, it says nothing about whether the plaintiff has a right continuing into the future to hold office as a director so long as he remains a shareholder of the second defendant. Thus, the defendants argue, his application must fail.
+57     Applying these principles, the plaintiff argues that cl 4.1.3.2, properly construed, expressly confers upon him the directorship right, _ie_ a right to hold office as a director of the second defendant so long as he remains a shareholder of the second defendant.[^73] The plaintiff does, however, accept that cl 4.1.3.2 is capable of bearing another construction.[^74] The other construction – and the one which the defendants rely on – is that cl 4.1.3.2 sets out a one-off obligation to be performed only upon completion. On that construction, cl 4.1.3.2 confers upon the plaintiff only the right to be _appointed_ a director of the second defendant upon completion. It says nothing about the future. In in particular, it says nothing about whether the plaintiff has a right continuing into the future to hold office as a director so long as he remains a shareholder of the second defendant. Thus, the defendants argue, his application must fail.
 
-58     I reject the plaintiff’s submission on the proper construction of cl 4.1.3.2 and accept the defendants’ submission. For the reasons which follow, I find it impossible to construe an express directorship right out of cl 4.1.3.2 of the Agreement, either when its words are interpreted alone or when its effect is construed in context.[\[note: 75\]](#Ftn_75)
+58     I reject the plaintiff’s submission on the proper construction of cl 4.1.3.2 and accept the defendants’ submission. For the reasons which follow, I find it impossible to construe an express directorship right out of cl 4.1.3.2 of the Agreement, either when its words are interpreted alone or when its effect is construed in context.[^75]
 
-59     My first port of call (echoing _Soup Restaurant_, see \[55(c)\] above) is the wording of cl 4.1.3.2. To construe that wording, it is necessary reproduce cl 4 in full. It is only then that cl 4.1.3.2 can be construed in its proper textual, contractual and commercial context:[\[note: 76\]](#Ftn_76)
+59     My first port of call (echoing _Soup Restaurant_, see \[55(c)\] above) is the wording of cl 4.1.3.2. To construe that wording, it is necessary reproduce cl 4 in full. It is only then that cl 4.1.3.2 can be construed in its proper textual, contractual and commercial context:[^76]
 
 4.     **COMPLETION**
 
@@ -257,7 +258,7 @@ On Completion Date … \[the first defendant\] shall procure \[the second defend
 
 66     The plaintiff points in particular to cl 4.1.3.6. That limb of cl 4.1.3 sets out the parties’ right post-completion to remove and replace the bank signatories whom they nominated upon completion under cl 4.1.3.5. The parties’ right to remove signatories _post_\-completion is clearly nothing to do with their rights _upon_ completion. This supports the plaintiff’s argument that cl 4.1.3 was intended to address _both_ rights upon completion _and_ rights post-completion.
 
-67     Thus, as the plaintiff correctly points out, cl 4.1.3 deals both with the appointment of bank signatories upon completion and with the appointment of directors upon completion. As the plaintiff also correctly points out, cl 4.1.3 expressly provides for the parties to have a right post-completion to remove the bank signatories so appointed while making no equivalent express provision for the parties to have a right post-completion to remove the directors so appointed.[\[note: 77\]](#Ftn_77) Because of the absence of an equivalent express provision conferring a post-completion right to remove the directors so appointed, the plaintiff argues that cl 4.1.3.2 must be construed in context as expressly having excluded any such right of removal. The plaintiff concedes, however, that his construction cannot mean that he has a right to hold office as a director of the second defendant in perpetuity. He accepts that the express right which he draws out of cl 4.1.3.2 in this way continues only so long as he remains a shareholder of the second defendant.[\[note: 78\]](#Ftn_78) That is because the acquisition of those shares was the fundamental reason for the parties entering into the Agreement the first place.
+67     Thus, as the plaintiff correctly points out, cl 4.1.3 deals both with the appointment of bank signatories upon completion and with the appointment of directors upon completion. As the plaintiff also correctly points out, cl 4.1.3 expressly provides for the parties to have a right post-completion to remove the bank signatories so appointed while making no equivalent express provision for the parties to have a right post-completion to remove the directors so appointed.[^77] Because of the absence of an equivalent express provision conferring a post-completion right to remove the directors so appointed, the plaintiff argues that cl 4.1.3.2 must be construed in context as expressly having excluded any such right of removal. The plaintiff concedes, however, that his construction cannot mean that he has a right to hold office as a director of the second defendant in perpetuity. He accepts that the express right which he draws out of cl 4.1.3.2 in this way continues only so long as he remains a shareholder of the second defendant.[^78] That is because the acquisition of those shares was the fundamental reason for the parties entering into the Agreement the first place.
 
 68     For the reasons which follow, I reject the plaintiff’s submission on the significance of cl 4.1.3.6 in construing cl 4.1.3.2.
 
@@ -303,7 +304,7 @@ On Completion Date … \[the first defendant\] shall procure \[the second defend
 
 The \[management team\] are desirous of participating as shareholders of \[the second defendant\] with effect from 21 April 2003 (“the Completion Date”).
 
-80     The plaintiff’s submission is that the context supplied by Recital C shows that the management team’s desire to participate as shareholders of the second defendant underpinned the entire Agreement. From that, he submits that it follows that each right conferred on a member of the management team under the Agreement must be construed as enduring so long as that member remains a shareholder of the second defendant.[\[note: 79\]](#Ftn_79) This includes holding office as a director. Appointment to that office is one of the rights which the Agreement confers on the plaintiff as the most important member of the management team.[\[note: 80\]](#Ftn_80) The context supplied by Recital C therefore requires cl 4.1.3.2 to be construed as conferring upon the plaintiff a right to hold that office until he ceases to be a shareholder.
+80     The plaintiff’s submission is that the context supplied by Recital C shows that the management team’s desire to participate as shareholders of the second defendant underpinned the entire Agreement. From that, he submits that it follows that each right conferred on a member of the management team under the Agreement must be construed as enduring so long as that member remains a shareholder of the second defendant.[^79] This includes holding office as a director. Appointment to that office is one of the rights which the Agreement confers on the plaintiff as the most important member of the management team.[^80] The context supplied by Recital C therefore requires cl 4.1.3.2 to be construed as conferring upon the plaintiff a right to hold that office until he ceases to be a shareholder.
 
 81     I reject this argument. There is nothing in the phrase “participation as shareholders” which casts any light on the plaintiff’s right to participate in the management of the second defendant. Further, the argument which goes from the manifestation of that desire in Recital C to supplying an enduring temporal scope to the rights conferred by the Agreement is based on a _non sequitur_.
 
@@ -315,7 +316,7 @@ The \[management team\] are desirous of participating as shareholders of \[the s
 
 #### Immediate removal
 
-85     The plaintiff also relies on Recital C to argue that the defendants’ construction makes no commercial sense. His argument is that, if cl 4.1.3.2 properly construed confers upon the plaintiff only a right to hold office as a director upon completion, that undermines the entire commercial purpose of the Agreement as manifested in Recital C. Upon completion, the first defendant transferred 25% of the second defendant to the plaintiff, took his money in exchange and appointed him a director of the second defendant and its managing director. If the defendant’s construction is correct, an instant after completion, without breaching any provision of the Agreement, the first defendant could have removed the plaintiff as a director.[\[note: 81\]](#Ftn_81) The plaintiff argues that this construction does not result in the plaintiff participating as a shareholder of the second defendant within the meaning of Recital C. It renders the first defendant’s obligation to the plaintiff under cl 4.1.3.2 illusory, devoid of all contractual content and bereft of all commercial utility. The plaintiff argues that the result of the defendants’ construction is especially absurd bearing in mind that cl 4.1.3.2 also obliges the first defendant to procure the plaintiff’s appointment as managing director of the second defendant upon completion.
+85     The plaintiff also relies on Recital C to argue that the defendants’ construction makes no commercial sense. His argument is that, if cl 4.1.3.2 properly construed confers upon the plaintiff only a right to hold office as a director upon completion, that undermines the entire commercial purpose of the Agreement as manifested in Recital C. Upon completion, the first defendant transferred 25% of the second defendant to the plaintiff, took his money in exchange and appointed him a director of the second defendant and its managing director. If the defendant’s construction is correct, an instant after completion, without breaching any provision of the Agreement, the first defendant could have removed the plaintiff as a director.[^81] The plaintiff argues that this construction does not result in the plaintiff participating as a shareholder of the second defendant within the meaning of Recital C. It renders the first defendant’s obligation to the plaintiff under cl 4.1.3.2 illusory, devoid of all contractual content and bereft of all commercial utility. The plaintiff argues that the result of the defendants’ construction is especially absurd bearing in mind that cl 4.1.3.2 also obliges the first defendant to procure the plaintiff’s appointment as managing director of the second defendant upon completion.
 
 86     I reject this argument. It is clear that, throughout the 30-year relationship between the plaintiff and the first defendant, their incentives have been largely aligned. That is no doubt why the parties have, throughout those 30 years, enjoyed a remarkably good relationship based on a high degree of mutual trust and confidence and an enduring spirit of good faith. That is why the first defendant transferred its C&E division to the second defendant in 2002, even before the parties had agreed the terms on which the management team would participate as shareholders in the second defendant. That is why the management team accepted the transfer of their employment to the second defendant and paid $200,000 to the first defendant in 2002 as a deposit against the price of the shares to be transferred to them, even though the terms on which they would acquire those shares were still being negotiated. That is why the first defendant appointed the plaintiff a director of the second defendant and its managing director in April 2002, even though it undertook no obligation to do so until the parties entered into the Agreement in April 2003. That is why the Agreement treats the management team as having had an entitlement to participate in the profits of the second defendant from April 2002 even though they did not become shareholders of the second defendant until completion under the Agreement in April 2003.
 
@@ -331,7 +332,7 @@ As to any of the provisions of this Agreement remaining to be performed or capab
 
 The plaintiff relies on cl 16.2 not as an aid to construing cl 4.1.3.2 in context but as a contractual provision which has the effect of extending the temporal scope of cl 4.1.3.2.
 
-90     The plaintiff argues that cl 4.1.3.2, when read with cl 16.2, means that the plaintiff’s express right to hold office as a director of the second defendant upon completion remains in full force and effect even after completion, ceasing only when the plaintiff ceases to participate in the second defendant as a shareholder.[\[note: 82\]](#Ftn_82) This would give effect to the parties’ stated intention in Recital C that the purpose of the Agreement was for the plaintiff to participate as a shareholder in the second defendant.
+90     The plaintiff argues that cl 4.1.3.2, when read with cl 16.2, means that the plaintiff’s express right to hold office as a director of the second defendant upon completion remains in full force and effect even after completion, ceasing only when the plaintiff ceases to participate in the second defendant as a shareholder.[^82] This would give effect to the parties’ stated intention in Recital C that the purpose of the Agreement was for the plaintiff to participate as a shareholder in the second defendant.
 
 91     I reject this argument. The purpose of cl 16.2 is indeed to extend the temporal scope of clauses in the Agreement. But cl 16.2 operates only on two types of clauses: (i) clauses which remain to be performed after completion; and (ii) clauses which are capable of having effect after completion. Only those clauses which fall within one or other of those two categories are to “remain in full force and effect notwithstanding Completion”.
 
@@ -343,23 +344,23 @@ The plaintiff relies on cl 16.2 not as an aid to construing cl 4.1.3.2 in contex
 
 #### The defendants allowed the plaintiff to exercise powers as a director
 
-95     The plaintiff also relies on the fact that, after he stepped down as the second defendant’s Executive Chairman on 31 March 2017, he continued to exercise his powers as a director of the second defendant. He signed board resolutions in writing and also sent emails in that capacity. The defendants did not oppose or object to any of this. The plaintiff submits that the defendants’ failure to object then is inconsistent with their position now that they can remove the plaintiff as director at any time[\[note: 83\]](#Ftn_83) and is also inconsistent with their position now that he has no basis to remain a director of the second defendant if his employment with the second defendant has ceased. [\[note: 84\]](#Ftn_84)
+95     The plaintiff also relies on the fact that, after he stepped down as the second defendant’s Executive Chairman on 31 March 2017, he continued to exercise his powers as a director of the second defendant. He signed board resolutions in writing and also sent emails in that capacity. The defendants did not oppose or object to any of this. The plaintiff submits that the defendants’ failure to object then is inconsistent with their position now that they can remove the plaintiff as director at any time[^83] and is also inconsistent with their position now that he has no basis to remain a director of the second defendant if his employment with the second defendant has ceased. [^84]
 
 96     The plaintiff’s reliance on the defendants’ failure to object to his exercise of the powers of a director is misguided. As stated earlier, the subsequent conduct of parties, as a general rule, is not a legitimate aid when construing a contract, even under the contextual approach: _Zurich Insurance_ at \[132(d)\].
 
-97     In any case, the fact that the defendants allowed the plaintiff to exercise his powers as a director of the second defendant even after he ceased to be an employee of the second defendant is at best a neutral indication as regards the existence of the directorship right.[\[note: 85\]](#Ftn_85) The defendants’ position in these proceedings is simply a rejection of the plaintiff’s position that his status as a director is and always has been connected to his status as a shareholder.[\[note: 86\]](#Ftn_86) Allowing the plaintiff to exercise his powers as a director of the second defendant after he ceased to be employed by the second defendant but while he continued to be a director is not inconsistent with the defendants’ position.[\[note: 87\]](#Ftn_87)
+97     In any case, the fact that the defendants allowed the plaintiff to exercise his powers as a director of the second defendant even after he ceased to be an employee of the second defendant is at best a neutral indication as regards the existence of the directorship right.[^85] The defendants’ position in these proceedings is simply a rejection of the plaintiff’s position that his status as a director is and always has been connected to his status as a shareholder.[^86] Allowing the plaintiff to exercise his powers as a director of the second defendant after he ceased to be employed by the second defendant but while he continued to be a director is not inconsistent with the defendants’ position.[^87]
 
 98     Indeed, it appears to me that this aspect of the defendants’ conduct is entirely consistent with their position. It is implicit in their position that the plaintiff is entitled to exercise the powers of a director so long as he holds office as a director; and ceases to be entitled to do so when he ceases to hold office as a director, whether by resignation or removal in accordance with Article 79. Throughout the time that the defendants allowed the plaintiff to exercise the powers of a director, he held the office of a director and was entitled to do so. That is the very reason the defendants now want to remove him as a director: to bring that state of affairs to an end. That is also the very reason the defendants oppose his application: they deny any legal impediment to their unqualified right under Article 79 of the second defendant’s corporate constitution to remove him as a director and thereby to bring to an end his entitlement to exercise the powers of a director.
 
 #### The first defendant’s offer in January 2018
 
-99     The plaintiff also argues that the first defendant’s current position is inconsistent with its open offer,[\[note: 88\]](#Ftn_88) made through solicitors in January 2018, to purchase the plaintiff’s shares in the second defendant on condition that he resign as a director of the second defendant:[\[note: 89\]](#Ftn_89)
+99     The plaintiff also argues that the first defendant’s current position is inconsistent with its open offer,[^88] made through solicitors in January 2018, to purchase the plaintiff’s shares in the second defendant on condition that he resign as a director of the second defendant:[^89]
 
 … In the interests of resolving this matter expeditiously, our client is prepared to purchase your client’s 25% shareholding based on the FY 2017 NTA value ... on the following terms:
 
 a.    Your client’s resignation as director upon the signing of the formal Sale and Purchase Agreement; ...
 
-100    The plaintiff acknowledges that the first defendant’s request for the plaintiff to resign as a director of the second defendant upon his exit as a shareholder does not amount to an admission of the directorship right.[\[note: 90\]](#Ftn_90) Nevertheless, the plaintiff argues that the fact that the first defendant made that request reflects its own understanding that the plaintiff’s right to hold office as a director of the second defendant came to an end only when he ceased to be a shareholder.[\[note: 91\]](#Ftn_91)
+100    The plaintiff acknowledges that the first defendant’s request for the plaintiff to resign as a director of the second defendant upon his exit as a shareholder does not amount to an admission of the directorship right.[^90] Nevertheless, the plaintiff argues that the fact that the first defendant made that request reflects its own understanding that the plaintiff’s right to hold office as a director of the second defendant came to an end only when he ceased to be a shareholder.[^91]
 
 101    I reject this argument. The first defendant’s open offer is also, of course, subsequent conduct in relation to the Agreement. As I have already pointed out, subsequent conduct is generally not a legitimate aid when construing a contract, even under the contextual approach (see \[96\] above).
 
@@ -373,39 +374,39 @@ a.    Your client’s resignation as director upon the signing of the formal
 
 105    The remainder of the plaintiff’s submissions are not positive arguments why the directorship right exists under the Agreement. Instead, they are counterarguments put forward to meet and defeat the defendants’ arguments as to why the directorship right does not exist. Proving these counterarguments to be true does not assist the plaintiff to prove his case that the directorship right exists.
 
-106    First, the plaintiff rejects the defendants’ argument that the plaintiff has no reason to continue to hold office as a director of the second defendant after his employment[\[note: 92\]](#Ftn_92) as Executive Chairman ceased on 1 April 2017.[\[note: 93\]](#Ftn_93) I have no difficulty in accepting that point. As matter of construction, cl 4.1.3.2 does not connect the plaintiff’s status as a director of the second defendant to his status as an employee of the second defendant. But accepting that point does not assist the plaintiff in establishing his case that cl 4.1.3.2 is an express term of the Agreement which connects his right to hold office as a director of the second defendant legally and permanently to his status as a shareholder of the second defendant.
+106    First, the plaintiff rejects the defendants’ argument that the plaintiff has no reason to continue to hold office as a director of the second defendant after his employment[^92] as Executive Chairman ceased on 1 April 2017.[^93] I have no difficulty in accepting that point. As matter of construction, cl 4.1.3.2 does not connect the plaintiff’s status as a director of the second defendant to his status as an employee of the second defendant. But accepting that point does not assist the plaintiff in establishing his case that cl 4.1.3.2 is an express term of the Agreement which connects his right to hold office as a director of the second defendant legally and permanently to his status as a shareholder of the second defendant.
 
-107    Second, the plaintiff rejects as disingenuous the defendants’ argument that the plaintiff seeks to be a director of the plaintiff in perpetuity. The plaintiff deflects that argument by pointing out that his formulation of the directorship right incorporates a temporal limitation, _ie_ it comes to an end once he ceases to be a shareholder.[\[note: 94\]](#Ftn_94) I likewise have no difficulty in accepting that the plaintiff does not, in these proceedings, assert a right to remain a director of the second defendant in perpetuity. But, once again, accepting that point does not assist the plaintiff’s case. Clause 4.1.3.2 construed in context does not give the plaintiff an express right to hold office as a director post-completion. Incorporating a temporal limitation into his formulation of that right does not assist the plaintiff in establishing his case that the directorship right exists as an express contractual right under cl 4.1.3.2 of the Agreement.
+107    Second, the plaintiff rejects as disingenuous the defendants’ argument that the plaintiff seeks to be a director of the plaintiff in perpetuity. The plaintiff deflects that argument by pointing out that his formulation of the directorship right incorporates a temporal limitation, _ie_ it comes to an end once he ceases to be a shareholder.[^94] I likewise have no difficulty in accepting that the plaintiff does not, in these proceedings, assert a right to remain a director of the second defendant in perpetuity. But, once again, accepting that point does not assist the plaintiff’s case. Clause 4.1.3.2 construed in context does not give the plaintiff an express right to hold office as a director post-completion. Incorporating a temporal limitation into his formulation of that right does not assist the plaintiff in establishing his case that the directorship right exists as an express contractual right under cl 4.1.3.2 of the Agreement.
 
 ### The cases
 
 108    I turn now to consider the three principal authorities which the defendants cite.
 
-109    The defendants rely on the case of _Paillart Philippe Marcel Etienne and another v Eban Stuart Ashley and another_ (“_Paillart_”). In that case, a clause in a shareholders’ agreement expressly provided that the minority shareholder was entitled to hold office as a director so long as he held no less than 10% of the company’s shares (at \[47\]).[\[note: 95\]](#Ftn_95) The majority shareholder convened a general meeting to remove the minority shareholder as a director. The minority shareholder secured a permanent injunction restraining the removal.
+109    The defendants rely on the case of _Paillart Philippe Marcel Etienne and another v Eban Stuart Ashley and another_ (“_Paillart_”). In that case, a clause in a shareholders’ agreement expressly provided that the minority shareholder was entitled to hold office as a director so long as he held no less than 10% of the company’s shares (at \[47\]).[^95] The majority shareholder convened a general meeting to remove the minority shareholder as a director. The minority shareholder secured a permanent injunction restraining the removal.
 
-110    The defendants rely on _Paillart_ to argue that the minority shareholder succeeded there only because he had the benefit of an express clause which conferred a continuing right to hold office as a director, and which connected that right to his continued status as a shareholder. The plaintiff rejects this distinction and turns the defendants’ argument on its head.[\[note: 96\]](#Ftn_96) The plaintiff submits that, because cl 4.1.3.2 specifies no minimum for his shareholding in the second defendant, unlike the clause in _Paillart_, he is entitled to hold office as a director of the second defendant so long as he holds _any_ shares in the defendant.[\[note: 97\]](#Ftn_97) The plaintiff also points out that, unlike the plaintiff in _Paillart_, the plaintiff’s shareholding in the second defendant has not changed since he acquired his shares in April 2003.
+110    The defendants rely on _Paillart_ to argue that the minority shareholder succeeded there only because he had the benefit of an express clause which conferred a continuing right to hold office as a director, and which connected that right to his continued status as a shareholder. The plaintiff rejects this distinction and turns the defendants’ argument on its head.[^96] The plaintiff submits that, because cl 4.1.3.2 specifies no minimum for his shareholding in the second defendant, unlike the clause in _Paillart_, he is entitled to hold office as a director of the second defendant so long as he holds _any_ shares in the defendant.[^97] The plaintiff also points out that, unlike the plaintiff in _Paillart_, the plaintiff’s shareholding in the second defendant has not changed since he acquired his shares in April 2003.
 
 111    I accept the defendants’ submissions on _Paillart_ and reject the plaintiff’s. The plaintiff cannot establish the directorship right by pointing out that there is no minimum shareholding specified in cl 4.1.3.2 of the Agreement whereas there was such a minimum shareholding specified in _Paillart_. That ground of distinction assumes what it sets out to prove, _ie_ that cl 4.1.3.2 confers upon the plaintiff an express directorship right. Construed in context, for the reasons I have set out above, cl 4.1.3.2 does not.
 
-112    The next case which the defendants cite is _Ng Sing King and others v PSA International Pte Ltd and others_ (“_Ng Sing King_”). In that case, a shareholders’ agreement specified expressly that the office of chief executive officer “shall _initially_” be held by the plaintiff. The shareholders’ agreement also expressly provided both for a right of appointment and a right of removal of the chief executive officer (at \[149\]). The defendants submit that _Ng Sing King_ supports their position because cl 4.1.3.2 likewise provides that the persons named in that clause are to hold office as directors only upon completion, and makes no provision post-completion. The plaintiff’s response again turns the defendant’s argument on its head. He submits that _Ng Sing King_ supports the plaintiff’s position because cl 4.1.3.2: (i) does not expressly provide that the persons named in the clause are the “initial” directors of the second defendant; and (ii) makes no provision as to how directors may be removed.[\[note: 98\]](#Ftn_98)
+112    The next case which the defendants cite is _Ng Sing King and others v PSA International Pte Ltd and others_ (“_Ng Sing King_”). In that case, a shareholders’ agreement specified expressly that the office of chief executive officer “shall _initially_” be held by the plaintiff. The shareholders’ agreement also expressly provided both for a right of appointment and a right of removal of the chief executive officer (at \[149\]). The defendants submit that _Ng Sing King_ supports their position because cl 4.1.3.2 likewise provides that the persons named in that clause are to hold office as directors only upon completion, and makes no provision post-completion. The plaintiff’s response again turns the defendant’s argument on its head. He submits that _Ng Sing King_ supports the plaintiff’s position because cl 4.1.3.2: (i) does not expressly provide that the persons named in the clause are the “initial” directors of the second defendant; and (ii) makes no provision as to how directors may be removed.[^98]
 
 113    I accept the defendants’ submissions and reject the plaintiff’s submissions. Once again, the plaintiff assumes that which he is attempting to prove. The plaintiff is indeed correct that the word “initially” is absent from cl 4.1.3.2. But the critical point is that cl 4.1.3.2, properly construed, is static. That is the effect of the introductory words of cl 4.1 read together with the introductory words of cl 4.1.3. Those introductory words taken together mean that the first defendant’s obligation to procure the second defendant to appoint the persons named in cl 4.1.3 to be directors of the second defendant was to be performed upon completion. The plaintiff’s second argument is that the absence of a clause in cl 4.1 specifying how directors can be removed means that directors cannot be removed so long as they remain shareholders. That amounts to using the process of construction to fill what is said to be a gap in cl 4.1 by supplying far too much positive content.
 
-114    The final case that the defendants rely on is _Cosmic Insurance Corp Ltd v Khoo Chiang Poh_ (“_Cosmic Insurance_”). In that case, the contract provided that the director “shall be the managing director _for life_ unless he resigns, dies or commits an offence under the Companies Act …” \[emphasis added\] (at \[8\]). The defendants argue that what is missing in cl 4.1.3.2 is this sort of express language extending the director’s right to hold office into the future. The plaintiff, in contrast, emphasises that the _absence_ in cl 4.1.3.2 of any restriction on the duration of the plaintiff’s appointment and the _absence_ of any procedure for the plaintiff’s removal both suggest that the parties intended his appointment to continue throughout the term of the Agreement, _ie_ so long as he remains a shareholder.[\[note: 99\]](#Ftn_99)
+114    The final case that the defendants rely on is _Cosmic Insurance Corp Ltd v Khoo Chiang Poh_ (“_Cosmic Insurance_”). In that case, the contract provided that the director “shall be the managing director _for life_ unless he resigns, dies or commits an offence under the Companies Act …” \[emphasis added\] (at \[8\]). The defendants argue that what is missing in cl 4.1.3.2 is this sort of express language extending the director’s right to hold office into the future. The plaintiff, in contrast, emphasises that the _absence_ in cl 4.1.3.2 of any restriction on the duration of the plaintiff’s appointment and the _absence_ of any procedure for the plaintiff’s removal both suggest that the parties intended his appointment to continue throughout the term of the Agreement, _ie_ so long as he remains a shareholder.[^99]
 
 115    Once again, I accept the defendants’ submissions and reject the plaintiff’s. The introductory words in cl 4.1 and cl 4.1.3 read in context govern the temporal scope of cl 4.1.3.2. That clause cannot be construed as expressly extending into the future without some further words of a temporal nature appearing in the clause to counteract the introductory words. An example of how the effect of those introductory words could be counteracted is supplied by cl 4.1.3.6. Likewise, the words “for life” in _Cosmic Insurance_ manifested an objective intent that the directors’ appointment in that case was to continue into the future. There are no such words in cl 4.1.3.2. _Cosmic Insurance_ assists the defendants and not the plaintiff.
 
 ### Majority rule
 
-116    The defendants emphasise the general rule in company law that, in matters internal to a company, the will of the majority prevails save in exceptional and well-defined situations such as where there is minority oppression or a fraud on the minority.[\[note: 100\]](#Ftn_100) The courts do not act as a supervisory board over the decisions of the majority: _Over & Over Ltd v Bonvests Holdings Ltd and another_ ; _Howard Smith Ltd v Ampol Petroleum Ltd and others_ . As I have pointed out at the outset, the plaintiff makes no allegations of oppression or fraud on the minority in this case. The plaintiff makes no attempt to bring his claim to restrain the first defendant’s exercise of its voting power at the second defendant’s general meeting within the statutory exceptions to majority rule established by s 216 or s 216A of the CA. The plaintiff responds by pointing out that, even if the plaintiff secures a permanent injunction in these proceedings, the will of the majority will not be thwarted because three out of the second defendant’s five directors will be directors appointed by the first defendant.[\[note: 101\]](#Ftn_101)
+116    The defendants emphasise the general rule in company law that, in matters internal to a company, the will of the majority prevails save in exceptional and well-defined situations such as where there is minority oppression or a fraud on the minority.[^100] The courts do not act as a supervisory board over the decisions of the majority: _Over & Over Ltd v Bonvests Holdings Ltd and another_ ; _Howard Smith Ltd v Ampol Petroleum Ltd and others_ . As I have pointed out at the outset, the plaintiff makes no allegations of oppression or fraud on the minority in this case. The plaintiff makes no attempt to bring his claim to restrain the first defendant’s exercise of its voting power at the second defendant’s general meeting within the statutory exceptions to majority rule established by s 216 or s 216A of the CA. The plaintiff responds by pointing out that, even if the plaintiff secures a permanent injunction in these proceedings, the will of the majority will not be thwarted because three out of the second defendant’s five directors will be directors appointed by the first defendant.[^101]
 
-117    I accept the defendants’ submission and reject the plaintiff’s submissions. As a matter of contract law, I have found that the plaintiff enjoys no directorship right under cl 4.1.3.2 of the Agreement. As a matter of company law, in the absence of any applicable exception to the principle of majority rule, the first defendant has the right under Article 79 of the second defendant’s corporate constitution to vote in favour of removing the plaintiff – or indeed any of the second defendant’s directors – for any reason or for no reason. It is therefore not to the point that the defendants have given no reason why the plaintiff is to be removed.[\[note: 102\]](#Ftn_102) Further, the will of the majority in question here is the will of the majority of the shareholders, not the majority of the directors. Ultimate power in a company lies with the shareholders of the company in general meeting, not with the directors at board meetings.
+117    I accept the defendants’ submission and reject the plaintiff’s submissions. As a matter of contract law, I have found that the plaintiff enjoys no directorship right under cl 4.1.3.2 of the Agreement. As a matter of company law, in the absence of any applicable exception to the principle of majority rule, the first defendant has the right under Article 79 of the second defendant’s corporate constitution to vote in favour of removing the plaintiff – or indeed any of the second defendant’s directors – for any reason or for no reason. It is therefore not to the point that the defendants have given no reason why the plaintiff is to be removed.[^102] Further, the will of the majority in question here is the will of the majority of the shareholders, not the majority of the directors. Ultimate power in a company lies with the shareholders of the company in general meeting, not with the directors at board meetings.
 
 118    The first defendant’s proposal to remove the plaintiff as a director of the second defendant is an exercise of the will of the majority. The plaintiff has shown no express contractual term which gives him a basis to restrain the exercise of the first defendant’s rights as a matter of contract law. The plaintiff has also alleged no basis to restrain the exercise of that right as a matter of company law. The plaintiff’s application, if granted, would impinge on the lawful exercise of the majority’s will at general meeting without any legal basis. The plaintiff’s application must fail.
 
 ## The second issue
 
-119    In relation to the second issue before me (see \[52\] above), the plaintiff argues that the express effect of cl 16.3 of the Agreement is that the directorship right conferred by cl 4.1.3.2 must prevail over the inconsistency in Article 79 of the second defendant’s corporate constitution, insofar as Article 79 allows the first defendant an unqualified right to remove the plaintiff as a director even while he remains a shareholder. Indeed, the plaintiff submits that not only does cl 16.3 stipulate that the directorship right under cl 4.1.3.2 must prevail over Article 79, the clause obliges the parties jointly to amend Article 79 to remove the inconsistency.[\[note: 103\]](#Ftn_103)
+119    In relation to the second issue before me (see \[52\] above), the plaintiff argues that the express effect of cl 16.3 of the Agreement is that the directorship right conferred by cl 4.1.3.2 must prevail over the inconsistency in Article 79 of the second defendant’s corporate constitution, insofar as Article 79 allows the first defendant an unqualified right to remove the plaintiff as a director even while he remains a shareholder. Indeed, the plaintiff submits that not only does cl 16.3 stipulate that the directorship right under cl 4.1.3.2 must prevail over Article 79, the clause obliges the parties jointly to amend Article 79 to remove the inconsistency.[^103]
 
 120    Given that I have found against the plaintiff on the first issue, the second issue does not arise for consideration.
 
@@ -417,221 +418,221 @@ a.    Your client’s resignation as director upon the signing of the formal
 
 123    As a matter of interpretation, cl 4.1.3.2 takes effect upon completion. As a matter of construction, Recital C and cl 4.1.3.6 are of no assistance to the plaintiff in drawing the directorship right out of cl 4.1.3.2 as an express right. Clause 16.2 does not apply to cl 4.1.3.2 and cannot extend its temporal scope post-completion.
 
-124    It is true that cl 4.1.3.2 is completely silent as to whether a director appointed under that clause upon completion is entitled to continue to hold office post-completion. It is also completely silent on how a director appointed under cl 4.1.3.2 may be removed. The plaintiff seeks to fill that silence by rewriting cl 4.1.3.2 through an open-ended process of contextual construction in order to confer the directorship right upon him. That stretches the contextual approach beyond its legitimate limits. If the Agreement is silent on these aspects, the contextual approach cannot assist the plaintiff. These aspects of the parties’ bargain fall to be governed by the second defendant’s corporate constitution.[\[note: 104\]](#Ftn_104)
+124    It is true that cl 4.1.3.2 is completely silent as to whether a director appointed under that clause upon completion is entitled to continue to hold office post-completion. It is also completely silent on how a director appointed under cl 4.1.3.2 may be removed. The plaintiff seeks to fill that silence by rewriting cl 4.1.3.2 through an open-ended process of contextual construction in order to confer the directorship right upon him. That stretches the contextual approach beyond its legitimate limits. If the Agreement is silent on these aspects, the contextual approach cannot assist the plaintiff. These aspects of the parties’ bargain fall to be governed by the second defendant’s corporate constitution.[^104]
 
-125    The plaintiff has failed to establish his case in these proceedings. I have therefore dismissed the plaintiff’s application with costs. I have further ordered the plaintiff to pay the defendants’ costs of and incidental to these proceedings fixed at $10,000 excluding reasonable disbursements, which are to be taxed if not agreed.[\[note: 105\]](#Ftn_105)
+125    The plaintiff has failed to establish his case in these proceedings. I have therefore dismissed the plaintiff’s application with costs. I have further ordered the plaintiff to pay the defendants’ costs of and incidental to these proceedings fixed at $10,000 excluding reasonable disbursements, which are to be taxed if not agreed.[^105]
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)HC/SUM 3173/2018 on 18 July 2018.
+[^1]: HC/SUM 3173/2018 on 18 July 2018.
 
-[\[note: 2\]](#Ftn_2_1)First affidavit of Debotosh Lodh filed on 10 July 2018, paragraph 28.
+[^2]: First affidavit of Debotosh Lodh filed on 10 July 2018, paragraph 28.
 
-[\[note: 3\]](#Ftn_3_1)Certified transcript of 18 July 2018; the plaintiff’s written submissions dated 30 July 2018, paragraph 13.
+[^3]: Certified transcript of 18 July 2018; the plaintiff’s written submissions dated 30 July 2018, paragraph 13.
 
-[\[note: 4\]](#Ftn_4_1)Affidavit of Loh Kai Keong filed on 17 July 2018, paragraph 12.
+[^4]: Affidavit of Loh Kai Keong filed on 17 July 2018, paragraph 12.
 
-[\[note: 5\]](#Ftn_5_1)Affidavit of Loh Kai Keong filed on 17 July 2018, paragraph 7.
+[^5]: Affidavit of Loh Kai Keong filed on 17 July 2018, paragraph 7.
 
-[\[note: 6\]](#Ftn_6_1)Affidavit of Kok Wui Hoong filed on 17 July 2018, paragraph 1.
+[^6]: Affidavit of Kok Wui Hoong filed on 17 July 2018, paragraph 1.
 
-[\[note: 7\]](#Ftn_7_1)First affidavit of Debotosh Lodh filed on 10 July 2018, paragraph 18.
+[^7]: First affidavit of Debotosh Lodh filed on 10 July 2018, paragraph 18.
 
-[\[note: 8\]](#Ftn_8_1)Affidavit of Loh Kai Keong filed on 17 July 2018, paragraph 1.
+[^8]: Affidavit of Loh Kai Keong filed on 17 July 2018, paragraph 1.
 
-[\[note: 9\]](#Ftn_9_1)Affidavit of Loh Kai Keong filed on 17 July 2018, paragraphs 1, 13.
+[^9]: Affidavit of Loh Kai Keong filed on 17 July 2018, paragraphs 1, 13.
 
-[\[note: 10\]](#Ftn_10_1)Affidavit of Loh Kai Keong filed on 17 July 2018, paragraphs 12 to 13.
+[^10]: Affidavit of Loh Kai Keong filed on 17 July 2018, paragraphs 12 to 13.
 
-[\[note: 11\]](#Ftn_11_1)First affidavit of Debotosh Lodh filed on 10 July 2018, paragraph 4.
+[^11]: First affidavit of Debotosh Lodh filed on 10 July 2018, paragraph 4.
 
-[\[note: 12\]](#Ftn_12_1)First affidavit of Debotosh Lodh filed on 10 July 2018, paragraph 19; affidavit of Loh Kai Keong filed on 17 July 2018, paragraph 41.
+[^12]: First affidavit of Debotosh Lodh filed on 10 July 2018, paragraph 19; affidavit of Loh Kai Keong filed on 17 July 2018, paragraph 41.
 
-[\[note: 13\]](#Ftn_13_1)Affidavit of Loh Kai Keong filed on 17 July 2018, paragraph 10.
+[^13]: Affidavit of Loh Kai Keong filed on 17 July 2018, paragraph 10.
 
-[\[note: 14\]](#Ftn_14_1)First affidavit of Debotosh Lodh filed on 10 July 2018, paragraphs 4 to 5; affidavit of Loh Kai Keong filed on 17 July 2018, paragraph 9.
+[^14]: First affidavit of Debotosh Lodh filed on 10 July 2018, paragraphs 4 to 5; affidavit of Loh Kai Keong filed on 17 July 2018, paragraph 9.
 
-[\[note: 15\]](#Ftn_15_1)First affidavit of Debotosh Lodh filed on 10 July 2018, page 21, Recital (B).
+[^15]: First affidavit of Debotosh Lodh filed on 10 July 2018, page 21, Recital (B).
 
-[\[note: 16\]](#Ftn_16_1)First affidavit of Debotosh Lodh filed on 10 July 2018, page 136.
+[^16]: First affidavit of Debotosh Lodh filed on 10 July 2018, page 136.
 
-[\[note: 17\]](#Ftn_17_1)First affidavit of Debotosh Lodh filed on 10 July 2018, page 23, cl 2.1.2.
+[^17]: First affidavit of Debotosh Lodh filed on 10 July 2018, page 23, cl 2.1.2.
 
-[\[note: 18\]](#Ftn_18_1)First affidavit of Debotosh Lodh filed on 10 July 2018, page 23, cl 2.1.1.
+[^18]: First affidavit of Debotosh Lodh filed on 10 July 2018, page 23, cl 2.1.1.
 
-[\[note: 19\]](#Ftn_19_1)First affidavit of Debotosh Lodh filed on 10 July 2018, page 23, cl 3.1.1.
+[^19]: First affidavit of Debotosh Lodh filed on 10 July 2018, page 23, cl 3.1.1.
 
-[\[note: 20\]](#Ftn_20_1)First affidavit of Debotosh Lodh filed on 10 July 2018, page 21.
+[^20]: First affidavit of Debotosh Lodh filed on 10 July 2018, page 21.
 
-[\[note: 21\]](#Ftn_21_1)First affidavit of Debotosh Lodh filed on 10 July 2018, paragraph 7.
+[^21]: First affidavit of Debotosh Lodh filed on 10 July 2018, paragraph 7.
 
-[\[note: 22\]](#Ftn_22_1)First affidavit of Debotosh Lodh filed on 10 July 2018, paragraph 7.
+[^22]: First affidavit of Debotosh Lodh filed on 10 July 2018, paragraph 7.
 
-[\[note: 23\]](#Ftn_23_1)Affidavit of Loh Kai Keong filed on 17 July 2018, paragraph 9.
+[^23]: Affidavit of Loh Kai Keong filed on 17 July 2018, paragraph 9.
 
-[\[note: 24\]](#Ftn_24_1)Affidavit of Loh Kai Keong filed on 17 July 2018, paragraph 9.
+[^24]: Affidavit of Loh Kai Keong filed on 17 July 2018, paragraph 9.
 
-[\[note: 25\]](#Ftn_25_1)First affidavit of Debotosh Lodh filed on 10 July 2018, page 21.
+[^25]: First affidavit of Debotosh Lodh filed on 10 July 2018, page 21.
 
-[\[note: 26\]](#Ftn_26_1)Affidavit of Loh Kai Keong filed on 17 July 2018, paragraphs 9 to 11; first affidavit of Debotosh Lodh filed on 10 July 2018, page 24, cl 4.1.1.
+[^26]: Affidavit of Loh Kai Keong filed on 17 July 2018, paragraphs 9 to 11; first affidavit of Debotosh Lodh filed on 10 July 2018, page 24, cl 4.1.1.
 
-[\[note: 27\]](#Ftn_27_1)First affidavit of Debotosh Lodh filed on 10 July 2018, paragraph 4; page 23, cl 3.1.1.
+[^27]: First affidavit of Debotosh Lodh filed on 10 July 2018, paragraph 4; page 23, cl 3.1.1.
 
-[\[note: 28\]](#Ftn_28_1)First affidavit of Debotosh Lodh filed on 10 July 2018, page 24, cl 4.
+[^28]: First affidavit of Debotosh Lodh filed on 10 July 2018, page 24, cl 4.
 
-[\[note: 29\]](#Ftn_29_1)First affidavit of Debotosh Lodh filed on 10 July 2018, pages 136 to 137.
+[^29]: First affidavit of Debotosh Lodh filed on 10 July 2018, pages 136 to 137.
 
-[\[note: 30\]](#Ftn_30_1)First affidavit of Debotosh Lodh filed on 10 July 2018, paragraph 31.
+[^30]: First affidavit of Debotosh Lodh filed on 10 July 2018, paragraph 31.
 
-[\[note: 31\]](#Ftn_31_1)First affidavit of Debotosh Lodh filed on 10 July 2018, page 28, cl 14.
+[^31]: First affidavit of Debotosh Lodh filed on 10 July 2018, page 28, cl 14.
 
-[\[note: 32\]](#Ftn_32_1)First affidavit of Debotosh Lodh filed on 10 July 2018, page 37, page 40, cl 6.1.
+[^32]: First affidavit of Debotosh Lodh filed on 10 July 2018, page 37, page 40, cl 6.1.
 
-[\[note: 33\]](#Ftn_33_1)First affidavit of Debotosh Lodh filed on 10 July 2018, page 44.
+[^33]: First affidavit of Debotosh Lodh filed on 10 July 2018, page 44.
 
-[\[note: 34\]](#Ftn_34_1)First affidavit of Debotosh Lodh filed on 10 July 2018, pages 137 to 138; affidavit of Loh Kai Keong filed on 17 July 2018, paragraph 12.
+[^34]: First affidavit of Debotosh Lodh filed on 10 July 2018, pages 137 to 138; affidavit of Loh Kai Keong filed on 17 July 2018, paragraph 12.
 
-[\[note: 35\]](#Ftn_35_1)Affidavit of Loh Kai Keong filed on 17 July 2018, paragraph 10.
+[^35]: Affidavit of Loh Kai Keong filed on 17 July 2018, paragraph 10.
 
-[\[note: 36\]](#Ftn_36_1)First affidavit of Debotosh Lodh filed on 10 July 2018, paragraph 10; page 40, cl 6.1.
+[^36]: First affidavit of Debotosh Lodh filed on 10 July 2018, paragraph 10; page 40, cl 6.1.
 
-[\[note: 37\]](#Ftn_37_1)First affidavit of Debotosh Lodh filed on 10 July 2018, page 39, cl 4.1.
+[^37]: First affidavit of Debotosh Lodh filed on 10 July 2018, page 39, cl 4.1.
 
-[\[note: 38\]](#Ftn_38_1)First affidavit of Debotosh Lodh filed on 10 July 2018, paragraph 10.
+[^38]: First affidavit of Debotosh Lodh filed on 10 July 2018, paragraph 10.
 
-[\[note: 39\]](#Ftn_39_1)First affidavit of Debotosh Lodh filed on 10 July 2018, page 59, paragraph 8.
+[^39]: First affidavit of Debotosh Lodh filed on 10 July 2018, page 59, paragraph 8.
 
-[\[note: 40\]](#Ftn_40_1)First affidavit of Debotosh Lodh filed on 10 July 2018, paragraph 15; pages 79 to 90.
+[^40]: First affidavit of Debotosh Lodh filed on 10 July 2018, paragraph 15; pages 79 to 90.
 
-[\[note: 41\]](#Ftn_41_1)First affidavit of Debotosh Lodh filed on 10 July 2018, paragraph 15; pages 79 to 80.
+[^41]: First affidavit of Debotosh Lodh filed on 10 July 2018, paragraph 15; pages 79 to 80.
 
-[\[note: 42\]](#Ftn_42_1)First affidavit of Debotosh Lodh filed on 10 July 2018, paragraph 18.
+[^42]: First affidavit of Debotosh Lodh filed on 10 July 2018, paragraph 18.
 
-[\[note: 43\]](#Ftn_43_1)First affidavit of Debotosh Lodh filed on 10 July 2018, paragraph 18(a).
+[^43]: First affidavit of Debotosh Lodh filed on 10 July 2018, paragraph 18(a).
 
-[\[note: 44\]](#Ftn_44_1)First affidavit of Debotosh Lodh filed on 10 July 2018, paragraph 18(a).
+[^44]: First affidavit of Debotosh Lodh filed on 10 July 2018, paragraph 18(a).
 
-[\[note: 45\]](#Ftn_45_1)First affidavit of Debotosh Lodh filed on 10 July 2018, paragraph 18(b).
+[^45]: First affidavit of Debotosh Lodh filed on 10 July 2018, paragraph 18(b).
 
-[\[note: 46\]](#Ftn_46_1)First affidavit of Debotosh Lodh filed on 10 July 2018, paragraph 18(b).
+[^46]: First affidavit of Debotosh Lodh filed on 10 July 2018, paragraph 18(b).
 
-[\[note: 47\]](#Ftn_47_1)First affidavit of Debotosh Lodh filed on 10 July 2018, paragraph 19.
+[^47]: First affidavit of Debotosh Lodh filed on 10 July 2018, paragraph 19.
 
-[\[note: 48\]](#Ftn_48_1)Affidavit of Loh Kai Keong filed on 17 July 2018, paragraph 41.
+[^48]: Affidavit of Loh Kai Keong filed on 17 July 2018, paragraph 41.
 
-[\[note: 49\]](#Ftn_49_1)First affidavit of Debotosh Lodh filed on 10 July 2018, paragraphs 22 to 24.
+[^49]: First affidavit of Debotosh Lodh filed on 10 July 2018, paragraphs 22 to 24.
 
-[\[note: 50\]](#Ftn_50_1)First affidavit of Debotosh Lodh filed on 10 July 2018, paragraph 23.
+[^50]: First affidavit of Debotosh Lodh filed on 10 July 2018, paragraph 23.
 
-[\[note: 51\]](#Ftn_51_1)First affidavit of Debotosh Lodh filed on 10 July 2018, page 94.
+[^51]: First affidavit of Debotosh Lodh filed on 10 July 2018, page 94.
 
-[\[note: 52\]](#Ftn_52_1)First affidavit of Debotosh Lodh filed on 10 July 2018, paragraph 24(e).
+[^52]: First affidavit of Debotosh Lodh filed on 10 July 2018, paragraph 24(e).
 
-[\[note: 53\]](#Ftn_53_1)First affidavit of Debotosh Lodh filed on 10 July 2018, page 66, paragraph 19; page 68, paragraphs 22 to 23.
+[^53]: First affidavit of Debotosh Lodh filed on 10 July 2018, page 66, paragraph 19; page 68, paragraphs 22 to 23.
 
-[\[note: 54\]](#Ftn_54_1)First affidavit of Debotosh Lodh filed on 10 July 2018, paragraph 27.
+[^54]: First affidavit of Debotosh Lodh filed on 10 July 2018, paragraph 27.
 
-[\[note: 55\]](#Ftn_55_1)The plaintiff’s written submissions dated 30 July 2018, paragraph 26.
+[^55]: The plaintiff’s written submissions dated 30 July 2018, paragraph 26.
 
-[\[note: 56\]](#Ftn_56_1)First affidavit of Debotosh Lodh filed on 10 July 2018, paragraph 28; pages 96 to 98.
+[^56]: First affidavit of Debotosh Lodh filed on 10 July 2018, paragraph 28; pages 96 to 98.
 
-[\[note: 57\]](#Ftn_57_1)First affidavit of Debotosh Lodh filed on 10 July 2018, page 127.
+[^57]: First affidavit of Debotosh Lodh filed on 10 July 2018, page 127.
 
-[\[note: 58\]](#Ftn_58_1)First affidavit of Debotosh Lodh filed on 10 July 2018, paragraphs 31, 36; page 256, paragraph 4.
+[^58]: First affidavit of Debotosh Lodh filed on 10 July 2018, paragraphs 31, 36; page 256, paragraph 4.
 
-[\[note: 59\]](#Ftn_59_1)First affidavit of Debotosh Lodh filed on 10 July 2018, paragraph 33; the plaintiff’s written submissions dated 30 July 2018, pages 12 to 18.
+[^59]: First affidavit of Debotosh Lodh filed on 10 July 2018, paragraph 33; the plaintiff’s written submissions dated 30 July 2018, pages 12 to 18.
 
-[\[note: 60\]](#Ftn_60_1)Affidavit of Loh Kai Keong filed on 17 July 2018, paragraph 17.
+[^60]: Affidavit of Loh Kai Keong filed on 17 July 2018, paragraph 17.
 
-[\[note: 61\]](#Ftn_61_1)First affidavit of Debotosh Lodh filed on 10 July 2018, paragraph 34.
+[^61]: First affidavit of Debotosh Lodh filed on 10 July 2018, paragraph 34.
 
-[\[note: 62\]](#Ftn_62_1)Affidavit of Loh Kai Keong filed on 17 July 2018, paragraphs 21 to 38.
+[^62]: Affidavit of Loh Kai Keong filed on 17 July 2018, paragraphs 21 to 38.
 
-[\[note: 63\]](#Ftn_63_1)HC/OS 842/2018.
+[^63]: HC/OS 842/2018.
 
-[\[note: 64\]](#Ftn_64_1)Certified transcript of 1 August 2018, page 43, lines 11 to 17.
+[^64]: Certified transcript of 1 August 2018, page 43, lines 11 to 17.
 
-[\[note: 65\]](#Ftn_65_1)The plaintiff’s written submissions dated 30 July 2018, paragraph 32.
+[^65]: The plaintiff’s written submissions dated 30 July 2018, paragraph 32.
 
-[\[note: 66\]](#Ftn_66_1)First affidavit of Debotosh Lodh filed on 10 July 2018, page 24.
+[^66]: First affidavit of Debotosh Lodh filed on 10 July 2018, page 24.
 
-[\[note: 67\]](#Ftn_67_1)Certified transcript of 1 August 2018, page 13, lines 12 to 13.
+[^67]: Certified transcript of 1 August 2018, page 13, lines 12 to 13.
 
-[\[note: 68\]](#Ftn_68_1)Certified transcript of 1 August 2018, page 18, lines 22 to 24.
+[^68]: Certified transcript of 1 August 2018, page 18, lines 22 to 24.
 
-[\[note: 69\]](#Ftn_69_1)Certified transcript of 1 August 2018, page 18, lines 25 to 27; page 19, line 25 to page 20, line 5.
+[^69]: Certified transcript of 1 August 2018, page 18, lines 25 to 27; page 19, line 25 to page 20, line 5.
 
-[\[note: 70\]](#Ftn_70_1)Certified transcript of 1 August 2018, page 10, lines 24 to 29.
+[^70]: Certified transcript of 1 August 2018, page 10, lines 24 to 29.
 
-[\[note: 71\]](#Ftn_71_1)The plaintiff’s written submissions dated 30 July 2018, paragraph 33.
+[^71]: The plaintiff’s written submissions dated 30 July 2018, paragraph 33.
 
-[\[note: 72\]](#Ftn_72_1)The plaintiff’s written submissions dated 30 July 2018, paragraph 32.
+[^72]: The plaintiff’s written submissions dated 30 July 2018, paragraph 32.
 
-[\[note: 73\]](#Ftn_73_1)Certified transcript of 1 August 2018, page 8, lines 8 to 13.
+[^73]: Certified transcript of 1 August 2018, page 8, lines 8 to 13.
 
-[\[note: 74\]](#Ftn_74_1)Certified transcript of 1 August 2018, page 7, lines 11 to 17.
+[^74]: Certified transcript of 1 August 2018, page 7, lines 11 to 17.
 
-[\[note: 75\]](#Ftn_75_1)Certified transcript of 1 August 2018, page 59, lines 9 to 11.
+[^75]: Certified transcript of 1 August 2018, page 59, lines 9 to 11.
 
-[\[note: 76\]](#Ftn_76_1)First affidavit of Debotosh Lodh filed on 10 July 2018, page 24.
+[^76]: First affidavit of Debotosh Lodh filed on 10 July 2018, page 24.
 
-[\[note: 77\]](#Ftn_77_1)Certified transcript of 1 August 2018, pages 7 to 8.
+[^77]: Certified transcript of 1 August 2018, pages 7 to 8.
 
-[\[note: 78\]](#Ftn_78_1)The plaintiff’s written submissions dated 30 July 2018, paragraph 40.
+[^78]: The plaintiff’s written submissions dated 30 July 2018, paragraph 40.
 
-[\[note: 79\]](#Ftn_79_1)The plaintiff’s written submissions dated 30 July 2018, paragraph 37.
+[^79]: The plaintiff’s written submissions dated 30 July 2018, paragraph 37.
 
-[\[note: 80\]](#Ftn_80_1)Certified transcript of 1 August 2018, page 15, lines 18 to 25; page 16, lines 16 to 21; page 17, lines 14 to 26.
+[^80]: Certified transcript of 1 August 2018, page 15, lines 18 to 25; page 16, lines 16 to 21; page 17, lines 14 to 26.
 
-[\[note: 81\]](#Ftn_81_1)Certified transcript of 1 August 2018, page 19, lines 13 to 18.
+[^81]: Certified transcript of 1 August 2018, page 19, lines 13 to 18.
 
-[\[note: 82\]](#Ftn_82_1)Certified transcript of 1 August 2018, page 23, lines 10 to 14.
+[^82]: Certified transcript of 1 August 2018, page 23, lines 10 to 14.
 
-[\[note: 83\]](#Ftn_83_1)Certified transcript of 1 August 2018, page 11, lines 14 to 24.
+[^83]: Certified transcript of 1 August 2018, page 11, lines 14 to 24.
 
-[\[note: 84\]](#Ftn_84_1)The plaintiff’s written submissions dated 30 July 2018, paragraph 38.
+[^84]: The plaintiff’s written submissions dated 30 July 2018, paragraph 38.
 
-[\[note: 85\]](#Ftn_85_1)Certified transcript of 1 August 2018, page 12, lines 2 to 5.
+[^85]: Certified transcript of 1 August 2018, page 12, lines 2 to 5.
 
-[\[note: 86\]](#Ftn_86_1)Affidavit of Loh Kai Keong filed on 17 July 2018, paragraph 40.
+[^86]: Affidavit of Loh Kai Keong filed on 17 July 2018, paragraph 40.
 
-[\[note: 87\]](#Ftn_87_1)Certified transcript of 1 August 2018, page 11, lines 26 to 27.
+[^87]: Certified transcript of 1 August 2018, page 11, lines 26 to 27.
 
-[\[note: 88\]](#Ftn_88_1)The plaintiff’s written submissions dated 30 July 2018, paragraph 39.
+[^88]: The plaintiff’s written submissions dated 30 July 2018, paragraph 39.
 
-[\[note: 89\]](#Ftn_89_1)Second affidavit of Debotosh Lodh filed on 24 July 2018, pages 49 to 50; Certified transcript of 1 August 2018, pages 12 to 13.
+[^89]: Second affidavit of Debotosh Lodh filed on 24 July 2018, pages 49 to 50; Certified transcript of 1 August 2018, pages 12 to 13.
 
-[\[note: 90\]](#Ftn_90_1)Certified transcript of 1 August 2018, page 13, lines 1 to 3.
+[^90]: Certified transcript of 1 August 2018, page 13, lines 1 to 3.
 
-[\[note: 91\]](#Ftn_91_1)The plaintiff’s written submissions dated 30 July 2018, paragraph 39.
+[^91]: The plaintiff’s written submissions dated 30 July 2018, paragraph 39.
 
-[\[note: 92\]](#Ftn_92_1)Affidavit of Loh Kai Keong filed on 17 July 2018, paragraphs 40 to 41.
+[^92]: Affidavit of Loh Kai Keong filed on 17 July 2018, paragraphs 40 to 41.
 
-[\[note: 93\]](#Ftn_93_1)The plaintiff’s written submissions dated 30 July 2018, paragraphs 36 to 37.
+[^93]: The plaintiff’s written submissions dated 30 July 2018, paragraphs 36 to 37.
 
-[\[note: 94\]](#Ftn_94_1)The plaintiff’s written submissions dated 30 July 2018, paragraph 40.
+[^94]: The plaintiff’s written submissions dated 30 July 2018, paragraph 40.
 
-[\[note: 95\]](#Ftn_95_1)The plaintiff’s written submissions dated 30 July 2018, paragraph 40; Certified transcript of 1 August 2018, page 14.
+[^95]: The plaintiff’s written submissions dated 30 July 2018, paragraph 40; Certified transcript of 1 August 2018, page 14.
 
-[\[note: 96\]](#Ftn_96_1)The plaintiff’s written submissions dated 30 July 2018, paragraphs 42 to 43.
+[^96]: The plaintiff’s written submissions dated 30 July 2018, paragraphs 42 to 43.
 
-[\[note: 97\]](#Ftn_97_1)Certified transcript of 1 August 2018, page 15, lines 6 to 11.
+[^97]: Certified transcript of 1 August 2018, page 15, lines 6 to 11.
 
-[\[note: 98\]](#Ftn_98_1)The plaintiff’s written submissions dated 30 July 2018, page 25.
+[^98]: The plaintiff’s written submissions dated 30 July 2018, page 25.
 
-[\[note: 99\]](#Ftn_99_1)The plaintiff’s written submissions dated 30 July 2018, page 25.
+[^99]: The plaintiff’s written submissions dated 30 July 2018, page 25.
 
-[\[note: 100\]](#Ftn_100_1)The defendants’ written submissions dated 18 July 2018, pages 15 to 17.
+[^100]: The defendants’ written submissions dated 18 July 2018, pages 15 to 17.
 
-[\[note: 101\]](#Ftn_101_1)The plaintiff’s written submissions dated 30 July 2018, paragraph 45.
+[^101]: The plaintiff’s written submissions dated 30 July 2018, paragraph 45.
 
-[\[note: 102\]](#Ftn_102_1)The plaintiff’s written submissions dated 30 July 2018, paragraph 3.
+[^102]: The plaintiff’s written submissions dated 30 July 2018, paragraph 3.
 
-[\[note: 103\]](#Ftn_103_1)The plaintiff’s written submissions dated 30 July 2018, paragraph 33.
+[^103]: The plaintiff’s written submissions dated 30 July 2018, paragraph 33.
 
-[\[note: 104\]](#Ftn_104_1)Certified transcript of 1 August 2018, page 38, lines 22 to 25.
+[^104]: Certified transcript of 1 August 2018, page 38, lines 22 to 25.
 
-[\[note: 105\]](#Ftn_105_1)Certified transcript of 1 August 2018, page 73, lines 5 to 9.
+[^105]: Certified transcript of 1 August 2018, page 73, lines 5 to 9.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F22935-SSP.xml)

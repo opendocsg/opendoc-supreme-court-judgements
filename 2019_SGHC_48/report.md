@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # Lee Chen Seong Jeremy and others _v_ Public Prosecutor  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Criminal Revision No 9 of 2018</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">01 March 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">See Kee Oon J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Adrian Wong and Ang Leong Hao (Rajah &amp; Tann Singapore LLP) for the petitioners; Peter Koy, Sng Yi Zhi Eugene and Ben Mathias Tan (Attorney-General's Chambers) for the respondent.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Lee Chen Seong Jeremy — Agnes Elizabeth So Siong Guat — Khong Choun Guan — Public Prosecutor</td></tr></tbody></table>
@@ -22,23 +23,23 @@ Criminal Procedure and Sentencing – Revision of proceedings – Section 37
 
 6       The petitioners are three individuals who were involved in the management of certain companies, in particular, companies in the “Sourcelink” and “Canaan” groups of companies.
 
-7       The property in question, chiefly comprising company files and various electronic devices, was seized by the police on 6 June 2017[\[note: 1\]](#Ftn_1) pursuant to investigations commenced by the Commercial Affairs Department of the Singapore Police Force (“CAD”) into offences committed under the Penal Code (Cap 224, 2008 Rev Ed) and the Companies Act (Cap 50, 2006 Rev Ed).[\[note: 2\]](#Ftn_2) Although there were three petitioners involved in this case, the investigations were substantively directed at only the first petitioner, Mr Lee Chen Seong Jeremy (“Mr Lee”).[\[note: 3\]](#Ftn_3)
+7       The property in question, chiefly comprising company files and various electronic devices, was seized by the police on 6 June 2017[^1] pursuant to investigations commenced by the Commercial Affairs Department of the Singapore Police Force (“CAD”) into offences committed under the Penal Code (Cap 224, 2008 Rev Ed) and the Companies Act (Cap 50, 2006 Rev Ed).[^2] Although there were three petitioners involved in this case, the investigations were substantively directed at only the first petitioner, Mr Lee Chen Seong Jeremy (“Mr Lee”).[^3]
 
-8       On 5 April 2018, the CAD wrote to Mr Lee, asking for his consent to CAD’s continued seizure and retention of the seized property.[\[note: 4\]](#Ftn_4) Mr Lee responded through his solicitors, M/s Rajah & Tann Singapore LLP, who wrote on behalf of all the petitioners on 12 April 2018 and 17 April 2018 to inform the CAD that the petitioners did not give consent.[\[note: 5\]](#Ftn_5)
+8       On 5 April 2018, the CAD wrote to Mr Lee, asking for his consent to CAD’s continued seizure and retention of the seized property.[^4] Mr Lee responded through his solicitors, M/s Rajah & Tann Singapore LLP, who wrote on behalf of all the petitioners on 12 April 2018 and 17 April 2018 to inform the CAD that the petitioners did not give consent.[^5]
 
-9       On 6 June 2018, the CAD filed the s 370 Report pursuant to s 370(1)(_b_) CPC.[\[note: 6\]](#Ftn_6) It appeared that no charges had been brought against any of the petitioners by this time. The prosecution took the position that the property was still relevant for the purposes of investigations. The s 370 Report stated that “CAD is investigating into possible offences under Sections 406 and 420 of the Penal Code (Cap 224), Section 148(1) of the Companies Act (Cap 50) and Section 35(1) of the Business Names Registration Act by Jeremy Lee Chen Seong”, and further stated that “\[i\]nvestigations are on-going”.[\[note: 7\]](#Ftn_7)
+9       On 6 June 2018, the CAD filed the s 370 Report pursuant to s 370(1)(_b_) CPC.[^6] It appeared that no charges had been brought against any of the petitioners by this time. The prosecution took the position that the property was still relevant for the purposes of investigations. The s 370 Report stated that “CAD is investigating into possible offences under Sections 406 and 420 of the Penal Code (Cap 224), Section 148(1) of the Companies Act (Cap 50) and Section 35(1) of the Business Names Registration Act by Jeremy Lee Chen Seong”, and further stated that “\[i\]nvestigations are on-going”.[^7]
 
-10     The CAD amended the s 370 Report on 2 July 2018 (“the amended s 370 Report”). The amendments were mostly of a clerical nature,[\[note: 8\]](#Ftn_8) and involved the correction of some typographical errors in the s 370 Report, the removal of five items wrongly included in the tables of items seized, and the inclusion of five items the s 370 Report failed initially to describe.
+10     The CAD amended the s 370 Report on 2 July 2018 (“the amended s 370 Report”). The amendments were mostly of a clerical nature,[^8] and involved the correction of some typographical errors in the s 370 Report, the removal of five items wrongly included in the tables of items seized, and the inclusion of five items the s 370 Report failed initially to describe.
 
-11     The reporting of the seizure under s 370 CPC was heard _inter partes_ by the Magistrate on 19 July 2018. Before the hearing, the prosecution filed a fresh Annex to the amended s 370 Report (“the Annex”) which gave more details as to how the items seized were relevant to the criminal investigations. This Annex should not be confused with the annex that was part of the s 370 Report or the amended s 370 Report. The Annex stated that “\[between\] 9 June 2014 and 8 March 2016, CAD received complaints against Jeremy Lee Chen Seong, alleging that he had contravened offences under the Companies Act and Penal Code”.[\[note: 9\]](#Ftn_9) The specific allegations were that he had (1) “cheated an investor into investing in Canaan Medical Pte Ltd”; (2) “misappropriated monies from Mobdown Pte Ltd”; and (3) “managed companies/businesses while being an undischarged bankrupt.”[\[note: 10\]](#Ftn_10) The Annex reiterated that investigations were ongoing.
+11     The reporting of the seizure under s 370 CPC was heard _inter partes_ by the Magistrate on 19 July 2018. Before the hearing, the prosecution filed a fresh Annex to the amended s 370 Report (“the Annex”) which gave more details as to how the items seized were relevant to the criminal investigations. This Annex should not be confused with the annex that was part of the s 370 Report or the amended s 370 Report. The Annex stated that “\[between\] 9 June 2014 and 8 March 2016, CAD received complaints against Jeremy Lee Chen Seong, alleging that he had contravened offences under the Companies Act and Penal Code”.[^9] The specific allegations were that he had (1) “cheated an investor into investing in Canaan Medical Pte Ltd”; (2) “misappropriated monies from Mobdown Pte Ltd”; and (3) “managed companies/businesses while being an undischarged bankrupt.”[^10] The Annex reiterated that investigations were ongoing.
 
-12     The Magistrate indicated at the hearing on 19 July 2018 that she had “difficulty” determining the relevance of the seized property to the investigations on the material before her, _ie_, the amended s 370 Report and the fresh Annex.[\[note: 11\]](#Ftn_11) The prosecution then asked to be heard _ex parte_.[\[note: 12\]](#Ftn_12) The petitioners objected to this because the parties were already being heard _inter partes_.[\[note: 13\]](#Ftn_13) The Magistrate decided to adjourn the proceedings, allow the prosecution to prepare the _ex parte_ report, and then hear the parties again on whether the prosecution should be allowed to be heard _ex parte_ at this stage in the proceedings.[\[note: 14\]](#Ftn_14) The proceedings were adjourned to 17 August 2018.
+12     The Magistrate indicated at the hearing on 19 July 2018 that she had “difficulty” determining the relevance of the seized property to the investigations on the material before her, _ie_, the amended s 370 Report and the fresh Annex.[^11] The prosecution then asked to be heard _ex parte_.[^12] The petitioners objected to this because the parties were already being heard _inter partes_.[^13] The Magistrate decided to adjourn the proceedings, allow the prosecution to prepare the _ex parte_ report, and then hear the parties again on whether the prosecution should be allowed to be heard _ex parte_ at this stage in the proceedings.[^14] The proceedings were adjourned to 17 August 2018.
 
-13     Before the adjourned hearing, the prosecution decided of its own accord to file an addendum to the amended s 370 Report (“the Addendum”) on 15 August 2018.[\[note: 15\]](#Ftn_15) This Addendum was made available to the petitioners. The Addendum furnished yet more information concerning the CAD investigations. In particular, paragraph 3 of the Addendum gave more details of the offences Mr Lee was being investigated for, while paragraph 4 specified that the items were seized because “they are believed to constitute evidence of the above offences and therefore relevant to \[CAD’s\] investigations”. The original annex to the amended s 370 Report was also updated to “show the relevance of each item to the offence that is being investigated”; a new column was inserted to the right of the tables attributing the items seized to offences committed under the Penal Code, Business Names Registration Act or the Companies Act.
+13     Before the adjourned hearing, the prosecution decided of its own accord to file an addendum to the amended s 370 Report (“the Addendum”) on 15 August 2018.[^15] This Addendum was made available to the petitioners. The Addendum furnished yet more information concerning the CAD investigations. In particular, paragraph 3 of the Addendum gave more details of the offences Mr Lee was being investigated for, while paragraph 4 specified that the items were seized because “they are believed to constitute evidence of the above offences and therefore relevant to \[CAD’s\] investigations”. The original annex to the amended s 370 Report was also updated to “show the relevance of each item to the offence that is being investigated”; a new column was inserted to the right of the tables attributing the items seized to offences committed under the Penal Code, Business Names Registration Act or the Companies Act.
 
-14     At the adjourned hearing on 17 August 2018, the petitioners vigorously objected to the prosecution having filed the Addendum on its own motion. The petitioners also argued that the Magistrate was not entitled to have reference to either the Annex or the Addendum, as both had been filed outside the one-year deadline. The Magistrate decided that she could have sight of the Addendum.[\[note: 16\]](#Ftn_16) She made it explicitly clear, however, that she had not requested for information to be put in on an _ex parte_ basis, and that she had instead indicated at the hearing on 19 July 2018 that the prosecution should consider whether it could provide information on an _inter partes_ basis, thus obviating the need for an _ex parte_ hearing.[\[note: 17\]](#Ftn_17)
+14     At the adjourned hearing on 17 August 2018, the petitioners vigorously objected to the prosecution having filed the Addendum on its own motion. The petitioners also argued that the Magistrate was not entitled to have reference to either the Annex or the Addendum, as both had been filed outside the one-year deadline. The Magistrate decided that she could have sight of the Addendum.[^16] She made it explicitly clear, however, that she had not requested for information to be put in on an _ex parte_ basis, and that she had instead indicated at the hearing on 19 July 2018 that the prosecution should consider whether it could provide information on an _inter partes_ basis, thus obviating the need for an _ex parte_ hearing.[^17]
 
-15     The prosecution, for its part, indicated that it had placed all relevant material before the court, and was content for the matter to proceed on an _inter partes_ basis.[\[note: 18\]](#Ftn_18) The Magistrate was not persuaded that even the amended s 370 Report with its Annex and Addendum was sufficient to satisfy her of the continued relevance of the seized property to the CAD’s investigations.[\[note: 19\]](#Ftn_19) The prosecution then made an application to place additional information before the Magistrate on an _ex parte_ basis.[\[note: 20\]](#Ftn_20) The petitioners also objected to this, on the basis that the prosecution had no right to make _ex parte_ applications once the _inter partes_ hearing had begun, but also because it had forsaken any such right, having stated its willingness for the matter to proceed _inter partes_. The Magistrate ultimately decided that she could hear the prosecution _ex parte_ even though the _inter partes_ hearing had begun.[\[note: 21\]](#Ftn_21) The petitioners then indicated that they would be applying to the High Court for a criminal revision of the proceedings below.
+15     The prosecution, for its part, indicated that it had placed all relevant material before the court, and was content for the matter to proceed on an _inter partes_ basis.[^18] The Magistrate was not persuaded that even the amended s 370 Report with its Annex and Addendum was sufficient to satisfy her of the continued relevance of the seized property to the CAD’s investigations.[^19] The prosecution then made an application to place additional information before the Magistrate on an _ex parte_ basis.[^20] The petitioners also objected to this, on the basis that the prosecution had no right to make _ex parte_ applications once the _inter partes_ hearing had begun, but also because it had forsaken any such right, having stated its willingness for the matter to proceed _inter partes_. The Magistrate ultimately decided that she could hear the prosecution _ex parte_ even though the _inter partes_ hearing had begun.[^21] The petitioners then indicated that they would be applying to the High Court for a criminal revision of the proceedings below.
 
 16     The petitioners duly filed the petition for criminal revision on 27 August 2018.
 
@@ -52,13 +53,13 @@ Criminal Procedure and Sentencing – Revision of proceedings – Section 37
 
 19     The petitioners made five arguments in this criminal revision.
 
-20     First, they argued that the Magistrate erred as a matter of law when she decided to admit and consider the Annex and Addendum, seeing as both were filed out of time. Their position was that s 370 of the CPC imposed a long-stop one-year deadline, or, as they more colourfully put it, a one-year “guillotine”.[\[note: 22\]](#Ftn_22)
+20     First, they argued that the Magistrate erred as a matter of law when she decided to admit and consider the Annex and Addendum, seeing as both were filed out of time. Their position was that s 370 of the CPC imposed a long-stop one-year deadline, or, as they more colourfully put it, a one-year “guillotine”.[^22]
 
-21     Second, they argued that the Magistrate erred when she failed to immediately order the release of the seized property even though she was not satisfied that the prosecution had demonstrated a sufficient basis for their continued seizure.[\[note: 23\]](#Ftn_23) Instead, she had surrendered her judgment and pre-judged the matter in favour of the prosecution by repeatedly asking the prosecution for “a way forward”.[\[note: 24\]](#Ftn_24)
+21     Second, they argued that the Magistrate erred when she failed to immediately order the release of the seized property even though she was not satisfied that the prosecution had demonstrated a sufficient basis for their continued seizure.[^23] Instead, she had surrendered her judgment and pre-judged the matter in favour of the prosecution by repeatedly asking the prosecution for “a way forward”.[^24]
 
-22     Third, the petitioners argued that Magistrate erred when she held that the prosecution was entitled to attend before the court on an _ex parte_ basis.[\[note: 25\]](#Ftn_25) There was no room for the prosecution to be heard on an _ex parte_ basis once the _inter partes_ hearing had commenced, because the procedure for s 370 hearings set out by the Court of Appeal in _Mustafa Ahunbay v Public Prosecutor_ (“_Mustafa Ahunbay_”) contemplated _ex parte_ hearings being allowed _only_ if they took place before the _inter partes_ hearing.[\[note: 26\]](#Ftn_26)
+22     Third, the petitioners argued that Magistrate erred when she held that the prosecution was entitled to attend before the court on an _ex parte_ basis.[^25] There was no room for the prosecution to be heard on an _ex parte_ basis once the _inter partes_ hearing had commenced, because the procedure for s 370 hearings set out by the Court of Appeal in _Mustafa Ahunbay v Public Prosecutor_ (“_Mustafa Ahunbay_”) contemplated _ex parte_ hearings being allowed _only_ if they took place before the _inter partes_ hearing.[^26]
 
-23     Fourth, they argued that the Magistrate’s decision was tainted by apparent bias.[\[note: 27\]](#Ftn_27) In essence, it was submitted that the Magistrate displayed apparent bias or prejudgment when she refused to order the release of the seized property even though she was not satisfied that the amended s 370 Report taken together with the Annex and Addendum provided a sufficient basis for continued seizure of the property. The petitioners also argued that the circumstances in which the Annex was placed before the Magistrate were suggestive of apparent bias, because it had been put forward pursuant to queries made by the Magistrate in advance of the 19 July hearing itself, and the prosecution had initially refused to make those queries available to the petitioners, although they ultimately did so after this Court asked for the queries to be disclosed (see \[33\]–\[36\] below).
+23     Fourth, they argued that the Magistrate’s decision was tainted by apparent bias.[^27] In essence, it was submitted that the Magistrate displayed apparent bias or prejudgment when she refused to order the release of the seized property even though she was not satisfied that the amended s 370 Report taken together with the Annex and Addendum provided a sufficient basis for continued seizure of the property. The petitioners also argued that the circumstances in which the Annex was placed before the Magistrate were suggestive of apparent bias, because it had been put forward pursuant to queries made by the Magistrate in advance of the 19 July hearing itself, and the prosecution had initially refused to make those queries available to the petitioners, although they ultimately did so after this Court asked for the queries to be disclosed (see \[33\]–\[36\] below).
 
 24     Fifth, the petitioners invited the High Court to step into the shoes of the Magistrate and substantively determine whether the CAD should be allowed to retain the seized property. The petitioners submitted that this Court should only look at the s 370 Report in doing so, and should find that the report was too bare to support the continued retention of the property. Even if this Court also considered the Report with the Annex and Addendum, however, it was the petitioners’ case that those three documents collectively would still be insufficient to support the continued retention of the property.
 
@@ -66,27 +67,27 @@ Criminal Procedure and Sentencing – Revision of proceedings – Section 37
 
 25     The prosecution’s arguments are set out below.
 
-26     First, the prosecution submitted that the Magistrate was correct to admit and consider the Annex and the Addendum.[\[note: 28\]](#Ftn_28) The essential point was that the Magistrate, in discharging her judicial function, was entitled to make enquiries. The prosecution would have to answer those queries, if need be, by placing fresh information before her. The prosecution also pointed out that in previous cases dealing with s 370 CPC applications, additional reports beyond the initial s 370 report had been filed, apparently without comment or criticism by the High Court or the Court of Appeal.[\[note: 29\]](#Ftn_29)
+26     First, the prosecution submitted that the Magistrate was correct to admit and consider the Annex and the Addendum.[^28] The essential point was that the Magistrate, in discharging her judicial function, was entitled to make enquiries. The prosecution would have to answer those queries, if need be, by placing fresh information before her. The prosecution also pointed out that in previous cases dealing with s 370 CPC applications, additional reports beyond the initial s 370 report had been filed, apparently without comment or criticism by the High Court or the Court of Appeal.[^29]
 
-27     Second, the prosecution submitted that the Magistrate was correct in finding that she had the discretion to permit the prosecution to be heard _ex parte_ even though the second hearing on 17 August 2018 had proceeded on an _inter partes_ basis.[\[note: 30\]](#Ftn_30) The prosecution could attend before the Magistrate _ex parte_ where the public interest required that sensitive information which might prejudice criminal investigations should not be disclosed.[\[note: 31\]](#Ftn_31) Following from their first argument, if the Magistrate’s questions necessitated the prosecution providing fresh information of a sensitive nature in response, then it naturally followed that the prosecution would present that information to the Magistrate, but only in an _ex parte_ setting.
+27     Second, the prosecution submitted that the Magistrate was correct in finding that she had the discretion to permit the prosecution to be heard _ex parte_ even though the second hearing on 17 August 2018 had proceeded on an _inter partes_ basis.[^30] The prosecution could attend before the Magistrate _ex parte_ where the public interest required that sensitive information which might prejudice criminal investigations should not be disclosed.[^31] Following from their first argument, if the Magistrate’s questions necessitated the prosecution providing fresh information of a sensitive nature in response, then it naturally followed that the prosecution would present that information to the Magistrate, but only in an _ex parte_ setting.
 
-28     Third, the prosecution submitted that the discretion to hear the prosecution _ex parte_ was exercised correctly in the instant case.[\[note: 32\]](#Ftn_32) The Magistrate had posed queries, and the prosecution had done their best to answer those queries, first by furnishing the Annex and Addendum, and when that proved not to be enough, by requesting to place additional information before her _ex parte_.
+28     Third, the prosecution submitted that the discretion to hear the prosecution _ex parte_ was exercised correctly in the instant case.[^32] The Magistrate had posed queries, and the prosecution had done their best to answer those queries, first by furnishing the Annex and Addendum, and when that proved not to be enough, by requesting to place additional information before her _ex parte_.
 
-29     Fourth, the prosecution argued that the Magistrate did not display any apparent bias. Her decisions to admit the Annex and Addendum were correct in law, as was her decision to exercise her discretion to hear the prosecution _ex parte_.[\[note: 33\]](#Ftn_33)
+29     Fourth, the prosecution argued that the Magistrate did not display any apparent bias. Her decisions to admit the Annex and Addendum were correct in law, as was her decision to exercise her discretion to hear the prosecution _ex parte_.[^33]
 
-30     Fifth, the prosecution disputed that the High Court’s revisionary jurisdiction was properly invoked.[\[note: 34\]](#Ftn_34) The mere fact that the petitioners did not have access to their seized property did not meet the relevant threshold of “serious injustice”. The injustice the petitioners might have suffered was in not having copies of company documents to make their tax filings.[\[note: 35\]](#Ftn_35) The prosecution, however, had offered the petitioners the opportunity to make copies and the petitioners had declined,[\[note: 36\]](#Ftn_36) which showed that they had not truly suffered injustice to begin with.
+30     Fifth, the prosecution disputed that the High Court’s revisionary jurisdiction was properly invoked.[^34] The mere fact that the petitioners did not have access to their seized property did not meet the relevant threshold of “serious injustice”. The injustice the petitioners might have suffered was in not having copies of company documents to make their tax filings.[^35] The prosecution, however, had offered the petitioners the opportunity to make copies and the petitioners had declined,[^36] which showed that they had not truly suffered injustice to begin with.
 
 31     Sixth, if this Court did find that the threshold for its revisionary jurisdiction had been crossed, then the prosecution agreed that this Court ought to substantively determine in the revision itself whether the CAD ought to be allowed to retain the seized property.
 
-32     In this regard, the prosecution’s case was that the material in the amended s 370 Report, Annex and Addendum was sufficient to demonstrate the relevance of the seized property to investigations.[\[note: 37\]](#Ftn_37) In substantively determining this application, the Court should also have regard to the fact that the seized property was suspected to constitute _evidence_ of an offence and, on that premise, must necessarily be relevant to the investigations.[\[note: 38\]](#Ftn_38) In any event, the prosecution relied on a further affidavit by Mr Neo Tzu Yang Eugene (“Mr Eugene Neo”), the Head of CAD’s Private Institutional Fraud Branch I, which gave an update on the status of the investigations following the hearings before the Magistrate on 19 July and 17 August respectively. Mr Neo stated that the property seized from the petitioners continued to be relevant for the purposes of investigations.[\[note: 39\]](#Ftn_39) Thus, this Court should hold that the seized property was indeed relevant to those investigations and not order their release.
+32     In this regard, the prosecution’s case was that the material in the amended s 370 Report, Annex and Addendum was sufficient to demonstrate the relevance of the seized property to investigations.[^37] In substantively determining this application, the Court should also have regard to the fact that the seized property was suspected to constitute _evidence_ of an offence and, on that premise, must necessarily be relevant to the investigations.[^38] In any event, the prosecution relied on a further affidavit by Mr Neo Tzu Yang Eugene (“Mr Eugene Neo”), the Head of CAD’s Private Institutional Fraud Branch I, which gave an update on the status of the investigations following the hearings before the Magistrate on 19 July and 17 August respectively. Mr Neo stated that the property seized from the petitioners continued to be relevant for the purposes of investigations.[^39] Thus, this Court should hold that the seized property was indeed relevant to those investigations and not order their release.
 
 ## Events after the 21 November 2018 hearing
 
 33     Having adjourned after the hearing and in the course of reviewing the parties’ submissions, I was of the view that insufficient explanation had been given by the prosecution as to the nature or extent of the queries made that led to the prosecution putting in the Annex in advance of the 19 July hearing. The prosecution did not dispute that the queries were made, but offered no elaboration on this point during the hearing before me.
 
-34     I therefore directed by a letter to the prosecution on 28 November 2018 that clarifications be provided as to who had sent the queries to CAD, the medium through which the queries were made, and precisely what queries had been made.[\[note: 40\]](#Ftn_40)
+34     I therefore directed by a letter to the prosecution on 28 November 2018 that clarifications be provided as to who had sent the queries to CAD, the medium through which the queries were made, and precisely what queries had been made.[^40]
 
-35     The prosecution replied by letter on 3 December 2018 indicating that the queries were sent by a court officer from the State Courts, via Skype direct message over the government intranet to a CAD officer. The queries stated:[\[note: 41\]](#Ftn_41)
+35     The prosecution replied by letter on 3 December 2018 indicating that the queries were sent by a court officer from the State Courts, via Skype direct message over the government intranet to a CAD officer. The queries stated:[^41]
 
 _there is no facts stated in the report_
 
@@ -96,9 +97,9 @@ _but not background information of the case_
 
 _is it possible to upload it before 1030 and inform me?_
 
-36     The prosecution’s letter was also made available to the petitioners. By a letter dated 3 December 2018,[\[note: 42\]](#Ftn_42) the petitioners’ counsel wrote to the High Court arguing that this was further evidence supporting the petitioners’ case on apparent bias. These were private communications between the court and the prosecution, which the petitioners were not privy to, and which therefore attracted suspicions of bias. Moreover, these communications showed that the Magistrate had pointed out the inadequacies of the s 370 Report to the prosecution in advance of the hearing where she would have to decide the very question whether the Report was adequate. This suggested that she was not disinterested in the matter.
+36     The prosecution’s letter was also made available to the petitioners. By a letter dated 3 December 2018,[^42] the petitioners’ counsel wrote to the High Court arguing that this was further evidence supporting the petitioners’ case on apparent bias. These were private communications between the court and the prosecution, which the petitioners were not privy to, and which therefore attracted suspicions of bias. Moreover, these communications showed that the Magistrate had pointed out the inadequacies of the s 370 Report to the prosecution in advance of the hearing where she would have to decide the very question whether the Report was adequate. This suggested that she was not disinterested in the matter.
 
-37     The prosecution replied by way of a letter dated 4 December 2018.[\[note: 43\]](#Ftn_43) The prosecution argued that the queries were consistent with the concerns that the Magistrate had openly expressed at the 19 July hearing itself, so no reasonable fair-minded and informed observer would have thought that the Magistrate had pre-judged the matter in the prosecution’s favour. The Magistrate was simply asking whether the facts and background information of the case could have been included; she could not have known how the prosecution would respond.
+37     The prosecution replied by way of a letter dated 4 December 2018.[^43] The prosecution argued that the queries were consistent with the concerns that the Magistrate had openly expressed at the 19 July hearing itself, so no reasonable fair-minded and informed observer would have thought that the Magistrate had pre-judged the matter in the prosecution’s favour. The Magistrate was simply asking whether the facts and background information of the case could have been included; she could not have known how the prosecution would respond.
 
 38     I took these arguments into account in arriving at my decision in this criminal revision.
 
@@ -188,9 +189,9 @@ _is it possible to upload it before 1030 and inform me?_
 
 44     The Court of Appeal’s guidance does not address the question before the Court now, which concerns how material sought to be admitted after the one-year deadline should be treated by the Magistrate. But this is not surprising because this question was not before the Court of Appeal. I turn now to the parties’ arguments.
 
-45     The petitioners placed heavy emphasis on the text of s 370(1)(_b_) CPC itself, where it is stated that “the law enforcement officer must make _a report_ of the seizure to the relevant court … one year after the date of seizure of the property”. The petitioners submitted that the statutory framework envisions one comprehensive report being submitted by that time, not an initial report that serves purely as a temporary makeweight filed in time to meet the statutory requirement, with the prosecution then being free to supplement that anchor report with fresh material as and when required or asked to do so. The petitioners argued that such an approach permitting information to be drip-fed to the Magistrate would allow the law enforcement authority to circumvent the one-year deadline.[\[note: 44\]](#Ftn_44) In the interests of justice and fairness, there must be finality at some point in time, and statute has only specified one point in time: the one-year mark.
+45     The petitioners placed heavy emphasis on the text of s 370(1)(_b_) CPC itself, where it is stated that “the law enforcement officer must make _a report_ of the seizure to the relevant court … one year after the date of seizure of the property”. The petitioners submitted that the statutory framework envisions one comprehensive report being submitted by that time, not an initial report that serves purely as a temporary makeweight filed in time to meet the statutory requirement, with the prosecution then being free to supplement that anchor report with fresh material as and when required or asked to do so. The petitioners argued that such an approach permitting information to be drip-fed to the Magistrate would allow the law enforcement authority to circumvent the one-year deadline.[^44] In the interests of justice and fairness, there must be finality at some point in time, and statute has only specified one point in time: the one-year mark.
 
-46     The prosecution’s case, on the other hand, was that where the Magistrate has queries, the prosecution should be allowed to meet those queries by filing additional material. It is part of the Magistrate’s judicial function under s 370 CPC to make “sufficient enquiry” as to the relevance of the seized property to investigations.[\[note: 45\]](#Ftn_45) If the prosecution were to be denied the opportunity to present fresh material that meets the Magistrate’s concerns and answers the Magistrate’s queries, that would effectively disregard the Magistrate’s judicial function under s 370 CPC.[\[note: 46\]](#Ftn_46) There would then be no purpose in the Magistrate asking for clarification. Additional reports were filed out of time in the earlier s 370 decisions in _Mustafa Ahunbay_ and _Rajendar Prasad Rai and another v Public Prosecutor and another matter_ (“_Rajendar Prasad_”) without adverse comment; that practice should be upheld here.[\[note: 47\]](#Ftn_47) Further, an analogy may be drawn with a Mandatory Treatment Order (“MTO”) suitability report filed by an IMH psychiatrist in the context of s 339 CPC.[\[note: 48\]](#Ftn_48) The CPC provides that such reports are “final and conclusive”, but the High Court has since clarified that this does not mean that the courts are precluded from seeking clarifications of the report if it is unclear. Similarly, if the Magistrate finds the material in the s 370 report to be insufficient, the Magistrate can ask questions and the prosecution can provide answers, utilising fresh material if it must.
+46     The prosecution’s case, on the other hand, was that where the Magistrate has queries, the prosecution should be allowed to meet those queries by filing additional material. It is part of the Magistrate’s judicial function under s 370 CPC to make “sufficient enquiry” as to the relevance of the seized property to investigations.[^45] If the prosecution were to be denied the opportunity to present fresh material that meets the Magistrate’s concerns and answers the Magistrate’s queries, that would effectively disregard the Magistrate’s judicial function under s 370 CPC.[^46] There would then be no purpose in the Magistrate asking for clarification. Additional reports were filed out of time in the earlier s 370 decisions in _Mustafa Ahunbay_ and _Rajendar Prasad Rai and another v Public Prosecutor and another matter_ (“_Rajendar Prasad_”) without adverse comment; that practice should be upheld here.[^47] Further, an analogy may be drawn with a Mandatory Treatment Order (“MTO”) suitability report filed by an IMH psychiatrist in the context of s 339 CPC.[^48] The CPC provides that such reports are “final and conclusive”, but the High Court has since clarified that this does not mean that the courts are precluded from seeking clarifications of the report if it is unclear. Similarly, if the Magistrate finds the material in the s 370 report to be insufficient, the Magistrate can ask questions and the prosecution can provide answers, utilising fresh material if it must.
 
 47     In my view, the petitioners’ arguments were persuasive. The language of s 370 CPC is clear that there is only to be “a report”. The plain meaning of that phrase is that there is only to be _one_ report. The prosecution did not challenge this before me. Indeed, by the very way it labelled the documents it subsequently filed as an “Annex” and an “Addendum” to the s 370 Report, it was clear that the prosecution at least accepted – even if only implicitly – that there could ultimately only be _one_ report considered by the Magistrate.
 
@@ -228,7 +229,7 @@ _is it possible to upload it before 1030 and inform me?_
 
 64     Indeed, under such an approach, the one-year deadline would become superfluous: so long as the Magistrate keeps asking questions, and the prosecution keeps surfacing fresh material apparently in response to those questions, the proceedings could be extended indefinitely. This was not satisfactory. The reporting procedure under s 370 CPC is an area of the law where statute is less than comprehensive. The court must therefore be all the more acutely sensitive to the principles of natural justice. In this light, the prosecution’s approach would undermine the principle that justice must not only be done, but must be _seen_ to be done. The Magistrate by admitting fresh material in the manner suggested by the prosecution – even in response to her queries or concerns – would create the unfortunate appearance of the court bending over backwards, possibly more than once in each case, to extend the prosecution a lifeline and plug the gaps each time they are found. The result is not only a possible spiral into delay, but also an unjust extension of time purely for the purposes (both real and perceived) of helping the prosecution make its case.
 
-65     It could be said that one way to stem this spiral would be to permit fresh material to be placed before the Magistrate _only_ where she asks for specific material. But the obvious deficiency with this approach is that the Magistrate cannot know what to ask for in the first place. If the s 370 report is inadequate and lacking in details, the most the Magistrate can do – as the Magistrate did here – is to ask for more details. And as the Magistrate here rightly pointed out, she could not ask the prosecution to put in specific material because she did not have enough information about the investigations on which to form a basis to ask specific questions, or ask for specific material, in the first place.[\[note: 49\]](#Ftn_49) So placing the burden on the Magistrate to ask for specific material is an illusory safeguard. The better approach would be for the Magistrate to confine her questions, and the prosecution confine its responses, to information that is either present in or closely connected to the material in the s 370 Report.
+65     It could be said that one way to stem this spiral would be to permit fresh material to be placed before the Magistrate _only_ where she asks for specific material. But the obvious deficiency with this approach is that the Magistrate cannot know what to ask for in the first place. If the s 370 report is inadequate and lacking in details, the most the Magistrate can do – as the Magistrate did here – is to ask for more details. And as the Magistrate here rightly pointed out, she could not ask the prosecution to put in specific material because she did not have enough information about the investigations on which to form a basis to ask specific questions, or ask for specific material, in the first place.[^49] So placing the burden on the Magistrate to ask for specific material is an illusory safeguard. The better approach would be for the Magistrate to confine her questions, and the prosecution confine its responses, to information that is either present in or closely connected to the material in the s 370 Report.
 
 66     A different point might be made that in the intervening time between the report being filed and the hearing, additional progress might have been made in investigations further justifying the retention of the seized property. The Magistrate should be entitled to have the most updated information about the progress of investigations at the hearing, which thus justified the admission of fresh material to supplement the report. The problem, however, is that this could be used to sidestep the statutory reporting deadline. Such reasoning supports what would be, in effect, a reporting deadline on a rolling basis, tied to the date of the hearing, or, if additional questions are asked that necessitate the introduction of further material, the adjourned hearing, and so on and so forth. This is not what the statutory framework contemplates.
 
@@ -240,7 +241,7 @@ _is it possible to upload it before 1030 and inform me?_
 
 70     The prosecution’s first argument, that the Magistrate should be entitled to make sufficient enquiry and the prosecution to put in new material to address those queries, has already been addressed above.
 
-71     The prosecution’s second argument was that the High Court and the Court of Appeal had not previously expressed disapproval or criticism of the prosecution’s “practice” of putting in new material. In this connection, the prosecution referred me to the cases of _Mustafa Ahunbay_ and _Rajendar Prasad._[\[note: 50\]](#Ftn_50) I have reviewed both these cases and accept that this is true. But this was not a persuasive argument. This question was never raised or argued before the High Court or the Court of Appeal in those cases. One might surmise that the petitioners in previous criminal revisions or criminal references concerning s 370 CPC were content not to object to the introduction of additional material. Moreover, it is difficult to say that a “practice” has formed based only on two decisions. Hence actual authority that any such “practice” existed was tenuous at best. There was no cogent basis to say that this “practice” had coalesced into legally binding custom.
+71     The prosecution’s second argument was that the High Court and the Court of Appeal had not previously expressed disapproval or criticism of the prosecution’s “practice” of putting in new material. In this connection, the prosecution referred me to the cases of _Mustafa Ahunbay_ and _Rajendar Prasad._[^50] I have reviewed both these cases and accept that this is true. But this was not a persuasive argument. This question was never raised or argued before the High Court or the Court of Appeal in those cases. One might surmise that the petitioners in previous criminal revisions or criminal references concerning s 370 CPC were content not to object to the introduction of additional material. Moreover, it is difficult to say that a “practice” has formed based only on two decisions. Hence actual authority that any such “practice” existed was tenuous at best. There was no cogent basis to say that this “practice” had coalesced into legally binding custom.
 
 72     The prosecution’s third argument was that an analogy should be drawn between an s 370 report and the psychiatric report filed by an Institute of Mental Health (“IMH”) psychiatrist under the MTO regime in s 339 CPC. The prosecution relied on my decision in _Low Gek Hong v Public Prosecutor_ (“_Low Gek Hong_”), where I held that the court was not precluded from seeking clarifications from a psychiatric report if the report was unclear, even though s 339(9) CPC specified that the psychiatrist’s report was to be “final and conclusive”. Thus, although the s 370 report had been submitted to the Magistrate, the Magistrate was entitled to make enquiries, and the prosecution would equally be entitled to put in fresh material in response to those enquiries.
 
@@ -292,14 +293,14 @@ _is it possible to upload it before 1030 and inform me?_
 
 93     Applying the principles distilled from my analysis above, I concluded that the Magistrate did fail to apply s 370 CPC, specifically s 370(2) read with s 370(3) CPC. This was because she was not satisfied with the sufficiency of the material in the s 370 Report, but failed to order the release of the property.
 
-94     That the Magistrate did not consider the material sufficient is clear from the Notes of Evidence at the first hearing:[\[note: 51\]](#Ftn_51)
+94     That the Magistrate did not consider the material sufficient is clear from the Notes of Evidence at the first hearing:[^51]
 
 <table align="left" cellpadding="0" cellspacing="0" class="Judg-2" frame="none" pgwide="1"><colgroup><col width="22.8270898689795%"> <col width="77.1729101310205%"> </colgroup><tbody><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Court:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">I think the objection is not really that – okay, I think whether or not there is sufficient evidence to satisfy the Prosecution is quite another point. The point really here is, is there any – are there facts before us to enable me to decide whether the property is still relevant for investigations. I mean, given the staturies – statutory scheme, you’ve had 1 year –</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Sng:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Yes.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Court:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">alright –</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Sng:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Yes.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Court:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">before your 1st reporting. So now you are really asking for more time, and the question really is, why is this still necessary? I think – I think, regardless of whether the relevant link is 35(1)(a) or 35(1)(c) of the CPC, I still need to be satisfied. And the – the reason why I had to ask for facts earlier on is –</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Sng:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Yes.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Court:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">is precisely because, I myself have difficulty.</p></td></tr></tbody></table>
 
   
   
 
-95     When the Magistrate expressed her difficulties with the material before her, she was referring not only to the amended s 370 Report, but _also_ the Annex, which had been admitted by her by that point.[\[note: 52\]](#Ftn_52) The relevant Notes of Evidence specifically indicate that the prosecution furnished the Annex “pursuant to queries from the Court” before the first hearing.[\[note: 53\]](#Ftn_53) Flowing from my holdings above, it would have been impermissible for the Magistrate to admit and refer to the Annex. But putting that aside for the moment, it was apparent that the Magistrate had difficulty with the adequacy of the material put before her in both the s amended 370 Report with the Annex. Hence she should have ordered the release of the seized property.
+95     When the Magistrate expressed her difficulties with the material before her, she was referring not only to the amended s 370 Report, but _also_ the Annex, which had been admitted by her by that point.[^52] The relevant Notes of Evidence specifically indicate that the prosecution furnished the Annex “pursuant to queries from the Court” before the first hearing.[^53] Flowing from my holdings above, it would have been impermissible for the Magistrate to admit and refer to the Annex. But putting that aside for the moment, it was apparent that the Magistrate had difficulty with the adequacy of the material put before her in both the s amended 370 Report with the Annex. Hence she should have ordered the release of the seized property.
 
 ### (2) No bias or prejudgment
 
@@ -307,7 +308,7 @@ _is it possible to upload it before 1030 and inform me?_
 
 97     The argument on prejudgment can be readily dismissed. In _BOI v BOJ_ (“_BOI_”), the Court of Appeal held that in order for prejudgment to amount to apparent bias, it must be established that the fair-minded, informed and reasonable observer would “suspect or apprehend that the decision-maker had reached a _final and conclusive decision_ before _being made aware of all relevant evidence and arguments which the parties wish to put before him or her_, such that he or she approaches the matter at hand with a closed mind” \[emphasis added\]: at \[109\].
 
-98     Here, the Magistrate did not reach a decision whether the seized property should continue to be retained by the prosecution, or whether they should be released. The proceedings below ended inconclusively with the Magistrate adjourning the hearing pending the decision of this Court on the criminal revision.[\[note: 54\]](#Ftn_54) There was no final, conclusive decision on the matter in which the Magistrate had demonstrated prejudgment.
+98     Here, the Magistrate did not reach a decision whether the seized property should continue to be retained by the prosecution, or whether they should be released. The proceedings below ended inconclusively with the Magistrate adjourning the hearing pending the decision of this Court on the criminal revision.[^54] There was no final, conclusive decision on the matter in which the Magistrate had demonstrated prejudgment.
 
 99     Further, and in any event, the petitioners were given ample opportunity to present arguments and were fully heard on the admission of the documents, and the permissibility of the prosecution being heard _ex parte_. The Magistrate was made aware of all relevant evidence and arguments which the petitioners sought to place before her. This undermined the contention that the Magistrate’s mind was closed and that she had prejudged the matter.
 
@@ -333,9 +334,9 @@ _is it possible to upload it before 1030 and inform me?_
 
 109    That being said, the parties did not suggest that the present criminal revision fell outside the statutory language in s 400(1) CPC. I took the view that this must be right; there was nothing that should have been appealed which would have fallen within the prohibition in s 400(2) CPC, and the High Court was entitled here to examine the regularity of the proceedings below.
 
-110    The prosecution did, however, mount a challenge to the existence of this Court’s revisionary jurisdiction, on the basis that no “serious injustice” had been caused to the petitioners. This submission was based on the High Court’s recent pronouncement of the law in _Oon Heng Lye v Public Prosecutor_ (“_Oon Heng Lye_”) that the revisionary jurisdiction of the court is to be sparingly exercised, and that this will typically “require a demonstration not only that there has been some error but also that material and serious injustice has been occasioned as a result”: at \[14\]. In addition, the High Court in _Knight Glenn Jeyasingam v Public Prosecutor_ stated that “the irregularity or otherwise noted from the record of proceedings must have resulted in _grave and serious injustice_” \[emphasis added\]: at \[19\]. The prosecution submitted that the petitioners had only been deprived of company documents and some electronic devices; and the only complaint they had made was that this had hindered the filing of their taxes.[\[note: 55\]](#Ftn_55) The prosecution argued that this did not amount to serious injustice. Further, the prosecution emphasised that it had allowed the petitioners to make copies of the necessary documents, but the petitioners had refused to do so. Thus, if there was any serious injustice, the petitioners had inflicted that injustice upon themselves.
+110    The prosecution did, however, mount a challenge to the existence of this Court’s revisionary jurisdiction, on the basis that no “serious injustice” had been caused to the petitioners. This submission was based on the High Court’s recent pronouncement of the law in _Oon Heng Lye v Public Prosecutor_ (“_Oon Heng Lye_”) that the revisionary jurisdiction of the court is to be sparingly exercised, and that this will typically “require a demonstration not only that there has been some error but also that material and serious injustice has been occasioned as a result”: at \[14\]. In addition, the High Court in _Knight Glenn Jeyasingam v Public Prosecutor_ stated that “the irregularity or otherwise noted from the record of proceedings must have resulted in _grave and serious injustice_” \[emphasis added\]: at \[19\]. The prosecution submitted that the petitioners had only been deprived of company documents and some electronic devices; and the only complaint they had made was that this had hindered the filing of their taxes.[^55] The prosecution argued that this did not amount to serious injustice. Further, the prosecution emphasised that it had allowed the petitioners to make copies of the necessary documents, but the petitioners had refused to do so. Thus, if there was any serious injustice, the petitioners had inflicted that injustice upon themselves.
 
-111    The petitioners, for their part, argued that the prosecution’s arguments missed the point. They had suffered serious injustice because of the Magistrate demonstrating a closed mind to their case, as evidenced by her wrongful admission of the Annex and Addendum and willingness to hear the prosecution _ex parte_. The Magistrate’s refusal to apply the plain language of s 370 CPC was a “serious irregularity” justifying the exercise of the High Court’s revisionary jurisdiction.[\[note: 56\]](#Ftn_56)
+111    The petitioners, for their part, argued that the prosecution’s arguments missed the point. They had suffered serious injustice because of the Magistrate demonstrating a closed mind to their case, as evidenced by her wrongful admission of the Annex and Addendum and willingness to hear the prosecution _ex parte_. The Magistrate’s refusal to apply the plain language of s 370 CPC was a “serious irregularity” justifying the exercise of the High Court’s revisionary jurisdiction.[^56]
 
 112    I was of the view that the petitioners had indeed suffered material and serious injustice in this case, although not entirely for the reasons advanced by the petitioners. I have already outlined above why I found no bias – real or apparent – in this case. So that was not a ground for finding serious injustice. Instead, I considered that there was serious injustice because property which indisputably belonged to the petitioners was being retained by the CAD without any legal basis for its retention.
 
@@ -361,9 +362,9 @@ _is it possible to upload it before 1030 and inform me?_
 
 122    Further, Menon CJ in _Rajendar Prasad_ also cautioned at \[48\] that although investigations might not be completed within a year, “this does not mean that a bland assertion from the \[Investigation Officer\] to the effect that investigations are continuing and that the seized assets are relevant will suffice”. The Magistrate “should be provided with such information as would enable her to be satisfied that there is a _reasonable basis_ for thinking that the seized property is ‘relevant for the purposes of any investigation, inquiry, trial or other proceeding under \[the CPC\]’”, where that is the basis on which the extension of the seizure is sought.
 
-123    I turn then to the amended s 370 Report. After examining the Report, I found myself facing the same difficulty as was experienced by the Magistrate. The amended s 370 Report lacked sufficient information to justify the continued retention of the seized property by the CAD. The only paragraph in the amended s 370 Report that suggested any links at all between the seized property and criminal investigations was paragraph 5. But all paragraph 5 said was that “\[the\] items seized continue to be relevant to investigations and will be required by the police as they are suspected to constitute evidence of offences under Section 406, 420 of the Penal Code (Cap 224), Section 148(1) of the Companies Act (Cap 50) and Section 34(1) of the Business Names Registration Act”.[\[note: 57\]](#Ftn_57) This was plainly insufficient, and was truly nothing more than a bland assertion from the IO which Menon CJ in _Rajendar Prasad_ indicated would not be enough. There was also an annex to the amended s 370 Report, but it added nothing to the inquiry into the relevance of the seized property to criminal investigations. All the annex contained was a laundry list of the items seized.
+123    I turn then to the amended s 370 Report. After examining the Report, I found myself facing the same difficulty as was experienced by the Magistrate. The amended s 370 Report lacked sufficient information to justify the continued retention of the seized property by the CAD. The only paragraph in the amended s 370 Report that suggested any links at all between the seized property and criminal investigations was paragraph 5. But all paragraph 5 said was that “\[the\] items seized continue to be relevant to investigations and will be required by the police as they are suspected to constitute evidence of offences under Section 406, 420 of the Penal Code (Cap 224), Section 148(1) of the Companies Act (Cap 50) and Section 34(1) of the Business Names Registration Act”.[^57] This was plainly insufficient, and was truly nothing more than a bland assertion from the IO which Menon CJ in _Rajendar Prasad_ indicated would not be enough. There was also an annex to the amended s 370 Report, but it added nothing to the inquiry into the relevance of the seized property to criminal investigations. All the annex contained was a laundry list of the items seized.
 
-124    The prosecution emphasised that the seized property was “evidence” of an offence seized pursuant to s 35(1)(_c_) CPC and proposed that as a distinguishing factor in this case. In this sense, this case was different from earlier cases concerning s 370 CPC, where the items were seized pursuant to s 35(1)(_a_) CPC. The submission appeared to be that because the seized property qualified as “evidence”, it must immediately be relevant to investigations, because evidence is necessarily relevant to investigations.[\[note: 58\]](#Ftn_58) As the prosecution put it: “_evidence_ must necessarily be relevant for the purposes of investigations”, and “where property suspected to constitute evidence of an offence is seized under section 35(1)(c), it also follows that such property is relevant to investigations.”[\[note: 59\]](#Ftn_59) The prosecution also appeared to capitalise on the “nature” of the seized property as evidence to downplay Menon CJ’s comments in _Rajendar Prasad_ that a bland assertion from the IO would not suffice. Instead, the argument was made that the information that must be placed before the court varied depending on the nature of the seized property, and Menon CJ’s comments should be restricted to cases where the seized property was suspected to be the proceeds of crime, rather than evidence of an offence.[\[note: 60\]](#Ftn_60)
+124    The prosecution emphasised that the seized property was “evidence” of an offence seized pursuant to s 35(1)(_c_) CPC and proposed that as a distinguishing factor in this case. In this sense, this case was different from earlier cases concerning s 370 CPC, where the items were seized pursuant to s 35(1)(_a_) CPC. The submission appeared to be that because the seized property qualified as “evidence”, it must immediately be relevant to investigations, because evidence is necessarily relevant to investigations.[^58] As the prosecution put it: “_evidence_ must necessarily be relevant for the purposes of investigations”, and “where property suspected to constitute evidence of an offence is seized under section 35(1)(c), it also follows that such property is relevant to investigations.”[^59] The prosecution also appeared to capitalise on the “nature” of the seized property as evidence to downplay Menon CJ’s comments in _Rajendar Prasad_ that a bland assertion from the IO would not suffice. Instead, the argument was made that the information that must be placed before the court varied depending on the nature of the seized property, and Menon CJ’s comments should be restricted to cases where the seized property was suspected to be the proceeds of crime, rather than evidence of an offence.[^60]
 
 125    With respect, I failed to see how characterising the seized property as “evidence” of an offence made any difference to the analysis. I accepted, of course, that evidence should generally (though not invariably) be relevant to investigations into any offence. But the prior question was whether the seized property was “evidence” in the first place. The fact remained that no information had been given at all to support even this contention as to how the seized property was evidence of any offence. The offending conduct had not been particularised to any degree, so far as the s 370 Report was concerned, because all that was said was that there were alleged offences under the Penal Code, or Companies Act, or Business Names Registration Act. And because it was impossible to tell what the offending conduct was, it in turn became impossible to determine if the documents and devices seized were indeed evidence of an offence falling within the provisions identified.
 
@@ -379,125 +380,125 @@ _is it possible to upload it before 1030 and inform me?_
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)Lee Chen Seong Jeremy’s 1st Affidavit (27 August 2018) at para 5.
+[^1]: Lee Chen Seong Jeremy’s 1st Affidavit (27 August 2018) at para 5.
 
-[\[note: 2\]](#Ftn_2_1)Lee Chen Seong Jeremy’s 1st Affidavit (27 August 2018) at p 17–18.
+[^2]: Lee Chen Seong Jeremy’s 1st Affidavit (27 August 2018) at p 17–18.
 
-[\[note: 3\]](#Ftn_3_1)Lee Chen Seong Jeremy’s 1st Affidavit (27 August 2018) at p 38, see para 1 of the s 370 Report.
+[^3]: Lee Chen Seong Jeremy’s 1st Affidavit (27 August 2018) at p 38, see para 1 of the s 370 Report.
 
-[\[note: 4\]](#Ftn_4_1)Lee Chen Seong Jeremy’s 1st Affidavit (27 August 2018) at para 6.
+[^4]: Lee Chen Seong Jeremy’s 1st Affidavit (27 August 2018) at para 6.
 
-[\[note: 5\]](#Ftn_5_1)Lee Chen Seong Jeremy’s 1st Affidavit (27 August 2018) at paras 7–8.
+[^5]: Lee Chen Seong Jeremy’s 1st Affidavit (27 August 2018) at paras 7–8.
 
-[\[note: 6\]](#Ftn_6_1)Lee Chen Seong Jeremy’s 1st Affidavit (27 August 2018) at p 38.
+[^6]: Lee Chen Seong Jeremy’s 1st Affidavit (27 August 2018) at p 38.
 
-[\[note: 7\]](#Ftn_7_1)S 370 Report at para 1.
+[^7]: S 370 Report at para 1.
 
-[\[note: 8\]](#Ftn_8_1)Lee Chen Seong Jeremy’s 1st Affidavit (27 August 2018) at para 9; see also p 44 for the Report.
+[^8]: Lee Chen Seong Jeremy’s 1st Affidavit (27 August 2018) at para 9; see also p 44 for the Report.
 
-[\[note: 9\]](#Ftn_9_1)Lee Chen Seong Jeremy’s 1st Affidavit (27 August 2018) at p 58, para 2.
+[^9]: Lee Chen Seong Jeremy’s 1st Affidavit (27 August 2018) at p 58, para 2.
 
-[\[note: 10\]](#Ftn_10_1)Lee Chen Seong Jeremy’s 1st Affidavit (27 August 2018) at p 58, para 3.
+[^10]: Lee Chen Seong Jeremy’s 1st Affidavit (27 August 2018) at p 58, para 3.
 
-[\[note: 11\]](#Ftn_11_1)NE, 19 July 2018 at p 16 line 4 (Lee Chen Seong Jeremy’s 2nd Affidavit, 7 November 2018, at p 24).
+[^11]: NE, 19 July 2018 at p 16 line 4 (Lee Chen Seong Jeremy’s 2nd Affidavit, 7 November 2018, at p 24).
 
-[\[note: 12\]](#Ftn_12_1)NE, 19 July 2018 at p 16 lines 9–10 (Lee Chen Seong Jeremy’s 2nd Affidavit, 7 November 2018, at p 24).
+[^12]: NE, 19 July 2018 at p 16 lines 9–10 (Lee Chen Seong Jeremy’s 2nd Affidavit, 7 November 2018, at p 24).
 
-[\[note: 13\]](#Ftn_13_1)NE, 19 July 2018 at p 17 lines 1–10 (Lee Chen Seong Jeremy’s 2nd Affidavit, 7 November 2018, at p 25).
+[^13]: NE, 19 July 2018 at p 17 lines 1–10 (Lee Chen Seong Jeremy’s 2nd Affidavit, 7 November 2018, at p 25).
 
-[\[note: 14\]](#Ftn_14_1)NE, 19 July 2018 at p 19 lines 5–18 (Lee Chen Seong Jeremy’s 2nd Affidavit, 7 November 2018, at p 27).
+[^14]: NE, 19 July 2018 at p 19 lines 5–18 (Lee Chen Seong Jeremy’s 2nd Affidavit, 7 November 2018, at p 27).
 
-[\[note: 15\]](#Ftn_15_1)Lee Chen Seong Jeremy’s 1st Affidavit (27 August 2018) at p 65.
+[^15]: Lee Chen Seong Jeremy’s 1st Affidavit (27 August 2018) at p 65.
 
-[\[note: 16\]](#Ftn_16_1)NE, 17 August 2018 at p 9 lines 9–12 (Lee Chen Seong Jeremy’s 2nd Affidavit, 7 November 2018, at p 43).
+[^16]: NE, 17 August 2018 at p 9 lines 9–12 (Lee Chen Seong Jeremy’s 2nd Affidavit, 7 November 2018, at p 43).
 
-[\[note: 17\]](#Ftn_17_1)NE, 17 August 2018 at pp 9 line 32 to 10 line 9 (Lee Chen Seong Jeremy’s 2nd Affidavit, 7 November 2018, at pp 43–44).
+[^17]: NE, 17 August 2018 at pp 9 line 32 to 10 line 9 (Lee Chen Seong Jeremy’s 2nd Affidavit, 7 November 2018, at pp 43–44).
 
-[\[note: 18\]](#Ftn_18_1)NE, 17 August 2018 at p 14 lines 3–9 (Lee Chen Seong Jeremy’s 2nd Affidavit, 7 November 2018, at p 48).
+[^18]: NE, 17 August 2018 at p 14 lines 3–9 (Lee Chen Seong Jeremy’s 2nd Affidavit, 7 November 2018, at p 48).
 
-[\[note: 19\]](#Ftn_19_1)NE, 17 August 2018 at p 28 lines 10–29 (Lee Chen Seong Jeremy’s 2nd Affidavit, 7 November 2018, at p 62).
+[^19]: NE, 17 August 2018 at p 28 lines 10–29 (Lee Chen Seong Jeremy’s 2nd Affidavit, 7 November 2018, at p 62).
 
-[\[note: 20\]](#Ftn_20_1)NE, 17 August 2018 at p 29 lines 3–4 (Lee Chen Seong Jeremy’s 2nd Affidavit, 7 November 2018, at p 63).
+[^20]: NE, 17 August 2018 at p 29 lines 3–4 (Lee Chen Seong Jeremy’s 2nd Affidavit, 7 November 2018, at p 63).
 
-[\[note: 21\]](#Ftn_21_1)NE, 17 August 2018 at pp 35 line 31 to 36 line 6 (Lee Chen Seong Jeremy’s 2nd Affidavit, 7 November 2018, at pp 69–70).
+[^21]: NE, 17 August 2018 at pp 35 line 31 to 36 line 6 (Lee Chen Seong Jeremy’s 2nd Affidavit, 7 November 2018, at pp 69–70).
 
-[\[note: 22\]](#Ftn_22_1)Petitioners’ Submissions at para 33.
+[^22]: Petitioners’ Submissions at para 33.
 
-[\[note: 23\]](#Ftn_23_1)Petitioners’ Submissions at para 38.
+[^23]: Petitioners’ Submissions at para 38.
 
-[\[note: 24\]](#Ftn_24_1)Petitioners’ Submissions at para 39.
+[^24]: Petitioners’ Submissions at para 39.
 
-[\[note: 25\]](#Ftn_25_1)Petitioners’ Submissions at para 43.
+[^25]: Petitioners’ Submissions at para 43.
 
-[\[note: 26\]](#Ftn_26_1)Petitioners’ Submissions at para 43.
+[^26]: Petitioners’ Submissions at para 43.
 
-[\[note: 27\]](#Ftn_27_1)Petitioners’ Submissions at paras 48–50.
+[^27]: Petitioners’ Submissions at paras 48–50.
 
-[\[note: 28\]](#Ftn_28_1)Prosecution’s Submissions at paras 33–34.
+[^28]: Prosecution’s Submissions at paras 33–34.
 
-[\[note: 29\]](#Ftn_29_1)Prosecution’s Submissions at paras 35–37.
+[^29]: Prosecution’s Submissions at paras 35–37.
 
-[\[note: 30\]](#Ftn_30_1)Prosecution’s Submissions at para 43.
+[^30]: Prosecution’s Submissions at para 43.
 
-[\[note: 31\]](#Ftn_31_1)Prosecution’s Submissions at para 42.
+[^31]: Prosecution’s Submissions at para 42.
 
-[\[note: 32\]](#Ftn_32_1)Prosecution’s Submissions at para 49.
+[^32]: Prosecution’s Submissions at para 49.
 
-[\[note: 33\]](#Ftn_33_1)Prosecution’s Submissions at para 50.
+[^33]: Prosecution’s Submissions at para 50.
 
-[\[note: 34\]](#Ftn_34_1)Prosecution’s Submissions at para 51.
+[^34]: Prosecution’s Submissions at para 51.
 
-[\[note: 35\]](#Ftn_35_1)Prosecution’s Submissions at para 52.
+[^35]: Prosecution’s Submissions at para 52.
 
-[\[note: 36\]](#Ftn_36_1)Prosecution’s Submissions at para 53.
+[^36]: Prosecution’s Submissions at para 53.
 
-[\[note: 37\]](#Ftn_37_1)Prosecution’s Submissions at para 56.
+[^37]: Prosecution’s Submissions at para 56.
 
-[\[note: 38\]](#Ftn_38_1)Prosecution’s Submissions at para 60.
+[^38]: Prosecution’s Submissions at para 60.
 
-[\[note: 39\]](#Ftn_39_1)See Affidavit of Neo Tzu Yang Eugene (9 November 2018) at para 5.
+[^39]: See Affidavit of Neo Tzu Yang Eugene (9 November 2018) at para 5.
 
-[\[note: 40\]](#Ftn_40_1)See Court’s Letter to AGC dated 28 November 2018.
+[^40]: See Court’s Letter to AGC dated 28 November 2018.
 
-[\[note: 41\]](#Ftn_41_1)See AGC’s letter dated 3 December 2018.
+[^41]: See AGC’s letter dated 3 December 2018.
 
-[\[note: 42\]](#Ftn_42_1)See R&T’s Letter to the Court dated 3 December 2018.
+[^42]: See R&T’s Letter to the Court dated 3 December 2018.
 
-[\[note: 43\]](#Ftn_43_1)See AGC’s Letter to the Court dated 4 December 2018.
+[^43]: See AGC’s Letter to the Court dated 4 December 2018.
 
-[\[note: 44\]](#Ftn_44_1)Petitioners’ Submissions at para 35.
+[^44]: Petitioners’ Submissions at para 35.
 
-[\[note: 45\]](#Ftn_45_1)Prosecution’s Submissions at para 28.
+[^45]: Prosecution’s Submissions at para 28.
 
-[\[note: 46\]](#Ftn_46_1)Prosecution’s Submissions at para 34.
+[^46]: Prosecution’s Submissions at para 34.
 
-[\[note: 47\]](#Ftn_47_1)Prosecution’s Submissions at paras 35–37.
+[^47]: Prosecution’s Submissions at paras 35–37.
 
-[\[note: 48\]](#Ftn_48_1)Prosecution’s Submissions at para 39.
+[^48]: Prosecution’s Submissions at para 39.
 
-[\[note: 49\]](#Ftn_49_1)NE, 17 August 2018 at pp 26 lines 14–30 (Lee Chen Seong Jeremy’s 2nd Affidavit, 7 November 2018, at p 60).
+[^49]: NE, 17 August 2018 at pp 26 lines 14–30 (Lee Chen Seong Jeremy’s 2nd Affidavit, 7 November 2018, at p 60).
 
-[\[note: 50\]](#Ftn_50_1)Prosecution’s Submissions at paras 35–38.
+[^50]: Prosecution’s Submissions at paras 35–38.
 
-[\[note: 51\]](#Ftn_51_1)NE, 19 July 2018 at pp 15 line 20 to 16 line 4 (Lee Chen Seong Jeremy’s 2nd Affidavit, 7 November 2018, at pp 23–24).
+[^51]: NE, 19 July 2018 at pp 15 line 20 to 16 line 4 (Lee Chen Seong Jeremy’s 2nd Affidavit, 7 November 2018, at pp 23–24).
 
-[\[note: 52\]](#Ftn_52_1)NE, 19 July 2018 at p 4 lines 21–26 (Lee Chen Seong Jeremy’s 2nd Affidavit, 7 November 2018, at p 12).
+[^52]: NE, 19 July 2018 at p 4 lines 21–26 (Lee Chen Seong Jeremy’s 2nd Affidavit, 7 November 2018, at p 12).
 
-[\[note: 53\]](#Ftn_53_1)NE, 19 July 2018 at p 4 line 24 (Lee Chen Seong Jeremy’s 2nd Affidavit, 7 November 2018, at p 12).
+[^53]: NE, 19 July 2018 at p 4 line 24 (Lee Chen Seong Jeremy’s 2nd Affidavit, 7 November 2018, at p 12).
 
-[\[note: 54\]](#Ftn_54_1)NE, 17 August 2018 at pp 35 line 31 to 36 line 6 (Lee Chen Seong Jeremy’s 2nd Affidavit, 7 November 2018, at pp 69–70).
+[^54]: NE, 17 August 2018 at pp 35 line 31 to 36 line 6 (Lee Chen Seong Jeremy’s 2nd Affidavit, 7 November 2018, at pp 69–70).
 
-[\[note: 55\]](#Ftn_55_1)Prosecution’s Submissions at paras 52–53.
+[^55]: Prosecution’s Submissions at paras 52–53.
 
-[\[note: 56\]](#Ftn_56_1)Petitioners’ Submissions at para 36.
+[^56]: Petitioners’ Submissions at para 36.
 
-[\[note: 57\]](#Ftn_57_1)Lee Chen Seong Jeremy’s 1st Affidavit (27 August 2018) at p 44–45.
+[^57]: Lee Chen Seong Jeremy’s 1st Affidavit (27 August 2018) at p 44–45.
 
-[\[note: 58\]](#Ftn_58_1)Prosecution’s Submissions at para 60.
+[^58]: Prosecution’s Submissions at para 60.
 
-[\[note: 59\]](#Ftn_59_1)Prosecution’s Submissions at para 60.
+[^59]: Prosecution’s Submissions at para 60.
 
-[\[note: 60\]](#Ftn_60_1)Prosecution’s Submissions at para 64.
+[^60]: Prosecution’s Submissions at para 64.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F22893-SSP.xml)

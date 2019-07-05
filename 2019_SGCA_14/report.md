@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # Abhilash s/o Kunchian Krishnan _v_ Yeo Hock Huat and another  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Civil Appeal No 42 of 2018</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">26 February 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Court of Appeal</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Judith Prakash JA; Steven Chong JA; Quentin Loh J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Davinder Singh SC, Jaikanth Shankar, Tan Ruo Yu, Yee Guang Yi and Darren Low (instructed counsel, Drew &amp; Napier LLC) and Liew Teck Huat (Niru &amp; Co LLC) for the appellant; Suresh Divyanathan, Kristine Koh and Clarissa Chow (Oon &amp; Bazul LLP) respondents.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Abhilash s/o Kunchian Krishnan — Yeo Hock Huat — JCS-Vanetec Pte Ltd</td></tr></tbody></table>
@@ -26,31 +27,31 @@ Companies – Oppression – Minority shareholders
 
 5       The appellant, Mr Abhilash s/o Kunchian Krishnan (“Mr Abhilash”) is a minority shareholder of the second respondent, a company incorporated in Singapore called JCS-Vanetec Pte Ltd (“JCSV”). The first respondent, Mr Yeo Hock Huat (“Mr Yeo”), is the majority shareholder of JCSV.
 
-6       Mr Abhilash is a businessman in the aerospace industry who had set up two companies, Vanilla International (S) Pte Ltd and Vanilla Aviation Pte Ltd (“Vanilla Aviation”). Sometime in 2003, he intended to launch a business to manufacture stator vanes and other related parts for the aerospace industry in India.[\[note: 1\]](#Ftn_1)
+6       Mr Abhilash is a businessman in the aerospace industry who had set up two companies, Vanilla International (S) Pte Ltd and Vanilla Aviation Pte Ltd (“Vanilla Aviation”). Sometime in 2003, he intended to launch a business to manufacture stator vanes and other related parts for the aerospace industry in India.[^1]
 
-7       Mr Yeo is an engineer and entrepreneur, with more than 20 years of experience in the equipment and machine manufacturing industry. Over the years, he started up and developed several engineering companies. One such company was JCS Automation Pte Ltd, which specialised in the manufacture of precision cleaning ultrasonic equipment. Its business was eventually transferred to JCS-Echigo Pte Ltd (“JCS-Echigo”) in 1999.[\[note: 2\]](#Ftn_2)
+7       Mr Yeo is an engineer and entrepreneur, with more than 20 years of experience in the equipment and machine manufacturing industry. Over the years, he started up and developed several engineering companies. One such company was JCS Automation Pte Ltd, which specialised in the manufacture of precision cleaning ultrasonic equipment. Its business was eventually transferred to JCS-Echigo Pte Ltd (“JCS-Echigo”) in 1999.[^2]
 
-8       At the end of 2003, Mr Abhilash was introduced to Mr Yeo by some common friends. Mr Yeo was keen on branching into the aerospace industry. The two decided to do business together, setting up JCSV in 2004 (named JCS-Vanilla Pte Ltd at the time of incorporation).[\[note: 3\]](#Ftn_3)
+8       At the end of 2003, Mr Abhilash was introduced to Mr Yeo by some common friends. Mr Yeo was keen on branching into the aerospace industry. The two decided to do business together, setting up JCSV in 2004 (named JCS-Vanilla Pte Ltd at the time of incorporation).[^3]
 
-9       Initially, the 10,000 shares in JCSV were held as follows: 50.99% by Mr Yeo, 49% by Mr Abhilash (through Vanilla Aviation), and 0.01% by Ms Elise Hong (an officer of JCS-Echigo). Thereafter, JCSV issued more shares, resulting in changes in the parties’ respective shareholdings. Currently, JCSV has 550,000 issued shares. Mr Yeo holds 78.8%, Mr Abhilash holds 13.9%, while one of Mr Yeo’s companies, JCS Group Co Ltd (“JCS Group”), holds the balance 7.3%.[\[note: 4\]](#Ftn_4) Mr Abhilash claims that this dilution in his shareholding was an attempt by Mr Yeo to cut him out of JCSV, but Mr Yeo claims that this was due to capital injections that he had made into JCSV.[\[note: 5\]](#Ftn_5)
+9       Initially, the 10,000 shares in JCSV were held as follows: 50.99% by Mr Yeo, 49% by Mr Abhilash (through Vanilla Aviation), and 0.01% by Ms Elise Hong (an officer of JCS-Echigo). Thereafter, JCSV issued more shares, resulting in changes in the parties’ respective shareholdings. Currently, JCSV has 550,000 issued shares. Mr Yeo holds 78.8%, Mr Abhilash holds 13.9%, while one of Mr Yeo’s companies, JCS Group Co Ltd (“JCS Group”), holds the balance 7.3%.[^4] Mr Abhilash claims that this dilution in his shareholding was an attempt by Mr Yeo to cut him out of JCSV, but Mr Yeo claims that this was due to capital injections that he had made into JCSV.[^5]
 
-10     One capital injection is of particular interest in this appeal. On 20 November 2015, Mr Yeo (through JCS Group) injected $1.5m into JCSV in exchange for 40,000 shares.[\[note: 6\]](#Ftn_6) This capital injection was significant because Mr Abhilash, both below and on appeal, claimed that the subscription of the 40,000 shares for payment of $1.5m was at an “implied price” of $37.50 per share.
+10     One capital injection is of particular interest in this appeal. On 20 November 2015, Mr Yeo (through JCS Group) injected $1.5m into JCSV in exchange for 40,000 shares.[^6] This capital injection was significant because Mr Abhilash, both below and on appeal, claimed that the subscription of the 40,000 shares for payment of $1.5m was at an “implied price” of $37.50 per share.
 
-11     Historically, JCSV has been a loss-making company. The audited financial statements for financial year 2007 to financial year 2015 show that JCSV has had negative earnings after tax in every single year except two – 2011 and 2015. The earnings after tax for these two years were fairly modest – $32,879 and $113,661 respectively – while the annual net losses between 2010 and 2014 were more substantial averaging around $400,000.[\[note: 7\]](#Ftn_7) The unaudited management accounts for financial year 2016, and January to May 2017 also indicate losses.[\[note: 8\]](#Ftn_8) Mr Abhilash does not contend otherwise.
+11     Historically, JCSV has been a loss-making company. The audited financial statements for financial year 2007 to financial year 2015 show that JCSV has had negative earnings after tax in every single year except two – 2011 and 2015. The earnings after tax for these two years were fairly modest – $32,879 and $113,661 respectively – while the annual net losses between 2010 and 2014 were more substantial averaging around $400,000.[^7] The unaudited management accounts for financial year 2016, and January to May 2017 also indicate losses.[^8] Mr Abhilash does not contend otherwise.
 
 ### Procedural history
 
-12     Mr Abhilash initially brought this action against JCSV and Mr Yeo, alleging that Mr Yeo had conducted the affairs of JCSV in a manner oppressive to him, and in disregard of his interests as a shareholder within the meaning of s 216(1) of the Companies Act (Cap 50, 2006 Rev Ed) (“the Act”). Mr Abhilash sought an order that his shareholding in JCSV be purchased by Mr Yeo on a fair market valuation.[\[note: 9\]](#Ftn_9)
+12     Mr Abhilash initially brought this action against JCSV and Mr Yeo, alleging that Mr Yeo had conducted the affairs of JCSV in a manner oppressive to him, and in disregard of his interests as a shareholder within the meaning of s 216(1) of the Companies Act (Cap 50, 2006 Rev Ed) (“the Act”). Mr Abhilash sought an order that his shareholding in JCSV be purchased by Mr Yeo on a fair market valuation.[^9]
 
-13     On the first day of the trial, the parties reached an agreement that Mr Yeo would purchase Mr Abhilash’s shares. The trial on Mr Yeo’s liability for oppression under s 216(1) of the Act thus did not proceed. The parties recorded a consent order dated 19 October 2017 to the effect that the issue of liability for minority oppression would be dispensed with, and that the court shall proceed to determine, at the trial, the fair market valuation of JCSV for the purposes of sale and purchase of Mr Abhilash’s shares in JCSV (“the Consent Order”). Consequently, the trial proceeded for the sole purpose of examining the expert evidence that the parties had adduced to determine the valuation of JCSV, and flowing from that how much Mr Yeo ought to pay Mr Abhilash for his shares in JCSV.[\[note: 10\]](#Ftn_10)
+13     On the first day of the trial, the parties reached an agreement that Mr Yeo would purchase Mr Abhilash’s shares. The trial on Mr Yeo’s liability for oppression under s 216(1) of the Act thus did not proceed. The parties recorded a consent order dated 19 October 2017 to the effect that the issue of liability for minority oppression would be dispensed with, and that the court shall proceed to determine, at the trial, the fair market valuation of JCSV for the purposes of sale and purchase of Mr Abhilash’s shares in JCSV (“the Consent Order”). Consequently, the trial proceeded for the sole purpose of examining the expert evidence that the parties had adduced to determine the valuation of JCSV, and flowing from that how much Mr Yeo ought to pay Mr Abhilash for his shares in JCSV.[^10]
 
 ### The Shanghai Ossen offer
 
-14     Mr Abhilash’s case on appeal is largely premised on an offer by a third-party to purchase all the shares in JCSV for $50m. Mr Abhilash claims that this offer was the best evidence of JCSV’s market value, and that the Judge erred in disregarding it.[\[note: 11\]](#Ftn_11)
+14     Mr Abhilash’s case on appeal is largely premised on an offer by a third-party to purchase all the shares in JCSV for $50m. Mr Abhilash claims that this offer was the best evidence of JCSV’s market value, and that the Judge erred in disregarding it.[^11]
 
-15     The offer was from a Chinese entity named Shanghai Ossen Aviation Technology Co, Ltd (“Shanghai Ossen”). Shanghai Ossen was described by Mr Yeo as part of a conglomerate with annual sales exceeding RMB10b, and which has won major scientific and technological awards.[\[note: 12\]](#Ftn_12) Between 2015 and 2016, Mr Yeo was involved in discussions with Shanghai Ossen regarding the possibility of the latter acquiring JCSV. As a result of their discussions, two key documents were produced.
+15     The offer was from a Chinese entity named Shanghai Ossen Aviation Technology Co, Ltd (“Shanghai Ossen”). Shanghai Ossen was described by Mr Yeo as part of a conglomerate with annual sales exceeding RMB10b, and which has won major scientific and technological awards.[^12] Between 2015 and 2016, Mr Yeo was involved in discussions with Shanghai Ossen regarding the possibility of the latter acquiring JCSV. As a result of their discussions, two key documents were produced.
 
-16     The first is a Memorandum of Understanding sent by way of email on 10 September 2015. Among other things, the Memorandum of Understanding provided as follows:[\[note: 13\]](#Ftn_13)
+16     The first is a Memorandum of Understanding sent by way of email on 10 September 2015. Among other things, the Memorandum of Understanding provided as follows:[^13]
 
 (a)     Mr Yeo and Mr Abhilash, as sellers, intended to sell “certain percentage shares” of JCSV, while Shanghai Ossen, as buyer, intended to acquire such shares.
 
@@ -60,9 +61,9 @@ Companies – Oppression – Minority shareholders
 
 (d)     Shanghai Ossen’s “expected price for the sale of 100% shares of \[JCSV\]” was $50m, which was “subject to the results of Due Diligence”.
 
-17     The Memorandum of Understanding was followed by a document titled “Investment Framework Agreement”. A version in Chinese was sent by way of email on 3 June 2016, and an English version was sent four days later on 7 June 2016.[\[note: 14\]](#Ftn_14) Although it was contemplated in the Memorandum of Understanding that due diligence checks would be carried out by Shanghai Ossen, no such steps were in fact taken.[\[note: 15\]](#Ftn_15) Mr Abhilash does not contend that due diligence had in fact been done.[\[note: 16\]](#Ftn_16)
+17     The Memorandum of Understanding was followed by a document titled “Investment Framework Agreement”. A version in Chinese was sent by way of email on 3 June 2016, and an English version was sent four days later on 7 June 2016.[^14] Although it was contemplated in the Memorandum of Understanding that due diligence checks would be carried out by Shanghai Ossen, no such steps were in fact taken.[^15] Mr Abhilash does not contend that due diligence had in fact been done.[^16]
 
-18     The Investment Framework Agreement set out the proposed structure for the acquisition of the JCSV shares. It included three parties in addition to Shanghai Ossen and JCSV. They were Shanghai Jiashi Aerospace Power Technology Co, Ltd (“Shanghai Jiashi”), JCS INVB Pte Ltd (“JCS INVB”), and JCS Aero Technology Pte Ltd (“JCS Aero”). Shanghai Jiashi is a wholly-owned subsidiary of Shanghai Ossen. The Investment Framework Agreement contemplated that Shanghai Jiashi would own 100% of the shares in JCS Aero, which in turn would own 100% of the shares in JCSV. Among other things, the Investment Framework Agreement provided as follows:[\[note: 17\]](#Ftn_17)
+18     The Investment Framework Agreement set out the proposed structure for the acquisition of the JCSV shares. It included three parties in addition to Shanghai Ossen and JCSV. They were Shanghai Jiashi Aerospace Power Technology Co, Ltd (“Shanghai Jiashi”), JCS INVB Pte Ltd (“JCS INVB”), and JCS Aero Technology Pte Ltd (“JCS Aero”). Shanghai Jiashi is a wholly-owned subsidiary of Shanghai Ossen. The Investment Framework Agreement contemplated that Shanghai Jiashi would own 100% of the shares in JCS Aero, which in turn would own 100% of the shares in JCSV. Among other things, the Investment Framework Agreement provided as follows:[^17]
 
 (a)     Shanghai Jiashi would acquire 100% of the shareholding in JCS Aero from JCS INVB. This would give Shanghai Jiashi indirect control over 100% of the shareholding in JCSV.
 
@@ -80,7 +81,7 @@ A diagram of the corporate structure of the companies contemplated under this tr
 
 19     In summary, the Investment Framework Agreement contemplated a purchase price of $50m for the shares in JCSV (indirectly through JCS Aero). The $50m comprised $10m in cash and $40m in equity in Shanghai Jiashi, which would be a joint venture company with Shanghai Ossen. Ultimately, neither the Memorandum of Understanding nor the Investment Framework Agreement was signed. Nevertheless, the transaction that was contemplated (as set out in this paragraph) is what was referred to by the Judge and the appellant as “the Shanghai Ossen offer”. We will adopt this term. For present purposes, it is important to highlight two significant features of the Shanghai Ossen offer. First, it was _not an unconditional_ offer – it was always subject to due diligence and second, the consideration is not $50m in cash but _$50m in two components_ – $10m in cash and the balance $40m to be reinvested into the joint venture company. The significance of these two features in considering Mr Abhilash’s new argument for the appeal will be elaborated below.
 
-20     By a letter dated 21 July 2016, Mr Yeo informed Mr Abhilash of the Shanghai Ossen offer, and sought his views as to whether he was agreeable to selling his shares to JCS Aero as part of the plan. Mr Yeo explained that under the terms of the offer, the existing shareholders of JCSV would receive $10m in cash, and a 42% stake in Shanghai Jiashi. This would require that the current shareholders of JCSV sell their shares to JCS Aero. They would in turn own shares in JCS INVB in the same proportion as their shareholding in JCSV. The $10m received by JCS INVB would be distributed to the shareholders in proportion to their shareholding. Mr Yeo went on to state that JCSV was in a weak financial position, having made net losses over the past three years.[\[note: 18\]](#Ftn_18)
+20     By a letter dated 21 July 2016, Mr Yeo informed Mr Abhilash of the Shanghai Ossen offer, and sought his views as to whether he was agreeable to selling his shares to JCS Aero as part of the plan. Mr Yeo explained that under the terms of the offer, the existing shareholders of JCSV would receive $10m in cash, and a 42% stake in Shanghai Jiashi. This would require that the current shareholders of JCSV sell their shares to JCS Aero. They would in turn own shares in JCS INVB in the same proportion as their shareholding in JCSV. The $10m received by JCS INVB would be distributed to the shareholders in proportion to their shareholding. Mr Yeo went on to state that JCSV was in a weak financial position, having made net losses over the past three years.[^18]
 
 ### The experts
 
@@ -88,15 +89,15 @@ A diagram of the corporate structure of the companies contemplated under this tr
 
 ## Decision below
 
-22     As mentioned above, the Consent Order required the court to determine the fair market value of JCSV. Mr Abhilash’s principal submission before the Judge was that JCSV should be valued on an _income basis_. He argued that the income basis was appropriate because JCSV was a going concern, and had a significant amount of goodwill as evidenced by existing contracts, past investment offers, and certifications which qualified it to manufacture components for well-known companies. He submitted that the true value of the company was between $39,649,308 and $75,699,572 – the income value and the investment value that Mr Rao had arrived at.[\[note: 19\]](#Ftn_19)
+22     As mentioned above, the Consent Order required the court to determine the fair market value of JCSV. Mr Abhilash’s principal submission before the Judge was that JCSV should be valued on an _income basis_. He argued that the income basis was appropriate because JCSV was a going concern, and had a significant amount of goodwill as evidenced by existing contracts, past investment offers, and certifications which qualified it to manufacture components for well-known companies. He submitted that the true value of the company was between $39,649,308 and $75,699,572 – the income value and the investment value that Mr Rao had arrived at.[^19]
 
-23     Mr Yeo’s main submission below was that JCSV should be valued on a _net assets basis_. He rejected the investment basis of valuation because that would be contrary to the terms of the Consent Order (which specified fair market value). He also rejected the income basis of valuation because JCSV was a historically loss-making company and Mr Rao’s projection of JCSV’s future cash flows was predicated on speculation, and therefore could not be relied upon.[\[note: 20\]](#Ftn_20)
+23     Mr Yeo’s main submission below was that JCSV should be valued on a _net assets basis_. He rejected the investment basis of valuation because that would be contrary to the terms of the Consent Order (which specified fair market value). He also rejected the income basis of valuation because JCSV was a historically loss-making company and Mr Rao’s projection of JCSV’s future cash flows was predicated on speculation, and therefore could not be relied upon.[^20]
 
-24     The Judge held that although the Consent Order provided that JCSV was to be valued on a “fair market value” basis, and not an investment basis, it also envisaged that the court would have the discretion to make adjustments in arriving at the final determination. In particular, the Consent Order provided that the court should consider whether the Shanghai Ossen offer had any effect on the valuation of the shares.[\[note: 21\]](#Ftn_21) Nevertheless, the Judge saw no factual basis for adopting the investment approach. Although Shanghai Ossen made an initial proposal in 2015 to invest in JCSV, that offer was subject to a due diligence check which was never carried out (which the Judge found was due to Mr Abhilash’s failure to cooperate in accepting the proposal).[\[note: 22\]](#Ftn_22) She thus found that the offer had “evaporated”, and it was “entirely speculative” as to whether another company might have a similar interest.[\[note: 23\]](#Ftn_23)
+24     The Judge held that although the Consent Order provided that JCSV was to be valued on a “fair market value” basis, and not an investment basis, it also envisaged that the court would have the discretion to make adjustments in arriving at the final determination. In particular, the Consent Order provided that the court should consider whether the Shanghai Ossen offer had any effect on the valuation of the shares.[^21] Nevertheless, the Judge saw no factual basis for adopting the investment approach. Although Shanghai Ossen made an initial proposal in 2015 to invest in JCSV, that offer was subject to a due diligence check which was never carried out (which the Judge found was due to Mr Abhilash’s failure to cooperate in accepting the proposal).[^22] She thus found that the offer had “evaporated”, and it was “entirely speculative” as to whether another company might have a similar interest.[^23]
 
-25     The Judge then turned to consider the market value of JCSV. As between the income approach and the net assets approach, she took the view that the latter was applicable. She found that the income approach was inapplicable because JCSV was not a going concern, in the sense that it was not self-sustaining from its operating turnover.[\[note: 24\]](#Ftn_24) She also did not accept Mr Abhilash’s submission (and Mr Rao’s opinion) that JCSV’s intangible assets could generate future revenue for the company. At \[32\]–\[48\] of the Grounds of Decision, the Judge examined the evidence in respect of each of the three intangible assets relied upon by Mr Abhilash, and concluded that they could not reasonably be said to be sources of future revenue for JCSV. It should be noted that Mr Abhilash is not challenging this finding on appeal. Consequently, the Judge accepted Mr Thio’s assessment that, on the income approach, JCSV would have a nil valuation. She rejected Mr Rao’s valuation on the income approach as it was tainted by his projection of future sales, which formed a core part of his valuation. Left with a company with an undisputed loss-making record, the Judge took the view that the net assets basis of valuation was the applicable approach.[\[note: 25\]](#Ftn_25)
+25     The Judge then turned to consider the market value of JCSV. As between the income approach and the net assets approach, she took the view that the latter was applicable. She found that the income approach was inapplicable because JCSV was not a going concern, in the sense that it was not self-sustaining from its operating turnover.[^24] She also did not accept Mr Abhilash’s submission (and Mr Rao’s opinion) that JCSV’s intangible assets could generate future revenue for the company. At \[32\]–\[48\] of the Grounds of Decision, the Judge examined the evidence in respect of each of the three intangible assets relied upon by Mr Abhilash, and concluded that they could not reasonably be said to be sources of future revenue for JCSV. It should be noted that Mr Abhilash is not challenging this finding on appeal. Consequently, the Judge accepted Mr Thio’s assessment that, on the income approach, JCSV would have a nil valuation. She rejected Mr Rao’s valuation on the income approach as it was tainted by his projection of future sales, which formed a core part of his valuation. Left with a company with an undisputed loss-making record, the Judge took the view that the net assets basis of valuation was the applicable approach.[^25]
 
-26     The Judge held that there was no reason to adjust the valuation that Mr Thio had reached on a net assets basis.[\[note: 26\]](#Ftn_26) She first noted that Mr Rao provided no counter-valuation on a net assets basis, and Mr Abhilash therefore had no basis to critique Mr Thio’s valuation. We note that although Mr Rao did initially provide a valuation on a net assets basis in his valuation report, this was not eventually relied upon, either by Mr Abhilash in his closing submissions or by Mr Rao in cross-examination when asked to comment on Mr Thio’s valuation on a net assets basis. As for the criticism that Mr Thio’s valuation failed to account for JCSV’s intangible assets, this was not correct as Mr Thio had factored them in, albeit by giving them a limited value.[\[note: 27\]](#Ftn_27)
+26     The Judge held that there was no reason to adjust the valuation that Mr Thio had reached on a net assets basis.[^26] She first noted that Mr Rao provided no counter-valuation on a net assets basis, and Mr Abhilash therefore had no basis to critique Mr Thio’s valuation. We note that although Mr Rao did initially provide a valuation on a net assets basis in his valuation report, this was not eventually relied upon, either by Mr Abhilash in his closing submissions or by Mr Rao in cross-examination when asked to comment on Mr Thio’s valuation on a net assets basis. As for the criticism that Mr Thio’s valuation failed to account for JCSV’s intangible assets, this was not correct as Mr Thio had factored them in, albeit by giving them a limited value.[^27]
 
 27     The Judge also rejected the related submission that JCSV could not possibly be worth only $109,589 (on Mr Thio’s net assets basis) because Shanghai Ossen had expressed an interest to buy the company for $50m. Mr Abhilash had argued that Shanghai Ossen would not have come up with such an offer if it was not reasonably satisfied that the offer was justified. The Judge disagreed for three reasons:
 
@@ -104,31 +105,31 @@ A diagram of the corporate structure of the companies contemplated under this tr
 
 (b)     The offer was subject to a due diligence check which was never carried out.
 
-(c)     The price was an offer by a specific entity at that particular time. No evidence was led on their particular reasons for doing so, and there was also no evidence that any _other_ entities had valued JCSV in the same way.[\[note: 28\]](#Ftn_28)
+(c)     The price was an offer by a specific entity at that particular time. No evidence was led on their particular reasons for doing so, and there was also no evidence that any _other_ entities had valued JCSV in the same way.[^28]
 
 28     As for Mr Abhilash’s submission that Mr Yeo had valued the company’s shares at $37.50 per share in his capital injection of $1.5m on the basis that he would be allotted 40,000 shares for that sum, the Judge did not accept that this represented the value of JCSV for two reasons:
 
 (a)     First, Mr Rao did not challenge Mr Thio’s view that the share price for a share allotment does not necessarily reflect the value of every share in a company, especially where the company is a private company.
 
-(b)     Second, the Judge accepted Mr Yeo’s explanation for the price of $37.50 per share. Specifically, Mr Yeo had explained that the $1.5m capital injection into JCSV was made because JCSV needed funds, and the number of shares issued was calibrated so as to ensure that after the capital injection Mr Abhilash’s shareholding would not be diluted excessively.[\[note: 29\]](#Ftn_29)
+(b)     Second, the Judge accepted Mr Yeo’s explanation for the price of $37.50 per share. Specifically, Mr Yeo had explained that the $1.5m capital injection into JCSV was made because JCSV needed funds, and the number of shares issued was calibrated so as to ensure that after the capital injection Mr Abhilash’s shareholding would not be diluted excessively.[^29]
 
 29     We should add that Mr Abhilash did not use the price of $37.50 per share arising from Mr Yeo’s capital injection as a proxy for the fair market value under the Consent Order. Instead, it was used to suggest in a general sense that JCSV must be worth more than the net assets valuation proposed by Mr Thio. However, it does not follow that just because there is some indication that the shares might be worth more than Mr Thio’s net assets valuation, their value must necessarily be either of Mr Rao’s valuations.
 
-30     Finally, the Judge held that there was no reason to adjust the valuation on the basis of transactions which were impugned as being improper. Essentially, she found that those transactions were either immaterial to the valuation of JCSV, or were not improper.[\[note: 30\]](#Ftn_30) These findings have also not been challenged by Mr Abhilash on appeal.
+30     Finally, the Judge held that there was no reason to adjust the valuation on the basis of transactions which were impugned as being improper. Essentially, she found that those transactions were either immaterial to the valuation of JCSV, or were not improper.[^30] These findings have also not been challenged by Mr Abhilash on appeal.
 
 ## The parties’ cases on appeal
 
-31     Mr Abhilash focuses his appeal on the narrow issue of whether the Shanghai Ossen offer should be relied upon as the basis for valuing the shares in JCSV.[\[note: 31\]](#Ftn_31) This is how Mr Abhilash has framed his case on appeal:
+31     Mr Abhilash focuses his appeal on the narrow issue of whether the Shanghai Ossen offer should be relied upon as the basis for valuing the shares in JCSV.[^31] This is how Mr Abhilash has framed his case on appeal:
 
-(a)     Fair market value is a measure of what a company can fetch in the market, and in determining this, the court is required to take into account offers made by a third-party to purchase the shares of a company, unless the offer is not genuine.[\[note: 32\]](#Ftn_32) Such offers are the “best evidence” of fair value.[\[note: 33\]](#Ftn_33)
+(a)     Fair market value is a measure of what a company can fetch in the market, and in determining this, the court is required to take into account offers made by a third-party to purchase the shares of a company, unless the offer is not genuine.[^32] Such offers are the “best evidence” of fair value.[^33]
 
-(b)     The Judge erred in disregarding the Shanghai Ossen offer on the basis that it had “evaporated”. There was no suggestion that it was not a genuine offer, and there was nothing to suggest that had the due diligence been carried out, the offeror would have found anything of concern to cause it to withdraw or reduce its offer.[\[note: 34\]](#Ftn_34) It is irrelevant whether the offer had evaporated as that does not diminish the informational value of the offer.[\[note: 35\]](#Ftn_35)
+(b)     The Judge erred in disregarding the Shanghai Ossen offer on the basis that it had “evaporated”. There was no suggestion that it was not a genuine offer, and there was nothing to suggest that had the due diligence been carried out, the offeror would have found anything of concern to cause it to withdraw or reduce its offer.[^34] It is irrelevant whether the offer had evaporated as that does not diminish the informational value of the offer.[^35]
 
-(c)     There are compelling grounds to find that the Shanghai Ossen offer remains alive.[\[note: 36\]](#Ftn_36) Among other points, Mr Abhilash contends that the letters from Shanghai Ossen and Shanghai Jiashi purporting to set a deadline of 31 December 2016 for the acquisition of JCSV to be completed are “highly dubious”, and there is “good reason to doubt their authenticity”.[\[note: 37\]](#Ftn_37)
+(c)     There are compelling grounds to find that the Shanghai Ossen offer remains alive.[^36] Among other points, Mr Abhilash contends that the letters from Shanghai Ossen and Shanghai Jiashi purporting to set a deadline of 31 December 2016 for the acquisition of JCSV to be completed are “highly dubious”, and there is “good reason to doubt their authenticity”.[^37]
 
 32     At the hearing before us, we queried counsel for Mr Abhilash, Mr Davinder Singh SC, whether it was strictly necessary for him to persuade us that the Shanghai Ossen offer remains alive. Mr Singh replied that while he was not conceding the point, it was ultimately irrelevant to Mr Abhilash’s success on appeal. The argument which he crystallised during the appeal hearing was that by the terms of the Consent Order, JCSV was to be valued as of 30 April 2016. It is undisputed that the Shanghai Ossen offer was alive _as of that date_. Consequently, regardless of the events which _subsequently_ transpired, the court is obliged to look at the relevance of the Shanghai Ossen offer having been made then. Further, although the offer then was still subject to due diligence, there was nothing as of 30 April 2016 to indicate that due diligence would turn up any adverse findings. In short, this court should take cognisance of the _mere fact_ of the Shanghai Ossen offer being in and of itself the best evidence of JCSV’s fair market value.
 
-33     Before us, counsel for Mr Yeo, Mr Suresh Divyanathan, made two principal submissions:[\[note: 38\]](#Ftn_38)
+33     Before us, counsel for Mr Yeo, Mr Suresh Divyanathan, made two principal submissions:[^38]
 
 (a)     First, the Shanghai Ossen offer is at best an indication of the investment value _to Shanghai Ossen_, and not an indication of JCSV’s fair market value. The $50m offer was therefore entity-specific.
 
@@ -174,7 +175,7 @@ When a _question of law_ is raised for the first time in a court of last resort,
 
 44     The second issue is a seemingly simple one, although it gave us some cause for unease. In any valuation process, typically a date has to be fixed by reference to which the company’s value is ascertained. In the present case, the Consent Order fixed this date as 30 April 2016. However, Mr Singh’s submission which was developed before us during the appeal hearing that the Shanghai Ossen offer was _still alive as of 30 April 2016_, meant that the particular date that was identified in the Consent Order assumes not only paramount significance but is now placed on the centre stage of the valuation exercise. The unease we felt with this seemingly attractive point was compounded by the fact that both Mr Singh and Mr Divyanathan were unable to point to any evidence as to _why_ this particular date was selected. Furthermore, it is common ground that both experts did not attach any weight or significance to the date even though their mandate was to assist the court on the fair market value of the shares as at 30 April 2016.
 
-45     In our view, this warranted a comprehensive construction of the Consent Order. The Consent Order stated as follows:[\[note: 39\]](#Ftn_39)
+45     In our view, this warranted a comprehensive construction of the Consent Order. The Consent Order stated as follows:[^39]
 
 1.    The Parties shall dispense with the determination of the issue of liability for minority oppression under Section 216 of the Companies Act which needs no longer be ventilated and decided in this action.
 
@@ -246,7 +247,7 @@ In our view, this principle is applicable to the interpretation of the June 2004
 
 #### The Canadian authorities
 
-56     Reference is made to the decision of the British Columbia Supreme Court in _Nelson v Vanier_ \[2013\] BCJ No 2939 (“_Nelson v Vanier_”), in particular Schultes J’s comment at \[28\] that the “absolute gold standard” for valuers is to ask what a genuine purchaser is willing to pay in the open market. It was argued that this decision supports the proposition that even in a case where an offer is made but not eventually accepted, the significance of the offer, in terms of indicating the true value of the shares, is not diminished.[\[note: 40\]](#Ftn_40) As a legal proposition, we have no difficulty with this submission.
+56     Reference is made to the decision of the British Columbia Supreme Court in _Nelson v Vanier_ \[2013\] BCJ No 2939 (“_Nelson v Vanier_”), in particular Schultes J’s comment at \[28\] that the “absolute gold standard” for valuers is to ask what a genuine purchaser is willing to pay in the open market. It was argued that this decision supports the proposition that even in a case where an offer is made but not eventually accepted, the significance of the offer, in terms of indicating the true value of the shares, is not diminished.[^40] As a legal proposition, we have no difficulty with this submission.
 
 57     This however neglects to paint a full picture of the facts in that case. The parties in _Nelson v Vanier_ were in a “marriage-like relationship”, and had by a consent order asked the court to determine the value of shares in a company they had operated together. It was agreed in the consent order that the value of the shares at which the parties may purchase the other’s interest should be the share value as determined by the expert report of one Ron Hooge, but if they did not agree on the share value after reviewing the expert report, they may apply to court to determine a fair share value (at \[9\]). Mr Hooge initially valued the company at $1.32m. There was also several offers by a third-party to purchase the business and his _final_ offer was for $1.45m, but subject to the condition that neither vendor would work as a fishing guide within a 400km radius for four years. Mr Vanier, however, rejected the offer as he was not agreeable to the restraint of trade. The offer was subsequently withdrawn. A supplementary expert report was then called in which Mr Hooge explained that he was fully informed of the third-party offer, including the requirement of a non-competition clause, wherein he concluded that the offer was a _bona fide_ one that met the accepted definition of fair market value. Consequently, Mr Hooge expressed the opinion that the fair market value of the shares, if sold, was the same as the third-party’s offer, _ie_, $1.45m.
 
@@ -264,7 +265,7 @@ In our view, this principle is applicable to the interpretation of the June 2004
 
 #### The Australian authorities
 
-64     Mr Singh also relies on the decision in _MMAL Rentals Pty Ltd v Bruning_ (2004) 63 NSWLR 167 (“_MMAL Rentals_”), a decision of the New South Wales Court of Appeal, for the proposition that “a contemporaneous offer established a ‘floor’ for the value or price” of a company’s shares. Spigelman CJ was quoted as stating that it would be “absurd” to exclude the evidence of a third-party offer.[\[note: 41\]](#Ftn_41)
+64     Mr Singh also relies on the decision in _MMAL Rentals Pty Ltd v Bruning_ (2004) 63 NSWLR 167 (“_MMAL Rentals_”), a decision of the New South Wales Court of Appeal, for the proposition that “a contemporaneous offer established a ‘floor’ for the value or price” of a company’s shares. Spigelman CJ was quoted as stating that it would be “absurd” to exclude the evidence of a third-party offer.[^41]
 
 65     It is correct that in _MMAL Rentals_, the court disregarded _both_ parties’ expert valuations, and instead relied heavily on a prior offer made for the acquisition of the company’s shares. But it is important that the facts of the case be fully fleshed out in order to fully appreciate the context of the court’s decision. In that case, Mitsubishi held 81.25% of the shares in a company named MMAL Rentals, while one Mr Bruning held the balance 18.75%. MMAL Rentals had a subsidiary named Kingmill. Under a share allotment agreement in relation to shares in MMAL Rentals, Mitsubishi asserted its right to purchase Mr Bruning’s shares for “fair market value” pursuant to an option clause. Two experts gave their valuations of the shares. Mitsubishi’s expert applied a net assets approach. He valued the company at $58,911 and Kingmill at nil value. On the other hand, Mr Bruning’s expert valued his indirect interest in Kingmill at $6m based on a computation of profits a subsidiary of MMAL Rentals would make. The trial judge rejected both experts’ evidence. Mr Bruning’s expert’s valuation was based on unverified assumptions and was without foundation, while Mitsubishi’s expert’s valuation was simply the value of MMAL Rental’s real estate, which entailed valuing Kingmill as nil.
 
@@ -296,21 +297,21 @@ In our view, this principle is applicable to the interpretation of the June 2004
 
 #### Mr Thio’s evidence
 
-78     Mr Thio made no mention of the Shanghai Ossen offer in his expert report. This was probably understandable given that his valuation approach was on a net assets basis. Under cross-examination, he explained that while he was aware of the Shanghai Ossen offer when he prepared his valuation, he had been instructed that the offer had lapsed, and was thus not provided with the documents in relation to the offer. On that basis, he opined that it had no relevance to his valuation.[\[note: 42\]](#Ftn_42)
+78     Mr Thio made no mention of the Shanghai Ossen offer in his expert report. This was probably understandable given that his valuation approach was on a net assets basis. Under cross-examination, he explained that while he was aware of the Shanghai Ossen offer when he prepared his valuation, he had been instructed that the offer had lapsed, and was thus not provided with the documents in relation to the offer. On that basis, he opined that it had no relevance to his valuation.[^42]
 
-79     When queried by the Judge on how he would regard offers in the market, such as the Shanghai Ossen offer, Mr Thio explained that it would involve a different type of valuation approach – he would be valuing the company based on the additional information of the investor, such as the synergies, contacts, or know-how that such an investor might bring in. Due to such considerations, the value of the company may be significantly higher to that investor. If, however, one is purely valuing the company, then it is the value of the company as it is that has to be assessed, and assumptions cannot be made on the basis of a _particular_ investor coming in.[\[note: 43\]](#Ftn_43)
+79     When queried by the Judge on how he would regard offers in the market, such as the Shanghai Ossen offer, Mr Thio explained that it would involve a different type of valuation approach – he would be valuing the company based on the additional information of the investor, such as the synergies, contacts, or know-how that such an investor might bring in. Due to such considerations, the value of the company may be significantly higher to that investor. If, however, one is purely valuing the company, then it is the value of the company as it is that has to be assessed, and assumptions cannot be made on the basis of a _particular_ investor coming in.[^43]
 
-80     He also explained that he had understood that the offer was subject to certain terms and conditions. He was also instructed that Shanghai Ossen had not been given any numbers to view when they made the offer of $50m. Therefore, in his view, the $50m figure could eventually be significantly higher or lower.[\[note: 44\]](#Ftn_44)
+80     He also explained that he had understood that the offer was subject to certain terms and conditions. He was also instructed that Shanghai Ossen had not been given any numbers to view when they made the offer of $50m. Therefore, in his view, the $50m figure could eventually be significantly higher or lower.[^44]
 
-81     Finally, following questions posed by the Judge, Mr Thio accepted that if it is an existing offer backed by a Memorandum of Understanding with _concrete terms_, he may consider that in his valuation. However, he did not say _how_ he would consider such an offer for the purposes of his valuation. Nor was he asked to clarify or elaborate by counsel for Mr Abhilash at the trial.[\[note: 45\]](#Ftn_45)
+81     Finally, following questions posed by the Judge, Mr Thio accepted that if it is an existing offer backed by a Memorandum of Understanding with _concrete terms_, he may consider that in his valuation. However, he did not say _how_ he would consider such an offer for the purposes of his valuation. Nor was he asked to clarify or elaborate by counsel for Mr Abhilash at the trial.[^45]
 
 #### Mr Rao’s evidence
 
-82     Mr Rao similarly made no mention of the Shanghai Ossen offer in his expert report. In fact, at the trial, Mr Rao confirmed that his valuation of JCSV did not take into account the Shanghai Ossen offer.[\[note: 46\]](#Ftn_46) It is immediately apparent that this is in stark contrast to Mr Abhilash’s case on appeal.
+82     Mr Rao similarly made no mention of the Shanghai Ossen offer in his expert report. In fact, at the trial, Mr Rao confirmed that his valuation of JCSV did not take into account the Shanghai Ossen offer.[^46] It is immediately apparent that this is in stark contrast to Mr Abhilash’s case on appeal.
 
-83     When both experts were giving their concurrent evidence, Mr Rao provided his views on how he would view an offer to acquire JCSV. He explained that there was a crucial distinction to be made between the _market value_ of a company, and its _investment value_. In particular, he used the example of a company which has been awarded a massive contract. However, if such a company lacks the capacity to deliver on that contract, it would hit a ceiling in terms of its market value. That is where investment value comes in. An investor who is able bring in capital and increase the company’s capacity to deliver on the contract would then be able to reap greater value from that same company. This latter value is what he terms as an “investment value”, and exists only from the perspective of that investor.[\[note: 47\]](#Ftn_47)
+83     When both experts were giving their concurrent evidence, Mr Rao provided his views on how he would view an offer to acquire JCSV. He explained that there was a crucial distinction to be made between the _market value_ of a company, and its _investment value_. In particular, he used the example of a company which has been awarded a massive contract. However, if such a company lacks the capacity to deliver on that contract, it would hit a ceiling in terms of its market value. That is where investment value comes in. An investor who is able bring in capital and increase the company’s capacity to deliver on the contract would then be able to reap greater value from that same company. This latter value is what he terms as an “investment value”, and exists only from the perspective of that investor.[^47]
 
-84     With this understanding of investment value and market value, Mr Rao added that it follows that no buyer would ever transact at investment value. Such a transaction would mean that the buyer is left with no gains. The flipside of this is that, in general, transactions are entered into at a “premium to market value”. This is because the investment value is usually much higher than market value. A buyer or investor would typically apply a discount from the investment value as a buffer for its own gains. In his view therefore, offers made by potential investors or buyers are not made on a “market value basis”.[\[note: 48\]](#Ftn_48) In other words, Mr Rao was implying that the Shanghai Ossen offer was not representative of the “market value” of the JCSV.
+84     With this understanding of investment value and market value, Mr Rao added that it follows that no buyer would ever transact at investment value. Such a transaction would mean that the buyer is left with no gains. The flipside of this is that, in general, transactions are entered into at a “premium to market value”. This is because the investment value is usually much higher than market value. A buyer or investor would typically apply a discount from the investment value as a buffer for its own gains. In his view therefore, offers made by potential investors or buyers are not made on a “market value basis”.[^48] In other words, Mr Rao was implying that the Shanghai Ossen offer was not representative of the “market value” of the JCSV.
 
 85     We note that despite the fact that the thrust of Mr Rao’s evidence was that an offer by a third-party would be closer to a valuation of a company on an investment value basis rather than on a market value basis, counsel for Mr Abhilash at the trial below did not seek any clarification from Mr Rao on his evidence. Consequently, the state of the evidence, it seems to us, is that Mr Rao did not ascribe any weight to the Shanghai Ossen offer for the purposes of determining the fair _market value_ of JCSV. In his view, the figure of $50m would be a premium to JCSV’s market value (or a discount from its investment value). However, Mr Rao did not offer any explanation as to _how much_ of a premium (or discount as the case may be) was factored into the offer by Shanghai Ossen. It may well be that this information only resides with Shanghai Ossen. Nonetheless, it remains a fact that we have no basis to arrive at a suitable discount.
 
@@ -334,7 +335,7 @@ In our view, this principle is applicable to the interpretation of the June 2004
 
 90     Finally, even if we were to accept that an offer made by a third-party to acquire a company can in principle represent the “best evidence” of that company’s value, it remains critical to examine the terms and nature of the offer in question in order to ascribe it with the appropriate weight, if any. In our view, the features of the Shanghai Ossen offer preclude us from treating it as reliable evidence of JCSV’s “fair market value”.
 
-91     The most obvious difficulty is that the Shanghai Ossen offer was at all material times _expressly_ subject to due diligence. This was the case in the Memorandum of Understanding and in the Investment Framework Agreement. Clause 3.1 of the Memorandum of Understanding states that the seller’s “_expected_ price” \[emphasis added\] was $50m, “which is subject to the results of due diligence”.[\[note: 49\]](#Ftn_49) In the Investment Framework Agreement, cl 2.1 provides that the buyer agrees to transfer $50m “which is a _tentative price_, and _may be adjusted according to the results of due diligence conducted_” \[emphasis added\].[\[note: 50\]](#Ftn_50) The clear wording of the relevant clauses in both documents therefore shows that the price had in fact never been firmly fixed. Mr Singh may well be right that as of 30 April 2016, there was nothing to suggest that due diligence would turn up any adverse findings. After all, he stressed that everyone expected the deal to go through. Mr Yeo himself had in November 2015 injected $1.5m capital into JCSV, which displayed a certain degree of optimism in JCSV’s continued survival and that the deal with Shanghai Ossen would likely go through.[\[note: 51\]](#Ftn_51)
+91     The most obvious difficulty is that the Shanghai Ossen offer was at all material times _expressly_ subject to due diligence. This was the case in the Memorandum of Understanding and in the Investment Framework Agreement. Clause 3.1 of the Memorandum of Understanding states that the seller’s “_expected_ price” \[emphasis added\] was $50m, “which is subject to the results of due diligence”.[^49] In the Investment Framework Agreement, cl 2.1 provides that the buyer agrees to transfer $50m “which is a _tentative price_, and _may be adjusted according to the results of due diligence conducted_” \[emphasis added\].[^50] The clear wording of the relevant clauses in both documents therefore shows that the price had in fact never been firmly fixed. Mr Singh may well be right that as of 30 April 2016, there was nothing to suggest that due diligence would turn up any adverse findings. After all, he stressed that everyone expected the deal to go through. Mr Yeo himself had in November 2015 injected $1.5m capital into JCSV, which displayed a certain degree of optimism in JCSV’s continued survival and that the deal with Shanghai Ossen would likely go through.[^51]
 
 92     However, we cannot accept that, simply because nothing _appeared_ to be amiss at that time, the Shanghai Ossen offer ought therefore to be taken as a definitive or concrete offer to acquire JCSV for $50m. Further, optimism by Mr Yeo, whatever its degree, does not change the nature and terms of the offer. It is at best an expression of confidence. In that regard, it must be recognised that the Shanghai Ossen offer was _always_ only a _conditional_ offer. Had Mr Abhilash come to court on or about 30 April 2016, presenting the court with evidence that there was a _conditional_ offer by Shanghai Ossen, expressed as subject to due diligence, to acquire JCSV for $50m, it is difficult to imagine that the court would have valued JCSV at $50m on that basis alone.
 
@@ -364,107 +365,107 @@ In our view, this principle is applicable to the interpretation of the June 2004
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)Mr Abhilash’s AEIC: ROA Vol III (Part 1), pp 4–5.
+[^1]: Mr Abhilash’s AEIC: ROA Vol III (Part 1), pp 4–5.
 
-[\[note: 2\]](#Ftn_2_1)Mr Yeo’s AEIC: ROA Vol III (Part 4), pp 187–188.
+[^2]: Mr Yeo’s AEIC: ROA Vol III (Part 4), pp 187–188.
 
-[\[note: 3\]](#Ftn_3_1)Mr Yeo’s AEIC: ROA Vol III (Part 4), p 189; Mr Abhilash’s AEIC: ROA Vol III (Part 1), pp 6, 9–11.
+[^3]: Mr Yeo’s AEIC: ROA Vol III (Part 4), p 189; Mr Abhilash’s AEIC: ROA Vol III (Part 1), pp 6, 9–11.
 
-[\[note: 4\]](#Ftn_4_1)Mr Yeo’s AEIC: ROA Vol III (Part 4), pp 215–217; Mr Abhilash’s AEIC: ROA Vol III (Part 1), p 28.
+[^4]: Mr Yeo’s AEIC: ROA Vol III (Part 4), pp 215–217; Mr Abhilash’s AEIC: ROA Vol III (Part 1), p 28.
 
-[\[note: 5\]](#Ftn_5_1)Mr Yeo’s AEIC: ROA Vol III (Part 4), pp 212–217; Mr Abhilash’s AEIC: ROA Vol III (Part 1), p 28.
+[^5]: Mr Yeo’s AEIC: ROA Vol III (Part 4), pp 212–217; Mr Abhilash’s AEIC: ROA Vol III (Part 1), p 28.
 
-[\[note: 6\]](#Ftn_6_1)Mr Yeo’s AEIC at para 53: ROA Vol III (Part 4), p 211.
+[^6]: Mr Yeo’s AEIC at para 53: ROA Vol III (Part 4), p 211.
 
-[\[note: 7\]](#Ftn_7_1)Mr Yeo’s AEIC at para 12: ROA Vol III (Part 4), p 191.
+[^7]: Mr Yeo’s AEIC at para 12: ROA Vol III (Part 4), p 191.
 
-[\[note: 8\]](#Ftn_8_1)Mr Yeo’s AEIC: ROA Vol III (Part 4), pp 191–192.
+[^8]: Mr Yeo’s AEIC: ROA Vol III (Part 4), pp 191–192.
 
-[\[note: 9\]](#Ftn_9_1)Statement of Claim: Appellant’s Core Bundle, pp 52 and 59.
+[^9]: Statement of Claim: Appellant’s Core Bundle, pp 52 and 59.
 
-[\[note: 10\]](#Ftn_10_1)GD at \[2\].
+[^10]: GD at \[2\].
 
-[\[note: 11\]](#Ftn_11_1)Appellant’s Case at paras 4–5.
+[^11]: Appellant’s Case at paras 4–5.
 
-[\[note: 12\]](#Ftn_12_1)ROA Vol III (Part 7), p 5.
+[^12]: ROA Vol III (Part 7), p 5.
 
-[\[note: 13\]](#Ftn_13_1)ROA Vol III (Part 7), pp 124–128.
+[^13]: ROA Vol III (Part 7), pp 124–128.
 
-[\[note: 14\]](#Ftn_14_1)ROA Vol III (Part 7), pp 10, 26.
+[^14]: ROA Vol III (Part 7), pp 10, 26.
 
-[\[note: 15\]](#Ftn_15_1)Transcripts, 31 Oct 2017, p 63 at lines 3–5: ROA Vol III (Part 15), p 134.
+[^15]: Transcripts, 31 Oct 2017, p 63 at lines 3–5: ROA Vol III (Part 15), p 134.
 
-[\[note: 16\]](#Ftn_16_1)Appellant’s Case at para 51.
+[^16]: Appellant’s Case at para 51.
 
-[\[note: 17\]](#Ftn_17_1)ROA Vol III (Part 7), pp 27–35.
+[^17]: ROA Vol III (Part 7), pp 27–35.
 
-[\[note: 18\]](#Ftn_18_1)ROA Vol III (Part 7), pp 4–8.
+[^18]: ROA Vol III (Part 7), pp 4–8.
 
-[\[note: 19\]](#Ftn_19_1)GD at \[17\] and \[18\].
+[^19]: GD at \[17\] and \[18\].
 
-[\[note: 20\]](#Ftn_20_1)GD at \[19\].
+[^20]: GD at \[19\].
 
-[\[note: 21\]](#Ftn_21_1)GD at \[24\] and \[25\].
+[^21]: GD at \[24\] and \[25\].
 
-[\[note: 22\]](#Ftn_22_1)GD at \[26\].
+[^22]: GD at \[26\].
 
-[\[note: 23\]](#Ftn_23_1)GD at \[26\].
+[^23]: GD at \[26\].
 
-[\[note: 24\]](#Ftn_24_1)GD at \[31\].
+[^24]: GD at \[31\].
 
-[\[note: 25\]](#Ftn_25_1)GD at \[50\] and \[51\].
+[^25]: GD at \[50\] and \[51\].
 
-[\[note: 26\]](#Ftn_26_1)GD at \[52\].
+[^26]: GD at \[52\].
 
-[\[note: 27\]](#Ftn_27_1)GD at \[53\] and \[54\].
+[^27]: GD at \[53\] and \[54\].
 
-[\[note: 28\]](#Ftn_28_1)GD at \[55\] and \[56\].
+[^28]: GD at \[55\] and \[56\].
 
-[\[note: 29\]](#Ftn_29_1)GD at \[57\] and \[58\].
+[^29]: GD at \[57\] and \[58\].
 
-[\[note: 30\]](#Ftn_30_1)GD at \[60\]–\[64\].
+[^30]: GD at \[60\]–\[64\].
 
-[\[note: 31\]](#Ftn_31_1)Appellant’s Case at paras 5 and 6.
+[^31]: Appellant’s Case at paras 5 and 6.
 
-[\[note: 32\]](#Ftn_32_1)Appellant’s Case at para 17.
+[^32]: Appellant’s Case at para 17.
 
-[\[note: 33\]](#Ftn_33_1)Appellant’s Case at paras 21–24 and 42.
+[^33]: Appellant’s Case at paras 21–24 and 42.
 
-[\[note: 34\]](#Ftn_34_1)Appellant’s Case at para 51.
+[^34]: Appellant’s Case at para 51.
 
-[\[note: 35\]](#Ftn_35_1)Appellant’s Case at para 79.
+[^35]: Appellant’s Case at para 79.
 
-[\[note: 36\]](#Ftn_36_1)Appellant’s Case at paras 74.
+[^36]: Appellant’s Case at paras 74.
 
-[\[note: 37\]](#Ftn_37_1)Appellant’s Case at paras 67–73.
+[^37]: Appellant’s Case at paras 67–73.
 
-[\[note: 38\]](#Ftn_38_1)Respondents’ Case at para 59.
+[^38]: Respondents’ Case at para 59.
 
-[\[note: 39\]](#Ftn_39_1)Consent Order: Appellant’s Core Bundle, pp 62–63.
+[^39]: Consent Order: Appellant’s Core Bundle, pp 62–63.
 
-[\[note: 40\]](#Ftn_40_1)Appellant’s Case at paras 11 and 22–27.
+[^40]: Appellant’s Case at paras 11 and 22–27.
 
-[\[note: 41\]](#Ftn_41_1)Appellant’s Case at paras 29–35.
+[^41]: Appellant’s Case at paras 29–35.
 
-[\[note: 42\]](#Ftn_42_1)Transcripts, 3 November 2017, pp 26–27: ROA, Vol III (Part 18), pp 29–30.
+[^42]: Transcripts, 3 November 2017, pp 26–27: ROA, Vol III (Part 18), pp 29–30.
 
-[\[note: 43\]](#Ftn_43_1)Transcripts, 2 November 2017, pp 153–155: ROA, Vol III (Part 17), pp 156–158.
+[^43]: Transcripts, 2 November 2017, pp 153–155: ROA, Vol III (Part 17), pp 156–158.
 
-[\[note: 44\]](#Ftn_44_1)Transcripts, 2 November 2017, pp 155–156: ROA, Vol III (Part 17), pp 158–159.
+[^44]: Transcripts, 2 November 2017, pp 155–156: ROA, Vol III (Part 17), pp 158–159.
 
-[\[note: 45\]](#Ftn_45_1)Transcripts, 2 November 2017, pp 157–158: ROA, Vol III (Part 17), pp 160–161.
+[^45]: Transcripts, 2 November 2017, pp 157–158: ROA, Vol III (Part 17), pp 160–161.
 
-[\[note: 46\]](#Ftn_46_1)Transcripts, 2 November 2017, p 132: ROA, Vol III (Part 17), p 135.
+[^46]: Transcripts, 2 November 2017, p 132: ROA, Vol III (Part 17), p 135.
 
-[\[note: 47\]](#Ftn_47_1)Transcripts, 2 November 2017, pp 158–159: ROA, Vol III (Part 17), pp 161–162.
+[^47]: Transcripts, 2 November 2017, pp 158–159: ROA, Vol III (Part 17), pp 161–162.
 
-[\[note: 48\]](#Ftn_48_1)Transcripts, 2 November 2017, pp 159–161: ROA, Vol III (Part 17), pp 162–164.
+[^48]: Transcripts, 2 November 2017, pp 159–161: ROA, Vol III (Part 17), pp 162–164.
 
-[\[note: 49\]](#Ftn_49_1)Memorandum of Understanding: ROA, Vol III (Part 7), p 125.
+[^49]: Memorandum of Understanding: ROA, Vol III (Part 7), p 125.
 
-[\[note: 50\]](#Ftn_50_1)Investment Framework Agreement: ACB, p 112.
+[^50]: Investment Framework Agreement: ACB, p 112.
 
-[\[note: 51\]](#Ftn_51_1)Appellant’s Case at para 65.
+[^51]: Appellant’s Case at para 65.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F22870-SSP.xml)

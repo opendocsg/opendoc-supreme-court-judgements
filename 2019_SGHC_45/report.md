@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # Oversea-Chinese Banking Corp Ltd _v_ Yeo Hui Keng (Tan Peng Chin LLC, third party)  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Suit No 77 of 2017</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">28 February 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Tan Siong Thye J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Ong Boon Hwee William, Alexander Yeo and Royston Tan Chu Zheng (Allen &amp; Gledhill LLP) for the plaintiff; Beh Eng Siew and Lim Jia Ying (Lee Bon Leong &amp; Co) for the defendant; Lok Vi Ming, SC, Lee Sien Liang Joseph, Carren Thung Qiaolin and Natalie Joy Huang Kim Lian (LVM Law Chambers LLC) for the third party.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Oversea-Chinese Banking Corporation Limited — Yeo Hui Keng — Tan Peng Chin LLC</td></tr></tbody></table>
@@ -20,11 +21,11 @@ Legal Profession – Professional conduct – Breach
 
 4       Under the OCBC Mortgage, the defendant and Mr Kung agreed to pay the plaintiff, on demand, all sums of moneys and liabilities due or owing to the plaintiff by the Company under the credit facilities either alone or jointly, thus the term “all-moneys mortgage”. This meant that both the defendant’s and Mr Kung’s liability to the plaintiff under the OCBC Mortgage would include all outstanding sums owed to the plaintiff by the Company above and beyond the value of the Property.
 
-5       The initial credit facilities extended by the plaintiff to the Company were up to US$8,500,000 (“the Original Facilities”). Subsequently, these credit facilities were increased to US$9,800,000 on 17 December 2013 and ultimately these were raised to US$10,800,000 on 17 December 2014 (“the Revised Facilities”).[\[note: 1\]](#Ftn_1)
+5       The initial credit facilities extended by the plaintiff to the Company were up to US$8,500,000 (“the Original Facilities”). Subsequently, these credit facilities were increased to US$9,800,000 on 17 December 2013 and ultimately these were raised to US$10,800,000 on 17 December 2014 (“the Revised Facilities”).[^1]
 
-6       Mr Kung passed away on 16 April 2016.[\[note: 2\]](#Ftn_2) In May 2016, the Company failed to make payment in respect of the trade bills issued by the plaintiff under the Revised Facilities. The plaintiff demanded repayment of the outstanding sum of US$1,361,977.83 plus interest from the Company, the estate of Mr Kung and the defendant under the Revised Facilities. When no payment was forthcoming from the Company, the plaintiff exercised its right to recall the entire banking facilities granted to the Company and demanded the sum of US$10,408,820.10 from the defendant on or around 31 May 2016.[\[note: 3\]](#Ftn_3)
+6       Mr Kung passed away on 16 April 2016.[^2] In May 2016, the Company failed to make payment in respect of the trade bills issued by the plaintiff under the Revised Facilities. The plaintiff demanded repayment of the outstanding sum of US$1,361,977.83 plus interest from the Company, the estate of Mr Kung and the defendant under the Revised Facilities. When no payment was forthcoming from the Company, the plaintiff exercised its right to recall the entire banking facilities granted to the Company and demanded the sum of US$10,408,820.10 from the defendant on or around 31 May 2016.[^3]
 
-7       Pursuant to the OCBC Mortgage, the plaintiff exercised its right to take possession of the Property on 10 June 2016. The defendant did not object and gave the plaintiff vacant possession of the Property on or about 9 July 2016.[\[note: 4\]](#Ftn_4) The plaintiff set off the outstanding sums under the Revised Facilities against the defendant’s savings account maintained with the plaintiff the sums of S$27,504.13 and S$925.27 on 21 July 2016 and 24 August 2016 respectively. On or around 18 August 2016, the plaintiff further set off another sum of S$5,606.34 from the defendant’s time deposit account maintained with the plaintiff against the outstanding sums owing under the Revised Facilities. The Property was sold by the plaintiff on or around 14 November 2016 at the price of S$7,250,000 and the plaintiff received S$6,887,993.73.[\[note: 5\]](#Ftn_5)
+7       Pursuant to the OCBC Mortgage, the plaintiff exercised its right to take possession of the Property on 10 June 2016. The defendant did not object and gave the plaintiff vacant possession of the Property on or about 9 July 2016.[^4] The plaintiff set off the outstanding sums under the Revised Facilities against the defendant’s savings account maintained with the plaintiff the sums of S$27,504.13 and S$925.27 on 21 July 2016 and 24 August 2016 respectively. On or around 18 August 2016, the plaintiff further set off another sum of S$5,606.34 from the defendant’s time deposit account maintained with the plaintiff against the outstanding sums owing under the Revised Facilities. The Property was sold by the plaintiff on or around 14 November 2016 at the price of S$7,250,000 and the plaintiff received S$6,887,993.73.[^5]
 
 8       In this suit, the plaintiff now seeks to claim the outstanding sums of US$4,888,114.64 and S$25,348.23 under the Revised Facilities from the defendant. However, the defendant contends that she is not liable under the OCBC Mortgage for the entire sum due under the Revised Facilities because the OCBC Mortgage was invalid. The defendant’s case is that the mortgage she intended to execute on 22 January 2013 was one in which her liability would be limited only to the Property and/or the value thereof. She did not know that the OCBC Mortgage was an all-moneys mortgage and thus she invokes the defence of _non est factum_.
 
@@ -36,13 +37,13 @@ Legal Profession – Professional conduct – Breach
 
 ### Origin of the OCBC Mortgage
 
-11     On 12 January 1996, the defendant and Mr Kung granted an all-moneys mortgage which included the Property in favour of the Bangkok Bank Public Company Limited (“Bangkok Bank”) to secure certain loans disbursed by the Bangkok Bank to the Company (“Bangkok Bank Mortgage”).[\[note: 6\]](#Ftn_6)
+11     On 12 January 1996, the defendant and Mr Kung granted an all-moneys mortgage which included the Property in favour of the Bangkok Bank Public Company Limited (“Bangkok Bank”) to secure certain loans disbursed by the Bangkok Bank to the Company (“Bangkok Bank Mortgage”).[^6]
 
-12     In or around December 2012, Mr Kung approached the plaintiff for the refinancing of existing loans that were extended by the Bangkok Bank to the Company. The plaintiff agreed to extend to the Company credit facilities amounting to US$8,500,000 (_ie_, the Original Facilities) upon Mr Kung and the defendant executing the OCBC Mortgage which, like the Bangkok Bank Mortgage, was also an all-moneys mortgage.[\[note: 7\]](#Ftn_7)
+12     In or around December 2012, Mr Kung approached the plaintiff for the refinancing of existing loans that were extended by the Bangkok Bank to the Company. The plaintiff agreed to extend to the Company credit facilities amounting to US$8,500,000 (_ie_, the Original Facilities) upon Mr Kung and the defendant executing the OCBC Mortgage which, like the Bangkok Bank Mortgage, was also an all-moneys mortgage.[^7]
 
 ### The letter dated 11 January 2013
 
-13     Pursuant to securing the Original Facilities, the plaintiff was represented by the Third Party to act as its solicitors for this transaction (the significance of this will be discussed below at \[118\] onwards).[\[note: 8\]](#Ftn_8) The Third Party then sent the letter dated 11 January 2013 addressed to the defendant and Mr Kung (“the 11 Jan Letter”).[\[note: 9\]](#Ftn_9) The 11 Jan Letter explained a number of important matters concerning the OCBC Mortgage which the defendant and Mr Kung were asked to sign. The material parts of the 11 Jan Letter are as follows:
+13     Pursuant to securing the Original Facilities, the plaintiff was represented by the Third Party to act as its solicitors for this transaction (the significance of this will be discussed below at \[118\] onwards).[^8] The Third Party then sent the letter dated 11 January 2013 addressed to the defendant and Mr Kung (“the 11 Jan Letter”).[^9] The 11 Jan Letter explained a number of important matters concerning the OCBC Mortgage which the defendant and Mr Kung were asked to sign. The material parts of the 11 Jan Letter are as follows:
 
 (a)     It clearly explained that the OCBC Mortgage was an all-moneys mortgage by stating the following:
 
@@ -54,7 +55,7 @@ Legal Profession – Professional conduct – Breach
 
 (iv)       That “\[i\]f the proceeds from the sale of the Property are insufficient to fully settle or repay all the moneys owed by the \[Company\] to \[the plaintiff\], \[the plaintiff\] can look to \[the defendant and Mr Kung\] or to \[the Company\] to recover payment of the balance moneys owed by \[the Company\]. \[The plaintiff\] can also look to \[the defendant and Mr Kung\] alone for payment of the balance moneys owed without first resorting to selling the Property in order to recover the moneys owing”.
 
-(b)     It attached a copy of Annex 1 and the Memorandum of Mortgage which were part of the OCBC Mortgage.[\[note: 10\]](#Ftn_10)
+(b)     It attached a copy of Annex 1 and the Memorandum of Mortgage which were part of the OCBC Mortgage.[^10]
 
 (c)     It informed the defendant and Mr Kung that they have to apprise the plaintiff in writing if they do not wish the plaintiff to grant to the Company any further and/or additional banking facilities. This allowed the defendant and Mr Kung to limit the extent of their liabilities under the OCBC Mortgage by informing the plaintiff not to grant any further and/or additional banking facilities to the Company.
 
@@ -68,7 +69,7 @@ Legal Profession – Professional conduct – Breach
 
 ### The OCBC Mortgage
 
-15     As mentioned above, Annex 1 and the Memorandum of Mortgage were part of the OCBC Mortgage and were attached to the 11 Jan Letter for the defendant and Mr Kung to read.[\[note: 11\]](#Ftn_11)
+15     As mentioned above, Annex 1 and the Memorandum of Mortgage were part of the OCBC Mortgage and were attached to the 11 Jan Letter for the defendant and Mr Kung to read.[^11]
 
 16     The relevant terms in Annex 1 which explained that the OCBC Mortgage is an all-moneys mortgage are as follows:
 
@@ -104,11 +105,11 @@ Legal Profession – Professional conduct – Breach
 
 ### The meeting on 22 January 2013
 
-19     On 22 January 2013, Mr Kung and the defendant went to the Third Party’s office to execute the OCBC Mortgage. They were attended to by TPW1. At that meeting, the defendant and Mr Kung were presented with the OCBC Mortgage, the OCBC letter to the Company on the credit facilities dated 21 December 2012, the 11 Jan Letter (see above at \[13\] to \[18\]), a letter of confirmation dated 22 January 2013 (“the Letter of Confirmation”) and a “Form of Confirmation and Consent”.[\[note: 12\]](#Ftn_12) The terms of the Letter of Confirmation and the Form of Confirmation and Consent are reproduced below.
+19     On 22 January 2013, Mr Kung and the defendant went to the Third Party’s office to execute the OCBC Mortgage. They were attended to by TPW1. At that meeting, the defendant and Mr Kung were presented with the OCBC Mortgage, the OCBC letter to the Company on the credit facilities dated 21 December 2012, the 11 Jan Letter (see above at \[13\] to \[18\]), a letter of confirmation dated 22 January 2013 (“the Letter of Confirmation”) and a “Form of Confirmation and Consent”.[^12] The terms of the Letter of Confirmation and the Form of Confirmation and Consent are reproduced below.
 
 #### The Letter of Confirmation
 
-20     The Letter of Confirmation acknowledged that TPW1 had explained to Mr Kung and the defendant the nature of their liabilities under the OCBC Mortgage and its practical consequences.[\[note: 13\]](#Ftn_13) The relevant paragraphs are as follows:
+20     The Letter of Confirmation acknowledged that TPW1 had explained to Mr Kung and the defendant the nature of their liabilities under the OCBC Mortgage and its practical consequences.[^13] The relevant paragraphs are as follows:
 
 We, \[Mr Kung\] and \[the defendant\] refer to \[the Third Party’s\] aforesaid letter to us dated 21/12/2012 and hereby confirm that \[TPW1\] has: -
 
@@ -120,7 +121,7 @@ We, \[Mr Kung\] and \[the defendant\] refer to \[the Third Party’s\] aforesaid
 
 4)    explained to us that the \[OCBC\] Mortgage is in \[the plaintiff’s\] standard format, the terms of which have been fully explained to us.
 
-21     The Letter of Confirmation also stated that the defendant and Mr Kung were aware that the Third Party was also acting for the plaintiff and the Company in the OCBC Mortgage.[\[note: 14\]](#Ftn_14) The relevant parts are as follows:
+21     The Letter of Confirmation also stated that the defendant and Mr Kung were aware that the Third Party was also acting for the plaintiff and the Company in the OCBC Mortgage.[^14] The relevant parts are as follows:
 
 We further confirm that: -
 
@@ -136,11 +137,11 @@ c)    we wish to proceed with providing the \[OCBC\] Mortgage to \[the plain
 
 d)    we understand the full implications of delivering the duly executed \[OCBC\] Mortgage to \[the plaintiff\], including that \[the plaintiff\] is fully entitled to enforce its legal rights in accordance with the terms and conditions of the \[OCBC\] Mortgage.
 
-22     It is not disputed that the defendant and Mr Kung signed the Letter of Confirmation.[\[note: 15\]](#Ftn_15)
+22     It is not disputed that the defendant and Mr Kung signed the Letter of Confirmation.[^15]
 
 #### The Form of Confirmation and Consent
 
-23     The Form of Confirmation and Consent[\[note: 16\]](#Ftn_16) is a relatively short document of less than half a page and it stated as follows:
+23     The Form of Confirmation and Consent[^16] is a relatively short document of less than half a page and it stated as follows:
 
 We, \[Mr Kung\] and \[the defendant\] both of \[the Property\] hereby acknowledge and consent to the contents of the Facility Letter dated 21st December 2012 granted to the \[Company\].
 
@@ -148,15 +149,15 @@ We further confirm that our liabilities and obligations to the \[plaintiff\] und
 
 24     Effectively, the Form of Confirmation and Consent informed the plaintiff that the OCBC Mortgage remained valid and binding on Mr Kung and the defendant.
 
-25     It is again undisputed that the defendant and Mr Kung signed the Form of Confirmation and Consent before TPW1.[\[note: 17\]](#Ftn_17) Although the Form of Confirmation and Consent was undated, the parties did not dispute that it was signed on 22 January 2013 at the same meeting with TPW1 at the Third Party’s office.[\[note: 18\]](#Ftn_18)
+25     It is again undisputed that the defendant and Mr Kung signed the Form of Confirmation and Consent before TPW1.[^17] Although the Form of Confirmation and Consent was undated, the parties did not dispute that it was signed on 22 January 2013 at the same meeting with TPW1 at the Third Party’s office.[^18]
 
 #### Registration of the OCBC Mortgage
 
-26     The OCBC Mortgage signed by Mr Kung and the defendant on 22 January 2013 was formally registered on 26 February 2013.[\[note: 19\]](#Ftn_19) The relevant terms of the executed and registered OCBC Mortgage are as stated at \[15\] to \[18\] above.
+26     The OCBC Mortgage signed by Mr Kung and the defendant on 22 January 2013 was formally registered on 26 February 2013.[^19] The relevant terms of the executed and registered OCBC Mortgage are as stated at \[15\] to \[18\] above.
 
 ### The Revised Facilities and the Company’s subsequent default
 
-27     On 17 December 2013, pursuant to a letter titled “Credit Facilities” of the same date, the plaintiff increased the quantum of the Original Facilities to US$9,800,000. On 17 December 2014, pursuant to a further letter of offer of the same date, the plaintiff again increased the quantum of the facilities granted to the Company to US$10,800,000 (_ie_, the Revised Facilities).[\[note: 20\]](#Ftn_20)
+27     On 17 December 2013, pursuant to a letter titled “Credit Facilities” of the same date, the plaintiff increased the quantum of the Original Facilities to US$9,800,000. On 17 December 2014, pursuant to a further letter of offer of the same date, the plaintiff again increased the quantum of the facilities granted to the Company to US$10,800,000 (_ie_, the Revised Facilities).[^20]
 
 28     As mentioned in the introduction at \[6\] above, Mr Kung passed away on 16 April 2016. By May 2016, the Company had failed to make payment in respect of the trade bills issued by the plaintiff under the Revised Facilities. When the outstanding sums were unpaid, the plaintiff decided to recall the entire banking facilities granted to the Company which was secured by the OCBC Mortgage. The plaintiff then exercised its right to take possession of the Property and sold it in November 2016.
 
@@ -164,9 +165,9 @@ We further confirm that our liabilities and obligations to the \[plaintiff\] und
 
 ### The plaintiff sought to recover the Company’s outstanding debts from the defendant
 
-30     On or about 21 August 2016, pursuant to the OCBC Mortgage, the plaintiff, through its then solicitors, Withers KhattarWong, issued a statutory demand dated 21 August 2016, to the defendant for the outstanding amount of US$3,759,395.33. This was the net sum owed by the Company and the defendant under the Revised Facilities after deducting the open market value of the Property (the Property had not been sold yet at that point in time).[\[note: 21\]](#Ftn_21) The plaintiff also issued a certificate signed by its authorised officer certifying the same.[\[note: 22\]](#Ftn_22)
+30     On or about 21 August 2016, pursuant to the OCBC Mortgage, the plaintiff, through its then solicitors, Withers KhattarWong, issued a statutory demand dated 21 August 2016, to the defendant for the outstanding amount of US$3,759,395.33. This was the net sum owed by the Company and the defendant under the Revised Facilities after deducting the open market value of the Property (the Property had not been sold yet at that point in time).[^21] The plaintiff also issued a certificate signed by its authorised officer certifying the same.[^22]
 
-31     In response, the defendant instructed Lee Bon Leong & Co., the same counsel now representing the defendant in this present suit, to make an application to court to set aside the statutory demand. This application was HC/OSB 69/2016.[\[note: 23\]](#Ftn_23) The defendant raised the defence of _non est factum_ in this setting aside application.
+31     In response, the defendant instructed Lee Bon Leong & Co., the same counsel now representing the defendant in this present suit, to make an application to court to set aside the statutory demand. This application was HC/OSB 69/2016.[^23] The defendant raised the defence of _non est factum_ in this setting aside application.
 
 32     In HC/OSB 69/2016, the defendant filed the following three affidavits:
 
@@ -174,43 +175,43 @@ We further confirm that our liabilities and obligations to the \[plaintiff\] und
 
 (b)     Affidavit dated 13 September 2016 (“the defendant’s 2ndOSB Affidavit”); and
 
-(c)     Affidavit dated 10 November 2016 (“the defendant’s 3rdOSB Affidavit”).[\[note: 24\]](#Ftn_24)
+(c)     Affidavit dated 10 November 2016 (“the defendant’s 3rdOSB Affidavit”).[^24]
 
 33     I shall refer to these affidavits later in my judgment.
 
-34     On 15 November 2016, the defendant’s application to set aside the statutory demand in HC/OSB 69/2016 was granted because the validity of the OCBC Mortgage was in question and that this was a triable issue that required determination by the court. The plaintiff filed a Registrar’s Appeal against this decision, but the appeal was dismissed on 5 December 2016.[\[note: 25\]](#Ftn_25)
+34     On 15 November 2016, the defendant’s application to set aside the statutory demand in HC/OSB 69/2016 was granted because the validity of the OCBC Mortgage was in question and that this was a triable issue that required determination by the court. The plaintiff filed a Registrar’s Appeal against this decision, but the appeal was dismissed on 5 December 2016.[^25]
 
-35     On or about 23 January 2017, the plaintiff’s current solicitors, Allen & Gledhill LLP, issued a letter of demand dated 23 January 2017 to the defendant insisting that she pay the sums of US$4,888,114.64 and S$18,348.23 to the plaintiff by 3pm on Thursday, 26 January 2017. These are the sums owed by the Company under the Revised Facilities after taking into account the net sale price of the Property, S$7,000 incurred for HC/OSB 69/2016 and the attendant Registrar’s Appeal as well as interests and costs incurred by the plaintiff.[\[note: 26\]](#Ftn_26)
+35     On or about 23 January 2017, the plaintiff’s current solicitors, Allen & Gledhill LLP, issued a letter of demand dated 23 January 2017 to the defendant insisting that she pay the sums of US$4,888,114.64 and S$18,348.23 to the plaintiff by 3pm on Thursday, 26 January 2017. These are the sums owed by the Company under the Revised Facilities after taking into account the net sale price of the Property, S$7,000 incurred for HC/OSB 69/2016 and the attendant Registrar’s Appeal as well as interests and costs incurred by the plaintiff.[^26]
 
-36     As payment from the defendant was not forthcoming under the letter of demand above, the plaintiff commenced this Suit against the defendant on 27 January 2017.[\[note: 27\]](#Ftn_27)
+36     As payment from the defendant was not forthcoming under the letter of demand above, the plaintiff commenced this Suit against the defendant on 27 January 2017.[^27]
 
 ## The parties’ cases
 
 ### The plaintiff’s case
 
-37     The plaintiff argues that the defendant was a matured and educated adult who fully understood the terms of the OCBC Mortgage and should be bound by her signature which she appended to the OCBC Mortgage. The defendant had to fulfil her obligations under the OCBC Mortgage as it was undisputed that the defendant signed the OCBC Mortgage, the Letter of Confirmation and the Form of Confirmation and Consent. Therefore, the defendant is liable to pay to the plaintiff, on demand, all such sums of money which are owing or remain unpaid, including interest accrued, to the plaintiff by the Company under the Revised Facilities.[\[note: 28\]](#Ftn_28)
+37     The plaintiff argues that the defendant was a matured and educated adult who fully understood the terms of the OCBC Mortgage and should be bound by her signature which she appended to the OCBC Mortgage. The defendant had to fulfil her obligations under the OCBC Mortgage as it was undisputed that the defendant signed the OCBC Mortgage, the Letter of Confirmation and the Form of Confirmation and Consent. Therefore, the defendant is liable to pay to the plaintiff, on demand, all such sums of money which are owing or remain unpaid, including interest accrued, to the plaintiff by the Company under the Revised Facilities.[^28]
 
-38     The plaintiff submits that the defendant’s defence of _non est factum_ is inapplicable as she was properly informed of the nature of the OCBC Mortgage and its practical consequences. The 11 Jan Letter that was sent to her and Mr Kung explained that the OCBC Mortgage was an all-moneys mortgage. Subsequently, on 22 January 2013 the defendant and Mr Kung had a meeting with TPW1 who explained to them the nature of the OCBC Mortgage and its practical consequences. The defendant and Mr Kung then signed the Letter of Confirmation to acknowledge that this had indeed been done. Finally, at the same meeting, the defendant and Mr Kung signed the Form of Confirmation and Consent to acknowledge that the OCBC Mortgage was valid and binding on them. Thus the defendant must have understood the documents before she signed them.[\[note: 29\]](#Ftn_29)
+38     The plaintiff submits that the defendant’s defence of _non est factum_ is inapplicable as she was properly informed of the nature of the OCBC Mortgage and its practical consequences. The 11 Jan Letter that was sent to her and Mr Kung explained that the OCBC Mortgage was an all-moneys mortgage. Subsequently, on 22 January 2013 the defendant and Mr Kung had a meeting with TPW1 who explained to them the nature of the OCBC Mortgage and its practical consequences. The defendant and Mr Kung then signed the Letter of Confirmation to acknowledge that this had indeed been done. Finally, at the same meeting, the defendant and Mr Kung signed the Form of Confirmation and Consent to acknowledge that the OCBC Mortgage was valid and binding on them. Thus the defendant must have understood the documents before she signed them.[^29]
 
-39     The plaintiff submits that the defence of _non est factum_ must also fail because the defendant had not exercised reasonable diligence when she signed the OCBC Mortgage, the Letter of Confirmation and the Form of Confirmation and Consent. The defendant had not taken the opportunity to read or enquire into the documents before she signed them. [\[note: 30\]](#Ftn_30)
+39     The plaintiff submits that the defence of _non est factum_ must also fail because the defendant had not exercised reasonable diligence when she signed the OCBC Mortgage, the Letter of Confirmation and the Form of Confirmation and Consent. The defendant had not taken the opportunity to read or enquire into the documents before she signed them. [^30]
 
-40     Finally, the plaintiff argues that even if the defendant has succeeded in her defence of _non est factum_, the defendant, nevertheless, is estopped from seeking an invalidation of the OCBC Mortgage. This is because when the defendant signed the Letter of Confirmation and the Form of Confirmation and Consent, the defendant had made an unequivocal representation to the plaintiff that she understood the OCBC Mortgage and agreed to provide security for the Revised Facilities in the form of an all-moneys mortgage. The plaintiff relied on this representation and extended the Original Facilities and subsequently the Revised Facilities to the Company. When the Company defaulted and the plaintiff exercised its right of possession of the Property pursuant to the OCBC Mortgage, the defendant did not object. She acknowledged the plaintiff’s right and gave vacant possession of the Property to the plaintiff. The plaintiff submits that this showed that the defendant further acknowledged that the OCBC Mortgage was binding on her. Therefore, the defendant was bound by the OCBC Mortgage.[\[note: 31\]](#Ftn_31)
+40     Finally, the plaintiff argues that even if the defendant has succeeded in her defence of _non est factum_, the defendant, nevertheless, is estopped from seeking an invalidation of the OCBC Mortgage. This is because when the defendant signed the Letter of Confirmation and the Form of Confirmation and Consent, the defendant had made an unequivocal representation to the plaintiff that she understood the OCBC Mortgage and agreed to provide security for the Revised Facilities in the form of an all-moneys mortgage. The plaintiff relied on this representation and extended the Original Facilities and subsequently the Revised Facilities to the Company. When the Company defaulted and the plaintiff exercised its right of possession of the Property pursuant to the OCBC Mortgage, the defendant did not object. She acknowledged the plaintiff’s right and gave vacant possession of the Property to the plaintiff. The plaintiff submits that this showed that the defendant further acknowledged that the OCBC Mortgage was binding on her. Therefore, the defendant was bound by the OCBC Mortgage.[^31]
 
-41     In the same vein, the plaintiff asserts that the defendant’s counterclaim for the return of the sale proceeds of the Property and those moneys that the plaintiff had set off from the defendant’s savings and time deposit accounts with the plaintiff should be dismissed.[\[note: 32\]](#Ftn_32)
+41     In the same vein, the plaintiff asserts that the defendant’s counterclaim for the return of the sale proceeds of the Property and those moneys that the plaintiff had set off from the defendant’s savings and time deposit accounts with the plaintiff should be dismissed.[^32]
 
 ### The defendant’s case
 
-42     The defendant submits that she is not bound by the OCBC Mortgage because of the doctrine of _non est factum_. She argues that the mortgage which she had executed as security for the Original Facilities was intended to be limited only to the Property and/or the value thereof. She asserts that she did not have sight of the 11 Jan Letter. When her late husband, Mr Kung, brought her to the Third Party’s office on 22 January 2013, she was only asked to sign the OCBC Mortgage and the other documents. TPW1 did not explain anything to her. She avers that she would not have signed the OCBC Mortgage had she known that the mortgage was an all-moneys mortgage.[\[note: 33\]](#Ftn_33)
+42     The defendant submits that she is not bound by the OCBC Mortgage because of the doctrine of _non est factum_. She argues that the mortgage which she had executed as security for the Original Facilities was intended to be limited only to the Property and/or the value thereof. She asserts that she did not have sight of the 11 Jan Letter. When her late husband, Mr Kung, brought her to the Third Party’s office on 22 January 2013, she was only asked to sign the OCBC Mortgage and the other documents. TPW1 did not explain anything to her. She avers that she would not have signed the OCBC Mortgage had she known that the mortgage was an all-moneys mortgage.[^33]
 
-43     Therefore, the defendant brought a counterclaim against the plaintiff for the return of the sale proceeds of the Property which the plaintiff had received and also for the return of the moneys taken by the plaintiff from the defendant’s savings and time deposit accounts with the plaintiff. The defendant claims that the OCBC Mortgage was never binding on her and the plaintiff had wrongfully sold the Property and set off the outstanding sums under the Revised Facilities against her savings and time deposit accounts with the plaintiff.[\[note: 34\]](#Ftn_34)
+43     Therefore, the defendant brought a counterclaim against the plaintiff for the return of the sale proceeds of the Property which the plaintiff had received and also for the return of the moneys taken by the plaintiff from the defendant’s savings and time deposit accounts with the plaintiff. The defendant claims that the OCBC Mortgage was never binding on her and the plaintiff had wrongfully sold the Property and set off the outstanding sums under the Revised Facilities against her savings and time deposit accounts with the plaintiff.[^34]
 
-44     The defendant also brought a claim against the Third Party for negligence and breach of duty. The defendant alleges that TPW1 of the Third Party had failed to inform her that the OCBC Mortgage was an all-moneys mortgage. TPW1 also failed to inform her that the Third Party was also acting for both her and the plaintiff and that she was not obligated to engage the Third Party as her solicitors in the execution of the OCBC Mortgage.[\[note: 35\]](#Ftn_35) Thus, the defendant seeks an indemnity from the Third Party in respect of the plaintiff’s claims against her.[\[note: 36\]](#Ftn_36)
+44     The defendant also brought a claim against the Third Party for negligence and breach of duty. The defendant alleges that TPW1 of the Third Party had failed to inform her that the OCBC Mortgage was an all-moneys mortgage. TPW1 also failed to inform her that the Third Party was also acting for both her and the plaintiff and that she was not obligated to engage the Third Party as her solicitors in the execution of the OCBC Mortgage.[^35] Thus, the defendant seeks an indemnity from the Third Party in respect of the plaintiff’s claims against her.[^36]
 
 ### The Third Party’s case
 
-45     The Third Party denies that it was negligent when it represented the defendant in the OCBC Mortgage transaction. The Third Party avers that TPW1 met with both the defendant and Mr Kung and orally explained the terms of the OCBC Mortgage. In particular, TPW1 explained to the defendant and Mr Kung that it was an all-moneys mortgage, that their liabilities pursuant thereto were not limited to the value of the Property and that the moneys were jointly and severally recoverable against the defendant and Mr Kung. This was evident from the Letter of Confirmation which the defendant and Mr Kung signed.[\[note: 37\]](#Ftn_37)
+45     The Third Party denies that it was negligent when it represented the defendant in the OCBC Mortgage transaction. The Third Party avers that TPW1 met with both the defendant and Mr Kung and orally explained the terms of the OCBC Mortgage. In particular, TPW1 explained to the defendant and Mr Kung that it was an all-moneys mortgage, that their liabilities pursuant thereto were not limited to the value of the Property and that the moneys were jointly and severally recoverable against the defendant and Mr Kung. This was evident from the Letter of Confirmation which the defendant and Mr Kung signed.[^37]
 
-46     In the alternative, the Third Party argues that if the defendant suffered loss and damages because of the Third Party’s negligence or breach of duty (which the Third Party does not admit), such loss and damages were solely caused and/or contributed by the negligence of the defendant. The Third Party argues that the defendant had neglected and/or failed to read or take reasonable steps to understand the terms of the OCBC Mortgage. If the defendant did not understand TPW1’s explanation of the OCBC Mortgage, the defendant had failed to alert TPW1 and ask him to explain further.[\[note: 38\]](#Ftn_38)
+46     In the alternative, the Third Party argues that if the defendant suffered loss and damages because of the Third Party’s negligence or breach of duty (which the Third Party does not admit), such loss and damages were solely caused and/or contributed by the negligence of the defendant. The Third Party argues that the defendant had neglected and/or failed to read or take reasonable steps to understand the terms of the OCBC Mortgage. If the defendant did not understand TPW1’s explanation of the OCBC Mortgage, the defendant had failed to alert TPW1 and ask him to explain further.[^38]
 
 ## My decision
 
@@ -272,21 +273,21 @@ To be clear, _we should not be understood as saying that lay clients can rely on
 
 58     The defendant pleaded that at the execution of the OCBC Mortgage she was labouring under the understanding that her liability under the OCBC Mortgage would be limited to the Property and/or the value thereof. The defendant submits that she was unaware that the OCBC Mortgage was an all-moneys mortgage when she signed the documents pertaining to this mortgage. The defendant gives the following explanations regarding the documents relating to the OCBC Mortgage.
 
-59     First, in relation to the 11 Jan Letter which was mailed to the defendant’s residence and addressed to Mr Kung and the defendant, the defendant submits that she had never seen this letter until the commencement of these proceedings. She alleges that although the 11 Jan Letter was addressed to her and her late husband, Mr Kung, she did not read it as there was an arrangement between them that Mr Kung would open and read all letters addressed to them jointly.[\[note: 39\]](#Ftn_39) The defendant further adds that even if she had read the 11 Jan Letter, she would not have understood its contents without the benefit of legal advice.[\[note: 40\]](#Ftn_40)
+59     First, in relation to the 11 Jan Letter which was mailed to the defendant’s residence and addressed to Mr Kung and the defendant, the defendant submits that she had never seen this letter until the commencement of these proceedings. She alleges that although the 11 Jan Letter was addressed to her and her late husband, Mr Kung, she did not read it as there was an arrangement between them that Mr Kung would open and read all letters addressed to them jointly.[^39] The defendant further adds that even if she had read the 11 Jan Letter, she would not have understood its contents without the benefit of legal advice.[^40]
 
-60     Second, in relation to the Bangkok Bank Mortgage, a precursor to the OCBC Mortgage was also an all-moneys mortgage, which she executed on 12 January 1996 (see \[11\] above), the defendant submits that her attending solicitors then, Shook Lin & Bok LLP, also did not explain to her the nature of the Bangkok Bank Mortgage before she signed it.[\[note: 41\]](#Ftn_41) Hence she had no knowledge and understanding of the nature and obligations of an all-moneys mortgage.
+60     Second, in relation to the Bangkok Bank Mortgage, a precursor to the OCBC Mortgage was also an all-moneys mortgage, which she executed on 12 January 1996 (see \[11\] above), the defendant submits that her attending solicitors then, Shook Lin & Bok LLP, also did not explain to her the nature of the Bangkok Bank Mortgage before she signed it.[^41] Hence she had no knowledge and understanding of the nature and obligations of an all-moneys mortgage.
 
-61     Third, the defendant argues that during the meeting with TPW1 together with Mr Kung on 22 January 2013, TPW1 did not explain the terms of the OCBC Mortgage to them. The defendant and Mr Kung were merely asked to sign the OCBC Mortgage, the Letter of Confirmation and the Form of Confirmation and Consent which they did.[\[note: 42\]](#Ftn_42)
+61     Third, the defendant argues that during the meeting with TPW1 together with Mr Kung on 22 January 2013, TPW1 did not explain the terms of the OCBC Mortgage to them. The defendant and Mr Kung were merely asked to sign the OCBC Mortgage, the Letter of Confirmation and the Form of Confirmation and Consent which they did.[^42]
 
 62     Therefore, the defendant could not have known that the OCBC Mortgage was an all-moneys mortgage and not a mortgage under which her liability would be limited to the Property and/or the value thereof. Hence, she was labouring under the understanding that the mortgage she was signing was only limited to the Property and/or the value thereof. Thus, notwithstanding the 11 Jan Letter, the Bangkok Bank Mortgage, the Letter of Confirmation and the Form of Confirmation and Consent as well as the meeting on 22 January 2013, she claims that she did not know that the OCBC Mortgage was an all-moneys mortgage.
 
-63     The plaintiff, on the other hand, argues that the defendant must have known that she was going to sign an all-moneys mortgage when she and Mr Kung attended the meeting with TPW1 on 22 January 2013.[\[note: 43\]](#Ftn_43) First, this was because on or around 11 January 2013, the Third Party had mailed the 11 Jan Letter which was addressed to Mr Kung and the defendant to their residential address. The plaintiff submits that the defendant must have read it or been informed of it by Mr Kung because either Mr Kung or the defendant had, upon reading the 11 Jan Letter, arranged for the meeting with TPW1 on 22 January 2013 to execute the OCBC Mortgage.[\[note: 44\]](#Ftn_44)
+63     The plaintiff, on the other hand, argues that the defendant must have known that she was going to sign an all-moneys mortgage when she and Mr Kung attended the meeting with TPW1 on 22 January 2013.[^43] First, this was because on or around 11 January 2013, the Third Party had mailed the 11 Jan Letter which was addressed to Mr Kung and the defendant to their residential address. The plaintiff submits that the defendant must have read it or been informed of it by Mr Kung because either Mr Kung or the defendant had, upon reading the 11 Jan Letter, arranged for the meeting with TPW1 on 22 January 2013 to execute the OCBC Mortgage.[^44]
 
-64     Second, the plaintiff argues that the defendant must have understood the contents of the 11 Jan Letter because she is not an uneducated person. She graduated with a Bachelor of Arts in Economics and a Masters in Theological Studies. She was also a director of two companies – Keeping Private Limited and Fulian Enterprises (Private) Limited (“Fulian Enterprises”) for more than 30 years. She confirmed that she had signed off on the audited statements for Fulian Enterprises which included the statement of comprehensive income, balance sheet, statement of changes in equity and statement of cash flow.[\[note: 45\]](#Ftn_45) The defendant had also assisted in her father’s company, an investment company dealing in real estate properties, as a book keeper for decades.[\[note: 46\]](#Ftn_46)
+64     Second, the plaintiff argues that the defendant must have understood the contents of the 11 Jan Letter because she is not an uneducated person. She graduated with a Bachelor of Arts in Economics and a Masters in Theological Studies. She was also a director of two companies – Keeping Private Limited and Fulian Enterprises (Private) Limited (“Fulian Enterprises”) for more than 30 years. She confirmed that she had signed off on the audited statements for Fulian Enterprises which included the statement of comprehensive income, balance sheet, statement of changes in equity and statement of cash flow.[^45] The defendant had also assisted in her father’s company, an investment company dealing in real estate properties, as a book keeper for decades.[^46]
 
-65     Third, the plaintiff maintains that TPW1 had explained to the defendant and Mr Kung the nature of the OCBC Mortgage and its consequences, particularly that it was an all-moneys mortgage, before they signed the OCBC Mortgage on 22 January 2013. This is evidenced from the Letter of Confirmation which the defendant and Mr Kung signed acknowledging that TPW1 had done so. The Third Party had in place a system and safeguards to ensure that mortgagors executing mortgage documents understood the terms of the mortgage.[\[note: 47\]](#Ftn_47)
+65     Third, the plaintiff maintains that TPW1 had explained to the defendant and Mr Kung the nature of the OCBC Mortgage and its consequences, particularly that it was an all-moneys mortgage, before they signed the OCBC Mortgage on 22 January 2013. This is evidenced from the Letter of Confirmation which the defendant and Mr Kung signed acknowledging that TPW1 had done so. The Third Party had in place a system and safeguards to ensure that mortgagors executing mortgage documents understood the terms of the mortgage.[^47]
 
-66     Finally, the plaintiff argues that this is not the first all-moneys mortgage which the defendant had signed. As mentioned above at \[11\], the defendant had also mortgaged the Property to the Bangkok Bank on the same all-moneys basis. The plaintiff submits that the court should not place any weight on the defendant’s account that the solicitors advising her then did not explain the nature of the Bangkok Bank Mortgage before she signed it. This is because her account of what had happened during the execution of the Bangkok Bank Mortgage was inconsistent.[\[note: 48\]](#Ftn_48)
+66     Finally, the plaintiff argues that this is not the first all-moneys mortgage which the defendant had signed. As mentioned above at \[11\], the defendant had also mortgaged the Property to the Bangkok Bank on the same all-moneys basis. The plaintiff submits that the court should not place any weight on the defendant’s account that the solicitors advising her then did not explain the nature of the Bangkok Bank Mortgage before she signed it. This is because her account of what had happened during the execution of the Bangkok Bank Mortgage was inconsistent.[^48]
 
 67     Given the above, the plaintiff submits that the defendant must have known the nature of the OCBC Mortgage before the meeting with TPW1 on 22 January 2013. Thus, her case that the OCBC Mortgage was radically different from what she thought she signed must fail.
 
@@ -312,19 +313,19 @@ To be clear, _we should not be understood as saying that lay clients can rely on
 
 74     With regard to the 11 Jan Letter, I find that the Third Party did mail this letter to the defendant and Mr Kung and that it reached their residence. The 11 Jan Letter is of paramount importance to the pivotal issue of whether the defendant knew that the OCBC Mortgage was an all moneys mortgage as it clearly stated that the OCBC Mortgage was an all-moneys mortgage. I also find that either the defendant or Mr Kung must have read the 11 Jan Letter because if neither the defendant nor Mr Kung had read the 11 Jan Letter they would not know that they could arrange a meeting with TPW1 on 22 January 2013.
 
-75     The defendant does not deny receipt of the 11 Jan Letter. Her defence is that she did not read it. The defendant knows the importance of the 11 Jan Letter and that her defence of _non est factum_ will collapse if she was aware of the contents of this letter. That was why she tried to explain that although the 11 Jan Letter was addressed to her and Mr Kung, she did not open and read it. She said that there was an understanding between her and Mr Kung that for such a letter, the latter would open and read it. In other words, she deferred to Mr Kung the 11 Jan Letter and relied on the old adage saying that “dead men tell no tales”. However, when I questioned the defendant on whether Mr Kung knew that the OCBC Mortgage was an all-moneys mortgage she said “I don’t know whether he \[knew\] or not, but if he \[knew\] it, he would have told me”.[\[note: 49\]](#Ftn_49) If this was true then Mr Kung would have told her that the OCBC Mortgage was an all-moneys mortgage as Mr Kung would have known of the nature of the mortgage as this was explained in the 11 Jan Letter.
+75     The defendant does not deny receipt of the 11 Jan Letter. Her defence is that she did not read it. The defendant knows the importance of the 11 Jan Letter and that her defence of _non est factum_ will collapse if she was aware of the contents of this letter. That was why she tried to explain that although the 11 Jan Letter was addressed to her and Mr Kung, she did not open and read it. She said that there was an understanding between her and Mr Kung that for such a letter, the latter would open and read it. In other words, she deferred to Mr Kung the 11 Jan Letter and relied on the old adage saying that “dead men tell no tales”. However, when I questioned the defendant on whether Mr Kung knew that the OCBC Mortgage was an all-moneys mortgage she said “I don’t know whether he \[knew\] or not, but if he \[knew\] it, he would have told me”.[^49] If this was true then Mr Kung would have told her that the OCBC Mortgage was an all-moneys mortgage as Mr Kung would have known of the nature of the mortgage as this was explained in the 11 Jan Letter.
 
-76     Furthermore, the evidence is clear that either Mr Kung or the defendant or both of them had read the 11 Jan Letter. I also find that the defendant must have been informed of the OCBC Mortgage at the very least. The defendant admitted that Mr Kung would tell her that the letter was about a mortgage.[\[note: 50\]](#Ftn_50) The defendant’s case is that Mr Kung informed her that it was a mortgage limited only to the Property and/or the value thereof.[\[note: 51\]](#Ftn_51) I am unable to accept the defendant’s version of the events. I find that it is inconceivable that Mr Kung had grossly misread the 11 Jan Letter and the OCBC Mortgage when all the documents unmistakably indicated that it was an all-moneys mortgage. Mr Kung was an experienced businessman and this was not the first banking facility he was involved in for the Company which was secured by an all-moneys mortgage (see above at \[11\]). Both the defendant and Mr Kung knew that the OCBC Mortgage was a credit refinancing facility for the Bangkok Bank Mortgage, which was also an all-moneys mortgage.
+76     Furthermore, the evidence is clear that either Mr Kung or the defendant or both of them had read the 11 Jan Letter. I also find that the defendant must have been informed of the OCBC Mortgage at the very least. The defendant admitted that Mr Kung would tell her that the letter was about a mortgage.[^50] The defendant’s case is that Mr Kung informed her that it was a mortgage limited only to the Property and/or the value thereof.[^51] I am unable to accept the defendant’s version of the events. I find that it is inconceivable that Mr Kung had grossly misread the 11 Jan Letter and the OCBC Mortgage when all the documents unmistakably indicated that it was an all-moneys mortgage. Mr Kung was an experienced businessman and this was not the first banking facility he was involved in for the Company which was secured by an all-moneys mortgage (see above at \[11\]). Both the defendant and Mr Kung knew that the OCBC Mortgage was a credit refinancing facility for the Bangkok Bank Mortgage, which was also an all-moneys mortgage.
 
-77     It is also important to note that Mr Kung and the Company were involved in the negotiations over the Original Facilities and the means of securing those banking facilities with the plaintiff.[\[note: 52\]](#Ftn_52) Mr Kung even signed a “Deed of Guarantee and Indemnity” to secure the Original Facilities.[\[note: 53\]](#Ftn_53) If what the defendant had said was to be believed then Mr Kung had deliberately misled the defendant into believing that the contents of the 11 Jan Letter and the OCBC Mortgage attached was a mortgage limited to the Property. I find this difficult to accept as the defendant trusted and loved Mr Kung and their relationship together was not an unhappy one.[\[note: 54\]](#Ftn_54) Thus, it is more probable that Mr Kung had informed the defendant of the contents of the 11 Jan Letter and that the OCBC Mortgage was an all-moneys mortgage.
+77     It is also important to note that Mr Kung and the Company were involved in the negotiations over the Original Facilities and the means of securing those banking facilities with the plaintiff.[^52] Mr Kung even signed a “Deed of Guarantee and Indemnity” to secure the Original Facilities.[^53] If what the defendant had said was to be believed then Mr Kung had deliberately misled the defendant into believing that the contents of the 11 Jan Letter and the OCBC Mortgage attached was a mortgage limited to the Property. I find this difficult to accept as the defendant trusted and loved Mr Kung and their relationship together was not an unhappy one.[^54] Thus, it is more probable that Mr Kung had informed the defendant of the contents of the 11 Jan Letter and that the OCBC Mortgage was an all-moneys mortgage.
 
 78     From these circumstances, it is difficult to believe the defendant that Mr Kung did not inform her that the OCBC Mortgage was an all-moneys mortgage.
 
-79     The defendant further submits that even if she had read the 11 Jan Letter, she would not have understood its contents without the benefit of legal advice.[\[note: 55\]](#Ftn_55) The defendant also argues that the plaintiff and the Third Party had not proven to this court how a person with the defendant’s educational qualifications could possibly have understood the contents of the 11 Jan Letter and the OCBC Mortgage.[\[note: 56\]](#Ftn_56) I find the defendant’s arguments on this point hard to accept and entirely misconceived.
+79     The defendant further submits that even if she had read the 11 Jan Letter, she would not have understood its contents without the benefit of legal advice.[^55] The defendant also argues that the plaintiff and the Third Party had not proven to this court how a person with the defendant’s educational qualifications could possibly have understood the contents of the 11 Jan Letter and the OCBC Mortgage.[^56] I find the defendant’s arguments on this point hard to accept and entirely misconceived.
 
 80     For one, the onus is on the defendant to prove _non est factum_ and that she, with her educational qualifications and experience, could not understand the 11 Jan Letter and the OCBC Mortgage. As the plaintiff has rightly highlighted, the defendant is not an uneducated person (see above at \[64\]). She cannot be compared to “an elderly and poorly educated client” (see _Mahidon Nichiar_ at \[123\]). She is obviously more capable than that. I also find that the language used in the 11 Jan Letter is simple and straightforward. I cannot fathom how someone who is as educated and experienced as the defendant would struggle to understand the words “\[there is\] no limit on the amount of \[the defendant and Mr Kung’s\] liabilities as owners of the Property, for the debts of \[the Company\] under \[the OCBC Mortgage\]”, or the words “\[t\]his means that by signing \[the OCBC Mortgage\] as owners, \[the defendant and Mr Kung\] are also personally liable for all moneys owed by \[the Company\] to \[the plaintiff\]” and the relevant paragraphs of the 11 Jan Letter (see above at \[13(a)\]). These are words clear and simple enough to put both Mr Kung and the defendant on notice regarding the wide-ranging effect of the OCBC Mortgage.
 
-81     In fact, at the trial, the defendant admitted that she could understand the 11 Jan Letter with little difficulty[\[note: 57\]](#Ftn_57):
+81     In fact, at the trial, the defendant admitted that she could understand the 11 Jan Letter with little difficulty[^57]:
 
 **Q:** … Now, from Tan Peng Chin’s perspective, they have explained that they told you about the all monies legal mortgage, the nature of the all monies mortgage, in this letter dated 11 January. They also told you at a meeting at their offices on 22 January. You understand that; right?
 
@@ -342,9 +343,9 @@ To be clear, _we should not be understood as saying that lay clients can rely on
 
 (iii) The Bangkok Bank Mortgage
 
-84     Finally, turning to the Bangkok Bank Mortgage, the defendant similarly alleged that her attending solicitors then did not explain the nature of the Bangkok Bank Mortgage to her but instead merely asked her to sign the documents. I find this difficult to believe. In the defendant’s 1st OSB Affidavit, she mentioned that she did not “recall if \[she\] had signed earlier Mortgage documents related to the Company and/or \[the\] Property”.[\[note: 58\]](#Ftn_58) She then changed her position in her 3rdOSB Affidavit when she said that the terms of the Bangkok Bank Mortgage were not explained to her.[\[note: 59\]](#Ftn_59)
+84     Finally, turning to the Bangkok Bank Mortgage, the defendant similarly alleged that her attending solicitors then did not explain the nature of the Bangkok Bank Mortgage to her but instead merely asked her to sign the documents. I find this difficult to believe. In the defendant’s 1st OSB Affidavit, she mentioned that she did not “recall if \[she\] had signed earlier Mortgage documents related to the Company and/or \[the\] Property”.[^58] She then changed her position in her 3rdOSB Affidavit when she said that the terms of the Bangkok Bank Mortgage were not explained to her.[^59]
 
-85     At the trial, when the defendant was asked by the plaintiff’s counsel whether she remembered what happened at the signing of the Bangkok Bank Mortgage, her answer vacillated and she said she could not remember[\[note: 60\]](#Ftn_60):
+85     At the trial, when the defendant was asked by the plaintiff’s counsel whether she remembered what happened at the signing of the Bangkok Bank Mortgage, her answer vacillated and she said she could not remember[^60]:
 
 <table align="left" cellpadding="0" cellspacing="0" class="Judg-2" frame="none" pgwide="1"><colgroup><col width="20.34%"> <col width="79.66%"> </colgroup><tbody><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1"><b>Q:</b></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">… Do you remember what happened at this Bangkok Bank mortgage signing?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1"><b>A:</b></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">No.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1"><b>Q:</b></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">And following on from your answer, if you cannot remember what happened at the signing of the Bangkok Bank mortgage, then to be fair there are two possibilities: <em>number one, the terms were explained to you; number two, the terms were not explained to you, correct?</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1"><b>A:</b></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1"><em>Correct.</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1"><b>Q:</b></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">And you can’t recall so, therefore, you don’t know which is which because you simply can’t recall; correct?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">…</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">&nbsp;</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1"><b>Q:</b></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">The Bangkok Bank mortgage. <em>You can’t recall whether it is one or two, because you simply cannot recall following on from your answer; correct?</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">…</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">&nbsp;</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1"><b>A:</b></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1"><em>Okay. Yeah, if you – yeah.</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1"><b>Court:</b></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1"><em>Sorry, what do you mean “yeah”?</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1"><b>A:</b></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1"><em>Yeah, correct.</em></p></td></tr><tr><td align="left" class="" colspan="2" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">[emphasis added]</p></td></tr></tbody></table>
 
@@ -359,17 +360,17 @@ To be clear, _we should not be understood as saying that lay clients can rely on
 
 #### The parties’ arguments
 
-88     The defendant submits that she was neither careless nor negligent when she signed the OCBC Mortgage. She avers that even if she had read the OCBC Mortgage, she would not have understood its terms (_ie_, she would still be none the wiser).[\[note: 61\]](#Ftn_61) As mentioned above, the defendant also avers that she did not read the 11 Jan Letter as there was a “domestic arrangement” between her and Mr Kung whereby the defendant would give all letters jointly addressed to them to Mr Kung for him to read.[\[note: 62\]](#Ftn_62) Thus the defendant argues that she was entitled to rely on TPW1’s advice. However, she alleges that TPW1 failed in his duties to explain the documents and the OCBC Mortgage she was asked to sign. Hence she was not careless for not understanding the OCBC Mortgage.[\[note: 63\]](#Ftn_63)
+88     The defendant submits that she was neither careless nor negligent when she signed the OCBC Mortgage. She avers that even if she had read the OCBC Mortgage, she would not have understood its terms (_ie_, she would still be none the wiser).[^61] As mentioned above, the defendant also avers that she did not read the 11 Jan Letter as there was a “domestic arrangement” between her and Mr Kung whereby the defendant would give all letters jointly addressed to them to Mr Kung for him to read.[^62] Thus the defendant argues that she was entitled to rely on TPW1’s advice. However, she alleges that TPW1 failed in his duties to explain the documents and the OCBC Mortgage she was asked to sign. Hence she was not careless for not understanding the OCBC Mortgage.[^63]
 
-89     With regard to the Letter of Confirmation and the Form of Confirmation and Consent, the defendant argues that there is nothing on the face of these documents that identifies the OCBC Mortgage as an all-moneys mortgage. Furthermore, these documents did not state that the defendant had agreed to be a guarantor for the Company’s debts beyond the value of the Property.[\[note: 64\]](#Ftn_64)
+89     With regard to the Letter of Confirmation and the Form of Confirmation and Consent, the defendant argues that there is nothing on the face of these documents that identifies the OCBC Mortgage as an all-moneys mortgage. Furthermore, these documents did not state that the defendant had agreed to be a guarantor for the Company’s debts beyond the value of the Property.[^64]
 
-90     Finally, the defendant argues that the 11 Jan Letter was not reproduced and placed before her and Mr Kung during the meeting with TPW1 on 22 January 2013.[\[note: 65\]](#Ftn_65)
+90     Finally, the defendant argues that the 11 Jan Letter was not reproduced and placed before her and Mr Kung during the meeting with TPW1 on 22 January 2013.[^65]
 
-91     The plaintiff, on the other hand, argues that the defendant had been careless because she failed to take reasonable precautions in ascertaining what she was signing. First, she admitted that she did not even read the OCBC Mortgage. Second, she was careless in not taking any interest in the 11 Jan Letter. Third, she did not even read the Letter of Confirmation and the Form of Confirmation and Consent when she signed them. Fourth, even if she did read them, she was nonetheless careless in not enquiring into the OCBC Mortgage which was referred to therein. Fifth, even if TPW1 did not explain the OCBC Mortgage to her, she was, nonetheless, capable of understanding the OCBC Mortgage.[\[note: 66\]](#Ftn_66)
+91     The plaintiff, on the other hand, argues that the defendant had been careless because she failed to take reasonable precautions in ascertaining what she was signing. First, she admitted that she did not even read the OCBC Mortgage. Second, she was careless in not taking any interest in the 11 Jan Letter. Third, she did not even read the Letter of Confirmation and the Form of Confirmation and Consent when she signed them. Fourth, even if she did read them, she was nonetheless careless in not enquiring into the OCBC Mortgage which was referred to therein. Fifth, even if TPW1 did not explain the OCBC Mortgage to her, she was, nonetheless, capable of understanding the OCBC Mortgage.[^66]
 
-92     The plaintiff also argues that it had engaged the Third Party who had put in place a system to explain mortgage documents to mortgagors who intend to execute them. This process includes sending beforehand a letter explaining the nature of the mortgage, similar to the 11 Jan Letter. Subsequently, when the defendant and Mr Kung met TPW1 on 22 January 2013 a copy of the 11 Jan Letter was handed to them to read before they signed the documents. The plaintiff submits that the Third Party followed the system in this case.[\[note: 67\]](#Ftn_67)
+92     The plaintiff also argues that it had engaged the Third Party who had put in place a system to explain mortgage documents to mortgagors who intend to execute them. This process includes sending beforehand a letter explaining the nature of the mortgage, similar to the 11 Jan Letter. Subsequently, when the defendant and Mr Kung met TPW1 on 22 January 2013 a copy of the 11 Jan Letter was handed to them to read before they signed the documents. The plaintiff submits that the Third Party followed the system in this case.[^67]
 
-93     Finally, the plaintiff argues that the defendant has a habit of signing important documents without having due regard for what she was signing.[\[note: 68\]](#Ftn_68)
+93     Finally, the plaintiff argues that the defendant has a habit of signing important documents without having due regard for what she was signing.[^68]
 
 #### My decision on the issue of the Second Element of non est factum
 
@@ -381,7 +382,7 @@ To be clear, _we should not be understood as saying that lay clients can rely on
 
 97     In this case, I find that the defendant was careless by failing to ask TPW1 any questions regarding the nature of the OCBC Mortgage. The Letter of Confirmation and the Form of Confirmation and Consent would have put her on notice to ensure that she understood the OCBC Mortgage or at least had understood TPW1’s explanation.
 
-98     As discussed at \[80\] above, the defendant had a tertiary education and would have no difficulty understanding the nature of the 11 Jan Letter. Similarly, she admitted that she understood the Letter of Confirmation and the Form of Confirmation and Consent. The defendant agreed that it would take her only a few minutes to read the Letter of Confirmation which is about a page and she would not have any difficulty understanding it. This is her evidence in court[\[note: 69\]](#Ftn_69):
+98     As discussed at \[80\] above, the defendant had a tertiary education and would have no difficulty understanding the nature of the 11 Jan Letter. Similarly, she admitted that she understood the Letter of Confirmation and the Form of Confirmation and Consent. The defendant agreed that it would take her only a few minutes to read the Letter of Confirmation which is about a page and she would not have any difficulty understanding it. This is her evidence in court[^69]:
 
 **Q:** Mdm Yeo, look at this document, it’s a one-page document. And at a glance, at a glance, you can read the document in less than a few minutes. Would that be a fair statement?
 
@@ -399,13 +400,13 @@ To be clear, _we should not be understood as saying that lay clients can rely on
 
 **A:** Yes.
 
-99     The Letter of Confirmation and the Form of Confirmation and Consent would have been sufficient to put the defendant on notice that TPW1 had an obligation to explain the nature and the salient terms of the OCBC Mortgage to the defendant and Mr Kung. The Letter of Confirmation stated that both the defendant and Mr Kung acknowledged that TPW1 had “explained to us the nature of \[the OCBC Mortgage\] and the practical consequences it will have for us” and the defendant signed the Letter of Confirmation (see above at \[20\]–\[22\]). As already mentioned, the defendant admitted that she had no difficulty understanding the Letter of Confirmation[\[note: 70\]](#Ftn_70) and she was also not deprived of the chance to read the Letter of Confirmation.[\[note: 71\]](#Ftn_71)
+99     The Letter of Confirmation and the Form of Confirmation and Consent would have been sufficient to put the defendant on notice that TPW1 had an obligation to explain the nature and the salient terms of the OCBC Mortgage to the defendant and Mr Kung. The Letter of Confirmation stated that both the defendant and Mr Kung acknowledged that TPW1 had “explained to us the nature of \[the OCBC Mortgage\] and the practical consequences it will have for us” and the defendant signed the Letter of Confirmation (see above at \[20\]–\[22\]). As already mentioned, the defendant admitted that she had no difficulty understanding the Letter of Confirmation[^70] and she was also not deprived of the chance to read the Letter of Confirmation.[^71]
 
-100    Further, the defendant admitted that it was very important to her that the extent of the mortgage to the plaintiff be limited only to the value of the Property because anything more could have a negative effect on her abilities to provide for her then young family.[\[note: 72\]](#Ftn_72) Thus, the defendant would have been put on notice upon reading the Letter of Confirmation to at least ensure that she understood TPW1’s explanation of the OCBC Mortgage or that she had assurances from TPW1 that the extent of her liabilities under the OCBC Mortgage would not extend beyond the Property. I find it difficult to accept that the defendant would sign the Letter of Confirmation when TPW1 had not explained the OCBC Mortgage to her or if she did not understand TPW1’s explanation.[\[note: 73\]](#Ftn_73)
+100    Further, the defendant admitted that it was very important to her that the extent of the mortgage to the plaintiff be limited only to the value of the Property because anything more could have a negative effect on her abilities to provide for her then young family.[^72] Thus, the defendant would have been put on notice upon reading the Letter of Confirmation to at least ensure that she understood TPW1’s explanation of the OCBC Mortgage or that she had assurances from TPW1 that the extent of her liabilities under the OCBC Mortgage would not extend beyond the Property. I find it difficult to accept that the defendant would sign the Letter of Confirmation when TPW1 had not explained the OCBC Mortgage to her or if she did not understand TPW1’s explanation.[^73]
 
 101    With regard to the Form of Confirmation and Consent, this document would further impress upon the defendant the need to enquire or at least take steps to understand the OCBC Mortgage. The Form of Confirmation and Consent clearly stated that Mr Kung and the defendant “confirm … our liabilities and obligations to the Bank under the Mortgage No. ID/362804P …” (see above at \[23\] and \[25\]). Given that the limit of her liability under the OCBC Mortgage was important to her, any ordinary reasonable person in her shoes would not have signed the Form of Confirmation and Consent if she did not understand the nature of the OCBC Mortgage. Similarly, a reasonable person in her shoes who was deeply concerned about her liability would not sign the Form of Confirmation and Consent without receiving any assurances from her solicitors that the OCBC Mortgage was only limited to the value of the Property.
 
-102    The defendant’s attitude at the signing of the documents on 22 January 2013 was irresponsible if her story was to be believed. At the trial, she said the following[\[note: 74\]](#Ftn_74):
+102    The defendant’s attitude at the signing of the documents on 22 January 2013 was irresponsible if her story was to be believed. At the trial, she said the following[^74]:
 
 **Q:** Mdm Yeo, you were able to understand the language in the letter of confirmation. You were able to understand the language in the form of confirmation and consent. _Do you accept that you must exercise care and read the mortgage document before you signed it? Or are you saying that “oh no, I don’t have to bother I will rely 100 per cent on my lawyers, notwithstanding that I can read the document myself”? Which is which?_
 
@@ -435,9 +436,9 @@ To be clear, _we should not be understood as saying that lay clients can rely on
 
 104    Thus, the defendant was negligent for failing to read the documents before her and/or enquire into the OCBC Mortgage. Also, given the defendant’s experience and educational qualifications it is more probable that the defendant did not ask TPW1 any questions about the OCBC Mortgage because TPW1 had explained the obligations and liabilities to the defendant and Mr Kung and they understood what they were about to sign.
 
-105    With regard to the defendant’s argument that the 11 Jan Letter was not available to her at the meeting with TPW1 on 22 January 2013, I am more inclined to believe TPW1’s and Ms Gwendoline Ong Tin Si’s (“TPW2”) evidence that it was their practice to give the defendant and Mr Kung a copy of that letter. TPW2 explained that it was her standard procedure to give a copy of the letter similar to the 11 Jan Letter whenever the Third Party handled a mortgagor who came to the Third Party’s office to execute a mortgage.[\[note: 75\]](#Ftn_75) If the defendant failed to read the 11 Jan Letter and the other documents before she signed them, she would have been more than careless. The defendant would have been reckless and her indifference could have been due to her wilful blindness.
+105    With regard to the defendant’s argument that the 11 Jan Letter was not available to her at the meeting with TPW1 on 22 January 2013, I am more inclined to believe TPW1’s and Ms Gwendoline Ong Tin Si’s (“TPW2”) evidence that it was their practice to give the defendant and Mr Kung a copy of that letter. TPW2 explained that it was her standard procedure to give a copy of the letter similar to the 11 Jan Letter whenever the Third Party handled a mortgagor who came to the Third Party’s office to execute a mortgage.[^75] If the defendant failed to read the 11 Jan Letter and the other documents before she signed them, she would have been more than careless. The defendant would have been reckless and her indifference could have been due to her wilful blindness.
 
-106    Finally, the defendant’s arguments that she did not read the OCBC Mortgage because she trusted her late husband[\[note: 76\]](#Ftn_76) works against her. It is not the defendant’s case that her husband or TPW1 exercised any form of undue influence on her such that she was not afforded the chance to read the OCBC Mortgage, the 11 Jan Letter, the Letter of Confirmation and the Form of Confirmation and Consent which were all before her on 22 January 2013. In fact, no one prevented her from reading these documents.[\[note: 77\]](#Ftn_77) Hence, she had the opportunity to read these documents but she chose not to read them before she signed them. She was also under no pressure or obligations to sign the documents without reading them. The defendant admitted that she did not read the documents and regretted it. In court during cross-examination by the Third Party’s counsel the defendant said “It’s … after the incidents of this case, well I, you know, I sort of regret that, you know, I didn’t read the documents.”[\[note: 78\]](#Ftn_78) She also chose not to ask TPW1 any questions. The defendant was negligent and failed to exercise due care when she signed these documents. Therefore, she should be held liable for the consequences of the documents she had signed and she should not be allowed to renege on the OCBC Mortgage.
+106    Finally, the defendant’s arguments that she did not read the OCBC Mortgage because she trusted her late husband[^76] works against her. It is not the defendant’s case that her husband or TPW1 exercised any form of undue influence on her such that she was not afforded the chance to read the OCBC Mortgage, the 11 Jan Letter, the Letter of Confirmation and the Form of Confirmation and Consent which were all before her on 22 January 2013. In fact, no one prevented her from reading these documents.[^77] Hence, she had the opportunity to read these documents but she chose not to read them before she signed them. She was also under no pressure or obligations to sign the documents without reading them. The defendant admitted that she did not read the documents and regretted it. In court during cross-examination by the Third Party’s counsel the defendant said “It’s … after the incidents of this case, well I, you know, I sort of regret that, you know, I didn’t read the documents.”[^78] She also chose not to ask TPW1 any questions. The defendant was negligent and failed to exercise due care when she signed these documents. Therefore, she should be held liable for the consequences of the documents she had signed and she should not be allowed to renege on the OCBC Mortgage.
 
 #### Summary
 
@@ -449,11 +450,11 @@ To be clear, _we should not be understood as saying that lay clients can rely on
 
 109    Having already found that the defendant’s defence of _non est factum_ has not been established and that the OCBC Mortgage is binding on the defendant, it is unnecessary for me to consider the plaintiff’s other argument of estoppel which is that the defendant is estopped from seeking an invalidation of the OCBC Mortgage even if the defendant has succeeded in its defence of _non est factum_. However, for completeness, I shall examine the merits of the plaintiff’s argument on the principle of estoppel.
 
-110    The plaintiff asserts that it relied on the Letter of Confirmation and the Form of Confirmation and Consent as unequivocal representations made by the defendant to the plaintiff that the defendant understood the terms of the OCBC Mortgage and is bound by the OCBC Mortgage. In reliance on these representations, the plaintiff disbursed the moneys under the facilities to the Company to its detriment. Therefore, the plaintiff asserts that the defendant cannot now turn back on her words and seek to invalidate her obligations under the OCBC Mortgage on the grounds that she did not understand what she signed.[\[note: 79\]](#Ftn_79)
+110    The plaintiff asserts that it relied on the Letter of Confirmation and the Form of Confirmation and Consent as unequivocal representations made by the defendant to the plaintiff that the defendant understood the terms of the OCBC Mortgage and is bound by the OCBC Mortgage. In reliance on these representations, the plaintiff disbursed the moneys under the facilities to the Company to its detriment. Therefore, the plaintiff asserts that the defendant cannot now turn back on her words and seek to invalidate her obligations under the OCBC Mortgage on the grounds that she did not understand what she signed.[^79]
 
-111    The defendant, on the other hand, argues that when _non est factum_ is established and the OCBC Mortgage is invalidated, all documents relating to the OCBC Mortgage and the defendant’s agreement to be bound by it will also be invalidated. Thus, it is not open to the plaintiff to rely on the Letter of Confirmation and the Form of Confirmation and Consent as representations that the defendant has understood the OCBC Mortgage which in fact was not the case.[\[note: 80\]](#Ftn_80)
+111    The defendant, on the other hand, argues that when _non est factum_ is established and the OCBC Mortgage is invalidated, all documents relating to the OCBC Mortgage and the defendant’s agreement to be bound by it will also be invalidated. Thus, it is not open to the plaintiff to rely on the Letter of Confirmation and the Form of Confirmation and Consent as representations that the defendant has understood the OCBC Mortgage which in fact was not the case.[^80]
 
-112    The defendant further argues that the equitable doctrine of estoppel is inapplicable because the plaintiff failed to fulfil its duty towards the defendant. The duty to explain to the defendant carefully was laid down in the case of _Royal Bank of Scotland plc v Etridge (No 2)_ (“_Etridge_”) and in the _Code of Consumer Banking Practice_ which outlines the minimum standards of good banking practice which customers can expect from the bank. The defendant argues that the plaintiff’s duty as laid down in _Etridge_ and the _Code of Consumer Banking Practice_ is basically to ensure that the defendant had been properly advised on her obligations under the OCBC Mortgage, especially when she was Mr Kung’s wife and had no benefit from the OCBC Mortgage. Having failed to fulfil this duty, it is, therefore, inequitable for the plaintiff to rely on the representations made by the defendant regarding her understanding and agreement to be bound by the OCBC Mortgage.[\[note: 81\]](#Ftn_81)
+112    The defendant further argues that the equitable doctrine of estoppel is inapplicable because the plaintiff failed to fulfil its duty towards the defendant. The duty to explain to the defendant carefully was laid down in the case of _Royal Bank of Scotland plc v Etridge (No 2)_ (“_Etridge_”) and in the _Code of Consumer Banking Practice_ which outlines the minimum standards of good banking practice which customers can expect from the bank. The defendant argues that the plaintiff’s duty as laid down in _Etridge_ and the _Code of Consumer Banking Practice_ is basically to ensure that the defendant had been properly advised on her obligations under the OCBC Mortgage, especially when she was Mr Kung’s wife and had no benefit from the OCBC Mortgage. Having failed to fulfil this duty, it is, therefore, inequitable for the plaintiff to rely on the representations made by the defendant regarding her understanding and agreement to be bound by the OCBC Mortgage.[^81]
 
 113    Finally, the defendant argues that if _non est factum_ is established the defendant can avoid her liabilities under the OCBC Mortgage. Hence, the plaintiff is liable to return to her the net sale proceeds from the sale of the Property and the moneys the plaintiff had taken from her savings account and time deposit account which the plaintiff had used to set off against the sums owed by the defendant under the OCBC Mortgage.
 
@@ -481,9 +482,9 @@ There has been so much discussion during the argument as to the plea of _non est
 
 ### My decision on the issue of estoppel
 
-118    The plaintiff had granted credit facilities to the Company and the defendant had provided security in respect of these credit facilities under the OCBC Mortgage. It was the practice of the plaintiff that when executing such mortgages, it would usually engage an outside law firm who had subject matter expertise in this field to handle the execution of such transactions.[\[note: 82\]](#Ftn_82) In this case, the plaintiff had engaged the Third Party to handle the execution of the OCBC Mortgage. When the plaintiff engaged an outside law firm to handle such transactions, the plaintiff would provide the outside law firm a uniform set of instructions to ensure that a comprehensive and properly standardised mortgage procedure is followed (“Instructions”).[\[note: 83\]](#Ftn_83) These Instruction were also issued to the Third Party in this case.[\[note: 84\]](#Ftn_84)
+118    The plaintiff had granted credit facilities to the Company and the defendant had provided security in respect of these credit facilities under the OCBC Mortgage. It was the practice of the plaintiff that when executing such mortgages, it would usually engage an outside law firm who had subject matter expertise in this field to handle the execution of such transactions.[^82] In this case, the plaintiff had engaged the Third Party to handle the execution of the OCBC Mortgage. When the plaintiff engaged an outside law firm to handle such transactions, the plaintiff would provide the outside law firm a uniform set of instructions to ensure that a comprehensive and properly standardised mortgage procedure is followed (“Instructions”).[^83] These Instruction were also issued to the Third Party in this case.[^84]
 
-119    In the event that the Third Party represents both the plaintiff and the mortgagor, the Instructions provide as follows[\[note: 85\]](#Ftn_85):
+119    In the event that the Third Party represents both the plaintiff and the mortgagor, the Instructions provide as follows[^85]:
 
 **15**      **MULTIPLE REPRESENTATION**
 
@@ -499,9 +500,9 @@ If the bank is not willing to undertake the task of explaining itself, the bank 
 
 123    The only means by which the plaintiff could have known that the defendant understood the OCBC Mortgage and agreed to be bound by the obligations thereunder were the signed Letter of Confirmation and the Form of Confirmation and Consent. The Letter of Confirmation and the Form of Confirmation and Consent both stated in unequivocal terms that the defendant understood the terms of the OCBC Mortgage and that she had agreed to be liable for the obligations thereunder (see \[20\] to \[25\] above).
 
-124    In that light, I find that there is no way for the plaintiff to know the defendant’s state of mind when the defendant executed the OCBC Mortgage and signed the Letter of Confirmation and the Form of Confirmation and Consent. Thus the plaintiff would not have suspected anything was amiss, if any. Given the Instructions issued to the Third Party, it is reasonable for the plaintiff to rely on the signed OCBC Mortgage, the Letter of Confirmation and the Form of Confirmation and Consent as unequivocal representations by the defendant that the defendant understood and agreed to be bound by the OCBC Mortgage and that the Third Party had followed the Instructions properly. The plaintiff was one step removed from the saga which was what transpired during the execution of the OCBC Mortgage. Hence, it is inaccurate for the defendant to allege that the plaintiff knew that the defendant was not properly advised. There was no way for the plaintiff to know this. Therefore, I reject the defendant’s argument that the plaintiff had come with unclean hands.[\[note: 86\]](#Ftn_86)
+124    In that light, I find that there is no way for the plaintiff to know the defendant’s state of mind when the defendant executed the OCBC Mortgage and signed the Letter of Confirmation and the Form of Confirmation and Consent. Thus the plaintiff would not have suspected anything was amiss, if any. Given the Instructions issued to the Third Party, it is reasonable for the plaintiff to rely on the signed OCBC Mortgage, the Letter of Confirmation and the Form of Confirmation and Consent as unequivocal representations by the defendant that the defendant understood and agreed to be bound by the OCBC Mortgage and that the Third Party had followed the Instructions properly. The plaintiff was one step removed from the saga which was what transpired during the execution of the OCBC Mortgage. Hence, it is inaccurate for the defendant to allege that the plaintiff knew that the defendant was not properly advised. There was no way for the plaintiff to know this. Therefore, I reject the defendant’s argument that the plaintiff had come with unclean hands.[^86]
 
-125    I shall now address the defendant’s second argument which is that it is inequitable for the plaintiff to invoke estoppel because it has failed to fulfil its duty towards the defendant under _Etridge_ and the _Code of Consumer Banking Practice_. On this, I find that _Etridge_ is not applicable in this case. The defendant acknowledges that she has not pleaded undue influence nor is she raising it[\[note: 87\]](#Ftn_87). But she submits that TPW1 should have exercised greater care in his discharge of his duty to explain to her as the defendant was the wife of Mr Kung, the director of the borrower Company and she had no beneficiary interest in the OCBC Mortgage. I shall discuss this at length below at \[136\] onwards. However, for the purpose of this issue it suffices for me to highlight that the defendant takes no issue with the OCBC Mortgage if the liability is limited to the Property. If this was the defendant’s case she would not have alleged that TPW1 had failed to discharge his duty diligently. Therefore, it appears that her grievance against TPW1 that he had failed to alert her that the OCBC Mortgage was an all-moneys mortgage may have been an afterthought.
+125    I shall now address the defendant’s second argument which is that it is inequitable for the plaintiff to invoke estoppel because it has failed to fulfil its duty towards the defendant under _Etridge_ and the _Code of Consumer Banking Practice_. On this, I find that _Etridge_ is not applicable in this case. The defendant acknowledges that she has not pleaded undue influence nor is she raising it[^87]. But she submits that TPW1 should have exercised greater care in his discharge of his duty to explain to her as the defendant was the wife of Mr Kung, the director of the borrower Company and she had no beneficiary interest in the OCBC Mortgage. I shall discuss this at length below at \[136\] onwards. However, for the purpose of this issue it suffices for me to highlight that the defendant takes no issue with the OCBC Mortgage if the liability is limited to the Property. If this was the defendant’s case she would not have alleged that TPW1 had failed to discharge his duty diligently. Therefore, it appears that her grievance against TPW1 that he had failed to alert her that the OCBC Mortgage was an all-moneys mortgage may have been an afterthought.
 
 126    I further find that the plaintiff’s practice of issuing the Instructions to the Third Party and requiring the Third Party to furnish certain confirmations pursuant to the Instructions (see above at \[118\] to \[120\]) were sufficient safeguards for the plaintiff to ensure that the defendant and other mortgagors were sufficiently and adequately advised as to the nature and terms of the mortgage documents they were executing. Thus, the defendant continues to be liable to the plaintiff under the OCBC Mortgage on the principle of equitable estoppel.
 
@@ -513,15 +514,15 @@ If the bank is not willing to undertake the task of explaining itself, the bank 
 
 ### The parties’ arguments
 
-129    The defendant argues that TPW1 did not explain to her and Mr Kung the terms, obligations and liabilities of the OCBC Mortgage.[\[note: 88\]](#Ftn_88)The defendant further asserts that the meeting with TPW1 lasted about five minutes.[\[note: 89\]](#Ftn_89) The defendant submits that there is no credible evidence to show that the defendant was ever shown the agreement relating to the Original Facilities, the 11 Jan Letter or other documents. Even if she were shown these documents, she was not sophisticated enough to understand them on her own.[\[note: 90\]](#Ftn_90) The defendant also claims that the Third Party was negligent as TPW1 did not explain the OCBC Mortgage to her.[\[note: 91\]](#Ftn_91)
+129    The defendant argues that TPW1 did not explain to her and Mr Kung the terms, obligations and liabilities of the OCBC Mortgage.[^88]The defendant further asserts that the meeting with TPW1 lasted about five minutes.[^89] The defendant submits that there is no credible evidence to show that the defendant was ever shown the agreement relating to the Original Facilities, the 11 Jan Letter or other documents. Even if she were shown these documents, she was not sophisticated enough to understand them on her own.[^90] The defendant also claims that the Third Party was negligent as TPW1 did not explain the OCBC Mortgage to her.[^91]
 
-130    The Third Party argues that there is no negligence on the part of TPW1 and TPW2. The Third Party relies on the 11 Jan Letter, the Letter of Confirmation and the Form of Confirmation and Consent to show that the defendant was adequately advised on the nature and consequences of executing the OCBC Mortgage.[\[note: 92\]](#Ftn_92) The Third Party submits that it had put in place a system to ensure that mortgagors who approached them were all well-advised on the nature of the mortgage they were about to execute. This involved sending a letter of explanation first to the mortgagors – which is the 11 Jan Letter in this case. The defendant and/or Mr Kung then arranged for a meeting with the Third Party thereafter. At that meeting which was on 22 January 2013, a copy of the 11 Jan Letter was handed to the defendant and Mr Kung. The Third Party explained the nature and salient terms of the OCBC Mortgage to the defendant and Mr Kung before they executed the mortgage and signed a letter acknowledging that the Third Party had explained the mortgage to them.[\[note: 93\]](#Ftn_93)
+130    The Third Party argues that there is no negligence on the part of TPW1 and TPW2. The Third Party relies on the 11 Jan Letter, the Letter of Confirmation and the Form of Confirmation and Consent to show that the defendant was adequately advised on the nature and consequences of executing the OCBC Mortgage.[^92] The Third Party submits that it had put in place a system to ensure that mortgagors who approached them were all well-advised on the nature of the mortgage they were about to execute. This involved sending a letter of explanation first to the mortgagors – which is the 11 Jan Letter in this case. The defendant and/or Mr Kung then arranged for a meeting with the Third Party thereafter. At that meeting which was on 22 January 2013, a copy of the 11 Jan Letter was handed to the defendant and Mr Kung. The Third Party explained the nature and salient terms of the OCBC Mortgage to the defendant and Mr Kung before they executed the mortgage and signed a letter acknowledging that the Third Party had explained the mortgage to them.[^93]
 
 ### My decision on whether the Third Party was negligent
 
 131    Before I consider the parties’ arguments, I wish to state at the outset that the defendant’s case is that TPW1 did not even explain the terms of the OCBC Mortgage to the defendant and Mr Kung. This is different from the situation in which the allegation is that TPW1 did not provide an adequate explanation of the OCBC Mortgage to them. Thus, I shall disregard the defendant’s arguments that TPW1 was negligent for failing to adequately explain the OCBC Mortgage to the defendant and Mr Kung. Hence, I shall confine my discussion to whether TPW1 did in fact explain the terms of the OCBC Mortgage to the defendant and Mr Kung.
 
-132    It is also not disputed that the Third Party was also the defendant’s solicitors in the execution of the OCBC Mortgage and that it owed a duty of care to explain to the defendant the terms of the OCBC Mortgage, which was an all-moneys mortgage.[\[note: 94\]](#Ftn_94)
+132    It is also not disputed that the Third Party was also the defendant’s solicitors in the execution of the OCBC Mortgage and that it owed a duty of care to explain to the defendant the terms of the OCBC Mortgage, which was an all-moneys mortgage.[^94]
 
 #### The Third Party’s standard of care to the defendant
 
@@ -529,7 +530,7 @@ If the bank is not willing to undertake the task of explaining itself, the bank 
 
 134    The defendant further submits that the duties of care and skill required of a conveyancing solicitor go beyond that in _Foo Maun Yee_. It must include the duties laid down in _Etridge_ which were approved in the Court of Appeal decision of _Sudha Natrajan v The Bank of East Asia Ltd_ (“_Sudha Natrajan_”) at \[59\].
 
-135    In the context of this case, the defendant submits that the duties of the Third Party must include checking directly with the defendant the name of the solicitor she had decided to act for her and to ensure that her solicitor communicated directly with her. The solicitor should also inform the defendant that the purpose of these duties was so that the defendant would not be able to dispute that she was legally bound by the documents once she had signed them.[\[note: 95\]](#Ftn_95)
+135    In the context of this case, the defendant submits that the duties of the Third Party must include checking directly with the defendant the name of the solicitor she had decided to act for her and to ensure that her solicitor communicated directly with her. The solicitor should also inform the defendant that the purpose of these duties was so that the defendant would not be able to dispute that she was legally bound by the documents once she had signed them.[^95]
 
 136    I do not agree with the defendant. The principles in _Etridge_ apply where the bank (in _Etridge_) or TPW1 (in our case) is dealing with a situation where the mortgagor was under some form of undue influence or where a situation of undue influence might arise in the circumstances. This in fact was the position before the Court of Appeal in _Sudha Natrajan_ at \[60\] and \[64\]:
 
@@ -541,7 +542,7 @@ If the bank is not willing to undertake the task of explaining itself, the bank 
 
 \[emphasis added\]
 
-137    In this case, the defendant did not plead a case of undue influence and the defendant acknowledged this.[\[note: 96\]](#Ftn_96) This is further reinforced by the fact that the defendant’s case is that she went to meet TPW1 together with her late husband, Mr Kung, to sign the OCBC Mortgage, the Letter of Confirmation and the Form of Confirmation and Consent. She alleged that the entire meeting lasted for about five minutes.[\[note: 97\]](#Ftn_97) She admitted that no one pressured her to sign the documents and that she was not deprived of the opportunity to read the documents before signing them. She also admitted that there was no undue influence exerted on her by either Mr Kung or TPW1.[\[note: 98\]](#Ftn_98) Thus I find that the _Etridge_ principles are not relevant in this case.
+137    In this case, the defendant did not plead a case of undue influence and the defendant acknowledged this.[^96] This is further reinforced by the fact that the defendant’s case is that she went to meet TPW1 together with her late husband, Mr Kung, to sign the OCBC Mortgage, the Letter of Confirmation and the Form of Confirmation and Consent. She alleged that the entire meeting lasted for about five minutes.[^97] She admitted that no one pressured her to sign the documents and that she was not deprived of the opportunity to read the documents before signing them. She also admitted that there was no undue influence exerted on her by either Mr Kung or TPW1.[^98] Thus I find that the _Etridge_ principles are not relevant in this case.
 
 138    On the nature of the solicitor’s duties, the Court of Appeal in _Mahidon Nichiar_ stated at \[122\]:
 
@@ -557,15 +558,15 @@ If the bank is not willing to undertake the task of explaining itself, the bank 
 
 #### The defendant’s credibility
 
-141    On the evidence, I find that the defendant is not a credible witness. First, the defendant testified that she could not remember what took place at the meeting on 22 January 2013 with TPW1. She could neither remember the date of the meeting with TPW1, the name of the solicitor who attended to her at that meeting, nor the number of documents she signed at the meeting. But she assertively remembered clearly that the meeting “lasted for about five(5) minutes”.[\[note: 99\]](#Ftn_99) If she could not remember what happened on 22 January 2013, how could she have said with such strong certainty that the meeting only lasted 5 minutes?
+141    On the evidence, I find that the defendant is not a credible witness. First, the defendant testified that she could not remember what took place at the meeting on 22 January 2013 with TPW1. She could neither remember the date of the meeting with TPW1, the name of the solicitor who attended to her at that meeting, nor the number of documents she signed at the meeting. But she assertively remembered clearly that the meeting “lasted for about five(5) minutes”.[^99] If she could not remember what happened on 22 January 2013, how could she have said with such strong certainty that the meeting only lasted 5 minutes?
 
-142    Second, her evidence on what transpired at the 22 January 2013 meeting was also inconsistent. In the proceedings to set aside the statutory demand, the defendant stated in the defendant’s 1st OSB Affidavit that she “recall\[ed\] only signing the \[OCBC\] Mortgage and \[leaving\] straight thereafter. … No other documents were shown or explained to me”.[\[note: 100\]](#Ftn_100) In the Defendant’s AEIC, she stated that “\[a\]s for the \[Letter of Confirmation\] and the \[Form of Confirmation and Consent\] – in short, I have absolutely no memory of signing either of them. … I genuinely have no recollection as to when or why I signed them”.[\[note: 101\]](#Ftn_101) At the trial, she testified that she could not recall who gave her the Letter of Confirmation and the Form of Confirmation and Consent to sign during the meeting on 22 January 2013.[\[note: 102\]](#Ftn_102) She also admitted that she could not recall when she signed the Letter of Confirmation and the Form of Confirmation of Consent.[\[note: 103\]](#Ftn_103) She even admitted she was only able to explain the circumstances leading to her signature on these documents _after_ these documents were disclosed to her in these proceedings.[\[note: 104\]](#Ftn_104)
+142    Second, her evidence on what transpired at the 22 January 2013 meeting was also inconsistent. In the proceedings to set aside the statutory demand, the defendant stated in the defendant’s 1st OSB Affidavit that she “recall\[ed\] only signing the \[OCBC\] Mortgage and \[leaving\] straight thereafter. … No other documents were shown or explained to me”.[^100] In the Defendant’s AEIC, she stated that “\[a\]s for the \[Letter of Confirmation\] and the \[Form of Confirmation and Consent\] – in short, I have absolutely no memory of signing either of them. … I genuinely have no recollection as to when or why I signed them”.[^101] At the trial, she testified that she could not recall who gave her the Letter of Confirmation and the Form of Confirmation and Consent to sign during the meeting on 22 January 2013.[^102] She also admitted that she could not recall when she signed the Letter of Confirmation and the Form of Confirmation of Consent.[^103] She even admitted she was only able to explain the circumstances leading to her signature on these documents _after_ these documents were disclosed to her in these proceedings.[^104]
 
 143    However, it is an undisputed fact that the defendant signed the Letter of Confirmation, the Form of Confirmation and Consent and the OCBC Mortgage in the presence of TPW1 on 22 January 2013.
 
 144    Despite the defendant’s temporary amnesia in the recollection of the events on 22 January 2013 which caused her to have “_absolutely no memory_” of signing the Letter of Confirmation, the Form of Confirmation and Consent and the OCBC Mortgage, she accused the Third Party of engineering her signed acknowledgement without giving her an opportunity to read these documents.
 
-145    At the trial, she maintained that she could not recall who gave the Letter of Confirmation and the Form of Confirmation and Consent to her for her signature. Yet, she insisted that she could remember that she was not given the opportunity to read them before signing[\[note: 105\]](#Ftn_105):
+145    At the trial, she maintained that she could not recall who gave the Letter of Confirmation and the Form of Confirmation and Consent to her for her signature. Yet, she insisted that she could remember that she was not given the opportunity to read them before signing[^105]:
 
 **Q:** So let’s see what your final position is. Was it Mr Wong or was it someone who gave you this document to sign?
 
@@ -595,7 +596,7 @@ If the bank is not willing to undertake the task of explaining itself, the bank 
 
 **A:** Yes.
 
-146    Later, she changed her position and admitted that no one stopped her from reading these documents[\[note: 106\]](#Ftn_106):
+146    Later, she changed her position and admitted that no one stopped her from reading these documents[^106]:
 
 <table align="left" cellpadding="0" cellspacing="0" class="Judg-2" frame="none" pgwide="1"><colgroup><col width="15.72%"> <col width="84.28%"> </colgroup><tbody><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1"><b>Q:</b></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">The lawyers did not tell you that you are not allowed to read [the Letter of Confirmation]?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1"><b>A:</b></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Ha?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1"><b>Q:</b></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">The lawyers did not tell you that you are not allowed to read this; agree?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1"><b>A:</b></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">I don’t think he would say that.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1"><b>…</b></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">&nbsp;</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1"><b>Q:</b></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">The lawyers just basically asked you to sign the letter. Didn’t give you a threat you have to sign the letter otherwise you will not be allowed to leave the premises?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1"><b>A:</b></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Yeah.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1"><b>Q:</b></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">And if you had felt, in your mind, that you needed time to read this document, then it would have been your responsibility to tell the lawyers “please give me a bit more time to read it”; you agree? It’s very reasonable, isn’t it?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1"><b>A:</b></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">It didn’t occur to me.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1"><b>...</b></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">&nbsp;</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1"><b>Court:</b></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">What do you mean by you are not given an opportunity to read? Did anyone tell you you cannot read?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1"><b>A:</b></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Ha?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1"><b>Court:</b></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Did anyone tell you that you cannot read these documents?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1"><b>A:</b></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">No, no, the lawyer never say that. But I didn’t read.</p></td></tr></tbody></table>
 
@@ -608,11 +609,11 @@ If the bank is not willing to undertake the task of explaining itself, the bank 
 
 #### The contemporaneous evidence and TPW1’s credibility
 
-149    I would like to make some general observations regarding the evidence of the Third Party’s witnesses, namely TPW1 and TPW2. They had executed numerous mortgage documents in the course of their work. Thus, they could not remember the details of every execution of the mortgage documents without reference to contemporaneous documents as they did not keep attendance notes.[\[note: 107\]](#Ftn_107) Furthermore, TPW1 had to rely on their usual practice or procedure to explain what could have happened at the 22 January 2013 meeting with the defendant and Mr Kung as this was a normal transaction.[\[note: 108\]](#Ftn_108) TPW2 was not present at the 22 January 2013 meeting as she had assigned the execution of the OCBC Mortgage to TPW1.[\[note: 109\]](#Ftn_109) If the entire evidence of the Third Party rests solely on its normal practice or procedure I would be extremely cautious to accept it. However, in this case there are contemporaneous documents which are corroborative evidence to assist TPW1 to recall the events on 22 January 2013.
+149    I would like to make some general observations regarding the evidence of the Third Party’s witnesses, namely TPW1 and TPW2. They had executed numerous mortgage documents in the course of their work. Thus, they could not remember the details of every execution of the mortgage documents without reference to contemporaneous documents as they did not keep attendance notes.[^107] Furthermore, TPW1 had to rely on their usual practice or procedure to explain what could have happened at the 22 January 2013 meeting with the defendant and Mr Kung as this was a normal transaction.[^108] TPW2 was not present at the 22 January 2013 meeting as she had assigned the execution of the OCBC Mortgage to TPW1.[^109] If the entire evidence of the Third Party rests solely on its normal practice or procedure I would be extremely cautious to accept it. However, in this case there are contemporaneous documents which are corroborative evidence to assist TPW1 to recall the events on 22 January 2013.
 
 150    The contemporaneous documents for the meeting on 22 January 2013 were the Letter of Confirmation, the Form of Confirmation and Consent, the 11 Jan Letter and the OCBC Mortgage. The Letter of Confirmation signed by the defendant and Mr Kung on the date of the meeting on 22 January 2013 is a contemporaneous record of what transpired at the meeting on 22 January 2013. The Letter of Confirmation stated that the defendant and Mr Kung acknowledged that TPW1 had explained to them their liabilities under the OCBC Mortgage. The Letter of Confirmation also informed the defendant and Mr Kung that the Third Party was also acting for the Company and the plaintiff. It stated that the defendant and Mr Kung could appoint another solicitor to advise them on the OCBC Mortgage, but they chose not to.
 
-151    TPW1 admitted that he could not recall exactly what transpired at the meeting with the defendant and Mr Kung on 22 January 2013. This is understandable as it is humanly impossible to remember the details of every execution of a mortgage given the fact that TPW1 had, by then, handled some 300 banking and conveyancing files.[\[note: 110\]](#Ftn_110) TPW1 also admitted that he could only give evidence based on his usual practice as this was a normal case of execution of a mortgage.[\[note: 111\]](#Ftn_111) This is consistent with the Third Party’s defence that nothing out of the ordinary happened during the meeting with the defendant and Mr Kung on 22 January 2013. In other words, TPW1 had explained the salient terms of the OCBC Mortgage to the defendant and Mr Kung according to his usual practice.[\[note: 112\]](#Ftn_112) When the defendant’s counsel put to TPW1 that he merely placed the documents before the defendant and Mr Kung for them to sign without explaining the documents to them, TPW1 gave an unequivocal, forceful and poignant response[\[note: 113\]](#Ftn_113):
+151    TPW1 admitted that he could not recall exactly what transpired at the meeting with the defendant and Mr Kung on 22 January 2013. This is understandable as it is humanly impossible to remember the details of every execution of a mortgage given the fact that TPW1 had, by then, handled some 300 banking and conveyancing files.[^110] TPW1 also admitted that he could only give evidence based on his usual practice as this was a normal case of execution of a mortgage.[^111] This is consistent with the Third Party’s defence that nothing out of the ordinary happened during the meeting with the defendant and Mr Kung on 22 January 2013. In other words, TPW1 had explained the salient terms of the OCBC Mortgage to the defendant and Mr Kung according to his usual practice.[^112] When the defendant’s counsel put to TPW1 that he merely placed the documents before the defendant and Mr Kung for them to sign without explaining the documents to them, TPW1 gave an unequivocal, forceful and poignant response[^113]:
 
 **Q:** You don’t know, fair enough. I put it to you, in fact, Mr Wong, that what happened on 22 January 2013 when Mr Kung and Mdm Yeo came to your office, all you did was put the documents before them and request them to sign. I put it to you that is the position.
 
@@ -640,231 +641,231 @@ If the bank is not willing to undertake the task of explaining itself, the bank 
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)Agreed Statement of Facts at paras 5 and 13.
+[^1]: Agreed Statement of Facts at paras 5 and 13.
 
-[\[note: 2\]](#Ftn_2_1)Agreed Statement of Facts at para 14.
+[^2]: Agreed Statement of Facts at para 14.
 
-[\[note: 3\]](#Ftn_3_1)Agreed Statement of Facts at paras 15 and 16.
+[^3]: Agreed Statement of Facts at paras 15 and 16.
 
-[\[note: 4\]](#Ftn_4_1)Agreed Statement of Facts at para 18.
+[^4]: Agreed Statement of Facts at para 18.
 
-[\[note: 5\]](#Ftn_5_1)Agreed Statement of Facts at paras 17–20.
+[^5]: Agreed Statement of Facts at paras 17–20.
 
-[\[note: 6\]](#Ftn_6_1)Agreed Statement of Facts at para 4.
+[^6]: Agreed Statement of Facts at para 4.
 
-[\[note: 7\]](#Ftn_7_1)Agreed Statement of Facts at paras 4, 5, 11 and 12.
+[^7]: Agreed Statement of Facts at paras 4, 5, 11 and 12.
 
-[\[note: 8\]](#Ftn_8_1)Affidavit of Evidence in Chief of Iris Ng dated 4 May 2018 (“Iris AEIC”) at para 18.
+[^8]: Affidavit of Evidence in Chief of Iris Ng dated 4 May 2018 (“Iris AEIC”) at para 18.
 
-[\[note: 9\]](#Ftn_9_1)Affidavit of Evidence in Chief of Ong Tin Si Gwendoline dated 4 May 2018 (“Gwendoline AEIC”) at Exhibit OTSG-3. See also Affidavit of Evidence in Chief of Wong Chung Jun dated 4 May 2018 (“Wong AEIC”) at Exhibit WCJ-2. See also Agreed Bundle at pp 77–78 (“AB77-78”).
+[^9]: Affidavit of Evidence in Chief of Ong Tin Si Gwendoline dated 4 May 2018 (“Gwendoline AEIC”) at Exhibit OTSG-3. See also Affidavit of Evidence in Chief of Wong Chung Jun dated 4 May 2018 (“Wong AEIC”) at Exhibit WCJ-2. See also Agreed Bundle at pp 77–78 (“AB77-78”).
 
-[\[note: 10\]](#Ftn_10_1)Gwendoline AEIC at para 10.
+[^10]: Gwendoline AEIC at para 10.
 
-[\[note: 11\]](#Ftn_11_1)Gwendoline AEIC at para 10.
+[^11]: Gwendoline AEIC at para 10.
 
-[\[note: 12\]](#Ftn_12_1)Agreed Statement of Facts at paras 7–10.
+[^12]: Agreed Statement of Facts at paras 7–10.
 
-[\[note: 13\]](#Ftn_13_1)Gwendoline AEIC at Exhibit OTSG-5. See also AB82.
+[^13]: Gwendoline AEIC at Exhibit OTSG-5. See also AB82.
 
-[\[note: 14\]](#Ftn_14_1)Gwendoline AEIC at Exhibit OTSG-5. See also AB82.
+[^14]: Gwendoline AEIC at Exhibit OTSG-5. See also AB82.
 
-[\[note: 15\]](#Ftn_15_1)Agreed Statement of Facts at para 8.
+[^15]: Agreed Statement of Facts at para 8.
 
-[\[note: 16\]](#Ftn_16_1)Exhibit OTSG-6 of Gwendoline AEIC. See also AB88.
+[^16]: Exhibit OTSG-6 of Gwendoline AEIC. See also AB88.
 
-[\[note: 17\]](#Ftn_17_1)Agreed Statement of Facts at para 10.
+[^17]: Agreed Statement of Facts at para 10.
 
-[\[note: 18\]](#Ftn_18_1)Defendant’s Closing Submissions at para 49.
+[^18]: Defendant’s Closing Submissions at para 49.
 
-[\[note: 19\]](#Ftn_19_1)AB89–98.
+[^19]: AB89–98.
 
-[\[note: 20\]](#Ftn_20_1)Agreed Statement of Facts at para 13.
+[^20]: Agreed Statement of Facts at para 13.
 
-[\[note: 21\]](#Ftn_21_1)Iris AEIC at para 41. See also Exhibit IN-19 of Iris AEIC. See AB240–243.
+[^21]: Iris AEIC at para 41. See also Exhibit IN-19 of Iris AEIC. See AB240–243.
 
-[\[note: 22\]](#Ftn_22_1)Iris AEIC at para 41. See also Exhibit IN-18 of Iris AEIC. See AB239.
+[^22]: Iris AEIC at para 41. See also Exhibit IN-18 of Iris AEIC. See AB239.
 
-[\[note: 23\]](#Ftn_23_1)AB345–346.
+[^23]: AB345–346.
 
-[\[note: 24\]](#Ftn_24_1)AB249–344, AB352–356 and AB399–401.
+[^24]: AB249–344, AB352–356 and AB399–401.
 
-[\[note: 25\]](#Ftn_25_1)Iris AEIC at paras 46–48. See also Exhibit IN-19 of Iris AEIC. AB443–444.
+[^25]: Iris AEIC at paras 46–48. See also Exhibit IN-19 of Iris AEIC. AB443–444.
 
-[\[note: 26\]](#Ftn_26_1)Iris AEIC at para 50, and Exhibit IN-21 of Iris AEIC.
+[^26]: Iris AEIC at para 50, and Exhibit IN-21 of Iris AEIC.
 
-[\[note: 27\]](#Ftn_27_1)Iris AEIC at para 51. See also Exhibit IN-21 of Iris AEIC and Setting Down Bundle page 1.
+[^27]: Iris AEIC at para 51. See also Exhibit IN-21 of Iris AEIC and Setting Down Bundle page 1.
 
-[\[note: 28\]](#Ftn_28_1)Plaintiff’s Opening Statement at paras 17–21.
+[^28]: Plaintiff’s Opening Statement at paras 17–21.
 
-[\[note: 29\]](#Ftn_29_1)Plaintiff’s Opening Statement at paras 22–26.
+[^29]: Plaintiff’s Opening Statement at paras 22–26.
 
-[\[note: 30\]](#Ftn_30_1)Plaintiff’s Opening Statement at paras 27–28.
+[^30]: Plaintiff’s Opening Statement at paras 27–28.
 
-[\[note: 31\]](#Ftn_31_1)Plaintiff’s Opening Statement at paras 29–33.
+[^31]: Plaintiff’s Opening Statement at paras 29–33.
 
-[\[note: 32\]](#Ftn_32_1)Plaintiff’s Opening Statement at para 32. See also Plaintiff’s Closing Submissions at paras 71 and 72.
+[^32]: Plaintiff’s Opening Statement at para 32. See also Plaintiff’s Closing Submissions at paras 71 and 72.
 
-[\[note: 33\]](#Ftn_33_1)Defence and Counterclaim at paras 10–12.
+[^33]: Defence and Counterclaim at paras 10–12.
 
-[\[note: 34\]](#Ftn_34_1)Defence and Counterclaim at paras 27–30.
+[^34]: Defence and Counterclaim at paras 27–30.
 
-[\[note: 35\]](#Ftn_35_1)Third Party Statement of Claim at para 8.
+[^35]: Third Party Statement of Claim at para 8.
 
-[\[note: 36\]](#Ftn_36_1)Third Party Statement of Claim at para 12.
+[^36]: Third Party Statement of Claim at para 12.
 
-[\[note: 37\]](#Ftn_37_1)Defence of the Third Party (Amendment No. 1) at para 5.
+[^37]: Defence of the Third Party (Amendment No. 1) at para 5.
 
-[\[note: 38\]](#Ftn_38_1)Defence of the Third Party (Amendment No. 1) at para 10A.
+[^38]: Defence of the Third Party (Amendment No. 1) at para 10A.
 
-[\[note: 39\]](#Ftn_39_1)Defendant’s Closing Submissions at para 24.
+[^39]: Defendant’s Closing Submissions at para 24.
 
-[\[note: 40\]](#Ftn_40_1)Defendant’s Closing Submissions at para 28.
+[^40]: Defendant’s Closing Submissions at para 28.
 
-[\[note: 41\]](#Ftn_41_1)Defendant’s Closing Submissions at paras 55–58.
+[^41]: Defendant’s Closing Submissions at paras 55–58.
 
-[\[note: 42\]](#Ftn_42_1)Defendant’s Closing Submissions at paras 88–102.
+[^42]: Defendant’s Closing Submissions at paras 88–102.
 
-[\[note: 43\]](#Ftn_43_1)Plaintiff’s Closing Submissions at paras 16–17.
+[^43]: Plaintiff’s Closing Submissions at paras 16–17.
 
-[\[note: 44\]](#Ftn_44_1)Plaintiff’s Reply Closing Submissions at para 62(a).
+[^44]: Plaintiff’s Reply Closing Submissions at para 62(a).
 
-[\[note: 45\]](#Ftn_45_1)Plaintiff’s Closing Submissions at para 59.
+[^45]: Plaintiff’s Closing Submissions at para 59.
 
-[\[note: 46\]](#Ftn_46_1)Plaintiff’s Closing Submissions at para 4(e).
+[^46]: Plaintiff’s Closing Submissions at para 4(e).
 
-[\[note: 47\]](#Ftn_47_1)Plaintiff’s Closing Submissions at paras 15–21.
+[^47]: Plaintiff’s Closing Submissions at paras 15–21.
 
-[\[note: 48\]](#Ftn_48_1)Plaintiff’s Closing Submissions at paras 28–34.
+[^48]: Plaintiff’s Closing Submissions at paras 28–34.
 
-[\[note: 49\]](#Ftn_49_1)Transcript, 5 July 2018 at p 21 lines 7–13.
+[^49]: Transcript, 5 July 2018 at p 21 lines 7–13.
 
-[\[note: 50\]](#Ftn_50_1)Transcript, 4 July 2018 at p 29 lines 1–20.
+[^50]: Transcript, 4 July 2018 at p 29 lines 1–20.
 
-[\[note: 51\]](#Ftn_51_1)Transcript, 4 July 2018 at p 30 line 5 to p 31 line 8.
+[^51]: Transcript, 4 July 2018 at p 30 line 5 to p 31 line 8.
 
-[\[note: 52\]](#Ftn_52_1)Iris AEIC at paras 8–12. See also Exhibit IN-2 and Exhibit IN-4 of Iris AEIC.
+[^52]: Iris AEIC at paras 8–12. See also Exhibit IN-2 and Exhibit IN-4 of Iris AEIC.
 
-[\[note: 53\]](#Ftn_53_1)Exhibit IN-4 of Iris AEIC. See also AB50–58.
+[^53]: Exhibit IN-4 of Iris AEIC. See also AB50–58.
 
-[\[note: 54\]](#Ftn_54_1)Affidavit of Evidence in Chief of Yeo Hui Keng (“Defendant’s AEIC”) at paras 9, 20–22.
+[^54]: Affidavit of Evidence in Chief of Yeo Hui Keng (“Defendant’s AEIC”) at paras 9, 20–22.
 
-[\[note: 55\]](#Ftn_55_1)Defendant’s Closing Submissions at para 28.
+[^55]: Defendant’s Closing Submissions at para 28.
 
-[\[note: 56\]](#Ftn_56_1)Defendant’s Closing Submissions at paras 29–32 and Defendant’s Reply Submissions at para 15.
+[^56]: Defendant’s Closing Submissions at paras 29–32 and Defendant’s Reply Submissions at para 15.
 
-[\[note: 57\]](#Ftn_57_1)Transcripts, 4 July 2008, p 27 line 24 to p 28 line 7.
+[^57]: Transcripts, 4 July 2008, p 27 line 24 to p 28 line 7.
 
-[\[note: 58\]](#Ftn_58_1)AB250.
+[^58]: AB250.
 
-[\[note: 59\]](#Ftn_59_1)AB400.
+[^59]: AB400.
 
-[\[note: 60\]](#Ftn_60_1)Transcripts, 3 July 2018 at p 133 line 3 to p 134 line 8.
+[^60]: Transcripts, 3 July 2018 at p 133 line 3 to p 134 line 8.
 
-[\[note: 61\]](#Ftn_61_1)Defendant’s Reply Submissions at paras 28–41.
+[^61]: Defendant’s Reply Submissions at paras 28–41.
 
-[\[note: 62\]](#Ftn_62_1)Defendant’s Closing Submission at para 24 and Defendant’s Reply Submissions at paras 4–5.
+[^62]: Defendant’s Closing Submission at para 24 and Defendant’s Reply Submissions at paras 4–5.
 
-[\[note: 63\]](#Ftn_63_1)Defendant’s Reply Submissions at para 15.
+[^63]: Defendant’s Reply Submissions at para 15.
 
-[\[note: 64\]](#Ftn_64_1)Defendant’s Closing Submissions at para 52 and Defendant’s Reply Submissions at paras 16–22.
+[^64]: Defendant’s Closing Submissions at para 52 and Defendant’s Reply Submissions at paras 16–22.
 
-[\[note: 65\]](#Ftn_65_1)Defendant’s Closing Submissions at paras 26–27.
+[^65]: Defendant’s Closing Submissions at paras 26–27.
 
-[\[note: 66\]](#Ftn_66_1)Plaintiff’s Closing Submissions at paras 50–59.
+[^66]: Plaintiff’s Closing Submissions at paras 50–59.
 
-[\[note: 67\]](#Ftn_67_1)Plaintiff’s Closing Submissions at para 21.
+[^67]: Plaintiff’s Closing Submissions at para 21.
 
-[\[note: 68\]](#Ftn_68_1)Plaintiff’s Closing Submissions at para 63.
+[^68]: Plaintiff’s Closing Submissions at para 63.
 
-[\[note: 69\]](#Ftn_69_1)Transcripts, 3 July 2018, p 125 at lines 13 to 25.
+[^69]: Transcripts, 3 July 2018, p 125 at lines 13 to 25.
 
-[\[note: 70\]](#Ftn_70_1)Transcripts, 3 July 2018 at p 125 lines 13–25 and p 127 lines 22–24.
+[^70]: Transcripts, 3 July 2018 at p 125 lines 13–25 and p 127 lines 22–24.
 
-[\[note: 71\]](#Ftn_71_1)Transcripts, 4 July 2018 at p 8 lines 10–18.
+[^71]: Transcripts, 4 July 2018 at p 8 lines 10–18.
 
-[\[note: 72\]](#Ftn_72_1)Transcripts, 5 July 2018, p 23 line 16 to p 24 line 13.
+[^72]: Transcripts, 5 July 2018, p 23 line 16 to p 24 line 13.
 
-[\[note: 73\]](#Ftn_73_1)Transcripts, 4 July 2018 page 63 lines 3–8 and Transcripts 5 July 2018 p 23 line 18 to p 24 line 13.
+[^73]: Transcripts, 4 July 2018 page 63 lines 3–8 and Transcripts 5 July 2018 p 23 line 18 to p 24 line 13.
 
-[\[note: 74\]](#Ftn_74_1)Transcripts, 4 July 2018, p 33 lines 3 to 20 and p 69 line 18 to p 70 line 11.
+[^74]: Transcripts, 4 July 2018, p 33 lines 3 to 20 and p 69 line 18 to p 70 line 11.
 
-[\[note: 75\]](#Ftn_75_1)Gwendoline AEIC at para 19.
+[^75]: Gwendoline AEIC at para 19.
 
-[\[note: 76\]](#Ftn_76_1)Transcripts, 5 July 2018 at page 22 lines 14–22.
+[^76]: Transcripts, 5 July 2018 at page 22 lines 14–22.
 
-[\[note: 77\]](#Ftn_77_1)Transcripts, 5 July 2018 at page 23 lines 9–12.
+[^77]: Transcripts, 5 July 2018 at page 23 lines 9–12.
 
-[\[note: 78\]](#Ftn_78_1)Transcript, 4 July 2018 at page 32 lines 7–9.
+[^78]: Transcript, 4 July 2018 at page 32 lines 7–9.
 
-[\[note: 79\]](#Ftn_79_1)Plaintiff’s Closing Submissions at paras 65 to 72.
+[^79]: Plaintiff’s Closing Submissions at paras 65 to 72.
 
-[\[note: 80\]](#Ftn_80_1)Defendant’s Closing Submissions at para 146.
+[^80]: Defendant’s Closing Submissions at para 146.
 
-[\[note: 81\]](#Ftn_81_1)Defendant’s Closing Submissions at paras 147 to 155.
+[^81]: Defendant’s Closing Submissions at paras 147 to 155.
 
-[\[note: 82\]](#Ftn_82_1)Iris AEIC at para 13.
+[^82]: Iris AEIC at para 13.
 
-[\[note: 83\]](#Ftn_83_1)Iris AEIC at para 15.
+[^83]: Iris AEIC at para 15.
 
-[\[note: 84\]](#Ftn_84_1)AB561 – AB567.
+[^84]: AB561 – AB567.
 
-[\[note: 85\]](#Ftn_85_1)AB564.
+[^85]: AB564.
 
-[\[note: 86\]](#Ftn_86_1)Defendant’s Closing Submissions at para 150.
+[^86]: Defendant’s Closing Submissions at para 150.
 
-[\[note: 87\]](#Ftn_87_1)Defendant’s Closing Submissions at para 119.
+[^87]: Defendant’s Closing Submissions at para 119.
 
-[\[note: 88\]](#Ftn_88_1)Third Party Statement of Claim at para 5. See also Defendant’s Closing Submissions at para 136.
+[^88]: Third Party Statement of Claim at para 5. See also Defendant’s Closing Submissions at para 136.
 
-[\[note: 89\]](#Ftn_89_1)Third Party Statement of Claim at para 5(f).
+[^89]: Third Party Statement of Claim at para 5(f).
 
-[\[note: 90\]](#Ftn_90_1)Defendant’s Closing Submissions at para 126.
+[^90]: Defendant’s Closing Submissions at para 126.
 
-[\[note: 91\]](#Ftn_91_1)Defendant’s Closing Submissions at paras 92 and 96.
+[^91]: Defendant’s Closing Submissions at paras 92 and 96.
 
-[\[note: 92\]](#Ftn_92_1)Third Party’s Closing Submissions at para 5.
+[^92]: Third Party’s Closing Submissions at para 5.
 
-[\[note: 93\]](#Ftn_93_1)Third Party’s Closing Submissions at para 6–12.
+[^93]: Third Party’s Closing Submissions at para 6–12.
 
-[\[note: 94\]](#Ftn_94_1)Third Party’s Closing Submissions at para 2.
+[^94]: Third Party’s Closing Submissions at para 2.
 
-[\[note: 95\]](#Ftn_95_1)Defendant’s Closing Submissions at paras 117 and 132.
+[^95]: Defendant’s Closing Submissions at paras 117 and 132.
 
-[\[note: 96\]](#Ftn_96_1)Defendant’s Closing Submissions at para 119.
+[^96]: Defendant’s Closing Submissions at para 119.
 
-[\[note: 97\]](#Ftn_97_1)Third Party Statement of Claim at para 5(f).
+[^97]: Third Party Statement of Claim at para 5(f).
 
-[\[note: 98\]](#Ftn_98_1)See Transcripts, 4 July 2018 at p 8 lines 10–18 and Defendant’s Closing Submissions at para 119.
+[^98]: See Transcripts, 4 July 2018 at p 8 lines 10–18 and Defendant’s Closing Submissions at para 119.
 
-[\[note: 99\]](#Ftn_99_1)Defendant’s AEIC at para 16.
+[^99]: Defendant’s AEIC at para 16.
 
-[\[note: 100\]](#Ftn_100_1)AB251.
+[^100]: AB251.
 
-[\[note: 101\]](#Ftn_101_1)Defendant’s AEIC at para 46.
+[^101]: Defendant’s AEIC at para 46.
 
-[\[note: 102\]](#Ftn_102_1)Transcripts, 4 July 2018 page 22 line 5 to page 24 line 15.
+[^102]: Transcripts, 4 July 2018 page 22 line 5 to page 24 line 15.
 
-[\[note: 103\]](#Ftn_103_1)Transcripts, 4 July 2018 page 7 line 2, page 19 lines 2 to page 22 line 9.
+[^103]: Transcripts, 4 July 2018 page 7 line 2, page 19 lines 2 to page 22 line 9.
 
-[\[note: 104\]](#Ftn_104_1)Transcripts, 4 July 2018, page 16 lines 16–19.
+[^104]: Transcripts, 4 July 2018, page 16 lines 16–19.
 
-[\[note: 105\]](#Ftn_105_1)Transcripts, 4 July 2018, page 22 line 5 to page 24 line 15.
+[^105]: Transcripts, 4 July 2018, page 22 line 5 to page 24 line 15.
 
-[\[note: 106\]](#Ftn_106_1)Transcripts, 4 July 2018, page 87 line 9 to page 90 line 18 and Transcripts, 5 July 2018, page 23 lines 5 to 12.
+[^106]: Transcripts, 4 July 2018, page 87 line 9 to page 90 line 18 and Transcripts, 5 July 2018, page 23 lines 5 to 12.
 
-[\[note: 107\]](#Ftn_107_1)Defendant’s Closing Submissions at para 67. See also Transcript, 5 July 2018 at p 34 lines 2–9.
+[^107]: Defendant’s Closing Submissions at para 67. See also Transcript, 5 July 2018 at p 34 lines 2–9.
 
-[\[note: 108\]](#Ftn_108_1)Transcripts, 5 July 2018 at p 43 line 2 to p 54 line 14.
+[^108]: Transcripts, 5 July 2018 at p 43 line 2 to p 54 line 14.
 
-[\[note: 109\]](#Ftn_109_1)Gwendoline AEIC at para 20.
+[^109]: Gwendoline AEIC at para 20.
 
-[\[note: 110\]](#Ftn_110_1)Mr Wong AEIC at para 3. Transcripts, 5 July 2018, page 35 lines 7–15.
+[^110]: Mr Wong AEIC at para 3. Transcripts, 5 July 2018, page 35 lines 7–15.
 
-[\[note: 111\]](#Ftn_111_1)Mr Wong AEIC at para 7.
+[^111]: Mr Wong AEIC at para 7.
 
-[\[note: 112\]](#Ftn_112_1)Mr Wong AEIC at para 7.
+[^112]: Mr Wong AEIC at para 7.
 
-[\[note: 113\]](#Ftn_113_1)Transcripts, 5 July 2018, p 132 line 10 p 133 line 11.
+[^113]: Transcripts, 5 July 2018, p 132 line 10 p 133 line 11.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F22892-SSP.xml)

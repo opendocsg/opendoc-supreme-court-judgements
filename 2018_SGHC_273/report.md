@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # Griffin Real Estate Investment Holdings Pte Ltd (in liquidation) _v_ ERC Unicampus Pte Ltd  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Originating Summons No 1004 of 2017 and Summons No 5460 of 2017 (Registrar's Appeal No 377 of 2017)</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">18 December 2018</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Chua Lee Ming J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Abraham S Vergis, Nawaz Kamil, and Kenny Lau (Providence Law Asia LLC) for the plaintiff; Vikram Nair, Gan Eng Tong, and Foo Xian Fong (Rajah &amp; Tann Singapore LLP) for the defendant.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Griffin Real Estate Investment Holdings Pte Ltd (in liquidation) — ERC Unicampus Pte Ltd</td></tr></tbody></table>
@@ -32,7 +33,7 @@ Equity – Remedies – Account – Expenses
 
 5       Andy Ong set up a complex structure using special purpose vehicles (“SPVs”) to hold (directly or indirectly) the investment in each property. GREIH and ERCU were two of these SPVs. Another company, ERC Holdings Pte Ltd (“ERC Holdings”) was set up as the ultimate holding company of the SPVs.
 
-6       GREIH was the SPV that was used to acquire the Bugis Cube. Sakae Holdings Ltd (“Sakae”) was one of the shareholders of GREIH. Subsequently, in November 2010, ERCU acquired the Big Hotel at a purchase price of $103m.[\[note: 0\]](#Ftn_0) On 17 January 2011, ERCU obtained a loan from the United Overseas Bank Limited (“UOB”) for $77.25m to fund part of the purchase price for the Big Hotel (“the UOB-ERCU Loan”).[\[note: 1\]](#Ftn_1) The UOB-ERCU Loan was secured by a mortgage over the Big Hotel and by guarantees given by Andy Ong and ERC Holdings. One of the conditions precedent in the UOB-ERCU Loan was that ERCU had to pay the balance of the purchase price before it could draw down on the loan.
+6       GREIH was the SPV that was used to acquire the Bugis Cube. Sakae Holdings Ltd (“Sakae”) was one of the shareholders of GREIH. Subsequently, in November 2010, ERCU acquired the Big Hotel at a purchase price of $103m.[^0] On 17 January 2011, ERCU obtained a loan from the United Overseas Bank Limited (“UOB”) for $77.25m to fund part of the purchase price for the Big Hotel (“the UOB-ERCU Loan”).[^1] The UOB-ERCU Loan was secured by a mortgage over the Big Hotel and by guarantees given by Andy Ong and ERC Holdings. One of the conditions precedent in the UOB-ERCU Loan was that ERCU had to pay the balance of the purchase price before it could draw down on the loan.
 
 7       On 21 January 2011, UOB granted GREIH a six-month short term loan of $10m for the express purpose of financing its working capital requirements (“the UOB-GREIH Loan”). The loan was secured among other things, by a mortgage over the Bugis Cube property and a guarantee from Andy Ong.
 
@@ -128,7 +129,7 @@ The absence or existence of these non-exhaustive factors is not decisive and the
 
 30     However, before me, ERCU made two submissions as to why the present case is not an abuse of process.
 
-31     ERCU’s first submission was with respect to the Breach Finding. ERCU referred to _Intraco Ltd v Multi-Pak Singapore Pte Ltd_ (“_Intraco_”) in which the Court of Appeal (at \[28\]–\[29\]) accepted that it is permissible for directors (especially directors of a holding company) to consider the interests of the group as a whole when making decisions as long as they do not sacrifice the interests of any company within the group. ERCU argued that the present case is analogous to one involving a group of companies and that Andy Ong and Han Boon did not breach their fiduciary duties when they arranged for GREIH to extend the $10m Loan to ERCU. It will be recalled that GREIH held the Bugis Cube but the $10m Loan was extended to ERCU for purposes of ERCU’s acquisition of the Big Hotel. ERCU submitted that the $10m Loan was nevertheless in the best interests of GREIH and the Bugis Cube investors because a substantial number of the Bugis Cube investors were also investors in the Big Hotel.[\[note: 2\]](#Ftn_2) ERCU sought to justify the $10m Loan as a commercially defensible decision that was not detrimental to GREIH.
+31     ERCU’s first submission was with respect to the Breach Finding. ERCU referred to _Intraco Ltd v Multi-Pak Singapore Pte Ltd_ (“_Intraco_”) in which the Court of Appeal (at \[28\]–\[29\]) accepted that it is permissible for directors (especially directors of a holding company) to consider the interests of the group as a whole when making decisions as long as they do not sacrifice the interests of any company within the group. ERCU argued that the present case is analogous to one involving a group of companies and that Andy Ong and Han Boon did not breach their fiduciary duties when they arranged for GREIH to extend the $10m Loan to ERCU. It will be recalled that GREIH held the Bugis Cube but the $10m Loan was extended to ERCU for purposes of ERCU’s acquisition of the Big Hotel. ERCU submitted that the $10m Loan was nevertheless in the best interests of GREIH and the Bugis Cube investors because a substantial number of the Bugis Cube investors were also investors in the Big Hotel.[^2] ERCU sought to justify the $10m Loan as a commercially defensible decision that was not detrimental to GREIH.
 
 32     ERCU explained that this submission was not made in S1098 because ERCU could not do so since it had submitted no case to answer in relation to Sakae’s claim based on knowing receipt.
 
@@ -138,7 +139,7 @@ The absence or existence of these non-exhaustive factors is not decisive and the
 
 35     ERCU’s second submission was in respect of the Repayment Finding. ERCU submitted that there is fresh evidence that the $10m Loan has been repaid in full. In S1098, Andy Ong, Han Boon and ERCU argued that the $10m Loan had been repaid by various entities. The High Court was of the view that “Sakae’s position, that $7.9m remained outstanding, was \[not\] inherently incredible”. The High Court noted that the evidence merely showed that related entities made various cash transfers of “close to $10m” to GREIH, and that this amount was subsequently used to pay UOB. However, only $2.1m of these transfers had been recorded as payments to GREIH. The remaining cash transfers had first been recorded as loans to GREIH, but were subsequently reclassified in GREIH’s accounts as loans to ERCU thereby cancelling out the debt owed by ERCU to GREIH. The High Court found no documents which indicated that these other entities had agreed to novate or assign GREIH’s debts to ERCU. See _Sakae Holdings (HC)_ at \[96\].
 
-36     The actual amount of the remaining cash transfers was $7.94m. Subsequent to the issuance of the High Court’s judgment in S1098, three SPVs which were shareholders of ERCU and which had made the remaining cash transfers (amounting to $7.94m) to GREIH, wrote to the liquidators of GREIH to confirm that their transfers were repayments, on ERCU’s behalf, towards the $10m Loan with interest.[\[note: 3\]](#Ftn_3) I accept ERCU’s submission that this constituted fresh evidence that was not before the Court in S1098. I also agree with ERCU that the evidence shows that the whole of the $10m Loan has in fact been repaid.
+36     The actual amount of the remaining cash transfers was $7.94m. Subsequent to the issuance of the High Court’s judgment in S1098, three SPVs which were shareholders of ERCU and which had made the remaining cash transfers (amounting to $7.94m) to GREIH, wrote to the liquidators of GREIH to confirm that their transfers were repayments, on ERCU’s behalf, towards the $10m Loan with interest.[^3] I accept ERCU’s submission that this constituted fresh evidence that was not before the Court in S1098. I also agree with ERCU that the evidence shows that the whole of the $10m Loan has in fact been repaid.
 
 37     The confirmations by ERCU’s SPV shareholders removed any doubt as to what the payment of $7.94m was intended for. The confirmations were also consistent with ERCU’s explanation that Andy Ong and Han Boon had arranged for the $10m Loan from GREIH because full payment from some of the investors in the Big Hotel was not received in time. It is not disputed that the payment of $7.94m by the SPV shareholders was in fact used by GREIH to repay the UOB-GREIH Loan. The entries in GREIH’s general ledger are also consistent with the fact that the sum of $7.94m received from ERCU’s SPV shareholders was applied towards ERCU’s repayment of the $10m Loan.
 
@@ -238,7 +239,7 @@ The absence or existence of these non-exhaustive factors is not decisive and the
 
 I therefore need only to deal with the Expenses as particularised above.
 
-65     GREIH relied on the doctrine of just allowance which is also referred to as an equitable allowance. The doctrine of just allowance gives the court a discretion to grant fiduciaries an allowance for their work and skill in producing the profits. The reason why GREIH submitted that the Expenses should be treated as a matter of just allowance is that, under this doctrine, the court has the discretion not to allow the deduction. GREIH submitted that the discretion should not be exercised in ERCU’s favour because ERCU was controlled by Andy Ong and Han Boon and therefore “had the exact same ‘guilty’ knowledge” as they had.[\[note: 4\]](#Ftn_4)
+65     GREIH relied on the doctrine of just allowance which is also referred to as an equitable allowance. The doctrine of just allowance gives the court a discretion to grant fiduciaries an allowance for their work and skill in producing the profits. The reason why GREIH submitted that the Expenses should be treated as a matter of just allowance is that, under this doctrine, the court has the discretion not to allow the deduction. GREIH submitted that the discretion should not be exercised in ERCU’s favour because ERCU was controlled by Andy Ong and Han Boon and therefore “had the exact same ‘guilty’ knowledge” as they had.[^4]
 
 66     It was not argued before me that the doctrine of just allowance does not apply to knowing recipients and indeed, I see no reason why it should not. Knowing recipients are not fiduciaries and should not be treated less favourably than fiduciaries.
 
@@ -368,15 +369,15 @@ and are to be paid to GREIH.
 
 * * *
 
-[\[note: 0\]](#Ftn_0_1)1st affidavit of Ong Han Boon filed on 24 October 2017, at p 83.
+[^0]: 1st affidavit of Ong Han Boon filed on 24 October 2017, at p 83.
 
-[\[note: 1\]](#Ftn_1_1)1st affidavit of Aaron Loh Cheng Lee filed on 31 August 2017, at p 285.
+[^1]: 1st affidavit of Aaron Loh Cheng Lee filed on 31 August 2017, at p 285.
 
-[\[note: 2\]](#Ftn_2_1)Defendant’s Written Submissions, dated 18 January 2018, at paras 6–9.
+[^2]: Defendant’s Written Submissions, dated 18 January 2018, at paras 6–9.
 
-[\[note: 3\]](#Ftn_3_1)1st affidavit of Aaron Loh Cheng Lee filed on 31 August 2017, at pp 316–325.
+[^3]: 1st affidavit of Aaron Loh Cheng Lee filed on 31 August 2017, at pp 316–325.
 
-[\[note: 4\]](#Ftn_4_1)Plaintiff’s Written Submissions dated 18 January 2018, at para 150.
+[^4]: Plaintiff’s Written Submissions dated 18 January 2018, at para 150.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F22586-SSP.xml)

@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # Mitsubishi Corp RTM International Pte Ltd _v_ Kyen Resources Pte Ltd  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Suit No 971 of 2018 (Summons No 5470 of 2018)</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">05 March 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Elton Tan Xue Yang AR</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Ting Yong Hong (Rajah &amp; Tann Singapore LLP) for the plaintiff; Danny Quah (Providence Law Asia LLC) for the defendant.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Mitsubishi Corp RTM International Pte Ltd — Kyen Resources Pte Ltd</td></tr></tbody></table>
@@ -20,11 +21,11 @@ Commercial transactions – Sale of goods – Rights of unpaid seller – 
 
 ## Facts
 
-5       The plaintiff, Mitsubishi Corporation RTM International Pte Ltd (“the Plaintiff”), and the defendant, Kyen Resources Pte Ltd (“the Defendant”), are both companies incorporated in Singapore in the business of metals trading.[\[note: 1\]](#Ftn_1) The Plaintiff is the global headquarters of the mineral resources and metals trading business of the Mitsubishi Corporation.[\[note: 2\]](#Ftn_2)
+5       The plaintiff, Mitsubishi Corporation RTM International Pte Ltd (“the Plaintiff”), and the defendant, Kyen Resources Pte Ltd (“the Defendant”), are both companies incorporated in Singapore in the business of metals trading.[^1] The Plaintiff is the global headquarters of the mineral resources and metals trading business of the Mitsubishi Corporation.[^2]
 
 ### The Contract
 
-6       The parties entered into a contract dated 19 October 2017 (“the Contract”) for the sale of approximately 12,000mt of “primary unalloyed aluminium, conforming to Aluminium Association specifications for P1020A (AL 99.7% min, FE 0.20% max, SI 0.10% max)” (“the Goods”) from the Plaintiff to the Defendant. The supply was to take place over 12 months from January to December 2018, with approximately 1,000mt supplied each month.[\[note: 3\]](#Ftn_3) The payment term in the Contract (“the Payment Clause”) required payment to be made by the Defendant in the following manner: “100% net cash via wire transfer within 30 working days after Seller’s presentation of the documents”.[\[note: 4\]](#Ftn_4)
+6       The parties entered into a contract dated 19 October 2017 (“the Contract”) for the sale of approximately 12,000mt of “primary unalloyed aluminium, conforming to Aluminium Association specifications for P1020A (AL 99.7% min, FE 0.20% max, SI 0.10% max)” (“the Goods”) from the Plaintiff to the Defendant. The supply was to take place over 12 months from January to December 2018, with approximately 1,000mt supplied each month.[^3] The payment term in the Contract (“the Payment Clause”) required payment to be made by the Defendant in the following manner: “100% net cash via wire transfer within 30 working days after Seller’s presentation of the documents”.[^4]
 
 7       The Contract also incorporated the Plaintiff’s “General Terms and Conditions for Contract of Sales”. Those terms include the following retention of title clause (“the ROT Clause”), which is central to the dispute:
 
@@ -34,23 +35,23 @@ Title
 
 \[emphasis added in italics and bold italics\]
 
-8       The Contract further provides that “Buyer shall pay 100% of Seller’s final invoice (or provisional invoice where applicable) for the Goods of each delivery in accordance with the terms of the Contract”. A clause titled “Suspension, cancellation and termination” (“the Suspension/Termination Clause”) gives the Plaintiff (as seller) the right to suspend, cancel or terminate the Contract if one of several specified events takes place. One such event occurs when “the Buyer breaches this Contract or fails to fulfil one or more of its obligations on time or adequately, including, failing to pay an amount owing on the due date”.[\[note: 5\]](#Ftn_5) Upon the occurrence of such event, the Defendant (as buyer) “shall become liable, and the Seller shall be entitled to make any claim against the Buyer, for any and all Losses whatsoever resulting from or connected with the Event”.
+8       The Contract further provides that “Buyer shall pay 100% of Seller’s final invoice (or provisional invoice where applicable) for the Goods of each delivery in accordance with the terms of the Contract”. A clause titled “Suspension, cancellation and termination” (“the Suspension/Termination Clause”) gives the Plaintiff (as seller) the right to suspend, cancel or terminate the Contract if one of several specified events takes place. One such event occurs when “the Buyer breaches this Contract or fails to fulfil one or more of its obligations on time or adequately, including, failing to pay an amount owing on the due date”.[^5] Upon the occurrence of such event, the Defendant (as buyer) “shall become liable, and the Seller shall be entitled to make any claim against the Buyer, for any and all Losses whatsoever resulting from or connected with the Event”.
 
-9       A separate clause titled “Consequences of termination” (“the Consequences of Termination Clause”) stipulates that in the event of termination of the Contract for any reason, “any amount payable by the Buyer shall become immediately due and payable in cash in full (unless otherwise agreed by the Seller)”. It further provides that the Consequences of Termination Clause shall survive such termination and will continue to apply.[\[note: 6\]](#Ftn_6)
+9       A separate clause titled “Consequences of termination” (“the Consequences of Termination Clause”) stipulates that in the event of termination of the Contract for any reason, “any amount payable by the Buyer shall become immediately due and payable in cash in full (unless otherwise agreed by the Seller)”. It further provides that the Consequences of Termination Clause shall survive such termination and will continue to apply.[^6]
 
 ### Defendant’s failure to pay
 
-10     The Plaintiff made three shipments of the Goods to the Defendant, which received delivery of the Goods.[\[note: 7\]](#Ftn_7) The Plaintiff issued invoices for each shipment (collectively, “the Invoices”), as follows:
+10     The Plaintiff made three shipments of the Goods to the Defendant, which received delivery of the Goods.[^7] The Plaintiff issued invoices for each shipment (collectively, “the Invoices”), as follows:
 
-(a)     The first invoice (No 93771703) was dated 22 July 2018 for the amount of US$1,112,604.88 and in respect of 500.722mt of the Goods. The date of delivery of the shipment was indicated as 22 July 2018.[\[note: 8\]](#Ftn_8) The due date for payment is indicated on the invoice as 12 September 2018, but the Plaintiff claims (and the Defendant does not dispute) that the correct due date is a day earlier (_ie_, 11 September 2018).[\[note: 9\]](#Ftn_9)
+(a)     The first invoice (No 93771703) was dated 22 July 2018 for the amount of US$1,112,604.88 and in respect of 500.722mt of the Goods. The date of delivery of the shipment was indicated as 22 July 2018.[^8] The due date for payment is indicated on the invoice as 12 September 2018, but the Plaintiff claims (and the Defendant does not dispute) that the correct due date is a day earlier (_ie_, 11 September 2018).[^9]
 
-(b)     The second invoice (No 93771765) was dated 26 July 2018 for the amount of US$1,111,909.38 and in respect of 500.398mt of the Goods. The date of delivery was indicated as 26 July 2018 and the due date for payment was 18 September 2018.[\[note: 10\]](#Ftn_10)
+(b)     The second invoice (No 93771765) was dated 26 July 2018 for the amount of US$1,111,909.38 and in respect of 500.398mt of the Goods. The date of delivery was indicated as 26 July 2018 and the due date for payment was 18 September 2018.[^10]
 
-(c)     The third invoice (No 93772145) was dated 17 August 2018 for the amount of $1,160,653.61 and in respect of 500.368mt of the Goods. The date of delivery was indicated as 17 August 2018 and the due date for payment as 15 October 2018.[\[note: 11\]](#Ftn_11) The Defendant takes the position that the due date for payment is 12 October 2018,[\[note: 12\]](#Ftn_12) but this is immaterial for present purposes since it does not dispute that the due date has passed.
+(c)     The third invoice (No 93772145) was dated 17 August 2018 for the amount of $1,160,653.61 and in respect of 500.368mt of the Goods. The date of delivery was indicated as 17 August 2018 and the due date for payment as 15 October 2018.[^11] The Defendant takes the position that the due date for payment is 12 October 2018,[^12] but this is immaterial for present purposes since it does not dispute that the due date has passed.
 
-11     The Defendant accepts that despite reminders and demands from the Plaintiff, it has, to date, failed to pay the outstanding price of US$3,385,167.87 under the Invoices.[\[note: 13\]](#Ftn_13) According to the Plaintiff, the Defendant’s directors at the time (Mr Victor Kuo and Mr Max Chen Xi) repeatedly stated that the Defendant was unable to make payment for the shipments. It is also undisputed that the Defendant’s bank, Oversea-Chinese Banking Corporation Limited, has frozen its bank accounts and that Hyundai Corporation Singapore Pte Ltd has obtained a worldwide Mareva injunction against it in connection with a separate claim.[\[note: 14\]](#Ftn_14)
+11     The Defendant accepts that despite reminders and demands from the Plaintiff, it has, to date, failed to pay the outstanding price of US$3,385,167.87 under the Invoices.[^13] According to the Plaintiff, the Defendant’s directors at the time (Mr Victor Kuo and Mr Max Chen Xi) repeatedly stated that the Defendant was unable to make payment for the shipments. It is also undisputed that the Defendant’s bank, Oversea-Chinese Banking Corporation Limited, has frozen its bank accounts and that Hyundai Corporation Singapore Pte Ltd has obtained a worldwide Mareva injunction against it in connection with a separate claim.[^14]
 
-12     On 17 September 2018, the Plaintiff purported to suspend the Contract pursuant to the Suspension/Termination Clause.[\[note: 15\]](#Ftn_15) It claims that by way of an email dated 29 October 2018, it then terminated the Contract pursuant to that same clause.[\[note: 16\]](#Ftn_16) The Defendant denies having received that email.[\[note: 17\]](#Ftn_17) The Plaintiff further alleges that despite multiple demands and reminders to the Defendant to deliver up the Goods to the Plaintiff, the Defendant failed or refused to do so.[\[note: 18\]](#Ftn_18)
+12     On 17 September 2018, the Plaintiff purported to suspend the Contract pursuant to the Suspension/Termination Clause.[^15] It claims that by way of an email dated 29 October 2018, it then terminated the Contract pursuant to that same clause.[^16] The Defendant denies having received that email.[^17] The Plaintiff further alleges that despite multiple demands and reminders to the Defendant to deliver up the Goods to the Plaintiff, the Defendant failed or refused to do so.[^18]
 
 ### Commencement of proceedings
 
@@ -72,19 +73,19 @@ I will refer to the claims described at (a) \[13(a)\]–\[13(d)\] as “the Prop
 
 #### Pleadings
 
-14     In advancing the Proprietary Claims, the Plaintiff relies on the ROT Clause.[\[note: 19\]](#Ftn_19) The Plaintiff makes it clear that its preferred remedies are sought by way of the Proprietary Claims, rather than the Damages Claim, given that the Defendant is in serious financial difficulty and would not be able to pay any award of damages made in favour of the Plaintiff. Hence, an award in damages for wrongful interference with the Plaintiff’s property rights in the Goods and/or the Traceable Proceeds would be a “manifestly inadequate remedy” because it is “unlikely to be satisfied due to the Defendant’s impecuniosity”.[\[note: 20\]](#Ftn_20)
+14     In advancing the Proprietary Claims, the Plaintiff relies on the ROT Clause.[^19] The Plaintiff makes it clear that its preferred remedies are sought by way of the Proprietary Claims, rather than the Damages Claim, given that the Defendant is in serious financial difficulty and would not be able to pay any award of damages made in favour of the Plaintiff. Hence, an award in damages for wrongful interference with the Plaintiff’s property rights in the Goods and/or the Traceable Proceeds would be a “manifestly inadequate remedy” because it is “unlikely to be satisfied due to the Defendant’s impecuniosity”.[^20]
 
-15     As mentioned at \[11\] above, the Defendant admits that it has not paid the price of the Goods. However, it denies holding the Goods and/or the Traceable Proceeds on trust for the Plaintiff, since the Plaintiff has failed and/or neglected to register its purported security interest in the Goods, and any trust purportedly set up over sale proceeds would be void for uncertainty.[\[note: 21\]](#Ftn_21) The Defendant further avers that there was an understanding between the parties that it may resell the Goods after receiving delivery and may use the proceeds of such sale for its own purposes, without keeping the proceeds in a separate account for the Plaintiff. This understanding “arose on account of general trade practice and/or custom in the industry”, and also because the Defendant was only required to make payment to the Plaintiff after 30 working days following the Plaintiff’s presentation of documents (see also \[6\] above).[\[note: 22\]](#Ftn_22)
+15     As mentioned at \[11\] above, the Defendant admits that it has not paid the price of the Goods. However, it denies holding the Goods and/or the Traceable Proceeds on trust for the Plaintiff, since the Plaintiff has failed and/or neglected to register its purported security interest in the Goods, and any trust purportedly set up over sale proceeds would be void for uncertainty.[^21] The Defendant further avers that there was an understanding between the parties that it may resell the Goods after receiving delivery and may use the proceeds of such sale for its own purposes, without keeping the proceeds in a separate account for the Plaintiff. This understanding “arose on account of general trade practice and/or custom in the industry”, and also because the Defendant was only required to make payment to the Plaintiff after 30 working days following the Plaintiff’s presentation of documents (see also \[6\] above).[^22]
 
-16     The Defendant contends that it had not wilfully refused to deliver up the Goods and/or Traceable Proceeds to the Plaintiff. The Defendant explains that it had not delivered up the Goods because they were no longer in its possession. It further denies that an order for delivery up of the Goods and/or Traceable Proceeds is required to vindicate the Plaintiff’s property rights in those items.[\[note: 23\]](#Ftn_23)
+16     The Defendant contends that it had not wilfully refused to deliver up the Goods and/or Traceable Proceeds to the Plaintiff. The Defendant explains that it had not delivered up the Goods because they were no longer in its possession. It further denies that an order for delivery up of the Goods and/or Traceable Proceeds is required to vindicate the Plaintiff’s property rights in those items.[^23]
 
-17     In reply, the Plaintiff observes that the Defendant has “admitted to and/or does not dispute its liability” under the Price Claim.[\[note: 24\]](#Ftn_24) It rejects the Defendant’s suggestion that the Defendant does not hold the Goods and/or Traceable Proceeds on trust,[\[note: 25\]](#Ftn_25) and informs that it had in fact, on 30 October 2018, registered its proprietary interest in the Goods and/or Traceable Proceeds arising out of the ROT Clause with the Accounting and Corporate Regulatory Authority of Singapore.[\[note: 26\]](#Ftn_26)
+17     In reply, the Plaintiff observes that the Defendant has “admitted to and/or does not dispute its liability” under the Price Claim.[^24] It rejects the Defendant’s suggestion that the Defendant does not hold the Goods and/or Traceable Proceeds on trust,[^25] and informs that it had in fact, on 30 October 2018, registered its proprietary interest in the Goods and/or Traceable Proceeds arising out of the ROT Clause with the Accounting and Corporate Regulatory Authority of Singapore.[^26]
 
 #### Applications
 
 18     On 19 November 2018, the Plaintiff filed Summons No 5470 of 2018 (“the Application”), seeking entry of judgment in the sum of US$3,385,167.87 in favour of the Plaintiff against the Defendant. In other words, it sought judgment on the Price Claim. The Application was brought pursuant to O 27 r 3 of the Rules of Court, which establishes that a judgment or order may be made upon admissions of fact made by a party to a cause or matter either by his pleadings or otherwise, without waiting for the determination of any other question between the parties.
 
-19     The Plaintiff relies on the following admissions of fact made by the Defendant in its pleadings: (a) that it entered into the Contract with the Plaintiff; (b) that the Goods were delivered to and received by the Defendant from the Plaintiff; (c) that the Invoices accurately reflect the purchase price for each of the three shipments and that the due dates for payment have passed; and (d) that it has failed to make payment of the outstanding price of US$3,385,167.87 for the Goods.[\[note: 27\]](#Ftn_27)
+19     The Plaintiff relies on the following admissions of fact made by the Defendant in its pleadings: (a) that it entered into the Contract with the Plaintiff; (b) that the Goods were delivered to and received by the Defendant from the Plaintiff; (c) that the Invoices accurately reflect the purchase price for each of the three shipments and that the due dates for payment have passed; and (d) that it has failed to make payment of the outstanding price of US$3,385,167.87 for the Goods.[^27]
 
 20     The Defendant did not file a reply affidavit. At the hearing on 5 December 2018, counsel for the Defendant, Mr Danny Quah, informed me that the Defendant was contesting the Application and tendered written submissions. Mr Quah made two connected points.
 
@@ -96,15 +97,15 @@ I will refer to the claims described at (a) \[13(a)\]–\[13(d)\] as “the Prop
 
 ## Parties’ submissions
 
-24     At the hearing on 27 December 2018, Mr Ting advanced four alternative arguments for the Plaintiff, supplemented by his written submissions.[\[note: 28\]](#Ftn_28) I will describe the arguments in the order that Mr Ting put them before me (although this will not be the order of my subsequent analysis).
+24     At the hearing on 27 December 2018, Mr Ting advanced four alternative arguments for the Plaintiff, supplemented by his written submissions.[^28] I will describe the arguments in the order that Mr Ting put them before me (although this will not be the order of my subsequent analysis).
 
-(a)     First, Mr Ting contended that the SOGA does not apply to the Contract, with the result that the requirements under s 49(1) are immaterial.[\[note: 29\]](#Ftn_29) There is accordingly no need for the Plaintiff to show that the property in the Goods has passed to the Defendant (as buyer) before the Plaintiff (as seller) may maintain an action against the Defendant for the price of the Goods. In making this argument, Mr Ting relied heavily on the recent decision of the UK Supreme Court in _The Res Cogitans_. In short, Mr Ting sought to analogise the Contract to the agreement at issue in _The Res Cogitans_, such that the former could (as the latter was in the UK Supreme Court’s decision) be characterised as a _sui generis_ contract that was not governed by the SOGA. The Contract is _sui generis_ because it allowed the Defendant to on-sell the Goods to third parties notwithstanding that it had not made payment under the ROT Clause, with the consequence that by the time payment fell due, property in the Goods rested with third parties and could not be passed from the Plaintiff to the Defendant. I will refer to this argument as “the _Sui Generis_ Argument”.
+(a)     First, Mr Ting contended that the SOGA does not apply to the Contract, with the result that the requirements under s 49(1) are immaterial.[^29] There is accordingly no need for the Plaintiff to show that the property in the Goods has passed to the Defendant (as buyer) before the Plaintiff (as seller) may maintain an action against the Defendant for the price of the Goods. In making this argument, Mr Ting relied heavily on the recent decision of the UK Supreme Court in _The Res Cogitans_. In short, Mr Ting sought to analogise the Contract to the agreement at issue in _The Res Cogitans_, such that the former could (as the latter was in the UK Supreme Court’s decision) be characterised as a _sui generis_ contract that was not governed by the SOGA. The Contract is _sui generis_ because it allowed the Defendant to on-sell the Goods to third parties notwithstanding that it had not made payment under the ROT Clause, with the consequence that by the time payment fell due, property in the Goods rested with third parties and could not be passed from the Plaintiff to the Defendant. I will refer to this argument as “the _Sui Generis_ Argument”.
 
-(b)     Second, he argued that s 49(1) of the SOGA applied to the transaction. In other words, property in the Goods has passed to the Defendant and therefore the Price Claim can be sustained under s 49(1). Mr Ting provided two reasons for this. First, he referred me to an affidavit of Mr Chen Xi, a director of the Defendant, in Summons No 4766 of 2018 (which was the Defendant’s earlier application to vary an injunction ordered against it in the Action).[\[note: 30\]](#Ftn_30) In that affidavit, Mr Chen explained that the Goods were sold to the Industrial and Commercial Bank of China (“the Sub-Buyer”) in July and August 2018.[\[note: 31\]](#Ftn_31) Mr Ting highlighted that the ROT Clause specifically envisaged that the Defendant would be able to on-sell the Goods. A sale to a sub-buyer would therefore be “a disposal with the authority of the owner”, operating to pass title to the sub-buyer. Second, Mr Ting relied on s 25(1) of the SOGA, which provides, in gist, that a buyer in possession of the goods may pass good title to a sub-buyer who receives the goods in good faith and without notice of the rights of the original seller. These submissions were only advanced orally before me and were not mentioned in the Plaintiff’s written submissions. I will refer to them as “the s 49(1) Argument”.
+(b)     Second, he argued that s 49(1) of the SOGA applied to the transaction. In other words, property in the Goods has passed to the Defendant and therefore the Price Claim can be sustained under s 49(1). Mr Ting provided two reasons for this. First, he referred me to an affidavit of Mr Chen Xi, a director of the Defendant, in Summons No 4766 of 2018 (which was the Defendant’s earlier application to vary an injunction ordered against it in the Action).[^30] In that affidavit, Mr Chen explained that the Goods were sold to the Industrial and Commercial Bank of China (“the Sub-Buyer”) in July and August 2018.[^31] Mr Ting highlighted that the ROT Clause specifically envisaged that the Defendant would be able to on-sell the Goods. A sale to a sub-buyer would therefore be “a disposal with the authority of the owner”, operating to pass title to the sub-buyer. Second, Mr Ting relied on s 25(1) of the SOGA, which provides, in gist, that a buyer in possession of the goods may pass good title to a sub-buyer who receives the goods in good faith and without notice of the rights of the original seller. These submissions were only advanced orally before me and were not mentioned in the Plaintiff’s written submissions. I will refer to them as “the s 49(1) Argument”.
 
-(c)     Third, as a further alternative, Mr Ting argued that s 49(2) of the SOGA applied.[\[note: 32\]](#Ftn_32) The thrust of his submission is the Contract provides for payment of the price “on a day certain irrespective of delivery”. This enables the Plaintiff to sustain the Price Claim even though property in the Goods may not have passed. In this regard, Mr Ting relied on _FG Wilson_, the High Court’s and Supreme Court’s judgments in _The Res Cogitans_ and commentary by Professor Michael Bridge on _The Res Cogitans_. I will refer to the submission as “the s 49(2) Argument”.
+(c)     Third, as a further alternative, Mr Ting argued that s 49(2) of the SOGA applied.[^32] The thrust of his submission is the Contract provides for payment of the price “on a day certain irrespective of delivery”. This enables the Plaintiff to sustain the Price Claim even though property in the Goods may not have passed. In this regard, Mr Ting relied on _FG Wilson_, the High Court’s and Supreme Court’s judgments in _The Res Cogitans_ and commentary by Professor Michael Bridge on _The Res Cogitans_. I will refer to the submission as “the s 49(2) Argument”.
 
-(d)     Fourth, Mr Ting submitted that s 49 is not a comprehensive code within which sellers must bring themselves in order to succeed in an action for the price.[\[note: 33\]](#Ftn_33) Mr Ting also relied on _The Res Cogitans_ as authority, and submitted that _FG Wilson_ has been overruled in this regard by the UK Supreme Court. He also drew my attention to academic criticism of _FG Wilson_ by Professor Louise Gullifer. I will refer to this final argument as “the Complete Code Argument”.
+(d)     Fourth, Mr Ting submitted that s 49 is not a comprehensive code within which sellers must bring themselves in order to succeed in an action for the price.[^33] Mr Ting also relied on _The Res Cogitans_ as authority, and submitted that _FG Wilson_ has been overruled in this regard by the UK Supreme Court. He also drew my attention to academic criticism of _FG Wilson_ by Professor Louise Gullifer. I will refer to this final argument as “the Complete Code Argument”.
 
 25     Mr Quah made both oral and written submissions in response.
 
@@ -112,11 +113,11 @@ I will refer to the claims described at (a) \[13(a)\]–\[13(d)\] as “the Prop
 
 (b)     In relation to the s 49(2) Argument, Mr Quah contended that under the Payment Clause, the price of the Goods could not be said to be payable on a “day certain irrespective of delivery”. The Payment Clause provided for payment to be made within 30 days after the Plaintiff’s “presentation of documents” which, according to Mr Quah, meant that payment could not be said to be “irrespective of delivery” since “presentation of documents requires delivery”.
 
-(c)     Regarding the Complete Code Argument, Mr Quah accepted that _The Res Cogitans_ overruled _FG Wilson_ on whether the UK SOGA provided a “complete code” for actions on the price, but sought to distinguish _The Res Cogitans_ from the present case on the basis that the intermediate bunker supplier had only brought a claim for price and had not sought proprietary relief, unlike in the present case where both types of relief were sought (in addition to the Damages Claim).[\[note: 34\]](#Ftn_34)
+(c)     Regarding the Complete Code Argument, Mr Quah accepted that _The Res Cogitans_ overruled _FG Wilson_ on whether the UK SOGA provided a “complete code” for actions on the price, but sought to distinguish _The Res Cogitans_ from the present case on the basis that the intermediate bunker supplier had only brought a claim for price and had not sought proprietary relief, unlike in the present case where both types of relief were sought (in addition to the Damages Claim).[^34]
 
 (d)     Finally, as to the _Sui Generis_ Argument, Mr Quah referred to Professor Bridge’s criticism of the UK Supreme Court’s finding in _The Res Cogitans_ that the contract in that case was _sui generis_ such that the the UK SOGA did not apply. He urged caution in the Singapore courts adopting the holdings of the UK Supreme Court in that regard.
 
-26     The Defendant indicated in its written reply submissions that it “has not and is not taking the position that the Plaintiff cannot maintain its claim for the Price of the Goods”.[\[note: 35\]](#Ftn_35) Notwithstanding that, the Defendant had in those same written submissions argued that the Plaintiff’s reliance on _The Res Cogitans_ was “entirely misplaced” and that “the Court should not grant the Plaintiff judgment on the Price of Goods at this interlocutory stage on the back of the holding in \[_The_\] _Res Cogitans_”.[\[note: 36\]](#Ftn_36) I therefore did not find the Defendant’s position clear. When I sought clarification as to whether the Defendant was contesting the Application, Mr Quah informed me that the Defendant was “not opposing the legal entitlement”, but that the court “need\[ed\] to decide in the round whether \[the Plaintiff\] \[was\] entitled to the Price Claim and nothing else”.
+26     The Defendant indicated in its written reply submissions that it “has not and is not taking the position that the Plaintiff cannot maintain its claim for the Price of the Goods”.[^35] Notwithstanding that, the Defendant had in those same written submissions argued that the Plaintiff’s reliance on _The Res Cogitans_ was “entirely misplaced” and that “the Court should not grant the Plaintiff judgment on the Price of Goods at this interlocutory stage on the back of the holding in \[_The_\] _Res Cogitans_”.[^36] I therefore did not find the Defendant’s position clear. When I sought clarification as to whether the Defendant was contesting the Application, Mr Quah informed me that the Defendant was “not opposing the legal entitlement”, but that the court “need\[ed\] to decide in the round whether \[the Plaintiff\] \[was\] entitled to the Price Claim and nothing else”.
 
 ## Key issues
 
@@ -434,77 +435,77 @@ The test of a _sui generis_ contract … is therefore capable of capturing a ver
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)Statement of Claim at para 1.
+[^1]: Statement of Claim at para 1.
 
-[\[note: 2\]](#Ftn_2_1)Affidavit of Chen Xi dated 2 October 2018 (“Chen Xi’s affidavit”) at para 7.
+[^2]: Affidavit of Chen Xi dated 2 October 2018 (“Chen Xi’s affidavit”) at para 7.
 
-[\[note: 3\]](#Ftn_3_1)Statement of Claim at para 4; affidavit of De Sousa Adrien Sylvain dated 19 November 2018 (“De Sousa’s affidavit”) at p 8.
+[^3]: Statement of Claim at para 4; affidavit of De Sousa Adrien Sylvain dated 19 November 2018 (“De Sousa’s affidavit”) at p 8.
 
-[\[note: 4\]](#Ftn_4_1)De Sousa’s affidavit at p8.
+[^4]: De Sousa’s affidavit at p8.
 
-[\[note: 5\]](#Ftn_5_1)De Sousa’s affidavit at p12.
+[^5]: De Sousa’s affidavit at p12.
 
-[\[note: 6\]](#Ftn_6_1)De Sousa’s affidavit at p12.
+[^6]: De Sousa’s affidavit at p12.
 
-[\[note: 7\]](#Ftn_7_1)Statement of Claim at paras 3 and 10; Defence at paras 5 and 11.
+[^7]: Statement of Claim at paras 3 and 10; Defence at paras 5 and 11.
 
-[\[note: 8\]](#Ftn_8_1)De Sousa’s affidavit at p19.
+[^8]: De Sousa’s affidavit at p19.
 
-[\[note: 9\]](#Ftn_9_1)Statement of Claim at para 11(a); Defence at para 12.
+[^9]: Statement of Claim at para 11(a); Defence at para 12.
 
-[\[note: 10\]](#Ftn_10_1)De Sousa’s affidavit at p20.
+[^10]: De Sousa’s affidavit at p20.
 
-[\[note: 11\]](#Ftn_11_1)De Sousa’s affidavit at p21.
+[^11]: De Sousa’s affidavit at p21.
 
-[\[note: 12\]](#Ftn_12_1)Defence at para 12.
+[^12]: Defence at para 12.
 
-[\[note: 13\]](#Ftn_13_1)Statement of Claim at para 12; Defence at para 13.
+[^13]: Statement of Claim at para 12; Defence at para 13.
 
-[\[note: 14\]](#Ftn_14_1)Statement of Claim at paras 18(a)–(c); Defence at para 19.
+[^14]: Statement of Claim at paras 18(a)–(c); Defence at para 19.
 
-[\[note: 15\]](#Ftn_15_1)Statement of Claim at para 13; Defence at para 14.
+[^15]: Statement of Claim at para 13; Defence at para 14.
 
-[\[note: 16\]](#Ftn_16_1)Statement of Claim at para 14; Reply at para 8.
+[^16]: Statement of Claim at para 14; Reply at para 8.
 
-[\[note: 17\]](#Ftn_17_1)Defence at para 15.
+[^17]: Defence at para 15.
 
-[\[note: 18\]](#Ftn_18_1)Statement of Claim at para 16.
+[^18]: Statement of Claim at para 16.
 
-[\[note: 19\]](#Ftn_19_1)Statement of Claim at para 15.
+[^19]: Statement of Claim at para 15.
 
-[\[note: 20\]](#Ftn_20_1)Statement of Claim at para 18.
+[^20]: Statement of Claim at para 18.
 
-[\[note: 21\]](#Ftn_21_1)Defence at para 16.
+[^21]: Defence at para 16.
 
-[\[note: 22\]](#Ftn_22_1)Defence at para 16.
+[^22]: Defence at para 16.
 
-[\[note: 23\]](#Ftn_23_1)Defence at paras 17 and 188.
+[^23]: Defence at paras 17 and 188.
 
-[\[note: 24\]](#Ftn_24_1)Reply at para 3.
+[^24]: Reply at para 3.
 
-[\[note: 25\]](#Ftn_25_1)Reply at paras 10–13.
+[^25]: Reply at paras 10–13.
 
-[\[note: 26\]](#Ftn_26_1)Reply at para 14.
+[^26]: Reply at para 14.
 
-[\[note: 27\]](#Ftn_27_1)De Sousa’s affidavit at para 12.
+[^27]: De Sousa’s affidavit at para 12.
 
-[\[note: 28\]](#Ftn_28_1)Plaintiff’s written submissions dated 12 December 2018 (“Plaintiff’s Submissions”).
+[^28]: Plaintiff’s written submissions dated 12 December 2018 (“Plaintiff’s Submissions”).
 
-[\[note: 29\]](#Ftn_29_1)See also Plaintiff’s Submissions at paras 12–15.
+[^29]: See also Plaintiff’s Submissions at paras 12–15.
 
-[\[note: 30\]](#Ftn_30_1)Chen Xi’s affidavit.
+[^30]: Chen Xi’s affidavit.
 
-[\[note: 31\]](#Ftn_31_1)Chen Xi’s affidavit at para 8.
+[^31]: Chen Xi’s affidavit at para 8.
 
-[\[note: 32\]](#Ftn_32_1)See also Plaintiff’s Submissions at paras 16–20.
+[^32]: See also Plaintiff’s Submissions at paras 16–20.
 
-[\[note: 33\]](#Ftn_33_1)See also Plaintiff’s Submissions at paras 21–23.
+[^33]: See also Plaintiff’s Submissions at paras 21–23.
 
-[\[note: 34\]](#Ftn_34_1)See also Defendant’s reply submissions dated 21 December 2018 (“Defendant’s Reply Submissions”) at paras 9–16.
+[^34]: See also Defendant’s reply submissions dated 21 December 2018 (“Defendant’s Reply Submissions”) at paras 9–16.
 
-[\[note: 35\]](#Ftn_35_1)Defendant’s Reply Submissions at para 3.
+[^35]: Defendant’s Reply Submissions at para 3.
 
-[\[note: 36\]](#Ftn_36_1)Defendant’s Reply Submissions at paras 9 and 16.
+[^36]: Defendant’s Reply Submissions at paras 9 and 16.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F22903-SSP.xml)

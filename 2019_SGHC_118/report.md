@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # BSD _v_ Attorney-General and other matters  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Originating Summons No 945 of 2017, Registrar's Appeals State Courts Nos 1 and 2 of 2018</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">06 May 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Chua Lee Ming J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Davinder Singh SC, Jaikanth Shankar, Navin Thevar, Derrick Teo, and Teo Li Fang (Drew &amp; Napier LLC) for the first applicant; Jason Chan Tai-Hui, Edward Kwok, and Evangeline Oh (Allen &amp; Gledhill LLP) for the second to fourth applicants; Hri Kumar Nair SC, Shivani Retnam, James Low, Kexian Ng, and Zhang Hong Chuan (Attorney-General's Chambers (International Affairs Division)) for the respondent; Zhuang WenXiong (Rajah &amp; Tann Singapore LLP) Young Amicus Curiae.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">BSD — Attorney-General — BSF — BSH — BSI — BSJ — Attorney-General</td></tr></tbody></table>
@@ -60,15 +61,15 @@ Civil Procedure – disclosure of documents
 
 ### Registrar’s Appeal State Courts No 1 of 2018 (“RAS 1/2018”)
 
-10     The AG applied for a production order under s 22, MACMA, against the appellant in RAS 1/2018 (“the RAS1 Appellant”), in the State Courts.[\[note: 1\]](#Ftn_1) On 29 June 2017, the District Court made a production order against the RAS1 Appellant for the production of certain transactional and financial documents.[\[note: 2\]](#Ftn_2)
+10     The AG applied for a production order under s 22, MACMA, against the appellant in RAS 1/2018 (“the RAS1 Appellant”), in the State Courts.[^1] On 29 June 2017, the District Court made a production order against the RAS1 Appellant for the production of certain transactional and financial documents.[^2]
 
-11     Upon being served with the production order, the RAS1 Appellant applied for leave to inspect and take copies of all documents relating to the AG’s application in the State Courts, including the supporting affidavits and the notes of argument recorded in the District Court.[\[note: 3\]](#Ftn_3) On 15 November 2017, the District Court dismissed the application. RAS 1/2018 is the appeal against the District Court’s dismissal of the RAS1 Appellant’s application to inspect.
+11     Upon being served with the production order, the RAS1 Appellant applied for leave to inspect and take copies of all documents relating to the AG’s application in the State Courts, including the supporting affidavits and the notes of argument recorded in the District Court.[^3] On 15 November 2017, the District Court dismissed the application. RAS 1/2018 is the appeal against the District Court’s dismissal of the RAS1 Appellant’s application to inspect.
 
 ### Registrar’s Appeal State Courts No 2 of 2018 (“RAS 2/2018”)
 
-12     The AG also applied, _ex parte_, for production orders against the three appellants in RAS 2/2018 (together, “the RAS2 Appellants”).[\[note: 4\]](#Ftn_4) On 29 June 2017, the District Court made productions orders against each of the RAS2 Appellants for production of certain business and financial documents.[\[note: 5\]](#Ftn_5)
+12     The AG also applied, _ex parte_, for production orders against the three appellants in RAS 2/2018 (together, “the RAS2 Appellants”).[^4] On 29 June 2017, the District Court made productions orders against each of the RAS2 Appellants for production of certain business and financial documents.[^5]
 
-13     Upon being served with the production orders, the RAS2 Appellants made a joint application for leave to take copies of all the documents, including the supporting affidavits and notes of evidence, relating to the AG’s applications.[\[note: 6\]](#Ftn_6) On 15 November 2017, the District Court dismissed the application. RAS 2/2018 is the appeal by the RAS2 Appellants against the District Court’s dismissal of the application.
+13     Upon being served with the production orders, the RAS2 Appellants made a joint application for leave to take copies of all the documents, including the supporting affidavits and notes of evidence, relating to the AG’s applications.[^6] On 15 November 2017, the District Court dismissed the application. RAS 2/2018 is the appeal by the RAS2 Appellants against the District Court’s dismissal of the application.
 
 ### Originating Summons No 945 of 2017 (“OS 945/2017”)
 
@@ -100,7 +101,7 @@ without leave of Court.
 
 (b)     It was necessary for the RAS Appellants to have access to the court papers to consider whether they should make any application to discharge or vary the production orders that had been made against them. Otherwise, the statutory right to apply to vary or discharge the production order would be rendered nugatory.
 
-20     The RAS Appellants submitted[\[note: 7\]](#Ftn_7) that the right to be heard must carry with it the right to know the case and the evidence given or statements made against the person exercising that right: _Mustafa Ahunbay v Public Prosecutor_ at \[71\], citing _B Surinder Singh Kanda v Government of the Federation of Malaya_ (at 337).
+20     The RAS Appellants submitted[^7] that the right to be heard must carry with it the right to know the case and the evidence given or statements made against the person exercising that right: _Mustafa Ahunbay v Public Prosecutor_ at \[71\], citing _B Surinder Singh Kanda v Government of the Federation of Malaya_ (at 337).
 
 21     The RAS Appellants also referred me to _United States of America v. Beach_ \[1999\] M.J.No. 56 (“_Beach_”), a decision of the Manitoba Court of Appeal concerning production orders under s 18 of Canada’s Mutual Legal Assistance in Criminal Matters Act, R.S.C. 1985, c. 30 (“Canada’s Mutual Assistance Act”). In that case, the United States Department of Justice requested assistance from the Government of Canada in the investigation of a crime alleged to have occurred in Oklahoma. An _ex parte_ application requiring the respondents to testify and produce documents was made and granted pursuant to Canada’s Mutual Assistance Act. Shortly after, a further order was made prohibiting access to the court file and to any information relating to the United States’ request for assistance. The respondents applied to vary the order prohibiting access to the court file and related information. Essentially, the respondents sought disclosure of all the materials. However, the court permitted disclosure of only the two orders made.
 
@@ -112,7 +113,7 @@ without leave of Court.
 
 23     The Manitoba Court of Appeal in _Beach_ accepted that the common law right of inspection can be abrogated by express provisions in legislation, and that it could be denied when the ends of justice would be subverted by disclosure (at \[15\]—\[16\]). The Court went on to hold that Canada’s Mutual Assistance Act contained no provision for non-disclosure (at \[17\]). However, the Court did not grant access to the court file because it found that more information had been filed than was required to obtain the order. Instead, the Court set aside the order to testify and produce documents without prejudice to an application being made on more limited material (at \[23\]).
 
-24     In the present case, the Deputy AG (“DAG”), appearing on behalf of the AG, contended that under O 89B r 3, leave to inspect and take copies of the court documents should not be granted unless the RAS Appellants could demonstrate that there had been a flaw in the procedure. The DAG submitted that the need to review the documents in order to decide whether to apply to discharge or vary the production orders was not sufficient reason to grant leave.[\[note: 8\]](#Ftn_8) The DAG relied on two Hong Kong cases – _Apple Daily Ltd v Commissioner of the Independent Commission Against Corruption (No 2)_ \[2000\] 1 HKLRD 647 (“_Apple Daily_”) and _Chan Mei Yiu Paddy & anor v Secretary for Justice & ors_ \[2007\] 4 HKC 224 (“_Chan Mei Yiu_”).
+24     In the present case, the Deputy AG (“DAG”), appearing on behalf of the AG, contended that under O 89B r 3, leave to inspect and take copies of the court documents should not be granted unless the RAS Appellants could demonstrate that there had been a flaw in the procedure. The DAG submitted that the need to review the documents in order to decide whether to apply to discharge or vary the production orders was not sufficient reason to grant leave.[^8] The DAG relied on two Hong Kong cases – _Apple Daily Ltd v Commissioner of the Independent Commission Against Corruption (No 2)_ \[2000\] 1 HKLRD 647 (“_Apple Daily_”) and _Chan Mei Yiu Paddy & anor v Secretary for Justice & ors_ \[2007\] 4 HKC 224 (“_Chan Mei Yiu_”).
 
 25      _Apple Daily_ concerned, among other things, a search warrant obtained under the Hong Kong Prevention of Bribery Ordinance (Cap 201) (1971) (“POBO”). The warrant was issued pursuant to an _ex parte_ application under O 119 r 4 of the Hong Kong Rules of the High Court (Cap 4) (1998) (“HKROC”). An application to set aside the warrant was dismissed. On appeal, a preliminary issue was whether the applicant should have been allowed to inspect the affidavit supporting the application for the search warrant. The Hong Kong Court of Appeal held (at 663C) that public interest immunity applied to the affidavit and it could not be revealed so long as the investigation in aid of which the warrants were sought continued. However, the Court also discussed O 119 r 5 of the HKROC.
 
@@ -136,7 +137,7 @@ The Court went on to hold (at 662E) that there were no grounds in that case whic
 
 In the normal run of cases, in the absence of evidence to the contrary, it is likely that there will be nothing to establish that the legislative scheme has not been properly followed…A mere assertion by an applicant that he suspects that there may have been a relevant flaw in the procedure will not be sufficient to entitle him to an order for discovery in relation to the letters of request, or the information placed before the magistrate. But where there is evidence that tends to indicate that there has been some relevant flaw in the procedure, the court will be more likely to grant an order for discovery of the documents.”
 
-30     The DAG argued that[\[note: 9\]](#Ftn_9)
+30     The DAG argued that[^9]
 
 (a)     similar to the position in Hong Kong, there is a need for confidentiality under the MACMA and pointed out that under s 22(8), applications for production orders were to be heard _in camera_; and
 
@@ -146,7 +147,7 @@ In the normal run of cases, in the absence of evidence to the contrary, it is li
 
 32     I noted that the Court of Appeal pointed out in _Re Section 22 of the Mutual Assistance in Criminal Matters Act_ (“_Re Section 22_”) (at \[15\]), under the MACMA, a request for assistance is subject to two levels of checks, first by the AG and second by the Minister for Law, both of whom are charged with statutory duties to ensure that any such request must satisfy the statutory requirements before assistance can be given. However, both the AG and the Minister, as with the court hearing the application for the production order, would have only one side of the story. In making an application to discharge or vary the production order, the applicant puts forth his side of the story. Clearly, he must have access to the court documents for this purpose.
 
-33     The DAG submitted that reading O 89B r 3 restrictively (see \[24\] above) would not render the right under O 89B r 2(2) to challenge production orders otiose. The DAG reasoned that a person required to comply with a production order may apply to discharge or vary the order on the ground that he is unable to comply with the order. and the DAG argued that for this purpose, access to the court documents would not be required.[\[note: 10\]](#Ftn_10) That is true. However, that is not the only ground for a challenge under O 89B r 2(2). Section 22(3), MACMA, requires the court to be satisfied that the conditions in subsection (4) are fulfilled before it makes a production order. A person required to comply with a production order may challenge the order on the ground that any one or more of the conditions have not been fulfilled.
+33     The DAG submitted that reading O 89B r 3 restrictively (see \[24\] above) would not render the right under O 89B r 2(2) to challenge production orders otiose. The DAG reasoned that a person required to comply with a production order may apply to discharge or vary the order on the ground that he is unable to comply with the order. and the DAG argued that for this purpose, access to the court documents would not be required.[^10] That is true. However, that is not the only ground for a challenge under O 89B r 2(2). Section 22(3), MACMA, requires the court to be satisfied that the conditions in subsection (4) are fulfilled before it makes a production order. A person required to comply with a production order may challenge the order on the ground that any one or more of the conditions have not been fulfilled.
 
 34     The conditions in s 22(4), MACMA, are as follows:
 
@@ -172,15 +173,15 @@ In the normal run of cases, in the absence of evidence to the contrary, it is li
 
 40     It is true that the requirement for leave of court under O 89B r 3 means that a person against whom a production order has been made, does not have an absolute right to inspect the court file. However, I agreed with the RAS Appellants that such a person is _prima facie_ entitled to inspect and take copies of the documents in the court file unless it can be shown that granting access to the court file would prejudice investigations or, as the Court in _Beach_ put it, subvert the ends of justice. It seemed to me that the leave requirement under O 89B r 3 recognises the fact that the production orders are made in aid of criminal investigations in the Requesting State and that the right to inspect may need to be restricted if it might otherwise prejudice those investigations. In my view, the leave requirement allows the Requesting State (through the AG) to object (where appropriate) on the ground that access to the court papers (or some of the court papers) would prejudice the criminal investigations.
 
-41     The DAG submitted that the question whether disclosure would prejudice investigations was a question for the Requesting State and that this question should not have to be determined by a Singapore court.[\[note: 11\]](#Ftn_11) I disagreed. It was the DAG’s own submission that one of the grounds upon which a production order could be challenged was bad faith. In the context of the MACMA, that would include bad faith on the part of the Requesting State. I saw no reason why a Singapore court could not deal with the question of prejudice to investigations in the Requesting State if it could deal with an allegation that the Requesting State had acted in bad faith in making the request for assistance.
+41     The DAG submitted that the question whether disclosure would prejudice investigations was a question for the Requesting State and that this question should not have to be determined by a Singapore court.[^11] I disagreed. It was the DAG’s own submission that one of the grounds upon which a production order could be challenged was bad faith. In the context of the MACMA, that would include bad faith on the part of the Requesting State. I saw no reason why a Singapore court could not deal with the question of prejudice to investigations in the Requesting State if it could deal with an allegation that the Requesting State had acted in bad faith in making the request for assistance.
 
 42     There was nothing before me to suggest that granting leave to the RAS Appellants would prejudice the criminal investigations in the Requesting State. I was therefore inclined to grant leave. However, as the Requesting State had only authorised the disclosure of what was necessary to obtain the production orders, the RAS Appellants and the DAG agreed that the Requesting State should first be given an opportunity to determine the extent to which it wishes its request to be executed. It will be recalled that under Article 16(1) of the MLA Agreement, if the request cannot be executed without breaching confidentiality, the Requested State shall, before executing the request, so inform the Requesting State which shall then determine the extent to which it wishes the request to be executed (see \[9\] above).
 
 43     Accordingly, I adjourned RAS 1/2018 and RAS 2/2018 to enable the AG to obtain the Requesting State’s decision on this.
 
-44     For completeness, I should address two points made by the District Judge (“DJ”) when dismissing the applications by the RAS Appellants to inspect the court file and take copies of the documents. First, the DJ expressed the view that an application under O 89B r 2 to “discharge” a production order refers to an application to discharge an order that had been complied with or rendered nugatory.[\[note: 12\]](#Ftn_12) The DJ drew a distinction between discharging an order and setting aside an order. In my view, the distinction was not justified. In the context of O 89B r 2(2), discharging a production order had the same effect as setting aside the order. It was clear that O 89B r 2(2) permits the party required to comply with a production order, to apply to render the whole order of no effect so that he does not have to comply with it.
+44     For completeness, I should address two points made by the District Judge (“DJ”) when dismissing the applications by the RAS Appellants to inspect the court file and take copies of the documents. First, the DJ expressed the view that an application under O 89B r 2 to “discharge” a production order refers to an application to discharge an order that had been complied with or rendered nugatory.[^12] The DJ drew a distinction between discharging an order and setting aside an order. In my view, the distinction was not justified. In the context of O 89B r 2(2), discharging a production order had the same effect as setting aside the order. It was clear that O 89B r 2(2) permits the party required to comply with a production order, to apply to render the whole order of no effect so that he does not have to comply with it.
 
-45     Second, the DJ was of the view that it was unnecessary for the RAS Appellants to have sight of the court documents for purposes of filing applications to discharge or vary the production orders because the production orders had previously been varied without the RAS Appellants having had sight of the court documents.[\[note: 13\]](#Ftn_13) I disagreed with the DJ’s view. The production orders required the RAS Appellants to produce the documents described in the orders, by 23 August 2017. The orders in question were varied to state that the AG shall not disclose the documents or their contents to any other party including the Requesting State, pending the final disposal of applications to discharge the production orders, if filed within a prescribed deadline. The applications to vary the orders were intended to preserve the status quo and were consented to by the AG. Clearly, these applications did not require the RAS Appellants to have had sight of the court documents and therefore were not valid reasons to refuse leave to inspect and take copies of the court documents.
+45     Second, the DJ was of the view that it was unnecessary for the RAS Appellants to have sight of the court documents for purposes of filing applications to discharge or vary the production orders because the production orders had previously been varied without the RAS Appellants having had sight of the court documents.[^13] I disagreed with the DJ’s view. The production orders required the RAS Appellants to produce the documents described in the orders, by 23 August 2017. The orders in question were varied to state that the AG shall not disclose the documents or their contents to any other party including the Requesting State, pending the final disposal of applications to discharge the production orders, if filed within a prescribed deadline. The applications to vary the orders were intended to preserve the status quo and were consented to by the AG. Clearly, these applications did not require the RAS Appellants to have had sight of the court documents and therefore were not valid reasons to refuse leave to inspect and take copies of the court documents.
 
 ## OS 945/2017
 
@@ -190,7 +191,7 @@ In the normal run of cases, in the absence of evidence to the contrary, it is li
 
 48     Order 89B rule 2(2) provides that “the person required to comply” with the production order may apply to court for the production order to be discharged or varied. However, the RAS1 Appellant was not the person who was required to comply with the Bank production orders. The Banks were the ones required to comply with the orders.
 
-49     The RAS1 Appellant submitted that[\[note: 14\]](#Ftn_14)
+49     The RAS1 Appellant submitted that[^14]
 
 (a)     Order 89B rule 2(2) is an enabling provision and it does not say that only the person required to comply, can apply to discharge or vary the production order; and
 
@@ -198,17 +199,17 @@ In the normal run of cases, in the absence of evidence to the contrary, it is li
 
 50     Order 32 rule 6 provides that the court may “set aside an order made _ex parte_”. The RAS1 Appellant submitted that O 32 r 6 permits not just the party against whom the order was served, but also affected third parties, to apply to set aside an order made _ex parte_: _Singapore Civil Procedure 2017_ vol 1 (Foo Chee Hock gen ed) (Sweet & Maxwell, 2017) at para 32/6/5; _Chan Lung Kien v Chan Shwe Ching_ at \[11\]. The RAS1 Appellant argued that the banks would have no interest in challenging any production order issued against them.
 
-51     The RAS1 Appellant also relied on the common law principle that an affected party has the right to apply to discharge or vary an order of court especially if the order was obtained _ex parte_. The RAS1 Appellant relied on the rule of statutory interpretation that Parliament will not be taken to have abrogated rights at common law unless that is made express or is to be implied as a matter of necessity: see _Goldring Timothy Nicholas and others v Public Prosecutor_ at \[51\].[\[note: 15\]](#Ftn_15)
+51     The RAS1 Appellant also relied on the common law principle that an affected party has the right to apply to discharge or vary an order of court especially if the order was obtained _ex parte_. The RAS1 Appellant relied on the rule of statutory interpretation that Parliament will not be taken to have abrogated rights at common law unless that is made express or is to be implied as a matter of necessity: see _Goldring Timothy Nicholas and others v Public Prosecutor_ at \[51\].[^15]
 
 52     In my view, O 89B r 2(2) is clear. Only the person required to comply with the production order may apply to discharge or vary the order. It therefore displaces the common law principle relied upon by the RAS1 Appellant. Further, as O 89B r 2(2) is a provision that applies specifically to production orders made _ex parte_ under the MACMA, it also displaces O 32 r 6 which is a provision of general application: see _Tan Cheng Bock v Attorney-General_ at \[40\].
 
 53     The RAS Appellants argued that the use of the word “may” in O 89B r 2(2) meant that an application to discharge or vary a production order was not restricted to the person required to comply with the production order. I disagreed. The use of the word “may” simply meant that the person required to comply with the production order had an option whether to make the application or not. It did not imply that any person could apply for discharge or variation.
 
-54     Mr Zhuang WenXiong, who appeared as young _amicus curiae_, submitted that a production order under the MACMA against a bank or financial institution had the effect of piercing banking secrecy.[\[note: 16\]](#Ftn_16) Therefore, he argued, an account holder should have standing to apply to set aside or vary a production order that has been made against a bank or financial institution in connection with his accounts. However, it was clear that compliance with a production order would not breach banking secrecy. I did not see why the issuance of a production order under the MACMA against a bank should therefore mean that the account holder must have standing to challenge the order, when O 89B r 2(2) does not give the account holder such a right.
+54     Mr Zhuang WenXiong, who appeared as young _amicus curiae_, submitted that a production order under the MACMA against a bank or financial institution had the effect of piercing banking secrecy.[^16] Therefore, he argued, an account holder should have standing to apply to set aside or vary a production order that has been made against a bank or financial institution in connection with his accounts. However, it was clear that compliance with a production order would not breach banking secrecy. I did not see why the issuance of a production order under the MACMA against a bank should therefore mean that the account holder must have standing to challenge the order, when O 89B r 2(2) does not give the account holder such a right.
 
-55     Mr Zhuang also submitted that in practice, banks may not always be incentivised to challenge production orders issued against them.[\[note: 17\]](#Ftn_17) That may be so. However, the fact of the matter remained that statutorily, O 89B r 2(2) has made it clear that only the person required to comply with the production order may apply to discharge or vary it.
+55     Mr Zhuang also submitted that in practice, banks may not always be incentivised to challenge production orders issued against them.[^17] That may be so. However, the fact of the matter remained that statutorily, O 89B r 2(2) has made it clear that only the person required to comply with the production order may apply to discharge or vary it.
 
-56     Mr Zhuang further submitted that the Rules regulate procedure and cannot confer substantive rights.[\[note: 18\]](#Ftn_18) That is correct as a general principle. However, in the present case, O 89B r 2(2) was enacted pursuant to s 23(7) of the MACMA, which expressly states that the Rules may provide for the discharge and variation of production orders. In my view, O 89B r 2(2) should be given its full effect. I noted also that there is nothing in the MACMA that can be said to be inconsistent with O 89B r 2(2).
+56     Mr Zhuang further submitted that the Rules regulate procedure and cannot confer substantive rights.[^18] That is correct as a general principle. However, in the present case, O 89B r 2(2) was enacted pursuant to s 23(7) of the MACMA, which expressly states that the Rules may provide for the discharge and variation of production orders. In my view, O 89B r 2(2) should be given its full effect. I noted also that there is nothing in the MACMA that can be said to be inconsistent with O 89B r 2(2).
 
 57     Moreover, the interpretation that I have given to O 89 r 2(2) was also consistent with the fact that applications for productions orders under the MACMA have to do with criminal matters. The investigating agency must be free to carry out its investigations and seek evidence or information from anyone who might possess such evidence or information. I could not see any reason why any other person (including the target of the investigations and, where the information relates to bank accounts, the account holder) should be entitled to information as to who the investigating agency has approached in the course of its investigations, much less what evidence or information has been obtained from those persons.
 
@@ -226,7 +227,7 @@ In the normal run of cases, in the absence of evidence to the contrary, it is li
 
 61     During oral submissions, the DAG acknowledged that the law as it stands in Singapore is that evidence contained in affidavits fall outside the scope of the EA since s 2(1) of the EA states that Parts I, II and III the EA shall not apply to “affidavits presented to any court”: _HT SRL v Wee Shuo Woon_ at \[16\]. Section 125 falls within Part III of the EA. However, the DAG argued that public interest immunity under the common law would still apply.
 
-62     The RAS Appellants submitted that common law public interest immunity is not part of the law of Singapore since s 2(2) of the EA has repealed all rules which are not saved by statute and which are inconsistent with the provisions of the Evidence Act. According to the RAS Appellants, common law public interest immunity is inconsistent with s 125 in two aspects. First, unlike s 125, common law public interest immunity cannot be waived. Second, common law public interest immunity involves a balancing exercise between different public interests where the court determines that the document falls in a recognised class protected by common law public interest immunity. In contrast, under s 125, it is the relevant head of department who decides whether to invoke s 125.[\[note: 19\]](#Ftn_19) The RAS Appellants referred to _Re Siah Mooi Guat_ in which the High Court held (at \[36\]) that it is for the Minister, not the court, to decide whether it is in the public interest that information should be disclosed. The RAS Appellants relied on _SP Gupta v Union of India and another_ (1981) Supp SCC 87 (a decision of the Indian Supreme Court) and _Halsbury’s Laws of Singapore_ vol 10(2) (LexisNexis, 2016 Reissue) at para 120.420, for its submission that common law public interest immunity is inconsistent with s 125 of the EA.
+62     The RAS Appellants submitted that common law public interest immunity is not part of the law of Singapore since s 2(2) of the EA has repealed all rules which are not saved by statute and which are inconsistent with the provisions of the Evidence Act. According to the RAS Appellants, common law public interest immunity is inconsistent with s 125 in two aspects. First, unlike s 125, common law public interest immunity cannot be waived. Second, common law public interest immunity involves a balancing exercise between different public interests where the court determines that the document falls in a recognised class protected by common law public interest immunity. In contrast, under s 125, it is the relevant head of department who decides whether to invoke s 125.[^19] The RAS Appellants referred to _Re Siah Mooi Guat_ in which the High Court held (at \[36\]) that it is for the Minister, not the court, to decide whether it is in the public interest that information should be disclosed. The RAS Appellants relied on _SP Gupta v Union of India and another_ (1981) Supp SCC 87 (a decision of the Indian Supreme Court) and _Halsbury’s Laws of Singapore_ vol 10(2) (LexisNexis, 2016 Reissue) at para 120.420, for its submission that common law public interest immunity is inconsistent with s 125 of the EA.
 
 63     Mr Zhuang supported the RAS Appellants’ submission that common law public interest immunity is inconsistent with s 125 of the EA and ought not to apply in Singapore.
 
@@ -240,43 +241,43 @@ In the normal run of cases, in the absence of evidence to the contrary, it is li
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)DC/OSS 103 of 2017; Applicants’ Bundle of Documents in RAS 2/2018 (“BOD”), tab 5 pp 74–75.
+[^1]: DC/OSS 103 of 2017; Applicants’ Bundle of Documents in RAS 2/2018 (“BOD”), tab 5 pp 74–75.
 
-[\[note: 2\]](#Ftn_2_1)BOD, tab 5 pp 50–52.
+[^2]: BOD, tab 5 pp 50–52.
 
-[\[note: 3\]](#Ftn_3_1)DC/OSS 141 of 2017.
+[^3]: DC/OSS 141 of 2017.
 
-[\[note: 4\]](#Ftn_4_1)DC/OSS 104 of 2017; DC/OSS 105 of 2017 and DC/OSS 106 of 2017; BOD, tab 5 pp 76–81.
+[^4]: DC/OSS 104 of 2017; DC/OSS 105 of 2017 and DC/OSS 106 of 2017; BOD, tab 5 pp 76–81.
 
-[\[note: 5\]](#Ftn_5_1)BOD, tab 5 pp 54–55, 57–58 and 60–61.
+[^5]: BOD, tab 5 pp 54–55, 57–58 and 60–61.
 
-[\[note: 6\]](#Ftn_6_1)DC/OSS 141 of 2017; BOD, tab 4.
+[^6]: DC/OSS 141 of 2017; BOD, tab 4.
 
-[\[note: 7\]](#Ftn_7_1)Plaintiff’s Reply Submissions for HC/OS 945/2017 (“RAS1 Appellant’s Submissions”), dated 27 November 2017, at paras 100–101.
+[^7]: Plaintiff’s Reply Submissions for HC/OS 945/2017 (“RAS1 Appellant’s Submissions”), dated 27 November 2017, at paras 100–101.
 
-[\[note: 8\]](#Ftn_8_1)Attorney-General’s Submissions (“AG’s Submissions”), dated 20 February 2018, at paras 38 and 64.
+[^8]: Attorney-General’s Submissions (“AG’s Submissions”), dated 20 February 2018, at paras 38 and 64.
 
-[\[note: 9\]](#Ftn_9_1)AG’s Submissions, at paras 39, 78–79.
+[^9]: AG’s Submissions, at paras 39, 78–79.
 
-[\[note: 10\]](#Ftn_10_1)Notes of Argument, 3 July 2018, at 3:24–25.
+[^10]: Notes of Argument, 3 July 2018, at 3:24–25.
 
-[\[note: 11\]](#Ftn_11_1)Notes of Argument, 3 July 2018, at 9:12–14.
+[^11]: Notes of Argument, 3 July 2018, at 9:12–14.
 
-[\[note: 12\]](#Ftn_12_1)BOD, tab 13, at pp 4C–5A.
+[^12]: BOD, tab 13, at pp 4C–5A.
 
-[\[note: 13\]](#Ftn_13_1)BOD, tab 13, at pp 4B and 5B.
+[^13]: BOD, tab 13, at pp 4B and 5B.
 
-[\[note: 14\]](#Ftn_14_1)RAS1 Appellant’s Submissions, at paras 16–24 and 53.
+[^14]: RAS1 Appellant’s Submissions, at paras 16–24 and 53.
 
-[\[note: 15\]](#Ftn_15_1)RAS1 Appellant’s Submissions, at para 51.
+[^15]: RAS1 Appellant’s Submissions, at para 51.
 
-[\[note: 16\]](#Ftn_16_1)_Amicus Curiae_’s Submissions (“YAC’s Submissions”), dated 5 March 2017, at para 36.
+[^16]: _Amicus Curiae_’s Submissions (“YAC’s Submissions”), dated 5 March 2017, at para 36.
 
-[\[note: 17\]](#Ftn_17_1)YAC’s Submissions, at para 40.
+[^17]: YAC’s Submissions, at para 40.
 
-[\[note: 18\]](#Ftn_18_1)YAC’s Submissions, at para 12.
+[^18]: YAC’s Submissions, at para 12.
 
-[\[note: 19\]](#Ftn_19_1)RAS1 Appellant’s Submissions, at para 181.
+[^19]: RAS1 Appellant’s Submissions, at para 181.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23129-SSP.xml)

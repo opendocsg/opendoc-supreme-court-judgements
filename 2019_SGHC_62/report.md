@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # CHL Construction Pte Ltd _v_ Yangguang Group Pte Ltd  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Originating Summons No 1465 of 2018</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">08 March 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Chan Seng Onn J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Ong Li Min Magdalene and Quek Li Ting (WongPartnership LLP) for the plaintiff; Lim Kim Hong (Kim &amp; Co) for the defendant.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">CHL Construction Pte Ltd — Yangguang Group Pte Ltd</td></tr></tbody></table>
@@ -18,17 +19,17 @@ Building and Construction Law – Statutes and regulations – Building and 
 
 ## Facts
 
-4       By a Sub-Contract dated 30 March 2017 (“the Contract”),[\[note: 1\]](#Ftn_1) the plaintiff, CHL Construction Pte Ltd (“the Main Contractor”), engaged the defendant, Yangguang Group Pte Ltd (“the Sub-Contractor”) as the sub-contractor for an “Architectural Wet Trade Works” project (“the Project”)[\[note: 2\]](#Ftn_2) for the sum of $443,921.87 (“the Contract sum”).[\[note: 3\]](#Ftn_3)
+4       By a Sub-Contract dated 30 March 2017 (“the Contract”),[^1] the plaintiff, CHL Construction Pte Ltd (“the Main Contractor”), engaged the defendant, Yangguang Group Pte Ltd (“the Sub-Contractor”) as the sub-contractor for an “Architectural Wet Trade Works” project (“the Project”)[^2] for the sum of $443,921.87 (“the Contract sum”).[^3]
 
-5       On 9 July 2018, the Sub-Contractor completed the works for the Main Contractor, and a Certificate of Substantial Completion (“CSC”) was received the next day.[\[note: 4\]](#Ftn_4)
+5       On 9 July 2018, the Sub-Contractor completed the works for the Main Contractor, and a Certificate of Substantial Completion (“CSC”) was received the next day.[^4]
 
-6       Shortly after, on 20 July 2018, the Contract was terminated for reasons irrelevant to the present proceedings.[\[note: 5\]](#Ftn_5)
+6       Shortly after, on 20 July 2018, the Contract was terminated for reasons irrelevant to the present proceedings.[^5]
 
-7       On 30 August 2018, the Sub-Contractor served Progress Claim 10 (“PC10”), [\[note: 6\]](#Ftn_6) claiming for works done until 30 August 2018 and for the release of half of the retention monies (being 2.5% of the Contract sum).[\[note: 7\]](#Ftn_7)
+7       On 30 August 2018, the Sub-Contractor served Progress Claim 10 (“PC10”), [^6] claiming for works done until 30 August 2018 and for the release of half of the retention monies (being 2.5% of the Contract sum).[^7]
 
-8       The Main Contractor disputed the amount claimed under PC10, causing the Sub-Contractor to submit an Adjudication Application on 24 September 2018.[\[note: 8\]](#Ftn_8)
+8       The Main Contractor disputed the amount claimed under PC10, causing the Sub-Contractor to submit an Adjudication Application on 24 September 2018.[^8]
 
-9       On 22 October 2018, the Amended Adjudication Determination (“AD”)[\[note: 9\]](#Ftn_9) was released, and it was determined that the sum of $95,704.37 (including GST) was payable by the Main Contractor to the Sub-Contractor.[\[note: 10\]](#Ftn_10)
+9       On 22 October 2018, the Amended Adjudication Determination (“AD”)[^9] was released, and it was determined that the sum of $95,704.37 (including GST) was payable by the Main Contractor to the Sub-Contractor.[^10]
 
 10     Dissatisfied, the Main Contractor filed the present application, seeking to set aside the AD.
 
@@ -48,13 +49,13 @@ Building and Construction Law – Statutes and regulations – Building and 
 
 (_b_)    where the contract does not contain such provision, at such time as may be prescribed.
 
-14     Clause 37 of the Contract (“clause 37”) stipulated that the Sub-Contractor had to withhold its penultimate payment claim “until _three months after the Certificate of Substantial Completion_ has been received by” the Main Contractor \[emphasis added\].[\[note: 11\]](#Ftn_11) At the hearing before me, it was accepted that PC10, being a claim for work done until completion and for half of the retention monies (2.5% of the Contract sum), was the penultimate payment claim.[\[note: 12\]](#Ftn_12)
+14     Clause 37 of the Contract (“clause 37”) stipulated that the Sub-Contractor had to withhold its penultimate payment claim “until _three months after the Certificate of Substantial Completion_ has been received by” the Main Contractor \[emphasis added\].[^11] At the hearing before me, it was accepted that PC10, being a claim for work done until completion and for half of the retention monies (2.5% of the Contract sum), was the penultimate payment claim.[^12]
 
 15     Hence, if, notwithstanding the termination of the Contract, clause 37 remained applicable in stipulating the timeline for the service of the penultimate payment claim, PC10, having been served less than three months after the CSC was received (see \[5\] – \[7\] above), was served prematurely and in contravention of s 10(2)(_a_) SOPA.
 
 ### The Adjudicator’s decision
 
-16     The Adjudicator held that given the termination of the Contract, the parties no longer had to perform their remaining obligations therein.[\[note: 13\]](#Ftn_13) However, all accrued rights of the parties _prior_ to the said termination had to be performed. Therefore, the Adjudicator held that clause 37 (a remaining obligation) no longer applied. Given that works had been completed, the Sub-Contractor was accordingly entitled to claim for the value of work done (an accrued right) as well as all the retention monies (5% of the Contract sum).[\[note: 14\]](#Ftn_14)
+16     The Adjudicator held that given the termination of the Contract, the parties no longer had to perform their remaining obligations therein.[^13] However, all accrued rights of the parties _prior_ to the said termination had to be performed. Therefore, the Adjudicator held that clause 37 (a remaining obligation) no longer applied. Given that works had been completed, the Sub-Contractor was accordingly entitled to claim for the value of work done (an accrued right) as well as all the retention monies (5% of the Contract sum).[^14]
 
 ### Dual-track regime for construction claims
 
@@ -104,7 +105,7 @@ Building and Construction Law – Statutes and regulations – Building and 
 
 ## Clause 37 is not voided by s 36(2) SOPA
 
-31     In further arguments, the Sub-Contractor submitted that clause 37 was void as it contravenes s 36(2) SOPA,[\[note: 15\]](#Ftn_15) which provides that:
+31     In further arguments, the Sub-Contractor submitted that clause 37 was void as it contravenes s 36(2) SOPA,[^15] which provides that:
 
 (2)    The following provisions in any contract or agreement (whether in writing or not) shall be void:
 
@@ -118,7 +119,7 @@ Building and Construction Law – Statutes and regulations – Building and 
 
 … The Act seeks to strike some balance between competing considerations. On the one hand, there is the _protection of the entitlement of those who perform construction work_, or supply related goods or services, to receive progress payments. On the other, there is the _freedom of parties to contract_ as they wish. … \[I\]n interpreting the “avoidance provisions”, it is necessary to pay due regard to the objects of and policy underlying the Act. But, that having been said, I do not think that anything in the Act generally … requires the Court to strain to find that a provision of a contract offends the Act. \[emphasis added\]
 
-33     In _John Holland Pty Ltd v Coastal Dredging & Construction Pty Limited & Ors_ (“_John Holland_”),[\[note: 16\]](#Ftn_16) the main contractor applied to set aside an adjudicator’s decision. One issue that arose was whether clauses 12.6(h) and 12.6(i) of the contract were void.
+33     In _John Holland Pty Ltd v Coastal Dredging & Construction Pty Limited & Ors_ (“_John Holland_”),[^16] the main contractor applied to set aside an adjudicator’s decision. One issue that arose was whether clauses 12.6(h) and 12.6(i) of the contract were void.
 
 34     Clauses 12.6(h) provided that a payment claim submitted by the sub-contractor would be void if it did not comply with certain conditions, such as ensuring that the payment claim was submitted to the main contractor’s project manager. If the payment claim was so void by virtue of clause 12.6(h), clause 12.6(i) then provided that the sub-contractor’s payment claim would be deferred to the same day of the following month (_John Holland_ at \[6\] and \[8\]).
 
@@ -128,7 +129,7 @@ Building and Construction Law – Statutes and regulations – Building and 
 
 37     On one hand, the deferment of the Sub-Contractor’s right to submit its penultimate payment claim by virtue of clause 37 appears to offend the object of SOPA, which entitles a contractor to payment upon completion of works (s 5 SOPA). This is to facilitate cash flow for parties in the construction industry (_Singapore Parliamentary Debates, Official Report_ (16 November 2004) vol 78 at col 1112 (Cedric Foo Chee Keng, Minister of State for National Development)).
 
-38     On the other hand, SOPA accords primacy to the parties’ agreement with respect to payment claim timelines (see s 10(2) SOPA at \[13\] above). In accordance with this, the parties agreed, via clause 37, that the penultimate payment claim was to be submitted at least three months after the receipt of the CSC. This was so as to give the Main Contractor sufficient time to assess the total value of the Sub-Contractor’s works upon completion. Being a re-measurement contract, a final measurement of the work done and certified was necessary for valuing all the works completed by the Sub-Contractor.[\[note: 17\]](#Ftn_17)
+38     On the other hand, SOPA accords primacy to the parties’ agreement with respect to payment claim timelines (see s 10(2) SOPA at \[13\] above). In accordance with this, the parties agreed, via clause 37, that the penultimate payment claim was to be submitted at least three months after the receipt of the CSC. This was so as to give the Main Contractor sufficient time to assess the total value of the Sub-Contractor’s works upon completion. Being a re-measurement contract, a final measurement of the work done and certified was necessary for valuing all the works completed by the Sub-Contractor.[^17]
 
 39     Furthermore, as the penultimate payment claim included a claim for half of the retention monies, more time would also be needed by the Main Contractor to investigate if there were any uncompleted works or defects to be highlighted to the Sub-Contractor, all of which would have to be subsequently made good by the Sub-Contractor. The three-month window following the issuance of the CSC would therefore be helpful in allowing sufficient time for completing any uncompleted works or making good any defects. If they remain uncompleted or unrectified, it would then allow the Main Contractor to raise a set-off in response to the penultimate payment claim.
 
@@ -144,39 +145,39 @@ Building and Construction Law – Statutes and regulations – Building and 
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)Chua Shueh Er’s 1st Affidavit (28 November 2018) (“Chua’s Affidavit”), CSE-1 Tab 2 at p 59.
+[^1]: Chua Shueh Er’s 1st Affidavit (28 November 2018) (“Chua’s Affidavit”), CSE-1 Tab 2 at p 59.
 
-[\[note: 2\]](#Ftn_2_1)Chua’s Affidavit, CSE-1 Tab 2 at p 59.
+[^2]: Chua’s Affidavit, CSE-1 Tab 2 at p 59.
 
-[\[note: 3\]](#Ftn_3_1)Chua’s Affidavit, CSE-1 Tab 2 at p 59.
+[^3]: Chua’s Affidavit, CSE-1 Tab 2 at p 59.
 
-[\[note: 4\]](#Ftn_4_1)Chua’s Affidavit, para 28, and CSE-1 Tab 9 at p 914.
+[^4]: Chua’s Affidavit, para 28, and CSE-1 Tab 9 at p 914.
 
-[\[note: 5\]](#Ftn_5_1)Chua’s Affidavit, para 43, and CSE-1 Tab 1 at p 45, para 23.
+[^5]: Chua’s Affidavit, para 43, and CSE-1 Tab 1 at p 45, para 23.
 
-[\[note: 6\]](#Ftn_6_1)Chua’s Affidavit, CSE-1 Tab 3.
+[^6]: Chua’s Affidavit, CSE-1 Tab 3.
 
-[\[note: 7\]](#Ftn_7_1)Chua’s Affidavit, paras 31–33.
+[^7]: Chua’s Affidavit, paras 31–33.
 
-[\[note: 8\]](#Ftn_8_1)Chua’s Affidavit, CSE-1 Tab 4.
+[^8]: Chua’s Affidavit, CSE-1 Tab 4.
 
-[\[note: 9\]](#Ftn_9_1)Chua’s Affidavit, CSE-1 Tab 1.
+[^9]: Chua’s Affidavit, CSE-1 Tab 1.
 
-[\[note: 10\]](#Ftn_10_1)Chua’s Affidavit, CSE-1 Tab 1, p 56, para 47(a).
+[^10]: Chua’s Affidavit, CSE-1 Tab 1, p 56, para 47(a).
 
-[\[note: 11\]](#Ftn_11_1)Chua’s Affidavit, CSE-1 Tab 2 at p 67.
+[^11]: Chua’s Affidavit, CSE-1 Tab 2 at p 67.
 
-[\[note: 12\]](#Ftn_12_1)FTR 16 Jan (Chamber 4C), 11:06 am.
+[^12]: FTR 16 Jan (Chamber 4C), 11:06 am.
 
-[\[note: 13\]](#Ftn_13_1)AD, paras 24–26.
+[^13]: AD, paras 24–26.
 
-[\[note: 14\]](#Ftn_14_1)AD, para 26.
+[^14]: AD, para 26.
 
-[\[note: 15\]](#Ftn_15_1)Defendant’s Reply to the Plaintiff’s Submissions at para 14.
+[^15]: Defendant’s Reply to the Plaintiff’s Submissions at para 14.
 
-[\[note: 16\]](#Ftn_16_1)Defendant’s Supplementary Bundle of Authorities at Tab A.
+[^16]: Defendant’s Supplementary Bundle of Authorities at Tab A.
 
-[\[note: 17\]](#Ftn_17_1)Chua’s Affidavit, para 34.
+[^17]: Chua’s Affidavit, para 34.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F22911-SSP.xml)

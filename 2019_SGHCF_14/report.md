@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # UVH and another _v_ UVJ and others  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Suit No 6 of 2016 (Taking of Accounts or Inquiries No 1 of 2017)</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">03 June 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court (Family Division)</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Valerie Thean J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Philip Jeyaretnam SC and Reuben Gavin Peter (Dentons Rodyk &amp; Davidson LLP) for the plaintiffs; N Sreenivasan SC and Lim Shu Fen (K&amp;L Gates Straits Law Practice LLC) for the first to third defendants; Dr G Raman (Withers KhattarWong LLP) for the fourth to sixth defendants.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">UVH — UVI — UVJ — UVK — UVL — UVO — UVP — UVQ</td></tr></tbody></table>
@@ -16,7 +17,7 @@ Equity – Remedies – Account
 
 ## Background
 
-2       The Testator passed away on 30 May 1997. The grant of probate was issued on 4 September 2000.[\[note: 1\]](#Ftn_1) The Testator’s will dated 8 May 1996 (“the Will”) was a simple one and its material parts read as follows:
+2       The Testator passed away on 30 May 1997. The grant of probate was issued on 4 September 2000.[^1] The Testator’s will dated 8 May 1996 (“the Will”) was a simple one and its material parts read as follows:
 
 I, \[Testator\], of \[address\], hereby revoke all former testamentary dispositions made by me.
 
@@ -48,31 +49,31 @@ vi)    to my daughter, \[UVI\] 1 share
 
 3       The Will did not provide the Brothers, who were named as executors of the Estate in Clause 1, with any power to postpone the getting in, conversion or distribution of the assets.
 
-4       Clause 2 contained a specific devise to two half-siblings (“the Half-Siblings”) in the sum of $500,000 each. Only Clause 2 has been administered, because of action taken by the Half-Siblings. Around December 2000, the Half-Siblings, through their solicitors, started asking the Brothers for information relating to the steps that the Brothers had taken in administering the Estate since the grant of probate was obtained, as well as a statement of the Estate’s account.[\[note: 2\]](#Ftn_2) None was supplied. Finally, on 4 September 2002, the Half-Siblings filed Originating Summons No 1241 of 2002 (“OS 1241/2002”) to compel the Brothers to accede to their requests for information and a statement of the Estate’s account. They complained that the Brothers had not been forthcoming in providing any information despite their fiduciary obligations as executors.[\[note: 3\]](#Ftn_3)
+4       Clause 2 contained a specific devise to two half-siblings (“the Half-Siblings”) in the sum of $500,000 each. Only Clause 2 has been administered, because of action taken by the Half-Siblings. Around December 2000, the Half-Siblings, through their solicitors, started asking the Brothers for information relating to the steps that the Brothers had taken in administering the Estate since the grant of probate was obtained, as well as a statement of the Estate’s account.[^2] None was supplied. Finally, on 4 September 2002, the Half-Siblings filed Originating Summons No 1241 of 2002 (“OS 1241/2002”) to compel the Brothers to accede to their requests for information and a statement of the Estate’s account. They complained that the Brothers had not been forthcoming in providing any information despite their fiduciary obligations as executors.[^3]
 
-5       OS 1241/2002 was eventually resolved on 4 December 2002 with no substantive orders made.[\[note: 4\]](#Ftn_4) Nevertheless, Belinda Ang Saw Ean JC (as she then was) ordered costs against the Brothers, for the reason that it was the lack of information provided to the Half-Siblings that prompted them to take out the application. These costs, together with the legal fees incurred through defending the action, were charged to the Estate.[\[note: 5\]](#Ftn_5) Thereafter, the Half-Siblings were each paid their entitlement of $500,000 on 19 October 2004.[\[note: 6\]](#Ftn_6) The Brothers did not inform the Sisters about OS 1241/2002, the legal costs that ensued, or the payment to the Half-Siblings.[\[note: 7\]](#Ftn_7)
+5       OS 1241/2002 was eventually resolved on 4 December 2002 with no substantive orders made.[^4] Nevertheless, Belinda Ang Saw Ean JC (as she then was) ordered costs against the Brothers, for the reason that it was the lack of information provided to the Half-Siblings that prompted them to take out the application. These costs, together with the legal fees incurred through defending the action, were charged to the Estate.[^5] Thereafter, the Half-Siblings were each paid their entitlement of $500,000 on 19 October 2004.[^6] The Brothers did not inform the Sisters about OS 1241/2002, the legal costs that ensued, or the payment to the Half-Siblings.[^7]
 
 6       This suit arises out of Clause 3, which devised all the Testator’s “real and personal property whatsoever and wheresoever” to the five children and the Mother. The Mother was still alive at the time of the Testator’s death. She died in November 2015. Although the Will contained no power to postpone the calling in and distribution of assets, the administration of the Estate has not, to date, been completed.
 
-7       The Testator, during his lifetime, had channelled the profits of his quarrying business into substantial real property investments held by various private companies. His Estate therefore included a sizable real estate portfolio at his time of death, held in the main through four private companies, which I shall refer to in this judgment as “\[A\] Trading”, “\[B\] Development”, “\[C\] Investments” and “\[D\] Company”, and collectively as “the Companies”. Prior to the Testator’s demise, the Brothers had been appointed as directors in the Companies (save for UVJ’s directorships in \[A\] Trading, \[B\] Development and \[C\] Investments), and had held shares in their own names.[\[note: 8\]](#Ftn_8)
+7       The Testator, during his lifetime, had channelled the profits of his quarrying business into substantial real property investments held by various private companies. His Estate therefore included a sizable real estate portfolio at his time of death, held in the main through four private companies, which I shall refer to in this judgment as “\[A\] Trading”, “\[B\] Development”, “\[C\] Investments” and “\[D\] Company”, and collectively as “the Companies”. Prior to the Testator’s demise, the Brothers had been appointed as directors in the Companies (save for UVJ’s directorships in \[A\] Trading, \[B\] Development and \[C\] Investments), and had held shares in their own names.[^8]
 
-8       The Testator’s, and therefore his Estate’s, shareholding comprised 1.67% in \[A\] Trading, 2.22% in \[B\] Development, 0.19% in \[C\] Investments, and 12.5% in \[D\] Company. \[D\] Company also held 34% in \[A\] Trading and 37.92% in \[B\] Development, and \[A\] Trading held 97.56% in \[C\] Investments. It is not disputed that from 1997, the Brothers used the Estate’s shares to vote in favour of resolutions re-appointing themselves as directors and approving their remuneration as directors in the Companies.[\[note: 9\]](#Ftn_9) The Sisters were not consulted on these various decisions.[\[note: 10\]](#Ftn_10) The Sisters were also not informed of the substantial proceeds received as a result of divestment of real estate from the Companies’ portfolios. Dividends accrued to the Estate in 2008 and 2012,[\[note: 11\]](#Ftn_11) but the Sisters were not informed nor were their share of the dividends distributed to them.
+8       The Testator’s, and therefore his Estate’s, shareholding comprised 1.67% in \[A\] Trading, 2.22% in \[B\] Development, 0.19% in \[C\] Investments, and 12.5% in \[D\] Company. \[D\] Company also held 34% in \[A\] Trading and 37.92% in \[B\] Development, and \[A\] Trading held 97.56% in \[C\] Investments. It is not disputed that from 1997, the Brothers used the Estate’s shares to vote in favour of resolutions re-appointing themselves as directors and approving their remuneration as directors in the Companies.[^9] The Sisters were not consulted on these various decisions.[^10] The Sisters were also not informed of the substantial proceeds received as a result of divestment of real estate from the Companies’ portfolios. Dividends accrued to the Estate in 2008 and 2012,[^11] but the Sisters were not informed nor were their share of the dividends distributed to them.
 
-9       The youngest brother, the third defendant, lived with the Mother at the family home until her death. The two elder Brothers lived in premises owned by the Companies. The first defendant, UVJ, has been staying at \[E\] Shelford Road from 1 January 2008, and has been paying a monthly rental of $7,000.[\[note: 12\]](#Ftn_12) Similarly, the second defendant, UVK, has been staying at \[F\] Shelford Road from 20 December 2000, and has also been paying monthly rental of varying amounts. There is no dispute that these rentals paid were at a value below market valuation. The Sisters were not aware of the benefits in kind enjoyed by UVJ and UVK, and discovered the arrangements in the context of the current proceedings.[\[note: 13\]](#Ftn_13)
+9       The youngest brother, the third defendant, lived with the Mother at the family home until her death. The two elder Brothers lived in premises owned by the Companies. The first defendant, UVJ, has been staying at \[E\] Shelford Road from 1 January 2008, and has been paying a monthly rental of $7,000.[^12] Similarly, the second defendant, UVK, has been staying at \[F\] Shelford Road from 20 December 2000, and has also been paying monthly rental of varying amounts. There is no dispute that these rentals paid were at a value below market valuation. The Sisters were not aware of the benefits in kind enjoyed by UVJ and UVK, and discovered the arrangements in the context of the current proceedings.[^13]
 
-10     The Testator’s Estate included an apartment at Jalan Kechil (“the Eastern Mansion property”), which was owned by the Testator at the time of his death. The Testator’s mistress, Mdm Kok, had lived there from 1993. Before his passing, the Testator had entered into an agreement to participate in an en-bloc collective sale of the Eastern Mansion property.[\[note: 14\]](#Ftn_14) The Brothers contend that the late Testator had given instructions for Madam Kok to stay in the Eastern Mansion property, rent-free, until the en-bloc sale was concluded.[\[note: 15\]](#Ftn_15) It is not disputed that the Sisters were not informed of the existence of or the arrangements pertaining to Madam Kok’s residence at the Eastern Mansion property.[\[note: 16\]](#Ftn_16) The Eastern Mansion property was eventually sold in May 2006 for $909,207.90.[\[note: 17\]](#Ftn_17) Upon the collective sale taking place, the Sisters signed their consent to the sale as beneficiaries of the Estate and subsequently the proceeds of sale were distributed.
+10     The Testator’s Estate included an apartment at Jalan Kechil (“the Eastern Mansion property”), which was owned by the Testator at the time of his death. The Testator’s mistress, Mdm Kok, had lived there from 1993. Before his passing, the Testator had entered into an agreement to participate in an en-bloc collective sale of the Eastern Mansion property.[^14] The Brothers contend that the late Testator had given instructions for Madam Kok to stay in the Eastern Mansion property, rent-free, until the en-bloc sale was concluded.[^15] It is not disputed that the Sisters were not informed of the existence of or the arrangements pertaining to Madam Kok’s residence at the Eastern Mansion property.[^16] The Eastern Mansion property was eventually sold in May 2006 for $909,207.90.[^17] Upon the collective sale taking place, the Sisters signed their consent to the sale as beneficiaries of the Estate and subsequently the proceeds of sale were distributed.
 
-11     The Testator’s Estate also included land in Johor Bahru (“the JB Land”). In 2011, the Brothers received an attractive offer to purchase the JB Land and decided to accept the offer.[\[note: 18\]](#Ftn_18) As part of the process for the sale of the JB Land, the Brothers required the agreement of the Mother and the Sisters as beneficiaries of the Estate. Because of her unhappiness over the Mother’s gift of her share of the Eastern Mansion proceeds to UVL, UVI refused to sign the relevant documents for the transfer of the land unless the Mother waived receipt of her share of the proceeds from the sale.[\[note: 19\]](#Ftn_19) The manner in which this dispute was resolved is not free from contention, but on 11 April 2011, the beneficiaries signed the relevant documentation and sold the JB Land for the sum of $879,800.[\[note: 20\]](#Ftn_20) The Brothers then aggregated the proceeds with a portion of the dividends from the Companies that had accumulated in the Estate account since May 2008.[\[note: 21\]](#Ftn_21) Using a $1m starting figure, the Brothers distributed the $1m in five portions, such that each sibling individually received $200,000.[\[note: 22\]](#Ftn_22) The Sisters were not aware that their portions contained dividend components.
+11     The Testator’s Estate also included land in Johor Bahru (“the JB Land”). In 2011, the Brothers received an attractive offer to purchase the JB Land and decided to accept the offer.[^18] As part of the process for the sale of the JB Land, the Brothers required the agreement of the Mother and the Sisters as beneficiaries of the Estate. Because of her unhappiness over the Mother’s gift of her share of the Eastern Mansion proceeds to UVL, UVI refused to sign the relevant documents for the transfer of the land unless the Mother waived receipt of her share of the proceeds from the sale.[^19] The manner in which this dispute was resolved is not free from contention, but on 11 April 2011, the beneficiaries signed the relevant documentation and sold the JB Land for the sum of $879,800.[^20] The Brothers then aggregated the proceeds with a portion of the dividends from the Companies that had accumulated in the Estate account since May 2008.[^21] Using a $1m starting figure, the Brothers distributed the $1m in five portions, such that each sibling individually received $200,000.[^22] The Sisters were not aware that their portions contained dividend components.
 
-12     On 7 November 2015, the Mother passed away. Her Last Will and Testament provides that UVL is entitled to a two-sixth share of her Estate, while the remaining siblings are entitled to a one-sixth share each.[\[note: 23\]](#Ftn_23) UVJ, UVK and UVL are the executors of her Estate and are joined in their capacities as such as UVO, UVP and UVQ.
+12     On 7 November 2015, the Mother passed away. Her Last Will and Testament provides that UVL is entitled to a two-sixth share of her Estate, while the remaining siblings are entitled to a one-sixth share each.[^23] UVJ, UVK and UVL are the executors of her Estate and are joined in their capacities as such as UVO, UVP and UVQ.
 
-13     On 17 March 2016, the Sisters sent a letter to the Brothers, seeking a statement of the Estate’s account.[\[note: 24\]](#Ftn_24) Although the Brothers rendered a statement of account on 15 April 2016,[\[note: 25\]](#Ftn_25) the Sisters were of the opinion that it was unsatisfactory[\[note: 26\]](#Ftn_26) and commenced High Court (Family Division) Suit No 6 of 2016 against the Brothers on 25 July 2016. They followed on with Summons No 370 of 2016 (“S 370/2016”), a summary application for an account to be taken of the Estate on a wilful default basis.[\[note: 27\]](#Ftn_27) I granted the order on 10 April 2017.
+13     On 17 March 2016, the Sisters sent a letter to the Brothers, seeking a statement of the Estate’s account.[^24] Although the Brothers rendered a statement of account on 15 April 2016,[^25] the Sisters were of the opinion that it was unsatisfactory[^26] and commenced High Court (Family Division) Suit No 6 of 2016 against the Brothers on 25 July 2016. They followed on with Summons No 370 of 2016 (“S 370/2016”), a summary application for an account to be taken of the Estate on a wilful default basis.[^27] I granted the order on 10 April 2017.
 
 14     At the time of the taking of the accounts, UVJ, the eldest child, was 72. The first four siblings are close in age, with the fifth, UVL, some 11-12 years younger than UVI, the fourth child and younger of the two Sisters. UVL was 59 at the taking of accounts. UVH, the third child and elder of the two Sisters, acted by her litigation representative.
 
 ## Issues
 
-15     After viewing the accounts provided by the Brothers, the Sisters argue that the Brothers had committed deliberate and systematic breaches of their fiduciary duties as executors of the Estate.[\[note: 28\]](#Ftn_28) In particular, they seek the following remedies in the taking of the accounts:
+15     After viewing the accounts provided by the Brothers, the Sisters argue that the Brothers had committed deliberate and systematic breaches of their fiduciary duties as executors of the Estate.[^28] In particular, they seek the following remedies in the taking of the accounts:
 
 (a)     First, an account of profits or in the alternative, equitable compensation, for the sum of $20,987,689.90, being the total remuneration received by the Brothers for the accounting period, to the Estate’s account;
 
@@ -96,7 +97,7 @@ vi)    to my daughter, \[UVI\] 1 share
 
 ### Scope of remedies upon the taking of an account
 
-18     The Sisters’ requests in respect of the remedies to be granted after the taking of accounts included an account of profits and the removal of the Brothers as executors. The Brothers are of the view that the current proceedings for the taking of accounts are limited to dealing with assets which belonged to the Testator, for two reasons. The first is that the remedies arising out of the account should be limited to the Order of Court dated 10 April 2017 in S 370/2016 (“the Order of Court).[\[note: 29\]](#Ftn_29) The material part of the Order of Court, which followed from the grant of an order in terms of the summons, states as follows:[\[note: 30\]](#Ftn_30)
+18     The Sisters’ requests in respect of the remedies to be granted after the taking of accounts included an account of profits and the removal of the Brothers as executors. The Brothers are of the view that the current proceedings for the taking of accounts are limited to dealing with assets which belonged to the Testator, for two reasons. The first is that the remedies arising out of the account should be limited to the Order of Court dated 10 April 2017 in S 370/2016 (“the Order of Court).[^29] The material part of the Order of Court, which followed from the grant of an order in terms of the summons, states as follows:[^30]
 
 It is ordered that:
 
@@ -108,7 +109,7 @@ It is ordered that:
 
 4.    The Defendants do pay to the Plaintiffs the amount found to be due from the Defendants to the Plaintiffs on the taking of such account.
 
-19     Mr Sreenivasan SC argues that wider remedies, in this case, for the removal and replacement of executors, or an account of profits, may not be ordered after the taking of accounts. For the removal of the executors, he concedes that this had been sufficiently pleaded within the statement of claim, but is of the view that a further application must be specifically filed for this purpose. For the account of profits, a second objection is that there is no express stipulation in the Sisters’ statement of claim for the remedy of an account of profits.[\[note: 31\]](#Ftn_31)There had to be, in his view, a separate statement of claim brought by the Sisters that specified an account of profits as a consequential remedy to the taking of accounts.[\[note: 32\]](#Ftn_32) At various junctures, he suggested that the matter be listed again for trial, or a new statement of claim be filed; no authorities were tendered in aid of these propositions.
+19     Mr Sreenivasan SC argues that wider remedies, in this case, for the removal and replacement of executors, or an account of profits, may not be ordered after the taking of accounts. For the removal of the executors, he concedes that this had been sufficiently pleaded within the statement of claim, but is of the view that a further application must be specifically filed for this purpose. For the account of profits, a second objection is that there is no express stipulation in the Sisters’ statement of claim for the remedy of an account of profits.[^31]There had to be, in his view, a separate statement of claim brought by the Sisters that specified an account of profits as a consequential remedy to the taking of accounts.[^32] At various junctures, he suggested that the matter be listed again for trial, or a new statement of claim be filed; no authorities were tendered in aid of these propositions.
 
 20     I agree with Mr Jeyaretnam SC that the statement of claim has sufficiently prayed for the remedies requested. The pleading for the removal of executors is conceded. As for the account of profits, Prayer B requests “\[a\]n account of what is due to the Plaintiffs and payment of the amount found due on taking the account”. This prayer envisaged that the Sisters would claim any entitlement arising from an account, including any account of profits that may be due. Regarding the Order of Court, clauses 1 and 2 would sufficiently deal with all remedies arising out of the taking of the account. Clause 3 stipulated restitution for any sums found misappropriated; in any event it could not be said to limit any wider remedies for any misfeasance established arising from clauses 1 and 2. The Sisters, in their notice of objections and non-admissions dated 22 September 2017 filed in response to the accounts, specifically included a surcharge for an account of profits for “\[u\]nauthorised profits made by the Defendants” and “\[p\]ersonal expenses of the Defendants which were borne by the Companies”, at items 6 and 7.
 
@@ -134,7 +135,7 @@ The accounting procedure under the law of equity is often used for a variety of 
 
 26     The second preliminary issue arises from the process of the accounts being taken on a wilful default basis. Counsel agreed when they appeared before me at the pre-trial conference (“JPTC”) that the order of witnesses would be reversed for the taking of the accounts, as the basis for the account was that of wilful default and the Brothers were fiduciaries who would possess direct knowledge of the accounts’ administration. After the Brothers’ case closed, the Sisters decided not to give evidence, choosing to rely on the admissions that had been made by the Brothers in cross-examination.
 
-27     The Brothers contend that the effect of the Sisters’ decision to not give evidence is threefold. First, that the Sisters cannot dispute the Brothers’ version of events. Secondly, that adverse inferences should be drawn against the Sisters under s 116(_g_) of the Evidence Act (Cap 97, 1997 Rev Ed) (“EA”).[\[note: 33\]](#Ftn_33) Thirdly, that there cannot be any finding that the Brothers were in breach of their fiduciary duties, because there was no evidence to demonstrate so.[\[note: 34\]](#Ftn_34)
+27     The Brothers contend that the effect of the Sisters’ decision to not give evidence is threefold. First, that the Sisters cannot dispute the Brothers’ version of events. Secondly, that adverse inferences should be drawn against the Sisters under s 116(_g_) of the Evidence Act (Cap 97, 1997 Rev Ed) (“EA”).[^33] Thirdly, that there cannot be any finding that the Brothers were in breach of their fiduciary duties, because there was no evidence to demonstrate so.[^34]
 
 28     There appears to be some misunderstanding of the course of events. The accounts were ordered to be taken on a wilful default basis because the Sisters were able, on a summary basis, to establish failure on the part of the Brothers to exercise the requisite standard of care. This was the effect of the hearing on 10 April 2017, from which the Brothers did not appeal. In the brief oral grounds given at the time of judgment, I highlighted at least two breaches of fiduciary duties. The first was the failure on the part of the Brothers to furnish any form of account for some 19 years. The second was the failure to distribute or deal with the shares in the Companies. Putting the Brothers’ case at its highest at the point that summary judgment was given, they ought to have turned their attention to the general devise once they had dealt with the pecuniary legacies to the Half-Siblings in October 2004.
 
@@ -174,13 +175,13 @@ The court may presume ––
 
 ## Directors’ remuneration
 
-36     The Brothers are directors at the Companies in which the Estate has shareholdings. The Sisters’ position is that the Brothers should account for all the remuneration they received as directors of the Companies in which the Estate had shareholding because they did not disclose their conflict of interest.[\[note: 35\]](#Ftn_35) Their premise is that a fiduciary who gains unauthorised profits within the scope of their duty is obliged to account for those profits to their beneficiary. Because a principal is entitled to the single-minded loyalty of his fiduciary, a fiduciary ought not to place himself in a position where his interest and duty conflict. Where he does, full and informed consent of the beneficiaries is necessary.
+36     The Brothers are directors at the Companies in which the Estate has shareholdings. The Sisters’ position is that the Brothers should account for all the remuneration they received as directors of the Companies in which the Estate had shareholding because they did not disclose their conflict of interest.[^35] Their premise is that a fiduciary who gains unauthorised profits within the scope of their duty is obliged to account for those profits to their beneficiary. Because a principal is entitled to the single-minded loyalty of his fiduciary, a fiduciary ought not to place himself in a position where his interest and duty conflict. Where he does, full and informed consent of the beneficiaries is necessary.
 
 ### Salaries and bonuses
 
 37     The Sisters therefore argue that the Brothers had committed a breach of fiduciary duty by voting on the Estate shares while in a position of conflict of interest, without first seeking their informed consent, in order to obtain remuneration that constituted unauthorised profits. They claim an account of profits, or in the alternative, equitable compensation.
 
-38     On the other hand, the Brothers deny that the Estate is entitled to their remuneration. They contend that they received the remuneration in their capacity as directors of the Companies, rather than in their capacity as executors.[\[note: 36\]](#Ftn_36) They point to the fact that they had been appointed as directors in the Companies prior to their becoming executors of the Testator’s Estate (save for UVJ’s directorships in \[A\] Trading, \[B\] Development and \[C\] Investments).[\[note: 37\]](#Ftn_37) Moreover, they claim the Sisters had known that they were beneficiaries at the time the relevant resolutions were being passed, and simply chose not to question the Brothers.[\[note: 38\]](#Ftn_38) The Brothers further emphasise that the Estate’s shareholding in the Companies was very much a minority shareholding.[\[note: 39\]](#Ftn_39) They argue that the approval of their remuneration could not be attributed to the Estate’s shares when the latter was neither instrumental in procuring the Brothers’ appointments as directors nor in passing the resolutions granting their remuneration.[\[note: 40\]](#Ftn_40)
+38     On the other hand, the Brothers deny that the Estate is entitled to their remuneration. They contend that they received the remuneration in their capacity as directors of the Companies, rather than in their capacity as executors.[^36] They point to the fact that they had been appointed as directors in the Companies prior to their becoming executors of the Testator’s Estate (save for UVJ’s directorships in \[A\] Trading, \[B\] Development and \[C\] Investments).[^37] Moreover, they claim the Sisters had known that they were beneficiaries at the time the relevant resolutions were being passed, and simply chose not to question the Brothers.[^38] The Brothers further emphasise that the Estate’s shareholding in the Companies was very much a minority shareholding.[^39] They argue that the approval of their remuneration could not be attributed to the Estate’s shares when the latter was neither instrumental in procuring the Brothers’ appointments as directors nor in passing the resolutions granting their remuneration.[^40]
 
 39     In particular, the Brothers rely on the decision of _In re Gee, decd._ \[1948\] Ch 284 (“_In re Gee_”), at 295, which, they point out, was cited with approval and applied in _Cheong Soh Chin_ at \[224\]–\[226\]:
 
@@ -198,25 +199,25 @@ The court may presume ––
 
 227    In any event, however, I find that the Engs gave sufficient disclosure, and moreover, received the Wees’ informed consent. The Engs highlighted multiple times to the Wees that such a fee was being negotiated, and moreover, informed the Wees when that fee was finally agreed. The relevant details of the fee, being the amount of 2.5% of the investment amount, was also disclosed.
 
-42     Coming to the facts of this case, there were clearly actions taken in conflict of interest _without_ the informed consent of the beneficiaries. The conflict of interest arose because the directors’ remuneration and the dividends payable to shareholders came from the same pool of funds. The Companies owned valuable properties that were sold or for which acquisition compensation was given. These proceeds could have been channelled either into directors’ remuneration or dividends. The quarries held by \[A\] Trading, for example, were compulsorily acquired by the government in 1998 with a gain of $16,895,000. A supplementary award in 2001 for compulsory acquisition by the government resulted in a further gain of $21,100,000. These gains were accumulated in the reserves of \[A\] Trading but were reduced by substantial net losses in 1999, 2000, and 2002 to 2007. A property owned by \[A\] Trading was sold in 2010 with a gain of $21,788,610 $5,031,632 was diverted as remuneration in 2010. Director salaries were tripled such that between 2011 and 2015, the remuneration to directors amounted to about $1.3m per year despite low levels of income, resulting in net losses: for example, $695,000 in 2011, $575,000 in 2015. UVJ admitted in cross-examination that the interest of the directors would lie in higher bonuses, while the Sisters’ interest would lie in higher dividends.[\[note: 41\]](#Ftn_41) While the Estate’s shares were not instrumental in procuring the passing of the resolutions that granted the Brothers’ their remuneration, there is no doubt that the Estate’s votes were indeed used by the Brothers to vote in favour of resolutions approving the directors’ remuneration.[\[note: 42\]](#Ftn_42) The use of the Estate’s shares, without the informed consent of beneficiaries, constitutes a breach of the no-conflict rule. Informed consent was necessary but not obtained.[\[note: 43\]](#Ftn_43)
+42     Coming to the facts of this case, there were clearly actions taken in conflict of interest _without_ the informed consent of the beneficiaries. The conflict of interest arose because the directors’ remuneration and the dividends payable to shareholders came from the same pool of funds. The Companies owned valuable properties that were sold or for which acquisition compensation was given. These proceeds could have been channelled either into directors’ remuneration or dividends. The quarries held by \[A\] Trading, for example, were compulsorily acquired by the government in 1998 with a gain of $16,895,000. A supplementary award in 2001 for compulsory acquisition by the government resulted in a further gain of $21,100,000. These gains were accumulated in the reserves of \[A\] Trading but were reduced by substantial net losses in 1999, 2000, and 2002 to 2007. A property owned by \[A\] Trading was sold in 2010 with a gain of $21,788,610 $5,031,632 was diverted as remuneration in 2010. Director salaries were tripled such that between 2011 and 2015, the remuneration to directors amounted to about $1.3m per year despite low levels of income, resulting in net losses: for example, $695,000 in 2011, $575,000 in 2015. UVJ admitted in cross-examination that the interest of the directors would lie in higher bonuses, while the Sisters’ interest would lie in higher dividends.[^41] While the Estate’s shares were not instrumental in procuring the passing of the resolutions that granted the Brothers’ their remuneration, there is no doubt that the Estate’s votes were indeed used by the Brothers to vote in favour of resolutions approving the directors’ remuneration.[^42] The use of the Estate’s shares, without the informed consent of beneficiaries, constitutes a breach of the no-conflict rule. Informed consent was necessary but not obtained.[^43]
 
-43     In my judgment, it was the very fact of non-disclosure that allowed the Brothers to draw down on the proceeds of properties sold by the company. Shareholder approval in this particular company was a foregone conclusion because those voting were receiving the remuneration voted upon. Thus, \[A\] Trading could submit the IR8A tax declaration form in January 2011 for the payment of a $863,000 bonus to the first defendant prior to its approval at the relevant AGM in July 2011.[\[note: 44\]](#Ftn_44) Further, it was the non-disclosure that allowed continuation of the remuneration for many years. Despite the Estate’s small shareholding, the Sisters would not be without remedy if they did not agree with the vote: for instance, they could have had recourse to s 216 of the Companies Act (Cap 50, 2006 Rev Ed) under a claim for minority oppression. The continuation of the Brothers’ misconduct was permitted by the non-disclosure, which has had significant practical effect. Cross-examination revealed that there were no contracts of employment or any documents delineating their scope of work as directors. The Brothers’ remuneration bore no relation to the work done within the Companies. For example, in Financial Year 2010, \[A\] Trading paid UVJ the sum of $863,000 as a bonus although he was fully employed as a senior executive elsewhere. Amongst the salaries which escalated in 2011 was the near doubling of the salary of one Mr Lee, a man who was at the time 90 years of age, had not visited the office for a number of years, and who passed away the next year in 2012.
+43     In my judgment, it was the very fact of non-disclosure that allowed the Brothers to draw down on the proceeds of properties sold by the company. Shareholder approval in this particular company was a foregone conclusion because those voting were receiving the remuneration voted upon. Thus, \[A\] Trading could submit the IR8A tax declaration form in January 2011 for the payment of a $863,000 bonus to the first defendant prior to its approval at the relevant AGM in July 2011.[^44] Further, it was the non-disclosure that allowed continuation of the remuneration for many years. Despite the Estate’s small shareholding, the Sisters would not be without remedy if they did not agree with the vote: for instance, they could have had recourse to s 216 of the Companies Act (Cap 50, 2006 Rev Ed) under a claim for minority oppression. The continuation of the Brothers’ misconduct was permitted by the non-disclosure, which has had significant practical effect. Cross-examination revealed that there were no contracts of employment or any documents delineating their scope of work as directors. The Brothers’ remuneration bore no relation to the work done within the Companies. For example, in Financial Year 2010, \[A\] Trading paid UVJ the sum of $863,000 as a bonus although he was fully employed as a senior executive elsewhere. Amongst the salaries which escalated in 2011 was the near doubling of the salary of one Mr Lee, a man who was at the time 90 years of age, had not visited the office for a number of years, and who passed away the next year in 2012.
 
-44     I should make clear three matters for completeness. First, the Brothers contended at various points that the Sisters had deprived themselves of their rights by their decision to refrain from questioning the Brothers until after their Mother’s death.[\[note: 45\]](#Ftn_45) Counsel clarified when asked that he is not advancing any case of estoppel. There is no merit in this argument. Any knowledge the Sisters may have had that they were beneficiaries at the time is irrelevant to the responsibility of the Brothers. Full and frank disclosure of all relevant matters is the requisite standard (see _Murad_ at \[71\]). The Brothers clearly failed to meet this standard.
+44     I should make clear three matters for completeness. First, the Brothers contended at various points that the Sisters had deprived themselves of their rights by their decision to refrain from questioning the Brothers until after their Mother’s death.[^45] Counsel clarified when asked that he is not advancing any case of estoppel. There is no merit in this argument. Any knowledge the Sisters may have had that they were beneficiaries at the time is irrelevant to the responsibility of the Brothers. Full and frank disclosure of all relevant matters is the requisite standard (see _Murad_ at \[71\]). The Brothers clearly failed to meet this standard.
 
-45     Second, while the Brothers have sought to argue that their remuneration is in line with salaries earned in the field of private equity,[\[note: 46\]](#Ftn_46) this was not the role they performed as directors. The evidence provided by the Brothers’ expert witness, Mr Sim, on private equity salaries is therefore irrelevant. Further, any question of their remuneration being reasonable only arises if the court is of the view that they should be given an equitable allowance. The granting of an equitable allowance is the exception, not the norm (see _Mona Computer_ at \[23\]). It is for the fiduciary to establish that it would be inequitable to order an account of one’s entire profits (see _Mona Computer_ at \[28\]). There are no facts upon which to make such an order. The Brothers have not shown themselves to be honest fiduciaries nor have they done work for the Estate. Quite the opposite. They remained responsible for the Estate’s shareholding in the Companies because they had not distributed the shares. Having omitted to distribute the shares, they were responsible to keep the beneficiaries informed and to act in the beneficiaries’ best interest. Drawing down the proceeds of the property proceeds through directors’ remuneration was not in the best interests of the beneficiaries. In any event, once their remuneration is paid back into the Estate, they will receive a share of the same as beneficiaries of the Estate.
+45     Second, while the Brothers have sought to argue that their remuneration is in line with salaries earned in the field of private equity,[^46] this was not the role they performed as directors. The evidence provided by the Brothers’ expert witness, Mr Sim, on private equity salaries is therefore irrelevant. Further, any question of their remuneration being reasonable only arises if the court is of the view that they should be given an equitable allowance. The granting of an equitable allowance is the exception, not the norm (see _Mona Computer_ at \[23\]). It is for the fiduciary to establish that it would be inequitable to order an account of one’s entire profits (see _Mona Computer_ at \[28\]). There are no facts upon which to make such an order. The Brothers have not shown themselves to be honest fiduciaries nor have they done work for the Estate. Quite the opposite. They remained responsible for the Estate’s shareholding in the Companies because they had not distributed the shares. Having omitted to distribute the shares, they were responsible to keep the beneficiaries informed and to act in the beneficiaries’ best interest. Drawing down the proceeds of the property proceeds through directors’ remuneration was not in the best interests of the beneficiaries. In any event, once their remuneration is paid back into the Estate, they will receive a share of the same as beneficiaries of the Estate.
 
-46     Third, the Brothers contend that the rule against reflective loss applies to bar the Sisters’ claim for an account of profits.[\[note: 47\]](#Ftn_47) The principle of reflective loss dictates that a claim will not lie by a shareholder to make good a loss which would be made good if the company’s assets were replenished through action by the company against the party responsible for the loss (see _Townsing Henry George v Jenton Overseas Investment Pte Ltd (in liquidation)_ at \[69\]). But the profits claimed here are not owed to the Companies. The Sisters claim in their capacity as beneficiaries, for the Brothers to disgorge the wrongful profits they obtained while acting in breach of their fiduciary duties. The premise of the account to the beneficiaries is to ensure that the defaulting fiduciary does not retain the profit. The rule against reflective loss has no applicability in the present case.
+46     Third, the Brothers contend that the rule against reflective loss applies to bar the Sisters’ claim for an account of profits.[^47] The principle of reflective loss dictates that a claim will not lie by a shareholder to make good a loss which would be made good if the company’s assets were replenished through action by the company against the party responsible for the loss (see _Townsing Henry George v Jenton Overseas Investment Pte Ltd (in liquidation)_ at \[69\]). But the profits claimed here are not owed to the Companies. The Sisters claim in their capacity as beneficiaries, for the Brothers to disgorge the wrongful profits they obtained while acting in breach of their fiduciary duties. The premise of the account to the beneficiaries is to ensure that the defaulting fiduciary does not retain the profit. The rule against reflective loss has no applicability in the present case.
 
 47     An account of the Brothers’ profits in terms of the remuneration earned is therefore owed to the Estate. The directors’ remuneration in the sum of $20,978,689.90 received by the Brothers should therefore be repaid to the Estate.
 
 ### Benefits in kind
 
-48     With regard to the benefits in kind enjoyed by the Brothers in the form of the two properties at \[E\] Shelford Road and \[F\] Shelford Road, which were owned by the Companies, the Brothers conceded in cross-examination that they were renting the premises at below annual value.[\[note: 48\]](#Ftn_48)
+48     With regard to the benefits in kind enjoyed by the Brothers in the form of the two properties at \[E\] Shelford Road and \[F\] Shelford Road, which were owned by the Companies, the Brothers conceded in cross-examination that they were renting the premises at below annual value.[^48]
 
-49     UVJ also conceded during cross-examination that no attempts were made to rent out the said properties, nor was there any approval by the Companies’ shareholders or the Sisters that was sought and obtained for them to reside there at the lower rentals they were paying.[\[note: 49\]](#Ftn_49) This thus constitutes an impermissible benefit enjoyed by the Brothers.
+49     UVJ also conceded during cross-examination that no attempts were made to rent out the said properties, nor was there any approval by the Companies’ shareholders or the Sisters that was sought and obtained for them to reside there at the lower rentals they were paying.[^49] This thus constitutes an impermissible benefit enjoyed by the Brothers.
 
-50     The sums of $174,000 and $360,000, premised on the difference between the rental amounts paid by the Brothers and the annual value of the two properties, are to be surcharged to the Estate’s accounts.[\[note: 50\]](#Ftn_50)
+50     The sums of $174,000 and $360,000, premised on the difference between the rental amounts paid by the Brothers and the annual value of the two properties, are to be surcharged to the Estate’s accounts.[^50]
 
 ### Alternative claim in equitable compensation
 
@@ -224,31 +225,31 @@ The court may presume ––
 
 ## Debt of $1m owed to the Mother’s estate
 
-52     The Sisters ask for the falsification of a sum of $1m said to be owed to the Mother’s estate. The Brothers say this arises from the sale of the JB Land. The Sisters contend that prior to the sale of the JB Land, the beneficiaries had agreed to a five-way split of the Mother’s share of the monies from the sale of the JB Land amongst each sibling.[\[note: 51\]](#Ftn_51) There was thus no liability to the Mother for the sum of $1m, and any claim to the contrary was simply an excuse devised by the Brothers to explain away their failure to distribute the assets.[\[note: 52\]](#Ftn_52)
+52     The Sisters ask for the falsification of a sum of $1m said to be owed to the Mother’s estate. The Brothers say this arises from the sale of the JB Land. The Sisters contend that prior to the sale of the JB Land, the beneficiaries had agreed to a five-way split of the Mother’s share of the monies from the sale of the JB Land amongst each sibling.[^51] There was thus no liability to the Mother for the sum of $1m, and any claim to the contrary was simply an excuse devised by the Brothers to explain away their failure to distribute the assets.[^52]
 
-53     In contrast, the Brothers contend that the Mother, as the rightful beneficiary of half of the Testator’s residuary Estate, was entitled to the sum as part of a distribution.[\[note: 53\]](#Ftn_53) They argue that the five children had received a total of $1m from the sale of the JB Land as an advance of monies, with the Mother receiving her share at a later date.[\[note: 54\]](#Ftn_54) Under the Will, the Mother was entitled to half of all the Testator’s real property; the entitlement to half of the JB Land proceeds arose out of this devise.
+53     In contrast, the Brothers contend that the Mother, as the rightful beneficiary of half of the Testator’s residuary Estate, was entitled to the sum as part of a distribution.[^53] They argue that the five children had received a total of $1m from the sale of the JB Land as an advance of monies, with the Mother receiving her share at a later date.[^54] Under the Will, the Mother was entitled to half of all the Testator’s real property; the entitlement to half of the JB Land proceeds arose out of this devise.
 
-54     On this issue, the Brothers as fiduciaries bear the burden of demonstrating that any entry is properly made: see above, at \[34\]. The Sisters signed their transfers in due course, with the second plaintiff’s pre-condition for the proceeds to be paid equally between the five siblings (without any payment to the Mother) still in place. This is at odds with any agreement that the five-way split of the Mother’s share of the JB Land was merely an advance distribution of funds. Indeed, no agreement was alleged. UVL gave evidence that the signatures of all beneficiaries were needed for the land sale to be effected, and that the second plaintiff refused to sign the relevant transfer documents unless the Mother’s share of the proceeds was divided amongst the five children.[\[note: 55\]](#Ftn_55) His evidence was that the Mother had “informed \[him\] that she would not confront the second Plaintiff and was agreeable to receive her share at a later date”.[\[note: 56\]](#Ftn_56) In other words, the Brothers’ defence was that the Mother deferred the receipt of her share.
+54     On this issue, the Brothers as fiduciaries bear the burden of demonstrating that any entry is properly made: see above, at \[34\]. The Sisters signed their transfers in due course, with the second plaintiff’s pre-condition for the proceeds to be paid equally between the five siblings (without any payment to the Mother) still in place. This is at odds with any agreement that the five-way split of the Mother’s share of the JB Land was merely an advance distribution of funds. Indeed, no agreement was alleged. UVL gave evidence that the signatures of all beneficiaries were needed for the land sale to be effected, and that the second plaintiff refused to sign the relevant transfer documents unless the Mother’s share of the proceeds was divided amongst the five children.[^55] His evidence was that the Mother had “informed \[him\] that she would not confront the second Plaintiff and was agreeable to receive her share at a later date”.[^56] In other words, the Brothers’ defence was that the Mother deferred the receipt of her share.
 
-55     The surrounding evidence belie the Brothers’ narrative, for three reasons. First, the proceeds from the sale of the JB Land were $879,800.[\[note: 57\]](#Ftn_57) The Mother’s entitlement in such an instance would be $439,900, not $1m. Even if one were to take into account the additional funds that were taken out of the Estate account and added to the $879,800 to form the total disbursement of $1m to the five children, this would not equate to an entitlement of $1m.[\[note: 58\]](#Ftn_58) The correct method to reflect any deferral in payment on the Mother’s part in the accounts would be to reflect $439,900 as owing to her for the land. While counsel for the Brothers argues that money is fungible, the proceeds from the sale of land were a specific amount.
+55     The surrounding evidence belie the Brothers’ narrative, for three reasons. First, the proceeds from the sale of the JB Land were $879,800.[^57] The Mother’s entitlement in such an instance would be $439,900, not $1m. Even if one were to take into account the additional funds that were taken out of the Estate account and added to the $879,800 to form the total disbursement of $1m to the five children, this would not equate to an entitlement of $1m.[^58] The correct method to reflect any deferral in payment on the Mother’s part in the accounts would be to reflect $439,900 as owing to her for the land. While counsel for the Brothers argues that money is fungible, the proceeds from the sale of land were a specific amount.
 
-56     Second, the Estate received significant dividends in 2012.[\[note: 59\]](#Ftn_59) The Mother could have been repaid the sum she had deferred receipt on at that point, but was not.
+56     Second, the Estate received significant dividends in 2012.[^59] The Mother could have been repaid the sum she had deferred receipt on at that point, but was not.
 
-57     Third, the accounts do not reflect the Mother’s debt at all. Despite the JB Land being sold in 2011,[\[note: 60\]](#Ftn_60) the $1m (or even the $439,900), owed to the Mother was not recorded in the accounts kept by the accounts clerk at \[D\] Company. This was despite the accounts having acknowledged the sale of the JB Land.[\[note: 61\]](#Ftn_61) Indeed, no debt to the Mother was reflected even in the accounts annexed to the defence filed. The lack of any entry in the accounts supports the Sisters’ position that the Mother waived her entitlement altogether.
+57     Third, the accounts do not reflect the Mother’s debt at all. Despite the JB Land being sold in 2011,[^60] the $1m (or even the $439,900), owed to the Mother was not recorded in the accounts kept by the accounts clerk at \[D\] Company. This was despite the accounts having acknowledged the sale of the JB Land.[^61] Indeed, no debt to the Mother was reflected even in the accounts annexed to the defence filed. The lack of any entry in the accounts supports the Sisters’ position that the Mother waived her entitlement altogether.
 
 58     I therefore accept the Sisters’ position that the distribution of the JB Land proceeds after the second plaintiff’s clear request shows that the Mother had waived her entitlement to her portion of the residual Estate from the sale of the JB Land. I also agree that the $1m debt was created as an excuse to counter the Sisters’ allegation made in this suit that the Brothers had tarried unreasonably with regard to distributing the assets for an unreasonably lengthy period of time.
 
-59     I should mention the expert evidence of Mr Sim on the $1m entry is of limited usefulness. He admitted that he did not take any steps to inquire into the circumstances of the purported debt to the Mother’s estate beyond the instructions of UVL.[\[note: 62\]](#Ftn_62)
+59     I should mention the expert evidence of Mr Sim on the $1m entry is of limited usefulness. He admitted that he did not take any steps to inquire into the circumstances of the purported debt to the Mother’s estate beyond the instructions of UVL.[^62]
 
 60     I thus find that the sum of $1m owing to the Mother’s estate should be falsified. As this sum has yet to be disbursed to the Mother’s estate, it is simply to be removed as an outstanding liability from the Estate account.
 
 ## The Eastern Mansion property
 
-61     The Sisters argue that the Brothers, in failing to consult them with regard to the affairs of the Eastern Mansion property and not attempting to rent it out, have failed to maximise its value.[\[note: 63\]](#Ftn_63) They are thus seeking to surcharge the late Testator’s Estate account with the value of the rental income that would have been otherwise collected by the Testator’s Estate until the sale of the Eastern Mansion property, a sum of $84,600. This essentially constitutes a claim under the head of equitable compensation, which resembles common law damages in that it is awarded by way of compensation to the plaintiff for his loss (see _Then Khek Khoon and another v Arjun Permanand Samtani and another and other suits_ at \[105\]; _Mothew_ at 17G–H).
+61     The Sisters argue that the Brothers, in failing to consult them with regard to the affairs of the Eastern Mansion property and not attempting to rent it out, have failed to maximise its value.[^63] They are thus seeking to surcharge the late Testator’s Estate account with the value of the rental income that would have been otherwise collected by the Testator’s Estate until the sale of the Eastern Mansion property, a sum of $84,600. This essentially constitutes a claim under the head of equitable compensation, which resembles common law damages in that it is awarded by way of compensation to the plaintiff for his loss (see _Then Khek Khoon and another v Arjun Permanand Samtani and another and other suits_ at \[105\]; _Mothew_ at 17G–H).
 
-62     The Brothers instead claim that it was pursuant to the Testator’s late wishes that they decided not to rent out the Eastern Mansion property. They allowed the Testator’s mistress to stay rent-free in the Eastern Mansion property until the house was sold.[\[note: 64\]](#Ftn_64) I note that the Brothers were unable to adduce any direct documentary evidence evincing the late Testator’s intention for his mistress to stay rent free in the Eastern Mansion property.[\[note: 65\]](#Ftn_65)
+62     The Brothers instead claim that it was pursuant to the Testator’s late wishes that they decided not to rent out the Eastern Mansion property. They allowed the Testator’s mistress to stay rent-free in the Eastern Mansion property until the house was sold.[^64] I note that the Brothers were unable to adduce any direct documentary evidence evincing the late Testator’s intention for his mistress to stay rent free in the Eastern Mansion property.[^65]
 
-63     Taking a holistic view of the evidence, I am of the opinion that the Brothers’ decision to allow Mdm Kok to reside there rent-free until the time of the en-bloc sale was a reasonable one. The Brothers adduced evidence that the late Testator had been paying for the utility bills for his mistress and her family since 1993 and he had issued a cheque of $150,000 dated 24 May 1996 to Mdm Kok.[\[note: 66\]](#Ftn_66). Mdm Kok’s daughter was an employee of one of the Companies at the time of his passing. These facts support the Brothers’ contention that the Testator wished for Mdm Kok to remain at the Eastern Mansion property rent-free until the en bloc sale. Importantly, I note that the Brothers would possess a financial incentive to rent out the Eastern Mansion property, as they too would have benefitted by virtue of their position as beneficiaries of the late Testator’s Estate. Their interests aligned with those of their Sisters on this issue.
+63     Taking a holistic view of the evidence, I am of the opinion that the Brothers’ decision to allow Mdm Kok to reside there rent-free until the time of the en-bloc sale was a reasonable one. The Brothers adduced evidence that the late Testator had been paying for the utility bills for his mistress and her family since 1993 and he had issued a cheque of $150,000 dated 24 May 1996 to Mdm Kok.[^66]. Mdm Kok’s daughter was an employee of one of the Companies at the time of his passing. These facts support the Brothers’ contention that the Testator wished for Mdm Kok to remain at the Eastern Mansion property rent-free until the en bloc sale. Importantly, I note that the Brothers would possess a financial incentive to rent out the Eastern Mansion property, as they too would have benefitted by virtue of their position as beneficiaries of the late Testator’s Estate. Their interests aligned with those of their Sisters on this issue.
 
 64     Notwithstanding, the Brothers, as part of their responsibility as executors to keep beneficiaries informed, ought to have kept the Sisters apprised with regard to the affairs of the Eastern Mansion property, and they did not. I am of the view, nevertheless, that had they done so, the Sisters would in all probability have agreed with this course of action. Their Mother was still alive during this period, and even if they disagreed with the Testator’s preference, such a decision would have minimised embarrassment to their Mother.
 
@@ -256,9 +257,9 @@ The court may presume ––
 
 ## Legal Fees incurred in OS 1241/2002
 
-66     The Sisters argue that the Brothers were not entitled to charge the legal fees incurred in OS 1241/2002 to the Estate.[\[note: 67\]](#Ftn_67) They claim that the Brothers’ refusal to provide the necessary information the Half-Siblings were seeking led to the latter’s application in OS 1241/2002, and the subsequent incurring of legal fees.[\[note: 68\]](#Ftn_68) The Brothers, on the other hand, contend that the legal costs were an expense incurred on behalf of the Estate and should legitimately be deducted from the Estate monies.[\[note: 69\]](#Ftn_69) Great emphasis was placed on the fact that the Estate purportedly did not have enough money at the time for the pecuniary disbursements of $500,000 to each Half-Sibling.[\[note: 70\]](#Ftn_70)
+66     The Sisters argue that the Brothers were not entitled to charge the legal fees incurred in OS 1241/2002 to the Estate.[^67] They claim that the Brothers’ refusal to provide the necessary information the Half-Siblings were seeking led to the latter’s application in OS 1241/2002, and the subsequent incurring of legal fees.[^68] The Brothers, on the other hand, contend that the legal costs were an expense incurred on behalf of the Estate and should legitimately be deducted from the Estate monies.[^69] Great emphasis was placed on the fact that the Estate purportedly did not have enough money at the time for the pecuniary disbursements of $500,000 to each Half-Sibling.[^70]
 
-67     I agree with the Sisters that the expenses for OS 1241/2002 were not reasonably incurred. The devise to the Half-Siblings was clear from the Will, and the Half-Siblings ought to have been informed when they could have been paid in a transparent manner as soon as practicable. After probate was issued, the Half-Siblings asked the Brothers for information through their solicitors from December 2000 onwards.[\[note: 71\]](#Ftn_71) The Brothers did not answer satisfactorily, which led to OS 1241/2002 being filed on 4 September 2002, more than one and a half years after their first letter. As admitted by UVL during cross-examination, it was the Brothers’ refusal to be forthcoming with their Half-Siblings that led to OS 1241/2002 being taken out.[\[note: 72\]](#Ftn_72) This, too, was the reason that the court made the costs order that it did.
+67     I agree with the Sisters that the expenses for OS 1241/2002 were not reasonably incurred. The devise to the Half-Siblings was clear from the Will, and the Half-Siblings ought to have been informed when they could have been paid in a transparent manner as soon as practicable. After probate was issued, the Half-Siblings asked the Brothers for information through their solicitors from December 2000 onwards.[^71] The Brothers did not answer satisfactorily, which led to OS 1241/2002 being filed on 4 September 2002, more than one and a half years after their first letter. As admitted by UVL during cross-examination, it was the Brothers’ refusal to be forthcoming with their Half-Siblings that led to OS 1241/2002 being taken out.[^72] This, too, was the reason that the court made the costs order that it did.
 
 68     The Brothers’ argument that they did not have sufficient funds in 2000 misses the mark. It was their refusal to provide any information or explanation to their Half-Siblings that triggered OS 1241/2002. The legal fees of OS 1241/2002 were thus unnecessarily incurred by the Brothers, and cannot be considered as reasonable testamentary expenses that could otherwise be charged to the Estate’s funds under s 67(1) of the Probate and Administration Act (Cap 251, 2000 Rev Ed) (“Probate and Administration Act”).
 
@@ -276,9 +277,9 @@ The court may presume ––
 
 72     The applicable test for whether an executor should be removed involves taking into account whether there has been improper administration of the estate. Thus, in _Jigarlal Kantilal Doshi v Damayanti Kantilal Doshi (executrix of the estate of Kantilal Prabhulal Doshi, deceased)_ , the Court of Appeal held at \[12\] that any evidence of misconduct on the part of the executors that demonstrates “undue and improper administration of the estate in total disregard of the interests of the beneficiaries” would be sufficient to revoke probate under s 32 of the Probate and Administration Act.
 
-73     The Sisters had established, even at the time of summary judgment for the account to be taken, the Brothers’ failure to distribute assets despite the absence of a power to postpone distribution, and the failure to furnish any account of their actions to the beneficiaries for a lengthy period of years.[\[note: 73\]](#Ftn_73) It was conceded at closing submissions that a regular account from the Brothers as fiduciaries, that the Sisters would have been entitled to as beneficiaries, would have included items such as the status of the Eastern Mansion property, the JB Land, and the shares of all the Companies.
+73     The Sisters had established, even at the time of summary judgment for the account to be taken, the Brothers’ failure to distribute assets despite the absence of a power to postpone distribution, and the failure to furnish any account of their actions to the beneficiaries for a lengthy period of years.[^73] It was conceded at closing submissions that a regular account from the Brothers as fiduciaries, that the Sisters would have been entitled to as beneficiaries, would have included items such as the status of the Eastern Mansion property, the JB Land, and the shares of all the Companies.
 
-74     The taking of accounts has also now established further breaches. Ignoring their core duty of loyalty and fidelity, the Brothers have omitted to distribute dividends and the shares held by the Estate without any reasonable justification.[\[note: 74\]](#Ftn_74) At the time of the summary hearing, the Brothers contended that the market had not recovered from the financial crisis until 2004, which was when they distributed the pecuniary bequests to their Half-Siblings. Nonetheless, their obligation commenced with the grant of probate in 2000, and during cross-examination at the taking of accounts, they were unable to furnish any good reason why they had not distributed the Estate shares _in specie_. Doing so would not have required cash. The Sisters’ component of the Estate shares was also small: they could have valued and then purchased the Sisters’ shares. Despite the small number of the shares, the substantial real estate portfolios the Companies held would have made the shares valuable. But whether in cash or _in specie_, no distribution was contemplated up to the time this suit was filed. Their contention was that of oversight because they were not professional executors. This contention is disingenuous considering that UVJ has held multiple senior corporate positions. The executors would well have known that it was incumbent on them to seek and follow legal advice, as they had for OS 1241/2002. Excuses proffered ranged from needing funds to maintain the JB Land, to requiring money to develop the JB Land, to engaging in a joint venture with a third party in respect of the JB Land. In truth, attempt at either form of distribution of the shares, whether in cash or _in specie_, would have alerted the Sisters to their share in a valuable stable of companies. The Brothers’ purpose was to keep their Sisters uninformed, in order to continue to extract value from the Companies in their capacity as directors. In so doing, they have acted in conflict with, and to the detriment of, their Sisters’ interest. A new executor, or executors, as the case may be, are appropriate to ensure a timely and proper realisation and distribution of the assets.
+74     The taking of accounts has also now established further breaches. Ignoring their core duty of loyalty and fidelity, the Brothers have omitted to distribute dividends and the shares held by the Estate without any reasonable justification.[^74] At the time of the summary hearing, the Brothers contended that the market had not recovered from the financial crisis until 2004, which was when they distributed the pecuniary bequests to their Half-Siblings. Nonetheless, their obligation commenced with the grant of probate in 2000, and during cross-examination at the taking of accounts, they were unable to furnish any good reason why they had not distributed the Estate shares _in specie_. Doing so would not have required cash. The Sisters’ component of the Estate shares was also small: they could have valued and then purchased the Sisters’ shares. Despite the small number of the shares, the substantial real estate portfolios the Companies held would have made the shares valuable. But whether in cash or _in specie_, no distribution was contemplated up to the time this suit was filed. Their contention was that of oversight because they were not professional executors. This contention is disingenuous considering that UVJ has held multiple senior corporate positions. The executors would well have known that it was incumbent on them to seek and follow legal advice, as they had for OS 1241/2002. Excuses proffered ranged from needing funds to maintain the JB Land, to requiring money to develop the JB Land, to engaging in a joint venture with a third party in respect of the JB Land. In truth, attempt at either form of distribution of the shares, whether in cash or _in specie_, would have alerted the Sisters to their share in a valuable stable of companies. The Brothers’ purpose was to keep their Sisters uninformed, in order to continue to extract value from the Companies in their capacity as directors. In so doing, they have acted in conflict with, and to the detriment of, their Sisters’ interest. A new executor, or executors, as the case may be, are appropriate to ensure a timely and proper realisation and distribution of the assets.
 
 75     For clarity, and Mr Jeyaretnam SC also confirmed at the hearing, in view of the facts shown during the account which necessitate the removal and replacement of the Brothers as executors, clause 4 of the Order of Court (which requires the Brothers to pay to the Sisters the amount found to be due to them on the taking of such account) is no longer necessary. As the Estate is not yet fully administered, the beneficiaries have no equitable or beneficial interest in any particular asset comprised in the unadministered estate (see _Wong Moy (administratrix of the estate of Theng Chee Khim, deceased) v Soo Ah Choy_ at \[11\]), theirs is the right in appropriate circumstances to institute action to protect the estate: see _Fong Wai Lyn Carolyn v Kao Chai-Chau Linda and others_ at \[8\]–\[16\]. It should be for the new executor/s to call in the assets and then decide on the distribution.
 
@@ -290,153 +291,153 @@ The court may presume ––
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)UVL’s Affidavit, Bundle of Affidavits of Evidence-In-Chief (“BAEIC”) Volume 1 Tab 2, p 74.
+[^1]: UVL’s Affidavit, Bundle of Affidavits of Evidence-In-Chief (“BAEIC”) Volume 1 Tab 2, p 74.
 
-[\[note: 2\]](#Ftn_2_1)PCB Volume 6, pp 4126-4131; NE 11 February 2019, p 16.
+[^2]: PCB Volume 6, pp 4126-4131; NE 11 February 2019, p 16.
 
-[\[note: 3\]](#Ftn_3_1)PCB Volume 6, p 4130.
+[^3]: PCB Volume 6, p 4130.
 
-[\[note: 4\]](#Ftn_4_1)PCB Volume 6, p 4207.
+[^4]: PCB Volume 6, p 4207.
 
-[\[note: 5\]](#Ftn_5_1)NE 11 February 2019, pp 20-21.
+[^5]: NE 11 February 2019, pp 20-21.
 
-[\[note: 6\]](#Ftn_6_1)UVL’s Affidavit, BAEIC Volume 1 Tab 2, p 34; NE 11 February 2019, p 24.
+[^6]: UVL’s Affidavit, BAEIC Volume 1 Tab 2, p 34; NE 11 February 2019, p 24.
 
-[\[note: 7\]](#Ftn_7_1)NE 12 February 2019, pp 7-8.
+[^7]: NE 12 February 2019, pp 7-8.
 
-[\[note: 8\]](#Ftn_8_1)UVL’s Affidavit, BAEIC Volume 1 Tab 2, p 10.
+[^8]: UVL’s Affidavit, BAEIC Volume 1 Tab 2, p 10.
 
-[\[note: 9\]](#Ftn_9_1)NE 7 February 2019, pp 109-110. 112.
+[^9]: NE 7 February 2019, pp 109-110. 112.
 
-[\[note: 10\]](#Ftn_10_1)NE 7 February 2019, p 112.
+[^10]: NE 7 February 2019, p 112.
 
-[\[note: 11\]](#Ftn_11_1)NE 7 February 2019, pp 113; NE 11 February 2019, p 56.
+[^11]: NE 7 February 2019, pp 113; NE 11 February 2019, p 56.
 
-[\[note: 12\]](#Ftn_12_1)UVL’s Affidavit, BAEIC Volume 1 Tab 2, pp 15-16.
+[^12]: UVL’s Affidavit, BAEIC Volume 1 Tab 2, pp 15-16.
 
-[\[note: 13\]](#Ftn_13_1)NE 8 February 2019, p 35.
+[^13]: NE 8 February 2019, p 35.
 
-[\[note: 14\]](#Ftn_14_1)UVL’s Affidavit, BAEIC Volume 1 Tab 2, pp 24, 775.
+[^14]: UVL’s Affidavit, BAEIC Volume 1 Tab 2, pp 24, 775.
 
-[\[note: 15\]](#Ftn_15_1)UVL’s Affidavit, BAEIC Volume 1 Tab 2, p 24.
+[^15]: UVL’s Affidavit, BAEIC Volume 1 Tab 2, p 24.
 
-[\[note: 16\]](#Ftn_16_1)NE 8 February 2019, p 16.
+[^16]: NE 8 February 2019, p 16.
 
-[\[note: 17\]](#Ftn_17_1)UVL’s Affidavit, BAEIC Volume 1 Tab 2, p 24.
+[^17]: UVL’s Affidavit, BAEIC Volume 1 Tab 2, p 24.
 
-[\[note: 18\]](#Ftn_18_1)NE 8 February 2019, p 148.
+[^18]: NE 8 February 2019, p 148.
 
-[\[note: 19\]](#Ftn_19_1)UVL’s Affidavit, BAEIC Volume 1 Tab 2, p 38; NE 8 February 2019, pp 148-149.
+[^19]: UVL’s Affidavit, BAEIC Volume 1 Tab 2, p 38; NE 8 February 2019, pp 148-149.
 
-[\[note: 20\]](#Ftn_20_1)UVL’s Affidavit, BAEIC Volume 1 Tab 2, pp 38, 1033-1057; NE 8 February 2019, p 148.
+[^20]: UVL’s Affidavit, BAEIC Volume 1 Tab 2, pp 38, 1033-1057; NE 8 February 2019, p 148.
 
-[\[note: 21\]](#Ftn_21_1)NE 11 February 2019, p 55.
+[^21]: NE 11 February 2019, p 55.
 
-[\[note: 22\]](#Ftn_22_1)UVL’s Affidavit, BAEIC Volume 1 Tab 2, pp 38-39; NE 8 February 2019, p 148.
+[^22]: UVL’s Affidavit, BAEIC Volume 1 Tab 2, pp 38-39; NE 8 February 2019, p 148.
 
-[\[note: 23\]](#Ftn_23_1)UVL’s Affidavit, BAEIC Volume 1 Tab 2, pp 39, 1080.
+[^23]: UVL’s Affidavit, BAEIC Volume 1 Tab 2, pp 39, 1080.
 
-[\[note: 24\]](#Ftn_24_1)PCB Volume 6, pp 3742-3743.
+[^24]: PCB Volume 6, pp 3742-3743.
 
-[\[note: 25\]](#Ftn_25_1)PCB Volume 6, pp 3746-3747.
+[^25]: PCB Volume 6, pp 3746-3747.
 
-[\[note: 26\]](#Ftn_26_1)PCB Volume 6, p 3748.
+[^26]: PCB Volume 6, p 3748.
 
-[\[note: 27\]](#Ftn_27_1)HCF/SUM 370/2016, Order of Court 10 April 2017.
+[^27]: HCF/SUM 370/2016, Order of Court 10 April 2017.
 
-[\[note: 28\]](#Ftn_28_1)Closing Submissions of the Plaintiffs, p 8.
+[^28]: Closing Submissions of the Plaintiffs, p 8.
 
-[\[note: 29\]](#Ftn_29_1)Closing Submissions for the 1st to 3rd Defendants, pp 21-22.
+[^29]: Closing Submissions for the 1st to 3rd Defendants, pp 21-22.
 
-[\[note: 30\]](#Ftn_30_1)HCF/SUM 370/2016, Order of Court 10 April 2017.
+[^30]: HCF/SUM 370/2016, Order of Court 10 April 2017.
 
-[\[note: 31\]](#Ftn_31_1)Closing Submissions for the 1st to 3rd Defendants, p 21.
+[^31]: Closing Submissions for the 1st to 3rd Defendants, p 21.
 
-[\[note: 32\]](#Ftn_32_1)Closing Submissions for the 1st to 3rd Defendants, p 23; NE 4 April 2019, pp 10-11.
+[^32]: Closing Submissions for the 1st to 3rd Defendants, p 23; NE 4 April 2019, pp 10-11.
 
-[\[note: 33\]](#Ftn_33_1)Closing Submissions for the 1st to 3rd Defendants, pp 26 and 30.
+[^33]: Closing Submissions for the 1st to 3rd Defendants, pp 26 and 30.
 
-[\[note: 34\]](#Ftn_34_1)NE 4 April 2019, p 11.
+[^34]: NE 4 April 2019, p 11.
 
-[\[note: 35\]](#Ftn_35_1)Closing Submissions of the Plaintiffs, pp 30-31.
+[^35]: Closing Submissions of the Plaintiffs, pp 30-31.
 
-[\[note: 36\]](#Ftn_36_1)Closing Submissions of the 1st to 3rd Defendants, p 37.
+[^36]: Closing Submissions of the 1st to 3rd Defendants, p 37.
 
-[\[note: 37\]](#Ftn_37_1)UVL’s Affidavit, BAEIC Volume 1 Tab 2, p 10.
+[^37]: UVL’s Affidavit, BAEIC Volume 1 Tab 2, p 10.
 
-[\[note: 38\]](#Ftn_38_1)Closing Submissions of the 1st to 3rd Defendants, p 32; NE 4 April 2019, p 17.
+[^38]: Closing Submissions of the 1st to 3rd Defendants, p 32; NE 4 April 2019, p 17.
 
-[\[note: 39\]](#Ftn_39_1)UVL’s Affidavit, BAEIC Volume 1 Tab 2, p 8.
+[^39]: UVL’s Affidavit, BAEIC Volume 1 Tab 2, p 8.
 
-[\[note: 40\]](#Ftn_40_1)Closing Submissions of the 1st to 3rd Defendants, p 49.
+[^40]: Closing Submissions of the 1st to 3rd Defendants, p 49.
 
-[\[note: 41\]](#Ftn_41_1)NE 7 February 2019, p 109.
+[^41]: NE 7 February 2019, p 109.
 
-[\[note: 42\]](#Ftn_42_1)NE 7 February 2019, p 121.
+[^42]: NE 7 February 2019, p 121.
 
-[\[note: 43\]](#Ftn_43_1)NE 7 February 2019, pp 111-112.
+[^43]: NE 7 February 2019, pp 111-112.
 
-[\[note: 44\]](#Ftn_44_1)NE 7 February 2019, p 85.
+[^44]: NE 7 February 2019, p 85.
 
-[\[note: 45\]](#Ftn_45_1)Closing Submissions of the 1st to 3rd Defendants, p 32; NE 4 April 2019, p 17.
+[^45]: Closing Submissions of the 1st to 3rd Defendants, p 32; NE 4 April 2019, p 17.
 
-[\[note: 46\]](#Ftn_46_1)NE 12 February 2019, p 66.
+[^46]: NE 12 February 2019, p 66.
 
-[\[note: 47\]](#Ftn_47_1)Closing Submissions of the 1st to 3rd Defendants, p 49.
+[^47]: Closing Submissions of the 1st to 3rd Defendants, p 49.
 
-[\[note: 48\]](#Ftn_48_1)UVL’s Affidavit, BAEIC Volume 1 Tab 2, p 15.
+[^48]: UVL’s Affidavit, BAEIC Volume 1 Tab 2, p 15.
 
-[\[note: 49\]](#Ftn_49_1)NE 8 February 2019, pp 38-39.
+[^49]: NE 8 February 2019, pp 38-39.
 
-[\[note: 50\]](#Ftn_50_1)NE 8 February 2019, pp 38–39 and 46; 1st to 3rd Defendants Bundle of Document for HCF/TAI 1/2017, pp 30–31.
+[^50]: NE 8 February 2019, pp 38–39 and 46; 1st to 3rd Defendants Bundle of Document for HCF/TAI 1/2017, pp 30–31.
 
-[\[note: 51\]](#Ftn_51_1)Closing Submissions of the Plaintiffs, pp 50-51.
+[^51]: Closing Submissions of the Plaintiffs, pp 50-51.
 
-[\[note: 52\]](#Ftn_52_1)Closing Submissions of the Plaintiffs, p 53.
+[^52]: Closing Submissions of the Plaintiffs, p 53.
 
-[\[note: 53\]](#Ftn_53_1)Closing Submissions of the 1st to 3rd Defendants, pp 66-67.
+[^53]: Closing Submissions of the 1st to 3rd Defendants, pp 66-67.
 
-[\[note: 54\]](#Ftn_54_1)Closing Submissions of the 1st to 3rd Defendants, p 66.
+[^54]: Closing Submissions of the 1st to 3rd Defendants, p 66.
 
-[\[note: 55\]](#Ftn_55_1)UVL’s Affidavit, BAEIC Volume 1 Tab 2, pp 37-38.
+[^55]: UVL’s Affidavit, BAEIC Volume 1 Tab 2, pp 37-38.
 
-[\[note: 56\]](#Ftn_56_1)UVL’s Affidavit, BAEIC Volume 1 Tab 2, p 34.
+[^56]: UVL’s Affidavit, BAEIC Volume 1 Tab 2, p 34.
 
-[\[note: 57\]](#Ftn_57_1)NE 8 February 2019, p 148.
+[^57]: NE 8 February 2019, p 148.
 
-[\[note: 58\]](#Ftn_58_1)NE 8 February 2019, p 148.
+[^58]: NE 8 February 2019, p 148.
 
-[\[note: 59\]](#Ftn_59_1)NE 7 February 2019, pp 113.
+[^59]: NE 7 February 2019, pp 113.
 
-[\[note: 60\]](#Ftn_60_1)UVL’s Affidavit, BAEIC Volume 1 Tab 2, p 34.
+[^60]: UVL’s Affidavit, BAEIC Volume 1 Tab 2, p 34.
 
-[\[note: 61\]](#Ftn_61_1)NE 8 February 2019, p 168; Defence dated 22nd August 2016, Exhibit 2.
+[^61]: NE 8 February 2019, p 168; Defence dated 22nd August 2016, Exhibit 2.
 
-[\[note: 62\]](#Ftn_62_1)NE 12 February 2019, p 62.
+[^62]: NE 12 February 2019, p 62.
 
-[\[note: 63\]](#Ftn_63_1)Closing Submissions of the Plaintiffs, pp 46–47.
+[^63]: Closing Submissions of the Plaintiffs, pp 46–47.
 
-[\[note: 64\]](#Ftn_64_1)NE 12 February 2019, pp 5–6; Closing Submissions for the 1st to 3rd Defendants, p 63.
+[^64]: NE 12 February 2019, pp 5–6; Closing Submissions for the 1st to 3rd Defendants, p 63.
 
-[\[note: 65\]](#Ftn_65_1)Closing Submissions for the 1st to 3rd Defendants, p 63.
+[^65]: Closing Submissions for the 1st to 3rd Defendants, p 63.
 
-[\[note: 66\]](#Ftn_66_1)UVL’s Affidavit, BAEIC Volume 1 Tab 2, p 24.
+[^66]: UVL’s Affidavit, BAEIC Volume 1 Tab 2, p 24.
 
-[\[note: 67\]](#Ftn_67_1)Closing Submissions of the Plaintiffs, p 48.
+[^67]: Closing Submissions of the Plaintiffs, p 48.
 
-[\[note: 68\]](#Ftn_68_1)NE 12 February 2019, p 18.
+[^68]: NE 12 February 2019, p 18.
 
-[\[note: 69\]](#Ftn_69_1)Closing Submissions for the 1st to 3rd Defendants.
+[^69]: Closing Submissions for the 1st to 3rd Defendants.
 
-[\[note: 70\]](#Ftn_70_1)NE 11 February 2019, p 16; NE 4 April 2019, p 37.
+[^70]: NE 11 February 2019, p 16; NE 4 April 2019, p 37.
 
-[\[note: 71\]](#Ftn_71_1)PCB Volume 6, p 4128.
+[^71]: PCB Volume 6, p 4128.
 
-[\[note: 72\]](#Ftn_72_1)NE 11 February 2019, p 17; NE 12 February 2019, pp 17–18.
+[^72]: NE 11 February 2019, p 17; NE 12 February 2019, pp 17–18.
 
-[\[note: 73\]](#Ftn_73_1)HCF/SUM 370/2016, Notes of Argument 10 April 2017, p 19.
+[^73]: HCF/SUM 370/2016, Notes of Argument 10 April 2017, p 19.
 
-[\[note: 74\]](#Ftn_74_1)NE 4 April 2019, p 66.
+[^74]: NE 4 April 2019, p 66.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23250-SSP.xml)

@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # Lim Chee Huat _v_ Public Prosecutor  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Magistrate's Appeal No 9269 of 2018</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">24 May 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Aedit Abdullah J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Zero Geraldo Mario Nalpon (Nalpon &amp; Co) for the appellant; Isaac Tan and Chin Jincheng (Attorney-General's Chambers) for the respondent.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Lim Chee Huat — Public Prosecutor</td></tr></tbody></table>
@@ -22,7 +23,7 @@ Criminal Procedure and Sentencing – Appeal
 
 4       The statement of agreed facts is set out in _Public Prosecutor v Lim Chee Huat_ (“GD”) at \[3\]. It was not disputed that a team of Central Narcotics Bureau (“CNB”) officers conducted a house visit at the appellant’s residence on 14 November 2016. The appellant reported to Ang Mo Kio Police Division Headquarters on 15 November 2016, where his urine samples were procured in accordance with procedures set out in the First Schedule to the Misuse of Drugs (Urine Specimens and Urine Tests) Regulations (Cap 185, Rg 6, 1999 Rev Ed). His urine samples were tested by the Health Sciences Authority (“HSA”) and found to contain methamphetamine.
 
-5       The appellant’s case at the trial below was that he did not knowingly consume methamphetamine. He had only consumed medication purchased from a man at Blk 322, Hougang Avenue 5 on 13 November 2016; this medication was found to contain traces of methamphetamine, cocaine and ketamine.[\[note: 1\]](#Ftn_1) He alleged that the CNB officer who recorded his statement – Prosecution Witness 2 SSSgt Andrew John Joachim (“PW2 SSSgt Joachim”) – had not recorded the fact that he had consumed medications prescribed by a _sinseh_ and medications from Tan Tock Seng Hospital and the National Skin Centre.[\[note: 2\]](#Ftn_2) He called on his daughter and wife to give evidence as to his good character.
+5       The appellant’s case at the trial below was that he did not knowingly consume methamphetamine. He had only consumed medication purchased from a man at Blk 322, Hougang Avenue 5 on 13 November 2016; this medication was found to contain traces of methamphetamine, cocaine and ketamine.[^1] He alleged that the CNB officer who recorded his statement – Prosecution Witness 2 SSSgt Andrew John Joachim (“PW2 SSSgt Joachim”) – had not recorded the fact that he had consumed medications prescribed by a _sinseh_ and medications from Tan Tock Seng Hospital and the National Skin Centre.[^2] He called on his daughter and wife to give evidence as to his good character.
 
 6       The Prosecution’s case at the trial below was that s 22 of the MDA operated such that the appellant was presumed to have consumed methamphetamine in contravention of s 8(_b_) of the MDA. The appellant failed to rebut this presumption on the balance of probabilities. His defence was contradicted by evidence from two storeowners working in the vicinity of Blk 322, Hougang Avenue 5 – PW8 Mr Heng Chee Kiong (“PW8 Mr Heng”) and PW9 Mdm Tan Buay Hoon (“PW9 Mdm Tan”) – that no _sinseh_ sold medicine in the location identified by the appellant. PW2 SSSgt Joachim had also confirmed that he had recorded two of the appellant’s statements accurately. Finally, the appellant’s defence was internally inconsistent and implausible.
 
@@ -38,9 +39,9 @@ Criminal Procedure and Sentencing – Appeal
 
 #### The issue of judicial copying
 
-9       The appellant submitted that the District Judge had plagiarised the Prosecution’s closing submissions and that his GD was therefore “worthless”. The District Judge had a duty to ensure that he gave due regard to both parties’ arguments, especially when the appellant was to be given the benefit of the doubt. However, he omitted to mention the Defence’s salient arguments. This methodology made a “mockery of the judiciary”. The resultant GD disclosed “clear bias” in favour of the Prosecution.[\[note: 3\]](#Ftn_3)
+9       The appellant submitted that the District Judge had plagiarised the Prosecution’s closing submissions and that his GD was therefore “worthless”. The District Judge had a duty to ensure that he gave due regard to both parties’ arguments, especially when the appellant was to be given the benefit of the doubt. However, he omitted to mention the Defence’s salient arguments. This methodology made a “mockery of the judiciary”. The resultant GD disclosed “clear bias” in favour of the Prosecution.[^3]
 
-10     The appellant undertook a detailed comparison of the GD _vis-à-vis_ the Prosecution’s submissions. He concluded that the District Judge had plagiarised 27 of the 43 paragraphs in the substantive portion of the GD, in the section under the heading “Analysis and assessment of evidence” (GD at \[19\] to \[61\]). In sum, the District Judge had substantially replicated the Prosecution’s submissions, opting only to rearrange the sequence of the paragraphs and make minor paraphrases. The District Judge’s plagiarism of the Prosecution’s submissions extended to the reproduction of a typographical error: for instance, \[32\] of the GD replicated para 57 of the Prosecution’s closing submissions, even including the Prosecution’s typographical error “once against”:[\[note: 4\]](#Ftn_4)
+10     The appellant undertook a detailed comparison of the GD _vis-à-vis_ the Prosecution’s submissions. He concluded that the District Judge had plagiarised 27 of the 43 paragraphs in the substantive portion of the GD, in the section under the heading “Analysis and assessment of evidence” (GD at \[19\] to \[61\]). In sum, the District Judge had substantially replicated the Prosecution’s submissions, opting only to rearrange the sequence of the paragraphs and make minor paraphrases. The District Judge’s plagiarism of the Prosecution’s submissions extended to the reproduction of a typographical error: for instance, \[32\] of the GD replicated para 57 of the Prosecution’s closing submissions, even including the Prosecution’s typographical error “once against”:[^4]
 
 <table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="50%"> <col width="50%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p class="Table-Heading-Center">Prosecution’s submissions</p></td><td align="left" class="b" rowspan="1" valign="top"><p class="Table-Heading-Center">Grounds of decision</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">57 Mdm Wong similarly provided conflicting testimony on the accused’s return from the Malaysian KTV back home. In the course of cross-examination, Mdm Wong provided three different timings for when the accused returned back to Singapore. She first stated that the accused came back home at midnight. When confronted with the accused’s statement, Mdm Wong then changed her testimony, and stated that the accused returned to Singapore after 2.00 a.m. in the morning. She provided no explanation whatsoever for this change in timing, but confirmed that this timing was accurate. Finally, when confronted with the immigration records of the accused, Mdm Wong once against changed her testimony, and merely stated that the accused returned in the wee hours of the morning. Given the inconsistencies in Mdm Wong’s testimony, it is clear that she is not a reliable or credible witness.</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">32&nbsp;I had also noted that Mdm Wong had similarly provided conflicting testimony on the accused’s return home from the Malaysian KTV lounge. In the course of cross-examination, Mdm Wong provided three different timings for when the accused returned back to Singapore. She first stated that the accused came back home at midnight. When confronted with the accused’s statement, Mdm Wong then changed her testimony, and stated that the accused returned to Singapore after 2.00 a.m. in the morning. She provided no explanation whatsoever for this change in timing, but confirmed that this timing was accurate. Finally, when confronted with the immigration records of the accused, Mdm Wong once against changed her testimony, and merely stated that the accused returned in the wee hours of the morning. Given the inconsistencies in Mdm Wong’s testimony, it was clear that she could not be considered to be totally reliable nor a credible witness.</p></td></tr></tbody></table>
 
@@ -237,7 +238,7 @@ Information technology has made it seductively easy to do what the judge did in 
 
 #### The presumption in s 22 of the MDA
 
-61     The appellant’s case was that he had consumed methamphetamine unknowingly when he took medication that he had bought from a peddler selling traditional Chinese medication.[\[note: 5\]](#Ftn_5) It was not enough, however, for the appellant to raise a reasonable doubt by way of his defence. The two HSA certificates which were admitted under s 16 of the MDA stated that the appellant’s urine samples were found to contain methamphetamine. The appellant thus had to prove on the balance of probabilities that he had not knowingly consumed methamphetamine, as the presumption in s 22 of the MDA applied:
+61     The appellant’s case was that he had consumed methamphetamine unknowingly when he took medication that he had bought from a peddler selling traditional Chinese medication.[^5] It was not enough, however, for the appellant to raise a reasonable doubt by way of his defence. The two HSA certificates which were admitted under s 16 of the MDA stated that the appellant’s urine samples were found to contain methamphetamine. The appellant thus had to prove on the balance of probabilities that he had not knowingly consumed methamphetamine, as the presumption in s 22 of the MDA applied:
 
 **Presumption relating to urine test**
 
@@ -247,9 +248,9 @@ Information technology has made it seductively easy to do what the judge did in 
 
 ##### (1)   The evidence and likelihood that there was such a peddler
 
-63     The appellant relied greatly on the argument that there had indeed been such a peddler selling medication at the open space in front of Blk 322, Hougang Ave 5, and that the evidence of the Prosecution’s witnesses left this possibility open. PW8 Mr Heng had only said that he “didn’t see \[a peddler\]” outside his shop, and the Prosecution could not have relied on his evidence to prove that no such peddler existed. PW8 Mr Heng’s evidence would only have been of value if he had been able to “view the said location and … to be always looking at the said location at regular intervals”.[\[note: 6\]](#Ftn_6) The appellant also criticised the value of PW9 Mdm Tan’s testimony as she said that she could not see the area in front of Blk 322 from inside her shop.[\[note: 7\]](#Ftn_7)
+63     The appellant relied greatly on the argument that there had indeed been such a peddler selling medication at the open space in front of Blk 322, Hougang Ave 5, and that the evidence of the Prosecution’s witnesses left this possibility open. PW8 Mr Heng had only said that he “didn’t see \[a peddler\]” outside his shop, and the Prosecution could not have relied on his evidence to prove that no such peddler existed. PW8 Mr Heng’s evidence would only have been of value if he had been able to “view the said location and … to be always looking at the said location at regular intervals”.[^6] The appellant also criticised the value of PW9 Mdm Tan’s testimony as she said that she could not see the area in front of Blk 322 from inside her shop.[^7]
 
-64     The Prosecution argued that the evidence instead showed that it was unlikely that there was indeed such a peddler who had been selling medication at the alleged location. It characterised the eyewitnesses as contradicting, not supporting, the appellant on this point, as they had given clear evidence that they had not seen anyone hawking at the location identified by the appellant.[\[note: 8\]](#Ftn_8) Further, the inherent probabilities pointed against the peddler being present and selling illicit substances in that particular location without telling his customers that the medication sold contained illicit substances. A scrupulous _sinseh_ would not have sold capsules containing methamphetamine, ketamine and cocaine; an unscrupulous _sinseh_ who intended to scam his customers would also not have sold medication containing illicit substances, especially when the appellant had also produced pills allegedly purchased from the _sinseh_ which did not include any illicit substances.[\[note: 9\]](#Ftn_9)
+64     The Prosecution argued that the evidence instead showed that it was unlikely that there was indeed such a peddler who had been selling medication at the alleged location. It characterised the eyewitnesses as contradicting, not supporting, the appellant on this point, as they had given clear evidence that they had not seen anyone hawking at the location identified by the appellant.[^8] Further, the inherent probabilities pointed against the peddler being present and selling illicit substances in that particular location without telling his customers that the medication sold contained illicit substances. A scrupulous _sinseh_ would not have sold capsules containing methamphetamine, ketamine and cocaine; an unscrupulous _sinseh_ who intended to scam his customers would also not have sold medication containing illicit substances, especially when the appellant had also produced pills allegedly purchased from the _sinseh_ which did not include any illicit substances.[^9]
 
 65     Considering the evidence, I accept that the appellant’s evidence that there was such a peddler was weak, and that it went against the testimony of the eyewitnesses, PW8 Mr Heng and PW9 Mdm Tan. I note that the appellant took issue with their evidence, but I did not accept his arguments on this score.
 
@@ -257,9 +258,9 @@ Information technology has made it seductively easy to do what the judge did in 
 
 66     I also find that the appellant’s claims shifted to such a degree that his testimony was not credible. His most significant inconsistencies pertained to the rate at which he consumed the capsules allegedly purchased from the peddler.
 
-67     As the Prosecution argued, the appellant initially claimed that he purchased 24 capsules from the _sinseh_ in September 2016, and consumed two to three capsules a week.[\[note: 10\]](#Ftn_10) The Prosecution then asked the appellant why he still had eight capsules in his possession in July 2017, since this worked out instead to a consumption rate of one capsule every fortnight. The appellant explained that he had stopped consuming the capsules for over a month.[\[note: 11\]](#Ftn_11) When pressed on how this was inconsistent with his initial claim, the appellant finally asserted that he had consumed 14 capsules between September and December, and consumed only one to two capsules from February to July 2017.[\[note: 12\]](#Ftn_12)
+67     As the Prosecution argued, the appellant initially claimed that he purchased 24 capsules from the _sinseh_ in September 2016, and consumed two to three capsules a week.[^10] The Prosecution then asked the appellant why he still had eight capsules in his possession in July 2017, since this worked out instead to a consumption rate of one capsule every fortnight. The appellant explained that he had stopped consuming the capsules for over a month.[^11] When pressed on how this was inconsistent with his initial claim, the appellant finally asserted that he had consumed 14 capsules between September and December, and consumed only one to two capsules from February to July 2017.[^12]
 
-68     I agree with the Prosecution that there was an unexplained vacillation and change in the appellant’s evidence. Notably, these shifts all occurred within the same exchange when the appellant was under cross-examination. His response on appeal was only that the questioning was “designed for an educated and serious individual”, and that his inconsistencies were attributed to his lack of education and inexperience in court.[\[note: 13\]](#Ftn_13) This explanation did not, however, suffice to prove his case on the balance of probabilities.
+68     I agree with the Prosecution that there was an unexplained vacillation and change in the appellant’s evidence. Notably, these shifts all occurred within the same exchange when the appellant was under cross-examination. His response on appeal was only that the questioning was “designed for an educated and serious individual”, and that his inconsistencies were attributed to his lack of education and inexperience in court.[^13] This explanation did not, however, suffice to prove his case on the balance of probabilities.
 
 #### Conclusions on the appeal against conviction
 
@@ -281,31 +282,31 @@ Information technology has made it seductively easy to do what the judge did in 
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)Record of Appeal (“ROA”) at pp 154 and 214; Notes of Evidence (“NEs”) (8 March 2018) at p 29 ln 11–30; NEs (9 March 2018) at p 35 ln 4–25.
+[^1]: Record of Appeal (“ROA”) at pp 154 and 214; Notes of Evidence (“NEs”) (8 March 2018) at p 29 ln 11–30; NEs (9 March 2018) at p 35 ln 4–25.
 
-[\[note: 2\]](#Ftn_2_1)ROA at pp 170 and 171; NEs (8 March 2018) at p 45 – p 46 ln 16.
+[^2]: ROA at pp 170 and 171; NEs (8 March 2018) at p 45 – p 46 ln 16.
 
-[\[note: 3\]](#Ftn_3_1)Appellant’s submissions at paras 1–3 and 84.
+[^3]: Appellant’s submissions at paras 1–3 and 84.
 
-[\[note: 4\]](#Ftn_4_1)Appellant’s submissions at paras 82–104; Prosecution’s Closing Submissions dated 18 August 2017 at para 57.
+[^4]: Appellant’s submissions at paras 82–104; Prosecution’s Closing Submissions dated 18 August 2017 at para 57.
 
-[\[note: 5\]](#Ftn_5_1)Appellant’s submissions at paras 4–6 and 48–49.
+[^5]: Appellant’s submissions at paras 4–6 and 48–49.
 
-[\[note: 6\]](#Ftn_6_1)Appellant’s submissions at paras 10–25.
+[^6]: Appellant’s submissions at paras 10–25.
 
-[\[note: 7\]](#Ftn_7_1)Appellant’s submissions at paras 26–31.
+[^7]: Appellant’s submissions at paras 26–31.
 
-[\[note: 8\]](#Ftn_8_1)Prosecution’s submissions at paras 39–44.
+[^8]: Prosecution’s submissions at paras 39–44.
 
-[\[note: 9\]](#Ftn_9_1)Prosecution’s submissions at paras 59–63.
+[^9]: Prosecution’s submissions at paras 59–63.
 
-[\[note: 10\]](#Ftn_10_1)ROA at p 199; NEs (9 March 2018) at p 20 ln 21–24.
+[^10]: ROA at p 199; NEs (9 March 2018) at p 20 ln 21–24.
 
-[\[note: 11\]](#Ftn_11_1)ROA at p 200; NEs (9 March 2018) at p 21 ln 11–32.
+[^11]: ROA at p 200; NEs (9 March 2018) at p 21 ln 11–32.
 
-[\[note: 12\]](#Ftn_12_1)ROA at pp 202–204; NEs (9 March 2018) at pp 23–25; Prosecution’s submissions at paras 46–58.
+[^12]: ROA at pp 202–204; NEs (9 March 2018) at pp 23–25; Prosecution’s submissions at paras 46–58.
 
-[\[note: 13\]](#Ftn_13_1)Appellant’s submissions at paras 33–36.
+[^13]: Appellant’s submissions at paras 33–36.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23179-SSP.xml)

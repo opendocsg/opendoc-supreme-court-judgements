@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # MSP4GE Asia Pte Ltd and another _v_ MSP Global Pte Ltd and others  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Suit No 1285 of 2014</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">31 January 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Andrew Ang SJ</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Foo Maw Shen, Chu Hua Yi and Liong Wei Kiat, Alvin (Dentons Rodyk &amp; Davidson LLP for first and second plaintiff; Cai Enhuai Amos and Wan Zahrah (Tito Isaac &amp; Co LLP) for the first, second and third defendant.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">MSP4GE Asia Pte Ltd — Tony Antonius Lie — MSP Global Pte Ltd — Vasile Avram — Yong Patricia Lay Lee</td></tr></tbody></table>
@@ -26,27 +27,27 @@ Contract – Misrepresentation
 
 4       The 1st Defendant is also a company incorporated in Singapore and is in the business inter alia of the manufacture and sale of MSP Products. The 2nd Defendant (“Avram”) and the 3rd Defendant (“Patricia Yong”) are the sole shareholders and directors of the 1st Defendant.
 
-5       The 1st Plaintiff entered into an Asia Marketing Agreement (“AMA”) with the 1st Defendant on 22 December 2009 under which the 1st Plaintiff was to have the right to market and distribute the 1st Defendant’s MSP Products in various territories more particularly set out in Annex B to the AMA.[\[note: 1\]](#Ftn_1) For that right to be exclusive with respect to any country (“Exclusive Distributorship Right”), the 1st Plaintiff had to achieve a certain “Targeted Minimum Business Level” prescribed in Annex B for that country. For the purposes of this case, we are concerned only with Indonesia with respect to which the applicable Targeted Minimum Business Level was USD 1 million.[\[note: 2\]](#Ftn_2)
+5       The 1st Plaintiff entered into an Asia Marketing Agreement (“AMA”) with the 1st Defendant on 22 December 2009 under which the 1st Plaintiff was to have the right to market and distribute the 1st Defendant’s MSP Products in various territories more particularly set out in Annex B to the AMA.[^1] For that right to be exclusive with respect to any country (“Exclusive Distributorship Right”), the 1st Plaintiff had to achieve a certain “Targeted Minimum Business Level” prescribed in Annex B for that country. For the purposes of this case, we are concerned only with Indonesia with respect to which the applicable Targeted Minimum Business Level was USD 1 million.[^2]
 
-6       The President of the 1st Plaintiff was one Andrew Emmanuel Tani (“Andrew Tani”). At the time that the AMA was executed, the 1st Defendant and Andrew Tani also signed a letter agreement (the “Commission Agreement”) for an “overriding commission” of 8% to be paid to Andrew Tani for all purchases of the 1st Defendant’s range of MSP Products arranged by Andrew Tani through the 1st Plaintiff.[\[note: 3\]](#Ftn_3)
+6       The President of the 1st Plaintiff was one Andrew Emmanuel Tani (“Andrew Tani”). At the time that the AMA was executed, the 1st Defendant and Andrew Tani also signed a letter agreement (the “Commission Agreement”) for an “overriding commission” of 8% to be paid to Andrew Tani for all purchases of the 1st Defendant’s range of MSP Products arranged by Andrew Tani through the 1st Plaintiff.[^3]
 
-7       Despite the 1st Plaintiff having signed the AMA, it was unable to put up any funds to achieve exclusive distributorship in Indonesia. The 1st Plaintiff failed to remit USD 1 million to place an order for an initial inventory of the MSP Products by 31 January 2010 as required under Clause 3.6 of the AMA.[\[note: 4\]](#Ftn_4) This was not for want of effort on Andrew Tani’s part. One potential investor, Hermanto Setyabudi (“Hermanto”) failed to put up the funds despite earlier indications otherwise.[\[note: 5\]](#Ftn_5) Orders which were placed were not followed through with payment. The 1st Defendant’s President, Patricia Yong informed Andrew Tani on 8 February 2010 that her Vice-President, Avram would not discuss product mix and packing until payment had been made.[\[note: 6\]](#Ftn_6) Andrew Tani was embarrassed. [\[note: 7\]](#Ftn_7)
+7       Despite the 1st Plaintiff having signed the AMA, it was unable to put up any funds to achieve exclusive distributorship in Indonesia. The 1st Plaintiff failed to remit USD 1 million to place an order for an initial inventory of the MSP Products by 31 January 2010 as required under Clause 3.6 of the AMA.[^4] This was not for want of effort on Andrew Tani’s part. One potential investor, Hermanto Setyabudi (“Hermanto”) failed to put up the funds despite earlier indications otherwise.[^5] Orders which were placed were not followed through with payment. The 1st Defendant’s President, Patricia Yong informed Andrew Tani on 8 February 2010 that her Vice-President, Avram would not discuss product mix and packing until payment had been made.[^6] Andrew Tani was embarrassed. [^7]
 
-8       On 18 February 2010, Andrew Tani sent an email to Avram naming four potential investors, of whom Tony Lie was one.[\[note: 8\]](#Ftn_8)
+8       On 18 February 2010, Andrew Tani sent an email to Avram naming four potential investors, of whom Tony Lie was one.[^8]
 
-9       On 21 February 2010, Patricia Yong reminded Andrew Tani via email that it \[was\] crucial that exclusivity \[was\] “secured” and expressed her concern as to the 1st Plaintiff’s non-exclusive status given that USD 1 million had not been raised.[\[note: 9\]](#Ftn_9)
+9       On 21 February 2010, Patricia Yong reminded Andrew Tani via email that it \[was\] crucial that exclusivity \[was\] “secured” and expressed her concern as to the 1st Plaintiff’s non-exclusive status given that USD 1 million had not been raised.[^9]
 
-10     Avram’s evidence was that he had been “angry” with Andrew Tani for “dragging too long”. He wanted Andrew Tani personally to find the money to pay the USD 1 million.[\[note: 10\]](#Ftn_10)
+10     Avram’s evidence was that he had been “angry” with Andrew Tani for “dragging too long”. He wanted Andrew Tani personally to find the money to pay the USD 1 million.[^10]
 
-11     In the period between late February and early March 2010, Andrew Tani approached Tony Lie, with a proposal for the latter to invest in the venture to acquire the Exclusive Distributorship Right. Andrew Tani told Tony Lie that he was looking for an investor to provide USD 1 million which would go towards an initial order of the MSP Products in order to gain exclusive distributorship. Tony Lie agreed in principle to invest the USD 1 million but later had second thoughts. The MSP Products consisted of a range of lubricants and in order to place an order, it was necessary to specify the particular MSP Products and the quantity of the same. As the Plaintiffs had no knowledge which of the MSP Products would sell well, there was a risk that demand for the MSP Products in Indonesia might not match the Plaintiffs’ order composition for an initial USD 1 million order. He was therefore prepared to invest only USD 500,000 to determine if the MSP Products could sell well in Indonesia and, if so, which of them.[\[note: 11\]](#Ftn_11)
+11     In the period between late February and early March 2010, Andrew Tani approached Tony Lie, with a proposal for the latter to invest in the venture to acquire the Exclusive Distributorship Right. Andrew Tani told Tony Lie that he was looking for an investor to provide USD 1 million which would go towards an initial order of the MSP Products in order to gain exclusive distributorship. Tony Lie agreed in principle to invest the USD 1 million but later had second thoughts. The MSP Products consisted of a range of lubricants and in order to place an order, it was necessary to specify the particular MSP Products and the quantity of the same. As the Plaintiffs had no knowledge which of the MSP Products would sell well, there was a risk that demand for the MSP Products in Indonesia might not match the Plaintiffs’ order composition for an initial USD 1 million order. He was therefore prepared to invest only USD 500,000 to determine if the MSP Products could sell well in Indonesia and, if so, which of them.[^11]
 
-12     It was against this background that the 10 March 2010 meeting between Andrew Tani, Tony Lie and Avram took place (“10 March 2010 Meeting”). Avram thought the meeting was for him to demonstrate the efficacy of the MSP Products. This was, of course, to impress Tony Lie so that the latter would invest the USD 1 million Andrew Tani needed to find for the 1st Plaintiff.[\[note: 12\]](#Ftn_12)
+12     It was against this background that the 10 March 2010 meeting between Andrew Tani, Tony Lie and Avram took place (“10 March 2010 Meeting”). Avram thought the meeting was for him to demonstrate the efficacy of the MSP Products. This was, of course, to impress Tony Lie so that the latter would invest the USD 1 million Andrew Tani needed to find for the 1st Plaintiff.[^12]
 
-13     According to the Plaintiffs, at the meeting, after Avram had demonstrated the MSP Products, Tony Lie then informed Avram of his decision to invest only USD 500,000 as he wanted to make sure that the mix of the MSP Products was saleable before investing more.[\[note: 13\]](#Ftn_13)
+13     According to the Plaintiffs, at the meeting, after Avram had demonstrated the MSP Products, Tony Lie then informed Avram of his decision to invest only USD 500,000 as he wanted to make sure that the mix of the MSP Products was saleable before investing more.[^13]
 
-14     The Plaintiffs aver that, in response, Avram assured Tony Lie of the quality of the MSP Products and that they would sell well. According to Tony Lie, in order to persuade him to invest the full USD 1 million, Avram made the following representations (“the Representations”)[\[note: 14\]](#Ftn_14):
+14     The Plaintiffs aver that, in response, Avram assured Tony Lie of the quality of the MSP Products and that they would sell well. According to Tony Lie, in order to persuade him to invest the full USD 1 million, Avram made the following representations (“the Representations”)[^14]:
 
-(a)     that the MSP Products were of good quality and would prove to be highly popular in Indonesia; (Note: In Tony Lie’s and Andrew Tani’s respective Affidavits of Evidence-in-Chief they deposed that Avram also stated that slower moving stock could be replaced with faster moving items. But this was omitted in the Plaintiff’s pleading)[\[note: 15\]](#Ftn_15).
+(a)     that the MSP Products were of good quality and would prove to be highly popular in Indonesia; (Note: In Tony Lie’s and Andrew Tani’s respective Affidavits of Evidence-in-Chief they deposed that Avram also stated that slower moving stock could be replaced with faster moving items. But this was omitted in the Plaintiff’s pleading)[^15].
 
 (b)     that if Tony Lie would provide funds in the amount of USD 1 million to the 1st Plaintiff, the latter would obtain the Exclusive Distributorship Right for Indonesia without having to make a firm order for USD 1 million worth of MSP Products. Instead, the 1st Plaintiff would only have to place an initial order for USD 500,000 worth of the MSP Products and the 1st Defendant would hold the balance of the USD 1 million as a deposit for and on behalf of the 1st Plaintiff until it was prepared and ready to place the next order; and
 
@@ -54,33 +55,33 @@ Contract – Misrepresentation
 
 15     The Defendants maintain that no such discussion happened.
 
-16     The Plaintiffs’ Statement of Claim further pleaded that further and/or pursuant to the Representations, the 1st Defendant[\[note: 16\]](#Ftn_16):
+16     The Plaintiffs’ Statement of Claim further pleaded that further and/or pursuant to the Representations, the 1st Defendant[^16]:
 
 (a)     Issued one (1) tax invoice dated the same day i.e. 10 March 2010 to PT MSP4GE Indonesia for the amount of USD 500,000 (the “Tax Invoice”). The Tax Invoice stated that it was for “Payment of MSP Products. DO will be issued upon confirmation of goods at later date”. The Tax Invoice indicated the terms of the payment as “TT (Prepayment)”; and
 
-(b)     Issued one (1) Proforma invoice dated 10 March 2010 (the “Proforma Invoice”) to the 1st Plaintiff with a detailed list of MSP Products to be acquired by the 1st Plaintiff for the total aggregate value of USD 494,050.68 for the initial order.[\[note: 17\]](#Ftn_17)
+(b)     Issued one (1) Proforma invoice dated 10 March 2010 (the “Proforma Invoice”) to the 1st Plaintiff with a detailed list of MSP Products to be acquired by the 1st Plaintiff for the total aggregate value of USD 494,050.68 for the initial order.[^17]
 
-17     The Plaintiffs aver that in reliance on the Representations of the 1st Defendant and/or Avram as pleaded[\[note: 18\]](#Ftn_18), Tony Lie injected funds into the 1st Plaintiff, and through the 1st Plaintiff, paid USD 1 million to the 1st Defendant for the specific purpose of obtaining the Exclusive Distributorship Right and/or to acquire the MSP Products.[\[note: 19\]](#Ftn_19)
+17     The Plaintiffs aver that in reliance on the Representations of the 1st Defendant and/or Avram as pleaded[^18], Tony Lie injected funds into the 1st Plaintiff, and through the 1st Plaintiff, paid USD 1 million to the 1st Defendant for the specific purpose of obtaining the Exclusive Distributorship Right and/or to acquire the MSP Products.[^19]
 
-18     The Proforma Invoice was subsequently amended to vary the composition of the MSP Products comprising the initial order. As a result, a revised invoice dated 8 April 2010 (“8 April 2010 Invoice”) was issued for the revised initial order in the amount of USD 520,766.40.[\[note: 20\]](#Ftn_20)
+18     The Proforma Invoice was subsequently amended to vary the composition of the MSP Products comprising the initial order. As a result, a revised invoice dated 8 April 2010 (“8 April 2010 Invoice”) was issued for the revised initial order in the amount of USD 520,766.40.[^20]
 
-19     The Plaintiffs aver that after deducting the amount of USD 520,766.40 from the USD 1 million that was paid, the balance of USD 479,233.60 (the “Balance Sum”) was held by the 1st Defendant on trust for the Plaintiffs. This was on the basis of the understanding upon which the USD 1 million was paid as mentioned above.[\[note: 21\]](#Ftn_21)
+19     The Plaintiffs aver that after deducting the amount of USD 520,766.40 from the USD 1 million that was paid, the balance of USD 479,233.60 (the “Balance Sum”) was held by the 1st Defendant on trust for the Plaintiffs. This was on the basis of the understanding upon which the USD 1 million was paid as mentioned above.[^21]
 
-20     It is the Plaintiffs’ case that after the revised initial order, no subsequent order was placed owing to the lack of marketability of the MSP Products.[\[note: 22\]](#Ftn_22) Whether or not there was a second order of the MSP Products is the subject of dispute between the parties.
+20     It is the Plaintiffs’ case that after the revised initial order, no subsequent order was placed owing to the lack of marketability of the MSP Products.[^22] Whether or not there was a second order of the MSP Products is the subject of dispute between the parties.
 
 ### Events leading to the present suit
 
-21     After delivery of the MSP Products as reflected in the 8th April 2010 Invoice, the 1st Plaintiff through Andrew Tani marketed the MSP Products in Indonesia. However, by September 2010, none of the potential customers whom Andrew Tani approached entered into any long term contract for the supply of the MSP Products. As a result, Tony Lie started to lose confidence in the entire venture.[\[note: 23\]](#Ftn_23)
+21     After delivery of the MSP Products as reflected in the 8th April 2010 Invoice, the 1st Plaintiff through Andrew Tani marketed the MSP Products in Indonesia. However, by September 2010, none of the potential customers whom Andrew Tani approached entered into any long term contract for the supply of the MSP Products. As a result, Tony Lie started to lose confidence in the entire venture.[^23]
 
-22     On or around 30 March 2011, Tony Lie decided to withdraw his investment in the 1st Plaintiff and asked for his USD 1 million to be refunded.[\[note: 24\]](#Ftn_24)
+22     On or around 30 March 2011, Tony Lie decided to withdraw his investment in the 1st Plaintiff and asked for his USD 1 million to be refunded.[^24]
 
-23     After Andrew Tani successfully recruited another investor to replace Tony Lie, the latter was refunded the amount stated in the 8th April 2010 Invoice (USD 520,766.40). As for the Balance Sum, Andrew Tani proposed that the 1st Plaintiff place a second order for the MSP Products and thereafter repay the Balance Sum to Tony Lie after the MSP Products so ordered were sold.[\[note: 25\]](#Ftn_25)
+23     After Andrew Tani successfully recruited another investor to replace Tony Lie, the latter was refunded the amount stated in the 8th April 2010 Invoice (USD 520,766.40). As for the Balance Sum, Andrew Tani proposed that the 1st Plaintiff place a second order for the MSP Products and thereafter repay the Balance Sum to Tony Lie after the MSP Products so ordered were sold.[^25]
 
-24     However, according to the Plaintiffs, no such order was ever placed. Tony Lie also instructed the 1st Plaintiff to demand from the 1st Defendant the return of the Balance Sum.[\[note: 26\]](#Ftn_26)
+24     However, according to the Plaintiffs, no such order was ever placed. Tony Lie also instructed the 1st Plaintiff to demand from the 1st Defendant the return of the Balance Sum.[^26]
 
-25     By way of a letter dated 23 August 2013, the Plaintiffs demanded the repayment of USD 505,949.02 from the 1st Defendant. This was mistakenly thought to be the balance of the USD 1 million after deducting the amount stated on the Proforma Invoice but was understated by 30 cents.[\[note: 27\]](#Ftn_27) In any case, it was incorrect since the Proforma Invoice was superseded by a revised invoice referred to at \[18\] above as the “8 April 2010 Invoice”.
+25     By way of a letter dated 23 August 2013, the Plaintiffs demanded the repayment of USD 505,949.02 from the 1st Defendant. This was mistakenly thought to be the balance of the USD 1 million after deducting the amount stated on the Proforma Invoice but was understated by 30 cents.[^27] In any case, it was incorrect since the Proforma Invoice was superseded by a revised invoice referred to at \[18\] above as the “8 April 2010 Invoice”.
 
-26     A further letter of demand for the same amount dated 15 October 2014 was addressed to all three Defendants.[\[note: 28\]](#Ftn_28)
+26     A further letter of demand for the same amount dated 15 October 2014 was addressed to all three Defendants.[^28]
 
 27     The Plaintiffs thereafter commenced the present suit against the Defendants, claiming breach of trust by the 1st Defendant for its refusal and/or neglect to repay the Balance Sum, and dishonest assistance in the breach by Avram and Patricia Yong. In the alternative, the 1st Plaintiff claims against the 1st and 2nd Defendants for fraudulent misrepresentation. Further, and in the alternative, the Plaintiffs claim against the 1st Defendant for unjust enrichment in the amount of the Balance Sum.
 
@@ -102,41 +103,41 @@ Contract – Misrepresentation
 
 (d)     the Defendants are liable for fraudulent misrepresentation; and
 
-(e)     the 1st Defendant is entitled to succeed in its counterclaim against the 1st Plaintiff for storage costs in the sum of S$97,295.00, which it avers to have incurred in storing a second shipment of MSP Products exhausting the Balance Sum.[\[note: 29\]](#Ftn_29)
+(e)     the 1st Defendant is entitled to succeed in its counterclaim against the 1st Plaintiff for storage costs in the sum of S$97,295.00, which it avers to have incurred in storing a second shipment of MSP Products exhausting the Balance Sum.[^29]
 
 30     I will consider these issues seriatim.
 
 ## Issue 1: Whether the Representations were made at the 10 March 2010 Meeting
 
-31     On this issue, I accept Tony Lie’s evidence that he had concerns about investing the whole USD 1 million to purchase MSP Products because it posed a financial risk to him. As he is an experienced businessman, it is perfectly reasonable that he would first want to test the market to see if the MSP Products could sell in Indonesia.[\[note: 30\]](#Ftn_30) Tony Lie’s testimony in court on his concern was also consistent with his affidavit. [\[note: 31\]](#Ftn_31) The Defendants’ counsel did not challenge Tony Lie’s evidence. Despite his concern, Tony Lie nevertheless transferred USD 1 million to the 1st Plaintiff who then transferred it to the 1st Defendant. From this, I accept that Tony Lie’s concern was somehow addressed when he met Avram at the 10 March 2010 Meeting. As such, it is important to determine whether the Representations were indeed made at the 10 March 2010 Meeting.
+31     On this issue, I accept Tony Lie’s evidence that he had concerns about investing the whole USD 1 million to purchase MSP Products because it posed a financial risk to him. As he is an experienced businessman, it is perfectly reasonable that he would first want to test the market to see if the MSP Products could sell in Indonesia.[^30] Tony Lie’s testimony in court on his concern was also consistent with his affidavit. [^31] The Defendants’ counsel did not challenge Tony Lie’s evidence. Despite his concern, Tony Lie nevertheless transferred USD 1 million to the 1st Plaintiff who then transferred it to the 1st Defendant. From this, I accept that Tony Lie’s concern was somehow addressed when he met Avram at the 10 March 2010 Meeting. As such, it is important to determine whether the Representations were indeed made at the 10 March 2010 Meeting.
 
 ### The objective evidence
 
 #### The Invoices
 
-32     The Plaintiffs’ counsel submitted that the Tax Invoice and the Proforma Invoice were issued _pursuant to the Representations_ made at the 10 March 2010 Meeting.[\[note: 32\]](#Ftn_32) They were issued contrary to the 1st Defendant’s standard pay-to-produce policy that invoices would only be issued after payment had been received and the MSP Products had been specified. Explaining the policy, Avram said that the 1st Defendant would only place an order (for the MSP Products) with its supplier, MSP INC USA (the parent company of the 1st Defendant and also the manufacturer of MSP Products) when the 1st Defendant had received payment for the specific products ordered by the buyer.[\[note: 33\]](#Ftn_33) An invoice issued in compliance with this pay-to-produce policy would reflect the specified and paid orders of the buyer.[\[note: 34\]](#Ftn_34) Consistent with this policy, an invoice was not issued to an initial potential investor, Hermanto, or to the 1st Plaintiff even after Hermanto had indicated that he would transfer USD 500,000 to the 1st Plaintiff in February 2010 for that to be applied towards compliance with clause 3.6 of the AMA.[\[note: 35\]](#Ftn_35)
+32     The Plaintiffs’ counsel submitted that the Tax Invoice and the Proforma Invoice were issued _pursuant to the Representations_ made at the 10 March 2010 Meeting.[^32] They were issued contrary to the 1st Defendant’s standard pay-to-produce policy that invoices would only be issued after payment had been received and the MSP Products had been specified. Explaining the policy, Avram said that the 1st Defendant would only place an order (for the MSP Products) with its supplier, MSP INC USA (the parent company of the 1st Defendant and also the manufacturer of MSP Products) when the 1st Defendant had received payment for the specific products ordered by the buyer.[^33] An invoice issued in compliance with this pay-to-produce policy would reflect the specified and paid orders of the buyer.[^34] Consistent with this policy, an invoice was not issued to an initial potential investor, Hermanto, or to the 1st Plaintiff even after Hermanto had indicated that he would transfer USD 500,000 to the 1st Plaintiff in February 2010 for that to be applied towards compliance with clause 3.6 of the AMA.[^35]
 
 33     However, in this case, the Tax Invoice was issued before payment and without any MSP Products having been specified. The Proforma Invoice was also prematurely issued because, although MSP Products had been specified, no payment had yet been made.
 
-34     As such, I accept the Plaintiffs’ contention that the only reason these two invoices were issued against the 1st Defendant’s pay-to-produce policy was that Avram was confident that Tony Lie would invest USD 1 million in the 1st Plaintiff for the latter to obtain the Exclusive Distributorship Right for Indonesia.[\[note: 36\]](#Ftn_36) Avram was confident because he had made the Representations to address Tony Lie’s concerns.[\[note: 37\]](#Ftn_37) In fact, Patricia Yong also testified that “\[the transfer of the USD 1 million was\] a foregone conclusion and that \[Avram\] was “very excited”.[\[note: 38\]](#Ftn_38) According to Avram, Andrew Tani asked Patricia Yong for the invoices and when they were prepared, he signed them.
+34     As such, I accept the Plaintiffs’ contention that the only reason these two invoices were issued against the 1st Defendant’s pay-to-produce policy was that Avram was confident that Tony Lie would invest USD 1 million in the 1st Plaintiff for the latter to obtain the Exclusive Distributorship Right for Indonesia.[^36] Avram was confident because he had made the Representations to address Tony Lie’s concerns.[^37] In fact, Patricia Yong also testified that “\[the transfer of the USD 1 million was\] a foregone conclusion and that \[Avram\] was “very excited”.[^38] According to Avram, Andrew Tani asked Patricia Yong for the invoices and when they were prepared, he signed them.
 
-35     The Defendants’ counsel argued that the issuance of the Proforma Invoice and Tax Invoice were at the request of Andrew Tani and that this court should not place too much weight on it.[\[note: 39\]](#Ftn_39) However, more importantly, one should ask why Andrew Tani requested for these two invoices and why the 1st Defendant agreed to issue them despite the 1st Defendant’s pay to produce policy? The Defendants have not offered any explanation to counter Plaintiffs’ contention that Andrew Tani made the request for these two invoices to be issued, and especially the Tax Invoice, to reflect the terms of the Representations Avram made at the 10 March 2010 Meeting.
+35     The Defendants’ counsel argued that the issuance of the Proforma Invoice and Tax Invoice were at the request of Andrew Tani and that this court should not place too much weight on it.[^39] However, more importantly, one should ask why Andrew Tani requested for these two invoices and why the 1st Defendant agreed to issue them despite the 1st Defendant’s pay to produce policy? The Defendants have not offered any explanation to counter Plaintiffs’ contention that Andrew Tani made the request for these two invoices to be issued, and especially the Tax Invoice, to reflect the terms of the Representations Avram made at the 10 March 2010 Meeting.
 
 #### The 26 March 2010 Letter
 
 36     Next, the Plaintiffs’ counsel submitted that the exchange of emails between Andrew Tani and Patricia Yong after the transfer of USD 1 million and their conduct then show that the Representations had indeed been made. A brief chronology of the relevant emails between the parties are as follows:
 
-37     In an email dated 26 March 2010, the day when the USD 1 million was transferred to the 1st Defendant, Andrew Tani sent an email to Patricia Yong attaching a draft addendum[\[note: 40\]](#Ftn_40) and a draft letter[\[note: 41\]](#Ftn_41) dated 26 March 2010 (“26 March 2010 Letter”) to be signed by her.[\[note: 42\]](#Ftn_42) The draft addendum sought to confirm that clause 3.6 of the AMA had been complied with by the 1st Plaintiff’s transfer of USD 1 million to the 1st Defendant. As for the 26 March 2010 Letter, according to Andrew Tani, this was prepared to reflect a few points which Patricia Yong had earlier raised with Andrew Tani after she learnt about the Representations, particularly the representation to Tony Lie that he could obtain a refund of the Balance Sum if a second order was not placed and the (unpleaded) representation that he could replace slow moving stock with faster moving items [\[note: 43\]](#Ftn_43) In that earlier discussion with Andrew Tani, Patricia Yong was upset that the aforesaid Representations and the unpleaded representation had been made and requested that Andrew Tani draft the said letter.[\[note: 44\]](#Ftn_44)
+37     In an email dated 26 March 2010, the day when the USD 1 million was transferred to the 1st Defendant, Andrew Tani sent an email to Patricia Yong attaching a draft addendum[^40] and a draft letter[^41] dated 26 March 2010 (“26 March 2010 Letter”) to be signed by her.[^42] The draft addendum sought to confirm that clause 3.6 of the AMA had been complied with by the 1st Plaintiff’s transfer of USD 1 million to the 1st Defendant. As for the 26 March 2010 Letter, according to Andrew Tani, this was prepared to reflect a few points which Patricia Yong had earlier raised with Andrew Tani after she learnt about the Representations, particularly the representation to Tony Lie that he could obtain a refund of the Balance Sum if a second order was not placed and the (unpleaded) representation that he could replace slow moving stock with faster moving items [^43] In that earlier discussion with Andrew Tani, Patricia Yong was upset that the aforesaid Representations and the unpleaded representation had been made and requested that Andrew Tani draft the said letter.[^44]
 
-38     In a separate email chain on the same day, Andrew Tani emailed Patricia Yong the bank details for crediting the overriding commission he would earn from the MSP Products ordered by the 1st Plaintiff.[\[note: 45\]](#Ftn_45) Patricia Yong replied to Andrew Tani on 27 March 2010 congratulating him and informing him that she would “personally attend to the commissions on a totally confidential basis”.[\[note: 46\]](#Ftn_46) On the same day, Andrew Tani replied to Patricia Yong asking her to “review the draft Addendum \[and\] sign it to give peace of mind to \[Tony Lie\]”.[\[note: 47\]](#Ftn_47) In an email dated 30 March 2010, Patricia Yong wrote that she wanted to talk to Andrew Tani when she was back in Singapore.[\[note: 48\]](#Ftn_48)
+38     In a separate email chain on the same day, Andrew Tani emailed Patricia Yong the bank details for crediting the overriding commission he would earn from the MSP Products ordered by the 1st Plaintiff.[^45] Patricia Yong replied to Andrew Tani on 27 March 2010 congratulating him and informing him that she would “personally attend to the commissions on a totally confidential basis”.[^46] On the same day, Andrew Tani replied to Patricia Yong asking her to “review the draft Addendum \[and\] sign it to give peace of mind to \[Tony Lie\]”.[^47] In an email dated 30 March 2010, Patricia Yong wrote that she wanted to talk to Andrew Tani when she was back in Singapore.[^48]
 
-39     The draft addendum was never signed by the Defendants. However, sometime in April 2010, Patricia Yong did eventually sign the 26 March 2010 Letter.[\[note: 49\]](#Ftn_49)
+39     The draft addendum was never signed by the Defendants. However, sometime in April 2010, Patricia Yong did eventually sign the 26 March 2010 Letter.[^49]
 
-40     The parties dispute the reason behind the 26 March 2010 Letter and interpretation of the above chain of correspondence. The Plaintiffs’ counsel submitted, on the basis of Andrew Tani’s evidence, that after the 10 March 2010 Meeting, Andrew Tani had spoken to Patricia Yong about the Representations and that she was upset because they were against the 1st Defendant’s policy of no replacement and no refund. Andrew Tani drafted the 26 March 2010 Letter to accommodate Patricia Yong’s concerns. As such, the 26 March 2010 Letter is evidence that the Representations must have been made at the 10 March 2010 meeting.[\[note: 50\]](#Ftn_50) The Plaintiffs’ counsel also submitted that if Patricia Yong did not know about the Representations, there would have been no need for her to want to speak to Andrew Tani as she requested in her 30 March 2010 email referred to above.[\[note: 51\]](#Ftn_51)
+40     The parties dispute the reason behind the 26 March 2010 Letter and interpretation of the above chain of correspondence. The Plaintiffs’ counsel submitted, on the basis of Andrew Tani’s evidence, that after the 10 March 2010 Meeting, Andrew Tani had spoken to Patricia Yong about the Representations and that she was upset because they were against the 1st Defendant’s policy of no replacement and no refund. Andrew Tani drafted the 26 March 2010 Letter to accommodate Patricia Yong’s concerns. As such, the 26 March 2010 Letter is evidence that the Representations must have been made at the 10 March 2010 meeting.[^50] The Plaintiffs’ counsel also submitted that if Patricia Yong did not know about the Representations, there would have been no need for her to want to speak to Andrew Tani as she requested in her 30 March 2010 email referred to above.[^51]
 
-41     The Defendants’ counsel on the other hand argued that Andrew Tani’s evidence on the 26 March 2010 Letter was inconsistent; he first testified that the 26 March 2010 Letter was drafted to reflect the Representations but later changed his evidence to allege that the 26 March 2010 Letter was drafted to reflect a middle ground, accommodating Patricia Yong’s objection to a refund policy and yet addressing Tony Lie’s interest. He therefore urged the court not to give weight to Andrew Tani’s explanation for the 26 March 2010 Letter.[\[note: 52\]](#Ftn_52)
+41     The Defendants’ counsel on the other hand argued that Andrew Tani’s evidence on the 26 March 2010 Letter was inconsistent; he first testified that the 26 March 2010 Letter was drafted to reflect the Representations but later changed his evidence to allege that the 26 March 2010 Letter was drafted to reflect a middle ground, accommodating Patricia Yong’s objection to a refund policy and yet addressing Tony Lie’s interest. He therefore urged the court not to give weight to Andrew Tani’s explanation for the 26 March 2010 Letter.[^52]
 
-42     I accept Andrew Tani’s evidence that Patricia Yong was unhappy when she learned about the Representations (including the unpleaded Representations of allowing replacement of slow moving stock).[\[note: 53\]](#Ftn_53) I accept the evidence because it explains the letter dated 26 March 2010 Letter which Andrew Tani drafted which was eventually signed by Patricia Yong in April 2010.[\[note: 54\]](#Ftn_54) No cogent alternative explanation was given by Patricia Yong. The letter stated:
+42     I accept Andrew Tani’s evidence that Patricia Yong was unhappy when she learned about the Representations (including the unpleaded Representations of allowing replacement of slow moving stock).[^53] I accept the evidence because it explains the letter dated 26 March 2010 Letter which Andrew Tani drafted which was eventually signed by Patricia Yong in April 2010.[^54] No cogent alternative explanation was given by Patricia Yong. The letter stated:
 
 Referring to _your visit to our office_, we note the following issues that came up and need clarification:
 
@@ -152,25 +153,25 @@ b.    In the same context, _there will be no need to stipulate a refund poli
 
 43     I agree with the Plaintiffs that the “visit to our office” mentioned in the 26 March 2010 Letter referred to the 10 March 2010 Meeting between Andrew Tani, Tony Lie and Avram because there is no evidence of any other meeting between the parties between 10 March 2010 and 26 March 2010.
 
-44     Prior to the 26 March 2010 Letter, there were no documents which referred to any replacement or refund policy. As can be seen in the letter, Patricia Yong addressed the question of replacement and refund in an ambiguous and non-committal way. She gave assurances that “\[r\]eplacement of products \[would\] never occur” because of the way orders for MSP Products were made and similarly, “there \[would\] be no need to stipulate a refund policy”. I find that the fact that Patricia Yong agreed to sign the 26 March 2010 Letter supports a finding that there had been discussions about replacement and refund at the 10 March 2010 Meeting. That in turn tends to support a finding that Representations in that regard had been made. The non-committal language of the 26 March 2010 Letter is explained by Andrew Tani’s evidence that when Patricia Yong learnt about the Representations, she was upset and requested Andrew Tani to draft the 26 March 2010 Letter.[\[note: 55\]](#Ftn_55) It is possible to construe the ambiguous and non-committal phrasing of the 26 March 2010 Letter on replacement and refund as an attempt by Patricia Yong to assure the Plaintiffs that they would not arise, in the hope that Tony Lie would thereby be given some comfort and reassurance. [\[note: 56\]](#Ftn_56)
+44     Prior to the 26 March 2010 Letter, there were no documents which referred to any replacement or refund policy. As can be seen in the letter, Patricia Yong addressed the question of replacement and refund in an ambiguous and non-committal way. She gave assurances that “\[r\]eplacement of products \[would\] never occur” because of the way orders for MSP Products were made and similarly, “there \[would\] be no need to stipulate a refund policy”. I find that the fact that Patricia Yong agreed to sign the 26 March 2010 Letter supports a finding that there had been discussions about replacement and refund at the 10 March 2010 Meeting. That in turn tends to support a finding that Representations in that regard had been made. The non-committal language of the 26 March 2010 Letter is explained by Andrew Tani’s evidence that when Patricia Yong learnt about the Representations, she was upset and requested Andrew Tani to draft the 26 March 2010 Letter.[^55] It is possible to construe the ambiguous and non-committal phrasing of the 26 March 2010 Letter on replacement and refund as an attempt by Patricia Yong to assure the Plaintiffs that they would not arise, in the hope that Tony Lie would thereby be given some comfort and reassurance. [^56]
 
-45     Patricia Yong tried to diminish the importance of the 26 March 2010 Letter by testifying that the above letter was unsolicited.[\[note: 57\]](#Ftn_57) If such was the case, she could have just ignored the letter and not sign it.
+45     Patricia Yong tried to diminish the importance of the 26 March 2010 Letter by testifying that the above letter was unsolicited.[^57] If such was the case, she could have just ignored the letter and not sign it.
 
 46     The Defendants’ counsel submitted that Andrew Tani’s evidence on the purpose of the 26 March 2010 Letter and the Addendum should not be given much weight because he was inconsistent. In my view, Andrew Tani’s evidence and the motivation behind the 26 March 2010 Letter must be read in the light of Andrew Tani’s role in the transaction.
 
-47     As noted earlier, Andrew Tani stood to earn commission from any order for MSP Products which the 1st Plaintiff made. As such, it is understandable that he would have wanted to ensure that Tony Lie (who was effectively funding the entire venture) proceeded with the investment. In that light, I find that Andrew Tani’s evidence on the reason why the 26 March 2010 Letter was drafted the way it was and the motivation behind the 26 March 2010 Letter is credible. He was trying to satisfy Tony Lie who only invested in the 1st Plaintiff because of the Representations and at the same time accommodate Patricia Yong who was unhappy that Avram had made those Representations. He admitted as much in his testimony.[\[note: 58\]](#Ftn_58)
+47     As noted earlier, Andrew Tani stood to earn commission from any order for MSP Products which the 1st Plaintiff made. As such, it is understandable that he would have wanted to ensure that Tony Lie (who was effectively funding the entire venture) proceeded with the investment. In that light, I find that Andrew Tani’s evidence on the reason why the 26 March 2010 Letter was drafted the way it was and the motivation behind the 26 March 2010 Letter is credible. He was trying to satisfy Tony Lie who only invested in the 1st Plaintiff because of the Representations and at the same time accommodate Patricia Yong who was unhappy that Avram had made those Representations. He admitted as much in his testimony.[^58]
 
 48     As such, I do not find any material inconsistency in Andrew Tani’s evidence as alleged by the Defendants’ counsel. He needed Patricia Yong to sign the 26 March 2010 Letter to give comfort to Tony Lie that the USD 1 million was transferred pursuant to the Representations. At the same time, he had to ensure that Patricia Yong’s unhappiness about the Representations was addressed. Andrew Tani therefore drafted the 26 March 2010 Letter the way he did. It might be said, figuratively, that he was walking a tightrope.
 
 ### Avram’s evidence
 
-49     I now turn to Avram’s evidence on whether the Representations were made at the 10 March 2010 Meeting. The Plaintiffs submitted that Avram had reason to make the Representations to Tony Lie because the 1st Defendant was not performing well and was in a poor financial state as admitted by Avram.[\[note: 59\]](#Ftn_59) In particular,
+49     I now turn to Avram’s evidence on whether the Representations were made at the 10 March 2010 Meeting. The Plaintiffs submitted that Avram had reason to make the Representations to Tony Lie because the 1st Defendant was not performing well and was in a poor financial state as admitted by Avram.[^59] In particular,
 
-(a)     the 1st Defendant had been in a loss position since its incorporation in 2003,[\[note: 60\]](#Ftn_60)
+(a)     the 1st Defendant had been in a loss position since its incorporation in 2003,[^60]
 
-(b)     up to 2009, its sales in Indonesia amounted to only USD 30,000 annually,[\[note: 61\]](#Ftn_61) and
+(b)     up to 2009, its sales in Indonesia amounted to only USD 30,000 annually,[^61] and
 
-(c)     until then, the 1st Defendant had only been able to find exclusive distributors for the Myanmar and Malaysian markets. It had not been able to find an exclusive distributor for the Indonesian market despite Avram’s efforts.[\[note: 62\]](#Ftn_62)
+(c)     until then, the 1st Defendant had only been able to find exclusive distributors for the Myanmar and Malaysian markets. It had not been able to find an exclusive distributor for the Indonesian market despite Avram’s efforts.[^62]
 
 Avram therefore was understandably keen to secure Tony Lie’s investment.
 
@@ -178,39 +179,39 @@ Avram therefore was understandably keen to secure Tony Lie’s investment.
 
 (a)     by February 2010, Andrew Tani had not been able to raise the USD 1 million required under clause 3.6 of the AMA. Under this clause, the 1st Plaintiff was under an obligation to place an order for USD 1 million with the 1st Defendant and to make payment in respect thereof by 31 January 2010 (see above at \[5\] to \[7\]);
 
-(b)     on 8 February 2010, Andrew Tani wrote an email to Patricia Yong to inform her that the remittance of USD 500,000 towards compliance with clause 3.6 of the AMA would be delayed because the potential investor at that time, Hermanto, was unable to sign the necessary agreements with his bankers[\[note: 63\]](#Ftn_63);
+(b)     on 8 February 2010, Andrew Tani wrote an email to Patricia Yong to inform her that the remittance of USD 500,000 towards compliance with clause 3.6 of the AMA would be delayed because the potential investor at that time, Hermanto, was unable to sign the necessary agreements with his bankers[^63];
 
-(c)     replying on the same day, Patricia Yong wrote in her email to Andrew Tani as follows: “I really hope that TT can b in asap as \[Avram\] had not even called you to discuss product mix n packaging he would recommend …” [\[note: 64\]](#Ftn_64)
+(c)     replying on the same day, Patricia Yong wrote in her email to Andrew Tani as follows: “I really hope that TT can b in asap as \[Avram\] had not even called you to discuss product mix n packaging he would recommend …” [^64]
 
-(d)     later that day on 8 February 2010, Andrew Tani wrote in reply to Patricia Yong to inform her that he would call Avram when the money from Hermanto was in and that he was “embarrassed \[and\] hope\[d\] to recover his face \[at the\] soonest” [\[note: 65\]](#Ftn_65);
+(d)     later that day on 8 February 2010, Andrew Tani wrote in reply to Patricia Yong to inform her that he would call Avram when the money from Hermanto was in and that he was “embarrassed \[and\] hope\[d\] to recover his face \[at the\] soonest” [^65];
 
-(e)     Patricia Yong replied later that day to Andrew Tani as follows: “I fully understand. \[Avram\] will b fine once TT is in. Do not worry …”.[\[note: 66\]](#Ftn_66) This email indicates that Avram had expressed some anxiety or impatience at the delay in the transfer of the USD 500,000. If not, why else would Patricia Yong intimate this in her email? Avram also admitted in cross-examination that by this stage, he was angry with Andrew Tani because the process of obtaining the USD 1 million was “dragging too long”[\[note: 67\]](#Ftn_67);
+(e)     Patricia Yong replied later that day to Andrew Tani as follows: “I fully understand. \[Avram\] will b fine once TT is in. Do not worry …”.[^66] This email indicates that Avram had expressed some anxiety or impatience at the delay in the transfer of the USD 500,000. If not, why else would Patricia Yong intimate this in her email? Avram also admitted in cross-examination that by this stage, he was angry with Andrew Tani because the process of obtaining the USD 1 million was “dragging too long”[^67];
 
-(f)     in an email dated 9 February 2010, Danny Anthonius, one of Andrew Tani’s assistants, wrote to Hermanto to request Hermanto to transfer the amount of USD 500,000 directly to the 1st Defendant’s bank account in Singapore “tomorrow”;[\[note: 68\]](#Ftn_68)
+(f)     in an email dated 9 February 2010, Danny Anthonius, one of Andrew Tani’s assistants, wrote to Hermanto to request Hermanto to transfer the amount of USD 500,000 directly to the 1st Defendant’s bank account in Singapore “tomorrow”;[^68]
 
-(g)     some time on or around 16 February 2010, Hermanto asked to be allowed to drop out of the Indonesian distributorship for MSP Products;[\[note: 69\]](#Ftn_69)
+(g)     some time on or around 16 February 2010, Hermanto asked to be allowed to drop out of the Indonesian distributorship for MSP Products;[^69]
 
-(h)     on 18 February 2010, Andrew Tani emailed Avram and Patricia Yong[\[note: 70\]](#Ftn_70) to inform them that he was in the process of getting four potential investors on board to raise the USD 1 million. By this stage, as Avram admitted in cross-examination, both he and Patricia Yong were becoming really anxious and impatient with Andrew Tani.[\[note: 71\]](#Ftn_71) In relation to Andrew Tani working to get other investors in after Hermanto, Avram testified in cross-examination: “\[s\]o what happened, so many months we talk, talk, talk but nobody is coming”[\[note: 72\]](#Ftn_72); and
+(h)     on 18 February 2010, Andrew Tani emailed Avram and Patricia Yong[^70] to inform them that he was in the process of getting four potential investors on board to raise the USD 1 million. By this stage, as Avram admitted in cross-examination, both he and Patricia Yong were becoming really anxious and impatient with Andrew Tani.[^71] In relation to Andrew Tani working to get other investors in after Hermanto, Avram testified in cross-examination: “\[s\]o what happened, so many months we talk, talk, talk but nobody is coming”[^72]; and
 
-(i)     finally, on 21 February 2010, Patricia Yong emailed Andrew Tani informing him that she was informed by Avram that Andrew Tani would “personally get the funds and will take up exclusive distributorship for Indonesia”.[\[note: 73\]](#Ftn_73)
+(i)     finally, on 21 February 2010, Patricia Yong emailed Andrew Tani informing him that she was informed by Avram that Andrew Tani would “personally get the funds and will take up exclusive distributorship for Indonesia”.[^73]
 
-51     The above chronology of events shows that Avram was getting quite impatient with Andrew Tani’s inability to raise the USD 1 million. Avram himself admitted this in cross-examination.[\[note: 74\]](#Ftn_74) This, coupled with the fact that Avram was all too aware of the poor financial state of the 1st Defendant reinforces my belief that Avram had reason to make the Representations to secure Tony Lie’s commitment to invest USD 1 million in the venture.
+51     The above chronology of events shows that Avram was getting quite impatient with Andrew Tani’s inability to raise the USD 1 million. Avram himself admitted this in cross-examination.[^74] This, coupled with the fact that Avram was all too aware of the poor financial state of the 1st Defendant reinforces my belief that Avram had reason to make the Representations to secure Tony Lie’s commitment to invest USD 1 million in the venture.
 
-52     I pause here to address two of the submissions of the Defendants’ counsel. First, the Defendants’ counsel submitted that it was unlikely that the 1st Defendant’s loss position was operating on Avram’s mind at the 10 March 2010 Meeting given his lack of knowledge and interest in the finances of the 1st Defendant.[\[note: 75\]](#Ftn_75) There is scant evidentiary support for this submission.
+52     I pause here to address two of the submissions of the Defendants’ counsel. First, the Defendants’ counsel submitted that it was unlikely that the 1st Defendant’s loss position was operating on Avram’s mind at the 10 March 2010 Meeting given his lack of knowledge and interest in the finances of the 1st Defendant.[^75] There is scant evidentiary support for this submission.
 
-53     While it is true that in his testimony[\[note: 76\]](#Ftn_76) Avram had said that he was a technical director and not much involved in accounting matters, he did not say that he lacked knowledge of or interest in the finances of the 1st Defendant.
+53     While it is true that in his testimony[^76] Avram had said that he was a technical director and not much involved in accounting matters, he did not say that he lacked knowledge of or interest in the finances of the 1st Defendant.
 
-54     More importantly, while he was cross-examined on the meeting of 10 March 2010, he admitted that by 2009, after six years of trying to break into the Indonesian market, the 1st Defendant’s sales in Indonesia was only USD 30,000 per year.[\[note: 77\]](#Ftn_77) He also admitted that since 2003, the 1st Defendant had been suffering losses.
+54     More importantly, while he was cross-examined on the meeting of 10 March 2010, he admitted that by 2009, after six years of trying to break into the Indonesian market, the 1st Defendant’s sales in Indonesia was only USD 30,000 per year.[^77] He also admitted that since 2003, the 1st Defendant had been suffering losses.
 
-55     Avram also agreed with Plaintiffs’ counsel that “Tony Lie was the last and only bet after Andrew Tani’s efforts for the nine months” prior to the 10 March 2010 meeting.[\[note: 78\]](#Ftn_78) In a similar vein he also agreed with the Plaintiffs’ counsel’s suggestion that Andrew Tani might never find any other investor who was willing to put up USD 1 million to be transferred to the 1st Defendant.[\[note: 79\]](#Ftn_79)
+55     Avram also agreed with Plaintiffs’ counsel that “Tony Lie was the last and only bet after Andrew Tani’s efforts for the nine months” prior to the 10 March 2010 meeting.[^78] In a similar vein he also agreed with the Plaintiffs’ counsel’s suggestion that Andrew Tani might never find any other investor who was willing to put up USD 1 million to be transferred to the 1st Defendant.[^79]
 
 56     Second, the Defendants’ counsel submitted that what was actually said at the 10 March 2010 Meeting was uncertain. It was also unlikely that Avram could have made the Representations to Tony Lie because Andrew Tani had done most of the talking to Tony Lie in Bahasa Indonesia and Avram could not speak Bahasa Indonesia. I set out the Defendants’ counsel’s submission below:
 
-Furthermore, the contents of what was actually said at the meeting is also disputed. Vass Avram maintained that Andrew Tani had done most of the talking to Tony Lie in Bahasa Indonesia, while Andrew Tani testified that Vass Avram spoken directly to Tony Lie. _The Defendants submit that this is unlikely to be the case given that Vass Avram is unable to speak Bahasa Indonesia._[\[note: 80\]](#Ftn_80) \[emphasis added in italics\]
+Furthermore, the contents of what was actually said at the meeting is also disputed. Vass Avram maintained that Andrew Tani had done most of the talking to Tony Lie in Bahasa Indonesia, while Andrew Tani testified that Vass Avram spoken directly to Tony Lie. _The Defendants submit that this is unlikely to be the case given that Vass Avram is unable to speak Bahasa Indonesia._[^80] \[emphasis added in italics\]
 
 57     A short answer to this is that by Avram’s own evidence at paragraphs 100 to 102 of his Affidavit of Evidence-in-Chief, Tony Lie and he did converse with each other.
 
-58     Finally, I find Avram’s denial that he had made the Representations not credible. He admitted under cross-examination (albeit possibly under some misapprehension as to the question Plaintiffs’ counsel asked him) that he had made the Representations but later disavowed the admission.[\[note: 81\]](#Ftn_81) He also testified that he only “present\[ed\] the product” to Tony Lie but this is inconsistent with his affidavit in which he described discussions with Tony Lie concerning distributorship not only in Indonesia but elsewhere.[\[note: 82\]](#Ftn_82)
+58     Finally, I find Avram’s denial that he had made the Representations not credible. He admitted under cross-examination (albeit possibly under some misapprehension as to the question Plaintiffs’ counsel asked him) that he had made the Representations but later disavowed the admission.[^81] He also testified that he only “present\[ed\] the product” to Tony Lie but this is inconsistent with his affidavit in which he described discussions with Tony Lie concerning distributorship not only in Indonesia but elsewhere.[^82]
 
 59     To conclude, I did not find persuasive the Defendants’ arguments why Avram could not have made the Representations. Based on the totality of the evidence before me, on the balance of probabilities, I conclude that Avram did make the Representations.
 
@@ -218,13 +219,13 @@ Furthermore, the contents of what was actually said at the meeting is also dispu
 
 ### There is no evidence to show that a single order for USD 1 million was made or that a second order of MSP Products was placed by the 1st Plaintiff after that reflected in the Proforma Invoice.
 
-60     The Defendants’ pleaded case is that there had been one single order for USD 1 million worth of MSP Products, as evidenced by a 2 February 2010 email from Esmond, one of the 1st Plaintiff’s employees.[\[note: 83\]](#Ftn_83) The Defendants contend that in keeping with their ‘pay-to-produce’ policy, MSP Products had been produced and that the second shipment of the same had been stored for the Plaintiffs since June 2010. Hence, the Defendants posit that the 1st Defendant is entitled to retain the Balance Sum and to its counterclaim for storage charges in relation to the second shipment.[\[note: 84\]](#Ftn_84)
+60     The Defendants’ pleaded case is that there had been one single order for USD 1 million worth of MSP Products, as evidenced by a 2 February 2010 email from Esmond, one of the 1st Plaintiff’s employees.[^83] The Defendants contend that in keeping with their ‘pay-to-produce’ policy, MSP Products had been produced and that the second shipment of the same had been stored for the Plaintiffs since June 2010. Hence, the Defendants posit that the 1st Defendant is entitled to retain the Balance Sum and to its counterclaim for storage charges in relation to the second shipment.[^84]
 
-61     The Plaintiffs on the other hand submit that, from the evidence established under cross-examination, it is clear that there was only one order for MSP Products made for the value of USD 520,766.40, as per the 8 April 2010 Tax Invoice; there was no other order and no other invoice. As such, the 1st Defendant does not have any right to retain the Balance Sum. [\[note: 85\]](#Ftn_85)
+61     The Plaintiffs on the other hand submit that, from the evidence established under cross-examination, it is clear that there was only one order for MSP Products made for the value of USD 520,766.40, as per the 8 April 2010 Tax Invoice; there was no other order and no other invoice. As such, the 1st Defendant does not have any right to retain the Balance Sum. [^85]
 
-62     With regard to the 2nd February 2010 email sent by Esmond, the Plaintiffs argue that it was a preliminary order made up to reflect approximately USD 1 million worth of MSP Products.[\[note: 86\]](#Ftn_86) I accept the evidence of Andrew Tani that the 2nd February 2010 email was sent in anticipation of funds to be injected by the potential investor Hermanto which eventually did not materialise.[\[note: 87\]](#Ftn_87) Accordingly, the preliminary order was not regarded as a final order and was never acted upon.
+62     With regard to the 2nd February 2010 email sent by Esmond, the Plaintiffs argue that it was a preliminary order made up to reflect approximately USD 1 million worth of MSP Products.[^86] I accept the evidence of Andrew Tani that the 2nd February 2010 email was sent in anticipation of funds to be injected by the potential investor Hermanto which eventually did not materialise.[^87] Accordingly, the preliminary order was not regarded as a final order and was never acted upon.
 
-63     The Plaintiffs contend that from contemporaneous evidence, the 2nd February 2010 email was understood by all parties not to be an order for USD 1 million worth of MSP Products. By Patricia Yong’s email dated 8 February 2010, she informed Andrew Tani as follows[\[note: 88\]](#Ftn_88):
+63     The Plaintiffs contend that from contemporaneous evidence, the 2nd February 2010 email was understood by all parties not to be an order for USD 1 million worth of MSP Products. By Patricia Yong’s email dated 8 February 2010, she informed Andrew Tani as follows[^88]:
 
 “Certainly Andrew. I know you r doing your best.
 
@@ -242,23 +243,23 @@ Once TT is in pls call him to work vol in for me. This one of those unforeseen b
 
 \[emphasis added in bold\]
 
-64     The Plaintiffs also point out that Patricia Yong confirmed under cross-examination that the 2 February 2010 email could not have been the final order because the product combination had not been finalised. The transcript shows as follows[\[note: 89\]](#Ftn_89):
+64     The Plaintiffs also point out that Patricia Yong confirmed under cross-examination that the 2 February 2010 email could not have been the final order because the product combination had not been finalised. The transcript shows as follows[^89]:
 
 Q:Ms Yong, you are telling us today that this email on February 2010 at page 174 of Andrew Tani’s affidavit is the order?
 
 A:No I--I said that is the route of the order. The order keeps moving. It is an order. But order based on the money coming in and the money was delayed coming in. So, yes, there is an order, but the final order was revisited when the money went in.
 
-65     The Plaintiffs also point out that according to Avram, any order placed before any payment is received by the 1st Defendant would not be entered into the system and thus would not be treated as an order[\[note: 90\]](#Ftn_90).
+65     The Plaintiffs also point out that according to Avram, any order placed before any payment is received by the 1st Defendant would not be entered into the system and thus would not be treated as an order[^90].
 
 66     It is common ground that as at 2 February 2010, no payment had been received by the 1st Defendant. Hence, based on the Defendants’ pay-to-produce policy, the 2 February 2010 email could not have been a confirmed order for USD 1 million worth of MSP Products.
 
-67     Further, according to the pay-to-produce policy, an invoice will be issued only when an order has been confirmed and payment is received by the 1st Defendant (see above at \[312\]). This was confirmed by both Avram and Patricia Yong.[\[note: 91\]](#Ftn_91) The latter also conceded that the only invoice which was issued according to the pay-to-produce policy was the 8 April 2010 Invoice.[\[note: 92\]](#Ftn_92) (Although Patricia Yong testified that there should be another invoice reflecting the 1st Plaintiff’s paid order for the Balance Sum worth of MSP Products, she was not able to produce any documentary evidence of such an invoice.)[\[note: 93\]](#Ftn_93)
+67     Further, according to the pay-to-produce policy, an invoice will be issued only when an order has been confirmed and payment is received by the 1st Defendant (see above at \[312\]). This was confirmed by both Avram and Patricia Yong.[^91] The latter also conceded that the only invoice which was issued according to the pay-to-produce policy was the 8 April 2010 Invoice.[^92] (Although Patricia Yong testified that there should be another invoice reflecting the 1st Plaintiff’s paid order for the Balance Sum worth of MSP Products, she was not able to produce any documentary evidence of such an invoice.)[^93]
 
 68     If the 2 February 2010 email was an order for USD 1 million worth of MSP Products, there would have been a single invoice issued by the 1st Defendant for the full amount that reflected the combination set out in the 2 February 2010 Email. However, there was none.
 
 69     In support of their pleaded case, the Defendants also sought to rely on 2 other emails from Andrew Tani dated 31 March and 2 April 2010.
 
-70     Read in context and in the light of Andrew Tani’s evidence,[\[note: 94\]](#Ftn_94) these two emails of 31 March and 2 April 2010 do not show that the 1st Plaintiff had placed and paid for an order of USD 1 million worth of MSP Products from the 1st Defendant. In these two emails, Andrew Tani was informing the defendants that they should be expecting a huge order from the 1st Plaintiff in the event that both Krakatau Steel and PAMA, two potential clients, signed up for the 1st Plaintiff’s pilot program to use MSP Products. As such, I find that these two emails did not in any way evidence any confirmed order of USD 1 million worth of MSP Products by the 1st Plaintiff. Subsequent to these two emails, only the 8 April 2010 Invoice was issued.
+70     Read in context and in the light of Andrew Tani’s evidence,[^94] these two emails of 31 March and 2 April 2010 do not show that the 1st Plaintiff had placed and paid for an order of USD 1 million worth of MSP Products from the 1st Defendant. In these two emails, Andrew Tani was informing the defendants that they should be expecting a huge order from the 1st Plaintiff in the event that both Krakatau Steel and PAMA, two potential clients, signed up for the 1st Plaintiff’s pilot program to use MSP Products. As such, I find that these two emails did not in any way evidence any confirmed order of USD 1 million worth of MSP Products by the 1st Plaintiff. Subsequent to these two emails, only the 8 April 2010 Invoice was issued.
 
 71     In contrast, the following evidence in favour of the Plaintiffs’ contention that the Balance Sum had not been applied in payment for any order is much more convincing.
 
@@ -266,23 +267,23 @@ A:No I--I said that is the route of the order. The order keeps moving. It is an 
 
 72     The 1st Defendant’s financial records show that the Balance Sum was not treated as part of the 1st Defendant’s revenue but rather was treated as a liability by the 1st Defendant.
 
-73     First, the 1st Defendant’s Ledger Listing Report (“the Ledger”) shows that:[\[note: 95\]](#Ftn_95)
+73     First, the 1st Defendant’s Ledger Listing Report (“the Ledger”) shows that:[^95]
 
 (a)     the Balance Sum remained in the 1st Defendant’s accounts as at 28 February 2011 (approximately one year after the USD 1 million had been received by the 1st Defendant); and
 
-(b)     an amount of USD 476,923.13 remained in the 1st Defendant’s accounts as at 28 February 2012. (This is the Balance Sum less USD 2,304.47 which is the 2nd Defendant’s purported travel expenses to Indonesia[\[note: 96\]](#Ftn_96)). This was approximately two years after the sum of USD 1 million had been received by the 1st Defendant.
+(b)     an amount of USD 476,923.13 remained in the 1st Defendant’s accounts as at 28 February 2012. (This is the Balance Sum less USD 2,304.47 which is the 2nd Defendant’s purported travel expenses to Indonesia[^96]). This was approximately two years after the sum of USD 1 million had been received by the 1st Defendant.
 
-74     Patricia Yong also admitted that the Ledger showed that the 1st Defendant had not utilised the Balance Sum as at 28 February 2011. Neither had it utilised the Balance Sum (less the 2nd Defendant’s travel expenses to Indonesia) as at 28 February 2012.[\[note: 97\]](#Ftn_97)
+74     Patricia Yong also admitted that the Ledger showed that the 1st Defendant had not utilised the Balance Sum as at 28 February 2011. Neither had it utilised the Balance Sum (less the 2nd Defendant’s travel expenses to Indonesia) as at 28 February 2012.[^97]
 
-75     To similar affect, the 1st Defendant’s Detailed Profit and Loss Account as at 28 February 2011 and 29 February 2012 showed that the Balance Sum was not treated as the 1st Defendant’s revenue but as a liability.[\[note: 98\]](#Ftn_98) In both these records, the Balance Sum was reflected as part of the 1st Defendant’s “Collections in Advance” under the heading “Current Liabilities”.[\[note: 99\]](#Ftn_99)
+75     To similar affect, the 1st Defendant’s Detailed Profit and Loss Account as at 28 February 2011 and 29 February 2012 showed that the Balance Sum was not treated as the 1st Defendant’s revenue but as a liability.[^98] In both these records, the Balance Sum was reflected as part of the 1st Defendant’s “Collections in Advance” under the heading “Current Liabilities”.[^99]
 
 76     As such, the 1st Defendant’s financial records incontrovertibly show that the 1st Defendant had not used the Balance Sum towards payment for the production of MSP Products for the 1st Plaintiff. They clearly support the Plaintiffs’ case that only one order for MSP Products was placed, _viz_, that reflected in the 8 April 2010 Invoice.
 
 ### The 2nd Defendant fabricated the list of MSP Products which the defendants averred were ordered by the 1st Plaintiff
 
-77     Pursuant to the Plaintiffs’ application for discovery of documents evidencing the MSP Products allegedly stored by the 1st Defendant (that being the basis for its counterclaim for storage charges), the Defendants disclosed an Inventory List in March 2016.[\[note: 100\]](#Ftn_100)
+77     Pursuant to the Plaintiffs’ application for discovery of documents evidencing the MSP Products allegedly stored by the 1st Defendant (that being the basis for its counterclaim for storage charges), the Defendants disclosed an Inventory List in March 2016.[^100]
 
-78     However, under cross-examination, Avram admitted that he had prepared the Inventory List by working backwards from the Balance Sum.[\[note: 101\]](#Ftn_101) He also admitted that the Inventory List had never been confirmed by the 1st Plaintiffs as a potential second order of MSP Products.[\[note: 102\]](#Ftn_102) It was also quite damning on the Defendants’ case when Avram admitted further in cross-examination that he created the Inventory List to justify the counterclaim[\[note: 103\]](#Ftn_103):
+78     However, under cross-examination, Avram admitted that he had prepared the Inventory List by working backwards from the Balance Sum.[^101] He also admitted that the Inventory List had never been confirmed by the 1st Plaintiffs as a potential second order of MSP Products.[^102] It was also quite damning on the Defendants’ case when Avram admitted further in cross-examination that he created the Inventory List to justify the counterclaim[^103]:
 
 Q:Right. Mr Avram, it was only in 2015 that after the plaintiffs took out the application for discovery to ask the defendants for the inventory records, that you decided to come up with this list, correct?
 
@@ -300,11 +301,11 @@ A:Correct.
 
 81     As mentioned above at \[6\], Andrew Tani was entitled to be paid an 8% “overriding” commission for all purchases of MSP Products that he arranged pursuant to the Commission Agreement agreed with 1st Defendant.
 
-82     The only commission Andrew Tani received was USD 38,575.29 on 20 April 2010. This figure works out to be exactly 8% of USD 482,191.11, which is the amount payable in respect of the 8 April 2010 Invoice (USD 520,766.40) minus the USD 38,575.29 commission which Andrew Tani received.[\[note: 104\]](#Ftn_104) This was consistent with the arrangement whereby the amount invoiced to the 1st Plaintiff was inclusive of the commission payable to Andrew Tani. In other words, the commission was borne by the 1st Plaintiff.[\[note: 105\]](#Ftn_105)
+82     The only commission Andrew Tani received was USD 38,575.29 on 20 April 2010. This figure works out to be exactly 8% of USD 482,191.11, which is the amount payable in respect of the 8 April 2010 Invoice (USD 520,766.40) minus the USD 38,575.29 commission which Andrew Tani received.[^104] This was consistent with the arrangement whereby the amount invoiced to the 1st Plaintiff was inclusive of the commission payable to Andrew Tani. In other words, the commission was borne by the 1st Plaintiff.[^105]
 
 83     The fact that no other commission was paid to Andrew Tani supports the Plaintiffs’ contention that there was no second order. Therefore, the Balance Sum had not been used to pay for any further MSP Products.
 
-84     Patricia Yong tried to explain away the fact that Andrew Tani had not been paid any other commission for the alleged USD 1 million order by testifying that she had given instructions to her accountants to pay Andrew Tani the 8% overriding commission for the first shipment under the 8 April 2010 Invoice and to withhold the payment to Andrew Tani for the alleged second shipment.[\[note: 106\]](#Ftn_106) According to her, the reason for this was that there was a confidential verbal agreement between Andrew Tani and the defendants that expenses incurred by Avram in travelling to Indonesia would be deducted from the overall commission due to Andrew Tani.[\[note: 107\]](#Ftn_107) As this agreement was confidential, it was not reflected in the Commission Agreement.[\[note: 108\]](#Ftn_108) As such, Andrew Tani’s commission for the second shipment was withheld by the 1st Defendant so that all the said travelling expenses incurred by Avram could be calculated and then deducted from Andrew Tani’s balance commission.
+84     Patricia Yong tried to explain away the fact that Andrew Tani had not been paid any other commission for the alleged USD 1 million order by testifying that she had given instructions to her accountants to pay Andrew Tani the 8% overriding commission for the first shipment under the 8 April 2010 Invoice and to withhold the payment to Andrew Tani for the alleged second shipment.[^106] According to her, the reason for this was that there was a confidential verbal agreement between Andrew Tani and the defendants that expenses incurred by Avram in travelling to Indonesia would be deducted from the overall commission due to Andrew Tani.[^107] As this agreement was confidential, it was not reflected in the Commission Agreement.[^108] As such, Andrew Tani’s commission for the second shipment was withheld by the 1st Defendant so that all the said travelling expenses incurred by Avram could be calculated and then deducted from Andrew Tani’s balance commission.
 
 85     As was pointed out by the Plaintiffs, Patricia Yong’s evidence on the alleged verbal agreement was inherently contradictory:
 
@@ -314,7 +315,7 @@ A:Correct.
 
 (c)     It is also difficult to understand why Avram’s travel expenses of USD 2,304.47 (as mentioned in \[73(b)\]) were deducted from the Balance Sum if there was a verbal agreement that they were to be deducted from Andrew Tani’s commission.
 
-86     Finally, the terms of the Commission Agreement are unambiguous.[\[note: 109\]](#Ftn_109) Under the Commission Agreement, it was stated as follows:
+86     Finally, the terms of the Commission Agreement are unambiguous.[^109] Under the Commission Agreement, it was stated as follows:
 
 \[t\]his is to confirm that 8% (eight per cent) over-riding commission is payable to Mr Andrew Tani for all purchases of MSP range of products arranged by him through our Asia Marketing Agent, msp4GE Pte Ltd.
 
@@ -326,11 +327,11 @@ Such commission will be calculated from any amount received for orders made and 
 
 ### The Exclusive Distributorship Right was not granted
 
-88     In an email dated 8 April 2010 _(ie_, after the USD 1 million had been received by the 1st Defendant) Patricia Yong informed Andrew Tani that she was “pleased that Indonesia \[was\] finally exclusively represented; except for a few industries” (the “8 April 2010 email”).[\[note: 110\]](#Ftn_110) The Plaintiffs argue that if, amongst the Representations, Avram had not represented that the 1st Plaintiff would obtain exclusive distributorship without having to make a firm order for USD 1 million worth of MSP Products, there would have been no reason for her to declare that “Indonesia is finally exclusively represented”, since according to the Defendants’ themselves, in order to satisfy clause 3.6 of the AMA, there had to be a single order for USD 1 million worth of the MSP Products. [\[note: 111\]](#Ftn_111)
+88     In an email dated 8 April 2010 _(ie_, after the USD 1 million had been received by the 1st Defendant) Patricia Yong informed Andrew Tani that she was “pleased that Indonesia \[was\] finally exclusively represented; except for a few industries” (the “8 April 2010 email”).[^110] The Plaintiffs argue that if, amongst the Representations, Avram had not represented that the 1st Plaintiff would obtain exclusive distributorship without having to make a firm order for USD 1 million worth of MSP Products, there would have been no reason for her to declare that “Indonesia is finally exclusively represented”, since according to the Defendants’ themselves, in order to satisfy clause 3.6 of the AMA, there had to be a single order for USD 1 million worth of the MSP Products. [^111]
 
 89     While the Defendants might argue that Patricia Yong’s 8 April 2010 email was equally proof that USD 1 million worth of MSP Products had been ordered, such an argument would not get the Defendants very far for two reasons. First, there was never any other invoice after the 8 April 2010 Invoice (see above at \[60\] to \[710\]). Second, despite Patricia Yong’s declaration in the said email, the Exclusive Distributorship Right was in fact never granted to the 1st Plaintiff.
 
-90     The Defendants argue that the Exclusive Distributorship Right was not granted because the 1st Plaintiff did not meet the criteria for exclusive distributorship under the AMA.[\[note: 112\]](#Ftn_112) However, the Defendants’ witnesses were inconsistent on the criteria for obtaining exclusivity. According to Avram, the 1st Plaintiff needed to transfer to the 1st Defendant USD 1 million and place an order for USD 1 million worth of MSP Products before the 1st Plaintiff would have the Exclusive Distributorship Right.[\[note: 113\]](#Ftn_113) Patricia Yong also confirmed this on affidavit.[\[note: 114\]](#Ftn_114) In court, however, to explain why the Exclusive Distributorship Right was not granted to the 1st Plaintiff, Patricia Yong testified that there were _additional_ preconditions which the 1st Plaintiff had to satisfy.[\[note: 115\]](#Ftn_115) These conditions, however, were not mentioned in her Affidavit of Evidence-in-Chief and it contradicted her email to Andrew Tani dated 16 March 2010 in which she informed Andrew Tani that as soon as the 1st Defendant received the USD 1 million, the 1st Defendant would announce to all distributors about the 1st Plaintiff’s exclusive distributorship status in Indonesia.[\[note: 116\]](#Ftn_116)
+90     The Defendants argue that the Exclusive Distributorship Right was not granted because the 1st Plaintiff did not meet the criteria for exclusive distributorship under the AMA.[^112] However, the Defendants’ witnesses were inconsistent on the criteria for obtaining exclusivity. According to Avram, the 1st Plaintiff needed to transfer to the 1st Defendant USD 1 million and place an order for USD 1 million worth of MSP Products before the 1st Plaintiff would have the Exclusive Distributorship Right.[^113] Patricia Yong also confirmed this on affidavit.[^114] In court, however, to explain why the Exclusive Distributorship Right was not granted to the 1st Plaintiff, Patricia Yong testified that there were _additional_ preconditions which the 1st Plaintiff had to satisfy.[^115] These conditions, however, were not mentioned in her Affidavit of Evidence-in-Chief and it contradicted her email to Andrew Tani dated 16 March 2010 in which she informed Andrew Tani that as soon as the 1st Defendant received the USD 1 million, the 1st Defendant would announce to all distributors about the 1st Plaintiff’s exclusive distributorship status in Indonesia.[^116]
 
 91     It seems to me that the more persuasive reason why the Exclusive Distributorship Right was not granted is that the 1st Plaintiff had not placed a second order for the MSP Products to bring the total value ordered up to USD 1 million.
 
@@ -342,7 +343,7 @@ Such commission will be calculated from any amount received for orders made and 
 
 ### Legal Issue 1: Whether the Balance Sum is held on trust
 
-94     The Plaintiffs submit that the Balance Sum is held by the 1st Defendant on trust for the 1st Plaintiff. They rely on _Re Kayford Ltd (in liquidation)_ (“_Re Kayford_”)[\[note: 117\]](#Ftn_117) and _Twinsectra Ltd v Yardley_ \[2002\] AC 164 (“_Twinsectra v Yardley_”).
+94     The Plaintiffs submit that the Balance Sum is held by the 1st Defendant on trust for the 1st Plaintiff. They rely on _Re Kayford Ltd (in liquidation)_ (“_Re Kayford_”)[^117] and _Twinsectra Ltd v Yardley_ \[2002\] AC 164 (“_Twinsectra v Yardley_”).
 
 95     In _Re Kayford_, the company, Kayford Ltd, carried on a mail order business in bedding quilts, stretch covers for chairs and the like. The customers either paid the full price in advance or paid a deposit. After an advertising campaign by the company in August 1972, similar to previous campaigns, money came in for goods, but the company found itself unable to obtain supplies to meet all the orders. Mr Kay, the managing director of the company, was becoming concerned for the customers of the company who had sent and were sending money for goods. He met his accountants and was advised that a separate bank account should be opened by the company and all further moneys paid by customers for goods not yet delivered should be paid into this account and withdrawn only when the goods had been delivered. The object of doing this was so that if the company had to go into liquidation, these sums of money could and would be refunded to those who paid them. Mr Kay did as advised.
 
@@ -416,7 +417,7 @@ I do not think that subtle distinctions should be made between “true” _Quist
 
 114    Although the heading of section E of the Defendant’s closing submissions asserts that both Avram and Patricia Yong are not liable for dishonest assistance, the body of section E is devoted exclusively to submissions in Patricia Yong’s behalf.
 
-115    Counsel for the Defendants submit that “the threshold of dishonesty which has to affect the conscience of the director is a high one”,[\[note: 118\]](#Ftn_118) and that Plaintiffs have not proved that she knew of the Representations.
+115    Counsel for the Defendants submit that “the threshold of dishonesty which has to affect the conscience of the director is a high one”,[^118] and that Plaintiffs have not proved that she knew of the Representations.
 
 116    With regard to the factual question raised as to her knowledge, the evidence earlier reviewed shows that she knew of the Representations. The two invoices of 10 March 2010 (the same day that the Representations were made) were issued with her knowledge if not on her instructions. The 26 March 2010 Letter which she signed in April of that year showed that she was upset with the Representations and sought, with Andrew Tani’s help, to downplay their significance. However, she stopped short of disavowing the Representations.
 
@@ -506,7 +507,7 @@ Since no order apart from that under the 8 April 2010 Tax Invoice had been place
 
 140    What is noticeably absent is any attempt by the Plaintiffs to explain how they satisfy the three requirements. In particular, there is no attempt to show how the 1st Defendant’s retention of the Balance Sum is within any of the categories which the law recognises as sufficient to render their retention unjust.
 
-141    The Defendants contend that this failure on the part of the Plaintiffs to found the claim in unjust enrichment on any “unjust factor” is fatal to the Plaintiffs’ case.[\[note: 119\]](#Ftn_119)
+141    The Defendants contend that this failure on the part of the Plaintiffs to found the claim in unjust enrichment on any “unjust factor” is fatal to the Plaintiffs’ case.[^119]
 
 142    In this regard, the Defendants cite _Wee Chiaw Sek Anna v Ng Li-Ann Genevieve (sole executrix of the estate of Ng Hock Seng, deceased and another_ (“_Anna_”), where the CA observed at \[134\]:
 
@@ -544,7 +545,7 @@ A claimant must be able to point a _ground of recovery_ that is established by p
 
 ### Legal Issue 3: Fraudulent Misrepresentation
 
-150    The Plaintiffs argue that the 1st Defendant and/or Avram are liable for fraudulent misrepresentation.[\[note: 120\]](#Ftn_120)
+150    The Plaintiffs argue that the 1st Defendant and/or Avram are liable for fraudulent misrepresentation.[^120]
 
 151    The Court of Appeal in _Panatron Pte Ltd and another v Lee Cheow Lee and another_ laid down the law as regards fraudulent misrepresentation (at \[13\] - \[14\]):
 
@@ -580,245 +581,245 @@ The essentials of this tort have been set out by Lord Maughan in _Bradford Build
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)Agreed Bundle Vol 1 at p 339-361 (“1AB339 – 361).
+[^1]: Agreed Bundle Vol 1 at p 339-361 (“1AB339 – 361).
 
-[\[note: 2\]](#Ftn_2_1)1AB372.
+[^2]: 1AB372.
 
-[\[note: 3\]](#Ftn_3_1)1AB386.
+[^3]: 1AB386.
 
-[\[note: 4\]](#Ftn_4_1)1AB343.
+[^4]: 1AB343.
 
-[\[note: 5\]](#Ftn_5_1)Affidavit of Evidence-in-Chief of Andrew Emmanuel Tani (“Andrew Tani’s AEIC”) at paras 36 to 44.
+[^5]: Affidavit of Evidence-in-Chief of Andrew Emmanuel Tani (“Andrew Tani’s AEIC”) at paras 36 to 44.
 
-[\[note: 6\]](#Ftn_6_1)Plaintiff’s Core Bundle (“PCB”) at page 113.
+[^6]: Plaintiff’s Core Bundle (“PCB”) at page 113.
 
-[\[note: 7\]](#Ftn_7_1)PCB at page 115.
+[^7]: PCB at page 115.
 
-[\[note: 8\]](#Ftn_8_1)1AB973.
+[^8]: 1AB973.
 
-[\[note: 9\]](#Ftn_9_1)1AB981.
+[^9]: 1AB981.
 
-[\[note: 10\]](#Ftn_10_1)Transcripts, 20 September, page 41 lines 18 to 24.
+[^10]: Transcripts, 20 September, page 41 lines 18 to 24.
 
-[\[note: 11\]](#Ftn_11_1)Andrew Tani’s AEIC at paras 47 to 50. See also Affidavit of Evidence-in-Chief of Tony Antoonius Lie (“Tony Lie’s AEIC”) at paras 5 to 12.
+[^11]: Andrew Tani’s AEIC at paras 47 to 50. See also Affidavit of Evidence-in-Chief of Tony Antoonius Lie (“Tony Lie’s AEIC”) at paras 5 to 12.
 
-[\[note: 12\]](#Ftn_12_1)Andrew Tani’s AEIC at paras 50 to 54 and Tony Lie’s AEIC at paras 10 to 20.
+[^12]: Andrew Tani’s AEIC at paras 50 to 54 and Tony Lie’s AEIC at paras 10 to 20.
 
-[\[note: 13\]](#Ftn_13_1)Tony Lie’s AEIC at para 18.
+[^13]: Tony Lie’s AEIC at para 18.
 
-[\[note: 14\]](#Ftn_14_1)Bundle of Pleadings, p 127 paras 9 to 11A.
+[^14]: Bundle of Pleadings, p 127 paras 9 to 11A.
 
-[\[note: 15\]](#Ftn_15_1)Tony Lie’s affidavit para 18(a) and Andrew Tani’s affidavit para 54.
+[^15]: Tony Lie’s affidavit para 18(a) and Andrew Tani’s affidavit para 54.
 
-[\[note: 16\]](#Ftn_16_1)Statement of Claim (Amendment No 1) at para 10.
+[^16]: Statement of Claim (Amendment No 1) at para 10.
 
-[\[note: 17\]](#Ftn_17_1)Andrew Tani’s AEIC at para 57. See also Andrew Tani’s AEIC at Tab 14.
+[^17]: Andrew Tani’s AEIC at para 57. See also Andrew Tani’s AEIC at Tab 14.
 
-[\[note: 18\]](#Ftn_18_1)Bundle of Pleadings, p 127 paras 9 to 10.
+[^18]: Bundle of Pleadings, p 127 paras 9 to 10.
 
-[\[note: 19\]](#Ftn_19_1)Statement of Claim (Amendment No 1) at paras 9 and 10.
+[^19]: Statement of Claim (Amendment No 1) at paras 9 and 10.
 
-[\[note: 20\]](#Ftn_20_1)Andrew Tani’s AEIC at para 72. See also Andrew Tani’s AEIC at Tab 21.
+[^20]: Andrew Tani’s AEIC at para 72. See also Andrew Tani’s AEIC at Tab 21.
 
-[\[note: 21\]](#Ftn_21_1)Statement of Claim (Amendment No 1) at para 14.
+[^21]: Statement of Claim (Amendment No 1) at para 14.
 
-[\[note: 22\]](#Ftn_22_1)Bundle of Pleadings, p 128 para 13.
+[^22]: Bundle of Pleadings, p 128 para 13.
 
-[\[note: 23\]](#Ftn_23_1)Andrew Tani’s AEIC at paras 88 to 91.
+[^23]: Andrew Tani’s AEIC at paras 88 to 91.
 
-[\[note: 24\]](#Ftn_24_1)Andrew Tani’s AEIC at para 93.
+[^24]: Andrew Tani’s AEIC at para 93.
 
-[\[note: 25\]](#Ftn_25_1)Andrew Tani’s AEIC at paras 93 to 97.
+[^25]: Andrew Tani’s AEIC at paras 93 to 97.
 
-[\[note: 26\]](#Ftn_26_1)Andrew Tani’s AEIC at para 104.
+[^26]: Andrew Tani’s AEIC at para 104.
 
-[\[note: 27\]](#Ftn_27_1)Statement of Claim (Amendment No 1) at para 16.
+[^27]: Statement of Claim (Amendment No 1) at para 16.
 
-[\[note: 28\]](#Ftn_28_1)Statement of Claim (Amendment No 1) at para 18.
+[^28]: Statement of Claim (Amendment No 1) at para 18.
 
-[\[note: 29\]](#Ftn_29_1)Bundle of Pleadings p 149 – 151, at \[36\] – \[39\].
+[^29]: Bundle of Pleadings p 149 – 151, at \[36\] – \[39\].
 
-[\[note: 30\]](#Ftn_30_1)Tony Antonius Lie Affidavit of Evidence in Chief dated 22 May 2017 (“Tony Lie’s AEIC”) at para 3.
+[^30]: Tony Antonius Lie Affidavit of Evidence in Chief dated 22 May 2017 (“Tony Lie’s AEIC”) at para 3.
 
-[\[note: 31\]](#Ftn_31_1)Tony Antonius Lie Affidavit of Evidence in Chief dated 22 May 2017 (“Tony Lie’s AEIC”) at para 11 to 12 and paras 16 to 18. Transcript, 14 September, page 78 lines 1 to 9.
+[^31]: Tony Antonius Lie Affidavit of Evidence in Chief dated 22 May 2017 (“Tony Lie’s AEIC”) at para 11 to 12 and paras 16 to 18. Transcript, 14 September, page 78 lines 1 to 9.
 
-[\[note: 32\]](#Ftn_32_1)Plaintiff’s closing submissions at \[89\] to \[97\].
+[^32]: Plaintiff’s closing submissions at \[89\] to \[97\].
 
-[\[note: 33\]](#Ftn_33_1)Affidavit of Evidence in Chief of Vasile Avram (“Avram’s AEIC”) at \[8\] – \[17\].
+[^33]: Affidavit of Evidence in Chief of Vasile Avram (“Avram’s AEIC”) at \[8\] – \[17\].
 
-[\[note: 34\]](#Ftn_34_1)Transcripts, 19 September 2017, p 86 lines 9 to 19 and p 88 lines 17 to 23.
+[^34]: Transcripts, 19 September 2017, p 86 lines 9 to 19 and p 88 lines 17 to 23.
 
-[\[note: 35\]](#Ftn_35_1)Transcripts, 20 September, page 66 line 12 to page 67 line 13.
+[^35]: Transcripts, 20 September, page 66 line 12 to page 67 line 13.
 
-[\[note: 36\]](#Ftn_36_1)Plaintiff’s closing submissions at \[94\] and \[95\].
+[^36]: Plaintiff’s closing submissions at \[94\] and \[95\].
 
-[\[note: 37\]](#Ftn_37_1)Transcripts, 20 September, page 64 lines 14 to 23.
+[^37]: Transcripts, 20 September, page 64 lines 14 to 23.
 
-[\[note: 38\]](#Ftn_38_1)Transcripts, 21 September, page 82 lines 4 to 21.
+[^38]: Transcripts, 21 September, page 82 lines 4 to 21.
 
-[\[note: 39\]](#Ftn_39_1)Defendants’ Closing Submissions at \[87\].
+[^39]: Defendants’ Closing Submissions at \[87\].
 
-[\[note: 40\]](#Ftn_40_1)PCB page 133.
+[^40]: PCB page 133.
 
-[\[note: 41\]](#Ftn_41_1)PCB page 134.
+[^41]: PCB page 134.
 
-[\[note: 42\]](#Ftn_42_1)PCB pages 132 to 134.
+[^42]: PCB pages 132 to 134.
 
-[\[note: 43\]](#Ftn_43_1)PCB pages 132 to 134 and Andrew Tani’s AEIC at para 63.
+[^43]: PCB pages 132 to 134 and Andrew Tani’s AEIC at para 63.
 
-[\[note: 44\]](#Ftn_44_1)Andrew Tani’s AEIC at para 64.
+[^44]: Andrew Tani’s AEIC at para 64.
 
-[\[note: 45\]](#Ftn_45_1)PCB at page 1334.
+[^45]: PCB at page 1334.
 
-[\[note: 46\]](#Ftn_46_1)PCB at page 1333.
+[^46]: PCB at page 1333.
 
-[\[note: 47\]](#Ftn_47_1)PCB pages 141 to 142.
+[^47]: PCB pages 141 to 142.
 
-[\[note: 48\]](#Ftn_48_1)PCB pages 141.
+[^48]: PCB pages 141.
 
-[\[note: 49\]](#Ftn_49_1)PCB page 135.
+[^49]: PCB page 135.
 
-[\[note: 50\]](#Ftn_50_1)Plaintiffs’ Closing Submissions at paras 101 to 106.
+[^50]: Plaintiffs’ Closing Submissions at paras 101 to 106.
 
-[\[note: 51\]](#Ftn_51_1)Plaintiffs’ Closing Submissions at para 100.
+[^51]: Plaintiffs’ Closing Submissions at para 100.
 
-[\[note: 52\]](#Ftn_52_1)Defendants’ Closing Submissions at \[16\] – \[18\].
+[^52]: Defendants’ Closing Submissions at \[16\] – \[18\].
 
-[\[note: 53\]](#Ftn_53_1)Andrew Tani’s AEIC at para 64. Transcripts, 15 September, page 31 lines 17 to page 33 line 11.
+[^53]: Andrew Tani’s AEIC at para 64. Transcripts, 15 September, page 31 lines 17 to page 33 line 11.
 
-[\[note: 54\]](#Ftn_54_1)PCB page 135.
+[^54]: PCB page 135.
 
-[\[note: 55\]](#Ftn_55_1)Transcripts, 15 September, page 47 line 19 to page 48 line 19 and page 105 line 12 to page 107 line 7.
+[^55]: Transcripts, 15 September, page 47 line 19 to page 48 line 19 and page 105 line 12 to page 107 line 7.
 
-[\[note: 56\]](#Ftn_56_1)Transcript, 15 September, page 105 line 12 to page 107 line 7. See also Transcripts, 21 September, page 94 line 16 to page 95 line 21.
+[^56]: Transcript, 15 September, page 105 line 12 to page 107 line 7. See also Transcripts, 21 September, page 94 line 16 to page 95 line 21.
 
-[\[note: 57\]](#Ftn_57_1)Transcripts, 21 September, page 84 lines 4 to 18.
+[^57]: Transcripts, 21 September, page 84 lines 4 to 18.
 
-[\[note: 58\]](#Ftn_58_1)Transcripts, 15 September 2017, p 103 line 13 to p 104 to 19.
+[^58]: Transcripts, 15 September 2017, p 103 line 13 to p 104 to 19.
 
-[\[note: 59\]](#Ftn_59_1)Transcript, 19 September 2017, page 52 lines 13 to 19. See also PCB pages 250 to 255. See also Transcripts, 20 September 2017, page 51 lines 5 to 13 and page 49 lines 13 to 22.
+[^59]: Transcript, 19 September 2017, page 52 lines 13 to 19. See also PCB pages 250 to 255. See also Transcripts, 20 September 2017, page 51 lines 5 to 13 and page 49 lines 13 to 22.
 
-[\[note: 60\]](#Ftn_60_1)Transcript, 19 September, page 52 lines 13 to 19. See also PCB pages 250 to 255.
+[^60]: Transcript, 19 September, page 52 lines 13 to 19. See also PCB pages 250 to 255.
 
-[\[note: 61\]](#Ftn_61_1)Transcripts, 20 September, page 49 lines 13 to 22, p 52 lines 21 - 23
+[^61]: Transcripts, 20 September, page 49 lines 13 to 22, p 52 lines 21 - 23
 
-[\[note: 62\]](#Ftn_62_1)Transcripts, 19 September, page 60 line 13 to page 62 line 14.
+[^62]: Transcripts, 19 September, page 60 line 13 to page 62 line 14.
 
-[\[note: 63\]](#Ftn_63_1)PCB at page 113. See also Andrew Tani’s AEIC at para 40.
+[^63]: PCB at page 113. See also Andrew Tani’s AEIC at para 40.
 
-[\[note: 64\]](#Ftn_64_1)PCB at page 113.
+[^64]: PCB at page 113.
 
-[\[note: 65\]](#Ftn_65_1)PCB at page 115.
+[^65]: PCB at page 115.
 
-[\[note: 66\]](#Ftn_66_1)PCB at page 117.
+[^66]: PCB at page 117.
 
-[\[note: 67\]](#Ftn_67_1)Transcripts, 20 September 2017, page 41 lines 18 to 24.
+[^67]: Transcripts, 20 September 2017, page 41 lines 18 to 24.
 
-[\[note: 68\]](#Ftn_68_1)PCB at page 120.
+[^68]: PCB at page 120.
 
-[\[note: 69\]](#Ftn_69_1)Andrew Tani’s AEIC at para 44.
+[^69]: Andrew Tani’s AEIC at para 44.
 
-[\[note: 70\]](#Ftn_70_1)PCB at page 121.
+[^70]: PCB at page 121.
 
-[\[note: 71\]](#Ftn_71_1)Transcript, 20 September 2017, page 41 line 25 to page 42 line 4.
+[^71]: Transcript, 20 September 2017, page 41 line 25 to page 42 line 4.
 
-[\[note: 72\]](#Ftn_72_1)Transcript, 20 September 2017, page 42 lines 9 to 14.
+[^72]: Transcript, 20 September 2017, page 42 lines 9 to 14.
 
-[\[note: 73\]](#Ftn_73_1)PCB at page 122.
+[^73]: PCB at page 122.
 
-[\[note: 74\]](#Ftn_74_1)Transcript, 20 September 2017, page 42 line 23 to page 44 line 4.
+[^74]: Transcript, 20 September 2017, page 42 line 23 to page 44 line 4.
 
-[\[note: 75\]](#Ftn_75_1)Defendants’ Closing Submissions at \[28\].
+[^75]: Defendants’ Closing Submissions at \[28\].
 
-[\[note: 76\]](#Ftn_76_1)19 September 2017 at p 60 lines 22 to 25.
+[^76]: 19 September 2017 at p 60 lines 22 to 25.
 
-[\[note: 77\]](#Ftn_77_1)Transcripts, 20 September p 51 lines 10 – 13.
+[^77]: Transcripts, 20 September p 51 lines 10 – 13.
 
-[\[note: 78\]](#Ftn_78_1)Transcripts, 20 September p 50 lines 22 – 25.
+[^78]: Transcripts, 20 September p 50 lines 22 – 25.
 
-[\[note: 79\]](#Ftn_79_1)Transcripts, 20 September p 54 lines 4 – 10.
+[^79]: Transcripts, 20 September p 54 lines 4 – 10.
 
-[\[note: 80\]](#Ftn_80_1)Defendants’ Closing Submissions at \[35\].
+[^80]: Defendants’ Closing Submissions at \[35\].
 
-[\[note: 81\]](#Ftn_81_1)Transcripts, 20 September 2017, p 54 line 11 to p 56 line 29.
+[^81]: Transcripts, 20 September 2017, p 54 line 11 to p 56 line 29.
 
-[\[note: 82\]](#Ftn_82_1)Affidavit of Evidence-in-Chief of Vasile Avram paras 100-101.
+[^82]: Affidavit of Evidence-in-Chief of Vasile Avram paras 100-101.
 
-[\[note: 83\]](#Ftn_83_1)Defence (Amendment No 4) at para 10. See also PCB112.
+[^83]: Defence (Amendment No 4) at para 10. See also PCB112.
 
-[\[note: 84\]](#Ftn_84_1)Defendants’ Closing Submissions at para 59 to 62. See also Defence (Amendment No 4) at para 16 and 35 to 39.
+[^84]: Defendants’ Closing Submissions at para 59 to 62. See also Defence (Amendment No 4) at para 16 and 35 to 39.
 
-[\[note: 85\]](#Ftn_85_1)Plaintiffs’ Closing Submissions paras 30 to 38.
+[^85]: Plaintiffs’ Closing Submissions paras 30 to 38.
 
-[\[note: 86\]](#Ftn_86_1)Plaintiffs’ Closing Submissions paras 59 to 67.
+[^86]: Plaintiffs’ Closing Submissions paras 59 to 67.
 
-[\[note: 87\]](#Ftn_87_1)Andrew Tani’s AEIC, at para 42.
+[^87]: Andrew Tani’s AEIC, at para 42.
 
-[\[note: 88\]](#Ftn_88_1)Plaintiff’s closing submissions at paras 60.
+[^88]: Plaintiff’s closing submissions at paras 60.
 
-[\[note: 89\]](#Ftn_89_1)Transcript, 21 September, p 37 lines 4 to 12.
+[^89]: Transcript, 21 September, p 37 lines 4 to 12.
 
-[\[note: 90\]](#Ftn_90_1)Transcript, 19 September, p 85 line 1 to p 86 line 19.
+[^90]: Transcript, 19 September, p 85 line 1 to p 86 line 19.
 
-[\[note: 91\]](#Ftn_91_1)Patricia Yong’s AEIC at para 44. See also Transcripts, 21 September, page 38 line 8 to page 40 line 5.
+[^91]: Patricia Yong’s AEIC at para 44. See also Transcripts, 21 September, page 38 line 8 to page 40 line 5.
 
-[\[note: 92\]](#Ftn_92_1)Patricia Yong’s AEIC at para 44.
+[^92]: Patricia Yong’s AEIC at para 44.
 
-[\[note: 93\]](#Ftn_93_1)Transcripts, 21 September, page 38 line 8 to page 40 line 25.
+[^93]: Transcripts, 21 September, page 38 line 8 to page 40 line 25.
 
-[\[note: 94\]](#Ftn_94_1)Andrew Tani’s AEIC at paras 65 to 68.
+[^94]: Andrew Tani’s AEIC at paras 65 to 68.
 
-[\[note: 95\]](#Ftn_95_1)Andrew Tani AEIC, pp 228 – 230.
+[^95]: Andrew Tani AEIC, pp 228 – 230.
 
-[\[note: 96\]](#Ftn_96_1)Transcripts, 21 September, page 65 line 6 to page 66 line 4.
+[^96]: Transcripts, 21 September, page 65 line 6 to page 66 line 4.
 
-[\[note: 97\]](#Ftn_97_1)Transcript, 21 September, page 64 lines 21 to 25 and page 65 lines 5 to 13.
+[^97]: Transcript, 21 September, page 64 lines 21 to 25 and page 65 lines 5 to 13.
 
-[\[note: 98\]](#Ftn_98_1)DOBB at Tab C and D.
+[^98]: DOBB at Tab C and D.
 
-[\[note: 99\]](#Ftn_99_1)Transcripts, 21 September, page 67 line 5 to page 69 line 22.
+[^99]: Transcripts, 21 September, page 67 line 5 to page 69 line 22.
 
-[\[note: 100\]](#Ftn_100_1)Defendants’ Bundle of Documents (DBD) at p 13.
+[^100]: Defendants’ Bundle of Documents (DBD) at p 13.
 
-[\[note: 101\]](#Ftn_101_1)Transcripts, 20 September, page 87 line 8 to page 88 line 19.
+[^101]: Transcripts, 20 September, page 87 line 8 to page 88 line 19.
 
-[\[note: 102\]](#Ftn_102_1)Transcripts, 20 September, page 88 line 20 to page 90 line 22.
+[^102]: Transcripts, 20 September, page 88 line 20 to page 90 line 22.
 
-[\[note: 103\]](#Ftn_103_1)Transcripts, 20 September, page 90 line 23 to page 91 line 5.
+[^103]: Transcripts, 20 September, page 90 line 23 to page 91 line 5.
 
-[\[note: 104\]](#Ftn_104_1)Transcript, 21 September, page 13 line 22 – page 14 line 15.
+[^104]: Transcript, 21 September, page 13 line 22 – page 14 line 15.
 
-[\[note: 105\]](#Ftn_105_1)Transcript, 21 September, page 14 lines 21 – 24.
+[^105]: Transcript, 21 September, page 14 lines 21 – 24.
 
-[\[note: 106\]](#Ftn_106_1)Transcript, 21 September, page 27 line 11 to page 28 line 8.
+[^106]: Transcript, 21 September, page 27 line 11 to page 28 line 8.
 
-[\[note: 107\]](#Ftn_107_1)Transcript, 21 September, page 6 line 1 to page 8 line 3.
+[^107]: Transcript, 21 September, page 6 line 1 to page 8 line 3.
 
-[\[note: 108\]](#Ftn_108_1)Transcript, 21 September, page 8 lines 12 to 21.
+[^108]: Transcript, 21 September, page 8 lines 12 to 21.
 
-[\[note: 109\]](#Ftn_109_1)Andrew Tani’s AEIC at Tab 8.
+[^109]: Andrew Tani’s AEIC at Tab 8.
 
-[\[note: 110\]](#Ftn_110_1)3 Agreed Bundles 1348, Core Bundle 151.
+[^110]: 3 Agreed Bundles 1348, Core Bundle 151.
 
-[\[note: 111\]](#Ftn_111_1)Defendants’ Closing Submissions at para 59.
+[^111]: Defendants’ Closing Submissions at para 59.
 
-[\[note: 112\]](#Ftn_112_1)Defendants’ Closing Submissions at \[76\] – \[77\].
+[^112]: Defendants’ Closing Submissions at \[76\] – \[77\].
 
-[\[note: 113\]](#Ftn_113_1)Avram’s AEIC at para 78.
+[^113]: Avram’s AEIC at para 78.
 
-[\[note: 114\]](#Ftn_114_1)Patricia Yong’s AEIC at paras 24 and 25.
+[^114]: Patricia Yong’s AEIC at paras 24 and 25.
 
-[\[note: 115\]](#Ftn_115_1)Transcripts, 21 September, page 45 line 9 to page 48 line 23.
+[^115]: Transcripts, 21 September, page 45 line 9 to page 48 line 23.
 
-[\[note: 116\]](#Ftn_116_1)PCB at page 131.
+[^116]: PCB at page 131.
 
-[\[note: 117\]](#Ftn_117_1)Plaintiffs’ Closing Submissions at para 116, 120 and 121.
+[^117]: Plaintiffs’ Closing Submissions at para 116, 120 and 121.
 
-[\[note: 118\]](#Ftn_118_1)Defendant’s Closing Submissions at \[93\].
+[^118]: Defendant’s Closing Submissions at \[93\].
 
-[\[note: 119\]](#Ftn_119_1)Defendant’s Closing Submissions at \[96\].
+[^119]: Defendant’s Closing Submissions at \[96\].
 
-[\[note: 120\]](#Ftn_120_1)Plaintiffs’ closing submissions at paras \[138\] to \[149\].
+[^120]: Plaintiffs’ closing submissions at paras \[138\] to \[149\].
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F22793-SSP.xml)

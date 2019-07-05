@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # Lee Hsien Loong _v_ Leong Sze Hian  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Suit No 1185 of 2018 (Summonses Nos 148 and 428 of 2019)</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">12 March 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Aedit Abdullah J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Davinder Singh S/O Amar Singh SC, Lim Xianyang Timothy and Fong Cheng Yee, David (Drew &amp; Napier LLC) for the plaintiff in the claim and the defendant in counterclaim; Lim Tean (Carson Law Chambers) for the defendant and the plaintiff in counterclaim.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Lee Hsien Loong — Leong Sze Hian</td></tr></tbody></table>
@@ -24,27 +25,27 @@ Civil Procedure – Striking out
 
 ### The parties
 
-4       The plaintiff in the Suit and the defendant in the counterclaim (“the plaintiff”) is the current Prime Minister of Singapore.[\[note: 1\]](#Ftn_1)
+4       The plaintiff in the Suit and the defendant in the counterclaim (“the plaintiff”) is the current Prime Minister of Singapore.[^1]
 
-5       The defendant in the Suit and the plaintiff in the counterclaim (“the defendant”) describes himself as a human rights activist and Government critic.[\[note: 2\]](#Ftn_2) His Facebook profile page bears his name. The defendant had 5,000 Facebook “friends” and 149 Facebook “followers” at the material time.[\[note: 3\]](#Ftn_3)
+5       The defendant in the Suit and the plaintiff in the counterclaim (“the defendant”) describes himself as a human rights activist and Government critic.[^2] His Facebook profile page bears his name. The defendant had 5,000 Facebook “friends” and 149 Facebook “followers” at the material time.[^3]
 
 ### Background to the dispute
 
 #### The allegedly defamatory Post
 
-6       On or around 7 November 2018, the Article was published on “The Coverage”, which describes itself as a Malaysian-based social news network. The Article stated that ongoing Malaysian investigations concerning Malaysia’s state fund, 1Malaysia Development Berhad (“1MDB”), were “trying to find the secret deals between the two corrupted Prime Ministers of Singapore and Malaysia”. This referred to the plaintiff and former Malaysian Prime Minister Mr Najib Razak respectively. The Article referenced “several unfair agreements” that Mr Najib Razak had entered into with the plaintiff, including the agreement to build the Singapore-Malaysia High Speed Rail, and included other details about the alleged investigations.[\[note: 4\]](#Ftn_4)
+6       On or around 7 November 2018, the Article was published on “The Coverage”, which describes itself as a Malaysian-based social news network. The Article stated that ongoing Malaysian investigations concerning Malaysia’s state fund, 1Malaysia Development Berhad (“1MDB”), were “trying to find the secret deals between the two corrupted Prime Ministers of Singapore and Malaysia”. This referred to the plaintiff and former Malaysian Prime Minister Mr Najib Razak respectively. The Article referenced “several unfair agreements” that Mr Najib Razak had entered into with the plaintiff, including the agreement to build the Singapore-Malaysia High Speed Rail, and included other details about the alleged investigations.[^4]
 
-7       On 7 November 2018 at about 6.16pm, the defendant shared a link to the Article on his Facebook Timeline (“the Post”). The Timelines on users’ profile pages serve as records of their Facebook activity. Among other functions, the Timeline showcases a user’s posts in rough reverse chronological order. The defendant did not include any accompanying text in the Post. The Post displayed part of the Article’s title, as shown below:[\[note: 5\]](#Ftn_5)
+7       On 7 November 2018 at about 6.16pm, the defendant shared a link to the Article on his Facebook Timeline (“the Post”). The Timelines on users’ profile pages serve as records of their Facebook activity. Among other functions, the Timeline showcases a user’s posts in rough reverse chronological order. The defendant did not include any accompanying text in the Post. The Post displayed part of the Article’s title, as shown below:[^5]
 
 ![]([2019] SGHC 0066_Image/[2019] SGHC 0066_image1.png)
 
-8       As at 10.16pm on 7 November 2018, the defendant’s Post attracted 22 “reactions”, five “comments” and 18 “shares”.[\[note: 6\]](#Ftn_6) The defendant removed the Post from his Facebook page at about 7.30am on 10 November 2018, after he read a notice from the Info-communications Media Development Authority (“IMDA”) that had been sent to him at around 11.00pm on 9 November 2018.[\[note: 7\]](#Ftn_7)
+8       As at 10.16pm on 7 November 2018, the defendant’s Post attracted 22 “reactions”, five “comments” and 18 “shares”.[^6] The defendant removed the Post from his Facebook page at about 7.30am on 10 November 2018, after he read a notice from the Info-communications Media Development Authority (“IMDA”) that had been sent to him at around 11.00pm on 9 November 2018.[^7]
 
 #### Government and media response
 
-9       Media outlets covered the Article over 8 and 9 November 2018, quoting the Article’s title and discussing its contents. On 8 November 2018, the Straits Times reported responses by the Law and Home Affairs Minister Mr K Shanmugam and the High Commission of the Republic of Singapore in Malaysia that refuted the Article and its contents.[\[note: 8\]](#Ftn_8)
+9       Media outlets covered the Article over 8 and 9 November 2018, quoting the Article’s title and discussing its contents. On 8 November 2018, the Straits Times reported responses by the Law and Home Affairs Minister Mr K Shanmugam and the High Commission of the Republic of Singapore in Malaysia that refuted the Article and its contents.[^8]
 
-10     On 9 November 2018, the Straits Times reported that:[\[note: 9\]](#Ftn_9)
+10     On 9 November 2018, the Straits Times reported that:[^9]
 
 (a)     the Monetary Authority of Singapore had filed a police report in respect of a similar article published on 5 November 2018 on the Straits Times Review (“the STR”), a website that claims to be an Australia-based blog covering Singapore news; and
 
@@ -58,7 +59,7 @@ Civil Procedure – Striking out
 
 (b)     the plaintiff was complicit in criminal activity relating to 1MDB (“the offending words in the Post”).
 
-The plaintiff claimed that these offending words were false and baseless and were calculated to disparage and impugn the plaintiff in his office as the Prime Minister.[\[note: 10\]](#Ftn_10)
+The plaintiff claimed that these offending words were false and baseless and were calculated to disparage and impugn the plaintiff in his office as the Prime Minister.[^10]
 
 12     The defendant filed his defence and counterclaim in the Suit on 26 December 2018. The defendant’s counterclaim was premised on the tort of abuse of process as the relevant cause of action.
 
@@ -76,9 +77,9 @@ The plaintiff claimed that these offending words were false and baseless and wer
 
 #### The plaintiff’s case
 
-16     The plaintiff relied on O 18 r 19(1)(_a_) of the Rules of Court (Cap 322, R5, 2014 Rev Ed) (“ROC”) to argue that the counterclaim should be struck out on the basis that it does not contain a “reasonable cause of action”. A “reasonable cause of action” is one that has “some chance of success when only the allegations in the pleading are considered”: _Gabriel Peter & Partners (suing as a firm) v Wee Chong Jin and others_ at \[21\]. A claim based on a cause of action that is not recognised at law will be struck out for disclosing no reasonable cause of action: _TMT Asia Ltd v BHP Billiton Marketing AG (Singapore Branch) and another_ at \[55\] and \[57\].[\[note: 11\]](#Ftn_11)
+16     The plaintiff relied on O 18 r 19(1)(_a_) of the Rules of Court (Cap 322, R5, 2014 Rev Ed) (“ROC”) to argue that the counterclaim should be struck out on the basis that it does not contain a “reasonable cause of action”. A “reasonable cause of action” is one that has “some chance of success when only the allegations in the pleading are considered”: _Gabriel Peter & Partners (suing as a firm) v Wee Chong Jin and others_ at \[21\]. A claim based on a cause of action that is not recognised at law will be struck out for disclosing no reasonable cause of action: _TMT Asia Ltd v BHP Billiton Marketing AG (Singapore Branch) and another_ at \[55\] and \[57\].[^11]
 
-17     The defendant relied on the tort of abuse of process to mount his counterclaim. However, the five-member Court of Appeal unequivocally rejected the tort of abuse of process as a recognised cause of action in _Lee Tat Development Pte Ltd v Management Corporation Strata Title Plan No 301_ (“_Lee Tat_”) at \[161\]. The Court of Appeal stated that recognition would:[\[note: 12\]](#Ftn_12)
+17     The defendant relied on the tort of abuse of process to mount his counterclaim. However, the five-member Court of Appeal unequivocally rejected the tort of abuse of process as a recognised cause of action in _Lee Tat Development Pte Ltd v Management Corporation Strata Title Plan No 301_ (“_Lee Tat_”) at \[161\]. The Court of Appeal stated that recognition would:[^12]
 
 (a)     undermine the principle of finality in the law, by encouraging unnecessary satellite litigation and prolonging disputes: at \[151\]–\[153\];
 
@@ -88,19 +89,19 @@ The plaintiff claimed that these offending words were false and baseless and wer
 
 In any case, civil procedure mechanisms afford innocent parties adequate legal remedies in the event of abuses of process. For instance, a plaintiff can apply for summary judgment against a defendant pursuant to O 14 of the ROC: at \[157\]–\[159\].
 
-18      _Sunbreeze Group Investments Ltd and others v Sim Chye Hock Ron_ (“_Sunbreeze_”) applied _Lee Tat_ two months after it was decided. At \[37\], the Court of Appeal reiterated its finding in _Lee Tat_ that the tort of abuse of process is not recognised in Singapore.[\[note: 13\]](#Ftn_13)
+18      _Sunbreeze Group Investments Ltd and others v Sim Chye Hock Ron_ (“_Sunbreeze_”) applied _Lee Tat_ two months after it was decided. At \[37\], the Court of Appeal reiterated its finding in _Lee Tat_ that the tort of abuse of process is not recognised in Singapore.[^13]
 
 19     Accordingly, as the defendant’s counterclaim discloses no _recognised_ cause of action, let alone a reasonable one, it should be struck out.
 
-20     The plaintiff sought costs on an indemnity basis. The defendant had known about the decision in _Lee Tat_ when he filed the counterclaim. Knowingly pursuing a hopeless claim is a factor that might lead to an award of indemnity costs: _Tan Chin Yew Joseph v Saxo Capital Markets Pte Ltd_ at \[99\], citing _Three Rivers District Council v The Governor and Co of the Bank of England (No 6)_ \[2006\] EWHC 816 (Comm) at \[25\]. Wholly unmeritorious conduct could also lead to an award of indemnity costs: _Anne Joseph Aaron (m w) and Others v Cheong Yip Seng and Others_ .[\[note: 14\]](#Ftn_14)
+20     The plaintiff sought costs on an indemnity basis. The defendant had known about the decision in _Lee Tat_ when he filed the counterclaim. Knowingly pursuing a hopeless claim is a factor that might lead to an award of indemnity costs: _Tan Chin Yew Joseph v Saxo Capital Markets Pte Ltd_ at \[99\], citing _Three Rivers District Council v The Governor and Co of the Bank of England (No 6)_ \[2006\] EWHC 816 (Comm) at \[25\]. Wholly unmeritorious conduct could also lead to an award of indemnity costs: _Anne Joseph Aaron (m w) and Others v Cheong Yip Seng and Others_ .[^14]
 
 #### The defendant’s case
 
-21     The defendant submitted that the Court of Appeal should reconsider the position it took in _Lee Tat_ as to whether the tort of abuse of process exists in Singapore law. The present case can be distinguished as it involves the constitutional right of freedom of expression under Art 14(1)(_a_) of the Constitution of the Republic of Singapore (1985 Rev Ed, 1999 Reprint) (“the Constitution”). _Lee Tat_ had not been concerned with this issue.[\[note: 15\]](#Ftn_15)
+21     The defendant submitted that the Court of Appeal should reconsider the position it took in _Lee Tat_ as to whether the tort of abuse of process exists in Singapore law. The present case can be distinguished as it involves the constitutional right of freedom of expression under Art 14(1)(_a_) of the Constitution of the Republic of Singapore (1985 Rev Ed, 1999 Reprint) (“the Constitution”). _Lee Tat_ had not been concerned with this issue.[^15]
 
 22     Furthermore, _Lee Tat_ had failed to address whether the tort of abuse of process should apply in exceptions where there is an abuse of a public function. The defendant drew an analogy to the tort of malicious prosecution, which the Court of Appeal noted at \[91\] is a “tool for constraining the arbitrary exercise of the powers of public prosecuting authorities”, citing _Crawford Adjusters (Cayman) Ltd v Sagicor General Insurance (Cayman) Ltd_ \[2014\] AC 366 at \[145\]. _Lee Tat_ had declined to extend the tort of malicious prosecution to civil claims generally (at \[91\]), but accepted that the tort could apply in special and limited circumstances where there has been an abuse of a public function (at \[96\]).
 
-23     On this basis, the defendant argued that the Court of Appeal should have held that the _tort of abuse of process_ would be available in the same limited circumstances where there is a need to restrain the abuse of a public function in situations where freedom of expression is exercised in the private sphere.[\[note: 16\]](#Ftn_16)
+23     On this basis, the defendant argued that the Court of Appeal should have held that the _tort of abuse of process_ would be available in the same limited circumstances where there is a need to restrain the abuse of a public function in situations where freedom of expression is exercised in the private sphere.[^16]
 
 ### Whether a reasonable cause of action exists
 
@@ -136,29 +137,29 @@ In any case, civil procedure mechanisms afford innocent parties adequate legal r
 
 #### The defendant’s case
 
-33     The defendant made an oral application under O 14 r 12 of the ROC for the court to determine the natural and ordinary meaning of the offending words in the Article and Post. The defendant submitted that _Basil Anthony Herman v Premier Security Co-operative Ltd and others_ (“_Basil Anthony Herman_”) allows for such a determination as no triable defences are raised. Indeed, determination of meaning at this stage would allow for a more effective determination of the application to strike out the plaintiff’s claim.[\[note: 17\]](#Ftn_17)
+33     The defendant made an oral application under O 14 r 12 of the ROC for the court to determine the natural and ordinary meaning of the offending words in the Article and Post. The defendant submitted that _Basil Anthony Herman v Premier Security Co-operative Ltd and others_ (“_Basil Anthony Herman_”) allows for such a determination as no triable defences are raised. Indeed, determination of meaning at this stage would allow for a more effective determination of the application to strike out the plaintiff’s claim.[^17]
 
 34     Regarding the striking out of the plaintiff’s cause of action, the defendant argued that O 18 rr 19(1)(_b_), 19(1)(_c_) and 19(1)(_d_) are engaged.
 
-35     First, the plaintiff’s claim should be struck out as it is an abuse of the process of the court. As the meaning of the offending words is less than what was pleaded by the plaintiff and the plaintiff’s reputation did not require vindication, the plaintiff’s case is not a “real and substantial tort”. The disproportionate costs involved justify striking out.[\[note: 18\]](#Ftn_18) The defendant’s argument was structured as follows:
+35     First, the plaintiff’s claim should be struck out as it is an abuse of the process of the court. As the meaning of the offending words is less than what was pleaded by the plaintiff and the plaintiff’s reputation did not require vindication, the plaintiff’s case is not a “real and substantial tort”. The disproportionate costs involved justify striking out.[^18] The defendant’s argument was structured as follows:
 
-(a)     The principles in _Jameel (Yousef) v Dow Jones & Co Inc_ (“_Jameel_”) apply to the present case. In _Yan Jun v Attorney-General_ (“_Yan Jun_”), the Court of Appeal noted that _Jameel_ contained general principles that were applicable in the Singapore context, despite differences in English and Singaporean civil procedural rules. The High Court had correctly struck out the plaintiff’s case as an abuse of process given that the appellant’s claim in defamation “did not disclose a real and substantial tort”: at \[120\].[\[note: 19\]](#Ftn_19)
+(a)     The principles in _Jameel (Yousef) v Dow Jones & Co Inc_ (“_Jameel_”) apply to the present case. In _Yan Jun v Attorney-General_ (“_Yan Jun_”), the Court of Appeal noted that _Jameel_ contained general principles that were applicable in the Singapore context, despite differences in English and Singaporean civil procedural rules. The High Court had correctly struck out the plaintiff’s case as an abuse of process given that the appellant’s claim in defamation “did not disclose a real and substantial tort”: at \[120\].[^19]
 
-(b)     The meaning of the offending words in the Article and Post do not go so far as to suggest that the plaintiff was guilty of criminal conduct or of complicit in criminal activity. The vindication of the plaintiff’s reputation required on the defendant’s submitted meaning is less than that under the plaintiff’s claimed meaning, and the substance of the tort is diminished.[\[note: 20\]](#Ftn_20)
+(b)     The meaning of the offending words in the Article and Post do not go so far as to suggest that the plaintiff was guilty of criminal conduct or of complicit in criminal activity. The vindication of the plaintiff’s reputation required on the defendant’s submitted meaning is less than that under the plaintiff’s claimed meaning, and the substance of the tort is diminished.[^20]
 
-(c)     Publication was minimal. The Post was online for a short time and did not feature prominently on the defendant’s Facebook Timeline.[\[note: 21\]](#Ftn_21)
+(c)     Publication was minimal. The Post was online for a short time and did not feature prominently on the defendant’s Facebook Timeline.[^21]
 
-(d)     By 8 November 2018, various Government representatives had responded to the Post and Article, calling it false. Readers of the offending words would have known the words to be false and defamatory, and no damage would have been caused to the plaintiff’s reputation.[\[note: 22\]](#Ftn_22)
+(d)     By 8 November 2018, various Government representatives had responded to the Post and Article, calling it false. Readers of the offending words would have known the words to be false and defamatory, and no damage would have been caused to the plaintiff’s reputation.[^22]
 
-(e)     The costs of the case are projected to be in the range of $300,000 to $400,000. These costs are disproportionate where publication was limited and where no actual damage accrued.[\[note: 23\]](#Ftn_23)
+(e)     The costs of the case are projected to be in the range of $300,000 to $400,000. These costs are disproportionate where publication was limited and where no actual damage accrued.[^23]
 
-36     In support of the above, or in the alternative, the plaintiff’s claim should be struck out as it was brought for impermissible collateral advantages:[\[note: 24\]](#Ftn_24)
+36     In support of the above, or in the alternative, the plaintiff’s claim should be struck out as it was brought for impermissible collateral advantages:[^24]
 
 (a)     to preserve public confidence in the Singapore Government, and not to vindicate the plaintiff’s reputation; and
 
 (b)     to target the defendant, who is an outspoken critic of the Singapore Government – the claim was brought to send the message that criticism or adverse debate about the plaintiff and the Singapore Government will be retaliated against, first through the use of state machinery and then through the use of libel laws.
 
-37     Finally, the defendant submitted that the plaintiff’s plea of malice should be struck out as it was not pleaded sufficiently. The plaintiff had pleaded that the defendant was malicious in making the Post and sharing the Article.[\[note: 25\]](#Ftn_25) However, this is insufficient to establish bad faith on the defendant’s part.[\[note: 26\]](#Ftn_26)
+37     Finally, the defendant submitted that the plaintiff’s plea of malice should be struck out as it was not pleaded sufficiently. The plaintiff had pleaded that the defendant was malicious in making the Post and sharing the Article.[^25] However, this is insufficient to establish bad faith on the defendant’s part.[^26]
 
 #### The plaintiff’s case
 
@@ -166,31 +167,31 @@ In any case, civil procedure mechanisms afford innocent parties adequate legal r
 
 39     In relation to the substantive striking out application, the plaintiff submitted that the high threshold for striking out is not met.
 
-40     First, the defendant’s reliance on _Jameel_ is misconceived. _Yan Jun_ and _Qingdao Bohai Construction Group Co, Ltd and others v Goh Teck Beng and another_ , which had applied _Jameel_, should be distinguished: the defamation claims in those cases had been struck out on other bases, and _Jameel_ had mainly been considered for completeness. The present case involves allegations of corrupt and criminal conduct which go towards the plaintiff’s integrity and fitness to hold the office of Prime Minister. These are grave and serious charges that would amount to a real and substantial tort even if published to one person in Singapore.[\[note: 27\]](#Ftn_27)
+40     First, the defendant’s reliance on _Jameel_ is misconceived. _Yan Jun_ and _Qingdao Bohai Construction Group Co, Ltd and others v Goh Teck Beng and another_ , which had applied _Jameel_, should be distinguished: the defamation claims in those cases had been struck out on other bases, and _Jameel_ had mainly been considered for completeness. The present case involves allegations of corrupt and criminal conduct which go towards the plaintiff’s integrity and fitness to hold the office of Prime Minister. These are grave and serious charges that would amount to a real and substantial tort even if published to one person in Singapore.[^27]
 
 41     Furthermore, the following triable issues require determination at trial:
 
-(a)     whether substantial publication had taken place in Singapore;[\[note: 28\]](#Ftn_28)
+(a)     whether substantial publication had taken place in Singapore;[^28]
 
-(b)     whether the defendant is liable for republication – it has to be shown that a reasonable person in his position would have appreciated that there was a significant risk that his words would be repeated and that that would increase the damage caused by what he said: _Gatley on Libel and Slander_ (Alastair Mullis & Richard Parkes QC joint eds) (Sweet & Maxwell, 12th Ed, 2013) (“_Gatley on Libel and Slander_”) at para 6.52;[\[note: 29\]](#Ftn_29)
+(b)     whether the defendant is liable for republication – it has to be shown that a reasonable person in his position would have appreciated that there was a significant risk that his words would be repeated and that that would increase the damage caused by what he said: _Gatley on Libel and Slander_ (Alastair Mullis & Richard Parkes QC joint eds) (Sweet & Maxwell, 12th Ed, 2013) (“_Gatley on Libel and Slander_”) at para 6.52;[^29]
 
-(c)     whether substantial damages should be awarded and therefore whether the costs that will be incurred will be out of all proportion to damages, as claimed by the defendant – the trial court will have regard, _inter alia_, to the nature and gravity of the allegations, malice, and the defendant’s conduct: _Lim Eng Hock Peter v Lin Jian Wei and another and another appeal_ at \[7\];[\[note: 30\]](#Ftn_30) and
+(c)     whether substantial damages should be awarded and therefore whether the costs that will be incurred will be out of all proportion to damages, as claimed by the defendant – the trial court will have regard, _inter alia_, to the nature and gravity of the allegations, malice, and the defendant’s conduct: _Lim Eng Hock Peter v Lin Jian Wei and another and another appeal_ at \[7\];[^30] and
 
-(d)     related to the issue of the quantum of damages that should be awarded, whether the defendant’s use of the suit to wage a public campaign to gain sympathy amounted to classic aggravation.[\[note: 31\]](#Ftn_31)
+(d)     related to the issue of the quantum of damages that should be awarded, whether the defendant’s use of the suit to wage a public campaign to gain sympathy amounted to classic aggravation.[^31]
 
-42     The plaintiff rejected the claim that the Suit was brought for the impermissible collateral advantage of deterring criticism of the plaintiff and the Singapore Government, and that the plaintiff’s use of the legal process chilled freedom of expression. It is settled law that the right to freedom of speech and expression under Art 14(1)(_a_) of the Constitution is subject to and restricted by the laws of defamation: see, _eg_, _Tang Liang Hong v Lee Kuan Yew and another and other appeals_ at \[117\]. Although the defendant is entitled to criticise the plaintiff and his policies, he was not entitled to defame the plaintiff. The plaintiff had given the defendant a reasonable opportunity to apologise and resolve the matter. As the defendant refused to do so, the plaintiff was entitled to sue to recover damages, seek an injunction and obtain costs.[\[note: 32\]](#Ftn_32)
+42     The plaintiff rejected the claim that the Suit was brought for the impermissible collateral advantage of deterring criticism of the plaintiff and the Singapore Government, and that the plaintiff’s use of the legal process chilled freedom of expression. It is settled law that the right to freedom of speech and expression under Art 14(1)(_a_) of the Constitution is subject to and restricted by the laws of defamation: see, _eg_, _Tang Liang Hong v Lee Kuan Yew and another and other appeals_ at \[117\]. Although the defendant is entitled to criticise the plaintiff and his policies, he was not entitled to defame the plaintiff. The plaintiff had given the defendant a reasonable opportunity to apologise and resolve the matter. As the defendant refused to do so, the plaintiff was entitled to sue to recover damages, seek an injunction and obtain costs.[^32]
 
 ### Whether meaning should be determined at this time
 
-43     The defendant submitted that the meaning of the offending words as pleaded by the plaintiff was pitched “far too high”:[\[note: 33\]](#Ftn_33)
+43     The defendant submitted that the meaning of the offending words as pleaded by the plaintiff was pitched “far too high”:[^33]
 
 (a)     The Article was couched in careful terms and only stated that unfair agreements were “believed” to be entered into. Other parts of the Article were heavily qualified. Taking the plaintiff’s case at its highest, the Article only suggested grounds to suspect the plaintiff’s involvement in 1MDB matters.
 
 (b)     The defendant’s Post only conveyed that an investigation was underway against the plaintiff in relation to 1MDB matters. An ordinary and reasonable reader could not understand it to bear the meaning that the plaintiff was complicit in or guilty of criminal activity.
 
-44     The plaintiff contended that it is not appropriate to determine the meaning of the offending words at this point. The natural and ordinary meaning of the offending words includes inferences or implications that the ordinary reasonable person may draw from those words in the light of his general knowledge, common sense, and experience. Inferences or implications based on extrinsic evidence are not admissible as a matter of law in determining the natural and ordinary meaning: _Review Publishing Co Ltd and another v Lee Hsien Loong and another appeal_ at \[28\] and \[29\]. In determining the natural and ordinary meaning, the court should holistically consider the broad impression conveyed by the words that fall to be considered, and not the meaning of each word or sentence under analysis: _Jeyasegaram David (alias David Gerald Jeyasegaram) v Ban Song Long David_ at \[27\].[\[note: 34\]](#Ftn_34)
+44     The plaintiff contended that it is not appropriate to determine the meaning of the offending words at this point. The natural and ordinary meaning of the offending words includes inferences or implications that the ordinary reasonable person may draw from those words in the light of his general knowledge, common sense, and experience. Inferences or implications based on extrinsic evidence are not admissible as a matter of law in determining the natural and ordinary meaning: _Review Publishing Co Ltd and another v Lee Hsien Loong and another appeal_ at \[28\] and \[29\]. In determining the natural and ordinary meaning, the court should holistically consider the broad impression conveyed by the words that fall to be considered, and not the meaning of each word or sentence under analysis: _Jeyasegaram David (alias David Gerald Jeyasegaram) v Ban Song Long David_ at \[27\].[^34]
 
-45     The plaintiff argued that the context in which the offending words were published is material. The meaning of the offending words must take into account the general knowledge that readers of the Post and Article were assumed to have of the 1MDB investigations. Given that 1MDB had become a byword for corruption and criminal activity, the association of the plaintiff with 1MDB and the suggestion that he was a key investigation target in 1MDB investigations would have led readers to understand that the plaintiff was alleged to be involved in or culpable of money laundering in exchange for favourable deals.[\[note: 35\]](#Ftn_35)
+45     The plaintiff argued that the context in which the offending words were published is material. The meaning of the offending words must take into account the general knowledge that readers of the Post and Article were assumed to have of the 1MDB investigations. Given that 1MDB had become a byword for corruption and criminal activity, the association of the plaintiff with 1MDB and the suggestion that he was a key investigation target in 1MDB investigations would have led readers to understand that the plaintiff was alleged to be involved in or culpable of money laundering in exchange for favourable deals.[^35]
 
 46     Considering the above, I am persuaded that it would not be appropriate for a determination to be made at this time of the meaning of the offending words. I accept that the context of the use of the offending words would be material, and that such context can only be ascertained at trial.
 
@@ -256,75 +257,75 @@ In any case, civil procedure mechanisms afford innocent parties adequate legal r
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)Statement of claim (“SOC”) at para 1.
+[^1]: Statement of claim (“SOC”) at para 1.
 
-[\[note: 2\]](#Ftn_2_1)Defence and counterclaim (“D&C”) at para 3.
+[^2]: Defence and counterclaim (“D&C”) at para 3.
 
-[\[note: 3\]](#Ftn_3_1)SOC at paras 2 and 13(d).
+[^3]: SOC at paras 2 and 13(d).
 
-[\[note: 4\]](#Ftn_4_1)SOC at para 6.
+[^4]: SOC at para 6.
 
-[\[note: 5\]](#Ftn_5_1)SOC at paras 4 and 5.
+[^5]: SOC at paras 4 and 5.
 
-[\[note: 6\]](#Ftn_6_1)D&C at para 12.8; Plaintiff’s Submissions in SUM 428/2018 at para 55.
+[^6]: D&C at para 12.8; Plaintiff’s Submissions in SUM 428/2018 at para 55.
 
-[\[note: 7\]](#Ftn_7_1)D&C at paras 5.1, 5.2 and 12.8.
+[^7]: D&C at paras 5.1, 5.2 and 12.8.
 
-[\[note: 8\]](#Ftn_8_1)SOC at paras 3(k) and 3(l).
+[^8]: SOC at paras 3(k) and 3(l).
 
-[\[note: 9\]](#Ftn_9_1)SOC at paras 3(m) and 3(n).
+[^9]: SOC at paras 3(m) and 3(n).
 
-[\[note: 10\]](#Ftn_10_1)SOC at paras 10–12.
+[^10]: SOC at paras 10–12.
 
-[\[note: 11\]](#Ftn_11_1)Plaintiff’s Submissions in SUM 148/2019 at paras 12 and 14.
+[^11]: Plaintiff’s Submissions in SUM 148/2019 at paras 12 and 14.
 
-[\[note: 12\]](#Ftn_12_1)Plaintiff’s Submissions in SUM 148/2019 at paras 16–23.
+[^12]: Plaintiff’s Submissions in SUM 148/2019 at paras 16–23.
 
-[\[note: 13\]](#Ftn_13_1)Plaintiff’s Submissions in SUM 148/2019 at paras 24 and 25.
+[^13]: Plaintiff’s Submissions in SUM 148/2019 at paras 24 and 25.
 
-[\[note: 14\]](#Ftn_14_1)Plaintiff’s Submissions in SUM 148/2019 at paras 26–28.
+[^14]: Plaintiff’s Submissions in SUM 148/2019 at paras 26–28.
 
-[\[note: 15\]](#Ftn_15_1)Defendant’s Submissions at para 75–77.
+[^15]: Defendant’s Submissions at para 75–77.
 
-[\[note: 16\]](#Ftn_16_1)Defendant’s Submissions at para 76(b)–76(e).
+[^16]: Defendant’s Submissions at para 76(b)–76(e).
 
-[\[note: 17\]](#Ftn_17_1)Defendant’s Submissions at paras 8–10.
+[^17]: Defendant’s Submissions at paras 8–10.
 
-[\[note: 18\]](#Ftn_18_1)Defendant’s Submissions at paras 60–62.
+[^18]: Defendant’s Submissions at paras 60–62.
 
-[\[note: 19\]](#Ftn_19_1)Defendant’s Submissions at paras 33–42.
+[^19]: Defendant’s Submissions at paras 33–42.
 
-[\[note: 20\]](#Ftn_20_1)Defendant’s Submissions at paras 20–29 and 43.
+[^20]: Defendant’s Submissions at paras 20–29 and 43.
 
-[\[note: 21\]](#Ftn_21_1)Defendant’s Submissions at paras 44–45.
+[^21]: Defendant’s Submissions at paras 44–45.
 
-[\[note: 22\]](#Ftn_22_1)Defendant’s Submissions at paras 47–49.
+[^22]: Defendant’s Submissions at paras 47–49.
 
-[\[note: 23\]](#Ftn_23_1)Defendant’s 1st Affidavit at para 7, Defendant’s Submissions at para 58.
+[^23]: Defendant’s 1st Affidavit at para 7, Defendant’s Submissions at para 58.
 
-[\[note: 24\]](#Ftn_24_1)Defendant’s Submissions at paras 63–69.
+[^24]: Defendant’s Submissions at paras 63–69.
 
-[\[note: 25\]](#Ftn_25_1)SOC at paras 3(k) to 3(n) and 21(d), Plaintiff’s Affidavit at paras 55 and 56.
+[^25]: SOC at paras 3(k) to 3(n) and 21(d), Plaintiff’s Affidavit at paras 55 and 56.
 
-[\[note: 26\]](#Ftn_26_1)Defendant’s Submissions at paras 70–74.
+[^26]: Defendant’s Submissions at paras 70–74.
 
-[\[note: 27\]](#Ftn_27_1)Plaintiff’s Submissions in SUM 428/2019 at paras 26–49.
+[^27]: Plaintiff’s Submissions in SUM 428/2019 at paras 26–49.
 
-[\[note: 28\]](#Ftn_28_1)Plaintiff’s Submissions in SUM 428/2019 at paras 50–72.
+[^28]: Plaintiff’s Submissions in SUM 428/2019 at paras 50–72.
 
-[\[note: 29\]](#Ftn_29_1)Plaintiff’s Submissions in SUM 428/2019 at paras 73–87.
+[^29]: Plaintiff’s Submissions in SUM 428/2019 at paras 73–87.
 
-[\[note: 30\]](#Ftn_30_1)Plaintiff’s Submissions in SUM 428/2019 at paras 94–110.
+[^30]: Plaintiff’s Submissions in SUM 428/2019 at paras 94–110.
 
-[\[note: 31\]](#Ftn_31_1)Plaintiff’s Submissions in SUM 428/2019 at paras 111–124.
+[^31]: Plaintiff’s Submissions in SUM 428/2019 at paras 111–124.
 
-[\[note: 32\]](#Ftn_32_1)Plaintiff’s Submissions in SUM 428/2019 at paras 188–201.
+[^32]: Plaintiff’s Submissions in SUM 428/2019 at paras 188–201.
 
-[\[note: 33\]](#Ftn_33_1)Defendant’s Submissions at paras 20–29.
+[^33]: Defendant’s Submissions at paras 20–29.
 
-[\[note: 34\]](#Ftn_34_1)Plaintiff’s Submissions in SUM 428/2019 at para 127.
+[^34]: Plaintiff’s Submissions in SUM 428/2019 at para 127.
 
-[\[note: 35\]](#Ftn_35_1)Plaintiff’s Submissions in SUM 428/2019 at paras 134, 157 and 158.
+[^35]: Plaintiff’s Submissions in SUM 428/2019 at paras 134, 157 and 158.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F22923-SSP.xml)

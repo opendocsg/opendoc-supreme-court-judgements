@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # Leong Yim Ling _v_ Moey Park Moon  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Divorce (Transferred) No 5225 of 2009 (Summonses Nos 3672 and 3674 of 2017 and 1041 and 2775 of 2018)</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">08 February 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Woo Bih Li J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Walter Ferix Silvester (Silvester Legal LLC) for the plaintiff; Genesis Shen Luda (Templars Law LLC) for the defendant.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Leong Yim Ling — Moey Park Moon</td></tr></tbody></table>
@@ -112,11 +113,11 @@ Family Law – Matrimonial assets – Division
 
 22     As mentioned, the Husband filed SUM 3022/2015 on 19 June 2015 to seek a variation of parts of the 2013 Ancillary Order (see \[6\] above). At the time of that order, he was working for Marsh (Singapore) Pte Ltd (“Marsh”).
 
-23     There were two main reasons for this application. First, he alleged that the Wife continued to harass him in various ways, including by making allegations to his superiors that he was in a conflict of interest situation. Although he was cleared of any wrongdoing, his supervisors’ attitude towards him was gravely affected. An employee from London was sent to Singapore to take over his role and whom he had to report to. He was given a lesser role although his pay was not reduced and he was not demoted. He felt that he was being made redundant. He said that he felt he had no choice but to tender his resignation out of shame, and because he felt depressed and tormented by the Wife’s harassment, in June 2014. After serving six months’ notice, his last day was 31 December 2014.[\[note: 1\]](#Ftn_1)
+23     There were two main reasons for this application. First, he alleged that the Wife continued to harass him in various ways, including by making allegations to his superiors that he was in a conflict of interest situation. Although he was cleared of any wrongdoing, his supervisors’ attitude towards him was gravely affected. An employee from London was sent to Singapore to take over his role and whom he had to report to. He was given a lesser role although his pay was not reduced and he was not demoted. He felt that he was being made redundant. He said that he felt he had no choice but to tender his resignation out of shame, and because he felt depressed and tormented by the Wife’s harassment, in June 2014. After serving six months’ notice, his last day was 31 December 2014.[^1]
 
-24     He said that he was jobless for four months from 1 January 2015 to 30 April 2015. He then obtained employment from Synergy Risk Consulting Pte Ltd (“Synergy”) as Principal Consultant with effect from 1 May 2015. However, his salary was reduced from about $27,649 per month to $15,000 per month. Furthermore, he had very limited staff benefits under Synergy as compared with Marsh.[\[note: 2\]](#Ftn_2)
+24     He said that he was jobless for four months from 1 January 2015 to 30 April 2015. He then obtained employment from Synergy Risk Consulting Pte Ltd (“Synergy”) as Principal Consultant with effect from 1 May 2015. However, his salary was reduced from about $27,649 per month to $15,000 per month. Furthermore, he had very limited staff benefits under Synergy as compared with Marsh.[^2]
 
-25     The second main reason for the Husband’s application in 2015 was that the Wife had been making excessive claims for medical, dental and optical expenses. He felt that they were either false claims or claims for expenses which were unnecessary. The Wife had not sent him original bills or certified copies as she was required to do under the 2013 Ancillary Order. He alleged that he had no protection from exploitation by the Wife for such claims under the 2013 Ancillary Order.[\[note: 3\]](#Ftn_3)
+25     The second main reason for the Husband’s application in 2015 was that the Wife had been making excessive claims for medical, dental and optical expenses. He felt that they were either false claims or claims for expenses which were unnecessary. The Wife had not sent him original bills or certified copies as she was required to do under the 2013 Ancillary Order. He alleged that he had no protection from exploitation by the Wife for such claims under the 2013 Ancillary Order.[^3]
 
 26     The Wife denied that she had harassed the Husband at his office or by complaining to his superiors. She said that his resignation was self-induced. The Husband had also failed in his application for a Personal Protection Order (“PPO”), which was dismissed on 17 August 2015 even though the Husband had called three witnesses to support his case.
 
@@ -124,7 +125,7 @@ Family Law – Matrimonial assets – Division
 
 28     As for the Wife’s medical expenses, she listed a litany of ailments. The son also listed his ailments. The Wife said that the Husband had told her that there was no need for her to produce original bills or certified copies. The Wife also alleged that the Husband refused to agree on various medical treatments for her. She pointed out that under the 2013 Ancillary Order, she had to pay a share, _ie_, 20% of medical expenses.
 
-29     The son said that the Husband had not fully paid the monthly maintenance of $2,850 for him since March 2015.[\[note: 4\]](#Ftn_4)
+29     The son said that the Husband had not fully paid the monthly maintenance of $2,850 for him since March 2015.[^4]
 
 30     In response, the Husband filed an affidavit from one Sukhbir Singh s/o Gernail Singh (“Mr Singh”), the director of Synergy, affirmed on 23 September 2015. Mr Singh said that Synergy had a small office at #08-07 Prestige Centre. I noted that this was a different unit number from the address of #06-07 Prestige Centre stated in the Husband’s employment letter.
 
@@ -198,23 +199,23 @@ Family Law – Matrimonial assets – Division
 
 ## The Husband’s reasons for SUM 1041/2018
 
-59     The Husband’s main reason for SUM 1041/2018 was that his income had fallen substantially. He reiterated that the Wife’s harassment “had contributed significantly towards by \[_sic_\] subsequent job loss”.[\[note: 5\]](#Ftn_5)
+59     The Husband’s main reason for SUM 1041/2018 was that his income had fallen substantially. He reiterated that the Wife’s harassment “had contributed significantly towards by \[_sic_\] subsequent job loss”.[^5]
 
-60     He elaborated that after he left Marsh, he was employed by Synergy. In late 2015, he realised he could not continue with Synergy and had no choice but to seek alternative employment. In November 2015, he was employed by a multinational corporation, HDI Global SE (“HDI”) as a senior risk engineer at a salary which was a “mere fraction of what \[he had\] previously earned at Marsh”.[\[note: 6\]](#Ftn_6) He also said that he was 60 years old and had two more years before he reached retirement.[\[note: 7\]](#Ftn_7)
+60     He elaborated that after he left Marsh, he was employed by Synergy. In late 2015, he realised he could not continue with Synergy and had no choice but to seek alternative employment. In November 2015, he was employed by a multinational corporation, HDI Global SE (“HDI”) as a senior risk engineer at a salary which was a “mere fraction of what \[he had\] previously earned at Marsh”.[^6] He also said that he was 60 years old and had two more years before he reached retirement.[^7]
 
-61     The Husband had expected his son to complete his tertiary education by 13 July 2017. Instead, his son had intentionally extended his course for one year to spite him by extending the period of maintenance for himself. His son had also enrolled in a private language centre to study Spanish. The Husband was of the view that Spanish lessons were unrelated to the Bachelor’s Degree in Chemical Engineering which the son was seeking to obtain.[\[note: 8\]](#Ftn_8)
+61     The Husband had expected his son to complete his tertiary education by 13 July 2017. Instead, his son had intentionally extended his course for one year to spite him by extending the period of maintenance for himself. His son had also enrolled in a private language centre to study Spanish. The Husband was of the view that Spanish lessons were unrelated to the Bachelor’s Degree in Chemical Engineering which the son was seeking to obtain.[^8]
 
-62     The Husband again complained about the excessive medical expenses of the Wife and of the son. These had been dealt with in the 2015 maintenance summonses I have mentioned at \[44\] above. He said that District Judge Darryl Soh had made orders for partial payment of the sums claimed. The Wife appealed and Foo Tuat Yien JC (“Foo JC”) allowed her appeal in part on 12 May 2017. According to the Husband, Foo JC had in effect allowed 51.5% of the claimed amount,[\[note: 9\]](#Ftn_9) but the Wife disputed this.
+62     The Husband again complained about the excessive medical expenses of the Wife and of the son. These had been dealt with in the 2015 maintenance summonses I have mentioned at \[44\] above. He said that District Judge Darryl Soh had made orders for partial payment of the sums claimed. The Wife appealed and Foo Tuat Yien JC (“Foo JC”) allowed her appeal in part on 12 May 2017. According to the Husband, Foo JC had in effect allowed 51.5% of the claimed amount,[^9] but the Wife disputed this.
 
-63     The Husband also complained about optical expenses of the Wife and of the son. As the 2013 Ancillary Order had allowed the Wife and the son to claim a maximum of $600 each per year for such expenses (after co-payment by the Wife), the Wife had indeed made a claim for $600 for each of them each year after that order was made. The Husband said that each of them did not need new spectacles every year but, in any event, he had paid these bills for 2016 and 2017.[\[note: 10\]](#Ftn_10)
+63     The Husband also complained about optical expenses of the Wife and of the son. As the 2013 Ancillary Order had allowed the Wife and the son to claim a maximum of $600 each per year for such expenses (after co-payment by the Wife), the Wife had indeed made a claim for $600 for each of them each year after that order was made. The Husband said that each of them did not need new spectacles every year but, in any event, he had paid these bills for 2016 and 2017.[^10]
 
-64     The Husband said that he had remarried and his main residence was in Malaysia although he worked mostly in Singapore. He alleged his monthly expenses were more than $16,000 per month, but he included the maintenance for the Wife and for the son in this figure.[\[note: 11\]](#Ftn_11)
+64     The Husband said that he had remarried and his main residence was in Malaysia although he worked mostly in Singapore. He alleged his monthly expenses were more than $16,000 per month, but he included the maintenance for the Wife and for the son in this figure.[^11]
 
-65     The Wife disagreed with the Husband’s allegation that she was the cause of his resignation from Marsh. She said that he had income from private work, had a partnership with his nephew, and was also an employee of Keele Pte Ltd (“Keele”), as evidenced by a business card which she exhibited.[\[note: 12\]](#Ftn_12)
+65     The Wife disagreed with the Husband’s allegation that she was the cause of his resignation from Marsh. She said that he had income from private work, had a partnership with his nephew, and was also an employee of Keele Pte Ltd (“Keele”), as evidenced by a business card which she exhibited.[^12]
 
-66     The Husband denied he had other income from private work. He denied he had any partnership with his nephew who had used the Husband’s name on his own accord. As for the Husband’s name on a business card of Keele, the Husband said that that was an old card. When he first left Marsh in 2006 and before he joined Aon Global Risk Consulting, his good friend, Lee Chee Khian (“Mr Lee”), helped him out by printing his name on the Keele business card. Keele was owned by the brother of Mr Lee who had helped the Husband out. This was a temporary measure for the sake of face as it would be difficult if he met any business associates and did not have a business card after he first left Marsh in 2006. The Husband said that he was never an employee of Keele. In fact, the business card did not contain any job title.[\[note: 13\]](#Ftn_13) The Husband said that the business card was one of the items being investigated by Marsh around 2013 after the Wife had made false allegations about him to Marsh head office. Although he was cleared, Marsh sent an executive from the United Kingdom office to take over his position and he was side-lined. He had to resign voluntarily or face an inevitable sacking.
+66     The Husband denied he had other income from private work. He denied he had any partnership with his nephew who had used the Husband’s name on his own accord. As for the Husband’s name on a business card of Keele, the Husband said that that was an old card. When he first left Marsh in 2006 and before he joined Aon Global Risk Consulting, his good friend, Lee Chee Khian (“Mr Lee”), helped him out by printing his name on the Keele business card. Keele was owned by the brother of Mr Lee who had helped the Husband out. This was a temporary measure for the sake of face as it would be difficult if he met any business associates and did not have a business card after he first left Marsh in 2006. The Husband said that he was never an employee of Keele. In fact, the business card did not contain any job title.[^13] The Husband said that the business card was one of the items being investigated by Marsh around 2013 after the Wife had made false allegations about him to Marsh head office. Although he was cleared, Marsh sent an executive from the United Kingdom office to take over his position and he was side-lined. He had to resign voluntarily or face an inevitable sacking.
 
-67     The son said that it was important for him to study Spanish as an elective, which was part of the university’s curriculum. It would give him more job options. He had to take lessons from a private language centre as the university centre for language studies did not offer Spanish classes in every single semester.[\[note: 14\]](#Ftn_14)
+67     The son said that it was important for him to study Spanish as an elective, which was part of the university’s curriculum. It would give him more job options. He had to take lessons from a private language centre as the university centre for language studies did not offer Spanish classes in every single semester.[^14]
 
 ## The court’s reasons
 
@@ -278,33 +279,33 @@ Family Law – Matrimonial assets – Division
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)Husband’s affidavit signed on 18/6/2015 at paras 7–10.
+[^1]: Husband’s affidavit signed on 18/6/2015 at paras 7–10.
 
-[\[note: 2\]](#Ftn_2_1)Husband’s affidavit signed on 18/6/2015 at paras 19–20.
+[^2]: Husband’s affidavit signed on 18/6/2015 at paras 19–20.
 
-[\[note: 3\]](#Ftn_3_1)Husband’s affidavit signed on 18/6/2015 at para 41.
+[^3]: Husband’s affidavit signed on 18/6/2015 at para 41.
 
-[\[note: 4\]](#Ftn_4_1)Timothy Moey Weng Kit’s affidavit dated 27/8/2015 at para 21.
+[^4]: Timothy Moey Weng Kit’s affidavit dated 27/8/2015 at para 21.
 
-[\[note: 5\]](#Ftn_5_1)Husband’s affidavit dated 7/3/2018 at para 14.
+[^5]: Husband’s affidavit dated 7/3/2018 at para 14.
 
-[\[note: 6\]](#Ftn_6_1)Husband’s affidavit dated 7/3/2018 at para 17.
+[^6]: Husband’s affidavit dated 7/3/2018 at para 17.
 
-[\[note: 7\]](#Ftn_7_1)Husband’s affidavit dated 7/3/2018 at para 18.
+[^7]: Husband’s affidavit dated 7/3/2018 at para 18.
 
-[\[note: 8\]](#Ftn_8_1)Husband’s affidavit dated 7/3/2018 at paras 23, 26–33.
+[^8]: Husband’s affidavit dated 7/3/2018 at paras 23, 26–33.
 
-[\[note: 9\]](#Ftn_9_1)Husband’s affidavit dated 7/3/2018 at para 54.
+[^9]: Husband’s affidavit dated 7/3/2018 at para 54.
 
-[\[note: 10\]](#Ftn_10_1)Husband’s affidavit dated 7/3/2018 at paras 57–61.
+[^10]: Husband’s affidavit dated 7/3/2018 at paras 57–61.
 
-[\[note: 11\]](#Ftn_11_1)Husband’s affidavit dated 7/3/2018 at para 77.
+[^11]: Husband’s affidavit dated 7/3/2018 at para 77.
 
-[\[note: 12\]](#Ftn_12_1)Wife’s affidavit dated 28/3/2018 at p 18.
+[^12]: Wife’s affidavit dated 28/3/2018 at p 18.
 
-[\[note: 13\]](#Ftn_13_1)Husband’s affidavit dated 27/6/2018 at paras 17–22.
+[^13]: Husband’s affidavit dated 27/6/2018 at paras 17–22.
 
-[\[note: 14\]](#Ftn_14_1)Timothy Moey Weng Kit’s affidavit dated 22/1/2018 at p 6.
+[^14]: Timothy Moey Weng Kit’s affidavit dated 22/1/2018 at p 6.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F22808-SSP.xml)

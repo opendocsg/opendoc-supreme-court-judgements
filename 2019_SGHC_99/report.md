@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # Lim Teck Kim _v_ Public Prosecutor  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Magistrate's Appeal No 9321 of 2018/01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">18 April 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Chan Seng Onn J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Kishan Pratap (Kishan Law Chambers LLC) for the appellant; Stephanie Koh (Attorney-General's Chambers) for the respondent.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Lim Teck Kim — Public Prosecutor</td></tr></tbody></table>
@@ -18,7 +19,7 @@ Criminal Law – Statutory offences – Protection from Harassment Act –�
 
 ## Background
 
-4       Lim Teck Kim, the appellant in this case, was the jilted ex-boyfriend of the victim. In his fruitless attempt to rekindle his relationship with her, he committed two offences, namely criminal trespass and unlawful stalking. He pleaded guilty to both offences and he was sentenced to a $500 fine and three months’ imprisonment respectively by the District Judge.[\[note: 1\]](#Ftn_1)
+4       Lim Teck Kim, the appellant in this case, was the jilted ex-boyfriend of the victim. In his fruitless attempt to rekindle his relationship with her, he committed two offences, namely criminal trespass and unlawful stalking. He pleaded guilty to both offences and he was sentenced to a $500 fine and three months’ imprisonment respectively by the District Judge.[^1]
 
 5       The appellant appealed against the three months’ imprisonment term which he received for the unlawful stalking charge (under s 7 of POHA) on the basis that it was manifestly excessive.
 
@@ -26,13 +27,13 @@ Criminal Law – Statutory offences – Protection from Harassment Act –�
 
 ## Facts
 
-7       Sometime in December 2016, the victim broke up with the appellant. Later, in mid-2017, the victim informed her condominium security officers not to let the appellant enter the condominium.[\[note: 2\]](#Ftn_2)
+7       Sometime in December 2016, the victim broke up with the appellant. Later, in mid-2017, the victim informed her condominium security officers not to let the appellant enter the condominium.[^2]
 
 ### The criminal trespass charge
 
-8       On 12 March 2018, the appellant rode his e-scooter through the ‘In’ driveway reserved for residents of the victim’s condominium. He then waited for the victim in the basement carpark. A security officer went to the basement carpark to confront the appellant. When the appellant saw the security officer, he fled the premises on his e-scooter.[\[note: 3\]](#Ftn_3)
+8       On 12 March 2018, the appellant rode his e-scooter through the ‘In’ driveway reserved for residents of the victim’s condominium. He then waited for the victim in the basement carpark. A security officer went to the basement carpark to confront the appellant. When the appellant saw the security officer, he fled the premises on his e-scooter.[^3]
 
-9       This formed the substance of his criminal trespass charge under s 447 of the Penal Code (Cap 224, 2008 Rev Ed) (“Penal Code”), for which he was fined $500 by the District Judge.[\[note: 4\]](#Ftn_4) He did not appeal against the fine.
+9       This formed the substance of his criminal trespass charge under s 447 of the Penal Code (Cap 224, 2008 Rev Ed) (“Penal Code”), for which he was fined $500 by the District Judge.[^4] He did not appeal against the fine.
 
 ### The unlawful stalking charge
 
@@ -40,21 +41,21 @@ Criminal Law – Statutory offences – Protection from Harassment Act –�
 
 #### The incidents on 23 February 2018
 
-11     On 23 February 2018, at about 1.30am, at the victim’s residence, the appellant was upset after quarrelling with the victim. He therefore self-inflicted bruises on his face and showed them to the victim, blaming her for making him hit himself. She was appalled and tried to pacify him. She then let him stay over because she was afraid of further backlash if she tried to make him leave.[\[note: 5\]](#Ftn_5)
+11     On 23 February 2018, at about 1.30am, at the victim’s residence, the appellant was upset after quarrelling with the victim. He therefore self-inflicted bruises on his face and showed them to the victim, blaming her for making him hit himself. She was appalled and tried to pacify him. She then let him stay over because she was afraid of further backlash if she tried to make him leave.[^5]
 
-12     Later the same day, the victim returned home from work early at the appellant’s insistence. At about 6.30pm, when the victim said that the appellant’s bruises looked better, the appellant threatened to hurt himself if she made him leave the house or if she left him. He then began hitting himself on the face and throwing around items in her house. He also spat the blood in his mouth onto her side table. She felt afraid and told her domestic helper to ask security to call the police.[\[note: 6\]](#Ftn_6)
+12     Later the same day, the victim returned home from work early at the appellant’s insistence. At about 6.30pm, when the victim said that the appellant’s bruises looked better, the appellant threatened to hurt himself if she made him leave the house or if she left him. He then began hitting himself on the face and throwing around items in her house. He also spat the blood in his mouth onto her side table. She felt afraid and told her domestic helper to ask security to call the police.[^6]
 
-13     On the same day, at about 7.45pm, at the victim’s residence, before the police arrived, the appellant shouted at the victim that he would rather kill himself than end their relationship.[\[note: 7\]](#Ftn_7)
+13     On the same day, at about 7.45pm, at the victim’s residence, before the police arrived, the appellant shouted at the victim that he would rather kill himself than end their relationship.[^7]
 
-14     Upon the arrival of the police, the appellant was arrested for an offence of attempted suicide under s 309 of the Penal Code;[\[note: 8\]](#Ftn_8) such a charge does not however appear to have been preferred against him in this case.
+14     Upon the arrival of the police, the appellant was arrested for an offence of attempted suicide under s 309 of the Penal Code;[^8] such a charge does not however appear to have been preferred against him in this case.
 
 #### Acts of stalking after 23 February 2018 to 13 March 2018
 
-15     After being released on bail, between 23 February 2018 and 6 March 2018, the appellant made and attempted to make communication through mobile messaging applications (iMessage and WhatsApp) to the victim, pleading with the victim to see him in person.[\[note: 9\]](#Ftn_9)
+15     After being released on bail, between 23 February 2018 and 6 March 2018, the appellant made and attempted to make communication through mobile messaging applications (iMessage and WhatsApp) to the victim, pleading with the victim to see him in person.[^9]
 
-16     Between 4 March 2018 to 13 March 2018, the appellant also loitered around the victim’s condominium and the vicinity, pleading for her to rekindle her relationship with him.[\[note: 10\]](#Ftn_10) For example, on 6 March 2018, the appellant was aware that the victim had a chiropractor’s appointment at Bukit Timah Shopping Centre (“the shopping centre”). Armed with such knowledge, he approached her at the carpark of the shopping centre, and attempted to initiate a conversation with her, despite her informing him that she wanted nothing to do with him.[\[note: 11\]](#Ftn_11)
+16     Between 4 March 2018 to 13 March 2018, the appellant also loitered around the victim’s condominium and the vicinity, pleading for her to rekindle her relationship with him.[^10] For example, on 6 March 2018, the appellant was aware that the victim had a chiropractor’s appointment at Bukit Timah Shopping Centre (“the shopping centre”). Armed with such knowledge, he approached her at the carpark of the shopping centre, and attempted to initiate a conversation with her, despite her informing him that she wanted nothing to do with him.[^11]
 
-17     On 15 March 2018, the victim obtained an Expedited Protection Order pursuant to s 13(1) of POHA against the appellant.[\[note: 12\]](#Ftn_12) Thereafter, the statement of facts do not disclose any further acts of harassment by the appellant.
+17     On 15 March 2018, the victim obtained an Expedited Protection Order pursuant to s 13(1) of POHA against the appellant.[^12] Thereafter, the statement of facts do not disclose any further acts of harassment by the appellant.
 
 18     This appeal relates to the three months’ imprisonment which he received for his unlawful stalking offence that flowed from the above facts.
 
@@ -92,7 +93,7 @@ Criminal Law – Statutory offences – Protection from Harassment Act –�
 
 (a)      _Duration and frequency of stalking_: Cases of unlawful stalking are necessarily disruptive and harmful to the lives of the victims, who live subject to the offender’s watchful eye. Where the stalking continues for a longer period of time and at a high frequency, the harm and disruption caused to the victim will inevitably be of a higher degree: see _Public Prosecutor v Tan Khoon Aik Nelson_ (SC-913209-2016, Magistrate’s Arrest Case No 903858 of 2017 and others) (“_PP v Nelson Tan_”), _Tan Yao Min v Public Prosecutor_ (“_Tan Yao Min v PP_”) at \[91\] and s 7(5)(_b_) POHA.
 
-(b)      _Degree of intrusion into the victim’s life_: There are varying degrees of unlawful stalking. In certain cases, the intrusion may amount to merely loitering around the victim’s premises. Here, lesser adjustment is required by the victim to avoid the accused person. In certain cases, the offender may follow the victim to places he/she frequented, call or message him/her daily, confront the victim inside or outside his/her home, _etc_: see _Public Prosecutor v Tan Boon Wah_ (SC-905671-2016, Magistrate’s Arrest Case No 904633-2016 and others)[\[note: 13\]](#Ftn_13) (_“PP v Tan Boon Wah_”), discussed in _Tan Yao Min v PP_ at \[87\]. The latter class of cases would amount to a high degree of intrusion into the victim’s life (see ss 7(5)(_b_)–(_e_) POHA). This discloses additional harm suffered by the victim, and is independent from the duration and frequency of stalking. Hence, additional points may be attributed.
+(b)      _Degree of intrusion into the victim’s life_: There are varying degrees of unlawful stalking. In certain cases, the intrusion may amount to merely loitering around the victim’s premises. Here, lesser adjustment is required by the victim to avoid the accused person. In certain cases, the offender may follow the victim to places he/she frequented, call or message him/her daily, confront the victim inside or outside his/her home, _etc_: see _Public Prosecutor v Tan Boon Wah_ (SC-905671-2016, Magistrate’s Arrest Case No 904633-2016 and others)[^13] (_“PP v Tan Boon Wah_”), discussed in _Tan Yao Min v PP_ at \[87\]. The latter class of cases would amount to a high degree of intrusion into the victim’s life (see ss 7(5)(_b_)–(_e_) POHA). This discloses additional harm suffered by the victim, and is independent from the duration and frequency of stalking. Hence, additional points may be attributed.
 
 (c)      _Vulnerable victim_: Where the targeted victim is a minor, the offender’s unlawful stalking would be considered more egregious, particularly when the offender is significantly older than the victim: see _Tan Yao Min v PP_ at \[90\] and _Public Prosecutor v Ng Han Wei_ (SC-912985-2016, Magistrate’s Arrest Case No 901757 of 2016) (“_PP v Ng Han Wei_”). Preying on victims ailing under physical or mental conditions would also be an aggravating factor: see s 7(5)(_g_) POHA.
 
@@ -294,9 +295,9 @@ The amount of discount for a plea of guilt may be scaled upwards or downwards if
 
 (a)      _Short duration, moderate frequency of stalking (two points)_: The appellant stalked the victim for a short duration of about three weeks (from 23 February 2018 to 13 March 2018). The frequency of stalking was moderate, as the appellant’s stalking did not amount to a daily intrusion into the victim’s life, given that there were gaps between the periods he sent the messages (the messages were sent on 23 February 2018, and 4 and 6 March 2018 only) and harassed the victim in person (on 23 February 2018, and 4, 6, 8, 12 and 13 March 2018 only).
 
-(b)      _Degree of intrusion was high (three points)_: The degree of intrusion by the appellant was high. On 23 February 2018, after having coerced the victim to allow him to spend the night at her place by inflicting injuries on himself and blaming the victim for such injuries, the appellant refused to leave the victim’s residence, and threatened to hurt himself if she made him leave the house. He could only be removed after the police arrived and arrested him for attempted suicide as he had threatened to kill himself rather than end the relationship with the victim (“the 23 February incident”).[\[note: 22\]](#Ftn_22) While his acts of harassment after 23 February 2018 amounted to merely sending messages or loitering around the victim’s vicinity, viewed in light of the 23 February incident, which would have made the victim fearful of the appellant’s presence, they do not detract from the high degree of intrusion by the appellant into the victim’s life.
+(b)      _Degree of intrusion was high (three points)_: The degree of intrusion by the appellant was high. On 23 February 2018, after having coerced the victim to allow him to spend the night at her place by inflicting injuries on himself and blaming the victim for such injuries, the appellant refused to leave the victim’s residence, and threatened to hurt himself if she made him leave the house. He could only be removed after the police arrived and arrested him for attempted suicide as he had threatened to kill himself rather than end the relationship with the victim (“the 23 February incident”).[^22] While his acts of harassment after 23 February 2018 amounted to merely sending messages or loitering around the victim’s vicinity, viewed in light of the 23 February incident, which would have made the victim fearful of the appellant’s presence, they do not detract from the high degree of intrusion by the appellant into the victim’s life.
 
-(c)      _Threats to self and not to the victim, unlike most other cases (one point)_: Finally, the appellant had issued threats to hurt himself. To this effect, he hit himself on the face, and threatened to kill himself rather than end the relationship with the victim. This made the victim feel afraid, such that she had to call the police for assistance.[\[note: 23\]](#Ftn_23)
+(c)      _Threats to self and not to the victim, unlike most other cases (one point)_: Finally, the appellant had issued threats to hurt himself. To this effect, he hit himself on the face, and threatened to kill himself rather than end the relationship with the victim. This made the victim feel afraid, such that she had to call the police for assistance.[^23]
 
 76     With the aggregate of six points from the offence-specific factors, the appellant’s conduct falls within the lowest end of Band 2, and just crosses the custodial threshold. The indicative starting sentence is therefore 0.8 months’ imprisonment.
 
@@ -320,51 +321,51 @@ The amount of discount for a plea of guilt may be scaled upwards or downwards if
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)Record of Appeal (“ROA”) at p 2.
+[^1]: Record of Appeal (“ROA”) at p 2.
 
-[\[note: 2\]](#Ftn_2_1)Statement of Facts (“SOF”) at \[6\]; ROA at p 9.
+[^2]: Statement of Facts (“SOF”) at \[6\]; ROA at p 9.
 
-[\[note: 3\]](#Ftn_3_1)SOF at \[7\] – \[11\]; ROA at p 9.
+[^3]: SOF at \[7\] – \[11\]; ROA at p 9.
 
-[\[note: 4\]](#Ftn_4_1)ROA at p 2.
+[^4]: ROA at p 2.
 
-[\[note: 5\]](#Ftn_5_1)SOF at \[13\]; ROA at p 10.
+[^5]: SOF at \[13\]; ROA at p 10.
 
-[\[note: 6\]](#Ftn_6_1)SOF at \[14\]; ROA at p 10.
+[^6]: SOF at \[14\]; ROA at p 10.
 
-[\[note: 7\]](#Ftn_7_1)SOF at \[15\]; ROA at p 10.
+[^7]: SOF at \[15\]; ROA at p 10.
 
-[\[note: 8\]](#Ftn_8_1)SOF at \[16\]; ROA at p 10.
+[^8]: SOF at \[16\]; ROA at p 10.
 
-[\[note: 9\]](#Ftn_9_1)SOF at \[17\]; ROA at pp 10 – 11.
+[^9]: SOF at \[17\]; ROA at pp 10 – 11.
 
-[\[note: 10\]](#Ftn_10_1)SOF at \[18\] – \[23\]; ROA at pp 11 – 12.
+[^10]: SOF at \[18\] – \[23\]; ROA at pp 11 – 12.
 
-[\[note: 11\]](#Ftn_11_1)SOF at \[19\]; ROA at p 11.
+[^11]: SOF at \[19\]; ROA at p 11.
 
-[\[note: 12\]](#Ftn_12_1)SOF at \[25\]; ROA at p 12.
+[^12]: SOF at \[25\]; ROA at p 12.
 
-[\[note: 13\]](#Ftn_13_1)The case number is incorrectly stated as SC-910153-2016 in _Tan Yao Min v PP_: see CRO (Main) of _PP v Tan Boon Wah_ at p 2, accessible in SC-910153-2016.
+[^13]: The case number is incorrectly stated as SC-910153-2016 in _Tan Yao Min v PP_: see CRO (Main) of _PP v Tan Boon Wah_ at p 2, accessible in SC-910153-2016.
 
-[\[note: 14\]](#Ftn_14_1)_PP v Adrian Goh_ SOF at \[10\] – \[11\].
+[^14]: _PP v Adrian Goh_ SOF at \[10\] – \[11\].
 
-[\[note: 15\]](#Ftn_15_1)_PP v Adrian Goh_ SOF at \[16\] – \[18\].
+[^15]: _PP v Adrian Goh_ SOF at \[16\] – \[18\].
 
-[\[note: 16\]](#Ftn_16_1)_PP v Adrian Goh_ SOF at \[4\].
+[^16]: _PP v Adrian Goh_ SOF at \[4\].
 
-[\[note: 17\]](#Ftn_17_1)_PP v Nelson Tan_ SOF at \[6\].
+[^17]: _PP v Nelson Tan_ SOF at \[6\].
 
-[\[note: 18\]](#Ftn_18_1)_PP v Nelson Tan_ SOF at \[6\].
+[^18]: _PP v Nelson Tan_ SOF at \[6\].
 
-[\[note: 19\]](#Ftn_19_1)_PP v Lai Zhi Heng_ SOF at \[5\].
+[^19]: _PP v Lai Zhi Heng_ SOF at \[5\].
 
-[\[note: 20\]](#Ftn_20_1)_PP v Lai Zhi Heng_ SOF at \[8\] – \[13\].
+[^20]: _PP v Lai Zhi Heng_ SOF at \[8\] – \[13\].
 
-[\[note: 21\]](#Ftn_21_1)_PP v Lai Zhi Heng_ SOF at \[15\].
+[^21]: _PP v Lai Zhi Heng_ SOF at \[15\].
 
-[\[note: 22\]](#Ftn_22_1)SOF at \[13\] – \[15\].
+[^22]: SOF at \[13\] – \[15\].
 
-[\[note: 23\]](#Ftn_23_1)SOF at \[14\].
+[^23]: SOF at \[14\].
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23061-SSP.xml)

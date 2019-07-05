@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # Far East Square Pte Ltd _v_ Yau Lee Construction (Singapore) Pte Ltd  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Civil Appeal No 204 of 2018</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">16 May 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Court of Appeal</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Sundaresh Menon CJ; Steven Chong JA; Quentin Loh J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Christopher Chuah Chee Kian, Lee Hwai Bin, Valerie Koh Huini and Hoe Siew Min Deborah (WongPartnership LLP) for the appellant; Raymond Chan and Oung Hui Wen Karen (Chan Neo LLP) for the respondent.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Far East Square Pte Ltd — Yau Lee Construction (Singapore) Pte Ltd</td></tr></tbody></table>
@@ -34,31 +35,31 @@ Building and Construction Law – Architects, engineers and surveyors
 
 ## Facts
 
-6       The background facts of this appeal are straightforward and not in dispute. The appellant, Far East Square Pte Ltd (“Far East”), is the developer of an integrated commercial and residential development at Yio Chu Kang/Seletar Road (the “Project”).[\[note: 1\]](#Ftn_1) The respondent, Yau Lee Construction (Singapore) Pte Ltd (“Yau Lee”) was engaged as the main contractor for the Project. Yau Lee’s engagement was pursuant to a Letter of Award dated 29 November 2010, which incorporated with amendments the SIA Form of Contract (the “Contract”).[\[note: 2\]](#Ftn_2)
+6       The background facts of this appeal are straightforward and not in dispute. The appellant, Far East Square Pte Ltd (“Far East”), is the developer of an integrated commercial and residential development at Yio Chu Kang/Seletar Road (the “Project”).[^1] The respondent, Yau Lee Construction (Singapore) Pte Ltd (“Yau Lee”) was engaged as the main contractor for the Project. Yau Lee’s engagement was pursuant to a Letter of Award dated 29 November 2010, which incorporated with amendments the SIA Form of Contract (the “Contract”).[^2]
 
-7       The final phase of the works for the Project was completed on 6 May 2014.[\[note: 3\]](#Ftn_3) The maintenance period for the works lasted from 6 May 2014 to 5 August 2015. Clause 31(11) of the SIA Conditions of Contract provided for the contractor to submit its final claim to the architect of the Project (the “Architect”) before the end of the maintenance period.[\[note: 4\]](#Ftn_4) Despite this, Yau Lee submitted 18 payment claims between 16 November 2015 and 23 July 2017 (the “18 payment claims”). The Architect issued interim certificates in respect of the 18 payment claims, which were deemed to be Far East’s payment responses under cl 31(3)(c) of the SIA Conditions of Contract.[\[note: 5\]](#Ftn_5)
+7       The final phase of the works for the Project was completed on 6 May 2014.[^3] The maintenance period for the works lasted from 6 May 2014 to 5 August 2015. Clause 31(11) of the SIA Conditions of Contract provided for the contractor to submit its final claim to the architect of the Project (the “Architect”) before the end of the maintenance period.[^4] Despite this, Yau Lee submitted 18 payment claims between 16 November 2015 and 23 July 2017 (the “18 payment claims”). The Architect issued interim certificates in respect of the 18 payment claims, which were deemed to be Far East’s payment responses under cl 31(3)(c) of the SIA Conditions of Contract.[^5]
 
-8       On 4 August 2017, the Architect issued the maintenance certificate, which certified that all defects had been notified to Yau Lee and all outstanding works had either been made good or taken into account by way of a separate letter of undertaking (the “Maintenance Certificate”).[\[note: 6\]](#Ftn_6) Notably, the 18 payment claims while issued _after_ the end of the _maintenance period_, were submitted _before_ the Architect issued the _Maintenance Certificate_.
+8       On 4 August 2017, the Architect issued the maintenance certificate, which certified that all defects had been notified to Yau Lee and all outstanding works had either been made good or taken into account by way of a separate letter of undertaking (the “Maintenance Certificate”).[^6] Notably, the 18 payment claims while issued _after_ the end of the _maintenance period_, were submitted _before_ the Architect issued the _Maintenance Certificate_.
 
-9       On 23 August 2017, Yau Lee submitted a further payment claim; payment claim number 73 (“PC 73”).[\[note: 7\]](#Ftn_7) 13 days later, on 5 September 2017, the Architect issued to Yau Lee a letter described as the final certificate (the “Final Certificate”), certifying the final balance payable from Far East to Yau Lee in the sum of $1,545,776.20.[\[note: 8\]](#Ftn_8) On 12 September 2017, Far East issued a payment response to Yau Lee entitled “Payment Response Reference Number 73 (Final)” (“PR 73”).[\[note: 9\]](#Ftn_9) Yau Lee responded with a letter that same day, stating that they disagreed with the response amount contained in PR 73.[\[note: 10\]](#Ftn_10) Nevertheless, Yau Lee issued an invoice to Far East for the sum stated in PR 73.[\[note: 11\]](#Ftn_11)
+9       On 23 August 2017, Yau Lee submitted a further payment claim; payment claim number 73 (“PC 73”).[^7] 13 days later, on 5 September 2017, the Architect issued to Yau Lee a letter described as the final certificate (the “Final Certificate”), certifying the final balance payable from Far East to Yau Lee in the sum of $1,545,776.20.[^8] On 12 September 2017, Far East issued a payment response to Yau Lee entitled “Payment Response Reference Number 73 (Final)” (“PR 73”).[^9] Yau Lee responded with a letter that same day, stating that they disagreed with the response amount contained in PR 73.[^10] Nevertheless, Yau Lee issued an invoice to Far East for the sum stated in PR 73.[^11]
 
-10     On 24 October 2017, Yau Lee submitted yet another payment claim; payment claim number 74 (“PC 74”).[\[note: 12\]](#Ftn_12) Far East did not issue a payment response to PC 74.[\[note: 13\]](#Ftn_13) The Architect instead wrote to inform Yau Lee that since the final payment claim had to be submitted before the end of the maintenance period and Yau Lee had failed to do so, it had proceeded to issue the Final Certificate within three months from the issue of the Maintenance Certificate in accordance with cl 31(12)(a) of the SIA Conditions of Contract.[\[note: 14\]](#Ftn_14)
+10     On 24 October 2017, Yau Lee submitted yet another payment claim; payment claim number 74 (“PC 74”).[^12] Far East did not issue a payment response to PC 74.[^13] The Architect instead wrote to inform Yau Lee that since the final payment claim had to be submitted before the end of the maintenance period and Yau Lee had failed to do so, it had proceeded to issue the Final Certificate within three months from the issue of the Maintenance Certificate in accordance with cl 31(12)(a) of the SIA Conditions of Contract.[^14]
 
-11     Despite this letter from the Architect, Yau Lee submitted a further payment claim on 24 November 2017; payment claim number 75 (“PC 75”).[\[note: 15\]](#Ftn_15) Other than the difference in the dates, PC 75 is exactly the same as PC 74. The Architect issued a further letter in response stating that there will be no further progress payments after the issuance of the Final Certificate.[\[note: 16\]](#Ftn_16) We should mention that PC 75 is largely similar to PC 73 save for the sums which were paid under PR 73 as well as some reductions in the sums claimed for additional preliminaries and prime costs sum and direct contracts.
+11     Despite this letter from the Architect, Yau Lee submitted a further payment claim on 24 November 2017; payment claim number 75 (“PC 75”).[^15] Other than the difference in the dates, PC 75 is exactly the same as PC 74. The Architect issued a further letter in response stating that there will be no further progress payments after the issuance of the Final Certificate.[^16] We should mention that PC 75 is largely similar to PC 73 save for the sums which were paid under PR 73 as well as some reductions in the sums claimed for additional preliminaries and prime costs sum and direct contracts.
 
-12     On 27 December 2017, Yau Lee lodged adjudication application SOP/AA 406 of 2017 (the “Adjudication Application”) in relation to PC 75.[\[note: 17\]](#Ftn_17) Far East duly filed its adjudication response on 5 January 2018.[\[note: 18\]](#Ftn_18) An adjudication determination was issued on 14 February 2018 (the “Adjudication Determination”) by the adjudicator, Mr Tai Chean Ming (the “Adjudicator”).[\[note: 19\]](#Ftn_19)
+12     On 27 December 2017, Yau Lee lodged adjudication application SOP/AA 406 of 2017 (the “Adjudication Application”) in relation to PC 75.[^17] Far East duly filed its adjudication response on 5 January 2018.[^18] An adjudication determination was issued on 14 February 2018 (the “Adjudication Determination”) by the adjudicator, Mr Tai Chean Ming (the “Adjudicator”).[^19]
 
-13     In the Adjudication Determination, the Adjudicator found Far East liable to pay Yau Lee the sum of $2,276,284.68.[\[note: 20\]](#Ftn_20) Included in this sum were Yau Lee’s claims for additional preliminaries arising out of prolongations to the works, which were partially allowed by the Adjudicator.[\[note: 21\]](#Ftn_21) It should also be noted that the Adjudicator first examined Far East’s objection that PC 75 was submitted after the issuance of the final payment claim and/or the Final Certificate and was therefore invalid for failing to comply with the SIA Conditions of Contract and s 10(2)(_a_) of the SOPA.[\[note: 22\]](#Ftn_22) However, the Adjudicator agreed with Yau Lee and held that because Far East had not raised this objection in a payment response, he was “prohibited” from considering the objection pursuant to s 15(3) of the SOPA.[\[note: 23\]](#Ftn_23) In this regard, the Adjudicator considered himself bound by our decision in _Audi Construction_.[\[note: 24\]](#Ftn_24)
+13     In the Adjudication Determination, the Adjudicator found Far East liable to pay Yau Lee the sum of $2,276,284.68.[^20] Included in this sum were Yau Lee’s claims for additional preliminaries arising out of prolongations to the works, which were partially allowed by the Adjudicator.[^21] It should also be noted that the Adjudicator first examined Far East’s objection that PC 75 was submitted after the issuance of the final payment claim and/or the Final Certificate and was therefore invalid for failing to comply with the SIA Conditions of Contract and s 10(2)(_a_) of the SOPA.[^22] However, the Adjudicator agreed with Yau Lee and held that because Far East had not raised this objection in a payment response, he was “prohibited” from considering the objection pursuant to s 15(3) of the SOPA.[^23] In this regard, the Adjudicator considered himself bound by our decision in _Audi Construction_.[^24]
 
 14     Yau Lee subsequently filed Originating Summons No 258 of 2018 to enforce the Adjudication Determination. In response, Far East filed Summons No 1455 of 2018 for the Adjudication Determination to be set aside.
 
 ## Decision below
 
-15     Far East’s primary argument in the court below was that PC 75 was invalid as the SIA Conditions of Contract did not allow Yau Lee to submit further payment claims after the final payment claim and/or after the Final Certificate had been issued by the Architect. Therefore, the Adjudicator lacked jurisdiction as PC 75 did not fall within the purview of the SOPA, and accordingly the Adjudication Determination had to be set aside.[\[note: 25\]](#Ftn_25)
+15     Far East’s primary argument in the court below was that PC 75 was invalid as the SIA Conditions of Contract did not allow Yau Lee to submit further payment claims after the final payment claim and/or after the Final Certificate had been issued by the Architect. Therefore, the Adjudicator lacked jurisdiction as PC 75 did not fall within the purview of the SOPA, and accordingly the Adjudication Determination had to be set aside.[^25]
 
-16     The Judge relied on _Audi Construction_ and found that Far East was estopped from challenging the validity of PC 75 given that it had not raised its objection to PC 75 in a payment response.[\[note: 26\]](#Ftn_26) The Judge expressly rejected Far East’s argument that a respondent is not obligated to file a payment response if the payment claim is invalid because it falls outside the SOPA from the outset. He did so on the basis of his understanding that we had, in _Audi Construction_, stated that the duty to speak arises in relation to _any_ jurisdictional objection to a payment claim.[\[note: 27\]](#Ftn_27)
+16     The Judge relied on _Audi Construction_ and found that Far East was estopped from challenging the validity of PC 75 given that it had not raised its objection to PC 75 in a payment response.[^26] The Judge expressly rejected Far East’s argument that a respondent is not obligated to file a payment response if the payment claim is invalid because it falls outside the SOPA from the outset. He did so on the basis of his understanding that we had, in _Audi Construction_, stated that the duty to speak arises in relation to _any_ jurisdictional objection to a payment claim.[^27]
 
-17     In any event, the Judge found PC 75 to be a valid payment claim. He stated that Far East and the Architect were not entitled to unilaterally treat PC 73 as the final payment claim and to issue a final certificate on that basis; thereby preventing any further payment claims from being submitted thereafter. The Judge held that to allow otherwise would result in injustice to the contractor who may have intended to include other heads of claim if the payment claim in question were to be treated as the final payment claim.[\[note: 28\]](#Ftn_28) The Judge also found that pursuant to s 10(4) of the SOPA, Yau Lee would be entitled to submit PC 75 even if PC 73 were deemed to be its final payment claim, on the basis that PC 75 was essentially a repeat of PC 73 which had not yet been adjudicated upon.[\[note: 29\]](#Ftn_29)
+17     In any event, the Judge found PC 75 to be a valid payment claim. He stated that Far East and the Architect were not entitled to unilaterally treat PC 73 as the final payment claim and to issue a final certificate on that basis; thereby preventing any further payment claims from being submitted thereafter. The Judge held that to allow otherwise would result in injustice to the contractor who may have intended to include other heads of claim if the payment claim in question were to be treated as the final payment claim.[^28] The Judge also found that pursuant to s 10(4) of the SOPA, Yau Lee would be entitled to submit PC 75 even if PC 73 were deemed to be its final payment claim, on the basis that PC 75 was essentially a repeat of PC 73 which had not yet been adjudicated upon.[^29]
 
 18     For completeness, we note that Far East had also raised two other arguments in relation to: (a) whether the Adjudication Application was made within the applicable timelines; and (b) whether the Adjudicator had exceeded his jurisdiction by allowing Yau Lee’s claim for additional preliminaries arising from prolongation. Both of these arguments were rejected by the Judge. However, since we did not have to refer to these two arguments in our brief oral grounds in allowing this appeal, it is no longer necessary to address them.
 
@@ -68,23 +69,23 @@ Building and Construction Law – Architects, engineers and surveyors
 
 ### Appellant’s case
 
-20     On appeal, Far East reiterated its argument that the SIA Conditions of Contract provides for the entire certification process to come to an end with the issuance of the Final Certificate. Since PC 75 was issued after the Final Certificate, it is necessarily invalid and the Adjudication Determination that arose from PC 75 must be set aside.[\[note: 30\]](#Ftn_30) Far East submitted that even if its alleged acceptance of the 18 payment claims is regarded as a waiver of the requirement for a final payment claim to be submitted before the end of the maintenance period under cl 31(11) of the SIA Conditions of Contract, it should not be regarded as a blanket waiver of the _entire_ certification process.[\[note: 31\]](#Ftn_31)
+20     On appeal, Far East reiterated its argument that the SIA Conditions of Contract provides for the entire certification process to come to an end with the issuance of the Final Certificate. Since PC 75 was issued after the Final Certificate, it is necessarily invalid and the Adjudication Determination that arose from PC 75 must be set aside.[^30] Far East submitted that even if its alleged acceptance of the 18 payment claims is regarded as a waiver of the requirement for a final payment claim to be submitted before the end of the maintenance period under cl 31(11) of the SIA Conditions of Contract, it should not be regarded as a blanket waiver of the _entire_ certification process.[^31]
 
-21     Far East also argued that PC 73 should be regarded as a final payment claim as it bears the “substantive hallmarks of a final claim”, notwithstanding Yau Lee’s subjective intentions to the contrary. Therefore, PC 75 is invalid as that there is no entitlement under the SIA Conditions of Contract for a contractor to serve any further payment claim after the submission of its final payment claim.[\[note: 32\]](#Ftn_32)
+21     Far East also argued that PC 73 should be regarded as a final payment claim as it bears the “substantive hallmarks of a final claim”, notwithstanding Yau Lee’s subjective intentions to the contrary. Therefore, PC 75 is invalid as that there is no entitlement under the SIA Conditions of Contract for a contractor to serve any further payment claim after the submission of its final payment claim.[^32]
 
-22     With regard to the Judge’s finding that Far East was estopped from raising any objections arising from its failure to file a payment response in relation to PC 75, Far East argued that the duty to speak as set out in _Audi Construction_ does not extend to inoperative payment claims which fall outside the ambit of the SOPA from the outset. Since Yau Lee was never entitled to submit PC 75, it follows that Far East did not have a corresponding obligation to raise a payment response to PC 75.[\[note: 33\]](#Ftn_33)
+22     With regard to the Judge’s finding that Far East was estopped from raising any objections arising from its failure to file a payment response in relation to PC 75, Far East argued that the duty to speak as set out in _Audi Construction_ does not extend to inoperative payment claims which fall outside the ambit of the SOPA from the outset. Since Yau Lee was never entitled to submit PC 75, it follows that Far East did not have a corresponding obligation to raise a payment response to PC 75.[^33]
 
-23     Finally, Far East argued that Yau Lee’s reliance on PC 75 as a valid payment claim capable of reference to adjudication under the SOPA constitutes a “patent error” which the Adjudicator had failed to apply his mind to. Far East cited _Comfort Management_, where it was held that a respondent who had not filed a payment response remains entitled to raise patent errors in the material properly before the adjudicator. In the premises, even if Far East had not issued a payment response to PC 75, it should not be precluded from raising a patent error to set aside the Adjudication Determination.[\[note: 34\]](#Ftn_34)
+23     Finally, Far East argued that Yau Lee’s reliance on PC 75 as a valid payment claim capable of reference to adjudication under the SOPA constitutes a “patent error” which the Adjudicator had failed to apply his mind to. Far East cited _Comfort Management_, where it was held that a respondent who had not filed a payment response remains entitled to raise patent errors in the material properly before the adjudicator. In the premises, even if Far East had not issued a payment response to PC 75, it should not be precluded from raising a patent error to set aside the Adjudication Determination.[^34]
 
 ### Respondent’s case
 
-24     In response, Yau Lee argued that there was nothing in the SIA Form of Contract which precluded it from submitting further payment claims after the issuance of the Final Certificate. Yau Lee submitted that even if the Architect failed to provide a payment certificate in response to a payment claim, Far East remains obligated to provide a payment response pursuant to cl 31(3)(b) of the SIA Conditions of Contract if it wishes to raise any objections it had to that payment claim.[\[note: 35\]](#Ftn_35) In any event, even if there were provisions in the SIA Form of Contract which precluded the submission of further payment claims after the issuance of the final certificate, these provisions would be inoperative as they would be regarded as “excluding, modifying, restricting or prejudicing the operation” of the SOPA pursuant to ss 36(1) and (2) of the SOPA.[\[note: 36\]](#Ftn_36)
+24     In response, Yau Lee argued that there was nothing in the SIA Form of Contract which precluded it from submitting further payment claims after the issuance of the Final Certificate. Yau Lee submitted that even if the Architect failed to provide a payment certificate in response to a payment claim, Far East remains obligated to provide a payment response pursuant to cl 31(3)(b) of the SIA Conditions of Contract if it wishes to raise any objections it had to that payment claim.[^35] In any event, even if there were provisions in the SIA Form of Contract which precluded the submission of further payment claims after the issuance of the final certificate, these provisions would be inoperative as they would be regarded as “excluding, modifying, restricting or prejudicing the operation” of the SOPA pursuant to ss 36(1) and (2) of the SOPA.[^36]
 
-25     Yau Lee also cited _Grouteam Pte Ltd v UES Holdings Pte Ltd_ (“_Grouteam_”) as authority for the proposition that pursuant to s 10(4) of the SOPA, repeat claims are permissible as long as they have not been adjudicated upon on the merits. As such, even if PC 73 were regarded as the final payment claim, PC 75 is a repeat claim of PC 73 and can thus be validly submitted under the SOPA.[\[note: 37\]](#Ftn_37)
+25     Yau Lee also cited _Grouteam Pte Ltd v UES Holdings Pte Ltd_ (“_Grouteam_”) as authority for the proposition that pursuant to s 10(4) of the SOPA, repeat claims are permissible as long as they have not been adjudicated upon on the merits. As such, even if PC 73 were regarded as the final payment claim, PC 75 is a repeat claim of PC 73 and can thus be validly submitted under the SOPA.[^37]
 
-26     With regard to Far East’s submission that it did not have a duty to speak in relation to PC 75 because it was outside the purview of the SOPA, Yau Lee raised the following arguments. First, a respondent’s duty to speak under s 15(3) of the SOPA arises upon service of a payment claim, regardless of whether the adjudicator has threshold or substantive jurisdiction. So long as an adjudicator has the power under s 17(3) of the SOPA to determine an objection, a respondent would have the corresponding obligation to raise that objection before the adjudicator. As the Adjudicator did have the power under s 17(3) of the SOPA to determine the PC 75 objection, Far East had a corresponding duty to speak which it did not discharge.[\[note: 38\]](#Ftn_38) Second, Far East’s objection as to the validity of PC 75 merely went towards the Adjudicator’s substantive jurisdiction and not his threshold jurisdiction. So long as there is a purported payment claim and service thereof, the appointed adjudicator will have threshold jurisdiction. Matters such as the validity of the payment claim would only go towards the adjudicator’s substantive jurisdiction.[\[note: 39\]](#Ftn_39) In any event, Yau Lee argued that _Audi Construction_ made clear that a respondent has a duty to issue a payment response regardless of its belief as to the validity of the payment claim and service thereof.[\[note: 40\]](#Ftn_40)
+26     With regard to Far East’s submission that it did not have a duty to speak in relation to PC 75 because it was outside the purview of the SOPA, Yau Lee raised the following arguments. First, a respondent’s duty to speak under s 15(3) of the SOPA arises upon service of a payment claim, regardless of whether the adjudicator has threshold or substantive jurisdiction. So long as an adjudicator has the power under s 17(3) of the SOPA to determine an objection, a respondent would have the corresponding obligation to raise that objection before the adjudicator. As the Adjudicator did have the power under s 17(3) of the SOPA to determine the PC 75 objection, Far East had a corresponding duty to speak which it did not discharge.[^38] Second, Far East’s objection as to the validity of PC 75 merely went towards the Adjudicator’s substantive jurisdiction and not his threshold jurisdiction. So long as there is a purported payment claim and service thereof, the appointed adjudicator will have threshold jurisdiction. Matters such as the validity of the payment claim would only go towards the adjudicator’s substantive jurisdiction.[^39] In any event, Yau Lee argued that _Audi Construction_ made clear that a respondent has a duty to issue a payment response regardless of its belief as to the validity of the payment claim and service thereof.[^40]
 
-27     As for Far East’s argument that PC 75 constituted a patent error, Yau Lee submitted that patent errors constitute an exceptional and extremely narrow category of errors. In the present case, the validity of PC 75 was an issue of considerable legal complexity and was clearly not an obvious or manifest error.[\[note: 41\]](#Ftn_41)
+27     As for Far East’s argument that PC 75 constituted a patent error, Yau Lee submitted that patent errors constitute an exceptional and extremely narrow category of errors. In the present case, the validity of PC 75 was an issue of considerable legal complexity and was clearly not an obvious or manifest error.[^41]
 
 ## Our decision
 
@@ -116,7 +117,7 @@ The scheme of the contract is to _ensure that virtually all areas of possible fi
 
 \[emphasis in original in italics; emphasis added in bold italics\]
 
-33     This role is reinforced by the terms of the SIA Form of Contract in the present case, under which Article 3 of the SIA Articles of Contract provides:[\[note: 42\]](#Ftn_42)
+33     This role is reinforced by the terms of the SIA Form of Contract in the present case, under which Article 3 of the SIA Articles of Contract provides:[^42]
 
 The term “Architect” in the Contract shall mean
 
@@ -130,7 +131,7 @@ by whom or under whose _administrative control on behalf of the Employer the Wor
 
 It is evident from the foregoing that the SIA Form of Contract was _designed_ to be administered by an architect. In fact, in the absence of a person duly appointed to perform the duties of the architect under the contract, the processes leading to payments, approvals and instructions will grind to a halt: Chow Kok Fong, _The Singapore SIA Form of Building Contract_ (Sweet & Maxwell, 2013) (“_The Singapore SIA Form of Building Contract_”) at paras 2.13 and 2.15.
 
-34     Among his various responsibilities, the architect plays an integral role in the payment certification process under the contract. Interim payments to the contractor are governed by cl 31 of the SIA Conditions of Contract. Specifically, cl 31(2)(a) provides for the situations under which a contractor shall be entitled to serve a payment claim on the employer. Notably, a copy of the payment claim must always be forwarded to the architect. The amended cl 31(3)(a) of the SIA Conditions of Contract as found in the Contract provides that “\[w\]ithin 14 days after receipt of the payment claim or the day on which the Contractor is required under clause 31(2) to submit his payment claim, whichever is later, the Architect _shall_ … _issue an Interim Certificate to the Contractor_”[\[note: 43\]](#Ftn_43) \[emphasis added\]. This is in contrast to cl 31(3)(b) which merely states that the employer “shall be _entitled_”[\[note: 44\]](#Ftn_44) \[emphasis added\] to issue a payment response. Indeed, if the employer elects not to file a payment response, cl 31(3)(c) provides that the interim certificate issued by the architect shall be deemed the payment response from the employer and shall have full effect as ascribed to a payment response under the SOPA. Therefore, while an employer may _elect_ to file a payment response, it is _mandatory_ for the architect to issue an interim certificate in response to a payment claim from a contractor.
+34     Among his various responsibilities, the architect plays an integral role in the payment certification process under the contract. Interim payments to the contractor are governed by cl 31 of the SIA Conditions of Contract. Specifically, cl 31(2)(a) provides for the situations under which a contractor shall be entitled to serve a payment claim on the employer. Notably, a copy of the payment claim must always be forwarded to the architect. The amended cl 31(3)(a) of the SIA Conditions of Contract as found in the Contract provides that “\[w\]ithin 14 days after receipt of the payment claim or the day on which the Contractor is required under clause 31(2) to submit his payment claim, whichever is later, the Architect _shall_ … _issue an Interim Certificate to the Contractor_”[^43] \[emphasis added\]. This is in contrast to cl 31(3)(b) which merely states that the employer “shall be _entitled_”[^44] \[emphasis added\] to issue a payment response. Indeed, if the employer elects not to file a payment response, cl 31(3)(c) provides that the interim certificate issued by the architect shall be deemed the payment response from the employer and shall have full effect as ascribed to a payment response under the SOPA. Therefore, while an employer may _elect_ to file a payment response, it is _mandatory_ for the architect to issue an interim certificate in response to a payment claim from a contractor.
 
 35     The importance of an architect’s certificate in the payment process under the SIA Form of Contract was also underscored in _Chin Ivan_ at \[20\]:
 
@@ -144,9 +145,9 @@ It is evident from the foregoing that the SIA Form of Contract was _designed_ to
 
 36     However, the payment certification process, and indeed the works under the contract itself, comes to an end once the architect issues the final certificate. The final certificate shows the architect’s final measurement and valuation of the works in accordance with the terms of the contract, and states the final balance between the contractor and the employer. This “finalisation of accounts” typically signifies the end of the project works: _The Singapore SIA Form of Building Contract_ at para 1.2.
 
-37     Additionally, the final certificate is generally issued _after_ the maintenance certificate is issued, by which time the works under the contract would be completed. Clause 31(12)(a) of the Conditions of Contract states that “\[w\]ithin 3 months of receipt from the Contractor of \[the final claim documents referred to in cl 31(11)\] _or_ of the issuance of the Maintenance Certificate (whichever is the later) the Architect shall issue a Final Certificate” \[emphasis added”\].[\[note: 45\]](#Ftn_45) Clause 27(5) of the Conditions of Contract states that the issuance of the maintenance certificate by the architect “shall finally discharge the Contractor from any further physical attendance upon the Works for the purpose of making good defects”.[\[note: 46\]](#Ftn_46) Upon the issuance of the final certificate, there would in most cases be no further works undertaken pursuant to the contract.
+37     Additionally, the final certificate is generally issued _after_ the maintenance certificate is issued, by which time the works under the contract would be completed. Clause 31(12)(a) of the Conditions of Contract states that “\[w\]ithin 3 months of receipt from the Contractor of \[the final claim documents referred to in cl 31(11)\] _or_ of the issuance of the Maintenance Certificate (whichever is the later) the Architect shall issue a Final Certificate” \[emphasis added”\].[^45] Clause 27(5) of the Conditions of Contract states that the issuance of the maintenance certificate by the architect “shall finally discharge the Contractor from any further physical attendance upon the Works for the purpose of making good defects”.[^46] Upon the issuance of the final certificate, there would in most cases be no further works undertaken pursuant to the contract.
 
-38     Another important consequence of the issuance of the final certificate is that the architect’s duties under the contract are concluded and he becomes _functus officio_: _Hudson’s Building and Engineering Contracts_ (Nicholas Dennys & Robert Clay gen ed) (Sweet & Maxwell, 13th Ed, 2015) at paras 4-027–4-028. For this reason, cl 37(3)(i) of the SIA Conditions of Contract states that an architect’s power to issue further certificates to correct earlier interim certificates continues “until his Final Certificate”.[\[note: 47\]](#Ftn_47) Similarly, the architect’s power to determine extensions of time under cl 23(3),[\[note: 48\]](#Ftn_48) and his power to issue delay certificates under cl 24(1),[\[note: 49\]](#Ftn_49) only extends “up to and including the issue of the Final Certificate”.
+38     Another important consequence of the issuance of the final certificate is that the architect’s duties under the contract are concluded and he becomes _functus officio_: _Hudson’s Building and Engineering Contracts_ (Nicholas Dennys & Robert Clay gen ed) (Sweet & Maxwell, 13th Ed, 2015) at paras 4-027–4-028. For this reason, cl 37(3)(i) of the SIA Conditions of Contract states that an architect’s power to issue further certificates to correct earlier interim certificates continues “until his Final Certificate”.[^47] Similarly, the architect’s power to determine extensions of time under cl 23(3),[^48] and his power to issue delay certificates under cl 24(1),[^49] only extends “up to and including the issue of the Final Certificate”.
 
 #### Whether PC 75 could be submitted after the Architect became functus officio
 
@@ -176,7 +177,7 @@ It appears that the Judge was under the impression that the Architect could only
 
 47     Secondly, the manner in which the SIA Form of Contract is structured ensures that an architect cannot unilaterally end the payment process so as to cause “injustice to the contractor who may have intended to include other heads of claim if the payment claim in question was to be treated as the final claim”, the precise point identified by the Judge at \[46\] of the decision below. Clause 31(11) provides for the final claim to be submitted to the architect before the end of the maintenance period. Therefore, in the usual case, a contractor should endeavour to put in its final claim documents before the end of the maintenance period, or seek an extension from the architect if it is unable to do so. If, as was the case before us, a contractor continues submitting payment claims even after the end of the maintenance period, the subsequent issuance of the maintenance certificate should serve as a further indication that the certification process is coming to an end as the contractor would or ought to have known that the final certificate is right around the corner.
 
-48     In any event, we did not think that the Architect’s issuance of the Final Certificate had caught Yau Lee by surprise. Even before the end of the maintenance period, the quantity surveyor had emailed Yau Lee to request for the submission of its final account documents.[\[note: 50\]](#Ftn_50) This was followed by a long chain of correspondence in relation to the preparation of the final accounts. This should have, at the very least, put Yau Lee on notice that the parties were in the midst of finalising their accounts and the performance under the contract was about to come to an end. If Yau Lee had any outstanding progress claims for work done which it wished to make, it had ample opportunity to do so before the Final Certificate was issued. In this connection, we would add that it is incumbent on a contractor to submit interim payment claims on a consistent and regular basis _during_ the progress of the works, so as to make full use of the expedited payment regime under the SOPA.
+48     In any event, we did not think that the Architect’s issuance of the Final Certificate had caught Yau Lee by surprise. Even before the end of the maintenance period, the quantity surveyor had emailed Yau Lee to request for the submission of its final account documents.[^50] This was followed by a long chain of correspondence in relation to the preparation of the final accounts. This should have, at the very least, put Yau Lee on notice that the parties were in the midst of finalising their accounts and the performance under the contract was about to come to an end. If Yau Lee had any outstanding progress claims for work done which it wished to make, it had ample opportunity to do so before the Final Certificate was issued. In this connection, we would add that it is incumbent on a contractor to submit interim payment claims on a consistent and regular basis _during_ the progress of the works, so as to make full use of the expedited payment regime under the SOPA.
 
 49     It should be noted that s 10(4) of the SOPA would also be of no assistance to Yau Lee. The Judge stated (at \[48\] of the decision below) that “as PC 75 was essentially a repeat of PC 73 which had not been adjudicated upon, the contractor was also entitled under s 10(4) of the SOPA to submit PC 75 even if PC 73 was deemed the final payment claim.” At the hearing before us, Mr Chan reiterated the point made by the Judge and argued that Yau Lee’s right to issue a repeat claim under s 10(4) would persist even after the Final Certificate was issued. In our judgment, s 10(4) of the SOPA does not have the effect of allowing a contractor to submit payment claims _indefinitely_. In _Grouteam_ at \[56\], we held that s 10(4) could be invoked to mitigate the draconian consequence of a payment claim being invalidated solely on the basis that it was served out of time. In _Lee Wee Lick Terence (alias Li Weili Terence) v Chua Say Eng (formerly trading as Weng Fatt Construction Engineering) and another appeal_ at \[59\], we stated that even if the mandatory force of a contractual term prevents a payment claim from being made outside the contractually stipulated period, no harm would be caused to the claimant because the claimant could still include the undetermined payment claim in a fresh payment claim by virtue of s 10(4). However, this necessarily entails that the regime for submitting fresh payment claims under the contract continues to apply. Here, the repeat claim (_ie_, PC 75) was made after the Architect became _functus officio_. The Architect could no longer issue any payment certificates. It follows that s 10(4) of the SOPA cannot be invoked to validate such a payment claim.
 
@@ -258,7 +259,7 @@ It appears that the Judge was under the impression that the Architect could only
 
 73     In the present case, the works under the construction contract between Yau Lee and Far East came to an end upon the Architect’s issuance of the Final Certificate. The underlying construction contract in support of PC 75 was in effect _no longer_ a subsisting contract between the parties permitting the submission of any further payment claims under the SOPA. In our view, this would be similar to patent errors that we had identified at \[23\] of _Comfort Management_, _ie_, where the contract adduced by the claimant in support of the payment claim is not even the contract between the parties. We would add that the situations we have identified at \[60\] involving payment claims which fall outside the ambit of the SOPA would likewise be regarded as patent errors.
 
-74     In this regard, we note that Yau Lee had argued in its written submissions that PC 75 could not be treated as a patent error because even if it were an error, the error was not “obvious, manifest or otherwise easily recognisable”. This is because it was an “issue of considerable legal complexity, meriting considerable submissions from both parties”.[\[note: 51\]](#Ftn_51) We should first state that the issue before us can hardly be said to involve any “legal complexity”. Here, the patent error relied on by Far East concerned the Architect’s lack of capacity to certify which is plain and evident on the face of the material properly before the adjudicator.
+74     In this regard, we note that Yau Lee had argued in its written submissions that PC 75 could not be treated as a patent error because even if it were an error, the error was not “obvious, manifest or otherwise easily recognisable”. This is because it was an “issue of considerable legal complexity, meriting considerable submissions from both parties”.[^51] We should first state that the issue before us can hardly be said to involve any “legal complexity”. Here, the patent error relied on by Far East concerned the Architect’s lack of capacity to certify which is plain and evident on the face of the material properly before the adjudicator.
 
 75     In the present case, notwithstanding the lack of a payment response from Far East, it would have been patently clear to the adjudicator based on the Contract, the Final Certificate, and PC 75 itself, that by the time PC 75 was submitted, the Architect had become _functus officio_ and any payment claims submitted _thereafter_ would be outside the ambit of the SOPA.
 
@@ -268,107 +269,107 @@ It appears that the Judge was under the impression that the Architect could only
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)_Yau Lee Construction (Singapore) Pte Ltd v Far East Square Pte Ltd_ (“GD”) at \[2\].
+[^1]: _Yau Lee Construction (Singapore) Pte Ltd v Far East Square Pte Ltd_ (“GD”) at \[2\].
 
-[\[note: 2\]](#Ftn_2_1)1 AB 129.
+[^2]: 1 AB 129.
 
-[\[note: 3\]](#Ftn_3_1)GD at \[3\].
+[^3]: GD at \[3\].
 
-[\[note: 4\]](#Ftn_4_1)1 AB 189.
+[^4]: 1 AB 189.
 
-[\[note: 5\]](#Ftn_5_1)GD at \[4\].
+[^5]: GD at \[4\].
 
-[\[note: 6\]](#Ftn_6_1)2 AB 39–44.
+[^6]: 2 AB 39–44.
 
-[\[note: 7\]](#Ftn_7_1)2 AB 68.
+[^7]: 2 AB 68.
 
-[\[note: 8\]](#Ftn_8_1)2 AB 205–206.
+[^8]: 2 AB 205–206.
 
-[\[note: 9\]](#Ftn_9_1)2 AB 208–209.
+[^9]: 2 AB 208–209.
 
-[\[note: 10\]](#Ftn_10_1)2 AB 224.
+[^10]: 2 AB 224.
 
-[\[note: 11\]](#Ftn_11_1)2 AB 225.
+[^11]: 2 AB 225.
 
-[\[note: 12\]](#Ftn_12_1)2 AB 101.
+[^12]: 2 AB 101.
 
-[\[note: 13\]](#Ftn_13_1)GD at \[7\].
+[^13]: GD at \[7\].
 
-[\[note: 14\]](#Ftn_14_1)2 AB 227.
+[^14]: 2 AB 227.
 
-[\[note: 15\]](#Ftn_15_1)2 AB 130.
+[^15]: 2 AB 130.
 
-[\[note: 16\]](#Ftn_16_1)2 AB 229.
+[^16]: 2 AB 229.
 
-[\[note: 17\]](#Ftn_17_1)2 AB 231–237.
+[^17]: 2 AB 231–237.
 
-[\[note: 18\]](#Ftn_18_1)3 AB 4–7.
+[^18]: 3 AB 4–7.
 
-[\[note: 19\]](#Ftn_19_1)1 AB 73–126.
+[^19]: 1 AB 73–126.
 
-[\[note: 20\]](#Ftn_20_1)1 AB 75, para 3.1.
+[^20]: 1 AB 75, para 3.1.
 
-[\[note: 21\]](#Ftn_21_1)1 AB 118, para 132; 1 AB 119, para 139.
+[^21]: 1 AB 118, para 132; 1 AB 119, para 139.
 
-[\[note: 22\]](#Ftn_22_1)1 AB 82, para 26.1.
+[^22]: 1 AB 82, para 26.1.
 
-[\[note: 23\]](#Ftn_23_1)1 AB 89, para 47.
+[^23]: 1 AB 89, para 47.
 
-[\[note: 24\]](#Ftn_24_1)1 AB 87, paras 40–41.
+[^24]: 1 AB 87, paras 40–41.
 
-[\[note: 25\]](#Ftn_25_1)GD at \[11\]–\[12\].
+[^25]: GD at \[11\]–\[12\].
 
-[\[note: 26\]](#Ftn_26_1)GD at \[39\].
+[^26]: GD at \[39\].
 
-[\[note: 27\]](#Ftn_27_1)GD at \[35\]–\[36\].
+[^27]: GD at \[35\]–\[36\].
 
-[\[note: 28\]](#Ftn_28_1)GD at \[46\].
+[^28]: GD at \[46\].
 
-[\[note: 29\]](#Ftn_29_1)GD at \[48\].
+[^29]: GD at \[48\].
 
-[\[note: 30\]](#Ftn_30_1)Appellant’s written submissions, paras 30–36.
+[^30]: Appellant’s written submissions, paras 30–36.
 
-[\[note: 31\]](#Ftn_31_1)Appellant’s written submissions, para 32.
+[^31]: Appellant’s written submissions, para 32.
 
-[\[note: 32\]](#Ftn_32_1)Appellant’s written submissions, paras 37–40.
+[^32]: Appellant’s written submissions, paras 37–40.
 
-[\[note: 33\]](#Ftn_33_1)Appellant’s written submissions, paras 25–28.
+[^33]: Appellant’s written submissions, paras 25–28.
 
-[\[note: 34\]](#Ftn_34_1)Appellant’s written submissions, paras 48–54.
+[^34]: Appellant’s written submissions, paras 48–54.
 
-[\[note: 35\]](#Ftn_35_1)Respondent’s written submissions, para 22.
+[^35]: Respondent’s written submissions, para 22.
 
-[\[note: 36\]](#Ftn_36_1)Respondent’s written submissions, para 24.
+[^36]: Respondent’s written submissions, para 24.
 
-[\[note: 37\]](#Ftn_37_1)Respondent’s written submissions, paras 26–27.
+[^37]: Respondent’s written submissions, paras 26–27.
 
-[\[note: 38\]](#Ftn_38_1)Respondent’s written submissions, paras 31–38.
+[^38]: Respondent’s written submissions, paras 31–38.
 
-[\[note: 39\]](#Ftn_39_1)Respondent’s written submissions, paras 39–42.
+[^39]: Respondent’s written submissions, paras 39–42.
 
-[\[note: 40\]](#Ftn_40_1)Respondent’s written submissions, para 47.
+[^40]: Respondent’s written submissions, para 47.
 
-[\[note: 41\]](#Ftn_41_1)Respondent’s written submissions, paras 52–55.
+[^41]: Respondent’s written submissions, paras 52–55.
 
-[\[note: 42\]](#Ftn_42_1)1 AB 156.
+[^42]: 1 AB 156.
 
-[\[note: 43\]](#Ftn_43_1)1 AB 232.
+[^43]: 1 AB 232.
 
-[\[note: 44\]](#Ftn_44_1)1 AB 232.
+[^44]: 1 AB 232.
 
-[\[note: 45\]](#Ftn_45_1)1 AB 189.
+[^45]: 1 AB 189.
 
-[\[note: 46\]](#Ftn_46_1)1 AB 182.
+[^46]: 1 AB 182.
 
-[\[note: 47\]](#Ftn_47_1)1 AB 199.
+[^47]: 1 AB 199.
 
-[\[note: 48\]](#Ftn_48_1)1 AB 178.
+[^48]: 1 AB 178.
 
-[\[note: 49\]](#Ftn_49_1)1 AB 179.
+[^49]: 1 AB 179.
 
-[\[note: 50\]](#Ftn_50_1)1 AB 268.
+[^50]: 1 AB 268.
 
-[\[note: 51\]](#Ftn_51_1)Respondent’s written submissions, para 54.
+[^51]: Respondent’s written submissions, para 54.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23156-SSP.xml)

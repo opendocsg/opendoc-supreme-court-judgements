@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # TWG Tea Co Pte Ltd _v_ Murjani Manoj Mohan  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Suit No 799 of 2017</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">03 May 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Audrey Lim JC</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Tony Yeo, Meryl Koh, Vanessa Ho, and Ashley Loh (Drew &amp; Napier LLC) for the plaintiff in original action and the defendants-in-counterclaim; Koh Swee Yen, Lin Chunlong, Jasmine Low and Jeremy Tan (WongPartnership LLP) for the defendant in original action and plaintiff-in-counterclaim.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">TWG Tea Company Pte Ltd — Murjani Manoj Mohan — Taha Bou Qdib — Maranda Barnes Bou Qdib</td></tr></tbody></table>
@@ -22,7 +23,7 @@ Tort – Defamation – Malicious falsehood – Damage
 
 ## Background facts
 
-4       TWG Tea was set up on 12 October 2007 when Sunbreeze Group Pte Ltd (“Sunbreeze”) was renamed TWG Tea Company Pte Ltd. I will refer to the formation of TWG Tea (via the renaming of Sunbreeze) as its “incorporation”. Sunbreeze was effectively owned by Manoj, who had a 99.999% shareholding. TWG Tea had its genesis as the Tea Division of The Wellness Group Pte Ltd (“Wellness”). Wellness was incorporated in 2003 with Manoj and his wife as its shareholders and directors. Manoj was also Wellness’ Chairman and CEO. In 2003, Wellness had two main businesses, which were its Tea and Spa Divisions.[\[note: 1\]](#Ftn_1)
+4       TWG Tea was set up on 12 October 2007 when Sunbreeze Group Pte Ltd (“Sunbreeze”) was renamed TWG Tea Company Pte Ltd. I will refer to the formation of TWG Tea (via the renaming of Sunbreeze) as its “incorporation”. Sunbreeze was effectively owned by Manoj, who had a 99.999% shareholding. TWG Tea had its genesis as the Tea Division of The Wellness Group Pte Ltd (“Wellness”). Wellness was incorporated in 2003 with Manoj and his wife as its shareholders and directors. Manoj was also Wellness’ Chairman and CEO. In 2003, Wellness had two main businesses, which were its Tea and Spa Divisions.[^1]
 
 5       On 20 March 2008, all of TWG Tea’s shares were transferred to Wellness and TWG Tea became its wholly-owned subsidiary. In June 2008, TWG Tea’s shares were given to Taha, Mr Rithyrith Aum-Stievenard (“Rith”) and Mr Philippe Gerard Langlois (“Philippe”). Taha gave portions of his shares to Maranda. In August 2008, a further allotment of shares was given to Wellness, Taha, Maranda, Rith, and Philippe. As of 13 August 2008, the respective holdings in TWG Tea were Wellness (79.56%), Taha (9.24%), Maranda (4.61%), Rith (4.61%), and Philippe (1.98%).
 
@@ -30,7 +31,7 @@ Tort – Defamation – Malicious falsehood – Damage
 
 7       Disagreements subsequently arose between OSIM and Manoj. Although Manoj was a director of TWG Tea from 12 October 2007, and its Chairman and CEO from 1 November 2008, he stepped down as CEO from 15 September 2012, and as director and Chairman from 28 September 2012.
 
-8       Taha initially commenced employment at Wellness as its Tea Division’s Managing Director from 20 June 2007. His employment was transferred to TWG Tea from 1 April 2008, and he became its President and a director. He stepped down as director on 3 October 2018. Taha is currently TWG Tea’s CEO and President. Maranda initially commenced employment as a director of Wellness’ Tea Division from 25 July 2007. Her employment was transferred to TWG Tea on 1 April 2008, and she was a director of TWG Tea from 18 August 2008 to 25 March 2009. Maranda is currently Director of Corporate Communications and Business Development of TWG Tea and has held that role since July 2009. Rith was first employed by Wellness in November 2007. His employment was transferred to TWG Tea from 1 April 2008 and he is currently its Chief Operations Officer. Rith is not a party in this suit but gave evidence for the counterclaim defendants.[\[note: 2\]](#Ftn_2)
+8       Taha initially commenced employment at Wellness as its Tea Division’s Managing Director from 20 June 2007. His employment was transferred to TWG Tea from 1 April 2008, and he became its President and a director. He stepped down as director on 3 October 2018. Taha is currently TWG Tea’s CEO and President. Maranda initially commenced employment as a director of Wellness’ Tea Division from 25 July 2007. Her employment was transferred to TWG Tea on 1 April 2008, and she was a director of TWG Tea from 18 August 2008 to 25 March 2009. Maranda is currently Director of Corporate Communications and Business Development of TWG Tea and has held that role since July 2009. Rith was first employed by Wellness in November 2007. His employment was transferred to TWG Tea from 1 April 2008 and he is currently its Chief Operations Officer. Rith is not a party in this suit but gave evidence for the counterclaim defendants.[^2]
 
 9       TWG Tea’s name was changed from “The Wellness Group” Tea to “The Wellbeing Group” Tea sometime between October to December 2014.
 
@@ -40,39 +41,39 @@ Tort – Defamation – Malicious falsehood – Damage
 
 ### Circumstances prior to the registration of the Domain Name
 
-11     Taha was in the tea business and tea-related industry before joining Wellness. He met Manoj sometime in 2003 or 2004. In February 2007, Manoj offered Taha and Maranda employment in Wellness, with Taha as the CEO of the Tea Division and Maranda as a director of the same. As part of their remuneration, the letter of appointment stated that Taha and Maranda would receive a 15% shareholding of Wellness’ Tea Division.[\[note: 3\]](#Ftn_3) Taha and Maranda claimed that in essence, they were persuaded by this 15% shareholding to move to Singapore (which they did in June 2007) and build the luxury tea business from scratch. The 15% shareholding was meant to reflect their contributions as partners and co-founders of TWG Tea’s business. Prior to their arrival, Wellness had no such tea division to speak of.[\[note: 4\]](#Ftn_4)
+11     Taha was in the tea business and tea-related industry before joining Wellness. He met Manoj sometime in 2003 or 2004. In February 2007, Manoj offered Taha and Maranda employment in Wellness, with Taha as the CEO of the Tea Division and Maranda as a director of the same. As part of their remuneration, the letter of appointment stated that Taha and Maranda would receive a 15% shareholding of Wellness’ Tea Division.[^3] Taha and Maranda claimed that in essence, they were persuaded by this 15% shareholding to move to Singapore (which they did in June 2007) and build the luxury tea business from scratch. The 15% shareholding was meant to reflect their contributions as partners and co-founders of TWG Tea’s business. Prior to their arrival, Wellness had no such tea division to speak of.[^4]
 
-12     After joining Wellness, Taha, Maranda and Rith’s employment were transferred to TWG Tea. Taha states that Manoj, Maranda, Rith and he are all co-founders of TWG Tea. Each of the co-founders brought their own strengths to the business. Manoj provided business contacts to TWG Tea and investment through Wellness. However, he did not have the expertise and know-how to create a luxury tea brand and it was not until he met Taha and Maranda that they could collaborate to establish a luxury tea business.[\[note: 5\]](#Ftn_5)
+12     After joining Wellness, Taha, Maranda and Rith’s employment were transferred to TWG Tea. Taha states that Manoj, Maranda, Rith and he are all co-founders of TWG Tea. Each of the co-founders brought their own strengths to the business. Manoj provided business contacts to TWG Tea and investment through Wellness. However, he did not have the expertise and know-how to create a luxury tea brand and it was not until he met Taha and Maranda that they could collaborate to establish a luxury tea business.[^5]
 
 ### Circumstances pertaining to the registration of the Domain Name
 
-13     On 3 August 2007, Taha conceptualised and proposed to Maranda and Manoj to brand and name the luxury tea business (at that time still existing as Wellness’ Tea Division) as “TWG Tea” (“the 3 August 2007 meeting”). Taha claimed that from the start, they “agreed…and it was understood that all associated rights and property, including but not limited to the name “TWG Tea” and the rights in any trade marks and/or domain name and/or goodwill associated with the name “TWG Tea” would be owned by TWG Tea.”[\[note: 6\]](#Ftn_6)
+13     On 3 August 2007, Taha conceptualised and proposed to Maranda and Manoj to brand and name the luxury tea business (at that time still existing as Wellness’ Tea Division) as “TWG Tea” (“the 3 August 2007 meeting”). Taha claimed that from the start, they “agreed…and it was understood that all associated rights and property, including but not limited to the name “TWG Tea” and the rights in any trade marks and/or domain name and/or goodwill associated with the name “TWG Tea” would be owned by TWG Tea.”[^6]
 
-14     Taha and Maranda claimed that during the 3 August 2007 meeting and while they were discussing the name of the brand (which was TWG Tea), Manoj went up to his office. When he returned, he informed them that he had registered the Domain Name.[\[note: 7\]](#Ftn_7) Specifically, Maranda claimed that it was important that there was an available domain name before they decided to register the name of the company.[\[note: 8\]](#Ftn_8) It is not disputed that on 3 August 2007, Manoj registered the domain name www.twgtea.com with the domain name host GANDI, with himself as its registrant and owner.
+14     Taha and Maranda claimed that during the 3 August 2007 meeting and while they were discussing the name of the brand (which was TWG Tea), Manoj went up to his office. When he returned, he informed them that he had registered the Domain Name.[^7] Specifically, Maranda claimed that it was important that there was an available domain name before they decided to register the name of the company.[^8] It is not disputed that on 3 August 2007, Manoj registered the domain name www.twgtea.com with the domain name host GANDI, with himself as its registrant and owner.
 
-15     Manoj did not tell Taha (in 2007) that he had registered the Domain Name in his personal name. Taha only found this out in April 2008, when Manoj informed him that he had registered another domain name, www.tahatea.com in Manoj’s own name. Taha was surprised that Manoj was able to register a domain name in Taha’s namesake. In the course of his online searches, Taha discovered Manoj had registered the Domain Name under his name. When questioned, Manoj assured Taha that the Domain Name was at all times TWG Tea’s property, he was holding it for TWG Tea and he would transfer the Domain Name to TWG Tea on its demand. Taha did not doubt Manoj as they then had a good working relationship.[\[note: 9\]](#Ftn_9)
+15     Manoj did not tell Taha (in 2007) that he had registered the Domain Name in his personal name. Taha only found this out in April 2008, when Manoj informed him that he had registered another domain name, www.tahatea.com in Manoj’s own name. Taha was surprised that Manoj was able to register a domain name in Taha’s namesake. In the course of his online searches, Taha discovered Manoj had registered the Domain Name under his name. When questioned, Manoj assured Taha that the Domain Name was at all times TWG Tea’s property, he was holding it for TWG Tea and he would transfer the Domain Name to TWG Tea on its demand. Taha did not doubt Manoj as they then had a good working relationship.[^9]
 
-16     Additionally, Manoj had on 10 July 2009 copied Maranda on an email stating that he had gone online and “renewed our domain www.twgtea.com for 3 years…”. On 9 April 2008, Manoj emailed Taha and Maranda, with the subject “tahatea.com” and stated that he had “registered for us as it was still open”.[\[note: 10\]](#Ftn_10) Taha did not take issue over this with Manoj, as Manoj had renewed other domain names (which were registered in his personal capacity) for TWG Tea. Manoj had also used TWG Tea’s corporate credit card to renew the Domain Name and other domain names in 2011. In fact, in the course of negotiations with Vision Straight General Trading LLC (“Vision Straight”) for it to acquire shares in TWG Tea, Manoj had signed a document dated 25 February 2010 declaring that the Domain Name would always remain the property of TWG Tea (“the Declaration Letter”).[\[note: 11\]](#Ftn_11)
+16     Additionally, Manoj had on 10 July 2009 copied Maranda on an email stating that he had gone online and “renewed our domain www.twgtea.com for 3 years…”. On 9 April 2008, Manoj emailed Taha and Maranda, with the subject “tahatea.com” and stated that he had “registered for us as it was still open”.[^10] Taha did not take issue over this with Manoj, as Manoj had renewed other domain names (which were registered in his personal capacity) for TWG Tea. Manoj had also used TWG Tea’s corporate credit card to renew the Domain Name and other domain names in 2011. In fact, in the course of negotiations with Vision Straight General Trading LLC (“Vision Straight”) for it to acquire shares in TWG Tea, Manoj had signed a document dated 25 February 2010 declaring that the Domain Name would always remain the property of TWG Tea (“the Declaration Letter”).[^11]
 
-17     TWG Tea claimed that Manoj holds the Domain Name on express trust for it. In a letter on 23 August 2016, TWG Tea’s solicitors demanded that Manoj transfer the Domain Name to TWG Tea. TWG claimed that as Manoj has failed to do so, he has acted in breach of trust and/or in breach of his duties as a trustee to return the trust property to TWG Tea. Alternatively, Manoj holds the Domain Name on constructive trust for TWG Tea. Further, Manoj was estopped from denying that the Domain Name at all material times belonged to TWG Tea.[\[note: 12\]](#Ftn_12)
+17     TWG Tea claimed that Manoj holds the Domain Name on express trust for it. In a letter on 23 August 2016, TWG Tea’s solicitors demanded that Manoj transfer the Domain Name to TWG Tea. TWG claimed that as Manoj has failed to do so, he has acted in breach of trust and/or in breach of his duties as a trustee to return the trust property to TWG Tea. Alternatively, Manoj holds the Domain Name on constructive trust for TWG Tea. Further, Manoj was estopped from denying that the Domain Name at all material times belonged to TWG Tea.[^12]
 
 ## Manoj’s defence and counterclaims
 
-18     Manoj claimed he was the owner of the Domain Name. When he registered the Domain Name, Wellness and TWG Tea were effectively his companies.[\[note: 13\]](#Ftn_13) Manoj pleaded that he gave TWG Tea shares to Taha, Maranda, Rith and Philippe (see \[5\] above) for nominal consideration, to give them a “sense of ownership” and to “motivate” them. As for the Declaration Letter, it was null and void as the proposed acquisition of shares by Vision Straight was never concluded. Further, from August 2007 to August 2017, Manoj paid for all the registration and renewal fees of the Domain Name.[\[note: 14\]](#Ftn_14)
+18     Manoj claimed he was the owner of the Domain Name. When he registered the Domain Name, Wellness and TWG Tea were effectively his companies.[^13] Manoj pleaded that he gave TWG Tea shares to Taha, Maranda, Rith and Philippe (see \[5\] above) for nominal consideration, to give them a “sense of ownership” and to “motivate” them. As for the Declaration Letter, it was null and void as the proposed acquisition of shares by Vision Straight was never concluded. Further, from August 2007 to August 2017, Manoj paid for all the registration and renewal fees of the Domain Name.[^14]
 
-19     Moreover, TWG Tea’s action was time-barred by virtue of ss 6(7) and 22(2) of the Limitation Act (Cap 163, 1996 Rev Ed). Alternatively, it had failed to bring the action within a reasonable time, and had acquiesced in the matter complained of, such that Manoj had acted to his prejudice. As such, TWG Tea was estopped and/or barred by the doctrine of laches from bringing the present action.[\[note: 15\]](#Ftn_15)
+19     Moreover, TWG Tea’s action was time-barred by virtue of ss 6(7) and 22(2) of the Limitation Act (Cap 163, 1996 Rev Ed). Alternatively, it had failed to bring the action within a reasonable time, and had acquiesced in the matter complained of, such that Manoj had acted to his prejudice. As such, TWG Tea was estopped and/or barred by the doctrine of laches from bringing the present action.[^15]
 
-20     Manoj counterclaimed that TWG Tea had used the Domain Name for its business and had been unjustly enriched. He also alleged that the counterclaim defendants had on various occasions published, caused to be published, or made false statements concerning his role as the founder of TWG Tea.[\[note: 16\]](#Ftn_16) These statements will be canvassed later. In essence, Manoj claimed that he was “the” founder of TWG Tea and “solely responsible” for conceptualising its business since its beginning as Wellness’ Tea Division and that Taha and Maranda were merely his employees. The counterclaim defendants’ statements were therefore contrary to Manoj’s role as the founder of TWG Tea.
+20     Manoj counterclaimed that TWG Tea had used the Domain Name for its business and had been unjustly enriched. He also alleged that the counterclaim defendants had on various occasions published, caused to be published, or made false statements concerning his role as the founder of TWG Tea.[^16] These statements will be canvassed later. In essence, Manoj claimed that he was “the” founder of TWG Tea and “solely responsible” for conceptualising its business since its beginning as Wellness’ Tea Division and that Taha and Maranda were merely his employees. The counterclaim defendants’ statements were therefore contrary to Manoj’s role as the founder of TWG Tea.
 
 ## Preliminary findings
 
 21     I first set out some preliminary findings in order to appreciate the background to TWG Tea’s existence and how Manoj and Taha came to work together, before determining whether Manoj, Taha and Maranda were “founders” or “co-founders” of TWG Tea, and whether there was a trust regarding the Domain Name.
 
-22     Wellness had a tea division since 2003 or 2004.[\[note: 17\]](#Ftn_17) Taha first met Manoj around November 2003 or 2004, and it was undisputed that they kept in touch to discuss Wellness’ tea venture in Singapore. Taha accepted that at that time, Wellness’ Tea Division had tea businesses it was already developing, such as “Art of Tea” and “Numi”, but he claimed that they were not “luxury” teas, the latter being a market that TWG Tea targeted. Taha was then employed at Mariage Frères and eventually left in April 2007.[\[note: 18\]](#Ftn_18)
+22     Wellness had a tea division since 2003 or 2004.[^17] Taha first met Manoj around November 2003 or 2004, and it was undisputed that they kept in touch to discuss Wellness’ tea venture in Singapore. Taha accepted that at that time, Wellness’ Tea Division had tea businesses it was already developing, such as “Art of Tea” and “Numi”, but he claimed that they were not “luxury” teas, the latter being a market that TWG Tea targeted. Taha was then employed at Mariage Frères and eventually left in April 2007.[^18]
 
-23     In early 2006, Manoj discussed with Taha about heading the expansion of Wellness’ tea business in the Middle East. The evidence supports Taha’s assertion that it was to be a partnership between Taha and Manoj and/or Wellness to incorporate the Tea and Spice Company (“T&S Co”). A handwritten note by Manoj in around March 2006 and his email to Taha and Maranda showed that they would build T&S Co “together”.[\[note: 19\]](#Ftn_19) In April 2006, Taha and Maranda signed a “Partner Employment Agreement” with Wellness. They would receive a 15% equity in T&S Co, which would be incorporated, with an option to purchase more equity subsequently. Manoj’s email of 30 November 2006 showed that Taha and Maranda would join Wellness “and begin a subsidiary” of which 15% would be owned by them. However, the Partner Employment Agreement was never carried into effect.­[\[note: 20\]](#Ftn_20)
+23     In early 2006, Manoj discussed with Taha about heading the expansion of Wellness’ tea business in the Middle East. The evidence supports Taha’s assertion that it was to be a partnership between Taha and Manoj and/or Wellness to incorporate the Tea and Spice Company (“T&S Co”). A handwritten note by Manoj in around March 2006 and his email to Taha and Maranda showed that they would build T&S Co “together”.[^19] In April 2006, Taha and Maranda signed a “Partner Employment Agreement” with Wellness. They would receive a 15% equity in T&S Co, which would be incorporated, with an option to purchase more equity subsequently. Manoj’s email of 30 November 2006 showed that Taha and Maranda would join Wellness “and begin a subsidiary” of which 15% would be owned by them. However, the Partner Employment Agreement was never carried into effect.­[^20]
 
-24     Subsequently in February 2007, Manoj offered Taha and Maranda employment with Wellness and informed them that they would be given a percentage of the business and would make their own decisions as “owner in the business” – it is not disputed that Taha and Maranda obtained shares in TWG Tea in June 2008.[\[note: 21\]](#Ftn_21) Taha and Maranda joined Wellness in June/July 2007, as Managing Director and Director of the Tea Division respectively, and working with Manoj to build the TWG brands and businesses. Taha also reported to Manoj who was then the Chairman and CEO of Wellness.[\[note: 22\]](#Ftn_22)
+24     Subsequently in February 2007, Manoj offered Taha and Maranda employment with Wellness and informed them that they would be given a percentage of the business and would make their own decisions as “owner in the business” – it is not disputed that Taha and Maranda obtained shares in TWG Tea in June 2008.[^21] Taha and Maranda joined Wellness in June/July 2007, as Managing Director and Director of the Tea Division respectively, and working with Manoj to build the TWG brands and businesses. Taha also reported to Manoj who was then the Chairman and CEO of Wellness.[^22]
 
 25     With the above background in mind, I turn to the issues in the parties’ respective claims.
 
@@ -80,11 +81,11 @@ Tort – Defamation – Malicious falsehood – Damage
 
 26     Taha agreed that Manoj was a founder of TWG Tea, but claimed that he and Maranda were also founders. The issue of whether Manoj was the sole founder of TWG Tea is relevant to his counterclaim, and which I will deal with first as it will also provide relevant context to the issue of the Domain Name. I find that, together with Manoj, Taha and Maranda were founders of TWG Tea.
 
-27     First, Manoj’s assertions that Wellness had been conceptualising and developing a luxury tea brand prior to August 2007 were irrelevant. Equally, Taha’s assertions that Wellness had no tea division to speak of, or whether it had previously invested in “luxury” teas, were unhelpful. In any event, even some of TWG Tea’s teas were launched in August 2007 before TWG Tea’s incorporation.[\[note: 23\]](#Ftn_23) The true question was whether TWG Tea _in this incarnation_ and when incorporated was a combined effort by Manoj, Taha and Maranda. I find that TWG Tea’s founding was a team effort that could not be solely attributed to Manoj, Taha, or Maranda.
+27     First, Manoj’s assertions that Wellness had been conceptualising and developing a luxury tea brand prior to August 2007 were irrelevant. Equally, Taha’s assertions that Wellness had no tea division to speak of, or whether it had previously invested in “luxury” teas, were unhelpful. In any event, even some of TWG Tea’s teas were launched in August 2007 before TWG Tea’s incorporation.[^23] The true question was whether TWG Tea _in this incarnation_ and when incorporated was a combined effort by Manoj, Taha and Maranda. I find that TWG Tea’s founding was a team effort that could not be solely attributed to Manoj, Taha, or Maranda.
 
-28     I accept that Wellness’ forays into the tea business via Art of Tea and Numi were not minor ventures. But this did not show the degree of contribution that went into bringing about the existence of TWG Tea. To the contrary, Manoj pleaded that he was specifically looking to “infuse a French flavour to Wellness’ Tea Division”.[\[note: 24\]](#Ftn_24) That Manoj was serious about recruiting Taha despite Wellness’ existing tea business, and despite the first attempt in 2006 (via the Partner Employment Agreement) having fell through, showed that Taha was essential to the enterprise.
+28     I accept that Wellness’ forays into the tea business via Art of Tea and Numi were not minor ventures. But this did not show the degree of contribution that went into bringing about the existence of TWG Tea. To the contrary, Manoj pleaded that he was specifically looking to “infuse a French flavour to Wellness’ Tea Division”.[^24] That Manoj was serious about recruiting Taha despite Wellness’ existing tea business, and despite the first attempt in 2006 (via the Partner Employment Agreement) having fell through, showed that Taha was essential to the enterprise.
 
-29     Second, the background that I have provided above (at \[22\]–\[24\]) showed that whilst Taha and Maranda were employed by Wellness, the intent was that they would work with Manoj to build up the tea business through a new entity (at that time to be called T&S Co) and in which they would obtain a shareholding. Although T&S Co did not materialise, in about February 2007, Manoj again discussed with Taha and Maranda for them to join Wellness. Pertinently, Manoj informed them (in his email of 21 February 2007) that “as before” they would be given a percentage of the business and that they would be making their own decisions as “owner in the business”. _This business was what Ms Koh (Manoj’s counsel) herself referred to as TWG Tea_ in which Taha and Maranda received shares in 2008.[\[note: 25\]](#Ftn_25) Hence Wellness’ tea business was intended to be developed as a partnership among Manoj and Taha (and Maranda), even during the time they discussed setting up T&S Co. Thus, when Taha and Maranda joined Wellness, they were assisting Manoj/Wellness to build up the Tea Division which, Ms Koh agreed, was spun-off as TWG Tea.[\[note: 26\]](#Ftn_26)
+29     Second, the background that I have provided above (at \[22\]–\[24\]) showed that whilst Taha and Maranda were employed by Wellness, the intent was that they would work with Manoj to build up the tea business through a new entity (at that time to be called T&S Co) and in which they would obtain a shareholding. Although T&S Co did not materialise, in about February 2007, Manoj again discussed with Taha and Maranda for them to join Wellness. Pertinently, Manoj informed them (in his email of 21 February 2007) that “as before” they would be given a percentage of the business and that they would be making their own decisions as “owner in the business”. _This business was what Ms Koh (Manoj’s counsel) herself referred to as TWG Tea_ in which Taha and Maranda received shares in 2008.[^25] Hence Wellness’ tea business was intended to be developed as a partnership among Manoj and Taha (and Maranda), even during the time they discussed setting up T&S Co. Thus, when Taha and Maranda joined Wellness, they were assisting Manoj/Wellness to build up the Tea Division which, Ms Koh agreed, was spun-off as TWG Tea.[^26]
 
 30     Indeed, when Taha and Maranda joined Wellness, their terms of employment dated 26 February 2007 stated that they would receive 15% (in total) of Wellness’ Tea Division. I replicate Clause 4(b):
 
@@ -96,39 +97,39 @@ b)    You will receive 15% shareholding of the Tea Division of \[Wellness\] 
 
 \[**Emphasis added**.\]
 
-Rith (who joined in November 2007) was also to be given 5% of the shareholding of “_the Tea Division of \[Wellness\]_”.[\[note: 27\]](#Ftn_27)
+Rith (who joined in November 2007) was also to be given 5% of the shareholding of “_the Tea Division of \[Wellness\]_”.[^27]
 
-31     As at February 2007, Wellness’ Tea Division was not a separate entity, and it is obvious from Clause 4(b) that Taha and Maranda were to eventually receive a share in a separate entity that was to be spun off from Wellness’ Tea Division.[\[note: 28\]](#Ftn_28) Hence the references to the shares to be given to Taha and Maranda in the “newly formed company”. As it transpired, Taha and Maranda (and Rith) never received shares in Wellness, but obtained shares of roughly the same amount in TWG Tea, which Ms Koh herself related back to their respective employment contracts with Wellness. Even if Taha and Maranda only received TWG Tea shares in June 2008, Clause 4(b) made plain that it was envisaged all along _prior_ to the forming of the new entity for Wellness’ Tea Division (_ie_, TWG Tea) that Taha and Maranda would own a stake in the new entity.
+31     As at February 2007, Wellness’ Tea Division was not a separate entity, and it is obvious from Clause 4(b) that Taha and Maranda were to eventually receive a share in a separate entity that was to be spun off from Wellness’ Tea Division.[^28] Hence the references to the shares to be given to Taha and Maranda in the “newly formed company”. As it transpired, Taha and Maranda (and Rith) never received shares in Wellness, but obtained shares of roughly the same amount in TWG Tea, which Ms Koh herself related back to their respective employment contracts with Wellness. Even if Taha and Maranda only received TWG Tea shares in June 2008, Clause 4(b) made plain that it was envisaged all along _prior_ to the forming of the new entity for Wellness’ Tea Division (_ie_, TWG Tea) that Taha and Maranda would own a stake in the new entity.
 
-32     I also reject Manoj’s assertion that the shares were given to “motivate” Taha and Maranda. Plainly they were given to adhere to the terms of employment. That a second allotment of shares on August 2008 was given was, according to Manoj’s pleadings, because “Taha requested…to allot additional shares to him, Maranda, Rith and Philippe so that their interest in \[TWG Tea\] would not be diluted.” The terms of Clause 4(b) supported Taha’s evidence that there was an intention to hold their shareholdings in proportion.[\[note: 29\]](#Ftn_29) All these also supported the tenor of the prior negotiations that the shares were not merely for the purposes of remuneration, but a stake in a business that they would help to found. I also accept Taha’s evidence that he and Manoj verbally agreed to rename Sunbreeze as TWG Tea and that Taha and Maranda would become shareholders of TWG Tea.[\[note: 30\]](#Ftn_30) Manoj gave no evidence to the contrary.
+32     I also reject Manoj’s assertion that the shares were given to “motivate” Taha and Maranda. Plainly they were given to adhere to the terms of employment. That a second allotment of shares on August 2008 was given was, according to Manoj’s pleadings, because “Taha requested…to allot additional shares to him, Maranda, Rith and Philippe so that their interest in \[TWG Tea\] would not be diluted.” The terms of Clause 4(b) supported Taha’s evidence that there was an intention to hold their shareholdings in proportion.[^29] All these also supported the tenor of the prior negotiations that the shares were not merely for the purposes of remuneration, but a stake in a business that they would help to found. I also accept Taha’s evidence that he and Manoj verbally agreed to rename Sunbreeze as TWG Tea and that Taha and Maranda would become shareholders of TWG Tea.[^30] Manoj gave no evidence to the contrary.
 
-33     Third, various articles published contemporaneously supported Taha and Maranda’s claim that they were also founders of TWG Tea. In _The Edge Singapore_ publication of September 2008, Taha was stated as having “\[set up\] TWG Tea in Singapore”.[\[note: 31\]](#Ftn_31) There is nothing to show that Manoj, who was then a director of TWG Tea and indirectly its majority shareholder, ever objected. This was even before Manoj had, as he claimed, unilaterally conferred the title of “co-founder” on Taha in early 2009. In _The Peak_ issue of April 2009[\[note: 32\]](#Ftn_32) in which only _Manoj_ was interviewed, Taha was described as “\[Manoj’s\] business partner” and _Manoj_ was described as “co-founder” of TWG Tea. Then, in a _Forbes_ article of 12 April 2009, Manoj stated that there was “no coincidence that Taha and \[he were\] together – doing TWG Tea and creating a revolution”.[\[note: 33\]](#Ftn_33) Likewise in an article in December 2009 for _Forbes Asia_, Manoj and Taha were photographed together with a caption describing them as “TWG’s founders”.[\[note: 34\]](#Ftn_34) Then, in an article in _August Man 2010_ where both Manoj and Taha were interviewed regarding TWG Tea, Taha mentioned that “he and his partner” were taking the _haute couture_ tea brand global.[\[note: 35\]](#Ftn_35) Indeed, in a draft press release for the launch of TWG Tea’s flagship store at ION Orchard, Manoj had approved the text to include phrases such as “founding partners \[Manoj\] and Taha” and “founding team consisting of Maranda … Rith … and Philippe”.[\[note: 36\]](#Ftn_36)
+33     Third, various articles published contemporaneously supported Taha and Maranda’s claim that they were also founders of TWG Tea. In _The Edge Singapore_ publication of September 2008, Taha was stated as having “\[set up\] TWG Tea in Singapore”.[^31] There is nothing to show that Manoj, who was then a director of TWG Tea and indirectly its majority shareholder, ever objected. This was even before Manoj had, as he claimed, unilaterally conferred the title of “co-founder” on Taha in early 2009. In _The Peak_ issue of April 2009[^32] in which only _Manoj_ was interviewed, Taha was described as “\[Manoj’s\] business partner” and _Manoj_ was described as “co-founder” of TWG Tea. Then, in a _Forbes_ article of 12 April 2009, Manoj stated that there was “no coincidence that Taha and \[he were\] together – doing TWG Tea and creating a revolution”.[^33] Likewise in an article in December 2009 for _Forbes Asia_, Manoj and Taha were photographed together with a caption describing them as “TWG’s founders”.[^34] Then, in an article in _August Man 2010_ where both Manoj and Taha were interviewed regarding TWG Tea, Taha mentioned that “he and his partner” were taking the _haute couture_ tea brand global.[^35] Indeed, in a draft press release for the launch of TWG Tea’s flagship store at ION Orchard, Manoj had approved the text to include phrases such as “founding partners \[Manoj\] and Taha” and “founding team consisting of Maranda … Rith … and Philippe”.[^36]
 
-34     Fourth, Maranda had on various occasions signed off her emails to Manoj as “co-founder” even when Manoj was its Chairman and CEO, and had represented herself to third parties as such (with Manoj copied on these emails).[\[note: 37\]](#Ftn_37) There is no evidence that Manoj had objected to Maranda’s use of the title.
+34     Fourth, Maranda had on various occasions signed off her emails to Manoj as “co-founder” even when Manoj was its Chairman and CEO, and had represented herself to third parties as such (with Manoj copied on these emails).[^37] There is no evidence that Manoj had objected to Maranda’s use of the title.
 
-35     Finally, by Manoj’s own case, he had conferred the title of “co-founder” on Taha in early 2009.[\[note: 38\]](#Ftn_38) Hence, from early 2009, Manoj had recognised Taha as a co-founder, at least in form, even if he asserts that Taha was not a co-founder in fact when TWG Tea was incorporated. Either way, Manoj cannot claim that Taha should not be described as a founder or co-founder in the publications which are the subject of Manoj’s counterclaim, and all of which occurred after Taha was conferred the “co-founder” title. The more relevant question is whether there was malicious falsehood in _excluding_ Manoj as a co-founder in the publications or implying that he was not one at all. I will revert to this when I deal with Manoj’s counterclaim.
+35     Finally, by Manoj’s own case, he had conferred the title of “co-founder” on Taha in early 2009.[^38] Hence, from early 2009, Manoj had recognised Taha as a co-founder, at least in form, even if he asserts that Taha was not a co-founder in fact when TWG Tea was incorporated. Either way, Manoj cannot claim that Taha should not be described as a founder or co-founder in the publications which are the subject of Manoj’s counterclaim, and all of which occurred after Taha was conferred the “co-founder” title. The more relevant question is whether there was malicious falsehood in _excluding_ Manoj as a co-founder in the publications or implying that he was not one at all. I will revert to this when I deal with Manoj’s counterclaim.
 
 36     I turn then to deal with some matters which may suggest that Taha and Maranda were not co-founders of TWG Tea.
 
-37     First, on 24 August 2008, Maranda sent Manoj a draft public relations article on TWG Tea, wherein she described Manoj, Taha and herself as co-founders.[\[note: 39\]](#Ftn_39) Manoj informed her to remove this title for all of them, so as to make Rith and Philippe “feel included”. Manoj did not object to Taha and Maranda being described as co-founders, but merely gave some other reason for excluding the title from _all three_ of them. Hence, that the title co-founder was removed in that article at Manoj’s request was at best neutral. Likewise, that in June 2009 Manoj asked Maranda to remove the description of “co-founder” from the titles of Manoj and Taha appearing in a captioned photograph for a TWG Tea press release was again at best neutral.[\[note: 40\]](#Ftn_40) Manoj did not give any reasons for so doing, and in any event this description was also removed from Manoj’s name. This did not therefore mean that Manoj was also not a founder.
+37     First, on 24 August 2008, Maranda sent Manoj a draft public relations article on TWG Tea, wherein she described Manoj, Taha and herself as co-founders.[^39] Manoj informed her to remove this title for all of them, so as to make Rith and Philippe “feel included”. Manoj did not object to Taha and Maranda being described as co-founders, but merely gave some other reason for excluding the title from _all three_ of them. Hence, that the title co-founder was removed in that article at Manoj’s request was at best neutral. Likewise, that in June 2009 Manoj asked Maranda to remove the description of “co-founder” from the titles of Manoj and Taha appearing in a captioned photograph for a TWG Tea press release was again at best neutral.[^40] Manoj did not give any reasons for so doing, and in any event this description was also removed from Manoj’s name. This did not therefore mean that Manoj was also not a founder.
 
-38     Next, undoubtedly, Taha sought to downplay Manoj’s role in TWG Tea by stating that he merely provided business contacts and investment money. This was untrue. Manoj introduced Taha to local partners, suppliers and potential customers.[\[note: 41\]](#Ftn_41) Taha agreed that Manoj was involved in the conceptualisation of TWG Tea’s logo and in naming the various teas for TWG Tea, he “did a lot” to create TWG Tea and he was not just an investor.[\[note: 42\]](#Ftn_42) But all these merely showed that Manoj was a founder of TWG Tea, not that he was the sole founder.
+38     Next, undoubtedly, Taha sought to downplay Manoj’s role in TWG Tea by stating that he merely provided business contacts and investment money. This was untrue. Manoj introduced Taha to local partners, suppliers and potential customers.[^41] Taha agreed that Manoj was involved in the conceptualisation of TWG Tea’s logo and in naming the various teas for TWG Tea, he “did a lot” to create TWG Tea and he was not just an investor.[^42] But all these merely showed that Manoj was a founder of TWG Tea, not that he was the sole founder.
 
 39     Finally, that TWG Tea’s employees had referred to Manoj as “boss” or terms to that effect did not in itself mean that Taha and Maranda were not also founders of TWG Tea. Manoj was after all its Chairman and CEO. That a person may be holding a key appointment in an entity did not therefore mean that he or she was also a founder of the entity, and _vice versa_, although the two may overlap. Manoj himself did not use the term “Founder” in his email correspondence, but consistently signed off as “Chairman” or “CEO”.
 
-40     In conclusion, I find that Taha and Maranda were also founders of TWG Tea. This is even if their employment at Wellness was only transferred to TWG Tea some six months after TWG Tea was incorporated. Taha and Maranda were already actively involved in conceptualising and creating blended teas whilst working for Wellness, and TWG Tea’s teas were being sold in the market before it was incorporated and at the time Taha and Maranda were working for Wellness.[\[note: 43\]](#Ftn_43) Having found that Manoj, Taha and Maranda were founders of TWG Tea, it did not matter for the purposes of Manoj’s counterclaim whether Rith or Philippe were also founders.
+40     In conclusion, I find that Taha and Maranda were also founders of TWG Tea. This is even if their employment at Wellness was only transferred to TWG Tea some six months after TWG Tea was incorporated. Taha and Maranda were already actively involved in conceptualising and creating blended teas whilst working for Wellness, and TWG Tea’s teas were being sold in the market before it was incorporated and at the time Taha and Maranda were working for Wellness.[^43] Having found that Manoj, Taha and Maranda were founders of TWG Tea, it did not matter for the purposes of Manoj’s counterclaim whether Rith or Philippe were also founders.
 
 ## Was an express trust created in relation to the Domain Name?
 
 41     The creation of an express trust requires the certainty of intention, subject matter and object. There must be proof that a trust was intended by the settlor and it can be created by an informal declaration or inferred from the acts of the settlor or the circumstances of the case. The trust must also define with sufficient certainty the trust assets and the kind of interest that the beneficiaries are to take in them. Finally, the beneficiaries must be identifiable. See _Guy Neale and others v Nine Squares Pty Ltd_ at \[51\]–\[53\], \[59\] and \[60\]. I find that the three certainties for the creation of an express trust were present in this case.
 
-42     I accept Taha’s evidence of what transpired at the 3 August 2007 meeting, regarding the setting up of a separate entity for the tea business and to name it “TWG Tea”. Even Manoj’s pleaded case was that he had decided to operate Wellness’ divisions as separate entities and he thus renamed Sunbreeze to TWG Tea for the tea business.[\[note: 44\]](#Ftn_44) Having decided on its name, Manoj, Taha and Maranda agreed that any trade marks, domain name or goodwill associated with the name “TWG Tea”, would be owned by TWG Tea. Taha stated that Manoj then left the meeting for a while and subsequently returned and informed Taha that he had registered the Domain Name. In court, Maranda confirmed Taha’s account of the event.[\[note: 45\]](#Ftn_45) I accept that Taha and Maranda did not know that Manoj had registered the Domain Name in his personal capacity and they only found out subsequently. I also accept Taha’s evidence that in the course of their conversation about www.tahatea.com in April 2008 and during the negotiations with Vision Straight in 2010, Manoj assured Taha that he was holding the Domain Name on trust for TWG Tea. Taha’s and Maranda’s evidence were not contradicted by Manoj or by any independent evidence.
+42     I accept Taha’s evidence of what transpired at the 3 August 2007 meeting, regarding the setting up of a separate entity for the tea business and to name it “TWG Tea”. Even Manoj’s pleaded case was that he had decided to operate Wellness’ divisions as separate entities and he thus renamed Sunbreeze to TWG Tea for the tea business.[^44] Having decided on its name, Manoj, Taha and Maranda agreed that any trade marks, domain name or goodwill associated with the name “TWG Tea”, would be owned by TWG Tea. Taha stated that Manoj then left the meeting for a while and subsequently returned and informed Taha that he had registered the Domain Name. In court, Maranda confirmed Taha’s account of the event.[^45] I accept that Taha and Maranda did not know that Manoj had registered the Domain Name in his personal capacity and they only found out subsequently. I also accept Taha’s evidence that in the course of their conversation about www.tahatea.com in April 2008 and during the negotiations with Vision Straight in 2010, Manoj assured Taha that he was holding the Domain Name on trust for TWG Tea. Taha’s and Maranda’s evidence were not contradicted by Manoj or by any independent evidence.
 
-43     The evidence showed that Manoj had regarded the Domain Name would and did belong to TWG Tea, consistent with the parties’ intention and agreement to treat it as such, and even after TWG Tea was formally incorporated. First, Manoj’s email on 10 July 2009 to _TWG Tea’s finance and operations managers_[\[note: 46\]](#Ftn_46), copying Maranda, stating that he had “renewed _our_ domain www.twgtea.com for 3 years” is significant \[_emphasis added_\].[\[note: 47\]](#Ftn_47) There was little reason for TWG Tea’s staff to be checking and dealing with this unless the prior understanding was that the Domain Name belonged to TWG Tea. It was also quite plain that Manoj referred to it as “our” Domain Name and not “his” Domain Name. Given the context of the email, “our” would have meant TWG Tea, since there would have been no reason to account to TWG Tea’s staff and update them on whether Manoj had renewed _his_ Domain Name.
+43     The evidence showed that Manoj had regarded the Domain Name would and did belong to TWG Tea, consistent with the parties’ intention and agreement to treat it as such, and even after TWG Tea was formally incorporated. First, Manoj’s email on 10 July 2009 to _TWG Tea’s finance and operations managers_[^46], copying Maranda, stating that he had “renewed _our_ domain www.twgtea.com for 3 years” is significant \[_emphasis added_\].[^47] There was little reason for TWG Tea’s staff to be checking and dealing with this unless the prior understanding was that the Domain Name belonged to TWG Tea. It was also quite plain that Manoj referred to it as “our” Domain Name and not “his” Domain Name. Given the context of the email, “our” would have meant TWG Tea, since there would have been no reason to account to TWG Tea’s staff and update them on whether Manoj had renewed _his_ Domain Name.
 
-44     Manoj also registered www.tahatea.com in April 2008 and informed Taha and Maranda that it was “registered for _us_ as it was still open” \[_emphasis added_\].[\[note: 48\]](#Ftn_48) In my view, this showed that Manoj was in the habit of registering domain names which he perceived to benefit TWG Tea. No doubt the emails concerning the renewal of the Domain Name and the registration of www.tahatea.com occurred after the alleged agreement in August 2007, but I find it cogent evidence to support that the parties treated the Domain Name as belonging to TWG Tea all along even if registered in Manoj’s name.
+44     Manoj also registered www.tahatea.com in April 2008 and informed Taha and Maranda that it was “registered for _us_ as it was still open” \[_emphasis added_\].[^48] In my view, this showed that Manoj was in the habit of registering domain names which he perceived to benefit TWG Tea. No doubt the emails concerning the renewal of the Domain Name and the registration of www.tahatea.com occurred after the alleged agreement in August 2007, but I find it cogent evidence to support that the parties treated the Domain Name as belonging to TWG Tea all along even if registered in Manoj’s name.
 
-45     Second, the Declaration Letter of 25 February 2010 signed by Manoj was probative.[\[note: 49\]](#Ftn_49) It stated:
+45     Second, the Declaration Letter of 25 February 2010 signed by Manoj was probative.[^49] It stated:
 
 Domain Name TWGTEA.com Declaration Letter
 
@@ -138,21 +139,21 @@ However the domain name shall **always remain** the property of TWG Tea Company 
 
 \[**Emphasis added**.\]
 
-46     I accept Taha’s evidence that Vision Straight’s representative (Ghassan) had asked about the Domain Name in Taha’s and Manoj’s presence and Manoj had confirmed and assured Ghassan that it was owned by TWG Tea and that he was merely holding it on trust for TWG Tea. Manoj then procured the preparation of the Declaration Letter and signed it.[\[note: 50\]](#Ftn_50) I find that Manoj would not have signed the Declaration Letter to state that the Domain Name will always remain the property of TWG Tea, even for the purposes of Vision Straight acquiring shares in the company, if it were not the case. Manoj did not assert that the statement he made was at that time untrue. In his Defence, Manoj merely claimed that the Declaration Letter was null and void because the negotiations fell through. While the document might have no legal effect _vis-à-vis_ Vision Straight and as the share acquisition deal had failed, the Declaration Letter was evidence that Manoj had declared the Domain Name to be held on trust for TWG Tea and had all along regarded it as TWG Tea’s property.[\[note: 51\]](#Ftn_51)
+46     I accept Taha’s evidence that Vision Straight’s representative (Ghassan) had asked about the Domain Name in Taha’s and Manoj’s presence and Manoj had confirmed and assured Ghassan that it was owned by TWG Tea and that he was merely holding it on trust for TWG Tea. Manoj then procured the preparation of the Declaration Letter and signed it.[^50] I find that Manoj would not have signed the Declaration Letter to state that the Domain Name will always remain the property of TWG Tea, even for the purposes of Vision Straight acquiring shares in the company, if it were not the case. Manoj did not assert that the statement he made was at that time untrue. In his Defence, Manoj merely claimed that the Declaration Letter was null and void because the negotiations fell through. While the document might have no legal effect _vis-à-vis_ Vision Straight and as the share acquisition deal had failed, the Declaration Letter was evidence that Manoj had declared the Domain Name to be held on trust for TWG Tea and had all along regarded it as TWG Tea’s property.[^51]
 
-47     At this juncture, I deal with two issues regarding the Declaration Letter. I accept Taha’s explanation that he did not ask Manoj to transfer the Domain Name to TWG Tea when he signed the Declaration Letter because Manoj was at that time the CEO, the Chairman and a director of TWG Tea. Further, he trusted Manoj that with the Declaration Letter he would eventually transfer the Domain Name to TWG Tea.[\[note: 52\]](#Ftn_52) Next, Ms Koh raised the issue that when a draft Sale and Purchase (“S&P”) Agreement dated June 2012 was prepared for the purposes of OSIM acquiring shares in TWG Tea, a term therein was that Manoj would transfer all his rights and title of the Domain Name to TWG Tea. This term would have been unnecessary if the Declaration Letter remained effective.[\[note: 53\]](#Ftn_53) However, the Declaration Letter served a different purpose and vis-à-vis Vision Straight. The term in the S&P Agreement was to impose an obligation on TWG Tea vis-à-vis OSIM, _ie_, that an actual transfer of the Domain Name to TWG Tea had to be effected in order for the sale and purchase of the shares by OSIM to be concluded or completed.
+47     At this juncture, I deal with two issues regarding the Declaration Letter. I accept Taha’s explanation that he did not ask Manoj to transfer the Domain Name to TWG Tea when he signed the Declaration Letter because Manoj was at that time the CEO, the Chairman and a director of TWG Tea. Further, he trusted Manoj that with the Declaration Letter he would eventually transfer the Domain Name to TWG Tea.[^52] Next, Ms Koh raised the issue that when a draft Sale and Purchase (“S&P”) Agreement dated June 2012 was prepared for the purposes of OSIM acquiring shares in TWG Tea, a term therein was that Manoj would transfer all his rights and title of the Domain Name to TWG Tea. This term would have been unnecessary if the Declaration Letter remained effective.[^53] However, the Declaration Letter served a different purpose and vis-à-vis Vision Straight. The term in the S&P Agreement was to impose an obligation on TWG Tea vis-à-vis OSIM, _ie_, that an actual transfer of the Domain Name to TWG Tea had to be effected in order for the sale and purchase of the shares by OSIM to be concluded or completed.
 
-48     Third, I accept Taha’s evidence that TWG Tea had invested significant time and resources into building the website at the Domain Name, anchoring all of TWG Tea’s day-to-day email activity, online presence, services and application and an online store. This was even during Manoj’s tenure as TWG Tea’s Chairman and CEO.[\[note: 54\]](#Ftn_54) TWG Tea had used the website only for its purposes and there was no evidence that it was used for Manoj’s personal purpose. If the Domain Name belonged to Manoj throughout, it is puzzling that he had never claimed against TWG Tea for using it, not even when he resigned from all his positions in TWG Tea in 2012. This further supported Taha’s claim that Manoj had agreed to the Domain Name and treated it as belonging to TWG Tea.
+48     Third, I accept Taha’s evidence that TWG Tea had invested significant time and resources into building the website at the Domain Name, anchoring all of TWG Tea’s day-to-day email activity, online presence, services and application and an online store. This was even during Manoj’s tenure as TWG Tea’s Chairman and CEO.[^54] TWG Tea had used the website only for its purposes and there was no evidence that it was used for Manoj’s personal purpose. If the Domain Name belonged to Manoj throughout, it is puzzling that he had never claimed against TWG Tea for using it, not even when he resigned from all his positions in TWG Tea in 2012. This further supported Taha’s claim that Manoj had agreed to the Domain Name and treated it as belonging to TWG Tea.
 
-49     Fourth, although the evidence on the payment for the renewal of the Domain Name was not conclusive, there was evidence that some of the payments were more likely than not made using TWG Tea’s money and thus further supported that Manoj had treated the Domain Name as belonging to TWG Tea. It is not disputed that TWG Tea’s corporate credit card issued to Manoj was used by him to renew the Domain Name on 28 October 2011 for the period from 3 August 2012 to 3 August 2013.[\[note: 55\]](#Ftn_55) Prior to this, the Domain Name was first renewed by Manoj on 10 July 2009 for a period of three years (from 3 August 2009 to 3 August 2012) for US$45.[\[note: 56\]](#Ftn_56) Ms Koh disputed that it was paid using the corporate credit card, as the statement showed payments to GANDI of US$114, US$120 and US$30 with transaction dates on 8 March 2010.[\[note: 57\]](#Ftn_57) Given that Manoj had emailed TWG Tea’s staff on this transaction stating that he had renewed “our” domain name (see \[43\] above), it is more likely than not that Manoj had used TWG Tea’s corporate credit card for this purpose.
+49     Fourth, although the evidence on the payment for the renewal of the Domain Name was not conclusive, there was evidence that some of the payments were more likely than not made using TWG Tea’s money and thus further supported that Manoj had treated the Domain Name as belonging to TWG Tea. It is not disputed that TWG Tea’s corporate credit card issued to Manoj was used by him to renew the Domain Name on 28 October 2011 for the period from 3 August 2012 to 3 August 2013.[^55] Prior to this, the Domain Name was first renewed by Manoj on 10 July 2009 for a period of three years (from 3 August 2009 to 3 August 2012) for US$45.[^56] Ms Koh disputed that it was paid using the corporate credit card, as the statement showed payments to GANDI of US$114, US$120 and US$30 with transaction dates on 8 March 2010.[^57] Given that Manoj had emailed TWG Tea’s staff on this transaction stating that he had renewed “our” domain name (see \[43\] above), it is more likely than not that Manoj had used TWG Tea’s corporate credit card for this purpose.
 
-50     As for the next renewal for the period from 3 August 2013 to 3 August 2015, it is disputed as to whether Manoj had paid for them personally. No doubt, when Manoj further renewed the Domain Name for the period from 3 August 2015 to 3 August 2017, he had already left TWG Tea and Taha accepts that TWG Tea would thus not have paid for these renewals.[\[note: 58\]](#Ftn_58) However, this did not detract from my finding that an express trust had already been created, based on the supporting evidence mentioned above. Subsequently, Manoj attempted to make payments on 15 November 2017 (for renewal of the Domain Name from 3 August 2017 onwards) but these were rejected by TWG Tea. As these were subsequent to TWG Tea’s solicitor’s letters to Manoj on the ownership of the Domain Name,[\[note: 59\]](#Ftn_59) I do not find these payments to be relevant.
+50     As for the next renewal for the period from 3 August 2013 to 3 August 2015, it is disputed as to whether Manoj had paid for them personally. No doubt, when Manoj further renewed the Domain Name for the period from 3 August 2015 to 3 August 2017, he had already left TWG Tea and Taha accepts that TWG Tea would thus not have paid for these renewals.[^58] However, this did not detract from my finding that an express trust had already been created, based on the supporting evidence mentioned above. Subsequently, Manoj attempted to make payments on 15 November 2017 (for renewal of the Domain Name from 3 August 2017 onwards) but these were rejected by TWG Tea. As these were subsequent to TWG Tea’s solicitor’s letters to Manoj on the ownership of the Domain Name,[^59] I do not find these payments to be relevant.
 
 51     In the round, what was significant was that aside from the payments to renew the Domain Name from 3 August 2015 onwards, Manoj produced no evidence that he had used his own monies to pay for the other renewals. To the contrary, there was at least one occasion where he had paid for the renewal of the Domain Name with TWG Tea’s corporate credit card (see \[49\] above).
 
-52     It would seem that Manoj’s main objection to there being an express trust created related to the fact that as of 3 August 2007, Manoj “was the owner of Sunbreeze and \[Wellness\]…and TWG Tea had not yet come into existence”.[\[note: 60\]](#Ftn_60) Although the specific legal import of the objection was unclear, it would seem that certainty of object for the creation of a trust was not present. I do not agree.
+52     It would seem that Manoj’s main objection to there being an express trust created related to the fact that as of 3 August 2007, Manoj “was the owner of Sunbreeze and \[Wellness\]…and TWG Tea had not yet come into existence”.[^60] Although the specific legal import of the objection was unclear, it would seem that certainty of object for the creation of a trust was not present. I do not agree.
 
-53     I find that the trust was established during the 3 August 2007 meeting, when Manoj, Taha and Maranda agreed to set up a new entity named TWG Tea for Wellness’ tea business and for the domain name associated with the same name to belong to it. The agreement and intention among them was that when such a domain name was registered, it would vest in TWG Tea when the company was incorporated and for its sole use and purpose. Indeed, TWG Tea was incorporated shortly after in October 2007, and based on the earlier evidence (see \[42\]–\[49\] above) Manoj had treated the Domain Name as belonging to TWG Tea. Taha’s evidence was that they _first_ discussed the creation and naming of TWG Tea _before_ Manoj went to his office and registered the Domain Name. As Maranda stated, they would not have registered the new entity as “TWG Tea” without first obtaining the domain name with the same name, as they would not name a company after an existing domain name which belonged to someone else.[\[note: 61\]](#Ftn_61) It is not disputed that a trust can be declared for a beneficiary which is a company: see _Goi Wang Firn (Ni Wanfen) and others v Chee Kow Ngee Sing (Pte) Ltd_ at \[27\].
+53     I find that the trust was established during the 3 August 2007 meeting, when Manoj, Taha and Maranda agreed to set up a new entity named TWG Tea for Wellness’ tea business and for the domain name associated with the same name to belong to it. The agreement and intention among them was that when such a domain name was registered, it would vest in TWG Tea when the company was incorporated and for its sole use and purpose. Indeed, TWG Tea was incorporated shortly after in October 2007, and based on the earlier evidence (see \[42\]–\[49\] above) Manoj had treated the Domain Name as belonging to TWG Tea. Taha’s evidence was that they _first_ discussed the creation and naming of TWG Tea _before_ Manoj went to his office and registered the Domain Name. As Maranda stated, they would not have registered the new entity as “TWG Tea” without first obtaining the domain name with the same name, as they would not name a company after an existing domain name which belonged to someone else.[^61] It is not disputed that a trust can be declared for a beneficiary which is a company: see _Goi Wang Firn (Ni Wanfen) and others v Chee Kow Ngee Sing (Pte) Ltd_ at \[27\].
 
 54     The beneficiary was thus certain and identifiable, _ie_, TWG Tea, and which subsequently came into being. That TWG Tea was embryonic at the creation of the trust was not, in my view, a bar to the formation of a trust. By analogy, it has been held that a trust can be created for an unborn entity, such as for an infant in the mother’s womb: see _Blackburn v Stables_ (1814) 35 ER 358. A trust for descendants, even those born subsequently, is valid even if their names cannot be listed when the trust is created: see Graham Virgo, _The Principles of Equity & Trusts_ (2nd Ed, 2016) (“Virgo, _The Principles of Equity & Trusts_”), at pp 102–103. In the present case, once TWG Tea was incorporated it would take of the interest and it was completely ascertainable as the trust’s beneficiary. The trust also did not offend the perpetuity rule. TWG Tea was incorporated shortly after the trust was created and the interest in the Domain Name would then vest in TWG Tea. In any event, when the Domain Name was registered in Manoj’s name, Manoj, Taha and Maranda were in Wellness’ employ. It could thus also be said that it was intended that Wellness would be the initial beneficiary with such interest to pass on to TWG Tea when it was formed.
 
@@ -162,9 +163,9 @@ However the domain name shall **always remain** the property of TWG Tea Company 
 
 57     Before concluding this section, I deal with two other issues raised by Ms Koh during cross-examination of TWG Tea’s witnesses.
 
-58     First, Ms Koh suggested that TWG Tea had never asked Manoj to transfer the Domain Name to it until 23 August 2016 because the Domain Name never belonged to it.[\[note: 62\]](#Ftn_62) I accept Taha’s explanation that the founders of TWG Tea had worked on the basis of trust. Moreover, up until September 2012, Manoj was still the CEO, Chairman and a director of TWG Tea, and even after he relinquished his positions in TWG Tea, he remains a substantial shareholder through his holding in Wellness. Further, if Manoj’s case were true and the parties had regarded the Domain Name belonged to Manoj, I would have expected that given its substantial online presence on the TWG Tea’s website with that Domain Name, TWG Tea would have taken early action to shift its online presence to another domain name of its own, the moment Manoj left in 2012. That TWG Tea did not do so showed that it had been operating under the agreement in August 2007 and subsequent assurances from Manoj that the Domain Name belonged to it.
+58     First, Ms Koh suggested that TWG Tea had never asked Manoj to transfer the Domain Name to it until 23 August 2016 because the Domain Name never belonged to it.[^62] I accept Taha’s explanation that the founders of TWG Tea had worked on the basis of trust. Moreover, up until September 2012, Manoj was still the CEO, Chairman and a director of TWG Tea, and even after he relinquished his positions in TWG Tea, he remains a substantial shareholder through his holding in Wellness. Further, if Manoj’s case were true and the parties had regarded the Domain Name belonged to Manoj, I would have expected that given its substantial online presence on the TWG Tea’s website with that Domain Name, TWG Tea would have taken early action to shift its online presence to another domain name of its own, the moment Manoj left in 2012. That TWG Tea did not do so showed that it had been operating under the agreement in August 2007 and subsequent assurances from Manoj that the Domain Name belonged to it.
 
-59     Second, Ms Koh had suggested that TWG Tea’s pleaded case did not make sense, in that Manoj had registered the Domain Name on 3 August 2007 after the discussion among Taha, Maranda and Manoj to name the brand “TWG Tea” and they then agreed to name the company TWG Tea only in October 2007.[\[note: 63\]](#Ftn_63) TWG’s pleaded case is that the tea _business_ and _brand_ TWG Tea were conceptualised in August 2007, but it was only in October 2007 that Wellness’ tea business moved to TWG Tea when the _entity_ TWG Tea was incorporated.[\[note: 64\]](#Ftn_64) I did not find the chronology of events illogical. The parties had agreed to name the _tea business and brand_ “TWG Tea” in August 2007, Manoj then registered a domain name with the same name, and they incorporated the company (with the agreed name) in October 2007.
+59     Second, Ms Koh had suggested that TWG Tea’s pleaded case did not make sense, in that Manoj had registered the Domain Name on 3 August 2007 after the discussion among Taha, Maranda and Manoj to name the brand “TWG Tea” and they then agreed to name the company TWG Tea only in October 2007.[^63] TWG’s pleaded case is that the tea _business_ and _brand_ TWG Tea were conceptualised in August 2007, but it was only in October 2007 that Wellness’ tea business moved to TWG Tea when the _entity_ TWG Tea was incorporated.[^64] I did not find the chronology of events illogical. The parties had agreed to name the _tea business and brand_ “TWG Tea” in August 2007, Manoj then registered a domain name with the same name, and they incorporated the company (with the agreed name) in October 2007.
 
 60     In light of my finding that there is an express trust of the Domain Name, it is unnecessary for me to determine whether a constructive trust should be imposed.
 
@@ -178,7 +179,7 @@ However the domain name shall **always remain** the property of TWG Tea Company 
 
 ### Whether TWG Tea’s claim is time barred
 
-64     Manoj pleaded that TWG Tea’s claim is time barred and relied on ss 6(7) and 22(2) of the Limitation Act. As Taha had express knowledge since April 2008 that Manoj had registered the Domain Name in his own name, the action had commenced well over six years since the right of action accrued.[\[note: 65\]](#Ftn_65)
+64     Manoj pleaded that TWG Tea’s claim is time barred and relied on ss 6(7) and 22(2) of the Limitation Act. As Taha had express knowledge since April 2008 that Manoj had registered the Domain Name in his own name, the action had commenced well over six years since the right of action accrued.[^65]
 
 65     I find no merit in this defence. I found Manoj to be a trustee of the Domain Name for TWG Tea. Section 22(2) of the Limitation Act was subject to s 22(1). Given that Manoj retains the legal ownership of the Domain Name, the exception under s 22(1)(_b_) applies, such that no period of limitation to the claim to recover the trust property from Manoj would apply.
 
@@ -200,17 +201,17 @@ Laches is a doctrine of equity. It is properly invoked where essentially there h
 
 70     As I had found TWG Tea’s case had succeeded on the facts (and on a balance of probabilities), it is thus amply clear that there was at _minimum_ a _prima facie_ case to answer. Manoj’s submission of no case to answer cannot succeed.
 
-71     Mr Yeo (counterclaim defendants’ counsel) argued that as I had dismissed Ms Koh’s submission of no case to answer, and had found a _prima facie_ case, I should therefore enter judgment for TWG Tea without any further consideration of Manoj’s closing submissions.[\[note: 66\]](#Ftn_66) However, while TWG Tea succeeded in proving its claim on the balance of probabilities, and this necessarily meant that it succeeded in proving a _prima facie_ case, the converse is not true. The mere fact that a defendant’s no case to answer submission is dismissed does not lead to the _automatic_ result that judgment is entered for the claimant. In order to overcome the submission of no case to answer, all that the claimant needs to show is that there is a _prima facie_ case. The court is still entitled to look at the totality of circumstances, the pleadings and the evidence to determine whether the claimant has truly succeeded on the _claim on a balance of probabilities_.
+71     Mr Yeo (counterclaim defendants’ counsel) argued that as I had dismissed Ms Koh’s submission of no case to answer, and had found a _prima facie_ case, I should therefore enter judgment for TWG Tea without any further consideration of Manoj’s closing submissions.[^66] However, while TWG Tea succeeded in proving its claim on the balance of probabilities, and this necessarily meant that it succeeded in proving a _prima facie_ case, the converse is not true. The mere fact that a defendant’s no case to answer submission is dismissed does not lead to the _automatic_ result that judgment is entered for the claimant. In order to overcome the submission of no case to answer, all that the claimant needs to show is that there is a _prima facie_ case. The court is still entitled to look at the totality of circumstances, the pleadings and the evidence to determine whether the claimant has truly succeeded on the _claim on a balance of probabilities_.
 
 72     Hence, a no case to answer submission may be dismissed and yet the claimant may not succeed in the claim. As the court held in _Lim Eng Hock Peter v Lin Jian Wei and another_ (“_Peter Lim_”) where the plaintiff sued the defendants for alleged defamatory comments, and in which the court found the defendants had shown a defence of qualified privilege, a “position of “no case to answer” does not diminish the usual burden remaining on the plaintiff to establish there was malice on a balance of probability on the totality of the evidence” (at \[210\]).
 
-73     Next, I deal with the effect of the no case to answer submission on Manoj’s counterclaim. Mr Yeo accepted that Manoj was entitled to rely on evidence adduced by TWG Tea[\[note: 67\]](#Ftn_67) – see also _Beckkett Pte Ltd v Deutsche Bank AG and another and another appeal_ at \[135\]. In _Peter Lim_, the court considered “all the admissible evidence…including the evidence that counsel from the defendants elicited from the plaintiff in the course of cross-examination” (at \[210\]). It should also be noted that the authenticity of the documentary evidence put forth to Taha and Maranda in cross-examination was not disputed or challenged by them. As such, Manoj is entitled to rely on TWG Tea’s evidence and the evidence put forth in court. I now turn to Manoj’s counterclaims.
+73     Next, I deal with the effect of the no case to answer submission on Manoj’s counterclaim. Mr Yeo accepted that Manoj was entitled to rely on evidence adduced by TWG Tea[^67] – see also _Beckkett Pte Ltd v Deutsche Bank AG and another and another appeal_ at \[135\]. In _Peter Lim_, the court considered “all the admissible evidence…including the evidence that counsel from the defendants elicited from the plaintiff in the course of cross-examination” (at \[210\]). It should also be noted that the authenticity of the documentary evidence put forth to Taha and Maranda in cross-examination was not disputed or challenged by them. As such, Manoj is entitled to rely on TWG Tea’s evidence and the evidence put forth in court. I now turn to Manoj’s counterclaims.
 
 ## Counterclaim of malicious falsehood
 
 74     Manoj’s counterclaim on malicious falsehood focused on seven statements made by the counterclaim defendants (“the Statements”), and alleged that they were false insofar as they concerned his role as TWG Tea’s founder.
 
-75     The first is a webpage on TWG Tea’s website (“the Website”), www.twgtea.com/the-twg-tea-story, titled “The Story of TWG Tea” which included the following relevant excerpts (“the Website Statement”):[\[note: 68\]](#Ftn_68)
+75     The first is a webpage on TWG Tea’s website (“the Website”), www.twgtea.com/the-twg-tea-story, titled “The Story of TWG Tea” which included the following relevant excerpts (“the Website Statement”):[^68]
 
 THE STORY OF TWG TEA
 
@@ -218,23 +219,23 @@ THE STORY OF TWG TEA
 
 \[**Emphasis added**.\]
 
-The Website had this material since June 2015 and the Website Statement was the first time TWG Tea had mentioned on its website who its founders were.[\[note: 69\]](#Ftn_69)
+The Website had this material since June 2015 and the Website Statement was the first time TWG Tea had mentioned on its website who its founders were.[^69]
 
-76     Manoj pleaded that the Website was “intended to provide complete information” about TWG Tea and “exhaustively set out the founder(s) of TWG Tea.” In its natural and ordinary meaning, the Website would be read to mean that the only founders were Taha, Maranda and Rith, and Manoj was not involved in founding TWG Tea’s business.[\[note: 70\]](#Ftn_70)
+76     Manoj pleaded that the Website was “intended to provide complete information” about TWG Tea and “exhaustively set out the founder(s) of TWG Tea.” In its natural and ordinary meaning, the Website would be read to mean that the only founders were Taha, Maranda and Rith, and Manoj was not involved in founding TWG Tea’s business.[^70]
 
 77     Next, Manoj pointed to five other statements which he asserted were false and published maliciously:
 
-(a)     In an interview with Maranda on or about 22 March 2017, Montecristo Magazine had published an article titled “TWG Tea Salon & Boutique Vancouver: True love’s sip” on its website. The article states, “ … Founded in 2008 in Singapore by Barnes and her husband Taha Bouqdib, TWG is known across the globe, especially in Asia…” (“the Montecristo article”).[\[note: 71\]](#Ftn_71)
+(a)     In an interview with Maranda on or about 22 March 2017, Montecristo Magazine had published an article titled “TWG Tea Salon & Boutique Vancouver: True love’s sip” on its website. The article states, “ … Founded in 2008 in Singapore by Barnes and her husband Taha Bouqdib, TWG is known across the globe, especially in Asia…” (“the Montecristo article”).[^71]
 
-(b)     In an interview with Taha and Maranda on or about 8 December 2016, Nomss.com (“Nomss”) published an article titled “TWG Tea Canada Vancouver Tea Salon and Boutique” on its website. In particular, the article stated, “… We started the evening mingling over tea infused cocktails with TWG Tea founders from Singapore – Taha Bouqdib … and Maranda Barnes …” (“the Nomss article”).[\[note: 72\]](#Ftn_72)
+(b)     In an interview with Taha and Maranda on or about 8 December 2016, Nomss.com (“Nomss”) published an article titled “TWG Tea Canada Vancouver Tea Salon and Boutique” on its website. In particular, the article stated, “… We started the evening mingling over tea infused cocktails with TWG Tea founders from Singapore – Taha Bouqdib … and Maranda Barnes …” (“the Nomss article”).[^72]
 
-(c)     Following an interview between Maranda and Niche magazine on or about 31 August 2015, Niche magazine published an article title “Urban Elegance: TWG Tea Brings It Back In Style” on its website. The caption to a photo of Taha and Maranda, which stated “TWG Tea founders Maranda Barnes and Taha Bouqdib” did not contain any mention of Manoj (“the Niche article”).[\[note: 73\]](#Ftn_73)
+(c)     Following an interview between Maranda and Niche magazine on or about 31 August 2015, Niche magazine published an article title “Urban Elegance: TWG Tea Brings It Back In Style” on its website. The caption to a photo of Taha and Maranda, which stated “TWG Tea founders Maranda Barnes and Taha Bouqdib” did not contain any mention of Manoj (“the Niche article”).[^73]
 
-(d)     In an interview with Taha and Maranda on or about 7 June 2018, Forbes published an article titled, “The World’s Finest Luxury Tea Has Just Landed In London” on its website. The article stated that TWG Tea was founded by “the co-foundering (_sic_) couple: Taha Bouqdib … and Maranda Barnes” without any mention of Manoj (“the Forbes article”).[\[note: 74\]](#Ftn_74)
+(d)     In an interview with Taha and Maranda on or about 7 June 2018, Forbes published an article titled, “The World’s Finest Luxury Tea Has Just Landed In London” on its website. The article stated that TWG Tea was founded by “the co-foundering (_sic_) couple: Taha Bouqdib … and Maranda Barnes” without any mention of Manoj (“the Forbes article”).[^74]
 
-(e)     Following an interview with Taha and Maranda on 25 June 2018, Vogue published an article titled “The Luxury Teahouse Revolutionising Our Tea-Drinking Habits” on its website. The article stated that TWG Tea was “co-founded in 2008 by Taha Bouqdib Maranda Barnes and partners” (“the Vogue article”).[\[note: 75\]](#Ftn_75)
+(e)     Following an interview with Taha and Maranda on 25 June 2018, Vogue published an article titled “The Luxury Teahouse Revolutionising Our Tea-Drinking Habits” on its website. The article stated that TWG Tea was “co-founded in 2008 by Taha Bouqdib Maranda Barnes and partners” (“the Vogue article”).[^75]
 
-78     Finally, Manoj took issue with the fact that at an event on 12 March 2017, Maranda had made statements to the effect that Taha and she had founded and developed TWG Tea and that there was another partner who merely acted as an investor (“the CRIB summit”).[\[note: 76\]](#Ftn_76)
+78     Finally, Manoj took issue with the fact that at an event on 12 March 2017, Maranda had made statements to the effect that Taha and she had founded and developed TWG Tea and that there was another partner who merely acted as an investor (“the CRIB summit”).[^76]
 
 ### Counterclaim defendants’ submission of abuse of process
 
@@ -242,15 +243,15 @@ The Website had this material since June 2015 and the Website Statement was the 
 
 80     Suit 187 was commenced in February 2014 by Wellness against, _inter alia_, OSIM and Taha for oppression, breach of contract, and conspiracy to injure; and by Manoj against OSIM, Taha and one Ron Sim for conspiracy to injure: see _The Wellness Group Pte Ltd and another v OSIM International Ltd and others and another suit_ (“_OSIM International_”). OSIM and Taha also counterclaimed against the plaintiffs for defamation. In Suit 545 of 2014 (“Suit 545”) commenced in May 2014, Wellness and Manoj brought a defamation claim against OSIM and its directors. Both suits were heard together and the claims and counterclaim were dismissed by the High Court. Wellness’ and Manoj’s appeal against the decision in Suit 187 was dismissed.
 
-81     Mr Yeo claimed that the following matters contained in Manoj’s counterclaim had been raised by him and Wellness in Suit 187: (a) TWG Tea was founded by Manoj only; (b) Manoj had allowed Taha to use the title “President and Co-Founder” from around 2009; and (c) Taha had publicly profiled himself as the sole founder of TWG Tea.[\[note: 77\]](#Ftn_77) Mr Yeo submitted that, in relation to these issues, the court in Suit 187 had “found, as a matter of fact” that Wellness had “failed to prove all of its allegations”.[\[note: 78\]](#Ftn_78)
+81     Mr Yeo claimed that the following matters contained in Manoj’s counterclaim had been raised by him and Wellness in Suit 187: (a) TWG Tea was founded by Manoj only; (b) Manoj had allowed Taha to use the title “President and Co-Founder” from around 2009; and (c) Taha had publicly profiled himself as the sole founder of TWG Tea.[^77] Mr Yeo submitted that, in relation to these issues, the court in Suit 187 had “found, as a matter of fact” that Wellness had “failed to prove all of its allegations”.[^78]
 
-82     Mr Yeo relied on _Schellenberg v British Broadcasting Corporation_ \[2000\] EMLR 296 (“_Schellenberg_”). The defendant broadcasting corporation (“BBC”) had applied to strike out Mr Schellenberg’s libel proceedings on the grounds that it was an abuse of process or it was frivolous and vexatious and had no real prospect of success. Mr Schellenberg had previously brought a libel action against the publishers of _The Guardian_ concerning his stewardship of an island (“the Guardian action”) but had settled that action. In _Schellenberg_, he brought libel proceedings against the BBC on a specific defamatory allegation made by a BBC journalist that Mr Schellenberg’s use of his powers to evict a family from the island portrayed him as being tyrannical. The claim in _Schellenberg_ was struck off, although there had been no determination of the Guardian action, and despite that these were two different publications and the BBC publication took place after the Guardian action.[\[note: 79\]](#Ftn_79)
+82     Mr Yeo relied on _Schellenberg v British Broadcasting Corporation_ \[2000\] EMLR 296 (“_Schellenberg_”). The defendant broadcasting corporation (“BBC”) had applied to strike out Mr Schellenberg’s libel proceedings on the grounds that it was an abuse of process or it was frivolous and vexatious and had no real prospect of success. Mr Schellenberg had previously brought a libel action against the publishers of _The Guardian_ concerning his stewardship of an island (“the Guardian action”) but had settled that action. In _Schellenberg_, he brought libel proceedings against the BBC on a specific defamatory allegation made by a BBC journalist that Mr Schellenberg’s use of his powers to evict a family from the island portrayed him as being tyrannical. The claim in _Schellenberg_ was struck off, although there had been no determination of the Guardian action, and despite that these were two different publications and the BBC publication took place after the Guardian action.[^79]
 
 83     To determine whether there has been an abuse of process, the court looks at all of the circumstances, including whether the later proceedings are in substance nothing more than a collateral attack upon the previous decision, whether there is fresh evidence that might warrant re-litigation, whether there are _bona fide_ reasons why an issue that ought to have been raised in the earlier action was not, and whether there are some other special circumstances that might justify allowing the case to proceed. The absence or existence of these factors is not decisive and the court remains guided by the balance to be found in the tension between the demands of ensuring that a litigant who has a genuine claim is allowed to press his case in court, and recognising that there is a point beyond which repeated litigation would be unduly oppressive. (See _Goh Nellie v Goh Lian Teck and others_ (“_Goh Nellie_”) at \[53\] and _Lim Geok Lin Andy v Yap Jin Meng Bryan and another appeal_ (“_Andy Lim_”) at \[38\] and \[42\]).
 
 84     I did not find Manoj’s counterclaim on malicious falsehood to be an abuse of process, and it would be unjust to preclude Manoj from bringing his counterclaim. Manoj’s claim in Suit 187 was for conspiracy to injure, essentially that OSIM, Taha and Ron Sim had sought to remove him as CEO of TWG Tea. Manoj’s counterclaim in the present suit is for malicious falsehood as to whether his role as founder has been misrepresented. In any event, Maranda was not even a party to Suit 187. For completeness, I should also state that Manoj’s claim in Suit 545 for defamation was against parties completely different from the present suit, and on a different matter.
 
-85     Moreover, the Statements were published well after Suit 187 was commenced in February 2014.[\[note: 80\]](#Ftn_80) They could not have constituted part of the earlier Suit 187, and any attempt to bring the claim on publications which did not then exist would have been premature. Mr Yeo’s reliance on _Schellenberg_ is thus misplaced. Although the BBC publications took place after the Guardian action, the allegations in the BBC action could be said to be a subset of the Guardian publications. As the court there observed (at 319) that “\[t\]hose meanings are, as will be apparent from a comparison, very close to the one complained of in this action”. This was plainly not the case in the present suit. Hence I fail to see how the counterclaim defendants were being vexed twice over in respect of the same issues.
+85     Moreover, the Statements were published well after Suit 187 was commenced in February 2014.[^80] They could not have constituted part of the earlier Suit 187, and any attempt to bring the claim on publications which did not then exist would have been premature. Mr Yeo’s reliance on _Schellenberg_ is thus misplaced. Although the BBC publications took place after the Guardian action, the allegations in the BBC action could be said to be a subset of the Guardian publications. As the court there observed (at 319) that “\[t\]hose meanings are, as will be apparent from a comparison, very close to the one complained of in this action”. This was plainly not the case in the present suit. Hence I fail to see how the counterclaim defendants were being vexed twice over in respect of the same issues.
 
 86     Finally, Mr Yeo has mis-cited the findings in _OSIM International_, where the court dismissed Wellness’ allegations at \[178\]. The claims brought in that suit were different and the court’s dismissal of the claims there would not preclude Manoj from bringing his present counterclaim. Pertinently, the court in _OSIM International_ had not made findings on the allegations stated in Manoj’s claims in Suit 187 in the way that Mr Yeo had alleged (at \[81\] above). There was nothing in the court’s findings in _OSIM International_ concerning the allegations raised by Manoj that purportedly touched on the current proceedings. Manoj’s counterclaim on malicious falsehood cannot be said to be a collateral attack against a previous decision, when no previous decision on this issue had been made.
 
@@ -262,9 +263,9 @@ The Website had this material since June 2015 and the Website Statement was the 
 
 ### The words published must be false
 
-89     First, the words must be false, and they must be objectively false as compared to some externally verifiable fact. As I had earlier found, Manoj was not the sole founder of TWG Tea, but was a founder with Taha and Maranda. Taha admitted that if he said that _only_ he and Maranda were the founding partners of TWG Tea, this would be untrue as Manoj was also a founder.[\[note: 81\]](#Ftn_81) Manoj’s counterclaim should be viewed against this.
+89     First, the words must be false, and they must be objectively false as compared to some externally verifiable fact. As I had earlier found, Manoj was not the sole founder of TWG Tea, but was a founder with Taha and Maranda. Taha admitted that if he said that _only_ he and Maranda were the founding partners of TWG Tea, this would be untrue as Manoj was also a founder.[^81] Manoj’s counterclaim should be viewed against this.
 
-90     Next, the defendant must have published to third parties the false statement. Mr Yeo submitted that aside from the statements made at the CRIB summit, the other statements appeared on the internet. Based on _Koh Sin Chong Freddie v Chan Cheng Wah Bernard and others and another appeal_ (“_Freddie Koh_”) at \[43\], there was no presumption of publication merely because the statements were placed online.[\[note: 82\]](#Ftn_82) However, the Court of Appeal stated (at \[43\]) that there was no presumption in law that _substantial_ publication has taken place where the defamatory statements are placed on a generally accessible Internet website. That case concerned proving the _extent_ of publication for the purpose of awarding damages in a defamation action.
+90     Next, the defendant must have published to third parties the false statement. Mr Yeo submitted that aside from the statements made at the CRIB summit, the other statements appeared on the internet. Based on _Koh Sin Chong Freddie v Chan Cheng Wah Bernard and others and another appeal_ (“_Freddie Koh_”) at \[43\], there was no presumption of publication merely because the statements were placed online.[^82] However, the Court of Appeal stated (at \[43\]) that there was no presumption in law that _substantial_ publication has taken place where the defamatory statements are placed on a generally accessible Internet website. That case concerned proving the _extent_ of publication for the purpose of awarding damages in a defamation action.
 
 91     I accept that the mere fact that a webpage is accessible does not by itself constitute publication. That said, the extent of publication can be proved either by direct proof or by establishing a “platform of facts” from which the court can properly _infer_ that substantial publication has taken place (_Freddie Koh_ at \[43\]). In _The Law of Defamation and the Internet_ (M Collins) (3rd Ed, 2010 Ed) (“_The Law of Defamation and the Internet_”), the learned author stated as follows, at paras 5.04–5.09:
 
@@ -280,19 +281,19 @@ Inferences of publication may be drawn in appropriate cases in the absence of di
 
 I will return to this issue when I consider the Statements proper.
 
-92     Mr Yeo then submitted that the counterclaim defendants had not caused to be published the Statements because (aside from the Website Statement and the CRIB summit statement) TWG Tea, Taha, and Maranda were not the authors of the online articles.[\[note: 83\]](#Ftn_83) I disagree and find otherwise.
+92     Mr Yeo then submitted that the counterclaim defendants had not caused to be published the Statements because (aside from the Website Statement and the CRIB summit statement) TWG Tea, Taha, and Maranda were not the authors of the online articles.[^83] I disagree and find otherwise.
 
-93     It was Taha’s and Maranda’s evidence that TWG Tea engaged a public relations agency (“PR agency”) who liaised with the general media, and the PR agency would be sent information about TWG Tea by way of a press release or fact sheet and a TWG Tea information booklet. This enabled journalists to have all the relevant information about TWG Tea’s history and its founders.[\[note: 84\]](#Ftn_84) Notably, the press releases supplied to the PR agencies were cleared with TWG Tea first.[\[note: 85\]](#Ftn_85) Maranda was at all material times the Director of Corporate Communications and Business Development at TWG Tea. She confirmed that all press releases were prepared under her instructions, and she would approve all the information and materials before they were released.[\[note: 86\]](#Ftn_86) On at least one occasion, TWG Tea had informed the PR agency on how to word and finalise the press release.[\[note: 87\]](#Ftn_87) Maranda confirmed that the press could only publish based on materials provided by TWG Tea, and where a PR agency sought to deviate from the information provided to it, it would “definitely” have to get TWG Tea’s permission.[\[note: 88\]](#Ftn_88)
+93     It was Taha’s and Maranda’s evidence that TWG Tea engaged a public relations agency (“PR agency”) who liaised with the general media, and the PR agency would be sent information about TWG Tea by way of a press release or fact sheet and a TWG Tea information booklet. This enabled journalists to have all the relevant information about TWG Tea’s history and its founders.[^84] Notably, the press releases supplied to the PR agencies were cleared with TWG Tea first.[^85] Maranda was at all material times the Director of Corporate Communications and Business Development at TWG Tea. She confirmed that all press releases were prepared under her instructions, and she would approve all the information and materials before they were released.[^86] On at least one occasion, TWG Tea had informed the PR agency on how to word and finalise the press release.[^87] Maranda confirmed that the press could only publish based on materials provided by TWG Tea, and where a PR agency sought to deviate from the information provided to it, it would “definitely” have to get TWG Tea’s permission.[^88]
 
-94     It was thus obvious that the Statements were authorised and caused to be published by Taha and Maranda; all the more so if they were interviewed for the various articles (mentioned at \[77\] above). I reject Mr Yeo’s submission that because an information booklet containing “the unvarnished background information” about Manoj was also provided together with the press release, the counterclaim defendants had not caused false information to be published.[\[note: 89\]](#Ftn_89) As Maranda candidly admitted, it was their intention for the press to publish what was contained in _the press release which she would scope_.[\[note: 90\]](#Ftn_90) In any event, should the press decide to omit Manoj’s name (according to the press release instead of the information booklet), no effort was made to correct them.
+94     It was thus obvious that the Statements were authorised and caused to be published by Taha and Maranda; all the more so if they were interviewed for the various articles (mentioned at \[77\] above). I reject Mr Yeo’s submission that because an information booklet containing “the unvarnished background information” about Manoj was also provided together with the press release, the counterclaim defendants had not caused false information to be published.[^89] As Maranda candidly admitted, it was their intention for the press to publish what was contained in _the press release which she would scope_.[^90] In any event, should the press decide to omit Manoj’s name (according to the press release instead of the information booklet), no effort was made to correct them.
 
 ### Malice
 
 95     Malice is made out if the defendant, in publishing the false statement, was motivated by a dominant and improper intention to injure the claimant, or where the defendant did not have an honest belief that the statement was true or had acted with reckless disregard as to the truth of the statement: see _Lee Tat Development_ at \[182\]. There was clear evidence that prior to the Statements, Taha and Maranda were aware that any public statements contrary to the fact that they (including Manoj) were all founders would have been false.
 
-96     As I had alluded to earlier (at \[37\]), as early as August 2008 in an email exchange between Manoj and Maranda concerning a draft public relations article, Maranda accepted Manoj’s comments that they should “omit” the co-founder title for the _three of them_ so as to make Rith and Philippe feel included.[\[note: 91\]](#Ftn_91) Pertinently, Manoj indicated that this point would “anyway be present in conversation when the stories are told”. As Maranda candidly admitted, if it were up to her to decide what to publish on the Website, she would have “either remove\[d\] everything or \[she\] would add Manoj’s name as a co-founder”.[\[note: 92\]](#Ftn_92) Hence Maranda knew that any statement implying that only she and Taha were the founders of TWG Tea would be untrue and would have been made without an honest belief in its truth, or at the very least in reckless disregard of the truth.
+96     As I had alluded to earlier (at \[37\]), as early as August 2008 in an email exchange between Manoj and Maranda concerning a draft public relations article, Maranda accepted Manoj’s comments that they should “omit” the co-founder title for the _three of them_ so as to make Rith and Philippe feel included.[^91] Pertinently, Manoj indicated that this point would “anyway be present in conversation when the stories are told”. As Maranda candidly admitted, if it were up to her to decide what to publish on the Website, she would have “either remove\[d\] everything or \[she\] would add Manoj’s name as a co-founder”.[^92] Hence Maranda knew that any statement implying that only she and Taha were the founders of TWG Tea would be untrue and would have been made without an honest belief in its truth, or at the very least in reckless disregard of the truth.
 
-97     That Taha was equally aware was illustrated by an earlier episode concerning an article published in the Bangkok Post on 9 August 2012 (“the Bangkok Post article”). The material portion read:[\[note: 93\]](#Ftn_93)
+97     That Taha was equally aware was illustrated by an earlier episode concerning an article published in the Bangkok Post on 9 August 2012 (“the Bangkok Post article”). The material portion read:[^93]
 
 Avid tea drinkers Taha Bouqdib and Maranda Barnes don’t just make a handsome married couple, their common passion for tea played a determining role in their decision to set up TWG (The Wellness Group) Tea – **a company they started in Singapore** five years ago…
 
@@ -302,7 +303,7 @@ Bouqdib … and Barnes have also **brought on board fellow founding partners Man
 
 \[**Emphases added**.\]
 
-98     On 14 August 2012 Manoj sent a peeved email about the article to Taha stating that “I am not happy as there is so much untruth…Please can you explain…as to the facts and who said this … as it implies that you founded the company with just Maranda and yourself and then decided to bring me on?”[\[note: 94\]](#Ftn_94) Taha’s reply on the same date and in follow up emails included the following:[\[note: 95\]](#Ftn_95)
+98     On 14 August 2012 Manoj sent a peeved email about the article to Taha stating that “I am not happy as there is so much untruth…Please can you explain…as to the facts and who said this … as it implies that you founded the company with just Maranda and yourself and then decided to bring me on?”[^94] Taha’s reply on the same date and in follow up emails included the following:[^95]
 
 …Manoj, I am always doing the best for the company and we never said to the journalist that we bring you to the company after, we always said that we found twg tea all together … I never said that to this journalist or any others person in this world.
 
@@ -312,7 +313,7 @@ Bouqdib … and Barnes have also **brought on board fellow founding partners Man
 
 99     Taha’s strenuous efforts to defend himself spoke to the truth of the matter. He was well aware that Manoj had co-founded TWG Tea and that statements to the contrary would have been false. Taha admitted that if he had said that only he and Maranda were founding partners, that would have been untrue. He was thus cognisant that Manoj should be given due attribution in the context of TWG Tea’s founding.
 
-100    However, on 25 December 2013, Taha gave an interview with AsiaOne titled “Brewing a tea empire from love at first sight”.[\[note: 96\]](#Ftn_96) The article had obscured Manoj’s role in TWG Tea’s founding altogether in favour of Taha’s role. There were phrases that implied that Taha and Maranda were the only founders, such as “\[b\]efore he founded TWG Tea … \[Taha\] decided to strike out on his own…the couple had packed up their lives and moved here and began working round the clock to start up their business.” Manoj was not mentioned at all. The only possible reference was “\[w\]ith $10 million in capital from their own \[Taha and Maranda’s\] pockets and a group of investors…” Taha claimed that he did not mention Manoj because he was not asked, but he volunteered Maranda’s name nevertheless.[\[note: 97\]](#Ftn_97)
+100    However, on 25 December 2013, Taha gave an interview with AsiaOne titled “Brewing a tea empire from love at first sight”.[^96] The article had obscured Manoj’s role in TWG Tea’s founding altogether in favour of Taha’s role. There were phrases that implied that Taha and Maranda were the only founders, such as “\[b\]efore he founded TWG Tea … \[Taha\] decided to strike out on his own…the couple had packed up their lives and moved here and began working round the clock to start up their business.” Manoj was not mentioned at all. The only possible reference was “\[w\]ith $10 million in capital from their own \[Taha and Maranda’s\] pockets and a group of investors…” Taha claimed that he did not mention Manoj because he was not asked, but he volunteered Maranda’s name nevertheless.[^97]
 
 101    Based on the foregoing, it was clear that by this time, and after Manoj had left TWG Tea, Taha was attempting to place himself and Maranda front and centre in the company’s founding. Taha clearly knew that any of his statements that implied that only he and Maranda were the founders and that Manoj was not a founder would have been false. He would not have had an honest belief in those statements and at the very least they were made in reckless disregard of their truth.
 
@@ -336,35 +337,35 @@ Bouqdib … and Barnes have also **brought on board fellow founding partners Man
 
 (f)     The ordinary reasonable reader will take note of the circumstances and manner of the publication.
 
-105    As to the principle stated in \[104(d)\] above, I note that in the tort of malicious falsehood, there is some authority in the English Court of Appeal that suggests that a claimant can avail of more than one of the natural and ordinary meanings: see _Ajinomoto Sweeteners Europe SAS v Asda Stores Ltd_ at \[35\].[\[note: 98\]](#Ftn_98) However, it was unnecessary to make that determination here as it was clear to me that there were singular interpretations available.
+105    As to the principle stated in \[104(d)\] above, I note that in the tort of malicious falsehood, there is some authority in the English Court of Appeal that suggests that a claimant can avail of more than one of the natural and ordinary meanings: see _Ajinomoto Sweeteners Europe SAS v Asda Stores Ltd_ at \[35\].[^98] However, it was unnecessary to make that determination here as it was clear to me that there were singular interpretations available.
 
 #### The Website Statement
 
-106    The Website Statement was published on TWG Tea’s website and continues to be so published.[\[note: 99\]](#Ftn_99)
+106    The Website Statement was published on TWG Tea’s website and continues to be so published.[^99]
 
-107    First, the Website Statement was clearly false. The natural and ordinary meaning of the statement was that Taha, Maranda, and Rith were the founders of TWG Tea. As a matter of context to the “TWG Tea story”, it was plainly meant to be an exhaustive statement of who the _only_ founders were. Manoj’s exclusion from the same could only be read to mean that he was _not_ a founder. Taha readily agreed that this was the case, and that the Website Statement was not accurate even when it was first published in 2015. He also admitted that the words in the Website Statement meant that there were only three founders, namely Taha, Maranda and Rith, and that an ordinary person reading that statement (without knowing the background of TWG Tea) would have assumed the same.[\[note: 100\]](#Ftn_100)
+107    First, the Website Statement was clearly false. The natural and ordinary meaning of the statement was that Taha, Maranda, and Rith were the founders of TWG Tea. As a matter of context to the “TWG Tea story”, it was plainly meant to be an exhaustive statement of who the _only_ founders were. Manoj’s exclusion from the same could only be read to mean that he was _not_ a founder. Taha readily agreed that this was the case, and that the Website Statement was not accurate even when it was first published in 2015. He also admitted that the words in the Website Statement meant that there were only three founders, namely Taha, Maranda and Rith, and that an ordinary person reading that statement (without knowing the background of TWG Tea) would have assumed the same.[^100]
 
-108    Second, there was malice on Taha’s part when he made the decision for the Website Statement to be put up (see also \[95\]–\[101\] above). Taha stated that he _made the decision_ to omit Manoj’s name as a founder because the inclusion of Manoj would hurt TWG Tea’s reputation as Manoj had brought a lawsuit against it in February 2014.[\[note: 101\]](#Ftn_101)
+108    Second, there was malice on Taha’s part when he made the decision for the Website Statement to be put up (see also \[95\]–\[101\] above). Taha stated that he _made the decision_ to omit Manoj’s name as a founder because the inclusion of Manoj would hurt TWG Tea’s reputation as Manoj had brought a lawsuit against it in February 2014.[^101]
 
-109    As for Maranda, she admitted to making the Website Statement and would have known that it was false. When Manoj’s counsel wrote to her personally on 23 June 2017 to inform her of the website publication, Maranda stated that it was made on TWG Tea’s behalf and not in her personal capacity.[\[note: 102\]](#Ftn_102) She nevertheless accepted that the Website Statement did not accurately portray the founders of TWG Tea.[\[note: 103\]](#Ftn_103) Hence I also find that she had made the Website Statement without any honest belief that it was true or at the very least had acted with reckless disregard as to the truth of the statement (see also \[95\]–\[96\] above).
+109    As for Maranda, she admitted to making the Website Statement and would have known that it was false. When Manoj’s counsel wrote to her personally on 23 June 2017 to inform her of the website publication, Maranda stated that it was made on TWG Tea’s behalf and not in her personal capacity.[^102] She nevertheless accepted that the Website Statement did not accurately portray the founders of TWG Tea.[^103] Hence I also find that she had made the Website Statement without any honest belief that it was true or at the very least had acted with reckless disregard as to the truth of the statement (see also \[95\]–\[96\] above).
 
-110    Further, Maranda was on the management team who had made the decision to put up the Website Statement in 2015.[\[note: 104\]](#Ftn_104) Thus, she and Taha had authorised TWG Tea to publish the false statement regardless of her personal views on it. As such, both Maranda and Taha would be personally liable for the publication of the false statements.
+110    Further, Maranda was on the management team who had made the decision to put up the Website Statement in 2015.[^104] Thus, she and Taha had authorised TWG Tea to publish the false statement regardless of her personal views on it. As such, both Maranda and Taha would be personally liable for the publication of the false statements.
 
 111    As to TWG Tea, Maranda’s lawyers (who also represent Taha and TWG Tea) had stated that the statements were made on TWG Tea’s behalf. Given that Taha was its CEO and President while Maranda was its Director of Communications and they were part of the management team that decided to publish the Website Statement, their knowledge would be attributed to TWG Tea: see _The Dolphina_ at \[205\], \[216\], \[235\], \[237\], \[239\], \[255\] and \[256\]; and _Ho Kang Peng v Scintronix Corp Ltd (formerly known as TTL Holdings Ltd_) at \[48\]. In _Webster v British Gas Services Ltd_ \[2003\] EWHC 1188 at \[30\], the English High Court held that a corporation may be vicariously liable for the malicious falsehood of an employee, where the employee is found to be responsible for the words complained of and had the state of mind required to constitute malice.
 
-112    I turn then to whether the Website Statement was published to third parties. The court may draw an inference of publication, for instance in the case of generally accessible web pages (see \[91\] above). Taha stated that if TWG Tea put up the names of the founders on the Website as per the Website Statement, “many people can contact them”.[\[note: 105\]](#Ftn_105) Mr Yeo himself adduced Taha’s testimony in Suit 187, where Taha stated that “when people then Google, they will find \[Manoj\], they will associate with \[TWG Tea\], then they would find this lawsuit \[_ie_, Suit 187\]. It’s bad press for us. It is very bad for our brand, because he disclosed that to the media”. Taha also then stated, “if you just put “Manoj Murjani TWG Tea”…the first articles will be the lawsuit”.[\[note: 106\]](#Ftn_106) Taha’s and Maranda’s evidence showed that the Domain Name and the Website was very important to TWG Tea’s business, that a significant number of the public accessed the Website and that some of them would also see the Website Statement and may contact the founders mentioned on it.
+112    I turn then to whether the Website Statement was published to third parties. The court may draw an inference of publication, for instance in the case of generally accessible web pages (see \[91\] above). Taha stated that if TWG Tea put up the names of the founders on the Website as per the Website Statement, “many people can contact them”.[^105] Mr Yeo himself adduced Taha’s testimony in Suit 187, where Taha stated that “when people then Google, they will find \[Manoj\], they will associate with \[TWG Tea\], then they would find this lawsuit \[_ie_, Suit 187\]. It’s bad press for us. It is very bad for our brand, because he disclosed that to the media”. Taha also then stated, “if you just put “Manoj Murjani TWG Tea”…the first articles will be the lawsuit”.[^106] Taha’s and Maranda’s evidence showed that the Domain Name and the Website was very important to TWG Tea’s business, that a significant number of the public accessed the Website and that some of them would also see the Website Statement and may contact the founders mentioned on it.
 
-113    The Website and Website Statement were also generally accessible to Internet users without charge. As Maranda stated, anyone who wished to contact TWG Tea for marketing and publicity purposes would be able to enter the Website to find information on TWG Tea.[\[note: 107\]](#Ftn_107) The Website also hosts TWG Tea’s online shop, and is used to conduct its business such as providing information, marketing and offering for sale TWG Tea’s products.[\[note: 108\]](#Ftn_108) As Taha stated, any disruption to the Domain Name would “adversely and irreversibly impact the day to day business of TWG Tea” and if the public could not obtain information from the Website because it was down, the damage to TWG Tea’s business and reputation would be “significant”.[\[note: 109\]](#Ftn_109) Maranda also stated that the Website has a “significant team to handle matters relating to \[their\] eCommerce business”.[\[note: 110\]](#Ftn_110) The inference from Taha’s and Maranda’s evidence is that the Website generates significant income from online customers, and the dominant purpose of the Website is for widespread commerciality. Further, by Taha’s evidence, the “brand” includes TWG Tea’s founding story as published on the Website Statement. As such, I would infer publication to third persons of the Website Statement even in the absence of direct evidence (of the number of persons who had seen the Website Statement) and find that the Website Statement would have reached third parties.
+113    The Website and Website Statement were also generally accessible to Internet users without charge. As Maranda stated, anyone who wished to contact TWG Tea for marketing and publicity purposes would be able to enter the Website to find information on TWG Tea.[^107] The Website also hosts TWG Tea’s online shop, and is used to conduct its business such as providing information, marketing and offering for sale TWG Tea’s products.[^108] As Taha stated, any disruption to the Domain Name would “adversely and irreversibly impact the day to day business of TWG Tea” and if the public could not obtain information from the Website because it was down, the damage to TWG Tea’s business and reputation would be “significant”.[^109] Maranda also stated that the Website has a “significant team to handle matters relating to \[their\] eCommerce business”.[^110] The inference from Taha’s and Maranda’s evidence is that the Website generates significant income from online customers, and the dominant purpose of the Website is for widespread commerciality. Further, by Taha’s evidence, the “brand” includes TWG Tea’s founding story as published on the Website Statement. As such, I would infer publication to third persons of the Website Statement even in the absence of direct evidence (of the number of persons who had seen the Website Statement) and find that the Website Statement would have reached third parties.
 
 #### Montecristo article
 
 114    The Montecristo article was titled “TWG Tea Salon & Boutique Vancouver: True love’s sip”, and it stated that, “\[f\]ounded in 2008 in Singapore by Barnes and her husband Taha Bouqdib, TWG \[Tea\] is known across the globe…”.
 
-115    I find the statement in the Montecristo article to be false, and the sole natural and ordinary meaning of the statement was that Taha and Maranda were the only founders of TWG Tea. In fact, a reading of the entire article would show that Taha and Maranda were categorically portrayed as having come together to set up and launch TWG Tea and there was no mention at all of any other party involved in its founding. Maranda had made the statement and Taha admitted to having been interviewed for the article.[\[note: 111\]](#Ftn_111)
+115    I find the statement in the Montecristo article to be false, and the sole natural and ordinary meaning of the statement was that Taha and Maranda were the only founders of TWG Tea. In fact, a reading of the entire article would show that Taha and Maranda were categorically portrayed as having come together to set up and launch TWG Tea and there was no mention at all of any other party involved in its founding. Maranda had made the statement and Taha admitted to having been interviewed for the article.[^111]
 
-116    Similarly, and with the background that I had set out earlier (see \[95\]–\[101\] above), I find that Taha and Maranda did not have an honest belief that the statement was true, or they had at least acted with reckless disregard as to the truth of it. Taha claimed he had not mentioned Manoj because the interviewer had not asked him who TWG Tea’s founders were, and if the interviewer had asked, he would have mentioned Manoj as well. However, despite not having mentioned Manoj, he nevertheless _volunteered_ the information about himself and Maranda as the founders of TWG Tea.[\[note: 112\]](#Ftn_112) I find that the mention of only Taha and Maranda as TWG Tea’s founders was to deliberately exclude Manoj and create the impression that there were only two persons who founded the company. Again, I find that TWG Tea was also to be attributed with the acts and knowledge of Taha and Maranda (see \[111\] above). Maranda had admitted that the statement was made on TWG Tea’s behalf.[\[note: 113\]](#Ftn_113)
+116    Similarly, and with the background that I had set out earlier (see \[95\]–\[101\] above), I find that Taha and Maranda did not have an honest belief that the statement was true, or they had at least acted with reckless disregard as to the truth of it. Taha claimed he had not mentioned Manoj because the interviewer had not asked him who TWG Tea’s founders were, and if the interviewer had asked, he would have mentioned Manoj as well. However, despite not having mentioned Manoj, he nevertheless _volunteered_ the information about himself and Maranda as the founders of TWG Tea.[^112] I find that the mention of only Taha and Maranda as TWG Tea’s founders was to deliberately exclude Manoj and create the impression that there were only two persons who founded the company. Again, I find that TWG Tea was also to be attributed with the acts and knowledge of Taha and Maranda (see \[111\] above). Maranda had admitted that the statement was made on TWG Tea’s behalf.[^113]
 
-117    The Montecristo article was accessible to Internet users, and I would infer that there was publication to third parties. The article was published in the online version of a lifestyle magazine and was written for the purpose of _publicising_ TWG Tea’s tea salon in Vancouver, Canada.[\[note: 114\]](#Ftn_114) It was obvious that the purpose of the Montecristo article was a predominantly commercial one to reach out to potential purveyors of TWG Tea’s products or to experience its Vancouver tea salon.
+117    The Montecristo article was accessible to Internet users, and I would infer that there was publication to third parties. The article was published in the online version of a lifestyle magazine and was written for the purpose of _publicising_ TWG Tea’s tea salon in Vancouver, Canada.[^114] It was obvious that the purpose of the Montecristo article was a predominantly commercial one to reach out to potential purveyors of TWG Tea’s products or to experience its Vancouver tea salon.
 
 #### Nomss article
 
@@ -384,27 +385,27 @@ Bouqdib … and Barnes have also **brought on board fellow founding partners Man
 
 123    I find that this statement was false and gave the impression that the couple, Taha and Maranda, were the only founders of TWG Tea. I also find that Taha and Maranda had made the statement when they did not have an honest belief that it was true or had acted with reckless disregard as to the truth of it. Again, I find that TWG Tea was to be attributed with the acts and knowledge of Taha and Maranda. As with the Website Statement and the statement in the Montecristo article, this must be looked at against the background which I had earlier set out (see \[95\]–\[101\] above) and the following.
 
-124    On 23 June 2017, Manoj’s counsel had written to Maranda to personally inform her of the various false statements (see \[109\] above). Having already known of Manoj’s objections that Maranda and Taha were alleged to have conveyed that they were the only founders and “denying \[Manoj’s\] role and involvement as the founder of TWG Tea”, Taha and Maranda nevertheless continued to prepare a press release in around April/May 2018, in which it was stated that “TWG Tea … was founded by Taha … Maranda … and Rith in 2008” and repeated that “TWG Tea … was co-founded by Taha … Maranda … and Rith in 2008”.[\[note: 115\]](#Ftn_115)
+124    On 23 June 2017, Manoj’s counsel had written to Maranda to personally inform her of the various false statements (see \[109\] above). Having already known of Manoj’s objections that Maranda and Taha were alleged to have conveyed that they were the only founders and “denying \[Manoj’s\] role and involvement as the founder of TWG Tea”, Taha and Maranda nevertheless continued to prepare a press release in around April/May 2018, in which it was stated that “TWG Tea … was founded by Taha … Maranda … and Rith in 2008” and repeated that “TWG Tea … was co-founded by Taha … Maranda … and Rith in 2008”.[^115]
 
-125    Taha agreed that such press releases would have been cleared with TWG Tea, of which he was then President and CEO. He also admitted that if TWG Tea gave a press release to the press that only presented himself and Maranda as founders of TWG Tea, that the press would naturally report it in the way it was presented to them.[\[note: 116\]](#Ftn_116) Maranda also stated that if TWG Tea was opening a new tea salon or boutique, it would prepare materials such as a press release or fact sheet about the new store, which she would approve, and which would be given to the PR agency.[\[note: 117\]](#Ftn_117) A copy of the press release exhibited to Maranda’s AEIC, showed its contents to state that “TWG Tea … was founded by Taha ... Maranda … and Rith … in 2008”. Maranda accepted that the press release would show that the founders in entirety were only Taha, Maranda and Rith, and admitted that the information TWG Tea wanted to convey to the press for it to publish would be in the press release.[\[note: 118\]](#Ftn_118)
+125    Taha agreed that such press releases would have been cleared with TWG Tea, of which he was then President and CEO. He also admitted that if TWG Tea gave a press release to the press that only presented himself and Maranda as founders of TWG Tea, that the press would naturally report it in the way it was presented to them.[^116] Maranda also stated that if TWG Tea was opening a new tea salon or boutique, it would prepare materials such as a press release or fact sheet about the new store, which she would approve, and which would be given to the PR agency.[^117] A copy of the press release exhibited to Maranda’s AEIC, showed its contents to state that “TWG Tea … was founded by Taha ... Maranda … and Rith … in 2008”. Maranda accepted that the press release would show that the founders in entirety were only Taha, Maranda and Rith, and admitted that the information TWG Tea wanted to convey to the press for it to publish would be in the press release.[^118]
 
-126    Additionally, the Forbes article was accessible to Internet users, and I would infer that there was publication to third parties. The article was published in the online version of a well-known magazine and was written for the purpose of publicising TWG Tea’s tea salon in London.[\[note: 119\]](#Ftn_119) In _Ahmed v John Fairfax Publications Pty Ltd_ \[2006\] NSWSC at \[9\], the NSW Supreme Court considered that publications in the Sydney Morning Herald would have been extensive given “the very nature of the defendant’s newspaper and its business”.
+126    Additionally, the Forbes article was accessible to Internet users, and I would infer that there was publication to third parties. The article was published in the online version of a well-known magazine and was written for the purpose of publicising TWG Tea’s tea salon in London.[^119] In _Ahmed v John Fairfax Publications Pty Ltd_ \[2006\] NSWSC at \[9\], the NSW Supreme Court considered that publications in the Sydney Morning Herald would have been extensive given “the very nature of the defendant’s newspaper and its business”.
 
 #### Vogue article
 
 127    In an article published in the British Vogue on 25 June 2018 in relation to TWG Tea’s launch of its tea salon and boutique in London, it was reported that “TWG Tea, co-founded in 2008 by Taha … Maranda … and partners, offers the largest collection of teas …”.
 
-128    I find that this article was not false or was not intended to create a false impression, namely that the article was meant to be understood that the “only” founders of TWG Tea were Taha and Maranda and that Manoj was not involved in founding its business.[\[note: 120\]](#Ftn_120) The article stated that TWG Tea was co-founded by Taha, Maranda “and partners” which in the ordinary and natural meaning would convey that there were other partners who also founded TWG Tea. Accordingly, I dismiss Manoj’s counterclaim in relation to this article.
+128    I find that this article was not false or was not intended to create a false impression, namely that the article was meant to be understood that the “only” founders of TWG Tea were Taha and Maranda and that Manoj was not involved in founding its business.[^120] The article stated that TWG Tea was co-founded by Taha, Maranda “and partners” which in the ordinary and natural meaning would convey that there were other partners who also founded TWG Tea. Accordingly, I dismiss Manoj’s counterclaim in relation to this article.
 
 #### CRIB summit
 
-129    I preface the analysis by stating that Taha was not a speaker at the conference. Even though Maranda attended the CRIB summit where she was introduced as TWG Tea’s Director of Corporate Communications and Business Development[\[note: 121\]](#Ftn_121) there is no evidence that any of her statements at the CRIB summit were authorised by Taha. Maranda explained that CRIB was a social enterprise founded to empower women to become successful entrepreneurs. She spoke at dialogue session titled “Scaling Your Business: Dialogue Session”. It was an open forum where guest speakers responded to spontaneous questions. She had not prepared any answers. Moreover, Maranda’s uncontroverted evidence was that her answers were not given on behalf of TWG Tea. She stated that she was speaking about her personal experiences.[\[note: 122\]](#Ftn_122) I accept Maranda’s evidence in this regard. In the circumstances, neither Taha nor TWG Tea could be attributed with the statements made at the CRIB summit.
+129    I preface the analysis by stating that Taha was not a speaker at the conference. Even though Maranda attended the CRIB summit where she was introduced as TWG Tea’s Director of Corporate Communications and Business Development[^121] there is no evidence that any of her statements at the CRIB summit were authorised by Taha. Maranda explained that CRIB was a social enterprise founded to empower women to become successful entrepreneurs. She spoke at dialogue session titled “Scaling Your Business: Dialogue Session”. It was an open forum where guest speakers responded to spontaneous questions. She had not prepared any answers. Moreover, Maranda’s uncontroverted evidence was that her answers were not given on behalf of TWG Tea. She stated that she was speaking about her personal experiences.[^122] I accept Maranda’s evidence in this regard. In the circumstances, neither Taha nor TWG Tea could be attributed with the statements made at the CRIB summit.
 
-130    As for Maranda, I find that the statements she made (read in context of the questions being asked of her) were not false. Manoj alleged that Maranda made statements to the effect that Taha and Maranda had founded TWG Tea and that he was “another partner who merely acted as an investor”.[\[note: 123\]](#Ftn_123)
+130    As for Maranda, I find that the statements she made (read in context of the questions being asked of her) were not false. Manoj alleged that Maranda made statements to the effect that Taha and Maranda had founded TWG Tea and that he was “another partner who merely acted as an investor”.[^123]
 
-131    First, Maranda was responding to a question where she was asked “\[w\]here are your investors…when you start this thing”. Maranda replied that “\[w\]e were in Paris…and we did by chance happen upon someone … who \[literally\] became a friend, who later became our … angel investor.” In my view, what Maranda said in that context cannot be construed as merely showing that Manoj (who is not mentioned by name) is “merely” an investor. Second, Maranda had mentioned Manoj as a “partner” later in the interview. In fact, she went on to say that after coming to Singapore, “\[i\]t was the two of us plus an investor and we just started…”, that “we had a partner who was spoon-feeding us” in terms of the finances, and she conceded that the “partner” had “a level of trust” in investing in them. Taken together it could be construed that Manoj’s role was mainly to provide investment money, but I did not read the statements to therefore mean that Manoj was merely an investor and was not a founder. Third, Maranda had mentioned that “we together with this other partner, and the two of us, we started in an office the size of two of these tables … To be honest and fair to our investing partner, he came in one day and said “You know you guys gotta stop renting …”.[\[note: 124\]](#Ftn_124) It was plain to me that Maranda’s reference to “together” with the other partner that they “started” in an office, was a clear expression that they (including Manoj) had begun TWG Tea together.
+131    First, Maranda was responding to a question where she was asked “\[w\]here are your investors…when you start this thing”. Maranda replied that “\[w\]e were in Paris…and we did by chance happen upon someone … who \[literally\] became a friend, who later became our … angel investor.” In my view, what Maranda said in that context cannot be construed as merely showing that Manoj (who is not mentioned by name) is “merely” an investor. Second, Maranda had mentioned Manoj as a “partner” later in the interview. In fact, she went on to say that after coming to Singapore, “\[i\]t was the two of us plus an investor and we just started…”, that “we had a partner who was spoon-feeding us” in terms of the finances, and she conceded that the “partner” had “a level of trust” in investing in them. Taken together it could be construed that Manoj’s role was mainly to provide investment money, but I did not read the statements to therefore mean that Manoj was merely an investor and was not a founder. Third, Maranda had mentioned that “we together with this other partner, and the two of us, we started in an office the size of two of these tables … To be honest and fair to our investing partner, he came in one day and said “You know you guys gotta stop renting …”.[^124] It was plain to me that Maranda’s reference to “together” with the other partner that they “started” in an office, was a clear expression that they (including Manoj) had begun TWG Tea together.
 
-132    Admittedly, Maranda did state that “yes, we did start the company. Three, four, five, six people joined us afterwards and then it became a little SME.”.[\[note: 125\]](#Ftn_125) It was suggested that if the “three” people who joined afterward included Manoj, this would convey the impression that it was only Taha and Maranda who started TWG Tea. However, Maranda could simply have meant that three _more_, and four _more_ individuals joined afterward. Maranda explained in court that the “three, four, five, six people” were others who joined TWG Tea thereafter and was not a reference to the three founders.[\[note: 126\]](#Ftn_126) Given that Maranda had already indicated that it was she, Taha, and their “other partner” who started the company, I do not think the natural and ordinary meaning read in its overall context was that Taha and Maranda were the only founders of TWG Tea.
+132    Admittedly, Maranda did state that “yes, we did start the company. Three, four, five, six people joined us afterwards and then it became a little SME.”.[^125] It was suggested that if the “three” people who joined afterward included Manoj, this would convey the impression that it was only Taha and Maranda who started TWG Tea. However, Maranda could simply have meant that three _more_, and four _more_ individuals joined afterward. Maranda explained in court that the “three, four, five, six people” were others who joined TWG Tea thereafter and was not a reference to the three founders.[^126] Given that Maranda had already indicated that it was she, Taha, and their “other partner” who started the company, I do not think the natural and ordinary meaning read in its overall context was that Taha and Maranda were the only founders of TWG Tea.
 
 133    Accordingly, I dismiss Manoj’s counterclaim in relation to the statements made at the CRIB summit.
 
@@ -440,9 +441,9 @@ Bouqdib … and Barnes have also **brought on board fellow founding partners Man
 
 142    I find that Manoj’s counterclaim for conspiracy, whether by lawful or unlawful means, has not been made out. In particular, there is no evidence that Taha, Maranda and/or TWG Tea had intended or had the predominant purpose to cause damage or injury to Manoj by making the Statements. As with the claim in malicious falsehood, there was also no evidence of what loss, injury or damage Manoj had suffered as a result of a conspiracy.
 
-143    For completeness, I address briefly the element of the intention to cause damage or injury and of “predominant purpose”, as it overlaps with the element of malice in the claim for malicious falsehood. Although Taha denied it, the Statements were published to benefit and would have benefitted his and Maranda’s public profile and place themselves front and centre in the founding of TWG Tea. This was understandable even if it was not entirely excusable. They had contributed significantly to bring about TWG Tea, making it into an international brand.[\[note: 127\]](#Ftn_127) Naturally, they wanted to be credited for their work.
+143    For completeness, I address briefly the element of the intention to cause damage or injury and of “predominant purpose”, as it overlaps with the element of malice in the claim for malicious falsehood. Although Taha denied it, the Statements were published to benefit and would have benefitted his and Maranda’s public profile and place themselves front and centre in the founding of TWG Tea. This was understandable even if it was not entirely excusable. They had contributed significantly to bring about TWG Tea, making it into an international brand.[^127] Naturally, they wanted to be credited for their work.
 
-144    Be that as it may, they should not have glossed over Manoj in the way they had and excluded him from TWG Tea’s history, particularly with regard to the statements which I had found to be false. This is even if Taha and Maranda wanted to “protect” the company by dissociating it from Manoj in light of pending lawsuits against it. Taha, Maranda and Rith all acknowledged that Manoj was a founding partner[\[note: 128\]](#Ftn_128) and admitted that he had been an indisputable part of TWG Tea’s founding.
+144    Be that as it may, they should not have glossed over Manoj in the way they had and excluded him from TWG Tea’s history, particularly with regard to the statements which I had found to be false. This is even if Taha and Maranda wanted to “protect” the company by dissociating it from Manoj in light of pending lawsuits against it. Taha, Maranda and Rith all acknowledged that Manoj was a founding partner[^128] and admitted that he had been an indisputable part of TWG Tea’s founding.
 
 145    Nevertheless, although I found that Taha and Maranda may have made the false statements in part to gain credit for themselves and to disassociate TWG Tea and themselves from Manoj, and that it was done without an honest belief that the statements were true or in reckless disregard as to their truth, they did not intend, much less had the predominant purpose, to do so to injure Manoj.
 
@@ -458,261 +459,261 @@ Bouqdib … and Barnes have also **brought on board fellow founding partners Man
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)15/11/18 Notes of Evidence (“NE”) 18.
+[^1]: 15/11/18 Notes of Evidence (“NE”) 18.
 
-[\[note: 2\]](#Ftn_2_1)Agreed List of Issues, Issues 1(c), 1(d), 2(c) and 2(d).
+[^2]: Agreed List of Issues, Issues 1(c), 1(d), 2(c) and 2(d).
 
-[\[note: 3\]](#Ftn_3_1)15/11/18 NE 89; Maranda’s AEIC, p 23.
+[^3]: 15/11/18 NE 89; Maranda’s AEIC, p 23.
 
-[\[note: 4\]](#Ftn_4_1)Taha’s AEIC, paras 56 and 58.
+[^4]: Taha’s AEIC, paras 56 and 58.
 
-[\[note: 5\]](#Ftn_5_1)Taha’s AEIC, paras 64, 70–71.
+[^5]: Taha’s AEIC, paras 64, 70–71.
 
-[\[note: 6\]](#Ftn_6_1)Taha’s AEIC, paras 8 and 9.
+[^6]: Taha’s AEIC, paras 8 and 9.
 
-[\[note: 7\]](#Ftn_7_1)15/11/18 NE 164–166; 22/11/18 NE 14.
+[^7]: 15/11/18 NE 164–166; 22/11/18 NE 14.
 
-[\[note: 8\]](#Ftn_8_1)22/11/18 NE 23–27.
+[^8]: 22/11/18 NE 23–27.
 
-[\[note: 9\]](#Ftn_9_1)Taha’s AEIC, paras 9–13; 15/11/18 NE 8.
+[^9]: Taha’s AEIC, paras 9–13; 15/11/18 NE 8.
 
-[\[note: 10\]](#Ftn_10_1)Taha’s AEIC, pp 283 and 288.
+[^10]: Taha’s AEIC, pp 283 and 288.
 
-[\[note: 11\]](#Ftn_11_1)Taha’s AEIC, paras 11–15.
+[^11]: Taha’s AEIC, paras 11–15.
 
-[\[note: 12\]](#Ftn_12_1)Statement of claim, paras 10, 12–15, 21, 22–25.
+[^12]: Statement of claim, paras 10, 12–15, 21, 22–25.
 
-[\[note: 13\]](#Ftn_13_1)Defendant’s Closing Submissions (“DCS”), dated 14 January 2019, paras 14, 20, and 70.
+[^13]: Defendant’s Closing Submissions (“DCS”), dated 14 January 2019, paras 14, 20, and 70.
 
-[\[note: 14\]](#Ftn_14_1)Defence and counterclaim (Amendment No 1), paras 15, 17, 18 and 24.
+[^14]: Defence and counterclaim (Amendment No 1), paras 15, 17, 18 and 24.
 
-[\[note: 15\]](#Ftn_15_1)Defence and counterclaim (Amendment No 1), para 50.
+[^15]: Defence and counterclaim (Amendment No 1), para 50.
 
-[\[note: 16\]](#Ftn_16_1)Defence and counterclaim (Amendment No 1), para 53–57, 58 and 60.
+[^16]: Defence and counterclaim (Amendment No 1), para 53–57, 58 and 60.
 
-[\[note: 17\]](#Ftn_17_1)15/11/18 NE 18, 23–24.
+[^17]: 15/11/18 NE 18, 23–24.
 
-[\[note: 18\]](#Ftn_18_1)15/11/18 NE 34–35; 74–77.
+[^18]: 15/11/18 NE 34–35; 74–77.
 
-[\[note: 19\]](#Ftn_19_1)15/11/18 NE 44; Taha’s AEIC, para 52; 1DB 144–147, 478.
+[^19]: 15/11/18 NE 44; Taha’s AEIC, para 52; 1DB 144–147, 478.
 
-[\[note: 20\]](#Ftn_20_1)15/11/18 NE 46, 52 and 55; 1DB 181, 208–209.
+[^20]: 15/11/18 NE 46, 52 and 55; 1DB 181, 208–209.
 
-[\[note: 21\]](#Ftn_21_1)1DB 214–234; 15/11/18 NE 72–73.
+[^21]: 1DB 214–234; 15/11/18 NE 72–73.
 
-[\[note: 22\]](#Ftn_22_1)15/11/18 NE 112–114, 116.
+[^22]: 15/11/18 NE 112–114, 116.
 
-[\[note: 23\]](#Ftn_23_1)15/11/18 NE 174–175.
+[^23]: 15/11/18 NE 174–175.
 
-[\[note: 24\]](#Ftn_24_1)Defence and counterclaim (Amendment No 1), para 5.
+[^24]: Defence and counterclaim (Amendment No 1), para 5.
 
-[\[note: 25\]](#Ftn_25_1)1DB 216; 15/11/18 NE 73, 80–81.
+[^25]: 1DB 216; 15/11/18 NE 73, 80–81.
 
-[\[note: 26\]](#Ftn_26_1)1DB 231 (at Clause 3(a)) and 308; 15/11/18 NE 113–114, 127–129; 16/11/18 NE 137, 139; 22/11/18 NE 56–57, 165.
+[^26]: 1DB 231 (at Clause 3(a)) and 308; 15/11/18 NE 113–114, 127–129; 16/11/18 NE 137, 139; 22/11/18 NE 56–57, 165.
 
-[\[note: 27\]](#Ftn_27_1)Clause 4(b) of the employment contracts at 1DB 232 and 2DB 543.
+[^27]: Clause 4(b) of the employment contracts at 1DB 232 and 2DB 543.
 
-[\[note: 28\]](#Ftn_28_1)16/11/18 NE 61–62.
+[^28]: 16/11/18 NE 61–62.
 
-[\[note: 29\]](#Ftn_29_1)Defence and counterclaim (Amendment No 1), para 16; 16/11/18 NE 6.
+[^29]: Defence and counterclaim (Amendment No 1), para 16; 16/11/18 NE 6.
 
-[\[note: 30\]](#Ftn_30_1)15/11/18 NE 129–130.
+[^30]: 15/11/18 NE 129–130.
 
-[\[note: 31\]](#Ftn_31_1)2DB 905–908.
+[^31]: 2DB 905–908.
 
-[\[note: 32\]](#Ftn_32_1)Taha’s AEIC, pp 525–526; 2DB 978–987.
+[^32]: Taha’s AEIC, pp 525–526; 2DB 978–987.
 
-[\[note: 33\]](#Ftn_33_1)Taha’s AEIC, pp 531–532, 529–534.
+[^33]: Taha’s AEIC, pp 531–532, 529–534.
 
-[\[note: 34\]](#Ftn_34_1)3DB 1284.
+[^34]: 3DB 1284.
 
-[\[note: 35\]](#Ftn_35_1)Taha’s AEIC, pp 535–537.
+[^35]: Taha’s AEIC, pp 535–537.
 
-[\[note: 36\]](#Ftn_36_1)3DB 1183–1184,
+[^36]: 3DB 1183–1184,
 
-[\[note: 37\]](#Ftn_37_1)Maranda’s AEIC, para 45 and Exhibit MBBQ-9; 22/11/18 NE 148–149, 152–153.
+[^37]: Maranda’s AEIC, para 45 and Exhibit MBBQ-9; 22/11/18 NE 148–149, 152–153.
 
-[\[note: 38\]](#Ftn_38_1)16/11/18 NE 180; Defence and counterclaim (Amendment No 1), para 58.
+[^38]: 16/11/18 NE 180; Defence and counterclaim (Amendment No 1), para 58.
 
-[\[note: 39\]](#Ftn_39_1)2DB 879–885.
+[^39]: 2DB 879–885.
 
-[\[note: 40\]](#Ftn_40_1)3DB 1094–1099.
+[^40]: 3DB 1094–1099.
 
-[\[note: 41\]](#Ftn_41_1)15/11/18 NE 154–158; 16/11/18 NE 82, 86; 1DB 427–428.
+[^41]: 15/11/18 NE 154–158; 16/11/18 NE 82, 86; 1DB 427–428.
 
-[\[note: 42\]](#Ftn_42_1)16/11/18 NE 21–22, 26–27, 52, 83, 87, 114–116, 196; 1DB 429–436, 460, 466, 476.
+[^42]: 16/11/18 NE 21–22, 26–27, 52, 83, 87, 114–116, 196; 1DB 429–436, 460, 466, 476.
 
-[\[note: 43\]](#Ftn_43_1)16/11/18 NE 21–22, 26–27, 89; 1DB 429–436, 460, 466, 476.
+[^43]: 16/11/18 NE 21–22, 26–27, 89; 1DB 429–436, 460, 466, 476.
 
-[\[note: 44\]](#Ftn_44_1)Defence and counterclaim (Amendment No 1), paras 11–12.
+[^44]: Defence and counterclaim (Amendment No 1), paras 11–12.
 
-[\[note: 45\]](#Ftn_45_1)22/11/18 NE 14.
+[^45]: 22/11/18 NE 14.
 
-[\[note: 46\]](#Ftn_46_1)19/11/18 NE 85.
+[^46]: 19/11/18 NE 85.
 
-[\[note: 47\]](#Ftn_47_1)Taha’s AEIC, pp 283–286.
+[^47]: Taha’s AEIC, pp 283–286.
 
-[\[note: 48\]](#Ftn_48_1)Taha’s AEIC, p 288.
+[^48]: Taha’s AEIC, p 288.
 
-[\[note: 49\]](#Ftn_49_1)Taha’s AEIC, p 298.
+[^49]: Taha’s AEIC, p 298.
 
-[\[note: 50\]](#Ftn_50_1)Taha’s AEIC, paras 14–15.
+[^50]: Taha’s AEIC, paras 14–15.
 
-[\[note: 51\]](#Ftn_51_1)Plaintiff and Defendant-in-Counterclaim’s Closing Submissions (“PCS”), dated 14 January 2019, para 42.
+[^51]: Plaintiff and Defendant-in-Counterclaim’s Closing Submissions (“PCS”), dated 14 January 2019, para 42.
 
-[\[note: 52\]](#Ftn_52_1)19/11/18 NE 96–97.
+[^52]: 19/11/18 NE 96–97.
 
-[\[note: 53\]](#Ftn_53_1)21/11/18 NE 21–24.
+[^53]: 21/11/18 NE 21–24.
 
-[\[note: 54\]](#Ftn_54_1)Taha’s AEIC, paras 19, 22–23, and 44.
+[^54]: Taha’s AEIC, paras 19, 22–23, and 44.
 
-[\[note: 55\]](#Ftn_55_1)Agreed List of Issues (A), Issue 4(c); 4AB 3029–3030.
+[^55]: Agreed List of Issues (A), Issue 4(c); 4AB 3029–3030.
 
-[\[note: 56\]](#Ftn_56_1)Agreed List of Issues (A), Issue 4(c); 4AB 2772–2773.
+[^56]: Agreed List of Issues (A), Issue 4(c); 4AB 2772–2773.
 
-[\[note: 57\]](#Ftn_57_1)1AB 667.
+[^57]: 1AB 667.
 
-[\[note: 58\]](#Ftn_58_1)21/11/18 NE 30–31.
+[^58]: 21/11/18 NE 30–31.
 
-[\[note: 59\]](#Ftn_59_1)Taha’s AEIC, para 30.
+[^59]: Taha’s AEIC, para 30.
 
-[\[note: 60\]](#Ftn_60_1)DCS, para 58.
+[^60]: DCS, para 58.
 
-[\[note: 61\]](#Ftn_61_1)15/11/18 NE 164–165; 22/11/18 NE 23–24, 26.
+[^61]: 15/11/18 NE 164–165; 22/11/18 NE 23–24, 26.
 
-[\[note: 62\]](#Ftn_62_1)21/11/18 NE 32–33.
+[^62]: 21/11/18 NE 32–33.
 
-[\[note: 63\]](#Ftn_63_1)22/11/18 NE 22–23; Statement of claim, paras 7 and 9; DCS, paras 58–59.
+[^63]: 22/11/18 NE 22–23; Statement of claim, paras 7 and 9; DCS, paras 58–59.
 
-[\[note: 64\]](#Ftn_64_1)Statement of claim, paras 6, 7 and 9.
+[^64]: Statement of claim, paras 6, 7 and 9.
 
-[\[note: 65\]](#Ftn_65_1)DCS, paras 96–97.
+[^65]: DCS, paras 96–97.
 
-[\[note: 66\]](#Ftn_66_1)PCS, paras 27–28.
+[^66]: PCS, paras 27–28.
 
-[\[note: 67\]](#Ftn_67_1)PCS, para 32.
+[^67]: PCS, para 32.
 
-[\[note: 68\]](#Ftn_68_1)6DB 2744.
+[^68]: 6DB 2744.
 
-[\[note: 69\]](#Ftn_69_1)21/11/18 NE 65; 22/11/18 NE 86–88; 22/11/18 NE 87.
+[^69]: 21/11/18 NE 65; 22/11/18 NE 86–88; 22/11/18 NE 87.
 
-[\[note: 70\]](#Ftn_70_1)Defence and counterclaim (Amendment No 1), paras 62–63.
+[^70]: Defence and counterclaim (Amendment No 1), paras 62–63.
 
-[\[note: 71\]](#Ftn_71_1)6DB 2896; Defence and counterclaim (Amendment No 1), para 64(a).
+[^71]: 6DB 2896; Defence and counterclaim (Amendment No 1), para 64(a).
 
-[\[note: 72\]](#Ftn_72_1)6DB 2731 and 2733; Defence and counterclaim (Amendment No 1), para 64(b).
+[^72]: 6DB 2731 and 2733; Defence and counterclaim (Amendment No 1), para 64(b).
 
-[\[note: 73\]](#Ftn_73_1)6DB 2751–2752; Defence and counterclaim (Amendment No 1), para 64(c).
+[^73]: 6DB 2751–2752; Defence and counterclaim (Amendment No 1), para 64(c).
 
-[\[note: 74\]](#Ftn_74_1)7DB 3395–3406; Defence and counterclaim (Amendment No 1), para 65A(a).
+[^74]: 7DB 3395–3406; Defence and counterclaim (Amendment No 1), para 65A(a).
 
-[\[note: 75\]](#Ftn_75_1)7DB 3412–3425; Defence and counterclaim (Amendment No 1), para 65A(b).
+[^75]: 7DB 3412–3425; Defence and counterclaim (Amendment No 1), para 65A(b).
 
-[\[note: 76\]](#Ftn_76_1)10DB 4210–4221; Defence and counterclaim (Amendment No 1), para 64(d).
+[^76]: 10DB 4210–4221; Defence and counterclaim (Amendment No 1), para 64(d).
 
-[\[note: 77\]](#Ftn_77_1)PCS, para 234; 2AB 931, 982 and 984.
+[^77]: PCS, para 234; 2AB 931, 982 and 984.
 
-[\[note: 78\]](#Ftn_78_1)PCS, para 236.
+[^78]: PCS, para 236.
 
-[\[note: 79\]](#Ftn_79_1)PCS, at paras 232, and 240–241.
+[^79]: PCS, at paras 232, and 240–241.
 
-[\[note: 80\]](#Ftn_80_1)2AB 1011.
+[^80]: 2AB 1011.
 
-[\[note: 81\]](#Ftn_81_1)16/11/18 NE 239.
+[^81]: 16/11/18 NE 239.
 
-[\[note: 82\]](#Ftn_82_1)PCS, para 119 (footnote 173).
+[^82]: PCS, para 119 (footnote 173).
 
-[\[note: 83\]](#Ftn_83_1)PCS, para 121.
+[^83]: PCS, para 121.
 
-[\[note: 84\]](#Ftn_84_1)Maranda’s AEIC, paras 30, 35–36; 19/11/18 NE 31.
+[^84]: Maranda’s AEIC, paras 30, 35–36; 19/11/18 NE 31.
 
-[\[note: 85\]](#Ftn_85_1)19/11/18 NE 42–43.
+[^85]: 19/11/18 NE 42–43.
 
-[\[note: 86\]](#Ftn_86_1)19/11/18 NE 50; 22/11/18 NE 98, 137–138, 146.
+[^86]: 19/11/18 NE 50; 22/11/18 NE 98, 137–138, 146.
 
-[\[note: 87\]](#Ftn_87_1)22/11/18 NE 101–102.
+[^87]: 22/11/18 NE 101–102.
 
-[\[note: 88\]](#Ftn_88_1)22/11/18 NE 138–139.
+[^88]: 22/11/18 NE 138–139.
 
-[\[note: 89\]](#Ftn_89_1)PCS, paras 126–127.
+[^89]: PCS, paras 126–127.
 
-[\[note: 90\]](#Ftn_90_1)22/11/18 NE 96–98.
+[^90]: 22/11/18 NE 96–98.
 
-[\[note: 91\]](#Ftn_91_1)22/11/18 NE 55–56; 2DB 885.
+[^91]: 22/11/18 NE 55–56; 2DB 885.
 
-[\[note: 92\]](#Ftn_92_1)22/11/18 NE 107.
+[^92]: 22/11/18 NE 107.
 
-[\[note: 93\]](#Ftn_93_1)2DB 622.
+[^93]: 2DB 622.
 
-[\[note: 94\]](#Ftn_94_1)10DB 4194.
+[^94]: 10DB 4194.
 
-[\[note: 95\]](#Ftn_95_1)10DB 4191 and 4193.
+[^95]: 10DB 4191 and 4193.
 
-[\[note: 96\]](#Ftn_96_1)4DB 1771–1772.
+[^96]: 4DB 1771–1772.
 
-[\[note: 97\]](#Ftn_97_1)19/11/18 NE 22–25.
+[^97]: 19/11/18 NE 22–25.
 
-[\[note: 98\]](#Ftn_98_1)PCS, at para 98.
+[^98]: PCS, at para 98.
 
-[\[note: 99\]](#Ftn_99_1)16/11/18 NE 240–241.
+[^99]: 16/11/18 NE 240–241.
 
-[\[note: 100\]](#Ftn_100_1)16/11/18 NE 241 and 244; 21/11/18 NE 57–59.
+[^100]: 16/11/18 NE 241 and 244; 21/11/18 NE 57–59.
 
-[\[note: 101\]](#Ftn_101_1)19/11/18 NE 21; 21/11/18 NE 58.
+[^101]: 19/11/18 NE 21; 21/11/18 NE 58.
 
-[\[note: 102\]](#Ftn_102_1)6DB 2928, 2935.
+[^102]: 6DB 2928, 2935.
 
-[\[note: 103\]](#Ftn_103_1)22/11/18 NE 79–80, 84–85, 104, 132–133
+[^103]: 22/11/18 NE 79–80, 84–85, 104, 132–133
 
-[\[note: 104\]](#Ftn_104_1)22/11/18 NE 107–108.
+[^104]: 22/11/18 NE 107–108.
 
-[\[note: 105\]](#Ftn_105_1)21/11/18 NE 56–57.
+[^105]: 21/11/18 NE 56–57.
 
-[\[note: 106\]](#Ftn_106_1)PCS, para 236 (footnote 362); 2AB 1280; Taha’s AEIC, p 1125 (exhibit TBQ-26).
+[^106]: PCS, para 236 (footnote 362); 2AB 1280; Taha’s AEIC, p 1125 (exhibit TBQ-26).
 
-[\[note: 107\]](#Ftn_107_1)Maranda’s AEIC, para 18.
+[^107]: Maranda’s AEIC, para 18.
 
-[\[note: 108\]](#Ftn_108_1)Taha’s AEIC, para 23 and p 437 (TWG Tea’s lawyer’s letter dated 17 July 2017, para 3).
+[^108]: Taha’s AEIC, para 23 and p 437 (TWG Tea’s lawyer’s letter dated 17 July 2017, para 3).
 
-[\[note: 109\]](#Ftn_109_1)Taha’s AEIC, paras 26–27.
+[^109]: Taha’s AEIC, paras 26–27.
 
-[\[note: 110\]](#Ftn_110_1)Maranda’s AEIC, para 14.
+[^110]: Maranda’s AEIC, para 14.
 
-[\[note: 111\]](#Ftn_111_1)19/11/18 NE 32–33; 6AB 2935.
+[^111]: 19/11/18 NE 32–33; 6AB 2935.
 
-[\[note: 112\]](#Ftn_112_1)19/11/18 NE 33.
+[^112]: 19/11/18 NE 33.
 
-[\[note: 113\]](#Ftn_113_1)6DB 2935.
+[^113]: 6DB 2935.
 
-[\[note: 114\]](#Ftn_114_1)Maranda’s AEIC, paras 28–29; 22/11/18 NE 143–145.
+[^114]: Maranda’s AEIC, paras 28–29; 22/11/18 NE 143–145.
 
-[\[note: 115\]](#Ftn_115_1)7DB 3364–3372.
+[^115]: 7DB 3364–3372.
 
-[\[note: 116\]](#Ftn_116_1)19/11/18 NE 43–45.
+[^116]: 19/11/18 NE 43–45.
 
-[\[note: 117\]](#Ftn_117_1)Maranda’s AEIC, para 35 and pp 67 and 157–161; 22/11/18 NE 137–138.
+[^117]: Maranda’s AEIC, para 35 and pp 67 and 157–161; 22/11/18 NE 137–138.
 
-[\[note: 118\]](#Ftn_118_1)22/11/18 NE 96.
+[^118]: 22/11/18 NE 96.
 
-[\[note: 119\]](#Ftn_119_1)Maranda’s AEIC, paras 28–29; 22/11/18 NE 143–145.
+[^119]: Maranda’s AEIC, paras 28–29; 22/11/18 NE 143–145.
 
-[\[note: 120\]](#Ftn_120_1)Defence and counterclaim (Amendment No 1), paras 63 and 65.
+[^120]: Defence and counterclaim (Amendment No 1), paras 63 and 65.
 
-[\[note: 121\]](#Ftn_121_1)22/11/18 NE 113.
+[^121]: 22/11/18 NE 113.
 
-[\[note: 122\]](#Ftn_122_1)Maranda’s AEIC, para 21; 22/11/18 NE 113–114.
+[^122]: Maranda’s AEIC, para 21; 22/11/18 NE 113–114.
 
-[\[note: 123\]](#Ftn_123_1)Defence and counterclaim (Amendment No 1), para 64(d).
+[^123]: Defence and counterclaim (Amendment No 1), para 64(d).
 
-[\[note: 124\]](#Ftn_124_1)10DB 4219–4220.
+[^124]: 10DB 4219–4220.
 
-[\[note: 125\]](#Ftn_125_1)10DB 4221.
+[^125]: 10DB 4221.
 
-[\[note: 126\]](#Ftn_126_1)22/11/18 NE 119–120.
+[^126]: 22/11/18 NE 119–120.
 
-[\[note: 127\]](#Ftn_127_1)22/11/18 NE 132.
+[^127]: 22/11/18 NE 132.
 
-[\[note: 128\]](#Ftn_128_1)21/11/18 NE 54–55.
+[^128]: 21/11/18 NE 54–55.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23125-SSP.xml)
