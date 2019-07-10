@@ -2,7 +2,6 @@
     # Directory to change to before starting a build. 
     # This is where we will look for package.json/.nvmrc/etc.
     base = "/"
-
     # Default build command.
     command = '''
                 jekyll build && \
