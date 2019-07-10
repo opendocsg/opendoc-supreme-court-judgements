@@ -1,5 +1,5 @@
 title: Supreme Court Judgements
-remote_theme: opendocsg/opendoc-theme@v2
+remote_theme: opendocsg/opendoc-theme@feature/deport-pdfs-to-s3
 repository: opendocsg/opendoc-supreme-court-judgments
 plugins:
   - jekyll-include-cache
@@ -7,7 +7,7 @@ baseurl: ''
 server_PROD: 'https://search.opendoc.sg'
 server_DEV: 'https://search-staging.opendoc.sg'
 fast_build: true
-offline_search_only: false
+offline: false
 styling_options:
   primary_brand_color: '#8B4513'
   logo_path: /assets/ic-logo.png
