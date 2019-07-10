@@ -1,5 +1,5 @@
 title: Supreme Court Judgements
-remote_theme: opendocsg/opendoc-theme@feature/deport-pdfs-to-s3
+remote_theme: opendocsg/opendoc-theme@s3pdf
 repository: opendocsg/opendoc-supreme-court-judgments
 plugins:
   - jekyll-include-cache
