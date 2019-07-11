@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # Grande Corp Pte Ltd _v_ Cubix Group Pte Ltd and others  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Suit No 331 of 2013 (Assessment of Damages No 23 of 2018)</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">07 June 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Lee Seiu Kin J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Dominic Chan Wai Kit and Daniel Ng Yi Ming (Characterist LLC) for the plaintiff; Mark Goh and Ng Boon Gan (Vanilla Law LLC) for the third and fourth defendants; The second, sixth, seventh and eight defendants absent and unrepresented.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Grande Corporation Pte Ltd — Cubix Group Pte Ltd — Toh Wee Ping Benjamin — Goh Bee Heong — Cubix and Kosmic Pte Ltd — AXXIS Group Pte Ltd — AXXIS International Pte Ltd — AXXIS Pte Ltd</td></tr></tbody></table>
@@ -14,13 +15,13 @@ Damages – Assessment
 
 2       In the striking out judgment, I held that Ben and Bee had committed intentional, contumelious and inexcusable breaches of the Unless Order which warranted a striking out of their Defence (see at \[100\] – \[111\]). I also held that their Defence should be struck out on the basis that Ben and Bee had demonstrated conduct which gave me no confidence that they would defend the plaintiff’s claim in an honest and fair manner. However, I declined to strike out the Defence of the AXXIS Companies in the striking out judgment (see at \[115\] and \[116\]). I then granted interlocutory judgment for the plaintiff against Ben and Bee, with damages to be assessed.
 
-3       After the striking out judgment, on 14 May 2018, the plaintiff applied for the Defences of Cubix Group and the AXXIS Companies to be struck out. The application was allowed by senior assistant registrar Christopher Tan Pheng Wee on 16 May 2018.[\[note: 1\]](#Ftn_1)
+3       After the striking out judgment, on 14 May 2018, the plaintiff applied for the Defences of Cubix Group and the AXXIS Companies to be struck out. The application was allowed by senior assistant registrar Christopher Tan Pheng Wee on 16 May 2018.[^1]
 
-4       In a subsequent application before me in summons no 1840 of 2018 on 24 July 2018, I granted interlocutory judgment in favour of the plaintiff against Cubix Group and the AXXIS Companies with damages to be assessed.[\[note: 2\]](#Ftn_2)
+4       In a subsequent application before me in summons no 1840 of 2018 on 24 July 2018, I granted interlocutory judgment in favour of the plaintiff against Cubix Group and the AXXIS Companies with damages to be assessed.[^2]
 
 5       Although I have already set out the plaintiff’s various claims in the striking out judgment (see at \[8\]), it is necessary to reproduce them here. The plaintiff pleaded the following causes of action, _inter alia_, against the various defendants:
 
-(a)     Cubix Group owed fiduciary duties and duties of good faith and fidelity to the plaintiff. These included the obligation to use funds that were extended by the plaintiff to C&K for their intended purpose, a duty to act in the best interests of the plaintiff, and a duty not to defeat the intention and purpose of the joint venture. Cubix Group breached these duties by using and transferring funding, business, clientele, projects and staff that were intended for C&K to the AXXIS Companies. Cubix Group also breached its non-competition obligations under the JV Agreement.[\[note: 3\]](#Ftn_3)
+(a)     Cubix Group owed fiduciary duties and duties of good faith and fidelity to the plaintiff. These included the obligation to use funds that were extended by the plaintiff to C&K for their intended purpose, a duty to act in the best interests of the plaintiff, and a duty not to defeat the intention and purpose of the joint venture. Cubix Group breached these duties by using and transferring funding, business, clientele, projects and staff that were intended for C&K to the AXXIS Companies. Cubix Group also breached its non-competition obligations under the JV Agreement.[^3]
 
 (b)     Ben and Bee personally breached their fiduciary duties and duties of good faith and fidelity which they owed to the plaintiff “as joint venture partners”. They breached those duties by using and diverting the funding, business, clientele, projects and staff that were intended for C&K towards the AXXIS Companies. Ben and Bee are also liable to account to the plaintiff for any profits derived from such breaches. The plaintiff also claims that Ben and Bee breached s 340 of the Companies Act (Cap 50, 2006 Rev Ed) by conducting the business of C&K with the intention to defraud the plaintiff as its “sole or main creditor”. The plaintiff also claimed against Ben and Bee in dishonest assistance.
 
@@ -38,9 +39,9 @@ Damages – Assessment
 
 8       The plaintiff called on Mr Nemamkurral Vijaykumar Krishna as its sole witness while the defendants, Ben and Bee, were their own factual witnesses, together with Mr Chong Guan Choi, who was an expert witness.
 
-9       Relying on the cases of _Malcolmson v Mehta_ and _Quality Assurance Management Asia Pte Ltd v Zhang Qing and others_ , counsel for the plaintiff argued that the defendants must be taken to have admitted to all matters pleaded by the plaintiff in the statement of claim, as their defences had been struck out and interlocutory judgment entered against them.[\[note: 4\]](#Ftn_4)
+9       Relying on the cases of _Malcolmson v Mehta_ and _Quality Assurance Management Asia Pte Ltd v Zhang Qing and others_ , counsel for the plaintiff argued that the defendants must be taken to have admitted to all matters pleaded by the plaintiff in the statement of claim, as their defences had been struck out and interlocutory judgment entered against them.[^4]
 
-10     Counsel for Ben and Bee, Mr Mark Goh (“Mr Goh”), also agreed that the facts pleaded in the plaintiff’s statement of claim must be taken as proven,[\[note: 5\]](#Ftn_5) and that they would not cross-examine the plaintiff’s witness for the purpose of establishing that the pleadings are not true.[\[note: 6\]](#Ftn_6)
+10     Counsel for Ben and Bee, Mr Mark Goh (“Mr Goh”), also agreed that the facts pleaded in the plaintiff’s statement of claim must be taken as proven,[^5] and that they would not cross-examine the plaintiff’s witness for the purpose of establishing that the pleadings are not true.[^6]
 
 11     I agree with the plaintiff and defendants’ commonly accepted position that the defendants must be taken to have admitted to all the matters pleaded by the plaintiff in the statement of claim given that the defences of Ben, Bee, Cubix Group, and the AXXISS Companies had been struck out.
 
@@ -77,7 +78,7 @@ Damages – Assessment
 
 18     It is necessary to set out the causes of action to which both sums relate.
 
-19     As regards the Loan Sum, the plaintiff had pleaded in its statement of claim that Cubix Group, Ben and Bee had, _inter alia_, committed breach of contract and/or a breach of fiduciary duties through the wrongful use of the Loan Sum and the wrongful transfer of the Loan Sum to the AXXIS Companies.[\[note: 7\]](#Ftn_7) Accordingly, Ben, Bee, and the Cubix Group are jointly and severally liable to the plaintiff in the sum of S$291,288.00 and US$458,000 for breach of contract and/or breach of fiduciary duties.
+19     As regards the Loan Sum, the plaintiff had pleaded in its statement of claim that Cubix Group, Ben and Bee had, _inter alia_, committed breach of contract and/or a breach of fiduciary duties through the wrongful use of the Loan Sum and the wrongful transfer of the Loan Sum to the AXXIS Companies.[^7] Accordingly, Ben, Bee, and the Cubix Group are jointly and severally liable to the plaintiff in the sum of S$291,288.00 and US$458,000 for breach of contract and/or breach of fiduciary duties.
 
 20     The plaintiff also pleaded that the Loan Sum was transferred by the plaintiff to C&K because of a fraudulent misrepresentation made by Cubix Group and/or Ben and/or Bee in their personal capacity. Although the defendants argued that some of the Loan Sum was made after the pleaded misrepresentations had been completely made to the plaintiff, it did not raise sufficient evidence of this at the AD Hearing. I therefore hold Ben, Bee, and the AXXIS Companies jointly and severally liable to the plaintiff in the sum of S$291,288.00 and US$458,000.
 
@@ -91,19 +92,19 @@ Damages – Assessment
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)Minute dated 16 May 2018.
+[^1]: Minute dated 16 May 2018.
 
-[\[note: 2\]](#Ftn_2_1)Minute dated 24 July 2018.
+[^2]: Minute dated 24 July 2018.
 
-[\[note: 3\]](#Ftn_3_1)Statement of Claim (Amendment No.1) at para 19.
+[^3]: Statement of Claim (Amendment No.1) at para 19.
 
-[\[note: 4\]](#Ftn_4_1)Plaintiffs’ Submissions on Assessment of Damages at para 15 – 18.
+[^4]: Plaintiffs’ Submissions on Assessment of Damages at para 15 – 18.
 
-[\[note: 5\]](#Ftn_5_1)NE, 19 March 2019, 7:18 – 7:19.
+[^5]: NE, 19 March 2019, 7:18 – 7:19.
 
-[\[note: 6\]](#Ftn_6_1)NE, 19 March 2019, 8:3 – 8:4.
+[^6]: NE, 19 March 2019, 8:3 – 8:4.
 
-[\[note: 7\]](#Ftn_7_1)Statement of Claim (Amendment No.2) at para 19.
+[^7]: Statement of Claim (Amendment No.2) at para 19.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23284-SSP.xml)

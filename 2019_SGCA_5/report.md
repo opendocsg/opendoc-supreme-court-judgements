@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # SCK Serijadi Sdn Bhd _v_ Artison Interior Pte Ltd  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Civil Appeal No 231 of 2017</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">15 January 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Court of Appeal</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Steven Chong JA; Quentin Loh J; Chao Hick Tin SJ</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Chia Swee Chye Kelvin (Lumen Law Corporation) for the appellant; A Rajandran (A Rajandran) for the respondent.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">SCK Serijadi Sdn Bhd — Artison Interior Pte Ltd</td></tr></tbody></table>
@@ -22,11 +23,11 @@ Insolvency Law – Winding Up – Stay of Proceedings
 
 ## Background
 
-5       The facts giving rise to the appeal may be stated briefly. The appellant engaged the respondent to undertake interior decoration works under two subcontracts. After making certain overpayments in excess of work done under one of these subcontracts, the appellant sued the respondent in the District Court for the return of these overpayments.[\[note: 1\]](#Ftn_1) On 27 June 2017, the appellant obtained judgment against the respondent for the sum of $250,000, plus interests and costs (“the District Court judgment”).[\[note: 2\]](#Ftn_2)
+5       The facts giving rise to the appeal may be stated briefly. The appellant engaged the respondent to undertake interior decoration works under two subcontracts. After making certain overpayments in excess of work done under one of these subcontracts, the appellant sued the respondent in the District Court for the return of these overpayments.[^1] On 27 June 2017, the appellant obtained judgment against the respondent for the sum of $250,000, plus interests and costs (“the District Court judgment”).[^2]
 
-6       In a bid to enforce the District Court judgment, the appellant filed a garnishee application against the garnishee, Shanghai Chong Kee Furniture & Construction Pte Ltd (“Shanghai Chong Kee”), on 12 September 2017 in respect of the sum of $155,000.[\[note: 3\]](#Ftn_3) It successfully obtained a garnishee order _nisi_ which it then served on Shanghai Chong Kee on 15 September 2017. As the District Court judgment would not be fully satisfied from the attachment of the debt which formed the subject of this first garnishee application, the appellant filed a second garnishee application against Shanghai Chong Kee on 27 September 2017 in respect of a further sum of $57,500.[\[note: 4\]](#Ftn_4) The appellant was granted a second garnishee order _nisi_ which it served on Shanghai Chong Kee on 2 October 2017.
+6       In a bid to enforce the District Court judgment, the appellant filed a garnishee application against the garnishee, Shanghai Chong Kee Furniture & Construction Pte Ltd (“Shanghai Chong Kee”), on 12 September 2017 in respect of the sum of $155,000.[^3] It successfully obtained a garnishee order _nisi_ which it then served on Shanghai Chong Kee on 15 September 2017. As the District Court judgment would not be fully satisfied from the attachment of the debt which formed the subject of this first garnishee application, the appellant filed a second garnishee application against Shanghai Chong Kee on 27 September 2017 in respect of a further sum of $57,500.[^4] The appellant was granted a second garnishee order _nisi_ which it served on Shanghai Chong Kee on 2 October 2017.
 
-7       By a letter dated 4 October 2017, the appellant’s solicitors informed the respondent’s solicitors that the show cause hearing for both the garnishee applications had been fixed on 10 October 2017.[\[note: 5\]](#Ftn_5) On 6 October 2017, however, the respondent’s solicitors informed the appellant that the respondent company had been placed under creditors’ voluntary winding up on 5 October 2017, pursuant to a directors’ resolution and the appointment of a liquidator on the same date. Under s 299(2) of the Act, a stay of proceedings took effect whereby no action or proceeding could be proceeded with except with leave of court. The operation of s 334(1) of the Act also meant that the appellant would not be entitled to retain the benefit of the attachment against the liquidator, unless the court ordered otherwise. The appellant thus filed an application to the High Court for leave to proceed with the garnishee proceedings and to be allowed to retain the benefit of the attachment as against the liquidator.
+7       By a letter dated 4 October 2017, the appellant’s solicitors informed the respondent’s solicitors that the show cause hearing for both the garnishee applications had been fixed on 10 October 2017.[^5] On 6 October 2017, however, the respondent’s solicitors informed the appellant that the respondent company had been placed under creditors’ voluntary winding up on 5 October 2017, pursuant to a directors’ resolution and the appointment of a liquidator on the same date. Under s 299(2) of the Act, a stay of proceedings took effect whereby no action or proceeding could be proceeded with except with leave of court. The operation of s 334(1) of the Act also meant that the appellant would not be entitled to retain the benefit of the attachment against the liquidator, unless the court ordered otherwise. The appellant thus filed an application to the High Court for leave to proceed with the garnishee proceedings and to be allowed to retain the benefit of the attachment as against the liquidator.
 
 ## The decision below
 
@@ -118,15 +119,15 @@ _As soon as the garnishee order nisi is served on the bank, it operates as an in
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)_SCK Serijadi Sdn Bhd v Artison Interior Pte Ltd_ at \[2\].
+[^1]: _SCK Serijadi Sdn Bhd v Artison Interior Pte Ltd_ at \[2\].
 
-[\[note: 2\]](#Ftn_2_1)Appellant’s Core Bundle (“ACB”) Vol II, pp 7–8, paras 4–5.
+[^2]: Appellant’s Core Bundle (“ACB”) Vol II, pp 7–8, paras 4–5.
 
-[\[note: 3\]](#Ftn_3_1)ROA Vol III, p 33.
+[^3]: ROA Vol III, p 33.
 
-[\[note: 4\]](#Ftn_4_1)ROA Vol III, p 42.
+[^4]: ROA Vol III, p 42.
 
-[\[note: 5\]](#Ftn_5_1)ACB Vol II at p 9.
+[^5]: ACB Vol II at p 9.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F22720-SSP.xml)

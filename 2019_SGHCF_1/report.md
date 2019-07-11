@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # URF and another _v_ URH  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">HCF/Suit No 6 of 2017 (Registrar's Appeals Nos 2 and 3 of 2018)</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">08 January 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Tan Puay Boon JC</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Foo Hsiang Howe Roger and Gan Jhia Huei (Genesis Law Corporation) for the plaintiffs; Tay Wei Loong Julian and Ong Hui Xian, Andrea (Lee &amp; Lee) for the defendant.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">URF — URG — URH</td></tr></tbody></table>
@@ -14,23 +15,23 @@ Family Law – Procedure
 
 ## The parties
 
-2       The first plaintiff was \[X\]’s personal assistant who worked with him at his company, \[Z\] Pte Ltd, since at least the 1980s.[\[note: 1\]](#Ftn_1) The precise relationship between \[X\] and the first plaintiff is keenly disputed in this action.
+2       The first plaintiff was \[X\]’s personal assistant who worked with him at his company, \[Z\] Pte Ltd, since at least the 1980s.[^1] The precise relationship between \[X\] and the first plaintiff is keenly disputed in this action.
 
-3       The second plaintiff is the son of the first plaintiff’s sister. According to him, the first plaintiff has cared for and raised him as her son since he was about a few weeks old, and he regards her as his mother.[\[note: 2\]](#Ftn_2)
+3       The second plaintiff is the son of the first plaintiff’s sister. According to him, the first plaintiff has cared for and raised him as her son since he was about a few weeks old, and he regards her as his mother.[^2]
 
-4       The defendant is the only child of \[X\] and \[X\]’s wife, \[Y\].[\[note: 3\]](#Ftn_3) He resides in Spain. The defendant has lived overseas for several years. While \[X\] was alive, he would return to Singapore about once or twice each year.[\[note: 4\]](#Ftn_4)
+4       The defendant is the only child of \[X\] and \[X\]’s wife, \[Y\].[^3] He resides in Spain. The defendant has lived overseas for several years. While \[X\] was alive, he would return to Singapore about once or twice each year.[^4]
 
 ## The undisputed facts
 
-5       On 25 April 2005, \[X\] and \[Y\] made two wills whose provisions mirror each other. The first plaintiff was a witness to these wills. I will refer to the will executed by \[X\] as “the 2005 Will”. The 2005 Will provided as follows:[\[note: 5\]](#Ftn_5)
+5       On 25 April 2005, \[X\] and \[Y\] made two wills whose provisions mirror each other. The first plaintiff was a witness to these wills. I will refer to the will executed by \[X\] as “the 2005 Will”. The 2005 Will provided as follows:[^5]
 
 (a)     \[X\] appointed \[Y\] as the executrix of the will albeit that if \[Y\] predeceased him or died within two weeks of his death, the defendant was to be appointed as the executor of the will;
 
 (b)     \[Y\] was named as the sole beneficiary of \[X\]’s estate albeit that, if \[Y\] predeceased \[X\], the defendant was to be the sole beneficiary.
 
-6       On 12 January 2007, \[Y\] passed away.[\[note: 6\]](#Ftn_6)
+6       On 12 January 2007, \[Y\] passed away.[^6]
 
-7       On 12 November 2008, \[X\] allegedly executed a will (“the 2008 Will”). Under the terms of the 2008 Will:[\[note: 7\]](#Ftn_7)
+7       On 12 November 2008, \[X\] allegedly executed a will (“the 2008 Will”). Under the terms of the 2008 Will:[^7]
 
 (a)     All former wills made by \[X\] were revoked;
 
@@ -40,37 +41,37 @@ Family Law – Procedure
 
 (d)     \[X\] gave his residual estate to the plaintiffs and the defendant in the following proportions: 40% to the first plaintiff, 30% to the second plaintiff and 30% to the defendant.
 
-8       On 14 May 2017, \[X\] passed away.[\[note: 8\]](#Ftn_8)
+8       On 14 May 2017, \[X\] passed away.[^8]
 
-9       On 22 June 2017, the plaintiffs applied for a grant of probate of the 2008 Will.[\[note: 9\]](#Ftn_9)
+9       On 22 June 2017, the plaintiffs applied for a grant of probate of the 2008 Will.[^9]
 
-10     On 29 June 2017, the defendant’s solicitors lodged a caveat on his behalf against the grant of probate (“the Caveat”).[\[note: 10\]](#Ftn_10)
+10     On 29 June 2017, the defendant’s solicitors lodged a caveat on his behalf against the grant of probate (“the Caveat”).[^10]
 
-11     On 3 July 2017, the plaintiffs filed a Warning to Caveator requiring the defendant to file an Appearance to Warning setting out his alleged interest in \[X\]’s estate.[\[note: 11\]](#Ftn_11)
+11     On 3 July 2017, the plaintiffs filed a Warning to Caveator requiring the defendant to file an Appearance to Warning setting out his alleged interest in \[X\]’s estate.[^11]
 
-12     On 11 July 2017, the defendant filed an Appearance in respect of the Warning to Caveator, claiming that he had an interest in \[X\]’s estate as the sole beneficiary to and intended administrator of \[X\]’s estate. The defendant alleged that the 2008 Will was invalid on the grounds of undue influence and/or lack of testamentary capacity due to \[X\]’s medical condition at the material time.[\[note: 12\]](#Ftn_12)
+12     On 11 July 2017, the defendant filed an Appearance in respect of the Warning to Caveator, claiming that he had an interest in \[X\]’s estate as the sole beneficiary to and intended administrator of \[X\]’s estate. The defendant alleged that the 2008 Will was invalid on the grounds of undue influence and/or lack of testamentary capacity due to \[X\]’s medical condition at the material time.[^12]
 
-13     On 31 August 2017, the plaintiffs commenced this suit (“Suit 6”) in the Family Division of the High Court (“the Family Division”).[\[note: 13\]](#Ftn_13)
+13     On 31 August 2017, the plaintiffs commenced this suit (“Suit 6”) in the Family Division of the High Court (“the Family Division”).[^13]
 
 ## The parties’ cases in Suit 6
 
 14     The plaintiffs’ case, pared down to its essentials, is as follows:
 
-(a)     First, the 2008 Will is valid: the defendant’s claims that it was procured by undue influence and that \[X\] lacked testamentary capacity at the material time (see \[18(a)\] below) are untrue.[\[note: 14\]](#Ftn_14)
+(a)     First, the 2008 Will is valid: the defendant’s claims that it was procured by undue influence and that \[X\] lacked testamentary capacity at the material time (see \[18(a)\] below) are untrue.[^14]
 
-(b)     Second, the defendant’s allegations regarding the validity of the 2005 Will and transfers which \[X\] allegedly made to the plaintiffs (“the Alleged Transfers”) (see \[18(b)\]–\[18(c)\] below) are also untrue.[\[note: 15\]](#Ftn_15)
+(b)     Second, the defendant’s allegations regarding the validity of the 2005 Will and transfers which \[X\] allegedly made to the plaintiffs (“the Alleged Transfers”) (see \[18(b)\]–\[18(c)\] below) are also untrue.[^15]
 
-15     The plaintiffs accordingly seek, among other reliefs, an order that the Caveat be removed and a grant of probate of the 2008 Will.[\[note: 16\]](#Ftn_16)
+15     The plaintiffs accordingly seek, among other reliefs, an order that the Caveat be removed and a grant of probate of the 2008 Will.[^16]
 
 16     More broadly, the plaintiffs aver as follows:
 
-(a)     The first plaintiff and \[X\] had a romantic relationship spanning 40 years; they were constant companions until his passing. \[X\] cared for the plaintiffs as if they were his wife and son; the trio were for all intents and purposes a family unit. Although \[X\] and \[Y\] remained married, they led largely separate lives. \[Y\] knew of \[X\]’s relationship with the first plaintiff, and did not show resentment towards the plaintiffs.[\[note: 17\]](#Ftn_17)
+(a)     The first plaintiff and \[X\] had a romantic relationship spanning 40 years; they were constant companions until his passing. \[X\] cared for the plaintiffs as if they were his wife and son; the trio were for all intents and purposes a family unit. Although \[X\] and \[Y\] remained married, they led largely separate lives. \[Y\] knew of \[X\]’s relationship with the first plaintiff, and did not show resentment towards the plaintiffs.[^17]
 
-(b)     The defendant had a fractious relationship with his parents, \[X\] and \[Y\]. \[X\] had often shared with the plaintiffs his disappointment with and disapproval of the defendant, whom he regarded as selfish.[\[note: 18\]](#Ftn_18)
+(b)     The defendant had a fractious relationship with his parents, \[X\] and \[Y\]. \[X\] had often shared with the plaintiffs his disappointment with and disapproval of the defendant, whom he regarded as selfish.[^18]
 
-(c)     In or around 2006, \[X\] was diagnosed with Parkinson’s disease. However, this did not cause \[X\] to suffer from any significant cognitive impairment. It was only in August 2009 (that is, after the 2008 Will was executed) that \[X\]’s health took a turn for the worse.[\[note: 19\]](#Ftn_19)
+(c)     In or around 2006, \[X\] was diagnosed with Parkinson’s disease. However, this did not cause \[X\] to suffer from any significant cognitive impairment. It was only in August 2009 (that is, after the 2008 Will was executed) that \[X\]’s health took a turn for the worse.[^19]
 
-17     Importantly, on the plaintiffs’ own case, the first plaintiff was heavily involved in \[X\]’s life and personal affairs, and there was “love, mutual trust and confidence” between them.[\[note: 20\]](#Ftn_20) \[X\] “entrusted the \[first plaintiff\] with his personal and company affairs”.[\[note: 21\]](#Ftn_21) More specifically, according to the plaintiffs:[\[note: 22\]](#Ftn_22)
+17     Importantly, on the plaintiffs’ own case, the first plaintiff was heavily involved in \[X\]’s life and personal affairs, and there was “love, mutual trust and confidence” between them.[^20] \[X\] “entrusted the \[first plaintiff\] with his personal and company affairs”.[^21] More specifically, according to the plaintiffs:[^22]
 
 (a)     the first plaintiff and \[X\] “practically spent all of their time together”;
 
@@ -82,17 +83,17 @@ Family Law – Procedure
 
 18     The defendant’s case is as follows:
 
-(a)     First, the 2008 Will is invalid because:[\[note: 23\]](#Ftn_23)
+(a)     First, the 2008 Will is invalid because:[^23]
 
 (i)       it was purportedly executed at a time when \[X\] lacked testamentary capacity due (primarily) to illness; and
 
 (ii)       further, or alternatively, the 2008 Will was procured by undue influence exerted by the first plaintiff over \[X\].
 
-(b)     Second, \[X\]’s last will is the 2005 Will and under that will, the defendant is the executor and also the sole beneficiary of \[X\]’s estate.[\[note: 24\]](#Ftn_24)
+(b)     Second, \[X\]’s last will is the 2005 Will and under that will, the defendant is the executor and also the sole beneficiary of \[X\]’s estate.[^24]
 
-(c)     Third, \[X\] made _inter vivos_ transfers to the first plaintiff and/or the second plaintiff under undue influence exerted by the plaintiffs, and/or these transfers were made when \[X\] lacked mental capacity.[\[note: 25\]](#Ftn_25)
+(c)     Third, \[X\] made _inter vivos_ transfers to the first plaintiff and/or the second plaintiff under undue influence exerted by the plaintiffs, and/or these transfers were made when \[X\] lacked mental capacity.[^25]
 
-19     The defendant seeks the following reliefs among others:[\[note: 26\]](#Ftn_26)
+19     The defendant seeks the following reliefs among others:[^26]
 
 (a)     a declaration that the 2008 Will is invalid and of no effect;
 
@@ -106,23 +107,23 @@ Family Law – Procedure
 
 20     More broadly, the defendant makes the following claims:
 
-(a)     \[X\] did not have a romantic relationship with the first plaintiff, but “always maintained a purely professional working relationship” with her.[\[note: 27\]](#Ftn_27) This is a case of “an employee-cum-personal assistant … seeking to enrich herself with the assets of her deceased employer … \[through\] scheming and systematic control of \[his\] mind, person and property”.[\[note: 28\]](#Ftn_28)
+(a)     \[X\] did not have a romantic relationship with the first plaintiff, but “always maintained a purely professional working relationship” with her.[^27] This is a case of “an employee-cum-personal assistant … seeking to enrich herself with the assets of her deceased employer … \[through\] scheming and systematic control of \[his\] mind, person and property”.[^28]
 
-(b)     He had a close relationship with \[X\] which became stronger after \[Y\] passed away.[\[note: 29\]](#Ftn_29)
+(b)     He had a close relationship with \[X\] which became stronger after \[Y\] passed away.[^29]
 
-(c)     \[X\] had been suffering from Parkinson’s disease since 1999. His health deteriorated rapidly around 2007 to 2008, after the death of \[Y\]. At this point, the first plaintiff “seized the opportunity to systematically assume full control, influence and dominion over the old and infirm \[X\] and all of his personal finances and business affairs”.[\[note: 30\]](#Ftn_30) She procured the execution of the 2008 Will, prevented him from changing the 2008 Will when he wanted to in 2011 and procured transfers of monies to herself.[\[note: 31\]](#Ftn_31)
+(c)     \[X\] had been suffering from Parkinson’s disease since 1999. His health deteriorated rapidly around 2007 to 2008, after the death of \[Y\]. At this point, the first plaintiff “seized the opportunity to systematically assume full control, influence and dominion over the old and infirm \[X\] and all of his personal finances and business affairs”.[^30] She procured the execution of the 2008 Will, prevented him from changing the 2008 Will when he wanted to in 2011 and procured transfers of monies to herself.[^31]
 
 ## The proceedings and decisions below
 
 21     On 13 April 2018, the parties filed the following applications:
 
-(a)     First, the plaintiffs applied for an order that the plaintiffs’ claim and that part of the defence and counterclaim relating to the validity of the 2008 Will (“the Preliminary Issue”) be tried first, with all other parts of the defence and counterclaim to be stayed and dealt with, if necessary, after the determination and disposal of the Preliminary Issue.[\[note: 32\]](#Ftn_32) I will refer to this application as “the Bifurcation Application”.
+(a)     First, the plaintiffs applied for an order that the plaintiffs’ claim and that part of the defence and counterclaim relating to the validity of the 2008 Will (“the Preliminary Issue”) be tried first, with all other parts of the defence and counterclaim to be stayed and dealt with, if necessary, after the determination and disposal of the Preliminary Issue.[^32] I will refer to this application as “the Bifurcation Application”.
 
-(b)     Second, the defendant applied for specific discovery of certain documents (“the Specific Discovery Application”).[\[note: 33\]](#Ftn_33)
+(b)     Second, the defendant applied for specific discovery of certain documents (“the Specific Discovery Application”).[^33]
 
-22     On 20 July 2018, the AR dealt with both applications. She granted the Bifurcation Application, ordering that the Preliminary Issue be tried first (“the Bifurcation Order”).[\[note: 34\]](#Ftn_34) She also granted the Specific Discovery Application in part, ordering the plaintiffs to provide specific discovery of various documents (“the Specific Discovery Order”).[\[note: 35\]](#Ftn_35)
+22     On 20 July 2018, the AR dealt with both applications. She granted the Bifurcation Application, ordering that the Preliminary Issue be tried first (“the Bifurcation Order”).[^34] She also granted the Specific Discovery Application in part, ordering the plaintiffs to provide specific discovery of various documents (“the Specific Discovery Order”).[^35]
 
-23     The AR gave brief oral grounds for the Bifurcation Order:[\[note: 36\]](#Ftn_36)
+23     The AR gave brief oral grounds for the Bifurcation Order:[^36]
 
 (a)     The AR accepted that the evidence on the plaintiffs’ receipt of assets from 2008 would bear on the validity of the 2008 Will. However, she did not agree that there was a significant overlap of issues requiring all of the issues to be heard at the same time. The determination of which will should be recognised was a preliminary exercise that could proceed in a timely way, and would have a significant impact on how the parties proceeded thereafter. If all issues were heard at once, this would “labour the parties in terms of cost and time”. The Bifurcation Application was thus allowed on “a balance of justice and convenience”.
 
@@ -138,15 +139,15 @@ Family Law – Procedure
 
 26     The defendant makes the following submissions:
 
-(a)     First, this court has jurisdiction to hear the defendant’s claims regarding the Alleged Transfers (“the _Inter Vivos_ Claims”) under s 22(1)(_b_) of the FJA read with the Family Justice (Family Proceedings before Family Division of High Court) Order 2014 (S 822/2014) (“the 2014 Order”). Further, in any event, the court has jurisdiction to hear the _Inter Vivos_ Claims under s 25 of the FJA.[\[note: 37\]](#Ftn_37)
+(a)     First, this court has jurisdiction to hear the defendant’s claims regarding the Alleged Transfers (“the _Inter Vivos_ Claims”) under s 22(1)(_b_) of the FJA read with the Family Justice (Family Proceedings before Family Division of High Court) Order 2014 (S 822/2014) (“the 2014 Order”). Further, in any event, the court has jurisdiction to hear the _Inter Vivos_ Claims under s 25 of the FJA.[^37]
 
-(b)     Second, the AR erred in making the Bifurcation Order. There was no basis for that order because the Preliminary Issue is not a succinct knock-out point capable of being decided after a relatively short hearing but will require extensive inquiry into the facts, cannot be divorced from the _Inter Vivos_ Claims, does not involve the straightforward construction of documents; and however it is decided, will save little time or expense because the _Inter Vivos_ Claims will still have to be tried. [\[note: 38\]](#Ftn_38)
+(b)     Second, the AR erred in making the Bifurcation Order. There was no basis for that order because the Preliminary Issue is not a succinct knock-out point capable of being decided after a relatively short hearing but will require extensive inquiry into the facts, cannot be divorced from the _Inter Vivos_ Claims, does not involve the straightforward construction of documents; and however it is decided, will save little time or expense because the _Inter Vivos_ Claims will still have to be tried. [^38]
 
 27     The plaintiffs submit as follows:
 
-(a)     First, this court does not have jurisdiction to hear the _Inter Vivos_ Claims, because the claims do not fall within the jurisdiction of the Family Division as delineated under ss 22 and 25 of the FJA.[\[note: 39\]](#Ftn_39)
+(a)     First, this court does not have jurisdiction to hear the _Inter Vivos_ Claims, because the claims do not fall within the jurisdiction of the Family Division as delineated under ss 22 and 25 of the FJA.[^39]
 
-(b)     Second, in any case, the AR did not err in making the Bifurcation Order. Bifurcation is justified because:[\[note: 40\]](#Ftn_40)
+(b)     Second, in any case, the AR did not err in making the Bifurcation Order. Bifurcation is justified because:[^40]
 
 (i)       it will facilitate or increase the prospects of settlement of the _Inter Vivos_ Claims, which would lead to very substantial savings of costs and resources;
 
@@ -202,7 +203,7 @@ Family Law – Procedure
 
 \[emphasis added\]
 
-34     The _Inter Vivos_ Claims plainly fall outside the scope of these provisions. (I note in passing, however, that it is undisputed that this court has jurisdiction over the parties’ respective claims for a grant of probate of the 2005 and 2008 Wills (“the Probate Claims”) under s 17(1)(_f_) of the SCJA.[\[note: 41\]](#Ftn_41))
+34     The _Inter Vivos_ Claims plainly fall outside the scope of these provisions. (I note in passing, however, that it is undisputed that this court has jurisdiction over the parties’ respective claims for a grant of probate of the 2005 and 2008 Wills (“the Probate Claims”) under s 17(1)(_f_) of the SCJA.[^41])
 
 35     Further, s 17A of the SCJA, which concerns the High Court’s concurrent jurisdiction with the Syariah Court in certain matters, is not applicable.
 
@@ -218,17 +219,17 @@ Family Law – Procedure
 
 38     The defendant argues that this court has jurisdiction over the _Inter Vivos_ Claims under s 22(1)(_b_) of the FJA read with the 2014 Order (see \[26(a)\] above) as follows:
 
-(a)     First, the 2014 Order is “written law” that confers jurisdiction over the _Inter Vivos_ Claims on the Family Division. The defendant cites s 2(1) of the Interpretation Act (Cap 1, 2002 Rev Ed) (“the Interpretation Act”) which defines “written law” to include subsidiary legislation.[\[note: 42\]](#Ftn_42)
+(a)     First, the 2014 Order is “written law” that confers jurisdiction over the _Inter Vivos_ Claims on the Family Division. The defendant cites s 2(1) of the Interpretation Act (Cap 1, 2002 Rev Ed) (“the Interpretation Act”) which defines “written law” to include subsidiary legislation.[^42]
 
-(b)     Second, the jurisdiction conferred on the High Court by the 2014 Order relates to “family proceedings”. In this connection, the defendant submits that the definition of ‘family proceedings” is not confined to the definition set out in s 2(1) of the FJA.[\[note: 43\]](#Ftn_43)
+(b)     Second, the jurisdiction conferred on the High Court by the 2014 Order relates to “family proceedings”. In this connection, the defendant submits that the definition of ‘family proceedings” is not confined to the definition set out in s 2(1) of the FJA.[^43]
 
 39     The plaintiffs argue to the contrary as follows:
 
-(a)     First, the 2014 Order is subsidiary legislation and thus, it cannot expand the jurisdiction of the court.[\[note: 44\]](#Ftn_44)
+(a)     First, the 2014 Order is subsidiary legislation and thus, it cannot expand the jurisdiction of the court.[^44]
 
-(b)     Second, even if the 2014 Order confers jurisdiction on this court, the _Inter Vivos_ Claims do not fall within the scope of the 2014 Order because they do not involve administration actions or proceedings.[\[note: 45\]](#Ftn_45)
+(b)     Second, even if the 2014 Order confers jurisdiction on this court, the _Inter Vivos_ Claims do not fall within the scope of the 2014 Order because they do not involve administration actions or proceedings.[^45]
 
-(c)     Third, any jurisdiction which the High Court has over the _Inter Vivos_ Claims does not relate to “family proceedings”, which term is exhaustively defined in s 2(1) of the FJA, and therefore is not devolved to the Family Division under s 22(1)(_b_) of the FJA.[\[note: 46\]](#Ftn_46)
+(c)     Third, any jurisdiction which the High Court has over the _Inter Vivos_ Claims does not relate to “family proceedings”, which term is exhaustively defined in s 2(1) of the FJA, and therefore is not devolved to the Family Division under s 22(1)(_b_) of the FJA.[^46]
 
 40     In my judgment, this court does not have jurisdiction over the _Inter Vivos_ Claims under s 22(1)(_b_) of the FJA read with the 2014 Order.
 
@@ -334,11 +335,11 @@ _In exercise of the powers conferred by_ **_section 26(4) of the \[FJA\]_**, I, 
 
 …
 
-48     The plaintiffs submit that the _Inter Vivos_ Claims do not fall within the scope of any of the proceedings set out in paragraphs (_a_) to (_r_) of the definition of “family proceedings” in s 2(1) of the FJA.[\[note: 47\]](#Ftn_47) The defendant does not contend otherwise. I accept the plaintiffs’ submission. Further, although s 2(1) of the FJA states that the definitions set out thereunder do not apply if “the context otherwise requires”, the context of s 22(1)(_b_) of the FJA does not, in my judgment, require a meaning to be accorded to the phrase “family proceedings” in s 22(1)(_b_) which is different from that set out in s 2(1). I therefore conclude that any jurisdiction that the High Court has over the _Inter Vivos_ Claims does not relate to “family proceedings”.
+48     The plaintiffs submit that the _Inter Vivos_ Claims do not fall within the scope of any of the proceedings set out in paragraphs (_a_) to (_r_) of the definition of “family proceedings” in s 2(1) of the FJA.[^47] The defendant does not contend otherwise. I accept the plaintiffs’ submission. Further, although s 2(1) of the FJA states that the definitions set out thereunder do not apply if “the context otherwise requires”, the context of s 22(1)(_b_) of the FJA does not, in my judgment, require a meaning to be accorded to the phrase “family proceedings” in s 22(1)(_b_) which is different from that set out in s 2(1). I therefore conclude that any jurisdiction that the High Court has over the _Inter Vivos_ Claims does not relate to “family proceedings”.
 
 49     For the aforementioned reasons, I conclude that this court does not have jurisdiction over the _Inter Vivos_ Claims under s 22(1)(_b_) of the FJA read with the 2014 Order. It is therefore not necessary for me to express a view on the plaintiffs’ submission that in any event, the _Inter Vivos_ Claims do not fall within para 2(_c_) of the 2014 Order as they do not involve “proceedings for the administration of the estate of a deceased person” (see \[39(b)\] above).
 
-50     I note in passing that the defendant also refers to the Trustees Act (Cap 337, 2005 Rev Ed) (“the TA”) in his further submissions in RA 3. Although a sentence in those submissions may be interpreted as suggesting that the TA vests jurisdiction over the _Inter Vivos_ Claims in this court,[\[note: 48\]](#Ftn_48) I do not understand this to be the defendant’s position. Rather, the defendant’s position appears to be that the TA _affirms_ the “equity jurisdiction” of the Family Justice Courts (by empowering those courts to exercise certain powers and grant certain reliefs).[\[note: 49\]](#Ftn_49)
+50     I note in passing that the defendant also refers to the Trustees Act (Cap 337, 2005 Rev Ed) (“the TA”) in his further submissions in RA 3. Although a sentence in those submissions may be interpreted as suggesting that the TA vests jurisdiction over the _Inter Vivos_ Claims in this court,[^48] I do not understand this to be the defendant’s position. Rather, the defendant’s position appears to be that the TA _affirms_ the “equity jurisdiction” of the Family Justice Courts (by empowering those courts to exercise certain powers and grant certain reliefs).[^49]
 
 51     In any case, I am satisfied that the TA does not confer jurisdiction over the _Inter Vivos_ Claims on this court. The defendant did not draw my attention to any relevant jurisdiction-conferring provision in the TA, and I am satisfied that there is no such provision.
 
@@ -370,7 +371,7 @@ In the light of the way that _s 22 plainly delineates the jurisdiction conferred
 
 ## RA 2 – The Specific Discovery Order
 
-59     RA 2 is the plaintiffs’ appeal against the Specific Discovery Order. More specifically, the appeal is against the AR’s decision to grant specific discovery of the following documents (“the Documents”):[\[note: 50\]](#Ftn_50)
+59     RA 2 is the plaintiffs’ appeal against the Specific Discovery Order. More specifically, the appeal is against the AR’s decision to grant specific discovery of the following documents (“the Documents”):[^50]
 
 (a)     the account opening documents and quarterly bank statements in respect of the joint account(s) held by \[X\] and the first plaintiff from 2008 to date, including but not limited to a United Overseas Bank fixed deposit account;
 
@@ -386,17 +387,17 @@ In the light of the way that _s 22 plainly delineates the jurisdiction conferred
 
 61     The plaintiffs, the appellants in RA 2, make the following submissions:
 
-(a)     First, the defendant has not made out a _prima facie_ case that the plaintiffs have possession, custody or power over all of the Documents, in particular the documents pertaining to \[X\]’s sole accounts and \[X\]’s joint accounts with parties other than the plaintiffs.[\[note: 51\]](#Ftn_51)
+(a)     First, the defendant has not made out a _prima facie_ case that the plaintiffs have possession, custody or power over all of the Documents, in particular the documents pertaining to \[X\]’s sole accounts and \[X\]’s joint accounts with parties other than the plaintiffs.[^51]
 
-(b)     Second, the Documents are not relevant to the Probate Claims. Nor are they relevant to the _Inter Vivos_ Claims.[\[note: 52\]](#Ftn_52)
+(b)     Second, the Documents are not relevant to the Probate Claims. Nor are they relevant to the _Inter Vivos_ Claims.[^52]
 
-(c)     Third, discovery of the Documents is not necessary. Nor does discovery conduce to the fair disposal of the matter, since it would be tantamount to ordering an account, that is, granting the defendant one of the reliefs he seeks in Suit 6 (see \[19(c)\] above).[\[note: 53\]](#Ftn_53)
+(c)     Third, discovery of the Documents is not necessary. Nor does discovery conduce to the fair disposal of the matter, since it would be tantamount to ordering an account, that is, granting the defendant one of the reliefs he seeks in Suit 6 (see \[19(c)\] above).[^53]
 
 62     The defendant submits as follows:
 
-(a)     First, the plaintiffs clearly have (had) possession, custody or power over the Documents.[\[note: 54\]](#Ftn_54)
+(a)     First, the plaintiffs clearly have (had) possession, custody or power over the Documents.[^54]
 
-(b)     Second, the Documents are relevant to both the Probate Claims and the _Inter Vivos_ Claims,[\[note: 55\]](#Ftn_55) even if the Bifurcation Order is upheld.[\[note: 56\]](#Ftn_56)
+(b)     Second, the Documents are relevant to both the Probate Claims and the _Inter Vivos_ Claims,[^55] even if the Bifurcation Order is upheld.[^56]
 
 ### My decision
 
@@ -460,15 +461,15 @@ In the light of the way that _s 22 plainly delineates the jurisdiction conferred
 
 67     I note at the outset that the plaintiffs do not seem to dispute, and rightly so, that they have possession, custody or power over _some_ of the Documents: namely, the documents relating to the joint accounts held by \[X\] and the plaintiffs, and the first plaintiff’s accounts (see \[59(a)\]–\[59(b)\] and \[59(d)\] above). Their case appears to be that they do not have possession, custody or power over any documents relating to \[X\]’s sole accounts and \[X\]’s joint accounts with parties other than the plaintiffs (see \[59(c)\] and \[61(a)\] above).
 
-68     In his supporting affidavit for the Specific Discovery Application, the defendant deposed that (all of) the Documents are in the plaintiffs’ possession, custody or power.[\[note: 57\]](#Ftn_57) As stated in _EQ Capital_ at \[46(b)\], such a deposition usually amounts to “sufficient evidence” of the same. Further, this statement was not a bare assertion but based on, among other factors, the fact that the plaintiffs’ _own case_ is that the first plaintiff was heavily involved in \[X\]’s personal life and was entrusted with his personal affairs. I have detailed the relevant portions of the plaintiffs’ pleadings at \[17\] above. In the premises, I am satisfied that there is sufficient evidence that the plaintiffs, in particular the first plaintiff, have (had) possession, custody or power over all of the Documents, including those relating to \[X\]’s sole accounts and \[X\]’s joint accounts with parties besides the plaintiffs.
+68     In his supporting affidavit for the Specific Discovery Application, the defendant deposed that (all of) the Documents are in the plaintiffs’ possession, custody or power.[^57] As stated in _EQ Capital_ at \[46(b)\], such a deposition usually amounts to “sufficient evidence” of the same. Further, this statement was not a bare assertion but based on, among other factors, the fact that the plaintiffs’ _own case_ is that the first plaintiff was heavily involved in \[X\]’s personal life and was entrusted with his personal affairs. I have detailed the relevant portions of the plaintiffs’ pleadings at \[17\] above. In the premises, I am satisfied that there is sufficient evidence that the plaintiffs, in particular the first plaintiff, have (had) possession, custody or power over all of the Documents, including those relating to \[X\]’s sole accounts and \[X\]’s joint accounts with parties besides the plaintiffs.
 
 #### Relevance
 
 69     I have concluded that this court does not have jurisdiction over the _Inter Vivos_ Claims (see \[57\] above). Thus, the relevance of the Documents must be assessed with reference to the pleadings regarding the Probate Claims.
 
-70     The plaintiffs contend that the Probate Claims raise two main issues: (i) whether \[X\] had testamentary capacity to make the 2008 Will and (ii) whether the 2008 Will was procured by undue influence exerted by the first plaintiff. Account opening documents and bank statements are not relevant to testamentary capacity at all. The defendant also has not shown a link between the Documents and the issue of whether the 2008 Will was procured by undue influence; further, documents from November 2008 onwards are not relevant to that issue because the 2008 Will was executed in November 2008.[\[note: 58\]](#Ftn_58)
+70     The plaintiffs contend that the Probate Claims raise two main issues: (i) whether \[X\] had testamentary capacity to make the 2008 Will and (ii) whether the 2008 Will was procured by undue influence exerted by the first plaintiff. Account opening documents and bank statements are not relevant to testamentary capacity at all. The defendant also has not shown a link between the Documents and the issue of whether the 2008 Will was procured by undue influence; further, documents from November 2008 onwards are not relevant to that issue because the 2008 Will was executed in November 2008.[^58]
 
-71     The defendant contends that the Documents are relevant because they would show the financial arrangements between \[X\] and the plaintiffs, and this is relevant to whether the plaintiffs exercised undue influence over \[X\]. Further, although the 2008 Will was executed in November 2008, the defendant relies on _Tan Yok Koon v Tan Choo Suan and another and other appeals_ (“_Tan Yok Koon_”) to contend that the conduct of the parties subsequent to an event is relevant to the parties’ intentions regarding that event. Therefore, the documents from 2008 to date would be relevant.[\[note: 59\]](#Ftn_59)
+71     The defendant contends that the Documents are relevant because they would show the financial arrangements between \[X\] and the plaintiffs, and this is relevant to whether the plaintiffs exercised undue influence over \[X\]. Further, although the 2008 Will was executed in November 2008, the defendant relies on _Tan Yok Koon v Tan Choo Suan and another and other appeals_ (“_Tan Yok Koon_”) to contend that the conduct of the parties subsequent to an event is relevant to the parties’ intentions regarding that event. Therefore, the documents from 2008 to date would be relevant.[^59]
 
 72     I accept the plaintiffs’ submission that the Probate Claims raise two main issues: (i) whether \[X\] had testamentary capacity to make the 2008 Will and (ii) whether the 2008 Will was procured by undue influence exerted by the first plaintiff. Notably, the defendant does not claim that the Documents are relevant to the issue of \[X\]’s testamentary capacity to make the 2008 Will. His case is that they are relevant to the issue of undue influence.
 
@@ -482,7 +483,7 @@ In the light of the way that _s 22 plainly delineates the jurisdiction conferred
 
 #### Necessity
 
-77     In my view, specific discovery of the 2008 Documents is necessary. The plaintiffs’ case on necessity was largely based on their being ordered to provide specific discovery of documents for a period of 10 years.[\[note: 60\]](#Ftn_60) However, in the light of my conclusion that only the 2008 Documents are relevant, the plaintiffs’ contention that specific discovery is unnecessary loses its force, because the plaintiffs would only be required to provide specific discovery of documents for 2008. Given my view that they would be relevant to the issue of undue influence (see \[73\] above), I also do not accept that ordering specific discovery of the 2008 Documents would be tantamount to ordering an account at this stage.
+77     In my view, specific discovery of the 2008 Documents is necessary. The plaintiffs’ case on necessity was largely based on their being ordered to provide specific discovery of documents for a period of 10 years.[^60] However, in the light of my conclusion that only the 2008 Documents are relevant, the plaintiffs’ contention that specific discovery is unnecessary loses its force, because the plaintiffs would only be required to provide specific discovery of documents for 2008. Given my view that they would be relevant to the issue of undue influence (see \[73\] above), I also do not accept that ordering specific discovery of the 2008 Documents would be tantamount to ordering an account at this stage.
 
 ## Conclusion
 
@@ -492,125 +493,125 @@ In the light of the way that _s 22 plainly delineates the jurisdiction conferred
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)Defence and Counterclaim (Amendment No 1) dated 2 February 2018 (“Defence”) at para 6; Reply and Defence to Counterclaim (Amendment No 1) dated 20 February 2018 (“Reply”) at para 16.
+[^1]: Defence and Counterclaim (Amendment No 1) dated 2 February 2018 (“Defence”) at para 6; Reply and Defence to Counterclaim (Amendment No 1) dated 20 February 2018 (“Reply”) at para 16.
 
-[\[note: 2\]](#Ftn_2_1)2nd plaintiff’s affidavit dated 13 April 2018 at para 11.
+[^2]: 2nd plaintiff’s affidavit dated 13 April 2018 at para 11.
 
-[\[note: 3\]](#Ftn_3_1)Defendant’s affidavit dated 13 April 2018 at para 4.
+[^3]: Defendant’s affidavit dated 13 April 2018 at para 4.
 
-[\[note: 4\]](#Ftn_4_1)Defence at para 9; Reply at para 9 and 10(h).
+[^4]: Defence at para 9; Reply at para 9 and 10(h).
 
-[\[note: 5\]](#Ftn_5_1)2nd plaintiff’s affidavit dated 13 April 2018 at paras 17–18 and pp 15–19.
+[^5]: 2nd plaintiff’s affidavit dated 13 April 2018 at paras 17–18 and pp 15–19.
 
-[\[note: 6\]](#Ftn_6_1)2nd plaintiff’s affidavit dated 13 April 2018 at para 8.
+[^6]: 2nd plaintiff’s affidavit dated 13 April 2018 at para 8.
 
-[\[note: 7\]](#Ftn_7_1)2nd plaintiff’s affidavit dated 13 April 2018 at paras 19–20 and pp 21–23.
+[^7]: 2nd plaintiff’s affidavit dated 13 April 2018 at paras 19–20 and pp 21–23.
 
-[\[note: 8\]](#Ftn_8_1)2nd plaintiff’s affidavit dated 13 April 2018 at para 6.
+[^8]: 2nd plaintiff’s affidavit dated 13 April 2018 at para 6.
 
-[\[note: 9\]](#Ftn_9_1)2nd plaintiff’s affidavit dated 13 April 2018 at para 21.
+[^9]: 2nd plaintiff’s affidavit dated 13 April 2018 at para 21.
 
-[\[note: 10\]](#Ftn_10_1)2nd plaintiff’s affidavit dated 13 April 2018 at para 22 and p 24.
+[^10]: 2nd plaintiff’s affidavit dated 13 April 2018 at para 22 and p 24.
 
-[\[note: 11\]](#Ftn_11_1)2nd plaintiff’s affidavit dated 13 April 2018 at para 23 and pp 26–27.
+[^11]: 2nd plaintiff’s affidavit dated 13 April 2018 at para 23 and pp 26–27.
 
-[\[note: 12\]](#Ftn_12_1)2nd plaintiff’s affidavit dated 13 April 2018 at para 24 and pp 28–29.
+[^12]: 2nd plaintiff’s affidavit dated 13 April 2018 at para 24 and pp 28–29.
 
-[\[note: 13\]](#Ftn_13_1)Writ of summons dated 31 August 2017.
+[^13]: Writ of summons dated 31 August 2017.
 
-[\[note: 14\]](#Ftn_14_1)Statement of claim dated 31 August 2017 (“Statement of claim”) at para 7.
+[^14]: Statement of claim dated 31 August 2017 (“Statement of claim”) at para 7.
 
-[\[note: 15\]](#Ftn_15_1)Reply at paras 75–81.
+[^15]: Reply at paras 75–81.
 
-[\[note: 16\]](#Ftn_16_1)Statement of claim at p 3.
+[^16]: Statement of claim at p 3.
 
-[\[note: 17\]](#Ftn_17_1)Reply at paras 16–20.
+[^17]: Reply at paras 16–20.
 
-[\[note: 18\]](#Ftn_18_1)Reply at paras 10–11.
+[^18]: Reply at paras 10–11.
 
-[\[note: 19\]](#Ftn_19_1)Reply at paras 24–25, 29 and 56.
+[^19]: Reply at paras 24–25, 29 and 56.
 
-[\[note: 20\]](#Ftn_20_1)Reply at para 63.
+[^20]: Reply at para 63.
 
-[\[note: 21\]](#Ftn_21_1)Reply at para 64(c).
+[^21]: Reply at para 64(c).
 
-[\[note: 22\]](#Ftn_22_1)Reply at paras 17(a), 19(g), 29, 33 and 33(c)
+[^22]: Reply at paras 17(a), 19(g), 29, 33 and 33(c)
 
-[\[note: 23\]](#Ftn_23_1)Defence at paras 12 and 19.
+[^23]: Defence at paras 12 and 19.
 
-[\[note: 24\]](#Ftn_24_1)Defence at paras 33A–33B.
+[^24]: Defence at paras 33A–33B.
 
-[\[note: 25\]](#Ftn_25_1)Defence at para 34.
+[^25]: Defence at para 34.
 
-[\[note: 26\]](#Ftn_26_1)Defence at pp 16–17.
+[^26]: Defence at pp 16–17.
 
-[\[note: 27\]](#Ftn_27_1)Defendant’s affidavit dated 1 June 2018 at para 3.
+[^27]: Defendant’s affidavit dated 1 June 2018 at para 3.
 
-[\[note: 28\]](#Ftn_28_1)Defence at para 1.
+[^28]: Defence at para 1.
 
-[\[note: 29\]](#Ftn_29_1)Defence at para 9.
+[^29]: Defence at para 9.
 
-[\[note: 30\]](#Ftn_30_1)Defence at para 21.
+[^30]: Defence at para 21.
 
-[\[note: 31\]](#Ftn_31_1)Defence at paras 19, 24, 29 and 35–37.
+[^31]: Defence at paras 19, 24, 29 and 35–37.
 
-[\[note: 32\]](#Ftn_32_1)HCF/SUM 125/2018.
+[^32]: HCF/SUM 125/2018.
 
-[\[note: 33\]](#Ftn_33_1)HCF/SUM 123/2018.
+[^33]: HCF/SUM 123/2018.
 
-[\[note: 34\]](#Ftn_34_1)HCF/ORC 278/2018.
+[^34]: HCF/ORC 278/2018.
 
-[\[note: 35\]](#Ftn_35_1)HCF/ORC 292/2018.
+[^35]: HCF/ORC 292/2018.
 
-[\[note: 36\]](#Ftn_36_1)Notes of Evidence dated 20 July 2018.
+[^36]: Notes of Evidence dated 20 July 2018.
 
-[\[note: 37\]](#Ftn_37_1)Defendant’s submissions for RA 3 at paras 43, 55(a) and 56; Defendant’s further submissions for RA 3 at para 123.
+[^37]: Defendant’s submissions for RA 3 at paras 43, 55(a) and 56; Defendant’s further submissions for RA 3 at para 123.
 
-[\[note: 38\]](#Ftn_38_1)Defendant’s submissions for RA 3 at para 81.
+[^38]: Defendant’s submissions for RA 3 at para 81.
 
-[\[note: 39\]](#Ftn_39_1)Plaintiff’s submissions for RA 3 at paras 114(d)–(e) and 121–122.
+[^39]: Plaintiff’s submissions for RA 3 at paras 114(d)–(e) and 121–122.
 
-[\[note: 40\]](#Ftn_40_1)Plaintiff’s submissions for RA 3 at paras 50, 55 and 82.
+[^40]: Plaintiff’s submissions for RA 3 at paras 50, 55 and 82.
 
-[\[note: 41\]](#Ftn_41_1)Plaintiff’s submissions for RA 3 at para 114(c); Defendant’s further submissions for RA 3 at para 114.
+[^41]: Plaintiff’s submissions for RA 3 at para 114(c); Defendant’s further submissions for RA 3 at para 114.
 
-[\[note: 42\]](#Ftn_42_1)Defendant’s further submissions for RA 3 at para 55.
+[^42]: Defendant’s further submissions for RA 3 at para 55.
 
-[\[note: 43\]](#Ftn_43_1)Defendant’s further submissions for RA 3 at para 71.
+[^43]: Defendant’s further submissions for RA 3 at para 71.
 
-[\[note: 44\]](#Ftn_44_1)Plaintiff’s submissions for RA 3 at paras 120–121.
+[^44]: Plaintiff’s submissions for RA 3 at paras 120–121.
 
-[\[note: 45\]](#Ftn_45_1)Plaintiff’s further submissions for RA 3 at paras 53.
+[^45]: Plaintiff’s further submissions for RA 3 at paras 53.
 
-[\[note: 46\]](#Ftn_46_1)Plaintiff’s further submissions for RA 3 at paras 25–51.
+[^46]: Plaintiff’s further submissions for RA 3 at paras 25–51.
 
-[\[note: 47\]](#Ftn_47_1)Plaintiff’s further submissions for RA 3 at paras 28–51.
+[^47]: Plaintiff’s further submissions for RA 3 at paras 28–51.
 
-[\[note: 48\]](#Ftn_48_1)Defendant’s further submissions for RA 3 at para 111.
+[^48]: Defendant’s further submissions for RA 3 at para 111.
 
-[\[note: 49\]](#Ftn_49_1)Defendant’s further submissions for RA 3 at paras 102–105 and 123.
+[^49]: Defendant’s further submissions for RA 3 at paras 102–105 and 123.
 
-[\[note: 50\]](#Ftn_50_1)Plaintiff’s submissions for RA 2 at para 1.
+[^50]: Plaintiff’s submissions for RA 2 at para 1.
 
-[\[note: 51\]](#Ftn_51_1)Plaintiff’s submissions for RA 2 at paras 9–11.
+[^51]: Plaintiff’s submissions for RA 2 at paras 9–11.
 
-[\[note: 52\]](#Ftn_52_1)Plaintiff’s submissions for RA 2 at paras 12–42.
+[^52]: Plaintiff’s submissions for RA 2 at paras 12–42.
 
-[\[note: 53\]](#Ftn_53_1)Plaintiff’s submissions for RA 2 at paras 43–54.
+[^53]: Plaintiff’s submissions for RA 2 at paras 43–54.
 
-[\[note: 54\]](#Ftn_54_1)Defendant’s submissions for RA 2 at paras 20–23.
+[^54]: Defendant’s submissions for RA 2 at paras 20–23.
 
-[\[note: 55\]](#Ftn_55_1)Defendant’s submissions for RA 2 at paras 10–19.
+[^55]: Defendant’s submissions for RA 2 at paras 10–19.
 
-[\[note: 56\]](#Ftn_56_1)Defendant’s submissions for RA 2 at paras 24–34.
+[^56]: Defendant’s submissions for RA 2 at paras 24–34.
 
-[\[note: 57\]](#Ftn_57_1)Defendant’s affidavit dated 13 April 2018 at p 5 (Heading B) and para 9.
+[^57]: Defendant’s affidavit dated 13 April 2018 at p 5 (Heading B) and para 9.
 
-[\[note: 58\]](#Ftn_58_1)Plaintiffs’ submissions for RA 2 at paras 15–23.
+[^58]: Plaintiffs’ submissions for RA 2 at paras 15–23.
 
-[\[note: 59\]](#Ftn_59_1)Defendant’s submissions for RA 2 at paras 13–17 and 26.
+[^59]: Defendant’s submissions for RA 2 at paras 13–17 and 26.
 
-[\[note: 60\]](#Ftn_60_1)Plaintiffs’ submissions on RA 2 at para 49.
+[^60]: Plaintiffs’ submissions on RA 2 at para 49.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F22700-SSP.xml)

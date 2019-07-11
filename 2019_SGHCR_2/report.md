@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # Absolute Kinetics Consultancy Pte Ltd _v_ Seah Yong Wah (Singapore Telecommunications Ltd, non-party)  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Suit No 1149 of 2017 (Summons No 3742 of 2018)</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">14 January 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Jonathan Ng Pang Ern AR</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Natasha Cheng Yi Hui and Lim Charmaine Jillian Phipps (Eldan Law LLP) for the plaintiff; Jeeva Arul Joethy (Regent Law LLC) for the defendant; Brinden Anandakumar (Fullerton Law Chambers LLC) for the non-party.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Absolute Kinetics Consultancy Pte Ltd — Seah Yong Wah — Singapore Telecommunications Limited</td></tr></tbody></table>
@@ -18,23 +19,23 @@ Civil Procedure – Inherent powers
 
 ### The claim in S 1149
 
-3       The plaintiff, Absolute Kinetics Consultancy Pte Ltd, is a company which deals in the sale of Singtel Easy Mobile Top Up Credits (“Credits”).[\[note: 1\]](#Ftn_1) The defendant, Seah Yong Wah, was the plaintiff’s former employee.[\[note: 2\]](#Ftn_2)
+3       The plaintiff, Absolute Kinetics Consultancy Pte Ltd, is a company which deals in the sale of Singtel Easy Mobile Top Up Credits (“Credits”).[^1] The defendant, Seah Yong Wah, was the plaintiff’s former employee.[^2]
 
-4       S 1149 was commenced by the plaintiff on 7 December 2017. The plaintiff’s claim against the defendant involves three business entities: (a) a company known as Afronco Pte Ltd (“Afronco”); (b) a company known as Nirja Mini Mart Pte Ltd (“Nirja”); and (c) a sole proprietorship known as M/s Rene Rene Trading (collectively, the “Three Entities”).[\[note: 3\]](#Ftn_3) The plaintiff alleges that the defendant’s _modus operandi_ in respect of each of the Three Entities was similar. This can be summarised as follows:
+4       S 1149 was commenced by the plaintiff on 7 December 2017. The plaintiff’s claim against the defendant involves three business entities: (a) a company known as Afronco Pte Ltd (“Afronco”); (b) a company known as Nirja Mini Mart Pte Ltd (“Nirja”); and (c) a sole proprietorship known as M/s Rene Rene Trading (collectively, the “Three Entities”).[^3] The plaintiff alleges that the defendant’s _modus operandi_ in respect of each of the Three Entities was similar. This can be summarised as follows:
 
-(a)     The defendant purported to submit various forms on behalf of the Three Entities.[\[note: 4\]](#Ftn_4) These forms were purportedly signed by individuals from each of the Three Entities,[\[note: 5\]](#Ftn_5) and were applications for the Three Entities to act as the plaintiff’s retailer of Credits and for the purchase of Credits to be delivered to mobile telephone numbers which were ostensibly registered to the Three Entities.[\[note: 6\]](#Ftn_6)
+(a)     The defendant purported to submit various forms on behalf of the Three Entities.[^4] These forms were purportedly signed by individuals from each of the Three Entities,[^5] and were applications for the Three Entities to act as the plaintiff’s retailer of Credits and for the purchase of Credits to be delivered to mobile telephone numbers which were ostensibly registered to the Three Entities.[^6]
 
-(b)     In the case of Nirja, the defendant also submitted a form to request that the name of Nirja as retailer be changed to that of “NJ Minimart” (“NJM”). This form was signed by an unknown person purportedly on behalf of both Nirja and NJM.[\[note: 7\]](#Ftn_7) In the rest of these grounds of decision, no distinction will be drawn between Nirja and NJM.
+(b)     In the case of Nirja, the defendant also submitted a form to request that the name of Nirja as retailer be changed to that of “NJ Minimart” (“NJM”). This form was signed by an unknown person purportedly on behalf of both Nirja and NJM.[^7] In the rest of these grounds of decision, no distinction will be drawn between Nirja and NJM.
 
-(c)     In the case of Afronco and Nirja, the defendant also submitted forms to request that Credits be delivered to other mobile telephone numbers which were ostensibly registered to Afronco and Nirja, instead of to some of the mobile telephone numbers referred to in \[4(a)\] above. These forms were signed by unknown persons purportedly on behalf of Afronco and Nirja respectively.[\[note: 8\]](#Ftn_8)
+(c)     In the case of Afronco and Nirja, the defendant also submitted forms to request that Credits be delivered to other mobile telephone numbers which were ostensibly registered to Afronco and Nirja, instead of to some of the mobile telephone numbers referred to in \[4(a)\] above. These forms were signed by unknown persons purportedly on behalf of Afronco and Nirja respectively.[^8]
 
-5       The plaintiff claims that the various signatures were forged by the defendant or on the instructions of the defendant to fraudulently get the plaintiff to appoint the Three Entities as its retailer of Credits and to sell and deliver Credits to the Three Entities.[\[note: 9\]](#Ftn_9) Pursuant to the various forms and subsequent orders placed by the defendant (purportedly on behalf of the Three Entities), the plaintiff sold and delivered Credits to various mobile telephone numbers.[\[note: 10\]](#Ftn_10) As it turned out, however, these mobile telephone numbers were not registered to the Three Entities, and the Three Entities therefore did not obtain the benefit of the Credits.[\[note: 11\]](#Ftn_11)
+5       The plaintiff claims that the various signatures were forged by the defendant or on the instructions of the defendant to fraudulently get the plaintiff to appoint the Three Entities as its retailer of Credits and to sell and deliver Credits to the Three Entities.[^9] Pursuant to the various forms and subsequent orders placed by the defendant (purportedly on behalf of the Three Entities), the plaintiff sold and delivered Credits to various mobile telephone numbers.[^10] As it turned out, however, these mobile telephone numbers were not registered to the Three Entities, and the Three Entities therefore did not obtain the benefit of the Credits.[^11]
 
-6       The plaintiff’s case is that the various mobile telephone numbers were registered to the defendant or to a person or entity controlled by the defendant, and subsequently sold for a profit.[\[note: 12\]](#Ftn_12) The plaintiff’s claim in S 1149 arises out of this alleged fraud, and is for Credits, totalling $870,594.94, that it had delivered to the various mobile telephone numbers, and which remain unpaid.[\[note: 13\]](#Ftn_13)
+6       The plaintiff’s case is that the various mobile telephone numbers were registered to the defendant or to a person or entity controlled by the defendant, and subsequently sold for a profit.[^12] The plaintiff’s claim in S 1149 arises out of this alleged fraud, and is for Credits, totalling $870,594.94, that it had delivered to the various mobile telephone numbers, and which remain unpaid.[^13]
 
 ### The application in SUM 3742
 
-7       SUM 3742 was taken out on 15 August 2018 against the non-party, Singapore Telecommunications Limited, a leading telecommunications service provider in Singapore.[\[note: 14\]](#Ftn_14) As already noted at \[1\] above, SUM 3742 was, as originally framed, an application pursuant to O 24 r 6(2) of the ROC. Indeed, this much was expressly stated on the face of SUM 3742 itself. The main prayer, prayer 1, read as follows:
+7       SUM 3742 was taken out on 15 August 2018 against the non-party, Singapore Telecommunications Limited, a leading telecommunications service provider in Singapore.[^14] As already noted at \[1\] above, SUM 3742 was, as originally framed, an application pursuant to O 24 r 6(2) of the ROC. Indeed, this much was expressly stated on the face of SUM 3742 itself. The main prayer, prayer 1, read as follows:
 
 Singtel Telecommunications Limited, by its secretary or other officer duly authorised for the purpose or as the case may be, do within 7 days from the Order to be made herein (or such other period of time as this Honourable Court deems fit) file and serve on the Plaintiff an affidavit stating whether any of the documents set out in “Schedule 1” hereto are or at any time have been in their possession, custody or power, when they parted with them and what has become of them, subject to the Plaintiff’s and the Defendant’s undertaking that, except with the leave of Court, any documents disclosed and produced pursuant to the affidavit shall be used only for the purposes of these proceedings …
 
@@ -58,9 +59,9 @@ vii.   \[Phone number 7 redacted\]
 
 viii.   \[Phone number 8 redacted\]
 
-9       In its affidavit, the non-party took issue with various matters. Among other things, the non-party claimed that prayer 1 of SUM 3742 was over-inclusive, and suggested that it would have been sufficient for the plaintiff’s purposes if the plaintiff had requested an order that the non-party provide, by way of an affidavit, discovery of one document, or as many documents as is necessary, setting out in respect of each of the eight mobile telephone numbers in Schedule 1: (a) the name of the registered subscriber; and (b) the NRIC number or other form of identification number of the said registered subscriber (if any).[\[note: 15\]](#Ftn_15) The non-party also pointed out that Schedule 1 did not contain any specific date or period.
+9       In its affidavit, the non-party took issue with various matters. Among other things, the non-party claimed that prayer 1 of SUM 3742 was over-inclusive, and suggested that it would have been sufficient for the plaintiff’s purposes if the plaintiff had requested an order that the non-party provide, by way of an affidavit, discovery of one document, or as many documents as is necessary, setting out in respect of each of the eight mobile telephone numbers in Schedule 1: (a) the name of the registered subscriber; and (b) the NRIC number or other form of identification number of the said registered subscriber (if any).[^15] The non-party also pointed out that Schedule 1 did not contain any specific date or period.
 
-10     Taking these objections into account, the plaintiff was subsequently willing to accept a more limited order along the lines of the non-party’s suggestion. The order which was eventually sought by the plaintiff was set out in its written submissions. After correcting a typographical error in one of the dates for S/No. 6, this was as follows:[\[note: 16\]](#Ftn_16)
+10     Taking these objections into account, the plaintiff was subsequently willing to accept a more limited order along the lines of the non-party’s suggestion. The order which was eventually sought by the plaintiff was set out in its written submissions. After correcting a typographical error in one of the dates for S/No. 6, this was as follows:[^16]
 
 Singtel shall provide, by way of an affidavit, discovery of one document, or as many documents as is necessary, setting out the name of the registered subscriber and the NRIC number or other form of identification number of the said subscriber (if any), in respect of each of the eight mobile telephone numbers (the “**8 Numbers**”) within the specified Relevant Period of Dates set out in **Schedule 1** below:
 
@@ -73,19 +74,19 @@ Singtel shall provide, by way of an affidavit, discovery of one document, or as 
 
 ## Parties’ submissions
 
-11     In its written submissions, the plaintiff submitted that the requested documents existed in the non-party’s possession.[\[note: 17\]](#Ftn_17) Further, the plaintiff claimed that the requested documents were clearly relevant and necessary as the plaintiff was looking to identify or confirm that the defendant and/or his related entities were the registered owner(s) of the eight mobile telephone numbers and the recipient of the plaintiff’s supply of Credits.[\[note: 18\]](#Ftn_18) In the alternative, if the defendant and/or his related entities were not found to be the registered owner(s) of the eight mobile telephone numbers, the plaintiff would then have the requisite information and pursue the action in S 1149 against the correctly-identified party.[\[note: 19\]](#Ftn_19)
+11     In its written submissions, the plaintiff submitted that the requested documents existed in the non-party’s possession.[^17] Further, the plaintiff claimed that the requested documents were clearly relevant and necessary as the plaintiff was looking to identify or confirm that the defendant and/or his related entities were the registered owner(s) of the eight mobile telephone numbers and the recipient of the plaintiff’s supply of Credits.[^18] In the alternative, if the defendant and/or his related entities were not found to be the registered owner(s) of the eight mobile telephone numbers, the plaintiff would then have the requisite information and pursue the action in S 1149 against the correctly-identified party.[^19]
 
-12     In its further written submissions, the plaintiff added that it was relevant and necessary to determine the registered owner of the eight mobile telephone numbers so that the involvement of other parties (if any) could be revealed or linked to the defendant’s conduct. Where necessary, the plaintiff would also be able to consider if any other party (if any) ought to be included as a defendant or called as a witness at trial.[\[note: 20\]](#Ftn_20)
+12     In its further written submissions, the plaintiff added that it was relevant and necessary to determine the registered owner of the eight mobile telephone numbers so that the involvement of other parties (if any) could be revealed or linked to the defendant’s conduct. Where necessary, the plaintiff would also be able to consider if any other party (if any) ought to be included as a defendant or called as a witness at trial.[^20]
 
 13     On its part, the non-party submitted, in its written submissions, that the plaintiff had not shown the relevance or necessity of the information it was seeking in SUM 3742 for the following reasons:
 
-(a)     First, the plaintiff did not appear to have undertaken a full consideration of the relevance of the information sought by reference to the pleaded issues in S 1149.[\[note: 21\]](#Ftn_21)
+(a)     First, the plaintiff did not appear to have undertaken a full consideration of the relevance of the information sought by reference to the pleaded issues in S 1149.[^21]
 
-(b)     Second, the plaintiff’s supporting affidavit in SUM 3742 attested to the defendant’s admission of personal liability for all the unpaid Credits purportedly sold to the Three Entities. This being the plaintiff’s position, it was not apparent why the information which was sought would be relevant or necessary. In addition, the defendant, in his first affidavit filed in SUM 3742, had admitted that he had used some of the eight mobile telephone numbers to purchase Credits.[\[note: 22\]](#Ftn_22)
+(b)     Second, the plaintiff’s supporting affidavit in SUM 3742 attested to the defendant’s admission of personal liability for all the unpaid Credits purportedly sold to the Three Entities. This being the plaintiff’s position, it was not apparent why the information which was sought would be relevant or necessary. In addition, the defendant, in his first affidavit filed in SUM 3742, had admitted that he had used some of the eight mobile telephone numbers to purchase Credits.[^22]
 
-(c)     Third, the plaintiff had not explained what it intended to do with the information which was sought. In particular, the plaintiff had not indicated whether it was seeking the information to: (i) prosecute its claim against the defendant in S 1149; or (ii) identify other potential wrongdoers it intended to bring claims against. If the plaintiff intended to bring proceedings against other potential wrongdoers, the non-party would seek to highlight certain safeguards for the Court’s consideration.[\[note: 23\]](#Ftn_23)
+(c)     Third, the plaintiff had not explained what it intended to do with the information which was sought. In particular, the plaintiff had not indicated whether it was seeking the information to: (i) prosecute its claim against the defendant in S 1149; or (ii) identify other potential wrongdoers it intended to bring claims against. If the plaintiff intended to bring proceedings against other potential wrongdoers, the non-party would seek to highlight certain safeguards for the Court’s consideration.[^23]
 
-14     The non-party also submitted that the plaintiff’s interests and/or the merits of SUM 3742 had to be balanced against the non-party’s statutory duties of confidentiality owed to its subscribers.[\[note: 24\]](#Ftn_24) In its further written submissions, the non-party maintained that the plaintiff had not shown how the subscriber information would be relevant to the plaintiff’s pleaded cause of action against the defendant, and that the subscriber information would not be necessary for the fair disposal of S 1149 or for saving costs. In the course of oral submissions, the non-party also suggested that the Court’s inherent jurisdiction could be the basis upon which SUM 3742 could be granted.
+14     The non-party also submitted that the plaintiff’s interests and/or the merits of SUM 3742 had to be balanced against the non-party’s statutory duties of confidentiality owed to its subscribers.[^24] In its further written submissions, the non-party maintained that the plaintiff had not shown how the subscriber information would be relevant to the plaintiff’s pleaded cause of action against the defendant, and that the subscriber information would not be necessary for the fair disposal of S 1149 or for saving costs. In the course of oral submissions, the non-party also suggested that the Court’s inherent jurisdiction could be the basis upon which SUM 3742 could be granted.
 
 ## Issues
 
@@ -113,7 +114,7 @@ Singtel shall provide, by way of an affidavit, discovery of one document, or as 
 
 (c)     Third, the necessity requirement in O 24 r 7 of the ROC must be satisfied.
 
-18     For present purposes, there was no dispute that the service requirements in \[17(a)\] above were satisfied. It was also clear that the plaintiff’s reply affidavit specified and described the documents in respect of which the order was sought (albeit in a slightly different form from what has been set out at \[10\] above)[\[note: 25\]](#Ftn_25) (see \[17(b)(i)\] above). In these premises, the sub-issues that remained for consideration related to: (a) the _relevance_ of the documents sought (see \[17(b)(ii)\] above); (b) their _necessity_ (see \[17(c)\] above); and (c) whether they were likely in the non-party’s _possession, custody or power_ (see \[17(b)(iii)\] above).
+18     For present purposes, there was no dispute that the service requirements in \[17(a)\] above were satisfied. It was also clear that the plaintiff’s reply affidavit specified and described the documents in respect of which the order was sought (albeit in a slightly different form from what has been set out at \[10\] above)[^25] (see \[17(b)(i)\] above). In these premises, the sub-issues that remained for consideration related to: (a) the _relevance_ of the documents sought (see \[17(b)(ii)\] above); (b) their _necessity_ (see \[17(c)\] above); and (c) whether they were likely in the non-party’s _possession, custody or power_ (see \[17(b)(iii)\] above).
 
 ### Relevance
 
@@ -125,7 +126,7 @@ Singtel shall provide, by way of an affidavit, discovery of one document, or as 
 
 20     The test for relevance in an application under O 24 r 6 of the ROC is the same test that is applied for other types of discovery under O 24 of the ROC (_Singapore Civil Procedure 2019_ vol I (Justice Chua Lee Ming editor-in-chief; Paul Quan general editor) (Sweet & Maxwell, 2019) (“_Singapore Civil Procedure_”) at para 24/6/3). Presumably, the test being referred to is the expanded test of relevance under O 24 r 5(3) of the ROC (as opposed to the test under O 24 r 1(2) of the ROC), since an order for the disclosure of documents by a non-party under O 24 r 6(2) of the ROC will not be for general discovery of documents as under O 24 r 1 of the ROC, but for discovery of particular documents as under O 24 r 5 of the ROC (_Singapore Civil Procedure_ at para 24/6/5).
 
-21     As noted at \[6\] above, the plaintiff’s case is that the various mobile telephone numbers were registered to the defendant or to a person or entity controlled by the defendant, and subsequently sold for a profit. It seemed to me that this claim implicated in one way or another each of the eight mobile telephone numbers set out in Schedule 1 at \[10\] above. Further, it was clear from the Defence that this claim is disputed by the defendant.[\[note: 26\]](#Ftn_26) Accordingly, it followed that the identities of the registered subscribers of these eight mobile telephone numbers were, to use the wording of O 24 r 6(3)(_b_) of the ROC, “relevant to an issue arising … out of the claim made”.
+21     As noted at \[6\] above, the plaintiff’s case is that the various mobile telephone numbers were registered to the defendant or to a person or entity controlled by the defendant, and subsequently sold for a profit. It seemed to me that this claim implicated in one way or another each of the eight mobile telephone numbers set out in Schedule 1 at \[10\] above. Further, it was clear from the Defence that this claim is disputed by the defendant.[^26] Accordingly, it followed that the identities of the registered subscribers of these eight mobile telephone numbers were, to use the wording of O 24 r 6(3)(_b_) of the ROC, “relevant to an issue arising … out of the claim made”.
 
 ### Necessity
 
@@ -247,9 +248,9 @@ As stated at \[1\] above, the second ground for \[BBW\]’s applications was bas
 
 52     In the present case, there was no need for me to consider whether the information sought fell within the scope of the non-party’s statutory duties of confidentiality (or even the anterior question of whether such statutory duties of confidentiality existed (_Haywood_ at \[61\])). Even if I had taken the non-party’s case at its highest, and assumed all this in its favour, the non-party had not proffered any convincing reason as to why I ought to favour confidentiality.
 
-53     First, in suggesting that the Court should lean in favour of non-disclosure, the non-party repeated its submissions on the issue of relevance and necessity.[\[note: 27\]](#Ftn_27) These issues have already been addressed at \[19\]–\[28\] above. I noted that these submissions also included a point about how the plaintiff had not explained what it intended to do with the information it was seeking,[\[note: 28\]](#Ftn_28) but this, in my view, was more germane to the Safeguards Issue.
+53     First, in suggesting that the Court should lean in favour of non-disclosure, the non-party repeated its submissions on the issue of relevance and necessity.[^27] These issues have already been addressed at \[19\]–\[28\] above. I noted that these submissions also included a point about how the plaintiff had not explained what it intended to do with the information it was seeking,[^28] but this, in my view, was more germane to the Safeguards Issue.
 
-54     Second, the non-party submitted that the Court should also take into account whether there existed an alternative and more appropriate method of obtaining the information the plaintiff was seeking from the non-party. In this regard, the non-party highlighted that the plaintiff could have, for example, served interrogatories on the defendant.[\[note: 29\]](#Ftn_29) However, it was not clear to me that interrogatories served on the _defendant_ (as opposed to the non-party) would yield the same information. As I have already noted at \[48\] above, it was not immediately evident that, apart from the non-party, there were other means of obtaining the same evidence.
+54     Second, the non-party submitted that the Court should also take into account whether there existed an alternative and more appropriate method of obtaining the information the plaintiff was seeking from the non-party. In this regard, the non-party highlighted that the plaintiff could have, for example, served interrogatories on the defendant.[^29] However, it was not clear to me that interrogatories served on the _defendant_ (as opposed to the non-party) would yield the same information. As I have already noted at \[48\] above, it was not immediately evident that, apart from the non-party, there were other means of obtaining the same evidence.
 
 55     In _Haywood_, the Court found (at \[64\]) that the appellant had failed to substantiate _how_ the disclosure of the requested documents would be against the interest of justice. For the two reasons set out at \[53\]–\[54\] above, the same could be said in the present case. In the circumstances, there was no reason why confidentiality ought to be favoured. In respect of the Confidentiality Issue, therefore, I was of the view that even if: (a) the non-party’s statutory duties of confidentiality existed; and (b) the information sought fell within the scope of such duties, such duties did not militate against SUM 3742 being granted.
 
@@ -291,9 +292,9 @@ e.    Did you make use of the Credits supplied to the Mobile Number? If not,
 
 ### Parties’ submissions on the Safeguards Issue
 
-62     As I understood it, the main crux of the plaintiff’s submissions on this issue was that the non-party’s concern had been catered for in the Draft Letter. Further, reference was also made to the plaintiff’s obligations (or, more accurately, the plaintiff’s solicitors’ obligations) under r 8(4) and (5) of the Legal Profession (Professional Conduct) Rules 2015 (S 706/2015). Accordingly, it was contended that no further safeguards were required.[\[note: 30\]](#Ftn_30)
+62     As I understood it, the main crux of the plaintiff’s submissions on this issue was that the non-party’s concern had been catered for in the Draft Letter. Further, reference was also made to the plaintiff’s obligations (or, more accurately, the plaintiff’s solicitors’ obligations) under r 8(4) and (5) of the Legal Profession (Professional Conduct) Rules 2015 (S 706/2015). Accordingly, it was contended that no further safeguards were required.[^30]
 
-63     On its part, the non-party submitted that judicial supervision over the first letter of demand sent to its subscribers would help assuage concerns it might have over the potential for abuse of any order granted. It was said that such judicial scrutiny would also ensure fairness to the non-party’s subscribers.[\[note: 31\]](#Ftn_31) To this end, the non-party submitted that the proposed letter of demand should set out: (a) a statement of non-determination of liability; and (b) a statement informing the recipient that he/she may seek legal advice before responding to the same and appoint solicitors to act for him/her in this regard (the “Additional Statements”).[\[note: 32\]](#Ftn_32) Further, the non-party asked that an accompanying undertaking (that the first letter sent to its registered subscribers be in the form of the proposed letter) be provided by way of affidavit.[\[note: 33\]](#Ftn_33)
+63     On its part, the non-party submitted that judicial supervision over the first letter of demand sent to its subscribers would help assuage concerns it might have over the potential for abuse of any order granted. It was said that such judicial scrutiny would also ensure fairness to the non-party’s subscribers.[^31] To this end, the non-party submitted that the proposed letter of demand should set out: (a) a statement of non-determination of liability; and (b) a statement informing the recipient that he/she may seek legal advice before responding to the same and appoint solicitors to act for him/her in this regard (the “Additional Statements”).[^32] Further, the non-party asked that an accompanying undertaking (that the first letter sent to its registered subscribers be in the form of the proposed letter) be provided by way of affidavit.[^33]
 
 ### Decision on the Safeguards Issue
 
@@ -325,11 +326,11 @@ e.    Did you make use of the Credits supplied to the Mobile Number? If not,
 
 (5)    An order for the discovery of documents before the commencement of proceedings or for the discovery of documents by a person who is not a party to the proceedings may be made by the Court for the purpose of or with a view to identifying possible parties to any proceedings in such circumstances where the Court thinks it just to make such an order, and on such terms as it thinks just.
 
-74     Up to the Second Hearing, the only significant reference to O 24 r 6(5) of the ROC by parties was as I have set out at \[34\]–\[35\] above. In its further written submissions, and at the Third Hearing, however, the non-party contended that the SUM 3742 was based on both O 24 r 6(2) and (5) of the ROC.[\[note: 34\]](#Ftn_34)
+74     Up to the Second Hearing, the only significant reference to O 24 r 6(5) of the ROC by parties was as I have set out at \[34\]–\[35\] above. In its further written submissions, and at the Third Hearing, however, the non-party contended that the SUM 3742 was based on both O 24 r 6(2) and (5) of the ROC.[^34]
 
 75     In my view, however, there was no real need to consider O 24 r 6(5) of the ROC. First, O 24 r 6(5) of the ROC is not a standalone provision. As I have alluded to at \[35\] above, the reference therein to “\[a\]n order … for the discovery of documents by a person who is not a party to the proceedings” refers to the order referred to in identical terms in O 24 r 6(2) of the ROC, which has been reproduced at \[16\] above. Thus, although case law establishes a test for applications under O 24 r 6(5) of the ROC, it is apparent that this test must apply _in addition to_ the requirements for an order under O 24 r 6(2) of the ROC, which I have set out at \[17\] above. These requirements include the requirement, imposed by O 24 r 6(3)(_b_) of the ROC, relating to the documents being in the non-party’s possession, custody or power. For the reasons set out at \[29\]–\[30\] above, this requirement was not satisfied. Accordingly, SUM 3742 could not have been granted pursuant to O 24 r 6(5) of the ROC in any event.
 
-76     Second, added to the above was Ms Cheng’s clarification, in no uncertain terms, that the plaintiff’s main focus was to corroborate its case against the defendant. This was consistent with the plaintiff’s further written submissions, which stated that the plaintiff’s intention was to discover the link or relationship between the defendant and the newly-identified parties, and not to bring a new action against the same.[\[note: 35\]](#Ftn_35) It must be recalled that SUM 3742 was the _plaintiff’s_ application. And as the plaintiff was not relying on O 24 r 6(5) of the ROC in any meaningful way, I saw little reason to substantively engage the point.
+76     Second, added to the above was Ms Cheng’s clarification, in no uncertain terms, that the plaintiff’s main focus was to corroborate its case against the defendant. This was consistent with the plaintiff’s further written submissions, which stated that the plaintiff’s intention was to discover the link or relationship between the defendant and the newly-identified parties, and not to bring a new action against the same.[^35] It must be recalled that SUM 3742 was the _plaintiff’s_ application. And as the plaintiff was not relying on O 24 r 6(5) of the ROC in any meaningful way, I saw little reason to substantively engage the point.
 
 77     There was, however, one possible way in which O 24 r 6(5) of the ROC could have been relevant to SUM 3742, and this related to the _Riddick_ principle. The _Riddick_ principle derives from the decision of the English Court of Appeal in _Riddick v Thames Board Mills Ltd_ . As Lord Denning MR held (at 896), there is an implied undertaking that “\[a\] party who seeks discovery of documents gets it on condition that he will make use of them only for the purposes of that action, and no other purpose”. The scope of this undertaking would be clear if SUM 3742 were granted pursuant to either O 24 r 6(2) or (5) of the ROC. However, it would be less so if SUM 3742 were granted pursuant to the Court’s inherent powers.
 
@@ -337,75 +338,75 @@ e.    Did you make use of the Credits supplied to the Mobile Number? If not,
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)Statement of Claim at paras 1-2.
+[^1]: Statement of Claim at paras 1-2.
 
-[\[note: 2\]](#Ftn_2_1)Statement of Claim at para 4.
+[^2]: Statement of Claim at para 4.
 
-[\[note: 3\]](#Ftn_3_1)Statement of Claim at para 6.
+[^3]: Statement of Claim at para 6.
 
-[\[note: 4\]](#Ftn_4_1)Statement of Claim at paras 7, 19 and 33.
+[^4]: Statement of Claim at paras 7, 19 and 33.
 
-[\[note: 5\]](#Ftn_5_1)Statement of Claim at paras 8, 20 and 34.
+[^5]: Statement of Claim at paras 8, 20 and 34.
 
-[\[note: 6\]](#Ftn_6_1)Statement of Claim at paras 7, 19 and 33.
+[^6]: Statement of Claim at paras 7, 19 and 33.
 
-[\[note: 7\]](#Ftn_7_1)Statement of Claim at para 21.
+[^7]: Statement of Claim at para 21.
 
-[\[note: 8\]](#Ftn_8_1)Statement of Claim at paras 9 and 23.
+[^8]: Statement of Claim at paras 9 and 23.
 
-[\[note: 9\]](#Ftn_9_1)Statement of Claim at paras 11, 25 and 36.
+[^9]: Statement of Claim at paras 11, 25 and 36.
 
-[\[note: 10\]](#Ftn_10_1)Statement of Claim at paras 12, 26 and 37.
+[^10]: Statement of Claim at paras 12, 26 and 37.
 
-[\[note: 11\]](#Ftn_11_1)Statement of Claim at paras 13, 27 and 38.
+[^11]: Statement of Claim at paras 13, 27 and 38.
 
-[\[note: 12\]](#Ftn_12_1)Statement of Claim at paras 14, 16, 28, 30, 39 and 41.
+[^12]: Statement of Claim at paras 14, 16, 28, 30, 39 and 41.
 
-[\[note: 13\]](#Ftn_13_1)Statement of Claim at paras 15, 18, 29, 32, 40 and 43.
+[^13]: Statement of Claim at paras 15, 18, 29, 32, 40 and 43.
 
-[\[note: 14\]](#Ftn_14_1)Non-party’s further written submissions at para 40.
+[^14]: Non-party’s further written submissions at para 40.
 
-[\[note: 15\]](#Ftn_15_1)Leong Yeok Heng’s affidavit at para 24.
+[^15]: Leong Yeok Heng’s affidavit at para 24.
 
-[\[note: 16\]](#Ftn_16_1)Plaintiff’s written submissions at para 5(a) and (b).
+[^16]: Plaintiff’s written submissions at para 5(a) and (b).
 
-[\[note: 17\]](#Ftn_17_1)Plaintiff’s written submissions at para 26.
+[^17]: Plaintiff’s written submissions at para 26.
 
-[\[note: 18\]](#Ftn_18_1)Plaintiff’s written submissions at para 30.
+[^18]: Plaintiff’s written submissions at para 30.
 
-[\[note: 19\]](#Ftn_19_1)Plaintiff’s written submissions at para 31.
+[^19]: Plaintiff’s written submissions at para 31.
 
-[\[note: 20\]](#Ftn_20_1)Plaintiff’s further written submissions at para 11.
+[^20]: Plaintiff’s further written submissions at para 11.
 
-[\[note: 21\]](#Ftn_21_1)Non-party’s written submissions at para 48.
+[^21]: Non-party’s written submissions at para 48.
 
-[\[note: 22\]](#Ftn_22_1)Non-party’s written submissions at paras 49-50.
+[^22]: Non-party’s written submissions at paras 49-50.
 
-[\[note: 23\]](#Ftn_23_1)Non-party’s written submissions at paras 51-52.
+[^23]: Non-party’s written submissions at paras 51-52.
 
-[\[note: 24\]](#Ftn_24_1)Non-party’s written submissions at para 53.
+[^24]: Non-party’s written submissions at para 53.
 
-[\[note: 25\]](#Ftn_25_1)Yap Shia Chun’s affidavit at para 8.
+[^25]: Yap Shia Chun’s affidavit at para 8.
 
-[\[note: 26\]](#Ftn_26_1)Defence at paras 9, 10, 17, 19, 27 and 29.
+[^26]: Defence at paras 9, 10, 17, 19, 27 and 29.
 
-[\[note: 27\]](#Ftn_27_1)Non-party’s written submissions at para 53.
+[^27]: Non-party’s written submissions at para 53.
 
-[\[note: 28\]](#Ftn_28_1)Non-party’s written submissions at para 53 read with paras 51-52.
+[^28]: Non-party’s written submissions at para 53 read with paras 51-52.
 
-[\[note: 29\]](#Ftn_29_1)Non-party’s written submissions at para 54.
+[^29]: Non-party’s written submissions at para 54.
 
-[\[note: 30\]](#Ftn_30_1)Plaintiff’s further written submissions at paras 37-39.
+[^30]: Plaintiff’s further written submissions at paras 37-39.
 
-[\[note: 31\]](#Ftn_31_1)Non-party’s further written submissions at para 37.
+[^31]: Non-party’s further written submissions at para 37.
 
-[\[note: 32\]](#Ftn_32_1)Non-party’s further written submissions at para 49.
+[^32]: Non-party’s further written submissions at para 49.
 
-[\[note: 33\]](#Ftn_33_1)Non-party’s further written submissions at para 50.
+[^33]: Non-party’s further written submissions at para 50.
 
-[\[note: 34\]](#Ftn_34_1)Non-party’s further written submissions at para 7.
+[^34]: Non-party’s further written submissions at para 7.
 
-[\[note: 35\]](#Ftn_35_1)Plaintiff’s further written submissions at para 27.
+[^35]: Plaintiff’s further written submissions at para 27.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F22724-SSP.xml)

@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # United Overseas Bank Ltd _v_ Homely Bath Services & Trading Pte Ltd and another  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Originating Summons No 251 of 2018</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">24 January 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Elton Tan Xue Yang AR</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Mr Ushan Premaratne and Mr Kenneth Yap (KhattarWong LLP) for the plaintiff; Ms Suja Susan Thomas (Ignatius J &amp; Associates) for the second defendant.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">United Overseas Bank Limited — Homely Bath Services &amp; Trading Pte Ltd — Skillmax Precision Technologies (S) Pte Ltd</td></tr></tbody></table>
@@ -24,23 +25,23 @@ Landlord and tenant – Recovery of possession – Tenant’s rights
 
 4       The plaintiff is United Overseas Bank Limited (“UOB”). The first defendant, Homely Bath Services & Trading Pte Ltd (“the Landlord”), mortgaged to UOB its registered estate and interest in four separate units – all of which are commercial properties – as security for the repayment of certain loans. A winding up order was issued against the Landlord on 8 September 2017. The Landlord has not participated in these proceedings.
 
-5       The second defendant, Skillmax Precision Technologies (S) Pte Ltd (“the Tenant”), is a precision engineering company. It is not disputed that since 2011, the Tenant has had its functioning office and production site at 20 Woodlands Link #05-27 Singapore 738733 (“the Unit”).[\[note: 1\]](#Ftn_1) The Unit is one of the four units mortgaged by the Landlord to UOB.
+5       The second defendant, Skillmax Precision Technologies (S) Pte Ltd (“the Tenant”), is a precision engineering company. It is not disputed that since 2011, the Tenant has had its functioning office and production site at 20 Woodlands Link #05-27 Singapore 738733 (“the Unit”).[^1] The Unit is one of the four units mortgaged by the Landlord to UOB.
 
 ### Tenant’s occupation of the Unit
 
-6       The Tenant first entered into occupation of the Unit in 2011, following a tenancy agreement dated 15 March 2011 (“the 1st TA”) with the Landlord. The 1st TA was for a term of 36 months from 1 April 2011 to 31 March 2014.[\[note: 2\]](#Ftn_2)
+6       The Tenant first entered into occupation of the Unit in 2011, following a tenancy agreement dated 15 March 2011 (“the 1st TA”) with the Landlord. The 1st TA was for a term of 36 months from 1 April 2011 to 31 March 2014.[^2]
 
-7       On 21 March 2014, the Tenant and the Landlord signed a second tenancy agreement (“the 2nd TA”) in respect of the Unit, likewise for a period of 36 months. The tenancy period began on 1 April 2014, which was the day immediately following the expiry of the 1st TA, and ended on 31 March 2017.[\[note: 3\]](#Ftn_3)
+7       On 21 March 2014, the Tenant and the Landlord signed a second tenancy agreement (“the 2nd TA”) in respect of the Unit, likewise for a period of 36 months. The tenancy period began on 1 April 2014, which was the day immediately following the expiry of the 1st TA, and ended on 31 March 2017.[^3]
 
-8       In early 2015, the Landlord made a refinancing request to UOB in respect of loan facilities that it had obtained from another bank. Crucially, UOB accepts that a copy of the 2nd TA was provided to it by the Landlord at the time the refinancing request was made.[\[note: 4\]](#Ftn_4) On 24 April 2015, UOB issued the Landlord with a letter of offer (“the Letter of Offer”) which incorporated, amongst other things, UOB’s Standard Terms and Conditions Governing Credit Facilities (which was revised by way of a subsequent letter of offer dated 30 June 2015).[\[note: 5\]](#Ftn_5) The offer of banking facilities was duly accepted by the Landlord on 27 April 2015.[\[note: 6\]](#Ftn_6) On 27 May 2015, UOB and the Landlord executed a mortgage in respect of two units, one of which was the Unit, with the Landlord as mortgagor and UOB as mortgagee (“the Mortgage”).[\[note: 7\]](#Ftn_7) The terms of the Mortgage incorporated the covenants and conditions set out in the Memorandum of Mortgage numbered MM I/94778S (“the Memorandum of Mortgage”).[\[note: 8\]](#Ftn_8) There were two other mortgages over the remaining two units.[\[note: 9\]](#Ftn_9)
+8       In early 2015, the Landlord made a refinancing request to UOB in respect of loan facilities that it had obtained from another bank. Crucially, UOB accepts that a copy of the 2nd TA was provided to it by the Landlord at the time the refinancing request was made.[^4] On 24 April 2015, UOB issued the Landlord with a letter of offer (“the Letter of Offer”) which incorporated, amongst other things, UOB’s Standard Terms and Conditions Governing Credit Facilities (which was revised by way of a subsequent letter of offer dated 30 June 2015).[^5] The offer of banking facilities was duly accepted by the Landlord on 27 April 2015.[^6] On 27 May 2015, UOB and the Landlord executed a mortgage in respect of two units, one of which was the Unit, with the Landlord as mortgagor and UOB as mortgagee (“the Mortgage”).[^7] The terms of the Mortgage incorporated the covenants and conditions set out in the Memorandum of Mortgage numbered MM I/94778S (“the Memorandum of Mortgage”).[^8] There were two other mortgages over the remaining two units.[^9]
 
-9       The Tenant and the Landlord entered into a third tenancy agreement on 5 February 2017 (“the 3rd TA”). Again, the agreed tenancy period was for 36 months. The tenancy would commence on 1 April 2017 (_ie_, the day immediately following the expiry of the 2nd TA) and end on 31 March 2020.[\[note: 10\]](#Ftn_10) According to UOB, it only became aware that the Unit was tenanted when one of the Landlord’s staff informed UOB sometime in end October or early November 2017 about this. Prior to that, UOB had not been notified of the 3rd TA and was not aware of its terms.[\[note: 11\]](#Ftn_11) Nor had UOB consented to the Landlord entering into the 3rd TA with the Tenant.[\[note: 12\]](#Ftn_12)
+9       The Tenant and the Landlord entered into a third tenancy agreement on 5 February 2017 (“the 3rd TA”). Again, the agreed tenancy period was for 36 months. The tenancy would commence on 1 April 2017 (_ie_, the day immediately following the expiry of the 2nd TA) and end on 31 March 2020.[^10] According to UOB, it only became aware that the Unit was tenanted when one of the Landlord’s staff informed UOB sometime in end October or early November 2017 about this. Prior to that, UOB had not been notified of the 3rd TA and was not aware of its terms.[^11] Nor had UOB consented to the Landlord entering into the 3rd TA with the Tenant.[^12]
 
 ### Action for possession
 
-10     On 8 September 2017, a winding up order was made against the Landlord and the Official Receiver was appointed as liquidator.[\[note: 13\]](#Ftn_13) When this came to UOB’s attention, its solicitors issued a letter of demand to the Landlord on 19 September 2017, recalling all the facilities granted to the Landlord and demanding full payment of the outstanding sum of $687,697.63 as at 19 September 2017 and accrued interest.[\[note: 14\]](#Ftn_14) On 6 December 2017, UOB’s solicitors served notice on the Landlord to deliver vacant possession of the four mortgaged units,[\[note: 15\]](#Ftn_15) and also on the occupiers of each of those units.[\[note: 16\]](#Ftn_16)
+10     On 8 September 2017, a winding up order was made against the Landlord and the Official Receiver was appointed as liquidator.[^13] When this came to UOB’s attention, its solicitors issued a letter of demand to the Landlord on 19 September 2017, recalling all the facilities granted to the Landlord and demanding full payment of the outstanding sum of $687,697.63 as at 19 September 2017 and accrued interest.[^14] On 6 December 2017, UOB’s solicitors served notice on the Landlord to deliver vacant possession of the four mortgaged units,[^15] and also on the occupiers of each of those units.[^16]
 
-11     Upon receiving the notice, the Tenant wrote to UOB, expressing its interest in purchasing the Unit. In the course of several letters, it explained that it had been in occupation of the Unit since 2011 and that it had invested substantial sums to set up heavy machinery and electrical systems in the Unit. If it were required to move out, the Tenant’s survival as a going concern would be threatened and its customers, some of which needed daily support for their production plants, would likewise be affected.[\[note: 17\]](#Ftn_17) UOB nevertheless replied that it would be exercising its right to take vacant possession of the Unit.[\[note: 18\]](#Ftn_18)
+11     Upon receiving the notice, the Tenant wrote to UOB, expressing its interest in purchasing the Unit. In the course of several letters, it explained that it had been in occupation of the Unit since 2011 and that it had invested substantial sums to set up heavy machinery and electrical systems in the Unit. If it were required to move out, the Tenant’s survival as a going concern would be threatened and its customers, some of which needed daily support for their production plants, would likewise be affected.[^17] UOB nevertheless replied that it would be exercising its right to take vacant possession of the Unit.[^18]
 
 12     On 1 March 2018, UOB filed Originating Summons No 251 of 2018 (“the Action”), commencing proceedings under O 83 r 1(1) of the Rules of Court (Cap 322, R 5, 2014 Rev Ed) (“the Rules of Court”) to seek delivery of vacant possession of the four mortgaged units as well as repayment of the sums owed.
 
@@ -52,21 +53,21 @@ Landlord and tenant – Recovery of possession – Tenant’s rights
 
 ## Parties’ submissions
 
-15     The flow of the Tenant’s primary arguments is as follows. To begin, UOB is bound to honour the 2nd TA pursuant to s 46(1) of the Land Titles Act (Cap 157, 2004 Rev Ed) (“the LTA”). The Tenant explains that UOB had “full knowledge of the prevailing tenancy at the time (i.e. the 2nd TA) and all the terms therein”.[\[note: 19\]](#Ftn_19) It points out that UOB had admitted that a copy of the 2nd TA was provided by the Landlord to UOB at the time the Landlord made its re-financing request (see also \[8\] above).[\[note: 20\]](#Ftn_20) Relying on s 89 of the LTA and the High Court’s decision in _Singapore Finance Ltd and another v Matterhorn (Pte) Ltd and others_ (“_Matterhorn_”), the Tenant further argues that UOB’s actions in accepting the Unit as security and in securing its interest with a document titled “Legal Assignment of Rental Proceeds/Charge over Rental Account” (which I will refer to in the interests of brevity as “the Assignment of Rental Proceeds”) were “positive steps emanating from \[UOB\] from which it is possible to infer \[UOB’s\] consent or acquiescence to not just the 2nd TA but all future tenancies”. It emphasises that the Assignment of Rental Proceeds pertained not only to rental proceeds under the 2nd TA but also “all future tenancy agreements”.[\[note: 21\]](#Ftn_21)
+15     The flow of the Tenant’s primary arguments is as follows. To begin, UOB is bound to honour the 2nd TA pursuant to s 46(1) of the Land Titles Act (Cap 157, 2004 Rev Ed) (“the LTA”). The Tenant explains that UOB had “full knowledge of the prevailing tenancy at the time (i.e. the 2nd TA) and all the terms therein”.[^19] It points out that UOB had admitted that a copy of the 2nd TA was provided by the Landlord to UOB at the time the Landlord made its re-financing request (see also \[8\] above).[^20] Relying on s 89 of the LTA and the High Court’s decision in _Singapore Finance Ltd and another v Matterhorn (Pte) Ltd and others_ (“_Matterhorn_”), the Tenant further argues that UOB’s actions in accepting the Unit as security and in securing its interest with a document titled “Legal Assignment of Rental Proceeds/Charge over Rental Account” (which I will refer to in the interests of brevity as “the Assignment of Rental Proceeds”) were “positive steps emanating from \[UOB\] from which it is possible to infer \[UOB’s\] consent or acquiescence to not just the 2nd TA but all future tenancies”. It emphasises that the Assignment of Rental Proceeds pertained not only to rental proceeds under the 2nd TA but also “all future tenancy agreements”.[^21]
 
-16     Having reached this interim conclusion, the Tenant then observes that cl 5(b) of the 2nd TA[\[note: 22\]](#Ftn_22) grants the Tenant an option to renew the tenancy for a further 12 months from 31 March 2017 (“the Option to Renew”). (The parties accept that the clause should be titled “Option to Renew” rather than “Option to Review”.) It states:
+16     Having reached this interim conclusion, the Tenant then observes that cl 5(b) of the 2nd TA[^22] grants the Tenant an option to renew the tenancy for a further 12 months from 31 March 2017 (“the Option to Renew”). (The parties accept that the clause should be titled “Option to Renew” rather than “Option to Review”.) It states:
 
 **OPTION TO REVIEW**
 
 If the Tenant shall be desirous of continuing the tenancy hereby created for a further term of twelve (12) months at the expiration of the term hereby granted in this Agreement, shall give to the Landlord two (2) months’ notice in writing prior to the expiration date of this Agreement indicating the Tenant’s desire and if there shall not at any time of such request be existing breach or non-observance of any of the stipulations on the part of the Tenant herein contained, then, the Landlord will let the property to the Tenant for the further term of twelve (12) months from the 31st of March 2017, at a rental to be agreed based on the prevailing market rent but otherwise containing the like condition, covenants and stipulations as are herein contained with the exception of this option to renew.
 
-The Tenant submits that the 3rd TA is a renewal of the 2nd TA pursuant to the Option to Renew.[\[note: 23\]](#Ftn_23) It reasons that since UOB was “well aware of all the details of the 2nd TA, and had accepted and consented to the same”, UOB was bound by the 3rd TA since that agreement came about as a result of the Tenant’s exercise of the Option to Renew.[\[note: 24\]](#Ftn_24)
+The Tenant submits that the 3rd TA is a renewal of the 2nd TA pursuant to the Option to Renew.[^23] It reasons that since UOB was “well aware of all the details of the 2nd TA, and had accepted and consented to the same”, UOB was bound by the 3rd TA since that agreement came about as a result of the Tenant’s exercise of the Option to Renew.[^24]
 
-17     Finally, the Tenant submits that in any event, cl 8 of the Letter of Offer does not require the Landlord to seek UOB’s prior written consent for its entry into the 3rd TA (whether as a renewal of the 2nd TA or as a fresh tenancy agreement). Clause 8 only requires the Landlord to obtain such written consent if it was changing the use of the Unit from “owner-occupation” to “investment”, and in the transition from the 2nd to the 3rd TA there was no such change of use since the Unit was still being used for investment. The Tenant argues that cl 1.8 of the Memorandum of Mortgage (which UOB relies upon to support its position that the 3rd TA is not binding on UOB, given that the 3rd TA was created without UOB’s written consent) must be “read in conjunction” with cl 8 of the Letter of Offer. When those clauses are read together, it “becomes clear” that the requirement of written consent as set out in cl 1.8 of the Memorandum of Mortgage applies only in a situation where the mortgagor of an owner-occupied property leases out the property, and not in a situation such as the present case where the mortgagor (_ie_, the Landlord) “simply renews a pre-existing lease which has already been consented to or expressly/impliedly authorised by \[UOB\] and/or carries on using the property as investment”.[\[note: 25\]](#Ftn_25)
+17     Finally, the Tenant submits that in any event, cl 8 of the Letter of Offer does not require the Landlord to seek UOB’s prior written consent for its entry into the 3rd TA (whether as a renewal of the 2nd TA or as a fresh tenancy agreement). Clause 8 only requires the Landlord to obtain such written consent if it was changing the use of the Unit from “owner-occupation” to “investment”, and in the transition from the 2nd to the 3rd TA there was no such change of use since the Unit was still being used for investment. The Tenant argues that cl 1.8 of the Memorandum of Mortgage (which UOB relies upon to support its position that the 3rd TA is not binding on UOB, given that the 3rd TA was created without UOB’s written consent) must be “read in conjunction” with cl 8 of the Letter of Offer. When those clauses are read together, it “becomes clear” that the requirement of written consent as set out in cl 1.8 of the Memorandum of Mortgage applies only in a situation where the mortgagor of an owner-occupied property leases out the property, and not in a situation such as the present case where the mortgagor (_ie_, the Landlord) “simply renews a pre-existing lease which has already been consented to or expressly/impliedly authorised by \[UOB\] and/or carries on using the property as investment”.[^25]
 
-18     UOB rejects the Tenant’s case at all three levels. First, it maintains that it did not consent to the 2nd TA or any subsequent tenancy agreements. It accepts that if it had expressly or impliedly authorised or consented to the 2nd TA, it would be bound by the 2nd TA.[\[note: 26\]](#Ftn_26) However, UOB merely had knowledge of the 2nd TA and this was not sufficient to ground any finding that it had consented to or acquiesced in the 2nd TA under s 89 of the LTA.[\[note: 27\]](#Ftn_27) It denies that the Assignment of Rental Proceeds can be regarded as a “positive act indicating consent or acquiesce\[nce to\] the tenancy agreements entered into between the \[Landlord and Tenant\]”, or otherwise provides any support for the Tenant’s argument that it consented to the 2nd and/or 3rd TA.[\[note: 28\]](#Ftn_28)
+18     UOB rejects the Tenant’s case at all three levels. First, it maintains that it did not consent to the 2nd TA or any subsequent tenancy agreements. It accepts that if it had expressly or impliedly authorised or consented to the 2nd TA, it would be bound by the 2nd TA.[^26] However, UOB merely had knowledge of the 2nd TA and this was not sufficient to ground any finding that it had consented to or acquiesced in the 2nd TA under s 89 of the LTA.[^27] It denies that the Assignment of Rental Proceeds can be regarded as a “positive act indicating consent or acquiesce\[nce to\] the tenancy agreements entered into between the \[Landlord and Tenant\]”, or otherwise provides any support for the Tenant’s argument that it consented to the 2nd and/or 3rd TA.[^28]
 
-19     UOB further submits that the 3rd TA is not a renewal or extension of the 2nd TA. Rather, the 3rd TA is a “separate and independent tenancy agreement from the 2nd TA”. UOB refers to various parts of the Option to Renew clause in the 2nd TA to demonstrate that the 3rd TA did not fall within its scope.[\[note: 29\]](#Ftn_29) Finally, it contends that there is no legal basis for the Tenant’s “strained attempt” to argue that cl 1.8 of the Memorandum of Mortgage must be read together with cl 8 of the Letter of Offer. In making that argument, the Tenant is “conflating the obligations of \[the Landlord\] as borrower under the Letter of Offer with its obligations as mortgagor under the mortgage”.[\[note: 30\]](#Ftn_30)
+19     UOB further submits that the 3rd TA is not a renewal or extension of the 2nd TA. Rather, the 3rd TA is a “separate and independent tenancy agreement from the 2nd TA”. UOB refers to various parts of the Option to Renew clause in the 2nd TA to demonstrate that the 3rd TA did not fall within its scope.[^29] Finally, it contends that there is no legal basis for the Tenant’s “strained attempt” to argue that cl 1.8 of the Memorandum of Mortgage must be read together with cl 8 of the Letter of Offer. In making that argument, the Tenant is “conflating the obligations of \[the Landlord\] as borrower under the Letter of Offer with its obligations as mortgagor under the mortgage”.[^30]
 
 ## Issues and approach
 
@@ -282,25 +283,25 @@ If the Tenant shall be desirous of continuing the tenancy hereby created for a _
 
 (c)     Apart from the amount of rental to be paid, the renewed tenancy will contain the same conditions, covenants and stipulations as the 2nd TA with the exception of the Option to Renew.
 
-72     None of these features are consistent with the 3rd TA. In relation to the period of renewal, one would expect that if the 3rd TA were a renewal of the 2nd TA, the period of lease would be 12 months. But the agreed tenancy period in the 3rd TA is three times that – it provides for a lease of 36 months, commencing on 1 April 2017 and ending on 31 March 2020 (see \[9\] above). It is also notable that the 1st and 2nd TAs likewise provide for tenancy periods of 36 months each (see \[6\]–\[7\] above). Against this, the Tenant refers to _Rimmon Watch_ and argues that the case “does not rule out the proposition that where the mortgagee has had sight of a tenancy agreement and has accepted the terms and consented to the same, a renewal of the lease for a period different from what is stipulated in the Option to renew (subject of course to Section 23, CLPA) could still be within its initial consent and/or impliedly authorized in the mortgage”.[\[note: 31\]](#Ftn_31) This is true but does not take the Tenant very far. I will set out my findings on whether UOB consented to the 3rd TA in the following section.
+72     None of these features are consistent with the 3rd TA. In relation to the period of renewal, one would expect that if the 3rd TA were a renewal of the 2nd TA, the period of lease would be 12 months. But the agreed tenancy period in the 3rd TA is three times that – it provides for a lease of 36 months, commencing on 1 April 2017 and ending on 31 March 2020 (see \[9\] above). It is also notable that the 1st and 2nd TAs likewise provide for tenancy periods of 36 months each (see \[6\]–\[7\] above). Against this, the Tenant refers to _Rimmon Watch_ and argues that the case “does not rule out the proposition that where the mortgagee has had sight of a tenancy agreement and has accepted the terms and consented to the same, a renewal of the lease for a period different from what is stipulated in the Option to renew (subject of course to Section 23, CLPA) could still be within its initial consent and/or impliedly authorized in the mortgage”.[^31] This is true but does not take the Tenant very far. I will set out my findings on whether UOB consented to the 3rd TA in the following section.
 
-73     Regarding the requirement of notice, as UOB pointed out,[\[note: 32\]](#Ftn_32) the Tenant did not disclose any such notice within its affidavits. The Tenant did not even claim that it had provided such a notice to the Landlord. If a notice to renew had indeed been issued, one would expect at the very least that the Tenant would have some record of this, as the issuer of the notice, but nothing of the sort was proffered to the court. Finally, as regards the terms of a renewed lease, I note that the 3rd TA contains an “Option to Review” clause that is worded identically to the Option to Renew in the 2nd TA (including an incorrect reference to “31st of March 2017” as the commencement date of the renewed lease). That is plainly inconsistent with the stipulation in the Option to Renew that any renewed tenancy would not contain such a renewal clause.
+73     Regarding the requirement of notice, as UOB pointed out,[^32] the Tenant did not disclose any such notice within its affidavits. The Tenant did not even claim that it had provided such a notice to the Landlord. If a notice to renew had indeed been issued, one would expect at the very least that the Tenant would have some record of this, as the issuer of the notice, but nothing of the sort was proffered to the court. Finally, as regards the terms of a renewed lease, I note that the 3rd TA contains an “Option to Review” clause that is worded identically to the Option to Renew in the 2nd TA (including an incorrect reference to “31st of March 2017” as the commencement date of the renewed lease). That is plainly inconsistent with the stipulation in the Option to Renew that any renewed tenancy would not contain such a renewal clause.
 
-74     In pursuing the Tenant’s argument, Ms Thomas referred me to a decision of District Judge Foo Tuat Yien (as she then was) in _Bougainvillea Realty Pte Ltd v Siong Hoe International (Pte) Ltd_ (“_Bougainvillea_”). It is not necessary to elaborate on the facts of _Bougainvillea_ save to say that the dispute centred on whether the defendant tenants had agreed to the renewal of their tenancy on the terms of the original tenancy or if parties were still negotiating the terms for the renewal of the tenancy. According to Ms Thomas, _Bougainvillea_ supports the proposition that “\[w\]hen there is no option to renew, and the original parties to the existing lease are in any kind of negotiation to enter into a further lease of the property, intending for the same to be effective at the end of the existing lease, the courts refer to that as a renewal”.[\[note: 33\]](#Ftn_33) Ms Thomas relied on \[2\] of _Bougainvillea_, which merely outlines the defendants’ argument that after the original tenancy expired, the parties had “only agreed in principle on a 2 year renewal of the lease at a revised rental and service charge \[but\] had yet to commit themselves by executing the tenancy renewal agreement, as they were still negotiating the terms of the lease”. I fail to see how that paragraph or any other part of _Bougainvillea_ yields the legal proposition advocated by Ms Thomas. DJ Foo made no such finding in her judgment. That is unsurprising when one considers that the question of whether such a further lease should properly be considered a “renewal” of the previous lease had simply not been in issue in _Bougainvillea_. And even if I accept that a further tenancy that contains terms differing from those of the original tenancy, or which are still the subject of negotiation, can be regarded as a “renewal” of the original tenancy, none of this ultimately assists the Tenant. The only relevant meaning of a “renewal” for present purposes is that which is framed by the Option to Renew. As I have explained, the terms of the 3rd TA and the manner of its creation sit ill at ease with the requirements of the Option to Renew. I am therefore unable to find that the 3rd TA is a “renewal” of the 2nd TA within the meaning of the Option to Renew.
+74     In pursuing the Tenant’s argument, Ms Thomas referred me to a decision of District Judge Foo Tuat Yien (as she then was) in _Bougainvillea Realty Pte Ltd v Siong Hoe International (Pte) Ltd_ (“_Bougainvillea_”). It is not necessary to elaborate on the facts of _Bougainvillea_ save to say that the dispute centred on whether the defendant tenants had agreed to the renewal of their tenancy on the terms of the original tenancy or if parties were still negotiating the terms for the renewal of the tenancy. According to Ms Thomas, _Bougainvillea_ supports the proposition that “\[w\]hen there is no option to renew, and the original parties to the existing lease are in any kind of negotiation to enter into a further lease of the property, intending for the same to be effective at the end of the existing lease, the courts refer to that as a renewal”.[^33] Ms Thomas relied on \[2\] of _Bougainvillea_, which merely outlines the defendants’ argument that after the original tenancy expired, the parties had “only agreed in principle on a 2 year renewal of the lease at a revised rental and service charge \[but\] had yet to commit themselves by executing the tenancy renewal agreement, as they were still negotiating the terms of the lease”. I fail to see how that paragraph or any other part of _Bougainvillea_ yields the legal proposition advocated by Ms Thomas. DJ Foo made no such finding in her judgment. That is unsurprising when one considers that the question of whether such a further lease should properly be considered a “renewal” of the previous lease had simply not been in issue in _Bougainvillea_. And even if I accept that a further tenancy that contains terms differing from those of the original tenancy, or which are still the subject of negotiation, can be regarded as a “renewal” of the original tenancy, none of this ultimately assists the Tenant. The only relevant meaning of a “renewal” for present purposes is that which is framed by the Option to Renew. As I have explained, the terms of the 3rd TA and the manner of its creation sit ill at ease with the requirements of the Option to Renew. I am therefore unable to find that the 3rd TA is a “renewal” of the 2nd TA within the meaning of the Option to Renew.
 
-75     For the foregoing reasons, I disagree with the Tenant’s submission that the 3rd TA came about as a result of its exercise of the Option to Renew. I accept UOB’s argument that the 3rd TA is a “separate and independent tenancy agreement from the 2nd TA”.[\[note: 34\]](#Ftn_34)
+75     For the foregoing reasons, I disagree with the Tenant’s submission that the 3rd TA came about as a result of its exercise of the Option to Renew. I accept UOB’s argument that the 3rd TA is a “separate and independent tenancy agreement from the 2nd TA”.[^34]
 
 #### Whether UOB consented to the 3rd TA
 
 76     Even if the 3rd TA cannot be considered a renewal of the 2nd TA pursuant to the Option to Renew, it remains possible that UOB consented to the 3rd TA such that it is bound by it under s 89(1)(_b_) of the LTA. As summarised at \[63(e)\] above, the true question is whether, looking at all the facts, one can reasonably infer that UOB accepted the Tenant as its own tenant. Such an inference can be drawn from “positive steps” taken by UOB or its agent which indicate consent or acquiescence.
 
-77     Because the Tenant directed its argument to whether UOB had consented to or acquiesced in the 2nd TA (rather than the 3rd TA), it did not point to anything said or done by UOB that specifically related to the 3rd TA. Nonetheless, it submitted that “\[UOB’s\] actions in accepting the \[Unit\] as security and in securing its interest with \[the Assignment of Rental Proceeds\] of not just the rental proceeds of the 2nd TA _but also of all future tenancy agreements_ at the time it granted the said financing were positive steps emanating from \[UOB\] from which it is possible to infer its consent or acquiescence to not just the 2nd TA _but all future tenancies_” \[emphasis added\].[\[note: 35\]](#Ftn_35) I will address this argument to the extent that it refers to UOB’s acceptance of the Unit as security and the Assignment of Rental Proceeds as evidence of UOB’s consent to or acquiescence in the 3rd TA (as one of such “future tenancy agreements”).
+77     Because the Tenant directed its argument to whether UOB had consented to or acquiesced in the 2nd TA (rather than the 3rd TA), it did not point to anything said or done by UOB that specifically related to the 3rd TA. Nonetheless, it submitted that “\[UOB’s\] actions in accepting the \[Unit\] as security and in securing its interest with \[the Assignment of Rental Proceeds\] of not just the rental proceeds of the 2nd TA _but also of all future tenancy agreements_ at the time it granted the said financing were positive steps emanating from \[UOB\] from which it is possible to infer its consent or acquiescence to not just the 2nd TA _but all future tenancies_” \[emphasis added\].[^35] I will address this argument to the extent that it refers to UOB’s acceptance of the Unit as security and the Assignment of Rental Proceeds as evidence of UOB’s consent to or acquiescence in the 3rd TA (as one of such “future tenancy agreements”).
 
 78     I begin with the somewhat trite observation that the conduct relied on by the Tenant took place before the creation of the 3rd TA. The type of consent that the Tenant refers to is therefore not the sort of retrospective consent that was at issue in the cases described at \[45\]–\[62\], but rather what appears to be prospective consent to the 3rd TA and all future tenancy agreements. It is difficult to see how UOB’s decision to accept the Unit as security for the facilities granted to the Landlord can be regarded as evidence of such general and unqualified consent. All that can properly be said is that UOB, which had before it a copy of the 2nd TA at the time the refinancing request was made (see \[8\] above), accepted that its security would be subject to the Tenant’s rights and interests as contained in the 2nd TA, which would include the Option to Renew. As I have explained, the 3rd TA is not a renewal of the 2nd TA under the Option to Renew. Nothing in UOB’s decision to accept the Unit as security therefore suggests that it consented to giving the Landlord a general discretion to create fresh tenancies of the Unit.
 
-79     Nor am I persuaded that the Assignment of Rental Proceeds supports the Tenant’s case. The Tenant places great emphasis on the fact that the Assignment of Rental Proceeds applies “not just \[to\] current but also future rental income from the \[Unit\]”.[\[note: 36\]](#Ftn_36) It argues that “\[i\]n requiring that future rental proceeds be assigned and charged to \[UOB\] as security for the grant of the mortgage loan in 2015, \[UOB\] by implication consented to/authorised future tenancy agreements which would give rise to such rental proceeds, as absent such consent/authorization, the assignment and charge of future rental proceeds would be meaningless, and the \[Assignment of Rental Proceeds\] would be ineffective as consideration for \[UOB’s\] grant of financing in 2015”.[\[note: 37\]](#Ftn_37)
+79     Nor am I persuaded that the Assignment of Rental Proceeds supports the Tenant’s case. The Tenant places great emphasis on the fact that the Assignment of Rental Proceeds applies “not just \[to\] current but also future rental income from the \[Unit\]”.[^36] It argues that “\[i\]n requiring that future rental proceeds be assigned and charged to \[UOB\] as security for the grant of the mortgage loan in 2015, \[UOB\] by implication consented to/authorised future tenancy agreements which would give rise to such rental proceeds, as absent such consent/authorization, the assignment and charge of future rental proceeds would be meaningless, and the \[Assignment of Rental Proceeds\] would be ineffective as consideration for \[UOB’s\] grant of financing in 2015”.[^37]
 
-80     I cannot accept the submission. To begin, UOB’s entitlement to rental proceeds under the Assignment of Rental Proceeds is unaffected by the issue of UOB’s consent or otherwise to any tenancy agreements for the Unit. Under cl 3 of the Assignment of Rental Proceeds, the Landlord assigned to UOB all of its present and future rights, title and interest in and to all benefits under and arising out of the “Tenancy Agreements for the Property” and the “Rental Proceeds from the Property, together with the entitlements and rights to receive such Rental Proceeds, whether now or in the future”.[\[note: 38\]](#Ftn_38) The term “Tenancy Agreements” is broadly defined as “all present and future contracts, leases, rental agreement, tenancy agreement, licences, lettering agreements or documents … which are entered into by or on behalf of the \[Landlord\], in respect of the occupation, use or possession of the Property or any part thereof”, and “Rental Proceeds” means “all monies payable to the \[Landlord\] or its nominee under the Tenancy Agreements whether now or in the future”. There is no requirement that UOB must have consented to the “Tenancy Agreements” for it to be entitled to the “Rental Proceeds”.[\[note: 39\]](#Ftn_39) The Assignment of Rental Proceeds operates as a continuing security for the Landlord’s “payment and repayment of \[the sums due from or owing or payable by the Landlord to UOB\]” (see cl 4.1 of the Assignment of Rental Proceeds)[\[note: 40\]](#Ftn_40) and nothing in the instrument suggests that the operation of this security should be premised on UOB’s consent to the tenancy agreements.
+80     I cannot accept the submission. To begin, UOB’s entitlement to rental proceeds under the Assignment of Rental Proceeds is unaffected by the issue of UOB’s consent or otherwise to any tenancy agreements for the Unit. Under cl 3 of the Assignment of Rental Proceeds, the Landlord assigned to UOB all of its present and future rights, title and interest in and to all benefits under and arising out of the “Tenancy Agreements for the Property” and the “Rental Proceeds from the Property, together with the entitlements and rights to receive such Rental Proceeds, whether now or in the future”.[^38] The term “Tenancy Agreements” is broadly defined as “all present and future contracts, leases, rental agreement, tenancy agreement, licences, lettering agreements or documents … which are entered into by or on behalf of the \[Landlord\], in respect of the occupation, use or possession of the Property or any part thereof”, and “Rental Proceeds” means “all monies payable to the \[Landlord\] or its nominee under the Tenancy Agreements whether now or in the future”. There is no requirement that UOB must have consented to the “Tenancy Agreements” for it to be entitled to the “Rental Proceeds”.[^39] The Assignment of Rental Proceeds operates as a continuing security for the Landlord’s “payment and repayment of \[the sums due from or owing or payable by the Landlord to UOB\]” (see cl 4.1 of the Assignment of Rental Proceeds)[^40] and nothing in the instrument suggests that the operation of this security should be premised on UOB’s consent to the tenancy agreements.
 
 81     The point is put beyond any doubt when one examines cl 8(c) of the Assignment of Rental Proceeds:
 
@@ -320,7 +321,7 @@ The clause makes it clear that one cannot infer UOB’s consent to any tenancy a
 
 ### The requirement of written consent
 
-83     UOB argues that any consent given by UOB to the 3rd TA must be in writing, and on the facts there was no such written consent. The Landlord’s failure to obtain such written consent is not only a breach of the terms of the Mortgage, entitling UOB to take possession of the Unit, but also entails that the 3rd TA is not binding on UOB.[\[note: 41\]](#Ftn_41) UOB relies in this regard on cl 1.8 of the Memorandum of Mortgage:
+83     UOB argues that any consent given by UOB to the 3rd TA must be in writing, and on the facts there was no such written consent. The Landlord’s failure to obtain such written consent is not only a breach of the terms of the Mortgage, entitling UOB to take possession of the Unit, but also entails that the 3rd TA is not binding on UOB.[^41] UOB relies in this regard on cl 1.8 of the Memorandum of Mortgage:
 
 No Parting with Possession or Disposal
 
@@ -356,87 +357,87 @@ PROPERTY USAGE
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)Affidavit of Madasamy Sankaralinga Murugan dated 17 October 2018 (“Madasamy (17 October 2018)”) at para 4.
+[^1]: Affidavit of Madasamy Sankaralinga Murugan dated 17 October 2018 (“Madasamy (17 October 2018)”) at para 4.
 
-[\[note: 2\]](#Ftn_2_1)Madasamy (17 October 2018) at para 6(a); affidavit of Madasamy Sankaralinga Murugan dated 20 June 2018 (“Madasamy (20 June 2018)”) at pp8–12.
+[^2]: Madasamy (17 October 2018) at para 6(a); affidavit of Madasamy Sankaralinga Murugan dated 20 June 2018 (“Madasamy (20 June 2018)”) at pp8–12.
 
-[\[note: 3\]](#Ftn_3_1)Madasamy (17 October 2018) at para 6(b); Madasamy (20 June 2018) at pp13–18.
+[^3]: Madasamy (17 October 2018) at para 6(b); Madasamy (20 June 2018) at pp13–18.
 
-[\[note: 4\]](#Ftn_4_1)Affidavit of See Yen Nee dated 1 August 2018 (“See Yen Nee (1 August 2018)”) at para 18.
+[^4]: Affidavit of See Yen Nee dated 1 August 2018 (“See Yen Nee (1 August 2018)”) at para 18.
 
-[\[note: 5\]](#Ftn_5_1)Affidavit of See Yen Nee dated 1 March 2018 (“See Yen Nee (1 March 2018)”) at para 3 and pp99–145.
+[^5]: Affidavit of See Yen Nee dated 1 March 2018 (“See Yen Nee (1 March 2018)”) at para 3 and pp99–145.
 
-[\[note: 6\]](#Ftn_6_1)See Yen Nee (1 March 2018) at p117.
+[^6]: See Yen Nee (1 March 2018) at p117.
 
-[\[note: 7\]](#Ftn_7_1)See Yen Nee (1 March 2018) at pp19–26.
+[^7]: See Yen Nee (1 March 2018) at pp19–26.
 
-[\[note: 8\]](#Ftn_8_1)See Yen Nee (1 March 2018) at p20 and p62–97.
+[^8]: See Yen Nee (1 March 2018) at p20 and p62–97.
 
-[\[note: 9\]](#Ftn_9_1)See Yen Nee (1 March 2018) at pp5–6.
+[^9]: See Yen Nee (1 March 2018) at pp5–6.
 
-[\[note: 10\]](#Ftn_10_1)Madasamy (17 October 2018) at para 6(c); Madasamy (20 June 2018) at pp19–24.
+[^10]: Madasamy (17 October 2018) at para 6(c); Madasamy (20 June 2018) at pp19–24.
 
-[\[note: 11\]](#Ftn_11_1)Affidavit of See Yen Nee dated 27 June 2018 at para 10; See Yen Nee (1 August 2018) at para 26.
+[^11]: Affidavit of See Yen Nee dated 27 June 2018 at para 10; See Yen Nee (1 August 2018) at para 26.
 
-[\[note: 12\]](#Ftn_12_1)See Yen Nee (1 August 2018) at para 27.
+[^12]: See Yen Nee (1 August 2018) at para 27.
 
-[\[note: 13\]](#Ftn_13_1)Madasamy (17 October 2018) at para 7.
+[^13]: Madasamy (17 October 2018) at para 7.
 
-[\[note: 14\]](#Ftn_14_1)See Yen Nee (1 March 2018) at paras 4–6.
+[^14]: See Yen Nee (1 March 2018) at paras 4–6.
 
-[\[note: 15\]](#Ftn_15_1)See Yen Nee (1 March 2018) at para 6 and pp156–157.
+[^15]: See Yen Nee (1 March 2018) at para 6 and pp156–157.
 
-[\[note: 16\]](#Ftn_16_1)See Yen Nee (1 March 2018) at pp162–165.
+[^16]: See Yen Nee (1 March 2018) at pp162–165.
 
-[\[note: 17\]](#Ftn_17_1)See Yen Nee (1 March 2018) at pp195–200.
+[^17]: See Yen Nee (1 March 2018) at pp195–200.
 
-[\[note: 18\]](#Ftn_18_1)Affidavit of Madasamy Sankaralinga Murugan dated 6 July 2018 at pp56–57.
+[^18]: Affidavit of Madasamy Sankaralinga Murugan dated 6 July 2018 at pp56–57.
 
-[\[note: 19\]](#Ftn_19_1)2nd Defendant’s written submissions dated 31 October 2018 (“2nd Defendant’s Submissions”) at paras 48(a) and 51.
+[^19]: 2nd Defendant’s written submissions dated 31 October 2018 (“2nd Defendant’s Submissions”) at paras 48(a) and 51.
 
-[\[note: 20\]](#Ftn_20_1)2nd Defendant’s Submissions at para 50.
+[^20]: 2nd Defendant’s Submissions at para 50.
 
-[\[note: 21\]](#Ftn_21_1)2nd Defendant’s Submissions at paras 48(b), 54 and 84.
+[^21]: 2nd Defendant’s Submissions at paras 48(b), 54 and 84.
 
-[\[note: 22\]](#Ftn_22_1)Madasamy (20 June 2018) at p16.
+[^22]: Madasamy (20 June 2018) at p16.
 
-[\[note: 23\]](#Ftn_23_1)2nd Defendant’s Submissions at para 47.
+[^23]: 2nd Defendant’s Submissions at para 47.
 
-[\[note: 24\]](#Ftn_24_1)2nd Defendant’s Submissions at para 98.
+[^24]: 2nd Defendant’s Submissions at para 98.
 
-[\[note: 25\]](#Ftn_25_1)2nd Defendant’s Submissions at paras 74–75.
+[^25]: 2nd Defendant’s Submissions at paras 74–75.
 
-[\[note: 26\]](#Ftn_26_1)Plaintiff’s skeletal written submissions dated 31 October 2018 (“Plaintiff’s Submissions”) at para 37.
+[^26]: Plaintiff’s skeletal written submissions dated 31 October 2018 (“Plaintiff’s Submissions”) at para 37.
 
-[\[note: 27\]](#Ftn_27_1)Plaintiff’s Submissions at paras 35–36.
+[^27]: Plaintiff’s Submissions at paras 35–36.
 
-[\[note: 28\]](#Ftn_28_1)Plaintiff’s Submissions at paras 44 and 46.
+[^28]: Plaintiff’s Submissions at paras 44 and 46.
 
-[\[note: 29\]](#Ftn_29_1)Plaintiff’s Submissions at paras 27–32.
+[^29]: Plaintiff’s Submissions at paras 27–32.
 
-[\[note: 30\]](#Ftn_30_1)Plaintiff’s Submissions at para 52.
+[^30]: Plaintiff’s Submissions at para 52.
 
-[\[note: 31\]](#Ftn_31_1)2nd Defendant’s Submissions at para 97.
+[^31]: 2nd Defendant’s Submissions at para 97.
 
-[\[note: 32\]](#Ftn_32_1)Plaintiff’s Submissions at para 32(d).
+[^32]: Plaintiff’s Submissions at para 32(d).
 
-[\[note: 33\]](#Ftn_33_1)See also 2nd Defendant’s Submissions at para 45.
+[^33]: See also 2nd Defendant’s Submissions at para 45.
 
-[\[note: 34\]](#Ftn_34_1)Plaintiff’s Submissions at para 28.
+[^34]: Plaintiff’s Submissions at para 28.
 
-[\[note: 35\]](#Ftn_35_1)2nd Defendant’s Submissions at para 48(b).
+[^35]: 2nd Defendant’s Submissions at para 48(b).
 
-[\[note: 36\]](#Ftn_36_1)2nd Defendant’s Submissions at para 60.
+[^36]: 2nd Defendant’s Submissions at para 60.
 
-[\[note: 37\]](#Ftn_37_1)2nd Defendant’s Submissions at para 62.
+[^37]: 2nd Defendant’s Submissions at para 62.
 
-[\[note: 38\]](#Ftn_38_1)See Yen Nee (1 August 2018) at p37.
+[^38]: See Yen Nee (1 August 2018) at p37.
 
-[\[note: 39\]](#Ftn_39_1)See Yen Nee (1 August 2018) at p35.
+[^39]: See Yen Nee (1 August 2018) at p35.
 
-[\[note: 40\]](#Ftn_40_1)See Yen Nee (1 August 2018) at p38.
+[^40]: See Yen Nee (1 August 2018) at p38.
 
-[\[note: 41\]](#Ftn_41_1)Plaintiff’s Submissions at para 52; affidavit of Boey Mo Liang Kenneth dated 26 October 2018 at para 17.
+[^41]: Plaintiff’s Submissions at para 52; affidavit of Boey Mo Liang Kenneth dated 26 October 2018 at para 17.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F22755-SSP.xml)

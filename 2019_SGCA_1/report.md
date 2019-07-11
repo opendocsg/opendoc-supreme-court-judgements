@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # Burberry Ltd _v_ Megastar Shipping Pte Ltd and another appeal  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Civil Appeals No 237 and 238 of 2017</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">07 January 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Court of Appeal</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Andrew Phang Boon Leong JA; Judith Prakash JA; Tay Yong Kwang JA</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Ravindran s/o Muthucumarasamy, Jevon Louis and Chan Wenqiang (Ravindran Associates LLP) for the appellants; Chia Chee Hyong Leonard and Jasmine Dhanaraj (Asia Ascent Law Corporation) for the respondent; Prof Gordon Ionwy David Llewelyn (School of Law, Singapore Management University) as amicus curiae.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Burberry Limited — Megastar Shipping Pte Ltd — Louis Vuitton Malletier</td></tr></tbody></table>
@@ -22,23 +23,23 @@ Trade Marks and Trade Names – Border enforcement measures
 
 3       The appellants are trade mark proprietors of luxury brands, Burberry and Louis Vuitton. The respondent is a freight forwarder company which provides transhipment services in Singapore.
 
-4       On 28 March 2013, the counterfeit goods which infringed the appellants’ trade marks (“the goods”) were shipped by Chinese companies from China to Singapore in two sealed containers intended for onward shipment to Batam in Indonesia. The expected dates of arrival in Singapore were 1 April 2013 and 3 April 2013 respectively. On or about 28 March 2013, the respondent received letters from an Indonesian company, PT Alvenindo Sukses Ekspress, asking the respondent to arrange for transhipment of the containers to Batam.[\[note: 1\]](#Ftn_1) PT Alvenindo Sukses Ekspress (“the third party”) was brought in as a third party in the action by the respondent. For the purpose of transhipment, the respondent received the following documents:
+4       On 28 March 2013, the counterfeit goods which infringed the appellants’ trade marks (“the goods”) were shipped by Chinese companies from China to Singapore in two sealed containers intended for onward shipment to Batam in Indonesia. The expected dates of arrival in Singapore were 1 April 2013 and 3 April 2013 respectively. On or about 28 March 2013, the respondent received letters from an Indonesian company, PT Alvenindo Sukses Ekspress, asking the respondent to arrange for transhipment of the containers to Batam.[^1] PT Alvenindo Sukses Ekspress (“the third party”) was brought in as a third party in the action by the respondent. For the purpose of transhipment, the respondent received the following documents:
 
-(a)     Two seaway bills dated 28[\[note: 2\]](#Ftn_2) and 30 March 2013[\[note: 3\]](#Ftn_3) for the first and second containers respectively. Both stated that the containers were shipped from China by different Chinese companies (which were later found to have false addresses). The respondent was listed as the consignee. The cargo was described as “household goods”.
+(a)     Two seaway bills dated 28[^2] and 30 March 2013[^3] for the first and second containers respectively. Both stated that the containers were shipped from China by different Chinese companies (which were later found to have false addresses). The respondent was listed as the consignee. The cargo was described as “household goods”.
 
-(b)     Packing lists and commercial invoices that listed the third party as the consignee.[\[note: 4\]](#Ftn_4) They described the contents of the first container as car accessories, fashion items, tools and hardware. They described the second container as comprising car accessories, computer accessories, fashion items, household goods, tools and hardware.[\[note: 5\]](#Ftn_5)
+(b)     Packing lists and commercial invoices that listed the third party as the consignee.[^4] They described the contents of the first container as car accessories, fashion items, tools and hardware. They described the second container as comprising car accessories, computer accessories, fashion items, household goods, tools and hardware.[^5]
 
 (c)     Arrival notices that listed the respondent as the consignee.
 
-5       Accordingly, the respondent asked the carrier to declare transhipment status and made the necessary declarations on the Portnet system, an electronic system operated by the Port of Singapore Authority (“PSA”),[\[note: 6\]](#Ftn_6) to arrange for the transhipment of the goods. At no point did the respondent see or interact physically with the cargo. As the Judge noted, under the Portnet system, the freight forwarder would not ordinarily need to see or to take physical possession of the containers. Once the instructions are entered into Portnet, PSA undertakes the necessary operations of unloading of the containers, placement into transhipment stacks and loading of the containers on board the outward bound vessel (Judgment at \[29\]).
+5       Accordingly, the respondent asked the carrier to declare transhipment status and made the necessary declarations on the Portnet system, an electronic system operated by the Port of Singapore Authority (“PSA”),[^6] to arrange for the transhipment of the goods. At no point did the respondent see or interact physically with the cargo. As the Judge noted, under the Portnet system, the freight forwarder would not ordinarily need to see or to take physical possession of the containers. Once the instructions are entered into Portnet, PSA undertakes the necessary operations of unloading of the containers, placement into transhipment stacks and loading of the containers on board the outward bound vessel (Judgment at \[29\]).
 
-6       The containers arrived in Singapore on 1 and 3 April 2013 respectively. Upon arrival, Singapore Customs informed the respondent that it would inspect both containers on 2 and 4 April 2013 respectively.[\[note: 7\]](#Ftn_7) During the inspections, Singapore Customs found the cargoes to include counterfeit products totaling more than 15,000 items[\[note: 8\]](#Ftn_8) and seized the goods. The goods were subsequently kept in a warehouse. The unseized goods from both containers were later combined and shipped to Batam by the respondent under instructions from the third party.
+6       The containers arrived in Singapore on 1 and 3 April 2013 respectively. Upon arrival, Singapore Customs informed the respondent that it would inspect both containers on 2 and 4 April 2013 respectively.[^7] During the inspections, Singapore Customs found the cargoes to include counterfeit products totaling more than 15,000 items[^8] and seized the goods. The goods were subsequently kept in a warehouse. The unseized goods from both containers were later combined and shipped to Batam by the respondent under instructions from the third party.
 
 7       The appellants, with three other trade mark proprietors, commenced infringement of trade mark actions against the respondent in April 2013. As mentioned, the respondent involved the third party in the proceedings but the third party chose not to participate in any of the proceedings in the High Court. The third party was aware of the seizure and detention of the goods but made no attempt to seek their release. After the writ of summons was issued but prior to trial, with the respondent’s consent and after notice was given to the third party, the goods were released to the appellants for destruction (Judgment at \[40\] and \[192\]).
 
 ## The decision in the High Court
 
-8       The Judge dismissed the appellants’ claims on the basis that the respondent did not import the goods. The main question before the Judge was whether the respondent was liable for trade mark infringement under s 27 of the Trade Marks Act (Cap 332, 2005 Rev Ed) (“the TMA”). Under s 27(1) of the TMA, a person infringes a registered trade mark if, without the consent of the proprietor of the trade mark, he uses in the course of trade a sign which is identical with the trade mark in relation to goods or services which are identical with those for which it is registered. A person “uses” a sign if he “imports or exports goods under the sign” (s 27(4)(_c_) of the TMA). The words “under the sign” mean that the sign is affixed on the goods or is placed in proximity to the goods such that there is an association between the sign and the goods (see Tan Tee Jim, _Law of Trade Marks and Passing Off in Singapore_ vol 1 (Sweet & Maxwell, 3rd Ed, 2014) at para 11.074).[\[note: 9\]](#Ftn_9)
+8       The Judge dismissed the appellants’ claims on the basis that the respondent did not import the goods. The main question before the Judge was whether the respondent was liable for trade mark infringement under s 27 of the Trade Marks Act (Cap 332, 2005 Rev Ed) (“the TMA”). Under s 27(1) of the TMA, a person infringes a registered trade mark if, without the consent of the proprietor of the trade mark, he uses in the course of trade a sign which is identical with the trade mark in relation to goods or services which are identical with those for which it is registered. A person “uses” a sign if he “imports or exports goods under the sign” (s 27(4)(_c_) of the TMA). The words “under the sign” mean that the sign is affixed on the goods or is placed in proximity to the goods such that there is an association between the sign and the goods (see Tan Tee Jim, _Law of Trade Marks and Passing Off in Singapore_ vol 1 (Sweet & Maxwell, 3rd Ed, 2014) at para 11.074).[^9]
 
 9       It was not disputed that the goods bore counterfeit trade marks identical to the respective trade marks in question and the goods were within the classes in which the trade marks were registered. The only questions were therefore:
 
@@ -80,37 +81,37 @@ Accordingly, the Judge dismissed the appellants’ claims against the respondent
 
 15     The appellants contend that the Judge erred in holding that the respondent was not the importer for these reasons:
 
-(a)     The Judge did not give appropriate weight to the factual and expert evidence. The appellants’ expert, Ms Chew Mui Ling (“Ms Chew”), opined that the respondent was the importer because it was listed as the local consignee on the seaway bill and was the only person who could take custody of the goods in Singapore.[\[note: 10\]](#Ftn_10) Mr Aaron Cheong (“Mr Cheong”) from Singapore Customs also testified that the respondent, being the local consignee, would be the importer.[\[note: 11\]](#Ftn_11) The evidence also showed that the respondent would have to apply for customs permits for the transhipment and would list itself as the importer in these documents.[\[note: 12\]](#Ftn_12)
+(a)     The Judge did not give appropriate weight to the factual and expert evidence. The appellants’ expert, Ms Chew Mui Ling (“Ms Chew”), opined that the respondent was the importer because it was listed as the local consignee on the seaway bill and was the only person who could take custody of the goods in Singapore.[^10] Mr Aaron Cheong (“Mr Cheong”) from Singapore Customs also testified that the respondent, being the local consignee, would be the importer.[^11] The evidence also showed that the respondent would have to apply for customs permits for the transhipment and would list itself as the importer in these documents.[^12]
 
-(b)     The Judge placed undue significance on the fact that the respondent did not own the goods. Case law showed that absence of ownership was not a barrier to being considered an importer.[\[note: 13\]](#Ftn_13) Further, the seller and the buyer in the present transaction were unidentifiable and it was therefore difficult to examine the underlying transaction.[\[note: 14\]](#Ftn_14)
+(b)     The Judge placed undue significance on the fact that the respondent did not own the goods. Case law showed that absence of ownership was not a barrier to being considered an importer.[^13] Further, the seller and the buyer in the present transaction were unidentifiable and it was therefore difficult to examine the underlying transaction.[^14]
 
-(c)     The respondent caused the goods to be brought into Singapore since it was a local consignee for a non-through transhipment, without which the transaction could not go through.[\[note: 15\]](#Ftn_15) It was not merely a form-filling agent but had the ability to collect the goods and to reship them to another destination or to bring them into Singapore.[\[note: 16\]](#Ftn_16) UK case law showed that such persons would be considered to be importers.[\[note: 17\]](#Ftn_17)
+(c)     The respondent caused the goods to be brought into Singapore since it was a local consignee for a non-through transhipment, without which the transaction could not go through.[^15] It was not merely a form-filling agent but had the ability to collect the goods and to reship them to another destination or to bring them into Singapore.[^16] UK case law showed that such persons would be considered to be importers.[^17]
 
-(d)     Parliament intended for the local consignee to be liable as the importer of infringing goods. The introduction of border enforcement measures that allowed for goods in transit to be detained and the short timeframe given for an infringement action to be commenced mean that Parliament must have intended for the local consignee (who is easily identifiable) to be liable as the importer.[\[note: 18\]](#Ftn_18) Further, as a matter of policy, holding that local consignees would not be liable would encourage consignees to turn a blind eye to the trade in counterfeit goods.[\[note: 19\]](#Ftn_19)
+(d)     Parliament intended for the local consignee to be liable as the importer of infringing goods. The introduction of border enforcement measures that allowed for goods in transit to be detained and the short timeframe given for an infringement action to be commenced mean that Parliament must have intended for the local consignee (who is easily identifiable) to be liable as the importer.[^18] Further, as a matter of policy, holding that local consignees would not be liable would encourage consignees to turn a blind eye to the trade in counterfeit goods.[^19]
 
 16     The respondent defends the Judge’s conclusion that it was not the importer as follows:
 
-(a)     The customs procedures and the evidence on these procedures are irrelevant to the determination of the importer and the exporter for trade mark infringement purposes. This is consistent with the High Court’s decision in _Trade Facilities Pte Ltd and others v Public Prosecutor_ (“_Trade Facilities_”)[\[note: 20\]](#Ftn_20) where Yong Pung How CJ held that the TMA had nothing to do with customs duties.[\[note: 21\]](#Ftn_21)
+(a)     The customs procedures and the evidence on these procedures are irrelevant to the determination of the importer and the exporter for trade mark infringement purposes. This is consistent with the High Court’s decision in _Trade Facilities Pte Ltd and others v Public Prosecutor_ (“_Trade Facilities_”)[^20] where Yong Pung How CJ held that the TMA had nothing to do with customs duties.[^21]
 
-(b)     The appellants’ expert lacked the required expertise on fundamental shipping concepts and terms which appeared in the documents. There was no basis for her to conclude that the respondent was the importer.[\[note: 22\]](#Ftn_22)
+(b)     The appellants’ expert lacked the required expertise on fundamental shipping concepts and terms which appeared in the documents. There was no basis for her to conclude that the respondent was the importer.[^22]
 
-(c)     According to the respondent’s expert, whose evidence was unchallenged, freight forwarders have no right to break the seals of containers unless expressly instructed by their customers and they are not responsible for the contents of containers sealed by shippers at the port of export.[\[note: 23\]](#Ftn_23) There would be far-reaching consequences if a carrier or a freight forwarder is held to be an importer or joint importer simply because the goods were transitorily under its control.[\[note: 24\]](#Ftn_24)
+(c)     According to the respondent’s expert, whose evidence was unchallenged, freight forwarders have no right to break the seals of containers unless expressly instructed by their customers and they are not responsible for the contents of containers sealed by shippers at the port of export.[^23] There would be far-reaching consequences if a carrier or a freight forwarder is held to be an importer or joint importer simply because the goods were transitorily under its control.[^24]
 
-(d)     Any infringing use must be of a trade mark use[\[note: 25\]](#Ftn_25) as held in _City Chain Stores (S) Pte Ltd v Louis Vuitton Malletier_ (“_City Chain_”) at \[36\]. The respondent did not use the signs in a trade mark sense because it was only providing a freight forwarding service and had no interest in the trade marks.
+(d)     Any infringing use must be of a trade mark use[^25] as held in _City Chain Stores (S) Pte Ltd v Louis Vuitton Malletier_ (“_City Chain_”) at \[36\]. The respondent did not use the signs in a trade mark sense because it was only providing a freight forwarding service and had no interest in the trade marks.
 
-(e)     The respondent’s role was only that of an agent for the third party and was essentially administrative in nature.[\[note: 26\]](#Ftn_26)
+(e)     The respondent’s role was only that of an agent for the third party and was essentially administrative in nature.[^26]
 
 ### Liability for export
 
 17     The appellants contend that the respondent is also liable as the exporter or would-be exporter of the goods, on two bases:
 
-(a)     “Export” under s 27(4)(_c_) of the TMA includes an intention to export. First, if the trade mark proprietor has to wait for the goods to be exported before initiating an infringement action, the goods would already be out of the jurisdiction.[\[note: 27\]](#Ftn_27) Second, customs officers are allowed to detain infringing goods “that are to be exported” from Singapore under s 93A(1)(_a_) of the TMA but the detention can only continue if the trade mark proprietor commences an action for infringement. If the trade mark proprietor cannot commence an action for infringement because the goods have not been exported, this would defeat the purpose of detaining the goods.[\[note: 28\]](#Ftn_28) Parliament is presumed not to have intended an unworkable result.[\[note: 29\]](#Ftn_29)
+(a)     “Export” under s 27(4)(_c_) of the TMA includes an intention to export. First, if the trade mark proprietor has to wait for the goods to be exported before initiating an infringement action, the goods would already be out of the jurisdiction.[^27] Second, customs officers are allowed to detain infringing goods “that are to be exported” from Singapore under s 93A(1)(_a_) of the TMA but the detention can only continue if the trade mark proprietor commences an action for infringement. If the trade mark proprietor cannot commence an action for infringement because the goods have not been exported, this would defeat the purpose of detaining the goods.[^28] Parliament is presumed not to have intended an unworkable result.[^29]
 
-(b)     Even if “export” requires an actual act of export, the appellants are entitled to bring a _quia timet_ action to restrain the respondent from a threatened or imminent wrongful act, in this case the export of infringing goods. This is a new point not taken in the court below and the appellants are applying for leave to introduce this point.[\[note: 30\]](#Ftn_30)
+(b)     Even if “export” requires an actual act of export, the appellants are entitled to bring a _quia timet_ action to restrain the respondent from a threatened or imminent wrongful act, in this case the export of infringing goods. This is a new point not taken in the court below and the appellants are applying for leave to introduce this point.[^30]
 
-18     On either basis, the appellants contend that the respondent would be liable for trade mark infringement and/or could be restrained by way of an injunction because it was the would-be exporter. It was named the local consignee in the seaway bill[\[note: 31\]](#Ftn_31) and would have arranged for the contract of carriage and have been the shipper for the goods to Batam if the goods had not been seized.[\[note: 32\]](#Ftn_32) The fact that it was acting on the third party’s instructions does not absolve it of liability.[\[note: 33\]](#Ftn_33) It was entitled to seek redress from the third party if it incurred any liability and that was exactly what it did (by way of the third party proceedings).[\[note: 34\]](#Ftn_34)
+18     On either basis, the appellants contend that the respondent would be liable for trade mark infringement and/or could be restrained by way of an injunction because it was the would-be exporter. It was named the local consignee in the seaway bill[^31] and would have arranged for the contract of carriage and have been the shipper for the goods to Batam if the goods had not been seized.[^32] The fact that it was acting on the third party’s instructions does not absolve it of liability.[^33] It was entitled to seek redress from the third party if it incurred any liability and that was exactly what it did (by way of the third party proceedings).[^34]
 
-19     The respondent contends that s 93A of the TMA, which is only a power-conferring provision, cannot by itself create additional liability.[\[note: 35\]](#Ftn_35) Infringement is a prerequisite to the continued detention of such goods. Further, there is no basis for a _quia timet_ injunction, since the goods have already been destroyed. There is therefore no imminent danger or the possibility of any apprehended damage to justify the granting of an injunction.[\[note: 36\]](#Ftn_36)
+19     The respondent contends that s 93A of the TMA, which is only a power-conferring provision, cannot by itself create additional liability.[^35] Infringement is a prerequisite to the continued detention of such goods. Further, there is no basis for a _quia timet_ injunction, since the goods have already been destroyed. There is therefore no imminent danger or the possibility of any apprehended damage to justify the granting of an injunction.[^36]
 
 ## The _amicus curiae_’s opinion
 
@@ -130,7 +131,7 @@ Accordingly, the Judge dismissed the appellants’ claims against the respondent
 
 (c)     If it is assumed that goods entering the jurisdiction for the sole purpose of transhipment and subsequent export are imported for the purposes of s 27(4)(_c_) of the TMA, the _amicus curiae_ would respectfully agree with the trial Judge that a freight forwarder would ordinarily not be the importer or exporter for such purposes, although for the reasons that he has explained he does not consider such a finding is necessary to dispose of a case concerning goods in transit or goods being transhipped. Whether a local consignee could be an importer or exporter which uses the sign as a trade mark contrary to s 27(1), (2) and/or (3) would depend on the factual matrix and would require consideration of such factors as whether it has acquired any property interest or physical possession of or access to the goods, plus evaluation of any evidence that the decision on export is in any way equivocal or capable of change.
 
-22     The _amicus curiae_ also opined that use falling within ss 27(1), (2) and (3) and outside s 28 (which concerns acts not amounting to infringement) constitutes infringement without any requirement of knowledge on the part of the person so using because it is a strict liability tortious invasion of property.[\[note: 37\]](#Ftn_37)
+22     The _amicus curiae_ also opined that use falling within ss 27(1), (2) and (3) and outside s 28 (which concerns acts not amounting to infringement) constitutes infringement without any requirement of knowledge on the part of the person so using because it is a strict liability tortious invasion of property.[^37]
 
 ## Trade mark infringement for goods in transit
 
@@ -184,7 +185,7 @@ Accordingly, the Judge dismissed the appellants’ claims against the respondent
 
 ### The requirement of trade mark use
 
-32     The requirement of trade mark use is not explicit in s 27 of the TMA. The Court of Appeal has established that trade mark use is required for infringement to occur: _City Chain_ at \[36\].[\[note: 38\]](#Ftn_38) This means that the allegedly infringing sign must have been used as a trade mark, in that it indicates that the origin of the goods is the trade mark proprietor. This can be contrasted with other uses, such as decorative use or artistic expression. For example, in _City Chain_, on appeal, the defendants were found not liable for infringement of Louis Vuitton’s Flower Quatrefoil mark because they were using the alleged infringing sign (a stylized flower emblem) on their Solvil watches for predominantly decorative and not trade mark purposes. In some areas of the face of the watches, the flower emblem was not shown as a whole although there was little doubt that the truncated patterns were meant to depict the same emblem. The Court of Appeal concluded that the flower emblem was not used to indicate the origin of the watches.
+32     The requirement of trade mark use is not explicit in s 27 of the TMA. The Court of Appeal has established that trade mark use is required for infringement to occur: _City Chain_ at \[36\].[^38] This means that the allegedly infringing sign must have been used as a trade mark, in that it indicates that the origin of the goods is the trade mark proprietor. This can be contrasted with other uses, such as decorative use or artistic expression. For example, in _City Chain_, on appeal, the defendants were found not liable for infringement of Louis Vuitton’s Flower Quatrefoil mark because they were using the alleged infringing sign (a stylized flower emblem) on their Solvil watches for predominantly decorative and not trade mark purposes. In some areas of the face of the watches, the flower emblem was not shown as a whole although there was little doubt that the truncated patterns were meant to depict the same emblem. The Court of Appeal concluded that the flower emblem was not used to indicate the origin of the watches.
 
 33     We agree that trade mark use is required before infringement can be made out. However, in this case, there was no dispute that the goods in issue were counterfeit goods bearing the appellants’ trade marks. There is therefore no need to delve further into the question whether the use of the signs was trade mark use because it obviously was.
 
@@ -194,7 +195,7 @@ Accordingly, the Judge dismissed the appellants’ claims against the respondent
 
 36     Our view is consonant with the provisions governing revocation of registration of a trade mark for non-use. Section 22(1)(_a_) of the TMA provides that the registration of a trade mark may be revoked if it has not been put to genuine use in the course of trade in Singapore for a period of five years and there are no proper reasons for non-use while s 22(1)(_b_) provides for revocation where such use has been suspended for the same period. In s 22(2), the TMA clarifies that “use in Singapore includes applying the trade mark to goods or to materials for the labelling or packaging of goods in Singapore solely for export purposes”. If the trade mark proprietor “uses” his trade mark in such a situation, surely a non-proprietor would likewise be using the trade mark if he does the same acts.
 
-37     In _Eli Lilly and Co v 8PM Chemists Ltd_ \[2008\] FSR 11,[\[note: 39\]](#Ftn_39) the defendant argued that the goods were not imported under the sign because when the goods were brought into the UK, the sign was covered by anonymous brown packaging and was never exposed to anyone in the UK. Mann J rejected this, stating that it was unlikely that any foreseeable act of bulk importation would ever be under circumstances in which the mark was visible. If an explicit reference to the mark were to be required for importation, there would hardly ever be an infringement and that was unlikely to have been the intention of Parliament (at \[50\]). In our view, this logic applies equally to the requirement of trade mark use. The concept of trade mark use should be confined to how it was explained and applied in _City Chain_ and that means that the sign was intended to depict a trade mark and thereby the origin of the goods and was not used merely for artistic or decorative purposes.
+37     In _Eli Lilly and Co v 8PM Chemists Ltd_ \[2008\] FSR 11,[^39] the defendant argued that the goods were not imported under the sign because when the goods were brought into the UK, the sign was covered by anonymous brown packaging and was never exposed to anyone in the UK. Mann J rejected this, stating that it was unlikely that any foreseeable act of bulk importation would ever be under circumstances in which the mark was visible. If an explicit reference to the mark were to be required for importation, there would hardly ever be an infringement and that was unlikely to have been the intention of Parliament (at \[50\]). In our view, this logic applies equally to the requirement of trade mark use. The concept of trade mark use should be confined to how it was explained and applied in _City Chain_ and that means that the sign was intended to depict a trade mark and thereby the origin of the goods and was not used merely for artistic or decorative purposes.
 
 38     In the circumstances, the requirement of trade mark use is clearly made out. The only remaining issue, therefore, is whether there was use by way of import or export of the goods under the sign within the meaning of s 27(4)(_c_). For completeness, this does not detract from the requirement that the act of infringement must take place in Singapore. However, it is the act constituting the use of the sign that must take place in Singapore and not the sale or intended sale or exposure for sale. We therefore consider now whether the act of import into Singapore and/or the intended export to Batam amount to infringing use by the respondent.
 
@@ -204,13 +205,13 @@ Accordingly, the Judge dismissed the appellants’ claims against the respondent
 
 39     The core question is whether goods in transit in Singapore are considered to be imported under s 27 of the TMA. “Import” is not defined in the TMA and our starting point is therefore s 2(1) of the IA. Section 2(1) of the IA states that in every written law, the word “import” shall mean “to bring or cause to be brought into Singapore by land, sea or air” unless “there is something in the subject or context inconsistent with such construction”. This means that goods in transit, once brought into Singapore, would be taken as imported unless the context of the TMA suggests otherwise.
 
-40     We agree with the Judge that the context and structure of the TMA are consistent with “import” covering goods brought into Singapore only for the purpose of transit. First, the plain meaning of s 27 and its context in the TMA support the view that goods can be considered to be imported even if they are not intended for the Singapore market. This is because the acts considered as “use” for the purposes of trade mark infringement do not explicitly contemplate that the goods must be intended for sale here or to be placed on the Singapore market. Putting the goods on the Singapore market is only one of the possible infringing uses (see s 27(4)(_b_)). Applying the infringing sign on the goods or the packaging does not require that the goods be intended for the Singapore market (see s 27(4)(_a_)). The author of _Law of Trade Marks and Passing off in Singapore_ (Sweet & Maxwell, 3rd Ed, 2014) states that as long as any of the infringing uses in s 27(4) of the TMA takes place in Singapore, it does not matter whether the goods are eventually intended for a foreign market (at para 11.090).[\[note: 40\]](#Ftn_40) On this basis, even if goods in transit are not intended for the Singapore market, as long as they were brought into Singapore, they would be considered to be imported under s 27(4)(_c_). For example, in _Beautimatic International Ltd v Mitchell International Pharmaceuticals Ltd and Alexir Packaging Limited_ \[1999\] ETMR 912, the application of the sign on goods in the UK was held to be infringement even though the goods were intended to be shipped overseas. In _Waterford Wedgwood Plc v David Nagli Ltd_ \[1998\] FSR 92,[\[note: 41\]](#Ftn_41) the transhipment of counterfeit Waterford crystals was held to be trade mark infringement by way of importing and re-exporting. It was no answer that the goods were only temporarily in England while in transit (at 104).
+40     We agree with the Judge that the context and structure of the TMA are consistent with “import” covering goods brought into Singapore only for the purpose of transit. First, the plain meaning of s 27 and its context in the TMA support the view that goods can be considered to be imported even if they are not intended for the Singapore market. This is because the acts considered as “use” for the purposes of trade mark infringement do not explicitly contemplate that the goods must be intended for sale here or to be placed on the Singapore market. Putting the goods on the Singapore market is only one of the possible infringing uses (see s 27(4)(_b_)). Applying the infringing sign on the goods or the packaging does not require that the goods be intended for the Singapore market (see s 27(4)(_a_)). The author of _Law of Trade Marks and Passing off in Singapore_ (Sweet & Maxwell, 3rd Ed, 2014) states that as long as any of the infringing uses in s 27(4) of the TMA takes place in Singapore, it does not matter whether the goods are eventually intended for a foreign market (at para 11.090).[^40] On this basis, even if goods in transit are not intended for the Singapore market, as long as they were brought into Singapore, they would be considered to be imported under s 27(4)(_c_). For example, in _Beautimatic International Ltd v Mitchell International Pharmaceuticals Ltd and Alexir Packaging Limited_ \[1999\] ETMR 912, the application of the sign on goods in the UK was held to be infringement even though the goods were intended to be shipped overseas. In _Waterford Wedgwood Plc v David Nagli Ltd_ \[1998\] FSR 92,[^41] the transhipment of counterfeit Waterford crystals was held to be trade mark infringement by way of importing and re-exporting. It was no answer that the goods were only temporarily in England while in transit (at 104).
 
-41     Second, there are sections in the border enforcement measures provisions in Part X of the TMA which suggest that “imported” goods include those in transit. For instance, s 81 defines “goods in transit” to mean “goods imported, whether or not landed or transhipped within Singapore, which are to be carried to another country either by the same or another conveyance”.[\[note: 42\]](#Ftn_42) Section 82(4)(_c_) allows an authorised officer to seize infringing goods which are imported, “not being goods in transit”. Similarly, s 93A provides that, notwithstanding s 82(4), any authorised officer may detain any goods that are imported into or that are to be exported from Singapore and that are not goods in transit unless the goods are consigned to any person with a commercial or physical presence in Singapore. These provisions lend support to the view that “imports” in s 27(4)(_c_) is meant to include goods in transit. They also show that goods in transit have to be excepted when “import” or “export” are used, which indicates that these two words include transit in their ordinary meanings. Nevertheless, the definitions in s 81 are only for the purposes of Part X (Assistance by Border Authorities) of the TMA. More importantly, there is no similar qualification to “imports” in s 27(4)(_c_) so as to exclude goods in transit. That being the case, “imports” in s 27(4)(_c_) would therefore bear the wider, ordinary meaning of including goods in transit.
+41     Second, there are sections in the border enforcement measures provisions in Part X of the TMA which suggest that “imported” goods include those in transit. For instance, s 81 defines “goods in transit” to mean “goods imported, whether or not landed or transhipped within Singapore, which are to be carried to another country either by the same or another conveyance”.[^42] Section 82(4)(_c_) allows an authorised officer to seize infringing goods which are imported, “not being goods in transit”. Similarly, s 93A provides that, notwithstanding s 82(4), any authorised officer may detain any goods that are imported into or that are to be exported from Singapore and that are not goods in transit unless the goods are consigned to any person with a commercial or physical presence in Singapore. These provisions lend support to the view that “imports” in s 27(4)(_c_) is meant to include goods in transit. They also show that goods in transit have to be excepted when “import” or “export” are used, which indicates that these two words include transit in their ordinary meanings. Nevertheless, the definitions in s 81 are only for the purposes of Part X (Assistance by Border Authorities) of the TMA. More importantly, there is no similar qualification to “imports” in s 27(4)(_c_) so as to exclude goods in transit. That being the case, “imports” in s 27(4)(_c_) would therefore bear the wider, ordinary meaning of including goods in transit.
 
 42     More generally, it was argued that the purpose of the TMA is only to protect Singapore-registered trade marks and therefore their proprietors’ economic interests in the Singapore market. There should therefore be no protection for trade mark proprietors when their trade interests in the Singapore market are not affected. This seems to us to be the crux of the _amicus curiae_’s concern and the argument can be framed as follows. The purpose of the TMA is to protect trade marks, meaning the use of signs in the course of trade as an indicator of origin. Trade mark protection is territorial in that protection is only accorded in the country where one’s trade mark is registered. Therefore, if the infringer does not intend to circulate the infringing sign in the jurisdiction where one’s trade mark is protected, it would be contrary to the purpose and territoriality of trade mark protection to prevent such an act.
 
-43     The problem is less evident in counterfeit goods because by definition, they are signs applied to deceive the consumer. The impetus to prevent the circulation of such goods in the name of trade mark protection is clear. However, the dilemma surfaces when the same trade mark is legally owned by different people in different jurisdictions. The _amicus curiae_ gave the following example.[\[note: 43\]](#Ftn_43) Where Party X owns a trade mark in Countries A and B and intends to import goods bearing the trade mark from Country A to Country B, logically he should be allowed to do so, since that is what owning a trade mark is for. However, if the goods transit in Country C with no intention of entering the market there and the same trade mark is owned by Party Y in Country C, the _amicus curiae_ argues that it cannot seriously be contended that Party Y can sue Party X for infringement in Country C while the goods are in transit. This is presumably because Party Y’s interest in its trade mark is not in any way harmed or compromised. The concern is exemplified in the decision of the European Court of Justice (“ECJ”) in _Rioglass SA and Transremar SL_ Case C-115/02, \[2003\] ECR I-12705 (“_Rioglass_”). The question was whether customs authorities in the country of transit could detain goods manufactured in one member state, to be exported to a non-member state, transiting in the country of transit, for trade mark infringement. The ECJ held that it could not. It stated (at \[25\]–\[28\]):
+43     The problem is less evident in counterfeit goods because by definition, they are signs applied to deceive the consumer. The impetus to prevent the circulation of such goods in the name of trade mark protection is clear. However, the dilemma surfaces when the same trade mark is legally owned by different people in different jurisdictions. The _amicus curiae_ gave the following example.[^43] Where Party X owns a trade mark in Countries A and B and intends to import goods bearing the trade mark from Country A to Country B, logically he should be allowed to do so, since that is what owning a trade mark is for. However, if the goods transit in Country C with no intention of entering the market there and the same trade mark is owned by Party Y in Country C, the _amicus curiae_ argues that it cannot seriously be contended that Party Y can sue Party X for infringement in Country C while the goods are in transit. This is presumably because Party Y’s interest in its trade mark is not in any way harmed or compromised. The concern is exemplified in the decision of the European Court of Justice (“ECJ”) in _Rioglass SA and Transremar SL_ Case C-115/02, \[2003\] ECR I-12705 (“_Rioglass_”). The question was whether customs authorities in the country of transit could detain goods manufactured in one member state, to be exported to a non-member state, transiting in the country of transit, for trade mark infringement. The ECJ held that it could not. It stated (at \[25\]–\[28\]):
 
 With respect to trade marks, it is settled case-law that the specific subject-matter of a trade mark is, in particular, to guarantee to the owner that he has the exclusive right to use that mark for the purpose of putting a product on the market for the first time and thus to protect him against competitors wishing to take unfair advantage of the status and reputation of the trade mark by selling products illegally bearing it ...
 
@@ -228,9 +229,9 @@ This case links the marketing of the goods to infringement such that if the good
 
 46     Second, the types of use required for a trade mark to remain registered in Singapore include cases where the trademarked goods are not intended for the Singapore market at all. We refer here again to s 22(1) on revocation for non-use and the clarification of “use in Singapore” in s 22(2). Allowing proprietors to retain their trade marks even where their intended market is not Singapore shows that the TMA’s trade mark protection extends beyond goods intended to be marketed in Singapore. It also suggests that trade mark proprietors are entitled to prevent use of infringing signs in Singapore even though their goods are not marketed in Singapore.
 
-47     Third, a trade mark proprietor does not have to prove actual damage to his economic interests for trade mark infringement to be made out under the TMA. Where the allegedly infringing sign and the trade mark are identical, there is no need to prove any consequence from the use to make out infringement (unless the proprietor is claiming damages, in which case he has to prove the existence and quantum of damages). It is only where the plaintiff wishes to rely on the fact that its registered trade mark is well-known, that the plaintiff has to prove likely damage to his interests (s 27(3)(_d_)).[\[note: 44\]](#Ftn_44) This shows that the TMA is not only concerned with protecting trade marks when they have some actual market effect, in Singapore or otherwise.
+47     Third, a trade mark proprietor does not have to prove actual damage to his economic interests for trade mark infringement to be made out under the TMA. Where the allegedly infringing sign and the trade mark are identical, there is no need to prove any consequence from the use to make out infringement (unless the proprietor is claiming damages, in which case he has to prove the existence and quantum of damages). It is only where the plaintiff wishes to rely on the fact that its registered trade mark is well-known, that the plaintiff has to prove likely damage to his interests (s 27(3)(_d_)).[^44] This shows that the TMA is not only concerned with protecting trade marks when they have some actual market effect, in Singapore or otherwise.
 
-48     Therefore, in our judgment, the infringement provision in s 27 includes goods in transit. The same conclusion was reached by Yong CJ in _Trade Facilities_.[\[note: 45\]](#Ftn_45) This was an appeal in a criminal matter to the High Court involving the import of counterfeit cognac under s 73 of the 1992 TMA (Cap 332, 1992 Rev Ed), which made it an offence to import goods with counterfeit trade marks (_Trade Facilities_ at \[46\]). The respondent argued that “import” should be given the same meaning as in the Customs Act (Cap 70, 2004 Rev Ed) (“Customs Act”),[\[note: 46\]](#Ftn_46) which excluded goods brought into Singapore solely for the purpose of being taken out of Singapore (_ie_, those on transit or transhipment). Yong CJ held that there was no reason to rely on the Customs Act definition of “import” since that statute was concerned with payment of customs duties, which the TMA was not concerned with. Thus, “import” under the TMA was held to include items transhipped in Singapore. Yong CJ noted Singapore’s reliance on entrepot trade but held that this was a matter for Parliament (at \[55\]):[\[note: 47\]](#Ftn_47)
+48     Therefore, in our judgment, the infringement provision in s 27 includes goods in transit. The same conclusion was reached by Yong CJ in _Trade Facilities_.[^45] This was an appeal in a criminal matter to the High Court involving the import of counterfeit cognac under s 73 of the 1992 TMA (Cap 332, 1992 Rev Ed), which made it an offence to import goods with counterfeit trade marks (_Trade Facilities_ at \[46\]). The respondent argued that “import” should be given the same meaning as in the Customs Act (Cap 70, 2004 Rev Ed) (“Customs Act”),[^46] which excluded goods brought into Singapore solely for the purpose of being taken out of Singapore (_ie_, those on transit or transhipment). Yong CJ held that there was no reason to rely on the Customs Act definition of “import” since that statute was concerned with payment of customs duties, which the TMA was not concerned with. Thus, “import” under the TMA was held to include items transhipped in Singapore. Yong CJ noted Singapore’s reliance on entrepot trade but held that this was a matter for Parliament (at \[55\]):[^47]
 
 There is therefore nothing in the subject or context of s 73 which requires the use of the special meaning assigned to the word “import” in the Customs Act. In coming to this conclusion, I have kept in mind the consideration that Singapore also relies on _entrepot_ trade. There may thus be very good policy reasons why Singapore should or should not police the transhipment of goods bearing counterfeit trade marks or the like as they pass through Singapore’s free trade zone. However, that is something that Parliament must deal with. If Parliament is of the view that transhipments through Singapore should not be caught by s 73, then it is open to it to amend the Act by expressly incorporating the Customs Act definition of “import” into the Act.
 
@@ -238,23 +239,23 @@ We agree with Yong CJ’s observation and would adopt the same reasoning in resp
 
 49     We now deal briefly with the ECJ and UK cases which decided that goods in transit were not considered to be imported. These were considered at length by the Judge at \[130\]–\[139\] of the Judgment. These cases decided as follows:
 
-(a)     Goods are only imported into the European Community (“EC”) if they are brought in for the purpose of putting them on the market therein: _Class International BV v Colgate-Palmolive Company and others_ Case C-405/03, \[2005\] ECR I-8735 (“_Class International_”)[\[note: 48\]](#Ftn_48) at \[34\].
+(a)     Goods are only imported into the European Community (“EC”) if they are brought in for the purpose of putting them on the market therein: _Class International BV v Colgate-Palmolive Company and others_ Case C-405/03, \[2005\] ECR I-8735 (“_Class International_”)[^48] at \[34\].
 
-(b)     The question of whether goods are imported is fundamentally a question of whether there is any “interference with the proprietor’s right of first marketing in Europe” (_Eli Lilly and Co and another v 8PM Chemist Ltd_ \[2008\] EWCA Civ 24 (“_Eli Lilly_”)[\[note: 49\]](#Ftn_49) at \[28\]). If the goods are not placed on the market, there would be no infringement (at \[46\]).
+(b)     The question of whether goods are imported is fundamentally a question of whether there is any “interference with the proprietor’s right of first marketing in Europe” (_Eli Lilly and Co and another v 8PM Chemist Ltd_ \[2008\] EWCA Civ 24 (“_Eli Lilly_”)[^49] at \[28\]). If the goods are not placed on the market, there would be no infringement (at \[46\]).
 
-(c)     Imitation goods from outside the EC and in transit in an EC country to a non-EC country cannot be classified as counterfeit or pirated unless they are “the subject of a commercial act directed at European Union consumers, such as a sale, offer for sale or advertising”: _Koninklijke Philips Electronics NV v Lucheng Meijing Industrial Company Ltd and others, Nokia Corporation v Her Majesty’s Commissioners of Revenue and Customs Joined Cases C-446/09 and C-495/09_, \[2011\] ECR I-12435 (“_Philips and Nokia_”)[\[note: 50\]](#Ftn_50) at \[57\].
+(c)     Imitation goods from outside the EC and in transit in an EC country to a non-EC country cannot be classified as counterfeit or pirated unless they are “the subject of a commercial act directed at European Union consumers, such as a sale, offer for sale or advertising”: _Koninklijke Philips Electronics NV v Lucheng Meijing Industrial Company Ltd and others, Nokia Corporation v Her Majesty’s Commissioners of Revenue and Customs Joined Cases C-446/09 and C-495/09_, \[2011\] ECR I-12435 (“_Philips and Nokia_”)[^50] at \[57\].
 
-50     The ECJ has held consistently that goods in transit are not considered to be imported for the purposes of trade mark infringement. The Judge chose not to follow these decisions because (a) it was inconsistent with the plain meaning of the TMA (Judgment at \[143\]); (b) the ECJ position was driven heavily by considerations concerning the free movement of goods and the exhaustion of rights (Judgment at \[144\]); and (c) the ECJ position made it very difficult for trade mark proprietors to enforce their rights against goods in transit (Judgment at \[145\]). He also noted that new European Union legislation[\[note: 51\]](#Ftn_51) had been introduced to allow trade mark proprietors to prevent third parties from bringing infringing goods into the European Union, even if the goods were not released for free circulation there. We agree with the Judge’s observations.
+50     The ECJ has held consistently that goods in transit are not considered to be imported for the purposes of trade mark infringement. The Judge chose not to follow these decisions because (a) it was inconsistent with the plain meaning of the TMA (Judgment at \[143\]); (b) the ECJ position was driven heavily by considerations concerning the free movement of goods and the exhaustion of rights (Judgment at \[144\]); and (c) the ECJ position made it very difficult for trade mark proprietors to enforce their rights against goods in transit (Judgment at \[145\]). He also noted that new European Union legislation[^51] had been introduced to allow trade mark proprietors to prevent third parties from bringing infringing goods into the European Union, even if the goods were not released for free circulation there. We agree with the Judge’s observations.
 
 #### The meaning of “export” under the TMA
 
 51     Our reasoning above applies similarly to the definition of “export” in s 27(4)(_c_). Section 2(1) of the IA states that “export” means “to take or cause to be taken out of Singapore by land, sea or air”. In our judgment, there is nothing in the TMA that is inconsistent with such a definition of “export” and we therefore hold that the definition of “export” in the IA, like its counterpart “import”, applies to that word in the TMA.
 
-52     The next issue is whether an intention to export (without any actual act of export) is sufficient to constitute infringement. The Judge rejected this argument and the appellants challenge this. They contend that if the Judge’s view is correct, the trade mark proprietor would not be able to seize the goods and commence infringement proceedings until the goods have left the jurisdiction. There is also no point in detaining the goods intended for export under s 93A of the TMA because no infringement proceedings can be commenced until they leave the jurisdiction.[\[note: 52\]](#Ftn_52) Section 93A allows customs officers to detain suspected infringing goods but the trade mark proprietors are expected to commence proceedings within ten days or the goods will be released. Parliament could not have intended an unworkable result.[\[note: 53\]](#Ftn_53)
+52     The next issue is whether an intention to export (without any actual act of export) is sufficient to constitute infringement. The Judge rejected this argument and the appellants challenge this. They contend that if the Judge’s view is correct, the trade mark proprietor would not be able to seize the goods and commence infringement proceedings until the goods have left the jurisdiction. There is also no point in detaining the goods intended for export under s 93A of the TMA because no infringement proceedings can be commenced until they leave the jurisdiction.[^52] Section 93A allows customs officers to detain suspected infringing goods but the trade mark proprietors are expected to commence proceedings within ten days or the goods will be released. Parliament could not have intended an unworkable result.[^53]
 
 53     Subject to what we say below, we agree generally with the Judge that a mere intention to export is insufficient. He gave the following reasons. First, an intention to export is at odds with the plain meaning of “exports” in s 27(4) (Judgment at \[181\]). Second, as the Judge pointed out (Judgment at \[182\]), s 93A does not require the trade mark proprietor to commence an infringement action against the would-be exporter. Recourse could also be sought against several other persons along the supply chain.
 
-54     We qualify our agreement with the Judge as follows. So long as the intention remains a mere state of mind without any accompanying actions, that does not amount to “export” in the TMA. However, where there are accompanying actions which are clearly directed at fulfilling the said intention to export or where there is clear evidence that export would definitely take place (for instance, the alleged exporter is under a contractual obligation to do so), there is no reason why a trade mark proprietor could not apply for an injunction to restrain a wrong that is about to be committed and therefore to restrain the goods’ export before they leave the jurisdiction.[\[note: 54\]](#Ftn_54) The evidence must be clear that the export is imminent or would definitely take place. On the facts in this case, the appellants would succeed in showing this. Indeed, that is the case of the respondent, that besides receiving the goods from China, it was also tasked to ship the goods out of Singapore to Batam. This is in fact the new alternative argument that the appellants are seeking to introduce on appeal, namely that they are entitled to a _quia timet_ injunction against the respondent on the basis that there was a threatened infringement of their trade marks by way of export.
+54     We qualify our agreement with the Judge as follows. So long as the intention remains a mere state of mind without any accompanying actions, that does not amount to “export” in the TMA. However, where there are accompanying actions which are clearly directed at fulfilling the said intention to export or where there is clear evidence that export would definitely take place (for instance, the alleged exporter is under a contractual obligation to do so), there is no reason why a trade mark proprietor could not apply for an injunction to restrain a wrong that is about to be committed and therefore to restrain the goods’ export before they leave the jurisdiction.[^54] The evidence must be clear that the export is imminent or would definitely take place. On the facts in this case, the appellants would succeed in showing this. Indeed, that is the case of the respondent, that besides receiving the goods from China, it was also tasked to ship the goods out of Singapore to Batam. This is in fact the new alternative argument that the appellants are seeking to introduce on appeal, namely that they are entitled to a _quia timet_ injunction against the respondent on the basis that there was a threatened infringement of their trade marks by way of export.
 
 #### The persons liable for such use
 
@@ -286,7 +287,7 @@ If a carrier is held to be an importer or a joint importer simply because the go
 
 65     In _Calvin Klein, Inc and another v HS International Pte Ltd and others_ , Chan Seng Onn J relied on _Creative Technology_ and held that innocence was not a defence. The defendant infringers ran an e-commerce platform on which users could purchase a wide variety of goods. Upon receiving an order on the platform, the infringers would order the goods on Taobao.com, receive them at the warehouse and send them to Singapore. They claimed that they did not know that the goods that they ordered and delivered infringed the plaintiffs’ trademarks. Chan J held (at \[110\]) that innocence “due to a lack of knowledge or awareness that the goods offered for sale … infringed the \[plaintiffs’\] trade marks” was not a defence. The defendant was therefore liable for trade mark infringement.
 
-66     Finally, the appellants also rely on _Kickapoo (Malaysia) Sdn Bhd and another v The Monarch Beverage Co (Europe) Ltd_ (“_Kickapoo_”).[\[note: 55\]](#Ftn_55) In _Kickapoo_, the appellants knowingly infringed the respondent’s Kickapoo trade marks but contended that they should not be liable because (a) the respondent had committed an independent legal wrong against them and (b) they had to infringe the respondent’s marks to mitigate their contractual loss. The Court of Appeal rejected these defences and held that unless the appellants could “bring themselves within a defence or other exception in the context of trade mark law itself, they \[could not\] be excused” (at \[16\]). No such defence of contractual mitigation or otherwise existed under the TMA.
+66     Finally, the appellants also rely on _Kickapoo (Malaysia) Sdn Bhd and another v The Monarch Beverage Co (Europe) Ltd_ (“_Kickapoo_”).[^55] In _Kickapoo_, the appellants knowingly infringed the respondent’s Kickapoo trade marks but contended that they should not be liable because (a) the respondent had committed an independent legal wrong against them and (b) they had to infringe the respondent’s marks to mitigate their contractual loss. The Court of Appeal rejected these defences and held that unless the appellants could “bring themselves within a defence or other exception in the context of trade mark law itself, they \[could not\] be excused” (at \[16\]). No such defence of contractual mitigation or otherwise existed under the TMA.
 
 67     The surveyed cases all concerned defendants who had intended to use the sign in issue and in their defence maintained that they did not know that the sign was infringing (save for the defendants in _Kickapoo_, who knew that the signs were infringing but nevertheless denied liability in unusual circumstances). These cases do not establish conclusively that a defendant who did not even know that a sign was applied or present on the goods would be liable for trade mark infringement.
 
@@ -298,7 +299,7 @@ If a carrier is held to be an importer or a joint importer simply because the go
 
 70     Therefore, the facts surrounding the transactions showed that the respondent was merely providing a commercial service as freight forwarders in its ordinary course of business and nothing more. Nothing sinister can be read into the situation merely on the ground that counterfeit luxury goods were found among the cargoes on inspection of the sealed containers by customs officers. In our view, to impose liability for infringement of trade marks on the respondent in this factual situation would be against the letter and the spirit in s 27 of the TMA. It would seem like a case of needing to make someone liable because the real culprits are not identifiable or reachable. For completeness, in the criminal context, s 49 of the TMA provides (among other situations) that any person who imports into Singapore for the purpose of trade or manufacture any goods to which a registered trade mark is falsely applied shall be guilty of an offence. However, the section also provides for two defences of having taken all reasonable precautions against committing an offence under the section and of having acted innocently.
 
-71     The appellants argue that Parliament intended for freight forwarders, as the local consignees, to be liable as the importer of the goods. Under s 93A of the TMA, for goods in transit, the detained goods must be released to the importer, exporter or consignee unless the trade mark proprietor commences infringement proceedings within a certain time, namely ten working days after receipt of the notice of detention (see r 10 of the Trade Marks (Border Enforcement Measures) Rules (Cap 332, R 2, 2001 Rev Ed)).[\[note: 56\]](#Ftn_56) The appellants rely on this to submit that given the short time frame in which the trade mark proprietor is to commence infringement proceedings, Parliament must have intended for the easily identifiable local consignee to be liable as the importer.[\[note: 57\]](#Ftn_57) We do not agree with this logic. The shipper in the originating port and the recipient in the final destination would have been equally easy to identify from the seaway bills or from the consignee itself and an infringement action could be commenced against them. It was unfortunate that the foreign shippers in this case could not be traced because of their false addresses and the third party has chosen not to take part in this court action but it does not follow that a local and easily accessible freight forwarder should therefore take the blame.
+71     The appellants argue that Parliament intended for freight forwarders, as the local consignees, to be liable as the importer of the goods. Under s 93A of the TMA, for goods in transit, the detained goods must be released to the importer, exporter or consignee unless the trade mark proprietor commences infringement proceedings within a certain time, namely ten working days after receipt of the notice of detention (see r 10 of the Trade Marks (Border Enforcement Measures) Rules (Cap 332, R 2, 2001 Rev Ed)).[^56] The appellants rely on this to submit that given the short time frame in which the trade mark proprietor is to commence infringement proceedings, Parliament must have intended for the easily identifiable local consignee to be liable as the importer.[^57] We do not agree with this logic. The shipper in the originating port and the recipient in the final destination would have been equally easy to identify from the seaway bills or from the consignee itself and an infringement action could be commenced against them. It was unfortunate that the foreign shippers in this case could not be traced because of their false addresses and the third party has chosen not to take part in this court action but it does not follow that a local and easily accessible freight forwarder should therefore take the blame.
 
 72     We add two final clarifications as to the role and liability of freight forwarders such as the respondent here. First, if the freight forwarders are responsible for importing the goods into Singapore and exporting them out of Singapore, their knowledge and intention are assessed separately at the time of import and the time of export. This means that even if they did not know or have any reason to believe that they were importing infringing goods, if events transpire during the goods’ transit in Singapore that put them on notice that their goods may be infringing ones, they take the risk of trade mark infringement if they nevertheless choose to export the goods. In our view, this strikes an appropriate balance between the commercial interests of trade mark proprietors and those of honest freight forwarders.
 
@@ -334,7 +335,7 @@ If a carrier is held to be an importer or a joint importer simply because the go
 
 78     On appeal, the appellants applied for leave to raise a new point, mainly that they were entitled to a _quia timet_ injunction to prevent the apprehended act of infringement as it was clear that the respondent would have shipped the goods to Batam. The respondent did not object to this point being raised.
 
-79     This point is really moot now because the goods have already been destroyed without objections, prior to trial. There is therefore nothing left to restrain. Nevertheless, the appellants contend that the question is whether they were entitled to an injunction at the time the proceedings were commenced, _ie_, when the writ of summons was issued.[\[note: 58\]](#Ftn_58) The appellants also submit that an injunction is still needed because the respondent will continue to infringe the appellants’ trade marks in the future as it has been and is still doing business with the third party.[\[note: 59\]](#Ftn_59)
+79     This point is really moot now because the goods have already been destroyed without objections, prior to trial. There is therefore nothing left to restrain. Nevertheless, the appellants contend that the question is whether they were entitled to an injunction at the time the proceedings were commenced, _ie_, when the writ of summons was issued.[^58] The appellants also submit that an injunction is still needed because the respondent will continue to infringe the appellants’ trade marks in the future as it has been and is still doing business with the third party.[^59]
 
 80     Even if the appellants could have applied for an injunction when these actions were commenced, the fact is they did not and events have taken place since then which render an injunction irrelevant and meaningless now. As for the future, there is no evidence of any threat or likelihood that future infringements will take place. The fact that the respondent and the third party are still doing business together does not mean that they are or will be doing illegal business, in particular, dealing in infringing goods. If the appellants discover evidence of infringement in time to come, we are certain that they know what they can do to prevent or to punish the infringement.
 
@@ -346,123 +347,123 @@ If a carrier is held to be an importer or a joint importer simply because the go
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)JCB vol 2 Part A pp 203–204. The letters themselves are undated but the respondent’s AEIC states that they were received on or around 28 March 2013 (JCB vol 2 Part A p 195).
+[^1]: JCB vol 2 Part A pp 203–204. The letters themselves are undated but the respondent’s AEIC states that they were received on or around 28 March 2013 (JCB vol 2 Part A p 195).
 
-[\[note: 2\]](#Ftn_2_1)JCB vol 2 Part A p 211.
+[^2]: JCB vol 2 Part A p 211.
 
-[\[note: 3\]](#Ftn_3_1)JCB vol 2 Part A p 207.
+[^3]: JCB vol 2 Part A p 207.
 
-[\[note: 4\]](#Ftn_4_1)ROA vol III Part A pp 86, 88, 96, 98.
+[^4]: ROA vol III Part A pp 86, 88, 96, 98.
 
-[\[note: 5\]](#Ftn_5_1)ROA vol III Part A p 158 (Chua Swee Teck’s AEIC at paras 13 and 14).
+[^5]: ROA vol III Part A p 158 (Chua Swee Teck’s AEIC at paras 13 and 14).
 
-[\[note: 6\]](#Ftn_6_1)JCB vol 2 Part A p 197.
+[^6]: JCB vol 2 Part A p 197.
 
-[\[note: 7\]](#Ftn_7_1)JCB vol II Part A pp 216 and 218.
+[^7]: JCB vol II Part A pp 216 and 218.
 
-[\[note: 8\]](#Ftn_8_1)Appellants’ case at para 12.
+[^8]: Appellants’ case at para 12.
 
-[\[note: 9\]](#Ftn_9_1)ASBOA Tab 7.
+[^9]: ASBOA Tab 7.
 
-[\[note: 10\]](#Ftn_10_1)Appellants’ case at paras 29 and 30.
+[^10]: Appellants’ case at paras 29 and 30.
 
-[\[note: 11\]](#Ftn_11_1)Appellants’ case at para 31.
+[^11]: Appellants’ case at para 31.
 
-[\[note: 12\]](#Ftn_12_1)Appellants’ case at para 38.
+[^12]: Appellants’ case at para 38.
 
-[\[note: 13\]](#Ftn_13_1)Appellants’ case at para 60.
+[^13]: Appellants’ case at para 60.
 
-[\[note: 14\]](#Ftn_14_1)Appellants’ case at para 61.
+[^14]: Appellants’ case at para 61.
 
-[\[note: 15\]](#Ftn_15_1)Appellants’ case at para 70.
+[^15]: Appellants’ case at para 70.
 
-[\[note: 16\]](#Ftn_16_1)Appellants’ case at para 77.
+[^16]: Appellants’ case at para 77.
 
-[\[note: 17\]](#Ftn_17_1)Appellants’ case at paras 72–82.
+[^17]: Appellants’ case at paras 72–82.
 
-[\[note: 18\]](#Ftn_18_1)Appellants’ case at para 119.
+[^18]: Appellants’ case at para 119.
 
-[\[note: 19\]](#Ftn_19_1)Appellants’ case at para 123.
+[^19]: Appellants’ case at para 123.
 
-[\[note: 20\]](#Ftn_20_1)ABOA vol II Tab 13.
+[^20]: ABOA vol II Tab 13.
 
-[\[note: 21\]](#Ftn_21_1)Respondent’s case at para 49.
+[^21]: Respondent’s case at para 49.
 
-[\[note: 22\]](#Ftn_22_1)Respondent’s case at paras 28 and 29.
+[^22]: Respondent’s case at paras 28 and 29.
 
-[\[note: 23\]](#Ftn_23_1)Respondent’s case at para 40.
+[^23]: Respondent’s case at para 40.
 
-[\[note: 24\]](#Ftn_24_1)Respondent’s case at para 41.
+[^24]: Respondent’s case at para 41.
 
-[\[note: 25\]](#Ftn_25_1)Respondent’s case at para 51.
+[^25]: Respondent’s case at para 51.
 
-[\[note: 26\]](#Ftn_26_1)Respondent’s case at para 59.
+[^26]: Respondent’s case at para 59.
 
-[\[note: 27\]](#Ftn_27_1)Appellants’ case at para 84.
+[^27]: Appellants’ case at para 84.
 
-[\[note: 28\]](#Ftn_28_1)Appellants’ case at para 87.
+[^28]: Appellants’ case at para 87.
 
-[\[note: 29\]](#Ftn_29_1)Appellants’ case at para 92.
+[^29]: Appellants’ case at para 92.
 
-[\[note: 30\]](#Ftn_30_1)Appellants’ case at para 94.
+[^30]: Appellants’ case at para 94.
 
-[\[note: 31\]](#Ftn_31_1)Appellants’ case at para 102.
+[^31]: Appellants’ case at para 102.
 
-[\[note: 32\]](#Ftn_32_1)Appellants’ case at paras 103–104.
+[^32]: Appellants’ case at paras 103–104.
 
-[\[note: 33\]](#Ftn_33_1)Appellants’ case at para 115.
+[^33]: Appellants’ case at para 115.
 
-[\[note: 34\]](#Ftn_34_1)Appellants’ case at para 117.
+[^34]: Appellants’ case at para 117.
 
-[\[note: 35\]](#Ftn_35_1)Respondent’s case at para 77.
+[^35]: Respondent’s case at para 77.
 
-[\[note: 36\]](#Ftn_36_1)Respondent’s case at para 110.
+[^36]: Respondent’s case at para 110.
 
-[\[note: 37\]](#Ftn_37_1)Amicus’s opinion at para 6.
+[^37]: Amicus’s opinion at para 6.
 
-[\[note: 38\]](#Ftn_38_1)ABOA vol IV Tab 39.
+[^38]: ABOA vol IV Tab 39.
 
-[\[note: 39\]](#Ftn_39_1)ASBA Tab 4.
+[^39]: ASBA Tab 4.
 
-[\[note: 40\]](#Ftn_40_1)ABOA vol III Tab 23.
+[^40]: ABOA vol III Tab 23.
 
-[\[note: 41\]](#Ftn_41_1)ABOA vol III Tab 22 pp 89 and 99.
+[^41]: ABOA vol III Tab 22 pp 89 and 99.
 
-[\[note: 42\]](#Ftn_42_1)ABOA vol I Tab 4, p 219.
+[^42]: ABOA vol I Tab 4, p 219.
 
-[\[note: 43\]](#Ftn_43_1)Amicus’s opinion at para 18.
+[^43]: Amicus’s opinion at para 18.
 
-[\[note: 44\]](#Ftn_44_1)ABOA vol I Tab 4 pp 181–182.
+[^44]: ABOA vol I Tab 4 pp 181–182.
 
-[\[note: 45\]](#Ftn_45_1)ABOA vol II Tab 13.
+[^45]: ABOA vol II Tab 13.
 
-[\[note: 46\]](#Ftn_46_1)ABOA vol I Tab 1, p 23.
+[^46]: ABOA vol I Tab 1, p 23.
 
-[\[note: 47\]](#Ftn_47_1)ABOA vol II Tab 13.
+[^47]: ABOA vol II Tab 13.
 
-[\[note: 48\]](#Ftn_48_1)ABOA vol IV Tab 43.
+[^48]: ABOA vol IV Tab 43.
 
-[\[note: 49\]](#Ftn_49_1)ABOA vol IV Tab 42.
+[^49]: ABOA vol IV Tab 42.
 
-[\[note: 50\]](#Ftn_50_1)ABOA vol IV Tab 44.
+[^50]: ABOA vol IV Tab 44.
 
-[\[note: 51\]](#Ftn_51_1)ABOA vol IV Tabs 36 and 37.
+[^51]: ABOA vol IV Tabs 36 and 37.
 
-[\[note: 52\]](#Ftn_52_1)Appellants’ case at para 87.
+[^52]: Appellants’ case at para 87.
 
-[\[note: 53\]](#Ftn_53_1)Appellants’ case at para 91.
+[^53]: Appellants’ case at para 91.
 
-[\[note: 54\]](#Ftn_54_1)Appellants’ case at paras 94 and 95.
+[^54]: Appellants’ case at paras 94 and 95.
 
-[\[note: 55\]](#Ftn_55_1)ASBA Tab 2.
+[^55]: ASBA Tab 2.
 
-[\[note: 56\]](#Ftn_56_1)ABOA vol I Tab 6.
+[^56]: ABOA vol I Tab 6.
 
-[\[note: 57\]](#Ftn_57_1)Appellants’ case at para 119d.
+[^57]: Appellants’ case at para 119d.
 
-[\[note: 58\]](#Ftn_58_1)Appellants’ reply at paras 8 and 9.
+[^58]: Appellants’ reply at paras 8 and 9.
 
-[\[note: 59\]](#Ftn_59_1)Appellants’ reply at paras 19–22.
+[^59]: Appellants’ reply at paras 19–22.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F22692-SSP.xml)

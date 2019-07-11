@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # Public Prosecutor _v_ Satesh s/o Navarlan  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Magistrate's Appeal No 9349 of 2018</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">08 May 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Tay Yong Kwang JA</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Wuan Kin Lek Nicholas and Jotham Tay (Attorney-General's Chambers) for the plaintiff; Kalidass s/o Murugaiyan (Kalidass Law Corporation) for the respondent.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Satesh s/o Navarlan</td></tr></tbody></table>
@@ -48,9 +49,9 @@ Criminal Law – Offences – Statutory offences – Women’s Charter
 
 ## The appeal
 
-11     The Prosecution appealed against the community-based sentences imposed by the DJ. The Prosecution submitted that the dominant sentence in this case should be deterrence, both general and specific, and that the DJ accorded too much weight to the principle of rehabilitation and the mitigation plea.[\[note: 1\]](#Ftn_1) The Prosecution argued for a total imprisonment term of at least four weeks, with a sentence of four weeks’ imprisonment for each charge and both imprisonment terms running concurrently.[\[note: 2\]](#Ftn_2)
+11     The Prosecution appealed against the community-based sentences imposed by the DJ. The Prosecution submitted that the dominant sentence in this case should be deterrence, both general and specific, and that the DJ accorded too much weight to the principle of rehabilitation and the mitigation plea.[^1] The Prosecution argued for a total imprisonment term of at least four weeks, with a sentence of four weeks’ imprisonment for each charge and both imprisonment terms running concurrently.[^2]
 
-12     Counsel for the Respondent submitted that a SDO also carries a punitive and deterring element (citing _Public Prosecutor v Teo Chang Heng_ (“_Teo Chang Heng_”) at \[15\]). Counsel argued that the DJ did not hold rehabilitation to be the primary sentencing consideration and the very choice of a SDO over other community-based sentences demonstrated an acute awareness of the need to address the element of deterrence and retribution. The DJ, according to the Respondent, had taken a nuanced approach to arrive at a fairly-calibrated balance of the sentencing principles.[\[note: 3\]](#Ftn_3) Counsel also emphasised the fact that the Respondent’s DRO Suitability Report recommended that he was suitable for DRO, reflective of his amenability to rehabilitation.[\[note: 4\]](#Ftn_4) Counsel further submitted that the facts of _Wong Leong Chin v Public Prosecutor_ (“_Wong Leong Chin_”)[\[note: 5\]](#Ftn_5) and _Public Prosecutor v N_ (“_PP v N_”),[\[note: 6\]](#Ftn_6) where custodial terms were imposed, were more aggravated than the facts of the present case and therefore should be distinguished.[\[note: 7\]](#Ftn_7) The mitigating factors submitted in the court below were repeated.[\[note: 8\]](#Ftn_8)
+12     Counsel for the Respondent submitted that a SDO also carries a punitive and deterring element (citing _Public Prosecutor v Teo Chang Heng_ (“_Teo Chang Heng_”) at \[15\]). Counsel argued that the DJ did not hold rehabilitation to be the primary sentencing consideration and the very choice of a SDO over other community-based sentences demonstrated an acute awareness of the need to address the element of deterrence and retribution. The DJ, according to the Respondent, had taken a nuanced approach to arrive at a fairly-calibrated balance of the sentencing principles.[^3] Counsel also emphasised the fact that the Respondent’s DRO Suitability Report recommended that he was suitable for DRO, reflective of his amenability to rehabilitation.[^4] Counsel further submitted that the facts of _Wong Leong Chin v Public Prosecutor_ (“_Wong Leong Chin_”)[^5] and _Public Prosecutor v N_ (“_PP v N_”),[^6] where custodial terms were imposed, were more aggravated than the facts of the present case and therefore should be distinguished.[^7] The mitigating factors submitted in the court below were repeated.[^8]
 
 ## My decision
 
@@ -62,17 +63,17 @@ Criminal Law – Offences – Statutory offences – Women’s Charter
 
 #### The gravity of the offences
 
-15     The Respondent highlighted that his wife’s injuries were not serious. The injuries might not be very serious but the Respondent’s culpability was certainly very high. The Respondent’s relentless assault against his wife in the presence of their then five-year-old daughter after returning home in an intoxicated state at past 2am and rudely waking them up showed his true self. He bit her right leg. Later, he could even laugh and mock the way his wife held an umbrella to ward him off. He snatched the umbrella from her and used it to hit her body while sarcastically and sadistically telling her, “This is how it works!”.[\[note: 9\]](#Ftn_9) He tried to stop her from leaving the flat after assaulting her and chased her to the lift when she managed to escape from the flat.
+15     The Respondent highlighted that his wife’s injuries were not serious. The injuries might not be very serious but the Respondent’s culpability was certainly very high. The Respondent’s relentless assault against his wife in the presence of their then five-year-old daughter after returning home in an intoxicated state at past 2am and rudely waking them up showed his true self. He bit her right leg. Later, he could even laugh and mock the way his wife held an umbrella to ward him off. He snatched the umbrella from her and used it to hit her body while sarcastically and sadistically telling her, “This is how it works!”.[^9] He tried to stop her from leaving the flat after assaulting her and chased her to the lift when she managed to escape from the flat.
 
-16     One can imagine what the acts of the Respondent that day and his history of spousal violence must have done to his wife’s and their young daughter’s sense of security and peace of mind. His wife obviously could not tolerate his drunken violence any more when she decided to move out of the matrimonial flat with her daughter and to seek refuge at a family centre. She even decided to file for divorce one week after the assault, listing the history of her matrimonial woes in her email of 8 Feb 2018 to her divorce lawyer.[\[note: 10\]](#Ftn_10)
+16     One can imagine what the acts of the Respondent that day and his history of spousal violence must have done to his wife’s and their young daughter’s sense of security and peace of mind. His wife obviously could not tolerate his drunken violence any more when she decided to move out of the matrimonial flat with her daughter and to seek refuge at a family centre. She even decided to file for divorce one week after the assault, listing the history of her matrimonial woes in her email of 8 Feb 2018 to her divorce lawyer.[^10]
 
 #### Aggravating factor
 
-17     Before the DJ, the Respondent claimed in his personal mitigation plea, which was presented together with the mitigation plea prepared by his counsel, that he had no recollection of the events that early morning and had to rely on the email his wife wrote to her divorce lawyer. The law is clear that voluntary excessive consumption of alcohol aggravates rather than mitigates an offence that results from such drunkenness. The Respondent had an alcohol problem for more than 10 years and the most recent recorded manifestation of his problem was in the PPO made against him in 2014 for the protection of his wife. This was issued after he had pushed his wife while he was in an intoxicated state, injuring her.[\[note: 11\]](#Ftn_11) Nevertheless, the Respondent continued with his excessive consumption of alcohol, whether for social purposes or to relieve stress.
+17     Before the DJ, the Respondent claimed in his personal mitigation plea, which was presented together with the mitigation plea prepared by his counsel, that he had no recollection of the events that early morning and had to rely on the email his wife wrote to her divorce lawyer. The law is clear that voluntary excessive consumption of alcohol aggravates rather than mitigates an offence that results from such drunkenness. The Respondent had an alcohol problem for more than 10 years and the most recent recorded manifestation of his problem was in the PPO made against him in 2014 for the protection of his wife. This was issued after he had pushed his wife while he was in an intoxicated state, injuring her.[^11] Nevertheless, the Respondent continued with his excessive consumption of alcohol, whether for social purposes or to relieve stress.
 
 ### Lack of rehabilitation prospects
 
-18     In the Respondent’s personal mitigation plea presented before the DJ,[\[note: 12\]](#Ftn_12) the Respondent stated that “I would like to reiterate that the offence is out of character for which I am extremely remorseful...”. Such a statement showed that he was either in denial or was simply unable to appreciate his propensity for violence against his wife, particularly when he had consumed too much alcohol. The present offences were certainly not out of character with his conduct leading to his wife applying for a PPO against him in 2014. Consuming too much alcohol and getting into trouble was also not new to him. He was convicted and imprisoned in 2007 and again in 2013 for drink-driving.[\[note: 13\]](#Ftn_13) Even in his DRO Suitability Report, the Correctional Rehabilitation Specialist found that the Respondent had “distorted thinking related to spousal violence” and assessed him “to display thinking supportive of crime” because the Respondent had externalised his actions to alcohol influence and claimed that he was not able to control himself.[\[note: 14\]](#Ftn_14)
+18     In the Respondent’s personal mitigation plea presented before the DJ,[^12] the Respondent stated that “I would like to reiterate that the offence is out of character for which I am extremely remorseful...”. Such a statement showed that he was either in denial or was simply unable to appreciate his propensity for violence against his wife, particularly when he had consumed too much alcohol. The present offences were certainly not out of character with his conduct leading to his wife applying for a PPO against him in 2014. Consuming too much alcohol and getting into trouble was also not new to him. He was convicted and imprisoned in 2007 and again in 2013 for drink-driving.[^13] Even in his DRO Suitability Report, the Correctional Rehabilitation Specialist found that the Respondent had “distorted thinking related to spousal violence” and assessed him “to display thinking supportive of crime” because the Respondent had externalised his actions to alcohol influence and claimed that he was not able to control himself.[^14]
 
 19     Counsel for the Respondent emphasised that the Respondent had enrolled with Alcoholics Anonymous. However, his sudden decision to enrol with Alcoholics Anonymous after he was charged with the present offences must be seen in the light of his long history of alcohol abuse. It did not appear to be motivated by true remorse but appeared to be a tactical move for his mitigation plea.
 
@@ -86,11 +87,11 @@ Criminal Law – Offences – Statutory offences – Women’s Charter
 
 23     The present offences did not fall under the categories for which community-based sentencing was envisaged. There was nothing to suggest that the Respondent’s capacity for rehabilitation was so promising that the option of community-based sentencing would be appropriate in the present case. On the contrary, given the Respondent’s history of alcohol abuse and propensity of violence against his wife as well as his high level of culpability, there was a strong need for specific deterrence against the Respondent. Bearing in mind all the circumstances here, the “some prospect” at rehabilitation mentioned by the DJ could not override the clear need for punishment to emphasise to the Respondent and other like-minded persons that family violence cannot be tolerated and that voluntary intoxication worsens rather than mitigates the offences.
 
-24     Given the strong stance taken against family violence, custodial sentences have been imposed for breaches of PPOs. In _Wong Leong Chin_,[\[note: 15\]](#Ftn_15) the offender returned home around midnight and his wife asked where he had been. He did not give a satisfactory answer and instead lost his temper and became violent. He tried to strangle his wife. After she tried to run away, he chased her, hit her and kicked her. The offender’s sentence of four weeks’ imprisonment for the charge of breach of PPO based on these facts was upheld by the High Court.
+24     Given the strong stance taken against family violence, custodial sentences have been imposed for breaches of PPOs. In _Wong Leong Chin_,[^15] the offender returned home around midnight and his wife asked where he had been. He did not give a satisfactory answer and instead lost his temper and became violent. He tried to strangle his wife. After she tried to run away, he chased her, hit her and kicked her. The offender’s sentence of four weeks’ imprisonment for the charge of breach of PPO based on these facts was upheld by the High Court.
 
-25     Similarly, in _PP v N_,[\[note: 16\]](#Ftn_16) the offender pleaded guilty to three offences against his wife, namely voluntarily causing hurt, wrongful confinement and criminal intimidation. He had slapped her face, tied up her hands, gagged her and threatened to kill her. The offender’s sentence of a fine was overturned on appeal and enhanced to imprisonment of 18 months.
+25     Similarly, in _PP v N_,[^16] the offender pleaded guilty to three offences against his wife, namely voluntarily causing hurt, wrongful confinement and criminal intimidation. He had slapped her face, tied up her hands, gagged her and threatened to kill her. The offender’s sentence of a fine was overturned on appeal and enhanced to imprisonment of 18 months.
 
-26     In _Luan Yuanxin_,[\[note: 17\]](#Ftn_17) the offender pleaded guilty to two charges under s 323 of the Penal Code (among other charges). The offender had strangled his wife with a copper wire and had bitten her right hand. With help from their eight-year-old daughter and the wife’s elderly mother, the wife finally managed to free herself from the offender’s hold. The High Court imposed the maximum sentence of one year’s imprisonment for each charge, considering the violence and viciousness of the offender’s acts, that some degree of premeditation was involved in the attack, the considerable degree of force which the offender used and his corresponding intention to cause his wife serious injury as well as the offender’s verbal threat to strangle her to death while tightening the wire around her neck (at \[12\] and \[14\]). The High Court also gave due weight to the fact that the offender carried out the attack in front of the eight-year-old daughter who had to witness the violent attack on her mother by her own father (at \[16\]). The High Court stressed the importance of deterring anyone who might resort to familial violence (at \[17\]):
+26     In _Luan Yuanxin_,[^17] the offender pleaded guilty to two charges under s 323 of the Penal Code (among other charges). The offender had strangled his wife with a copper wire and had bitten her right hand. With help from their eight-year-old daughter and the wife’s elderly mother, the wife finally managed to free herself from the offender’s hold. The High Court imposed the maximum sentence of one year’s imprisonment for each charge, considering the violence and viciousness of the offender’s acts, that some degree of premeditation was involved in the attack, the considerable degree of force which the offender used and his corresponding intention to cause his wife serious injury as well as the offender’s verbal threat to strangle her to death while tightening the wire around her neck (at \[12\] and \[14\]). The High Court also gave due weight to the fact that the offender carried out the attack in front of the eight-year-old daughter who had to witness the violent attack on her mother by her own father (at \[16\]). The High Court stressed the importance of deterring anyone who might resort to familial violence (at \[17\]):
 
 Violent acts such as these are particularly heinous when they are committed within the confines of a familial relationship as they constitute an abuse of the bonds of trust and interdependency that exist between family members. More often than not, the effects of such violence within the family fall most harshly upon the children who, while they may not be the direct recipients of the violence, will nevertheless carry the scars of these acts of brutality.
 
@@ -102,39 +103,39 @@ Violent acts such as these are particularly heinous when they are committed with
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)Prosecution’s written submissions at para 28.
+[^1]: Prosecution’s written submissions at para 28.
 
-[\[note: 2\]](#Ftn_2_1)Prosecution’s written submissions at paras 79 and 83.
+[^2]: Prosecution’s written submissions at paras 79 and 83.
 
-[\[note: 3\]](#Ftn_3_1)Respondent’s written submissions at paras 29–37.
+[^3]: Respondent’s written submissions at paras 29–37.
 
-[\[note: 4\]](#Ftn_4_1)Respondent’s written submissions at paras 39 and 46.
+[^4]: Respondent’s written submissions at paras 39 and 46.
 
-[\[note: 5\]](#Ftn_5_1)Respondent’s Bundle of Authorities (“RBOA”) at Tab F.
+[^5]: Respondent’s Bundle of Authorities (“RBOA”) at Tab F.
 
-[\[note: 6\]](#Ftn_6_1)RBOA at Tab G.
+[^6]: RBOA at Tab G.
 
-[\[note: 7\]](#Ftn_7_1)Respondent’s written submissions at paras 23–27.
+[^7]: Respondent’s written submissions at paras 23–27.
 
-[\[note: 8\]](#Ftn_8_1)Respondent’s written submissions at paras 53–59.
+[^8]: Respondent’s written submissions at paras 53–59.
 
-[\[note: 9\]](#Ftn_9_1)Record of Appeal (“ROA”) at p 79.
+[^9]: Record of Appeal (“ROA”) at p 79.
 
-[\[note: 10\]](#Ftn_10_1)ROA at p 78.
+[^10]: ROA at p 78.
 
-[\[note: 11\]](#Ftn_11_1)ROA at p 44.
+[^11]: ROA at p 44.
 
-[\[note: 12\]](#Ftn_12_1)Mitigation plea at para 17(g), found at ROA p 97.
+[^12]: Mitigation plea at para 17(g), found at ROA p 97.
 
-[\[note: 13\]](#Ftn_13_1)ROA at p 39.
+[^13]: ROA at p 39.
 
-[\[note: 14\]](#Ftn_14_1)ROA at p 45, paras 9 and 18.
+[^14]: ROA at p 45, paras 9 and 18.
 
-[\[note: 15\]](#Ftn_15_1)RBOA at Tab F.
+[^15]: RBOA at Tab F.
 
-[\[note: 16\]](#Ftn_16_1)RBOA at Tab G.
+[^16]: RBOA at Tab G.
 
-[\[note: 17\]](#Ftn_17_1)ABOA at Tab F.
+[^17]: ABOA at Tab F.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23136-SSP.xml)

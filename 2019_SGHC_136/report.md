@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # Soh Xia Kai Ronnie _v_ Loke Chor Kay  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Suit No 787 of 2017 (Assessment of Damages No 15 of 2018)</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">28 May 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Woo Bih Li J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Simon Yuen (Legal Clinic LLC) for the plaintiff; Mahendra Prasad Rai and Dean Salleh (Cooma &amp; Rai) for the defendant.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Soh Xia Kai Ronnie — Loke Chor Kay</td></tr></tbody></table>
@@ -16,27 +17,27 @@ Damages – Assessment – Personal injuries cases
 
 ## Background allegations
 
-3       Soh suffered from a head injury and injuries mainly to his right leg. The head injury was fortunately resolved without any complication. The main residual injuries or disabilities pertained to his right leg, which was shortened initially by 5cm and eventually, after surgery, by 2cm,[\[note: 1\]](#Ftn_1) and his right knee.
+3       Soh suffered from a head injury and injuries mainly to his right leg. The head injury was fortunately resolved without any complication. The main residual injuries or disabilities pertained to his right leg, which was shortened initially by 5cm and eventually, after surgery, by 2cm,[^1] and his right knee.
 
 4       After his initial stay at National University Hospital (“NUH”), Soh consulted various specialists:
 
-(a)     Dr Chee Yu Han (“Dr Chee”) from NUH, who examined Soh on 19 April 2012 and issued a medical report dated 26 April 2012;[\[note: 2\]](#Ftn_2)
+(a)     Dr Chee Yu Han (“Dr Chee”) from NUH, who examined Soh on 19 April 2012 and issued a medical report dated 26 April 2012;[^2]
 
-(b)     A/Prof Ganesan Naidu (“Prof Naidu”) from Tan Tock Seng Hospital (“TTSH”), who examined Soh on 7 April 2015 and issued a medical report dated 23 April 2015;[\[note: 3\]](#Ftn_3)
+(b)     A/Prof Ganesan Naidu (“Prof Naidu”) from Tan Tock Seng Hospital (“TTSH”), who examined Soh on 7 April 2015 and issued a medical report dated 23 April 2015;[^3]
 
-(c)     Adj Asst Prof Hitendra K Doshi (“Prof Doshi”) from TTSH, who examined Soh on 24 October 2016 and issued a medical report dated 26 October 2016;[\[note: 4\]](#Ftn_4) and
+(c)     Adj Asst Prof Hitendra K Doshi (“Prof Doshi”) from TTSH, who examined Soh on 24 October 2016 and issued a medical report dated 26 October 2016;[^4] and
 
-(d)     Professor Tay Boon Keng (“Prof Tay”) from Singapore General Hospital (“SGH”), who examined Soh on 14 December 2016 and issued a medical report erroneously dated both 28 December 2016 and 5 January 2017.[\[note: 5\]](#Ftn_5) I will adopt the later date. Prof Tay also issued a clarification dated 26 March 2018.[\[note: 6\]](#Ftn_6) Prof Tay was Soh’s independent medical expert.
+(d)     Professor Tay Boon Keng (“Prof Tay”) from Singapore General Hospital (“SGH”), who examined Soh on 14 December 2016 and issued a medical report erroneously dated both 28 December 2016 and 5 January 2017.[^5] I will adopt the later date. Prof Tay also issued a clarification dated 26 March 2018.[^6] Prof Tay was Soh’s independent medical expert.
 
 5       Loke’s independent medical expert was Dr Lee Soon Tai (“Dr Lee”). Dr Lee saw Soh on 10 March 2016 and he issued the following medical reports:
 
-(a)     his first medical report dated 4 May 2016;[\[note: 7\]](#Ftn_7)
+(a)     his first medical report dated 4 May 2016;[^7]
 
-(b)     his second medical report dated 18 January 2018;[\[note: 8\]](#Ftn_8)
+(b)     his second medical report dated 18 January 2018;[^8]
 
-(c)     his third medical report dated 2 May 2018;[\[note: 9\]](#Ftn_9) and
+(c)     his third medical report dated 2 May 2018;[^9] and
 
-(d)     his fourth medical report dated 10 May 2018 which elaborated on his third medical report.[\[note: 10\]](#Ftn_10)
+(d)     his fourth medical report dated 10 May 2018 which elaborated on his third medical report.[^10]
 
 6       Loke also relied on a video recording of the movements of Soh on three days, these being 25, 26 and 29 October 2017. This was done by a private investigator who also included photographs from Soh’s Facebook account.
 
@@ -54,13 +55,13 @@ Damages – Assessment – Personal injuries cases
 
 13     On Soh’s job prospects, Loke submitted that notwithstanding the many number of days of medical leave that Soh had been on, Soh had been promoted twice. Soh’s accident was in November 2010. However, he was promoted to Technician Grade B from 1 January 2012. He was subsequently promoted to Senior Technician I from 1 January 2017.
 
-14     Loke referred to various job appraisals which commended Soh. A Year End Appraisal 2012 stated, “\[a\]fter his long medical due to motorcycle accident, \[Soh\] came back to work doing panel-man duties. This year he has start \[_sic_\] doing field work, he is able to cope and do the tank-farm and jetty duties quite well”.[\[note: 11\]](#Ftn_11)
+14     Loke referred to various job appraisals which commended Soh. A Year End Appraisal 2012 stated, “\[a\]fter his long medical due to motorcycle accident, \[Soh\] came back to work doing panel-man duties. This year he has start \[_sic_\] doing field work, he is able to cope and do the tank-farm and jetty duties quite well”.[^11]
 
-15     A Year End Appraisal 2013 commented that, “\[Soh\] is a good technician. He always do his work well and quite accurate. He is able to handle some volume of work …”.[\[note: 12\]](#Ftn_12)
+15     A Year End Appraisal 2013 commented that, “\[Soh\] is a good technician. He always do his work well and quite accurate. He is able to handle some volume of work …”.[^12]
 
-16     A Performance Review for 2017 described Soh as safety conscious, motivated, and a good team player. He was described as a positive role model for other trainee technicians. He was also an independent and reliable worker. He carried out his role with tenacity and consistency. He would make a valuable asset to his employer if his performance remained exemplary.[\[note: 13\]](#Ftn_13)
+16     A Performance Review for 2017 described Soh as safety conscious, motivated, and a good team player. He was described as a positive role model for other trainee technicians. He was also an independent and reliable worker. He carried out his role with tenacity and consistency. He would make a valuable asset to his employer if his performance remained exemplary.[^13]
 
-17     Indeed, Soh admitted that there was no single statement in any assessment of him by his employer saying that he was handicapped in any way in his work.[\[note: 14\]](#Ftn_14)
+17     Indeed, Soh admitted that there was no single statement in any assessment of him by his employer saying that he was handicapped in any way in his work.[^14]
 
 ## The assessment and appeal
 
@@ -110,7 +111,7 @@ Damages – Assessment – Personal injuries cases
 
 These procedures were to increase the length of his right leg.
 
-27     The initial period of medical leave for Soh was 147 days. This increased to 566 days as of August 2015, after each of the various procedures were done.[\[note: 15\]](#Ftn_15)
+27     The initial period of medical leave for Soh was 147 days. This increased to 566 days as of August 2015, after each of the various procedures were done.[^15]
 
 28     Unlike in _Yeo_, Soh underwent osteotomy and distraction corticotomy. That said, Soh was still able to continue with his employment and, according to Loke’s case, Soh was even promoted twice.
 
@@ -130,7 +131,7 @@ These procedures were to increase the length of his right leg.
 
 34     As explained above, I had taken these items into account in awarding $50,000 for the right upper leg injury.
 
-35     Moreover, on the loss of amenities, Soh submitted that “\[a\] separate award is typically granted where there is a residual disability so severe as to greatly impact overall enjoyment of life”.[\[note: 16\]](#Ftn_16) Therefore, even based on his submissions, the question was whether his residual disabilities were so severe as to greatly impact his overall enjoyment of life.
+35     Moreover, on the loss of amenities, Soh submitted that “\[a\] separate award is typically granted where there is a residual disability so severe as to greatly impact overall enjoyment of life”.[^16] Therefore, even based on his submissions, the question was whether his residual disabilities were so severe as to greatly impact his overall enjoyment of life.
 
 36     Soh cited three cases in his submissions. The first was _Lai Wee Lian v Singapore Bus Service (1978) Ltd_ (CA) and (PC). There, the plaintiff suffered from a great reduction of mental powers, change of personality, neurogenic bladder, inability to have sexual intercourse, and the loss of the prospect of a happy marriage. The plaintiff was awarded $40,000 for loss of amenities.
 
@@ -170,7 +171,7 @@ Counsel for the plaintiff submitted that she was entitled to at least a conventi
 
 (b)     as a result of his injury, he will be at a disadvantage in getting another job or an equally well-paying job.
 
-49     On the first limb, Soh submitted that his residual disabilities put him at a high risk of losing his present job as a technician with an oil tank company. I have set out above his allegation as to what the job entails. Soh said that he would eventually develop severe osteoarthritis of his right knee which would require a total knee replacement (“TKR”). He would also have to undergo multiple other surgical procedures such as a surgery to remove an internal fixator, arthroscopy for the meniscus tears and ACL reconstruction. He would have to take extensive medical leave and also take time off for consultation and physiotherapy. Therefore, there was a significant risk that his employer would eventually tire of having to accommodate him and let him go when the opportunity arises.[\[note: 17\]](#Ftn_17) Indeed, as mentioned above at \[9\], Soh also alleged that it was by grace that he could keep his job.
+49     On the first limb, Soh submitted that his residual disabilities put him at a high risk of losing his present job as a technician with an oil tank company. I have set out above his allegation as to what the job entails. Soh said that he would eventually develop severe osteoarthritis of his right knee which would require a total knee replacement (“TKR”). He would also have to undergo multiple other surgical procedures such as a surgery to remove an internal fixator, arthroscopy for the meniscus tears and ACL reconstruction. He would have to take extensive medical leave and also take time off for consultation and physiotherapy. Therefore, there was a significant risk that his employer would eventually tire of having to accommodate him and let him go when the opportunity arises.[^17] Indeed, as mentioned above at \[9\], Soh also alleged that it was by grace that he could keep his job.
 
 50     However, Soh had already taken extensive medical leave in the past after the accident. As mentioned above, he had to take 566 days of medical leave over various years. Yet, he kept his job. Apparently he was even promoted twice.
 
@@ -178,7 +179,7 @@ Counsel for the plaintiff submitted that she was entitled to at least a conventi
 
 52     I reiterate that Soh elected not to call any evidence from his employer about his job prospects with that employer even though he referred to what his superior Mr Chan had allegedly told him. There was also no medical evidence about any disadvantage or the extent of the disadvantage in securing a job should he in fact lose his job. Accordingly, there was no other evidence to support his allegations.
 
-53     On the contrary, the appraisals or reviews of Soh, which Loke relied on, suggested that Soh’s employer thought well of Soh’s performance. This was to Soh’s credit. However, he could not establish that it was by his employer’s grace that he could keep his job or that if there was any downturn, he would be the first of the employees to be retrenched. Furthermore, it was difficult to say that he would be disadvantaged, because of his disabilities, in getting another job if he were in fact retrenched. It was also difficult to assess the extent of the disability in getting another job. In my view, Soh had made a sweeping statement “\[g\]iven the nature of his residual disabilities, he is unlikely to be able to find another blue-collar job”.[\[note: 18\]](#Ftn_18)
+53     On the contrary, the appraisals or reviews of Soh, which Loke relied on, suggested that Soh’s employer thought well of Soh’s performance. This was to Soh’s credit. However, he could not establish that it was by his employer’s grace that he could keep his job or that if there was any downturn, he would be the first of the employees to be retrenched. Furthermore, it was difficult to say that he would be disadvantaged, because of his disabilities, in getting another job if he were in fact retrenched. It was also difficult to assess the extent of the disability in getting another job. In my view, Soh had made a sweeping statement “\[g\]iven the nature of his residual disabilities, he is unlikely to be able to find another blue-collar job”.[^18]
 
 54     As for osteoarthritis eventually setting in, this could be resolved with a TKR (for which a separate award was made). There was no evidence to suggest that workers with such a condition, which could arise without any accident, would be at a disadvantage in retaining or getting a job and the extent of the disadvantage.
 
@@ -199,7 +200,7 @@ Counsel for the plaintiff submitted that she was entitled to at least a conventi
 
 59     The three sums of $113,612, $2,728.50 and $2,311.20 added up to $118,651.70. Soh rounded it to $118,652.
 
-60     For the removal of an internal fixator, Loke submitted that the only doctor who stated that Soh would need to remove his implant was Prof Tay. Even then, Prof Tay did not give an estimate for the cost of removal. Soh’s submissions referred to the Ministry of Health’s (“MOH”) published average hospital bills for each procedure in question.[\[note: 19\]](#Ftn_19) On that basis, Soh claimed $8,591.
+60     For the removal of an internal fixator, Loke submitted that the only doctor who stated that Soh would need to remove his implant was Prof Tay. Even then, Prof Tay did not give an estimate for the cost of removal. Soh’s submissions referred to the Ministry of Health’s (“MOH”) published average hospital bills for each procedure in question.[^19] On that basis, Soh claimed $8,591.
 
 61     Dr Lee was of the view that it was optional to remove the fixation plating and screws since the fracture had consolidated. He estimated the cost of removal to be about $3,410 (for a class B1 ward) if it was performed in a government restructured hospital. He was not challenged on the quantum. Loke submitted that if the court was minded to allow this item, it should be for $3,410.
 
@@ -215,19 +216,19 @@ Counsel for the plaintiff submitted that she was entitled to at least a conventi
 
 67     There was some confusion in the evidence about the need for these two procedures. Loke did not dispute the report of Prof Naidu dated 23 April 2015 which was part of the Agreed Bundle. Loke also did not require Prof Naidu to be cross-examined. This therefore suggested that Loke was precluded from disputing the need for these procedures.
 
-68     However, Soh had also appointed Prof Tay as his independent expert. Prof Tay’s report dated 5 January 2017 made no mention of the need for these procedures. Furthermore, in re-examination, Prof Tay said they were electives.[\[note: 20\]](#Ftn_20)
+68     However, Soh had also appointed Prof Tay as his independent expert. Prof Tay’s report dated 5 January 2017 made no mention of the need for these procedures. Furthermore, in re-examination, Prof Tay said they were electives.[^20]
 
 69     In such circumstances, I did not think that Loke was precluded from taking the point that these procedures were electives although he should not have agreed that cross-examination of Prof Naidu was not necessary since he was contesting these items.
 
-70     So far, Soh had not decided to pursue these procedures. In his Supplementary AEIC of 23 September 2015, Soh said that due to his long medical leave and that he had exhausted all his medical leave for the year, he would put off these procedures for as long as possible.[\[note: 21\]](#Ftn_21) It seemed to me that he was waiting to see if he would be compensated for the expenses.
+70     So far, Soh had not decided to pursue these procedures. In his Supplementary AEIC of 23 September 2015, Soh said that due to his long medical leave and that he had exhausted all his medical leave for the year, he would put off these procedures for as long as possible.[^21] It seemed to me that he was waiting to see if he would be compensated for the expenses.
 
 71     As the procedures are not necessary, I decided that he was not entitled to claim for these items.
 
-72     If I were wrong on the liability for those items, I would have allowed only $10,000 for them. That was the figure estimated by Prof Naidu. Soh reiterated this figure in his Supplementary AEIC.[\[note: 22\]](#Ftn_22) However, in his submissions he sought to justify the higher figures claimed on the basis that his regular orthopaedic doctor was Prof Naidu who had since moved to Raffles Hospital.[\[note: 23\]](#Ftn_23) Therefore, Soh should be entitled to make his claim based on private rates.
+72     If I were wrong on the liability for those items, I would have allowed only $10,000 for them. That was the figure estimated by Prof Naidu. Soh reiterated this figure in his Supplementary AEIC.[^22] However, in his submissions he sought to justify the higher figures claimed on the basis that his regular orthopaedic doctor was Prof Naidu who had since moved to Raffles Hospital.[^23] Therefore, Soh should be entitled to make his claim based on private rates.
 
 73     I would not have agreed to more than $10,000 because Soh had been going to TTSH from April 2015 when he consulted Prof Naidu. In 2016, he consulted Prof Doshi at TTSH as well. There was no suggestion that the procedures were so complicated as to require Prof Naidu’s attention. Furthermore, Soh was apparently again relying on MOH figures which had a wide range and were not helpful without elaboration.
 
-74     I come now to the cost of TKR. Soh had claimed $26,538 for each TKR. He was claiming for two TKRs. Prof Tay had estimated $20,000 for one TKR.[\[note: 24\]](#Ftn_24) Loke was prepared to agree to $20,000 but had overlooked the point that the TKR would only be required in about 20 years’ time. I will come back to this point later.
+74     I come now to the cost of TKR. Soh had claimed $26,538 for each TKR. He was claiming for two TKRs. Prof Tay had estimated $20,000 for one TKR.[^24] Loke was prepared to agree to $20,000 but had overlooked the point that the TKR would only be required in about 20 years’ time. I will come back to this point later.
 
 75     On the cost for consultation, Soh proceeded on the basis of three consultations for each of the five procedures. Loke proceeded on the basis of two consultations for two procedures, _ie_, the removal of internal fixator and one TKR (instead of two).
 
@@ -235,7 +236,7 @@ Counsel for the plaintiff submitted that she was entitled to at least a conventi
 
 77     In the absence of more evidence for Soh, I proceeded on the basis of $70 per visit and two consultations per procedure making $280 (_ie_, $70 x 4).
 
-78     For physiotherapy, Soh asked for 12 sessions after each TKR at $96.30 per session. For 24 sessions for two TKR, the cost would be $2,311.20. Loke suggested $960 which worked out to $80 x 12 sessions (since he did not agree to a second TKR). The $80 was again Dr Lee’s estimate at a government restructured hospital.[\[note: 25\]](#Ftn_25)
+78     For physiotherapy, Soh asked for 12 sessions after each TKR at $96.30 per session. For 24 sessions for two TKR, the cost would be $2,311.20. Loke suggested $960 which worked out to $80 x 12 sessions (since he did not agree to a second TKR). The $80 was again Dr Lee’s estimate at a government restructured hospital.[^25]
 
 79     In the absence of more evidence for Soh, I applied $80 per session. Therefore, the following would apply if I allowed costs for the removal of implants and for one TKR before any other adjustment:
 
@@ -248,7 +249,7 @@ Counsel for the plaintiff submitted that she was entitled to at least a conventi
 
 81     I also took into account the fact that the first TKR costing $20,000 would not be required until about 20 years later (even assuming that this was 20 years from the date of the accident and not from the date of the assessment hearing). Hence, Soh was going to receive compensation ahead of time. After factoring a discount for accelerated payment and contingencies of life, I allowed $10,000 (instead of $20,000) for the first TKR. The total of the various claims which I was allowing under item 12 would therefore be $25,730 less $10,000 making a total of $15,730 (which should have been $15,370 if no error was made).
 
-82     There was also some evidence from Prof Tay that a second TKR would eventually also be required[\[note: 26\]](#Ftn_26) although Loke disputed the need for a second TKR. I was prepared to allow for a second TKR which was likely since a TKR would be effective for about 20 years and Soh was still young. However, this second TKR would be, say, 40 years later. Hence, adopting a similar approach as for the first TKR but taking into account that the second TKR would be much later, I allowed $5,000 only.
+82     There was also some evidence from Prof Tay that a second TKR would eventually also be required[^26] although Loke disputed the need for a second TKR. I was prepared to allow for a second TKR which was likely since a TKR would be effective for about 20 years and Soh was still young. However, this second TKR would be, say, 40 years later. Hence, adopting a similar approach as for the first TKR but taking into account that the second TKR would be much later, I allowed $5,000 only.
 
 ## Costs order
 
@@ -287,57 +288,57 @@ Note: Figures from parties are from their Joint Opening Statement.
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)Notes of Evidence (“NE”) 6/9/18 p 56.
+[^1]: Notes of Evidence (“NE”) 6/9/18 p 56.
 
-[\[note: 2\]](#Ftn_2_1)Agreed Bundle (“AB”) pp 14–15.
+[^2]: Agreed Bundle (“AB”) pp 14–15.
 
-[\[note: 3\]](#Ftn_3_1)AB pp 16–18.
+[^3]: AB pp 16–18.
 
-[\[note: 4\]](#Ftn_4_1)AB p 38.
+[^4]: AB p 38.
 
-[\[note: 5\]](#Ftn_5_1)AB pp 41–43.
+[^5]: AB pp 41–43.
 
-[\[note: 6\]](#Ftn_6_1)AB 51.
+[^6]: AB 51.
 
-[\[note: 7\]](#Ftn_7_1)AB pp 20–37.
+[^7]: AB pp 20–37.
 
-[\[note: 8\]](#Ftn_8_1)AB pp 45–48.
+[^8]: AB pp 45–48.
 
-[\[note: 9\]](#Ftn_9_1)AB pp 56–58.
+[^9]: AB pp 56–58.
 
-[\[note: 10\]](#Ftn_10_1)AB pp 61–64.
+[^10]: AB pp 61–64.
 
-[\[note: 11\]](#Ftn_11_1)Plaintiff’s Bundle of Documents (“PBD”) p 276.
+[^11]: Plaintiff’s Bundle of Documents (“PBD”) p 276.
 
-[\[note: 12\]](#Ftn_12_1)PBD p 283.
+[^12]: PBD p 283.
 
-[\[note: 13\]](#Ftn_13_1)PBD pp 306–307.
+[^13]: PBD pp 306–307.
 
-[\[note: 14\]](#Ftn_14_1)NE 6/9/2018 p 85.
+[^14]: NE 6/9/2018 p 85.
 
-[\[note: 15\]](#Ftn_15_1)Plaintiff’s supplementary AEIC pp 1 and 5.
+[^15]: Plaintiff’s supplementary AEIC pp 1 and 5.
 
-[\[note: 16\]](#Ftn_16_1)Plaintiff’s closing submissions (“PCS”) para 149.
+[^16]: Plaintiff’s closing submissions (“PCS”) para 149.
 
-[\[note: 17\]](#Ftn_17_1)PCS para 182.
+[^17]: PCS para 182.
 
-[\[note: 18\]](#Ftn_18_1)PCS para 185.
+[^18]: PCS para 185.
 
-[\[note: 19\]](#Ftn_19_1)PCS para 203.
+[^19]: PCS para 203.
 
-[\[note: 20\]](#Ftn_20_1)NE 5/9/2018 p 105.
+[^20]: NE 5/9/2018 p 105.
 
-[\[note: 21\]](#Ftn_21_1)Plaintiff’s supplementary AEIC para 5.
+[^21]: Plaintiff’s supplementary AEIC para 5.
 
-[\[note: 22\]](#Ftn_22_1)Plaintiff’s supplementary AEIC para 5.
+[^22]: Plaintiff’s supplementary AEIC para 5.
 
-[\[note: 23\]](#Ftn_23_1)PCS para 201.
+[^23]: PCS para 201.
 
-[\[note: 24\]](#Ftn_24_1)AB p 43.
+[^24]: AB p 43.
 
-[\[note: 25\]](#Ftn_25_1)AB p 28
+[^25]: AB p 28
 
-[\[note: 26\]](#Ftn_26_1)NE 5/9/2018 p 106.
+[^26]: NE 5/9/2018 p 106.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23223-SSP.xml)

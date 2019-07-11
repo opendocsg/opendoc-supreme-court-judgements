@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # EQ Capital Investments Ltd _v_ Sunbreeze Group Investments Ltd and others  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Suit No 233 of 2018 (Summons No 2030 of 2018)</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">22 April 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Chua Lee Ming J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Davinder Singh s/o Amar Singh SC, Jaikanth Shankar, Srruthi Ilankathir, Hanspreet Singh Sachdev and Rajvinder Singh Chahal (Davinder Singh Chambers LLC) for the plaintiff and the first and second defendants in counterclaim; Yeo Khirn Hai Alvin SC, Koh Swee Yen, Lin Chunlong, Jasmine Low and Sim Mei Ling (WongPartnership LLP) for the first, second, and third defendants and the first and second plaintiffs in counterclaim.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">EQ Capital Investments Ltd — Sunbreeze Group Investments Limited — Manoj Mohan Murjani — Kanchan Manoj Murjani — The Wellness Group Pte Ltd</td></tr></tbody></table>
@@ -76,27 +77,27 @@ The Profit Swing Clause was based broadly on profit projections for TWG Tea that
 
 (c)     if the other shareholders do not exercise the right of first refusal, the shareholder that issued the transfer notice would be entitled to sell its shares to third parties within a period of three months, at any price not less than that offered in the transfer notice, and on terms not more favourable than those offered in the transfer notice.
 
-18     By letter dated 24 October 2017, Wellness purported to issue a transfer notice pursuant to cl 6.1 of the SHA offering to sell its entire shareholding in TWG Tea to the other shareholders of TWG Tea, OSIM and/or Paris (“the 1st Transfer Notice”).[\[note: 0\]](#Ftn_0) Wellness stated in the 1st Transfer Notice that upon a successful sale of the shares to OSIM and Paris, Wellness would carry out a share buy-back of EQ Capital’s shares in Wellness at a price equivalent to EQ Capital’s indirect interest (through its shareholding in Wellness) in TWG Tea (“the Proposed Share Buy-Back”).
+18     By letter dated 24 October 2017, Wellness purported to issue a transfer notice pursuant to cl 6.1 of the SHA offering to sell its entire shareholding in TWG Tea to the other shareholders of TWG Tea, OSIM and/or Paris (“the 1st Transfer Notice”).[^0] Wellness stated in the 1st Transfer Notice that upon a successful sale of the shares to OSIM and Paris, Wellness would carry out a share buy-back of EQ Capital’s shares in Wellness at a price equivalent to EQ Capital’s indirect interest (through its shareholding in Wellness) in TWG Tea (“the Proposed Share Buy-Back”).
 
 19     On 8 November 2017, OSIM and Paris challenged the validity of the 1st Transfer Notice on the grounds that:
 
 (a)     the 1st Transfer Notice did not comply with the terms and/or prescribed process and/or timelines in the SHA; and
 
-(b)     Wellness was not entitled to include the Proposed Share Buy-Back as a term of the 1st Transfer Notice.[\[note: 1\]](#Ftn_1)
+(b)     Wellness was not entitled to include the Proposed Share Buy-Back as a term of the 1st Transfer Notice.[^1]
 
-20     By way of letter dated 13 November 2017, TWG Tea adopted the position taken by OSIM and Paris.[\[note: 2\]](#Ftn_2)
+20     By way of letter dated 13 November 2017, TWG Tea adopted the position taken by OSIM and Paris.[^2]
 
-21     On 16 November 2017, Wellness issued a fresh transfer notice pursuant to cl 6.1, again offering to sell its shares in TWG Tea to OSIM and/or Paris, this time without the Proposed Share Buy-Back (“the 2nd Transfer Notice”).[\[note: 3\]](#Ftn_3)
+21     On 16 November 2017, Wellness issued a fresh transfer notice pursuant to cl 6.1, again offering to sell its shares in TWG Tea to OSIM and/or Paris, this time without the Proposed Share Buy-Back (“the 2nd Transfer Notice”).[^3]
 
-22     By way of letters dated 1 December 2017, OSIM and Paris pointed out that Wellness’ shareholding in TWG Tea was the whole or substantially the whole undertaking and/or property of Wellness, and the proposed sale would be invalid if it had not been approved by the shareholders of Wellness in a general meeting as required under s 160(1) of the Act.[\[note: 4\]](#Ftn_4) Section 160(1) states as follows:
+22     By way of letters dated 1 December 2017, OSIM and Paris pointed out that Wellness’ shareholding in TWG Tea was the whole or substantially the whole undertaking and/or property of Wellness, and the proposed sale would be invalid if it had not been approved by the shareholders of Wellness in a general meeting as required under s 160(1) of the Act.[^4] Section 160(1) states as follows:
 
 160(1)    Notwithstanding anything in a company’s constitution, the directors shall not carry into effect any proposals for disposing of the whole or substantially the whole of the company’s undertaking or property unless those proposals have been approved by the company in general meeting.
 
 OSIM and Paris requested confirmation that shareholders’ approval had been obtained for the proposed sale and a copy of the shareholders’ resolution.
 
-23     In its replies dated 6 December 2017, Wellness said that there was no basis for OSIM’s and Paris’ requests and that the shareholders’ approval “should not be of any concern” to them.[\[note: 5\]](#Ftn_5) Wellness did not confirm that shareholders’ approval had been obtained in a general meeting; neither did Wellness provide OSIM and Paris with a copy of the shareholders’ resolution. However, in its carefully crafted replies, Wellness confirmed that the proposed sale had “received majority shareholder approval”.
+23     In its replies dated 6 December 2017, Wellness said that there was no basis for OSIM’s and Paris’ requests and that the shareholders’ approval “should not be of any concern” to them.[^5] Wellness did not confirm that shareholders’ approval had been obtained in a general meeting; neither did Wellness provide OSIM and Paris with a copy of the shareholders’ resolution. However, in its carefully crafted replies, Wellness confirmed that the proposed sale had “received majority shareholder approval”.
 
-24     By way of letters dated 11 December 2017, OSIM and Paris pointed out that Wellness’ assertion that approval had received majority shareholder approval, did not comply with s 160(1).[\[note: 6\]](#Ftn_6) OSIM and Paris took the position that therefore the prescribed process and/or timelines under cl 6.1 of the SHA had not been initiated. On 14 December 2017, TWG Tea informed Wellness that it agreed with the position taken by OSIM and Paris.[\[note: 7\]](#Ftn_7)
+24     By way of letters dated 11 December 2017, OSIM and Paris pointed out that Wellness’ assertion that approval had received majority shareholder approval, did not comply with s 160(1).[^6] OSIM and Paris took the position that therefore the prescribed process and/or timelines under cl 6.1 of the SHA had not been initiated. On 14 December 2017, TWG Tea informed Wellness that it agreed with the position taken by OSIM and Paris.[^7]
 
 25     On 2 March 2018, EQ Capital commenced the present action to plead, as part of its oppression action, the 3 Defendants’ conduct in causing Wellness to offer to sell its shares in TWG Tea to OSIM and Paris, without first obtaining the requisite shareholders’ approval as required under s 160(1) of the Act. EQ Capital could not amend its statement of claim in S17/2017 to plead these matters as they arose after the commencement of S17/2017. Both S17/2017 and the present action have since been consolidated.
 
@@ -160,9 +161,9 @@ See _EFT Holdings, Inc and another v Marinteknik Shipbuilders (S) Pte Ltd and an
 
 40     In fact, the evidence showed that even the dispute over the validity of Wellness’ transfer notice did not obstruct Wellness from seeking to sell its shares in TWG Tea:
 
-(a)     In its letters dated 19 December 2017 to OSIM, Paris and TWG Tea, Wellness took the position that it was entitled to sell its shares to third parties.[\[note: 8\]](#Ftn_8)
+(a)     In its letters dated 19 December 2017 to OSIM, Paris and TWG Tea, Wellness took the position that it was entitled to sell its shares to third parties.[^8]
 
-(b)     In a letter sent on 25 January 2018 by Manoj to Dr Finian Tan (representing Vickers Private Equity and Vickers Venture, the other two shareholders of Wellness), Manoj took the position that as OSIM and Paris had not accepted the offer set out in the 2nd Transfer Notice, Wellness was at liberty to sell its shares in TWG Tea to any third party and that Wellness will be taking steps to do so.[\[note: 9\]](#Ftn_9)
+(b)     In a letter sent on 25 January 2018 by Manoj to Dr Finian Tan (representing Vickers Private Equity and Vickers Venture, the other two shareholders of Wellness), Manoj took the position that as OSIM and Paris had not accepted the offer set out in the 2nd Transfer Notice, Wellness was at liberty to sell its shares in TWG Tea to any third party and that Wellness will be taking steps to do so.[^9]
 
 41     Whether cl 6.1 of the SHA had been triggered had a direct impact on whether Wellness was entitled to sell its shares to third parties. Yet, the dispute over this issue did not obstruct Wellness from trying to sell its shares to third parties. Wellness certainly did not consider itself so obstructed. The present action is even further removed from the dispute over cl 6.1 of the SHA. There was no reason to think that it could have obstructed Wellness in any way.
 
@@ -188,25 +189,25 @@ See _EFT Holdings, Inc and another v Marinteknik Shipbuilders (S) Pte Ltd and an
 
 * * *
 
-[\[note: 0\]](#Ftn_0_1)Counterclaim Defendants’ Bundle of Documents (“CDBOD”), tab 3, at pp 45-47.
+[^0]: Counterclaim Defendants’ Bundle of Documents (“CDBOD”), tab 3, at pp 45-47.
 
-[\[note: 1\]](#Ftn_1_1)CDBOD, tab 6, at pp 76-77.
+[^1]: CDBOD, tab 6, at pp 76-77.
 
-[\[note: 2\]](#Ftn_2_1)CDBOD, tab 7, at pp 79-81.
+[^2]: CDBOD, tab 7, at pp 79-81.
 
-[\[note: 3\]](#Ftn_3_1)CDBOD, tab 8, at pp 85-87.
+[^3]: CDBOD, tab 8, at pp 85-87.
 
-[\[note: 4\]](#Ftn_4_1)CDBOD, tab 10, at pp 94-95.
+[^4]: CDBOD, tab 10, at pp 94-95.
 
-[\[note: 5\]](#Ftn_5_1)CDBOD, tab 11, at pp 97-98.
+[^5]: CDBOD, tab 11, at pp 97-98.
 
-[\[note: 6\]](#Ftn_6_1)CDBOD, tab 12, at pp 100-101.
+[^6]: CDBOD, tab 12, at pp 100-101.
 
-[\[note: 7\]](#Ftn_7_1)CDBOD, tab 13, at p 103.
+[^7]: CDBOD, tab 13, at p 103.
 
-[\[note: 8\]](#Ftn_8_1)CDBOD, tab 14, at p 113-116.
+[^8]: CDBOD, tab 14, at p 113-116.
 
-[\[note: 9\]](#Ftn_9_1)CDBOD, tab 18, at pp 130-131.
+[^9]: CDBOD, tab 18, at pp 130-131.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23070-SSP.xml)

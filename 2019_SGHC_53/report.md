@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # _Re_: Zetta Jet Pte Ltd and others (Asia Aviation Holdings Pte Ltd, intervener)  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Originating Summons No 1391 of 2017</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">04 March 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Aedit Abdullah J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Tan Mei Yen, Thenuga Vijakumar, and Oh Teng Chew, Dennis (Hu Tingchao) (Oon &amp; Bazul LLP) for the applicants; Rajaram Muralli Raja, Jerrie Tan Qiu Lin and Kyle Gabriel Peters (Straits Law Practice LLC) for the Intervener.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Zetta jet Pte. Ltd. — Zetta Jet USA, Inc — Jonathan D. King, solely in his capacity as the duly appointed US Bankruptcy Trustee of Zetta Jet Pte. Ltd. and Zetta Jet USA, Inc — Asia Aviation Holdings Pte Ltd</td></tr></tbody></table>
@@ -22,7 +23,7 @@ Insolvency Law – Cross-border insolvency – Recognition of foreign insolv
 
 4       Zetta Jet Pte Ltd (“Zetta Jet Singapore”) is a Singapore-incorporated company that wholly owns Zetta Jet USA, Inc (“Zetta Jet USA”), a company organised under the laws of the State of California. The principal business of Zetta Jet Singapore and Zetta Jet USA (collectively “the Zetta Entities”) is in aircraft rental and charter. Jonathan D. King (“King”, used interchangeably with “the Trustee”) is the Chapter 7 Trustee of the Zetta Entities.
 
-5       The Zetta Entities are part of a wider group consisting of 16 other entities organised under the laws of the British Virgin Islands (“BVI”). The wider group will be referred to as “the Zetta Jet Group”.[\[note: 1\]](#Ftn_1)
+5       The Zetta Entities are part of a wider group consisting of 16 other entities organised under the laws of the British Virgin Islands (“BVI”). The wider group will be referred to as “the Zetta Jet Group”.[^1]
 
 6       The intervener in this application, Asia Aviation Holdings Pte Ltd (“AAH”, used interchangeably with “the Intervener”), is a 34% shareholder of Zetta Jet Singapore. Zetta Jet Singapore’s shareholders are AAH, Truly Great Global Limited (“TGGL”), Stephen Matthew Walter (“Walter”) and James Noel Halstead Seagrim (“Seagrim”). Their relationship is governed by a Shareholders’ Agreement dated 26 February 2016 (“the SHA”).
 
@@ -50,37 +51,37 @@ Insolvency Law – Cross-border insolvency – Recognition of foreign insolv
 
 ### Summary of the applicants’ case
 
-15     The applicants note that no issue has arisen in relation to Zetta Jet USA’s COMI (see _Zetta Jet (No 1)_ at \[20\]). Zetta Jet USA’s COMI is the US. On that basis, the US bankruptcy proceedings in relation to Zetta Jet USA should be granted recognition as a foreign main proceeding under Art 17(1) read with Art 17(2)(_a_) of the Singapore Model Law.[\[note: 2\]](#Ftn_2)
+15     The applicants note that no issue has arisen in relation to Zetta Jet USA’s COMI (see _Zetta Jet (No 1)_ at \[20\]). Zetta Jet USA’s COMI is the US. On that basis, the US bankruptcy proceedings in relation to Zetta Jet USA should be granted recognition as a foreign main proceeding under Art 17(1) read with Art 17(2)(_a_) of the Singapore Model Law.[^2]
 
-16     The applicants ask the court to revisit the question of where Zetta Jet Singapore’s COMI is located. If found that it is also in the US, the US bankruptcy proceedings in relation to Zetta Jet Singapore should also be recognised as a foreign main proceeding under Art 17(1) read with Art 17(2)(_a_) of the Singapore Model Law.[\[note: 3\]](#Ftn_3)
+16     The applicants ask the court to revisit the question of where Zetta Jet Singapore’s COMI is located. If found that it is also in the US, the US bankruptcy proceedings in relation to Zetta Jet Singapore should also be recognised as a foreign main proceeding under Art 17(1) read with Art 17(2)(_a_) of the Singapore Model Law.[^3]
 
-17     The applicants argue that there is no public policy issue which would require the court to refuse to recognise the US bankruptcy proceedings in relation to Zetta Jet Singapore and the Trustee appointed for those proceedings. AAH did not enter any appearance in the US bankruptcy proceedings, despite informing the judge who granted the injunction in S 864/2017 that it would take steps to resist the US bankruptcy proceedings in the US Bankruptcy Court. In any event, the most important public policy consideration in this case is to ensure the orderly and efficient recovery of assets for the benefit of Zetta Jet Singapore’s creditors: _In re ABC Learning Centres Ltd_ 728 F 3d 301 (3rd Cir, 2013). Public policy also requires the court to have regard to the international basis of the Model Law and the promotion of its uniform application, as required under Art 8 of the Singapore Model Law.[\[note: 4\]](#Ftn_4)
+17     The applicants argue that there is no public policy issue which would require the court to refuse to recognise the US bankruptcy proceedings in relation to Zetta Jet Singapore and the Trustee appointed for those proceedings. AAH did not enter any appearance in the US bankruptcy proceedings, despite informing the judge who granted the injunction in S 864/2017 that it would take steps to resist the US bankruptcy proceedings in the US Bankruptcy Court. In any event, the most important public policy consideration in this case is to ensure the orderly and efficient recovery of assets for the benefit of Zetta Jet Singapore’s creditors: _In re ABC Learning Centres Ltd_ 728 F 3d 301 (3rd Cir, 2013). Public policy also requires the court to have regard to the international basis of the Model Law and the promotion of its uniform application, as required under Art 8 of the Singapore Model Law.[^4]
 
-18     Next, the applicants submit that whatever test is applied to ascertain Zetta Jet Singapore’s COMI and whichever date is taken to be operative in this determination, Zetta Jet Singapore’s COMI would be found to be in the US. That said, the applicants favour the US approach in assessing COMI as at the time of the filing of the recognition application to the recognising court.[\[note: 5\]](#Ftn_5)
+18     Next, the applicants submit that whatever test is applied to ascertain Zetta Jet Singapore’s COMI and whichever date is taken to be operative in this determination, Zetta Jet Singapore’s COMI would be found to be in the US. That said, the applicants favour the US approach in assessing COMI as at the time of the filing of the recognition application to the recognising court.[^5]
 
-19     In the alternative, the applicants submit that even if the US proceedings in relation to Zetta Jet Singapore are not a foreign main proceeding, the court had earlier found that Zetta Jet Singapore had an establishment within the meaning of Art 2(_d_) of the Singapore Model Law in the US (see _Zetta Jet (No 1)_ at \[20\]). Accordingly, the US bankruptcy proceedings in respect of it should be recognised as a foreign non-main proceeding under Art 17(1) read with Art 17(2)(_b_) of the Singapore Model Law.[\[note: 6\]](#Ftn_6)
+19     In the alternative, the applicants submit that even if the US proceedings in relation to Zetta Jet Singapore are not a foreign main proceeding, the court had earlier found that Zetta Jet Singapore had an establishment within the meaning of Art 2(_d_) of the Singapore Model Law in the US (see _Zetta Jet (No 1)_ at \[20\]). Accordingly, the US bankruptcy proceedings in respect of it should be recognised as a foreign non-main proceeding under Art 17(1) read with Art 17(2)(_b_) of the Singapore Model Law.[^6]
 
 20     Following from these submissions, in the event that the US bankruptcy proceedings relating to the Zetta Entities are recognised, the applicants submit that the various orders prayed for should also be granted, including orders under the Singapore Model Law for:
 
-(a)     the Trustee’s recognition as a foreign representative within the meaning of Art 2(_i_);[\[note: 7\]](#Ftn_7)
+(a)     the Trustee’s recognition as a foreign representative within the meaning of Art 2(_i_);[^7]
 
-(b)     the stay of proceedings under Arts 20(1) and 20(2);[\[note: 8\]](#Ftn_8)
+(b)     the stay of proceedings under Arts 20(1) and 20(2);[^8]
 
-(c)     the Trustee’s empowerment to examine witnesses, take evidence and obtain delivery of information under Art 21(1)(_d_);[\[note: 9\]](#Ftn_9)
+(c)     the Trustee’s empowerment to examine witnesses, take evidence and obtain delivery of information under Art 21(1)(_d_);[^9]
 
 (d)     the Trustee’s entrustment with the administration and realisation of assets of the Zetta Entities;
 
-(e)     the Trustee’s empowerment to appoint of a local representative under Art 21(1)(_e_);[\[note: 10\]](#Ftn_10)
+(e)     the Trustee’s empowerment to appoint of a local representative under Art 21(1)(_e_);[^10]
 
-(f)     the Trustee’s standing to make applications under Art 23(1);[\[note: 11\]](#Ftn_11) and
+(f)     the Trustee’s standing to make applications under Art 23(1);[^11] and
 
-(g)     the granting of additional reliefs available to a liquidator appointed in Singapore under Art 21(1)(_g_).[\[note: 12\]](#Ftn_12)
+(g)     the granting of additional reliefs available to a liquidator appointed in Singapore under Art 21(1)(_g_).[^12]
 
 ### Summary of the Intervener’s case
 
-21     In respect of the determination of Zetta Jet Singapore’s COMI, the Intervener relies on its previous arguments in _Zetta Jet (No 1)_: Zetta Jet Singapore’s senior management, employees, facilities, operations, business and creditors were all located in Singapore. These factors also indicate that the company had no establishment in the US. Accordingly, the US bankruptcy proceedings in relation to Zetta Jet Singapore are neither foreign main nor non-main proceedings under Art 17(2) of the Singapore Model Law.[\[note: 13\]](#Ftn_13)
+21     In respect of the determination of Zetta Jet Singapore’s COMI, the Intervener relies on its previous arguments in _Zetta Jet (No 1)_: Zetta Jet Singapore’s senior management, employees, facilities, operations, business and creditors were all located in Singapore. These factors also indicate that the company had no establishment in the US. Accordingly, the US bankruptcy proceedings in relation to Zetta Jet Singapore are neither foreign main nor non-main proceedings under Art 17(2) of the Singapore Model Law.[^13]
 
-22     As for the question of recognition, the Intervener argues that the Trustee’s breach of the Singapore injunction in continuing the US bankruptcy proceedings amounted to contempt, and remained so even after the discharge of the injunction. The Intervener cites _Pertamina Energy Trading Ltd v Karaha Bodas Co LLC and others_ (“_Pertamina_”), which is to be preferred to contrary authority in _Nikkomann Co Pte Ltd and others v Yulean Trading Pte Ltd_ (“_Nikkomann_”).[\[note: 14\]](#Ftn_14) The Intervener also notes that it had consented to the discharge of the injunction: (a) on the basis that it was accepted that _Pertamina_ was the correct statement of the law; and (b) in view of the implicit concessions that the Trustee had made that showed that he was aware or wilfully blind that he had breached and continued to breach the Singapore injunction.[\[note: 15\]](#Ftn_15)
+22     As for the question of recognition, the Intervener argues that the Trustee’s breach of the Singapore injunction in continuing the US bankruptcy proceedings amounted to contempt, and remained so even after the discharge of the injunction. The Intervener cites _Pertamina Energy Trading Ltd v Karaha Bodas Co LLC and others_ (“_Pertamina_”), which is to be preferred to contrary authority in _Nikkomann Co Pte Ltd and others v Yulean Trading Pte Ltd_ (“_Nikkomann_”).[^14] The Intervener also notes that it had consented to the discharge of the injunction: (a) on the basis that it was accepted that _Pertamina_ was the correct statement of the law; and (b) in view of the implicit concessions that the Trustee had made that showed that he was aware or wilfully blind that he had breached and continued to breach the Singapore injunction.[^15]
 
 ## My decision
 
@@ -168,15 +169,15 @@ These guides will collectively be referred to as “the Guides”.
 
 40     The English approach is as laid down in cases such as _In the Matter of Videology Limited v In the Matter of the Cross-Border Insolvency Regulations 2006_ \[2018\] EWHC 2186 (Ch) (“_Videology_”) and _In re Stanford International Bank Ltd and another_ . Applying the Model Law as incorporated into English law in Cross-Border Insolvency Regulations 2006 (SI 2006 No 1030) (UK) Sch 1 and the Recast EIR, English courts determine the debtor’s COMI as at the date of the application to open insolvency proceedings abroad.
 
-41     The applicants argue that this approach is influenced by the fact that the Recast EIR uses the COMI concept to determine (a) if the proceeding is one to which the Recast EIR applies; and (b) which EU Member State the proceeding may be commenced in. This view is supported by Recital (23) of the Preamble to the Recast EIR, which states that the “\[Recast EIR\] enables the main insolvency proceedings to be opened in the Member State where the debtor has \[its COMI\]”.[\[note: 16\]](#Ftn_16) Additionally, Art 3(1) of the Recast EIR states:
+41     The applicants argue that this approach is influenced by the fact that the Recast EIR uses the COMI concept to determine (a) if the proceeding is one to which the Recast EIR applies; and (b) which EU Member State the proceeding may be commenced in. This view is supported by Recital (23) of the Preamble to the Recast EIR, which states that the “\[Recast EIR\] enables the main insolvency proceedings to be opened in the Member State where the debtor has \[its COMI\]”.[^16] Additionally, Art 3(1) of the Recast EIR states:
 
 _Article 3._ **International jurisdiction**
 
 1.     The courts of the Member State within the territory of which the centre of the debtor’s main interests is situated shall have jurisdiction to open insolvency proceedings (‘main insolvency proceedings’). The centre of main interest shall be the place where the debtor conducts the administration of its interests on a regular basis and which is ascertainable by third parties.
 
-42     The applicants thus argue that the COMI concept is used differently in the Recast EIR and in the Model Law. The Model Law uses the COMI concept at a later stage, as a means of determining the relief to be granted to the relevant foreign proceedings if so recognised: see Art 20(1) of the Model Law. Furthermore, citing _Cross-Border Insolvency: A Commentary_ at p 172, the use of the present tense in Arts 2(_f_) and 17(2)(_a_) of the Model Law indicates that “COMI is to be determined at the time of the application for recognition”.[\[note: 17\]](#Ftn_17)
+42     The applicants thus argue that the COMI concept is used differently in the Recast EIR and in the Model Law. The Model Law uses the COMI concept at a later stage, as a means of determining the relief to be granted to the relevant foreign proceedings if so recognised: see Art 20(1) of the Model Law. Furthermore, citing _Cross-Border Insolvency: A Commentary_ at p 172, the use of the present tense in Arts 2(_f_) and 17(2)(_a_) of the Model Law indicates that “COMI is to be determined at the time of the application for recognition”.[^17]
 
-43     I have considered the reasoning in two cases discussed in the applicants’ submissions:[\[note: 18\]](#Ftn_18)
+43     I have considered the reasoning in two cases discussed in the applicants’ submissions:[^18]
 
 (a)     In _Videology_, Mr Justice Snowden stated that under the Recast EIR, the date at which the company’s COMI must be determined is that at which the request to open insolvency proceedings is made: at \[49\], citing _Interedil Srl v Fallimento Interedil Srl_ Case C-369/09, \[2011\] ECR I-9939 at \[55\], \[2012\] Bus LR 1582, <http://europa.eu.int/eur-lex/en/index.html> (accessed 19 November 2018) (“_Interedil_”), a decision by the European Court of Justice (“ECJ”).
 
@@ -192,15 +193,15 @@ _Article 3._ **International jurisdiction**
 
 #### The US position
 
-47     Chapter 15 of the US Bankruptcy Code incorporates the Model Law into US law. The US cases are consistently clear that the debtor’s COMI should be determined as at the filing of the application for recognition: _In re Betcorp Ltd_ 400 BR 266 at 290–292 (Bkrtcy D Nev, 2009), _In re Ran_ 607 F 3d 1017 at 1025–1026 (5th Cir, 2010) (“_Ran_”). This approach considers the language adopted in US Bankruptcy Code § 1502, which defines a “foreign main proceeding” as “a proceeding in the country where the debtor has the center \[_sic_\] of its main interests”. In _Ran_, the US Court of Appeals for the Fifth Circuit noted that Congress’s use of the present tense required the courts to view the COMI determination in the present, _ie_, “at the time the petition for recognition was filed”.[\[note: 19\]](#Ftn_19)
+47     Chapter 15 of the US Bankruptcy Code incorporates the Model Law into US law. The US cases are consistently clear that the debtor’s COMI should be determined as at the filing of the application for recognition: _In re Betcorp Ltd_ 400 BR 266 at 290–292 (Bkrtcy D Nev, 2009), _In re Ran_ 607 F 3d 1017 at 1025–1026 (5th Cir, 2010) (“_Ran_”). This approach considers the language adopted in US Bankruptcy Code § 1502, which defines a “foreign main proceeding” as “a proceeding in the country where the debtor has the center \[_sic_\] of its main interests”. In _Ran_, the US Court of Appeals for the Fifth Circuit noted that Congress’s use of the present tense required the courts to view the COMI determination in the present, _ie_, “at the time the petition for recognition was filed”.[^19]
 
-48     The Court in _Ran_ put forward an additional reason for adopting this approach: examining a debtor’s COMI at the time the petition for recognition is filed allows for the harmonisation of transnational insolvency proceedings. Limiting the inquiry to the time of filing avoids a detailed examination of the operational history of the applicant, which may entail conflicting COMI determinations by different courts.[\[note: 20\]](#Ftn_20)
+48     The Court in _Ran_ put forward an additional reason for adopting this approach: examining a debtor’s COMI at the time the petition for recognition is filed allows for the harmonisation of transnational insolvency proceedings. Limiting the inquiry to the time of filing avoids a detailed examination of the operational history of the applicant, which may entail conflicting COMI determinations by different courts.[^20]
 
-49     The applicants note that this position has been maintained in subsequent cases including _Fairfield Sentry (CA)_ at 137 and _In re Ocean Rig UDW Inc_ 570 BR 687 at 704 (Bkrtcy SDNY, 2017).[\[note: 21\]](#Ftn_21) I note that the US position has the advantages of simplicity and adherence to the plain language of the Model Law.
+49     The applicants note that this position has been maintained in subsequent cases including _Fairfield Sentry (CA)_ at 137 and _In re Ocean Rig UDW Inc_ 570 BR 687 at 704 (Bkrtcy SDNY, 2017).[^21] I note that the US position has the advantages of simplicity and adherence to the plain language of the Model Law.
 
 #### The 1997 and 2013 Guides
 
-50     The applicants note that the 1997 Guide, which is silent on the relevant date for the COMI determination, is the guide which the Singapore Parliament considered when enacting the Singapore Model Law.[\[note: 22\]](#Ftn_22) Conversely, the 2013 Guide expressly states at para 31 that a debtor’s COMI should be determined as at the date of the commencement of the foreign insolvency proceedings. Taking the date of commencement to determine the COMI provides a test that can be applied with certainty to all insolvency proceedings: see paras 159–160 of the 2013 Guide.
+50     The applicants note that the 1997 Guide, which is silent on the relevant date for the COMI determination, is the guide which the Singapore Parliament considered when enacting the Singapore Model Law.[^22] Conversely, the 2013 Guide expressly states at para 31 that a debtor’s COMI should be determined as at the date of the commencement of the foreign insolvency proceedings. Taking the date of commencement to determine the COMI provides a test that can be applied with certainty to all insolvency proceedings: see paras 159–160 of the 2013 Guide.
 
 51     At this point, I should note that these Guides can provide such guidance as to promote the uniform and consistent interpretation of the Model Law. However, they must always be subject to the interpretation of the Model Law provisions as enacted in each jurisdiction, and the relevant considerations of policy which may point in favour of one outcome or another. I have reservations about adopting the approach advocated in the 2013 Guide, which is essentially that adopted by Europe and England. Certainty is also well-served by the adoption of the US position, though possibly, with respect, not the Australian position.
 
@@ -216,7 +217,7 @@ _Article 3._ **International jurisdiction**
 
 53     Having considered parties’ submissions and the above analyses, I accept that determining the debtor’s COMI as at the date the recognition application is filed, _ie_, the US position, provides greater certainty and better accords with commercial realities and the language of the provisions of the Model Law.
 
-54     The applicants point to three reasons for preferring the US position:[\[note: 23\]](#Ftn_23)
+54     The applicants point to three reasons for preferring the US position:[^23]
 
 (a)     Arts 2(_f_) and 2(_g_) of the Singapore Model Law, which define foreign main and non-main proceedings, refer to proceedings that are “taking place”. The use of the present tense contemplates that foreign proceedings are underway at the time the debtor’s COMI is being ascertained. This is in line with the US position.
 
@@ -332,39 +333,39 @@ I will also deal briefly with the applicants’ argument that the location where
 
 #### Location from which control and direction was administered
 
-87     The applicants contend that control of Zetta Jet Singapore resided in the US, particularly after 17 August 2017 when Geoffrey Owen Cassidy (“Cassidy”) and June Tang Kim Choo (“Tang”) were removed from their positions in the Zetta Jet Group. Following their removal, the Zetta Entities were managed exclusively from the US;[\[note: 24\]](#Ftn_24) operational decisions were also made in the US.[\[note: 25\]](#Ftn_25) The Intervener relies on the fact that Cassidy was the managing director of Zetta Jet Singapore prior to his “improper removal” before the commencement of the Chapter 11 proceedings.[\[note: 26\]](#Ftn_26)
+87     The applicants contend that control of Zetta Jet Singapore resided in the US, particularly after 17 August 2017 when Geoffrey Owen Cassidy (“Cassidy”) and June Tang Kim Choo (“Tang”) were removed from their positions in the Zetta Jet Group. Following their removal, the Zetta Entities were managed exclusively from the US;[^24] operational decisions were also made in the US.[^25] The Intervener relies on the fact that Cassidy was the managing director of Zetta Jet Singapore prior to his “improper removal” before the commencement of the Chapter 11 proceedings.[^26]
 
 88     I accept that at least following Cassidy’s ouster, control and direction of Zetta Jet Singapore resided in persons located in the US. I note that there was a dispute about whether Cassidy’s removal was proper, but this does not affect my finding. In determining COMI, the court only needs to consider the question of actual control of the debtor company, leaving the resolution of any underlying legal dispute to the appropriate forum and process.
 
 #### Location of clients
 
-89     The applicants argue that the clients were primarily based in the North America and Europe.[\[note: 27\]](#Ftn_27) The Intervener does not refute this.[\[note: 28\]](#Ftn_28)
+89     The applicants argue that the clients were primarily based in the North America and Europe.[^27] The Intervener does not refute this.[^28]
 
 90     The presence of clients in a given location does not by itself establish the debtor’s COMI; the relevance of this factor arises primarily through its connection with other factors such as whether these clients are creditors, and the location of funds, assets and management. I would not in the circumstances of this case attach much weight to this factor.
 
 #### Location of creditors
 
-91     The Intervener contends in submissions that Zetta Jet Singapore has creditors in Singapore.[\[note: 29\]](#Ftn_29) In contrast, the applicants state that its creditors were largely based in the US; ten of its top 20 unsecured creditors were located in the US as at 15 September 2017, the date of the commencement of the US Chapter 11 proceedings.[\[note: 30\]](#Ftn_30)
+91     The Intervener contends in submissions that Zetta Jet Singapore has creditors in Singapore.[^29] In contrast, the applicants state that its creditors were largely based in the US; ten of its top 20 unsecured creditors were located in the US as at 15 September 2017, the date of the commencement of the US Chapter 11 proceedings.[^30]
 
 92     I accept the evidence of the applicants that at least half of the primary unsecured creditors were located in the US. But that by itself would not be sufficient to lean the conclusion regarding the COMI towards the US, as the position with respect to the creditors would appear, on the applicants’ own evidence, to be mixed.
 
 #### Location of employees
 
-93     The Intervener argues that Zetta Jet Singapore employed 176 employees who were mostly based out of the US.[\[note: 31\]](#Ftn_31) The applicants refute this, saying that there were only 60 employees based in Singapore, with the remaining employees based elsewhere. Those in Singapore played primarily back-end functions, in low-level administrative roles. The applicants’ assertion of the limited roles of the employees in Singapore was not backed up by more than an organisation chart[\[note: 32\]](#Ftn_32) and a page in the Zetta Jet Singapore employee handbook, which directed employees to direct questions and suggestions to Seagrim or to Eric Rastler, the Zetta Jet Group’s Chief Pilot.[\[note: 33\]](#Ftn_33)
+93     The Intervener argues that Zetta Jet Singapore employed 176 employees who were mostly based out of the US.[^31] The applicants refute this, saying that there were only 60 employees based in Singapore, with the remaining employees based elsewhere. Those in Singapore played primarily back-end functions, in low-level administrative roles. The applicants’ assertion of the limited roles of the employees in Singapore was not backed up by more than an organisation chart[^32] and a page in the Zetta Jet Singapore employee handbook, which directed employees to direct questions and suggestions to Seagrim or to Eric Rastler, the Zetta Jet Group’s Chief Pilot.[^33]
 
 94     I find that there is insufficient evidence as to the level or responsibility of the employees stationed in Singapore. In the circumstances, this does not play a material role in the ultimate determination.
 
 #### Location of operations
 
-95     The applicants rely on the fact that Zetta Jet Singapore’s business was conducted primarily in the US: a large majority of the flights that it and Zetta Jet Group chartered occurred within the US. These flights could only be operated with US Federal Aviation Authority certification of the planes, which Zetta Jet USA maintained.[\[note: 34\]](#Ftn_34) The Intervener argues that no maintenance facility or offices were in effect maintained in the US: while a flight operation centre was supposedly maintained in the US, most operations were conducted by the Singapore operation centre, which housed most of the operations staff; all flight scheduling and operations were conducted in Singapore.[\[note: 35\]](#Ftn_35)
+95     The applicants rely on the fact that Zetta Jet Singapore’s business was conducted primarily in the US: a large majority of the flights that it and Zetta Jet Group chartered occurred within the US. These flights could only be operated with US Federal Aviation Authority certification of the planes, which Zetta Jet USA maintained.[^34] The Intervener argues that no maintenance facility or offices were in effect maintained in the US: while a flight operation centre was supposedly maintained in the US, most operations were conducted by the Singapore operation centre, which housed most of the operations staff; all flight scheduling and operations were conducted in Singapore.[^35]
 
 96     I am of the view that in this specific case, the locus of operations was of less relevance than perhaps in other cases. Where and how the business activities of the Zetta Entities were conducted would not have been of much relevance and not appreciable to a creditor, especially since the company was concerned with flights, at least some of which presumably would be international in nature. Some dispersal of operations would have been expected. The administration would seem to be split in some way between the US and Singapore. I cannot conclude that this points clearly in either direction. I also find that the location of assets would not perhaps be readily apparent to a creditor, nor would a creditor likely consider it significant, given the nature of the business of transporting persons. It would have been otherwise had the business been one of largely domestic inland transport. Accordingly, I give this factor less weight in the analysis.
 
 #### Dealings with third parties
 
-97     The applicants rely on the fact that the Zetta Entities were understood to be US-based by customers and creditors. The Zetta Entities were marketed on their website and social media as operating out of Burbank, California.[\[note: 36\]](#Ftn_36) The applicants refer to communications to key customers, vendors and creditors that their points of contact after 17 August 2017 following the removal of Cassidy and Tang would be Walter, Michael Maher, the newly-appointed Chief Executive Officer of the Zetta Jet Group, and Seagrim, who were all US-based. The applicants also point to the Zetta Jet Group’s website which indicated that the US was the location of Zetta Jet Group’s business.[\[note: 37\]](#Ftn_37) These factors are significant pointers which were readily perceivable by third parties that indicated that the COMI was in the US.
+97     The applicants rely on the fact that the Zetta Entities were understood to be US-based by customers and creditors. The Zetta Entities were marketed on their website and social media as operating out of Burbank, California.[^36] The applicants refer to communications to key customers, vendors and creditors that their points of contact after 17 August 2017 following the removal of Cassidy and Tang would be Walter, Michael Maher, the newly-appointed Chief Executive Officer of the Zetta Jet Group, and Seagrim, who were all US-based. The applicants also point to the Zetta Jet Group’s website which indicated that the US was the location of Zetta Jet Group’s business.[^37] These factors are significant pointers which were readily perceivable by third parties that indicated that the COMI was in the US.
 
-98     The Intervener alleges that Zetta Jet Singapore conducted sales and marketing for its flights all over the world, implying that it was not US-centred.[\[note: 38\]](#Ftn_38)
+98     The Intervener alleges that Zetta Jet Singapore conducted sales and marketing for its flights all over the world, implying that it was not US-centred.[^38]
 
 99     In so far as dealings with creditors are concerned, I would accept that it is relevant that representations pointed to the Zetta Jet Group as being located in the US, reinforcing the expectations of at least some of the creditors that they were dealing with a company that would have a strong connection to the US.
 
@@ -374,7 +375,7 @@ I will also deal briefly with the applicants’ argument that the location where
 
 #### Location that the foreign representative was operating from
 
-101    The applicants point to the fact that the US-based Trustee undertook efforts to restructure Zetta Jet Singapore from the date of his appointment to the cessation of the business of the Zetta Entities, _ie_, from 5 October 2017 to 30 November 2017.[\[note: 39\]](#Ftn_39)
+101    The applicants point to the fact that the US-based Trustee undertook efforts to restructure Zetta Jet Singapore from the date of his appointment to the cessation of the business of the Zetta Entities, _ie_, from 5 October 2017 to 30 November 2017.[^39]
 
 102    However, I would not take the foreign representative’s actions as being relevant in the ascertainment of COMI. The work being done by the foreign representative would flow from the assumption of jurisdiction by the foreign court on whatever basis it considers appropriate.
 
@@ -398,19 +399,19 @@ I will also deal briefly with the applicants’ argument that the location where
 
 ## Issue 3: Whether the public policy exception applies
 
-108    The Intervener argues that there was continued breach of the Singapore injunction on the applicants’ part; this breach was still contempt even if the injunction was subsequently discharged: _Pertamina_ at \[82\]. _Pertamina_ is to be preferred to _Nikkomann_ at \[62\], which held that the discharge of an order would not leave the putative contemnor with any liability for penalties.[\[note: 40\]](#Ftn_40)
+108    The Intervener argues that there was continued breach of the Singapore injunction on the applicants’ part; this breach was still contempt even if the injunction was subsequently discharged: _Pertamina_ at \[82\]. _Pertamina_ is to be preferred to _Nikkomann_ at \[62\], which held that the discharge of an order would not leave the putative contemnor with any liability for penalties.[^40]
 
-109    The Intervener had consented to the discharge on the basis that the law was set out in _Pertamina_. King had made implicit concessions that he was aware or wilfully blind that he had breached and continued to breach the Singapore injunction. The application to discharge the injunction was only made after King had failed to obtain full recognition in _Zetta Jet (No 1)_ and after the Australian courts observed in parallel proceedings that the Singapore injunction enjoined him.[\[note: 41\]](#Ftn_41) King accepted on 12 July 2018, at the hearing where the injunction was set aside, that in the event the injunction was discharged, any breach or contempt that he committed prior to the discharge would not be excused.[\[note: 42\]](#Ftn_42)
+109    The Intervener had consented to the discharge on the basis that the law was set out in _Pertamina_. King had made implicit concessions that he was aware or wilfully blind that he had breached and continued to breach the Singapore injunction. The application to discharge the injunction was only made after King had failed to obtain full recognition in _Zetta Jet (No 1)_ and after the Australian courts observed in parallel proceedings that the Singapore injunction enjoined him.[^41] King accepted on 12 July 2018, at the hearing where the injunction was set aside, that in the event the injunction was discharged, any breach or contempt that he committed prior to the discharge would not be excused.[^42]
 
-110    The applicants first argue that there is no public policy issue that should lead the court to refuse to recognise the US bankruptcy proceedings and the Trustee. No concessions had been made: King had been advised by US counsel that the injunction “did not bite on him”, and thus had not sought to discharge the injunction earlier.[\[note: 43\]](#Ftn_43)
+110    The applicants first argue that there is no public policy issue that should lead the court to refuse to recognise the US bankruptcy proceedings and the Trustee. No concessions had been made: King had been advised by US counsel that the injunction “did not bite on him”, and thus had not sought to discharge the injunction earlier.[^43]
 
-111    Second, the effect of the Intervener’s arguments on continued breach would be that the Trustee can never obtain recognition in Singapore. The applicants highlight that the US bankruptcy proceedings are still underway and that the Intervener could have entered an appearance or resisted those proceedings. Moreover, the Singapore injunction had been discharged, and the court discharging the injunction had observed that the basis of the injunction was no longer extant.[\[note: 44\]](#Ftn_44)
+111    Second, the effect of the Intervener’s arguments on continued breach would be that the Trustee can never obtain recognition in Singapore. The applicants highlight that the US bankruptcy proceedings are still underway and that the Intervener could have entered an appearance or resisted those proceedings. Moreover, the Singapore injunction had been discharged, and the court discharging the injunction had observed that the basis of the injunction was no longer extant.[^44]
 
-112    Third, public policy does not call for recognition to be refused. The first and most important public policy consideration is to protect the general body of Zetta Jet Singapore’s creditors and to ensure that the Trustee maximises recovery for all of them, giving priority to creditors over shareholders. The Intervener had cynically sought to prioritise the rights of shareholders over the rights of creditors in procuring the Singapore injunction. The Intervener’s public policy arguments ought to be disregarded, or weighed against the overwhelming public policy concerns pointing in favour of allowing the application.[\[note: 45\]](#Ftn_45)
+112    Third, public policy does not call for recognition to be refused. The first and most important public policy consideration is to protect the general body of Zetta Jet Singapore’s creditors and to ensure that the Trustee maximises recovery for all of them, giving priority to creditors over shareholders. The Intervener had cynically sought to prioritise the rights of shareholders over the rights of creditors in procuring the Singapore injunction. The Intervener’s public policy arguments ought to be disregarded, or weighed against the overwhelming public policy concerns pointing in favour of allowing the application.[^45]
 
-113    Fourth, the applicants highlight the overwhelming evidence of Cassidy’s wrongdoing and the Intervener’s deliberate deception in its _ex parte_ application to procure the Singapore injunction. The applicants call the court to make a finding with regard to the Intervener’s wrongful procurement of the Singapore injunction.[\[note: 46\]](#Ftn_46)
+113    Fourth, the applicants highlight the overwhelming evidence of Cassidy’s wrongdoing and the Intervener’s deliberate deception in its _ex parte_ application to procure the Singapore injunction. The applicants call the court to make a finding with regard to the Intervener’s wrongful procurement of the Singapore injunction.[^46]
 
-114    Finally, the applicants argue that the present case is unlike the US decision in _In re Gold &Honey, Ltd._ 410 BR 357 (Bankr ED NY, 2009) (“_Gold & Honey_”), which the Intervener relied upon in _Zetta Jet (No 1)_. _Gold & Honey_ involved a situation where the recognition of foreign receivers would directly contradict local proceedings that sought to maximise the recovery for the entire pool of creditors. Recognition would have resulted in an irremediable situation. In comparison, S 864/2017 is a civil suit brought by one shareholder against two other shareholders of Zetta Jet Singapore, and Zetta Jet Singapore itself. The recognition of the US bankruptcy proceedings and the Trustee will not undermine any claim the Intervener may make in the US proceedings or separately against the other shareholders.[\[note: 47\]](#Ftn_47)
+114    Finally, the applicants argue that the present case is unlike the US decision in _In re Gold &Honey, Ltd._ 410 BR 357 (Bankr ED NY, 2009) (“_Gold & Honey_”), which the Intervener relied upon in _Zetta Jet (No 1)_. _Gold & Honey_ involved a situation where the recognition of foreign receivers would directly contradict local proceedings that sought to maximise the recovery for the entire pool of creditors. Recognition would have resulted in an irremediable situation. In comparison, S 864/2017 is a civil suit brought by one shareholder against two other shareholders of Zetta Jet Singapore, and Zetta Jet Singapore itself. The recognition of the US bankruptcy proceedings and the Trustee will not undermine any claim the Intervener may make in the US proceedings or separately against the other shareholders.[^47]
 
 115    Having considered these submissions, I set out my decision as follows.
 
@@ -462,7 +463,7 @@ While the order stands, the party who refuses access to his premises is in defau
 
 (b)     I also grant Prayer 6 to allow the Trustee to be entrusted with the realisation of the Zetta Entities’ assets located in Singapore, save that the Trustee should apply to court for leave to repatriate any assets to locations outside of Singapore. I would also limit realisation of the assets to the extent that powers granted under Prayer 6 shall not be exercised within Singapore to prejudice rights granted by Zetta Jet Singapore to any person in respect of any real property located in Singapore.
 
-(c)     Prayer 7(a) seeks to allow the Trustee to apply to the court under Art 23(1) of the Singapore Model Law for orders under or in connection with avoidance provisions in the Companies Act and s 73B of the Conveyance and Law of Property Act (Cap 61, 1994 Rev Ed). The applicants highlight the need to be granted standing to protect the integrity of Zetta Jet Singapore’s assets, and note that there are at present no other insolvency proceedings against Zetta Jet Singapore.[\[note: 48\]](#Ftn_48) I am satisfied that the Trustee should be able to pursue claims under Art 23(1) of the Singapore Model Law in the circumstances. Any potential prejudice faced by Singapore creditors is addressed by the requirement that the Trustee apply for leave before any assets are repatriated.
+(c)     Prayer 7(a) seeks to allow the Trustee to apply to the court under Art 23(1) of the Singapore Model Law for orders under or in connection with avoidance provisions in the Companies Act and s 73B of the Conveyance and Law of Property Act (Cap 61, 1994 Rev Ed). The applicants highlight the need to be granted standing to protect the integrity of Zetta Jet Singapore’s assets, and note that there are at present no other insolvency proceedings against Zetta Jet Singapore.[^48] I am satisfied that the Trustee should be able to pursue claims under Art 23(1) of the Singapore Model Law in the circumstances. Any potential prejudice faced by Singapore creditors is addressed by the requirement that the Trustee apply for leave before any assets are repatriated.
 
 (d)     Prayer 7(b) seeks relief under Art 21(1)(_g_) of the Singapore Model Law to grant the Trustee powers available to a liquidator under Singapore insolvency law. I am satisfied that such powers should be granted to the Trustee to allow him to pursue an orderly liquidation.
 
@@ -472,101 +473,101 @@ While the order stands, the party who refuses access to his premises is in defau
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)Seagrim’s OS 1391 Affidavit at para 21(b).
+[^1]: Seagrim’s OS 1391 Affidavit at para 21(b).
 
-[\[note: 2\]](#Ftn_2_1)Applicant’s Further Submissions at paras 34–36.
+[^2]: Applicant’s Further Submissions at paras 34–36.
 
-[\[note: 3\]](#Ftn_3_1)Applicants’ Further Submissions at paras 37–39.
+[^3]: Applicants’ Further Submissions at paras 37–39.
 
-[\[note: 4\]](#Ftn_4_1)Applicants’ Further Submissions at paras 40–58.
+[^4]: Applicants’ Further Submissions at paras 40–58.
 
-[\[note: 5\]](#Ftn_5_1)Applicants’ Further Submissions at paras 61–127.
+[^5]: Applicants’ Further Submissions at paras 61–127.
 
-[\[note: 6\]](#Ftn_6_1)Applicants’ Further Submissions at paras 145–148.
+[^6]: Applicants’ Further Submissions at paras 145–148.
 
-[\[note: 7\]](#Ftn_7_1)Applicants’ Further Submissions at paras 149–166.
+[^7]: Applicants’ Further Submissions at paras 149–166.
 
-[\[note: 8\]](#Ftn_8_1)Applicants’ Further Submissions at paras 149–166.
+[^8]: Applicants’ Further Submissions at paras 149–166.
 
-[\[note: 9\]](#Ftn_9_1)Applicants’ Further Submissions at paras 167–180.
+[^9]: Applicants’ Further Submissions at paras 167–180.
 
-[\[note: 10\]](#Ftn_10_1)Applicants’ Further Submissions at paras 181–193.
+[^10]: Applicants’ Further Submissions at paras 181–193.
 
-[\[note: 11\]](#Ftn_11_1)Applicants’ Further Submissions at paras 194–203.
+[^11]: Applicants’ Further Submissions at paras 194–203.
 
-[\[note: 12\]](#Ftn_12_1)Applicants’ Further Submissions at paras 204–237.
+[^12]: Applicants’ Further Submissions at paras 204–237.
 
-[\[note: 13\]](#Ftn_13_1)Intervener’s Submissions dated 12 January 2018 at para 76.
+[^13]: Intervener’s Submissions dated 12 January 2018 at para 76.
 
-[\[note: 14\]](#Ftn_14_1)Intervener’s Submissions dated 16 November 2018 at paras 15–16.
+[^14]: Intervener’s Submissions dated 16 November 2018 at paras 15–16.
 
-[\[note: 15\]](#Ftn_15_1)Intervener’s Submissions dated 16 November 2018 at para 17.
+[^15]: Intervener’s Submissions dated 16 November 2018 at para 17.
 
-[\[note: 16\]](#Ftn_16_1)Applicants’ Further Submissions at para 84.
+[^16]: Applicants’ Further Submissions at para 84.
 
-[\[note: 17\]](#Ftn_17_1)Applicants’ Further Submissions at paras 85–87.
+[^17]: Applicants’ Further Submissions at paras 85–87.
 
-[\[note: 18\]](#Ftn_18_1)Applicants’ Further Submissions at paras 81–82.
+[^18]: Applicants’ Further Submissions at paras 81–82.
 
-[\[note: 19\]](#Ftn_19_1)Applicants’ Further Submissions at paras 96–99.
+[^19]: Applicants’ Further Submissions at paras 96–99.
 
-[\[note: 20\]](#Ftn_20_1)Applicants’ Further Submissions at para 100.
+[^20]: Applicants’ Further Submissions at para 100.
 
-[\[note: 21\]](#Ftn_21_1)Applicants’ Further Submissions at paras 101–102.
+[^21]: Applicants’ Further Submissions at paras 101–102.
 
-[\[note: 22\]](#Ftn_22_1)Applicants’ Further Submissions at paras 111–112.
+[^22]: Applicants’ Further Submissions at paras 111–112.
 
-[\[note: 23\]](#Ftn_23_1)Applicants’ Further Submissions at paras 122–141.
+[^23]: Applicants’ Further Submissions at paras 122–141.
 
-[\[note: 24\]](#Ftn_24_1)Seagrim’s OS 1391 Affidavit at paras 32, 50 and 51.
+[^24]: Seagrim’s OS 1391 Affidavit at paras 32, 50 and 51.
 
-[\[note: 25\]](#Ftn_25_1)Andrew Payne’s (“Payne’s”) 2nd Affidavit at para 94(b).
+[^25]: Andrew Payne’s (“Payne’s”) 2nd Affidavit at para 94(b).
 
-[\[note: 26\]](#Ftn_26_1)Cassidy’s 1st Affidavit at paras 16 and 20.
+[^26]: Cassidy’s 1st Affidavit at paras 16 and 20.
 
-[\[note: 27\]](#Ftn_27_1)Seagrim’s OS 1391 Affidavit at para 66.
+[^27]: Seagrim’s OS 1391 Affidavit at para 66.
 
-[\[note: 28\]](#Ftn_28_1)Intervener’s Submissions dated 12 January 2018 at para 76(f).
+[^28]: Intervener’s Submissions dated 12 January 2018 at para 76(f).
 
-[\[note: 29\]](#Ftn_29_1)Intervener’s Submissions dated 12 January 2018 at para 76(f).
+[^29]: Intervener’s Submissions dated 12 January 2018 at para 76(f).
 
-[\[note: 30\]](#Ftn_30_1)Payne’s 1st Affidavit at para 43(f).
+[^30]: Payne’s 1st Affidavit at para 43(f).
 
-[\[note: 31\]](#Ftn_31_1)Cassidy’s 1st Affidavit at para 12.
+[^31]: Cassidy’s 1st Affidavit at para 12.
 
-[\[note: 32\]](#Ftn_32_1)Payne’s 2nd Affidavit at para 94 and Exhibit “AP-23”.
+[^32]: Payne’s 2nd Affidavit at para 94 and Exhibit “AP-23”.
 
-[\[note: 33\]](#Ftn_33_1)Seagrim’s OS 1391 Affidavit at paras 71 and 80 to 82 and Exhibit “JS-1”, Tab 21.
+[^33]: Seagrim’s OS 1391 Affidavit at paras 71 and 80 to 82 and Exhibit “JS-1”, Tab 21.
 
-[\[note: 34\]](#Ftn_34_1)Seagrim’s OS 1391 Affidavit at paras 42–46.
+[^34]: Seagrim’s OS 1391 Affidavit at paras 42–46.
 
-[\[note: 35\]](#Ftn_35_1)Cassidy’s 1st Affidavit at para 12.
+[^35]: Cassidy’s 1st Affidavit at para 12.
 
-[\[note: 36\]](#Ftn_36_1)Seagrim’s OS 1391 Affidavit at paras 60, 86 and 87.
+[^36]: Seagrim’s OS 1391 Affidavit at paras 60, 86 and 87.
 
-[\[note: 37\]](#Ftn_37_1)Seagrim’s OS 1391 Affidavit at para 35.
+[^37]: Seagrim’s OS 1391 Affidavit at para 35.
 
-[\[note: 38\]](#Ftn_38_1)Cassidy’s 1st Affidavit at para 12(e).
+[^38]: Cassidy’s 1st Affidavit at para 12(e).
 
-[\[note: 39\]](#Ftn_39_1)Payne’s 4th Affidavit at Exhibit “AP-37”, Tab 2.
+[^39]: Payne’s 4th Affidavit at Exhibit “AP-37”, Tab 2.
 
-[\[note: 40\]](#Ftn_40_1)Intervener’s Submissions dated 16 November 2018 at paras 15–16.
+[^40]: Intervener’s Submissions dated 16 November 2018 at paras 15–16.
 
-[\[note: 41\]](#Ftn_41_1)Intervener’s Submissions dated 16 November 2018 at para 17.
+[^41]: Intervener’s Submissions dated 16 November 2018 at para 17.
 
-[\[note: 42\]](#Ftn_42_1)Intervener’s Submissions dated 16 November 2018 at para 22.
+[^42]: Intervener’s Submissions dated 16 November 2018 at para 22.
 
-[\[note: 43\]](#Ftn_43_1)Applicants’ Further Submissions at paras 43–46.
+[^43]: Applicants’ Further Submissions at paras 43–46.
 
-[\[note: 44\]](#Ftn_44_1)Applicants’ Further Submissions at paras 47–48; Agreed Bundle of Documents (“ABOD”), Tab 19, Notes of Evidence (“NE”) (12 July 2018) p 3 ln 25–31.
+[^44]: Applicants’ Further Submissions at paras 47–48; Agreed Bundle of Documents (“ABOD”), Tab 19, Notes of Evidence (“NE”) (12 July 2018) p 3 ln 25–31.
 
-[\[note: 45\]](#Ftn_45_1)Applicants’ Further Submissions at paras 49–54.
+[^45]: Applicants’ Further Submissions at paras 49–54.
 
-[\[note: 46\]](#Ftn_46_1)Applicants’ Further Submissions at para 55.
+[^46]: Applicants’ Further Submissions at para 55.
 
-[\[note: 47\]](#Ftn_47_1)Applicants’ Further Submissions at paras 59–61.
+[^47]: Applicants’ Further Submissions at paras 59–61.
 
-[\[note: 48\]](#Ftn_48_1)Applicant’s Further Submissions at paras 201–202.
+[^48]: Applicant’s Further Submissions at paras 201–202.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F22896-SSP.xml)

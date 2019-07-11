@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # Ranjit Singh Gill Menjeet Singh _v_ Public Prosecutor  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Criminal Appeal No 19 of 2016 (Criminal Motion No 5 of 2017)</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">19 March 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Hoo Sheau Peng J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Terence Chua and Jason Chua (Attorney-General's Chambers) for the Public Prosecutor; Bachoo Mohan Singh and Too Xing Ji (BMS Law LLC) for the First Accused; Thangavelu (Thangavelu LLC) and Syazana Binte Yahya (Eugene Thuraisingam LLP) for the Second Accused; Edmund Nathan (M/s Tan &amp; Pillai) for Singa Retnam; Dhanaraj James Selvaraj in person; Gino Hardial Singh in person.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Ranjit Singh Gill Menjeet Singh — Public Prosecutor</td></tr></tbody></table>
@@ -24,7 +25,7 @@ Criminal Procedure and Sentencing – Taking additional evidence
 
 6       Therefore, the Court of Appeal granted the accused leave to file an affidavit setting out his exact instructions to Mr Retnam on the points he has pursued on appeal, and how those instructions varied from the position that Mr Retnam in fact took at the trial. A copy of the affidavit was to be made available to Mr Retnam, with a waiver of privilege to the extent needed to allow Mr Retnam to furnish a written response to the allegations.
 
-7       In accordance with the directions, the accused filed his affidavit on 12 March 2018.[\[note: 1\]](#Ftn_1) The previous lawyers responded by way of affidavits filed on 20 March 2018.[\[note: 2\]](#Ftn_2)
+7       In accordance with the directions, the accused filed his affidavit on 12 March 2018.[^1] The previous lawyers responded by way of affidavits filed on 20 March 2018.[^2]
 
 8       At the further hearing on 26 March 2018, pursuant to s 392(1) of the CPC, the Court of Appeal remitted the matter to me to take additional evidence with the following directions:
 
@@ -42,49 +43,49 @@ Having regard to the gravity of the allegations that have been levelled by \[the
 
 ### The accused’s evidence
 
-13     According to the accused, the previous lawyers did not visit him very often. Mr Retnam interviewed him twice via video-link and went to prison to visit him about five to six times. During one of those visits, Mr Retnam was accompanied by Mr Selvaraj. He did not see Mr GH Singh at all prior to the start of the trial.[\[note: 3\]](#Ftn_3) Oral instructions were given to Mr Retnam during the interview sessions.
+13     According to the accused, the previous lawyers did not visit him very often. Mr Retnam interviewed him twice via video-link and went to prison to visit him about five to six times. During one of those visits, Mr Retnam was accompanied by Mr Selvaraj. He did not see Mr GH Singh at all prior to the start of the trial.[^3] Oral instructions were given to Mr Retnam during the interview sessions.
 
 14     In addition, the accused gave three sets of “written instructions” to Mr Retnam dated 21 May 2015, 15 October 2015 and 3 December 2015. These were handwritten notes.
 
-15     The notes dated 21 May 2015 comprised seven pages. In them, the accused provided an account of how he was asked to perform the delivery into Singapore, and the circumstances of the delivery.[\[note: 4\]](#Ftn_4) Sometime in or around October 2015, the accused received copies of his statements to the Central Narcotics Bureau, as well as the statements of the co-accused.[\[note: 5\]](#Ftn_5) In the notes dated 15 October 2015 comprising eight pages, the accused commented on the contents of his statements, as well as the contents of the co-accused’s statements.[\[note: 6\]](#Ftn_6) In the notes dated 3 December 2015 comprising three pages, again, the accused commented on the co-accused’s statements.[\[note: 7\]](#Ftn_7) In these proceedings, the accused did not rely on the third set of notes.
+15     The notes dated 21 May 2015 comprised seven pages. In them, the accused provided an account of how he was asked to perform the delivery into Singapore, and the circumstances of the delivery.[^4] Sometime in or around October 2015, the accused received copies of his statements to the Central Narcotics Bureau, as well as the statements of the co-accused.[^5] In the notes dated 15 October 2015 comprising eight pages, the accused commented on the contents of his statements, as well as the contents of the co-accused’s statements.[^6] In the notes dated 3 December 2015 comprising three pages, again, the accused commented on the co-accused’s statements.[^7] In these proceedings, the accused did not rely on the third set of notes.
 
 16     To summarise, in his affidavit, the accused contended that contrary to his instructions, the previous lawyers failed to do the following:
 
 (a)     First, the previous lawyers did not object to the admissibility of his statements, on the ground that they were made involuntarily.
 
-(i)       In the notes dated 21 May 2015, the accused said he wanted to “write again all the statements that had given \[_sic_\]”, and that he would like to “do some corrections of those statements that…can be useful for \[his\] defense in the trial \[_sic_\]”. He said that on the day of his arrest, he was in disbelief, and could not concentrate on giving his statement. He gave his statements “out of fear”, and without much thinking, “as many negative thoughts were going through \[his\] mind”.[\[note: 8\]](#Ftn_8)
+(i)       In the notes dated 21 May 2015, the accused said he wanted to “write again all the statements that had given \[_sic_\]”, and that he would like to “do some corrections of those statements that…can be useful for \[his\] defense in the trial \[_sic_\]”. He said that on the day of his arrest, he was in disbelief, and could not concentrate on giving his statement. He gave his statements “out of fear”, and without much thinking, “as many negative thoughts were going through \[his\] mind”.[^8]
 
-(ii)       In his notes dated 21 October 2015, he claimed that on a Sunday, the investigation officer met him in the interview room, and asked him not to “worry about these statements”. The investigation officer said that he knew the accused was “innocent”, told the accused that “these statements would help him in court”, and asked the accused to sign them. Believing the investigation officer, the accused signed the statements, and the investigation officer gave him food to eat. The accused added that he “had been induce(d)”, and that “\[he\] was sapped by \[the investigation officer\], force to do the detector test, force to sign voluntary lie detector test paper \[_sic_\]”.[\[note: 9\]](#Ftn_9)
+(ii)       In his notes dated 21 October 2015, he claimed that on a Sunday, the investigation officer met him in the interview room, and asked him not to “worry about these statements”. The investigation officer said that he knew the accused was “innocent”, told the accused that “these statements would help him in court”, and asked the accused to sign them. Believing the investigation officer, the accused signed the statements, and the investigation officer gave him food to eat. The accused added that he “had been induce(d)”, and that “\[he\] was sapped by \[the investigation officer\], force to do the detector test, force to sign voluntary lie detector test paper \[_sic_\]”.[^9]
 
-(iii)       During a subsequent visit by Mr Retnam and Mr Selvaraj, Mr Selvaraj questioned him briefly about his statements. Mr Selvaraj said that they would challenge his statements in accordance with the second set of notes. Mr Retnam also said they would raise the matters set out in his written instructions. However, they did not question him in detail about the contents of his statements, or how they were recorded.[\[note: 10\]](#Ftn_10)
+(iii)       During a subsequent visit by Mr Retnam and Mr Selvaraj, Mr Selvaraj questioned him briefly about his statements. Mr Selvaraj said that they would challenge his statements in accordance with the second set of notes. Mr Retnam also said they would raise the matters set out in his written instructions. However, they did not question him in detail about the contents of his statements, or how they were recorded.[^10]
 
-(iv)       At the trial, the previous lawyers did not challenge the admissibility of the statements.[\[note: 11\]](#Ftn_11)
+(iv)       At the trial, the previous lawyers did not challenge the admissibility of the statements.[^11]
 
-(b)     Second, the previous lawyers did not present evidence to show that he was not in financial difficulties, and to dispute portions of his statement which state that he was in financial difficulties. For clarity, I should state that the relevant statement is Exh P130, a statement recorded from the accused on 11 February 2014, and the pertinent portions are paras 10–12.[\[note: 12\]](#Ftn_12)
+(b)     Second, the previous lawyers did not present evidence to show that he was not in financial difficulties, and to dispute portions of his statement which state that he was in financial difficulties. For clarity, I should state that the relevant statement is Exh P130, a statement recorded from the accused on 11 February 2014, and the pertinent portions are paras 10–12.[^12]
 
-(i)       Contrary to the contents of paras 10–12 of Exh P130, the accused pointed out that in his notes dated 15 October 2015, he denied selling his buses due to financial difficulties. He also denied that he was working for a man named Siva, and said that he was “self-employed”. He said that his friend named Sarr had requested for a loan of RM6,000 from him and not RM12,000.[\[note: 13\]](#Ftn_13)
+(i)       Contrary to the contents of paras 10–12 of Exh P130, the accused pointed out that in his notes dated 15 October 2015, he denied selling his buses due to financial difficulties. He also denied that he was working for a man named Siva, and said that he was “self-employed”. He said that his friend named Sarr had requested for a loan of RM6,000 from him and not RM12,000.[^13]
 
-(ii)       Further, during the prison interviews, he informed Mr Retnam that he was a legitimate businessman operating a tourist bus business and that he had business records to prove this. After selling two old buses, he did not have to pay the monthly instalments and the drivers’ salaries. He ordered a new bus as a replacement; he owned the bus he drove into Singapore. He also owned a house and a car.[\[note: 14\]](#Ftn_14) He also arranged for his business associate based in Singapore, one Rani, to hand three log books recording details of his business to Mr Retnam.[\[note: 15\]](#Ftn_15)
+(ii)       Further, during the prison interviews, he informed Mr Retnam that he was a legitimate businessman operating a tourist bus business and that he had business records to prove this. After selling two old buses, he did not have to pay the monthly instalments and the drivers’ salaries. He ordered a new bus as a replacement; he owned the bus he drove into Singapore. He also owned a house and a car.[^14] He also arranged for his business associate based in Singapore, one Rani, to hand three log books recording details of his business to Mr Retnam.[^15]
 
-(iii)       Therefore, the portions of his statement which stated that he was in financial difficulties were incorrect, and he said he wished to challenge them. However, Mr Retnam did not ask him questions about his financial situation and did not ask him to provide any documents relating to his financial situation.[\[note: 16\]](#Ftn_16)
+(iii)       Therefore, the portions of his statement which stated that he was in financial difficulties were incorrect, and he said he wished to challenge them. However, Mr Retnam did not ask him questions about his financial situation and did not ask him to provide any documents relating to his financial situation.[^16]
 
-(iv)       Whereas Rani told the accused that she had handed over the log books to Mr Retnam, Mr Retnam denied this. Unfortunately, Rani was no longer willing to assist the accused in his case by coming forth to give evidence on her involvement.[\[note: 17\]](#Ftn_17)
+(iv)       Whereas Rani told the accused that she had handed over the log books to Mr Retnam, Mr Retnam denied this. Unfortunately, Rani was no longer willing to assist the accused in his case by coming forth to give evidence on her involvement.[^17]
 
 (v)       At the trial, Mr Retnam did not carry out these instructions. No evidence was presented on the accused’s financial situation.
 
 (c)     Third, the previous lawyers did not challenge the accuracy of certain portions of his statements (which were unrelated to his financial circumstances) as instructed in his notes dated 15 October 2015. While there were other inaccurate portions raised, the two main aspects are as follows:
 
-(i)       He did not know the contents of the plastic bag he had delivered. He had only seen the three bundles within the plastic bag after the plastic bag had been placed in the bus. His “pocket book statement”, _ie_, the contemporaneous statement, Exh P131, wrongly recorded that he stated that there were three bundles in the plastic bag and it was wrongly implied that he knew that there were three bundles before the plastic bag was placed on the bus.[\[note: 18\]](#Ftn_18)
+(i)       He did not know the contents of the plastic bag he had delivered. He had only seen the three bundles within the plastic bag after the plastic bag had been placed in the bus. His “pocket book statement”, _ie_, the contemporaneous statement, Exh P131, wrongly recorded that he stated that there were three bundles in the plastic bag and it was wrongly implied that he knew that there were three bundles before the plastic bag was placed on the bus.[^18]
 
-(ii)       He did not use the word “_barang_” to refer to something illegal in his statements. He questioned why the word “_barang_” had not been translated from Malay to English in his statements. He used “_barang_” to refer to items he transported.[\[note: 19\]](#Ftn_19) I should add that at para 28 of Exh P134, a statement recorded on 14 February 2014, the accused was recorded as stating that on the day of the arrest, Siva had contacted him to bring “_barang_” to Singapore, and that “\[_b\]arang to me is something which is illegal but I do not know the contents_” \[emphasis added\].[\[note: 20\]](#Ftn_20) The allegation appears to be that this portion of the statement should have been challenged by his previous lawyers.
+(ii)       He did not use the word “_barang_” to refer to something illegal in his statements. He questioned why the word “_barang_” had not been translated from Malay to English in his statements. He used “_barang_” to refer to items he transported.[^19] I should add that at para 28 of Exh P134, a statement recorded on 14 February 2014, the accused was recorded as stating that on the day of the arrest, Siva had contacted him to bring “_barang_” to Singapore, and that “\[_b\]arang to me is something which is illegal but I do not know the contents_” \[emphasis added\].[^20] The allegation appears to be that this portion of the statement should have been challenged by his previous lawyers.
 
-17     In the cross-examination of the previous lawyers, it was also suggested that they only ran a _partial_ defence that the accused was a courier.[\[note: 21\]](#Ftn_21) While this was not specifically raised in the accused’s affidavit, this seemed to be an allegation of a failure to run a full defence in accordance with instructions. This formed the fourth main contention by the accused.
+17     In the cross-examination of the previous lawyers, it was also suggested that they only ran a _partial_ defence that the accused was a courier.[^21] While this was not specifically raised in the accused’s affidavit, this seemed to be an allegation of a failure to run a full defence in accordance with instructions. This formed the fourth main contention by the accused.
 
 ### Mr Retnam’s evidence
 
-18     Mr Retnam produced records to show that he visited the accused 11 times. This was confirmed by a letter from the Singapore Prison Service dated 12 June 2018 listing 12 visits between 27 November 2014 to 1 June 2016; one visit was cancelled. On five occasions from 29 December 2015 to 1 April 2016, Mr Retnam was accompanied by Mr Selvaraj.[\[note: 22\]](#Ftn_22)
+18     Mr Retnam produced records to show that he visited the accused 11 times. This was confirmed by a letter from the Singapore Prison Service dated 12 June 2018 listing 12 visits between 27 November 2014 to 1 June 2016; one visit was cancelled. On five occasions from 29 December 2015 to 1 April 2016, Mr Retnam was accompanied by Mr Selvaraj.[^22]
 
-19     In terms of attendance notes, Mr Retnam produced five sets arising from the prison visits, dated 27 November 2014, 6 March 2015, 30 October 2015, 29 December 2015 and 1 April 2016.[\[note: 23\]](#Ftn_23) I pause to observe that the attendance notes of 29 December 2015 are important and are referred to at \[53\] below.[\[note: 24\]](#Ftn_24)
+19     In terms of attendance notes, Mr Retnam produced five sets arising from the prison visits, dated 27 November 2014, 6 March 2015, 30 October 2015, 29 December 2015 and 1 April 2016.[^23] I pause to observe that the attendance notes of 29 December 2015 are important and are referred to at \[53\] below.[^24]
 
 20     Mr Retnam also produced representations to the Prosecution made on 27 June 2015 (which he said closely followed the notes dated 21 May 2015 setting out the accused’s account of the events), asking for the charge against the accused to be withdrawn. There were also other representations to the Prosecution, asking for portions of the accused’s statements concerning previous drug transactions to be expunged. In a letter dated 1 April 2016, Mr Retnam wrote to ask for a certificate of substantive assistance to be issued to the accused.
 
@@ -92,35 +93,35 @@ Having regard to the gravity of the allegations that have been levelled by \[the
 
 22     Turning to the allegations, according to Mr Retnam, during the prison visits, the accused did not say that his statements were made involuntarily, under threat, inducement or promise.
 
-23     During cross-examination, Mr Retnam was referred to the portions of the notes dated 15 October 2015 set out above at \[16(a)(ii)\], where the accused raised his concerns about the statement recording process. Mr Retnam responded that while the accused stated that he had given the statements out of fear, the notes dated 15 October 2015 did not provide any basis to claim that there was any threat, inducement or promise.[\[note: 25\]](#Ftn_25) Mr Retnam explained to the accused that “excuses” would not hold water in court, and there must be “really some evidence” of threat, inducement or promise. To Mr Retnam’s mind, the accused wanted to have his statements rewritten, something that was not achievable.[\[note: 26\]](#Ftn_26) Subsequently, during the prison interviews, the accused confirmed to Mr Retnam and Mr Selvaraj that there was no threat, inducement or promise when he provided his statements.[\[note: 27\]](#Ftn_27)
+23     During cross-examination, Mr Retnam was referred to the portions of the notes dated 15 October 2015 set out above at \[16(a)(ii)\], where the accused raised his concerns about the statement recording process. Mr Retnam responded that while the accused stated that he had given the statements out of fear, the notes dated 15 October 2015 did not provide any basis to claim that there was any threat, inducement or promise.[^25] Mr Retnam explained to the accused that “excuses” would not hold water in court, and there must be “really some evidence” of threat, inducement or promise. To Mr Retnam’s mind, the accused wanted to have his statements rewritten, something that was not achievable.[^26] Subsequently, during the prison interviews, the accused confirmed to Mr Retnam and Mr Selvaraj that there was no threat, inducement or promise when he provided his statements.[^27]
 
-24     Next, Mr Retnam said that the accused did not mention that he was a “rich man” who need not resort to drug trafficking. This was not his defence. Specifically, the accused did not raise this in his notes.[\[note: 28\]](#Ftn_28) In cross-examination, Mr Retnam stated that he did not ask the accused for detailed information of his financial position as he did not see how it would be relevant to the charge.[\[note: 29\]](#Ftn_29)
+24     Next, Mr Retnam said that the accused did not mention that he was a “rich man” who need not resort to drug trafficking. This was not his defence. Specifically, the accused did not raise this in his notes.[^28] In cross-examination, Mr Retnam stated that he did not ask the accused for detailed information of his financial position as he did not see how it would be relevant to the charge.[^29]
 
-25     Further, Mr Retnam pointed out that the accused informed the psychiatrist from the Institute of Mental Health, Dr Kenneth Koh (“Dr Koh”), of his financial difficulties. That account was consistent with the version in his statement. Specifically, in the psychiatric report dated 12 March 2014,[\[note: 30\]](#Ftn_30) Dr Koh reported that the accused said that his transport business hit a “downturn … necessitating his sale of 2 of his tour buses, leaving behind one”. Further, he was a guarantor for a loan by his friend Sarr. After Sarr ran away, he was left to pay the debt, “in addition to the installments for his bus and other expenditures”. As a result of his financial difficulties, he approached Siva for help. Siva agreed to “settle the loan”, in return for a delivery job to be carried out by the accused. The delivery that formed the subject matter of the charge was his second delivery. Given the contents of the psychiatric report, Mr Retnam explained that disputing the portions of his statement concerning his financial difficulties would have affected the accused’s credibility.[\[note: 31\]](#Ftn_31)
+25     Further, Mr Retnam pointed out that the accused informed the psychiatrist from the Institute of Mental Health, Dr Kenneth Koh (“Dr Koh”), of his financial difficulties. That account was consistent with the version in his statement. Specifically, in the psychiatric report dated 12 March 2014,[^30] Dr Koh reported that the accused said that his transport business hit a “downturn … necessitating his sale of 2 of his tour buses, leaving behind one”. Further, he was a guarantor for a loan by his friend Sarr. After Sarr ran away, he was left to pay the debt, “in addition to the installments for his bus and other expenditures”. As a result of his financial difficulties, he approached Siva for help. Siva agreed to “settle the loan”, in return for a delivery job to be carried out by the accused. The delivery that formed the subject matter of the charge was his second delivery. Given the contents of the psychiatric report, Mr Retnam explained that disputing the portions of his statement concerning his financial difficulties would have affected the accused’s credibility.[^31]
 
-26     On these aspects, Mr Retnam also stated that the accused’s oral instructions to Mr Retnam and Mr Selvaraj were similar.[\[note: 32\]](#Ftn_32)
+26     On these aspects, Mr Retnam also stated that the accused’s oral instructions to Mr Retnam and Mr Selvaraj were similar.[^32]
 
-27     Turning to the alleged failure to challenge the other aspects of the statements (unrelated to the accused’s financial circumstances), under cross-examination, Mr Retnam stated that he informed the accused that most of the portions of the statements that he sought to challenge were irrelevant to his defence, and did not go to the “root of the case”. He advised the accused that he would be focusing on the main issues, and the accused agreed.[\[note: 33\]](#Ftn_33)
+27     Turning to the alleged failure to challenge the other aspects of the statements (unrelated to the accused’s financial circumstances), under cross-examination, Mr Retnam stated that he informed the accused that most of the portions of the statements that he sought to challenge were irrelevant to his defence, and did not go to the “root of the case”. He advised the accused that he would be focusing on the main issues, and the accused agreed.[^33]
 
-28     On the allegation that the previous lawyers put forth only a partial defence that the accused was a courier, Mr Retnam disagreed. Prior to the commencement of the trial, the Prosecution had informed him that a certificate of substantive assistance would be issued. Nevertheless, the previous lawyers proceeded to fully defend the accused on the basis that the accused did not know about the drugs – which was his defence all along.[\[note: 34\]](#Ftn_34)
+28     On the allegation that the previous lawyers put forth only a partial defence that the accused was a courier, Mr Retnam disagreed. Prior to the commencement of the trial, the Prosecution had informed him that a certificate of substantive assistance would be issued. Nevertheless, the previous lawyers proceeded to fully defend the accused on the basis that the accused did not know about the drugs – which was his defence all along.[^34]
 
 ### Mr Selvaraj’s evidence
 
-29     Mr Selvaraj said that after being assigned to the case on 2 November 2015, he reviewed the committal hearing bundle. Based on what the accused said in his statements, he came to the view that the defence would centre on the knowledge of the drugs in the plastic bag.[\[note: 35\]](#Ftn_35)
+29     Mr Selvaraj said that after being assigned to the case on 2 November 2015, he reviewed the committal hearing bundle. Based on what the accused said in his statements, he came to the view that the defence would centre on the knowledge of the drugs in the plastic bag.[^35]
 
-30     When Mr Selvaraj first met the accused with Mr Retnam on 29 December 2015, the accused confirmed his instructions that he had no knowledge of the contents of the plastic bag that he handed to the co-accused.[\[note: 36\]](#Ftn_36)
+30     When Mr Selvaraj first met the accused with Mr Retnam on 29 December 2015, the accused confirmed his instructions that he had no knowledge of the contents of the plastic bag that he handed to the co-accused.[^36]
 
-31     Mr Selvaraj was not aware of the existence of the three sets of notes. However, during all the prison interviews, the accused did not mention the three sets of notes at all.[\[note: 37\]](#Ftn_37)
+31     Mr Selvaraj was not aware of the existence of the three sets of notes. However, during all the prison interviews, the accused did not mention the three sets of notes at all.[^37]
 
-32     With regards to the allegations, Mr Selvaraj stated that during the prison interviews, the accused confirmed that there was no threat, inducement or promise made to him, and that the statements were given voluntarily. There was no basis to challenge the admissibility of the statements. In fact, they were more concerned about the mention made of previous drug transactions in the statements. As such, at the trial, Mr Retnam sought to expunge these portions from the statements.[\[note: 38\]](#Ftn_38)
+32     With regards to the allegations, Mr Selvaraj stated that during the prison interviews, the accused confirmed that there was no threat, inducement or promise made to him, and that the statements were given voluntarily. There was no basis to challenge the admissibility of the statements. In fact, they were more concerned about the mention made of previous drug transactions in the statements. As such, at the trial, Mr Retnam sought to expunge these portions from the statements.[^38]
 
-33     Mr Selvaraj also stated that the accused did not at any point of time claim that he was a “rich businessman” and “there was no need to traffic in drugs”. He did not recall the applicant making any references to any log book of his business.[\[note: 39\]](#Ftn_39)
+33     Mr Selvaraj also stated that the accused did not at any point of time claim that he was a “rich businessman” and “there was no need to traffic in drugs”. He did not recall the applicant making any references to any log book of his business.[^39]
 
-34     On the occasions that he visited the accused in prison with Mr Retnam, the accused’s “sole \[d\]efence was that he had no knowledge of the contents of the plastic bag”. This was the very defence put forth at the trial.[\[note: 40\]](#Ftn_40)
+34     On the occasions that he visited the accused in prison with Mr Retnam, the accused’s “sole \[d\]efence was that he had no knowledge of the contents of the plastic bag”. This was the very defence put forth at the trial.[^40]
 
 ### Mr GH Singh’s evidence
 
-35     As the junior assisting counsel, Mr GH Singh said that he played a “minor” role. In the main, he took down notes of evidence. He did not visit the accused in prison, and only visited the accused once in the court lock-up with Mr Retnam and Mr Selvaraj.[\[note: 41\]](#Ftn_41) There was no discussion on the accused’s written notes, and he had not been provided with a set of the written notes. Accordingly, Mr GH Singh was in no position to comment on the accused’s alleged instructions. However, he reiterated that the case at the trial was that the accused did not know he was carrying drugs.[\[note: 42\]](#Ftn_42)
+35     As the junior assisting counsel, Mr GH Singh said that he played a “minor” role. In the main, he took down notes of evidence. He did not visit the accused in prison, and only visited the accused once in the court lock-up with Mr Retnam and Mr Selvaraj.[^41] There was no discussion on the accused’s written notes, and he had not been provided with a set of the written notes. Accordingly, Mr GH Singh was in no position to comment on the accused’s alleged instructions. However, he reiterated that the case at the trial was that the accused did not know he was carrying drugs.[^42]
 
 ### The parties' submissions
 
@@ -142,7 +143,7 @@ Having regard to the gravity of the allegations that have been levelled by \[the
 
 44     Mr Nathan pointed out that while the accused denied telling the previous lawyers not to challenge his statements, he referred to his statements throughout the trial. If he had wished to challenge the voluntariness of his statements, he would not have relied on them at the trial.
 
-45     Further, it was not true that Mr Retnam had ignored the written instructions. Relying on the contents of the notes dated 21 May 2015, Mr Retnam had made detailed representations to the Prosecution dated 27 June 2015, asking for the charge against the accused to be withdrawn.[\[note: 43\]](#Ftn_43)
+45     Further, it was not true that Mr Retnam had ignored the written instructions. Relying on the contents of the notes dated 21 May 2015, Mr Retnam had made detailed representations to the Prosecution dated 27 June 2015, asking for the charge against the accused to be withdrawn.[^43]
 
 46     As for the evidence on the accused’s financial position, the accused had not called Rani to testify that she had handed the log books to Mr Retnam. Mr Retnam denied that he received the log books.
 
@@ -162,9 +163,9 @@ Having regard to the gravity of the allegations that have been levelled by \[the
 
 52     For a start, both Mr Retnam and Mr Selvaraj have stated that during the prison interviews, the accused did not instruct them to object to the admissibility of the statements.
 
-53     This was borne out by the contemporaneous record. In respect of the prison visit on 29 December 2015 by Mr Retnam and Mr Selvaraj, the attendance notes recorded that they told him that “since he had made his statements voluntarily and the police had not threatened, used physical force when recording his statements \[they\] would not challenge the statements at the trial. _He agreed._”\[emphasis added\].[\[note: 44\]](#Ftn_44)
+53     This was borne out by the contemporaneous record. In respect of the prison visit on 29 December 2015 by Mr Retnam and Mr Selvaraj, the attendance notes recorded that they told him that “since he had made his statements voluntarily and the police had not threatened, used physical force when recording his statements \[they\] would not challenge the statements at the trial. _He agreed._”\[emphasis added\].[^44]
 
-54     In the cross-examination of Mr Retnam and Mr Selvaraj, it was not put to either of them that the 29 December 2015 attendance notes were fabricated or recorded inaccurately. When confronted with the 29 December 2015 attendance notes, the accused responded that “\[t\]here were no questions and I gave no answers. I did not mention it was voluntary or involuntary”.[\[note: 45\]](#Ftn_45) In a later part of his cross-examination, he denied that there was a conversation pertaining to whether they should challenge the statements at trial.[\[note: 46\]](#Ftn_46) The accused was not able to dispute the accuracy of the contemporaneous record, and I give full weight to the 29 December 2015 attendance notes.
+54     In the cross-examination of Mr Retnam and Mr Selvaraj, it was not put to either of them that the 29 December 2015 attendance notes were fabricated or recorded inaccurately. When confronted with the 29 December 2015 attendance notes, the accused responded that “\[t\]here were no questions and I gave no answers. I did not mention it was voluntary or involuntary”.[^45] In a later part of his cross-examination, he denied that there was a conversation pertaining to whether they should challenge the statements at trial.[^46] The accused was not able to dispute the accuracy of the contemporaneous record, and I give full weight to the 29 December 2015 attendance notes.
 
 55     I appreciate that the accused had voiced some concerns about the statement recording process in the notes dated 21 May 2015 and 15 October 2015. In my view, it would be quite wrong to elevate each and every assertion made by the accused in the notes to the status of an “express instruction” of the approach to be taken at the trial. Furnished in the early stages of the preparation of the case, the notes contained the accused’s narration of the events and his responses to the contents of the statements. From a perusal of the notes, I find it hard put to say that any firm instruction had been given to object to the admissibility of the statements on the ground of voluntariness.
 
@@ -172,7 +173,7 @@ Having regard to the gravity of the allegations that have been levelled by \[the
 
 57     Given all of the above, I accept the consistent stance of Mr Retnam and Mr Selvaraj that at the end of the day, the position _as agreed_ with the accused was that there would not be any objection to the admissibility of the statements. I should add that in coming to this position, I have also considered the merits of the accused’s allegations about the statement recording process.
 
-58     Admittedly, these allegations were not tested at the trial. Nonetheless, they are hardly strong allegations. The particulars of inducement are weak. There are no details as to how the accused’s will was “sapped” in relation to the recording of the statements. Instead, the accused only said he was forced to sign on a document relating to a polygraph test. I was also perturbed by the fact that in cross-examination in these proceedings, the accused conceded that he did not comprehend the word “sapped”, and that it was included in his notes because a fellow prison inmate had suggested it.[\[note: 47\]](#Ftn_47) I see little basis for a challenge on the ground of voluntariness. The evidential weakness in these allegations lent credence to the previous lawyers’ explanation that they had advised the accused against challenging the statements and eventually obtained the accused’s agreement on the approach.
+58     Admittedly, these allegations were not tested at the trial. Nonetheless, they are hardly strong allegations. The particulars of inducement are weak. There are no details as to how the accused’s will was “sapped” in relation to the recording of the statements. Instead, the accused only said he was forced to sign on a document relating to a polygraph test. I was also perturbed by the fact that in cross-examination in these proceedings, the accused conceded that he did not comprehend the word “sapped”, and that it was included in his notes because a fellow prison inmate had suggested it.[^47] I see little basis for a challenge on the ground of voluntariness. The evidential weakness in these allegations lent credence to the previous lawyers’ explanation that they had advised the accused against challenging the statements and eventually obtained the accused’s agreement on the approach.
 
 59     In sum, I reject the accused’s allegation that the previous lawyers failed to adhere to his instructions by failing to challenge the admissibility of the statements. I find that it is not a credible claim.
 
@@ -184,11 +185,11 @@ Having regard to the gravity of the allegations that have been levelled by \[the
 
 62     In this connection, Mr Retnam stated that the agreement with the accused was that they would focus on the crux of the defence – being the accused’s knowledge of the contents of the plastic bag. That was his “sole defence”, according to Mr Selvaraj. They confirmed that it was _not_ the accused’s instruction that he need not resort to bringing drugs into Singapore because he was financially sound. In particular, Mr Retnam and Mr Selvaraj stated that during the prison visits, the accused did not brief them on his financial circumstances at all.
 
-63     Further, as Mr Retnam explained, Dr Koh’s psychiatric report revealed that the accused provided an account of his financial difficulties which was consistent with the portions of his statement. By raising this issue, there was a risk of damaging the credibility of the accused. Mr Selvaraj expressed a similar concern. In his written submissions, Mr Selvaraj pointed out that in the psychiatric report, Dr Koh also reported that the accused’s wife “corroborated his account of his business problems”.[\[note: 48\]](#Ftn_48)
+63     Further, as Mr Retnam explained, Dr Koh’s psychiatric report revealed that the accused provided an account of his financial difficulties which was consistent with the portions of his statement. By raising this issue, there was a risk of damaging the credibility of the accused. Mr Selvaraj expressed a similar concern. In his written submissions, Mr Selvaraj pointed out that in the psychiatric report, Dr Koh also reported that the accused’s wife “corroborated his account of his business problems”.[^48]
 
 64     Given the consistent position of Mr Retnam and Mr Selvaraj, I accept that there was an agreement for the previous lawyers to focus on the defence of knowledge of the contents of the plastic bag. I also accept that the accused did not instruct the previous lawyers that he need not traffic in drugs because he was financially sound. In fact, this was supported by the accused’s evidence which I discuss at \[65\] below. Moreover, the accused’s financial difficulties were confirmed by the contents of the psychiatric report. Disputing the portions of the statement carried some risk. To my mind, in not dealing with this area, the previous lawyers acted in accordance with the agreed approach to focus on the material aspects of the defence. They did not depart from the accused’s instructions.
 
-65     In contrast, the accused’s allegation is questionable. If he had been concerned about the impact of his financial position, apart from informing Mr Retnam as he claimed (see \[16(b)(ii)\] above), he would have specifically raised the issue with Mr Selvaraj. Also, he would have mentioned the notes to Mr Selvaraj. Instead, Mr Selvaraj stated that there was no mention of the notes during the interviews. It was especially telling that in cross-examination, the accused admitted that he did not tell Mr Retnam or Mr Selvaraj that he wanted his financial status to be an important part of his defence.[\[note: 49\]](#Ftn_49)
+65     In contrast, the accused’s allegation is questionable. If he had been concerned about the impact of his financial position, apart from informing Mr Retnam as he claimed (see \[16(b)(ii)\] above), he would have specifically raised the issue with Mr Selvaraj. Also, he would have mentioned the notes to Mr Selvaraj. Instead, Mr Selvaraj stated that there was no mention of the notes during the interviews. It was especially telling that in cross-examination, the accused admitted that he did not tell Mr Retnam or Mr Selvaraj that he wanted his financial status to be an important part of his defence.[^49]
 
 66     Further, on the accused’s claim that Rani handed Mr Retnam the three log books of the business, Mr Retnam denied this. Mr Selvaraj said that there was no mention of the three log books by the accused to him. According to the accused, Rani has not been willing to testify for the accused, to explain what happened to the three log books. As such, the accused was simply not able to substantiate his claim.
 
@@ -208,9 +209,9 @@ Having regard to the gravity of the allegations that have been levelled by \[the
 
 73     That said, I am of the view that this failure would have no effect on the verdict. Quite apart from the admission in the statement that the accused knew that “_barang_” was something illegal, there was overwhelming evidence to show that he knew he was delivering _illegal_ items for Siva, and that the plastic bag contained something illegal. I elaborate.
 
-74     In the statements, the accused stated that he delivered “_makan_” or “_barang_” or “_air batu_” for Siva. At para 8 of Exh P130, he said that “_makan_” would have meant something illegal. At the trial, under cross-examination by the Prosecution, he also accepted that “_makan_” would have meant something illegal.[\[note: 50\]](#Ftn_50) While he claimed that he only knew that “_air batu_” was “ice cubes”, and not methamphetamine, I had found this assertion to be unbelievable: see \[43\] of the GD. Given that “_barang”_, “_makan_” and “_air batu_” were being delivered for the same person Siva, and that he knew the latter two were illegal items, it was untenable for the accused to claim that he thought the “_barang_” which he conveyed for Siva was something legal.
+74     In the statements, the accused stated that he delivered “_makan_” or “_barang_” or “_air batu_” for Siva. At para 8 of Exh P130, he said that “_makan_” would have meant something illegal. At the trial, under cross-examination by the Prosecution, he also accepted that “_makan_” would have meant something illegal.[^50] While he claimed that he only knew that “_air batu_” was “ice cubes”, and not methamphetamine, I had found this assertion to be unbelievable: see \[43\] of the GD. Given that “_barang”_, “_makan_” and “_air batu_” were being delivered for the same person Siva, and that he knew the latter two were illegal items, it was untenable for the accused to claim that he thought the “_barang_” which he conveyed for Siva was something legal.
 
-75     In fact, at the trial, the accused had attempted to disavow the portion of his statement claiming that “_barang_” referred to illegal items. Under cross-examination by the previous lawyer for the co-accused, the accused claimed that he told the investigation officer that “_barang_” and “_makan_” referred to something legal. Under cross-examination by the Prosecution, when confronted with para 28 of Exh P134 which stated that he knew “_barang_” referred to something illegal, he said he “agree\[d\] with” and “accept\[ed\]” the statement. In the same breath, the accused claimed that he was stressed. An adjournment was granted for him to compose himself. After the adjournment, the accused replied “\[w\]hat transpired today about paragraph 28, I accept”.[\[note: 51\]](#Ftn_51) As I mentioned in the preceding paragraph, he also admitted that “_makan_” would have meant something illegal.
+75     In fact, at the trial, the accused had attempted to disavow the portion of his statement claiming that “_barang_” referred to illegal items. Under cross-examination by the previous lawyer for the co-accused, the accused claimed that he told the investigation officer that “_barang_” and “_makan_” referred to something legal. Under cross-examination by the Prosecution, when confronted with para 28 of Exh P134 which stated that he knew “_barang_” referred to something illegal, he said he “agree\[d\] with” and “accept\[ed\]” the statement. In the same breath, the accused claimed that he was stressed. An adjournment was granted for him to compose himself. After the adjournment, the accused replied “\[w\]hat transpired today about paragraph 28, I accept”.[^51] As I mentioned in the preceding paragraph, he also admitted that “_makan_” would have meant something illegal.
 
 76     At \[45\] of the GD, I discussed in some detail the accused’s attempts to disassociate himself from this unfavourable aspect of his statement. While I noted that Mr Retnam did not cross-examine the relevant Prosecution witnesses, I also emphasised that eventually, the accused conceded that his statement had been accurately recorded. As such, I had rejected the claim that he thought “_barang_” referred to legal items.
 
@@ -234,107 +235,107 @@ Having regard to the gravity of the allegations that have been levelled by \[the
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)Agreed Bundle of Documents Vol 3 (“3ABD”), Tab 37.
+[^1]: Agreed Bundle of Documents Vol 3 (“3ABD”), Tab 37.
 
-[\[note: 2\]](#Ftn_2_1)3ABD, Tabs 38, 39 and 45.
+[^2]: 3ABD, Tabs 38, 39 and 45.
 
-[\[note: 3\]](#Ftn_3_1)3ABD, pp 898–899.
+[^3]: 3ABD, pp 898–899.
 
-[\[note: 4\]](#Ftn_4_1)3ABD, pp 916-929.
+[^4]: 3ABD, pp 916-929.
 
-[\[note: 5\]](#Ftn_5_1)3ABD, p 893.
+[^5]: 3ABD, p 893.
 
-[\[note: 6\]](#Ftn_6_1)3ABD, pp 930-937, 941-948.
+[^6]: 3ABD, pp 930-937, 941-948.
 
-[\[note: 7\]](#Ftn_7_1)3ABD, pp 938-940, 949-951.
+[^7]: 3ABD, pp 938-940, 949-951.
 
-[\[note: 8\]](#Ftn_8_1)3ABD, p 923.
+[^8]: 3ABD, p 923.
 
-[\[note: 9\]](#Ftn_9_1)3ABD, p 948.
+[^9]: 3ABD, p 948.
 
-[\[note: 10\]](#Ftn_10_1)3ABD, p 895.
+[^10]: 3ABD, p 895.
 
-[\[note: 11\]](#Ftn_11_1)3ABD, p 901.
+[^11]: 3ABD, p 901.
 
-[\[note: 12\]](#Ftn_12_1)Agreed Bundle of Documents Vol 4 (“4ABD”), Tab 56.
+[^12]: Agreed Bundle of Documents Vol 4 (“4ABD”), Tab 56.
 
-[\[note: 13\]](#Ftn_13_1)3ABD, p 946.
+[^13]: 3ABD, p 946.
 
-[\[note: 14\]](#Ftn_14_1)3ABD, p 896.
+[^14]: 3ABD, p 896.
 
-[\[note: 15\]](#Ftn_15_1)3ABD, p 892.
+[^15]: 3ABD, p 892.
 
-[\[note: 16\]](#Ftn_16_1)3ABD, pp 896–897.
+[^16]: 3ABD, pp 896–897.
 
-[\[note: 17\]](#Ftn_17_1)3ABD, pp 892–893.
+[^17]: 3ABD, pp 892–893.
 
-[\[note: 18\]](#Ftn_18_1)3ABD, p 941.
+[^18]: 3ABD, p 941.
 
-[\[note: 19\]](#Ftn_19_1)3ABD, p 943.
+[^19]: 3ABD, p 943.
 
-[\[note: 20\]](#Ftn_20_1)4ABD, p 1198.
+[^20]: 4ABD, p 1198.
 
-[\[note: 21\]](#Ftn_21_1)NE, 26 September 2018, p 11, lines 3–9 (Mr GH Singh); p 35, lines 10–11 (Mr Selvaraj); p 49, line 21 (Mr Retnam).
+[^21]: NE, 26 September 2018, p 11, lines 3–9 (Mr GH Singh); p 35, lines 10–11 (Mr Selvaraj); p 49, line 21 (Mr Retnam).
 
-[\[note: 22\]](#Ftn_22_1)3ABD, Tab 49.
+[^22]: 3ABD, Tab 49.
 
-[\[note: 23\]](#Ftn_23_1)Agreed Bundle of Documents Vol 1 (“1ABD”), Tabs 6, 7, 13, 14 and 22.
+[^23]: Agreed Bundle of Documents Vol 1 (“1ABD”), Tabs 6, 7, 13, 14 and 22.
 
-[\[note: 24\]](#Ftn_24_1)1ABD, Tab 14.
+[^24]: 1ABD, Tab 14.
 
-[\[note: 25\]](#Ftn_25_1)NE, 26 September 2018, p 71, lines 15–26.
+[^25]: NE, 26 September 2018, p 71, lines 15–26.
 
-[\[note: 26\]](#Ftn_26_1)NE, 26 September 2018, p 72, lines 3–19.
+[^26]: NE, 26 September 2018, p 72, lines 3–19.
 
-[\[note: 27\]](#Ftn_27_1)NE, 26 September 2018, p 106, lines 8–21.
+[^27]: NE, 26 September 2018, p 106, lines 8–21.
 
-[\[note: 28\]](#Ftn_28_1)3ABD, p 1019.
+[^28]: 3ABD, p 1019.
 
-[\[note: 29\]](#Ftn_29_1)NE, 26 September 2018, p 96, lines 1–13.
+[^29]: NE, 26 September 2018, p 96, lines 1–13.
 
-[\[note: 30\]](#Ftn_30_1)3ABD, pp 1066–1069.
+[^30]: 3ABD, pp 1066–1069.
 
-[\[note: 31\]](#Ftn_31_1)NE, 26 September 2018, p 87, lines 1–4; p 102, lines 8–19.
+[^31]: NE, 26 September 2018, p 87, lines 1–4; p 102, lines 8–19.
 
-[\[note: 32\]](#Ftn_32_1)3ABD, p 1024.
+[^32]: 3ABD, p 1024.
 
-[\[note: 33\]](#Ftn_33_1)NE, 26 September 2018, p 68, lines 8–22.
+[^33]: NE, 26 September 2018, p 68, lines 8–22.
 
-[\[note: 34\]](#Ftn_34_1)NE, 26 September 2018, pp 102–103.
+[^34]: NE, 26 September 2018, pp 102–103.
 
-[\[note: 35\]](#Ftn_35_1)3ABD, pp 1099–1100.
+[^35]: 3ABD, pp 1099–1100.
 
-[\[note: 36\]](#Ftn_36_1)3ABD, p 1100.
+[^36]: 3ABD, p 1100.
 
-[\[note: 37\]](#Ftn_37_1)3ABD, p 1101.
+[^37]: 3ABD, p 1101.
 
-[\[note: 38\]](#Ftn_38_1)3ABD, p 1100.
+[^38]: 3ABD, p 1100.
 
-[\[note: 39\]](#Ftn_39_1)3ABD, p 1101.
+[^39]: 3ABD, p 1101.
 
-[\[note: 40\]](#Ftn_40_1)3ABD, p 1101.
+[^40]: 3ABD, p 1101.
 
-[\[note: 41\]](#Ftn_41_1)NE, 26 September 2018, pp 9 and 15.
+[^41]: NE, 26 September 2018, pp 9 and 15.
 
-[\[note: 42\]](#Ftn_42_1)NE, 26 September 2018, pp 10–11.
+[^42]: NE, 26 September 2018, pp 10–11.
 
-[\[note: 43\]](#Ftn_43_1)1ABD, pp 95–99.
+[^43]: 1ABD, pp 95–99.
 
-[\[note: 44\]](#Ftn_44_1)1ABD, Tab 14.
+[^44]: 1ABD, Tab 14.
 
-[\[note: 45\]](#Ftn_45_1)NE, 25 September 2018, p 72, lines 11–13.
+[^45]: NE, 25 September 2018, p 72, lines 11–13.
 
-[\[note: 46\]](#Ftn_46_1)NE, 25 September 2018, p 103, lines 1–6.
+[^46]: NE, 25 September 2018, p 103, lines 1–6.
 
-[\[note: 47\]](#Ftn_47_1)NE, 25 September 2018, p 35, lines 3–8.
+[^47]: NE, 25 September 2018, p 35, lines 3–8.
 
-[\[note: 48\]](#Ftn_48_1)3ABD, p 1069.
+[^48]: 3ABD, p 1069.
 
-[\[note: 49\]](#Ftn_49_1)NE, 25 September 2018, p 101, lines 9–14.
+[^49]: NE, 25 September 2018, p 101, lines 9–14.
 
-[\[note: 50\]](#Ftn_50_1)Agreed Bundle of Documents Vol 2 (“2ABD”) p 714, lines 25–28.
+[^50]: Agreed Bundle of Documents Vol 2 (“2ABD”) p 714, lines 25–28.
 
-[\[note: 51\]](#Ftn_51_1)2ABD, p 712, line 16 to p 714, line 24.
+[^51]: 2ABD, p 712, line 16 to p 714, line 24.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F22940-SSP.xml)

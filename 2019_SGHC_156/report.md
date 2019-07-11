@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # Public Prosecutor _v_ Tan Seo Whatt Albert and another appeal  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Magistrate's Appeal Nos 9242 of 2018/01 and 9242 of 2018/02</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">28 June 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Hoo Sheau Peng J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Nicholas Khoo and Suhas Malhotra (Attorney-General's Chambers) for the Public Prosecutor; Foo Cheow Ming (Foo Cheow Ming Chambers) for the Accused.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Tan Seo Whatt Albert</td></tr></tbody></table>
@@ -75,11 +76,11 @@ Criminal Procedure and Sentencing – Sentencing – Securities and Futures 
 
 18     For completeness, there were several facts which were raised in the Accused’s mitigation plea as follows:
 
-(a)     Gold Insignia had made verbal enquiries with several authorities, namely the MAS, International Enterprise Singapore, the Accounting and Corporate Regulatory Authority and the Singapore Police Force about the running of Gold Insignia’s business.[\[note: 1\]](#Ftn_1) Exhibits of follow-up emails of these enquiries showed that the authorities gave confirmations to the effect that limited liability partnerships could run membership programmes.[\[note: 2\]](#Ftn_2)
+(a)     Gold Insignia had made verbal enquiries with several authorities, namely the MAS, International Enterprise Singapore, the Accounting and Corporate Regulatory Authority and the Singapore Police Force about the running of Gold Insignia’s business.[^1] Exhibits of follow-up emails of these enquiries showed that the authorities gave confirmations to the effect that limited liability partnerships could run membership programmes.[^2]
 
-(b)     The Gold Insignia membership application form had included the applicable terms and conditions. One example is cl 7.1 which states that “members are subjected to a potential financial loss risk of 50% to 65% should Gold Insignia be unable to fulfil \[its\] obligations”.[\[note: 3\]](#Ftn_3)
+(b)     The Gold Insignia membership application form had included the applicable terms and conditions. One example is cl 7.1 which states that “members are subjected to a potential financial loss risk of 50% to 65% should Gold Insignia be unable to fulfil \[its\] obligations”.[^3]
 
-(c)     The Accused allegedly took steps to “mitigate the effects of” his offence, by sending out advisory letters to Gold Insignia members to keep them informed,[\[note: 4\]](#Ftn_4) appealing to the Commercial Affairs Department to use confiscated funds to refund the membership fee to new members who had their gold bars seized,[\[note: 5\]](#Ftn_5) and scheduling a “redemption exercise” for some members.[\[note: 6\]](#Ftn_6)
+(c)     The Accused allegedly took steps to “mitigate the effects of” his offence, by sending out advisory letters to Gold Insignia members to keep them informed,[^4] appealing to the Commercial Affairs Department to use confiscated funds to refund the membership fee to new members who had their gold bars seized,[^5] and scheduling a “redemption exercise” for some members.[^6]
 
 ## The District Judge’s decision
 
@@ -112,9 +113,9 @@ Criminal Procedure and Sentencing – Sentencing – Securities and Futures 
 
 ## The parties’ cases on appeal
 
-28     In brief, these are the parties’ cases on appeal, which I flesh out in further detail as required below. The Prosecution’s case was that the sentence was wrong in principle, and also that the District Judge had erred in weighing the various factors resulting in a sentence which was manifestly inadequate.[\[note: 7\]](#Ftn_7) Given the lack of sentencing precedents, the Prosecution proposed several sentencing factors for consideration. Based on these factors, the Prosecution argued that the custodial threshold had been crossed, with 12 to 16 weeks being an appropriate global custodial term.
+28     In brief, these are the parties’ cases on appeal, which I flesh out in further detail as required below. The Prosecution’s case was that the sentence was wrong in principle, and also that the District Judge had erred in weighing the various factors resulting in a sentence which was manifestly inadequate.[^7] Given the lack of sentencing precedents, the Prosecution proposed several sentencing factors for consideration. Based on these factors, the Prosecution argued that the custodial threshold had been crossed, with 12 to 16 weeks being an appropriate global custodial term.
 
-29     The Accused argued that the District Judge had erred in several factual findings pertaining to the nature of the Gold Insignia scheme, and that the District Judge had erred in weighing the various factors. As a result, the sentence meted out was manifestly excessive. The Accused submitted for the fines imposed to be “reduced appropriately”.[\[note: 8\]](#Ftn_8)
+29     The Accused argued that the District Judge had erred in several factual findings pertaining to the nature of the Gold Insignia scheme, and that the District Judge had erred in weighing the various factors. As a result, the sentence meted out was manifestly excessive. The Accused submitted for the fines imposed to be “reduced appropriately”.[^8]
 
 ## The role of the appellate court
 
@@ -190,7 +191,7 @@ In other words, the court accepted in no uncertain terms that ignorance of the n
 
 39     In light of the above, I gratefully adopt the approach in _Abdul Ghani_ in relation to the requirements of “consent” to the present offence, which does not require that the individual has knowledge of the legal requirements giving rise to the primary offence. Hence, where “consent” is relied on to establish secondary liability, the offender _must be shown to have known the material facts that constituted the offence by the limited liability partnership and to have agreed to its conduct of the business on the basis of those facts._ Further, in my judgment, it is only right _not_ to require the offender to know of the legal requirement that the limited liability partnership failed to comply with.
 
-40     In fact, it is for this reason that the Accused’s guilty plea in the lower court can be considered validly taken in the first place. If the Accused’s “consent” in fact requires him to know that the offering of Gold Insignia’s memberships required a prospectus, then his plea would have been qualified by his maintaining in mitigation that he was “under a _bona fide_ impression that the \[memberships\] did not require a prospectus”.[\[note: 9\]](#Ftn_9) Such an issue does not in fact arise; the Accused’s defence counsel in the lower court made it clear that he had no intention to qualify the plea,[\[note: 10\]](#Ftn_10) and more importantly, the Accused’s claim to ignorance is irrelevant to the elements of the charge.
+40     In fact, it is for this reason that the Accused’s guilty plea in the lower court can be considered validly taken in the first place. If the Accused’s “consent” in fact requires him to know that the offering of Gold Insignia’s memberships required a prospectus, then his plea would have been qualified by his maintaining in mitigation that he was “under a _bona fide_ impression that the \[memberships\] did not require a prospectus”.[^9] Such an issue does not in fact arise; the Accused’s defence counsel in the lower court made it clear that he had no intention to qualify the plea,[^10] and more importantly, the Accused’s claim to ignorance is irrelevant to the elements of the charge.
 
 41     Putting the “consent” limb aside, I am inclined to agree that a person who connives must be found to have been equally aware of the material facts of the underlying offence. In this regard, I wish to highlight that while _Abdul Ghani_ frames consent and connivance as separate kinds of mental states (as the court counted consent, connivance and neglect as “**_three_** distinct _mens rea_” \[emphasis added in bold italics\]), it seems to me that the correct approach is to consider “consent or connivance” as _one_ class of _mens rea_ together, considering that they both appear to entail the same degree of knowledge. The interpretation of “consent” and “connivance” as being descriptors of similar _mental states_ is also supported by the particular mode of expression in s 331(3A), grouping consent or connivance, on the one hand, and neglect, on the other. They seem to differ only in the form the agreement takes – explicit agreement in the former, and tacit agreement in the latter _ie_, the _actus reus_ of the offence. Nonetheless, for present purposes, the issues of the precise distinction between “consent” and “connivance” is not a matter argued before me, and I shall not deal specifically with this.
 
@@ -212,7 +213,7 @@ In other words, the court accepted in no uncertain terms that ignorance of the n
 
 45     First, it seems to me that “neglect” should be recognised as the state of _mens rea_ involving lesser culpability relative to that of “consent or connivance”. In _Abdul Ghani_ at \[103\]–\[105\]), despite the different limbs in s 59 CDSA being subject to the same punishment provision in s 47(6) CDSA, the court recognised the different culpabilities involved in sentencing. Hence, the court determined that varying “notional upper limits” should apply to the various limbs, as a guide to determining the appropriate sentence. For offences prosecuted under the “consent or connivance” limbs, the court established that these would be subject to a maximum of ten years’ imprisonment. In contrast, the court fixed the notional upper limit for “negligence” at approximately four years’ imprisonment.
 
-46     In line with _Abdul Ghani_, I am of the view that for a charge based on the “consent” limb under s 330(3A) read with s 240 of the SFA, the _full range of punishment_, up to the maximum of two years’ imprisonment may be considered by a sentencing court. In this connection, I reject the Accused’s submission that offences involving omissions, or indeed omissions to issue a prospectus, should generally be dealt with by fines.[\[note: 11\]](#Ftn_11) To do so would be to disregard the full range of prescribed sentences for the present offence, and to ignore that “consent” entails more than a mere omission. I do not, however, propose to determine whether any notional upper limits should be applied to the “connivance” or “neglect” limbs, as the case before me is not based on either of these limbs. Although I see some merit in this approach, especially with regards the “neglect limb”, the arguments were not canvassed before me on this.
+46     In line with _Abdul Ghani_, I am of the view that for a charge based on the “consent” limb under s 330(3A) read with s 240 of the SFA, the _full range of punishment_, up to the maximum of two years’ imprisonment may be considered by a sentencing court. In this connection, I reject the Accused’s submission that offences involving omissions, or indeed omissions to issue a prospectus, should generally be dealt with by fines.[^11] To do so would be to disregard the full range of prescribed sentences for the present offence, and to ignore that “consent” entails more than a mere omission. I do not, however, propose to determine whether any notional upper limits should be applied to the “connivance” or “neglect” limbs, as the case before me is not based on either of these limbs. Although I see some merit in this approach, especially with regards the “neglect limb”, the arguments were not canvassed before me on this.
 
 47     Second, I should add that while the “consent” limb is certainly the most serious limb within s 331(3A), as it involves the more culpable of the two states of _mens rea_ and the most culpable of the three forms of _actus reus_, I do not think that a custodial sentence is called for based on this factor alone. In other words, I would not impose an imprisonment term as the starting point. Ultimately, the inquiry will be a fact-sensitive one, in which factors such as those I shall set out below should be considered.
 
@@ -222,11 +223,11 @@ In other words, the court accepted in no uncertain terms that ignorance of the n
 
 ### The sentencing factors
 
-50     With the background in mind, I turn to consider the sentencing factors. The Prosecution proposed several factors to be taken into account.[\[note: 12\]](#Ftn_12) In sum, this encompassed (a) the role of the offender within the limited liability partnership and which limb (consent, connivance or neglect) the offender is charged under; (b) the offender’s mental state – whether the offence was committed knowingly (_ie_. it was a deliberate or reckless decision not to issue a prospectus) or negligently (_ie_. not knowing that a prospectus was required); (c) the nature and materiality of the information not disclosed; (d) the consequences of the offence; and (e) steps taken to mitigate the effects of the lack of a prospectus.
+50     With the background in mind, I turn to consider the sentencing factors. The Prosecution proposed several factors to be taken into account.[^12] In sum, this encompassed (a) the role of the offender within the limited liability partnership and which limb (consent, connivance or neglect) the offender is charged under; (b) the offender’s mental state – whether the offence was committed knowingly (_ie_. it was a deliberate or reckless decision not to issue a prospectus) or negligently (_ie_. not knowing that a prospectus was required); (c) the nature and materiality of the information not disclosed; (d) the consequences of the offence; and (e) steps taken to mitigate the effects of the lack of a prospectus.
 
 51     In support of these factors, the Prosecution submitted that another comparable offence, s 253(1) of the SFA, provides sentencing guidance along similar lines. Section 253(1) prohibits the publication of false or misleading statements in a prospectus accompanying an offer of securities. The legislative objective behind the offence was recognised in _Auston International Group Ltd v Public Prosecutor_ (“_Auston_”) – to enable the proper functioning of a disclosure-based regime of securities regulation by ensuring that investors are able to make informed decisions about whether to enter into investments (at \[11\]–\[13\]). The Prosecution submitted that, apart from sharing a similar objective, the prescribed punishment for both offences is the same: a fine not exceeding $150,000 or imprisonment for a term not exceeding two years or both. In _Auston_, the factors considered by the court (at \[14\]–\[18\]) were (a) the degree of falsity of the information published; (b) steps taken to remedy the false information provided; and (c) the mental state of the offender. These are three factors identified above as being relevant to the present offences.
 
-52     Indeed, the factors were not specifically challenged by the Accused. However, the Accused argued that s 253(1) offences were in fact of a more severe nature compared to s 240 offences, because “a prospectus containing a false and misleading statement is a lot worse than _no prospectus_” \[emphasis in original\]. As illustrated by _Auston_, the starting point for issuing a “false and misleading prospectus” is a fine. That being the case, the present offence “cannot possibly attract a custodial term”.[\[note: 13\]](#Ftn_13) I disagree with such a contention. It can be seen that the prescribed punishments for both offences, whether under s 240(1) or s 253(1) SFA, are the same. The legislative intent is therefore for both offences to, all things being equal, be viewed with equal severity.
+52     Indeed, the factors were not specifically challenged by the Accused. However, the Accused argued that s 253(1) offences were in fact of a more severe nature compared to s 240 offences, because “a prospectus containing a false and misleading statement is a lot worse than _no prospectus_” \[emphasis in original\]. As illustrated by _Auston_, the starting point for issuing a “false and misleading prospectus” is a fine. That being the case, the present offence “cannot possibly attract a custodial term”.[^13] I disagree with such a contention. It can be seen that the prescribed punishments for both offences, whether under s 240(1) or s 253(1) SFA, are the same. The legislative intent is therefore for both offences to, all things being equal, be viewed with equal severity.
 
 53     In my view, the inquiry as to the appropriate sentence must be a fact-specific one that considers the various factors which I set out below. As guided by the factors in _Auston_, and taking on board the Prosecution’s submissions, I consider the relevant sentencing considerations for the present offence to broadly fall into twin categories of culpability and harm. I now set out some non-exhaustive factors which constitute facets of these two main considerations.
 
@@ -258,9 +259,9 @@ In other words, the court accepted in no uncertain terms that ignorance of the n
 
 #### The Accused’s mental state
 
-58     On appeal, the Accused argued that the District Judge placed undue weight on the “recklessness” of the Accused, despite holding that the Accused was more negligent in his omission to issue a prospectus.[\[note: 14\]](#Ftn_14) In fact, the Accused argues that the District Judge should not have even made a finding of either mental state, given that the offence is one of strict liability.[\[note: 15\]](#Ftn_15) According to the Accused, as there was no _mala fides_, the imposition of any custodial sentence would be inappropriate.[\[note: 16\]](#Ftn_16)
+58     On appeal, the Accused argued that the District Judge placed undue weight on the “recklessness” of the Accused, despite holding that the Accused was more negligent in his omission to issue a prospectus.[^14] In fact, the Accused argues that the District Judge should not have even made a finding of either mental state, given that the offence is one of strict liability.[^15] According to the Accused, as there was no _mala fides_, the imposition of any custodial sentence would be inappropriate.[^16]
 
-59     On the flipside, the Prosecution submitted firstly that the lower court had given insufficient weight to the Accused’s gross recklessness in failing to “ensure that all legal requirements for offering securities were satisfied”. Second, the lower court had erred in finding that the product sold by Gold Insignia was a novel one. Third, the lower court had given undue weight to the purported steps taken by the Accused to check with the relevant authorities if all the rules and regulations had been satisfied. Fourth, the lower court had given undue weight to its finding that the Accused was not proven to have acted fraudulently.[\[note: 17\]](#Ftn_17)
+59     On the flipside, the Prosecution submitted firstly that the lower court had given insufficient weight to the Accused’s gross recklessness in failing to “ensure that all legal requirements for offering securities were satisfied”. Second, the lower court had erred in finding that the product sold by Gold Insignia was a novel one. Third, the lower court had given undue weight to the purported steps taken by the Accused to check with the relevant authorities if all the rules and regulations had been satisfied. Fourth, the lower court had given undue weight to its finding that the Accused was not proven to have acted fraudulently.[^17]
 
 60     In my judgment, in discussing the Accused’s culpability, it must be remembered that the Accused pleaded guilty to a charge brought under the “consent” limb of s 331(3A), of consenting to Gold Insignia’s offering of securities without a prospectus; that is, he knew the material facts that constituted the offence by the limited liability partnership and agreed to its conduct of the business on the basis of those facts.
 
@@ -274,7 +275,7 @@ In other words, the court accepted in no uncertain terms that ignorance of the n
 
 65     I reiterate that applying the _ignorantia juris non excusat_ principle, ignorance is irrelevant to sentencing. While the Accused could not “instinctively identify” that the offering of memberships without a prospectus was in contravention of the SFA, this is at best a neutral factor; it has no mitigating value. All that can be said of the present case is that the Accused did not _wilfully_ contravene the present provisions. On this, I do not disagree with the District Judge that there was insufficient basis to find otherwise. Given that the facts fall short of revealing a wilful contravention of the law, I leave this as a neutral factor.
 
-66     As for the Accused’s clarifications sought from the authorities, I likewise do not place much weight on them. In addition to merely going towards whether the Accused knew about the prospectus requirements or not, these enquiries in fact concerned the narrow question of whether any licensing was required in order to run a membership programme.[\[note: 18\]](#Ftn_18) The question posed to the authorities was _not_ about whether an accompanying prospectus was required in the offer of the debentures.[\[note: 19\]](#Ftn_19) There was also no evidence to show that any information regarding the structure of the membership programme as a debenture was given to the authorities. These communications therefore have little relevance to the Accused’s state of mind as to the requirement of a prospectus.
+66     As for the Accused’s clarifications sought from the authorities, I likewise do not place much weight on them. In addition to merely going towards whether the Accused knew about the prospectus requirements or not, these enquiries in fact concerned the narrow question of whether any licensing was required in order to run a membership programme.[^18] The question posed to the authorities was _not_ about whether an accompanying prospectus was required in the offer of the debentures.[^19] There was also no evidence to show that any information regarding the structure of the membership programme as a debenture was given to the authorities. These communications therefore have little relevance to the Accused’s state of mind as to the requirement of a prospectus.
 
 #### Intention or motive
 
@@ -282,7 +283,7 @@ In other words, the court accepted in no uncertain terms that ignorance of the n
 
 68     On this finding, again, I do not disagree with the District Judge. There is insufficient basis to infer that the Accused has such intent. However, the District Judge went further to find that the “requisite state of mind necessary to tip the case across the custodial threshold was absent in this case” because of the lack of any fraudulent, dishonest or ill intent. On this, I agree with the Prosecution that the District Judge had erred. The Accused is not being charged with defrauding the investing public. While the lack of fraudulent intent amounts to a lack of such an aggravating factor, this is not _ipso facto_ a mitigating factor, but is merely a neutral one. The purpose or object of the offence is not to target fraud, and I do not agree that such fraudulent intent is a necessary condition for a custodial sentence to be imposed in respect of this offence.
 
-69     That being said, as the Prosecution pointed out, the Accused drew a monthly salary of $20,000 for 11 months, and received “partial consultant fees” of $81,000 and $130,000.[\[note: 20\]](#Ftn_20) In response, the Accused argued that his receipt of such sums was not illegal,[\[note: 21\]](#Ftn_21) and that it was effectively an irrelevant consideration. I am unable to agree with the Accused. The fact of the matter is that he had personally gained a benefit of $431,000 from the scheme. The financial motivation behind the scheme is relevant. In comparison, Ray and Serene were mere salaried employees drawing $3,000 per month, and Jacinta did not receive any salary from Gold Insignia. Weight must be given to this aggravating factor, and the District Judge did not do so.
+69     That being said, as the Prosecution pointed out, the Accused drew a monthly salary of $20,000 for 11 months, and received “partial consultant fees” of $81,000 and $130,000.[^20] In response, the Accused argued that his receipt of such sums was not illegal,[^21] and that it was effectively an irrelevant consideration. I am unable to agree with the Accused. The fact of the matter is that he had personally gained a benefit of $431,000 from the scheme. The financial motivation behind the scheme is relevant. In comparison, Ray and Serene were mere salaried employees drawing $3,000 per month, and Jacinta did not receive any salary from Gold Insignia. Weight must be given to this aggravating factor, and the District Judge did not do so.
 
 #### The Accused’s role in the scheme
 
@@ -308,21 +309,21 @@ In other words, the court accepted in no uncertain terms that ignorance of the n
 
 77     The District Judge did not make a specific finding as to whether any investors suffered actual loss as a result of the offences. Instead, the District Judge found that “\[h\]undreds of investors risked losing millions of dollars” (GD at \[20\]). On appeal, the Accused argued that there was no basis for this finding.
 
-78     I first address the issue of actual loss. On the one hand, the Prosecution’s position on appeal was that the amount of loss caused to the investors cannot be shown. On the other hand, the Accused argued that no loss was caused.[\[note: 22\]](#Ftn_22) According to the Accused, the District Judge should have taken into consideration the fact that no investor complained of suffering any loss, that no loss was in fact suffered by any investor while the Accused was actively selling the product, and there was indeed no loss before the intervention of the authorities.[\[note: 23\]](#Ftn_23) I also acknowledge the Accused’s argument that any broader effect on the markets for gold or debentures was not shown to have resulted from the Accused’s offence.[\[note: 24\]](#Ftn_24)
+78     I first address the issue of actual loss. On the one hand, the Prosecution’s position on appeal was that the amount of loss caused to the investors cannot be shown. On the other hand, the Accused argued that no loss was caused.[^22] According to the Accused, the District Judge should have taken into consideration the fact that no investor complained of suffering any loss, that no loss was in fact suffered by any investor while the Accused was actively selling the product, and there was indeed no loss before the intervention of the authorities.[^23] I also acknowledge the Accused’s argument that any broader effect on the markets for gold or debentures was not shown to have resulted from the Accused’s offence.[^24]
 
-79     In my view, in the absence of any further information on this point, the lack of proven loss – whether occasioned on the investors directly or otherwise – is simply a neutral factor at the sentencing stage. I further note that even if “no \[losses were\] suffered … whilst \[the Accused\] was still actively selling the product”,[\[note: 25\]](#Ftn_25) this is of little relevance. It was largely the fresh funds brought in through active sales of the memberships which kept the scheme going. However, numerous investors were exposed to a risk of losing a substantial sum of money, and thus I turn to the issue of potential loss.
+79     In my view, in the absence of any further information on this point, the lack of proven loss – whether occasioned on the investors directly or otherwise – is simply a neutral factor at the sentencing stage. I further note that even if “no \[losses were\] suffered … whilst \[the Accused\] was still actively selling the product”,[^25] this is of little relevance. It was largely the fresh funds brought in through active sales of the memberships which kept the scheme going. However, numerous investors were exposed to a risk of losing a substantial sum of money, and thus I turn to the issue of potential loss.
 
-80     Regarding the potential loss caused, the Accused contended that the District Judge had placed undue weight on the “level of harm” posed to the investing public.[\[note: 26\]](#Ftn_26) There was no basis for finding that “hundreds of investors risked losing millions of dollars”.[\[note: 27\]](#Ftn_27) Insufficient weight was placed on the fact that each investor obtained a gold bar as security for their investment.[\[note: 28\]](#Ftn_28) The Accused went further to argue that the District Judge had failed to appreciate that the potential harm to each investor was, in fact, “zero”,[\[note: 29\]](#Ftn_29) because the investors enjoyed a possibility of a full-value refund.[\[note: 30\]](#Ftn_30)
+80     Regarding the potential loss caused, the Accused contended that the District Judge had placed undue weight on the “level of harm” posed to the investing public.[^26] There was no basis for finding that “hundreds of investors risked losing millions of dollars”.[^27] Insufficient weight was placed on the fact that each investor obtained a gold bar as security for their investment.[^28] The Accused went further to argue that the District Judge had failed to appreciate that the potential harm to each investor was, in fact, “zero”,[^29] because the investors enjoyed a possibility of a full-value refund.[^30]
 
 81     In this regard, I note the substance of the various “advisory letters” sent to members to inform them of the situation as it developed (see \[18(c)\] above):
 
-(a)     Gold Insignia ceased making pay-outs to investors as early as 4 August 2011.[\[note: 31\]](#Ftn_31) This meant that investors who joined the membership programme later were at higher risk of losing the unsecured 30% of their membership fee, having had less time to recoup that amount back through the periodic fixed pay-outs.
+(a)     Gold Insignia ceased making pay-outs to investors as early as 4 August 2011.[^31] This meant that investors who joined the membership programme later were at higher risk of losing the unsecured 30% of their membership fee, having had less time to recoup that amount back through the periodic fixed pay-outs.
 
-(b)     From August 2011 onwards, Gold Insignia only offered the third variation of the membership to new investors, entailing a 6% bi-annual pay-out (12% per annum) as compared to the previously-offered 4.5% quarterly pay-out (18% per annum). In this regard, I note that this pointed towards the unsustainability of the first two versions of the memberships, with the third version having a lower pay-out.[\[note: 32\]](#Ftn_32)
+(b)     From August 2011 onwards, Gold Insignia only offered the third variation of the membership to new investors, entailing a 6% bi-annual pay-out (12% per annum) as compared to the previously-offered 4.5% quarterly pay-out (18% per annum). In this regard, I note that this pointed towards the unsustainability of the first two versions of the memberships, with the third version having a lower pay-out.[^32]
 
-(c)     In November 2011, Gold Insignia members who wished to terminate their membership were informed that “the \[Gold Insignia\] management may not be able to deal with all requests and return all monies immediately”.[\[note: 33\]](#Ftn_33) Members were also offered two options – (a) to sign a letter of release, which absolved Gold Insignia and the member from all future obligations, and keep the gold; or (b) to participate in a “recall / redemption exercise”, which would allow Gold Insignia “to deal directly with each customer to work out a suitable solution”, but “may take some time”.[\[note: 34\]](#Ftn_34)
+(c)     In November 2011, Gold Insignia members who wished to terminate their membership were informed that “the \[Gold Insignia\] management may not be able to deal with all requests and return all monies immediately”.[^33] Members were also offered two options – (a) to sign a letter of release, which absolved Gold Insignia and the member from all future obligations, and keep the gold; or (b) to participate in a “recall / redemption exercise”, which would allow Gold Insignia “to deal directly with each customer to work out a suitable solution”, but “may take some time”.[^34]
 
-(d)     By 17 November 2011, members were instructed to sign a letter of release, which would enable them to keep their gold bars.[\[note: 35\]](#Ftn_35) If members did not sign the letter of release, they would effectively be unable to retain the gold bar.
+(d)     By 17 November 2011, members were instructed to sign a letter of release, which would enable them to keep their gold bars.[^35] If members did not sign the letter of release, they would effectively be unable to retain the gold bar.
 
 82     As for the exact sums at risk of loss, the investors did not, as rightly pointed out by the Accused, stand to lose the entire sum of the membership fee. This is because each investor was returned a portion of their investment in the form of a gold bar worth 70% of their membership fee. However, out of the $29,970,000 paid to Gold Insignia in membership fees, I accept that 30% of that amount – about $8,991,000 – was exposed to risk. This was a substantial amount. The facts above at \[81\] go to show that there was a real risk of loss of such a sum, and not a mere speculative risk. Pay-outs had ceased to investors, liquidating their investments became more difficult, culminating in investors having to sign letters of release to retain the gold bar which represented 70% of their membership fee. Further, the last two points (stated at \[81(c)\]–\[81(d)\]) in particular reveal the Accused’s error in implying that investors who had purchased their memberships were not exposed to _any_ risk because they could obtain a full refund of their membership fee. The ability to do so was in fact hindered.
 
@@ -342,19 +343,19 @@ In other words, the court accepted in no uncertain terms that ignorance of the n
 
 (b)     The District Judge should not have found that the scheme was “highly speculative”, as the memberships were not traded at wildly-varying prices, driven by the transactions of speculators.
 
-87     While the degree of speculation involved was not directly addressed, the Prosecution submitted in response that the District Judge was entitled to find that the scheme was unsustainable, and that the issue was in any event conceded by the Accused.[\[note: 36\]](#Ftn_36) The Prosecution also characterised the Gold Insignia membership offerings as a “money circulation scheme” where funds from new investors were used to pay off old investors, the offering of which (without a prospectus) was “extremely misleading”.[\[note: 37\]](#Ftn_37)
+87     While the degree of speculation involved was not directly addressed, the Prosecution submitted in response that the District Judge was entitled to find that the scheme was unsustainable, and that the issue was in any event conceded by the Accused.[^36] The Prosecution also characterised the Gold Insignia membership offerings as a “money circulation scheme” where funds from new investors were used to pay off old investors, the offering of which (without a prospectus) was “extremely misleading”.[^37]
 
 88     Addressing the factual challenges by the Accused, I first consider the facts relied on by the District Judge in making this finding, as referenced at \[20\] of the GD (footnote 10), which were as follows:
 
-(a)     After 70% of the membership fee was used to purchase the gold bar for each investor to hold on trust, only 30% was left to meet its financial obligations,[\[note: 38\]](#Ftn_38) which included:
+(a)     After 70% of the membership fee was used to purchase the gold bar for each investor to hold on trust, only 30% was left to meet its financial obligations,[^38] which included:
 
-(i)       Payment of 4.5% per quarter (18% per annum) or 6% bi-annually (12% per annum), as the case may be, to the investors, on the entire amount invested by that investor;[\[note: 39\]](#Ftn_39) and
+(i)       Payment of 4.5% per quarter (18% per annum) or 6% bi-annually (12% per annum), as the case may be, to the investors, on the entire amount invested by that investor;[^39] and
 
-(ii)       Payment of 1.3% commission, on the full price of the membership, to each independent sales consultant, for every month that a member, to whom the consultant sold a membership, stayed in the scheme.[\[note: 40\]](#Ftn_40)
+(ii)       Payment of 1.3% commission, on the full price of the membership, to each independent sales consultant, for every month that a member, to whom the consultant sold a membership, stayed in the scheme.[^40]
 
-(b)     Gold Insignia generated monies by putting the 30% remainder less $200,000 with fund managers and brokerage firms.[\[note: 41\]](#Ftn_41) On these investments, Gold Insignia had no input in how this money was invested.[\[note: 42\]](#Ftn_42)
+(b)     Gold Insignia generated monies by putting the 30% remainder less $200,000 with fund managers and brokerage firms.[^41] On these investments, Gold Insignia had no input in how this money was invested.[^42]
 
-89     The Prosecution argued that, based on just these two liabilities set out above at \[88(a)(i)\] and \[88(a)(ii)\], after a year of operations, Gold Insignia had to pay the investor approximately 18% (or 12%) in pay-outs, and about 15.6% in commissions. These liabilities amounted to 33.6% (or 27.6%, as the case may be) of the membership fees of each investor, which exceeded or would be close to exceeding the 30% which Gold Insignia retained. In other words, to meet its obligations, it had to generate 92% to 112% investment returns on the moneys it had retained. This does not even account for the operation costs of Gold Insignia, including the salaries of the Accused, Serene and Ray. Further, Gold Insignia did not engage in any innovative investment strategy in the investment of the membership fee. Instead, it sought to generate enough to meet its financial obligations through simply placing the funds with the fund managers and brokerage firms. Apart from this, Gold Insignia’s only significant source of funding was the membership fees of new investors. The sustainability of this scheme therefore was, as the Prosecution argued, “not only impossible, but highly suspect in its conception”.[\[note: 43\]](#Ftn_43)
+89     The Prosecution argued that, based on just these two liabilities set out above at \[88(a)(i)\] and \[88(a)(ii)\], after a year of operations, Gold Insignia had to pay the investor approximately 18% (or 12%) in pay-outs, and about 15.6% in commissions. These liabilities amounted to 33.6% (or 27.6%, as the case may be) of the membership fees of each investor, which exceeded or would be close to exceeding the 30% which Gold Insignia retained. In other words, to meet its obligations, it had to generate 92% to 112% investment returns on the moneys it had retained. This does not even account for the operation costs of Gold Insignia, including the salaries of the Accused, Serene and Ray. Further, Gold Insignia did not engage in any innovative investment strategy in the investment of the membership fee. Instead, it sought to generate enough to meet its financial obligations through simply placing the funds with the fund managers and brokerage firms. Apart from this, Gold Insignia’s only significant source of funding was the membership fees of new investors. The sustainability of this scheme therefore was, as the Prosecution argued, “not only impossible, but highly suspect in its conception”.[^43]
 
 90     I accept that the facts show that the Gold Insignia scheme was fraught with a great degree of risk. It would have, in all probability, been unable to meet its financial obligations owed to its members and independent sales consultants, if, after a year, the members choose to terminate their membership and exercise their right to a refund of the original membership fee. Furthermore, I note that the Accused, in the proceedings below, did not specifically challenge the Prosecution’s assertion of the scheme’s unsustainability. I therefore accept that the District Judge was entitled to find that the scheme was unsustainable, whether based on the facts or the lack of dispute on the issue.
 
@@ -398,91 +399,91 @@ With respect, _Choong Kian Haw_ should not be taken to have laid down a rigid an
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)Record of Proceedings (“ROP”), at p 427.
+[^1]: Record of Proceedings (“ROP”), at p 427.
 
-[\[note: 2\]](#Ftn_2_1)ROP, at p 468–470.
+[^2]: ROP, at p 468–470.
 
-[\[note: 3\]](#Ftn_3_1)ROP, at p 443–445, 455–466.
+[^3]: ROP, at p 443–445, 455–466.
 
-[\[note: 4\]](#Ftn_4_1)ROP, at p 435–437.
+[^4]: ROP, at p 435–437.
 
-[\[note: 5\]](#Ftn_5_1)ROP, at p 560.
+[^5]: ROP, at p 560.
 
-[\[note: 6\]](#Ftn_6_1)ROP, at p 563.
+[^6]: ROP, at p 563.
 
-[\[note: 7\]](#Ftn_7_1)Prosecution’s Petition of Appeal, at para 5.
+[^7]: Prosecution’s Petition of Appeal, at para 5.
 
-[\[note: 8\]](#Ftn_8_1)Accused’s Written Submissions (31 December 2018), at para 29.
+[^8]: Accused’s Written Submissions (31 December 2018), at para 29.
 
-[\[note: 9\]](#Ftn_9_1)ROP, at p 435, para 42.
+[^9]: ROP, at p 435, para 42.
 
-[\[note: 10\]](#Ftn_10_1)ROP, at p 283, ln 13.
+[^10]: ROP, at p 283, ln 13.
 
-[\[note: 11\]](#Ftn_11_1)Accused’s Written Submissions (15 February 2019), at paras 16.1 and 16.2.
+[^11]: Accused’s Written Submissions (15 February 2019), at paras 16.1 and 16.2.
 
-[\[note: 12\]](#Ftn_12_1)Prosecution’s Written Submissions at para 27.
+[^12]: Prosecution’s Written Submissions at para 27.
 
-[\[note: 13\]](#Ftn_13_1)Accused’s Written Submissions (10 January 2019), reply to para 22.
+[^13]: Accused’s Written Submissions (10 January 2019), reply to para 22.
 
-[\[note: 14\]](#Ftn_14_1)Accused’s Petition of Appeal, at para 2.9.
+[^14]: Accused’s Petition of Appeal, at para 2.9.
 
-[\[note: 15\]](#Ftn_15_1)Accused’s Written Submissions (31 December 2018), at para 28.
+[^15]: Accused’s Written Submissions (31 December 2018), at para 28.
 
-[\[note: 16\]](#Ftn_16_1)Accused’s Written Submissions (31 December 2018), at para 11.
+[^16]: Accused’s Written Submissions (31 December 2018), at para 11.
 
-[\[note: 17\]](#Ftn_17_1)Prosecution’s Petition of Appeal, at para 5.
+[^17]: Prosecution’s Petition of Appeal, at para 5.
 
-[\[note: 18\]](#Ftn_18_1)ROP, at p 283, ln 24–28.
+[^18]: ROP, at p 283, ln 24–28.
 
-[\[note: 19\]](#Ftn_19_1)ROP, at p 283, ln 18–20.
+[^19]: ROP, at p 283, ln 18–20.
 
-[\[note: 20\]](#Ftn_20_1)Prosecution’s Written Submissions, at para 61.
+[^20]: Prosecution’s Written Submissions, at para 61.
 
-[\[note: 21\]](#Ftn_21_1)Accused’s Written Submissions (10 January 2019), reply to para 61.
+[^21]: Accused’s Written Submissions (10 January 2019), reply to para 61.
 
-[\[note: 22\]](#Ftn_22_1)Accused’s Written Submissions (31 December 2018), para 21.
+[^22]: Accused’s Written Submissions (31 December 2018), para 21.
 
-[\[note: 23\]](#Ftn_23_1)Accused’s Petition of Appeal, paras 2.4–2.5.
+[^23]: Accused’s Petition of Appeal, paras 2.4–2.5.
 
-[\[note: 24\]](#Ftn_24_1)Accused’s Written Submissions (31 December 2018), para 11.
+[^24]: Accused’s Written Submissions (31 December 2018), para 11.
 
-[\[note: 25\]](#Ftn_25_1)Accused’s Petition of Appeal, para 2.5.
+[^25]: Accused’s Petition of Appeal, para 2.5.
 
-[\[note: 26\]](#Ftn_26_1)Accused’s Petition of Appeal para 2.1.
+[^26]: Accused’s Petition of Appeal para 2.1.
 
-[\[note: 27\]](#Ftn_27_1)Accused’s Petition of Appeal para 2.1.
+[^27]: Accused’s Petition of Appeal para 2.1.
 
-[\[note: 28\]](#Ftn_28_1)Accused’s Petition of Appeal para 2.2.
+[^28]: Accused’s Petition of Appeal para 2.2.
 
-[\[note: 29\]](#Ftn_29_1)Accused’s Written Submissions (31 December 2018), at para 29.
+[^29]: Accused’s Written Submissions (31 December 2018), at para 29.
 
-[\[note: 30\]](#Ftn_30_1)Accused’s Petition of Appeal, at para 2.11.
+[^30]: Accused’s Petition of Appeal, at para 2.11.
 
-[\[note: 31\]](#Ftn_31_1)ROP, at p 563.
+[^31]: ROP, at p 563.
 
-[\[note: 32\]](#Ftn_32_1)ROP, at p 278, ln 1–14.
+[^32]: ROP, at p 278, ln 1–14.
 
-[\[note: 33\]](#Ftn_33_1)ROP, at p 552, para 18.
+[^33]: ROP, at p 552, para 18.
 
-[\[note: 34\]](#Ftn_34_1)ROP, at p 552–553.
+[^34]: ROP, at p 552–553.
 
-[\[note: 35\]](#Ftn_35_1)ROP, at p 558, para 10.
+[^35]: ROP, at p 558, para 10.
 
-[\[note: 36\]](#Ftn_36_1)Prosecution’s Written Submissions, at para 36–43.
+[^36]: Prosecution’s Written Submissions, at para 36–43.
 
-[\[note: 37\]](#Ftn_37_1)Prosecution’s Written Submissions, at para 63.
+[^37]: Prosecution’s Written Submissions, at para 63.
 
-[\[note: 38\]](#Ftn_38_1)SOF, at para 10(a).
+[^38]: SOF, at para 10(a).
 
-[\[note: 39\]](#Ftn_39_1)SOF, at para 10(b).
+[^39]: SOF, at para 10(b).
 
-[\[note: 40\]](#Ftn_40_1)SOF, at para 29.
+[^40]: SOF, at para 29.
 
-[\[note: 41\]](#Ftn_41_1)SOF, at para 14(b).
+[^41]: SOF, at para 14(b).
 
-[\[note: 42\]](#Ftn_42_1)SOF, at para 14(b).
+[^42]: SOF, at para 14(b).
 
-[\[note: 43\]](#Ftn_43_1)Prosecution’s Written Submissions, at para 36–39.
+[^43]: Prosecution’s Written Submissions, at para 36–39.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23323-SSP.xml)

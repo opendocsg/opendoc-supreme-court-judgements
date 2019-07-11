@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # The “Yue You 902” and another matter  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Admiralty in Rem No 105 of 2016 (Registrar's Appeal No 258 of 2017, Registrar's Appeal No 259 of 2017 and Summons No 334 of 2018) and Admiralty in Rem No 115 of 2016 (Registrar's Appeal No 260 of 2017, Registrar's Appeal No 261 of 2017 and Summons No 336 of 2018)</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">24 April 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Pang Khang Chau JC</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Toh Kian Sing SC and Chen Zhida (Rajah &amp; Tann Singapore LLP) for the plaintiff; Bazul Ashhab Bin Abdul Kader, Prakasash Silvam, and Ang Kaili (Oon &amp; Bazul LLP) for the defendant.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Oversea-Chinese Banking Corporation Limited — Owner and/or Demise Charterer of the vessel "Yue You 902"</td></tr></tbody></table>
@@ -20,33 +21,33 @@ Civil Procedure – Summary judgment
 
 ## Background facts
 
-3       On 11 March 2016, FGV entered into a voyage charterparty with the Defendant to charter _Yue You 902_ for two voyages.[\[note: 1\]](#Ftn_1) The laycan for the first voyage was 10–15 April 2016 while that for the second voyage was 22–29 April 2016.
+3       On 11 March 2016, FGV entered into a voyage charterparty with the Defendant to charter _Yue You 902_ for two voyages.[^1] The laycan for the first voyage was 10–15 April 2016 while that for the second voyage was 22–29 April 2016.
 
-4       On 4 April 2016, Aavanti contracted with Ruchi Soya Industries Ltd (“Ruchi”) to sell 10,000 metric tons of refined, bleached, and deodorised palm olein (“the palm oil”) to Ruchi.[\[note: 2\]](#Ftn_2) On 5 April 2016, Aavanti contracted with FGV to purchase 10,000 metric tons of the palm oil from FGV, on “Incoterms CNF Mangalore, India”.[\[note: 3\]](#Ftn_3) The payment term for the contract between FGV and Aavanti was cash against documents.
+4       On 4 April 2016, Aavanti contracted with Ruchi Soya Industries Ltd (“Ruchi”) to sell 10,000 metric tons of refined, bleached, and deodorised palm olein (“the palm oil”) to Ruchi.[^2] On 5 April 2016, Aavanti contracted with FGV to purchase 10,000 metric tons of the palm oil from FGV, on “Incoterms CNF Mangalore, India”.[^3] The payment term for the contract between FGV and Aavanti was cash against documents.
 
-5       On 5 April 2016, the Defendant received instructions for _Yue You 902_ to transport 10,000 metric tonnes of the palm oil from Lubuk Gaung, Indonesia to Chittagong, Bangladesh.[\[note: 4\]](#Ftn_4) On 12 April 2016, the Defendant received revised instructions for the palm oil to be transported to New Mangalore, India instead.[\[note: 5\]](#Ftn_5) On 15 April 2016, _Yue You 902_ took on 9,999.964 metric tonnes of the palm oil from Lubuk Gaung, Indonesia. 14 bills of lading, LBG/NWM-01 – LBG/NWM-14, were issued on behalf of the Defendant for the palm oil.[\[note: 6\]](#Ftn_6) The bills of lading identified the shipper as PT Intibenua Perkasatama and the consignee as “To Order”. They also named New Mangolore, India as the port of delivery and Ruchi as the notify party. The bills of lading were released to FGV on 19 April 2016 following payment of freight to the Defendant.[\[note: 7\]](#Ftn_7)
+5       On 5 April 2016, the Defendant received instructions for _Yue You 902_ to transport 10,000 metric tonnes of the palm oil from Lubuk Gaung, Indonesia to Chittagong, Bangladesh.[^4] On 12 April 2016, the Defendant received revised instructions for the palm oil to be transported to New Mangalore, India instead.[^5] On 15 April 2016, _Yue You 902_ took on 9,999.964 metric tonnes of the palm oil from Lubuk Gaung, Indonesia. 14 bills of lading, LBG/NWM-01 – LBG/NWM-14, were issued on behalf of the Defendant for the palm oil.[^6] The bills of lading identified the shipper as PT Intibenua Perkasatama and the consignee as “To Order”. They also named New Mangolore, India as the port of delivery and Ruchi as the notify party. The bills of lading were released to FGV on 19 April 2016 following payment of freight to the Defendant.[^7]
 
-6       Clause 11 of the voyage charterparty between FGV and the Defendant provided that:[\[note: 8\]](#Ftn_8)
+6       Clause 11 of the voyage charterparty between FGV and the Defendant provided that:[^8]
 
 If original bills of lading are not available for presentation at discharging port(s) prior to \[vessel’s\] arrival, \[vessel\] to discharge the \[charterer’s\] entire cargo to receivers against \[charterer’s\] LOI (with text according to owner’s P\[&\]I club format) without any supporting bank guarantee.
 
-Clause 6 of the sale contract between FGV and Aavanti similarly provided that:[\[note: 9\]](#Ftn_9)
+Clause 6 of the sale contract between FGV and Aavanti similarly provided that:[^9]
 
 At discharge port, in the absence of original B/L, buyer/receiver to receive cargo by providing letter of indemnity (wording as per vessel owner’s P and I club format) with first class bank guarantee.
 
-7       On 22 April 2016, FGV issued an LOI to the Defendant, requesting the Defendant to deliver the cargo to Ruchi without production of the original bills of lading.[\[note: 10\]](#Ftn_10) On the same day, Aavanti issued a back-to-back LOI to FGV requesting FGV to deliver the cargo to Ruchi without production of the original bills of lading.[\[note: 11\]](#Ftn_11) Ruchi had, on 19 April 2016, also issued a back-to-back LOI to Aavanti requesting Aavanti to deliver the cargo to Ruchi without production of the original bills of lading.[\[note: 12\]](#Ftn_12) Thus, there was a chain of back-to-back LOIs from the ultimate buyer, Ruchi, to the sub-seller, Aavanti, and then to the ultimate seller, FGV, and finally to the Defendant shipowner.
+7       On 22 April 2016, FGV issued an LOI to the Defendant, requesting the Defendant to deliver the cargo to Ruchi without production of the original bills of lading.[^10] On the same day, Aavanti issued a back-to-back LOI to FGV requesting FGV to deliver the cargo to Ruchi without production of the original bills of lading.[^11] Ruchi had, on 19 April 2016, also issued a back-to-back LOI to Aavanti requesting Aavanti to deliver the cargo to Ruchi without production of the original bills of lading.[^12] Thus, there was a chain of back-to-back LOIs from the ultimate buyer, Ruchi, to the sub-seller, Aavanti, and then to the ultimate seller, FGV, and finally to the Defendant shipowner.
 
-8        _Yue You 902_ arrived at New Mangalore on 24 April 2016, and began discharging the cargo on 27 April 2016 at 5:05pm local time. The cargo was completely discharged on 29 April 2016 at 8:55am local time (11:25am Singapore time).[\[note: 13\]](#Ftn_13)
+8        _Yue You 902_ arrived at New Mangalore on 24 April 2016, and began discharging the cargo on 27 April 2016 at 5:05pm local time. The cargo was completely discharged on 29 April 2016 at 8:55am local time (11:25am Singapore time).[^13]
 
-9       In the meantime, OCBC received the 14 bills of lading from FGV through Maybank on 26 April 2016 under cover of a documents against payment collection schedule.[\[note: 14\]](#Ftn_14) The bills of lading were blank endorsed by FGV. On the same day, OCBC informed Aavanti of the arrival of the documents and requested payment instructions from Aavanti.[\[note: 15\]](#Ftn_15) Aavanti replied requesting financing for the entire purchase price of USD 7,454,973.16 by way of a trust receipt loan.[\[note: 16\]](#Ftn_16) On 29 April 2016, OCBC granted the loan for the sum requested with a tenor of 21 days.[\[note: 17\]](#Ftn_17) Payment of the purchase price was effected by OCBC to Maybank at 8:32pm on the same day.[\[note: 18\]](#Ftn_18) In other words, the cargo had been completely discharged from _Yue You 902_ before OCBC remitted the purchase price to Maybank.
+9       In the meantime, OCBC received the 14 bills of lading from FGV through Maybank on 26 April 2016 under cover of a documents against payment collection schedule.[^14] The bills of lading were blank endorsed by FGV. On the same day, OCBC informed Aavanti of the arrival of the documents and requested payment instructions from Aavanti.[^15] Aavanti replied requesting financing for the entire purchase price of USD 7,454,973.16 by way of a trust receipt loan.[^16] On 29 April 2016, OCBC granted the loan for the sum requested with a tenor of 21 days.[^17] Payment of the purchase price was effected by OCBC to Maybank at 8:32pm on the same day.[^18] In other words, the cargo had been completely discharged from _Yue You 902_ before OCBC remitted the purchase price to Maybank.
 
-10     It is not clear when Aavanti made the request for the trust receipt loan, although it is indisputable that it must have been made between 26 and 29 April 2016. As Aavanti’s request for the trust receipt loan contains a fax header with the timestamp “26-Apr-2016-13:18”, the Defendant suggested that the request was made on 26 April 2016.[\[note: 19\]](#Ftn_19) This is incorrect. Aavanti’s request for the loan was made by way of a handwritten annotation on OCBC’s request to Aavanti for payment instructions. The fax header with the 26 April 2016 timestamp states that it is from “OCBC TFD” and to “65382183” (which is Aavanti’s fax number – see the letterhead on Aavanti’s LOI referred to at \[7\] above). Thus the timestamp indicates the time of OCBC’s request for payment instructions, and not the time of Aavanti’s reply requesting the loan.
+10     It is not clear when Aavanti made the request for the trust receipt loan, although it is indisputable that it must have been made between 26 and 29 April 2016. As Aavanti’s request for the trust receipt loan contains a fax header with the timestamp “26-Apr-2016-13:18”, the Defendant suggested that the request was made on 26 April 2016.[^19] This is incorrect. Aavanti’s request for the loan was made by way of a handwritten annotation on OCBC’s request to Aavanti for payment instructions. The fax header with the 26 April 2016 timestamp states that it is from “OCBC TFD” and to “65382183” (which is Aavanti’s fax number – see the letterhead on Aavanti’s LOI referred to at \[7\] above). Thus the timestamp indicates the time of OCBC’s request for payment instructions, and not the time of Aavanti’s reply requesting the loan.
 
-11     At the end of the 21-day tenor, Aavanti obtained an extension of time from OCBC till 3 June 2016 but nevertheless failed to repay the loan.[\[note: 20\]](#Ftn_20) After Aavanti defaulted on the loan, OCBC proceeded on 14 June 2016 to enforce its security over the bills of lading by demanding delivery of the cargo from the Defendant, which the Defendant failed to do.[\[note: 21\]](#Ftn_21) OCBC then initiated proceedings against the Defendant pursuant to the 14 bills of lading for breach of contract of carriage, breach of contract of bailment, conversion and detinue.
+11     At the end of the 21-day tenor, Aavanti obtained an extension of time from OCBC till 3 June 2016 but nevertheless failed to repay the loan.[^20] After Aavanti defaulted on the loan, OCBC proceeded on 14 June 2016 to enforce its security over the bills of lading by demanding delivery of the cargo from the Defendant, which the Defendant failed to do.[^21] OCBC then initiated proceedings against the Defendant pursuant to the 14 bills of lading for breach of contract of carriage, breach of contract of bailment, conversion and detinue.
 
 ## Procedural history
 
-12     OCBC split its claim in respect of the 14 bills of lading across two admiralty _in rem_ actions - Admiralty _in rem_ No 105 of 2016 (“ADM 105”) in respect of the first five sets of bills of lading and Admiralty _in rem_ No 115 of 2016 (“ADM 115”) in respect of the remaining nine sets. _Yue You 902_ was arrested pursuant to ADM 105 while sister ship arrest was effected against _GNG Concord 1_ pursuant to ADM 115. Both ships were released with the Defendant furnishing security of USD 7.8 million.[\[note: 22\]](#Ftn_22)
+12     OCBC split its claim in respect of the 14 bills of lading across two admiralty _in rem_ actions - Admiralty _in rem_ No 105 of 2016 (“ADM 105”) in respect of the first five sets of bills of lading and Admiralty _in rem_ No 115 of 2016 (“ADM 115”) in respect of the remaining nine sets. _Yue You 902_ was arrested pursuant to ADM 105 while sister ship arrest was effected against _GNG Concord 1_ pursuant to ADM 115. Both ships were released with the Defendant furnishing security of USD 7.8 million.[^22]
 
 13     After OCBC applied for summary judgment in ADM 105 and ADM 115 on 8 December 2016, the Defendant:
 
@@ -118,7 +119,7 @@ The policy underlying summary judgment is twofold and comprises a private and a 
 
 ## Whether there are triable issues or some other reason for the matter to go to trial
 
-27     The Defendant raised six separate defences.[\[note: 23\]](#Ftn_23) First, it was claimed that OCBC had not acquired any right of suit under the Bills of Lading Act. The cargo had been discharged on the morning of 29 April 2016, _prior_ to the plaintiff becoming the holder of the bills of lading. As such, the Defendant argued that the bills had become spent before the plaintiff acquired the bills.
+27     The Defendant raised six separate defences.[^23] First, it was claimed that OCBC had not acquired any right of suit under the Bills of Lading Act. The cargo had been discharged on the morning of 29 April 2016, _prior_ to the plaintiff becoming the holder of the bills of lading. As such, the Defendant argued that the bills had become spent before the plaintiff acquired the bills.
 
 28     Second, it was alleged that OCBC was not a holder of the bills in good faith under s 5(2) of the Bills of Lading Act as OCBC had obtained the bills for a mere right of suit. In this regard, it was also alleged that the plaintiff had particular knowledge of Aavanti’s commercial practices and knew the cargo had already been discharged against a LOI by the time OCBC became holder of the bills.
 
@@ -130,7 +131,7 @@ The policy underlying summary judgment is twofold and comprises a private and a 
 
 32     Sixth, it was claimed that OCBC had no claim in bailment as it was not in a bailor-bailee relationship with the Defendant.
 
-33     The Defendant also argued that the measure of damages should not have been the invoiced sums, but the market value of the goods at the time and place where they should have been delivered, less the costs of delivery. It was submitted by the Defendant that expert evidence at trial was required to determine the issue.[\[note: 24\]](#Ftn_24)
+33     The Defendant also argued that the measure of damages should not have been the invoiced sums, but the market value of the goods at the time and place where they should have been delivered, less the costs of delivery. It was submitted by the Defendant that expert evidence at trial was required to determine the issue.[^24]
 
 ### Issue 1: Did the plaintiff acquire a right of suit pursuant to s 2 of the Bills of Lading Act?
 
@@ -158,7 +159,7 @@ shall (_by virtue of becoming the holder of the bill_ or, as the case may be, th
 
 36     Thus s 2(1) of COGSA 1992 provides for transfer of rights of suit to the lawful holder of a bill of lading “by virtue of \[him\] becoming the holder of the bill”. There is no longer a reference to the passing of property in the goods (as was the case with s 1 of the Bills of Lading Act 1855). Section 2(2) then carves out an exception for cases where “possession of the bill no longer gives a right (as against the carrier) to possession of the goods to which the bill relates” (_ie_, “spent” bills). Section 2(2) provides that the transfer of a spent bill does _not_ transfer any rights of suit unless ss 2(2)(_a_) or (_b_) applies. Section 2(2)(_a_) allows the transfer of a spent bill to have the effect of transferring rights of suit _if_ the transfer of the bill was pursuant to “contractual or other arrangements” made _before_ the bill became spent. Section 2(2)(_b_) concerns rejection of goods or documents by a buyer, and is not relevant for present purposes.
 
-37     The Defendant adopts a two-step submission. In the first step, the Defendant submits that, because OCBC became the holder of the bills of lading _after_ the Defendant had completed delivery of the cargo to Ruchi, the bills have become spent before OCBC became their holder.[\[note: 25\]](#Ftn_25) Consequently, s 2(2) of the Bills of Lading Act applies, and no rights of suit could be transferred to OCBC unless OCBC can bring itself within s 2(2)(_a_). In the second step, the Defendant submits that OCBC’s situation does not fall within s 2(2)(_a_) because the relevant “contractual or other arrangements” for the purpose of s 2(2)(_a_) is the granting of the loan by OCBC to Aavanti. Since this took place _after_ the Defendant had completed delivery of the cargo to Ruchi, it is not a contractual or other arrangement made before the bills became spent.[\[note: 26\]](#Ftn_26) Consequently, OCBC could not derive any rights of suit pursuant to s 2(2)(_a_) read with s 2(1).
+37     The Defendant adopts a two-step submission. In the first step, the Defendant submits that, because OCBC became the holder of the bills of lading _after_ the Defendant had completed delivery of the cargo to Ruchi, the bills have become spent before OCBC became their holder.[^25] Consequently, s 2(2) of the Bills of Lading Act applies, and no rights of suit could be transferred to OCBC unless OCBC can bring itself within s 2(2)(_a_). In the second step, the Defendant submits that OCBC’s situation does not fall within s 2(2)(_a_) because the relevant “contractual or other arrangements” for the purpose of s 2(2)(_a_) is the granting of the loan by OCBC to Aavanti. Since this took place _after_ the Defendant had completed delivery of the cargo to Ruchi, it is not a contractual or other arrangement made before the bills became spent.[^26] Consequently, OCBC could not derive any rights of suit pursuant to s 2(2)(_a_) read with s 2(1).
 
 #### Whether the bills of lading had become spent by the time OCBC became their holders
 
@@ -170,7 +171,7 @@ shall (_by virtue of becoming the holder of the bill_ or, as the case may be, th
 
 39     I will deal first with the alternative submission at \[38(b)\] above, as it raises an issue which is conceptually antecedent to that raised in the Defendant’s primary submission at \[38(a)\] above. The key to assessing the correctness of this alternative submission is the meaning to be assigned to the phrase “possession of the bill no longer gives a right (as against the carrier) to possession of the goods to which the bill relates” in s 2(2), as the meaning of that phrase determines whether s 2(2) applies or not.
 
-40     After citing a passage from The Law Commission and The Scottish Law Commission, _Rights of Suit in Respect of Carriage of Goods by Sea_ (Report, Law Com. No. 196, Scot. Law Com. No. 130, 19 March 1991) (“the Law Commission Report”) which referred to a bill of lading being incapable of transferring constructive possession of the goods once the goods have been delivered to a person entitled under the bill of lading, the Defendant submits that “it is noteworthy that the drafters of the UK COGSA 1992 chose not to limit the wording of Section 2(2) to when the cargo covered by the bill of lading was delivered to the person entitled to delivery under the bills of lading”.[\[note: 27\]](#Ftn_27)
+40     After citing a passage from The Law Commission and The Scottish Law Commission, _Rights of Suit in Respect of Carriage of Goods by Sea_ (Report, Law Com. No. 196, Scot. Law Com. No. 130, 19 March 1991) (“the Law Commission Report”) which referred to a bill of lading being incapable of transferring constructive possession of the goods once the goods have been delivered to a person entitled under the bill of lading, the Defendant submits that “it is noteworthy that the drafters of the UK COGSA 1992 chose not to limit the wording of Section 2(2) to when the cargo covered by the bill of lading was delivered to the person entitled to delivery under the bills of lading”.[^27]
 
 41     The Defendant then suggested that:
 
@@ -310,7 +311,7 @@ While the point at (b) above had been doubted in works like _Carver_ (para 6-036
 
 ##### (3)   Whether FGV was a person entitled to delivery under the bill of lading
 
-75     I turn now to the Defendant’s primary submission, at \[38(a)\] above, that FGV was a person entitled to delivery under the bill of lading. The Defendant submitted that:[\[note: 28\]](#Ftn_28)
+75     I turn now to the Defendant’s primary submission, at \[38(a)\] above, that FGV was a person entitled to delivery under the bill of lading. The Defendant submitted that:[^28]
 
 (a)     at the time the cargo was being discharged, the bills of lading were in OCBC’s custody but, as the purchase price had not yet been paid, neither OCBC nor Aavanti could be regarded as the holder of the bills of lading;
 
@@ -326,7 +327,7 @@ While the point at (b) above had been doubted in works like _Carver_ (para 6-036
 
 79     Support for this view is found in _The Erin Schulte_ (CA). In that case, Moore-Bick LJ held that the buyer’s bank became holder of the bill of lading only when it eventually made payment under the letter of credit on 7 July 2010 (at \[56\]), and not when the bill of lading was initially presented to it by the seller’s bank on 4 June 2010. Moore-Bick LJ then noted (at \[57\]) that, after the buyer’s bank informed on 9 June 2010 that it considered the shipping documents to be non-compliant with the letter of credit, the buyer was entitled to demand the return of the bill of lading for the purpose of taking delivery of the cargo from the carrier. Instead, the buyer chose to issue a LOI to the carrier for the carrier to discharge the cargo without bill of lading (while leaving the bill of lading with the buyer’s bank). As noted at \[60\] above, Moore-Bick LJ’s view is that discharge of the cargo under such circumstances did _not_ cause the bill of lading to be spent.
 
-80     Furthermore, any claim that FGV was acting as lawful holder of the bills of lading when it gave instructions concerning delivery is inconsistent with the plain meaning of the relevant documents. FGV’s delivery instructions to the Defendant is contained in its LOI to the Defendant dated 22 April 2016. It reads:[\[note: 29\]](#Ftn_29)
+80     Furthermore, any claim that FGV was acting as lawful holder of the bills of lading when it gave instructions concerning delivery is inconsistent with the plain meaning of the relevant documents. FGV’s delivery instructions to the Defendant is contained in its LOI to the Defendant dated 22 April 2016. It reads:[^29]
 
 The above cargo was shipped on the above ship by the above shipper and consigned to the above consignee for delivery at the port NEW MANGALORE, INDIA but the bill of lading has not arrived and we, FGV TRADING SDN BHD, hereby request you to deliver the said cargo to RUCHI SOYA INDUSTRIES LIMITED … without production of the original bill of lading.
 
@@ -336,7 +337,7 @@ In consideration of your complying with our above request, we hereby agree as fo
 
 …
 
-81     The draft LOI was accompanied by an email on 18 April 2016 from AC Tankers Services Pte Ltd (“AC Tankers”), which the Defendant accepted were FGV’s brokers.[\[note: 30\]](#Ftn_30) Significantly, AC Tankers’ representative emailed the Defendant stating “draft LOI for delivery or cargo _without OBL_ at New Mangalore for your approval” (emphasis added).[\[note: 31\]](#Ftn_31) The delivery instructions from FGV assumed that delivery ought legally to have been made against the original bill of lading, but explained that the bill of lading had not arrived, thereby giving rise to the need for FGV to give the carrier an indemnity to deliver without presentation of the bill of lading. This is not the language used by a party claiming to be entitled to delivery under the bill of lading as lawful holder. Instead, it is language used by a party who recognised that it was not, at the material time, a person entitled to delivery under the bill of lading. Were it otherwise, FGV’s delivery instructions would have simply asserted that FGV, as lawful holder of the bill of lading, was demanding delivery against presentation of the bills of lading. As noted in _Carver_, the practice of delivery against LOI is “based on the assumption that in law delivery can be claimed, and can be claimed only, by the holder of the bill” (at para 6-009).
+81     The draft LOI was accompanied by an email on 18 April 2016 from AC Tankers Services Pte Ltd (“AC Tankers”), which the Defendant accepted were FGV’s brokers.[^30] Significantly, AC Tankers’ representative emailed the Defendant stating “draft LOI for delivery or cargo _without OBL_ at New Mangalore for your approval” (emphasis added).[^31] The delivery instructions from FGV assumed that delivery ought legally to have been made against the original bill of lading, but explained that the bill of lading had not arrived, thereby giving rise to the need for FGV to give the carrier an indemnity to deliver without presentation of the bill of lading. This is not the language used by a party claiming to be entitled to delivery under the bill of lading as lawful holder. Instead, it is language used by a party who recognised that it was not, at the material time, a person entitled to delivery under the bill of lading. Were it otherwise, FGV’s delivery instructions would have simply asserted that FGV, as lawful holder of the bill of lading, was demanding delivery against presentation of the bills of lading. As noted in _Carver_, the practice of delivery against LOI is “based on the assumption that in law delivery can be claimed, and can be claimed only, by the holder of the bill” (at para 6-009).
 
 82     In the final analysis, it does not matter that, at the material time, neither OCBC nor Aavanti had yet become persons entitled to delivery under the bill of lading. The fact that OCBC had not yet become entitled to delivery under the bill does not necessarily mean that FGV continued to remain a person entitled. Whether FGV was entitled to delivery under the bill of lading would depend on (a) whether the bill was endorsed to it or, alternatively, was blank endorsed, and (b) whether it had possession of the bill of lading such that it was in a position to present the bill of lading to the carrier in exchange for delivery of the cargo. FGV did not meet criterion (b) at the material time.
 
@@ -390,9 +391,9 @@ Moore-Bick LJ then went on to conclude that the payment (and thus acceptance of 
 
 ##### (2)   Application to the facts
 
-92     Turning to the facts of the present case, OCBC submits that, assuming s 2(2) applies, the relevant “transaction” would be Aavanti’s request for and OCBC’s grant of a trust receipt loan while the relevant “contractual or other arrangements” would be the facility agreement between OCBC and Aavanti. It was pursuant to the facility agreement (made in 2014 and amended in 2015) that Aavanti sought the loan and OCBC granted it.[\[note: 32\]](#Ftn_32)
+92     Turning to the facts of the present case, OCBC submits that, assuming s 2(2) applies, the relevant “transaction” would be Aavanti’s request for and OCBC’s grant of a trust receipt loan while the relevant “contractual or other arrangements” would be the facility agreement between OCBC and Aavanti. It was pursuant to the facility agreement (made in 2014 and amended in 2015) that Aavanti sought the loan and OCBC granted it.[^32]
 
-93     The Defendant submits that the “contractual or other arrangement” pursuant to which the bills of lading were transferred to OCBC was the trust receipt loan itself. This was because, under the facility agreement, OCBC retained the discretion whether to grant the loan, and was not obliged to grant loans to Aavanti on demand. Thus the facility agreement, by itself, did not give rise to a contractual entitlement for OCBC to call for the bills of lading. It was only pursuant to the trust receipt loan that OCBC’s entitlement to the bills arose.[\[note: 33\]](#Ftn_33)
+93     The Defendant submits that the “contractual or other arrangement” pursuant to which the bills of lading were transferred to OCBC was the trust receipt loan itself. This was because, under the facility agreement, OCBC retained the discretion whether to grant the loan, and was not obliged to grant loans to Aavanti on demand. Thus the facility agreement, by itself, did not give rise to a contractual entitlement for OCBC to call for the bills of lading. It was only pursuant to the trust receipt loan that OCBC’s entitlement to the bills arose.[^33]
 
 94     OCBC’s submission finds support in _BNP Paribas_, which similarly involved a buyer’s bank who became holder of the bills of lading as pledgee. Ang J held that, if s2(2) applied, the facility agreement between the buyer’s bank and the buyer would constitute the relevant “contractual or other arrangement” (at \[31\]). On the other hand, the Defendant’s submission harks back to the approach suggested in _The David Agmashenebeli_ of asking whether the transfer of the bill of lading was “provided for” or “called for” by the “contractual or other arrangement” (see \[89\] above). But this approach is no longer good law in the light of the decision in _Erin Schulte_ (CA). For the foregoing reasons, I would accept OCBC’s submission and follow _BNP Paribas_ in holding that the relevant “contractual or other arrangement” is the facility agreement. It is undeniable that the request and grant of the trust receipt loan were made pursuant to the facility agreement.
 
@@ -430,7 +431,7 @@ Although it could be argued that in view of lack of definition in COGSA, 1992, a
 
 102    This passage from _The Aegean Sea_ was cited with approval by the Singapore Court of Appeal in _UCO Bank v Golden Shore Transportation Pte Ltd_ (“_UCO Bank_”) where the Court of Appeal, at \[39\], held that “good faith” in s 5 of the Bills of Lading Act connotes “honest conduct”. The Court of Appeal added, also at \[39\], that it did not see “why more should be read into the provision than its plain meaning”. The Court of Appeal further commented, at \[40\], that “\[i\]t is obviously to preclude the case where possession is obtained unlawfully, or by other improper means, that s 5(2) prescribes that the person (be he the named consignee or an indorsee) must become the holder ‘in good faith’.”
 
-103    The Defendant seized upon the Court of Appeal’s reference to “other improper means” at \[40\] of _UCO Bank_ to argue that the Court of Appeal did not intend, by its remarks at \[39\] to confine the meaning of “good faith” _only_ to honest conduct.[\[note: 34\]](#Ftn_34) The Defendant therefore submitted that the scope of “good faith” could be developed incrementally by the courts, including to consider whether it is contrary to good faith for a holder to take possession of bills of lading to obtain a bare right of suit against a carrier without any real interest in the goods under the bills of lading.[\[note: 35\]](#Ftn_35)
+103    The Defendant seized upon the Court of Appeal’s reference to “other improper means” at \[40\] of _UCO Bank_ to argue that the Court of Appeal did not intend, by its remarks at \[39\] to confine the meaning of “good faith” _only_ to honest conduct.[^34] The Defendant therefore submitted that the scope of “good faith” could be developed incrementally by the courts, including to consider whether it is contrary to good faith for a holder to take possession of bills of lading to obtain a bare right of suit against a carrier without any real interest in the goods under the bills of lading.[^35]
 
 104    I do not accept the Defendant’s submission. First, given the bill of lading’s status as a document of title used in international sales, the transfer of which could in law transfer the property in the underlying goods or the right to possess those goods, I agree fully with Thomas J that the meaning of “good faith” in the Bills of Lading Act should take reference from its meaning in the law of sale of goods. In this regard, I would note that s 47(2) of the Sale of Goods Act (Cap 393, 1999 Rev Ed) (“SOGA”) also contains a specific provision dealing with the transfer of a document of title to a person “who takes it in good faith and for valuable consideration”. There is therefore much to be said for aligning the meaning of the term “good faith” in the Bills of Lading Act with the meaning which that term would bear in s 47(2) of SOGA.
 
@@ -450,17 +451,17 @@ There is therefore neither reason nor justification to broaden the scope of the 
 
 109    The Defendant contends that OCBC was not a holder of the bills of lading in good faith because OCBC knew that the cargo had been discharged before it agreed to extend the loan to Aavanti. The Defendant based this factual allegation on two sources of information.
 
-110    The first source of information is an affidavit filed on behalf of Aavanti in support of its application in Originating Summons 658 of 2016 (“OS 658”) for leave to convene a meeting of creditors to consider a scheme of arrangement pursuant to s 210 of the Companies Act (Cap 50, 2006 Rev Ed).[\[note: 36\]](#Ftn_36) In the said affidavit, Aavanti alleged that it was part of its usual course of business to obtain delivery of shipped cargo to Ruchi on the basis of LOIs, without bills of lading.[\[note: 37\]](#Ftn_37) The affidavit further alleged that Aavanti’s institutional lenders, such as OCBC, were “aware of and acquiesced to” this practice.[\[note: 38\]](#Ftn_38)
+110    The first source of information is an affidavit filed on behalf of Aavanti in support of its application in Originating Summons 658 of 2016 (“OS 658”) for leave to convene a meeting of creditors to consider a scheme of arrangement pursuant to s 210 of the Companies Act (Cap 50, 2006 Rev Ed).[^36] In the said affidavit, Aavanti alleged that it was part of its usual course of business to obtain delivery of shipped cargo to Ruchi on the basis of LOIs, without bills of lading.[^37] The affidavit further alleged that Aavanti’s institutional lenders, such as OCBC, were “aware of and acquiesced to” this practice.[^38]
 
-111    The second source of information is the evidence of a banking expert filed by the Defendant. According to the expert’s resume, he spent almost his entire career working for an Indian bank (including at its branches in Singapore, Malaysia and London).[\[note: 39\]](#Ftn_39) In other words, this expert had no direct knowledge of OCBC’s operations and was attempting to give his opinion concerning the banking industry generally.[\[note: 40\]](#Ftn_40) The expert suggested that:[\[note: 41\]](#Ftn_41)
+111    The second source of information is the evidence of a banking expert filed by the Defendant. According to the expert’s resume, he spent almost his entire career working for an Indian bank (including at its branches in Singapore, Malaysia and London).[^39] In other words, this expert had no direct knowledge of OCBC’s operations and was attempting to give his opinion concerning the banking industry generally.[^40] The expert suggested that:[^41]
 
 (a)     OCBC would, from its dealings with Aavanti, have knowledge of (i) how its customer Aavanti conducts its business, (ii) the commodities industry in which Aavanti trades, and (iii) the shipping cycle of the commodities in which Aavanti trades; and
 
 (b)     from such knowledge, “OCBC would have been aware that Aavanti’s commercial arrangement with their buyers would require the discharge of the Cargo without the production of BLs”.
 
-The expert also suggested that OCBC would have performed a due diligence check with the International Maritime Bureau (“IMB”) of the International Chamber of Commerce to ascertain whether _Yue You 902_ had arrived at the port of discharge before granting the trust receipt loan. The expert further opined that he “would have expected OCBC to enquire with Aavanti, after receiving Aavanti’s request for the Trust Receipt, on the status of the Cargo such as whether the Cargo has been discharged …”.[\[note: 42\]](#Ftn_42)
+The expert also suggested that OCBC would have performed a due diligence check with the International Maritime Bureau (“IMB”) of the International Chamber of Commerce to ascertain whether _Yue You 902_ had arrived at the port of discharge before granting the trust receipt loan. The expert further opined that he “would have expected OCBC to enquire with Aavanti, after receiving Aavanti’s request for the Trust Receipt, on the status of the Cargo such as whether the Cargo has been discharged …”.[^42]
 
-112    OCBC objected to the Defendant’s reliance, by way of notice of intention to refer, on the affidavit filed by Aavanti in OS 658. OCBC submits that a notice of intention to refer applies only to affidavits filed previously in the same proceedings and not to affidavits filed in other proceedings.[\[note: 43\]](#Ftn_43) While I find OCBC’s objection cogent, it is not necessary (for the reasons given below) for me to rule on that objection. The statement in Aavanti’s affidavit, even if admitted as evidence in these proceedings, is a bare assertion. Aavanti claimed in the affidavit that it had conveyed its practice of securing discharge of cargo by LOI to the institutional lenders “via correspondence or at face-to-face meetings” but failed to exhibit any such correspondence.[\[note: 44\]](#Ftn_44) More importantly, even though Aavanti’s affidavit specifically mentioned the two ship arrests made in the present proceedings,[\[note: 45\]](#Ftn_45) Aavanti did not allege that OCBC had actual knowledge that _Yue You 902_ had discharged the cargo before OCBC decided to grant the loan in respect of the cargo. In other words, Aavanti’s affidavit contains no evidence of OCBC’s actual knowledge concerning when the cargo on _Yue You 902_ was discharged.
+112    OCBC objected to the Defendant’s reliance, by way of notice of intention to refer, on the affidavit filed by Aavanti in OS 658. OCBC submits that a notice of intention to refer applies only to affidavits filed previously in the same proceedings and not to affidavits filed in other proceedings.[^43] While I find OCBC’s objection cogent, it is not necessary (for the reasons given below) for me to rule on that objection. The statement in Aavanti’s affidavit, even if admitted as evidence in these proceedings, is a bare assertion. Aavanti claimed in the affidavit that it had conveyed its practice of securing discharge of cargo by LOI to the institutional lenders “via correspondence or at face-to-face meetings” but failed to exhibit any such correspondence.[^44] More importantly, even though Aavanti’s affidavit specifically mentioned the two ship arrests made in the present proceedings,[^45] Aavanti did not allege that OCBC had actual knowledge that _Yue You 902_ had discharged the cargo before OCBC decided to grant the loan in respect of the cargo. In other words, Aavanti’s affidavit contains no evidence of OCBC’s actual knowledge concerning when the cargo on _Yue You 902_ was discharged.
 
 113    As for the expert opinion, I find it largely speculative since it is not grounded on actual evidence concerning how OCBC operates. At most, the expert opinion stands for the propositions that OCBC would have general knowledge that LOIs may be used in the trade of certain commodities involving short voyages and that OCBC would have the ability, had it decided to do so, to find out whether the cargo has been discharged (by asking either IMB or Aavanti). Again, there is no allegation that OCBC _actually_ knew that the cargo had already been discharged.
 
@@ -468,19 +469,19 @@ The expert also suggested that OCBC would have performed a due diligence check w
 
 115    First, this is not a case of OCBC obtaining the bills of lading by theft, fraud or deception. OCBC provided valuable consideration (in the form of the loan to Aavanti) in return for a security interest in the bills of lading. Secondly, OCBC received the bills of lading from the seller who sent it through banking channels. This is good indication that the bills could not have been spent bills in OCBC’s hands, even if the cargo were to be discharged and delivered by the carrier while the bills were in OCBC’s possession. This is because any such delivery would not be delivery to a person entitled to delivery under the bills of lading (since any person receiving such delivery would, at the time of delivery, not be in possession of the bills). This is to be contrasted with the situation where a bank receives the bill of lading directly from the buyer (and not from the seller through the banking chain). In that situation, there could be a risk that the buyer may have already obtained delivery of the cargo with the bills of lading, thereby causing it to be spent, before attempting to pledge it with the bank. Therefore, as far as OCBC was concerned, the bills of lading remained, by all appearances, effective and valid documents of title.
 
-116    Thirdly, Aavanti did not simply ask for a loan from OCBC. It asked specifically for a _trust receipt_ loan. The exact words used by Aavanti was “Kindly grant us TR for USD 7454973.16”.[\[note: 46\]](#Ftn_46) In respect of trust receipt loans, _Benjamin’s Sale of Goods_ (Sweet & Maxwell, 10th Ed, 2017) explained (at para 18-286):
+116    Thirdly, Aavanti did not simply ask for a loan from OCBC. It asked specifically for a _trust receipt_ loan. The exact words used by Aavanti was “Kindly grant us TR for USD 7454973.16”.[^46] In respect of trust receipt loans, _Benjamin’s Sale of Goods_ (Sweet & Maxwell, 10th Ed, 2017) explained (at para 18-286):
 
 Where bills of ladings are held, generally by a bank, as security for an advance, it is often necessary for the debtor (often a buyer of the goods) to sell the goods in order to obtain the funds required to repay the advance. This need may be satisfied, and the interests of the bank to a large extent protected, by the use of trust receipts. These documents are by no means uniform in content, but their essential features are as follows. They provide for the release by the bank of the bills of lading to the debtor as trustee for the bank, and authorise him to sell the documents or the goods on behalf of the bank. The debtor, for his part, undertakes to hold the goods and their proceeds in trust for the bank, and to remit the proceeds to the bank, at least up to the amount of the advance.
 
 Thus, when Aavanti requested a trust receipt loan, the request constituted a proposal to pledge the bills of lading to OCBC as security for the loan as well as an indication that Aavanti planned to obtain physical delivery of the bills of lading from OCBC against a trust receipt in order to transfer the same to its sub-buyer. This amounts to a representation by Aavanti to OCBC that the bills of lading remained documents which could be meaningfully pledged as security for the loan.
 
-117    The undisputed facts therefore demonstrate that OCBC’s granting of the loan in return for a security interest over the bills of lading constitutes honest conduct. In fact, the Defendant did not dispute that OCBC had acted honestly. That explains why Defendant had submitted that the requirement of “good faith” in s 5(2) ought to be given a broader meaning than “honest conduct”.[\[note: 47\]](#Ftn_47)
+117    The undisputed facts therefore demonstrate that OCBC’s granting of the loan in return for a security interest over the bills of lading constitutes honest conduct. In fact, the Defendant did not dispute that OCBC had acted honestly. That explains why Defendant had submitted that the requirement of “good faith” in s 5(2) ought to be given a broader meaning than “honest conduct”.[^47]
 
 118    I therefore hold that the Defendant has failed to raise a triable issue on whether OCBC was a lawful holder of the bills of lading.
 
 ### Issue 3: Whether the plaintiff consented to the carrier discharging the cargo without presentation of the bills of lading?
 
-119    The Defendant submits that, by granting the loan to Aavanti with the knowledge that the cargo would be or had been delivered against a LOI without presentation of bills of lading, OCBC had consented to the discharge of the cargo without production of the bills of lading, and that such consent afforded the Defendant a valid defence against OCBC’s claim.[\[note: 48\]](#Ftn_48)
+119    The Defendant submits that, by granting the loan to Aavanti with the knowledge that the cargo would be or had been delivered against a LOI without presentation of bills of lading, OCBC had consented to the discharge of the cargo without production of the bills of lading, and that such consent afforded the Defendant a valid defence against OCBC’s claim.[^48]
 
 120    The Defendant was not able to cite any authority where such a defence had succeeded. However, it pointed to _BNP Paribas_ and _The Stone Gemini_ \[1999\] 2 Lloyd’s Rep 255 as examples where the defence of consent was rejected by the court after a full trial, and submitted that the defence of consent ought to be explored at trial and the issue was not suitable for disposal in summary judgment proceedings. This submission ignores those cases where the defence of consent was disposed of at the summary judgment stage – examples include _The Pacific Vigorous_, _Star Line Traders Limited v Transpac Container System Limited_ \[2009\] HKCU 1355, _Kai Min Fashion (HK) Ltd v Fond Express Logistics Ltd_ \[2012\] HKCU 1982, and _Synehon (Xiamen) Trading Co Ltd v American Logistics Ltd_ \[2009\] HKCU 1000.
 
@@ -496,11 +497,11 @@ In _Nederlandsche Handel-Maatschappij v Strathlorne Steamship Company_ (1931) 39
 
 122    In the present case, the Defendant was not able to point to anything said or done by OCBC which could have induced the Defendant to conclude that OCBC had consented to the delivery of the cargo without bill of lading. In fact, the Defendant accepts that there were no communications between OCBC and the Defendant prior to the discharge of the cargo. More importantly, the Defendant’s submission is that OCBC’s consent was expressed through the grant of the loan. Since it is common ground that the loan was granted only after the discharge of cargo was completed, there could have been no _prior consent_ by OCBC to the discharge of the cargo.
 
-123    Nor could OCBC’s grant of the trust receipt loan be construed as _ex post facto_ consent to, or ratification of, the misdelivery. OCBC’s decision to grant a trust receipt loan (as opposed to other types of loan) and take the bills of lading as security is clearly inconsistent with any intention to waive its contractual rights of suit against the Defendant under the bills of lading. Subsequent to the granting of the loan, nothing was said or done by OCBC which could be construed as ratification of the misdelivery or waiver of OCBC’s rights of suit. When Aavanti defaulted on the loan, OCBC promptly claimed against the Defendant under the bills of lading. Instead of telling OCBC that it had no claim because it had consented to the misdelivery and therefore waived its rights of suit, the Defendant’s reaction to OCBC’s claim on 14 June 2016 was to immediately institute its own claim on 17 June 2016 against FGV under the LOI.[\[note: 49\]](#Ftn_49) Quite clearly, the Defendant discharged the cargo because it believed that its potential liability under the bills of lading for misdelivery was covered by the LOI and not because it believed that it no longer had liabilities under the bills of lading due to any perceived consent on OCBC’s part.
+123    Nor could OCBC’s grant of the trust receipt loan be construed as _ex post facto_ consent to, or ratification of, the misdelivery. OCBC’s decision to grant a trust receipt loan (as opposed to other types of loan) and take the bills of lading as security is clearly inconsistent with any intention to waive its contractual rights of suit against the Defendant under the bills of lading. Subsequent to the granting of the loan, nothing was said or done by OCBC which could be construed as ratification of the misdelivery or waiver of OCBC’s rights of suit. When Aavanti defaulted on the loan, OCBC promptly claimed against the Defendant under the bills of lading. Instead of telling OCBC that it had no claim because it had consented to the misdelivery and therefore waived its rights of suit, the Defendant’s reaction to OCBC’s claim on 14 June 2016 was to immediately institute its own claim on 17 June 2016 against FGV under the LOI.[^49] Quite clearly, the Defendant discharged the cargo because it believed that its potential liability under the bills of lading for misdelivery was covered by the LOI and not because it believed that it no longer had liabilities under the bills of lading due to any perceived consent on OCBC’s part.
 
 ### Issue 4: Whether the plaintiff is estopped from asserting a misdelivery claim
 
-124    The Defendant submitted on both estoppel by acquiescence and estoppel by convention.[\[note: 50\]](#Ftn_50)
+124    The Defendant submitted on both estoppel by acquiescence and estoppel by convention.[^50]
 
 #### Estoppel by acquiescence
 
@@ -520,13 +521,13 @@ _Nasaka Industries (S) Pte Ltd v Aspac Aircargo Services Pte Ltd_ (“_Nasaka_�
 
 126    It was plain that the Defendant’s defence on this front could not get off the ground. The first _Nasaka_ requirement necessitated the Defendant to have been mistaken about its entitlement to deliver the goods to Ruchi without the presentation of the bills of lading: see _Nasaka_ at \[71\]. And yet the Defendant’s delivery against a LOI is precisely an acknowledgement and acceptance that they are _not_ entitled to deliver without presentation of the bills, and might become liable for misdelivery otherwise. The Defendant’s acceptance of and reliance on FGV’s LOI demonstrates that it was not mistaken about it legal rights.
 
-127    I did not view it as necessary to dwell on the other requirements, but I will mention that it was equally clear that the Defendant could not succeed on the fifth requirement either. Here, the Defendant claimed that OCBC had deliberately refrained from communicating with Aavanti or the Defendant to put the Defendant on notice that it should not discharge the cargo without production of the bills of lading.[\[note: 51\]](#Ftn_51) As _Nasaka_ at \[80\] makes clear, for this requirement to hold, there must be something which OCBC’s silence did to cause the Defendant to undertake some action it would not otherwise have done. On the facts of the present case, the Defendant had the benefit of FGV’s LOI to cover the Defendant for potential liabilities under the bills of lading for misdelivery. Such potential liabilities were expressly referred to in clauses 1, 2 and 3 of the LOI.[\[note: 52\]](#Ftn_52) Delivery of the cargo without the bills of lading was therefore an act undertaken by the Defendant in full knowledge that it would be exposed to liabilities under the bills of lading. Defendant was induced to undertake such exposure because of the coverage provided by the LOI (and which it in fact sought to enforce) and not because of OCBC’s silence.
+127    I did not view it as necessary to dwell on the other requirements, but I will mention that it was equally clear that the Defendant could not succeed on the fifth requirement either. Here, the Defendant claimed that OCBC had deliberately refrained from communicating with Aavanti or the Defendant to put the Defendant on notice that it should not discharge the cargo without production of the bills of lading.[^51] As _Nasaka_ at \[80\] makes clear, for this requirement to hold, there must be something which OCBC’s silence did to cause the Defendant to undertake some action it would not otherwise have done. On the facts of the present case, the Defendant had the benefit of FGV’s LOI to cover the Defendant for potential liabilities under the bills of lading for misdelivery. Such potential liabilities were expressly referred to in clauses 1, 2 and 3 of the LOI.[^52] Delivery of the cargo without the bills of lading was therefore an act undertaken by the Defendant in full knowledge that it would be exposed to liabilities under the bills of lading. Defendant was induced to undertake such exposure because of the coverage provided by the LOI (and which it in fact sought to enforce) and not because of OCBC’s silence.
 
 128    To put it another way, the Defendant well knew what its legal obligations under the bills of lading were and OCBC had no duty to reach out to the Defendant to remind the Defendant to comply with the well-established legal obligations of a carrier under a bill of lading. Those obligations existed before OCBC came into the picture and OCBC’s silence did nothing to take them away.
 
 #### Estoppel by convention
 
-129    In relation to the defence of estoppel by convention, the Defendant claimed that both OCBC and Aavanti (on its behalf and on behalf of the Defendant) had contemplated the fact that the cargo would be discharged without the presentation of the bills of lading.[\[note: 53\]](#Ftn_53)
+129    In relation to the defence of estoppel by convention, the Defendant claimed that both OCBC and Aavanti (on its behalf and on behalf of the Defendant) had contemplated the fact that the cargo would be discharged without the presentation of the bills of lading.[^53]
 
 130    The requirements for estoppel by convention were clarified in _Travista Development Pte Ltd v Tan Kim Swee Augustine and others_ (“_Travista_”) at \[31\]:
 
@@ -536,7 +537,7 @@ _Nasaka Industries (S) Pte Ltd v Aspac Aircargo Services Pte Ltd_ (“_Nasaka_�
 
 (c)     It must be unjust or unconscionable to allow the parties (or one of them) to go back on that assumption.
 
-131    The Defendant conceded that their arguments were seeking to extend the law on estoppel by convention.[\[note: 54\]](#Ftn_54) Nevertheless, I would simply comment on the second _Travista_ requirement.
+131    The Defendant conceded that their arguments were seeking to extend the law on estoppel by convention.[^54] Nevertheless, I would simply comment on the second _Travista_ requirement.
 
 132    I could not see how OCBC could have shared a common assumption with the Defendant since they did not communicate with each other prior to the cargo being discharged. Nor, for reasons I have mentioned (at \[127\] above) did I consider OCBC to have acquiesced to any assumption made by the Defendant.
 
@@ -550,7 +551,7 @@ _Nasaka Industries (S) Pte Ltd v Aspac Aircargo Services Pte Ltd_ (“_Nasaka_�
 
 ### Whether there are some other reasons for the matter to go to trial
 
-136    The Defendant submitted, alternatively, there is “some other reason” for a trial as most of the facts and evidence relevant to whether OCBC had actual knowledge of the discharge of the cargo are under OCBC’s control.[\[note: 55\]](#Ftn_55) In support of this submission, the Defendant cited the case of _Concentrate Engineering Pte Ltd v United Malayan Banking Corp Bhd_ (“_Concentrate Engineering_”).
+136    The Defendant submitted, alternatively, there is “some other reason” for a trial as most of the facts and evidence relevant to whether OCBC had actual knowledge of the discharge of the cargo are under OCBC’s control.[^55] In support of this submission, the Defendant cited the case of _Concentrate Engineering Pte Ltd v United Malayan Banking Corp Bhd_ (“_Concentrate Engineering_”).
 
 137    In _Concentrate Engineering_, the plaintiff company sued the defendant bank for making wrongful payment from the plaintiff’s bank account against forged cheques. The manner in which the cheques were forged gave rise to a strong suspicion that the forgery was committed by a person within the plaintiff’s organisation (at \[10\]–\[11\]). Noting that “O 14 is for the plain and obvious and not for the devious and crafty” (at \[19\]), the court observed (at \[18\]):
 
@@ -570,7 +571,7 @@ The court therefore granted unconditional leave to defend because “the circums
 
 Finally, Mr Reyes submitted that even if I was against him, I should only order judgment for damages to be assessed because there is no evidence as to the value of the goods at the date of conversion. There is only the invoice value a little time before. I reject this argument as the defendants have not said a word on quantum, and if the market in zinc oxide had in fact fallen between the date of the contract and the date of misdelivery, I would expect them to file evidence on this point. The invoice value of the goods is, in my judgment, as good an indication of the value of the goods at the time of misdelivery as a court could reasonably expect.
 
-141    In the present case, there are two relevant indications of the value of the goods. In the sale contract between Aavanti and Ruchi dated 4 April 2016, the price of the palm oil was agreed at USD 776.50 per metric ton.[\[note: 56\]](#Ftn_56) In the sale contract between FGV and Aavanti dated 5 April 2016, the agreed price was USD 745.50 per metric ton.[\[note: 57\]](#Ftn_57) Since the place of delivery was Ruchi’s storage facilities at New Magalore, India,[\[note: 58\]](#Ftn_58) the price in the Aavanti-Ruchi contract is probably the more relevant and accurate indicia of the value of the goods at the place of delivery. However, OCBC is only claiming based on the (lower) price in the FGV-Aavanti contract, as the loan given by OCBC to Aavanti was for the amount which FGV had invoiced Aavanti. The Defendant has provided no evidence that there was any significant drop in the market price of the palm oil during the three weeks between the conclusion of the sale contracts and the discharge of the palm oil at New Mangalore.
+141    In the present case, there are two relevant indications of the value of the goods. In the sale contract between Aavanti and Ruchi dated 4 April 2016, the price of the palm oil was agreed at USD 776.50 per metric ton.[^56] In the sale contract between FGV and Aavanti dated 5 April 2016, the agreed price was USD 745.50 per metric ton.[^57] Since the place of delivery was Ruchi’s storage facilities at New Magalore, India,[^58] the price in the Aavanti-Ruchi contract is probably the more relevant and accurate indicia of the value of the goods at the place of delivery. However, OCBC is only claiming based on the (lower) price in the FGV-Aavanti contract, as the loan given by OCBC to Aavanti was for the amount which FGV had invoiced Aavanti. The Defendant has provided no evidence that there was any significant drop in the market price of the palm oil during the three weeks between the conclusion of the sale contracts and the discharge of the palm oil at New Mangalore.
 
 142    I would therefore assess the quantum of damages as the invoice value of the cargo in the sale between FGV and Aavanti, which is USD 7,454,973.16.
 
@@ -582,121 +583,121 @@ Finally, Mr Reyes submitted that even if I was against him, I should only order 
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)Qiu Jingbo’s 6th affidavit (“6QJB”), dated 1 August 2017, at para 9 and p 37A.
+[^1]: Qiu Jingbo’s 6th affidavit (“6QJB”), dated 1 August 2017, at para 9 and p 37A.
 
-[\[note: 2\]](#Ftn_2_1)Shweta Arora’s 1st Affidavit (1SA), dated 25 August 2018, at pp 9–10.
+[^2]: Shweta Arora’s 1st Affidavit (1SA), dated 25 August 2018, at pp 9–10.
 
-[\[note: 3\]](#Ftn_3_1)Khandelwal Rajiv’s 1st Affidavit (“1KR”) (filed in HC/OS 658/2016) dated 29 June 2016, at pp 394–396.
+[^3]: Khandelwal Rajiv’s 1st Affidavit (“1KR”) (filed in HC/OS 658/2016) dated 29 June 2016, at pp 394–396.
 
-[\[note: 4\]](#Ftn_4_1)6QJB, at p 43.
+[^4]: 6QJB, at p 43.
 
-[\[note: 5\]](#Ftn_5_1)6QJB, at p 46.
+[^5]: 6QJB, at p 46.
 
-[\[note: 6\]](#Ftn_6_1)Saswira bin Ismail’s 2nd affidavit (“2SBI”), dated 8 December 2016, at pp 9–92.
+[^6]: Saswira bin Ismail’s 2nd affidavit (“2SBI”), dated 8 December 2016, at pp 9–92.
 
-[\[note: 7\]](#Ftn_7_1)6QJB, at para 14.
+[^7]: 6QJB, at para 14.
 
-[\[note: 8\]](#Ftn_8_1)6QB, at p 39.
+[^8]: 6QB, at p 39.
 
-[\[note: 9\]](#Ftn_9_1)1KR, at pp 394–396.
+[^9]: 1KR, at pp 394–396.
 
-[\[note: 10\]](#Ftn_10_1)6QJB, at pp 55–56.
+[^10]: 6QJB, at pp 55–56.
 
-[\[note: 11\]](#Ftn_11_1)6QJB, at p 59
+[^11]: 6QJB, at p 59
 
-[\[note: 12\]](#Ftn_12_1)1KR, at pp 373–374.
+[^12]: 1KR, at pp 373–374.
 
-[\[note: 13\]](#Ftn_13_1)6QJB, at p 64
+[^13]: 6QJB, at p 64
 
-[\[note: 14\]](#Ftn_14_1)2SBI, at p 93.
+[^14]: 2SBI, at p 93.
 
-[\[note: 15\]](#Ftn_15_1)2SBI, at p 133.
+[^15]: 2SBI, at p 133.
 
-[\[note: 16\]](#Ftn_16_1)2SBI, at para 9 and p 135.
+[^16]: 2SBI, at para 9 and p 135.
 
-[\[note: 17\]](#Ftn_17_1)2SBI, at p 137.
+[^17]: 2SBI, at p 137.
 
-[\[note: 18\]](#Ftn_18_1)1SA, at p 22.
+[^18]: 1SA, at p 22.
 
-[\[note: 19\]](#Ftn_19_1)Defendant’s Submissions Order 14 Application for Summary Judgment (“Defendant’s Submissions”), dated 25 January 2018, at p 7.
+[^19]: Defendant’s Submissions Order 14 Application for Summary Judgment (“Defendant’s Submissions”), dated 25 January 2018, at p 7.
 
-[\[note: 20\]](#Ftn_20_1)Saswira bin Ismail’s 6th Affidavit ("6SBI”), dated 25 August 2018, at para 15.
+[^20]: Saswira bin Ismail’s 6th Affidavit ("6SBI”), dated 25 August 2018, at para 15.
 
-[\[note: 21\]](#Ftn_21_1)2SBI, at p 180.
+[^21]: 2SBI, at p 180.
 
-[\[note: 22\]](#Ftn_22_1)6QJB, at para 3.3.
+[^22]: 6QJB, at para 3.3.
 
-[\[note: 23\]](#Ftn_23_1)Defendant’s Submissions, at paras 11–13.
+[^23]: Defendant’s Submissions, at paras 11–13.
 
-[\[note: 24\]](#Ftn_24_1)Defendant’s Submissions, at paras 161–162.
+[^24]: Defendant’s Submissions, at paras 161–162.
 
-[\[note: 25\]](#Ftn_25_1)Defendant’s Submissions, at para 15.
+[^25]: Defendant’s Submissions, at para 15.
 
-[\[note: 26\]](#Ftn_26_1)Defendant’s Submissions, at para 23.
+[^26]: Defendant’s Submissions, at para 23.
 
-[\[note: 27\]](#Ftn_27_1)Defendant’s Submissions, at para 30.
+[^27]: Defendant’s Submissions, at para 30.
 
-[\[note: 28\]](#Ftn_28_1)Defendant’s Submissions, at paras 23, 27–28.
+[^28]: Defendant’s Submissions, at paras 23, 27–28.
 
-[\[note: 29\]](#Ftn_29_1)6QB, at pp 55–56.
+[^29]: 6QB, at pp 55–56.
 
-[\[note: 30\]](#Ftn_30_1)6QB, at para 10.
+[^30]: 6QB, at para 10.
 
-[\[note: 31\]](#Ftn_31_1)6QB, at p 54.
+[^31]: 6QB, at p 54.
 
-[\[note: 32\]](#Ftn_32_1)Plaintiffs’/Respondents’ Submissions for HC/RA 258/2017 and HC/RA 259/2018 (“Plaintiff’s Submissions”), dated 23 January 2018, at para 96.
+[^32]: Plaintiffs’/Respondents’ Submissions for HC/RA 258/2017 and HC/RA 259/2018 (“Plaintiff’s Submissions”), dated 23 January 2018, at para 96.
 
-[\[note: 33\]](#Ftn_33_1)Defendant’s Submissions, at para 39.
+[^33]: Defendant’s Submissions, at para 39.
 
-[\[note: 34\]](#Ftn_34_1)Defendant’s Submissions, at para 49
+[^34]: Defendant’s Submissions, at para 49
 
-[\[note: 35\]](#Ftn_35_1)Defendant’s Submissions, at paras 50–52.
+[^35]: Defendant’s Submissions, at paras 50–52.
 
-[\[note: 36\]](#Ftn_36_1)1KR, dated 29 June 2016, filed in OS 658.
+[^36]: 1KR, dated 29 June 2016, filed in OS 658.
 
-[\[note: 37\]](#Ftn_37_1)1KR, at para 70.
+[^37]: 1KR, at para 70.
 
-[\[note: 38\]](#Ftn_38_1)1KR, at para 71.
+[^38]: 1KR, at para 71.
 
-[\[note: 39\]](#Ftn_39_1)Pradip Kumar Tagore’s 1st Affidavit (“1PKT”), dated 7 August 2017, at Exh PKT-1.
+[^39]: Pradip Kumar Tagore’s 1st Affidavit (“1PKT”), dated 7 August 2017, at Exh PKT-1.
 
-[\[note: 40\]](#Ftn_40_1)1PKT, at para 3.
+[^40]: 1PKT, at para 3.
 
-[\[note: 41\]](#Ftn_41_1)1PKT, at paras 14–17.
+[^41]: 1PKT, at paras 14–17.
 
-[\[note: 42\]](#Ftn_42_1)1PKT, at paras 23–24.
+[^42]: 1PKT, at paras 23–24.
 
-[\[note: 43\]](#Ftn_43_1)Plaintiff’s Submissions, at para 64.
+[^43]: Plaintiff’s Submissions, at para 64.
 
-[\[note: 44\]](#Ftn_44_1)1KR, at para 71.
+[^44]: 1KR, at para 71.
 
-[\[note: 45\]](#Ftn_45_1)1KR, at para 74.
+[^45]: 1KR, at para 74.
 
-[\[note: 46\]](#Ftn_46_1)2SBI, at p 135.
+[^46]: 2SBI, at p 135.
 
-[\[note: 47\]](#Ftn_47_1)Defendant’s Submissions, at paras 50–51.
+[^47]: Defendant’s Submissions, at paras 50–51.
 
-[\[note: 48\]](#Ftn_48_1)Defendant’s Submissions, at paras 99–100.
+[^48]: Defendant’s Submissions, at paras 99–100.
 
-[\[note: 49\]](#Ftn_49_1)Plaintiffs’/Respondents’ Bundle of Key Documents, at Tab 10.
+[^49]: Plaintiffs’/Respondents’ Bundle of Key Documents, at Tab 10.
 
-[\[note: 50\]](#Ftn_50_1)Defendant’s Submissions, at paras 119 and 133.
+[^50]: Defendant’s Submissions, at paras 119 and 133.
 
-[\[note: 51\]](#Ftn_51_1)Defendant’s Submissions, at para 126.
+[^51]: Defendant’s Submissions, at para 126.
 
-[\[note: 52\]](#Ftn_52_1)6QJB, at p 56.
+[^52]: 6QJB, at p 56.
 
-[\[note: 53\]](#Ftn_53_1)Defendant’s Submissions, at paras 129–130.
+[^53]: Defendant’s Submissions, at paras 129–130.
 
-[\[note: 54\]](#Ftn_54_1)Defendant’s Submissions, at para 133.
+[^54]: Defendant’s Submissions, at para 133.
 
-[\[note: 55\]](#Ftn_55_1)Defendant’s Submissions, at para 115.
+[^55]: Defendant’s Submissions, at para 115.
 
-[\[note: 56\]](#Ftn_56_1)1SA, at p 9.
+[^56]: 1SA, at p 9.
 
-[\[note: 57\]](#Ftn_57_1)1KR, at pp 394–396.
+[^57]: 1KR, at pp 394–396.
 
-[\[note: 58\]](#Ftn_58_1)6QJB, at para 16.
+[^58]: 6QJB, at para 16.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23078-SSP.xml)

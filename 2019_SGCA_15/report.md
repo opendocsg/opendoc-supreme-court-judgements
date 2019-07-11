@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # Geok Hong Co Pte Ltd _v_ Koh Ai Gek and others  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Civil Appeal No 174 of 2017</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">28 February 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Court of Appeal</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Steven Chong JA; Belinda Ang Saw Ean J; Quentin Loh J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Lee Eng Beng SC and John Seow (Rajah &amp; Tann Singapore LLP) for the appellant; The respondents in person.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Geok Hong Company Private Limited — Koh Ai Gek — Tan Weiyang (Executor and trustee of the estate of Tan Tiong Luu, Deceased) — Tan Wei Chieh — Tan Wei Hsien — Tan Weiyang — Zhang Zhaoling</td></tr></tbody></table>
@@ -16,9 +17,9 @@ Equity – Defences – Laches
 
 ## Introduction
 
-1       How does one prove an alleged oral representation when both the representor and representee have passed away before the commencement of the action? Can proof be achieved by way of a statutory declaration executed by the representee days before he passed away? This was one of the core issues before the court below. In spite of the observation of “a number of difficulties in deciding on the credibility of \[the\] claim”, the court found that the oral representation was proved on a balance of probabilities.[\[note: 1\]](#Ftn_1)
+1       How does one prove an alleged oral representation when both the representor and representee have passed away before the commencement of the action? Can proof be achieved by way of a statutory declaration executed by the representee days before he passed away? This was one of the core issues before the court below. In spite of the observation of “a number of difficulties in deciding on the credibility of \[the\] claim”, the court found that the oral representation was proved on a balance of probabilities.[^1]
 
-2       The appellant, Geok Hong Company Pte Ltd (“the Company”), is and has been at all material times the legal owner of a property at 17 Glasgow Road (“the Property”). The respondents, who were the plaintiffs in the underlying suit, contend that the estate of the representee has the beneficial ownership of the Property by way of a common intention constructive trust or, in the alternative, by way of proprietary estoppel.[\[note: 2\]](#Ftn_2)
+2       The appellant, Geok Hong Company Pte Ltd (“the Company”), is and has been at all material times the legal owner of a property at 17 Glasgow Road (“the Property”). The respondents, who were the plaintiffs in the underlying suit, contend that the estate of the representee has the beneficial ownership of the Property by way of a common intention constructive trust or, in the alternative, by way of proprietary estoppel.[^2]
 
 3       The factual foundation of the respondents’ case largely rests on an alleged oral representation made by Mr Tan Geok Chuan (“TGC”) to his son, Mr Tan Tiong Luu (“TTL”) some _40 years ago_ that the Property would be purchased for TTL but that the Property would be registered in the Company’s name to ensure that TTL’s wife would not get any share in the event of a divorce. However, the unique feature of this case is that both TGC and TTL had passed away by the time the action commenced. Further, no one witnessed the alleged oral representation and significantly, neither TGC nor TTL ever informed any other member of the family of this arrangement during their respective lifetime. The respondents are TTL’s wife and children, who have resided in the Property and regarded it as their family home for the past 40 years.
 
@@ -30,7 +31,7 @@ Equity – Defences – Laches
 
 ### The parties
 
-6       The Company is a family-owned company. Since its incorporation, it has been managed by TGC, and subsequently by his children. TGC’s family members are as follows:[\[note: 3\]](#Ftn_3)
+6       The Company is a family-owned company. Since its incorporation, it has been managed by TGC, and subsequently by his children. TGC’s family members are as follows:[^3]
 
 (a)     Mdm Ong Bah Chee (“OBC”), TGC’s wife.
 
@@ -60,25 +61,25 @@ Equity – Defences – Laches
 
 (d)     Mr Tan Wei Hsien (“TWH”), TTL’s eldest son and the fourth respondent.
 
-(e)     Ms Zhang Zhaoling (“ZZL”), TTL’s daughter-in-law and TWC’s wife.[\[note: 4\]](#Ftn_4)
+(e)     Ms Zhang Zhaoling (“ZZL”), TTL’s daughter-in-law and TWC’s wife.[^4]
 
 ### Background to the dispute
 
-8       The Company was founded in 1960 by TGC and two of his nephews. By 1968, TGC bought out his nephews’ shares in the Company and installed his three eldest sons, TTW, TTH, and TTL as directors of the Company. TGC was at all material times the managing director of the Company.[\[note: 5\]](#Ftn_5)
+8       The Company was founded in 1960 by TGC and two of his nephews. By 1968, TGC bought out his nephews’ shares in the Company and installed his three eldest sons, TTW, TTH, and TTL as directors of the Company. TGC was at all material times the managing director of the Company.[^5]
 
-9       It is undisputed that in 1963, TGC and OBC purchased a property at Surin Lane, but decided to have it registered in TTW’s name.[\[note: 6\]](#Ftn_6) At that time, TTW was a university student.[\[note: 7\]](#Ftn_7) The Surin Lane property was TGC’s family home where TGC resided with his wife and children, until some of his children eventually moved out.
+9       It is undisputed that in 1963, TGC and OBC purchased a property at Surin Lane, but decided to have it registered in TTW’s name.[^6] At that time, TTW was a university student.[^7] The Surin Lane property was TGC’s family home where TGC resided with his wife and children, until some of his children eventually moved out.
 
-10     TTW subsequently got married on 21 March 1972. About four months later, the Company passed a resolution to acquire the Surin Lane property from TTW.[\[note: 8\]](#Ftn_8) The respondents contend that TGC decided to transfer the title of the Surin Lane property from TTW to the Company so that TTW’s wife would not be able to get any share in the property in the event of a divorce.[\[note: 9\]](#Ftn_9)
+10     TTW subsequently got married on 21 March 1972. About four months later, the Company passed a resolution to acquire the Surin Lane property from TTW.[^8] The respondents contend that TGC decided to transfer the title of the Surin Lane property from TTW to the Company so that TTW’s wife would not be able to get any share in the property in the event of a divorce.[^9]
 
-11     TTL married KAG on 14 October 1975. 11 days later, on 25 October 1975, the Company passed a resolution to purchase the Property at $110,000.[\[note: 10\]](#Ftn_10) A 10 percent deposit for the purchase price was paid two days after the resolution was passed.[\[note: 11\]](#Ftn_11) While the parties are in dispute as to the identity of the person who actually paid this deposit, either TGC or the Company, there is no assertion that TTL had paid _any_ portion of the purchase price.
+11     TTL married KAG on 14 October 1975. 11 days later, on 25 October 1975, the Company passed a resolution to purchase the Property at $110,000.[^10] A 10 percent deposit for the purchase price was paid two days after the resolution was passed.[^11] While the parties are in dispute as to the identity of the person who actually paid this deposit, either TGC or the Company, there is no assertion that TTL had paid _any_ portion of the purchase price.
 
-12     Legal completion of the Property took place on 7 February 1977.[\[note: 12\]](#Ftn_12) The purchase of the Property was reflected in the Company’s financial statement for the year ending 31 December 1976, in the form of a $114,058 increase in the value of fixed assets under “Freehold land and building” over the previous year.[\[note: 13\]](#Ftn_13)
+12     Legal completion of the Property took place on 7 February 1977.[^12] The purchase of the Property was reflected in the Company’s financial statement for the year ending 31 December 1976, in the form of a $114,058 increase in the value of fixed assets under “Freehold land and building” over the previous year.[^13]
 
-13     The respondents contend that when TTL was given an offer to purchase the Property, he discussed it with TGC. TGC then told TTL that he would buy the Property for him, since TTL would be staying behind to handle the business while his siblings were studying abroad[\[note: 14\]](#Ftn_14) and that TGC had instructed TTL to register the Property in the name of the Company, so that KAG would not be able to get a share in the event of a divorce (“the oral representation”).[\[note: 15\]](#Ftn_15) The Company denies that the oral representation was ever made.
+13     The respondents contend that when TTL was given an offer to purchase the Property, he discussed it with TGC. TGC then told TTL that he would buy the Property for him, since TTL would be staying behind to handle the business while his siblings were studying abroad[^14] and that TGC had instructed TTL to register the Property in the name of the Company, so that KAG would not be able to get a share in the event of a divorce (“the oral representation”).[^15] The Company denies that the oral representation was ever made.
 
-14     In or around 1980, TTL and KAG applied for a Housing Development Board (“HDB”) flat, for which they paid a deposit of $9,200 from KAG’s Central Provident Fund (“CPF”) account.[\[note: 16\]](#Ftn_16) KAG explained that they had not initially planned on buying a HDB flat. However, when TTL told her that the Property would be mortgaged to obtain financing for the Company, she felt it would be safer to have their own home in case the mortgagee bank foreclosed on the Property.[\[note: 17\]](#Ftn_17) Eventually, TTL and KAG withdrew their application for the HDB flat on 21 April 1986 by way of a letter to the HDB.[\[note: 18\]](#Ftn_18) The respondents contend that TTL and KAG did so because TGC had told them not to buy the flat, since they already owned a house _ie_, the Property.[\[note: 19\]](#Ftn_19) The Company disputes this, and contends instead that they had withdrawn their application either because they were short of funds, or because they did not like the location of the HDB flat.[\[note: 20\]](#Ftn_20) It is undisputed that TTL and KAG never purchased any residential property of their own thereafter.
+14     In or around 1980, TTL and KAG applied for a Housing Development Board (“HDB”) flat, for which they paid a deposit of $9,200 from KAG’s Central Provident Fund (“CPF”) account.[^16] KAG explained that they had not initially planned on buying a HDB flat. However, when TTL told her that the Property would be mortgaged to obtain financing for the Company, she felt it would be safer to have their own home in case the mortgagee bank foreclosed on the Property.[^17] Eventually, TTL and KAG withdrew their application for the HDB flat on 21 April 1986 by way of a letter to the HDB.[^18] The respondents contend that TTL and KAG did so because TGC had told them not to buy the flat, since they already owned a house _ie_, the Property.[^19] The Company disputes this, and contends instead that they had withdrawn their application either because they were short of funds, or because they did not like the location of the HDB flat.[^20] It is undisputed that TTL and KAG never purchased any residential property of their own thereafter.
 
-15     TTL and KAG used the Property as their family home from at least 1977 to the present.[\[note: 21\]](#Ftn_21) However, in the court below, the parties disputed whether TTL and his family had _exclusive use_ of the Property. In particular, the Company contended that:[\[note: 22\]](#Ftn_22)
+15     TTL and KAG used the Property as their family home from at least 1977 to the present.[^21] However, in the court below, the parties disputed whether TTL and his family had _exclusive use_ of the Property. In particular, the Company contended that:[^22]
 
 (a)     TTW and his wife also resided at the Property;
 
@@ -88,11 +89,11 @@ Equity – Defences – Laches
 
 The Company no longer disputes the exclusive use of the Property by TTL and his family.
 
-16     Over the years, various renovation and repair works were undertaken on the Property, such as the installation of sewerage pipes and the conversion of the garage into an additional bedroom. The respondents contend that the majority of these works were undertaken at TTL and KAG’s own expense.[\[note: 23\]](#Ftn_23) The Company denies this, and contends instead that it had paid for most of the renovation, maintenance, and repair works.[\[note: 24\]](#Ftn_24) However, it is undisputed that the property tax levied on the Property, as well as the annual premiums for the insurance policies for the Property were paid for by the Company[\[note: 25\]](#Ftn_25) while TTL paid for the outgoings, such as the utilities.
+16     Over the years, various renovation and repair works were undertaken on the Property, such as the installation of sewerage pipes and the conversion of the garage into an additional bedroom. The respondents contend that the majority of these works were undertaken at TTL and KAG’s own expense.[^23] The Company denies this, and contends instead that it had paid for most of the renovation, maintenance, and repair works.[^24] However, it is undisputed that the property tax levied on the Property, as well as the annual premiums for the insurance policies for the Property were paid for by the Company[^25] while TTL paid for the outgoings, such as the utilities.
 
-17     Sometime in 2012, TTL contracted liver cancer. He made a will on 10 October 2012 bequeathing the Property absolutely to KAG, referring to it in the will as “my house”.[\[note: 26\]](#Ftn_26)
+17     Sometime in 2012, TTL contracted liver cancer. He made a will on 10 October 2012 bequeathing the Property absolutely to KAG, referring to it in the will as “my house”.[^26]
 
-18     The respondents allege that 20 days later, on 30 October 2012, TTL became agitated after a visit by some of his siblings. He told his children that his siblings had refused to “return” the Property to him, and instead told him to “go and die quickly”.[\[note: 27\]](#Ftn_27) None of the respondents witnessed this altercation. He then informed his children that he wished to make a statement before a commissioner for oaths and lodge a caveat against the Property. The SD was made later that evening outlining TTL’s version of events concerning the Property. Notably, the incident with his siblings which allegedly prompted TTL to make the SD was not referred to in the SD. The material parts of the SD are as follows:[\[note: 28\]](#Ftn_28)
+18     The respondents allege that 20 days later, on 30 October 2012, TTL became agitated after a visit by some of his siblings. He told his children that his siblings had refused to “return” the Property to him, and instead told him to “go and die quickly”.[^27] None of the respondents witnessed this altercation. He then informed his children that he wished to make a statement before a commissioner for oaths and lodge a caveat against the Property. The SD was made later that evening outlining TTL’s version of events concerning the Property. Notably, the incident with his siblings which allegedly prompted TTL to make the SD was not referred to in the SD. The material parts of the SD are as follows:[^28]
 
 2.    My dad bought a house at 3 Surin Lane Singapore for my eldest brother, Tan Tiong Wah, the property was registered under his name, Tan Tiong Wah (“hereinafter called the “eldest brother”). My whole family (i.e. my parents and 6 siblings, my eldest brother, his wife and myself) were staying at 3 Surin Lane Singapore. My eldest brother was not having a good relationship with his wife at that time. My dad then told me to transfer the house at 3 Surin Lane under company’s name, GEOK HONG (hereinafter called “the Company”) so that in the event of a divorce, my eldest brother’s wife would not get to share the property. I followed my dad’s instructions and transferred the house at 3 Surin Lane under the company’s name with my eldest brother’s consent. One of my the \[_sic_\] other brother, Tan Tiong Heng, got a HDB flat at Toa Payoh after he was married and moved out of the house at 3 Surin Lane.
 
@@ -102,11 +103,11 @@ The Company no longer disputes the exclusive use of the Property by TTL and his 
 
 19     At the trial, the Company disputed the authenticity of the SD and the truth of its contents though authenticity is no longer challenged on appeal.
 
-20     KAG subsequently commenced the underlying suit against the Company for a declaration that the Property was vested in equity in TTL’s estate, and for an order that the Property be conveyed to TTL’s estate.[\[note: 29\]](#Ftn_29) The Company in turn applied to join TWY, TWH, TWC and ZZL as parties to the suit in their personal capacities, and filed a counterclaim against the respondents to deliver vacant possession of the Property.[\[note: 30\]](#Ftn_30) Initially there was an issue relating to KAG’s standing as a beneficiary to sue on behalf of TTL’s estate. That issue was resolved when TWY, as TTL’s executor, was added as a party.
+20     KAG subsequently commenced the underlying suit against the Company for a declaration that the Property was vested in equity in TTL’s estate, and for an order that the Property be conveyed to TTL’s estate.[^29] The Company in turn applied to join TWY, TWH, TWC and ZZL as parties to the suit in their personal capacities, and filed a counterclaim against the respondents to deliver vacant possession of the Property.[^30] Initially there was an issue relating to KAG’s standing as a beneficiary to sue on behalf of TTL’s estate. That issue was resolved when TWY, as TTL’s executor, was added as a party.
 
 ## Decision below
 
-21     The Judge found that the respondents had proven their case on the common intention constructive trust on a balance of probabilities, and their alternative claim in proprietary estoppel.[\[note: 31\]](#Ftn_31) Consequently, he made a declaration that the Property was held by the Company on trust for TTL and ordered the Company to convey the Property to TTL’s estate.[\[note: 32\]](#Ftn_32) Several of the findings made by the Judge are no longer live issues in this appeal and we will therefore only focus on the Judge’s key findings of fact that remain relevant for the appeal.
+21     The Judge found that the respondents had proven their case on the common intention constructive trust on a balance of probabilities, and their alternative claim in proprietary estoppel.[^31] Consequently, he made a declaration that the Property was held by the Company on trust for TTL and ordered the Company to convey the Property to TTL’s estate.[^32] Several of the findings made by the Judge are no longer live issues in this appeal and we will therefore only focus on the Judge’s key findings of fact that remain relevant for the appeal.
 
 ### The Judge’s key findings of fact
 
@@ -116,35 +117,35 @@ The Company no longer disputes the exclusive use of the Property by TTL and his 
 
 #### Renovations and improvements to the Property were done at TTL and KAG’s expense
 
-23     After conducting a site visit of the Property with the parties, during which KAG and TTH explained their respective recollections concerning the works, the Judge found that the renovation works were done and paid for by TTL and/or KAG even though no evidence of such payments were adduced by the respondents.[\[note: 33\]](#Ftn_33) These works included, _inter alia_, the installation of flushing toilets in the house and the laying of sewerage pipes to connect the Property to the public sewerage system, building of new rooms in the house, and the installation and replacement of electrical wiring and lighting.[\[note: 34\]](#Ftn_34)
+23     After conducting a site visit of the Property with the parties, during which KAG and TTH explained their respective recollections concerning the works, the Judge found that the renovation works were done and paid for by TTL and/or KAG even though no evidence of such payments were adduced by the respondents.[^33] These works included, _inter alia_, the installation of flushing toilets in the house and the laying of sewerage pipes to connect the Property to the public sewerage system, building of new rooms in the house, and the installation and replacement of electrical wiring and lighting.[^34]
 
 #### TTL and KAG withdrew their HDB application because TGC told them that they already had a house
 
-24     The Judge found that TTL had most likely withdrawn his HDB flat application because TGC had led him to believe that the Property was his.[\[note: 35\]](#Ftn_35) He found that KAG’s testimony had withstood cross-examination as she was able to give details of what TGC had said to her with regard to the withdrawal of the HDB flat application, and to describe TGC’s expression and demeanour during the conversation and to recall the fear and obedience that TGC elicited from her.[\[note: 36\]](#Ftn_36) The Judge also found that KAG’s evidence was corroborated by the chronology of events. TTH testified that TTL made his HDB flat application around 1980.[\[note: 37\]](#Ftn_37) This was consistent with KAG’s CPF statement which showed a “housing withdrawal” of $9,200 in 1980.[\[note: 38\]](#Ftn_38) This also coincided with the date of the valuation report for the intended mortgage of the Property _ie_, 3 December 1980 which prompted TTL and KAG to consider applying for the HDB flat.[\[note: 39\]](#Ftn_39)
+24     The Judge found that TTL had most likely withdrawn his HDB flat application because TGC had led him to believe that the Property was his.[^35] He found that KAG’s testimony had withstood cross-examination as she was able to give details of what TGC had said to her with regard to the withdrawal of the HDB flat application, and to describe TGC’s expression and demeanour during the conversation and to recall the fear and obedience that TGC elicited from her.[^36] The Judge also found that KAG’s evidence was corroborated by the chronology of events. TTH testified that TTL made his HDB flat application around 1980.[^37] This was consistent with KAG’s CPF statement which showed a “housing withdrawal” of $9,200 in 1980.[^38] This also coincided with the date of the valuation report for the intended mortgage of the Property _ie_, 3 December 1980 which prompted TTL and KAG to consider applying for the HDB flat.[^39]
 
 #### TGC decided to transfer title to the Surin Lane property from TTW to the Company so that TTW’s wife would not have a share in it should the marriage break down
 
-25     The Judge found that TGC had decided to transfer the legal title to the Surin Lane property from TTW to the Company so as to prevent TTW’s wife from claiming a share in the property in the event of a divorce. He rejected the Company’s contention that TGC had transferred the legal title because the Company was not a suitable vehicle to hold the title to the family’s property when it was still co-owned by TGC’s nephews but became suitable when the Company became wholly owned by TGC and his sons.[\[note: 40\]](#Ftn_40) He found that the timing of the transfer did not support the Company’s contention as the transfer was made four years after the Company became wholly owned by TGC and his family but less than five months after TTW’s wedding.
+25     The Judge found that TGC had decided to transfer the legal title to the Surin Lane property from TTW to the Company so as to prevent TTW’s wife from claiming a share in the property in the event of a divorce. He rejected the Company’s contention that TGC had transferred the legal title because the Company was not a suitable vehicle to hold the title to the family’s property when it was still co-owned by TGC’s nephews but became suitable when the Company became wholly owned by TGC and his sons.[^40] He found that the timing of the transfer did not support the Company’s contention as the transfer was made four years after the Company became wholly owned by TGC and his family but less than five months after TTW’s wedding.
 
 #### The funds for the purchase price of the Property had come from TGC
 
-26     Some attention was spent in the court below as to whether the 10 percent deposit and the balance 90 percent purchase price for the Property were paid by the Company _or_ TGC. The Judge was not able to conclusively determine the source of the funds for the 10 percent deposit[\[note: 41\]](#Ftn_41) owing primarily to an “unsolved mystery”[\[note: 42\]](#Ftn_42) over a suspicious annotation on the receipt for the deposit. But as regards the remaining 90 percent of the purchase price, the Judge found that it was likely to have come from TGC and not the Company. This finding is disputed by the Company on appeal. However, in our view, this finding does not have any material bearing on the key issue in the appeal. After all, it is common ground that TTL did not make _any_ financial contribution towards the purchase price for the Property. Even though the Judge might have found that the purchase price was probably paid by TGC, it is not clear whether he did so for his own benefit or on behalf of the Company given that the Property was admittedly registered in the Company’s name on TGC’s instructions. In any event, while the finding that it was probably TGC who had paid the purchase price (assuming he did so in his personal capacity and not as a director of the Company) may have a bearing as to whether a resulting trust had arisen in favour of TGC, we note that no such claim was mounted by any party. Ultimately, it has no real significance to the question of whether the oral representation was made to TTL. We should add that the issue as to who funded the purchase price did not expressly arise from the pleadings. It is therefore unnecessary to deal with this finding in any detail beyond these observations.
+26     Some attention was spent in the court below as to whether the 10 percent deposit and the balance 90 percent purchase price for the Property were paid by the Company _or_ TGC. The Judge was not able to conclusively determine the source of the funds for the 10 percent deposit[^41] owing primarily to an “unsolved mystery”[^42] over a suspicious annotation on the receipt for the deposit. But as regards the remaining 90 percent of the purchase price, the Judge found that it was likely to have come from TGC and not the Company. This finding is disputed by the Company on appeal. However, in our view, this finding does not have any material bearing on the key issue in the appeal. After all, it is common ground that TTL did not make _any_ financial contribution towards the purchase price for the Property. Even though the Judge might have found that the purchase price was probably paid by TGC, it is not clear whether he did so for his own benefit or on behalf of the Company given that the Property was admittedly registered in the Company’s name on TGC’s instructions. In any event, while the finding that it was probably TGC who had paid the purchase price (assuming he did so in his personal capacity and not as a director of the Company) may have a bearing as to whether a resulting trust had arisen in favour of TGC, we note that no such claim was mounted by any party. Ultimately, it has no real significance to the question of whether the oral representation was made to TTL. We should add that the issue as to who funded the purchase price did not expressly arise from the pleadings. It is therefore unnecessary to deal with this finding in any detail beyond these observations.
 
 #### The SD was authentic and its contents were likely true
 
-27     Contrary to the Company’s submissions, the Judge accepted that TTL was fully conscious when he made the SD, and that its contents accurately reflected what TTL had wished to convey in relation to his claim to the Property.[\[note: 43\]](#Ftn_43) The Company does not challenge this finding in this appeal. Instead, its focus for the appeal is on the proof and veracity of the _contents_ of the SD.
+27     Contrary to the Company’s submissions, the Judge accepted that TTL was fully conscious when he made the SD, and that its contents accurately reflected what TTL had wished to convey in relation to his claim to the Property.[^43] The Company does not challenge this finding in this appeal. Instead, its focus for the appeal is on the proof and veracity of the _contents_ of the SD.
 
-28     The Judge found that para 3 of the SD was likely to be true, given that the other paragraphs in the SD were borne out by his findings of fact.[\[note: 44\]](#Ftn_44) Paragraph 2 of the SD stated that legal title to the Surin Lane property was transferred from TTW to the Company to prevent TTW’s wife from getting a share in the Property. Paragraph 4 of the SD stated that TGC had told TTL and KAG to withdraw their HDB application because the Property was already theirs. Both of these paragraphs cohered with the Judge’s findings of fact. Hence, the Judge concluded that an _express_ common intention as alleged in para 3 of the SD was proved by the respondents on a balance of probabilities.
+28     The Judge found that para 3 of the SD was likely to be true, given that the other paragraphs in the SD were borne out by his findings of fact.[^44] Paragraph 2 of the SD stated that legal title to the Surin Lane property was transferred from TTW to the Company to prevent TTW’s wife from getting a share in the Property. Paragraph 4 of the SD stated that TGC had told TTL and KAG to withdraw their HDB application because the Property was already theirs. Both of these paragraphs cohered with the Judge’s findings of fact. Hence, the Judge concluded that an _express_ common intention as alleged in para 3 of the SD was proved by the respondents on a balance of probabilities.
 
 ### The Judge’s legal conclusions
 
-29     The Judge further stated that even if he had attached no weight to the SD, his findings regarding the conduct of TTL and KAG, such as the improvement works undertaken at their own expense, and the withdrawal of the HDB flat application, would have led him to find an _inferred_ common intention.[\[note: 45\]](#Ftn_45)
+29     The Judge further stated that even if he had attached no weight to the SD, his findings regarding the conduct of TTL and KAG, such as the improvement works undertaken at their own expense, and the withdrawal of the HDB flat application, would have led him to find an _inferred_ common intention.[^45]
 
-30     He further found that TTL had suffered detriment by making various improvements to the Property at his own expense and by withdrawing his application for a HDB flat on TGC’s instruction, thereby foregoing the opportunity to make significant capital gains from ownership of his own residential property.[\[note: 46\]](#Ftn_46)
+30     He further found that TTL had suffered detriment by making various improvements to the Property at his own expense and by withdrawing his application for a HDB flat on TGC’s instruction, thereby foregoing the opportunity to make significant capital gains from ownership of his own residential property.[^46]
 
-31     The Judge also found that the respondents’ alternative claim in proprietary estoppel would have succeeded though he added that the appropriate relief may not necessarily require the transfer of the Property to TTL’s estate. The assurance by TGC that he would buy the Property for TTL and the further assurance that there was no need for TTL to apply for a HDB flat since he already owned the Property brought the respondents’ case within the promise-based strand of proprietary estoppel.[\[note: 47\]](#Ftn_47)
+31     The Judge also found that the respondents’ alternative claim in proprietary estoppel would have succeeded though he added that the appropriate relief may not necessarily require the transfer of the Property to TTL’s estate. The assurance by TGC that he would buy the Property for TTL and the further assurance that there was no need for TTL to apply for a HDB flat since he already owned the Property brought the respondents’ case within the promise-based strand of proprietary estoppel.[^47]
 
-32     Finally, the Judge held that the doctrine of laches did not apply to bar the respondents’ claim. The first direct confrontation between TTL and his siblings over the Property took place on 30 October 2012, when TTL asked his siblings to “return” the Property to him. Upon being denied his request, TTL immediately sprang into action by making the SD and lodging a caveat on the Property. There was hence no undue delay in asserting the claim.[\[note: 48\]](#Ftn_48)
+32     Finally, the Judge held that the doctrine of laches did not apply to bar the respondents’ claim. The first direct confrontation between TTL and his siblings over the Property took place on 30 October 2012, when TTL asked his siblings to “return” the Property to him. Upon being denied his request, TTL immediately sprang into action by making the SD and lodging a caveat on the Property. There was hence no undue delay in asserting the claim.[^48]
 
 ## Parties’ cases
 
@@ -152,9 +153,9 @@ The Company no longer disputes the exclusive use of the Property by TTL and his 
 
 33     For the appeal, the Company engaged new counsel, Mr Lee Eng Beng SC, whose approach is quite different from the defence which was pursued below especially in relation to several findings of fact which he rightly does not contest. Those issues unnecessarily dominated the focus of the trial which we observe parenthetically, do not have any material bearing on the pivotal issue in the appeal. This is no criticism of the Judge because those arguments were raised by the Company’s previous counsel. The Judge had little choice but to painstakingly consider them before rejecting them.
 
-34     As a starting point, the Company highlights that the default rule is that where both parties fail to prove their positive cases, there is a presumption the beneficial interest in property would follow the legal interest: _Sumoi Paramesvaeri v Fleury, Jeffrey Gerard and another_ at \[35\].[\[note: 49\]](#Ftn_49) The Company argues that the respondents have failed to prove that a common intention constructive trust exists, because to do so, they would have to prove “what one dead man said to another dead man 40 years ago”,[\[note: 50\]](#Ftn_50) which is difficult without any direct or documentary evidence and without the benefit of any cross-examination. Given the fact that no one can corroborate the oral representation coupled with the complete absence of any documentary evidence in the face of the Company’s corporate documents to the contrary, such a burden is an extremely onerous one for the respondents to discharge.
+34     As a starting point, the Company highlights that the default rule is that where both parties fail to prove their positive cases, there is a presumption the beneficial interest in property would follow the legal interest: _Sumoi Paramesvaeri v Fleury, Jeffrey Gerard and another_ at \[35\].[^49] The Company argues that the respondents have failed to prove that a common intention constructive trust exists, because to do so, they would have to prove “what one dead man said to another dead man 40 years ago”,[^50] which is difficult without any direct or documentary evidence and without the benefit of any cross-examination. Given the fact that no one can corroborate the oral representation coupled with the complete absence of any documentary evidence in the face of the Company’s corporate documents to the contrary, such a burden is an extremely onerous one for the respondents to discharge.
 
-35     The Company contends that the Judge had erred in both law and fact in finding that:[\[note: 51\]](#Ftn_51)
+35     The Company contends that the Judge had erred in both law and fact in finding that:[^51]
 
 (a)     the respondents had proved that the oral representation was made;
 
@@ -166,25 +167,25 @@ The Company no longer disputes the exclusive use of the Property by TTL and his 
 
 (e)     the respondents’ claim is not barred by the doctrine of laches.
 
-36     The Company argues that none of the respondents’ witnesses had personal knowledge of the oral representation, and the Judge erred in relying solely on the SD. Further, the Judge should not have arrived at the conclusion that para 3 of the SD was true on the basis that other parts of the SD were borne out by his findings of fact. The Judge should instead have verified the truth of para 3 of the SD against the objective evidence.[\[note: 52\]](#Ftn_52)
+36     The Company argues that none of the respondents’ witnesses had personal knowledge of the oral representation, and the Judge erred in relying solely on the SD. Further, the Judge should not have arrived at the conclusion that para 3 of the SD was true on the basis that other parts of the SD were borne out by his findings of fact. The Judge should instead have verified the truth of para 3 of the SD against the objective evidence.[^52]
 
-37     The Company argues that the objective evidence actually militates against the truth of para 3 of the SD.[\[note: 53\]](#Ftn_53) First, the Company’s purchase of the Property was done pursuant to a proper board resolution, and there was no evidence to suggest that the Company would deal with its assets in an informal manner. Second, the Company had exercised control and dominion over the Property by mortgaging it in order to obtain financing facilities for its own benefit. Third, it is puzzling that TGC never mentioned this arrangement to anyone else in the family during his lifetime. Fourth, there was nothing to suggest that TGC had the authority to confer the beneficial interest of the Property on TTL on behalf of the Company. Fifth, given that TGC had divested his shares in the Company such that each of his children were provided with roughly equal shares, it is unlikely that he would have intended to favour TTL by exclusively gifting him with such a significant asset of the Company. Sixth, the fact that TTL and KAG had applied for a HDB flat some years after moving into the Property demonstrates that they did not truly believe that the Property was theirs. Finally, there is no explanation as to why TTL had remained silent about his alleged beneficial interest in the Property for almost 40 years and only attempted to assert his rights just days before he passed away.
+37     The Company argues that the objective evidence actually militates against the truth of para 3 of the SD.[^53] First, the Company’s purchase of the Property was done pursuant to a proper board resolution, and there was no evidence to suggest that the Company would deal with its assets in an informal manner. Second, the Company had exercised control and dominion over the Property by mortgaging it in order to obtain financing facilities for its own benefit. Third, it is puzzling that TGC never mentioned this arrangement to anyone else in the family during his lifetime. Fourth, there was nothing to suggest that TGC had the authority to confer the beneficial interest of the Property on TTL on behalf of the Company. Fifth, given that TGC had divested his shares in the Company such that each of his children were provided with roughly equal shares, it is unlikely that he would have intended to favour TTL by exclusively gifting him with such a significant asset of the Company. Sixth, the fact that TTL and KAG had applied for a HDB flat some years after moving into the Property demonstrates that they did not truly believe that the Property was theirs. Finally, there is no explanation as to why TTL had remained silent about his alleged beneficial interest in the Property for almost 40 years and only attempted to assert his rights just days before he passed away.
 
-38     In relation to the improvement works done on the Property which were allegedly paid for by TTL, the Company argues that the Judge had ignored TT Kim’s evidence that the Company’s accounts had recorded repairs to fencing, gutter and grilles amounting to $2,252 in 1995 and the awning and roof for $6,350 in 1996.[\[note: 54\]](#Ftn_54) The Judge did not rely on these invoices because they did not explicitly specify that the works had been done on the Property. This, the Company argues, would amount to imposing overly stringent requirements in respect of documentary evidence which were generated decades ago.[\[note: 55\]](#Ftn_55) This is in stark contrast to the Judge’s sympathetic view of the respondents’ inability to produce any evidence to support TTL and/or KAG’s payment of the improvement works to the Property.[\[note: 56\]](#Ftn_56) Further, there is undisputed evidence that the Company had paid $150 on two occasions for the repair of the roof of the Property which the Judge had disregarded.
+38     In relation to the improvement works done on the Property which were allegedly paid for by TTL, the Company argues that the Judge had ignored TT Kim’s evidence that the Company’s accounts had recorded repairs to fencing, gutter and grilles amounting to $2,252 in 1995 and the awning and roof for $6,350 in 1996.[^54] The Judge did not rely on these invoices because they did not explicitly specify that the works had been done on the Property. This, the Company argues, would amount to imposing overly stringent requirements in respect of documentary evidence which were generated decades ago.[^55] This is in stark contrast to the Judge’s sympathetic view of the respondents’ inability to produce any evidence to support TTL and/or KAG’s payment of the improvement works to the Property.[^56] Further, there is undisputed evidence that the Company had paid $150 on two occasions for the repair of the roof of the Property which the Judge had disregarded.
 
-39     As regards the Judge’s finding of an inferred common intention, the Company argues that short of direct financial contributions _at the time of acquisition_, it would only be in exceptional situations where an inferred common intention could arise from other conduct.[\[note: 57\]](#Ftn_57) The improvement works done to the Property and the withdrawal of the HDB application would not, without more, give rise to an inferred common intention.
+39     As regards the Judge’s finding of an inferred common intention, the Company argues that short of direct financial contributions _at the time of acquisition_, it would only be in exceptional situations where an inferred common intention could arise from other conduct.[^57] The improvement works done to the Property and the withdrawal of the HDB application would not, without more, give rise to an inferred common intention.
 
-40     Finally, the Company argues that the claim is premised on an alleged oral representation made 42 years ago between two individuals who are now deceased. TTL had every opportunity to assert his beneficial ownership of the Property but did nothing until just days before his demise. It is therefore unconscionable for the Company to have to defend such a claim.[\[note: 58\]](#Ftn_58) The doctrine of laches should apply to bar such a claim.
+40     Finally, the Company argues that the claim is premised on an alleged oral representation made 42 years ago between two individuals who are now deceased. TTL had every opportunity to assert his beneficial ownership of the Property but did nothing until just days before his demise. It is therefore unconscionable for the Company to have to defend such a claim.[^58] The doctrine of laches should apply to bar such a claim.
 
 ### Respondents’ case
 
-41     In response to the Company’s argument that TGC did not have the authority to make the oral representation on behalf of the Company, the respondents rely on the fact that in and around October 1975 when the oral representation was allegedly made, TGC was the Company’s majority shareholder.[\[note: 59\]](#Ftn_59) The respondents argue that the Company was run by a “typical Chinese family in Singapore in the 1970s with TGC as the head and TTL as his most capable child.”[\[note: 60\]](#Ftn_60) In any case, the Company did not rely on TGC’s lack of authority in defending against the common intention constructive trust claim in the court below.[\[note: 61\]](#Ftn_61)
+41     In response to the Company’s argument that TGC did not have the authority to make the oral representation on behalf of the Company, the respondents rely on the fact that in and around October 1975 when the oral representation was allegedly made, TGC was the Company’s majority shareholder.[^59] The respondents argue that the Company was run by a “typical Chinese family in Singapore in the 1970s with TGC as the head and TTL as his most capable child.”[^60] In any case, the Company did not rely on TGC’s lack of authority in defending against the common intention constructive trust claim in the court below.[^61]
 
-42     The respondents submit that it is telling how the renovations to the Surin Lane property were recorded in the Company’s accounts, whereas no such record was kept with respect to the Property.[\[note: 62\]](#Ftn_62) The respondents point out that TTH had admitted that TTL and KAG paid for the works in respect of the flooring of the dining area, the two bedrooms in the posterior of the house, the kitchen, and the conversion of the garage into a bedroom.[\[note: 63\]](#Ftn_63)
+42     The respondents submit that it is telling how the renovations to the Surin Lane property were recorded in the Company’s accounts, whereas no such record was kept with respect to the Property.[^62] The respondents point out that TTH had admitted that TTL and KAG paid for the works in respect of the flooring of the dining area, the two bedrooms in the posterior of the house, the kitchen, and the conversion of the garage into a bedroom.[^63]
 
-43     The respondents rely on _Chan Yuen Lan v See Fong Mun_ (“_Chan Yuen Lan_”) at \[114\], that “it was possible to infer a common intention to alter a party’s share of the beneficial interest if that party carried out ‘significant improvements to the home’”.[\[note: 64\]](#Ftn_64)
+43     The respondents rely on _Chan Yuen Lan v See Fong Mun_ (“_Chan Yuen Lan_”) at \[114\], that “it was possible to infer a common intention to alter a party’s share of the beneficial interest if that party carried out ‘significant improvements to the home’”.[^64]
 
-44     Finally, the respondents argue that there was no undue delay in the commencement of the claim because there was never any need for TTL to assert his claim over the Property in the 40 years that he lived there. After all, TTL was expressly assured by TGC that the Property belonged to him and all the members of the Company knew of this arrangement.[\[note: 65\]](#Ftn_65) TTL had acted as the owner of the Property in dealing with all matters relating to the Property at his own discretion. Since TTL and KAG moved into the Property, none of his siblings or the Company had ever challenged TTL’s occupancy of the Property.
+44     Finally, the respondents argue that there was no undue delay in the commencement of the claim because there was never any need for TTL to assert his claim over the Property in the 40 years that he lived there. After all, TTL was expressly assured by TGC that the Property belonged to him and all the members of the Company knew of this arrangement.[^65] TTL had acted as the owner of the Property in dealing with all matters relating to the Property at his own discretion. Since TTL and KAG moved into the Property, none of his siblings or the Company had ever challenged TTL’s occupancy of the Property.
 
 ## Our decision
 
@@ -200,7 +201,7 @@ The Company no longer disputes the exclusive use of the Property by TTL and his 
 
 #### Contents of the Statutory Declaration
 
-49     The Judge relied primarily on para 3 of the SD in arriving at his finding that the oral representation was probably made by TGC to TTL. It is thus crucial for this court to carefully examine the SD, in particular para 3, because absent the SD, there is no other record to evidence or support the oral representation. We do not think it is correct for the Judge to have stated that the absence of any document to evidence the oral representation was “a neutral factor” merely because it is not uncommon for this type of informal understandings among family members not to be reduced to writing.[\[note: 66\]](#Ftn_66) While such informal understandings may well not be uncommon, it does not change the fact that the lack of any documentary evidence is nonetheless, objectively speaking, a significant obstacle to prove the oral representation. We would not treat it as a “neutral factor”. It is a significant evidential gap which cannot be ignored.
+49     The Judge relied primarily on para 3 of the SD in arriving at his finding that the oral representation was probably made by TGC to TTL. It is thus crucial for this court to carefully examine the SD, in particular para 3, because absent the SD, there is no other record to evidence or support the oral representation. We do not think it is correct for the Judge to have stated that the absence of any document to evidence the oral representation was “a neutral factor” merely because it is not uncommon for this type of informal understandings among family members not to be reduced to writing.[^66] While such informal understandings may well not be uncommon, it does not change the fact that the lack of any documentary evidence is nonetheless, objectively speaking, a significant obstacle to prove the oral representation. We would not treat it as a “neutral factor”. It is a significant evidential gap which cannot be ignored.
 
 50     The Judge was clearly cognisant of the apparently self-serving nature of the SD and warned himself to treat it with caution and to carefully ascribe the precise weight to it. He conducted a thorough examination of the circumstances under which the SD was made, and came to the conclusion that the SD was authentic and its contents accurately reflected what TTL wished to convey. However, the _authenticity_ of the SD (which is no longer disputed) does not, _ipso facto_, mean that the _contents_ of the SD are also true. That is an entirely separate and independent inquiry.
 
@@ -220,13 +221,13 @@ The Company no longer disputes the exclusive use of the Property by TTL and his 
 
 2.    My dad bought a house at 3 Surin Lane Singapore for my eldest brother, Tan Tiong Wah, the property was registered under his name, Tan Tiong Wah (“hereinafter called the “eldest brother”). My whole family (i.e. my parents and 6 siblings, my eldest brother, his wife and myself) were staying at 3 Surin Lane Singapore. My eldest brother was not having a good relationship with his wife at that time. My dad then told me to transfer the house at 3 Surin Lane under company’s name, GEOK HONG (hereinafter called “the Company”) so that in the event of a divorce, my eldest brother’s wife would not get to share the property. I followed my dad’s instructions and transferred the house at 3 Surin Lane under the company’s name with my eldest brother’s consent. One of my the \[_sic_\] other brother, Tan Tiong Heng, got a HDB flat at Toa Payoh after he was married and moved out of the house at 3 Surin Lane.
 
-It is important to first explain the significance which the respondents have purportedly attached to para 2. The respondents suggest that, similar to the arrangement in respect of the Property, the Surin Lane property was originally _purchased for_ TTW but was _subsequently_ transferred to the Company after he got married to prevent his wife from getting a share in the property in the event of a divorce.[\[note: 67\]](#Ftn_67) Notably, however, there was never any suggestion that the Surin Lane property was intended to be held on trust by the Company for the benefit of TTW.
+It is important to first explain the significance which the respondents have purportedly attached to para 2. The respondents suggest that, similar to the arrangement in respect of the Property, the Surin Lane property was originally _purchased for_ TTW but was _subsequently_ transferred to the Company after he got married to prevent his wife from getting a share in the property in the event of a divorce.[^67] Notably, however, there was never any suggestion that the Surin Lane property was intended to be held on trust by the Company for the benefit of TTW.
 
 57     The underlying purpose of para 2 of the SD was to draw a parallel between the arrangement for the Surin Lane property and the Property _ie_, the two properties were each purchased for TTW and TTL but the registration of both properties in the Company’s name was to render them “divorce-proof”.
 
-58     TTH explained in his affidavit of evidence-in-chief that the Surin Lane property was purchased by his parents to be the family home after the original family home was acquired by the government.[\[note: 68\]](#Ftn_68) This is corroborated by the undisputed fact that TGC and his family had regarded the Surin Lane property as their family home even in the period when it was registered in TTW’s name until some of the children eventually moved out and formed their own families. TTH further stated that the decision was made to have the property registered in TTW’s name instead of the Company because at the time the Surin Lane property was purchased, the Company was still co-owned by TGC’s two nephews. As stated at \[25\] above, the Judge did not accept this explanation. He found TTL’s explanation as set out in para 2 of the SD “more likely than not to be true”.[\[note: 69\]](#Ftn_69) We are not convinced that TTL’s explanation should be preferred just because the transfer was more proximate in relation to TTW’s wedding as compared to the date when the Company became wholly owned by TGC and his family. In our view, the relevant inquiry is not whether TTL’s version for the transfer should be preferred over the Company’s but whether TTL’s version _even if accepted_ supports or undermines the oral representation. A closer examination of the arrangement for the Surin Lane property actually undermines the respondents’ case, whatever might have been the reason for the initial registration in TTW’s name. It is clear to us that TTW was never intended to be the legal and beneficial owner of the Surin Lane property and given that para 2 of the SD was intended to draw a parallel with the Property, it stands to reason that TTL was likewise never intended to be the legal and beneficial owner of the Property.
+58     TTH explained in his affidavit of evidence-in-chief that the Surin Lane property was purchased by his parents to be the family home after the original family home was acquired by the government.[^68] This is corroborated by the undisputed fact that TGC and his family had regarded the Surin Lane property as their family home even in the period when it was registered in TTW’s name until some of the children eventually moved out and formed their own families. TTH further stated that the decision was made to have the property registered in TTW’s name instead of the Company because at the time the Surin Lane property was purchased, the Company was still co-owned by TGC’s two nephews. As stated at \[25\] above, the Judge did not accept this explanation. He found TTL’s explanation as set out in para 2 of the SD “more likely than not to be true”.[^69] We are not convinced that TTL’s explanation should be preferred just because the transfer was more proximate in relation to TTW’s wedding as compared to the date when the Company became wholly owned by TGC and his family. In our view, the relevant inquiry is not whether TTL’s version for the transfer should be preferred over the Company’s but whether TTL’s version _even if accepted_ supports or undermines the oral representation. A closer examination of the arrangement for the Surin Lane property actually undermines the respondents’ case, whatever might have been the reason for the initial registration in TTW’s name. It is clear to us that TTW was never intended to be the legal and beneficial owner of the Surin Lane property and given that para 2 of the SD was intended to draw a parallel with the Property, it stands to reason that TTL was likewise never intended to be the legal and beneficial owner of the Property.
 
-59     The objective evidence suggests, contrary to the respondents’ case, that the intention was for TTW to hold the Surin Lane property on trust for the Company and not the other way around. Such an arrangement would in fact be more consistent with the way that the Surin Lane property was actually dealt with. At all material times, it was treated as the family home of TGC and the children. After the Surin Lane property was transferred to the Company, it was never transferred back to TTW. TTW never claimed that the Company was holding the Surin Lane property on trust for him. Further, even though the Company had passed a resolution to purchase the Surin Lane property from TTW for a consideration of $50,000,[\[note: 70\]](#Ftn_70) there was no evidence that this $50,000 was actually paid by the Company to TTW. In other words, it would appear that TTW had simply complied with the directions for the Surin Lane property to be transferred to the Company without question.
+59     The objective evidence suggests, contrary to the respondents’ case, that the intention was for TTW to hold the Surin Lane property on trust for the Company and not the other way around. Such an arrangement would in fact be more consistent with the way that the Surin Lane property was actually dealt with. At all material times, it was treated as the family home of TGC and the children. After the Surin Lane property was transferred to the Company, it was never transferred back to TTW. TTW never claimed that the Company was holding the Surin Lane property on trust for him. Further, even though the Company had passed a resolution to purchase the Surin Lane property from TTW for a consideration of $50,000,[^70] there was no evidence that this $50,000 was actually paid by the Company to TTW. In other words, it would appear that TTW had simply complied with the directions for the Surin Lane property to be transferred to the Company without question.
 
 60     Therefore, instead of assisting the respondents’ case, this shows that the arrangement in relation to the Property was not intended to be any different from the arrangement in relation to the Surin Lane property _ie_, that the Company would be the legal and beneficial owner of the Property in the same way as it is the owner of the Surin Lane property. In fact, such an explanation is even more compelling here because unlike the Surin Lane property, the Property was registered in the name of the Company _from the outset_.
 
@@ -238,9 +239,9 @@ It is important to first explain the significance which the respondents have pur
 
 62     In our view, the circumstances leading to and the precise reason for the withdrawal of the HDB application are not free from doubt. What appears to favour the respondents’ case is that TTL and KAG had indeed applied for a HDB flat but subsequently withdrew their application, thereby forfeiting the deposit of $9,200. It could be argued, as the respondents have done, that there would be no reason for them to have done so unless they were sufficiently assured by the oral representation.
 
-63     However, the fact of the HDB application in and of itself might appear to contradict the respondents’ case. Why did TTL and KAG apply for a HDB flat in the first place, if indeed the oral representation was made some five years earlier that TTL already owned the Property? KAG explained that TGC had spoken to TTL about mortgaging the Property to obtain loan facilities for the Company. They were concerned with the risk of repossession by the mortgagee if the Company were to default on the loan. However, the respondents were unable to explain how this concern had been allayed simply by TGC telling them that the Property was theirs.[\[note: 71\]](#Ftn_71) In fact, KAG testified that TTL did not even raise the issue of the mortgage of the Property with TGC.[\[note: 72\]](#Ftn_72) Even if TTL and KAG were meant to be the beneficial owners of the Property, the risk of a default on the mortgage and the consequent repossession would be present so long as the loan remained outstanding.
+63     However, the fact of the HDB application in and of itself might appear to contradict the respondents’ case. Why did TTL and KAG apply for a HDB flat in the first place, if indeed the oral representation was made some five years earlier that TTL already owned the Property? KAG explained that TGC had spoken to TTL about mortgaging the Property to obtain loan facilities for the Company. They were concerned with the risk of repossession by the mortgagee if the Company were to default on the loan. However, the respondents were unable to explain how this concern had been allayed simply by TGC telling them that the Property was theirs.[^71] In fact, KAG testified that TTL did not even raise the issue of the mortgage of the Property with TGC.[^72] Even if TTL and KAG were meant to be the beneficial owners of the Property, the risk of a default on the mortgage and the consequent repossession would be present so long as the loan remained outstanding.
 
-64     Further, we find KAG’s evidence in relation to the reason for the withdrawal to be largely inconsistent with the respondents’ case. When asked to recount what TGC had said to TTL and her with regard to the withdrawal of the HDB flat application, she stated:[\[note: 73\]](#Ftn_73)
+64     Further, we find KAG’s evidence in relation to the reason for the withdrawal to be largely inconsistent with the respondents’ case. When asked to recount what TGC had said to TTL and her with regard to the withdrawal of the HDB flat application, she stated:[^73]
 
 \[M\]y father-in-law told my husband and me that --- he said that “This house belongs to the _both of you_. You cannot --- the both of you cannot make the purchase. I had already paid 9,200 from my CPF.” He said that “_The house belongs to the both of you._ The two of you cannot make the purchase.”
 
@@ -248,9 +249,9 @@ It is important to first explain the significance which the respondents have pur
 
 This is clearly at odds with the respondents’ case, that TGC had represented to TTL that the Property would be his _alone_. In fact, it is the respondents’ case that the Property was registered in the name of the Company instead of TTL because TGC did not want KAG to get a share in the Property in the event of a divorce. Therefore, it is surprising that TGC would have told KAG that the Property belonged to _her_ as well.
 
-65     TGC’s assurance to TTL and KAG which allegedly led to their _withdrawal_ of their HDB application does not sit well with their initial decision to _defer_ their application. The deferment was alluded to in the letter from the HDB dated 9 May 1986.[\[note: 74\]](#Ftn_74) That letter was in response to TTL’s letter requesting for a deferment. When it was put to KAG in cross-examination, she was unable to provide any satisfactory explanation. KAG simply replied that she was unsure.[\[note: 75\]](#Ftn_75) It would certainly have been relevant to examine the _reasons_ provided by TTL for the deferment but TTL’s letter (which apparently provided the reasons) was never produced.
+65     TGC’s assurance to TTL and KAG which allegedly led to their _withdrawal_ of their HDB application does not sit well with their initial decision to _defer_ their application. The deferment was alluded to in the letter from the HDB dated 9 May 1986.[^74] That letter was in response to TTL’s letter requesting for a deferment. When it was put to KAG in cross-examination, she was unable to provide any satisfactory explanation. KAG simply replied that she was unsure.[^75] It would certainly have been relevant to examine the _reasons_ provided by TTL for the deferment but TTL’s letter (which apparently provided the reasons) was never produced.
 
-66     We should add that the specific reason for the withdrawal of the application as stated in TTL’s letter to the HDB was that it was “due to the present economic downturn”.[\[note: 76\]](#Ftn_76) This point was also put to KAG in cross-examination but she denied any knowledge of the letter. She maintained that it was TTL who had drafted the letter and that she left matters in relation to the withdrawal of the HDB application to him.[\[note: 77\]](#Ftn_77) In other words, it was for TTL to explain the inconsistency between the contemporaneous letter to the HDB and the self-serving SD made almost 30 years later. KAG conceded that she was not able to provide any cogent explanation.
+66     We should add that the specific reason for the withdrawal of the application as stated in TTL’s letter to the HDB was that it was “due to the present economic downturn”.[^76] This point was also put to KAG in cross-examination but she denied any knowledge of the letter. She maintained that it was TTL who had drafted the letter and that she left matters in relation to the withdrawal of the HDB application to him.[^77] In other words, it was for TTL to explain the inconsistency between the contemporaneous letter to the HDB and the self-serving SD made almost 30 years later. KAG conceded that she was not able to provide any cogent explanation.
 
 67     It is apparent from our review of the SD as a whole that there are immense difficulties in establishing the truth of para 3 either in itself or with reference to the other parts of the SD. Paragraph 3 of the SD is central to the respondents’ case to establish the oral representation. Not only was there a total absence of any documentary evidence whatsoever to support it, the veracity of the oral representation cannot be tested at all given the fact that the only two persons who could provide evidence on the circumstances of the oral representation are no longer available for cross-examination. The absence of cross-examination is especially crucial here because of the inherent difficulties of the oral representation. Given that the oral representation cannot be established, there is thus nothing to rebut the presumption that the Company as the legal owner is also the beneficial owner of the Property.
 
@@ -260,30 +261,30 @@ This is clearly at odds with the respondents’ case, that TGC had represented t
 
 69     We find it troubling that TTL, _throughout his lifetime_, never informed any of his siblings about the oral representation or his alleged beneficial interest in the Property, including those who were involved in the management of the Company. This is an obvious question which only TTL could answer. It cannot be ruled out that his reticence to do so was due to his concern that any such claim would be challenged as indeed it has come to pass.
 
-70     In fact, the Judge found at \[108\] of the GD that “the Company knew of TTL’s claim at the latest by 3 January 2013, if not earlier”. By then, TTL had passed away. When the Company disclosed in its financial statements for the first time in 1989 that rent-free occupation of the Company’s properties were benefits to directors,[\[note: 78\]](#Ftn_78) we find it curious that TTL did not take the opportunity to inform his fellow directors (_ie_, his siblings) that his entitlement to reside in the Property was on account of his beneficial interest in the Property rather than a benefit provided to him by the Company on account of his position as a director.
+70     In fact, the Judge found at \[108\] of the GD that “the Company knew of TTL’s claim at the latest by 3 January 2013, if not earlier”. By then, TTL had passed away. When the Company disclosed in its financial statements for the first time in 1989 that rent-free occupation of the Company’s properties were benefits to directors,[^78] we find it curious that TTL did not take the opportunity to inform his fellow directors (_ie_, his siblings) that his entitlement to reside in the Property was on account of his beneficial interest in the Property rather than a benefit provided to him by the Company on account of his position as a director.
 
 71     The only person who could have validated the oral representation to enable TTL to realise his interest in the Property was TGC. Yet TTL did not take any steps to realise his interest between 1975 and 1990 while TGC was alive. We find this omission particularly disturbing. There does not appear to be any sensible explanation. That is not all. In the 22 years following that, TTL also did not take any steps to assert his beneficial interest. Instead, he chose to assert his interest by way of the SD after he contracted liver cancer and shortly before he passed on.
 
 72     At the appeal hearing, TWY submitted that TTL’s siblings should have known that TTL had an interest in the Property based on TTL’s conduct in carrying out improvement works to the Property without seeking permission from the Company. As we explain at \[87\] to \[90\] below, such conduct, taking into account the nature of the improvement works, is equally consistent with their quiet enjoyment as a long-term occupant of the Property rather than on account of any _ownership_ interest. It is one thing to allege that TTL’s siblings _should have known_ of TTL’s alleged beneficial interest and another to claim that the other siblings had _actual knowledge_ of his interest in the Property.
 
-73     We agree with the Company that TTL’s conduct in fact undermined his purported beneficial ownership of the Property. It is undisputed that he signed off on directors’ resolutions which allowed the Company to mortgage the Property on two occasions to two different banks to obtain loan facilities for the Company.[\[note: 79\]](#Ftn_79) He also acknowledged in the Company’s books that the Property belongs to the Company without any reservation.
+73     We agree with the Company that TTL’s conduct in fact undermined his purported beneficial ownership of the Property. It is undisputed that he signed off on directors’ resolutions which allowed the Company to mortgage the Property on two occasions to two different banks to obtain loan facilities for the Company.[^79] He also acknowledged in the Company’s books that the Property belongs to the Company without any reservation.
 
 #### Conduct of TGC
 
-74     From 1976, just about a year after the oral representation, to 1989, TGC gradually took steps to divest his shareholding in the Company from 42 percent to 2.5 percent in order to equalise his children’s shareholdings. The shareholding changes in the Company over the years can be summarised as follows:[\[note: 80\]](#Ftn_80)
+74     From 1976, just about a year after the oral representation, to 1989, TGC gradually took steps to divest his shareholding in the Company from 42 percent to 2.5 percent in order to equalise his children’s shareholdings. The shareholding changes in the Company over the years can be summarised as follows:[^80]
 
 <table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="18.6962607478504%"> <col width="16.8166366726655%"> <col width="14.9570085982803%"> <col width="16.8166366726655%"> <col width="14.9570085982803%"> <col width="17.756448710258%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Dec 1973</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Jul 1976</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Nov 1979</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Oct 1989</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Mar 1994</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">TGC</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">42%</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">5%</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3%</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2.5%</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">0%</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">OBC</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">5%</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">5%</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3%</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2.5%</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">5%</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">TTW</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">5%</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">11%</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">11%</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">9%</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">9%</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">TTH</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">11%</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">16%</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">14%</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">11.8%</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">11.8%</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">TTL</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">11%</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">16%</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">14%</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">11.8%</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">11.8%</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">TTP</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">0%</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3%</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">8%</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">11.8%</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">11.8%</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">TTS</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">13%</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">18.5%</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">15%</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">13%</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">13%</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">TT Kim</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">0%</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3%</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">8%</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">11.8%</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">11.8%</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">TTC</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">0%</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3%</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">8%</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">11.8%</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">11.8%</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">TT Khong</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">13%</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">19.5%</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">16%</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">14%</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">14%</p></td></tr></tbody></table>
 
   
   
 
-75     The inference from TGC’s efforts to equalise his children’s stakes in the Company is that he wanted to provide for his children by way of the shares in the Company in approximately equal proportions, an explanation which the Judge at \[145\] of the GD fairly remarked “was certainly one possibility”. The Judge decided not to draw this possible inference because it was “inconsistent with the conduct of the parties – in particular, the major renovation and improvement works undertaken by TTL and TTL’s withdrawal of his HDB flat application”.[\[note: 81\]](#Ftn_81) As we have found at \[67\] above that the oral representation has not been proven and consequently the improvement works and the withdrawal of the HDB application were not made in reliance on the oral representation, there was thus nothing in the conduct of the parties which was inconsistent to prevent such a possible inference from being drawn. Through their shareholdings, each shareholder will receive any future distribution of the assets of the Company in proportion to their respective shareholdings. Apart from the Surin Lane property and an industrial warehouse,[\[note: 82\]](#Ftn_82) the Property is the Company’s other most significant asset. We agree that it would indeed be odd for TGC to have taken steps to provide his children with roughly equal shares in the Company but to gift a substantial asset of the Company _ie_, the Property to TTL. We are not suggesting that it was impossible for TGC to have such an intention. As he is not available for cross-examination, our task is to evaluate that probability in light of the objective evidence including the relevant and indisputable conduct of TGC. We therefore disagree with the Judge’s view that nothing turns on the equalisation of the shareholdings.
+75     The inference from TGC’s efforts to equalise his children’s stakes in the Company is that he wanted to provide for his children by way of the shares in the Company in approximately equal proportions, an explanation which the Judge at \[145\] of the GD fairly remarked “was certainly one possibility”. The Judge decided not to draw this possible inference because it was “inconsistent with the conduct of the parties – in particular, the major renovation and improvement works undertaken by TTL and TTL’s withdrawal of his HDB flat application”.[^81] As we have found at \[67\] above that the oral representation has not been proven and consequently the improvement works and the withdrawal of the HDB application were not made in reliance on the oral representation, there was thus nothing in the conduct of the parties which was inconsistent to prevent such a possible inference from being drawn. Through their shareholdings, each shareholder will receive any future distribution of the assets of the Company in proportion to their respective shareholdings. Apart from the Surin Lane property and an industrial warehouse,[^82] the Property is the Company’s other most significant asset. We agree that it would indeed be odd for TGC to have taken steps to provide his children with roughly equal shares in the Company but to gift a substantial asset of the Company _ie_, the Property to TTL. We are not suggesting that it was impossible for TGC to have such an intention. As he is not available for cross-examination, our task is to evaluate that probability in light of the objective evidence including the relevant and indisputable conduct of TGC. We therefore disagree with the Judge’s view that nothing turns on the equalisation of the shareholdings.
 
 #### Conduct of the Company – the legal owner of the Property
 
 76     From the outset, the Property was registered in the name of the Company. The Company has also consistently treated the Property as an asset of its own, with the knowledge and consent of TTL.
 
-77     First, the Company had recorded the Property as an asset in its balance sheet for the year ending 31 December 1976. This was signed and acknowledged by TTL without any objection or reservation.[\[note: 83\]](#Ftn_83) That remained the case up to 2012 when TTL passed away. Second, the Company had mortgaged the Property to secure banking facilities for its own benefit. The directors’ resolutions were duly passed. Significantly, TTL also signed them without any objection or reservation.[\[note: 84\]](#Ftn_84) It is also undisputed that the Company paid the insurance premiums and property taxes levied on the Property at all material times – acts which are consistent with its ownership interest in the Property.
+77     First, the Company had recorded the Property as an asset in its balance sheet for the year ending 31 December 1976. This was signed and acknowledged by TTL without any objection or reservation.[^83] That remained the case up to 2012 when TTL passed away. Second, the Company had mortgaged the Property to secure banking facilities for its own benefit. The directors’ resolutions were duly passed. Significantly, TTL also signed them without any objection or reservation.[^84] It is also undisputed that the Company paid the insurance premiums and property taxes levied on the Property at all material times – acts which are consistent with its ownership interest in the Property.
 
 78     From our examination of the SD as well as the conduct of the relevant parties especially TTL, it is clear to us that the objective evidence does not support the Judge’s finding of an _express_ common intention constructive trust based on para 3 of the SD. In our view, it was quite off the mark.
 
@@ -379,7 +380,7 @@ Laches is a doctrine of equity. It is properly invoked where essentially there h
 
 102    For the foregoing reasons, we find that the oral representation as set out in para 3 of the SD has not been proven. The renovation works that had been undertaken to the Property were also insufficient to give rise to an inferred common intention. The renovation works that TTL and KAG had paid for, as well as their withdrawal of the HDB flat application, also did not constitute detriment suffered by TTL. Therefore, the respondents’ claims in common intention constructive trust and proprietary estoppel must fail. Finally, the doctrine of laches would apply to bar the respondents’ claims in any event.
 
-103    In passing, we observe that the circumstances which led to the SD suggest that TTL, upon realising his imminent passing and in the knowledge that the Company is the owner of the Property, decided to help his family to lay claim to the Property. This intention can be gleaned from para 8 of the SD:[\[note: 85\]](#Ftn_85)
+103    In passing, we observe that the circumstances which led to the SD suggest that TTL, upon realising his imminent passing and in the knowledge that the Company is the owner of the Property, decided to help his family to lay claim to the Property. This intention can be gleaned from para 8 of the SD:[^85]
 
 Now that I am ill, I want to ensure my house at 17 Glasgow Road will be transferred to my wife, \[KAG\], as I have willed my house to my wife.
 
@@ -391,175 +392,175 @@ There is no conceivable reason why TTL had to wait until he was terminally ill t
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)_Koh Ai Gek and another v Geok Hong Co Pte Ltd (Tan Wei Chieh and others, third parties)_ (“GD”), \[141\].
+[^1]: _Koh Ai Gek and another v Geok Hong Co Pte Ltd (Tan Wei Chieh and others, third parties)_ (“GD”), \[141\].
 
-[\[note: 2\]](#Ftn_2_1)2CB(A), p 14, para 6.
+[^2]: 2CB(A), p 14, para 6.
 
-[\[note: 3\]](#Ftn_3_1)AEIC of Tan Weiyang, 3RA(A), p 154, para 114.
+[^3]: AEIC of Tan Weiyang, 3RA(A), p 154, para 114.
 
-[\[note: 4\]](#Ftn_4_1)AEIC of Koh Ai Gek, 3RA(A), pp 12 and 18, para 28.
+[^4]: AEIC of Koh Ai Gek, 3RA(A), pp 12 and 18, para 28.
 
-[\[note: 5\]](#Ftn_5_1)GD, \[78(a)\].
+[^5]: GD, \[78(a)\].
 
-[\[note: 6\]](#Ftn_6_1)AEIC of Tan Tiong Hin, 3RA(C), p 80, para 26.
+[^6]: AEIC of Tan Tiong Hin, 3RA(C), p 80, para 26.
 
-[\[note: 7\]](#Ftn_7_1)4RA(B), p 200 (We note that TTW’s name is spelt “Tan Tiong Hwa” in the indenture).
+[^7]: 4RA(B), p 200 (We note that TTW’s name is spelt “Tan Tiong Hwa” in the indenture).
 
-[\[note: 8\]](#Ftn_8_1)4RA(B), p 215.
+[^8]: 4RA(B), p 215.
 
-[\[note: 9\]](#Ftn_9_1)GD, \[4\].
+[^9]: GD, \[4\].
 
-[\[note: 10\]](#Ftn_10_1)GD, \[78(d)\]; CB Vol II(A), p 98.
+[^10]: GD, \[78(d)\]; CB Vol II(A), p 98.
 
-[\[note: 11\]](#Ftn_11_1)4RA(B), p 236.
+[^11]: 4RA(B), p 236.
 
-[\[note: 12\]](#Ftn_12_1)4RA(C), pp 34–35.
+[^12]: 4RA(C), pp 34–35.
 
-[\[note: 13\]](#Ftn_13_1)2CB(A), pp 154–155.
+[^13]: 2CB(A), pp 154–155.
 
-[\[note: 14\]](#Ftn_14_1)GD, \[4\] and \[5\].
+[^14]: GD, \[4\] and \[5\].
 
-[\[note: 15\]](#Ftn_15_1)GD, \[4\].
+[^15]: GD, \[4\].
 
-[\[note: 16\]](#Ftn_16_1)4RA(A), p 50.
+[^16]: 4RA(A), p 50.
 
-[\[note: 17\]](#Ftn_17_1)2CB(A), p 72, lines 8–14.
+[^17]: 2CB(A), p 72, lines 8–14.
 
-[\[note: 18\]](#Ftn_18_1)4RA(D), p 41.
+[^18]: 4RA(D), p 41.
 
-[\[note: 19\]](#Ftn_19_1)GD, \[6\].
+[^19]: GD, \[6\].
 
-[\[note: 20\]](#Ftn_20_1)GD, \[13\]; Defendants’ Closing Submissions (“DCS”), 3RA(L), pp 39–40, paras 64, 67–68.
+[^20]: GD, \[13\]; Defendants’ Closing Submissions (“DCS”), 3RA(L), pp 39–40, paras 64, 67–68.
 
-[\[note: 21\]](#Ftn_21_1)GD, \[78(j)\].
+[^21]: GD, \[78(j)\].
 
-[\[note: 22\]](#Ftn_22_1)GD, \[12\].
+[^22]: GD, \[12\].
 
-[\[note: 23\]](#Ftn_23_1)GD, \[6\].
+[^23]: GD, \[6\].
 
-[\[note: 24\]](#Ftn_24_1)GD, \[13\]; Appellants’ Case (“AC”), para 102.
+[^24]: GD, \[13\]; Appellants’ Case (“AC”), para 102.
 
-[\[note: 25\]](#Ftn_25_1)GD, \[6\].
+[^25]: GD, \[6\].
 
-[\[note: 26\]](#Ftn_26_1)4RA(A), p 33.
+[^26]: 4RA(A), p 33.
 
-[\[note: 27\]](#Ftn_27_1)GD, \[8\].
+[^27]: GD, \[8\].
 
-[\[note: 28\]](#Ftn_28_1)2CB(A), p 117.
+[^28]: 2CB(A), p 117.
 
-[\[note: 29\]](#Ftn_29_1)2CB(A), p 22, para 25.
+[^29]: 2CB(A), p 22, para 25.
 
-[\[note: 30\]](#Ftn_30_1)2CB(A), p 41, para 54.
+[^30]: 2CB(A), p 41, para 54.
 
-[\[note: 31\]](#Ftn_31_1)GD, \[167\], \[171\] and \[181\].
+[^31]: GD, \[167\], \[171\] and \[181\].
 
-[\[note: 32\]](#Ftn_32_1)GD, \[184\].
+[^32]: GD, \[184\].
 
-[\[note: 33\]](#Ftn_33_1)GD, \[103\].
+[^33]: GD, \[103\].
 
-[\[note: 34\]](#Ftn_34_1)GD, \[93\].
+[^34]: GD, \[93\].
 
-[\[note: 35\]](#Ftn_35_1)GD, \[89\].
+[^35]: GD, \[89\].
 
-[\[note: 36\]](#Ftn_36_1)GD, \[83\].
+[^36]: GD, \[83\].
 
-[\[note: 37\]](#Ftn_37_1)GD, \[88\].
+[^37]: GD, \[88\].
 
-[\[note: 38\]](#Ftn_38_1)GD, \[88\].
+[^38]: GD, \[88\].
 
-[\[note: 39\]](#Ftn_39_1)GD, \[88\].
+[^39]: GD, \[88\].
 
-[\[note: 40\]](#Ftn_40_1)GD, \[122\]–\[125\].
+[^40]: GD, \[122\]–\[125\].
 
-[\[note: 41\]](#Ftn_41_1)GD, \[128\].
+[^41]: GD, \[128\].
 
-[\[note: 42\]](#Ftn_42_1)GD, \[182(d)\].
+[^42]: GD, \[182(d)\].
 
-[\[note: 43\]](#Ftn_43_1)GD, \[52\].
+[^43]: GD, \[52\].
 
-[\[note: 44\]](#Ftn_44_1)GD, \[142\].
+[^44]: GD, \[142\].
 
-[\[note: 45\]](#Ftn_45_1)GD, \[165\].
+[^45]: GD, \[165\].
 
-[\[note: 46\]](#Ftn_46_1)GD, \[166\].
+[^46]: GD, \[166\].
 
-[\[note: 47\]](#Ftn_47_1)GD, \[170\].
+[^47]: GD, \[170\].
 
-[\[note: 48\]](#Ftn_48_1)GD, \[180\].
+[^48]: GD, \[180\].
 
-[\[note: 49\]](#Ftn_49_1)AC, para 47.
+[^49]: AC, para 47.
 
-[\[note: 50\]](#Ftn_50_1)AC, para 45.
+[^50]: AC, para 45.
 
-[\[note: 51\]](#Ftn_51_1)AC, para 43.
+[^51]: AC, para 43.
 
-[\[note: 52\]](#Ftn_52_1)AC, paras 54–55.
+[^52]: AC, paras 54–55.
 
-[\[note: 53\]](#Ftn_53_1)AC, paras 59–65.
+[^53]: AC, paras 59–65.
 
-[\[note: 54\]](#Ftn_54_1)AC, para 104.
+[^54]: AC, para 104.
 
-[\[note: 55\]](#Ftn_55_1)AC, para 105.
+[^55]: AC, para 105.
 
-[\[note: 56\]](#Ftn_56_1)GD, \[101\]; AC, para 106.
+[^56]: GD, \[101\]; AC, para 106.
 
-[\[note: 57\]](#Ftn_57_1)AC, para 67.
+[^57]: AC, para 67.
 
-[\[note: 58\]](#Ftn_58_1)AC, para 71.
+[^58]: AC, para 71.
 
-[\[note: 59\]](#Ftn_59_1)Respondents’ Case (“RC”), para 29.
+[^59]: Respondents’ Case (“RC”), para 29.
 
-[\[note: 60\]](#Ftn_60_1)RC, para 32.
+[^60]: RC, para 32.
 
-[\[note: 61\]](#Ftn_61_1)RC, para 30.
+[^61]: RC, para 30.
 
-[\[note: 62\]](#Ftn_62_1)RC, para 71.
+[^62]: RC, para 71.
 
-[\[note: 63\]](#Ftn_63_1)RC, para 75(c).
+[^63]: RC, para 75(c).
 
-[\[note: 64\]](#Ftn_64_1)RC, para 43.
+[^64]: RC, para 43.
 
-[\[note: 65\]](#Ftn_65_1)RC, para 108.
+[^65]: RC, para 108.
 
-[\[note: 66\]](#Ftn_66_1)GD, \[142\].
+[^66]: GD, \[142\].
 
-[\[note: 67\]](#Ftn_67_1)GD, \[4\]; DCS, 3RA(K), p 62, para 87.
+[^67]: GD, \[4\]; DCS, 3RA(K), p 62, para 87.
 
-[\[note: 68\]](#Ftn_68_1)3RA(C), p 79, paras 24–26.
+[^68]: 3RA(C), p 79, paras 24–26.
 
-[\[note: 69\]](#Ftn_69_1)GD, \[125\].
+[^69]: GD, \[125\].
 
-[\[note: 70\]](#Ftn_70_1)4RA(A), p 223.
+[^70]: 4RA(A), p 223.
 
-[\[note: 71\]](#Ftn_71_1)3RA(F), p 17, lines 15–25.
+[^71]: 3RA(F), p 17, lines 15–25.
 
-[\[note: 72\]](#Ftn_72_1)3RA(F), p 18, lines 4–5.
+[^72]: 3RA(F), p 18, lines 4–5.
 
-[\[note: 73\]](#Ftn_73_1)3RA(F), p 14, lines 10–13.
+[^73]: 3RA(F), p 14, lines 10–13.
 
-[\[note: 74\]](#Ftn_74_1)4RA(D), p 55.
+[^74]: 4RA(D), p 55.
 
-[\[note: 75\]](#Ftn_75_1)3RA(F), p 28, lines 10–28; p 29, lines 15–23.
+[^75]: 3RA(F), p 28, lines 10–28; p 29, lines 15–23.
 
-[\[note: 76\]](#Ftn_76_1)4RA(D), p 41.
+[^76]: 4RA(D), p 41.
 
-[\[note: 77\]](#Ftn_77_1)3RA(F), p 28, lines 10–28.
+[^77]: 3RA(F), p 28, lines 10–28.
 
-[\[note: 78\]](#Ftn_78_1)4RA(D), p 192.
+[^78]: 4RA(D), p 192.
 
-[\[note: 79\]](#Ftn_79_1)4RA(A), pp 195 and 201.
+[^79]: 4RA(A), pp 195 and 201.
 
-[\[note: 80\]](#Ftn_80_1)2CB(A), p 60.
+[^80]: 2CB(A), p 60.
 
-[\[note: 81\]](#Ftn_81_1)GD, \[145\].
+[^81]: GD, \[145\].
 
-[\[note: 82\]](#Ftn_82_1)4RA(D), p 127; 4RA(F), p 261.
+[^82]: 4RA(D), p 127; 4RA(F), p 261.
 
-[\[note: 83\]](#Ftn_83_1)4RA(C), p 77.
+[^83]: 4RA(C), p 77.
 
-[\[note: 84\]](#Ftn_84_1)4RA(A), pp 195, 201
+[^84]: 4RA(A), pp 195, 201
 
-[\[note: 85\]](#Ftn_85_1)2 CB(A), p 118.
+[^85]: 2 CB(A), p 118.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F22878-SSP.xml)

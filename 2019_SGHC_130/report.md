@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # China Railway No 5 Engineering Group Co Ltd Singapore Branch _v_ Zhao Yang Geotechnic Pte Ltd  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Originating Summons No 443 of 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">22 May 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Chan Seng Onn J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Tan Jin Yong (Lee &amp; Lee) for the plaintiff; Choa Sn-Yien Brendon and Zachariah Chow Jie Rui (ACIES Law Corporation) for the defendant.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">China Railway No. 5 Engineering Group Co Ltd Singapore Branch — Zhao Yang Geotechnic Pte Ltd</td></tr></tbody></table>
@@ -18,25 +19,25 @@ Building and Construction Law – Statutes and regulations – Building and 
 
 ## Facts
 
-4       The plaintiff, China Railway No 5 Engineering Group Co Ltd Singapore Branch (“the main contractor”) engaged the defendant, Zhao Yang Geotechnic Pte Ltd (“the sub-contractor”) to carry out works in relation to the “design and construction of Lentor station and construction of tunnels for Thomson line”.[\[note: 1\]](#Ftn_1)
+4       The plaintiff, China Railway No 5 Engineering Group Co Ltd Singapore Branch (“the main contractor”) engaged the defendant, Zhao Yang Geotechnic Pte Ltd (“the sub-contractor”) to carry out works in relation to the “design and construction of Lentor station and construction of tunnels for Thomson line”.[^1]
 
 ### The first adjudication
 
-5       On 25 September 2018, the sub-contractor issued Payment Claim 35 (“PC35”), claiming from the main contractor a total sum of $848,584.93 (inclusive of Goods and Services Tax (“GST”)).[\[note: 2\]](#Ftn_2) The total sum related to works completed from 20 October 2015 to 25 September 2015.[\[note: 3\]](#Ftn_3) Following a dispute in relation to PC35, the parties referred the matter to adjudication.
+5       On 25 September 2018, the sub-contractor issued Payment Claim 35 (“PC35”), claiming from the main contractor a total sum of $848,584.93 (inclusive of Goods and Services Tax (“GST”)).[^2] The total sum related to works completed from 20 October 2015 to 25 September 2015.[^3] Following a dispute in relation to PC35, the parties referred the matter to adjudication.
 
-6       By his AD dated 13 December 2018, the adjudicator determined that $692,051.21 (inclusive of GST) was payable by the main contractor to the sub-contractor (“1AD”).[\[note: 4\]](#Ftn_4) It is not disputed that the adjudicated sum was paid in full by the main contractor to the sub-contractor.[\[note: 5\]](#Ftn_5)
+6       By his AD dated 13 December 2018, the adjudicator determined that $692,051.21 (inclusive of GST) was payable by the main contractor to the sub-contractor (“1AD”).[^4] It is not disputed that the adjudicated sum was paid in full by the main contractor to the sub-contractor.[^5]
 
 ### The second adjudication
 
-7       Not long after 1AD was issued, on 20 December 2018, the main contractor called on an on-demand performance bond issued by the United Overseas Bank Ltd (“UOB”) in favour of the main contractor for the sum of $281,441.95.[\[note: 6\]](#Ftn_6) The performance bond had been procured by the sub-contractor to serve as “a deposit or security for the due performance and observance by the Sub-Contractor of all stipulations, terms and conditions contained in the Sub-Contract.”[\[note: 7\]](#Ftn_7)
+7       Not long after 1AD was issued, on 20 December 2018, the main contractor called on an on-demand performance bond issued by the United Overseas Bank Ltd (“UOB”) in favour of the main contractor for the sum of $281,441.95.[^6] The performance bond had been procured by the sub-contractor to serve as “a deposit or security for the due performance and observance by the Sub-Contractor of all stipulations, terms and conditions contained in the Sub-Contract.”[^7]
 
-8       As a result of the call on the performance bond, on 25 December 2018, the sub-contractor served Payment Claim 36 (“PC36”) on the main contractor for the sum of $301,142.89, being the value of the performance bond which had been called and 7% GST.[\[note: 8\]](#Ftn_8)
+8       As a result of the call on the performance bond, on 25 December 2018, the sub-contractor served Payment Claim 36 (“PC36”) on the main contractor for the sum of $301,142.89, being the value of the performance bond which had been called and 7% GST.[^8]
 
-9       In response to PC36, the main contractor issued its payment response, disputing the validity of PC36 as there was “no claim for any new works under PC 36 which is a repeat claim”.[\[note: 9\]](#Ftn_9) Further, the main contractor explained that PC36 was “not even a claim for construction work under the \[SOPA\] but rather an attempt by \[the sub-contractor\] to recover the sum of $281,441.95 paid to \[the main contractor\] under the unconditional performance bond”.[\[note: 10\]](#Ftn_10)
+9       In response to PC36, the main contractor issued its payment response, disputing the validity of PC36 as there was “no claim for any new works under PC 36 which is a repeat claim”.[^9] Further, the main contractor explained that PC36 was “not even a claim for construction work under the \[SOPA\] but rather an attempt by \[the sub-contractor\] to recover the sum of $281,441.95 paid to \[the main contractor\] under the unconditional performance bond”.[^10]
 
-10     Given the dispute between the parties, the matter was referred to adjudication. At the adjudication, the adjudicator held that he had the jurisdiction to adjudicate on PC36 which relatedly _solely_ to the proceeds of the performance bond. In summary, as Tan J had held in _SH Design_ that the adjudicator therein did not exceed his jurisdiction by accounting for the bond proceeds in that case,[\[note: 11\]](#Ftn_11) and given that performance bonds are “an integral part of a construction contract”,[\[note: 12\]](#Ftn_12) the adjudicator determined that the adjudication application under SOPA was “a proper forum to address the issue of performance bond proceeds and hence, the adjudicator ha\[d\] the jurisdiction to adjudicate on this”.[\[note: 13\]](#Ftn_13)
+10     Given the dispute between the parties, the matter was referred to adjudication. At the adjudication, the adjudicator held that he had the jurisdiction to adjudicate on PC36 which relatedly _solely_ to the proceeds of the performance bond. In summary, as Tan J had held in _SH Design_ that the adjudicator therein did not exceed his jurisdiction by accounting for the bond proceeds in that case,[^11] and given that performance bonds are “an integral part of a construction contract”,[^12] the adjudicator determined that the adjudication application under SOPA was “a proper forum to address the issue of performance bond proceeds and hence, the adjudicator ha\[d\] the jurisdiction to adjudicate on this”.[^13]
 
-11     Having found that he had jurisdiction to determine the matter, the adjudicator determined that the main contractor was to pay the sum of $281,441.95 (excluding GST) to the sub-contractor (“2AD”).[\[note: 14\]](#Ftn_14) By mirroring the sum called under the performance bond, 2AD reversed the call on the performance bond entirely.
+11     Having found that he had jurisdiction to determine the matter, the adjudicator determined that the main contractor was to pay the sum of $281,441.95 (excluding GST) to the sub-contractor (“2AD”).[^14] By mirroring the sum called under the performance bond, 2AD reversed the call on the performance bond entirely.
 
 12     Dissatisfied with the adjudicator’s determination, the main contractor applied to set aside 2AD.
 
@@ -90,11 +91,11 @@ Building and Construction Law – Statutes and regulations – Building and 
 
 ### The main contractor’s argument: PC36 was not a claim for construction work
 
-27     In this regard, the main contractor argues that PC36 is an invalid payment claim as it is not a claim for “construction work”.[\[note: 15\]](#Ftn_15) Since PC36 relates only to the recovery of the performance bond proceeds and not for any works done, the main contractor submits that PC36 is an invalid payment claim, served in breach of s 10(1) SOPA.
+27     In this regard, the main contractor argues that PC36 is an invalid payment claim as it is not a claim for “construction work”.[^15] Since PC36 relates only to the recovery of the performance bond proceeds and not for any works done, the main contractor submits that PC36 is an invalid payment claim, served in breach of s 10(1) SOPA.
 
 ### The sub-contractor’s reply: there is no requirement that construction work be done for a payment claim to be served
 
-28     In reply, the sub-contractor argues that there “is no statutory requirement that the \[sub-contractor\] must have carried out new works since the previous payment claim”.[\[note: 16\]](#Ftn_16)
+28     In reply, the sub-contractor argues that there “is no statutory requirement that the \[sub-contractor\] must have carried out new works since the previous payment claim”.[^16]
 
 #### SH Design
 
@@ -112,11 +113,11 @@ Building and Construction Law – Statutes and regulations – Building and 
 
 34     This was necessary to “finalise the accounts between the parties” as the subcontract had been terminated on the same day as the call on the performance bond by the Owner (_SH Design_ at \[54\]). Accordingly, Tan J found that the adjudicator had not exceeded his jurisdiction by accounting for the bond proceeds.
 
-35     The sub-contractor asserts, on the basis of _SH Design_, that it is “clear that an adjudication under the SOP Act is the proper forum to account for such ‘performance bond’ proceeds.”[\[note: 17\]](#Ftn_17) I do not agree.
+35     The sub-contractor asserts, on the basis of _SH Design_, that it is “clear that an adjudication under the SOP Act is the proper forum to account for such ‘performance bond’ proceeds.”[^17] I do not agree.
 
 36     In _SH Design_, there was no doubt that the payment claim related to progress payment for construction works that had been carried out by the defendant. Indeed, in arriving at the adjudicated sum, the adjudicator had considered that $1,050,344.52 was owed to the defendant for work done (_SH Design_ at \[18\]). The bond proceeds were raised by the plaintiff in its payment response, and only featured in the accounting stage when the adjudicator was determining the final adjudicated amount. As the payment claim was for work done, it was clearly valid, and the issue of breaching s 10(1) SOPA did not even arise before the adjudicator or Tan J. Therefore, the portion of _SH Design_ relied on by the sub-contractor only relates to the correctness of accounting for performance bond proceeds _after_ a valid payment claim has been filed. _SH Design_ does not conclusively determine that any payment claim exclusively for the proceeds of the performance bond will be a valid payment claim that is within the confines of s 10(1) SOPA.
 
-37     In the present case, PC36 relates _entirely_ to the performance bond proceeds, and it is not disputed that it is not a claim for any construction work done by the sub-contractor which remains unpaid. In fact, the Statement of Claim attached by the sub-contractor to PC36 clearly stipulates that the claimed sum therein was for “(disputed) backcharges by \[the main contractor\] amounting to $281,441.95, … made via their letter dated 20 December 2018 to UOB demanding payment of the Guaranteed Sum of $281,441.95 under UOB’s Performance Bond…”.[\[note: 18\]](#Ftn_18) Hence, rather than being a claim for construction works or the supply of goods or services, PC36 is indubitably a claim to recover the proceeds of the performance bond.
+37     In the present case, PC36 relates _entirely_ to the performance bond proceeds, and it is not disputed that it is not a claim for any construction work done by the sub-contractor which remains unpaid. In fact, the Statement of Claim attached by the sub-contractor to PC36 clearly stipulates that the claimed sum therein was for “(disputed) backcharges by \[the main contractor\] amounting to $281,441.95, … made via their letter dated 20 December 2018 to UOB demanding payment of the Guaranteed Sum of $281,441.95 under UOB’s Performance Bond…”.[^18] Hence, rather than being a claim for construction works or the supply of goods or services, PC36 is indubitably a claim to recover the proceeds of the performance bond.
 
 38     The appropriate query is therefore whether a payment claim purely for the performance bond proceeds is a valid one under s 10(1) SOPA. In this regard, for the reasons given at \[36\] above, _SH Design_ does not assist the sub-contractor.
 
@@ -134,7 +135,7 @@ Building and Construction Law – Statutes and regulations – Building and 
 
 43     Furthermore, allowing PC36 will negate the efficacy of the performance bond entirely, thus defeating the bargain struck between the parties.
 
-44     To elaborate, the parties had agreed to a performance bond in favour of the main contractor for the sum of $281,441.95. The performance bond was issued as a “deposit or security for the due performance and observance by the Sub-Contractor” of the contract.[\[note: 19\]](#Ftn_19) It was also stipulated that the main contractor could require payment of the performance bond proceeds “without any deductions whatsoever and notwithstanding the existence of any differences or disputes between the Main Contractor and the Sub-Contractor arising out of or in connection with the Contract or the carrying out of the works there under…”.[\[note: 20\]](#Ftn_20)
+44     To elaborate, the parties had agreed to a performance bond in favour of the main contractor for the sum of $281,441.95. The performance bond was issued as a “deposit or security for the due performance and observance by the Sub-Contractor” of the contract.[^19] It was also stipulated that the main contractor could require payment of the performance bond proceeds “without any deductions whatsoever and notwithstanding the existence of any differences or disputes between the Main Contractor and the Sub-Contractor arising out of or in connection with the Contract or the carrying out of the works there under…”.[^20]
 
 45     It is therefore clear that the performance bond functions as a deposit or security, and does not have to be used to offset any liquidated damages, back-charges or other sums owed by the sub-contractor to the main contractor.
 
@@ -152,45 +153,45 @@ Building and Construction Law – Statutes and regulations – Building and 
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)Lim Yit Sin’s 1st Affidavit (4 April 2019) (“LYS”) at Tab LYS-2, p 37.
+[^1]: Lim Yit Sin’s 1st Affidavit (4 April 2019) (“LYS”) at Tab LYS-2, p 37.
 
-[\[note: 2\]](#Ftn_2_1)LYS at Tab LYS-4, p 83, paras 11 and 12.
+[^2]: LYS at Tab LYS-4, p 83, paras 11 and 12.
 
-[\[note: 3\]](#Ftn_3_1)LYS at Tab LYS-4, p 83, para 12.
+[^3]: LYS at Tab LYS-4, p 83, para 12.
 
-[\[note: 4\]](#Ftn_4_1)LYS at Tab LYS-4, p 80, para 4(a).
+[^4]: LYS at Tab LYS-4, p 80, para 4(a).
 
-[\[note: 5\]](#Ftn_5_1)LYS at Tab LYS-5, pp 640–642.
+[^5]: LYS at Tab LYS-5, pp 640–642.
 
-[\[note: 6\]](#Ftn_6_1)LYS at Tab LYS-3, p 74.
+[^6]: LYS at Tab LYS-3, p 74.
 
-[\[note: 7\]](#Ftn_7_1)LYS at Tab LYS-3, p 70.
+[^7]: LYS at Tab LYS-3, p 70.
 
-[\[note: 8\]](#Ftn_8_1)LYS at Tab LYS-5, p 249.
+[^8]: LYS at Tab LYS-5, p 249.
 
-[\[note: 9\]](#Ftn_9_1)LYS at Tab LYS-5, p 440.
+[^9]: LYS at Tab LYS-5, p 440.
 
-[\[note: 10\]](#Ftn_10_1)LYS at Tab LYS-5, p 440.
+[^10]: LYS at Tab LYS-5, p 440.
 
-[\[note: 11\]](#Ftn_11_1)LYS at Tab LYS-1, p 23, para 26.
+[^11]: LYS at Tab LYS-1, p 23, para 26.
 
-[\[note: 12\]](#Ftn_12_1)LYS at Tab LYS-1, p 27, para 42.
+[^12]: LYS at Tab LYS-1, p 27, para 42.
 
-[\[note: 13\]](#Ftn_13_1)LYS at Tab LYS-1, p 28, para 43.
+[^13]: LYS at Tab LYS-1, p 28, para 43.
 
-[\[note: 14\]](#Ftn_14_1)LYS at Tab LYS-1, p 16, para 3(a).
+[^14]: LYS at Tab LYS-1, p 16, para 3(a).
 
-[\[note: 15\]](#Ftn_15_1)The Main Contractor’s Skeletal Submissions at p 9, Part V.
+[^15]: The Main Contractor’s Skeletal Submissions at p 9, Part V.
 
-[\[note: 16\]](#Ftn_16_1)The Sub-Contractor’s Skeletal Submissions at p 11, para 15.
+[^16]: The Sub-Contractor’s Skeletal Submissions at p 11, para 15.
 
-[\[note: 17\]](#Ftn_17_1)The Sub-Contractor’s Skeletal Submissions at para 7.
+[^17]: The Sub-Contractor’s Skeletal Submissions at para 7.
 
-[\[note: 18\]](#Ftn_18_1)LYS at Tab LYS-5, p 257.
+[^18]: LYS at Tab LYS-5, p 257.
 
-[\[note: 19\]](#Ftn_19_1)LYS at Tab LYS-3, p 70.
+[^19]: LYS at Tab LYS-3, p 70.
 
-[\[note: 20\]](#Ftn_20_1)LYS at Tab LYS-3, p 72.
+[^20]: LYS at Tab LYS-3, p 72.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23171-SSP.xml)

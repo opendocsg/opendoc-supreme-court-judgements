@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # Seraya Energy Pte Ltd _v_ Denka Advantech Pte Ltd and another suit (YTL PowerSeraya Pte Ltd, third party)  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Suit Nos 1328 and 1329 of 2014</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">02 January 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Woo Bih Li J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Thio Shen Yi SC, Chan Kah Keen Melvin, Koh Li Qun, Kelvin and Hannah Tjoa Kai Xuan (TSMP Law Corporation) for the plaintiff and third party; Tay Twan Lip Philip and Yip Li Ming (Rajah &amp; Tann Singapore LLP) for the defendants.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Seraya Energy Pte Ltd — Denka Advantech Private Limited — Denka Advantech Private Limited — Seraya Energy Pte Ltd — YTL PowerSeraya Pte Limited</td></tr></tbody></table>
@@ -20,7 +21,7 @@ Contract – Remedies – Mitigation of damage
 
 ## Introduction
 
-1       The plaintiff, Seraya Energy Pte Ltd (“SE”), is a wholly owned subsidiary of the third party, YTL PowerSeraya Pte Limited (“YTL”). YTL is in the business of generating electricity, which it sells to the National Electricity Market of Singapore (“NEMS”). SE is a retailer which buys electricity from NEMS and sells it to contestable customers which excludes customers residing in residential properties.[\[note: 1\]](#Ftn_1) I will elaborate later on the electricity market in Singapore.
+1       The plaintiff, Seraya Energy Pte Ltd (“SE”), is a wholly owned subsidiary of the third party, YTL PowerSeraya Pte Limited (“YTL”). YTL is in the business of generating electricity, which it sells to the National Electricity Market of Singapore (“NEMS”). SE is a retailer which buys electricity from NEMS and sells it to contestable customers which excludes customers residing in residential properties.[^1] I will elaborate later on the electricity market in Singapore.
 
 2       The present consolidated suit is a consolidation of two actions, Suit Nos 1328 and 1329 of 2014 by SE against two of its customers, the defendants, Denka Advantech Private Limited (“DAPL”) and Denka Singapore Private Limited (“DSPL”). In late 2012, SE entered into three electricity retail agreements (“ERAs”) – two were with DSPL and one was with DAPL. As nothing material turns on the distinction between DAPL and DSPL for present purposes, I will refer to DAPL and DSPL collectively as “Denka”. I will also occasionally use “Denka” to refer to either DAPL or DSPL in respect of the individual ERAs where there is no good reason to draw a distinction between DAPL and DSPL for present purposes.
 
@@ -38,7 +39,7 @@ Contract – Remedies – Mitigation of damage
 
 (b)     damages in respect of extra electricity charges which Denka had to pay SE as a result of SE’s alleged delay in transferring Denka’s account to the Market Support Services Licensee (“MSSL”) after Denka had given notice that it would not continue with the three ERAs; and
 
-(c)     damages for amounts which SE had received under three bank guarantees issued to cover Denka’s obligations under the three ERAs.[\[note: 2\]](#Ftn_2)
+(c)     damages for amounts which SE had received under three bank guarantees issued to cover Denka’s obligations under the three ERAs.[^2]
 
 8       Denka also claimed against YTL, as the third party, a declaration of non-liability under the three ERAs, or for YTL to indemnify and/or pay damages to Denka for breach of contract and/or fraudulent or negligent misrepresentation in respect of the package deal. The indemnity or claim for damages sought against YTL was in respect of a collateral contract or misrepresentations pertaining to the package deal. Denka claimed a declaration of non-liability and an indemnity against YTL for whatever Denka might be ordered to pay SE and amounts already paid by Denka to SE due to the delay in transferring Denka’s account to MSSL and amounts paid under the three bank guarantees to SE as mentioned above.
 
@@ -52,15 +53,15 @@ Contract – Remedies – Mitigation of damage
 
 12     Electricity generators, such as YTL, can only sell electricity to NEMS. In the current market, electricity generators are not allowed to sell electricity that they generate directly to end-users, _ie_, consumers.
 
-13     The price of the electricity that is sold to NEMS is the Uniform Singapore Energy Price (“USEP”). USEP is based on the weighted average of all the nodal prices of nodes at which electricity is deemed to be withdrawn.[\[note: 3\]](#Ftn_3) It is determined every 30 minutes by a computer model, known as the “Market Clearing Engine” (“MCE”).[\[note: 4\]](#Ftn_4) Electricity generators may submit bids every 30 minutes in “price-quantity” pairs, meaning they will indicate:
+13     The price of the electricity that is sold to NEMS is the Uniform Singapore Energy Price (“USEP”). USEP is based on the weighted average of all the nodal prices of nodes at which electricity is deemed to be withdrawn.[^3] It is determined every 30 minutes by a computer model, known as the “Market Clearing Engine” (“MCE”).[^4] Electricity generators may submit bids every 30 minutes in “price-quantity” pairs, meaning they will indicate:
 
 (a)     how much electricity they are willing and able to supply to NEMS; and
 
-(b)     the price they wish to charge for such quantity of electricity.[\[note: 5\]](#Ftn_5)
+(b)     the price they wish to charge for such quantity of electricity.[^5]
 
-14     MCE will then collate all the bids submitted by the generation companies and map them against the forecast of the expected electricity demand for that half-hour period. USEP at any one time is a fixed price (as opposed to a range of prices) determined by the intersection of the supply curve and the expected demand.[\[note: 6\]](#Ftn_6) Once USEP is determined, bids by electricity generators that are equal to or below USEP are accepted, whereas bids above USEP are rejected.[\[note: 7\]](#Ftn_7) Regardless of their actual bid prices (whether equal to or below USEP), all electricity generators that are called upon to generate in that half-hour will be paid for the electricity supplied to NEMS based on USEP. For example, if the price is $55/MWh (where “MWh” stands for “megawatt hour”), an electricity generator that submitted a bid at $30/MWh will still be paid $55/MWh for the electricity it supplies to NEMS in that half-hour.
+14     MCE will then collate all the bids submitted by the generation companies and map them against the forecast of the expected electricity demand for that half-hour period. USEP at any one time is a fixed price (as opposed to a range of prices) determined by the intersection of the supply curve and the expected demand.[^6] Once USEP is determined, bids by electricity generators that are equal to or below USEP are accepted, whereas bids above USEP are rejected.[^7] Regardless of their actual bid prices (whether equal to or below USEP), all electricity generators that are called upon to generate in that half-hour will be paid for the electricity supplied to NEMS based on USEP. For example, if the price is $55/MWh (where “MWh” stands for “megawatt hour”), an electricity generator that submitted a bid at $30/MWh will still be paid $55/MWh for the electricity it supplies to NEMS in that half-hour.
 
-15     The price of electricity paid by a retailer encompasses USEP, as well as the Hourly Energy Uplift Charge (“HEUC”). HEUC captures any differences between the total amounts received from retailers and the total amounts paid to electricity generators for energy, reserve and regulation products. The actual price paid for electricity from the wholesale market will typically be slightly higher than the aggregate sum of USEP and HEUC, as there are some additional charges such as the Energy Market Company administrative charges. However, these additional charges are relatively low, and therefore it is common for industry players to equate the aggregate sum of USEP and HEUC with the “Pool Price”.[\[note: 8\]](#Ftn_8)
+15     The price of electricity paid by a retailer encompasses USEP, as well as the Hourly Energy Uplift Charge (“HEUC”). HEUC captures any differences between the total amounts received from retailers and the total amounts paid to electricity generators for energy, reserve and regulation products. The actual price paid for electricity from the wholesale market will typically be slightly higher than the aggregate sum of USEP and HEUC, as there are some additional charges such as the Energy Market Company administrative charges. However, these additional charges are relatively low, and therefore it is common for industry players to equate the aggregate sum of USEP and HEUC with the “Pool Price”.[^8]
 
 16     In general, consumers of electricity fall into two categories:
 
@@ -70,9 +71,9 @@ Contract – Remedies – Mitigation of damage
 
 17     On the other hand, contestable consumers can choose between purchasing electricity from MSSL or from retailers, such as SE. If such consumers purchase electricity from MSSL, they will pay the Pool Price for the electricity they consume. If instead such consumers purchase electricity from retailers in the market, they may negotiate the price of electricity, as well as the duration of the contract with the retailers. Regardless of whether electricity is purchased from MSSL or from a retailer, electricity is supplied to the consumer from the pool. It was undisputed that a consumer can only purchase electricity for a specific location from one retailer or MSSL at any one point in time. A consumer cannot buy electricity concurrently from two sources for the same location.
 
-18     YTL and SE taken together form what is known as a “gentailer”. This essentially refers to a vertical integration of the generation and retail of electricity. This is the predominant structure in NEMS. In Singapore, eight of the 15 electricity generators and seven of the 22 retailers are related to each other.[\[note: 9\]](#Ftn_9) In 2015, seven out of these eight electricity generators produced a total of 90.5% of the electricity generated in Singapore,[\[note: 10\]](#Ftn_10) while the seven corresponding retailers (which have a related generation arm) accounted for more than approximately 96% of the contestable market.[\[note: 11\]](#Ftn_11) The remaining seven electricity generators that do not have related retail entities are not in the primary business of generating electricity. They produce electricity as a by-product of their main business, or primarily generate electricity for their own consumption.[\[note: 12\]](#Ftn_12)
+18     YTL and SE taken together form what is known as a “gentailer”. This essentially refers to a vertical integration of the generation and retail of electricity. This is the predominant structure in NEMS. In Singapore, eight of the 15 electricity generators and seven of the 22 retailers are related to each other.[^9] In 2015, seven out of these eight electricity generators produced a total of 90.5% of the electricity generated in Singapore,[^10] while the seven corresponding retailers (which have a related generation arm) accounted for more than approximately 96% of the contestable market.[^11] The remaining seven electricity generators that do not have related retail entities are not in the primary business of generating electricity. They produce electricity as a by-product of their main business, or primarily generate electricity for their own consumption.[^12]
 
-19     While there are 22 retailers in Singapore, only 11 have managed to capture a market share. Of these 11 retailers, the market is dominated by the seven retailers which have a related generation arm. The remaining four retailers are also not big players in the market. From 2014 to 2016, these four retailers did not even capture 1.5% of the market share.[\[note: 13\]](#Ftn_13)
+19     While there are 22 retailers in Singapore, only 11 have managed to capture a market share. Of these 11 retailers, the market is dominated by the seven retailers which have a related generation arm. The remaining four retailers are also not big players in the market. From 2014 to 2016, these four retailers did not even capture 1.5% of the market share.[^13]
 
 20     According to SE and YTL, the reason for this structure is that it helps mitigate the gentailer’s exposure to the Pool Price given that the price that the electricity generator receives from selling electricity into the pool is the price that the retailer pays for the electricity it purchases from the pool. With the gentailer structure, the gentailer’s retailing arm would then be paid by the consumer at the agreed contract price or pricing plan.
 
@@ -92,15 +93,15 @@ Contract – Remedies – Mitigation of damage
 
 (c)     “Monthly Connection Charge”: this was also a fixed amount.
 
-24     The SSA was to be for a term of 15 years commencing from the scheduled Commercial Operation Date which was originally supposed to be 1 February 2012. I mention first that eventually the Commercial Operation Date was 1 September 2012. Apparently DSPL was liable to pay LD under the SSA to PowerSeraya for the delay of seven months.[\[note: 14\]](#Ftn_14)
+24     The SSA was to be for a term of 15 years commencing from the scheduled Commercial Operation Date which was originally supposed to be 1 February 2012. I mention first that eventually the Commercial Operation Date was 1 September 2012. Apparently DSPL was liable to pay LD under the SSA to PowerSeraya for the delay of seven months.[^14]
 
 25     In May or June 2012, DSPL had indicated to PowerSeraya that it wanted to reduce the Minimum Acceptable Flow Level and Committed Capacity under the SSA which would correspondingly reduce the TOP.
 
-26     On 28 June 2012, DSPL wrote to PowerSeraya to put in writing its request which entailed amendments to the SSA.[\[note: 15\]](#Ftn_15) PowerSeraya was requested to agree to the reductions “out of goodwill”.
+26     On 28 June 2012, DSPL wrote to PowerSeraya to put in writing its request which entailed amendments to the SSA.[^15] PowerSeraya was requested to agree to the reductions “out of goodwill”.
 
 27     Various oral discussions and emails ensued. According to Denka, the discussions and emails involved Denka entering into ERAs with SE as a _quid pro quo_ for PowerSeraya/YTL agreeing to the requested reductions under the SSA.
 
-28     On 7 August 2012, YTL sent a letter to DSPL to offer DSPL a concession of the original terms under the SSA.[\[note: 16\]](#Ftn_16) This was referred to in the letter as the “Concession Offer”. Under the terms of the Concession Offer, the reductions stated therein were to commence on 1 September 2012 and apply until 31 January 2021. Hence the Commercial Operation Date under the SSA would be 1 September 2012 (as mentioned at \[24\] above). The terms of the Concession Offer also provided for:
+28     On 7 August 2012, YTL sent a letter to DSPL to offer DSPL a concession of the original terms under the SSA.[^16] This was referred to in the letter as the “Concession Offer”. Under the terms of the Concession Offer, the reductions stated therein were to commence on 1 September 2012 and apply until 31 January 2021. Hence the Commercial Operation Date under the SSA would be 1 September 2012 (as mentioned at \[24\] above). The terms of the Concession Offer also provided for:
 
 (a)     the execution by DSPL and YTL of the ASA to record their agreement in respect of the terms under the Concession Offer; and
 
@@ -108,9 +109,9 @@ Contract – Remedies – Mitigation of damage
 
 29     The terms of the Concession Offer anticipated that the ASA and the ERAs would be signed before 1 September 2012.
 
-30     On the same date, _ie_, 7 August 2012, SE also sent Denka its standard ERA for Denka’s review.[\[note: 17\]](#Ftn_17)
+30     On the same date, _ie_, 7 August 2012, SE also sent Denka its standard ERA for Denka’s review.[^17]
 
-31     On 14 August 2012, DSPL signed the relevant portion of the Concession Offer to accept the terms of the Concession Offer and handed this acceptance to YTL at a meeting between the parties held that day.[\[note: 18\]](#Ftn_18)
+31     On 14 August 2012, DSPL signed the relevant portion of the Concession Offer to accept the terms of the Concession Offer and handed this acceptance to YTL at a meeting between the parties held that day.[^18]
 
 32     According to YTL, the key commercial terms in respect of the concessions had already been set out in the Concession Offer. However, revisions to technical specifications and the Metering Protocol had to be resolved and incorporated into the ASA. Furthermore, the ASA would also include consequential amendments to the SSA arising from the terms in the Concession Offer.
 
@@ -126,11 +127,11 @@ Contract – Remedies – Mitigation of damage
 
 38     The details of the three ERAs were:
 
-(a)     ERA 2012/099 was entered into between SE and DSPL.[\[note: 19\]](#Ftn_19) As mentioned, SE signed it on 4 September 2012 and DSPL signed it on 9 November 2012. However, it was dated retrospectively to 1 September 2012. This ERA was amended by a supplemental agreement signed on or about 21 February 2014 but dated retrospectively to 1 November 2013.[\[note: 20\]](#Ftn_20) Both the first and supplemental agreements were to be construed together and I will refer to them collectively as “ERA 99”.
+(a)     ERA 2012/099 was entered into between SE and DSPL.[^19] As mentioned, SE signed it on 4 September 2012 and DSPL signed it on 9 November 2012. However, it was dated retrospectively to 1 September 2012. This ERA was amended by a supplemental agreement signed on or about 21 February 2014 but dated retrospectively to 1 November 2013.[^20] Both the first and supplemental agreements were to be construed together and I will refer to them collectively as “ERA 99”.
 
-(b)     ERA 2012/100 had terms which were different from those of ERA 99.[\[note: 21\]](#Ftn_21) This agreement was also entered into between SE and DSPL presumably on or about 9 November 2012 as well. This agreement was superseded by another which was apparently signed on or about 21 February 2014.[\[note: 22\]](#Ftn_22) For the purpose of the present action, it is the later agreement (“ERA 100”) which applied.
+(b)     ERA 2012/100 had terms which were different from those of ERA 99.[^21] This agreement was also entered into between SE and DSPL presumably on or about 9 November 2012 as well. This agreement was superseded by another which was apparently signed on or about 21 February 2014.[^22] For the purpose of the present action, it is the later agreement (“ERA 100”) which applied.
 
-(c)     ERA 2012/101 had similar terms to that for the first of the two agreements of ERA 99. It was signed on the same two dates as the first of the two agreements of ERA 99.[\[note: 23\]](#Ftn_23) However, the parties to ERA 2012/101 were SE and DAPL (instead of DSPL). There was also a supplemental agreement signed on or about 21 February 2014 but dated retrospectively to 1 November 2013.[\[note: 24\]](#Ftn_24) Both the first and supplemental agreements were to be construed together and I will refer to them collectively as “ERA 101”.
+(c)     ERA 2012/101 had similar terms to that for the first of the two agreements of ERA 99. It was signed on the same two dates as the first of the two agreements of ERA 99.[^23] However, the parties to ERA 2012/101 were SE and DAPL (instead of DSPL). There was also a supplemental agreement signed on or about 21 February 2014 but dated retrospectively to 1 November 2013.[^24] Both the first and supplemental agreements were to be construed together and I will refer to them collectively as “ERA 101”.
 
 39     I will also elaborate on the pricing plan under the three ERAs based on the closing submissions of SE and YTL. The pricing plan was known as an “Index Price Plan”. It was so named because the price of the electricity sold to Denka was based on a formula that varied with the prices of two indices: High Sulphur Fuel Oil (“HSFO”), and Foreign Exchange (“FX”). Examples of other pricing plans include:
 
@@ -146,9 +147,9 @@ Contract – Remedies – Mitigation of damage
 
 43     According to YTL/SE, in or about July 2014, Denka asked if SE could lower the electricity prices under the three ERAs if DSPL increased its consumption of steam. By then, the Pool Price for electricity had dropped so that Denka could likely purchase electricity from other sources at a price lower than that provided for in each of the three ERAs. Oral discussions were held and written proposals were made.
 
-44     However, on 20 August 2014, DSPL wrote to YTL to say that, “the supply of steam and electricity shall cease under the temporary measures of the Concession Offer dated 7 Aug 2012 and the \[three ERAs\] that were part of the Concession Offer with effect from 1 September 2014” \[original emphasis omitted\].[\[note: 25\]](#Ftn_25)
+44     However, on 20 August 2014, DSPL wrote to YTL to say that, “the supply of steam and electricity shall cease under the temporary measures of the Concession Offer dated 7 Aug 2012 and the \[three ERAs\] that were part of the Concession Offer with effect from 1 September 2014” \[original emphasis omitted\].[^25]
 
-45     On 25 August 2014, YTL replied:[\[note: 26\]](#Ftn_26)
+45     On 25 August 2014, YTL replied:[^26]
 
 (a)     YTL agreed to revert to the SSA, without amendment, from 1 September 2014 for the supply of steam.
 
@@ -160,17 +161,17 @@ Contract – Remedies – Mitigation of damage
 
 (e)     For ERA 100, YTL said it would transfer DSPL’s obligations (meaning DSPL’s account) to MSSL with effect from 2 September 2014 unless DSPL gave written instructions before close of business of 27 August 2014 to stop the transfer. YTL also claimed LD of $3,255,383.39 under ERA 100. The effective date of termination by SE of ERA 100 was 1 September 2014.
 
-46     On 28 August 2014, DSPL replied YTL.[\[note: 27\]](#Ftn_27) DSPL said:
+46     On 28 August 2014, DSPL replied YTL.[^27] DSPL said:
 
 (a)     The three ERAs were part of the Concession Offer which was subject to contract. The ASA was to be signed but it had not been entered into. It denied that the SSA had been amended at all. The only contract in question was the SSA and, under the SSA, DSPL was only obliged to buy steam and not electricity. It disputed YTL’s allegations of repudiation and breaches of the ERAs.
 
 (b)     DSPL’s position (for ERA 101) also reflected DAPL’s position as they were part of the same group.
 
-47     Also on 28 August 2014, SE wrote to DSPL in respect of ERA 100. It said that it had received DSPL’s termination for the retail of electricity for the relevant premises. The effective date of termination of DSPL’s account was 1 September 2014 and the account would be transferred to MSSL with effect from 2 September 2014. SE also claimed LD.[\[note: 28\]](#Ftn_28)
+47     Also on 28 August 2014, SE wrote to DSPL in respect of ERA 100. It said that it had received DSPL’s termination for the retail of electricity for the relevant premises. The effective date of termination of DSPL’s account was 1 September 2014 and the account would be transferred to MSSL with effect from 2 September 2014. SE also claimed LD.[^28]
 
-48     The exchange of correspondence continued till 13 November 2014. Eventually ERA 99 and ERA 101 were also terminated by SE on 15 October 2014[\[note: 29\]](#Ftn_29) and 14 November 2014[\[note: 30\]](#Ftn_30) respectively. SE also claimed LD under those contracts as well as payment for electricity supplied up to the dates of termination.
+48     The exchange of correspondence continued till 13 November 2014. Eventually ERA 99 and ERA 101 were also terminated by SE on 15 October 2014[^29] and 14 November 2014[^30] respectively. SE also claimed LD under those contracts as well as payment for electricity supplied up to the dates of termination.
 
-49     In the meantime, in a letter dated 3 September 2014 from DSPL to YTL,[\[note: 31\]](#Ftn_31) Denka had offered to continue purchasing electricity under the three ERAs pending a determination by the court of the disputes without admission of SE’s claim and to protect Denka’s rights (the “Mitigation Offer”). The Mitigation Offer was repeated but it was not accepted by SE.
+49     In the meantime, in a letter dated 3 September 2014 from DSPL to YTL,[^31] Denka had offered to continue purchasing electricity under the three ERAs pending a determination by the court of the disputes without admission of SE’s claim and to protect Denka’s rights (the “Mitigation Offer”). The Mitigation Offer was repeated but it was not accepted by SE.
 
 50     Denka did not draw any distinction between DSPL and DAPL or between YTL and SE in its correspondence on the ERAs. However, YTL and SE attempted to maintain the distinction between DSPL and DAPL for formal purposes. The distinction between DSPL and DAPL is not material for the arguments on liability and quantum of damages but it explains the reasons for some of the correspondence from SE.
 
@@ -198,7 +199,7 @@ Contract – Remedies – Mitigation of damage
 
 59     Before I continue, I will address some pleading points.
 
-60     Denka submitted that SE should not be allowed to rely on the exclusivity provisions to establish liability because the last set of amendments made by SE, pursuant to an order of court dated 9 November 2017, was to include, _inter alia_, paras 56 to 58 in the Statement of Claim (Amendment No 3) (“SOC Amendment 3”). Denka argued that the amendments were allowed by the court on SE’s submission that these paragraphs were to be included to establish the quantum of damages and not liability.[\[note: 32\]](#Ftn_32) I note that, for example, para 56 mentioned that SE has lost the benefit of the ERAs by reason of Denka’s repudiatory breaches.
+60     Denka submitted that SE should not be allowed to rely on the exclusivity provisions to establish liability because the last set of amendments made by SE, pursuant to an order of court dated 9 November 2017, was to include, _inter alia_, paras 56 to 58 in the Statement of Claim (Amendment No 3) (“SOC Amendment 3”). Denka argued that the amendments were allowed by the court on SE’s submission that these paragraphs were to be included to establish the quantum of damages and not liability.[^32] I note that, for example, para 56 mentioned that SE has lost the benefit of the ERAs by reason of Denka’s repudiatory breaches.
 
 61     While it is correct that SE had submitted that these amendments were to establish quantum and not liability, there were other paragraphs in SOC Amendment 3 which might allow SE to rely on the exclusivity provisions to establish liability.
 
@@ -350,7 +351,7 @@ _\[cll 10 to 15 omitted\]_
 
 101    SE’s position was that although the three ERAs were entered into because of the concessions made by YTL under the SSA, the three ERAs were standalone contracts. In that sense, they were not tied to the SSA or to the execution of the intended ASA. That was why SE disputed that Denka could rely on the package deal argument.
 
-102    Denka raised a myriad of defences to avoid its obligations under the three ERAs: estoppel arising from misrepresentation, implied term, collateral agreement or warranty, misrepresentation, rectification and mistake.[\[note: 33\]](#Ftn_33)
+102    Denka raised a myriad of defences to avoid its obligations under the three ERAs: estoppel arising from misrepresentation, implied term, collateral agreement or warranty, misrepresentation, rectification and mistake.[^33]
 
 103    Most, if not all, of these defences were based on the same premise, _ie_, that Denka had entered into the three ERAs on YTL’s or SE’s representation that the entry into the ERAs was inextricably connected to the signing of the ASA so that even though the parties had entered into the three ERAs, they could nevertheless withdraw from the contracts constituted under the ERAs if the ASA was not entered into. However, it was not clear whether Denka was relying on some fault on the part of YTL or SE or not in respect of each defence.
 
@@ -392,7 +393,7 @@ _\[cll 10 to 15 omitted\]_
 
 121    DSPL’s letter of 20 August 2014 made it clear that Denka did not wish to continue purchasing electricity under the three ERAs. I agree with SE that this was repudiatory conduct. However, SE’s reasons for terminating each of the ERAs were not all based on this repudiatory conduct of Denka, as I elaborate below.
 
-122    As mentioned at \[45\] above, for ERA 100, YTL had replied to DSPL on 25 August 2014 stating that the termination by DSPL as set out in DSPL’s letter of 20 August 2014 was a repudiatory breach.[\[note: 34\]](#Ftn_34) YTL said that it would transfer DSPL’s account to MSSL with effect from 2 September 2014 unless DSPL gave written instructions before close of business of 27 August 2014 otherwise. On 28 August 2014, SE followed up with a letter to DSPL in respect of ERA 100 to state that the termination of DSPL’s account was on 1 September 2014 and the account would be transferred to MSSL with effect from 2 September 2014. SE claimed LD.
+122    As mentioned at \[45\] above, for ERA 100, YTL had replied to DSPL on 25 August 2014 stating that the termination by DSPL as set out in DSPL’s letter of 20 August 2014 was a repudiatory breach.[^34] YTL said that it would transfer DSPL’s account to MSSL with effect from 2 September 2014 unless DSPL gave written instructions before close of business of 27 August 2014 otherwise. On 28 August 2014, SE followed up with a letter to DSPL in respect of ERA 100 to state that the termination of DSPL’s account was on 1 September 2014 and the account would be transferred to MSSL with effect from 2 September 2014. SE claimed LD.
 
 123    For ERA 99, YTL’s letter to DSPL of 25 August 2014 also stated that the termination by DSPL as set out in DSPL’s letter of 20 August 2014 was a repudiatory breach. YTL’s letter then gave notice to DSPL to perform its obligations under ERA 99 within ten calendar days. Although cl 8.2.2 of ERA 99 was not specifically mentioned in YTL’s letter, SE’s position was that YTL (as well as SE) was acting under that provision which states:
 
@@ -404,17 +405,17 @@ _\[cll 10 to 15 omitted\]_
 
 …
 
-124    SE sent a follow-up letter dated 4 September 2014 to DSPL.[\[note: 35\]](#Ftn_35) Although the letter was wrongly addressed to DAPL, Denka did not make any issue of this. In any event, SE rectified the error on 10 September 2014.[\[note: 36\]](#Ftn_36) In SE’s letters dated 4 September 2014 and 10 September 2014, SE confirmed that its position was as set out in YTL’s letter to DSPL dated 25 August 2014. SE asked DSPL to perform its obligations under ERA 99.
+124    SE sent a follow-up letter dated 4 September 2014 to DSPL.[^35] Although the letter was wrongly addressed to DAPL, Denka did not make any issue of this. In any event, SE rectified the error on 10 September 2014.[^36] In SE’s letters dated 4 September 2014 and 10 September 2014, SE confirmed that its position was as set out in YTL’s letter to DSPL dated 25 August 2014. SE asked DSPL to perform its obligations under ERA 99.
 
-125    In the meantime, DSPL was disagreeing that it was obliged to continue with any of the ERAs. Subsequently, on 7 October 2014, DSPL wrote to YTL to complain about the delay in transferring the other two accounts to MSSL (under ERA 99 and ERA 101, since the account under ERA 100 had already been transferred to MSSL).[\[note: 37\]](#Ftn_37) DSPL also said that it would pay for electricity supplied under ERA 99 and ERA 101 in the meantime based on MSSL’s electricity rates from 1 September 2014 since DSPL had said, through its initial letter dated 20 August 2014, that it was not continuing with the purchase of electricity from SE with effect from 1 September 2014. This intention to pay based on MSSL’s rates was repeated by DSPL in its letter dated 13 October 2014 to YTL.[\[note: 38\]](#Ftn_38)
+125    In the meantime, DSPL was disagreeing that it was obliged to continue with any of the ERAs. Subsequently, on 7 October 2014, DSPL wrote to YTL to complain about the delay in transferring the other two accounts to MSSL (under ERA 99 and ERA 101, since the account under ERA 100 had already been transferred to MSSL).[^37] DSPL also said that it would pay for electricity supplied under ERA 99 and ERA 101 in the meantime based on MSSL’s electricity rates from 1 September 2014 since DSPL had said, through its initial letter dated 20 August 2014, that it was not continuing with the purchase of electricity from SE with effect from 1 September 2014. This intention to pay based on MSSL’s rates was repeated by DSPL in its letter dated 13 October 2014 to YTL.[^38]
 
-126    Accordingly, on 13 October 2014, SE sent two letters to DSPL to terminate ERA 99 with effect from 15 October 2014 and to make the requisite transfer to MSSL on 16 October 2014.[\[note: 39\]](#Ftn_39)
+126    Accordingly, on 13 October 2014, SE sent two letters to DSPL to terminate ERA 99 with effect from 15 October 2014 and to make the requisite transfer to MSSL on 16 October 2014.[^39]
 
 127    As mentioned above, SE was purporting to terminate ERA 99 pursuant to cl 8.2.2 of ERA 99. I have set out its terms at \[123\] above. Under that provision, SE was entitled to terminate the contract if Denka was in breach of any of its obligations under the contract and failed to remedy the same within ten calendar days after being served with a written notice giving particulars of the breach and requiring it to be remedied.
 
 128    SE had assumed that this provision would apply when Denka repudiated the contract under ERA 99. It did not elaborate why cl 8.2.2 would apply. Denka disagreed with SE. Its submissions covered both ERA 99 and ERA 100.
 
-129    Denka submitted that even if there was repudiation by Denka which was denied, the repudiation was not a basis for payment of LD under the relevant ERAs.[\[note: 40\]](#Ftn_40) Clause 8.2.2 (of ERA 99) only applied if there was a breach of a contractual obligation by Denka and not if Denka repudiated the relevant contract. As there was no obligation on the part of Denka to purchase electricity from SE, there was no breach by Denka when DSPL sent its letter dated 20 August 2014 to cease purchasing electricity under the three ERAs.
+129    Denka submitted that even if there was repudiation by Denka which was denied, the repudiation was not a basis for payment of LD under the relevant ERAs.[^40] Clause 8.2.2 (of ERA 99) only applied if there was a breach of a contractual obligation by Denka and not if Denka repudiated the relevant contract. As there was no obligation on the part of Denka to purchase electricity from SE, there was no breach by Denka when DSPL sent its letter dated 20 August 2014 to cease purchasing electricity under the three ERAs.
 
 130    In my view, there were two sub-issues. The first was whether SE was entitled to terminate ERA 99 and ERA 100. The second was whether the relevant contractual provisions for LD were _prima facie_ engaged.
 
@@ -422,11 +423,11 @@ _\[cll 10 to 15 omitted\]_
 
 ##### (1)   ERA 100
 
-132    For ERA 100, the provision on termination was cl 5.1.2 of SELTERC[\[note: 41\]](#Ftn_41) which allowed SE to terminate for Denka’s breach if Denka failed to remedy such breach within five days of a written notice requiring it to remedy the breach. However, SE was not purporting to act under cl 5.1.2. Rather, it relied on its common law right to terminate based on Denka’s repudiation. I am of the view that SE was entitled to do so.
+132    For ERA 100, the provision on termination was cl 5.1.2 of SELTERC[^41] which allowed SE to terminate for Denka’s breach if Denka failed to remedy such breach within five days of a written notice requiring it to remedy the breach. However, SE was not purporting to act under cl 5.1.2. Rather, it relied on its common law right to terminate based on Denka’s repudiation. I am of the view that SE was entitled to do so.
 
-133    As for the next question whether the relevant contractual provision for LD was engaged, the relevant contractual provision in ERA 100 is cl 5.3 of SELTERC which states that, “If the Contract Period \[meaning the contract\] is _for any reason whatsoever_ terminated before the Expiry Date, the Customer \[_ie_, Denka\] shall immediately pay the Retailer \[_ie_, SE\] …” \[emphasis added\].[\[note: 42\]](#Ftn_42)
+133    As for the next question whether the relevant contractual provision for LD was engaged, the relevant contractual provision in ERA 100 is cl 5.3 of SELTERC which states that, “If the Contract Period \[meaning the contract\] is _for any reason whatsoever_ terminated before the Expiry Date, the Customer \[_ie_, Denka\] shall immediately pay the Retailer \[_ie_, SE\] …” \[emphasis added\].[^42]
 
-134    This is different from cl 8.4.2 of ERA 99 which states that, “if the Contract Duration \[meaning the contract\] is terminated _pursuant to Clause 8.2_, save for Clause 8.2.8 …” \[emphasis added\], LD is payable by Denka.[\[note: 43\]](#Ftn_43) In other words, for ERA 99, LD was payable if the contract was terminated pursuant to cl 8.2 but for ERA 100, LD was payable if the contract was terminated “for any reason whatsoever”. So for ERA 100, the termination did not have to be done under any particular contractual provision to give rise to a claim for LD. Hence, in my view, the relevant contractual provision for LD in ERA 100 was _prima facie_ engaged.
+134    This is different from cl 8.4.2 of ERA 99 which states that, “if the Contract Duration \[meaning the contract\] is terminated _pursuant to Clause 8.2_, save for Clause 8.2.8 …” \[emphasis added\], LD is payable by Denka.[^43] In other words, for ERA 99, LD was payable if the contract was terminated pursuant to cl 8.2 but for ERA 100, LD was payable if the contract was terminated “for any reason whatsoever”. So for ERA 100, the termination did not have to be done under any particular contractual provision to give rise to a claim for LD. Hence, in my view, the relevant contractual provision for LD in ERA 100 was _prima facie_ engaged.
 
 ##### (2)   ERA 99
 
@@ -440,13 +441,13 @@ _\[cll 10 to 15 omitted\]_
 
 138    I come now to ERA 101. Although its terms for termination and LD are the same as those for ERA 99, SE did not purport to terminate ERA 101 under cl 8.2.2 but under cl 8.2.1. Clause 8.2.1 allows SE to terminate the contract if Denka “fails to pay any amount due and payable to \[SE\] under this Agreement”. No period of warning or notice was required under cl 8.2.1.
 
-139    As SE had not yet terminated ERA 101 initially, SE continued to supply Denka with electricity under this contract from 1 September 2014. On 7 October 2014, Denka complained about the delay in transferring its account to MSSL (see \[125\] above). In the meantime, SE sent an invoice to Denka dated 10 October 2014 for the month of September 2014 based on the contractual rates (“October 2014 invoice”). A reminder for payment was sent on 7 November 2014 but Denka still did not pay. Accordingly, on 13 November 2014, SE wrote to Denka to terminate ERA 101 under cl 8.2.1 for Denka’s failure to pay that invoice with effect from 14 November 2014. The account was to be transferred to MSSL on 15 November 2014.[\[note: 44\]](#Ftn_44)
+139    As SE had not yet terminated ERA 101 initially, SE continued to supply Denka with electricity under this contract from 1 September 2014. On 7 October 2014, Denka complained about the delay in transferring its account to MSSL (see \[125\] above). In the meantime, SE sent an invoice to Denka dated 10 October 2014 for the month of September 2014 based on the contractual rates (“October 2014 invoice”). A reminder for payment was sent on 7 November 2014 but Denka still did not pay. Accordingly, on 13 November 2014, SE wrote to Denka to terminate ERA 101 under cl 8.2.1 for Denka’s failure to pay that invoice with effect from 14 November 2014. The account was to be transferred to MSSL on 15 November 2014.[^44]
 
 140    I have found that Denka was not entitled to cease purchasing electricity and that it had repudiated each of the three ERAs in attempting to cease its purchases. Accordingly, SE was entitled, but not obliged, to accept the repudiation and terminate each of the three ERAs or to terminate under any of the grounds applicable under the respective ERA. Until SE terminated ERA 101, SE was entitled to continue supplying electricity pursuant to ERA 101 and to charge accordingly for it. In other words, Denka was not entitled to take the position that it would pay only at MSSL’s rate. It was not disputed that the October 2014 invoice contained the correct quantum based on the contractual rates.
 
 141    Denka’s submission (at para 290 of its closing submissions) that there was no debt due to SE as at 1 September 2014 missed the point. SE was not alleging that it had terminated ERA 101 on 1 September 2014. Instead, it was using the unpaid October 2014 invoice as the reason for termination.
 
-142    Furthermore, the existence of a bank guarantee to cover Denka’s liability under ERA 101 did not mean that no amount was due and payable to SE at the material time. In Denka’s closing submissions, it submitted that electricity charges after 1 September 2014 were nonetheless paid in full as SE had called on the bank guarantee for payment.[\[note: 45\]](#Ftn_45) However, Denka did not elaborate as to when the October 2014 invoice was paid. It appeared that Denka’s argument was misleading. There was no evidence that the amount outstanding under the October 2014 invoice had in fact been paid through the bank guarantee before SE used the outstanding invoice as the ground to terminate the contract. SE’s letter of 13 November 2014 to Denka had stated that it was terminating ERA 101 as it had still not received payment of the sum due under the October 2014 invoice or any part thereof. Denka did not say then or at trial that in fact SE had already received payment under the relevant bank guarantee before the date of the letter. Accordingly, I infer that any payment under that bank guarantee was received by SE after SE terminated ERA 101.
+142    Furthermore, the existence of a bank guarantee to cover Denka’s liability under ERA 101 did not mean that no amount was due and payable to SE at the material time. In Denka’s closing submissions, it submitted that electricity charges after 1 September 2014 were nonetheless paid in full as SE had called on the bank guarantee for payment.[^45] However, Denka did not elaborate as to when the October 2014 invoice was paid. It appeared that Denka’s argument was misleading. There was no evidence that the amount outstanding under the October 2014 invoice had in fact been paid through the bank guarantee before SE used the outstanding invoice as the ground to terminate the contract. SE’s letter of 13 November 2014 to Denka had stated that it was terminating ERA 101 as it had still not received payment of the sum due under the October 2014 invoice or any part thereof. Denka did not say then or at trial that in fact SE had already received payment under the relevant bank guarantee before the date of the letter. Accordingly, I infer that any payment under that bank guarantee was received by SE after SE terminated ERA 101.
 
 143    In the circumstances, I am of the view that SE was entitled to and did validly terminate ERA 101 under cl 8.2.1. Under cl 8.4.2, LD was payable by Denka if the Contract Duration (meaning the contract) was terminated pursuant to cl 8.2. This covered cll 8.2.1 and 8.2.2. Therefore, the contractual provision for LD in ERA 101 was also _prima facie_ engaged.
 
@@ -500,7 +501,7 @@ B:    was the arithmetic average of the amount payable by Denka to SE in eac
 
 159    The _locus classicus_ on the principles applicable to distinguish between a provision for LD, which is enforceable, and one imposing a penalty, which is not enforceable, was for years the judgment of Lord Dunedin in _Dunlop Pneumatic Tyre Company, Limited v New Garage and Motor Company, Limited_ (“_Dunlop Pneumatic_”). The principles in that case were recently again applied by the Court of Appeal in 2015 in _Xia Zhengyan v Geng Changqing_ (“_Xia_”). However, subsequently in that same year, the UK Supreme Court issued its decision in _Cavendish Square Holding BV v Makdessi_ \[2016\] AC 1172 (“_Cavendish_”) which has been said to have reformulated the penalty rule.
 
-160    SE submitted that this court should adopt the new approach propounded in _Cavendish_ which has three key aspects:[\[note: 46\]](#Ftn_46)
+160    SE submitted that this court should adopt the new approach propounded in _Cavendish_ which has three key aspects:[^46]
 
 (a)     The penalty test is only applicable to a secondary obligation. It does not place any restriction on the freedom of the parties to agree on the primary obligations under a contract.
 
@@ -596,7 +597,7 @@ On the other hand:
 
 194    Denka submitted that SE did not genuinely address its mind to the quantum of its damages before including the formula for LD in each of the three ERAs. Hence, the formula was not a genuine pre-estimate of SE’s damages. The formula was plucked from the air and simply included in the contracts used by SE without even distinguishing between the differences in each contract. For example, earlier contracts for electricity supply between SE and Denka had the same formula even though they were for shorter durations.
 
-195    Mr Lim gave evidence that he had assessed SE’s damages by either working out some figures on his computer or on a scrap piece of paper, which he had not saved or had thrown away, before the formula was included in the ERAs.[\[note: 47\]](#Ftn_47) However, as Denka submitted, Mr Lim could only come up with a range of figures and he could not specifically show how the 40% figure was derived. Mr Lim eventually said he used 40% as a gauge or estimate of the damages that SE would suffer if each contract was terminated.
+195    Mr Lim gave evidence that he had assessed SE’s damages by either working out some figures on his computer or on a scrap piece of paper, which he had not saved or had thrown away, before the formula was included in the ERAs.[^47] However, as Denka submitted, Mr Lim could only come up with a range of figures and he could not specifically show how the 40% figure was derived. Mr Lim eventually said he used 40% as a gauge or estimate of the damages that SE would suffer if each contract was terminated.
 
 196    In attempting to justify the use of the 40% figure, SE’s expert, Mr Sharad Somani (“Mr Somani”), was of the view that the existence of a contract for difference (“CfD”) between SE and YTL, the electricity generator, should be disregarded. This was because the loss of SE should be considered on a group basis and SE’s loss should not be mitigated by the existence of the CfD. Denka’s expert, Mr Michael Timothy Thomas (“Mr Thomas”) disagreed.
 
@@ -672,7 +673,7 @@ Both parties accept that the phrase ‘consequential and indirect losses’ in C
 
 #### Computation of common law damages
 
-215    If the CfD was to be taken into account, Mr Thomas had calculated SE’s loss of profit to be $596,413 only[\[note: 48\]](#Ftn_48) before any discounting for acceleration. This was because under the CfD, YTL would bear the risk of fluctuations in the prices of oil and of electricity. Mr Somani agreed with this figure but he was of the view that the CfD should not be taken into account in computing common law damages as it was not an arms’ length transaction between SE and YTL. It was merely an internal device to allocate the risk as between SE and YTL within the group.
+215    If the CfD was to be taken into account, Mr Thomas had calculated SE’s loss of profit to be $596,413 only[^48] before any discounting for acceleration. This was because under the CfD, YTL would bear the risk of fluctuations in the prices of oil and of electricity. Mr Somani agreed with this figure but he was of the view that the CfD should not be taken into account in computing common law damages as it was not an arms’ length transaction between SE and YTL. It was merely an internal device to allocate the risk as between SE and YTL within the group.
 
 216    One of Denka’s arguments was that SE would not be in a better position than if Denka had continued with the three ERAs to the end date. Even if Denka had so continued, SE’s profit would have been curtailed in the light of the CfD.
 
@@ -720,101 +721,101 @@ Both parties accept that the phrase ‘consequential and indirect losses’ in C
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)Lim Sam San’s affidavit of evidence-in-chief (“AEIC”) at para 14.
+[^1]: Lim Sam San’s affidavit of evidence-in-chief (“AEIC”) at para 14.
 
-[\[note: 2\]](#Ftn_2_1)See Chia Miaw Ling’s AEIC at para 57.
+[^2]: See Chia Miaw Ling’s AEIC at para 57.
 
-[\[note: 3\]](#Ftn_3_1)Lim Sam San’s AEIC at para 19.
+[^3]: Lim Sam San’s AEIC at para 19.
 
-[\[note: 4\]](#Ftn_4_1)See Sharad Somani’s AEIC pp 19–20 at paras 3.3.1–3.3.2.
+[^4]: See Sharad Somani’s AEIC pp 19–20 at paras 3.3.1–3.3.2.
 
-[\[note: 5\]](#Ftn_5_1)See Sharad Somani’s AEIC p 20 at para 3.3.4.
+[^5]: See Sharad Somani’s AEIC p 20 at para 3.3.4.
 
-[\[note: 6\]](#Ftn_6_1)See Sharad Somani’s AEIC p 20 at para 3.3.5.
+[^6]: See Sharad Somani’s AEIC p 20 at para 3.3.5.
 
-[\[note: 7\]](#Ftn_7_1)Sharad Somani’s AEIC p 21 at para 3.3.6.
+[^7]: Sharad Somani’s AEIC p 21 at para 3.3.6.
 
-[\[note: 8\]](#Ftn_8_1)Lim Sam San’s AEIC at para 20.
+[^8]: Lim Sam San’s AEIC at para 20.
 
-[\[note: 9\]](#Ftn_9_1)Sharad Somani’s AEIC p 22 at para 3.4.8.
+[^9]: Sharad Somani’s AEIC p 22 at para 3.4.8.
 
-[\[note: 10\]](#Ftn_10_1)Sharad Somani’s AEIC p 22 at para 3.4.8.
+[^10]: Sharad Somani’s AEIC p 22 at para 3.4.8.
 
-[\[note: 11\]](#Ftn_11_1)Sharad Somani’s AEIC pp 22–23 at para 3.4.9.
+[^11]: Sharad Somani’s AEIC pp 22–23 at para 3.4.9.
 
-[\[note: 12\]](#Ftn_12_1)Lim Sam San’s AEIC at para 25.
+[^12]: Lim Sam San’s AEIC at para 25.
 
-[\[note: 13\]](#Ftn_13_1)See Sharad Somani’s Supplementary AEIC p 19 at para 4.4.3.
+[^13]: See Sharad Somani’s Supplementary AEIC p 19 at para 4.4.3.
 
-[\[note: 14\]](#Ftn_14_1)See Lim Sam San’s AEIC at paras 46–47.
+[^14]: See Lim Sam San’s AEIC at paras 46–47.
 
-[\[note: 15\]](#Ftn_15_1)1Agreed Bundle (“AB”) 295–296.
+[^15]: 1Agreed Bundle (“AB”) 295–296.
 
-[\[note: 16\]](#Ftn_16_1)1AB 304–307.
+[^16]: 1AB 304–307.
 
-[\[note: 17\]](#Ftn_17_1)2AB 717–749.
+[^17]: 2AB 717–749.
 
-[\[note: 18\]](#Ftn_18_1)1AB 307.
+[^18]: 1AB 307.
 
-[\[note: 19\]](#Ftn_19_1)1AB 158–181.
+[^19]: 1AB 158–181.
 
-[\[note: 20\]](#Ftn_20_1)1AB 215–220.
+[^20]: 1AB 215–220.
 
-[\[note: 21\]](#Ftn_21_1)1AB 182–190.
+[^21]: 1AB 182–190.
 
-[\[note: 22\]](#Ftn_22_1)1AB 221–230.
+[^22]: 1AB 221–230.
 
-[\[note: 23\]](#Ftn_23_1)1AB 191–214.
+[^23]: 1AB 191–214.
 
-[\[note: 24\]](#Ftn_24_1)1AB 231–236.
+[^24]: 1AB 231–236.
 
-[\[note: 25\]](#Ftn_25_1)1AB 360–361.
+[^25]: 1AB 360–361.
 
-[\[note: 26\]](#Ftn_26_1)1AB 362–363.
+[^26]: 1AB 362–363.
 
-[\[note: 27\]](#Ftn_27_1)1AB 364–365.
+[^27]: 1AB 364–365.
 
-[\[note: 28\]](#Ftn_28_1)1AB 606.
+[^28]: 1AB 606.
 
-[\[note: 29\]](#Ftn_29_1)1AB 646–648.
+[^29]: 1AB 646–648.
 
-[\[note: 30\]](#Ftn_30_1)1AB 674–675.
+[^30]: 1AB 674–675.
 
-[\[note: 31\]](#Ftn_31_1)1AB 368–369.
+[^31]: 1AB 368–369.
 
-[\[note: 32\]](#Ftn_32_1)See Denka’s reply submissions at para 9.
+[^32]: See Denka’s reply submissions at para 9.
 
-[\[note: 33\]](#Ftn_33_1)Defence and Counterclaim (Amendment No 3) at paras 84–89.
+[^33]: Defence and Counterclaim (Amendment No 3) at paras 84–89.
 
-[\[note: 34\]](#Ftn_34_1)1AB 362–363.
+[^34]: 1AB 362–363.
 
-[\[note: 35\]](#Ftn_35_1)1AB 609–610.
+[^35]: 1AB 609–610.
 
-[\[note: 36\]](#Ftn_36_1)1AB 621–622.
+[^36]: 1AB 621–622.
 
-[\[note: 37\]](#Ftn_37_1)1AB 380–381.
+[^37]: 1AB 380–381.
 
-[\[note: 38\]](#Ftn_38_1)1AB 382.
+[^38]: 1AB 382.
 
-[\[note: 39\]](#Ftn_39_1)1AB 646–648.
+[^39]: 1AB 646–648.
 
-[\[note: 40\]](#Ftn_40_1)See Denka’s closing submissions at paras 284–288.
+[^40]: See Denka’s closing submissions at paras 284–288.
 
-[\[note: 41\]](#Ftn_41_1)1AB 228.
+[^41]: 1AB 228.
 
-[\[note: 42\]](#Ftn_42_1)1AB 228.
+[^42]: 1AB 228.
 
-[\[note: 43\]](#Ftn_43_1)1AB 166.
+[^43]: 1AB 166.
 
-[\[note: 44\]](#Ftn_44_1)1AB 674–675.
+[^44]: 1AB 674–675.
 
-[\[note: 45\]](#Ftn_45_1)See Denka’s closing submissions at para 291.
+[^45]: See Denka’s closing submissions at para 291.
 
-[\[note: 46\]](#Ftn_46_1)See SE and YTL’s closing submissions at para 656.
+[^46]: See SE and YTL’s closing submissions at para 656.
 
-[\[note: 47\]](#Ftn_47_1)Lim Sam San’s AEIC at para 217.
+[^47]: Lim Sam San’s AEIC at para 217.
 
-[\[note: 48\]](#Ftn_48_1)See Michael Timothy Thomas’ 1st AEIC, dated 30 June 2017, at para 84 of the first report exhibited at p 19.
+[^48]: See Michael Timothy Thomas’ 1st AEIC, dated 30 June 2017, at para 84 of the first report exhibited at p 19.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F22683-SSP.xml)

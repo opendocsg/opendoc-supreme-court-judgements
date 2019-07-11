@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # BCBC Singapore Pte Ltd and another _v_ PT Bayan Resources TBK and another  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Suit No 1 of 2015</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">09 January 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Singapore International Commercial Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Quentin Loh J; Vivian Ramsey IJ; Anselmo Reyes IJ</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Francis Xavier SC, Jeremy Gan, Alina Chia, Tng Sheng Rong, Ang Tze Phern and Tee Su Mien (Rajah &amp; Tann LLP) for the plaintiffs; Davinder Singh SC, Tony Yeo, Jaikanth Shankar, Chan Yong Wei, Lydia Ni, Harsharan Kaur and Jerrie Tan (Drew &amp; Napier LLC) for the defendants.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">BCBC Singapore Pte Ltd — Binderless Coal Briquetting Company Pty Limited — PT Bayan Resources TBK — Bayan International Pte Ltd</td></tr></tbody></table>
@@ -90,11 +91,11 @@ Whilst on the current evidence, it seems likely that BCBCS would have been prepa
 
 14     First, there are WEC’s financial statements. BCBCS is an indirect wholly-owned subsidiary of WEC, a publicly listed Australian company. Before us in the Second Tranche, there were the following financial reports of WEC:
 
-(a)     WEC’s Appendix 5B Mining Exploration Entity Quarterly Report dated 31 October 2011 for the quarter ending 30 September 2011.[\[note: 1\]](#Ftn_1) This showed that WEC held A$167,550,000 at the end of the quarter, with an estimated cash outflow for the next quarter amounting to A$12,250,000.
+(a)     WEC’s Appendix 5B Mining Exploration Entity Quarterly Report dated 31 October 2011 for the quarter ending 30 September 2011.[^1] This showed that WEC held A$167,550,000 at the end of the quarter, with an estimated cash outflow for the next quarter amounting to A$12,250,000.
 
-(b)     WEC’s Appendix 5B Mining Exploration Entity Quarterly Report dated 31 January 2012 for the quarter ending 31 December 2011.[\[note: 2\]](#Ftn_2) This showed that WEC had cash reserves of A$150,014,000 as at 31 December 2011 and estimated cash outflows of A$6,000,000 for the next quarter, leaving WEC with estimated cash reserves of about A$144,000,000 after 31 March 2012.
+(b)     WEC’s Appendix 5B Mining Exploration Entity Quarterly Report dated 31 January 2012 for the quarter ending 31 December 2011.[^2] This showed that WEC had cash reserves of A$150,014,000 as at 31 December 2011 and estimated cash outflows of A$6,000,000 for the next quarter, leaving WEC with estimated cash reserves of about A$144,000,000 after 31 March 2012.
 
-(c)     WEC’s Interim Financial Report 2011 dated 9 March 2012.[\[note: 3\]](#Ftn_3) This audited report incorporated “the assets and liabilities of all subsidiaries of \[WEC\] as at 31 December 2011 and the results of all subsidiaries for the half-year then ended”. This showed that, as at 31 December 2011, the consolidated current cash assets of WEC were in the region of A$152,082,000. This also showed that, as at 31 December 2011, WEC’s current assets (comprising cash and cash equivalents, trade and other receivables) amounted to A$156,113,000, while current liabilities amounted to A$115,821,000. WEC’s net assets at the time came to A$238,138,000 (that is, total assets of A$391,382,000 minus total liabilities of A$153,244,000).
+(c)     WEC’s Interim Financial Report 2011 dated 9 March 2012.[^3] This audited report incorporated “the assets and liabilities of all subsidiaries of \[WEC\] as at 31 December 2011 and the results of all subsidiaries for the half-year then ended”. This showed that, as at 31 December 2011, the consolidated current cash assets of WEC were in the region of A$152,082,000. This also showed that, as at 31 December 2011, WEC’s current assets (comprising cash and cash equivalents, trade and other receivables) amounted to A$156,113,000, while current liabilities amounted to A$115,821,000. WEC’s net assets at the time came to A$238,138,000 (that is, total assets of A$391,382,000 minus total liabilities of A$153,244,000).
 
 15     Second, there was the evidence of Mr Brian Flannery, WEC’s Managing Director and Chief Executive Officer, as well as a director of the Plaintiffs and a former director of KSC. In his AEIC dated 28 December 2016, Mr Flannery expressly acknowledged that:
 
@@ -108,7 +109,7 @@ Mr Flannery reiterated:
 
 169.  …WEC was willing and able to put in the full sum required had BR refused to contribute, so long as BR was willing to comply with their end of the bargain to supply coal to KSC pursuant to the governing agreements.
 
-In cross-examination, as quoted extensively in paragraph 221 of our Second Tranche Judgment, he maintained his position:[\[note: 4\]](#Ftn_4)
+In cross-examination, as quoted extensively in paragraph 221 of our Second Tranche Judgment, he maintained his position:[^4]
 
 Q.You see, you're not answering my question. I didn't ask you whether they were blowing it up. My question is a simple one. You proposed an altogether new arrangement, which was if the supplied at HBA and bought at HBA, WEC would fund; correct?
 
@@ -120,7 +121,7 @@ The Defendants did not challenge Mr Flannery on the latter response.
 
 17     We are unable to accept the Defendants’ contentions.
 
-18     The fact is that the reports were in the hearing bundles and in evidence before the Court. The Defendants agree to their authenticity. Mr Flannery in his AEIC expressly referred to WEC’s Appendix 5B Mining Exploration Entity Quarterly Report dated 31 October 2011.[\[note: 5\]](#Ftn_5) He did so to point out the size of WEC’s cash reserves as at 30 September 2011. It seems to us that we are entitled to infer, from the size of WEC’s available cash reserves as at the end of 2011, that BCBCS (with the backing of its parent) would have had sufficient financial wherewithal to finance KSC until June 2012. If the Defendants were contending that, despite the apparent size of WEC’s cash reserves at the end of December 2011, BCBCS would not have been able to fund KSC until June 2012, it was incumbent upon the Defendants to put that point to Mr Flannery in cross-examination. That was not done. Instead, Mr Flannery’s statement in cross-examination that BCBCS “would continue with the project, at least until June of 2012” was allowed to go uncontradicted. If anything, an adverse inference should be drawn against the Defendants in so far as they failed to raise the point with Mr Flannery despite repeated and unequivocal statements in his AEIC and in cross-examination that BCBCS was able to fund KSC unilaterally until at least June 2012. This is especially since we had reminded parties at the start of the First Tranche that important points of their case must be put to the relevant witness.[\[note: 6\]](#Ftn_6)
+18     The fact is that the reports were in the hearing bundles and in evidence before the Court. The Defendants agree to their authenticity. Mr Flannery in his AEIC expressly referred to WEC’s Appendix 5B Mining Exploration Entity Quarterly Report dated 31 October 2011.[^5] He did so to point out the size of WEC’s cash reserves as at 30 September 2011. It seems to us that we are entitled to infer, from the size of WEC’s available cash reserves as at the end of 2011, that BCBCS (with the backing of its parent) would have had sufficient financial wherewithal to finance KSC until June 2012. If the Defendants were contending that, despite the apparent size of WEC’s cash reserves at the end of December 2011, BCBCS would not have been able to fund KSC until June 2012, it was incumbent upon the Defendants to put that point to Mr Flannery in cross-examination. That was not done. Instead, Mr Flannery’s statement in cross-examination that BCBCS “would continue with the project, at least until June of 2012” was allowed to go uncontradicted. If anything, an adverse inference should be drawn against the Defendants in so far as they failed to raise the point with Mr Flannery despite repeated and unequivocal statements in his AEIC and in cross-examination that BCBCS was able to fund KSC unilaterally until at least June 2012. This is especially since we had reminded parties at the start of the First Tranche that important points of their case must be put to the relevant witness.[^6]
 
 19     We therefore find, on the basis of the evidence before us during the Second Tranche, that BCBCS had the ability to fund KSC until completion of commissioning and testing or until June 2012.
 
@@ -136,17 +137,17 @@ The Defendants did not challenge Mr Flannery on the latter response.
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)Agreed core bundle of documents (“ABOD”), Vol 14, pp 10726–10741.
+[^1]: Agreed core bundle of documents (“ABOD”), Vol 14, pp 10726–10741.
 
-[\[note: 2\]](#Ftn_2_1)ABOD, Vol 14, pp 11100–11114.
+[^2]: ABOD, Vol 14, pp 11100–11114.
 
-[\[note: 3\]](#Ftn_3_1)ABOD, Vol 14, pp 11138–11157.
+[^3]: ABOD, Vol 14, pp 11138–11157.
 
-[\[note: 4\]](#Ftn_4_1)Certified Transcript, 6 January 2017, p 166.
+[^4]: Certified Transcript, 6 January 2017, p 166.
 
-[\[note: 5\]](#Ftn_5_1)Mr Flannery’s AEIC dated 28 December 2018 at para 169.
+[^5]: Mr Flannery’s AEIC dated 28 December 2018 at para 169.
 
-[\[note: 6\]](#Ftn_6_1)Certified Transcript, 17 November 2015, pp 2–4.
+[^6]: Certified Transcript, 17 November 2015, pp 2–4.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F22696-SSP.xml)

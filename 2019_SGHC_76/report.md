@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # Soh Tian Khoon Raymond _v_ Public Prosecutor  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Criminal Motion No 1 of 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">15 March 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Aedit Abdullah J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Nathan Edmund (Tan &amp; Pillai) for the applicant; Grace Goh Chioa Wei and Christopher Ong (Attorney-General's Chambers) for the respondent.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Raymond Soh Tian Khoon — Public Prosecutor</td></tr></tbody></table>
@@ -36,9 +37,9 @@ Evidence – Witnesses
 
 ## The parties’ cases
 
-9       The applicant submitted that the Prosecution should disclose the “delivery list” as it was admissible, credible and relevant. The “delivery list” would corroborate the applicant’s defence in the trial that he was not a purchaser of the duty-unpaid cigarettes. Such disclosure required two witnesses, namely, Ng and Faizal Ahamed, the investigating officer in charge of Ng’s case who drafted the statement of facts that Ng had pleaded guilty to, to be recalled and cross-examined pursuant to s 283 of the CPC.[\[note: 1\]](#Ftn_1)
+9       The applicant submitted that the Prosecution should disclose the “delivery list” as it was admissible, credible and relevant. The “delivery list” would corroborate the applicant’s defence in the trial that he was not a purchaser of the duty-unpaid cigarettes. Such disclosure required two witnesses, namely, Ng and Faizal Ahamed, the investigating officer in charge of Ng’s case who drafted the statement of facts that Ng had pleaded guilty to, to be recalled and cross-examined pursuant to s 283 of the CPC.[^1]
 
-10     The Prosecution responded that it was not obliged to disclose the “delivery list”. This “delivery list” was not a formal list disclosing names of buyers or orders of duty-unpaid cigarettes; it was constituted by various WeChat messages that were _prima facie_ inadmissible as hearsay. Even if they were admitted as an exception to hearsay, they were incomplete and hence not credible. Furthermore, the messages were not relevant: they neither undermined the Prosecution’s case nor strengthened the applicant’s case. The Prosecution’s case dealt with the applicant’s role as a coordinator of deliveries of duty-unpaid cigarettes. In comparison, Ng’s role was to perform the deliveries and collect payments. The messages concerned the specifics of these deliveries, and were not relevant to the Prosecution’s case against the applicant. It followed from the above that the court’s discretionary power under s 283 of the CPC should also not be exercised to recall Ng and Faizal Ahamed.[\[note: 2\]](#Ftn_2)
+10     The Prosecution responded that it was not obliged to disclose the “delivery list”. This “delivery list” was not a formal list disclosing names of buyers or orders of duty-unpaid cigarettes; it was constituted by various WeChat messages that were _prima facie_ inadmissible as hearsay. Even if they were admitted as an exception to hearsay, they were incomplete and hence not credible. Furthermore, the messages were not relevant: they neither undermined the Prosecution’s case nor strengthened the applicant’s case. The Prosecution’s case dealt with the applicant’s role as a coordinator of deliveries of duty-unpaid cigarettes. In comparison, Ng’s role was to perform the deliveries and collect payments. The messages concerned the specifics of these deliveries, and were not relevant to the Prosecution’s case against the applicant. It followed from the above that the court’s discretionary power under s 283 of the CPC should also not be exercised to recall Ng and Faizal Ahamed.[^2]
 
 ## My decision
 
@@ -62,9 +63,9 @@ Evidence – Witnesses
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)Applicant’s Submissions at pp 6–13.
+[^1]: Applicant’s Submissions at pp 6–13.
 
-[\[note: 2\]](#Ftn_2_1)Respondent’s Submissions at paras 14–42.
+[^2]: Respondent’s Submissions at paras 14–42.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F22938-SSP.xml)

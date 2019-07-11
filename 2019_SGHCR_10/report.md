@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # P & P Engineering & Construction Pte Ltd _v_ Kori Construction (S) Pte Ltd  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Suit No 1255 of 2016 (Summons No 2210 of 2019)</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">26 June 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Justin Yeo AR</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Mr Andrew John Hanam (Andrew LLC) for the Plaintiff; Mr Twang Kern Zern (Central Chambers Law Corporation) for the Defendant.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">P &amp; P Engineering &amp; Construction Pte Ltd — Kori Construction (S) Pte Ltd</td></tr></tbody></table>
@@ -28,7 +29,7 @@ It is ordered that:
 
 2.    Other outstanding issues to be resolved at the hearing to consider the Quantity Surveyor's report. Further legal costs to be discussed after the Quantity Surveyor issues the report.
 
-6       On 23 April 2019, the Plaintiff sought payment from the Defendant “on the admitted sum … of $79,019.50”, failing which, the Plaintiff “shall apply to court for Judgment on the sum of $79,019.50 pursuant to admission”.[\[note: 1\]](#Ftn_1) The Defendant contended that the certification “\[did\] not amount to an admission”, and was instead merely a verification and certification of the delivery orders carried out pursuant to the order in _P & P Engineering_.[\[note: 2\]](#Ftn_2) The Defendant further pointed out that as the Plaintiff disputed the certification and was not prepared to issue the necessary invoice, the Defendant was unable to make payment unless and until the actual sum due and payable was assessed by the jointly appointed quantity surveyor.
+6       On 23 April 2019, the Plaintiff sought payment from the Defendant “on the admitted sum … of $79,019.50”, failing which, the Plaintiff “shall apply to court for Judgment on the sum of $79,019.50 pursuant to admission”.[^1] The Defendant contended that the certification “\[did\] not amount to an admission”, and was instead merely a verification and certification of the delivery orders carried out pursuant to the order in _P & P Engineering_.[^2] The Defendant further pointed out that as the Plaintiff disputed the certification and was not prepared to issue the necessary invoice, the Defendant was unable to make payment unless and until the actual sum due and payable was assessed by the jointly appointed quantity surveyor.
 
 7       On 30 April 2019, the Plaintiff filed the present application (“the Application”) for interim payment of $79,019.50 and interest.
 
@@ -128,11 +129,11 @@ the Court may, if it thinks fit, and without prejudice to any contentions of the
 
 14     In his further submissions, Mr Hanam made the following contentions:
 
-(a)     First, O 29 r 11(1)(_a_), (_b_) and (_c_) of the Rules of Court were intended to cover all situations where a claim has been filed in Court and a plaintiff seeks interim payment prior to conclusion of the suit. Adopting a purposive interpretation, the present situation would fall within O 29 r 11(1)(_b_) of the Rules of Court; otherwise, the Plaintiff would be in a worse position simply because the Judge did not order an assessment of damages but instead ordered an “alternative way for damages to be determined”.[\[note: 3\]](#Ftn_3)
+(a)     First, O 29 r 11(1)(_a_), (_b_) and (_c_) of the Rules of Court were intended to cover all situations where a claim has been filed in Court and a plaintiff seeks interim payment prior to conclusion of the suit. Adopting a purposive interpretation, the present situation would fall within O 29 r 11(1)(_b_) of the Rules of Court; otherwise, the Plaintiff would be in a worse position simply because the Judge did not order an assessment of damages but instead ordered an “alternative way for damages to be determined”.[^3]
 
-(b)     Second, O 29 r 12(_c_) of the Rules of Court allows the Court to order interim payment in the situation where, if the action proceeded to trial, the plaintiff would obtain judgment against the defendant for a substantial sum of money “apart from any damages or costs”. The sum to be determined by the quantity surveyor would fall within such a description. While O 29 r 12(_c_) of the Rules of Court refers to “if the action proceeded to trial”, the word “trial” should be read purposively to “include an assessment by a third party which was ordered by the Court”.[\[note: 4\]](#Ftn_4)
+(b)     Second, O 29 r 12(_c_) of the Rules of Court allows the Court to order interim payment in the situation where, if the action proceeded to trial, the plaintiff would obtain judgment against the defendant for a substantial sum of money “apart from any damages or costs”. The sum to be determined by the quantity surveyor would fall within such a description. While O 29 r 12(_c_) of the Rules of Court refers to “if the action proceeded to trial”, the word “trial” should be read purposively to “include an assessment by a third party which was ordered by the Court”.[^4]
 
-(c)     Third, the Court “should be slow to adopt a construction which would… defeat the evident purpose of \[O 29 rr 11 and 12 of the Rules of Court\] forming, as they do, part of a single code” (citing _Shearson Lehman Brothers Inc and another v Maclaine, Watson & Co Ltd and others_ \[1987\] WLR 480 (“_Shearson Lehman Brothers_”) at 492H). The Defendant’s argument that the Plaintiff cannot avail itself of interim payment just because the quantification is being done by a third party outside the court is “repugnant to commonsense and contrary to the purpose of the interim payments code” (citing _Shearson Lehman Brothers_ at 493H).[\[note: 5\]](#Ftn_5)
+(c)     Third, the Court “should be slow to adopt a construction which would… defeat the evident purpose of \[O 29 rr 11 and 12 of the Rules of Court\] forming, as they do, part of a single code” (citing _Shearson Lehman Brothers Inc and another v Maclaine, Watson & Co Ltd and others_ \[1987\] WLR 480 (“_Shearson Lehman Brothers_”) at 492H). The Defendant’s argument that the Plaintiff cannot avail itself of interim payment just because the quantification is being done by a third party outside the court is “repugnant to commonsense and contrary to the purpose of the interim payments code” (citing _Shearson Lehman Brothers_ at 493H).[^5]
 
 15     Mr Twang argued in his further submissions that the present situation would not fall within either O 29 rr 11(1)(_b_) or 12(_c_) of the Rules of Court, for the following reasons:
 
@@ -196,15 +197,15 @@ the Court may, if it thinks fit, and without prejudice to any contentions of the
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)Affidavit of Krishnamoorthy Pugazendhi (30 April 2019), at p 23.
+[^1]: Affidavit of Krishnamoorthy Pugazendhi (30 April 2019), at p 23.
 
-[\[note: 2\]](#Ftn_2_1)Affidavit of Krishnamoorthy Pugazendhi (30 April 2019), at p 24.
+[^2]: Affidavit of Krishnamoorthy Pugazendhi (30 April 2019), at p 24.
 
-[\[note: 3\]](#Ftn_3_1)Plaintiff’s further submissions (27 May 2019), at paragraph 11.
+[^3]: Plaintiff’s further submissions (27 May 2019), at paragraph 11.
 
-[\[note: 4\]](#Ftn_4_1)Plaintiff’s further submissions (27 May 2019), at paragraph 12.
+[^4]: Plaintiff’s further submissions (27 May 2019), at paragraph 12.
 
-[\[note: 5\]](#Ftn_5_1)Plaintiff’s further submissions (27 May 2019), at paragraphs 13–14.
+[^5]: Plaintiff’s further submissions (27 May 2019), at paragraphs 13–14.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23314-SSP.xml)

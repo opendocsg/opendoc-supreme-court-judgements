@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # Sun Travels & Tours Pvt Ltd _v_ Hilton International Manage (Maldives) Pvt Ltd  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Civil Appeal No 221 of 2017</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">12 February 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Court of Appeal</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Andrew Phang Boon Leong JA; Judith Prakash JA; Steven Chong JA</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Andre Maniam SC, Jenny Tsin, Koh Jia Wen and Ayla Mark Shu'en (WongPartnership LLP) for the appellant; Toby Landau QC (instructed counsel, Essex Court Chambers Duxton (Singapore Group Practice)), Paul Tan, Alessa Pang and David Isidore Tan (Rajah &amp; Tann Singapore LLP) for the respondent.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Sun Travels &amp; Tours Pvt Ltd — Hilton International Manage (Maldives) Pvt Ltd</td></tr></tbody></table>
@@ -24,11 +25,11 @@ Arbitration – Anti-suit injunction
 
 4       Sun was a resort operator that owned the Iru Fushi Beach & Spa Resort in the Maldives (“the Hotel”). Hilton was a Maldivian-incorporated company affiliated with a large hospitality company operating hotels and resorts worldwide.
 
-5       In January 2009, Hilton and Sun began to discuss the possibility of entering into a management agreement.[\[note: 1\]](#Ftn_1) In the course of these discussions, Hilton provided a set of projections on occupancy rates, room rates and gross operating profit. This was subsequently revised on 26 February 2009,[\[note: 2\]](#Ftn_2) and this revised set of projections (“the Revised Projections”) was later relied on by Sun for its misrepresentation claims (see \[11\] below).
+5       In January 2009, Hilton and Sun began to discuss the possibility of entering into a management agreement.[^1] In the course of these discussions, Hilton provided a set of projections on occupancy rates, room rates and gross operating profit. This was subsequently revised on 26 February 2009,[^2] and this revised set of projections (“the Revised Projections”) was later relied on by Sun for its misrepresentation claims (see \[11\] below).
 
-6       On 27 February 2009, the parties entered into a management agreement under which Sun agreed to let Hilton manage the Hotel (“the Management Agreement”). On 1 May 2009, the Hotel was handed over to Hilton, and on 1 July 2009, the Hotel officially opened for business under the management of Hilton.[\[note: 3\]](#Ftn_3)
+6       On 27 February 2009, the parties entered into a management agreement under which Sun agreed to let Hilton manage the Hotel (“the Management Agreement”). On 1 May 2009, the Hotel was handed over to Hilton, and on 1 July 2009, the Hotel officially opened for business under the management of Hilton.[^3]
 
-7       Between 2010 and 2012, the Hotel’s gross operating profit was 37% to 43.1% below the Revised Projections.[\[note: 4\]](#Ftn_4) Sun became dissatisfied with the performance of the Hotel as managed by Hilton.[\[note: 5\]](#Ftn_5)
+7       Between 2010 and 2012, the Hotel’s gross operating profit was 37% to 43.1% below the Revised Projections.[^4] Sun became dissatisfied with the performance of the Hotel as managed by Hilton.[^5]
 
 8       On 30 April 2013, Sun gave notice to Hilton that the Management Agreement was terminated with immediate effect. On 2 May 2013, Hilton accepted Sun’s termination on the basis that it was a wrongful repudiation of the Management Agreement, and it considered itself discharged from all further contractual obligations to Sun under the Management Agreement.
 
@@ -38,13 +39,13 @@ Arbitration – Anti-suit injunction
 
 10     On 18 July 2013, the ICC Court of Arbitration fixed Singapore as the seat of the Arbitration.
 
-11     The list of issues for the Arbitration were set out in the parties’ Terms of Reference, dated 27 September 2013. The focus of the Arbitration was on the two justifications that Sun provided for terminating the Management Agreement. First, Sun alleged that the Revised Projections constituted fraudulent misrepresentations. Secondly, Sun alleged that Hilton had breached its obligation to use the “skill, effort, care, diligence and expertise reasonably expected of a prudent international operator” (cl 3.1.3 of the Management Agreement) by failing to (a) maintain proper books and records (cl 7.1); (b) repair and maintain the Hotel (cl 6.1); and (c) maintain proper financial controls and corporate governance (cl 6.2).[\[note: 6\]](#Ftn_6) Hilton disputed all of the above.[\[note: 7\]](#Ftn_7)
+11     The list of issues for the Arbitration were set out in the parties’ Terms of Reference, dated 27 September 2013. The focus of the Arbitration was on the two justifications that Sun provided for terminating the Management Agreement. First, Sun alleged that the Revised Projections constituted fraudulent misrepresentations. Secondly, Sun alleged that Hilton had breached its obligation to use the “skill, effort, care, diligence and expertise reasonably expected of a prudent international operator” (cl 3.1.3 of the Management Agreement) by failing to (a) maintain proper books and records (cl 7.1); (b) repair and maintain the Hotel (cl 6.1); and (c) maintain proper financial controls and corporate governance (cl 6.2).[^6] Hilton disputed all of the above.[^7]
 
-12     Both parties participated in the Arbitration, up until the date on which the Partial Award was delivered. The oral hearings took place during the period between 21 July 2014 and 31 July 2014.[\[note: 8\]](#Ftn_8) On 27 May 2015, the arbitral tribunal (“the Tribunal”) issued the Partial Award. The Tribunal dismissed Sun’s misrepresentation claims and found that Hilton was not in breach of the Management Agreement. The Tribunal awarded Hilton the sum of US$599,095.66 with interest for its pre-termination claims and £1,051,230.10 for legal and expert’s fees and expenses incurred in the Arbitration. It also awarded Hilton damages and costs of the Arbitration comprising the fees and expenses of the Tribunal and the ICC administrative expenses (both of which were to be reserved to a further award).[\[note: 9\]](#Ftn_9)
+12     Both parties participated in the Arbitration, up until the date on which the Partial Award was delivered. The oral hearings took place during the period between 21 July 2014 and 31 July 2014.[^8] On 27 May 2015, the arbitral tribunal (“the Tribunal”) issued the Partial Award. The Tribunal dismissed Sun’s misrepresentation claims and found that Hilton was not in breach of the Management Agreement. The Tribunal awarded Hilton the sum of US$599,095.66 with interest for its pre-termination claims and £1,051,230.10 for legal and expert’s fees and expenses incurred in the Arbitration. It also awarded Hilton damages and costs of the Arbitration comprising the fees and expenses of the Tribunal and the ICC administrative expenses (both of which were to be reserved to a further award).[^9]
 
-13     Following the release of the Partial Award, counsel for Sun ceased to represent Sun in the Arbitration, and asked the Tribunal to direct further correspondence directly to Sun.[\[note: 10\]](#Ftn_10) On 10 June 2015, Hilton made submissions to the Tribunal on the quantum of damages that Sun should be liable for. Sun chose not to respond to Hilton’s submissions even after the Tribunal afforded Sun ample opportunities to do so.
+13     Following the release of the Partial Award, counsel for Sun ceased to represent Sun in the Arbitration, and asked the Tribunal to direct further correspondence directly to Sun.[^10] On 10 June 2015, Hilton made submissions to the Tribunal on the quantum of damages that Sun should be liable for. Sun chose not to respond to Hilton’s submissions even after the Tribunal afforded Sun ample opportunities to do so.
 
-14     On 17 August 2015, the Tribunal issued the Final Award ordering Sun to pay Hilton damages in the sum of US$20,945,000 plus interest, as well as US$342,500 for Hilton’s share of the fees and expenses of the ICC and the Tribunal.[\[note: 11\]](#Ftn_11)
+14     On 17 August 2015, the Tribunal issued the Final Award ordering Sun to pay Hilton damages in the sum of US$20,945,000 plus interest, as well as US$342,500 for Hilton’s share of the fees and expenses of the ICC and the Tribunal.[^11]
 
 ### The proceedings in the Maldives
 
@@ -52,31 +53,31 @@ Arbitration – Anti-suit injunction
 
 #### The enforcement proceedings
 
-16     In December 2015, Hilton commenced enforcement proceedings in the Large Property and Monetary Claims division of the Maldivian Civil Court (“the First Enforcement Proceedings”).[\[note: 12\]](#Ftn_12)
+16     In December 2015, Hilton commenced enforcement proceedings in the Large Property and Monetary Claims division of the Maldivian Civil Court (“the First Enforcement Proceedings”).[^12]
 
-17     Sun resisted Hilton’s application to enforce the Awards. In a Summary Statement dated 25 September 2016, Sun submitted that the Management Agreement was “a void and invalid/illegitimate agreement” because of the “deceit and misrepresentation” relating to the Revised Projections,[\[note: 13\]](#Ftn_13) and therefore the enforcement of the Awards would be contrary to Maldivian public policy under s 74(a)(2)(bb) of the Arbitration Act (Act No 10/2013) (Maldives) (“the Maldivian Arbitration Act”).[\[note: 14\]](#Ftn_14) In addition, Sun submitted that the court should award it US$19.2m as damages for fraudulent misrepresentation based on the Revised Projections.[\[note: 15\]](#Ftn_15)
+17     Sun resisted Hilton’s application to enforce the Awards. In a Summary Statement dated 25 September 2016, Sun submitted that the Management Agreement was “a void and invalid/illegitimate agreement” because of the “deceit and misrepresentation” relating to the Revised Projections,[^13] and therefore the enforcement of the Awards would be contrary to Maldivian public policy under s 74(a)(2)(bb) of the Arbitration Act (Act No 10/2013) (Maldives) (“the Maldivian Arbitration Act”).[^14] In addition, Sun submitted that the court should award it US$19.2m as damages for fraudulent misrepresentation based on the Revised Projections.[^15]
 
-18     On 28 September 2016, Civil Court Judge Hathif Hilmy held that the matter was beyond the jurisdiction of the division, and that it should instead be brought directly to the Enforcement Division of the Civil Court.[\[note: 16\]](#Ftn_16) In his Summary Case Report, the judge also observed that none of the grounds listed for refusing recognition or enforcement of an arbitral award under s 74 of the Maldivian Arbitration Act requires a review of the merits.[\[note: 17\]](#Ftn_17)
+18     On 28 September 2016, Civil Court Judge Hathif Hilmy held that the matter was beyond the jurisdiction of the division, and that it should instead be brought directly to the Enforcement Division of the Civil Court.[^16] In his Summary Case Report, the judge also observed that none of the grounds listed for refusing recognition or enforcement of an arbitral award under s 74 of the Maldivian Arbitration Act requires a review of the merits.[^17]
 
-19     Hilton then proceeded to the Enforcement Division of the Maldivian Civil Court.[\[note: 18\]](#Ftn_18) However, on 29 November 2016, Civil Court Judge Hassan Faheem Ibrahim from the Enforcement Division declined jurisdiction, holding that enforcement proceedings ought to be commenced in the High Court of the Maldives instead.[\[note: 19\]](#Ftn_19)
+19     Hilton then proceeded to the Enforcement Division of the Maldivian Civil Court.[^18] However, on 29 November 2016, Civil Court Judge Hassan Faheem Ibrahim from the Enforcement Division declined jurisdiction, holding that enforcement proceedings ought to be commenced in the High Court of the Maldives instead.[^19]
 
-20     On or around 26 January 2017, Hilton appealed against Judge Hassan Faheem Ibrahim’s ruling.[\[note: 20\]](#Ftn_20) It sought a determination that the Civil Court has the jurisdiction to enforce arbitral awards under the laws and regulations of the Maldives.[\[note: 21\]](#Ftn_21) On 14 February 2017, Sun submitted an Appeal Response Form. It did not dispute that the Civil Court ought to have jurisdiction to decide on the enforcement of the arbitral awards, but it again rejected Hilton’s assertion that the Awards were enforceable.[\[note: 22\]](#Ftn_22)
+20     On or around 26 January 2017, Hilton appealed against Judge Hassan Faheem Ibrahim’s ruling.[^20] It sought a determination that the Civil Court has the jurisdiction to enforce arbitral awards under the laws and regulations of the Maldives.[^21] On 14 February 2017, Sun submitted an Appeal Response Form. It did not dispute that the Civil Court ought to have jurisdiction to decide on the enforcement of the arbitral awards, but it again rejected Hilton’s assertion that the Awards were enforceable.[^22]
 
-21     On 20 April 2017, the High Court of the Maldives reversed Judge Hassan Faheem Ibrahim’s ruling and found that the Civil Court was the “competent” court for the enforcement of arbitral awards under s 73(a) of the Maldivian Arbitration Act.[\[note: 23\]](#Ftn_23)
+21     On 20 April 2017, the High Court of the Maldives reversed Judge Hassan Faheem Ibrahim’s ruling and found that the Civil Court was the “competent” court for the enforcement of arbitral awards under s 73(a) of the Maldivian Arbitration Act.[^23]
 
-22     On 23 April 2017, Hilton recommenced enforcement proceedings in the Maldivian Civil Court (“the Second Enforcement Proceedings”).[\[note: 24\]](#Ftn_24) On 12 June 2017, Sun raised the same arguments it had made in the First Enforcement Proceedings to resist enforcement. Hilton filed a response on 22 June 2017.[\[note: 25\]](#Ftn_25) The judge assigned to the matter was Judge Hassan Faheem Ibrahim, and he fixed a hearing on that same afternoon to deliver his judgment. He held that the enforcement of the Awards “could not be entertained at \[the Civil\] Court for the time being” because of a Maldivian judgment issued in March 2017 in Sun’s favour against Hilton.[\[note: 26\]](#Ftn_26) We henceforth refer to the judgment issued in March as “the March Judgment” and Judge Hassan Faheem Ibrahim’s judgment as “the June Judgment”. We turn now to the civil action commenced by Sun.
+22     On 23 April 2017, Hilton recommenced enforcement proceedings in the Maldivian Civil Court (“the Second Enforcement Proceedings”).[^24] On 12 June 2017, Sun raised the same arguments it had made in the First Enforcement Proceedings to resist enforcement. Hilton filed a response on 22 June 2017.[^25] The judge assigned to the matter was Judge Hassan Faheem Ibrahim, and he fixed a hearing on that same afternoon to deliver his judgment. He held that the enforcement of the Awards “could not be entertained at \[the Civil\] Court for the time being” because of a Maldivian judgment issued in March 2017 in Sun’s favour against Hilton.[^26] We henceforth refer to the judgment issued in March as “the March Judgment” and Judge Hassan Faheem Ibrahim’s judgment as “the June Judgment”. We turn now to the civil action commenced by Sun.
 
 #### Sun’s civil action
 
-23     In October 2016, after Judge Hathif Hilmy’s decision and before Hilton commenced enforcement proceedings in the Enforcement Division of the Civil Court (see \[18\]–\[19\] above), Sun commenced a civil action against Hilton (“the Maldivian Suit”).[\[note: 27\]](#Ftn_27) In the Maldivian Suit, Sun claimed damages against Hilton totalling US$16,671,000 arising from alleged misrepresentations and breaches of the Management Agreement.[\[note: 28\]](#Ftn_28) Both claims were similar to those brought by Sun in the Arbitration (see \[11\] above).[\[note: 29\]](#Ftn_29) In addition, the relief sought by Sun in both the Maldivian Suit and the Arbitration was the same: damages in excess of US$16m.[\[note: 30\]](#Ftn_30)
+23     In October 2016, after Judge Hathif Hilmy’s decision and before Hilton commenced enforcement proceedings in the Enforcement Division of the Civil Court (see \[18\]–\[19\] above), Sun commenced a civil action against Hilton (“the Maldivian Suit”).[^27] In the Maldivian Suit, Sun claimed damages against Hilton totalling US$16,671,000 arising from alleged misrepresentations and breaches of the Management Agreement.[^28] Both claims were similar to those brought by Sun in the Arbitration (see \[11\] above).[^29] In addition, the relief sought by Sun in both the Maldivian Suit and the Arbitration was the same: damages in excess of US$16m.[^30]
 
-24     In Sun’s Submission of Claims, Sun also made reference to the Arbitration.[\[note: 31\]](#Ftn_31) At paragraph 8.13, Sun elaborated on the outcome of the Arbitration and it appears that the Awards were appended:
+24     In Sun’s Submission of Claims, Sun also made reference to the Arbitration.[^31] At paragraph 8.13, Sun elaborated on the outcome of the Arbitration and it appears that the Awards were appended:
 
 Notwithstanding the fact that the Management Agreement was signed by both parties due to \[Hilton’s\] fraudulent and misleading conduct, the Arbitral Tribunal held that the agreement was valid and thereby instructed \[Sun\] to compensate \[Hilton\] for their loss suffered due to the termination of the Agreement. The Arbitral Tribunal awarded a partial award and a final award on the matter. Nevertheless, the implementation of a decision that decided that an agreement in the Maldives which was entered into through the fraudulent and misleading conduct of one party and which has been ruled to be a valid agreement shall contradict the Maldivian Contract Act and public policy of the Maldivian Government. Such an agreement must not be implemented. (Copy of the partial award given by the International Chamber of Commerce in the International Court of Arbitration on 27 May 2015 attached as “Document 7” and the copy of the final award given by the same on 17 August 2015 attached as “Document 8”) \[emphasis in underline in original\]
 
-25     On 27 November 2016, Hilton filed a procedural objection. In essence, Hilton highlighted that Sun’s claims concerned an agreement with an arbitration clause, that the Tribunal had already issued the Awards determining and dismissing the claims brought by Sun in the Maldivian Suit, and that enforcement of the Awards was still ongoing in the Civil Court.[\[note: 32\]](#Ftn_32)
+25     On 27 November 2016, Hilton filed a procedural objection. In essence, Hilton highlighted that Sun’s claims concerned an agreement with an arbitration clause, that the Tribunal had already issued the Awards determining and dismissing the claims brought by Sun in the Maldivian Suit, and that enforcement of the Awards was still ongoing in the Civil Court.[^32]
 
-26     On 3 January 2017, Sun filed its response to Hilton’s procedural objection.[\[note: 33\]](#Ftn_33) The material passages of its response are as follows:
+26     On 3 January 2017, Sun filed its response to Hilton’s procedural objection.[^33] The material passages of its response are as follows:
 
 2.    \[Sun\] notes that a decision by the \[Tribunal\] that the Tribunal is vested with the jurisdiction to decide a case which involves alleged fraudulent misrepresentations or acts in breach of law in the transaction can be subject to retrial in courts. \[Sun\] also notes that this is practiced even today by the judiciaries of other democratic legal systems. Further, it is noted that if the decision of the Tribunal was based on acts in breach of law, the substantive decisions of the Tribunal will be subject to revision. As such, reference is made to the United Kingdom Court of Appeal Case of _Soleimany v Soleimany_ (1988) 3 WLR 811. This case involves a decision of an Arbitral Tribunal with respect to a contract made to smuggle carpet from Iran. However, since the decision was based on a contract in breach of law, the matter was determined in a United Kingdom Court whereby it was ruled that the contract was made in breach of law. (A copy of United Kingdom Court of Appeal case _Soleimany v Soleimany_ (1988) 3 WLR811 \[_sic_\] is attached herewith as “Document 10” of \[Sun\].)
 
@@ -88,17 +89,17 @@ Notwithstanding the fact that the Management Agreement was signed by both partie
 
 27     Two points about Sun’s response are of note. First, Sun stated that it was raising the “same subject matter of the Management Agreement \[that had\] already been decided by an Arbitral Tribunal”. Nonetheless, Sun’s case was that its claim could be subject to a _retrial or a revision_ as the Awards were based on a contract “in breach of law”. Secondly, Sun stated that it was not aware that there were any _ongoing_ enforcement proceedings. We note at this juncture that one of the arguments raised by Hilton before us was that Sun had thereby misled the Maldivian courts as it knew that Hilton was pursuing the enforcement of the Awards in the Maldives. We elaborate on this below at \[122\].
 
-28     On 11 January 2017, an oral hearing took place before the Maldivian Civil Court, and the court directed that it would determine _the procedural and/or jurisdictional matters at the same time as the merits of the case_.[\[note: 34\]](#Ftn_34) This turn of events was not consistent with what Hilton had anticipated. It had been advised that the Maldivian Civil Court should either have declined jurisdiction over the Maldivian Suit or dismissed the claims altogether by terminating the proceedings.[\[note: 35\]](#Ftn_35)
+28     On 11 January 2017, an oral hearing took place before the Maldivian Civil Court, and the court directed that it would determine _the procedural and/or jurisdictional matters at the same time as the merits of the case_.[^34] This turn of events was not consistent with what Hilton had anticipated. It had been advised that the Maldivian Civil Court should either have declined jurisdiction over the Maldivian Suit or dismissed the claims altogether by terminating the proceedings.[^35]
 
-29     On 30 January 2017, Hilton submitted a written statement reiterating the procedural objection it had made earlier on 27 November 2016 but it did not specifically respond to the factual allegations made against it.[\[note: 36\]](#Ftn_36)
+29     On 30 January 2017, Hilton submitted a written statement reiterating the procedural objection it had made earlier on 27 November 2016 but it did not specifically respond to the factual allegations made against it.[^36]
 
-30     On 6 February 2017, Sun submitted a further response.[\[note: 37\]](#Ftn_37) It took the position that the Maldivian Suit pursued a separate claim that was unrelated to the enforcement of the Awards and was based on a different subject matter. Sun’s case was that the Arbitration “was based primarily on the manner in which \[Sun\] terminated the Management Agreement”, whereas the Maldivian Suit focused on the fraudulent misrepresentations which Sun relied on in entering into the Management Agreement. Moreover, Sun submitted that the Maldivian Suit fell into the category of previous cases where “a court of the respective country will be able to hear a case where the agreement which contains the dispute resolution clause was one which was entered into fraudulently”.
+30     On 6 February 2017, Sun submitted a further response.[^37] It took the position that the Maldivian Suit pursued a separate claim that was unrelated to the enforcement of the Awards and was based on a different subject matter. Sun’s case was that the Arbitration “was based primarily on the manner in which \[Sun\] terminated the Management Agreement”, whereas the Maldivian Suit focused on the fraudulent misrepresentations which Sun relied on in entering into the Management Agreement. Moreover, Sun submitted that the Maldivian Suit fell into the category of previous cases where “a court of the respective country will be able to hear a case where the agreement which contains the dispute resolution clause was one which was entered into fraudulently”.
 
-31     Sun’s response on 6 February 2017 ended with a request for “an opportunity to present witness statements and witnesses and for the case to be concluded as soon as possible”.[\[note: 38\]](#Ftn_38)
+31     Sun’s response on 6 February 2017 ended with a request for “an opportunity to present witness statements and witnesses and for the case to be concluded as soon as possible”.[^38]
 
-32     On 26 February 2017, a further hearing was held. No witnesses were heard, and arguments were presented on why Sun’s claim under the Maldivian Suit should be heard irrespective of the Awards. Hilton restated its procedural objection.[\[note: 39\]](#Ftn_39)
+32     On 26 February 2017, a further hearing was held. No witnesses were heard, and arguments were presented on why Sun’s claim under the Maldivian Suit should be heard irrespective of the Awards. Hilton restated its procedural objection.[^39]
 
-33     On 9 March 2017, the judge hearing the Maldivian Suit, Civil Court Judge Ali Naseer, delivered a three-page written judgment[\[note: 40\]](#Ftn_40) (_ie_, the March Judgment) holding that:
+33     On 9 March 2017, the judge hearing the Maldivian Suit, Civil Court Judge Ali Naseer, delivered a three-page written judgment[^40] (_ie_, the March Judgment) holding that:
 
 (a)     Sun had made out its case on misrepresentation. The Management Agreement was executed between the parties “through misrepresentations by \[Hilton\], whereby facts that were known or believed to be false was represented as true, relying upon which the other party entered into the \[Management\] Agreement”.
 
@@ -106,15 +107,15 @@ Notwithstanding the fact that the Management Agreement was signed by both partie
 
 (c)     Hilton was to pay US$16,671,000 in damages to Sun.
 
-34     The March Judgment was delivered without the hearing of any witness (despite Sun’s request: see \[31\] above) or any oral hearings on the substantive issues. Nor did the judge refer to the Arbitration and the Awards, even though both Sun and Hilton had addressed the procedural objection in respect of the Maldivian Suit.[\[note: 41\]](#Ftn_41)
+34     The March Judgment was delivered without the hearing of any witness (despite Sun’s request: see \[31\] above) or any oral hearings on the substantive issues. Nor did the judge refer to the Arbitration and the Awards, even though both Sun and Hilton had addressed the procedural objection in respect of the Maldivian Suit.[^41]
 
 35     The March Judgment was then subsequently relied on by Judge Hassan Faheem Ibrahim to refuse Hilton’s enforcement of the Awards, as set out in the June Judgment (see \[22\] above).
 
-36     On 21 March 2017, Hilton appealed against the March Judgment (“the Maldivian Appeal”) and two hearings before the High Court of the Maldives were conducted on 1 and 8 August 2017. At the end of the hearing on 8 August 2017, the High Court stated that it would reserve judgment, which would be delivered at or following a final hearing. At the time of the parties’ written submissions to this court, the High Court had not issued a judgment or made any other orders or directions in respect of the Maldivian Appeal.[\[note: 42\]](#Ftn_42)
+36     On 21 March 2017, Hilton appealed against the March Judgment (“the Maldivian Appeal”) and two hearings before the High Court of the Maldives were conducted on 1 and 8 August 2017. At the end of the hearing on 8 August 2017, the High Court stated that it would reserve judgment, which would be delivered at or following a final hearing. At the time of the parties’ written submissions to this court, the High Court had not issued a judgment or made any other orders or directions in respect of the Maldivian Appeal.[^42]
 
 ### The proceedings in Singapore
 
-37     On 24 July 2017, after the June Judgment was delivered and about nine months after the commencement of the Maldivian Suit, Hilton filed Originating Summons No 845 of 2017 (“OS 845”) for:[\[note: 43\]](#Ftn_43)
+37     On 24 July 2017, after the June Judgment was delivered and about nine months after the commencement of the Maldivian Suit, Hilton filed Originating Summons No 845 of 2017 (“OS 845”) for:[^43]
 
 (a)     a permanent anti-suit injunction to restrain Sun from commencing and/or proceeding with any action against Hilton in the Maldivian courts in relation to disputes arising from the Management Agreement;
 
@@ -122,7 +123,7 @@ Notwithstanding the fact that the Management Agreement was signed by both partie
 
 (c)     a declaration that Sun’s claim in the Maldivian Suit and any consequential proceedings resulting therefrom (including any appeals) are in breach of the arbitration agreement in the Management Agreement.
 
-38     The application was heard over four days in the months of October and November 2017. On 20 November 2017, which was the final day of the hearings, counsel for Hilton, Mr Toby Landau QC, sought to amend OS 845 to include a few additions (amendments reflected in italics):[\[note: 44\]](#Ftn_44)
+38     The application was heard over four days in the months of October and November 2017. On 20 November 2017, which was the final day of the hearings, counsel for Hilton, Mr Toby Landau QC, sought to amend OS 845 to include a few additions (amendments reflected in italics):[^44]
 
 A permanent anti-suit injunction to restrain Sun (whether by its officers, servants, agents or any of them or otherwise howsoever) from:
 
@@ -134,9 +135,9 @@ _i_.     _\[the March Judgment\], or any decision upholding the \[March Judg
 
 _ii_.     _any decision, judgment or ruling of the courts of the Republic of Maldives which results from any action brought by it against Hilton in the courts of the Republic of Maldives, in respect of disputes between Hilton and Sun that have arisen out of or in connection with the \[Management Agreement\]._
 
-39     At the close of submissions, Mr Landau agreed to drop prayer (b)(ii).[\[note: 45\]](#Ftn_45)
+39     At the close of submissions, Mr Landau agreed to drop prayer (b)(ii).[^45]
 
-40     The Judge then made the following orders on the same date:[\[note: 46\]](#Ftn_46)
+40     The Judge then made the following orders on the same date:[^46]
 
 1.    \[Sun\] is hereby permanently restrained (whether by its officers, servants, agents or any of them or otherwise howsoever) from taking any steps in reliance on \[the March Judgment\] by the courts of the Republic of Maldives, … or any decision upholding the \[March Judgment\].
 
@@ -200,7 +201,7 @@ The state of affairs was that the March Judgment had already been delivered and 
 
 ## Issue 1: Characterising the Maldivian Suit
 
-52     We turn first to the argument that the Maldivian Suit is bound up with the resisting of the enforcement of the Awards. Mr Maniam submitted that both the Maldivian Suit and the enforcement proceedings, at their core, concern the same underlying issue _ie_, whether it would be contrary to Maldivian public policy to enforce the Awards. The Maldivian Suit was therefore “part of \[Sun’s\] resistance to enforcement of the \[A\]wards”: [\[note: 47\]](#Ftn_47)
+52     We turn first to the argument that the Maldivian Suit is bound up with the resisting of the enforcement of the Awards. Mr Maniam submitted that both the Maldivian Suit and the enforcement proceedings, at their core, concern the same underlying issue _ie_, whether it would be contrary to Maldivian public policy to enforce the Awards. The Maldivian Suit was therefore “part of \[Sun’s\] resistance to enforcement of the \[A\]wards”: [^47]
 
 The issue of whether the Management Agreement was procured by fraud, and _consequently whether it would be contrary to_ Maldivian public policy to enforce the Awards (“**the Issue**”), was a matter which the Appellant was entitled to ask the Maldivian court to resolve _as part of the Appellant’s resistance to enforcement of the awards_. That Issue was first raised in opposition to the First Enforcement Proceedings; _the Appellant continued to press for a determination of the Issue by commencing the Maldivian \[Suit\]_, and that culminated in the March Judgment which was then found in the June \[Judgment\] to be a valid basis for not enforcing the Awards.
 
@@ -270,7 +271,7 @@ By the 1990s it had come to be thought that the power to injunct foreign proceed
 
 “will not lightly interfere with the conduct of proceedings in a foreign court”: see e g _Sokana Industries Inc v Freyre & Co Inc_ \[1994\] 2 Lloyd’s Rep 57, 66, per Colman J. But in _Aggeliki Charis Cia Maritima SA v Pagnan SpA (The Angelic Grace)_ \[1995\] 1 Lloyd’s Rep 87… the Court of Appeal held, citing \[_Pena Copper Mines Ltd v Rio Tinto Co Ltd_ (1911) 105 LT 846\] and other authority, that courts ought not to feel diffident about granting an anti-suit injunction, if sought promptly. Without it the claimant would be deprived of its contractual rights in a situation where damages would be manifestly an inadequate remedy. The time had come, in Millett LJ’s words, at p 96, “to lay aside the ritual incantation that this is a jurisdiction which should only be exercised sparingly and with great caution”. An injunction should be granted to restrain foreign proceedings in breach of an arbitration agreement “on the simple and clear ground that the defendant has promised not to bring them”.
 
-71     This reasoning by Millett LJ in _The Angelic Grace_ was subsequently relied on in a proliferation of cases to support the proposition that an injunction to enforce an exclusive jurisdiction clause or an arbitration clause is not regarded as a breach of comity: _Deutsche Bank AG and another v Highland Crusader Offshore Partners LP and others_ (“_Deutsche Bank_”) at \[50\]; _BC Andaman_ at \[55\]; _Telesto Investments_ at \[109\]. Mr Landau also advanced the argument that “\[c\]omity is not a concern where an anti-suit injunction is issued to protect interests arising from an arbitration agreement”.[\[note: 48\]](#Ftn_48)
+71     This reasoning by Millett LJ in _The Angelic Grace_ was subsequently relied on in a proliferation of cases to support the proposition that an injunction to enforce an exclusive jurisdiction clause or an arbitration clause is not regarded as a breach of comity: _Deutsche Bank AG and another v Highland Crusader Offshore Partners LP and others_ (“_Deutsche Bank_”) at \[50\]; _BC Andaman_ at \[55\]; _Telesto Investments_ at \[109\]. Mr Landau also advanced the argument that “\[c\]omity is not a concern where an anti-suit injunction is issued to protect interests arising from an arbitration agreement”.[^48]
 
 72     But it is important to understand the precise considerations of comity the authorities above were concerned with. In _The Angelic Grace_, Millet LJ referred to the need to avoid casting doubt on the adequacy of the foreign court processes, and the need to respect the foreign court’s view on whether the foreign proceedings were vexatious or oppressive (at 96):
 
@@ -410,13 +411,13 @@ I can think of nothing more patronising than for the English Court to adopt the 
 
 119    Secondly, we are not convinced that this is a case where Hilton had withheld taking immediate steps in the Singapore court on account of Judge Hathif Hilmy’s case report and Sun’s response on 6 February 2017 (see \[117\] above). Even if there was any reason to wait and see how the proceedings in the Maldives would unfold given the view that Judge Hathif Hilmy had earlier expressed, by 11 January 2017, Hilton should have been acutely aware of the need to seek anti-suit relief immediately as that was when the Maldivian court directed that the jurisdictional matters _and_ the merits of the case be heard together. As Mr Markus Stefan Esly, a representative of Hilton, had deposed in his affidavit, Hilton had been advised that the Maldivian court should have declined jurisdiction or dismissed the claims altogether by terminating the proceedings (see \[28\] above). Yet Hilton continued to participate in the Maldivian Suit. Even after the March Judgment was delivered, Hilton did not take immediate steps to seek relief from the Singapore court. Instead, Hilton appealed against the March Judgment and then proceeded to commence the Second Enforcement Proceedings thereafter. In our judgment, Hilton had ample opportunity to seek assistance from the Singapore courts to stop the Maldivian Suit in its tracks but it appeared to be quite content to wait until there were two Maldivian judgments against it and a pending appeal. By then, it was far too late. The “surprise” that Mr Landau described was therefore an afterthought. It was clear that Hilton was not planning to take any step to seek injunctive relief in the seat court _before_ the outcome of the Maldivian Suit was known. What was surprising was not so much the _result_ the first-instance Maldivian court reached in the Maldivian Suit, but the perceived _haste_ with which the March Judgment was delivered.
 
-120    Thirdly, to the extent that Mr Landau was suggesting that the Maldivian Suit was not properly conducted, this was not an issue for the Singapore courts to decide, rather it is a matter to be dealt with in the Maldivian Appeal. The Maldivian courts are better placed to decide on matters of their procedure and it is not for the Singapore courts to comment on the propriety of the proceedings in the Maldives. Indeed, we note that one of Hilton’s grounds of appeal in the Maldivian appeal is that Judge Ali Naseer had not given due consideration to the principles of due process and fairness.[\[note: 49\]](#Ftn_49) Moreover, based on the documents before us, it appears to us that even though the Maldivian court had informed the parties that it would be dealing with matters of jurisdiction and the merits at the same time, Hilton made a conscious decision not to submit on the merits (perhaps for strategic reasons). This can be seen from Sun’s response on 6 February 2017 where it noted that Hilton had only made “procedural observations”.[\[note: 50\]](#Ftn_50) This is therefore not a case where Hilton had been denied its right to be heard or to adduce evidence; on the contrary, Hilton had made all the arguments that it had intended to make. In any event, Mr Landau confirmed that there is no evidence before us to establish that the conduct of the Maldivian proceedings was in violation of the Maldivian rules of procedure (for instance, that they necessarily had to hear witnesses before delivering judgment) or that the Maldivian Suit was improperly conducted under Maldivian law.
+120    Thirdly, to the extent that Mr Landau was suggesting that the Maldivian Suit was not properly conducted, this was not an issue for the Singapore courts to decide, rather it is a matter to be dealt with in the Maldivian Appeal. The Maldivian courts are better placed to decide on matters of their procedure and it is not for the Singapore courts to comment on the propriety of the proceedings in the Maldives. Indeed, we note that one of Hilton’s grounds of appeal in the Maldivian appeal is that Judge Ali Naseer had not given due consideration to the principles of due process and fairness.[^49] Moreover, based on the documents before us, it appears to us that even though the Maldivian court had informed the parties that it would be dealing with matters of jurisdiction and the merits at the same time, Hilton made a conscious decision not to submit on the merits (perhaps for strategic reasons). This can be seen from Sun’s response on 6 February 2017 where it noted that Hilton had only made “procedural observations”.[^50] This is therefore not a case where Hilton had been denied its right to be heard or to adduce evidence; on the contrary, Hilton had made all the arguments that it had intended to make. In any event, Mr Landau confirmed that there is no evidence before us to establish that the conduct of the Maldivian proceedings was in violation of the Maldivian rules of procedure (for instance, that they necessarily had to hear witnesses before delivering judgment) or that the Maldivian Suit was improperly conducted under Maldivian law.
 
 121    Fourthly, as we have noted at \[113\] above, this additional requirement to show exceptional circumstances to warrant anti-enforcement relief is rooted in principles of equity and the notion of unconscionability. We do not think that it is open to an applicant to simply point to some “aberration”, “surprise” or unexpected outcome and expect that the seat court would exercise its jurisdiction to grant an anti-enforcement injunction. The nature of the relief requires that such jurisdiction be exercised very sparingly.
 
 122    For completeness, we deal briefly with Hilton’s submission that Sun had procured the March Judgment by misleading the Maldivian court (_ie_, that there was no ongoing enforcement proceedings in any of the Maldivian courts) in Sun’s response to Hilton’s procedural objection dated 3 January 2017 (see \[26\]–\[27\] above). At that time, the Enforcement Division of the Maldivian Civil Court had already declined jurisdiction to hear the enforcement proceedings brought by Hilton on the basis that only the Maldivian High Court had the necessary jurisdiction. Hilton only appealed against this decision on or around 26 January 2017 (see \[20\] above). Thus, Sun was strictly not wrong in informing the court that there was _no ongoing_ enforcement proceeding as at 3 January 2017. In any event, Sun had referred to the Arbitration and the Awards in its Submission of Claims, so the Maldivian court was clearly aware of them; therefore, it was wholly immaterial whether the court knew that there were _ongoing_ enforcement proceedings or not.
 
-123    On the issue of comity, we have addressed the suggestion in Hilton’s written submissions that comity is irrelevant where the anti-suit relief sought is to protect interests arising from an arbitration agreement (see \[71\] _et seq_). Mr Landau’s other argument was essentially that the March Judgment is not worthy of comity considerations because the effort expended on it must have been negligible.[\[note: 51\]](#Ftn_51) This argument appears to be entirely premised on the length of the March Judgment (which spans two and a half pages). We cannot accept this argument. To use judgment length as a proxy for judicial time and resources is too reductionistic and it disregards a multitude of other factors, such as the legal system of the foreign court in question. In any case (and we make this point only to reject this submission completely), from a scan of the parties’ submissions to the Maldivian courts and the other Maldivian court decisions, the March Judgment does not appear to us, relatively speaking, to be unusually short.
+123    On the issue of comity, we have addressed the suggestion in Hilton’s written submissions that comity is irrelevant where the anti-suit relief sought is to protect interests arising from an arbitration agreement (see \[71\] _et seq_). Mr Landau’s other argument was essentially that the March Judgment is not worthy of comity considerations because the effort expended on it must have been negligible.[^51] This argument appears to be entirely premised on the length of the March Judgment (which spans two and a half pages). We cannot accept this argument. To use judgment length as a proxy for judicial time and resources is too reductionistic and it disregards a multitude of other factors, such as the legal system of the foreign court in question. In any case (and we make this point only to reject this submission completely), from a scan of the parties’ submissions to the Maldivian courts and the other Maldivian court decisions, the March Judgment does not appear to us, relatively speaking, to be unusually short.
 
 124    Finally, we briefly comment on the further developments in the Maldivian Appeal mentioned at \[47\]–\[48\] above as we found them to be demonstrative of how an anti-enforcement injunction can constitute an indirect interference in foreign court proceedings. Despite the Judge’s intention not to interfere with the appeal process (Judgment at \[62\]–\[63\]), it was unclear how it could be carried out in practice. As referred to above at \[60\] and \[63\], Mr Maniam accepted that Sun could not make arguments in support of the March Judgment whereas Mr Landau went further to say that the practical effect of the order was that “the appeal will not proceed or \[Sun\] will lose the appeal”. During the hearing on 12 November 2018 before the High Court of the Maldives, Sun’s Maldivian counsel was asked to address the court on the reasons why the March Judgment should be upheld even after the court was informed of the Injunctive Order (see \[46\] above). Sun’s Maldivian counsel was therefore put in an invidious position. Even on Mr Maniam’s narrower construction of the Judge’s order, Sun could not meaningfully participate in the Maldivian Appeal without seeking to support the March Judgment and seemingly flouting the Injunctive Order at the same time.
 
@@ -430,9 +431,9 @@ I can think of nothing more patronising than for the English Court to adopt the 
 
 ### The parties’ cases
 
-128    Neither Mr Maniam nor Mr Landau specifically addressed the declarations in their oral arguments, and were content to rely on the parties’ respective written submissions. Sun submitted that the declarations interfere with the recognition or enforcement process in the Maldives and run counter to the Maldivian judgments. Sun further argued that there is no real controversy for the court to resolve in Singapore because the only real controversy is in the Maldives, and it pertains to whether the March Judgment (the impediment to Hilton’s recognition and enforcement efforts) ought to be upheld on appeal.[\[note: 52\]](#Ftn_52)
+128    Neither Mr Maniam nor Mr Landau specifically addressed the declarations in their oral arguments, and were content to rely on the parties’ respective written submissions. Sun submitted that the declarations interfere with the recognition or enforcement process in the Maldives and run counter to the Maldivian judgments. Sun further argued that there is no real controversy for the court to resolve in Singapore because the only real controversy is in the Maldives, and it pertains to whether the March Judgment (the impediment to Hilton’s recognition and enforcement efforts) ought to be upheld on appeal.[^52]
 
-129    On the other hand, Hilton submitted that the declarations are appropriate given that Sun had breached the arbitration agreements. Hilton took the position that the declarations do not affect the enforcement proceedings in the Maldives. The first declaration only confirms the effect of s 19B(1) of the International Arbitration Act (Cap 143A, 2002 Rev Ed) (“the IAA”) which states that “\[a\]n award made by the arbitral tribunal pursuant to an arbitration agreement is final and binding on the parties”. The second declaration does nothing more than to declare that Sun is in breach of the arbitration agreements. Sun is not prevented by the declarations from arguing that Hilton had fraudulently induced Sun to enter into the Management Agreement, which was the argument that Sun had made in the First and Second Enforcement Proceedings. In addition, any persuasive value that the declarations may have on Sun’s civil claim in the Maldivian courts is warranted, and the effect is also less intrusive than an anti-suit or anti-enforcement injunction. On that note, Hilton argued that there is a real controversy between the parties since the declarations would be of value to Hilton as a persuasive tool in the Maldivian proceedings.[\[note: 53\]](#Ftn_53)
+129    On the other hand, Hilton submitted that the declarations are appropriate given that Sun had breached the arbitration agreements. Hilton took the position that the declarations do not affect the enforcement proceedings in the Maldives. The first declaration only confirms the effect of s 19B(1) of the International Arbitration Act (Cap 143A, 2002 Rev Ed) (“the IAA”) which states that “\[a\]n award made by the arbitral tribunal pursuant to an arbitration agreement is final and binding on the parties”. The second declaration does nothing more than to declare that Sun is in breach of the arbitration agreements. Sun is not prevented by the declarations from arguing that Hilton had fraudulently induced Sun to enter into the Management Agreement, which was the argument that Sun had made in the First and Second Enforcement Proceedings. In addition, any persuasive value that the declarations may have on Sun’s civil claim in the Maldivian courts is warranted, and the effect is also less intrusive than an anti-suit or anti-enforcement injunction. On that note, Hilton argued that there is a real controversy between the parties since the declarations would be of value to Hilton as a persuasive tool in the Maldivian proceedings.[^53]
 
 ### Source of power to grant declaratory relief
 
@@ -460,7 +461,7 @@ I can think of nothing more patronising than for the English Court to adopt the 
 
 136    The party seeking declaratory relief has to show that the court’s discretion ought to be exercised in favour of granting the relief. An important factor determining whether the discretion ought to be exercised is the existence of “a real controversy” (_Salijah_ at \[57\] and \[58\]; _Tan Eng Hong v Attorney-General_ (“_Tan Eng Hong_”) at \[131\], \[132\] and \[137\]). This court in _Tan Eng Hong_ explained that “\[w\]here the circumstances of a case are such that a declaration will be of value to the parties… the court may proceed to hear the case and grant declaratory relief even though the facts on which the action is based are theoretical” (at \[143\]).
 
-137    We agree with Hilton’s submission that the present case has a more compelling basis for relief than a case where the facts are theoretical, as the declarations in question have real value: they may be used as a persuasive tool in proceedings in the Maldives.[\[note: 54\]](#Ftn_54) The first declaration reiterates s 19B(1) of the IAA and confirms the finality, validity and binding nature of the Awards. A similar declaration was granted by the English High Court in _Noble Assurance and another v Gerling-Konzern General Insurance_ \[2008\] Lloyd’s Rep IR 1 (“_Noble Assurance_”) (at \[101\], \[103\], and \[109\]). Toulson LJ stated the following at \[101\], which was cited by Loh J in _BC Andaman_ (at \[110\]):
+137    We agree with Hilton’s submission that the present case has a more compelling basis for relief than a case where the facts are theoretical, as the declarations in question have real value: they may be used as a persuasive tool in proceedings in the Maldives.[^54] The first declaration reiterates s 19B(1) of the IAA and confirms the finality, validity and binding nature of the Awards. A similar declaration was granted by the English High Court in _Noble Assurance and another v Gerling-Konzern General Insurance_ \[2008\] Lloyd’s Rep IR 1 (“_Noble Assurance_”) (at \[101\], \[103\], and \[109\]). Toulson LJ stated the following at \[101\], which was cited by Loh J in _BC Andaman_ (at \[110\]):
 
 … _It would be perfectly proper for this court to make summary declaratory judgments as to the interpretation, scope and validity of the award._ In effect, I have already done so in this judgment after hearing due argument on both sides. I have concluded that the arbitrators found that there was coverage for OPL under the Gerling contract by reason of endorsement 18, regardless of the certificate policy, as well as by reason of the certificate policy. I have found that it was open to Gerling to advance assertions of misrepresentation and non-disclosure by way of defence in the arbitration and that Gerling ought to have done so if it wished to rely on such matters. _Such conclusions could properly be put into the form of a declaratory judgment._ \[emphasis added\]
 
@@ -484,113 +485,113 @@ I can think of nothing more patronising than for the English Court to adopt the 
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)ROA Vol III Part A, p 58.
+[^1]: ROA Vol III Part A, p 58.
 
-[\[note: 2\]](#Ftn_2_1)ROA Vol III Part A, pp 63–64.
+[^2]: ROA Vol III Part A, pp 63–64.
 
-[\[note: 3\]](#Ftn_3_1)ROA Vol III Part A, p 64.
+[^3]: ROA Vol III Part A, p 64.
 
-[\[note: 4\]](#Ftn_4_1)ROA Vol III Part A, p 65.
+[^4]: ROA Vol III Part A, p 65.
 
-[\[note: 5\]](#Ftn_5_1)RCB, p 10 (para 26).
+[^5]: RCB, p 10 (para 26).
 
-[\[note: 6\]](#Ftn_6_1)ROA Vol III Part A, p 138 (para 365).
+[^6]: ROA Vol III Part A, p 138 (para 365).
 
-[\[note: 7\]](#Ftn_7_1)ROA Vol III Part A, p 66 (para 100).
+[^7]: ROA Vol III Part A, p 66 (para 100).
 
-[\[note: 8\]](#Ftn_8_1)ROA Vol III Part A, pp 50–53.
+[^8]: ROA Vol III Part A, pp 50–53.
 
-[\[note: 9\]](#Ftn_9_1)ROA Vol III Part A, p 194.
+[^9]: ROA Vol III Part A, p 194.
 
-[\[note: 10\]](#Ftn_10_1)RCB, p 17 (para 46); ROA Vol III Part C, p 280.
+[^10]: RCB, p 17 (para 46); ROA Vol III Part C, p 280.
 
-[\[note: 11\]](#Ftn_11_1)ROA Vol III Part C, p 283.
+[^11]: ROA Vol III Part C, p 283.
 
-[\[note: 12\]](#Ftn_12_1)RCB, p 18 (para 52); ROA Vol III Part B, p 105.
+[^12]: RCB, p 18 (para 52); ROA Vol III Part B, p 105.
 
-[\[note: 13\]](#Ftn_13_1)RCB, pp 42–43 (paras 12, 13 and 15).
+[^13]: RCB, pp 42–43 (paras 12, 13 and 15).
 
-[\[note: 14\]](#Ftn_14_1)RCB, pp 44–45 (para 17); ACB Vol II, pp 39–40.
+[^14]: RCB, pp 44–45 (para 17); ACB Vol II, pp 39–40.
 
-[\[note: 15\]](#Ftn_15_1)RCB, p 19 (para 54).
+[^15]: RCB, p 19 (para 54).
 
-[\[note: 16\]](#Ftn_16_1)RCB, pp 46, 49.
+[^16]: RCB, pp 46, 49.
 
-[\[note: 17\]](#Ftn_17_1)RCB, p 49.
+[^17]: RCB, p 49.
 
-[\[note: 18\]](#Ftn_18_1)ROA Vol III Part E, p 242.
+[^18]: ROA Vol III Part E, p 242.
 
-[\[note: 19\]](#Ftn_19_1)RCB, p 51; RCB, p 20 (para 57).
+[^19]: RCB, p 51; RCB, p 20 (para 57).
 
-[\[note: 20\]](#Ftn_20_1)ACB Vol II, p 13.
+[^20]: ACB Vol II, p 13.
 
-[\[note: 21\]](#Ftn_21_1)ROA Vol III Part E, p 261.
+[^21]: ROA Vol III Part E, p 261.
 
-[\[note: 22\]](#Ftn_22_1)ROA Vol III Part B, p 153.
+[^22]: ROA Vol III Part B, p 153.
 
-[\[note: 23\]](#Ftn_23_1)ROA Vol III Part B, p 163.
+[^23]: ROA Vol III Part B, p 163.
 
-[\[note: 24\]](#Ftn_24_1)ROA Vol III Part E, p 51 (para 32).
+[^24]: ROA Vol III Part E, p 51 (para 32).
 
-[\[note: 25\]](#Ftn_25_1)RCB, p 21 (paras 60–62).
+[^25]: RCB, p 21 (paras 60–62).
 
-[\[note: 26\]](#Ftn_26_1)RCB, p 70.
+[^26]: RCB, p 70.
 
-[\[note: 27\]](#Ftn_27_1)ACB Vol II, p 11 (para 26); RCB, p 22 (para 64).
+[^27]: ACB Vol II, p 11 (para 26); RCB, p 22 (para 64).
 
-[\[note: 28\]](#Ftn_28_1)RCB, p 57.
+[^28]: RCB, p 57.
 
-[\[note: 29\]](#Ftn_29_1)RCB, pp 53, 56 (paras 8.5 and 8.14) and 92–94.
+[^29]: RCB, pp 53, 56 (paras 8.5 and 8.14) and 92–94.
 
-[\[note: 30\]](#Ftn_30_1)RCB, p 93.
+[^30]: RCB, p 93.
 
-[\[note: 31\]](#Ftn_31_1)RCB, p 55 _et seq_.
+[^31]: RCB, p 55 _et seq_.
 
-[\[note: 32\]](#Ftn_32_1)ROA Vol III Part K, pp 131–133.
+[^32]: ROA Vol III Part K, pp 131–133.
 
-[\[note: 33\]](#Ftn_33_1)RCB, p 60.
+[^33]: RCB, p 60.
 
-[\[note: 34\]](#Ftn_34_1)RCB, p 27 (para 70).
+[^34]: RCB, p 27 (para 70).
 
-[\[note: 35\]](#Ftn_35_1)RCB, p 23 (para 67).
+[^35]: RCB, p 23 (para 67).
 
-[\[note: 36\]](#Ftn_36_1)RCB, p 62 (para 1).
+[^36]: RCB, p 62 (para 1).
 
-[\[note: 37\]](#Ftn_37_1)RCB, p 62 _et seq_.
+[^37]: RCB, p 62 _et seq_.
 
-[\[note: 38\]](#Ftn_38_1)RCB, p 66.
+[^38]: RCB, p 66.
 
-[\[note: 39\]](#Ftn_39_1)RCB, p 28 (para 74).
+[^39]: RCB, p 28 (para 74).
 
-[\[note: 40\]](#Ftn_40_1)RCB, p 67 _et seq_.
+[^40]: RCB, p 67 _et seq_.
 
-[\[note: 41\]](#Ftn_41_1)Respondent’s Case, para 51.
+[^41]: Respondent’s Case, para 51.
 
-[\[note: 42\]](#Ftn_42_1)Respondent’s Case, para 54.
+[^42]: Respondent’s Case, para 54.
 
-[\[note: 43\]](#Ftn_43_1)ACB Vol II, p 7.
+[^43]: ACB Vol II, p 7.
 
-[\[note: 44\]](#Ftn_44_1)ACB Vol II, p 59.
+[^44]: ACB Vol II, p 59.
 
-[\[note: 45\]](#Ftn_45_1)RCB, p 84.
+[^45]: RCB, p 84.
 
-[\[note: 46\]](#Ftn_46_1)ACB Vol I, pp 44–45.
+[^46]: ACB Vol I, pp 44–45.
 
-[\[note: 47\]](#Ftn_47_1)Appellant’s Case, para 33.
+[^47]: Appellant’s Case, para 33.
 
-[\[note: 48\]](#Ftn_48_1)Respondent’s Case, para 111(b)(_i_).
+[^48]: Respondent’s Case, para 111(b)(_i_).
 
-[\[note: 49\]](#Ftn_49_1)ROA Vol III Part F, p 31 (para 8.3.1).
+[^49]: ROA Vol III Part F, p 31 (para 8.3.1).
 
-[\[note: 50\]](#Ftn_50_1)RCB, p 62 (para 1).
+[^50]: RCB, p 62 (para 1).
 
-[\[note: 51\]](#Ftn_51_1)Respondent’s Case, para 111(b)(_ii_).
+[^51]: Respondent’s Case, para 111(b)(_ii_).
 
-[\[note: 52\]](#Ftn_52_1)Appellant’s Case, paras 46–48.
+[^52]: Appellant’s Case, paras 46–48.
 
-[\[note: 53\]](#Ftn_53_1)Respondent’s Skeletal Submissions, paras 37–40; Respondent’s Case, paras 97–103.
+[^53]: Respondent’s Skeletal Submissions, paras 37–40; Respondent’s Case, paras 97–103.
 
-[\[note: 54\]](#Ftn_54_1)Respondent’s Case, para 103.
+[^54]: Respondent’s Case, para 103.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F22812-SSP.xml)

@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # MW Group Pte Ltd _v_ Public Prosecutor  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Magistrate's Appeal No 9030 of 2018</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">14 January 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Chan Seng Onn J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Mark Wheeler appearing as corporate representative of the appellant; Teo Siqi and Mark Jayaratnam (Attorney General's Chambers) for the respondent.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">MW Group Pte Ltd — Public Prosecutor</td></tr></tbody></table>
@@ -40,19 +41,19 @@ Criminal Procedure and Sentencing – Sentencing – Penalties – Workpla
 
 10     On 7 November 2013, Wheeler instructed Suman to conduct testing and calibration of the ARS machine. In turn, Suman asked three of his colleagues to assist him, namely Mr Gomathi Nayagam Lakshmi Kanthan (“Lakshmi”), Mr Kuberan Nandhakumar (“Nandha”) and Mr Murugesan Senthil (“Senthil”).
 
-11     The testing and calibration was conducted inside the laboratory located at 196 Pandan Loop, #02-21, which is the workplace of the appellant. Suman prepared for the testing of the ARS machine by setting up the equipment according to the diagram as shown at \[8\] above.[\[note: 1\]](#Ftn_1) Suman then instructed Lakshmi to power up the ARS machine and then set the machine to the desired voltage level for testing. He instructed Senthil to record the readings from the multimeter while Nandha was instructed to be on standby. Suman held the handle of the high voltage probe with his left hand, and the output cable from the ARS machine with his right hand. The tip of the high voltage probe was securely attached to a metallic vise grip protruding from the end of the output cable.
+11     The testing and calibration was conducted inside the laboratory located at 196 Pandan Loop, #02-21, which is the workplace of the appellant. Suman prepared for the testing of the ARS machine by setting up the equipment according to the diagram as shown at \[8\] above.[^1] Suman then instructed Lakshmi to power up the ARS machine and then set the machine to the desired voltage level for testing. He instructed Senthil to record the readings from the multimeter while Nandha was instructed to be on standby. Suman held the handle of the high voltage probe with his left hand, and the output cable from the ARS machine with his right hand. The tip of the high voltage probe was securely attached to a metallic vise grip protruding from the end of the output cable.
 
 12     Suman and his three colleagues then began the testing and calibration of the ARS machine, starting with a voltage level of 2kV and gradually working their way to higher voltage levels. When the voltage of the ARS machine was set to 12kV, Nandha noticed a spark emanating from the metallic vise grip. At this point, Suman fell backwards and became unconscious. He was conveyed to the hospital where he succumbed to his injuries that same day. The certified cause of death was consistent with electrocution.
 
 ### The appellant’s failure to take reasonably practicable measures to ensure the safety of its employees
 
-13     The Judge found that there was a high risk of electrocution in conducting the high voltage testing and calibration, which the appellant’s employees were all well aware of.[\[note: 2\]](#Ftn_2) Despite this, the appellant had failed to take reasonably practicable measures in order to avert this risk of electrocution.[\[note: 3\]](#Ftn_3)
+13     The Judge found that there was a high risk of electrocution in conducting the high voltage testing and calibration, which the appellant’s employees were all well aware of.[^2] Despite this, the appellant had failed to take reasonably practicable measures in order to avert this risk of electrocution.[^3]
 
-14     First, there had been no proper risk assessments conducted for the activity of high voltage testing and calibration. When officers from the Ministry of Manpower (“MOM”) first visited the appellant’s premises on 16 April 2013, the appellant’s representative at the time was not able to produce any risk assessment forms for electrical testing within the company. Even the risk assessment conducted by the appellant on 25 April 2013 in response to the visit from the MOM officers was unsatisfactory. That risk assessment form, which was dated 25 April 2013, showed that for the work activity of “calibration”, the only risk identified was that of “falling objects” and there was no mention of electrocution. The appellant’s employee who had signed off on this risk assessment form admitted to not knowing if the activity referred to on the form was high or low voltage calibration. The MOM officer who inspected the appellant’s premises a day after the accident occurred testified that the risk assessment for the calibration works was not established, conducted and implemented.[\[note: 4\]](#Ftn_4) Wheeler conceded that there were no risk assessments conducted for the ARS machine when it arrived at the appellant’s workplace on three previous occasions for testing and calibration.[\[note: 5\]](#Ftn_5)
+14     First, there had been no proper risk assessments conducted for the activity of high voltage testing and calibration. When officers from the Ministry of Manpower (“MOM”) first visited the appellant’s premises on 16 April 2013, the appellant’s representative at the time was not able to produce any risk assessment forms for electrical testing within the company. Even the risk assessment conducted by the appellant on 25 April 2013 in response to the visit from the MOM officers was unsatisfactory. That risk assessment form, which was dated 25 April 2013, showed that for the work activity of “calibration”, the only risk identified was that of “falling objects” and there was no mention of electrocution. The appellant’s employee who had signed off on this risk assessment form admitted to not knowing if the activity referred to on the form was high or low voltage calibration. The MOM officer who inspected the appellant’s premises a day after the accident occurred testified that the risk assessment for the calibration works was not established, conducted and implemented.[^4] Wheeler conceded that there were no risk assessments conducted for the ARS machine when it arrived at the appellant’s workplace on three previous occasions for testing and calibration.[^5]
 
-15     Second, the appellant had failed to put in place safe work procedures to ensure that the testing and calibration of the ARS machine was carried out in a safe manner. The appellant could not adduce any evidence of safe work procedures it had developed for the calibration of the ARS machine.[\[note: 6\]](#Ftn_6) An officer from the Energy Market Authority who conducted an investigation of the workplace after the accident testified that one reasonably practicable measure that could have been taken would be to have proper test fixtures to hold the output cable in place during the calibration process.[\[note: 7\]](#Ftn_7) Without the test fixture, the person operating the probe had to physically hold onto the output cable. This was dangerous because the output cable would be left dangling and could accidentally come into contact with the person holding the cable. Further, a safe working distance would not be maintained between the holder of the probe and the live output cable. Given the high voltages at which the testing was conducted, even the air between the output cable and the person holding it could become a conductor which would enable the current to pass from the output cable and into the person’s body, thereby leading to electrocution. Hence, a test fixture was necessary as it could have prevented the output cable from swinging, and would also have allowed the person holding the high voltage probe to maintain a safe distance from the output cable.[\[note: 8\]](#Ftn_8) Up to this point, I agree with the Judge’s findings.
+15     Second, the appellant had failed to put in place safe work procedures to ensure that the testing and calibration of the ARS machine was carried out in a safe manner. The appellant could not adduce any evidence of safe work procedures it had developed for the calibration of the ARS machine.[^6] An officer from the Energy Market Authority who conducted an investigation of the workplace after the accident testified that one reasonably practicable measure that could have been taken would be to have proper test fixtures to hold the output cable in place during the calibration process.[^7] Without the test fixture, the person operating the probe had to physically hold onto the output cable. This was dangerous because the output cable would be left dangling and could accidentally come into contact with the person holding the cable. Further, a safe working distance would not be maintained between the holder of the probe and the live output cable. Given the high voltages at which the testing was conducted, even the air between the output cable and the person holding it could become a conductor which would enable the current to pass from the output cable and into the person’s body, thereby leading to electrocution. Hence, a test fixture was necessary as it could have prevented the output cable from swinging, and would also have allowed the person holding the high voltage probe to maintain a safe distance from the output cable.[^8] Up to this point, I agree with the Judge’s findings.
 
-16     The Judge also noted that a stand made of steel was actually available, but it was not used during the calibration.[\[note: 9\]](#Ftn_9) The Judge stated that if the appellant had developed a risk assessment for the calibration, “the use of a stand would have been stated as a mitigating factor”. I disagree with the Judge that (a) the steel stand that was available in the workshop should be used; and (b) that the use of this stand would have been a mitigating factor to reduce the risk associated with the calibration.
+16     The Judge also noted that a stand made of steel was actually available, but it was not used during the calibration.[^9] The Judge stated that if the appellant had developed a risk assessment for the calibration, “the use of a stand would have been stated as a mitigating factor”. I disagree with the Judge that (a) the steel stand that was available in the workshop should be used; and (b) that the use of this stand would have been a mitigating factor to reduce the risk associated with the calibration.
 
 17     Wheeler had rightly explained at the hearing that using the steel stand might have made matters worse, given that the entire stand is made of metal and would therefore have been fully charged if the live output cable had been attached to it. I agree with Wheeler that attaching the vise grip to a metal stand would have charged the whole metal stand to the same high voltage as that on the metal vise grip which was attached to the end of the output cable of the ARS machine. Making a much larger exposed metal area (_ie_, the metal stand) charged to a high voltage would cause the work area to be much more dangerous to persons present at the workplace in the vicinity of the large exposed metal area. To increase safety, exposed areas with high voltage should instead be minimised as much as possible and not increased. As a safety measure, employees should therefore be told _not_ to use the metal stand available in the work place and _not_ to attach the vise grip to any metal stand for any high voltage testing and calibration.
 
@@ -64,7 +65,7 @@ Criminal Procedure and Sentencing – Sentencing – Penalties – Workpla
 
 20     The Judge applied the sentencing framework in _GS Engineering_ to determine the appropriate starting point sentence based on two principal factors, namely (a) the culpability of the offender and (b) the harm that could potentially have resulted.
 
-21     The Judge found that the potential for harm in the present case was “high”, given that death could result from the risk of electrocution and there were no measures taken to mitigate this risk.[\[note: 10\]](#Ftn_10) The Judge found that the culpability of the appellant was “medium”, on the basis that the appellant had only conducted a generic risk assessment for “electrical testing” prior to the accident, and did not put in place any safe work procedure for the testing and calibration of the ARS machine.[\[note: 11\]](#Ftn_11) The appellant had allowed its employees to work in a dangerous environment where the occurrence of an accident was imminent. Given that the potential for harm was “high” and the culpability of the appellant was “medium”, the Judge found that the starting point sentence should be a fine of around $230,000.[\[note: 12\]](#Ftn_12)
+21     The Judge found that the potential for harm in the present case was “high”, given that death could result from the risk of electrocution and there were no measures taken to mitigate this risk.[^10] The Judge found that the culpability of the appellant was “medium”, on the basis that the appellant had only conducted a generic risk assessment for “electrical testing” prior to the accident, and did not put in place any safe work procedure for the testing and calibration of the ARS machine.[^11] The appellant had allowed its employees to work in a dangerous environment where the occurrence of an accident was imminent. Given that the potential for harm was “high” and the culpability of the appellant was “medium”, the Judge found that the starting point sentence should be a fine of around $230,000.[^12]
 
 22     The Judge then went on to consider the aggravating and mitigating factors. She found that an aggravating factor was the serious actual harm which resulted in death, and that the breaches were a significant cause of the death that resulted. She also considered that this was the appellant’s first offence since they began operations 25 years ago, that there was only one death as compared to two in _GS Engineering_, and that even though the appellant had claimed trial, the trial was not unduly protracted and the appellant had been cooperative in the course of investigations. Balancing the aggravating and mitigating factors, she reduced the fine slightly from the starting point sentence and imposed a fine of $200,000.
 
@@ -72,23 +73,23 @@ Criminal Procedure and Sentencing – Sentencing – Penalties – Workpla
 
 23     The appellant raises the following grounds in its petition of appeal in respect of its appeal against sentence:
 
-(a)     The present case is factually different from _GS Engineering_. _GS Engineering_ involved two fatalities whereas the present case only involved one. The offender in _GS Engineering_ had “admitted guilt” while the appellant did not because it believed it “acted reasonably and practicably \[in\] adopting work health and safety ethics”. The victims in _GS Engineering_ were untrained and unskilled workers whereas Suman, the deceased, in the present case was a “highly qualified” deputy manager.[\[note: 13\]](#Ftn_13)
+(a)     The present case is factually different from _GS Engineering_. _GS Engineering_ involved two fatalities whereas the present case only involved one. The offender in _GS Engineering_ had “admitted guilt” while the appellant did not because it believed it “acted reasonably and practicably \[in\] adopting work health and safety ethics”. The victims in _GS Engineering_ were untrained and unskilled workers whereas Suman, the deceased, in the present case was a “highly qualified” deputy manager.[^13]
 
-(b)     In the list of nine aggravating factors cited in _GS Engineering_ at \[77\], the appellant has shown the absence of eight of these aggravating factors.[\[note: 14\]](#Ftn_14)
+(b)     In the list of nine aggravating factors cited in _GS Engineering_ at \[77\], the appellant has shown the absence of eight of these aggravating factors.[^14]
 
-(c)     In the list of six mitigating factors cited in _GS Engineering_ at \[77\], the appellant has shown the presence of five of these mitigating factors.[\[note: 15\]](#Ftn_15) The mitigating factors in the appellant’s favour are: (i) the appellant had voluntarily taken steps to remedy the problem; (ii) the appellant had provided a high level of cooperation with the authorities beyond that which is normally expected; (iii) there was self-reporting, co-operation and acceptance of responsibility; (iv) it had good health and safety records; and (v) it had effective health and safety procedures in place.
+(c)     In the list of six mitigating factors cited in _GS Engineering_ at \[77\], the appellant has shown the presence of five of these mitigating factors.[^15] The mitigating factors in the appellant’s favour are: (i) the appellant had voluntarily taken steps to remedy the problem; (ii) the appellant had provided a high level of cooperation with the authorities beyond that which is normally expected; (iii) there was self-reporting, co-operation and acceptance of responsibility; (iv) it had good health and safety records; and (v) it had effective health and safety procedures in place.
 
-(d)     Given the absence of aggravating factors and the presence of mitigating factors, the appellant should be in the “low to zero range” in terms of culpability and potential for harm.[\[note: 16\]](#Ftn_16)
+(d)     Given the absence of aggravating factors and the presence of mitigating factors, the appellant should be in the “low to zero range” in terms of culpability and potential for harm.[^16]
 
 24     In response, the Prosecution made the following points:
 
-(a)     The appellant is mistaken as to the proper application of the sentencing framework in _GS Engineering_. The culpability and potential harm caused by the offender in the first stage of the inquiry should be assessed separately from the aggravating and mitigating factors.[\[note: 17\]](#Ftn_17)
+(a)     The appellant is mistaken as to the proper application of the sentencing framework in _GS Engineering_. The culpability and potential harm caused by the offender in the first stage of the inquiry should be assessed separately from the aggravating and mitigating factors.[^17]
 
-(b)     The Judge had considered all the relevant factors, and was correct to find that the potential for harm was “high” and the culpability of the appellant was “medium”.[\[note: 18\]](#Ftn_18)
+(b)     The Judge had considered all the relevant factors, and was correct to find that the potential for harm was “high” and the culpability of the appellant was “medium”.[^18]
 
-(c)     The Judge was correct to choose a starting point sentence of $230,000, which is on the higher end of the stipulated range as set out in _GS Engineering_ at \[70\], for two reasons. First, the appellant did not even deem it necessary to conduct proper risk assessments and implement a set of safe work procedures, despite knowing that there was a clear risk of electrocution that could lead to death. Second, the breaches committed by the appellant were systemic, which is evidenced by the lack of proper risk assessments and safe work procedures for prior instances when the ARS machine underwent calibration at the appellant’s workplace.[\[note: 19\]](#Ftn_19)
+(c)     The Judge was correct to choose a starting point sentence of $230,000, which is on the higher end of the stipulated range as set out in _GS Engineering_ at \[70\], for two reasons. First, the appellant did not even deem it necessary to conduct proper risk assessments and implement a set of safe work procedures, despite knowing that there was a clear risk of electrocution that could lead to death. Second, the breaches committed by the appellant were systemic, which is evidenced by the lack of proper risk assessments and safe work procedures for prior instances when the ARS machine underwent calibration at the appellant’s workplace.[^19]
 
-(d)     The appellant’s claim that it had voluntarily taken steps to remedy the problem should be approached with caution, given that it had not adduced proper evidence to prove that risk assessments were indeed conducted after the accident and specifically in relation to the calibration of the ARS machine.[\[note: 20\]](#Ftn_20)
+(d)     The appellant’s claim that it had voluntarily taken steps to remedy the problem should be approached with caution, given that it had not adduced proper evidence to prove that risk assessments were indeed conducted after the accident and specifically in relation to the calibration of the ARS machine.[^20]
 
 ## My decision
 
@@ -306,7 +307,7 @@ In the circumstances, I find that the potential for harm in the present case sho
 
 68     That said, I would not go as far as to say that the breaches were committed intentionally. It appears to me to be more a case of negligence, which could be attributed to the fact that the appellant had operated for 25 years without any accident occurring, and had therefore grown complacent.
 
-69     I briefly address a point that was made by the appellant both in its written submissions and at the hearing before me. The appellant states that the ARS machine did not comply with certain safety standards,[\[note: 21\]](#Ftn_21) insinuating that the accident should be attributed to the faulty design or some malfunctioning of the ARS machine rather than the omissions of the appellant. In my view, this is a misguided attempt by the appellant to shift the blame on to the regulatory authorities or the manufacturers of the ARS machine, as a means to lessen its own culpability. Section 10(_c_) of the WSHA makes it clear that a duty or liability imposed by the WSHA on any person is not diminished or affected by the fact that it is imposed on one or more other persons, whether in the same capacity or different capacities: _GS Engineering_ at \[82\]. There was no credible evidence before me to suggest that the ARS machine was defectively designed, non-compliant with safety standards or had indeed malfunctioned. But even if we take the appellant’s case at its highest and assume that the ARS machine was indeed badly designed or faulty, the appellant would still have failed to discharge its responsibility to ensure that proper risk assessments were conducted and safe work procedures were in place for its employees. In the circumstances, I find that the culpability of the appellant in the present case should be somewhere at the middle point of the medium category.
+69     I briefly address a point that was made by the appellant both in its written submissions and at the hearing before me. The appellant states that the ARS machine did not comply with certain safety standards,[^21] insinuating that the accident should be attributed to the faulty design or some malfunctioning of the ARS machine rather than the omissions of the appellant. In my view, this is a misguided attempt by the appellant to shift the blame on to the regulatory authorities or the manufacturers of the ARS machine, as a means to lessen its own culpability. Section 10(_c_) of the WSHA makes it clear that a duty or liability imposed by the WSHA on any person is not diminished or affected by the fact that it is imposed on one or more other persons, whether in the same capacity or different capacities: _GS Engineering_ at \[82\]. There was no credible evidence before me to suggest that the ARS machine was defectively designed, non-compliant with safety standards or had indeed malfunctioned. But even if we take the appellant’s case at its highest and assume that the ARS machine was indeed badly designed or faulty, the appellant would still have failed to discharge its responsibility to ensure that proper risk assessments were conducted and safe work procedures were in place for its employees. In the circumstances, I find that the culpability of the appellant in the present case should be somewhere at the middle point of the medium category.
 
 ##### (3)   The starting point sentence
 
@@ -328,47 +329,47 @@ In the circumstances, I find that the potential for harm in the present case sho
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)GD, \[33\].
+[^1]: GD, \[33\].
 
-[\[note: 2\]](#Ftn_2_1)GD, \[55\].
+[^2]: GD, \[55\].
 
-[\[note: 3\]](#Ftn_3_1)GD, \[51\].
+[^3]: GD, \[51\].
 
-[\[note: 4\]](#Ftn_4_1)GD, \[78\].
+[^4]: GD, \[78\].
 
-[\[note: 5\]](#Ftn_5_1)GD, \[108\].
+[^5]: GD, \[108\].
 
-[\[note: 6\]](#Ftn_6_1)GD, \[112\].
+[^6]: GD, \[112\].
 
-[\[note: 7\]](#Ftn_7_1)GD, \[57\].
+[^7]: GD, \[57\].
 
-[\[note: 8\]](#Ftn_8_1)GD, \[57\] and \[58\].
+[^8]: GD, \[57\] and \[58\].
 
-[\[note: 9\]](#Ftn_9_1)GD, \[96\].
+[^9]: GD, \[96\].
 
-[\[note: 10\]](#Ftn_10_1)GD, \[122\] and \[123\].
+[^10]: GD, \[122\] and \[123\].
 
-[\[note: 11\]](#Ftn_11_1)GD, \[127\].
+[^11]: GD, \[127\].
 
-[\[note: 12\]](#Ftn_12_1)GD, \[130\].
+[^12]: GD, \[130\].
 
-[\[note: 13\]](#Ftn_13_1)Record of Appeal (“ROA”), p 28, para 61.
+[^13]: Record of Appeal (“ROA”), p 28, para 61.
 
-[\[note: 14\]](#Ftn_14_1)ROA, p 29, para 63.
+[^14]: ROA, p 29, para 63.
 
-[\[note: 15\]](#Ftn_15_1)ROA, p 30, para 64.
+[^15]: ROA, p 30, para 64.
 
-[\[note: 16\]](#Ftn_16_1)ROA, p 31, para 65.
+[^16]: ROA, p 31, para 65.
 
-[\[note: 17\]](#Ftn_17_1)Respondent’s written submissions (“RWS”), para 98.
+[^17]: Respondent’s written submissions (“RWS”), para 98.
 
-[\[note: 18\]](#Ftn_18_1)RWS, paras 108 and 109.
+[^18]: RWS, paras 108 and 109.
 
-[\[note: 19\]](#Ftn_19_1)RWS, paras 111 to 113.
+[^19]: RWS, paras 111 to 113.
 
-[\[note: 20\]](#Ftn_20_1)RWS, para 129.
+[^20]: RWS, para 129.
 
-[\[note: 21\]](#Ftn_21_1)Appellant’s written submissions, p 3, para 5; p 10, para 15.
+[^21]: Appellant’s written submissions, p 3, para 5; p 10, para 15.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F22706-SSP.xml)

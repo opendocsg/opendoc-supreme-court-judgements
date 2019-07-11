@@ -39,3 +39,4 @@
     # Blocks request if request type does not match
     X-Content-Type-Options = "nosniff"
     Feature-Policy = "geolocation 'none'; microphone 'none'; camera 'none'"
+    Connection = "keep-alive"

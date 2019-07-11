@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # Ivanishvili, Bidzina and others _v_ Credit Suisse AG and another  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Suit No 790 of 2017 (Registrar's Appeals Nos 229 of 2018 and 232 of 2018)</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">18 January 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Valerie Thean J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">N Sreenivasan, S.C., Palaniapan Sundaraj, Lim Min, Ranita Yogeeswaran (Straits Law Practice LLC) for the plaintiff; Harpreet Singh Nehal, S.C., Jordan Tan, Andrew Foo, Ho Wan Yi (Cavenagh Law LLC) for the first defendant; Stanley Lai, S.C., Kenneth Lim, Melissa Mak, Afzal Ali, Wong Pei Ting (Allen &amp; Gledhill LLP) for the second defendant.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Bidzina Ivanishvili — Ekaterine Khvedelidze — Tsotne Ivanishvili (A Minor, Suing By His Litigation Representative, Ekaterine Khvedelidze) — Gvantsa Ivanishvili — Bera Ivanishvili — Credit Suisse AG — Credit Suisse Trust Limited</td></tr></tbody></table>
@@ -24,33 +25,33 @@ Conflict of Laws – Natural forum
 
 ### The Singapore claim
 
-4       Sometime in or around December 2004, representatives of the Bank approached Mr Ivanishvili to offer him and his family private wealth management services.[\[note: 1\]](#Ftn_1) On 28 February 2005, Mr Ivanishvili signed the “Acceptance Documentation, Trust/Company” in Geneva for the formation of the Mandalay Trust.[\[note: 2\]](#Ftn_2) The Mandalay Trust is a Singapore discretionary trust, established by declaration of trust on 7 March 2005. The assets of the Trust were held by two investment companies, Meadowsweet Assets Ltd (“Meadowsweet”), incorporated in the British Virgin Islands, and Soothsayer Limited (“Soothsayer”), incorporated in the Bahamas.
+4       Sometime in or around December 2004, representatives of the Bank approached Mr Ivanishvili to offer him and his family private wealth management services.[^1] On 28 February 2005, Mr Ivanishvili signed the “Acceptance Documentation, Trust/Company” in Geneva for the formation of the Mandalay Trust.[^2] The Mandalay Trust is a Singapore discretionary trust, established by declaration of trust on 7 March 2005. The assets of the Trust were held by two investment companies, Meadowsweet Assets Ltd (“Meadowsweet”), incorporated in the British Virgin Islands, and Soothsayer Limited (“Soothsayer”), incorporated in the Bahamas.
 
-5       On 22 March 2005, Mr Ivanishvili settled approximately USD1.1 billion in the Trust.[\[note: 3\]](#Ftn_3) On 23 March 2005, USD550 million were transferred into accounts in the name of Soothsayer with the Singapore branch of the Bank.[\[note: 4\]](#Ftn_4) The remaining USD550 million were held in accounts in the name of Meadowsweet with the Geneva branch of the Bank.[\[note: 5\]](#Ftn_5) In 2011 the Trustee arranged for Meadowsweet to apply for a unit-linked insurance policy, a Life Portfolio International with Credit Suisse Life (Bermuda) Limited (“CS Life”).[\[note: 6\]](#Ftn_6) The policy commenced on 25 October 2011 with Mr Ivanishvili as the insured person, and the premium being invested in an internal fund in accordance with the investment profile in the policy. The premium was held in accounts with the Bank in the name of CS Life.
+5       On 22 March 2005, Mr Ivanishvili settled approximately USD1.1 billion in the Trust.[^3] On 23 March 2005, USD550 million were transferred into accounts in the name of Soothsayer with the Singapore branch of the Bank.[^4] The remaining USD550 million were held in accounts in the name of Meadowsweet with the Geneva branch of the Bank.[^5] In 2011 the Trustee arranged for Meadowsweet to apply for a unit-linked insurance policy, a Life Portfolio International with Credit Suisse Life (Bermuda) Limited (“CS Life”).[^6] The policy commenced on 25 October 2011 with Mr Ivanishvili as the insured person, and the premium being invested in an internal fund in accordance with the investment profile in the policy. The premium was held in accounts with the Bank in the name of CS Life.
 
-6       It is not disputed that the Trustee delegated its asset management and investment powers under the Trust to the Bank, which was given a mandate to manage the Trust assets. At all material times, the trust assets were managed and invested by the Bank, which provided investment reports detailing the performance of the accounts to the Trustee. It is not disputed that the centre of management of the plaintiffs’ portfolio of assets was the Geneva branch of the Bank. Mr Ivanishvili’s relationship manager was initially one Ms Daria Mihaesco.[\[note: 7\]](#Ftn_7) From August 2006, one Mr Patrice Lescaudron took over as Mr Ivanishvili’s portfolio manager.[\[note: 8\]](#Ftn_8)
+6       It is not disputed that the Trustee delegated its asset management and investment powers under the Trust to the Bank, which was given a mandate to manage the Trust assets. At all material times, the trust assets were managed and invested by the Bank, which provided investment reports detailing the performance of the accounts to the Trustee. It is not disputed that the centre of management of the plaintiffs’ portfolio of assets was the Geneva branch of the Bank. Mr Ivanishvili’s relationship manager was initially one Ms Daria Mihaesco.[^7] From August 2006, one Mr Patrice Lescaudron took over as Mr Ivanishvili’s portfolio manager.[^8]
 
-7       On 5 July 2013, the Trustee executed a Deed of Amendment and Restatement in respect of the Trust.[\[note: 9\]](#Ftn_9) The validity of the Amended Trust Deed is in issue in this suit. The statement of claim contends that the execution of the Amended Trust Deed was an excessive exercise of the Trustee’s power and/or was carried out for an improper purpose. The plaintiffs assert that the Restated Declaration of Trust is void because the amendments to the Declaration of Trust went beyond the intended purpose represented by the Bank to Mr Ivanishvili, of accommodating the investment of artwork under the Mandalay Trust.
+7       On 5 July 2013, the Trustee executed a Deed of Amendment and Restatement in respect of the Trust.[^9] The validity of the Amended Trust Deed is in issue in this suit. The statement of claim contends that the execution of the Amended Trust Deed was an excessive exercise of the Trustee’s power and/or was carried out for an improper purpose. The plaintiffs assert that the Restated Declaration of Trust is void because the amendments to the Declaration of Trust went beyond the intended purpose represented by the Bank to Mr Ivanishvili, of accommodating the investment of artwork under the Mandalay Trust.
 
 8       Aside from the Mandalay Trust assets, Mr Ivanishvili held accounts with the Bank in his own name and through Wellminstone SA (“Wellminstone”), a company incorporated in the British Virgin Islands (“BVI”). It is not disputed that Mr Ivanishvili is the ultimate owner of Wellminstone.
 
-9       The Bank reported to the Trustees and Mr Ivanishvili regarding their portfolio of investments from time to time. The plaintiffs allege that beginning in 2013, Mr Lescaudron gave regular reports to the plaintiffs which were false.[\[note: 10\]](#Ftn_10) They also allege that in the course of 2014 and 2015, the Bank, through Mr Lescaudron and others, made a series of misrepresentations in relation to the value of the Trust and Wellminstone assets.[\[note: 11\]](#Ftn_11) Arising from these representations, Mr Ivanishvili transferred assets held in other banks into accounts held with the Bank. These accounts included his personal account. In March 2015, Mr Ivanishvili agreed to the Bank entering into a framework agreement, which provided that CS Life would pledge all the trust fund’s assets in the CS Life Meadowsweet accounts to the Bank as collateral for a credit facility up to USD150 million.[\[note: 12\]](#Ftn_12) In early 2015, Mr Ivanisvili also transferred assets of more than USD210 million to an account held by Sandcay Investment Limited (“Sandcay”) with the Bank, held under the Green Vals Trust. The Green Vals Trust is the subject matter of separate proceedings in New Zealand. In or around June 2015, the plaintiffs agreed to the establishment of new trusts by the Trustee on behalf of each of the plaintiffs.[\[note: 13\]](#Ftn_13)
+9       The Bank reported to the Trustees and Mr Ivanishvili regarding their portfolio of investments from time to time. The plaintiffs allege that beginning in 2013, Mr Lescaudron gave regular reports to the plaintiffs which were false.[^10] They also allege that in the course of 2014 and 2015, the Bank, through Mr Lescaudron and others, made a series of misrepresentations in relation to the value of the Trust and Wellminstone assets.[^11] Arising from these representations, Mr Ivanishvili transferred assets held in other banks into accounts held with the Bank. These accounts included his personal account. In March 2015, Mr Ivanishvili agreed to the Bank entering into a framework agreement, which provided that CS Life would pledge all the trust fund’s assets in the CS Life Meadowsweet accounts to the Bank as collateral for a credit facility up to USD150 million.[^12] In early 2015, Mr Ivanisvili also transferred assets of more than USD210 million to an account held by Sandcay Investment Limited (“Sandcay”) with the Bank, held under the Green Vals Trust. The Green Vals Trust is the subject matter of separate proceedings in New Zealand. In or around June 2015, the plaintiffs agreed to the establishment of new trusts by the Trustee on behalf of each of the plaintiffs.[^13]
 
-10     In September and October 2015, the Bank issued margin calls totalling USD41.01 million on accounts within the Mandalay Trust.[\[note: 14\]](#Ftn_14) The plaintiffs contend that following these margin calls, they discovered misconduct on the part of Mr Lescaudron, in the following manner:
+10     In September and October 2015, the Bank issued margin calls totalling USD41.01 million on accounts within the Mandalay Trust.[^14] The plaintiffs contend that following these margin calls, they discovered misconduct on the part of Mr Lescaudron, in the following manner:
 
-(a)     Whilst in the care of the Trustee and the Bank, the value of the Trust Fund had dropped substantially. For example, between December 2014 and September 2015 the value of the Trust fund dropped from USD697.68 million to USD437.8 million and this had prompted the margin calls;[\[note: 15\]](#Ftn_15)
+(a)     Whilst in the care of the Trustee and the Bank, the value of the Trust Fund had dropped substantially. For example, between December 2014 and September 2015 the value of the Trust fund dropped from USD697.68 million to USD437.8 million and this had prompted the margin calls;[^15]
 
-(b)     The Plaintiffs had been falsely informed of the value of the Trust fund by both the Bank and the Trustee over a prolonged period of time;[\[note: 16\]](#Ftn_16)
+(b)     The Plaintiffs had been falsely informed of the value of the Trust fund by both the Bank and the Trustee over a prolonged period of time;[^16]
 
-(c)     Instructions given in relation to Trust Assets held in the Soothsayer accounts had been ignored, and the effects of doing so had been actively hidden from the Plaintiffs;[\[note: 17\]](#Ftn_17)
+(c)     Instructions given in relation to Trust Assets held in the Soothsayer accounts had been ignored, and the effects of doing so had been actively hidden from the Plaintiffs;[^17]
 
-(d)     Various other wrongdoing had occurred on the accounts containing the Trust Assets, including theft, unauthorised and imprudent trading.[\[note: 18\]](#Ftn_18) The wrongdoing related to accounts held in Singapore and elsewhere.
+(d)     Various other wrongdoing had occurred on the accounts containing the Trust Assets, including theft, unauthorised and imprudent trading.[^18] The wrongdoing related to accounts held in Singapore and elsewhere.
 
-11     The Bank filed a criminal complaint against Mr Lescaudron in Geneva in December 2015.[\[note: 19\]](#Ftn_19) Mr Lescaudron admitted most of the allegations against him and in February 2018 was convicted of embezzlement, simple and aggravated misappropriation and forgery and sentenced to 5 years in prison.[\[note: 20\]](#Ftn_20) Mr Lescaudron has appealed against his sentence. Various complainants in the criminal proceedings, including the Bank, have appealed against the decision to acquit Mr Lescaudron on certain specific charges. The appeals are due to be heard in January 2019.
+11     The Bank filed a criminal complaint against Mr Lescaudron in Geneva in December 2015.[^19] Mr Lescaudron admitted most of the allegations against him and in February 2018 was convicted of embezzlement, simple and aggravated misappropriation and forgery and sentenced to 5 years in prison.[^20] Mr Lescaudron has appealed against his sentence. Various complainants in the criminal proceedings, including the Bank, have appealed against the decision to acquit Mr Lescaudron on certain specific charges. The appeals are due to be heard in January 2019.
 
-12     The plaintiffs commenced this suit on 25 August 2017. This claim is one framed in the context of losses to the Mandalay Trust, a Singapore trust with a Singapore company as trustee, with the Singapore courts as the forum for the administration of the trust. The plaintiffs claim against the Trustee for failing to take any steps to review or monitor the management of the trust assets.[\[note: 21\]](#Ftn_21) Remedies sought against the Trustee include a declaration that the Amended Trust Deed is void, a declaration that the Trustee is liable to account for loss caused to the Mandalay Trust, an account to establish the sums due, equitable compensation to restore the value of the Trust or a declaration to rescind the new trusts, damages for misrepresentation, and damages for negligence.[\[note: 22\]](#Ftn_22)
+12     The plaintiffs commenced this suit on 25 August 2017. This claim is one framed in the context of losses to the Mandalay Trust, a Singapore trust with a Singapore company as trustee, with the Singapore courts as the forum for the administration of the trust. The plaintiffs claim against the Trustee for failing to take any steps to review or monitor the management of the trust assets.[^21] Remedies sought against the Trustee include a declaration that the Amended Trust Deed is void, a declaration that the Trustee is liable to account for loss caused to the Mandalay Trust, an account to establish the sums due, equitable compensation to restore the value of the Trust or a declaration to rescind the new trusts, damages for misrepresentation, and damages for negligence.[^22]
 
-13     It is not disputed that the Bank managed the trust assets under a mandate to do so. The plaintiffs claim against the Bank for liability as an agent of the Trustee, as a constructive trustee and trustee de son tort, and for breach of the duties conferred under the Trustees Act.[\[note: 23\]](#Ftn_23) In addition to the trust assets which form the subject matter of the claim against the Trustee, the portfolio of assets include that of Mr Ivanishvili and the Wellminstone account. Further, there is a misrepresentation claim brought against the Bank.[\[note: 24\]](#Ftn_24) The plaintiffs contend that Mr Lescaudron and others within the Bank misrepresented the value of the trust accounts, in particular during the course of 2014–2015. Arising from this, further assets were brought into the management of the bank, including into Mr Ivanishvili’s personal account, the Wellminstone account and a third, Sandcay account. A further negligence claim is made arising from the Bank’s voluntary assumption, by letters in September and October 2015, of an obligation to the plaintiffs to use best efforts to protect the plaintiffs’ portfolio.[\[note: 25\]](#Ftn_25) Remedies sought against the Bank include a declaration that the Bank is liable to account for losses to the Mandalay Trust, an account to establish the sums due, an account of profits made by the Bank, equitable compensation to restore the value of the Trust, a declaration to rescind the transfers of the further assets or to return these further assets, damages for misrepresentation, an indemnity for the fees of the new trusts, general damages and exemplary damages.[\[note: 26\]](#Ftn_26)
+13     It is not disputed that the Bank managed the trust assets under a mandate to do so. The plaintiffs claim against the Bank for liability as an agent of the Trustee, as a constructive trustee and trustee de son tort, and for breach of the duties conferred under the Trustees Act.[^23] In addition to the trust assets which form the subject matter of the claim against the Trustee, the portfolio of assets include that of Mr Ivanishvili and the Wellminstone account. Further, there is a misrepresentation claim brought against the Bank.[^24] The plaintiffs contend that Mr Lescaudron and others within the Bank misrepresented the value of the trust accounts, in particular during the course of 2014–2015. Arising from this, further assets were brought into the management of the bank, including into Mr Ivanishvili’s personal account, the Wellminstone account and a third, Sandcay account. A further negligence claim is made arising from the Bank’s voluntary assumption, by letters in September and October 2015, of an obligation to the plaintiffs to use best efforts to protect the plaintiffs’ portfolio.[^25] Remedies sought against the Bank include a declaration that the Bank is liable to account for losses to the Mandalay Trust, an account to establish the sums due, an account of profits made by the Bank, equitable compensation to restore the value of the Trust, a declaration to rescind the transfers of the further assets or to return these further assets, damages for misrepresentation, an indemnity for the fees of the new trusts, general damages and exemplary damages.[^26]
 
 14     On 15 November 2017, the Bank and the Trustee filed applications for a stay of the proceedings. Both defendants have undertaken to submit to the jurisdiction of the Swiss courts if the suit is stayed.
 
@@ -60,27 +61,27 @@ Conflict of Laws – Natural forum
 
 #### In Switzerland
 
-16     Following various criminal complaints filed by the Bank and others (including Mr Ivanishvili and Meadowsweet) in Switzerland, criminal charges were brought against Mr Lescaudron. Mr Ivanishvili filed a civil adhesive claim against Mr Lescaudron as well.[\[note: 27\]](#Ftn_27) After trial of the matter, Mr Lescaudron was convicted on some of the charges for fraud, criminal mismanagement and forgery. He was sentenced to 5 years’ imprisonment and was ordered to pay the Bank damages in the sum of more than USD130 million. Various assets of Mr Lescaudron were confiscated and allocated to the Bank so that the latter may use the assets to reimburse the clients who were affected by the fraudulent transfers. The Bank, Mr Lescaudron and other customers have appealed against various parts of the decision.
+16     Following various criminal complaints filed by the Bank and others (including Mr Ivanishvili and Meadowsweet) in Switzerland, criminal charges were brought against Mr Lescaudron. Mr Ivanishvili filed a civil adhesive claim against Mr Lescaudron as well.[^27] After trial of the matter, Mr Lescaudron was convicted on some of the charges for fraud, criminal mismanagement and forgery. He was sentenced to 5 years’ imprisonment and was ordered to pay the Bank damages in the sum of more than USD130 million. Various assets of Mr Lescaudron were confiscated and allocated to the Bank so that the latter may use the assets to reimburse the clients who were affected by the fraudulent transfers. The Bank, Mr Lescaudron and other customers have appealed against various parts of the decision.
 
-17     At present, there is no criminal indictment laid against the Bank in Switzerland. The Public Prosecutor of Geneva issued a Disjoinder Order and Refusal of Investigative Measures Order on 7 June 2017 which in effect separated the criminal proceedings against Mr Lescaudron from those against the Bank so that the former could proceed first.[\[note: 28\]](#Ftn_28)
+17     At present, there is no criminal indictment laid against the Bank in Switzerland. The Public Prosecutor of Geneva issued a Disjoinder Order and Refusal of Investigative Measures Order on 7 June 2017 which in effect separated the criminal proceedings against Mr Lescaudron from those against the Bank so that the former could proceed first.[^28]
 
 18     Mr Ivanishvili has discontinued his civil adhesive action in Switzerland. The plaintiffs have not filed a suit against the Bank or the Trustee in Switzerland.
 
 #### Representation Agreements
 
-19     On 24 October 2016, the Plaintiffs entered into a representation agreement with the Trustee and Meadowsweet to authorise the Plaintiff to act on behalf of Meadowsweet to sue the Bank in the courts of Zurich and/or Geneva and/or any such other court for breach of contract and wilful misconduct to claim for losses relating to the Meadowsweet and CS Life Meadowsweet accounts.[\[note: 29\]](#Ftn_29) It also authorises the plaintiffs to act on behalf of Meadowsweet to sue CS Life in Bermuda for losses relating to its failure to prudently invest and/or monitor investment of premiums paid.
+19     On 24 October 2016, the Plaintiffs entered into a representation agreement with the Trustee and Meadowsweet to authorise the Plaintiff to act on behalf of Meadowsweet to sue the Bank in the courts of Zurich and/or Geneva and/or any such other court for breach of contract and wilful misconduct to claim for losses relating to the Meadowsweet and CS Life Meadowsweet accounts.[^29] It also authorises the plaintiffs to act on behalf of Meadowsweet to sue CS Life in Bermuda for losses relating to its failure to prudently invest and/or monitor investment of premiums paid.
 
 20     A similar representation agreement was entered into in relation to the Green Vals Trust which also suffered losses from this series of events. Pursuant to this representation agreement, the Plaintiffs have conduct of the claims that may be pursued by Sandcay, the special purpose vehicle under the Green Vals Trust.
 
 #### New Zealand
 
-21     The Plaintiffs commenced suit in New Zealand on 7 August 2017 in respect of losses suffered by the Green Vals Trust.[\[note: 30\]](#Ftn_30) Claims were made against the Bank as well as the initial and existing trustees for losses which arose from the alleged wrongful acts of Mr Lescaudron. The causes of action are not completely identical to the Singapore suit even though there are substantial similarities in terms of the factual matrix. Both the Bank and the initial trustees were served out of jurisdiction while the existing trustees were served within jurisdiction. The New Zealand High Court found that Switzerland was the most appropriate forum for the case to be tried and dismissed the claims against the Bank and the initial trustees and ordered a stay of proceedings for the claims against the existing trustees.[\[note: 31\]](#Ftn_31) This decision is pending appeal.
+21     The Plaintiffs commenced suit in New Zealand on 7 August 2017 in respect of losses suffered by the Green Vals Trust.[^30] Claims were made against the Bank as well as the initial and existing trustees for losses which arose from the alleged wrongful acts of Mr Lescaudron. The causes of action are not completely identical to the Singapore suit even though there are substantial similarities in terms of the factual matrix. Both the Bank and the initial trustees were served out of jurisdiction while the existing trustees were served within jurisdiction. The New Zealand High Court found that Switzerland was the most appropriate forum for the case to be tried and dismissed the claims against the Bank and the initial trustees and ordered a stay of proceedings for the claims against the existing trustees.[^31] This decision is pending appeal.
 
-22     The grounds of decision of Justice Venning, Chief High Court Judge of the High Court of New Zealand, _Ivanishvili v Credit Suisse AG_ \[2018\] NZHC 1755, dated 17 July 2018, were relied on by both sides in argument.[\[note: 32\]](#Ftn_32) There are various differentiating factors between that litigation and the present case. From 2012 to 2014 the trust was governed by Prince Edward Island law. It was only from 1 July 2014 that a New Zealand trust company became the trustee and after 1 July 2014 New Zealand law became the governing law of the trust. The “Deed of Appointment and Retirement”, which made the change, itself was governed by Prince Edward Island law. Neither the Bank, who does not provide private banking services in New Zealand, nor the trustee prior to 2014, a Canadian company with no connection with New Zealand, were resident in jurisdiction in New Zealand. They were served out of jurisdiction without leave. Whilst there are some similarities in arguments made, there are also important points of difference.
+22     The grounds of decision of Justice Venning, Chief High Court Judge of the High Court of New Zealand, _Ivanishvili v Credit Suisse AG_ \[2018\] NZHC 1755, dated 17 July 2018, were relied on by both sides in argument.[^32] There are various differentiating factors between that litigation and the present case. From 2012 to 2014 the trust was governed by Prince Edward Island law. It was only from 1 July 2014 that a New Zealand trust company became the trustee and after 1 July 2014 New Zealand law became the governing law of the trust. The “Deed of Appointment and Retirement”, which made the change, itself was governed by Prince Edward Island law. Neither the Bank, who does not provide private banking services in New Zealand, nor the trustee prior to 2014, a Canadian company with no connection with New Zealand, were resident in jurisdiction in New Zealand. They were served out of jurisdiction without leave. Whilst there are some similarities in arguments made, there are also important points of difference.
 
 #### Bermuda
 
-23     Proceedings in Bermuda were filed on 17 August 2017 by the Plaintiffs, Meadowsweet and Sandcay against CS Life pursuant to the representation agreements.[\[note: 33\]](#Ftn_33) The central issue in that suit is the conduct of CS Life, and the plaintiffs have undertaken that they will not seek to recover in this suit any losses recovered in Bermuda but give credit for any recovery obtained.[\[note: 34\]](#Ftn_34) There is no application to stay the Bermuda proceedings.
+23     Proceedings in Bermuda were filed on 17 August 2017 by the Plaintiffs, Meadowsweet and Sandcay against CS Life pursuant to the representation agreements.[^33] The central issue in that suit is the conduct of CS Life, and the plaintiffs have undertaken that they will not seek to recover in this suit any losses recovered in Bermuda but give credit for any recovery obtained.[^34] There is no application to stay the Bermuda proceedings.
 
 ## Context and issues
 
@@ -90,9 +91,9 @@ Conflict of Laws – Natural forum
 
 The object, under the words ‘_forum non conveniens_’ is to find that forum which is the more suitable for the ends of justice, and is preferable because pursuit of the litigation in that forum is more likely to secure those ends.
 
-26     The plaintiffs characterise the claim as a trust claim against two defendants who are resident in Singapore and were served within jurisdiction.[\[note: 35\]](#Ftn_35) Further, they contend, the Trust Deed contains an exclusive jurisdiction clause.[\[note: 36\]](#Ftn_36) Singapore is also the most appropriate forum when the connecting factors are considered. And if this suit were to be tried in Switzerland, they would be denied juridical advantages, which they say weigh in their favour under the second stage of the _Spiliada_ test.
+26     The plaintiffs characterise the claim as a trust claim against two defendants who are resident in Singapore and were served within jurisdiction.[^35] Further, they contend, the Trust Deed contains an exclusive jurisdiction clause.[^36] Singapore is also the most appropriate forum when the connecting factors are considered. And if this suit were to be tried in Switzerland, they would be denied juridical advantages, which they say weigh in their favour under the second stage of the _Spiliada_ test.
 
-27     The defendants, on their part, contend that the Trust Deed merely contains a forum of administration clause, which is not an exclusive jurisdiction clause;[\[note: 37\]](#Ftn_37) the Bank is also of the view that it does not bind them.[\[note: 38\]](#Ftn_38) The Trustee, on the other hand, is of the view that the trust was merely a device to manage the global funds in question. The defendants characterise this claim as one arising out of a banking relationship spanning six bank accounts, only three of which are trust accounts: one held by Soothsayer and two by Meadowsweet. They contend that at present most of the assets are in the three non-trust accounts, which comprise Mr Ivanishvili’s personal account, the Wellminstone account and the Sandcay account. They emphasise the role of Swiss witnesses, in particular, Mr Lescaudron, which are, in their view, necessary for a fair trial of the action, and the difficulties presented in this case impeding disclosure of documents for the purpose of litigation outside Switzerland. They further contend that the denial of juridical advantages raised by the plaintiffs is not of sufficient prejudice to warrant a stay.
+27     The defendants, on their part, contend that the Trust Deed merely contains a forum of administration clause, which is not an exclusive jurisdiction clause;[^37] the Bank is also of the view that it does not bind them.[^38] The Trustee, on the other hand, is of the view that the trust was merely a device to manage the global funds in question. The defendants characterise this claim as one arising out of a banking relationship spanning six bank accounts, only three of which are trust accounts: one held by Soothsayer and two by Meadowsweet. They contend that at present most of the assets are in the three non-trust accounts, which comprise Mr Ivanishvili’s personal account, the Wellminstone account and the Sandcay account. They emphasise the role of Swiss witnesses, in particular, Mr Lescaudron, which are, in their view, necessary for a fair trial of the action, and the difficulties presented in this case impeding disclosure of documents for the purpose of litigation outside Switzerland. They further contend that the denial of juridical advantages raised by the plaintiffs is not of sufficient prejudice to warrant a stay.
 
 ## Decision
 
@@ -102,7 +103,7 @@ The object, under the words ‘_forum non conveniens_’ is to find that forum w
 
 #### The forum of administration clause
 
-29     The document which opened the parties’ relationship was that signed on 28 February 2005, when Mr Ivanishvili signed the “Acceptance Documentation Trust/Company” in Geneva for the formation of the Mandalay Trust.[\[note: 39\]](#Ftn_39) This document had a non-exclusive jurisdiction clause in favour of Singapore. It is a clause in the 7 March 2005 Trust Deed upon which the plaintiffs rely as an exclusive jurisdiction clause.[\[note: 40\]](#Ftn_40)
+29     The document which opened the parties’ relationship was that signed on 28 February 2005, when Mr Ivanishvili signed the “Acceptance Documentation Trust/Company” in Geneva for the formation of the Mandalay Trust.[^39] This document had a non-exclusive jurisdiction clause in favour of Singapore. It is a clause in the 7 March 2005 Trust Deed upon which the plaintiffs rely as an exclusive jurisdiction clause.[^40]
 
 30     Clause 2(a) of the Trust Deed reads:
 
@@ -160,7 +161,7 @@ Another view is that the phrase should cover matters that would fall within the 
 
 47     One such factor is the presence of a contractual exclusive jurisdiction clause relevant to legal proceedings between Mr Ivanishvili and the Bank. The Bank points out that their General Terms and Conditions and various contracts with the Trustee and various account holders such as Meadowsweet contained exclusive jurisdiction clauses applicable to every document signed with the Bank. Many of these contracts, signed between trustees and the Bank, are not of direct application to the claims advanced. Mr Ivanishvili is the main plaintiff, however, and any clauses signed between him and the Bank have significance.
 
-48     Mr Ivanishvili’s personal account was opened on 24 March 2009. Clause 7 of the “Agreement on the Opening of a Banking Relationship” stipulated the following:[\[note: 41\]](#Ftn_41)
+48     Mr Ivanishvili’s personal account was opened on 24 March 2009. Clause 7 of the “Agreement on the Opening of a Banking Relationship” stipulated the following:[^41]
 
 7.    Applicable Law and Place of Jurisdiction
 
@@ -170,7 +171,7 @@ The exclusive place of jurisdiction for all legal proceedings in connection with
 
 The Bank clarified at the hearing before me that it is relying on the Geneva address of the Bank, as Mr Ivanishvili’s relationship was managed by relationship managers based in Geneva.
 
-49     The Bank’s General Terms and Conditions would have been referred to in documents Mr Ivanishvili signed. Article 14 of the “December 2009 General Conditions” provided:[\[note: 42\]](#Ftn_42)
+49     The Bank’s General Terms and Conditions would have been referred to in documents Mr Ivanishvili signed. Article 14 of the “December 2009 General Conditions” provided:[^42]
 
 All legal relations between the client and the Bank are governed by Swiss law. The exclusive venue for any kind of legal proceedings is Zurich or the place of business of the Swiss branch of the Bank with which the contractual relationship exists. The Bank also reserves the right to take legal action against the client before any other competent court.
 
@@ -204,19 +205,19 @@ The claim in conversion had a sufficiently close connection with the claims unde
 
 59     The key witness in these proceedings is Mr Lescaudron, who is compellable in Switzerland but not in Singapore. Further, he is at present incarcerated in a French prison. The plaintiffs insist it is up to them whether they will call Mr Lescaudron, and they emphasise they will not call him as a witness. Given the centrality of Mr Lescaudron’s evidence, the defendants contend that they will be hampered in their defence if they are unable to call Mr Lescaudron. The defendants stated that they wish to call him, and his detailed information as to the state of knowledge of other employees or monitoring mechanisms will be crucial to their defence.
 
-60     The plaintiffs argue that Mr Lescaudron’s admissions made and the subsequent conviction in the criminal proceedings make the facts sufficiently clear. For example, in the statement of claim, the Plaintiffs rely on the following admissions by Mr Lescaudrons when interviewed by the Swiss Public Prosecutor, particularised at paragraph 79 of the statement of claim:[\[note: 43\]](#Ftn_43)
+60     The plaintiffs argue that Mr Lescaudron’s admissions made and the subsequent conviction in the criminal proceedings make the facts sufficiently clear. For example, in the statement of claim, the Plaintiffs rely on the following admissions by Mr Lescaudrons when interviewed by the Swiss Public Prosecutor, particularised at paragraph 79 of the statement of claim:[^43]
 
-(a)     the Bank had failed to execute instructions from Mr Ivanishvili to convert fixed-income assets held in Soothsayer’s accounts into “full equity”.[\[note: 44\]](#Ftn_44)
+(a)     the Bank had failed to execute instructions from Mr Ivanishvili to convert fixed-income assets held in Soothsayer’s accounts into “full equity”.[^44]
 
-(b)     the Bank had caused or permitted assets to be transferred from accounts into the Plaintiffs’ portfolio to other customers without authority or for no or less than market consideration.[\[note: 45\]](#Ftn_45)
+(b)     the Bank had caused or permitted assets to be transferred from accounts into the Plaintiffs’ portfolio to other customers without authority or for no or less than market consideration.[^45]
 
-(c)     the Bank had caused or permitted the accounts in the plaintiffs’ portfolio to acquire shares from the accounts of other customers for more than market consideration.[\[note: 46\]](#Ftn_46)
+(c)     the Bank had caused or permitted the accounts in the plaintiffs’ portfolio to acquire shares from the accounts of other customers for more than market consideration.[^46]
 
 (d)     the Bank had executed unauthorised trades or transactions, made investments in funds in which its employees or their associates had interests, made investments in products that were managed or associated by individuals engaged in real estate fraud, and took improper advice that was not independent.
 
-(e)     the Bank had completed trades and transfers using forged signatures and/or instructions, and had also conducted transactions not for investment purposes but solely for brokerage commission.[\[note: 47\]](#Ftn_47)
+(e)     the Bank had completed trades and transfers using forged signatures and/or instructions, and had also conducted transactions not for investment purposes but solely for brokerage commission.[^47]
 
-(f)     the Bank had falsified performance reports relating to the plaintiffs’ portfolio and had misstated or misvalued assets.[\[note: 48\]](#Ftn_48)
+(f)     the Bank had falsified performance reports relating to the plaintiffs’ portfolio and had misstated or misvalued assets.[^48]
 
 61     I disagree. There would be difficulty in proving these admissions. The criminal court made no findings specifically in respect of these admissions. Nor would Mr Lescaudron’s admissions, even if proved, be necessarily binding on the Bank, which would be entitled to run its defences in relation to its own liability for Mr Lescaudron’s acts. The Trustee was not party to the French action. In order for the defendants to have a fair chance at establishing their defence, they must have the ability to call him.
 
@@ -234,7 +235,7 @@ The claim in conversion had a sufficiently close connection with the claims unde
 
 67     The gravamen and premise of the suit is the fraud of Mr Lescaudron, who was Mr Ivanishvili’s relationship manager at the Bank. If the parties’ relationship is looked at as a whole, it would be fair to say, as the Trustee does, that the trust relationship was ancillary to the banking relationship. The source of the trust assets was the proceeds of the sale of Mr Ivanishvili’s stake in Mikhaylovsky GOK, a Russian iron ore company. The first deposit was of USD1.1 billion made into the Credit Suisse BVI Swiss Account. Thereafter the whole USD1.1 billion was transferred from the Credit Suisse BVI Swiss Account into the Meadowsweet BVI Swiss Account and from there USD550 million was transferred into the Soothsayer Bahamas Singapore Account. Throughout the whole of the relationship until the margin call, Mr Ivanishvili dealt with relationship managers based in Geneva, in particular Mr Lescaudron.
 
-68     While the statement of claim commences with contentions regarding the Mandalay Trust, it expands, through a central allegation of misrepresentation, to cover a portfolio of further assets managed by the Bank. Some USD145 million were moved into the Bank upon specific misrepresentations made by employees of the Bank[\[note: 49\]](#Ftn_49) There are three trust accounts and three non-trust accounts. Only one of the trust accounts, that of Soothsayer, was sited in Singapore. These funds, over the course of time, were transferred out of the Soothsayer account, and substantially transferred out by 21 June 2012, before the false reports were alleged to have commenced. The Soothsayer Bahamas account was closed on 26 March 2014. Within the remaining accounts, the relative value of the non-trust accounts are far higher than the trust accounts: by 2015 these non-trust accounts were 75% of the total value of assets.[\[note: 50\]](#Ftn_50). The claim in respect of events on and after September 2015 are also bolstered by a negligence claim against the Bank for its voluntary assumption of responsibility. The Trustee is not a defendant in respect of claims for relief for the non-trust accounts. The Bank is the only defendant in relation to these accounts. In this context, the plaintiffs’ claim for exemplary damages against the Bank requires court to look at the whole range of the Bank’s conduct across the six accounts, a wide ranging inquiry.
+68     While the statement of claim commences with contentions regarding the Mandalay Trust, it expands, through a central allegation of misrepresentation, to cover a portfolio of further assets managed by the Bank. Some USD145 million were moved into the Bank upon specific misrepresentations made by employees of the Bank[^49] There are three trust accounts and three non-trust accounts. Only one of the trust accounts, that of Soothsayer, was sited in Singapore. These funds, over the course of time, were transferred out of the Soothsayer account, and substantially transferred out by 21 June 2012, before the false reports were alleged to have commenced. The Soothsayer Bahamas account was closed on 26 March 2014. Within the remaining accounts, the relative value of the non-trust accounts are far higher than the trust accounts: by 2015 these non-trust accounts were 75% of the total value of assets.[^50]. The claim in respect of events on and after September 2015 are also bolstered by a negligence claim against the Bank for its voluntary assumption of responsibility. The Trustee is not a defendant in respect of claims for relief for the non-trust accounts. The Bank is the only defendant in relation to these accounts. In this context, the plaintiffs’ claim for exemplary damages against the Bank requires court to look at the whole range of the Bank’s conduct across the six accounts, a wide ranging inquiry.
 
 69     From the summation above, it is plain that the statement of claim has multiple narratives. But the threads common to all assets and all parties within the statement of claim are three: the misrepresentation claim, Mr Ivanishvili as a plaintiff, and the Bank’s role in respect of each asset concerned. This is important because, if these three common threads are considered apart from the other narratives within the wide-ranging statement of claim, the exclusive jurisdiction clauses signed between Mr Ivanishvili and the Bank would become the most prominent factor deciding jurisdiction and governing law for this dispute. Of course, this clause does not bind the Trustee nor the second to fifth plaintiffs. What is important is which claims weigh more substantively in the overall shape of the litigation.
 
@@ -274,105 +275,105 @@ The claim in conversion had a sufficiently close connection with the claims unde
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)Joint Bundle of Cause Papers (“JBCP”) Vol 1 Tab 1 p 6.
+[^1]: Joint Bundle of Cause Papers (“JBCP”) Vol 1 Tab 1 p 6.
 
-[\[note: 2\]](#Ftn_2_1)JBCP Vol 8 Tab 9 2CPO pp 37–56.
+[^2]: JBCP Vol 8 Tab 9 2CPO pp 37–56.
 
-[\[note: 3\]](#Ftn_3_1)JBCP Vol 12 Tab 14 pp 52–53.
+[^3]: JBCP Vol 12 Tab 14 pp 52–53.
 
-[\[note: 4\]](#Ftn_4_1)JBCP Vol 12 Tab 14 pp 52–53.
+[^4]: JBCP Vol 12 Tab 14 pp 52–53.
 
-[\[note: 5\]](#Ftn_5_1)JBCP Vol 12 Tab 14 pp 52–53.
+[^5]: JBCP Vol 12 Tab 14 pp 52–53.
 
-[\[note: 6\]](#Ftn_6_1)JBCP Vol 8 Tab 9 pp 162–216.
+[^6]: JBCP Vol 8 Tab 9 pp 162–216.
 
-[\[note: 7\]](#Ftn_7_1)JBCP Vol 2 Tab 7 pp 18–19.
+[^7]: JBCP Vol 2 Tab 7 pp 18–19.
 
-[\[note: 8\]](#Ftn_8_1)JBCP Vol 2 Tab 7 pp 18–19.
+[^8]: JBCP Vol 2 Tab 7 pp 18–19.
 
-[\[note: 9\]](#Ftn_9_1)JBCP Vol 11 Tab 13 pp 42–68.
+[^9]: JBCP Vol 11 Tab 13 pp 42–68.
 
-[\[note: 10\]](#Ftn_10_1)JBCP Vol 1 Tab 1 p 25–26.
+[^10]: JBCP Vol 1 Tab 1 p 25–26.
 
-[\[note: 11\]](#Ftn_11_1)JBCP Vol 12 Tab 14 p 54,
+[^11]: JBCP Vol 12 Tab 14 p 54,
 
-[\[note: 12\]](#Ftn_12_1)JBCP Vol 1 Tab 1 p 31.
+[^12]: JBCP Vol 1 Tab 1 p 31.
 
-[\[note: 13\]](#Ftn_13_1)JBCP Vol 1 Tab 1 p 31
+[^13]: JBCP Vol 1 Tab 1 p 31
 
-[\[note: 14\]](#Ftn_14_1)JBCP Vol 1 Tab 1 p 34–41.
+[^14]: JBCP Vol 1 Tab 1 p 34–41.
 
-[\[note: 15\]](#Ftn_15_1)JBCP Vol 12 Tab 14 p 54.
+[^15]: JBCP Vol 12 Tab 14 p 54.
 
-[\[note: 16\]](#Ftn_16_1)JBCP Vol 12 Tab 14 p 54.
+[^16]: JBCP Vol 12 Tab 14 p 54.
 
-[\[note: 17\]](#Ftn_17_1)JBCP Vol 12 Tab 14 p 64; JBCP Vol 1 Tab 1 p 46.
+[^17]: JBCP Vol 12 Tab 14 p 64; JBCP Vol 1 Tab 1 p 46.
 
-[\[note: 18\]](#Ftn_18_1)JBCP Vol 1 Tab 1 pp 35–36, 41–43.
+[^18]: JBCP Vol 1 Tab 1 pp 35–36, 41–43.
 
-[\[note: 19\]](#Ftn_19_1)JBCP Vol 1 Tab 1 p 41.
+[^19]: JBCP Vol 1 Tab 1 p 41.
 
-[\[note: 20\]](#Ftn_20_1)JBCP Vol 13 Tab 20.
+[^20]: JBCP Vol 13 Tab 20.
 
-[\[note: 21\]](#Ftn_21_1)JBCP Vol 1 Tab 1 p 47.
+[^21]: JBCP Vol 1 Tab 1 p 47.
 
-[\[note: 22\]](#Ftn_22_1)JBCP Vol 1 Tab 1 pp 76–77.
+[^22]: JBCP Vol 1 Tab 1 pp 76–77.
 
-[\[note: 23\]](#Ftn_23_1)JBCP Vol 1 Tab 1 p 45.
+[^23]: JBCP Vol 1 Tab 1 p 45.
 
-[\[note: 24\]](#Ftn_24_1)JBCP Vol 1 Tab 1 p 62.
+[^24]: JBCP Vol 1 Tab 1 p 62.
 
-[\[note: 25\]](#Ftn_25_1)JBCP Vol 1 Tab 1 p 59.
+[^25]: JBCP Vol 1 Tab 1 p 59.
 
-[\[note: 26\]](#Ftn_26_1)JBCP Vol 1 Tab 1 pp 75–76.
+[^26]: JBCP Vol 1 Tab 1 pp 75–76.
 
-[\[note: 27\]](#Ftn_27_1)JBCP Vol 2 Tab 7 p 49.
+[^27]: JBCP Vol 2 Tab 7 p 49.
 
-[\[note: 28\]](#Ftn_28_1)JBCP Vol 2 Tab 7 p 65.
+[^28]: JBCP Vol 2 Tab 7 p 65.
 
-[\[note: 29\]](#Ftn_29_1)JBCP Vol 12 Tab 14 p 61.
+[^29]: JBCP Vol 12 Tab 14 p 61.
 
-[\[note: 30\]](#Ftn_30_1)JBCP Vol 2 Tab 7 p 68.
+[^30]: JBCP Vol 2 Tab 7 p 68.
 
-[\[note: 31\]](#Ftn_31_1)Defendants’ Joint Supplementary Bundle of Documents (“DJSBD”) Tab 3 pp 80–81.
+[^31]: Defendants’ Joint Supplementary Bundle of Documents (“DJSBD”) Tab 3 pp 80–81.
 
-[\[note: 32\]](#Ftn_32_1)DJSBD Tab 3 pp 39–81.
+[^32]: DJSBD Tab 3 pp 39–81.
 
-[\[note: 33\]](#Ftn_33_1)JBCP Vol 12 Tab 14 p 72.
+[^33]: JBCP Vol 12 Tab 14 p 72.
 
-[\[note: 34\]](#Ftn_34_1)JBCP Vol 12 Tab 14 pp 71–72
+[^34]: JBCP Vol 12 Tab 14 pp 71–72
 
-[\[note: 35\]](#Ftn_35_1)Plaintiff’s Appeal Submissions (“PAS”) p 5.
+[^35]: Plaintiff’s Appeal Submissions (“PAS”) p 5.
 
-[\[note: 36\]](#Ftn_36_1)PAS p 6.
+[^36]: PAS p 6.
 
-[\[note: 37\]](#Ftn_37_1)1st Defendant’s Written Submissions (“1DS”) p 124.
+[^37]: 1st Defendant’s Written Submissions (“1DS”) p 124.
 
-[\[note: 38\]](#Ftn_38_1)2nd Defendant’s Written Submissions (“2DS”) p 78.
+[^38]: 2nd Defendant’s Written Submissions (“2DS”) p 78.
 
-[\[note: 39\]](#Ftn_39_1)JBCP Vol 8 Tab 9 2CPO pp 37–56.
+[^39]: JBCP Vol 8 Tab 9 2CPO pp 37–56.
 
-[\[note: 40\]](#Ftn_40_1)JBCP Vol 8 Tab 9 2CPO p 61.
+[^40]: JBCP Vol 8 Tab 9 2CPO p 61.
 
-[\[note: 41\]](#Ftn_41_1)JBCP Vol 2 Tab 7 p 155.
+[^41]: JBCP Vol 2 Tab 7 p 155.
 
-[\[note: 42\]](#Ftn_42_1)JBCP Vol 2 Tab 7 p 223.
+[^42]: JBCP Vol 2 Tab 7 p 223.
 
-[\[note: 43\]](#Ftn_43_1)JBCP Vol 1 Tab 1 p 41.
+[^43]: JBCP Vol 1 Tab 1 p 41.
 
-[\[note: 44\]](#Ftn_44_1)JBCP Vol 1 Tab 1 p 41.
+[^44]: JBCP Vol 1 Tab 1 p 41.
 
-[\[note: 45\]](#Ftn_45_1)JBCP Vol 1 Tab 1 p 41–42.
+[^45]: JBCP Vol 1 Tab 1 p 41–42.
 
-[\[note: 46\]](#Ftn_46_1)JBCP Vol 1 Tab 1 p 42.
+[^46]: JBCP Vol 1 Tab 1 p 42.
 
-[\[note: 47\]](#Ftn_47_1)JBCP Vol 1 Tab 1 p 44.
+[^47]: JBCP Vol 1 Tab 1 p 44.
 
-[\[note: 48\]](#Ftn_48_1)JBCP Vol 1 Tab 1 p 44.
+[^48]: JBCP Vol 1 Tab 1 p 44.
 
-[\[note: 49\]](#Ftn_49_1)JBCP Vol 1 Tab 1 p 30–31; JBCP Vol 1 Tab 1 p 62.
+[^49]: JBCP Vol 1 Tab 1 p 30–31; JBCP Vol 1 Tab 1 p 62.
 
-[\[note: 50\]](#Ftn_50_1)Exhibit D9.
+[^50]: Exhibit D9.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F22733-SSP.xml)

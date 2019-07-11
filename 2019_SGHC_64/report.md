@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # Public Prosecutor _v_ BSR  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Criminal Case No 59 of 2018</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">12 March 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Chan Seng Onn J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Eunice Lau and Charlene Tay (Attorney-General's Chambers) for the Public Prosecutor; Ng Boon Gan (VanillaLaw LLC) for the accused</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — BSR</td></tr></tbody></table>
@@ -14,7 +15,7 @@ Criminal Procedure and Sentencing – Sentencing – Outrage of modesty of a
 
 ## Introduction
 
-1       The Accused’s acts are best described as monstrous. Between March 2016 to August 2016, the Accused sexually exploited and abused three vulnerable women in his life, whom he had every responsibility to protect.[\[note: 1\]](#Ftn_1)
+1       The Accused’s acts are best described as monstrous. Between March 2016 to August 2016, the Accused sexually exploited and abused three vulnerable women in his life, whom he had every responsibility to protect.[^1]
 
 2       The charges which the Accused pleaded guilty to speak for themselves in showing the sordid nature of his sexual depravity and transgressions. After considering the submissions on sentence, I took into account the relevant sentencing principles, precedents, the charges that were taken into consideration (being the 4th, 5th, 7th, and 8th charges) for the purposes of sentencing, and the Accused’s plea of guilt. I sentenced the Accused as follows:
 
@@ -120,9 +121,9 @@ c.    the Accused’s wife, … she is also \[the Accused’s niece’s\] au
 
 35    \[His niece\] cried throughout and despite efforts to push the Accused away, was unable to do so. When she tried to shout for help, he covered her mouth and nose with his hand. He then placed a pillow over her face to muffle her screams. After a while, \[his niece\] stopped struggling as she could no longer breathe. The Accused panicked, ceased the sexual assault on his niece and removed the pillow. He then called \[his wife\] and asked her to return to the room.
 
-7       The Accused’s psychiatric reports from the Institute of Mental Health (“IMH”) disclosed that he was somewhat boastful of his sexual exploits.[\[note: 2\]](#Ftn_2) Dr Cheow Enquan (“Dr Cheow”) also opined in his report on the Accused dated 16 September 2016 that the Accused “continues to pose a risk to his daughter”, and “also a high risk of violence towards his wife”.[\[note: 3\]](#Ftn_3) Furthermore, Dr Cheow opined that “\[f\]ollow up at IMH will be of limited benefit as \[the Accused\] does not have a treatable mental disorder.”[\[note: 4\]](#Ftn_4) In a separate report dated 29 November 2018, Dr Cheow took the view that there was also no contributory link between the Accused’s mental state and the alleged offences.[\[note: 5\]](#Ftn_5)
+7       The Accused’s psychiatric reports from the Institute of Mental Health (“IMH”) disclosed that he was somewhat boastful of his sexual exploits.[^2] Dr Cheow Enquan (“Dr Cheow”) also opined in his report on the Accused dated 16 September 2016 that the Accused “continues to pose a risk to his daughter”, and “also a high risk of violence towards his wife”.[^3] Furthermore, Dr Cheow opined that “\[f\]ollow up at IMH will be of limited benefit as \[the Accused\] does not have a treatable mental disorder.”[^4] In a separate report dated 29 November 2018, Dr Cheow took the view that there was also no contributory link between the Accused’s mental state and the alleged offences.[^5]
 
-8       The Accused’s mother, who had made the police report against the Accused, also noticed that her grand-daughter (the Accused’s daughter) was “very disturbed and tearful after returning from” the hotel stay with her parents.[\[note: 6\]](#Ftn_6) When asked what had happened to her, the Accused’s daughter told her grandmother that “the accused had done something bad to her, as per the alleged offence.”[\[note: 7\]](#Ftn_7)
+8       The Accused’s mother, who had made the police report against the Accused, also noticed that her grand-daughter (the Accused’s daughter) was “very disturbed and tearful after returning from” the hotel stay with her parents.[^6] When asked what had happened to her, the Accused’s daughter told her grandmother that “the accused had done something bad to her, as per the alleged offence.”[^7]
 
 9       Atop the four proceeded charges, the other four charges taken into consideration for the purposes of sentencing involved occasions whereby the Accused voluntarily caused hurt to his wife (4th and 5th charges) and outraged the modesty of the same 13-year-old niece by rubbing and touching her breast with his hand in a cinema on two separate occasions (7th and 8th charges).
 
@@ -152,11 +153,11 @@ I note that s 354(2) is itself a provision that deals with outrage of modesty of
 
 \[emphasis added in bold italics\]
 
-17     Second, there was an abuse of a position of trust of the highest order. The Accused was the biological father of the victim, his daughter, and was thus “in a position of responsibility towards” her (_Ng Kean Meng Terence v Public Prosecutor_ (“_Terence Ng_”) at \[44(b)\]). Instead of protecting his own daughter from harm, the Accused flagrantly abused his position as the victim’s father, forcing her to fellate him against her own will. When she resisted, the Accused “forcibly gripped \[her\] hair and guided her head in an up-and-down motion to achieve his objective”[\[note: 8\]](#Ftn_8) of having her fellate him. After several minutes of forcing her to fellate him, during which he also penetrated her mouth multiple times with his penis,[\[note: 9\]](#Ftn_9) the Accused then sought to leverage on his position of power over his daughter by threatening to beat her if she dared to tell anyone.[\[note: 10\]](#Ftn_10) The entire chain of events speak for themselves in showing the Accused’s despicable misuse of his position of trust as the victim’s biological father, and cannot be condoned in any way.
+17     Second, there was an abuse of a position of trust of the highest order. The Accused was the biological father of the victim, his daughter, and was thus “in a position of responsibility towards” her (_Ng Kean Meng Terence v Public Prosecutor_ (“_Terence Ng_”) at \[44(b)\]). Instead of protecting his own daughter from harm, the Accused flagrantly abused his position as the victim’s father, forcing her to fellate him against her own will. When she resisted, the Accused “forcibly gripped \[her\] hair and guided her head in an up-and-down motion to achieve his objective”[^8] of having her fellate him. After several minutes of forcing her to fellate him, during which he also penetrated her mouth multiple times with his penis,[^9] the Accused then sought to leverage on his position of power over his daughter by threatening to beat her if she dared to tell anyone.[^10] The entire chain of events speak for themselves in showing the Accused’s despicable misuse of his position of trust as the victim’s biological father, and cannot be condoned in any way.
 
 18     Overlaying the Accused’s abuse of his position of trust was the Accused’s propensity for preying on vulnerable women who were the close to him, and who did not have the physical and/or psychological will to resist his sordid acts. As the charges disclosed, apart from sexually assaulting his own daughter, the Accused had sexually assaulted his young niece on at least three occasions (forming the 6th to 8th charges). Furthermore, he had physically and verbally abused his own wife to the point that she became compliant to his every demand, going so far as to prostitute herself. This demonstrated the Accused’s disregard for his privilege (and the responsibilities that flow from it) as the parent, uncle, or husband to the women in his life, whom he callously utilised for his own means.
 
-19     Third, in the course of achieving his desired fellatio, the Accused blatantly disregarded his daughter’s welfare. In _Terence Ng_, the Court of Appeal considered at \[44(i)\] that it would be aggravating for a sexual offender to assault his victim with knowledge that he is suffering from a life-threatening sexually transmitted disease (“STD”). Here, while the Accused had not yet been diagnosed with a STD at the material time, he suspected that he had a STD due to the visible uncommon white discharge coming from his urethra, as well as the dysuria (painful or difficult urination) which he felt.[\[note: 11\]](#Ftn_11) The Accused’s suspicions ought to have been further aroused considering that he frequently engaged prostitutes,[\[note: 12\]](#Ftn_12) thereby increasing his susceptibility to contracting a STD. Notwithstanding the warning signs, the Accused forced his daughter to fellate him for several minutes, exposing her to the risk of contracting a potentially incurable STD at her young age.
+19     Third, in the course of achieving his desired fellatio, the Accused blatantly disregarded his daughter’s welfare. In _Terence Ng_, the Court of Appeal considered at \[44(i)\] that it would be aggravating for a sexual offender to assault his victim with knowledge that he is suffering from a life-threatening sexually transmitted disease (“STD”). Here, while the Accused had not yet been diagnosed with a STD at the material time, he suspected that he had a STD due to the visible uncommon white discharge coming from his urethra, as well as the dysuria (painful or difficult urination) which he felt.[^11] The Accused’s suspicions ought to have been further aroused considering that he frequently engaged prostitutes,[^12] thereby increasing his susceptibility to contracting a STD. Notwithstanding the warning signs, the Accused forced his daughter to fellate him for several minutes, exposing her to the risk of contracting a potentially incurable STD at her young age.
 
 20     While I noted that due weight must be given to the Accused for having spared the victim additional suffering through his plea of guilt (_Chang Kar Meng v Public Prosecutor_ at \[47\]), I found that a sentence of 14 years’ imprisonment (falling within the highest end of Band 2 in the _Pram Nair_ framework) with 12 strokes of the cane (the mandatory minimum under s 376(4)(_b_) of the Penal Code) was commensurate with the severity of the aggravating factors in this case.
 
@@ -164,7 +165,7 @@ I note that s 354(2) is itself a provision that deals with outrage of modesty of
 
 21     The 2nd charge related to the Accused’s coercion of his wife into prostitution by placing her in fear of being physically assaulted if she refused to do so. The 3rd charge related to his receipt of the payments derived from his wife’s prostitution, as his wife was a trafficked victim for the purposes of the PHTA at the material time.
 
-22     As disclosed in the Statement of Facts (at \[6\] above), the Accused was able to coerce his wife into prostitution in 2016 due to a long history of physical and verbal abuse, which began in 2009.[\[note: 13\]](#Ftn_13) The abuse persisted throughout her pregnancies with the Accused’s and her children,[\[note: 14\]](#Ftn_14) and the Accused threatened to kill her if she reported the abuse to the authorities.[\[note: 15\]](#Ftn_15) Throughout the prolonged abuse, the Accused’s wife suffered in silence due to her fear of the Accused, and became compliant with his demands.[\[note: 16\]](#Ftn_16)
+22     As disclosed in the Statement of Facts (at \[6\] above), the Accused was able to coerce his wife into prostitution in 2016 due to a long history of physical and verbal abuse, which began in 2009.[^13] The abuse persisted throughout her pregnancies with the Accused’s and her children,[^14] and the Accused threatened to kill her if she reported the abuse to the authorities.[^15] Throughout the prolonged abuse, the Accused’s wife suffered in silence due to her fear of the Accused, and became compliant with his demands.[^16]
 
 23     In determining the appropriate sentences for the 2nd and 3rd charges, I considered _Poh Boon Kiat v Public Prosecutor_ (“_Poh Boon Kiat_”), where Sundaresh Menon CJ (“Menon CJ”) proffered a sentencing framework for prostitution and vice-related offences under ss 140 and 146 of the Women’s Charter (Cap 353, 2009 Rev Ed).
 
@@ -228,15 +229,15 @@ for the purpose of the exploitation (whether in Singapore or elsewhere) of the i
 
 30     First, the Accused had a high level of culpability, as he had secured his wife’s entry into the trade through violence and threats (see _Poh Boon Kiat_ at \[75(c)\]), which persisted even after his wife had entered the trade on his demand.
 
-31     As the Statement of Facts disclosed, after his wife had initially resisted his demands for her to prostitute herself, “he badgered her persistently for three days knowing that she was afraid of him as she told him \[that\] she did not want to be assaulted again.”[\[note: 17\]](#Ftn_17) The background to this was a long history of violence towards his wife that started in 2009, and persisted through her pregnancies, causing her to be so afraid of him that “she no longer dared to use her handphone or contact her own family members as the Accused explicitly disallowed her from doing so.”[\[note: 18\]](#Ftn_18)
+31     As the Statement of Facts disclosed, after his wife had initially resisted his demands for her to prostitute herself, “he badgered her persistently for three days knowing that she was afraid of him as she told him \[that\] she did not want to be assaulted again.”[^17] The background to this was a long history of violence towards his wife that started in 2009, and persisted through her pregnancies, causing her to be so afraid of him that “she no longer dared to use her handphone or contact her own family members as the Accused explicitly disallowed her from doing so.”[^18]
 
-32     The violence persisted even after his wife had succumbed to his demands for her to prostitute herself, and the Accused “would scold and assault her if she failed to respond to his calls, secure enough customers or earn enough money.”[\[note: 19\]](#Ftn_19) On one particularly egregious occasion, his wife had been engaged by a former classmate of hers. The Accused punched his wife repeatedly until she acquiesced to his demand for a threesome between himself, his wife, and the former classmate. However, when his desired threesome did not materialise, the Accused began punching his wife, and, in the course of the altercation, hit her with a dumbbell and demanded that she solicit more customers. To appease him, his wife had to fellate him until he fell asleep.[\[note: 20\]](#Ftn_20)
+32     The violence persisted even after his wife had succumbed to his demands for her to prostitute herself, and the Accused “would scold and assault her if she failed to respond to his calls, secure enough customers or earn enough money.”[^19] On one particularly egregious occasion, his wife had been engaged by a former classmate of hers. The Accused punched his wife repeatedly until she acquiesced to his demand for a threesome between himself, his wife, and the former classmate. However, when his desired threesome did not materialise, the Accused began punching his wife, and, in the course of the altercation, hit her with a dumbbell and demanded that she solicit more customers. To appease him, his wife had to fellate him until he fell asleep.[^20]
 
 33     The prolonged violence against his wife so that she would be subservient to his demands in relation to her prostitution undoubtedly pointed to his high level of culpability.
 
 #### Domestic nature of the offence does not reduce the Accused’s culpability
 
-34     However, counsel for the Accused, Mr Ng Boon Gan (“Mr Ng”), suggested that the Accused’s crime ought to fall on the low end of the culpability spectrum, given that it was not a transnational crime.[\[note: 21\]](#Ftn_21) In this regard, Mr Ng pointed out that the PHTA was passed to address “a lucrative transnational crime” (_Singapore Parliamentary Debates_, _Official Report_ (3 November 2014) vol 92 (Mr Christopher de Souza, Deputy Speaker) (“PHTA Debates”)).
+34     However, counsel for the Accused, Mr Ng Boon Gan (“Mr Ng”), suggested that the Accused’s crime ought to fall on the low end of the culpability spectrum, given that it was not a transnational crime.[^21] In this regard, Mr Ng pointed out that the PHTA was passed to address “a lucrative transnational crime” (_Singapore Parliamentary Debates_, _Official Report_ (3 November 2014) vol 92 (Mr Christopher de Souza, Deputy Speaker) (“PHTA Debates”)).
 
 35     While the driving force for the PHTA may have been to curb transnational trafficking of persons, the broad statutory provisions, which do not distinguish between transnational or entirely domestic cases of trafficking, demonstrates that the Act was intended to weed out _all_ forms of human trafficking, however committed. As the Deputy Speaker observed in the PHTA Debates:
 
@@ -252,13 +253,13 @@ for the purpose of the exploitation (whether in Singapore or elsewhere) of the i
 
 39     I also found that the degree of harm inflicted on his wife was of a high level.
 
-40     Apart from using persistent violence against her, he also levelled systematic psychological abuse against her (_Poh Boon Kiat_ at \[76(a)(iii)\]), making her do degrading and dangerous things such as secretly recording her sexual acts with customers and to provide such recordings to the Accused so as to satisfy his deviant fetish of seeing his wife engaging in sexual acts with other men.[\[note: 22\]](#Ftn_22)
+40     Apart from using persistent violence against her, he also levelled systematic psychological abuse against her (_Poh Boon Kiat_ at \[76(a)(iii)\]), making her do degrading and dangerous things such as secretly recording her sexual acts with customers and to provide such recordings to the Accused so as to satisfy his deviant fetish of seeing his wife engaging in sexual acts with other men.[^22]
 
-41     Furthermore, “the court should also treat as a serious aggravating factor evidence of excessive wage reduction” (_Poh Boon Kiat_ at \[83\]). In this respect, the Accused had imposed a daily quota of customers on his wife. If the quota was not met, she would have to secure more customers the following day to compensate for the shortfall.[\[note: 23\]](#Ftn_23) As a result of his demands, the Accused’s wife provided sexual services to about 138 customers, serving an average of three to five customers a day in the short span of less than three months (from June 2016 to 19 August 2016).[\[note: 24\]](#Ftn_24) During this period, the Accused’s wife “earned an estimated $10,930 and handed _all_ her earnings to the Accused” \[emphasis added\].[\[note: 25\]](#Ftn_25) As his wife had no other job at the material time, she was essentially without wage for her work as a prostitute.
+41     Furthermore, “the court should also treat as a serious aggravating factor evidence of excessive wage reduction” (_Poh Boon Kiat_ at \[83\]). In this respect, the Accused had imposed a daily quota of customers on his wife. If the quota was not met, she would have to secure more customers the following day to compensate for the shortfall.[^23] As a result of his demands, the Accused’s wife provided sexual services to about 138 customers, serving an average of three to five customers a day in the short span of less than three months (from June 2016 to 19 August 2016).[^24] During this period, the Accused’s wife “earned an estimated $10,930 and handed _all_ her earnings to the Accused” \[emphasis added\].[^25] As his wife had no other job at the material time, she was essentially without wage for her work as a prostitute.
 
-42     While the Accused alleged in his defence that he had taken the earnings as he was mainly motivated “to ensure that there was sufficient cash for his infant son’s needs”,[\[note: 26\]](#Ftn_26) I was not convinced.
+42     While the Accused alleged in his defence that he had taken the earnings as he was mainly motivated “to ensure that there was sufficient cash for his infant son’s needs”,[^26] I was not convinced.
 
-43     In particular, had the Accused been so driven to provide for his infant son’s needs, he would have sought, or at least attempt to seek, a job for himself. Instead of doing so, he rejected his wife’s request that she apply for a job rather than prostitute herself, and further “rejected the notion that he had to work to earn money for the family”, remaining unemployed throughout the period he had forced his wife into prostitution.[\[note: 27\]](#Ftn_27)
+43     In particular, had the Accused been so driven to provide for his infant son’s needs, he would have sought, or at least attempt to seek, a job for himself. Instead of doing so, he rejected his wife’s request that she apply for a job rather than prostitute herself, and further “rejected the notion that he had to work to earn money for the family”, remaining unemployed throughout the period he had forced his wife into prostitution.[^27]
 
 ### PHTA aggravating factors
 
@@ -274,9 +275,9 @@ for the purpose of the exploitation (whether in Singapore or elsewhere) of the i
 
 48     Here, however, the Accused was charged under the PHTA, which carries more severe penalties, including imprisonment of up to 10 years and to caning. It is trite that the sentencing judge ought to consider the full spectrum of sentences enacted by Parliament in determining the appropriate sentence (_Poh Boon Kiat_ at \[60\], citing _Ong Chee Eng v Public Prosecutor_ at \[24\]).
 
-49     In _Public Prosecutor v Muhammad Khairulanwar Bin Rohmat_ (DAC 914550/2015 and others) (unreported) (“_Muhammad Khairulanwar_”),[\[note: 28\]](#Ftn_28) the accused had persuaded two minors to take up prostitution jobs. While there was no evidence of threat or force used on them, there was some element of coercion, as the accused had continued to message the minors after their initial encounter with the intention of convincing them to accept prostitution jobs.[\[note: 29\]](#Ftn_29) However, apart from occasions whereby the minors had engaged in sexual acts with the accused himself on the pretext of determining their suitability to being introduced to his other clients, the minors did not provide sexual services to any of the accused’s clients.[\[note: 30\]](#Ftn_30)
+49     In _Public Prosecutor v Muhammad Khairulanwar Bin Rohmat_ (DAC 914550/2015 and others) (unreported) (“_Muhammad Khairulanwar_”),[^28] the accused had persuaded two minors to take up prostitution jobs. While there was no evidence of threat or force used on them, there was some element of coercion, as the accused had continued to message the minors after their initial encounter with the intention of convincing them to accept prostitution jobs.[^29] However, apart from occasions whereby the minors had engaged in sexual acts with the accused himself on the pretext of determining their suitability to being introduced to his other clients, the minors did not provide sexual services to any of the accused’s clients.[^30]
 
-50     For his PHTA offences, the accused, who pleaded guilty, was sentenced to 36 months’ imprisonment and a fine of $10,000 in relation to the first minor, and 39 months’ imprisonment and a fine of $10,000 in relation to the second minor. Both sentences were to run consecutively.[\[note: 31\]](#Ftn_31)
+50     For his PHTA offences, the accused, who pleaded guilty, was sentenced to 36 months’ imprisonment and a fine of $10,000 in relation to the first minor, and 39 months’ imprisonment and a fine of $10,000 in relation to the second minor. Both sentences were to run consecutively.[^31]
 
 51     In this case, the Accused had, against a backdrop of prolonged domestic violence, forced his wife into prostitution. During the period of her prostitution, he continued to inflict violence on her for various reasons, including to ensure that she met the quota of clients he had stipulated for her, or so that she would give in to his demands. He further ensured that additional trauma and degradation would be visited on her by insisting that she secretly film her sexual acts with her customers, and that she provide those recordings to him thereafter. It is patently obvious that the accused’s culpability far exceeds that of the offender in _Muhammad Khairulanwar_.
 
@@ -298,19 +299,19 @@ for the purpose of the exploitation (whether in Singapore or elsewhere) of the i
 
 56     Applying the _GBR v PP_ framework, there were multiple offence specific aggravating factors in this case.
 
-57     First, in relation to the degree of sexual exploitation (_GBR v PP_ at \[28\]), the Accused had touched, squeezed and licked his niece’s private parts, in particular her breasts and nipples, which were exposed after he had removed her bra and T-shirt forcefully.[\[note: 32\]](#Ftn_32) He also kissed sensitive parts of her body, namely her face and neck.
+57     First, in relation to the degree of sexual exploitation (_GBR v PP_ at \[28\]), the Accused had touched, squeezed and licked his niece’s private parts, in particular her breasts and nipples, which were exposed after he had removed her bra and T-shirt forcefully.[^32] He also kissed sensitive parts of her body, namely her face and neck.
 
-58     The sexual exploitation also continued for a prolonged, rather than fleeting period, as it went on for some time, with the victim crying throughout.[\[note: 33\]](#Ftn_33) The assault only ended after the Accused panicked as he had placed a pillow over his niece’s head to muffle her screams, causing her to stop struggling and screaming as she was unable to breathe.[\[note: 34\]](#Ftn_34)
+58     The sexual exploitation also continued for a prolonged, rather than fleeting period, as it went on for some time, with the victim crying throughout.[^33] The assault only ended after the Accused panicked as he had placed a pillow over his niece’s head to muffle her screams, causing her to stop struggling and screaming as she was unable to breathe.[^34]
 
-59     Furthermore, the offence was clearly premeditated (_GBR v PP_ at \[29(a)\]). As disclosed by the 7th and 8th charges which were taken into consideration, the Accused had outraged the modesty of his niece by touching and rubbing her breasts on two earlier occasions. Fuelled by this, the Accused then demanded that his wife, who was subservient to his demands due to her fear of him, pick his niece up from school and bring her to the hotel, which she had booked on the Accused’s instructions. At the hotel, as per his instructions, his wife then brought his niece to the room to shower, and left the room to pass the Accused the keys to the room. When left in the room with his niece alone, the Accused accordingly undressed, and waited for his niece to finish her shower. After which, the Accused proceeded to assault her.[\[note: 35\]](#Ftn_35) The chain of events show that the offence was clearly premeditated.
+59     Furthermore, the offence was clearly premeditated (_GBR v PP_ at \[29(a)\]). As disclosed by the 7th and 8th charges which were taken into consideration, the Accused had outraged the modesty of his niece by touching and rubbing her breasts on two earlier occasions. Fuelled by this, the Accused then demanded that his wife, who was subservient to his demands due to her fear of him, pick his niece up from school and bring her to the hotel, which she had booked on the Accused’s instructions. At the hotel, as per his instructions, his wife then brought his niece to the room to shower, and left the room to pass the Accused the keys to the room. When left in the room with his niece alone, the Accused accordingly undressed, and waited for his niece to finish her shower. After which, the Accused proceeded to assault her.[^35] The chain of events show that the offence was clearly premeditated.
 
 60     Additionally, there was use of force or violence (_GBR v PP_ at \[29(b)\]), as the Accused had pinned his niece to the bed, and covered her face with a pillow in an attempt to muffle her screams.
 
 61     The offence also occurred in an intra-familial setting, whereby deterrence is of particular importance, as the victim may face additional pressure not to come forward “out of an instinctive albeit misguided reaction to preserve the unity of the family and to avoid the publicity and shame that inevitably ensues from such a conviction.” (_Public Prosecutor v NF_ (“_PP v NF_”) at \[40\])
 
-62     This difficulty of coming out was apparent in the present case. Here, the victim missed her Primary School Leaving Examinations (“PSLE”) as a result of the Accused’s demand that his wife was to pick the victim up from school on the morning of the offence. Fortunately, her principal made special arrangements for the victim to sit for her PSLE examination in the afternoon on the same day. Despite the distressing ordeal which would have properly explained her absence, the victim did not recount the events that had unfolded earlier to her principal, and instead sat for her examination,[\[note: 36\]](#Ftn_36) with her psyche likely afflicted by the traumatic event.
+62     This difficulty of coming out was apparent in the present case. Here, the victim missed her Primary School Leaving Examinations (“PSLE”) as a result of the Accused’s demand that his wife was to pick the victim up from school on the morning of the offence. Fortunately, her principal made special arrangements for the victim to sit for her PSLE examination in the afternoon on the same day. Despite the distressing ordeal which would have properly explained her absence, the victim did not recount the events that had unfolded earlier to her principal, and instead sat for her examination,[^36] with her psyche likely afflicted by the traumatic event.
 
-63     Finally, while no victim impact statement was understandably proffered so as to not inflict any further trauma on the victim by requiring her to recount the event, at least some harm to the Accused’s niece can be gleaned from the Statement of Facts. First, she had “cried throughout \[the ordeal\] and despite efforts to push the Accused away, was unable to do so.”[\[note: 37\]](#Ftn_37) His niece also suffered scratches to her face in the immediate aftermath of the assault,[\[note: 38\]](#Ftn_38) and had a pillow placed over her face to muffle her screams to the point that she could no longer breathe.[\[note: 39\]](#Ftn_39)
+63     Finally, while no victim impact statement was understandably proffered so as to not inflict any further trauma on the victim by requiring her to recount the event, at least some harm to the Accused’s niece can be gleaned from the Statement of Facts. First, she had “cried throughout \[the ordeal\] and despite efforts to push the Accused away, was unable to do so.”[^37] His niece also suffered scratches to her face in the immediate aftermath of the assault,[^38] and had a pillow placed over her face to muffle her screams to the point that she could no longer breathe.[^39]
 
 64     As See J observed in _GBR v PP_ at \[34\], cases “involving the skin-to-skin touching of the victim’s private parts of sexual organs” would fall at the higher end of the spectrum of Band 2 cases. Furthermore, cases with two or more aggravating factors would invariably fall within Band 2.
 
@@ -330,7 +331,7 @@ for the purpose of the exploitation (whether in Singapore or elsewhere) of the i
 
 69     Apart from the principle of general deterrence, I also found that retribution was a relevant sentencing consideration in the present case, given the significant harm the Accused had caused to his victims. In particular, his wife had suffered at his hands for a prolonged period, starting in 2009, and ending only in August 2016. Furthermore, while the Accused would be released upon the completion of his sentence, the trauma and emotional distress felt by his young victims (_ie_, his daughter and his niece) will likely follow them for the rest of their lives.
 
-70     Specific deterrence was also a relevant sentencing consideration. Here, the IMH psychiatrist reported that the Accused did not have a treatable mental disorder, and that his mental state did not have a contributory link to the offences.[\[note: 40\]](#Ftn_40) As a result, the sentence had to be sufficiently punishing to discourage the Accused from repeating his actions. As observed in _Public Prosecutor v Law Aik Meng_ at \[21\]:
+70     Specific deterrence was also a relevant sentencing consideration. Here, the IMH psychiatrist reported that the Accused did not have a treatable mental disorder, and that his mental state did not have a contributory link to the offences.[^40] As a result, the sentence had to be sufficiently punishing to discourage the Accused from repeating his actions. As observed in _Public Prosecutor v Law Aik Meng_ at \[21\]:
 
 Specific deterrence operates through the discouraging effects felt when an offender experiences and endures the punishment of a particular offence … it seeks to instil in a particular offender the fear of re-offending through the potential threat of re-experiencing the same sanction previously imposed.
 
@@ -344,85 +345,85 @@ Specific deterrence operates through the discouraging effects felt when an offen
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)For The Record, 19 February 2019 (Court 4C) at 11:31.
+[^1]: For The Record, 19 February 2019 (Court 4C) at 11:31.
 
-[\[note: 2\]](#Ftn_2_1)Statement of Facts, Annex B at \[17\].
+[^2]: Statement of Facts, Annex B at \[17\].
 
-[\[note: 3\]](#Ftn_3_1)Statement of Facts, Annex B at \[25\].
+[^3]: Statement of Facts, Annex B at \[25\].
 
-[\[note: 4\]](#Ftn_4_1)Statement of Facts, Annex B at \[26\].
+[^4]: Statement of Facts, Annex B at \[26\].
 
-[\[note: 5\]](#Ftn_5_1)Statement of Facts, Annex C at \[25\].
+[^5]: Statement of Facts, Annex C at \[25\].
 
-[\[note: 6\]](#Ftn_6_1)Statement of Facts, Annex B at \[21\].
+[^6]: Statement of Facts, Annex B at \[21\].
 
-[\[note: 7\]](#Ftn_7_1)Statement of Facts, Annex B at \[21\].
+[^7]: Statement of Facts, Annex B at \[21\].
 
-[\[note: 8\]](#Ftn_8_1)Statement of Facts at \[7\].
+[^8]: Statement of Facts at \[7\].
 
-[\[note: 9\]](#Ftn_9_1)Statement of Facts at \[8\].
+[^9]: Statement of Facts at \[8\].
 
-[\[note: 10\]](#Ftn_10_1)Statement of Facts at \[8\].
+[^10]: Statement of Facts at \[8\].
 
-[\[note: 11\]](#Ftn_11_1)Statement of Facts at \[9\].
+[^11]: Statement of Facts at \[9\].
 
-[\[note: 12\]](#Ftn_12_1)Statements of Facts at \[18\].
+[^12]: Statements of Facts at \[18\].
 
-[\[note: 13\]](#Ftn_13_1)Statement of Facts at \[13\].
+[^13]: Statement of Facts at \[13\].
 
-[\[note: 14\]](#Ftn_14_1)Statement of Facts at \[13\].
+[^14]: Statement of Facts at \[13\].
 
-[\[note: 15\]](#Ftn_15_1)Statement of Facts at \[14\].
+[^15]: Statement of Facts at \[14\].
 
-[\[note: 16\]](#Ftn_16_1)Statement of Facts at \[14\] – \[26\].
+[^16]: Statement of Facts at \[14\] – \[26\].
 
-[\[note: 17\]](#Ftn_17_1)Statement of Facts at \[17\].
+[^17]: Statement of Facts at \[17\].
 
-[\[note: 18\]](#Ftn_18_1)Statement of Facts at \[13\] – \[14\].
+[^18]: Statement of Facts at \[13\] – \[14\].
 
-[\[note: 19\]](#Ftn_19_1)Statement of Facts at \[22\].
+[^19]: Statement of Facts at \[22\].
 
-[\[note: 20\]](#Ftn_20_1)Statement of Facts at \[23\] – \[25\].
+[^20]: Statement of Facts at \[23\] – \[25\].
 
-[\[note: 21\]](#Ftn_21_1)For the Record, Court 4C (19 February 2019) at 10:50:50.
+[^21]: For the Record, Court 4C (19 February 2019) at 10:50:50.
 
-[\[note: 22\]](#Ftn_22_1)Statement of Facts at \[21\].
+[^22]: Statement of Facts at \[21\].
 
-[\[note: 23\]](#Ftn_23_1)Statement of Facts at \[20\].
+[^23]: Statement of Facts at \[20\].
 
-[\[note: 24\]](#Ftn_24_1)Statement of Facts at \[27\].
+[^24]: Statement of Facts at \[27\].
 
-[\[note: 25\]](#Ftn_25_1)Statement of Facts at \[27\].
+[^25]: Statement of Facts at \[27\].
 
-[\[note: 26\]](#Ftn_26_1)Mitigation Plea at \[6\].
+[^26]: Mitigation Plea at \[6\].
 
-[\[note: 27\]](#Ftn_27_1)Statement of Facts at \[16\].
+[^27]: Statement of Facts at \[16\].
 
-[\[note: 28\]](#Ftn_28_1)Prosecution’s Bundle of Authorities, Tab H.
+[^28]: Prosecution’s Bundle of Authorities, Tab H.
 
-[\[note: 29\]](#Ftn_29_1)Prosecution’s Bundle of Authorities, Tab H, p 172 at para 10; p 174 at paras 22 – 24.
+[^29]: Prosecution’s Bundle of Authorities, Tab H, p 172 at para 10; p 174 at paras 22 – 24.
 
-[\[note: 30\]](#Ftn_30_1)Prosecution’s Bundle of Authorities, Tab H, p 172 at paras 7 – 8; p 175 at para 27.
+[^30]: Prosecution’s Bundle of Authorities, Tab H, p 172 at paras 7 – 8; p 175 at para 27.
 
-[\[note: 31\]](#Ftn_31_1)Prosecution’s Bundle of Authorities, Tab H, p 170.
+[^31]: Prosecution’s Bundle of Authorities, Tab H, p 170.
 
-[\[note: 32\]](#Ftn_32_1)Statement of Facts at \[34\].
+[^32]: Statement of Facts at \[34\].
 
-[\[note: 33\]](#Ftn_33_1)Statement of Facts at \[35\].
+[^33]: Statement of Facts at \[35\].
 
-[\[note: 34\]](#Ftn_34_1)Statement of Facts at \[35\].
+[^34]: Statement of Facts at \[35\].
 
-[\[note: 35\]](#Ftn_35_1)Statement of Facts at \[31\] – \[34\].
+[^35]: Statement of Facts at \[31\] – \[34\].
 
-[\[note: 36\]](#Ftn_36_1)Statement of Facts at \[36\].
+[^36]: Statement of Facts at \[36\].
 
-[\[note: 37\]](#Ftn_37_1)Statement of Facts at \[35\].
+[^37]: Statement of Facts at \[35\].
 
-[\[note: 38\]](#Ftn_38_1)Statement of Facts at \[36\].
+[^38]: Statement of Facts at \[36\].
 
-[\[note: 39\]](#Ftn_39_1)Statement of Facts at \[35\].
+[^39]: Statement of Facts at \[35\].
 
-[\[note: 40\]](#Ftn_40_1)Statement of Facts, Annex B at para 26 and Annex C at para 25.
+[^40]: Statement of Facts, Annex B at para 26 and Annex C at para 25.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F22921-SSP.xml)

@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # Public Prosecutor _v_ Ewe Pang Kooi  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Criminal Case No 53 of 2018</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">15 March 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Chan Seng Onn J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Hon Yi and Nicholas Khoo Tian Lun (Attorney-General's Chambers) for the Prosecution; Michael Khoo SC, Low Miew Yin Josephine and Cleophas James Pfang (Michael Khoo &amp; Partners) for the accused.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Ewe Pang Kooi</td></tr></tbody></table>
@@ -20,7 +21,7 @@ Criminal law – Offences – Property – Criminal Breach of Trust
 
 (c)     Charges relating to Ewe’s role as manager for the bank accounts of Technology Partners International (“TPI”) Singapore Branch (“the TPI charges”).
 
-3       An example of one of the liquidator charges is set out as follows:[\[note: 1\]](#Ftn_1)
+3       An example of one of the liquidator charges is set out as follows:[^1]
 
 That you, EWE PANG KOOI,
 
@@ -44,13 +45,13 @@ On or about between … , in Singapore, did commit criminal breach of trust in t
 
 8       Ewe is a 65 year-old male Malaysian citizen with Singapore permanent resident status. At all material times, he held professional qualifications as both a Certified Public Accountant (“CPA”) as well as an Approved Liquidator registered with the Accounting and Corporate Regulatory Authority. He was also the managing partner of Ewe Loke & Partners (“ELP”), a Certified Public Accounting firm, and a director of E & M Management Consultants Pte Ltd (“EM”), a firm in the business of providing tax and financial consulting and corporate restructuring services.
 
-9       ELP was registered on 2 September 1998. From 2002 to July 2012, the partners of ELP were Ewe, one Loke Poh Keun (“Loke”), and one Mitsuru Morii (“Morii”). Another accountant, one Farooq Mann (“Farooq”), acted jointly with Ewe as liquidator for some of the companies. EM was registered on 20 July 1990 by Morii and Ewe. Subsequently, in early 1992, Loke was appointed as an additional director.[\[note: 2\]](#Ftn_2)
+9       ELP was registered on 2 September 1998. From 2002 to July 2012, the partners of ELP were Ewe, one Loke Poh Keun (“Loke”), and one Mitsuru Morii (“Morii”). Another accountant, one Farooq Mann (“Farooq”), acted jointly with Ewe as liquidator for some of the companies. EM was registered on 20 July 1990 by Morii and Ewe. Subsequently, in early 1992, Loke was appointed as an additional director.[^2]
 
 ### Facts relating to the role of a liquidator and receiver as set out by the parties
 
 10     I reproduce the key portions of the parties’ SOAF on the role of a liquidator and receiver below.
 
-11     A liquidator is an officer appointed when a company goes into winding up or liquidation. When a company is being wound up, the company’s business ceases to operate and its assets and affairs are handed over to a liquidator, whose powers, duties and functions are set out in s 272 of the Companies Act (Cap 50, 2006 Rev Ed) (“the CA”). The liquidator’s roles include the following: [\[note: 3\]](#Ftn_3)
+11     A liquidator is an officer appointed when a company goes into winding up or liquidation. When a company is being wound up, the company’s business ceases to operate and its assets and affairs are handed over to a liquidator, whose powers, duties and functions are set out in s 272 of the Companies Act (Cap 50, 2006 Rev Ed) (“the CA”). The liquidator’s roles include the following: [^3]
 
 (a)     Investigate into the affairs and assets of the company, the conduct of its officers and the claims of creditors and third parties;
 
@@ -58,13 +59,13 @@ On or about between … , in Singapore, did commit criminal breach of trust in t
 
 (c)     Adjudicate the claims of creditors and ensure an equitable distribution of the company’s assets in accordance with the provisions of the CA.
 
-12     When a company goes into receivership, all assets of the company will be transferred into the control of a receiver. A receiver may be appointed by the court or a creditor, and he is entrusted with custody of the property of the company, including its tangible and intangible assets and rights. His responsibility is to liquidate all available assets and rights of the company, and ensure as much debt as possible is repaid to the creditors.[\[note: 4\]](#Ftn_4)
+12     When a company goes into receivership, all assets of the company will be transferred into the control of a receiver. A receiver may be appointed by the court or a creditor, and he is entrusted with custody of the property of the company, including its tangible and intangible assets and rights. His responsibility is to liquidate all available assets and rights of the company, and ensure as much debt as possible is repaid to the creditors.[^4]
 
-13     When the accused was appointed as a liquidator or receiver by the companies, he was authorised to have control over the bank accounts and assets of the companies, in order for him to make payments to creditors and to recover the companies’ assets.[\[note: 5\]](#Ftn_5)
+13     When the accused was appointed as a liquidator or receiver by the companies, he was authorised to have control over the bank accounts and assets of the companies, in order for him to make payments to creditors and to recover the companies’ assets.[^5]
 
 ### Facts relating to the liquidator charges
 
-14     Ewe was appointed as a liquidator for the following companies (“the 21 companies”). The sequence of the 21 companies as listed in the table below follow the exact sequence as they appear in the SOAF:[\[note: 6\]](#Ftn_6)
+14     Ewe was appointed as a liquidator for the following companies (“the 21 companies”). The sequence of the 21 companies as listed in the table below follow the exact sequence as they appear in the SOAF:[^6]
 
 <table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="33.62%"> <col width="33.88%"> <col width="32.5%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p class="Table-Heading-Center">Name of company</p></td><td align="left" class="br" rowspan="1" valign="top"><p class="Table-Heading-Center">Date of appointment</p></td><td align="left" class="b" rowspan="1" valign="top"><p class="Table-Heading-Center">Remarks</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Quality Stainless Pte Ltd</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">31 October 2003</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Joint liquidator with Loke</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Grandlink Group Pte Ltd</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">26 March 2001</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Joint liquidator with Loke</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Tuan Huat Construction Pte Ltd</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">21 September 2001</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Joint liquidator with Loke</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Nian Chuan Construction Pte Ltd</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">13 September 2002</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Joint liquidator with Loke</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Peoy Contractor Pte Ltd</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">30 June 2003</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Joint liquidator with Loke</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">San International Pte Ltd</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">11 April 1997</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Joint liquidator with Loke</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Multimend (S) Pte Ltd</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">28 April 2000</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Joint liquidator with Loke</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">JSP Films Pte Ltd</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1 February 1999</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Joint liquidator with Loke</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Inter-park Limited</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">12 November 1999</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Joint liquidator with Loke</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Camphill Limited</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">12 November 1999</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Joint liquidator with Loke</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Ernismore Holdings Pte Ltd</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">24 March 2000</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Joint liquidator with Loke</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3PAR Singapore Pte Ltd</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">28 September 2011</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3COM South Asia Pte Ltd</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">25 November 2011</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Mercury Interactive (Singapore) Pte Ltd</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">10 June 2009</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Compaq Asia Pte Ltd</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">30 September 2009</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Compaq Computer Asia Pte Ltd</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">26 October 2009</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Compaq Computer Asia/Pacific Pte Ltd</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">26 October 2009</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">A.S.K. Solutions Pte Ltd</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">16 October 2009</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Premier Learning Consultants Pte Ltd</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">26 June 2009</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Jack Chia Holdings (S) Pte Ltd</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">24 March 2000</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Joint liquidator with Loke</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Nomura Asia Property Investment Pte Ltd</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">15 March 2010</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Joint liquidator with Farooq</p></td></tr></tbody></table>
 
@@ -73,7 +74,7 @@ On or about between … , in Singapore, did commit criminal breach of trust in t
 
 15     At the commencement of liquidation, Ewe transferred the assets of the 21 companies into various bank accounts for which he was an authorised signatory.
 
-16     In summary, between February 2002 and July 2012, Ewe used the moneys from the bank accounts of the 21 companies to gamble, repay his gambling debts, or to reinstate the amounts that he had taken from other companies. The specific facts pertaining to each of the charges involving Ewe acting in his capacity as liquidator are set out in the Annex (see \[A.1\] to \[A.133\]).[\[note: 7\]](#Ftn_7) The order in which the facts pertaining to each of the charges are set out in the Annex follow the exact sequence as they appear in the SOAF.
+16     In summary, between February 2002 and July 2012, Ewe used the moneys from the bank accounts of the 21 companies to gamble, repay his gambling debts, or to reinstate the amounts that he had taken from other companies. The specific facts pertaining to each of the charges involving Ewe acting in his capacity as liquidator are set out in the Annex (see \[A.1\] to \[A.133\]).[^7] The order in which the facts pertaining to each of the charges are set out in the Annex follow the exact sequence as they appear in the SOAF.
 
 ### Facts relating to the receiver charge
 
@@ -101,7 +102,7 @@ On or about between … , in Singapore, did commit criminal breach of trust in t
 
 20     The accused used these moneys which he had obtained to gamble, to repay gambling debts, or to reinstate the amounts he had removed from other companies’ accounts previously.
 
-21     None of the above moneys were used to pay for any expenses relating to Harjani. As a result, Ewe misused $678,981.90 belonging to Harjani.[\[note: 8\]](#Ftn_8)
+21     None of the above moneys were used to pay for any expenses relating to Harjani. As a result, Ewe misused $678,981.90 belonging to Harjani.[^8]
 
 ### Facts relating to the TPI charges
 
@@ -111,9 +112,9 @@ On or about between … , in Singapore, did commit criminal breach of trust in t
 
 24     As two signatories were required for cheque withdrawals or fund transfers from the bank account, Ewe asked Morii to pre-sign blank cheques and transfer request forms. Morii did so as he trusted Ewe.
 
-25     Using the pre-signed cheques, Ewe either issued cash cheques from TPI’s bank accounts or cheques to a bank account of ELP or EM.[\[note: 9\]](#Ftn_9)
+25     Using the pre-signed cheques, Ewe either issued cash cheques from TPI’s bank accounts or cheques to a bank account of ELP or EM.[^9]
 
-26     In summary, between December 2007 and July 2012, Ewe used the moneys from TPI Singapore Branch’s Standard Chartered Bank account to gamble, to repay gambling debts, or to reinstate the amounts that he had removed from other companies’ accounts previously. The specific facts pertaining to each of the charges involving Ewe acting in his capacity as manager for the bank account of TPI Singapore Branch are set out in the Annex (see \[A.134\] to \[A.151\]).[\[note: 10\]](#Ftn_10) The order in which the facts pertaining to each of the charges are set out in the Annex follow the exact sequence as they appear in the SOAF.
+26     In summary, between December 2007 and July 2012, Ewe used the moneys from TPI Singapore Branch’s Standard Chartered Bank account to gamble, to repay gambling debts, or to reinstate the amounts that he had removed from other companies’ accounts previously. The specific facts pertaining to each of the charges involving Ewe acting in his capacity as manager for the bank account of TPI Singapore Branch are set out in the Annex (see \[A.134\] to \[A.151\]).[^10] The order in which the facts pertaining to each of the charges are set out in the Annex follow the exact sequence as they appear in the SOAF.
 
 27     In total, Ewe had misappropriated close to $41 million from various entities over the course of approximately 10 years.
 
@@ -141,29 +142,29 @@ On or about between … , in Singapore, did commit criminal breach of trust in t
 
 ### Prosecution’s case
 
-31     The Prosecution submits that in order to establish that Ewe was entrusted with the moneys in the way of his business as an agent, it must be shown that:[\[note: 11\]](#Ftn_11)
+31     The Prosecution submits that in order to establish that Ewe was entrusted with the moneys in the way of his business as an agent, it must be shown that:[^11]
 
 (a)     First, Ewe was a “professional agent”; and
 
 (b)     Second, the moneys were entrusted to him “in the way of his business” as such agent.
 
-32     In relation to the first requirement, the Prosecution argues that in his capacity as liquidator for the 21 companies, receiver for Harjani on behalf of Merril Lynch, and manager for the bank accounts of TPI Singapore Branch, Ewe was acting as the _agent_ of the 21 companies, Merril Lynch and TPI Singapore Branch respectively. This is on the basis that he was authorised by these entities to act on their behalf, and that his actions could bind these entities vis-à-vis third parties.[\[note: 12\]](#Ftn_12) The Prosecution further submits that Ewe was a _professional_ agent given that he was offering his agency services to the community at large, and that he made a living from providing these agency services.[\[note: 13\]](#Ftn_13)
+32     In relation to the first requirement, the Prosecution argues that in his capacity as liquidator for the 21 companies, receiver for Harjani on behalf of Merril Lynch, and manager for the bank accounts of TPI Singapore Branch, Ewe was acting as the _agent_ of the 21 companies, Merril Lynch and TPI Singapore Branch respectively. This is on the basis that he was authorised by these entities to act on their behalf, and that his actions could bind these entities vis-à-vis third parties.[^12] The Prosecution further submits that Ewe was a _professional_ agent given that he was offering his agency services to the community at large, and that he made a living from providing these agency services.[^13]
 
-33     In relation to the second requirement, the Prosecution argues that Ewe was entrusted with dominion over the moneys in the course of the commercial activities that he had to undertake as liquidator, receiver and manager for the bank accounts of TPI Branch Singapore. The Prosecution further states that the entrustment of dominion over the moneys was an integral and necessary element of the jobs that Ewe had been appointed to perform.[\[note: 14\]](#Ftn_14)
+33     In relation to the second requirement, the Prosecution argues that Ewe was entrusted with dominion over the moneys in the course of the commercial activities that he had to undertake as liquidator, receiver and manager for the bank accounts of TPI Branch Singapore. The Prosecution further states that the entrustment of dominion over the moneys was an integral and necessary element of the jobs that Ewe had been appointed to perform.[^14]
 
 ### Defence’s case
 
-34     First, the Defence argues that the business of a professional agent is similar to that of an insurance or property agent.[\[note: 15\]](#Ftn_15) Therefore, given that Ewe’s principal business was in his practice as a CPA,[\[note: 16\]](#Ftn_16) he was never in the business of a professional agent, nor did he hold himself out as providing professional agency services.
+34     First, the Defence argues that the business of a professional agent is similar to that of an insurance or property agent.[^15] Therefore, given that Ewe’s principal business was in his practice as a CPA,[^16] he was never in the business of a professional agent, nor did he hold himself out as providing professional agency services.
 
-35     Second, the Defence argues that it was ELP, and not Ewe personally, that was engaged to be the liquidator for the 21 companies and receiver of Harjani’s assets on behalf of Merrill Lynch. Similarly, it was EM, and not Ewe personally, that was appointed as manager of the bank accounts for TPI Singapore Branch.[\[note: 17\]](#Ftn_17) Ewe had only acted in his capacity as agent for ELP and EM, and had only performed work in the course of the business of ELP and EM.[\[note: 18\]](#Ftn_18) Therefore, Ewe was not even an agent of the 21 companies, Merrill Lynch, or TPI, let alone a professional agent.
+35     Second, the Defence argues that it was ELP, and not Ewe personally, that was engaged to be the liquidator for the 21 companies and receiver of Harjani’s assets on behalf of Merrill Lynch. Similarly, it was EM, and not Ewe personally, that was appointed as manager of the bank accounts for TPI Singapore Branch.[^17] Ewe had only acted in his capacity as agent for ELP and EM, and had only performed work in the course of the business of ELP and EM.[^18] Therefore, Ewe was not even an agent of the 21 companies, Merrill Lynch, or TPI, let alone a professional agent.
 
 ## My decision
 
 36     Given the undisputed facts before me, and the manner in which Ewe was entrusted with dominion over the moneys in the course of his various appointments as liquidator, receiver, and manager of the bank accounts for TPI Singapore branch, I am satisfied that all 50 charges against Ewe have been made out beyond reasonable doubt.
 
-37     At the outset, I note that Ewe does not deny that when he was appointed as liquidator of the 21 companies and receiver for the assets of Harjani, he had been entrusted with the moneys stated in all the charges save for the TPI charges.[\[note: 19\]](#Ftn_19) With regard to the TPI charges, upon closer scrutiny of the Defence’s Closing Submissions, it appears that the Defence does not actually dispute that Ewe had been entrusted with the moneys belonging to TPI, only that he was entrusted with the moneys in his capacity as the “certified public accountant” and “agent” of TPI.[\[note: 20\]](#Ftn_20)
+37     At the outset, I note that Ewe does not deny that when he was appointed as liquidator of the 21 companies and receiver for the assets of Harjani, he had been entrusted with the moneys stated in all the charges save for the TPI charges.[^19] With regard to the TPI charges, upon closer scrutiny of the Defence’s Closing Submissions, it appears that the Defence does not actually dispute that Ewe had been entrusted with the moneys belonging to TPI, only that he was entrusted with the moneys in his capacity as the “certified public accountant” and “agent” of TPI.[^20]
 
-38     Further, Ewe does not deny that, having been entrusted with these moneys, he had dishonestly misappropriated the said moneys.[\[note: 21\]](#Ftn_21)
+38     Further, Ewe does not deny that, having been entrusted with these moneys, he had dishonestly misappropriated the said moneys.[^21]
 
 39     Therefore, the Defence does not dispute that elements (a), (c) and (d) of the offence under s 409 of the Code (as set out at \[29\] above) have been made out. For completeness, I will briefly address these elements, before moving to consider the primary issue of whether Ewe had been entrusted with the said moneys _in the way of his business as an agent_.
 
@@ -199,17 +200,17 @@ On or about between … , in Singapore, did commit criminal breach of trust in t
 
 47     In his roles as liquidator, receiver, and manager for the bank account, Ewe had provided the 21 companies, Merrill Lynch, and TPI Singapore Branch respectively with agency services. In _Ong Han Ling and another v American International Assurance Co Ltd and others_ , it was stated at \[214\] that “\[t\]he classic definition of an agent is one authorised to create contractual relations with third parties on behalf of the principal.” Similarly, in _Then Khek Koon and another v Arjun Permanand Samtani and another and other suits_ , the court stated at \[113\] that “the irreducible core of any principal/agent relationship is a principal who consensually confers actual, implied or ostensible authority upon the agent and an agent who has the ability, by acting within the scope of his authority, unilaterally to engage the principal’s civil liability.”
 
-48     As liquidator of the 21 companies, Ewe was conferred with actual authority to create contractual relations with third parties on behalf of these companies, thereby making him an agent of these companies. It is settled law that once a company is in liquidation, the board of directors is effectively _functus officio_ and the power to run the company vests with the liquidator: see _Walter Woon on Company Law_ (Tan Cheng Han gen ed) (Sweet & Maxwell, Revised 3rd Ed, 2009) at para 17.134. Indeed, as stated in the SOAF, Ewe’s main responsibilities as a liquidator were to investigate into the affairs and assets of the companies, recover and realise the companies’ assets in the most advantageous manner, and ensure an equitable distribution of the companies’ assets to the creditors. In order to carry out his function as liquidator, Ewe would, _inter alia_, have to make contracts with would-be purchasers of the companies’ assets, commence suits on behalf of the companies to recover payments or transfers which were wrongfully made, and make and receive payments on behalf of the companies. Indeed, Ewe admitted during cross-examination that upon the commencement of liquidation, control of the company’s assets would rest solely in the hands of the liquidator.[\[note: 22\]](#Ftn_22) These actions would invariably bind the companies vis-à-vis third parties.
+48     As liquidator of the 21 companies, Ewe was conferred with actual authority to create contractual relations with third parties on behalf of these companies, thereby making him an agent of these companies. It is settled law that once a company is in liquidation, the board of directors is effectively _functus officio_ and the power to run the company vests with the liquidator: see _Walter Woon on Company Law_ (Tan Cheng Han gen ed) (Sweet & Maxwell, Revised 3rd Ed, 2009) at para 17.134. Indeed, as stated in the SOAF, Ewe’s main responsibilities as a liquidator were to investigate into the affairs and assets of the companies, recover and realise the companies’ assets in the most advantageous manner, and ensure an equitable distribution of the companies’ assets to the creditors. In order to carry out his function as liquidator, Ewe would, _inter alia_, have to make contracts with would-be purchasers of the companies’ assets, commence suits on behalf of the companies to recover payments or transfers which were wrongfully made, and make and receive payments on behalf of the companies. Indeed, Ewe admitted during cross-examination that upon the commencement of liquidation, control of the company’s assets would rest solely in the hands of the liquidator.[^22] These actions would invariably bind the companies vis-à-vis third parties.
 
-49     Similarly, as receiver for the assets of Harjani, Ewe was conferred with actual authority by Merrill Lynch to realise Harjani’s assets for its benefit. This therefore made him an agent of Merrill Lynch. Ewe explained that when a creditor bank (such as Merrill Lynch) had a debenture over an entity which allowed it to appoint a receiver and manager in the event of a default, and when that entity subsequently defaulted, the creditor bank would then appoint him as a receiver.[\[note: 23\]](#Ftn_23) Ewe would then be tasked to take control of, consolidate, and liquidate the assets of the entity and account for it to the creditor bank.[\[note: 24\]](#Ftn_24) In particular, as receiver for Harjani’s assets, Ewe had to liquidate shares and property belonging to Harjani for and on behalf of Merrill Lynch.[\[note: 25\]](#Ftn_25) In order to liquidate these assets, it can reasonably be expected that Ewe would have had to enter into sale and purchase contracts which would have bound Merrill Lynch vis-à-vis third parties, thereby making Ewe an agent of Merrill Lynch.
+49     Similarly, as receiver for the assets of Harjani, Ewe was conferred with actual authority by Merrill Lynch to realise Harjani’s assets for its benefit. This therefore made him an agent of Merrill Lynch. Ewe explained that when a creditor bank (such as Merrill Lynch) had a debenture over an entity which allowed it to appoint a receiver and manager in the event of a default, and when that entity subsequently defaulted, the creditor bank would then appoint him as a receiver.[^23] Ewe would then be tasked to take control of, consolidate, and liquidate the assets of the entity and account for it to the creditor bank.[^24] In particular, as receiver for Harjani’s assets, Ewe had to liquidate shares and property belonging to Harjani for and on behalf of Merrill Lynch.[^25] In order to liquidate these assets, it can reasonably be expected that Ewe would have had to enter into sale and purchase contracts which would have bound Merrill Lynch vis-à-vis third parties, thereby making Ewe an agent of Merrill Lynch.
 
-50     Finally, as the manager for TPI Singapore Branch’s bank account, Ewe was also an agent for TPI. As part of the bank account management services that EM provided to TPI, EM would have to monitor TPI’s bank account and inform Gerald Clark when TPI received money from its customers, use the moneys in TPI’s bank account to pay the salaries of TPI Singapore Branch’s employees, and remit the moneys in the bank account to the United States once every three months.[\[note: 26\]](#Ftn_26) It is stated in the SOAF that two signatories were required for cheque withdrawals and/or fund transfers from the TPI’s bank account. However, Ewe explained that he had asked Morii to pre-sign blank cheques and transfer request forms, which Morii did as he trusted Ewe.[\[note: 27\]](#Ftn_27) Hence, Ewe effectively had control over TPI’s bank account and could make cheque withdrawals and fund transfers unilaterally. Any payments or transfers that Ewe made out of TPI’s bank account would therefore bind TPI vis-à-vis the bank, making Ewe an agent of TPI.
+50     Finally, as the manager for TPI Singapore Branch’s bank account, Ewe was also an agent for TPI. As part of the bank account management services that EM provided to TPI, EM would have to monitor TPI’s bank account and inform Gerald Clark when TPI received money from its customers, use the moneys in TPI’s bank account to pay the salaries of TPI Singapore Branch’s employees, and remit the moneys in the bank account to the United States once every three months.[^26] It is stated in the SOAF that two signatories were required for cheque withdrawals and/or fund transfers from the TPI’s bank account. However, Ewe explained that he had asked Morii to pre-sign blank cheques and transfer request forms, which Morii did as he trusted Ewe.[^27] Hence, Ewe effectively had control over TPI’s bank account and could make cheque withdrawals and fund transfers unilaterally. Any payments or transfers that Ewe made out of TPI’s bank account would therefore bind TPI vis-à-vis the bank, making Ewe an agent of TPI.
 
-51     At this juncture, I note that the Defence has argued that Ewe was merely an agent for ELP and EM, and not an agent for the 21 companies, Harjani, or TPI (see above at \[35\]). This was on the basis that it was ELP that was appointed to provide the liquidation and receivership services, and EM that was appointed to provide the bank account management services. With respect, I disagree. First, in relation to the Defence’s contentions that it was ELP that was appointed as liquidator/receiver, the documentary evidence shows that on the contrary, it was Ewe who was personally appointed as liquidator/receiver. The Defence itself cites the court order for the appointment of liquidators for the winding up of Grandlink Group Pte Ltd, which states:[\[note: 28\]](#Ftn_28)
+51     At this juncture, I note that the Defence has argued that Ewe was merely an agent for ELP and EM, and not an agent for the 21 companies, Harjani, or TPI (see above at \[35\]). This was on the basis that it was ELP that was appointed to provide the liquidation and receivership services, and EM that was appointed to provide the bank account management services. With respect, I disagree. First, in relation to the Defence’s contentions that it was ELP that was appointed as liquidator/receiver, the documentary evidence shows that on the contrary, it was Ewe who was personally appointed as liquidator/receiver. The Defence itself cites the court order for the appointment of liquidators for the winding up of Grandlink Group Pte Ltd, which states:[^28]
 
 Mr Ewe Pang Kooi … and Mr Loke Poh Kuen … both of M/s Ewe, Loke & Partners, be appointed the liquidators of Grandlink Group Pte Ltd’s affairs …
 
-Similarly, the court order for the appointment of the receiver over Harjani’s assets states:[\[note: 29\]](#Ftn_29)
+Similarly, the court order for the appointment of the receiver over Harjani’s assets states:[^29]
 
 … IT IS ORDERED that:-
 
@@ -219,7 +220,7 @@ Indeed, it was Ewe himself, and not ELP, who had control over the assets of the 
 
 52     Second, in relation to the Defence’s contention that it was EM who was the agent of TPI, it is also clear that it was Ewe himself who was appointed as agent of TPI by virtue of him being made a signatory of TPI’s bank account. The Standard Chartered bank nomination form states that Ewe was appointed as a signatory by TPI. It was Ewe himself (using the cheques and transfer forms which had been pre-signed by Morii), and not EM, who could make the payments and transfers on behalf of TPI.
 
-53     Ultimately, I agree with the Prosecution that to allow the Defence’s argument to succeed would lead to an absurd conclusion, given that all natural persons accused of CBT under s 409 of the Code would be able to escape criminal liability simply by hiding behind the corporate shield.[\[note: 30\]](#Ftn_30) Such an argument also would not sit well with the other trades or professions which are listed in s 409, _ie_, a banker, a merchant, a factor, a broker, an attorney. For example, a banker would ordinarily operate under the auspices of a bank. Clients of the bank would ordinarily make contracts with the bank and not with the banker personally. To find that the interposition of a corporate entity, _ie_, the bank, would absolve the banker of liability would effectively mean that no employee of the bank would ever be found guilty of an offence under s 409.
+53     Ultimately, I agree with the Prosecution that to allow the Defence’s argument to succeed would lead to an absurd conclusion, given that all natural persons accused of CBT under s 409 of the Code would be able to escape criminal liability simply by hiding behind the corporate shield.[^30] Such an argument also would not sit well with the other trades or professions which are listed in s 409, _ie_, a banker, a merchant, a factor, a broker, an attorney. For example, a banker would ordinarily operate under the auspices of a bank. Clients of the bank would ordinarily make contracts with the bank and not with the banker personally. To find that the interposition of a corporate entity, _ie_, the bank, would absolve the banker of liability would effectively mean that no employee of the bank would ever be found guilty of an offence under s 409.
 
 54     To conclude on this point, I am of the view that Ewe had been providing agency services through his various roles as liquidator, receiver, and manager for TPI Singapore Branch’s bank account. I now turn to consider whether he had offered these agency services to the community at large, and whether he received remuneration for these services.
 
@@ -227,21 +228,21 @@ Indeed, it was Ewe himself, and not ELP, who had control over the assets of the 
 
 55     It is apparent to me that Ewe had offered his services as a liquidator to the community at large for three reasons:
 
-(a)     First, Ewe stated under cross-examination that ELP got its insolvency clients through both referrals and walk-ins, which suggests that its liquidation services were offered to the public. In this regard, I note that Ewe had tried to draw a distinction between customers that ELP received via referrals and walk-in customers. Ewe explained that because ELP was not a big-name firm, it would rely mainly on referrals from Ewe’s social contacts for clients.[\[note: 31\]](#Ftn_31) Taking Ewe’s case at its highest, this would mean that Ewe’s services were essentially being offered to the community at large _via Ewe’s social contacts_. Therefore, I found it immaterial whether Ewe received his clients from referrals or walk-ins. In any event, Ewe conceded that ELP would also accept walk-in clients, so long as they passed certain checks as to (a) their ability to pay the liquidator’s fees; and (b) the absence of money-laundering or other illegal activities.[\[note: 32\]](#Ftn_32)
+(a)     First, Ewe stated under cross-examination that ELP got its insolvency clients through both referrals and walk-ins, which suggests that its liquidation services were offered to the public. In this regard, I note that Ewe had tried to draw a distinction between customers that ELP received via referrals and walk-in customers. Ewe explained that because ELP was not a big-name firm, it would rely mainly on referrals from Ewe’s social contacts for clients.[^31] Taking Ewe’s case at its highest, this would mean that Ewe’s services were essentially being offered to the community at large _via Ewe’s social contacts_. Therefore, I found it immaterial whether Ewe received his clients from referrals or walk-ins. In any event, Ewe conceded that ELP would also accept walk-in clients, so long as they passed certain checks as to (a) their ability to pay the liquidator’s fees; and (b) the absence of money-laundering or other illegal activities.[^32]
 
-(b)     Second, Ewe stated that for court-ordered liquidations and creditors’ liquidations which require an approved liquidator, companies in need of such services would approach ELP specifically because there were individuals in the firm, such as Ewe, who were qualified as approved liquidators.[\[note: 33\]](#Ftn_33)
+(b)     Second, Ewe stated that for court-ordered liquidations and creditors’ liquidations which require an approved liquidator, companies in need of such services would approach ELP specifically because there were individuals in the firm, such as Ewe, who were qualified as approved liquidators.[^33]
 
-(c)     Third, Ewe admitted that he had offered his services as liquidator through ELP,[\[note: 34\]](#Ftn_34) and that he was able to act as liquidator in all three types of liquidations _ie_, members’ voluntary liquidations, court ordered liquidations, and creditors’ liquidations.[\[note: 35\]](#Ftn_35) Indeed, Ewe had acted as liquidator for 68 companies from 2007 to 2012.[\[note: 36\]](#Ftn_36) ELP’s consolidated profit and loss accounts for the years 2007 to 2011 also show that ELP had received income from providing “Insolvency” services for each of the years.[\[note: 37\]](#Ftn_37)
+(c)     Third, Ewe admitted that he had offered his services as liquidator through ELP,[^34] and that he was able to act as liquidator in all three types of liquidations _ie_, members’ voluntary liquidations, court ordered liquidations, and creditors’ liquidations.[^35] Indeed, Ewe had acted as liquidator for 68 companies from 2007 to 2012.[^36] ELP’s consolidated profit and loss accounts for the years 2007 to 2011 also show that ELP had received income from providing “Insolvency” services for each of the years.[^37]
 
-56     As regards remuneration, Ewe admitted under cross-examination to receiving fees for the liquidation services that he provided.[\[note: 38\]](#Ftn_38)
+56     As regards remuneration, Ewe admitted under cross-examination to receiving fees for the liquidation services that he provided.[^38]
 
-57     Similarly, Ewe stated that his work as receiver was another one of the services that were offered under ELP.[\[note: 39\]](#Ftn_39) Specifically, in relation to the receivership of Harjani’s assets on behalf of Merrill Lynch, Ewe stated that he was first approached by M/s Drew & Napier LLC (“Drew & Napier”). When asked about how Drew & Napier had found out that ELP provided receivership services, Ewe stated that it could be because ELP was an approved liquidator and they would have the licence to do receiverships. Ewe further stated that Drew & Napier had approached ELP for a fee quotation, which ELP duly provided.[\[note: 40\]](#Ftn_40) In my view, by holding itself out to be an approved liquidator which had the license to perform insolvency related services such as liquidation and receivership, ELP, and Ewe himself, were offering these services to the community at large. The fact that a potential client like Drew & Napier could ask ELP for a fee quotation serves to buttress this finding.
+57     Similarly, Ewe stated that his work as receiver was another one of the services that were offered under ELP.[^39] Specifically, in relation to the receivership of Harjani’s assets on behalf of Merrill Lynch, Ewe stated that he was first approached by M/s Drew & Napier LLC (“Drew & Napier”). When asked about how Drew & Napier had found out that ELP provided receivership services, Ewe stated that it could be because ELP was an approved liquidator and they would have the licence to do receiverships. Ewe further stated that Drew & Napier had approached ELP for a fee quotation, which ELP duly provided.[^40] In my view, by holding itself out to be an approved liquidator which had the license to perform insolvency related services such as liquidation and receivership, ELP, and Ewe himself, were offering these services to the community at large. The fact that a potential client like Drew & Napier could ask ELP for a fee quotation serves to buttress this finding.
 
-58     As regards remuneration, Ewe also admitted to receiving fees for the receivership services that he provided.[\[note: 41\]](#Ftn_41)
+58     As regards remuneration, Ewe also admitted to receiving fees for the receivership services that he provided.[^41]
 
-59     Finally, in relation to the bank account management services which were provided to TPI, I am also of the view that these services were provided to the community at large, notwithstanding that TPI was the only entity that EM had _actually_ provided this service to. Ewe stated that the assignment to manage the bank account of TPI’s Singapore Branch was referred to EM through its membership in an international group of independent accountants known as The International Accounting Group (“TIAG”).[\[note: 42\]](#Ftn_42) Ewe explained that the group of companies which included ELP and EM were the only members of TIAG in Singapore, therefore any jobs to be done in Singapore would be referred to them. Ewe further stated that although TPI was the only company that EM provided this service to, he would also have been willing to provide this service to other clients if the referring party was one that he trusted.[\[note: 43\]](#Ftn_43) In my view, notwithstanding that Ewe imposed certain conditions which had to be met before he would accept an assignment, the fact remained that he was offering these bank account management services to the community at large via his membership in TIAG. Ewe even admitted that if a referral for such services came from a fellow member firm of TIAG, he would not be able to refuse the referral because there was an understanding that the member firms would assist each other.[\[note: 44\]](#Ftn_44)
+59     Finally, in relation to the bank account management services which were provided to TPI, I am also of the view that these services were provided to the community at large, notwithstanding that TPI was the only entity that EM had _actually_ provided this service to. Ewe stated that the assignment to manage the bank account of TPI’s Singapore Branch was referred to EM through its membership in an international group of independent accountants known as The International Accounting Group (“TIAG”).[^42] Ewe explained that the group of companies which included ELP and EM were the only members of TIAG in Singapore, therefore any jobs to be done in Singapore would be referred to them. Ewe further stated that although TPI was the only company that EM provided this service to, he would also have been willing to provide this service to other clients if the referring party was one that he trusted.[^43] In my view, notwithstanding that Ewe imposed certain conditions which had to be met before he would accept an assignment, the fact remained that he was offering these bank account management services to the community at large via his membership in TIAG. Ewe even admitted that if a referral for such services came from a fellow member firm of TIAG, he would not be able to refuse the referral because there was an understanding that the member firms would assist each other.[^44]
 
-60     As regards remuneration, the documentary evidence shows that EM had charged TPI an annual fee of $3,600 for “professional services rendered in connection with \[EM’s\] management of the bank account of \[TPI\] on \[TPI’s\] behalf”.[\[note: 45\]](#Ftn_45) It is undisputed that Ewe would personally receive a cut of the fees that were charged by EM.[\[note: 46\]](#Ftn_46)
+60     As regards remuneration, the documentary evidence shows that EM had charged TPI an annual fee of $3,600 for “professional services rendered in connection with \[EM’s\] management of the bank account of \[TPI\] on \[TPI’s\] behalf”.[^45] It is undisputed that Ewe would personally receive a cut of the fees that were charged by EM.[^46]
 
 61     To summarise my findings, I am of the view that Ewe’s services as liquidator, receiver, and manager for bank accounts were offered to the community at large, and that he was remunerated for performing these services.
 
@@ -901,97 +902,97 @@ A.151       From the period from 26 December 2007 to 17 July 2012, Ewe al
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)Charge Sheets.
+[^1]: Charge Sheets.
 
-[\[note: 2\]](#Ftn_2_1)Statement of Agreed Facts (“SOAF”), paras 1 – 6.
+[^2]: Statement of Agreed Facts (“SOAF”), paras 1 – 6.
 
-[\[note: 3\]](#Ftn_3_1)SOAF, para 7.
+[^3]: SOAF, para 7.
 
-[\[note: 4\]](#Ftn_4_1)SOAF, para 8.
+[^4]: SOAF, para 8.
 
-[\[note: 5\]](#Ftn_5_1)SOAF, para 10.
+[^5]: SOAF, para 10.
 
-[\[note: 6\]](#Ftn_6_1)SOAF, para 11.
+[^6]: SOAF, para 11.
 
-[\[note: 7\]](#Ftn_7_1)SOAF, paras 16 – 148.
+[^7]: SOAF, paras 16 – 148.
 
-[\[note: 8\]](#Ftn_8_1)SOAF, paras 150 – 153.
+[^8]: SOAF, paras 150 – 153.
 
-[\[note: 9\]](#Ftn_9_1)SOAF, paras 154 – 157.
+[^9]: SOAF, paras 154 – 157.
 
-[\[note: 10\]](#Ftn_10_1)SOAF, paras 158 – 176.
+[^10]: SOAF, paras 158 – 176.
 
-[\[note: 11\]](#Ftn_11_1)Prosecution’s Closing Submissions (“PCS”), para 42.
+[^11]: Prosecution’s Closing Submissions (“PCS”), para 42.
 
-[\[note: 12\]](#Ftn_12_1)PCS, paras 45, 46, 49 and 51.
+[^12]: PCS, paras 45, 46, 49 and 51.
 
-[\[note: 13\]](#Ftn_13_1)PCS, para 52.
+[^13]: PCS, para 52.
 
-[\[note: 14\]](#Ftn_14_1)PCS, paras 61 and 62.
+[^14]: PCS, paras 61 and 62.
 
-[\[note: 15\]](#Ftn_15_1)DCS, para 35.
+[^15]: DCS, para 35.
 
-[\[note: 16\]](#Ftn_16_1)DCS, para 30.
+[^16]: DCS, para 30.
 
-[\[note: 17\]](#Ftn_17_1)DCS, paras 80, 82, 84 and 85.
+[^17]: DCS, paras 80, 82, 84 and 85.
 
-[\[note: 18\]](#Ftn_18_1)DCS, para 75(b)(iv), (v) and 82(b).
+[^18]: DCS, para 75(b)(iv), (v) and 82(b).
 
-[\[note: 19\]](#Ftn_19_1)Defence’s Closing Submissions (“DCS”), para 25.
+[^19]: Defence’s Closing Submissions (“DCS”), para 25.
 
-[\[note: 20\]](#Ftn_20_1)DCS, para 27.
+[^20]: DCS, para 27.
 
-[\[note: 21\]](#Ftn_21_1)DCS, para 25.
+[^21]: DCS, para 25.
 
-[\[note: 22\]](#Ftn_22_1)NE, 17 July 2018, p 60, lines 17 – 19.
+[^22]: NE, 17 July 2018, p 60, lines 17 – 19.
 
-[\[note: 23\]](#Ftn_23_1)NE, 17 July 2018, p 91, lines 11 – 18.
+[^23]: NE, 17 July 2018, p 91, lines 11 – 18.
 
-[\[note: 24\]](#Ftn_24_1)NE, 17 July 2018, p 92, lines 10 – 15.
+[^24]: NE, 17 July 2018, p 92, lines 10 – 15.
 
-[\[note: 25\]](#Ftn_25_1)NE, 17 July 2018, p 91, lines 23 – 28.
+[^25]: NE, 17 July 2018, p 91, lines 23 – 28.
 
-[\[note: 26\]](#Ftn_26_1)NE, 17 July 2018, p 101 line 17 – p 102 line 17.
+[^26]: NE, 17 July 2018, p 101 line 17 – p 102 line 17.
 
-[\[note: 27\]](#Ftn_27_1)SOAF, para 156.
+[^27]: SOAF, para 156.
 
-[\[note: 28\]](#Ftn_28_1)DCS, para 82.
+[^28]: DCS, para 82.
 
-[\[note: 29\]](#Ftn_29_1)Exhibit P123.
+[^29]: Exhibit P123.
 
-[\[note: 30\]](#Ftn_30_1)Prosecution’s Reply Submissions, para 13.
+[^30]: Prosecution’s Reply Submissions, para 13.
 
-[\[note: 31\]](#Ftn_31_1)NE, 17 July 2018, p 72 line 25 – p 73 line 32.
+[^31]: NE, 17 July 2018, p 72 line 25 – p 73 line 32.
 
-[\[note: 32\]](#Ftn_32_1)NE, 17 July 2018, p 78, lines 13 – 25.
+[^32]: NE, 17 July 2018, p 78, lines 13 – 25.
 
-[\[note: 33\]](#Ftn_33_1)NE, 17 July 2018, p 55, lines 5 – 18.
+[^33]: NE, 17 July 2018, p 55, lines 5 – 18.
 
-[\[note: 34\]](#Ftn_34_1)NE, 17 July 2018, p 53, lines 7 – 10.
+[^34]: NE, 17 July 2018, p 53, lines 7 – 10.
 
-[\[note: 35\]](#Ftn_35_1)NE, 17 July 2018, p 51, lines 10 – 17.
+[^35]: NE, 17 July 2018, p 51, lines 10 – 17.
 
-[\[note: 36\]](#Ftn_36_1)NE, 17 July 2018, p 61, lines 18 – 25.
+[^36]: NE, 17 July 2018, p 61, lines 18 – 25.
 
-[\[note: 37\]](#Ftn_37_1)Exhibit D1.
+[^37]: Exhibit D1.
 
-[\[note: 38\]](#Ftn_38_1)NE, 17 July 2018, p 81 line 4 – p 82 line 21.
+[^38]: NE, 17 July 2018, p 81 line 4 – p 82 line 21.
 
-[\[note: 39\]](#Ftn_39_1)NE, 17 July 2018, p 83, lines 17 – 20.
+[^39]: NE, 17 July 2018, p 83, lines 17 – 20.
 
-[\[note: 40\]](#Ftn_40_1)NE, 17 July 2018, p 86 line 22 – p 87 line 1.
+[^40]: NE, 17 July 2018, p 86 line 22 – p 87 line 1.
 
-[\[note: 41\]](#Ftn_41_1)NE, 17 July 2018, p 93 line 32 – p 94 line 8.
+[^41]: NE, 17 July 2018, p 93 line 32 – p 94 line 8.
 
-[\[note: 42\]](#Ftn_42_1)NE, 17 July 2018, p 31, lines 2 – 9; p 109, lines 20 – 26.
+[^42]: NE, 17 July 2018, p 31, lines 2 – 9; p 109, lines 20 – 26.
 
-[\[note: 43\]](#Ftn_43_1)NE, 17 July 2018, p 110, lines 10 – 26; p 112, lines 3 – 15.
+[^43]: NE, 17 July 2018, p 110, lines 10 – 26; p 112, lines 3 – 15.
 
-[\[note: 44\]](#Ftn_44_1)NE, 17 July 2018, p 112, lines 9 – 15.
+[^44]: NE, 17 July 2018, p 112, lines 9 – 15.
 
-[\[note: 45\]](#Ftn_45_1)Exhibit D3.
+[^45]: Exhibit D3.
 
-[\[note: 46\]](#Ftn_46_1)NE, 17 July 2018, p 12, lines 1 – 14.
+[^46]: NE, 17 July 2018, p 12, lines 1 – 14.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F22930-SSP.xml)

@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # Public Prosecutor _v_ Sinniah a/l Sundram Pillai  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Criminal Case No 35 of 2018</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">20 March 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Hoo Sheau Peng J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">April Phang, Sia Jiazheng and Desmond Chong (Attorney-General's Chambers) for the Prosecution; Mahadevan Lukshumayeh (Lukshumayeh Law Corporation) and Zaminder Singh Gill (Hilborne Law LLC) for the accused.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Sinniah a/l Sundram Pillai</td></tr></tbody></table>
@@ -24,41 +25,41 @@ Criminal Law – Statutory offences – Misuse of Drugs Act
 
 #### The accused’s arrest and seizure of the drugs
 
-5       The accused is a 47-year-old Malaysian national. At the material time, he was a driver of an unladen trailer bearing registration number JLR 5059 (the “Trailer”), and his job at Yinson Transport Shd Bhn (“Yinson Transport”) was to transport goods, such as cement and steel pipes, from Malaysia to Singapore.[\[note: 1\]](#Ftn_1)
+5       The accused is a 47-year-old Malaysian national. At the material time, he was a driver of an unladen trailer bearing registration number JLR 5059 (the “Trailer”), and his job at Yinson Transport Shd Bhn (“Yinson Transport”) was to transport goods, such as cement and steel pipes, from Malaysia to Singapore.[^1]
 
-6       On 25 March 2016, the accused drove the Trailer from Malaysia to Singapore via the Woodlands Checkpoint. At about 4.35pm, Checkpoint Inspector Leong Mun Wai (“CI Leong”) and Sergeant Noor Helmi Bin Ali (“Sgt Helmi”) directed the Trailer to a Cargo Clearance Centre checking bay for a routine check. The accused’s belongings were checked in his presence at a table next to the checking bay. During the checks, Sgt Helmi found a screwdriver (the “screwdriver”) and a red pencil case containing one syringe needle and one empty straw in the accused’s bag. When questioned by Sgt Helmi about the items, the accused stated that he did not know what they were for. An ion swab that was conducted on the accused’s hands, wallet and pencil case showed positive results for methamphetamine.[\[note: 2\]](#Ftn_2)
+6       On 25 March 2016, the accused drove the Trailer from Malaysia to Singapore via the Woodlands Checkpoint. At about 4.35pm, Checkpoint Inspector Leong Mun Wai (“CI Leong”) and Sergeant Noor Helmi Bin Ali (“Sgt Helmi”) directed the Trailer to a Cargo Clearance Centre checking bay for a routine check. The accused’s belongings were checked in his presence at a table next to the checking bay. During the checks, Sgt Helmi found a screwdriver (the “screwdriver”) and a red pencil case containing one syringe needle and one empty straw in the accused’s bag. When questioned by Sgt Helmi about the items, the accused stated that he did not know what they were for. An ion swab that was conducted on the accused’s hands, wallet and pencil case showed positive results for methamphetamine.[^2]
 
-7       CI Leong and Sgt Helmi then proceeded to check the cabin of the Trailer. CI Leong noticed something inside the dashboard compartment (the “dashboard compartment”) through the air conditioning vents. Upon unfastening the dashboard panel near the steering wheel (the “dashboard panel”) by unscrewing two screws using the screwdriver, the dashboard compartment within was revealed. CI Leong found a red plastic bag and a potato chip container inside the dashboard compartment.[\[note: 3\]](#Ftn_3)
+7       CI Leong and Sgt Helmi then proceeded to check the cabin of the Trailer. CI Leong noticed something inside the dashboard compartment (the “dashboard compartment”) through the air conditioning vents. Upon unfastening the dashboard panel near the steering wheel (the “dashboard panel”) by unscrewing two screws using the screwdriver, the dashboard compartment within was revealed. CI Leong found a red plastic bag and a potato chip container inside the dashboard compartment.[^3]
 
-8       The red plastic bag was found to contain a bundle wrapped with black tape (later marked as A1A) (the “bundle of drugs”). The items found were seized. When opened, the bundle of drugs was found to contain a brownish substance. This formed the subject matter of the charge.[\[note: 4\]](#Ftn_4)
+8       The red plastic bag was found to contain a bundle wrapped with black tape (later marked as A1A) (the “bundle of drugs”). The items found were seized. When opened, the bundle of drugs was found to contain a brownish substance. This formed the subject matter of the charge.[^4]
 
-9       Within the potato chip container, three packets of crystalline substance (the “three packets”) were found, along with other drug paraphernalia. The accused was placed under arrest.[\[note: 5\]](#Ftn_5)
+9       Within the potato chip container, three packets of crystalline substance (the “three packets”) were found, along with other drug paraphernalia. The accused was placed under arrest.[^5]
 
-10     Upon questioning by Staff Sergeant Muhammad Saifuddin Rowther Bin Mohidin Pitchai, the accused admitted to ownership and knowledge of the drug exhibits seized. He stated that the black bundle was meant to be delivered to one “Abang” at Tuas, while the contents of the potato chip container were for the purposes of his own consumption of diamorphine and methamphetamine.[\[note: 6\]](#Ftn_6)
+10     Upon questioning by Staff Sergeant Muhammad Saifuddin Rowther Bin Mohidin Pitchai, the accused admitted to ownership and knowledge of the drug exhibits seized. He stated that the black bundle was meant to be delivered to one “Abang” at Tuas, while the contents of the potato chip container were for the purposes of his own consumption of diamorphine and methamphetamine.[^6]
 
 11     There was no dispute as to the integrity and proper custody of all the exhibits at the material times, and I shall not go into the details here.
 
 #### Drug analysis
 
-12     The seized exhibits were sent to the Health Sciences Authority for analysis. The bundle of drugs was found to be one packet containing not less than 455.0g of granular/powdery substance which was analysed and found to contain not less than 18.85g of diamorphine.[\[note: 7\]](#Ftn_7)
+12     The seized exhibits were sent to the Health Sciences Authority for analysis. The bundle of drugs was found to be one packet containing not less than 455.0g of granular/powdery substance which was analysed and found to contain not less than 18.85g of diamorphine.[^7]
 
-13     The three packets were found to contain not less than 0.89g of crystalline substance which was analysed and found to contain not less than 0.59g of methamphetamine. Some of the drug paraphernalia were also found to be stained with methamphetamine and/or diamorphine.[\[note: 8\]](#Ftn_8)
+13     The three packets were found to contain not less than 0.89g of crystalline substance which was analysed and found to contain not less than 0.59g of methamphetamine. Some of the drug paraphernalia were also found to be stained with methamphetamine and/or diamorphine.[^8]
 
 #### The agreement with Mogan and modus operandi
 
-14     Sometime in January 2016, the accused had entered into an agreement with one “Mogan” to deliver _marunthu_, which was the street name for diamorphine, from Malaysia to Singapore. The accused was aware that the packets of _marunthu_ contained diamorphine as he himself was a consumer of _marunthu_.[\[note: 9\]](#Ftn_9)
+14     Sometime in January 2016, the accused had entered into an agreement with one “Mogan” to deliver _marunthu_, which was the street name for diamorphine, from Malaysia to Singapore. The accused was aware that the packets of _marunthu_ contained diamorphine as he himself was a consumer of _marunthu_.[^9]
 
-15     Pursuant to this agreement, the accused would inform an unknown Chinese man (the “Chinese man”) when his company assigned him a job which involved him driving the Trailer into Singapore. Thereafter, arrangements would be made for the accused to collect a bundle of _marunthu_ from the Chinese man. The accused would bring the bundle of _marunthu_ into Singapore concealed inside the dashboard compartment on the advice of Mogan. On top of his legitimate job, the accused would deliver the bundle of _marunthu_ to one “Abang”, a Malay man in Singapore, and in turn collect a fee of $3,400 from Abang. Thereafter, the accused would return to Malaysia and pass the money collected from Abang to the Chinese man, who would give him RM500 as remuneration for the delivery.[\[note: 10\]](#Ftn_10)
+15     Pursuant to this agreement, the accused would inform an unknown Chinese man (the “Chinese man”) when his company assigned him a job which involved him driving the Trailer into Singapore. Thereafter, arrangements would be made for the accused to collect a bundle of _marunthu_ from the Chinese man. The accused would bring the bundle of _marunthu_ into Singapore concealed inside the dashboard compartment on the advice of Mogan. On top of his legitimate job, the accused would deliver the bundle of _marunthu_ to one “Abang”, a Malay man in Singapore, and in turn collect a fee of $3,400 from Abang. Thereafter, the accused would return to Malaysia and pass the money collected from Abang to the Chinese man, who would give him RM500 as remuneration for the delivery.[^10]
 
-16     This was the _modus operandi_ for the deliveries, including three occasions where the accused delivered _marunthu_ into Singapore prior to 25 March 2016.[\[note: 11\]](#Ftn_11)
+16     This was the _modus operandi_ for the deliveries, including three occasions where the accused delivered _marunthu_ into Singapore prior to 25 March 2016.[^11]
 
 #### The events on 25 March 2016
 
-17     On 25 March 2016, the accused had a job to collect items from a company in Tuas. The accused notified the Chinese man, and pursuant to the agreement that the accused had with Mogan, he collected the red plastic bag containing the bundle of drugs from the Chinese man at about 3.40pm outside his company’s office. After this, the accused used the screwdriver to remove the dashboard panel. He placed the red plastic bag, containing the bundle of drugs, and the potato chip container, containing his drug paraphernalia and his methamphetamine, into the dashboard compartment to conceal them. He then drove into Singapore both to perform his company-assigned job of collecting items from Tuas and to deliver the packet of _marunthu_ to Abang in Singapore. As per the previous deliveries, the accused was to collect a sum of $3,400 from Abang and thereafter pass the sum to the Chinese man, after which the accused would receive his remuneration of RM500.[\[note: 12\]](#Ftn_12)
+17     On 25 March 2016, the accused had a job to collect items from a company in Tuas. The accused notified the Chinese man, and pursuant to the agreement that the accused had with Mogan, he collected the red plastic bag containing the bundle of drugs from the Chinese man at about 3.40pm outside his company’s office. After this, the accused used the screwdriver to remove the dashboard panel. He placed the red plastic bag, containing the bundle of drugs, and the potato chip container, containing his drug paraphernalia and his methamphetamine, into the dashboard compartment to conceal them. He then drove into Singapore both to perform his company-assigned job of collecting items from Tuas and to deliver the packet of _marunthu_ to Abang in Singapore. As per the previous deliveries, the accused was to collect a sum of $3,400 from Abang and thereafter pass the sum to the Chinese man, after which the accused would receive his remuneration of RM500.[^12]
 
-18     After entering the Causeway at about 4.00pm, the accused gave a call to Abang and arranged to meet him at 30 Tuas Avenue South 8 at about 5.00pm to pass him the bundle of _marunthu._ The accused then proceeded to enter Woodlands Checkpoint at about 4.35pm, where he was stopped, searched and arrested.[\[note: 13\]](#Ftn_13)
+18     After entering the Causeway at about 4.00pm, the accused gave a call to Abang and arranged to meet him at 30 Tuas Avenue South 8 at about 5.00pm to pass him the bundle of _marunthu._ The accused then proceeded to enter Woodlands Checkpoint at about 4.35pm, where he was stopped, searched and arrested.[^13]
 
-19     The accused was not authorised under the MDA or the Regulations made thereunder to import diamorphine and methamphetamine into Singapore.[\[note: 14\]](#Ftn_14)
+19     The accused was not authorised under the MDA or the Regulations made thereunder to import diamorphine and methamphetamine into Singapore.[^14]
 
 ### The accused’s statements
 
@@ -66,19 +67,19 @@ Criminal Law – Statutory offences – Misuse of Drugs Act
 
 21     The agreement with Mogan was described in further detail in the accused’s statements:
 
-(a)     The accused knew Mogan as he was the accused’s ex-colleague from Yinson Transport. The accused did not know Mogan’s full name, or if his real name was Mogan. During the time Mogan was employed at Yinson Transport, he and the accused did not have any interaction.[\[note: 15\]](#Ftn_15)
+(a)     The accused knew Mogan as he was the accused’s ex-colleague from Yinson Transport. The accused did not know Mogan’s full name, or if his real name was Mogan. During the time Mogan was employed at Yinson Transport, he and the accused did not have any interaction.[^15]
 
-(b)     Sometime in January 2016, Mogan approached the accused to ask him to bring _marunthu_ into Singapore in exchange for RM500 per bundle of _marunthu_ transported. The accused told Mogan that he was scared that he would get in trouble with the Singapore police should he be caught. Mogan replied that there was nothing to worry about, unless the accused brought in large amounts of _marunthu_ into Singapore. The accused told Mogan that he would “consider his offer”, and asked for Mogan’s phone number. Mogan refused to give the accused his number and asked for the accused’s number instead, which the accused gave.[\[note: 16\]](#Ftn_16)
+(b)     Sometime in January 2016, Mogan approached the accused to ask him to bring _marunthu_ into Singapore in exchange for RM500 per bundle of _marunthu_ transported. The accused told Mogan that he was scared that he would get in trouble with the Singapore police should he be caught. Mogan replied that there was nothing to worry about, unless the accused brought in large amounts of _marunthu_ into Singapore. The accused told Mogan that he would “consider his offer”, and asked for Mogan’s phone number. Mogan refused to give the accused his number and asked for the accused’s number instead, which the accused gave.[^16]
 
-(c)     When the accused returned home that day, he thought about Mogan’s offer. The accused was in “deep financial troubles” then, and needed the money for a variety of purposes including the funding of his own consumption of ‘ice’ and _marunthu_ which cost him RM500 per month. The accused “felt that getting the RM500 for \[Mogan’s job\] would ease \[his\] financial problems”.[\[note: 17\]](#Ftn_17)
+(c)     When the accused returned home that day, he thought about Mogan’s offer. The accused was in “deep financial troubles” then, and needed the money for a variety of purposes including the funding of his own consumption of ‘ice’ and _marunthu_ which cost him RM500 per month. The accused “felt that getting the RM500 for \[Mogan’s job\] would ease \[his\] financial problems”.[^17]
 
-(d)     The next day, Mogan called the accused and asked about the offer. The accused agreed to Mogan’s offer. At the same time, Mogan informed him that there was a job to deliver _marunthu_ into Singapore the following day.[\[note: 18\]](#Ftn_18)
+(d)     The next day, Mogan called the accused and asked about the offer. The accused agreed to Mogan’s offer. At the same time, Mogan informed him that there was a job to deliver _marunthu_ into Singapore the following day.[^18]
 
-22     For the three previous occasions between January to March 2016 when the accused brought _marunthu_ into Singapore for Mogan, the accused confirmed that each time, he collected one bundle of _marunthu_ from the Chinese man, delivered the bundle to Abang, collected $3,400 from Abang and was paid RM500 by the Chinese man.[\[note: 19\]](#Ftn_19) On the first occasion, the _marunthu_ which the accused received was in a transparent packet. On the second and third occasions, the _marunthu_ which the accused received was wrapped in black tape, much like the bundle of drugs the accused was found with on 25 March 2016.[\[note: 20\]](#Ftn_20)
+22     For the three previous occasions between January to March 2016 when the accused brought _marunthu_ into Singapore for Mogan, the accused confirmed that each time, he collected one bundle of _marunthu_ from the Chinese man, delivered the bundle to Abang, collected $3,400 from Abang and was paid RM500 by the Chinese man.[^19] On the first occasion, the _marunthu_ which the accused received was in a transparent packet. On the second and third occasions, the _marunthu_ which the accused received was wrapped in black tape, much like the bundle of drugs the accused was found with on 25 March 2016.[^20]
 
-23     As for the events on 25 March 2016, after the accused received the red plastic bag that contained the bundle of drugs from the Chinese man, he brought it back to the Trailer with him. There, he opened the red plastic bag, and removed the bundle of drugs as he wanted to check it. The accused saw that it was wrapped in black tape. He then placed the bundle of drugs back into the red plastic bag, before later concealing the red plastic bag containing the bundle of drugs inside the dashboard compartment. The accused drove across Woodlands Checkpoint and was arrested shortly after.[\[note: 21\]](#Ftn_21)
+23     As for the events on 25 March 2016, after the accused received the red plastic bag that contained the bundle of drugs from the Chinese man, he brought it back to the Trailer with him. There, he opened the red plastic bag, and removed the bundle of drugs as he wanted to check it. The accused saw that it was wrapped in black tape. He then placed the bundle of drugs back into the red plastic bag, before later concealing the red plastic bag containing the bundle of drugs inside the dashboard compartment. The accused drove across Woodlands Checkpoint and was arrested shortly after.[^21]
 
-24     Lastly, while the accused was a _marunthu_ consumer himself, he stated that he never bought _marunthu_ for his own consumption from the Chinese man. The accused consumed _marunthu_ by the straw, but the Chinese man “only \[sold _marunthu_\] in large amounts and not in straws”.[\[note: 22\]](#Ftn_22)
+24     Lastly, while the accused was a _marunthu_ consumer himself, he stated that he never bought _marunthu_ for his own consumption from the Chinese man. The accused consumed _marunthu_ by the straw, but the Chinese man “only \[sold _marunthu_\] in large amounts and not in straws”.[^22]
 
 ## Close of the Prosecution’s case
 
@@ -86,41 +87,41 @@ Criminal Law – Statutory offences – Misuse of Drugs Act
 
 ## The defence
 
-26     The accused was the only witness for the Defence. At the trial, the accused did not deny importing a bundle of drugs into Singapore, having physical possession of the bundle or knowing the nature of the drugs. His defence, raised for the first time at trial, was that he thought the bundle he was bringing into Singapore was only “half a stone” of diamorphine,[\[note: 23\]](#Ftn_23) which was an amount which would not trigger the death penalty if imported (a “non-capital amount”, contrasted with a “capital amount” which triggers the death penalty if imported).
+26     The accused was the only witness for the Defence. At the trial, the accused did not deny importing a bundle of drugs into Singapore, having physical possession of the bundle or knowing the nature of the drugs. His defence, raised for the first time at trial, was that he thought the bundle he was bringing into Singapore was only “half a stone” of diamorphine,[^23] which was an amount which would not trigger the death penalty if imported (a “non-capital amount”, contrasted with a “capital amount” which triggers the death penalty if imported).
 
 27     The accused’s evidence at trial was largely consistent with his statements, save for the assertion that an additional element of the agreement was that the deliveries were always to be for “half a stone” of _marunthu._ It is necessary to set out in some detail the accused’s oral evidence outlining his defence:
 
-(a)     The accused testified that Mogan had in fact made the job offer to the accused twice. The first occasion was when both the accused and Mogan were still co-workers in Yinson Transport. Then, Mogan reassured the accused by saying “Only if you bring a large amount, you’ll get into trouble. If you bring half a stone, you will get less than 10 years”.[\[note: 24\]](#Ftn_24) On the second occasion, Mogan again reassured the accused by saying, “You don’t have to bring a lot. You can just bring one bundle and it will be half a stone and I will give you \[RM\]500”.[\[note: 25\]](#Ftn_25) On both occasions, the accused did not agree immediately as he wanted to consider the offer first.[\[note: 26\]](#Ftn_26)
+(a)     The accused testified that Mogan had in fact made the job offer to the accused twice. The first occasion was when both the accused and Mogan were still co-workers in Yinson Transport. Then, Mogan reassured the accused by saying “Only if you bring a large amount, you’ll get into trouble. If you bring half a stone, you will get less than 10 years”.[^24] On the second occasion, Mogan again reassured the accused by saying, “You don’t have to bring a lot. You can just bring one bundle and it will be half a stone and I will give you \[RM\]500”.[^25] On both occasions, the accused did not agree immediately as he wanted to consider the offer first.[^26]
 
-(b)     The accused eventually agreed to Mogan’s proposal because, in addition to the money he would get, it involved “half a bundle”[\[note: 27\]](#Ftn_27) or “half a stone”, which would result in “only ... less than 10 years’ imprisonment”.[\[note: 28\]](#Ftn_28) The accused clarified that by “half a bundle”, he meant “half a stone”.[\[note: 29\]](#Ftn_29)
+(b)     The accused eventually agreed to Mogan’s proposal because, in addition to the money he would get, it involved “half a bundle”[^27] or “half a stone”, which would result in “only ... less than 10 years’ imprisonment”.[^28] The accused clarified that by “half a bundle”, he meant “half a stone”.[^29]
 
-(c)     The accused said that he was told that one bundle of drugs was “half a stone”.[\[note: 30\]](#Ftn_30) According to the accused’s understanding, a “full stone” of drugs would have come in two bundles.[\[note: 31\]](#Ftn_31)
+(c)     The accused said that he was told that one bundle of drugs was “half a stone”.[^30] According to the accused’s understanding, a “full stone” of drugs would have come in two bundles.[^31]
 
-(d)     On the first occasion that the accused delivered _marunthu_ for Mogan, he had simply looked at the packet of _marunthu_ packed in a transparent packet, and knew it was “half a stone”.[\[note: 32\]](#Ftn_32) On the second and third occasions, though the bundles were covered in black tape, the accused’s impression was that they were “half a stone” each.[\[note: 33\]](#Ftn_33) If the Chinese man had handed over more than half a stone of _marunthu_, the accused alleged that he “would not have brought it into Singapore”.[\[note: 34\]](#Ftn_34)
+(d)     On the first occasion that the accused delivered _marunthu_ for Mogan, he had simply looked at the packet of _marunthu_ packed in a transparent packet, and knew it was “half a stone”.[^32] On the second and third occasions, though the bundles were covered in black tape, the accused’s impression was that they were “half a stone” each.[^33] If the Chinese man had handed over more than half a stone of _marunthu_, the accused alleged that he “would not have brought it into Singapore”.[^34]
 
-(e)     When referred to a photograph of the bundle of drugs (P25), the accused stated that this was “one bundle\[,\] and one bundle refers to half a stone”.[\[note: 35\]](#Ftn_35) The accused only found out that the bundle of drugs instead contained “a full stone” when he came to prison and the drugs were weighed by the officers of the Central Narcotics Bureau (the “CNB”) .[\[note: 36\]](#Ftn_36) When he found this out, he realised he had been “cheated” by Mogan.[\[note: 37\]](#Ftn_37)
+(e)     When referred to a photograph of the bundle of drugs (P25), the accused stated that this was “one bundle\[,\] and one bundle refers to half a stone”.[^35] The accused only found out that the bundle of drugs instead contained “a full stone” when he came to prison and the drugs were weighed by the officers of the Central Narcotics Bureau (the “CNB”) .[^36] When he found this out, he realised he had been “cheated” by Mogan.[^37]
 
 28     Under cross-examination, the accused made the following admissions:
 
-(a)     The accused hesitated before accepting Mogan’s offer because he was worried about facing the death penalty.[\[note: 38\]](#Ftn_38) The accused’s understanding was that if he imported “one stone” of _marunthu_, the penalty was death, but if he imported “half a stone” of _marunthu_, the penalty would be 10 years’ imprisonment.[\[note: 39\]](#Ftn_39)
+(a)     The accused hesitated before accepting Mogan’s offer because he was worried about facing the death penalty.[^38] The accused’s understanding was that if he imported “one stone” of _marunthu_, the penalty was death, but if he imported “half a stone” of _marunthu_, the penalty would be 10 years’ imprisonment.[^39]
 
-(b)     The accused did not know the weight of “one stone” or “half a stone”.[\[note: 40\]](#Ftn_40) The accused agreed that he did not bother to find out what the weight of “one stone” or “half a stone” was.[\[note: 41\]](#Ftn_41)
+(b)     The accused did not know the weight of “one stone” or “half a stone”.[^40] The accused agreed that he did not bother to find out what the weight of “one stone” or “half a stone” was.[^41]
 
-(c)     Even though the accused knew that there would be a death penalty for the importation of 15g of _marunthu_ in Malaysia, he did not know nor bother to find out if the bundle of drugs weighed more than 15g,[\[note: 42\]](#Ftn_42) even in terms of the gross weight of the bundle of drugs.[\[note: 43\]](#Ftn_43) The accused did not know how much 15g weighed.[\[note: 44\]](#Ftn_44) The accused did not know what was a non-capital amount of _marunthu_ in Singapore, and did not check.[\[note: 45\]](#Ftn_45)
+(c)     Even though the accused knew that there would be a death penalty for the importation of 15g of _marunthu_ in Malaysia, he did not know nor bother to find out if the bundle of drugs weighed more than 15g,[^42] even in terms of the gross weight of the bundle of drugs.[^43] The accused did not know how much 15g weighed.[^44] The accused did not know what was a non-capital amount of _marunthu_ in Singapore, and did not check.[^45]
 
-(d)     On all the occasions where the accused delivered bundles of _marunthu_, he never weighed them, and said he was “not concerned” about their weight.[\[note: 46\]](#Ftn_46) The accused’s impression that these previous bundles of _marunthu_ were “half a stone” was based on a belief in what Mogan told him – that “one bundle is equivalent to half a stone”.[\[note: 47\]](#Ftn_47)
+(d)     On all the occasions where the accused delivered bundles of _marunthu_, he never weighed them, and said he was “not concerned” about their weight.[^46] The accused’s impression that these previous bundles of _marunthu_ were “half a stone” was based on a belief in what Mogan told him – that “one bundle is equivalent to half a stone”.[^47]
 
-(e)     The accused knew that the $3,400 passed to him by Abang was “big money \[_sic_\]”.[\[note: 48\]](#Ftn_48) The accused was also aware that this sum was payment for each bundle of _marunthu_.[\[note: 49\]](#Ftn_49)
+(e)     The accused knew that the $3,400 passed to him by Abang was “big money \[_sic_\]”.[^48] The accused was also aware that this sum was payment for each bundle of _marunthu_.[^49]
 
-(f)     The accused never told anyone else that he thought he was only importing “half a stone”:[\[note: 50\]](#Ftn_50) he did not tell the arresting officers,[\[note: 51\]](#Ftn_51) the CNB officers who weighed the bundle of drugs in his absence, or the officers who recorded his statements.[\[note: 52\]](#Ftn_52) In the accused’s statement recorded under s 23 of the CPC, by Station Inspector Shafiq Basheer (“SI Shafiq”) on 26 March 2016 at 4.37am[\[note: 53\]](#Ftn_53) (“the s 23 statement”), which related to the charge, it was explained to the accused that he was liable upon conviction to a sentence of death. The accused also did not tell SI Shafiq that he thought he had imported only “half a stone”,[\[note: 54\]](#Ftn_54) or that there was any agreement to import only “half a stone”.[\[note: 55\]](#Ftn_55)
+(f)     The accused never told anyone else that he thought he was only importing “half a stone”:[^50] he did not tell the arresting officers,[^51] the CNB officers who weighed the bundle of drugs in his absence, or the officers who recorded his statements.[^52] In the accused’s statement recorded under s 23 of the CPC, by Station Inspector Shafiq Basheer (“SI Shafiq”) on 26 March 2016 at 4.37am[^53] (“the s 23 statement”), which related to the charge, it was explained to the accused that he was liable upon conviction to a sentence of death. The accused also did not tell SI Shafiq that he thought he had imported only “half a stone”,[^54] or that there was any agreement to import only “half a stone”.[^55]
 
 29     The accused also elaborated on his relationship with Mogan under cross-examination and re-examination. I outline the salient points below:
 
-(a)     The accused testified at various points that while he had said in his statements that he and Mogan were not close, they were in fact close, based on their consuming _marunthu_ together,[\[note: 56\]](#Ftn_56) eating together,[\[note: 57\]](#Ftn_57) and general interaction.[\[note: 58\]](#Ftn_58)
+(a)     The accused testified at various points that while he had said in his statements that he and Mogan were not close, they were in fact close, based on their consuming _marunthu_ together,[^56] eating together,[^57] and general interaction.[^58]
 
-(b)     However, under cross­-examination, the accused admitted that he did not know Mogan’s place of residence, his motorcycle registration number, or anything about his family. The accused agreed that he did not have a close relationship with Mogan, that he does not know anything about Mogan and his only dealings with Mogan were in relation to drugs.[\[note: 59\]](#Ftn_59) The accused also accepted that he had no reasonable basis for believing Mogan’s alleged assurance that only “half a stone” was involved.[\[note: 60\]](#Ftn_60)
+(b)     However, under cross­-examination, the accused admitted that he did not know Mogan’s place of residence, his motorcycle registration number, or anything about his family. The accused agreed that he did not have a close relationship with Mogan, that he does not know anything about Mogan and his only dealings with Mogan were in relation to drugs.[^59] The accused also accepted that he had no reasonable basis for believing Mogan’s alleged assurance that only “half a stone” was involved.[^60]
 
-30     Lastly, the accused sought to explain that he never mentioned his defence prior to trial because all he imported was just one bundle.[\[note: 61\]](#Ftn_61) He also did not “tell more about” Mogan because Mogan had been involved in numerous fights in Malaysia, and the accused was afraid that Mogan would “do something to” his family.[\[note: 62\]](#Ftn_62)
+30     Lastly, the accused sought to explain that he never mentioned his defence prior to trial because all he imported was just one bundle.[^61] He also did not “tell more about” Mogan because Mogan had been involved in numerous fights in Malaysia, and the accused was afraid that Mogan would “do something to” his family.[^62]
 
 ## Decision on conviction
 
@@ -146,9 +147,9 @@ Criminal Law – Statutory offences – Misuse of Drugs Act
 
 ### The parties’ positions
 
-36     According to the Prosecution, as the accused indisputably possessed and had control over the bundle of drugs, he was presumed under s 18(1) of the MDA to have knowing possession of the entire quantity of the drugs, being _all_ 18.85g of diamorphine. Therefore, the burden was on the accused to rebut this presumption on a balance of probabilities.[\[note: 63\]](#Ftn_63) This was the approach taken in _Public Prosecutor v Muhammad Farid bin Mohd Yusop_ . As part of its case, the Prosecution submitted that the accused was wilfully blind to the quantity of diamorphine in his possession, based on his failure to confirm that he was importing a non-capital amount of diamorphine despite his suspicions to the contrary.[\[note: 64\]](#Ftn_64) The Prosecution also pointed out that the accused’s defence was a fabrication, and in any case did not serve to exculpate him as it was meaningless.[\[note: 65\]](#Ftn_65)
+36     According to the Prosecution, as the accused indisputably possessed and had control over the bundle of drugs, he was presumed under s 18(1) of the MDA to have knowing possession of the entire quantity of the drugs, being _all_ 18.85g of diamorphine. Therefore, the burden was on the accused to rebut this presumption on a balance of probabilities.[^63] This was the approach taken in _Public Prosecutor v Muhammad Farid bin Mohd Yusop_ . As part of its case, the Prosecution submitted that the accused was wilfully blind to the quantity of diamorphine in his possession, based on his failure to confirm that he was importing a non-capital amount of diamorphine despite his suspicions to the contrary.[^64] The Prosecution also pointed out that the accused’s defence was a fabrication, and in any case did not serve to exculpate him as it was meaningless.[^65]
 
-37     The crux of the Defence’s case was that the accused believed and had no reason to doubt that he was at all times carrying only “half a stone”, and not a “full stone” of _marunthu_.[\[note: 66\]](#Ftn_66) Regarding the incidence of the burden of proof, the Defence simply argued that “because of the inherent difficulties of proving a negative”, the burden on the Defence should not be “so onerous that it become\[s\] virtually impossible to discharge”, and therefore “such a burden”should not be imposed.[\[note: 67\]](#Ftn_67)
+37     The crux of the Defence’s case was that the accused believed and had no reason to doubt that he was at all times carrying only “half a stone”, and not a “full stone” of _marunthu_.[^66] Regarding the incidence of the burden of proof, the Defence simply argued that “because of the inherent difficulties of proving a negative”, the burden on the Defence should not be “so onerous that it become\[s\] virtually impossible to discharge”, and therefore “such a burden”should not be imposed.[^67]
 
 38     Having considered the evidence, I found that the Prosecution had established beyond a reasonable doubt that the accused _knew_ of the quantity of drugs, and I now set out my analysis.
 
@@ -174,7 +175,7 @@ Criminal Law – Statutory offences – Misuse of Drugs Act
 
 42     The accused stated at trial that he eventually accepted Mogan’s offer because of two reasons – (a) he needed the money; and (b) Mogan assured him that he would only import “half a stone”, the equivalent of one bundle. However, the evidence showed that the accused had no basis to trust Mogan. His suspicion still persisted, after his acceptance of Mogan’s offer. I explain why this was so.
 
-43     The accused’s explanation of his trust in Mogan was unbelievable. Despite the accused’s assertions at trial that he and Mogan were “close”, this rang hollow in the face of evidence to the contrary. Only at trial did he claim that he and Mogan were close, contradicting his investigative statements that he and Mogan had _never_ interacted during Mogan’s employment at Yinson Transport. At trial, the accused admitted that he did not know basic details such as Mogan’s full name, or whether Mogan was his real name, or anything about Mogan at all; his only dealings with Mogan were in relation to drugs. The accused even accepted that he had no reasonable basis for believing Mogan’s alleged assurance that only “half a stone” was involved.[\[note: 68\]](#Ftn_68) It was therefore questionable that the accused placed trust in Mogan’s alleged assurance that the bundle of drugs contained only “half a stone” of _marunthu_.
+43     The accused’s explanation of his trust in Mogan was unbelievable. Despite the accused’s assertions at trial that he and Mogan were “close”, this rang hollow in the face of evidence to the contrary. Only at trial did he claim that he and Mogan were close, contradicting his investigative statements that he and Mogan had _never_ interacted during Mogan’s employment at Yinson Transport. At trial, the accused admitted that he did not know basic details such as Mogan’s full name, or whether Mogan was his real name, or anything about Mogan at all; his only dealings with Mogan were in relation to drugs. The accused even accepted that he had no reasonable basis for believing Mogan’s alleged assurance that only “half a stone” was involved.[^68] It was therefore questionable that the accused placed trust in Mogan’s alleged assurance that the bundle of drugs contained only “half a stone” of _marunthu_.
 
 44     I further note that the accused was aware that Abang was paying a substantial sum of money in exchange for the delivery of each bundle of _marunthu_. While this did not necessarily reveal his knowledge that the _marunthu_ was so substantial in weight that it amounted to a capital amount, it was evidence that the accused was aware that it was of a substantial quantity, especially given his background as a _marunthu_ purchaser and consumer himself.
 
@@ -182,7 +183,7 @@ Criminal Law – Statutory offences – Misuse of Drugs Act
 
 #### The accused took no steps to investigate
 
-46     While the accused knew that there would be a death penalty for the importation of 15g of _marunthu_ in Malaysia, he did not know nor bother to find out what the capital amount of _marunthu_ in Singapore was. He did not know nor bother to find out if the bundle of drugs weighed more than 15g.[\[note: 69\]](#Ftn_69) In fact, the accused never weighed any of the bundles of _marunthu_, including the bundle of drugs in the present charge. The accused even admitted that he was “not concerned” about their weight. It bears reminding that the gross weight of the bundle of drugs in the present charge was 455.0g. Such evidence clearly revealed the accused’s indifference to the quantity of drugs that he had in his possession. The present case is thus amongst a particular class of cases described in _Tan Kiam Peng_ (discussed above at \[40\]), where the accused takes no steps whatsoever to investigate his suspicions. This would be an “obvious situation” of wilful blindness. I therefore found that the accused deliberately shut his eyes and refused to investigate further, despite his suspicion that the quantity of _marunthu_ involved might trigger the death penalty.
+46     While the accused knew that there would be a death penalty for the importation of 15g of _marunthu_ in Malaysia, he did not know nor bother to find out what the capital amount of _marunthu_ in Singapore was. He did not know nor bother to find out if the bundle of drugs weighed more than 15g.[^69] In fact, the accused never weighed any of the bundles of _marunthu_, including the bundle of drugs in the present charge. The accused even admitted that he was “not concerned” about their weight. It bears reminding that the gross weight of the bundle of drugs in the present charge was 455.0g. Such evidence clearly revealed the accused’s indifference to the quantity of drugs that he had in his possession. The present case is thus amongst a particular class of cases described in _Tan Kiam Peng_ (discussed above at \[40\]), where the accused takes no steps whatsoever to investigate his suspicions. This would be an “obvious situation” of wilful blindness. I therefore found that the accused deliberately shut his eyes and refused to investigate further, despite his suspicion that the quantity of _marunthu_ involved might trigger the death penalty.
 
 #### The belated nature of the accused’s defence
 
@@ -192,7 +193,7 @@ Criminal Law – Statutory offences – Misuse of Drugs Act
 
 (a)     The accused claimed that he only realised the bundle of drugs weighed a “full stone” when it was weighed in his presence by the CNB officers. However, he did not mention his defence to the CNB officers when the bundle of drugs was weighed and he came to this realisation.
 
-(b)     According to the evidence of SI Shafiq, and undisputed by the Defence, the weighing of the bundle took place on 26 March 2016 at about 3.21am.[\[note: 70\]](#Ftn_70) However, when the s 23 statement was recorded shortly after at 4.37am the same day, and the accused’s liability to be sentenced to death was explained to him, he also did not exclaim to the effect that he should not be so liable by virtue of the bundle of drugs being “half a stone”. Instead, he “plead\[ed\] for leniency” in the s 23 statement. I note that the accused stated in the s 23 statement that “\[he\] made a mistake by bringing this drug into Singapore”.[\[note: 71\]](#Ftn_71) This must not be misconstrued as a reference to the defence he relied on at trial – it lacked specificity and amounted to no more than an expression of regret, particularly when read together with his plea for leniency.
+(b)     According to the evidence of SI Shafiq, and undisputed by the Defence, the weighing of the bundle took place on 26 March 2016 at about 3.21am.[^70] However, when the s 23 statement was recorded shortly after at 4.37am the same day, and the accused’s liability to be sentenced to death was explained to him, he also did not exclaim to the effect that he should not be so liable by virtue of the bundle of drugs being “half a stone”. Instead, he “plead\[ed\] for leniency” in the s 23 statement. I note that the accused stated in the s 23 statement that “\[he\] made a mistake by bringing this drug into Singapore”.[^71] This must not be misconstrued as a reference to the defence he relied on at trial – it lacked specificity and amounted to no more than an expression of regret, particularly when read together with his plea for leniency.
 
 49     Furthermore, the accused claimed that he did not “tell more about” Mogan before the trial because he was fearful of the harm that Mogan, a “fighter in Malaysia”, might inflict on his family. However, this explanation was illogical. It appeared that the only information the accused did not reveal in his statements was Mogan’s purported reassurances that the bundle of drugs only contained “half a stone”. Apart from this, the accused had already implicated Mogan in his statements as the one who proposed the entire plan to import drugs into Singapore. This “reason” offered by the accused was therefore no reason at all for his belated defence.
 
@@ -218,147 +219,147 @@ Criminal Law – Statutory offences – Misuse of Drugs Act
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)AB at p 142; NEs (29 August 2018) at p 3 ln 14–23; Agreed Statement of Facts (“ASOF”) at para 2.
+[^1]: AB at p 142; NEs (29 August 2018) at p 3 ln 14–23; Agreed Statement of Facts (“ASOF”) at para 2.
 
-[\[note: 2\]](#Ftn_2_1)ASOF at para 2.
+[^2]: ASOF at para 2.
 
-[\[note: 3\]](#Ftn_3_1)ASOF at para 3.
+[^3]: ASOF at para 3.
 
-[\[note: 4\]](#Ftn_4_1)ASOF at para 4–5.
+[^4]: ASOF at para 4–5.
 
-[\[note: 5\]](#Ftn_5_1)ASOF at para 3–4.
+[^5]: ASOF at para 3–4.
 
-[\[note: 6\]](#Ftn_6_1)ASOF at para 7.
+[^6]: ASOF at para 7.
 
-[\[note: 7\]](#Ftn_7_1)ASOF at para 16.
+[^7]: ASOF at para 16.
 
-[\[note: 8\]](#Ftn_8_1)ASOF at para 16.
+[^8]: ASOF at para 16.
 
-[\[note: 9\]](#Ftn_9_1)ASOF at para 20.
+[^9]: ASOF at para 20.
 
-[\[note: 10\]](#Ftn_10_1)ASOF at para 20.
+[^10]: ASOF at para 20.
 
-[\[note: 11\]](#Ftn_11_1)ASOF at para 20.
+[^11]: ASOF at para 20.
 
-[\[note: 12\]](#Ftn_12_1)ASOF at para 21.
+[^12]: ASOF at para 21.
 
-[\[note: 13\]](#Ftn_13_1)ASOF at para 22.
+[^13]: ASOF at para 22.
 
-[\[note: 14\]](#Ftn_14_1)ASOF at para 23.
+[^14]: ASOF at para 23.
 
-[\[note: 15\]](#Ftn_15_1)AB at p 145.
+[^15]: AB at p 145.
 
-[\[note: 16\]](#Ftn_16_1)AB at p 145–146.
+[^16]: AB at p 145–146.
 
-[\[note: 17\]](#Ftn_17_1)AB at p 147.
+[^17]: AB at p 147.
 
-[\[note: 18\]](#Ftn_18_1)AB at p 147.
+[^18]: AB at p 147.
 
-[\[note: 19\]](#Ftn_19_1)AB at p 151.
+[^19]: AB at p 151.
 
-[\[note: 20\]](#Ftn_20_1)AB at p 149, 151.
+[^20]: AB at p 149, 151.
 
-[\[note: 21\]](#Ftn_21_1)AB at p 153.
+[^21]: AB at p 153.
 
-[\[note: 22\]](#Ftn_22_1)AB at p 158–159.
+[^22]: AB at p 158–159.
 
-[\[note: 23\]](#Ftn_23_1)Defence’s Closing Submissions at para 11.
+[^23]: Defence’s Closing Submissions at para 11.
 
-[\[note: 24\]](#Ftn_24_1)NEs (29 August 2018) p 4, ln 29–30.
+[^24]: NEs (29 August 2018) p 4, ln 29–30.
 
-[\[note: 25\]](#Ftn_25_1)NEs (29 August 2018) p 5, ln 1–9.
+[^25]: NEs (29 August 2018) p 5, ln 1–9.
 
-[\[note: 26\]](#Ftn_26_1)NEs (29 August 2018) p 5, ln 4–5 and ln 13–17.
+[^26]: NEs (29 August 2018) p 5, ln 4–5 and ln 13–17.
 
-[\[note: 27\]](#Ftn_27_1)NEs (29 August 2018) p 5, ln 31 and p 6, ln 6.
+[^27]: NEs (29 August 2018) p 5, ln 31 and p 6, ln 6.
 
-[\[note: 28\]](#Ftn_28_1)NEs (29 August 2018) p 5, ln 29–32.
+[^28]: NEs (29 August 2018) p 5, ln 29–32.
 
-[\[note: 29\]](#Ftn_29_1)NEs (29 August 2018) p 6 ln 17–20.
+[^29]: NEs (29 August 2018) p 6 ln 17–20.
 
-[\[note: 30\]](#Ftn_30_1)NEs (29 August 2018) p 6, ln 20.
+[^30]: NEs (29 August 2018) p 6, ln 20.
 
-[\[note: 31\]](#Ftn_31_1)NEs (29 August 2018) p 8, ln 18.
+[^31]: NEs (29 August 2018) p 8, ln 18.
 
-[\[note: 32\]](#Ftn_32_1)NEs (29 August 2018) p 9, ln 9.
+[^32]: NEs (29 August 2018) p 9, ln 9.
 
-[\[note: 33\]](#Ftn_33_1)NEs (29 August 2018) p 9, ln 16.
+[^33]: NEs (29 August 2018) p 9, ln 16.
 
-[\[note: 34\]](#Ftn_34_1)NEs (29 August 2018) p 9, ln 19–20.
+[^34]: NEs (29 August 2018) p 9, ln 19–20.
 
-[\[note: 35\]](#Ftn_35_1)NEs (29 August 2018) p 8, ln 11.
+[^35]: NEs (29 August 2018) p 8, ln 11.
 
-[\[note: 36\]](#Ftn_36_1)NEs (29 August 2018) p 9, ln 28–29.
+[^36]: NEs (29 August 2018) p 9, ln 28–29.
 
-[\[note: 37\]](#Ftn_37_1)NEs (29 August 2018) p 10, ln 1–3.
+[^37]: NEs (29 August 2018) p 10, ln 1–3.
 
-[\[note: 38\]](#Ftn_38_1)NEs (29 August 2018) p 14 ln 32 to p 15, ln 3.
+[^38]: NEs (29 August 2018) p 14 ln 32 to p 15, ln 3.
 
-[\[note: 39\]](#Ftn_39_1)NEs (29 August 2018) p 14, ln 7 and 10.
+[^39]: NEs (29 August 2018) p 14, ln 7 and 10.
 
-[\[note: 40\]](#Ftn_40_1)NEs (29 August 2018) p 13, ln 26 and 30–31.
+[^40]: NEs (29 August 2018) p 13, ln 26 and 30–31.
 
-[\[note: 41\]](#Ftn_41_1)NEs (29 August 2018) p 14, ln 3; p 15, ln 23.
+[^41]: NEs (29 August 2018) p 14, ln 3; p 15, ln 23.
 
-[\[note: 42\]](#Ftn_42_1)NEs (29 August 2018) p 15, ln 26–31.
+[^42]: NEs (29 August 2018) p 15, ln 26–31.
 
-[\[note: 43\]](#Ftn_43_1)NEs (29 August 2018) p 26, ln 18.
+[^43]: NEs (29 August 2018) p 26, ln 18.
 
-[\[note: 44\]](#Ftn_44_1)NEs (29 August 2018) p 26, ln 9.
+[^44]: NEs (29 August 2018) p 26, ln 9.
 
-[\[note: 45\]](#Ftn_45_1)NEs (29 August 2018) p 19, ln 28; p 20, ln 1.
+[^45]: NEs (29 August 2018) p 19, ln 28; p 20, ln 1.
 
-[\[note: 46\]](#Ftn_46_1)NEs (29 August 2018) p 18, ln 30 to p 19, ln 6.
+[^46]: NEs (29 August 2018) p 18, ln 30 to p 19, ln 6.
 
-[\[note: 47\]](#Ftn_47_1)NEs (29 August 2018) p 19, ln 9–10.
+[^47]: NEs (29 August 2018) p 19, ln 9–10.
 
-[\[note: 48\]](#Ftn_48_1)NEs (29 August 2018) p 17, ln 31.
+[^48]: NEs (29 August 2018) p 17, ln 31.
 
-[\[note: 49\]](#Ftn_49_1)NEs (29 August 2018) p 18, ln 2.
+[^49]: NEs (29 August 2018) p 18, ln 2.
 
-[\[note: 50\]](#Ftn_50_1)NEs (29 August 2018) p 20, ln 15 and 18.
+[^50]: NEs (29 August 2018) p 20, ln 15 and 18.
 
-[\[note: 51\]](#Ftn_51_1)NEs (29 August 2018) p 21, ln 21
+[^51]: NEs (29 August 2018) p 21, ln 21
 
-[\[note: 52\]](#Ftn_52_1)NEs (29 August 2018) p 22, ln 11 and 21.
+[^52]: NEs (29 August 2018) p 22, ln 11 and 21.
 
-[\[note: 53\]](#Ftn_53_1)AB at p 135.
+[^53]: AB at p 135.
 
-[\[note: 54\]](#Ftn_54_1)NEs (29 August 2018) p 22, ln 7 and 11.
+[^54]: NEs (29 August 2018) p 22, ln 7 and 11.
 
-[\[note: 55\]](#Ftn_55_1)NEs (29 August 2018) p 22, ln 21.
+[^55]: NEs (29 August 2018) p 22, ln 21.
 
-[\[note: 56\]](#Ftn_56_1)NEs (29 August 2018) p 23, ln 30–31.
+[^56]: NEs (29 August 2018) p 23, ln 30–31.
 
-[\[note: 57\]](#Ftn_57_1)NEs (29 August 2018) p 31, ln 7–8.
+[^57]: NEs (29 August 2018) p 31, ln 7–8.
 
-[\[note: 58\]](#Ftn_58_1)NEs (29 August 2018) p 31, ln 16.
+[^58]: NEs (29 August 2018) p 31, ln 16.
 
-[\[note: 59\]](#Ftn_59_1)NEs (29 August 2018) p 24, ln 23.
+[^59]: NEs (29 August 2018) p 24, ln 23.
 
-[\[note: 60\]](#Ftn_60_1)NEs (29 August 2018) p 25, ln 11.
+[^60]: NEs (29 August 2018) p 25, ln 11.
 
-[\[note: 61\]](#Ftn_61_1)NEs (29 August 2018) p 28, ln 6.
+[^61]: NEs (29 August 2018) p 28, ln 6.
 
-[\[note: 62\]](#Ftn_62_1)NEs (29 August 2018) p 31, ln 8–10.
+[^62]: NEs (29 August 2018) p 31, ln 8–10.
 
-[\[note: 63\]](#Ftn_63_1)Prosecution’s Closing Submissions (Amended) (“PCSA”) at para 10–11.
+[^63]: Prosecution’s Closing Submissions (Amended) (“PCSA”) at para 10–11.
 
-[\[note: 64\]](#Ftn_64_1)PCSA at para 11(c).
+[^64]: PCSA at para 11(c).
 
-[\[note: 65\]](#Ftn_65_1)PCSA at para 11(a)–(b).
+[^65]: PCSA at para 11(a)–(b).
 
-[\[note: 66\]](#Ftn_66_1)Defence’s Closing Submissions (“DCS”) at para 11.
+[^66]: Defence’s Closing Submissions (“DCS”) at para 11.
 
-[\[note: 67\]](#Ftn_67_1)Defence’s Response Submissions (“DRS”) at para 23.
+[^67]: Defence’s Response Submissions (“DRS”) at para 23.
 
-[\[note: 68\]](#Ftn_68_1)NEs (29 August 2018) p 25, ln 11.
+[^68]: NEs (29 August 2018) p 25, ln 11.
 
-[\[note: 69\]](#Ftn_69_1)NEs (29 August 2018) p 15, ln 26–31.
+[^69]: NEs (29 August 2018) p 15, ln 26–31.
 
-[\[note: 70\]](#Ftn_70_1)AB at p 124, para 16.
+[^70]: AB at p 124, para 16.
 
-[\[note: 71\]](#Ftn_71_1)AB at p 139.
+[^71]: AB at p 139.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F22942-SSP.xml)

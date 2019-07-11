@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # Brightex Paints (S) Pte Ltd _v_ Tan Ongg Seng (in his personal capacity and trading as Starlit(S) Trading) and others  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Suit No 1187 of 2016 (Summons No 4922 of 2018)</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">03 May 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Dedar Singh Gill JC</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Aaron Lee Teck Chye, Leong Yi-Ming and Marc Wenjie Malone (Allen &amp; Gledhill LLP) for the plaintiff; Jeeva Arul Joethy (Regent Law LLC) for the first defendant.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Brightex Paints (S) Pte Ltd — Tan Ongg Seng in his personal capacity and trading as Starlit(S) Trading — B.H.I International Ltd — Khin Myo Tint</td></tr></tbody></table>
@@ -18,15 +19,15 @@ Contempt of Court – civil contempt
 
 ### The parties
 
-3       The plaintiff is a Singapore incorporated company. Its business includes the manufacture and supply of wood coatings and furniture lacquers, decorative and industrial paints and chemical solvents.[\[note: 1\]](#Ftn_1) The plaintiff has an established presence in Malaysia, Myanmar, Indonesia, Cambodia, Vietnam, India, Maldives and the Middle East and is best known locally for its selection of paint products.[\[note: 2\]](#Ftn_2)
+3       The plaintiff is a Singapore incorporated company. Its business includes the manufacture and supply of wood coatings and furniture lacquers, decorative and industrial paints and chemical solvents.[^1] The plaintiff has an established presence in Malaysia, Myanmar, Indonesia, Cambodia, Vietnam, India, Maldives and the Middle East and is best known locally for its selection of paint products.[^2]
 
 4       The first defendant is a former employee of the plaintiff and the younger brother of its managing director, Tan Tiow Lin. He is also an undischarged bankrupt. The first defendant worked for the plaintiff in two stints. He was initially employed from 1987 to 2002 before being rehired in October 2012. He subsequently resigned in 2016.
 
 ### Background to the dispute
 
-5       Sometime in late 2012, the plaintiff was looking to expand its presence in the Myanmar market. At the time, it already had a business relationship with B.H.I International Ltd (“the second defendant”). The plaintiff and Khin Myo Tint (“the third defendant”), the second defendant’s shareholder, agreed that the second defendant would set up a factory in Yangon to produce some of the plaintiff’s products.[\[note: 3\]](#Ftn_3) The second defendant was to be the exclusive distributor of the plaintiff’s products in Myanmar.[\[note: 4\]](#Ftn_4)
+5       Sometime in late 2012, the plaintiff was looking to expand its presence in the Myanmar market. At the time, it already had a business relationship with B.H.I International Ltd (“the second defendant”). The plaintiff and Khin Myo Tint (“the third defendant”), the second defendant’s shareholder, agreed that the second defendant would set up a factory in Yangon to produce some of the plaintiff’s products.[^3] The second defendant was to be the exclusive distributor of the plaintiff’s products in Myanmar.[^4]
 
-6       Consequently, the first defendant was appointed as the plaintiff’s Myanmar production manager.[\[note: 5\]](#Ftn_5) He was assigned to oversee the operations of the second defendant which included:[\[note: 6\]](#Ftn_6)
+6       Consequently, the first defendant was appointed as the plaintiff’s Myanmar production manager.[^5] He was assigned to oversee the operations of the second defendant which included:[^6]
 
 (a)     managing and overseeing the inventory of raw materials at the second defendant’s factory and obtaining these materials from the plaintiff;
 
@@ -34,15 +35,15 @@ Contempt of Court – civil contempt
 
 (c)     travelling to Myanmar to oversee operations.
 
-7       Thus, in the course of his work, the first defendant gained access to confidential and business sensitive information, such as raw material lists, product formula files, product code lists, supplier lists, container code lists and/or stock information relating to the plaintiff’s products.[\[note: 7\]](#Ftn_7) It was agreed that the second and third defendants would only be privy to certain encoded formulas for the production of the plaintiff’s products in the second defendant’s factory. They would also have access to certain technical documentation and limited raw materials for the plaintiff’s products.[\[note: 8\]](#Ftn_8)
+7       Thus, in the course of his work, the first defendant gained access to confidential and business sensitive information, such as raw material lists, product formula files, product code lists, supplier lists, container code lists and/or stock information relating to the plaintiff’s products.[^7] It was agreed that the second and third defendants would only be privy to certain encoded formulas for the production of the plaintiff’s products in the second defendant’s factory. They would also have access to certain technical documentation and limited raw materials for the plaintiff’s products.[^8]
 
-8       On 30 September 2016, the first defendant tendered his resignation. On or around 17 October 2016, the plaintiff and the third defendant agreed to bring their business arrangements to an end and the second defendant ceased to be the plaintiff’s distributor in Myanmar.[\[note: 9\]](#Ftn_9) Sometime after the first defendant’s resignation, the plaintiff was informed by one of its suppliers that the first defendant had contacted it to source for raw materials in accordance with the plaintiff’s confidential formula specification.[\[note: 10\]](#Ftn_10)
+8       On 30 September 2016, the first defendant tendered his resignation. On or around 17 October 2016, the plaintiff and the third defendant agreed to bring their business arrangements to an end and the second defendant ceased to be the plaintiff’s distributor in Myanmar.[^9] Sometime after the first defendant’s resignation, the plaintiff was informed by one of its suppliers that the first defendant had contacted it to source for raw materials in accordance with the plaintiff’s confidential formula specification.[^10]
 
-9       This alarmed the plaintiff and it sought assistance from Chang James Tan Swee Long (“Mr Chang”), a forensics consultant at Infinity Forensics (Private) Limited, to conduct a forensic examination of the desktop computer used by the first defendant whilst he was employed by the plaintiff (“the first defendant’s computer”).[\[note: 11\]](#Ftn_11) On 26 October 2016, Mr Chang produced his report which documented several key findings.[\[note: 12\]](#Ftn_12)
+9       This alarmed the plaintiff and it sought assistance from Chang James Tan Swee Long (“Mr Chang”), a forensics consultant at Infinity Forensics (Private) Limited, to conduct a forensic examination of the desktop computer used by the first defendant whilst he was employed by the plaintiff (“the first defendant’s computer”).[^11] On 26 October 2016, Mr Chang produced his report which documented several key findings.[^12]
 
-10     The report uncovered that the first defendant had, without the plaintiff’s authorisation, linked his personal Dropbox account to the first defendant’s computer on 17 June 2016. This account was used at least until 13 September 2016. During this period, the first defendant synced 3,052 confidential work documents found on the plaintiff’s shared network drive to his personal Dropbox account. He subsequently uninstalled the Dropbox application and removed his account from the first defendant’s computer.[\[note: 13\]](#Ftn_13)
+10     The report uncovered that the first defendant had, without the plaintiff’s authorisation, linked his personal Dropbox account to the first defendant’s computer on 17 June 2016. This account was used at least until 13 September 2016. During this period, the first defendant synced 3,052 confidential work documents found on the plaintiff’s shared network drive to his personal Dropbox account. He subsequently uninstalled the Dropbox application and removed his account from the first defendant’s computer.[^13]
 
-11     Separately, a large amount of data from the plaintiff’s shared network drive was copied by the first defendant to the first defendant’s computer. These files, which included paint formulas, sales reports, customer quotations and customer name lists, were transferred to removable storage devices before being deleted from the first defendant’s computer.[\[note: 14\]](#Ftn_14) These file transfers took place in three tranches:
+11     Separately, a large amount of data from the plaintiff’s shared network drive was copied by the first defendant to the first defendant’s computer. These files, which included paint formulas, sales reports, customer quotations and customer name lists, were transferred to removable storage devices before being deleted from the first defendant’s computer.[^14] These file transfers took place in three tranches:
 
 (a)     5,340 files were transferred on 10 June 2016;
 
@@ -50,25 +51,25 @@ Contempt of Court – civil contempt
 
 (c)     5,793 files were transferred on 20 June 2016.
 
-12     A total of 343 email exchanges between the first defendant and the third defendant were also extracted from the first defendant’s computer.[\[note: 15\]](#Ftn_15) The titles of these emails appeared to indicate that the first defendant had sent the plaintiff’s confidential information to the second and third defendants.
+12     A total of 343 email exchanges between the first defendant and the third defendant were also extracted from the first defendant’s computer.[^15] The titles of these emails appeared to indicate that the first defendant had sent the plaintiff’s confidential information to the second and third defendants.
 
-13     The full extent of the first defendant’s actions, including other instances of file transfers and mass deletions from the first defendant’s computer, is particularised in the plaintiff’s Statement of Claim (Amendment no 1) (“ASOC”).[\[note: 16\]](#Ftn_16) Schedule A of the ASOC specifies the confidential information which was accessed by the first defendant and is included as Annex 1 to this judgment.
+13     The full extent of the first defendant’s actions, including other instances of file transfers and mass deletions from the first defendant’s computer, is particularised in the plaintiff’s Statement of Claim (Amendment no 1) (“ASOC”).[^16] Schedule A of the ASOC specifies the confidential information which was accessed by the first defendant and is included as Annex 1 to this judgment.
 
 ### Procedural history
 
-14     With this information in hand, the plaintiff commenced Suit No 1187 of 2016 (“Suit 1187/2016”) to obtain, _inter alia_, an injunction to prevent the further unauthorised use and dissemination of its confidential information and an order that the first defendant deliver up all confidential information in his possession and disclose the use of such information to the plaintiff.[\[note: 17\]](#Ftn_17)
+14     With this information in hand, the plaintiff commenced Suit No 1187 of 2016 (“Suit 1187/2016”) to obtain, _inter alia_, an injunction to prevent the further unauthorised use and dissemination of its confidential information and an order that the first defendant deliver up all confidential information in his possession and disclose the use of such information to the plaintiff.[^17]
 
 15     On 11 July 2017 the first defendant filed his Defence (Amendment No 1) (“Defence”), which raised several significant points:
 
-(a)     the information obtained by the first defendant was not confidential and, even if it was, its confidentiality was lost and/or waived by the plaintiff;[\[note: 18\]](#Ftn_18)
+(a)     the information obtained by the first defendant was not confidential and, even if it was, its confidentiality was lost and/or waived by the plaintiff;[^18]
 
-(b)     the first defendant obtained the plaintiff’s information with its knowledge and consent;[\[note: 19\]](#Ftn_19)
+(b)     the first defendant obtained the plaintiff’s information with its knowledge and consent;[^19]
 
-(c)     the first defendant downloaded parts of the plaintiff’s confidential information onto his external storage device and personal Dropbox account and took photographs of the same for use in the course of his work and as a backup;[\[note: 20\]](#Ftn_20)
+(c)     the first defendant downloaded parts of the plaintiff’s confidential information onto his external storage device and personal Dropbox account and took photographs of the same for use in the course of his work and as a backup;[^20]
 
-(d)     the first defendant continued to oversee production at the second defendant’s factory after his resignation on 30 September 2016;[\[note: 21\]](#Ftn_21) and
+(d)     the first defendant continued to oversee production at the second defendant’s factory after his resignation on 30 September 2016;[^21] and
 
-(e)     the first defendant retained possession and use of the plaintiff’s information for the purpose of assisting the second defendant in the production of the plaintiff’s products.[\[note: 22\]](#Ftn_22)
+(e)     the first defendant retained possession and use of the plaintiff’s information for the purpose of assisting the second defendant in the production of the plaintiff’s products.[^22]
 
 16     On 21 September 2017, the first defendant was adjudged a bankrupt. The bankruptcy order was made pursuant to the first defendant’s own application. On 9 February 2018, the plaintiff obtained leave to continue proceedings against the first defendant. On 25 April 2018, with the Official Assignee’s leave, the first defendant filed a notice to discontinue or withdraw his Defence. Consequently, the plaintiff applied for interlocutory judgment against the first defendant in Summons No 2803 of 2018 (“SUM 2803/2018”). I make the observation that the first defendant consciously chose to withdraw his Defence rather than apply for leave from the Official Assignee (“OA”) to defend the suit.
 
@@ -80,17 +81,17 @@ Contempt of Court – civil contempt
 
 References to the plaintiff’s “Confidential Information and/or Copyright Works” included but were not limited to Schedule 1 of the Judgment. Schedule 1 is included in full as Annex 2 to this judgment.
 
-18     On 11 July 2018, the Judgment was extracted and served on the first defendant.[\[note: 23\]](#Ftn_23)
+18     On 11 July 2018, the Judgment was extracted and served on the first defendant.[^23]
 
 #### The committal hearing
 
-19     On 27 September 2018, the plaintiff applied for leave to commence committal proceedings against the first defendant on the basis that the delivery up order and disclosure order (collectively, “the Orders”) had not been complied with.[\[note: 24\]](#Ftn_24) I granted leave to the plaintiff on 9 October 2018. On 22 October 2018, the plaintiff applied for an order of committal in SUM 4922/2018.
+19     On 27 September 2018, the plaintiff applied for leave to commence committal proceedings against the first defendant on the basis that the delivery up order and disclosure order (collectively, “the Orders”) had not been complied with.[^24] I granted leave to the plaintiff on 9 October 2018. On 22 October 2018, the plaintiff applied for an order of committal in SUM 4922/2018.
 
 20     SUM 4922/2018 was first heard on 1 November 2018. The first defendant, who was in person, sought a final opportunity to comply with the Judgment. I granted an adjournment and on 22 November 2018, parties came before me again. Mr Jeeva Arul Joethy (“Mr Joethy”) appeared on behalf of the first defendant. He sought another adjournment to obtain approval to act from the OA and to take instructions. I cautioned that the first defendant could not seek to delay proceedings to avoid satisfying the Orders. Nevertheless, I granted the adjournment and directed Mr Joethy to ensure the first defendant’s compliance as soon as possible.
 
-21     Later that day, the first defendant’s solicitors wrote to the OA to obtain sanction to defend the proceedings in Suit 1187/2016 and SUM 4922/2018.[\[note: 25\]](#Ftn_25) On 26 November 2018, the OA wrote to the first defendant’s solicitors to obtain further information as to the first defendant’s proposed defence as well as its legal and factual merits.[\[note: 26\]](#Ftn_26) No response was provided to these queries. On 12 December 2018, the OA wrote to the first defendant’s solicitors again, reiterating his request for information on the first defendant’s course of action.[\[note: 27\]](#Ftn_27) It was also made clear that the OA had not granted sanction to the first defendant in respect of any of the proceedings.
+21     Later that day, the first defendant’s solicitors wrote to the OA to obtain sanction to defend the proceedings in Suit 1187/2016 and SUM 4922/2018.[^25] On 26 November 2018, the OA wrote to the first defendant’s solicitors to obtain further information as to the first defendant’s proposed defence as well as its legal and factual merits.[^26] No response was provided to these queries. On 12 December 2018, the OA wrote to the first defendant’s solicitors again, reiterating his request for information on the first defendant’s course of action.[^27] It was also made clear that the OA had not granted sanction to the first defendant in respect of any of the proceedings.
 
-22     On 14 December 2018, the date of the next hearing, the Orders had _still_ not been complied with. I therefore directed the first defendant to file an affidavit stating his position and for the committal hearing to be held thereafter. On the same day, the first defendant’s solicitors wrote to the OA to clarify that sanction was only being sought in respect of the committal proceedings.[\[note: 28\]](#Ftn_28) On 18 December 2018, the OA granted sanction for the first defendant to defend the committal proceedings on the condition that $20,000 be paid to the OA to meet any potential costs and disbursements.[\[note: 29\]](#Ftn_29) The OA subsequently denied a request by the first defendant’s solicitors to obtain further sanction to defend a default judgment application applied for by the plaintiff in Summons No 5410 of 2018.[\[note: 30\]](#Ftn_30)
+22     On 14 December 2018, the date of the next hearing, the Orders had _still_ not been complied with. I therefore directed the first defendant to file an affidavit stating his position and for the committal hearing to be held thereafter. On the same day, the first defendant’s solicitors wrote to the OA to clarify that sanction was only being sought in respect of the committal proceedings.[^28] On 18 December 2018, the OA granted sanction for the first defendant to defend the committal proceedings on the condition that $20,000 be paid to the OA to meet any potential costs and disbursements.[^29] The OA subsequently denied a request by the first defendant’s solicitors to obtain further sanction to defend a default judgment application applied for by the plaintiff in Summons No 5410 of 2018.[^30]
 
 23     The committal hearing was held on 29 January 2019.
 
@@ -98,17 +99,17 @@ References to the plaintiff’s “Confidential Information and/or Copyright Wor
 
 ### The plaintiff’s case
 
-24     It is the plaintiff’s position that the first defendant unlawfully accessed, downloaded and copied the plaintiff’s confidential information[\[note: 31\]](#Ftn_31) which he passed on to the second and third defendants for the purpose of making unauthorised productions of the plaintiff’s products.[\[note: 32\]](#Ftn_32) According to the plaintiff, the first defendant knew that this information was confidential and he had been specifically instructed to protect it from being seen by and disseminated to third parties.[\[note: 33\]](#Ftn_33)
+24     It is the plaintiff’s position that the first defendant unlawfully accessed, downloaded and copied the plaintiff’s confidential information[^31] which he passed on to the second and third defendants for the purpose of making unauthorised productions of the plaintiff’s products.[^32] According to the plaintiff, the first defendant knew that this information was confidential and he had been specifically instructed to protect it from being seen by and disseminated to third parties.[^33]
 
 25     The first defendant was required to comply with the Orders in the Judgment. He failed to do so. He handed over three compact discs (CDs): two on 12 July 2018 and one on 13 July 2018.
 
-26     Having reviewed the contents of the CDs, the plaintiff discovered that there had been incomplete delivery up and disclosure by the first defendant. There were missing and inaccessible attachments in the email correspondence provided. It was also apparent, when comparing the materials in the CDs with the documents found in the first defendant’s Dropbox account and specified in Schedule A of the ASOC, that numerous items were not delivered up.[\[note: 34\]](#Ftn_34) The plaintiff argued that the first defendant had failed to address these inadequacies and the explanations for his non-compliance were unjustified.[\[note: 35\]](#Ftn_35) It argued that his actions had caused significant prejudice to the plaintiff.[\[note: 36\]](#Ftn_36)
+26     Having reviewed the contents of the CDs, the plaintiff discovered that there had been incomplete delivery up and disclosure by the first defendant. There were missing and inaccessible attachments in the email correspondence provided. It was also apparent, when comparing the materials in the CDs with the documents found in the first defendant’s Dropbox account and specified in Schedule A of the ASOC, that numerous items were not delivered up.[^34] The plaintiff argued that the first defendant had failed to address these inadequacies and the explanations for his non-compliance were unjustified.[^35] It argued that his actions had caused significant prejudice to the plaintiff.[^36]
 
 ### The first defendant’s case
 
-27     The first defendant asserted that he had not unlawfully accessed, downloaded and copied the plaintiff’s confidential information. In fact, he disagreed that the information taken was even confidential.[\[note: 37\]](#Ftn_37) This assertion aligns with the substance of his withdrawn Defence (see \[15(a)\] and \[15(b)\] above).
+27     The first defendant asserted that he had not unlawfully accessed, downloaded and copied the plaintiff’s confidential information. In fact, he disagreed that the information taken was even confidential.[^37] This assertion aligns with the substance of his withdrawn Defence (see \[15(a)\] and \[15(b)\] above).
 
-28     In respect of the committal proceedings, he argued that he had handed over all the materials in his possession to the plaintiff in August 2018, having gone to the plaintiff’s solicitors’ office thrice that month.[\[note: 38\]](#Ftn_38) He rebutted the plaintiff’s allegations that his delivery up and disclosure were “woefully inadequate and incomplete”, adding that it was his practice to delete information which was no longer of any use to him. In his own words, he “cannot give what \[he did\] not have”.[\[note: 39\]](#Ftn_39)
+28     In respect of the committal proceedings, he argued that he had handed over all the materials in his possession to the plaintiff in August 2018, having gone to the plaintiff’s solicitors’ office thrice that month.[^38] He rebutted the plaintiff’s allegations that his delivery up and disclosure were “woefully inadequate and incomplete”, adding that it was his practice to delete information which was no longer of any use to him. In his own words, he “cannot give what \[he did\] not have”.[^39]
 
 ## Issues to be determined
 
@@ -120,13 +121,13 @@ References to the plaintiff’s “Confidential Information and/or Copyright Wor
 
 30     The law on contempt of court is well established. The court must be satisfied that the contemnor’s conduct was intentional and that he “knew of all the facts which made such conduct a breach of the order” (_Mok Kah Hong v Zheng Zhuan Yeo_ (“_Mah Kah Hong_”) at \[86\]). In short, the order must be wilfully or deliberately disobeyed (_Monex Group (Singapore) Pte Ltd v E-Clearing (Singapore) Pte Ltd_ (“_Monex Group_”) at \[30\]). In making this determination, Judith Prakash J, as she then was, adopted a two-step analysis in _Monex Group_ (at \[31\]). The court first considers what the relevant order(s) required of the contemnor. It must then determine whether the contemnor fulfilled these requirements. In doing so, the court applies the criminal standard of proof of beyond reasonable doubt (s 28 of the Administration of Justice (Protection) Act 2016 (No 19 of 2016) (“AJA”)). The evidential burden lies with the party commencing committal proceedings to demonstrate that there has been a failure to comply with a court order.
 
-31     In his affidavit filed on 4 January 2019 (“the first defendant’s 10th affidavit”), the first defendant challenged the substantive basis of the Orders. He asserted that the plaintiff’s information was not confidential[\[note: 40\]](#Ftn_40) and that he had never unlawfully accessed, downloaded or copied this information.[\[note: 41\]](#Ftn_41) The first defendant’s attempt to raise these arguments during the committal proceedings faced two obstacles.
+31     In his affidavit filed on 4 January 2019 (“the first defendant’s 10th affidavit”), the first defendant challenged the substantive basis of the Orders. He asserted that the plaintiff’s information was not confidential[^40] and that he had never unlawfully accessed, downloaded or copied this information.[^41] The first defendant’s attempt to raise these arguments during the committal proceedings faced two obstacles.
 
 32     Firstly, the first defendant is deemed to have admitted to all the facts and matters alleged in the ASOC, including Schedule A. Where judgment is granted under O 19 r 7 of the ROC, the facts in the statement of claim are “taken to be admitted by the defendant; and … no evidence can be admitted as to those facts” (_per_ Bowen LJ in _Young v Thomas_ \[1892\] 2 Ch 134 at 137). This conclusion can also be reached by an alternative route. Under O 18 r 13(1) of the ROC, any allegation of fact made by a party in his pleading is taken as admitted unless it is specifically traversed by the opposite party. Lim Teong Qwee JC observed in _Zulkifli Baharudin v Koh Lam Son_ that a defendant who has not served a defence “cannot be in a better position than if he had served a defence and had not specifically traversed all allegations of fact” (at \[17\]). Therefore, the effect of judgment against the first defendant is that he is to be taken to have admitted to the facts alleged in the statement of claim. Accordingly, the first defendant could not now challenge the factual basis of the Orders as pleaded in the ASOC.
 
 33     Secondly, if the first defendant intended to oppose the substance of the Orders, the appropriate legal process would have been for him to apply for them to be discharged, set aside or stayed (_OCM Opportunities Fund II, LP and others v Burhan Uray (alias Wong Ming Kiong) and others_ (“_OCM Opportunities_”) at \[28\]). In the face of a court order requiring compliance, the party in breach cannot be heard to question the correctness of the order. If such a party is allowed to do so, court orders will necessarily lose the authority that they are otherwise intended to wield in the administration of justice. Such a situation will be a recipe for anarchy and can have no place in our legal system.
 
-34     Having withdrawn his Defence and not having challenged the Orders, it was not open to the first defendant to argue that the information was not confidential or that his use and disclosure were authorised. The relevant issue in this case is whether the first defendant has satisfied his obligations pursuant to the Orders. On the instant facts, the scope of the Orders is clear and uncontested.[\[note: 42\]](#Ftn_42) The first defendant knew that he was given seven days from the date of the Judgment to do the following:
+34     Having withdrawn his Defence and not having challenged the Orders, it was not open to the first defendant to argue that the information was not confidential or that his use and disclosure were authorised. The relevant issue in this case is whether the first defendant has satisfied his obligations pursuant to the Orders. On the instant facts, the scope of the Orders is clear and uncontested.[^42] The first defendant knew that he was given seven days from the date of the Judgment to do the following:
 
 (a)     deliver up _all_ of the plaintiff’s confidential information and copyright works in his possession, power, custody or control; and
 
@@ -138,7 +139,7 @@ Having set out the legal position, I shall now consider whether the first defend
 
 35     It was apparent to me that the first defendant had failed to satisfy the requirements of the delivery up order. The correspondence between the plaintiff and the first defendant between July and August 2018 reveals the consistent deficiencies in his compliance which were not remedied.
 
-36     Issues emerged from the outset after the first defendant handed over two CDs on 12 July 2018. He caveated this delivery, saying the CDs did not contain any email correspondence including emails between the first defendant and the third defendant.[\[note: 43\]](#Ftn_43) Accordingly, the plaintiff’s solicitors wrote to the first defendant on the same date to reiterate the need for full compliance with the Judgment.[\[note: 44\]](#Ftn_44) The first defendant handed over a third CD on 13 July 2018, purporting to address these deficiencies. [\[note: 45\]](#Ftn_45) However, in reviewing the CDs, the plaintiff found that the enclosed emails were in a portable document format, more commonly known as “PDF”, and that the corresponding email attachments were therefore missing. On 16 July 2018, the plaintiff wrote to the first defendant to inform him of the same.[\[note: 46\]](#Ftn_46) In its letter, the plaintiff also highlighted that there were emails, attachments and other relevant documents which were not included in the CDs. In particular, it observed that there were “no files pertaining to paragraphs 2(e), 5(a)-(c) and 8 of Schedule A of the ASOC”. The relevant paragraphs referred to:
+36     Issues emerged from the outset after the first defendant handed over two CDs on 12 July 2018. He caveated this delivery, saying the CDs did not contain any email correspondence including emails between the first defendant and the third defendant.[^43] Accordingly, the plaintiff’s solicitors wrote to the first defendant on the same date to reiterate the need for full compliance with the Judgment.[^44] The first defendant handed over a third CD on 13 July 2018, purporting to address these deficiencies. [^45] However, in reviewing the CDs, the plaintiff found that the enclosed emails were in a portable document format, more commonly known as “PDF”, and that the corresponding email attachments were therefore missing. On 16 July 2018, the plaintiff wrote to the first defendant to inform him of the same.[^46] In its letter, the plaintiff also highlighted that there were emails, attachments and other relevant documents which were not included in the CDs. In particular, it observed that there were “no files pertaining to paragraphs 2(e), 5(a)-(c) and 8 of Schedule A of the ASOC”. The relevant paragraphs referred to:
 
 (a)     the plaintiff’s colour and quality control methodology document for the plaintiff’s products;
 
@@ -150,29 +151,29 @@ Having set out the legal position, I shall now consider whether the first defend
 
 (e)     documents received, sent, and/or created by the plaintiff’s employees in connection with the sale and production of the plaintiff’s products in Singapore and in Myanmar.
 
-37     There was no attempt by the first defendant to substantively remedy this incomplete compliance. In an email to the plaintiff’s solicitors dated 23 July 2018, the first defendant claimed that the inaccessible email attachments could be opened in a Google browser if the icons were clicked on.[\[note: 47\]](#Ftn_47) The plaintiff reverted with a letter dated 3 August 2018 communicating that the emails were also password-protected and could not be accessed without an email identification and password.[\[note: 48\]](#Ftn_48) It also reiterated that documents stated in Schedule A of the ASOC were missing from the CDs. The plaintiff was aware that these copies existed because they had been found, in the course of its forensic examination, in the Dropbox folder on the first defendant’s computer. The significance of this will be discussed at \[43\] and \[44\]. In an annex to its letter, the plaintiff included a list of documents based on Schedule A of the ASOC which had not been provided by the first defendant. Besides the items listed at \[36(a)\] – \[36(e)\], other missing items included formulas and encoded formulas, technical data sheets, supplier quotations, price lists for the plaintiff’s products, Myanmar production monthly reports and stock transfer records and the plaintiff’s employee information. The plaintiff’s annex is set out as Annex 3 to this judgment.
+37     There was no attempt by the first defendant to substantively remedy this incomplete compliance. In an email to the plaintiff’s solicitors dated 23 July 2018, the first defendant claimed that the inaccessible email attachments could be opened in a Google browser if the icons were clicked on.[^47] The plaintiff reverted with a letter dated 3 August 2018 communicating that the emails were also password-protected and could not be accessed without an email identification and password.[^48] It also reiterated that documents stated in Schedule A of the ASOC were missing from the CDs. The plaintiff was aware that these copies existed because they had been found, in the course of its forensic examination, in the Dropbox folder on the first defendant’s computer. The significance of this will be discussed at \[43\] and \[44\]. In an annex to its letter, the plaintiff included a list of documents based on Schedule A of the ASOC which had not been provided by the first defendant. Besides the items listed at \[36(a)\] – \[36(e)\], other missing items included formulas and encoded formulas, technical data sheets, supplier quotations, price lists for the plaintiff’s products, Myanmar production monthly reports and stock transfer records and the plaintiff’s employee information. The plaintiff’s annex is set out as Annex 3 to this judgment.
 
-38     At the plaintiff’s suggestion,[\[note: 49\]](#Ftn_49) the first defendant attended at the plaintiff’s solicitors’ office on 14, 15 and 16 August 2018.[\[note: 50\]](#Ftn_50) During these meetings, it was conceded by the first defendant that certain email attachments were inaccessible purportedly because the underlying original emails had been deleted.[\[note: 51\]](#Ftn_51) The first defendant handed over a fourth CD but this was not found to contain the missing correspondence and documents.[\[note: 52\]](#Ftn_52) Nor did it assist the plaintiff in accessing the relevant attachments. Instead of substantively addressing the assertions of non-compliance in the plaintiff’s letters, the first defendant sent an email on 16 August 2018 claiming, “I don’t know is it right for me to reply you since my Official Assignee didn’t grant me to defend”. He requested that he check this point at the next PTC on 6 September 2018.[\[note: 53\]](#Ftn_53) No such checks were made. In addition, the letter dated 31 August 2018 from the plaintiff’s solicitors recorded the first defendant’s claim of confidentiality as another reason for his failure to disclose and deliver up documentation after 30 September 2016.[\[note: 54\]](#Ftn_54)
+38     At the plaintiff’s suggestion,[^49] the first defendant attended at the plaintiff’s solicitors’ office on 14, 15 and 16 August 2018.[^50] During these meetings, it was conceded by the first defendant that certain email attachments were inaccessible purportedly because the underlying original emails had been deleted.[^51] The first defendant handed over a fourth CD but this was not found to contain the missing correspondence and documents.[^52] Nor did it assist the plaintiff in accessing the relevant attachments. Instead of substantively addressing the assertions of non-compliance in the plaintiff’s letters, the first defendant sent an email on 16 August 2018 claiming, “I don’t know is it right for me to reply you since my Official Assignee didn’t grant me to defend”. He requested that he check this point at the next PTC on 6 September 2018.[^53] No such checks were made. In addition, the letter dated 31 August 2018 from the plaintiff’s solicitors recorded the first defendant’s claim of confidentiality as another reason for his failure to disclose and deliver up documentation after 30 September 2016.[^54]
 
-39     Further, the first defendant failed to produce any cogent evidence or an explanation as to why these items were missing. The parties’ correspondence and details of the missing items were included in the plaintiff’s supporting affidavit in its application for leave to commence committal proceedings. In response, the first defendant’s 10th affidavit maintains that he handed over all relevant information by August 2018.[\[note: 55\]](#Ftn_55)
+39     Further, the first defendant failed to produce any cogent evidence or an explanation as to why these items were missing. The parties’ correspondence and details of the missing items were included in the plaintiff’s supporting affidavit in its application for leave to commence committal proceedings. In response, the first defendant’s 10th affidavit maintains that he handed over all relevant information by August 2018.[^55]
 
 40     I was satisfied beyond a reasonable doubt that the first defendant had deliberately retained documents containing the plaintiff’s confidential information in his possession, power, custody and/or control which he failed to deliver up. His unsubstantiated claims that he fully complied with the delivery up order did not square with the objective evidence. I therefore found that the first defendant did not comply with the delivery up order.
 
 ### The first defendant failed to comply with the disclosure order
 
-41     On 13 July 2018, the first defendant wrote to the plaintiff’s solicitors saying that he had not communicated and/or disseminated any confidential and copyrighted works to third parties.[\[note: 56\]](#Ftn_56) Consequently, there was nothing he was required to disclose. This is obviously untrue. Having conducted a forensic examination of the first defendant’s computer, the plaintiff possessed evidence that there were communications between the defendants that were subject to disclosure (see \[12\] above).[\[note: 57\]](#Ftn_57)
+41     On 13 July 2018, the first defendant wrote to the plaintiff’s solicitors saying that he had not communicated and/or disseminated any confidential and copyrighted works to third parties.[^56] Consequently, there was nothing he was required to disclose. This is obviously untrue. Having conducted a forensic examination of the first defendant’s computer, the plaintiff possessed evidence that there were communications between the defendants that were subject to disclosure (see \[12\] above).[^57]
 
-42     The first defendant’s explanation for this is that he had deleted these materials and communications as they were no longer useful to him.[\[note: 58\]](#Ftn_58) These deletions occurred before the first defendant left the plaintiff’s employ. In his Defence, the first defendant explained that in or around June 2016, he had attempted to transfer work documents to his Dropbox account for easy access and as backup copies. However, these attempts were unsuccessful as the storage size in the Dropbox account was limited and he deleted any partially uploaded files from the account.[\[note: 59\]](#Ftn_59) It should be noted, however, unlike the allegation in the Defence, the first defendant did not in the first defendant’s 10th affidavit claim that items were deleted from his Dropbox account. The plaintiff accepts that the first defendant did delete materials before he resigned.[\[note: 60\]](#Ftn_60) However, what exactly the first defendant deleted is the subject of debate.
+42     The first defendant’s explanation for this is that he had deleted these materials and communications as they were no longer useful to him.[^58] These deletions occurred before the first defendant left the plaintiff’s employ. In his Defence, the first defendant explained that in or around June 2016, he had attempted to transfer work documents to his Dropbox account for easy access and as backup copies. However, these attempts were unsuccessful as the storage size in the Dropbox account was limited and he deleted any partially uploaded files from the account.[^59] It should be noted, however, unlike the allegation in the Defence, the first defendant did not in the first defendant’s 10th affidavit claim that items were deleted from his Dropbox account. The plaintiff accepts that the first defendant did delete materials before he resigned.[^60] However, what exactly the first defendant deleted is the subject of debate.
 
 43     The plaintiff’s position is that the first defendant did not delete the items in his personal Dropbox account and that these materials therefore remain subject to the Orders. Determining the plausibility of the first defendant’s explanations necessitates an examination of how Dropbox operates. Dropbox is a file hosting service which offers cloud storage. Users create a Dropbox account by signing up online. Logging into the Dropbox website each time to upload and delete content from an account is cumbersome and, as a solution, users can download the Dropbox application to various devices (_ie_, computers, tablets and mobile phones). This allows them to conveniently access their account across multiple devices (Joe Kissell, _Take Control of Dropbox_, TidBITS Publishing Inc, 2nd Ed, 2016 (“_Take Control of Dropbox_”) at p 12). When the Dropbox application is downloaded onto a computer, it creates a Dropbox folder which is usually stored in the computer’s C-drive (_Take Control of Dropbox_ at pp 14 and 16). As a default, this folder is automatically synced with the user’s Dropbox account (_Take Control of Dropbox_ at p 15). Therefore, provided that there is internet access, a file which is deleted from the user’s Dropbox account will be automatically removed from the folder. Conversely, a user can upload materials to his account through the Dropbox folder. By placing documents into the folder, these files are immediately uploaded to the online account.
 
 44     When he uninstalled the Dropbox application in September 2016 (see \[10\] above), the Dropbox folder that had been created upon installation remained on the first defendant’s computer. This is because Dropbox folders are not automatically removed when the application is deleted. Subsequently, the forensic examination revealed that this folder contained 3,052 files, namely, the plaintiff’s confidential information. As discussed at \[43\], there is an automatic sync between a user’s Dropbox account and the local Dropbox folder found on a computer. Applying this premise, the documents that were in the Dropbox folder on the first defendant’s computer were a reflection of the documents that were in the first defendant’s Dropbox account when he resigned. If the first defendant had really deleted all of the non-disclosed items from his Dropbox account during his employment, these materials would not have been recovered from the folder. There was no evidence to suggest that the automatic syncing between the first Defendant’s Dropbox account and Dropbox folder had been manually overridden. In light of this, I determined that there were confidential documents which had not been deleted by the first defendant prior to his resignation.
 
-45     The first defendant has claimed that he has no reason to and would gain no advantage in withholding any information from the plaintiff.[\[note: 61\]](#Ftn_61) I do not accept this submission. It is clearly in the first defendant’s interest to withhold materials subject to delivery up and disclosure. By refusing to fully comply with the Orders, the first defendant prevents the plaintiff from determining the true extent of its claims as well as the extent of its losses against the defendants.
+45     The first defendant has claimed that he has no reason to and would gain no advantage in withholding any information from the plaintiff.[^61] I do not accept this submission. It is clearly in the first defendant’s interest to withhold materials subject to delivery up and disclosure. By refusing to fully comply with the Orders, the first defendant prevents the plaintiff from determining the true extent of its claims as well as the extent of its losses against the defendants.
 
-46     It is also important not to overlook the fact that the first defendant _admitted_ to the misuse of the plaintiff’s confidential information. In his Defence, it was conceded that he retained possession of the plaintiff’s information to assist the second defendant in the production of the plaintiff’s products.[\[note: 62\]](#Ftn_62) As discussed at \[32\], the first defendant is also taken to have admitted to the facts in the ASOC, including the claim that confidential material was communicated to the second and third defendants.[\[note: 63\]](#Ftn_63)
+46     It is also important not to overlook the fact that the first defendant _admitted_ to the misuse of the plaintiff’s confidential information. In his Defence, it was conceded that he retained possession of the plaintiff’s information to assist the second defendant in the production of the plaintiff’s products.[^62] As discussed at \[32\], the first defendant is also taken to have admitted to the facts in the ASOC, including the claim that confidential material was communicated to the second and third defendants.[^63]
 
-47     Further, in the first defendant’s 10th affidavit, he asserted that any information which had been passed to the second defendant was done with the knowledge and consent of the plaintiff.[\[note: 64\]](#Ftn_64) He therefore did not contest that there _was_ disclosure of confidential information. The plaintiff, in its reply affidavit dated 21 January 2019, produced further evidence in support of this point. In a letter from his solicitors on 10 December 2018, the first defendant claimed that he had “stopped using any confidential information of the Plaintiff on or about November 2016”.[\[note: 65\]](#Ftn_65) The first defendant therefore confirmed that there had been disclosure of the plaintiff’s information prior to November 2016. This directly contradicts his position adopted on 13 July 2018. More importantly, the first defendant has not disclosed what information was misused in the months prior to November 2016.
+47     Further, in the first defendant’s 10th affidavit, he asserted that any information which had been passed to the second defendant was done with the knowledge and consent of the plaintiff.[^64] He therefore did not contest that there _was_ disclosure of confidential information. The plaintiff, in its reply affidavit dated 21 January 2019, produced further evidence in support of this point. In a letter from his solicitors on 10 December 2018, the first defendant claimed that he had “stopped using any confidential information of the Plaintiff on or about November 2016”.[^65] The first defendant therefore confirmed that there had been disclosure of the plaintiff’s information prior to November 2016. This directly contradicts his position adopted on 13 July 2018. More importantly, the first defendant has not disclosed what information was misused in the months prior to November 2016.
 
 48     Having assessed the weight of the evidence, I therefore found that the first defendant had failed to satisfy the requirements of the disclosure order.
 
@@ -432,135 +433,135 @@ a.     There were more documents found in the Unauthorised Dropbox Account 
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)Tan Leng Leng, 1st Affidavit para 7.
+[^1]: Tan Leng Leng, 1st Affidavit para 7.
 
-[\[note: 2\]](#Ftn_2_1)Tan Leng Leng, 1st Affidavit para 8.
+[^2]: Tan Leng Leng, 1st Affidavit para 8.
 
-[\[note: 3\]](#Ftn_3_1)Statement of Claim (Amendment No 1) (“ASOC”) para 9.
+[^3]: Statement of Claim (Amendment No 1) (“ASOC”) para 9.
 
-[\[note: 4\]](#Ftn_4_1)Tan Leng Leng, 1st Affidavit para 11.
+[^4]: Tan Leng Leng, 1st Affidavit para 11.
 
-[\[note: 5\]](#Ftn_5_1)Tan Leng Leng, 1st Affidavit paras 9 and 10.
+[^5]: Tan Leng Leng, 1st Affidavit paras 9 and 10.
 
-[\[note: 6\]](#Ftn_6_1)ASOC para 27.
+[^6]: ASOC para 27.
 
-[\[note: 7\]](#Ftn_7_1)Tan Ongg Seng, 10th Affidavit para 11; ASOC, Schedule A.
+[^7]: Tan Ongg Seng, 10th Affidavit para 11; ASOC, Schedule A.
 
-[\[note: 8\]](#Ftn_8_1)ASOC para 34.
+[^8]: ASOC para 34.
 
-[\[note: 9\]](#Ftn_9_1)ASOC paras 18, 22.
+[^9]: ASOC paras 18, 22.
 
-[\[note: 10\]](#Ftn_10_1)Tan Leng Leng, 1st Affidavit para 21.
+[^10]: Tan Leng Leng, 1st Affidavit para 21.
 
-[\[note: 11\]](#Ftn_11_1)James Chang, Affidavit para 4.
+[^11]: James Chang, Affidavit para 4.
 
-[\[note: 12\]](#Ftn_12_1)James Chang, Affidavit, CJT-2.
+[^12]: James Chang, Affidavit, CJT-2.
 
-[\[note: 13\]](#Ftn_13_1)James Chang, Affidavit, CJT-2, p 14; Tan Leng Leng, 1st Affidavit para 23(i).
+[^13]: James Chang, Affidavit, CJT-2, p 14; Tan Leng Leng, 1st Affidavit para 23(i).
 
-[\[note: 14\]](#Ftn_14_1)James Chang, Affidavit, CJT-2, pp 15-16.
+[^14]: James Chang, Affidavit, CJT-2, pp 15-16.
 
-[\[note: 15\]](#Ftn_15_1)James Chang, Affidavit, CJT-2, p 18.
+[^15]: James Chang, Affidavit, CJT-2, p 18.
 
-[\[note: 16\]](#Ftn_16_1)ASOC paras 38-41; Tan Leng Leng, 1st Affidavit para 23.
+[^16]: ASOC paras 38-41; Tan Leng Leng, 1st Affidavit para 23.
 
-[\[note: 17\]](#Ftn_17_1)ASOC, Prayers 2 to 4.
+[^17]: ASOC, Prayers 2 to 4.
 
-[\[note: 18\]](#Ftn_18_1)Defence paras 17 and 23.
+[^18]: Defence paras 17 and 23.
 
-[\[note: 19\]](#Ftn_19_1)Defence para 7.
+[^19]: Defence para 7.
 
-[\[note: 20\]](#Ftn_20_1)Defence paras 16 and 22.2.
+[^20]: Defence paras 16 and 22.2.
 
-[\[note: 21\]](#Ftn_21_1)Defence para 19.
+[^21]: Defence para 19.
 
-[\[note: 22\]](#Ftn_22_1)Defence paras 20.7(c) and 31.
+[^22]: Defence paras 20.7(c) and 31.
 
-[\[note: 23\]](#Ftn_23_1)Tang Ongg Seng, 10th Affidavit para 2.
+[^23]: Tang Ongg Seng, 10th Affidavit para 2.
 
-[\[note: 24\]](#Ftn_24_1)Plaintiff’s Statement Pursuant to ROC O 52 r 2(2).
+[^24]: Plaintiff’s Statement Pursuant to ROC O 52 r 2(2).
 
-[\[note: 25\]](#Ftn_25_1)Tan Leng Leng, 14th Affidavit, TLL-16.
+[^25]: Tan Leng Leng, 14th Affidavit, TLL-16.
 
-[\[note: 26\]](#Ftn_26_1)Tan Leng Leng, 14th Affidavit, TLL-19, p 68.
+[^26]: Tan Leng Leng, 14th Affidavit, TLL-19, p 68.
 
-[\[note: 27\]](#Ftn_27_1)Tan Leng Leng, 14th Affidavit, TLL-23.
+[^27]: Tan Leng Leng, 14th Affidavit, TLL-23.
 
-[\[note: 28\]](#Ftn_28_1)Tan Leng Leng, 14th Affidavit, TLL-24.
+[^28]: Tan Leng Leng, 14th Affidavit, TLL-24.
 
-[\[note: 29\]](#Ftn_29_1)Tan Leng Leng, 14th Affidavit, TLL-26.
+[^29]: Tan Leng Leng, 14th Affidavit, TLL-26.
 
-[\[note: 30\]](#Ftn_30_1)Tan Leng Leng, 14th Affidavit, TLL-27.
+[^30]: Tan Leng Leng, 14th Affidavit, TLL-27.
 
-[\[note: 31\]](#Ftn_31_1)ASOC, para 37.
+[^31]: ASOC, para 37.
 
-[\[note: 32\]](#Ftn_32_1)ASOC, paras 45-47.
+[^32]: ASOC, paras 45-47.
 
-[\[note: 33\]](#Ftn_33_1)Tan Leng Leng, 1st Affidavit para 17.
+[^33]: Tan Leng Leng, 1st Affidavit para 17.
 
-[\[note: 34\]](#Ftn_34_1)Tan Leng Leng, 13th Affidavit paras 25, 30.
+[^34]: Tan Leng Leng, 13th Affidavit paras 25, 30.
 
-[\[note: 35\]](#Ftn_35_1)Tan Leng Leng, 14th Affidavit para 5.
+[^35]: Tan Leng Leng, 14th Affidavit para 5.
 
-[\[note: 36\]](#Ftn_36_1)Plaintiff’s Skeletal Submissions para 25.
+[^36]: Plaintiff’s Skeletal Submissions para 25.
 
-[\[note: 37\]](#Ftn_37_1)Tan Ongg Seng, 10th Affidavit paras 36–37.
+[^37]: Tan Ongg Seng, 10th Affidavit paras 36–37.
 
-[\[note: 38\]](#Ftn_38_1)Tan Ongg Seng, 10th Affidavit paras 32 and 45.
+[^38]: Tan Ongg Seng, 10th Affidavit paras 32 and 45.
 
-[\[note: 39\]](#Ftn_39_1)Tan Ongg Seng, 10th Affidavit para 32; Tan Leng Leng, 13th Affidavit, TLL-8.
+[^39]: Tan Ongg Seng, 10th Affidavit para 32; Tan Leng Leng, 13th Affidavit, TLL-8.
 
-[\[note: 40\]](#Ftn_40_1)Tan Ongg Seng, 10th Affidavit paras 36–37.
+[^40]: Tan Ongg Seng, 10th Affidavit paras 36–37.
 
-[\[note: 41\]](#Ftn_41_1)Tan Ongg Seng, 10th Affidavit para 34.
+[^41]: Tan Ongg Seng, 10th Affidavit para 34.
 
-[\[note: 42\]](#Ftn_42_1)Tan Ongg Seng, 10th Affidavit para 31.
+[^42]: Tan Ongg Seng, 10th Affidavit para 31.
 
-[\[note: 43\]](#Ftn_43_1)Tan Leng Leng, 13th Affidavit, para 20.
+[^43]: Tan Leng Leng, 13th Affidavit, para 20.
 
-[\[note: 44\]](#Ftn_44_1)Tan Leng Leng, 13th Affidavit, TLL-2.
+[^44]: Tan Leng Leng, 13th Affidavit, TLL-2.
 
-[\[note: 45\]](#Ftn_45_1)Tan Leng Leng, 13th Affidavit paras 20, 22.
+[^45]: Tan Leng Leng, 13th Affidavit paras 20, 22.
 
-[\[note: 46\]](#Ftn_46_1)Tan Leng Leng, 13th Affidavit, TLL-5 pp 56–58.
+[^46]: Tan Leng Leng, 13th Affidavit, TLL-5 pp 56–58.
 
-[\[note: 47\]](#Ftn_47_1)Tan Leng Leng, 13th Affidavit, TLL-6 p 60.
+[^47]: Tan Leng Leng, 13th Affidavit, TLL-6 p 60.
 
-[\[note: 48\]](#Ftn_48_1)Tan Leng Leng, 13th Affidavit, TLL-7 p 63.
+[^48]: Tan Leng Leng, 13th Affidavit, TLL-7 p 63.
 
-[\[note: 49\]](#Ftn_49_1)Tan Leng Leng, 13th Affidavit, TLL-9, p 70.
+[^49]: Tan Leng Leng, 13th Affidavit, TLL-9, p 70.
 
-[\[note: 50\]](#Ftn_50_1)Tan Leng Leng, 13th Affidavit para 35.
+[^50]: Tan Leng Leng, 13th Affidavit para 35.
 
-[\[note: 51\]](#Ftn_51_1)Tan Leng Leng, 13th Affidavit, TLL-11, pp 86–87, para 2.
+[^51]: Tan Leng Leng, 13th Affidavit, TLL-11, pp 86–87, para 2.
 
-[\[note: 52\]](#Ftn_52_1)Tan Leng Leng, 13th Affidavit para 35.
+[^52]: Tan Leng Leng, 13th Affidavit para 35.
 
-[\[note: 53\]](#Ftn_53_1)Tan Leng Leng, 13th Affidavit, TLL-10, p 84.
+[^53]: Tan Leng Leng, 13th Affidavit, TLL-10, p 84.
 
-[\[note: 54\]](#Ftn_54_1)Tan Leng Leng, 13th Affidavit, TLL-11, p 87
+[^54]: Tan Leng Leng, 13th Affidavit, TLL-11, p 87
 
-[\[note: 55\]](#Ftn_55_1)Tan Ongg Seng, 10th Affidavit para 30.
+[^55]: Tan Ongg Seng, 10th Affidavit para 30.
 
-[\[note: 56\]](#Ftn_56_1)Tan Leng Leng, 13th Affidavit, TLL-4, p 51.
+[^56]: Tan Leng Leng, 13th Affidavit, TLL-4, p 51.
 
-[\[note: 57\]](#Ftn_57_1)James Chang, Affidavit, CJT-2, p 18.
+[^57]: James Chang, Affidavit, CJT-2, p 18.
 
-[\[note: 58\]](#Ftn_58_1)Tan Ongg Seng, 10th Affidavit paras 43–44.
+[^58]: Tan Ongg Seng, 10th Affidavit paras 43–44.
 
-[\[note: 59\]](#Ftn_59_1)Defence para 22.2(b).
+[^59]: Defence para 22.2(b).
 
-[\[note: 60\]](#Ftn_60_1)ASOC para 39.
+[^60]: ASOC para 39.
 
-[\[note: 61\]](#Ftn_61_1)Tan Ongg Seng, 10th Affidavit para 43.
+[^61]: Tan Ongg Seng, 10th Affidavit para 43.
 
-[\[note: 62\]](#Ftn_62_1)Defence paras 19, 20.7(c) and 31.
+[^62]: Defence paras 19, 20.7(c) and 31.
 
-[\[note: 63\]](#Ftn_63_1)ASOC paras 46–47.
+[^63]: ASOC paras 46–47.
 
-[\[note: 64\]](#Ftn_64_1)Tan Ongg Seng, 10th Affidavit para 34.
+[^64]: Tan Ongg Seng, 10th Affidavit para 34.
 
-[\[note: 65\]](#Ftn_65_1)Tan Leng Leng, 14th Affidavit, TLL-21.
+[^65]: Tan Leng Leng, 14th Affidavit, TLL-21.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23124-SSP.xml)

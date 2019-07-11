@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # BUE and another _v_ TZQ and another  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Originating Summons No 146 of 2018</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">28 December 2018</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Tan Puay Boon JC</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Abdul Wahab bin Saul Hamid and Jovita Ann Dhanaraj (IRB Law LLP) for the plaintiffs; Yeow Tin Tin Margaret and Jeanna Loe Yuqing (Hoh Law Corporation) for the first defendant; Seenivasan Lalita and Tan Li Yi, Caleb (Virginia Quek Lalita &amp; Partners) for the second defendant.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">BUE — BUF — TZQ — TZR</td></tr></tbody></table>
@@ -50,28 +51,28 @@ Given that the third party cannot participate in those \[s 112\] proceedings, wh
 
 10     Although the Application was brought to determine the parties’ respective interests in the Property, that matter was closely related to what had taken place in the marriage between the father and step-mother. Therefore, besides the history of the ownership of the Property, it was necessary to examine some details of that marriage, as well as events that took place before it. Indeed, a number of affidavits of the father and step-mother filed in the divorce proceedings were also referred to in the Application.
 
-11     The brothers were the only children from an earlier marriage entered into by the father. According to the step-mother, the father was married twice before their marriage but nothing turns on this.[\[note: 1\]](#Ftn_1) The Property was originally purchased by the father and the brothers’ biological mother (“the parents”) on 1 October 1992,[\[note: 2\]](#Ftn_2) with the 99-year lease starting on 1 July 1993. The Property was transferred by gift to the father on 25 September 1996 in his sole name.[\[note: 3\]](#Ftn_3) The parents’ marriage ended in 2003.[\[note: 4\]](#Ftn_4) The father and the brothers have been living in the Property since its purchase.
+11     The brothers were the only children from an earlier marriage entered into by the father. According to the step-mother, the father was married twice before their marriage but nothing turns on this.[^1] The Property was originally purchased by the father and the brothers’ biological mother (“the parents”) on 1 October 1992,[^2] with the 99-year lease starting on 1 July 1993. The Property was transferred by gift to the father on 25 September 1996 in his sole name.[^3] The parents’ marriage ended in 2003.[^4] The father and the brothers have been living in the Property since its purchase.
 
-12     The father, who was born in March 1955,[\[note: 5\]](#Ftn_5) turned 55 in 2010. He is 63 years old this year. The step-mother is 59 years old this year. They knew each other since 1993, when they were still married to their previous spouses. Around that time, in 1993 or 1994, the step-mother, who has three daughters from her first marriage which ended in 1995, moved into the Property with her youngest daughter.[\[note: 6\]](#Ftn_6) The brothers were then eight and six years old respectively.
+12     The father, who was born in March 1955,[^5] turned 55 in 2010. He is 63 years old this year. The step-mother is 59 years old this year. They knew each other since 1993, when they were still married to their previous spouses. Around that time, in 1993 or 1994, the step-mother, who has three daughters from her first marriage which ended in 1995, moved into the Property with her youngest daughter.[^6] The brothers were then eight and six years old respectively.
 
 13     The father married the step-mother on 10 July 2003. They have no children from this marriage.
 
-14     About a year after she married the father, the step-mother sold a property that she had purchased using her share of the sale proceeds of the matrimonial flat from her previous marriage, and received $83,795.13.[\[note: 7\]](#Ftn_7) Although she lived in the Property until she left in 2012, the step-mother never obtained any legal interest in the Property, and was only an occupier there.
+14     About a year after she married the father, the step-mother sold a property that she had purchased using her share of the sale proceeds of the matrimonial flat from her previous marriage, and received $83,795.13.[^7] Although she lived in the Property until she left in 2012, the step-mother never obtained any legal interest in the Property, and was only an occupier there.
 
-15     In May 2012, the step-mother left the Property for a trip to India with her daughters. When they came back to Singapore in August that year, they did not return to the Property. Instead, they went to live with the eldest daughter of the step-mother, and have not gone back to live in the Property ever since. The step-mother alleges that the locks to the Property were changed and she was not allowed to return to the Property when she came back from India.[\[note: 8\]](#Ftn_8) The father and the brothers deny this.[\[note: 9\]](#Ftn_9) They claim that she did not make any attempt to return; they gave her a set of the keys to the Property, but she refused to return to it. For the purpose of the Application, it is not necessary for me to decide whose version is correct. It is undisputed that the step-mother ceased to live in the Property since August 2012 at the latest.
+15     In May 2012, the step-mother left the Property for a trip to India with her daughters. When they came back to Singapore in August that year, they did not return to the Property. Instead, they went to live with the eldest daughter of the step-mother, and have not gone back to live in the Property ever since. The step-mother alleges that the locks to the Property were changed and she was not allowed to return to the Property when she came back from India.[^8] The father and the brothers deny this.[^9] They claim that she did not make any attempt to return; they gave her a set of the keys to the Property, but she refused to return to it. For the purpose of the Application, it is not necessary for me to decide whose version is correct. It is undisputed that the step-mother ceased to live in the Property since August 2012 at the latest.
 
-16     In September 2012, the step-mother applied for maintenance from the father. A consent maintenance order was made on 18 October 2012 for the father to pay her $850 per month from 1 November 2012 towards her maintenance.[\[note: 10\]](#Ftn_10)
+16     In September 2012, the step-mother applied for maintenance from the father. A consent maintenance order was made on 18 October 2012 for the father to pay her $850 per month from 1 November 2012 towards her maintenance.[^10]
 
-17     Before the consent maintenance order was made, on 2 October 2012, the father executed a transfer of the Property into the joint names of the brothers and the father (“the Transfer”).[\[note: 11\]](#Ftn_11) According to the transfer documents, the Transfer was registered to be “By Gift”,[\[note: 12\]](#Ftn_12) and the consideration was stated as “natural love and affection”.[\[note: 13\]](#Ftn_13) On 10 October 2012, the elder brother (the first plaintiff) had $11,000 deducted from his CPF account to discharge the outstanding mortgage on the Property (“the Mortgage”), while the younger brother (the second plaintiff) had $15,073.85 deducted from his CPF account, comprising $14,905.05 for the discharge of the Mortgage, $130.50 for a conveyancing fee, and $38.30 for a registration fee.[\[note: 14\]](#Ftn_14) In total, excluding payments of fees, $25,905.05 was deducted from the brothers’ CPF accounts to discharge the Mortgage.
+17     Before the consent maintenance order was made, on 2 October 2012, the father executed a transfer of the Property into the joint names of the brothers and the father (“the Transfer”).[^11] According to the transfer documents, the Transfer was registered to be “By Gift”,[^12] and the consideration was stated as “natural love and affection”.[^13] On 10 October 2012, the elder brother (the first plaintiff) had $11,000 deducted from his CPF account to discharge the outstanding mortgage on the Property (“the Mortgage”), while the younger brother (the second plaintiff) had $15,073.85 deducted from his CPF account, comprising $14,905.05 for the discharge of the Mortgage, $130.50 for a conveyancing fee, and $38.30 for a registration fee.[^14] In total, excluding payments of fees, $25,905.05 was deducted from the brothers’ CPF accounts to discharge the Mortgage.
 
-18     The father had paid a total of $186,271.24 for the acquisition of the Property.[\[note: 15\]](#Ftn_15) The respective financial contributions of the father and the brothers to the purchase price of the Property are set out in the table below:
+18     The father had paid a total of $186,271.24 for the acquisition of the Property.[^15] The respective financial contributions of the father and the brothers to the purchase price of the Property are set out in the table below:
 
 <table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="19.04%"> <col width="20.96%"> <col width="18%"> <col width="20%"> <col width="22%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p class="Table-Heading-Center">&nbsp;</p></td><td align="left" class="br" rowspan="1" valign="top"><p class="Table-Heading-Center">Father</p></td><td align="left" class="br" rowspan="1" valign="top"><p class="Table-Heading-Center">First Plaintiff</p></td><td align="left" class="br" rowspan="1" valign="top"><p class="Table-Heading-Center">Second Plaintiff</p></td><td align="left" class="b" rowspan="1" valign="top"><p class="Table-Heading-Center">Total</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>CPF funds ($)</b></p><p align="justify" class="Table-Para-1"><b>(Principal sum only)</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="right" class="Table-Para-1">186,271.24</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="right" class="Table-Para-1">11,000</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="right" class="Table-Para-1">14,905.05</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="right" class="Table-Para-1">212,176.29</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Percentage (%)</b></p></td><td align="left" class="r" rowspan="1" valign="top"><p align="right" class="Table-Para-1">87.80</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="right" class="Table-Para-1">5.18</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="right" class="Table-Para-1">7.02</p></td><td align="left" class="" rowspan="1" valign="top"><p align="right" class="Table-Para-1">100.00</p></td></tr></tbody></table>
 
   
   
 
-19     According to the father’s CPF statement for 2014, he had $221,725.66 in his Ordinary Account on 1 January 2014.[\[note: 16\]](#Ftn_16) Since the father became eligible to withdraw his CPF savings in 2010 when he turned 55, it appears that he would have been able to draw on his CPF savings to pay off the Mortgage in October 2012 had he chosen to do so. However, the father did not do so. Instead, he withdrew $226,645.66 from his Ordinary Account only on 1 August 2016.[\[note: 17\]](#Ftn_17) According to him, he spent most of the money on discretionary expenses including gifts of $20,000 each to the brothers.[\[note: 18\]](#Ftn_18)
+19     According to the father’s CPF statement for 2014, he had $221,725.66 in his Ordinary Account on 1 January 2014.[^16] Since the father became eligible to withdraw his CPF savings in 2010 when he turned 55, it appears that he would have been able to draw on his CPF savings to pay off the Mortgage in October 2012 had he chosen to do so. However, the father did not do so. Instead, he withdrew $226,645.66 from his Ordinary Account only on 1 August 2016.[^17] According to him, he spent most of the money on discretionary expenses including gifts of $20,000 each to the brothers.[^18]
 
 20     As noted above, on 10 November 2014, the father commenced divorce proceedings against the step-mother. This was on the ground that parties had lived apart for a continuous period of at least four years immediately preceding the filing of the writ. This premise was contested by the step-mother, who filed a counterclaim for divorce on the ground that the father had behaved in such a way that she could not reasonably be expected to live with him. Interim judgment was eventually granted on the step-mother’s counterclaim, which was uncontested. The matter then proceeded in the manner set out in \[3\] above.
 
@@ -81,29 +82,29 @@ Given that the third party cannot participate in those \[s 112\] proceedings, wh
 
 ### The brothers’ case
 
-22     The brothers claim that their names were added to the title to the Property because they had lived in the Property since it was purchased in 1992, and had contributed both financially and otherwise towards its upkeep. They deny that their names were added to the title to dilute the step-mother’s alleged interest in the Property. They contend that the father was diagnosed with cancer in 2012, and decided to add their names to the title to the Property in view of his ailing health. At that time, the step-mother had already moved out of the Property, and her interest in it was minimal.[\[note: 19\]](#Ftn_19)
+22     The brothers claim that their names were added to the title to the Property because they had lived in the Property since it was purchased in 1992, and had contributed both financially and otherwise towards its upkeep. They deny that their names were added to the title to dilute the step-mother’s alleged interest in the Property. They contend that the father was diagnosed with cancer in 2012, and decided to add their names to the title to the Property in view of his ailing health. At that time, the step-mother had already moved out of the Property, and her interest in it was minimal.[^19]
 
-23     As noted above, the brothers also claim that the step-mother was not denied access to the Property when she returned from India, and was given a new set of keys when she asked for it. However, she decided not to return to the Property. The father was also involved in a traffic accident in 2011 and suffered grave injuries, but the step-mother did not visit him. The brothers further deny that they ever told the step-mother that they were perplexed as to why the father wanted to add their names to the title to the Property (see \[30\] below).[\[note: 20\]](#Ftn_20)
+23     As noted above, the brothers also claim that the step-mother was not denied access to the Property when she returned from India, and was given a new set of keys when she asked for it. However, she decided not to return to the Property. The father was also involved in a traffic accident in 2011 and suffered grave injuries, but the step-mother did not visit him. The brothers further deny that they ever told the step-mother that they were perplexed as to why the father wanted to add their names to the title to the Property (see \[30\] below).[^20]
 
-24     The brothers submit that their names were added to the title to the Property because the father wanted to leave his only asset to them.[\[note: 21\]](#Ftn_21) They claim that since they were joint tenants (at law) of the Property with the father, they are each beneficially entitled to one-third of the Property.[\[note: 22\]](#Ftn_22) They also submit that there was a common intention between them and the father that their beneficial interests in the Property were to be joint and equal.[\[note: 23\]](#Ftn_23) In this regard, they emphasise that if the father had wanted to give them shares in the Property in proportion to their contributions to its purchase price, he could have made them tenants-in-common. Further, they had provided sufficient consideration for their names to be added to the title to the Property through their redemption of the Mortgage.[\[note: 24\]](#Ftn_24) The brothers also aver that the step-mother’s allegation that $20,000 of her money was spent on renovations of the Property should be disregarded, because there is no documentary evidence of this.
+24     The brothers submit that their names were added to the title to the Property because the father wanted to leave his only asset to them.[^21] They claim that since they were joint tenants (at law) of the Property with the father, they are each beneficially entitled to one-third of the Property.[^22] They also submit that there was a common intention between them and the father that their beneficial interests in the Property were to be joint and equal.[^23] In this regard, they emphasise that if the father had wanted to give them shares in the Property in proportion to their contributions to its purchase price, he could have made them tenants-in-common. Further, they had provided sufficient consideration for their names to be added to the title to the Property through their redemption of the Mortgage.[^24] The brothers also aver that the step-mother’s allegation that $20,000 of her money was spent on renovations of the Property should be disregarded, because there is no documentary evidence of this.
 
 ### The father’s case
 
-25     The father claims that he decided to leave the Property to the brothers because he discovered that he was suffering from stage 4 cancer, and the step-mother had already left the Property at the time of the Transfer. He contends that he had only the brothers on his mind when he made the Transfer.[\[note: 25\]](#Ftn_25) He was afraid that the step-mother would “kick \[them\] out of the \[Property\] when \[he\] was no longer around”.[\[note: 26\]](#Ftn_26) He had not intended to dilute the pool of matrimonial assets. If that had been his intention, he could have transferred the Property to the brothers in their sole names. Rather, it had only been his intention to leave the Property to the brothers “upon his passing and instil a sense of responsibility in them by giving them the opportunity to own a share in their home”.[\[note: 27\]](#Ftn_27) The brothers had made the financial contributions so that they could feel a sense of ownership, and in order “to protect their interest in \[the Property\]”.[\[note: 28\]](#Ftn_28) The father also claimed that since learning of his illness, he has been living each day as if it was his last.[\[note: 29\]](#Ftn_29) He added that the step-mother did not look after him after he was diagnosed with cancer in 2012.[\[note: 30\]](#Ftn_30)
+25     The father claims that he decided to leave the Property to the brothers because he discovered that he was suffering from stage 4 cancer, and the step-mother had already left the Property at the time of the Transfer. He contends that he had only the brothers on his mind when he made the Transfer.[^25] He was afraid that the step-mother would “kick \[them\] out of the \[Property\] when \[he\] was no longer around”.[^26] He had not intended to dilute the pool of matrimonial assets. If that had been his intention, he could have transferred the Property to the brothers in their sole names. Rather, it had only been his intention to leave the Property to the brothers “upon his passing and instil a sense of responsibility in them by giving them the opportunity to own a share in their home”.[^27] The brothers had made the financial contributions so that they could feel a sense of ownership, and in order “to protect their interest in \[the Property\]”.[^28] The father also claimed that since learning of his illness, he has been living each day as if it was his last.[^29] He added that the step-mother did not look after him after he was diagnosed with cancer in 2012.[^30]
 
-26     The father acknowledges that the concept of the resulting trust has been applied to family disputes over property between parents and their children, where financial contributions were taken into consideration in the determination of a party’s share of the disputed property. For example, the resulting trust analysis was applied in _Neo Boh Tan v Ng Kim Whatt_ .[\[note: 31\]](#Ftn_31) In the present case, the Family Court had disregarded the financial contributions of the brothers, which were not in evidence before it. However, now that the evidence has been placed before the court, after leave was obtained from the High Court, it should be considered in the determination of the brothers’ shares of the Property, which should be in proportion to their financial contributions to the Property.[\[note: 32\]](#Ftn_32) Additionally, where it could be demonstrated that the father had intended to benefit each brother with a one-third share of the Property, the father and the brothers should then each hold a one-third share of the Property.[\[note: 33\]](#Ftn_33)
+26     The father acknowledges that the concept of the resulting trust has been applied to family disputes over property between parents and their children, where financial contributions were taken into consideration in the determination of a party’s share of the disputed property. For example, the resulting trust analysis was applied in _Neo Boh Tan v Ng Kim Whatt_ .[^31] In the present case, the Family Court had disregarded the financial contributions of the brothers, which were not in evidence before it. However, now that the evidence has been placed before the court, after leave was obtained from the High Court, it should be considered in the determination of the brothers’ shares of the Property, which should be in proportion to their financial contributions to the Property.[^32] Additionally, where it could be demonstrated that the father had intended to benefit each brother with a one-third share of the Property, the father and the brothers should then each hold a one-third share of the Property.[^33]
 
-27     The father also submits that if the court does not find that there was a common intention for him and the brothers to each hold a one-third share in the Property, the gift to the brothers was the entire beneficial interest in the Property.[\[note: 34\]](#Ftn_34) He further submits that the presumption of advancement arose to give each brother a one-third share given their close-knit relationship with him, and in the light of the fact that the Property was their familial home since soon after the brothers were born.[\[note: 35\]](#Ftn_35)
+27     The father also submits that if the court does not find that there was a common intention for him and the brothers to each hold a one-third share in the Property, the gift to the brothers was the entire beneficial interest in the Property.[^34] He further submits that the presumption of advancement arose to give each brother a one-third share given their close-knit relationship with him, and in the light of the fact that the Property was their familial home since soon after the brothers were born.[^35]
 
-28     In addition, the father submits that the court should disregard the step-mother’s contention that she contributed $20,000 towards the Property for two reasons.[\[note: 36\]](#Ftn_36) First, there is a lack of evidence supporting this contention. Second, the payment of renovation costs made years after the purchase of the Property cannot be considered as contributions towards its acquisition (_Tan Chui Lian v Neo Liew Eng_ _(“Tan Chui Lian_”) at \[24\]). By contrast, the CPF monies applied by the brothers towards the redemption of the Mortgage can be considered direct financial contributions.
+28     In addition, the father submits that the court should disregard the step-mother’s contention that she contributed $20,000 towards the Property for two reasons.[^36] First, there is a lack of evidence supporting this contention. Second, the payment of renovation costs made years after the purchase of the Property cannot be considered as contributions towards its acquisition (_Tan Chui Lian v Neo Liew Eng_ _(“Tan Chui Lian_”) at \[24\]). By contrast, the CPF monies applied by the brothers towards the redemption of the Mortgage can be considered direct financial contributions.
 
 ### The step-mother’s case
 
-29     According to the step-mother, the proceeds of sale of her property of $83,795.13 were paid into a bank account which the father became a joint account holder of. The father withdrew money from the account, including an estimated $20,000 for renovations of the Property.[\[note: 37\]](#Ftn_37) This claim was accepted by the District Judge who heard the divorce proceedings (“the DJ”): see the GD at \[6\]. The step-mother also claims that the father had earlier taken $18,000 from her when he needed money after he suffered a traffic accident.[\[note: 38\]](#Ftn_38)
+29     According to the step-mother, the proceeds of sale of her property of $83,795.13 were paid into a bank account which the father became a joint account holder of. The father withdrew money from the account, including an estimated $20,000 for renovations of the Property.[^37] This claim was accepted by the District Judge who heard the divorce proceedings (“the DJ”): see the GD at \[6\]. The step-mother also claims that the father had earlier taken $18,000 from her when he needed money after he suffered a traffic accident.[^38]
 
-30     In addition, she avers that because she was locked out of the Property since 2012, she did not know of the father’s cancer which, in any event, the documents show was only diagnosed in 2014.[\[note: 39\]](#Ftn_39) She further claims that the second plaintiff, the younger brother, told her that he was perplexed by the father’s action to make the brothers joint tenants of the Property with him.[\[note: 40\]](#Ftn_40)
+30     In addition, she avers that because she was locked out of the Property since 2012, she did not know of the father’s cancer which, in any event, the documents show was only diagnosed in 2014.[^39] She further claims that the second plaintiff, the younger brother, told her that he was perplexed by the father’s action to make the brothers joint tenants of the Property with him.[^40]
 
-31     The step-mother submits that the brothers have no _locus standi_ to bring the Application because they do not have any interest in the Property. This was because their redemption of the Mortgage did not confer on them a beneficial interest, as the CPF monies utilised for the redemption should be treated only as loans (presumably to the father).[\[note: 41\]](#Ftn_41) She points out that the brothers did not pay market price for their shares, and the consideration for the transfer of the Property to them was stated as “natural love and affection”. Further, the father could have paid off the Mortgage himself without the money from the brothers, who only used their CPF monies when they were eligible to do so after the Transfer. The step-mother claims that this was done to deprive her of her rightful share of the matrimonial assets. The father had also given away his other assets, such as CPF savings, for this same purpose.
+31     The step-mother submits that the brothers have no _locus standi_ to bring the Application because they do not have any interest in the Property. This was because their redemption of the Mortgage did not confer on them a beneficial interest, as the CPF monies utilised for the redemption should be treated only as loans (presumably to the father).[^41] She points out that the brothers did not pay market price for their shares, and the consideration for the transfer of the Property to them was stated as “natural love and affection”. Further, the father could have paid off the Mortgage himself without the money from the brothers, who only used their CPF monies when they were eligible to do so after the Transfer. The step-mother claims that this was done to deprive her of her rightful share of the matrimonial assets. The father had also given away his other assets, such as CPF savings, for this same purpose.
 
 32     The step-mother relied on _Lau Siew Kim v Yeo Guan Chye Terence and another_ (“_Lau Siew Kim_”), where the Court of Appeal held that for the purpose of presuming a resulting trust, only the parties’ contributions at the time of the acquisition of the property were to be considered. For the repayment of a mortgage, a distinction was drawn between repayments pursuant to an agreement made at the time the mortgage was taken out, and other repayments of a mortgage (_Lau Siew Kim_ at \[113\] and \[116\]. Where there was no agreement, the mortgage payments made subsequently would not give rise to any beneficial interest by way of a resulting trust (_Lau Siew Kim_ at \[117\]).
 
@@ -165,9 +166,9 @@ In view of our discussion above, a property dispute involving parties who have c
 
 49     Although the step-mother does not have any legal interest in the Property, she claims that she has a beneficial interest.
 
-50     The step-mother claims that the proceeds of sale of the flat that she bought using her share of the sale proceeds of the matrimonial flat from her previous marriage were paid into a bank account which the father became a joint account holder of, and he had availed himself of the money. She further claims that $20,000 of that money was spent on renovations of the Property. The first claim was not supported by any documentary or other objective evidence. For the second claim, she relies on an invoice or receipt which actually shows that $200 was spent on servicing an air conditioning unit.[\[note: 42\]](#Ftn_42)
+50     The step-mother claims that the proceeds of sale of the flat that she bought using her share of the sale proceeds of the matrimonial flat from her previous marriage were paid into a bank account which the father became a joint account holder of, and he had availed himself of the money. She further claims that $20,000 of that money was spent on renovations of the Property. The first claim was not supported by any documentary or other objective evidence. For the second claim, she relies on an invoice or receipt which actually shows that $200 was spent on servicing an air conditioning unit.[^42]
 
-51     The DJ found that the step-mother contributed $20,000 to the renovations of the Property (see \[29\] above). This finding is in issue in the Appeal, and will be dealt with there. For present purposes, even if I accept that $20,000 of the step-mother’s monies were applied towards renovations of the Property, that expenditure would not have given rise to any beneficial interest in the Property in her favour under a resulting trust. First, there was a long time lag between the acquisition of the Property and the alleged expenditure and consequently, the alleged expenditure could not be regarded as a contribution towards the acquisition of the Property: see _Tan Chui Lian_ at \[24\]. Further, the expenditure was not made pursuant to any agreement between the father and her when the father acquired the Property, whether in 1992 when it was purchased by the father and his then wife, or in 1996, when it was transferred to his sole name. Indeed, there was no allegation of such an agreement despite the step-mother’s explanation that the father did not arrange for her name to be added to the title to the Property because it was necessary to pay a resale levy of $20,000 to the HDB if she was so added.[\[note: 43\]](#Ftn_43) The step-mother therefore could not have acquired any beneficial interest in the Property under a resulting trust.
+51     The DJ found that the step-mother contributed $20,000 to the renovations of the Property (see \[29\] above). This finding is in issue in the Appeal, and will be dealt with there. For present purposes, even if I accept that $20,000 of the step-mother’s monies were applied towards renovations of the Property, that expenditure would not have given rise to any beneficial interest in the Property in her favour under a resulting trust. First, there was a long time lag between the acquisition of the Property and the alleged expenditure and consequently, the alleged expenditure could not be regarded as a contribution towards the acquisition of the Property: see _Tan Chui Lian_ at \[24\]. Further, the expenditure was not made pursuant to any agreement between the father and her when the father acquired the Property, whether in 1992 when it was purchased by the father and his then wife, or in 1996, when it was transferred to his sole name. Indeed, there was no allegation of such an agreement despite the step-mother’s explanation that the father did not arrange for her name to be added to the title to the Property because it was necessary to pay a resale levy of $20,000 to the HDB if she was so added.[^43] The step-mother therefore could not have acquired any beneficial interest in the Property under a resulting trust.
 
 ### The second step: Whether a common intention constructive trust arose
 
@@ -197,7 +198,7 @@ Such a common intention may: (a) arise from an express discussion; or (b) take t
 
 (f)     The brothers used monies in their CPF accounts to discharge the Mortgage on 10 October 2012.
 
-(g)     The father, who became eligible to withdraw money from his CPF accounts upon turning 55 in March 2010, had more than enough money in his CPF accounts which he could have used to discharge the Mortgage. He withdrew almost all of the monies from his CPF accounts only on 1 August 2016, with most of the money withdrawn used for discretionary expenses, including gifts of $20,000 each to the brothers.[\[note: 44\]](#Ftn_44)
+(g)     The father, who became eligible to withdraw money from his CPF accounts upon turning 55 in March 2010, had more than enough money in his CPF accounts which he could have used to discharge the Mortgage. He withdrew almost all of the monies from his CPF accounts only on 1 August 2016, with most of the money withdrawn used for discretionary expenses, including gifts of $20,000 each to the brothers.[^44]
 
 57     On the evidence of the father that is summarised at \[25\] above, while the father claims that he had wanted the brothers to have a share of the Property, it is not clear that he wanted to give them a one-third share each in the Property during his lifetime, even though he arranged for them to become registered proprietors of the Property with him. There was no express evidence from him that this was indeed his intention. Ordinarily, the indication of joint tenancy on the transfer document might have been taken as evidence of such an intention. However, I am unable to accept on the present facts that the information in the transfer document was reflective of the true transaction intended between the father and brothers. The transfer documents had indicated that the Transfer had been executed in consideration of natural love and affection. But as the evidence adduced in the Application showed, the father had intended that the brothers make at least some financial contributions. Given that the information on the transfer documents had already been shown not to be a true reflection of what the father and brothers intended in at least one aspect, the other aspects of the transfer document that the father and brothers relied on to show their intentions at the time of transfer could not be taken as conclusive proof of their intentions at the relevant time in the absence of corroborative evidence.
 
@@ -267,93 +268,93 @@ The overall aim of the presumption of advancement is to discern the intention of
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)Step-mother’s affidavit of 31 July 2017, at para 11.
+[^1]: Step-mother’s affidavit of 31 July 2017, at para 11.
 
-[\[note: 2\]](#Ftn_2_1)Father’s affidavit of 1 June 2017 at para 17.
+[^2]: Father’s affidavit of 1 June 2017 at para 17.
 
-[\[note: 3\]](#Ftn_3_1)Brothers’ affidavit of 30 January 2018, at pp 13–16.
+[^3]: Brothers’ affidavit of 30 January 2018, at pp 13–16.
 
-[\[note: 4\]](#Ftn_4_1)Father’s affidavit of 18 July 2017 at para 20.
+[^4]: Father’s affidavit of 18 July 2017 at para 20.
 
-[\[note: 5\]](#Ftn_5_1)Father’s affidavit of 1 June 2017, at Tab K.
+[^5]: Father’s affidavit of 1 June 2017, at Tab K.
 
-[\[note: 6\]](#Ftn_6_1)Step-mother’s affidavit of 27 January 2016 at para 8.
+[^6]: Step-mother’s affidavit of 27 January 2016 at para 8.
 
-[\[note: 7\]](#Ftn_7_1)Step-mother’s first affidavit of assets and means (“AOM”) of 6 June 2016, at p 60.
+[^7]: Step-mother’s first affidavit of assets and means (“AOM”) of 6 June 2016, at p 60.
 
-[\[note: 8\]](#Ftn_8_1)Step-mother’s affidavit of 13 March 2018, at para 10 and p 57.
+[^8]: Step-mother’s affidavit of 13 March 2018, at para 10 and p 57.
 
-[\[note: 9\]](#Ftn_9_1)Brothers’ affidavit of 27 March 2018 at para 8; Father’s affidavit of 1 June 2017 at para 20.
+[^9]: Brothers’ affidavit of 27 March 2018 at para 8; Father’s affidavit of 1 June 2017 at para 20.
 
-[\[note: 10\]](#Ftn_10_1)Step-mother’s affidavit of 13 March 2018, at para 10 and p 58.
+[^10]: Step-mother’s affidavit of 13 March 2018, at para 10 and p 58.
 
-[\[note: 11\]](#Ftn_11_1)Brothers’ affidavit of 30 January 2018, at para 4 and p 9.
+[^11]: Brothers’ affidavit of 30 January 2018, at para 4 and p 9.
 
-[\[note: 12\]](#Ftn_12_1)Brothers’ affidavit of 30 January 2018, at p 16.
+[^12]: Brothers’ affidavit of 30 January 2018, at p 16.
 
-[\[note: 13\]](#Ftn_13_1)Brothers’ affidavit of 30 January 2018, at p 10.
+[^13]: Brothers’ affidavit of 30 January 2018, at p 10.
 
-[\[note: 14\]](#Ftn_14_1)Brothers’ affidavit of 30 January 2018, at para 11 and pp 45–48.
+[^14]: Brothers’ affidavit of 30 January 2018, at para 11 and pp 45–48.
 
-[\[note: 15\]](#Ftn_15_1)Brothers’ affidavit of 30 January 2018, at p 49.
+[^15]: Brothers’ affidavit of 30 January 2018, at p 49.
 
-[\[note: 16\]](#Ftn_16_1)Step-mother’s affidavit of 13 March 2018, at p 61.
+[^16]: Step-mother’s affidavit of 13 March 2018, at p 61.
 
-[\[note: 17\]](#Ftn_17_1)Father’s affidavit of 1 June 2017, at Tab A (CPF Statement – Transaction History).
+[^17]: Father’s affidavit of 1 June 2017, at Tab A (CPF Statement – Transaction History).
 
-[\[note: 18\]](#Ftn_18_1)Father’s affidavit of 18 July 2017 at para 26.
+[^18]: Father’s affidavit of 18 July 2017 at para 26.
 
-[\[note: 19\]](#Ftn_19_1)Brothers’ affidavit of 27 March 2018 at para 6.
+[^19]: Brothers’ affidavit of 27 March 2018 at para 6.
 
-[\[note: 20\]](#Ftn_20_1)Brothers’ affidavit of 27 March 2018 at paras 8–9 and 13.
+[^20]: Brothers’ affidavit of 27 March 2018 at paras 8–9 and 13.
 
-[\[note: 21\]](#Ftn_21_1)Brothers’ written submissions at para 17.
+[^21]: Brothers’ written submissions at para 17.
 
-[\[note: 22\]](#Ftn_22_1)Brothers’ written submissions at paras 26–27.
+[^22]: Brothers’ written submissions at paras 26–27.
 
-[\[note: 23\]](#Ftn_23_1)Brothers’ written submissions at paras 42–45.
+[^23]: Brothers’ written submissions at paras 42–45.
 
-[\[note: 24\]](#Ftn_24_1)Brothers’ written submissions at paras 47–55.
+[^24]: Brothers’ written submissions at paras 47–55.
 
-[\[note: 25\]](#Ftn_25_1)Father’s written submissions at para 25.
+[^25]: Father’s written submissions at para 25.
 
-[\[note: 26\]](#Ftn_26_1)Father’s affidavit of 1 June 2017 at para 16.
+[^26]: Father’s affidavit of 1 June 2017 at para 16.
 
-[\[note: 27\]](#Ftn_27_1)Father’s written submissions at para 26.
+[^27]: Father’s written submissions at para 26.
 
-[\[note: 28\]](#Ftn_28_1)Father’s affidavit of 1 June 2017 at para 16.
+[^28]: Father’s affidavit of 1 June 2017 at para 16.
 
-[\[note: 29\]](#Ftn_29_1)Father’s affidavit of 18 July 2017 at para 30.
+[^29]: Father’s affidavit of 18 July 2017 at para 30.
 
-[\[note: 30\]](#Ftn_30_1)Father’s affidavit of 18 July 2017 at para 9.
+[^30]: Father’s affidavit of 18 July 2017 at para 9.
 
-[\[note: 31\]](#Ftn_31_1)Father’s written submissions at para 13.
+[^31]: Father’s written submissions at para 13.
 
-[\[note: 32\]](#Ftn_32_1)Father’s written submissions at para 16.
+[^32]: Father’s written submissions at para 16.
 
-[\[note: 33\]](#Ftn_33_1)Father’s written submissions at paras 23–28.
+[^33]: Father’s written submissions at paras 23–28.
 
-[\[note: 34\]](#Ftn_34_1)Father’s written submissions at para 29.
+[^34]: Father’s written submissions at para 29.
 
-[\[note: 35\]](#Ftn_35_1)Father’s written submissions at para 31.
+[^35]: Father’s written submissions at para 31.
 
-[\[note: 36\]](#Ftn_36_1)Father’s written submissions at paras 34–41.
+[^36]: Father’s written submissions at paras 34–41.
 
-[\[note: 37\]](#Ftn_37_1)Step-mother’s first AOM of 6 June 2016, at p 7.
+[^37]: Step-mother’s first AOM of 6 June 2016, at p 7.
 
-[\[note: 38\]](#Ftn_38_1)Step-mother’s first AOM of 6 June 2016, at p 6.
+[^38]: Step-mother’s first AOM of 6 June 2016, at p 6.
 
-[\[note: 39\]](#Ftn_39_1)Step-mother’s affidavit of 31 July 2017, at para 18.
+[^39]: Step-mother’s affidavit of 31 July 2017, at para 18.
 
-[\[note: 40\]](#Ftn_40_1)Step-mother’s affidavit of 13 March 2018, at para 12.
+[^40]: Step-mother’s affidavit of 13 March 2018, at para 12.
 
-[\[note: 41\]](#Ftn_41_1)Step-mother’s affidavit of 13 March 2018, at para 12.
+[^41]: Step-mother’s affidavit of 13 March 2018, at para 12.
 
-[\[note: 42\]](#Ftn_42_1)Step-mother’s third AOM of 7 November 2016, at p 6.
+[^42]: Step-mother’s third AOM of 7 November 2016, at p 6.
 
-[\[note: 43\]](#Ftn_43_1)Step-mother’s third AOM of 7 November 2016, at para 11.
+[^43]: Step-mother’s third AOM of 7 November 2016, at para 11.
 
-[\[note: 44\]](#Ftn_44_1)Father’s affidavit of 18 July 2017, at para 26.
+[^44]: Father’s affidavit of 18 July 2017, at para 26.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F22678-SSP.xml)

@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # Yuen Ye Ming _v_ Public Prosecutor  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Magistrate's Appeal No 9241 of 2018</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">17 April 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">See Kee Oon J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">The appellant in person; Mark Tay and Charleston Teo (Attorney-General's Chambers) for the respondent.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Yuen Ye Ming — Public Prosecutor</td></tr></tbody></table>
@@ -66,27 +67,27 @@ Criminal Law – Statutory offences – Misuse of Drugs Act
 
 #### The individual sentences were manifestly excessive
 
-17     The appellant did not challenge the sentences imposed in respect of the 8th, 10th, 21st and 25th charges.[\[note: 1\]](#Ftn_1)
+17     The appellant did not challenge the sentences imposed in respect of the 8th, 10th, 21st and 25th charges.[^1]
 
-18     In respect of the 3rd charge, the appellant noted that he had been sentenced to the mandatory minimum of five years’ imprisonment and five strokes of the cane. However, he submitted that the sentence imposed was still contentious as it had been reduced from six and a half years’ imprisonment on account of the time he had spent in remand. The appellant then argued that the District Judge had not expressly placed any weight on his cooperation with the Central Narcotics Bureau (“CNB”). This was despite the fact that the appellant had allegedly offered his full cooperation to the authorities in relation to the first set of offences, which had purportedly led to the prosecution of another trafficker.[\[note: 2\]](#Ftn_2) While the appellant acknowledged that the sentence imposed, being the mandatory minimum, could not be further reduced by the court, he submitted that his cooperation with the authorities should warrant a discount from either a sentence which the District Judge ordered to run consecutively, or from the global sentence.[\[note: 3\]](#Ftn_3)
+18     In respect of the 3rd charge, the appellant noted that he had been sentenced to the mandatory minimum of five years’ imprisonment and five strokes of the cane. However, he submitted that the sentence imposed was still contentious as it had been reduced from six and a half years’ imprisonment on account of the time he had spent in remand. The appellant then argued that the District Judge had not expressly placed any weight on his cooperation with the Central Narcotics Bureau (“CNB”). This was despite the fact that the appellant had allegedly offered his full cooperation to the authorities in relation to the first set of offences, which had purportedly led to the prosecution of another trafficker.[^2] While the appellant acknowledged that the sentence imposed, being the mandatory minimum, could not be further reduced by the court, he submitted that his cooperation with the authorities should warrant a discount from either a sentence which the District Judge ordered to run consecutively, or from the global sentence.[^3]
 
 19     The appellant then submitted that the sentences imposed in respect of the 18th and 26th charges were manifestly excessive for four main reasons.
 
-20     First, the appellant argued that the District Judge did not expand upon what weight his lack of antecedents ought to be given. Second, the District Judge wrongly held that a six-year uplift would be appropriate because the second set of offences was committed while the appellant was on bail. According to the appellant, the fact that these additional offences were committed after he had been convicted of the first set of offences had already rendered him liable under the enhanced punishment provisions. This resulted in an increase in the mandatory minimum imprisonment term from five to ten years. The appellant argued that this was already a far larger increase than would otherwise have been ordered for reoffending while on bail, which would ordinarily result in “a fraction of such an increase”. He therefore suggested that ordering a sentence above the enhanced mandatory minimum would be tantamount to double-counting.[\[note: 4\]](#Ftn_4)
+20     First, the appellant argued that the District Judge did not expand upon what weight his lack of antecedents ought to be given. Second, the District Judge wrongly held that a six-year uplift would be appropriate because the second set of offences was committed while the appellant was on bail. According to the appellant, the fact that these additional offences were committed after he had been convicted of the first set of offences had already rendered him liable under the enhanced punishment provisions. This resulted in an increase in the mandatory minimum imprisonment term from five to ten years. The appellant argued that this was already a far larger increase than would otherwise have been ordered for reoffending while on bail, which would ordinarily result in “a fraction of such an increase”. He therefore suggested that ordering a sentence above the enhanced mandatory minimum would be tantamount to double-counting.[^4]
 
-21     Third, the appellant argued that the District Judged erred in placing little mitigating weight on his plea of guilt on the basis that the appellant was caught red-handed. The appellant contended that he had spared the court time and resources by pleading guilty “at the earliest opportunity”.[\[note: 5\]](#Ftn_5)
+21     Third, the appellant argued that the District Judged erred in placing little mitigating weight on his plea of guilt on the basis that the appellant was caught red-handed. The appellant contended that he had spared the court time and resources by pleading guilty “at the earliest opportunity”.[^5]
 
-22     Fourth, the appellant submitted that he did not have profit in mind when committing the second set of offences, and had instead committed them in a state of despair, denial and hopelessness.[\[note: 6\]](#Ftn_6)
+22     Fourth, the appellant submitted that he did not have profit in mind when committing the second set of offences, and had instead committed them in a state of despair, denial and hopelessness.[^6]
 
-23     The appellant therefore submitted that, if he was indeed liable for enhanced punishment, the appropriate sentence for the 18th and 26th charges would have been between ten and ten and a half years’ imprisonment per charge.[\[note: 7\]](#Ftn_7)
+23     The appellant therefore submitted that, if he was indeed liable for enhanced punishment, the appropriate sentence for the 18th and 26th charges would have been between ten and ten and a half years’ imprisonment per charge.[^7]
 
 #### The global sentence was manifestly excessive
 
-24     The appellant relied on _Alan Loo_ in suggesting that running two charges with mandatory minimum sentences consecutively double-counted the fact of his reoffending.[\[note: 8\]](#Ftn_8)
+24     The appellant relied on _Alan Loo_ in suggesting that running two charges with mandatory minimum sentences consecutively double-counted the fact of his reoffending.[^8]
 
-25     He further argued that the aggregate sentence imposed was disproportionate to the totality of his criminal behaviour. He relied on the case of _Lai Teck Guan_, in which Sundaresh Menon CJ had said at \[30\] (in the context of calibrating individual sentences) that an offender who committed the repeat offence almost immediately after having served his prison sentence for his first offence should not be treated in the same way as an offender who lapses back into crime only after a long period of staying drug-free.[\[note: 9\]](#Ftn_9) The appellant then compared the sentences imposed to those in _Alan Loo_ and in _Mohamed Shouffee bin Adam v Public Prosecutor_ (“_Shouffee_”) and submitted that the global sentence was manifestly excessive.[\[note: 10\]](#Ftn_10)
+25     He further argued that the aggregate sentence imposed was disproportionate to the totality of his criminal behaviour. He relied on the case of _Lai Teck Guan_, in which Sundaresh Menon CJ had said at \[30\] (in the context of calibrating individual sentences) that an offender who committed the repeat offence almost immediately after having served his prison sentence for his first offence should not be treated in the same way as an offender who lapses back into crime only after a long period of staying drug-free.[^9] The appellant then compared the sentences imposed to those in _Alan Loo_ and in _Mohamed Shouffee bin Adam v Public Prosecutor_ (“_Shouffee_”) and submitted that the global sentence was manifestly excessive.[^10]
 
-26     For the above reasons, the appellant sought a global sentence of eight and a half years’ imprisonment and 15 strokes of the cane.[\[note: 11\]](#Ftn_11) This was derived on the basis that all the enhanced punishment provisions were reduced to consumption, possession and trafficking _simpliciter_, respectively. The sentences proposed by the appellant were as follows:
+26     For the above reasons, the appellant sought a global sentence of eight and a half years’ imprisonment and 15 strokes of the cane.[^11] This was derived on the basis that all the enhanced punishment provisions were reduced to consumption, possession and trafficking _simpliciter_, respectively. The sentences proposed by the appellant were as follows:
 
 (a)     26th charge: seven years and five strokes (consecutive);
 
@@ -104,23 +105,23 @@ Criminal Law – Statutory offences – Misuse of Drugs Act
 
 ### The respondent’s case
 
-27     The respondent submitted that the predominant sentencing consideration was deterrence.[\[note: 12\]](#Ftn_12) The primary focus in the respondent’s submissions was on whether the individual and aggregate sentences were appropriately calibrated. It was also highlighted that the aggregate sentence was in line with the sentencing range proposed by the appellant’s then-counsel (Mr Edmond Pereira and Mr Amardeep Singh).[\[note: 13\]](#Ftn_13)
+27     The respondent submitted that the predominant sentencing consideration was deterrence.[^12] The primary focus in the respondent’s submissions was on whether the individual and aggregate sentences were appropriately calibrated. It was also highlighted that the aggregate sentence was in line with the sentencing range proposed by the appellant’s then-counsel (Mr Edmond Pereira and Mr Amardeep Singh).[^13]
 
 #### The individual sentences were not manifestly excessive
 
 28     With respect to the 3rd charge, the respondent submitted that the District Judge had correctly identified the indicative sentence to be six and a half years’ imprisonment. The appellant had not been coerced, threatened or exploited, but rather had trafficked drugs in order to support his lavish lifestyle and pay off gambling debts. Moreover, he had a wide variety of drugs which he possessed in significant amounts for the purposes of trafficking. The appellant had also pleaded guilty only on the first day of trial, which was over 17 months after he was first charged in court. The respondent noted that the District Judge had adjusted the sentence downwards to take into account the appellant’s remand period and had imposed the minimum sentence of five years’ imprisonment.
 
-29     The respondent further submitted that the sentences imposed for the two enhanced trafficking charges (the 18th and 26th charges) were not manifestly excessive.[\[note: 14\]](#Ftn_14) The respondent tendered a table which applied the framework in _Lai Teck Guan_ to cannabis. This table was materially similar to that relied upon by the District Judge, at \[26\] of his GD. Given that the amount of cannabis involved in the two offences was 60.61g and 69.74g, the respondent submitted that the starting point would be at least five and a half years. While the appellant had not served a prior imprisonment sentence, he had been in remand for about 12 months before being released on bail. The appellant had referred to this period as being “enough for \[him\] to learn \[his\] lesson”,[\[note: 15\]](#Ftn_15) but had nevertheless reoffended while on bail. As such, the respondent submitted that the District Judge rightly held that the indicative uplift should be six years’ imprisonment. Considering that there were three similar charges taken into consideration and that the appellant’s plea of guilt carried little mitigating value as he had been caught red-handed, the sentence of 12 years’ imprisonment per enhanced trafficking charge was not manifestly excessive.
+29     The respondent further submitted that the sentences imposed for the two enhanced trafficking charges (the 18th and 26th charges) were not manifestly excessive.[^14] The respondent tendered a table which applied the framework in _Lai Teck Guan_ to cannabis. This table was materially similar to that relied upon by the District Judge, at \[26\] of his GD. Given that the amount of cannabis involved in the two offences was 60.61g and 69.74g, the respondent submitted that the starting point would be at least five and a half years. While the appellant had not served a prior imprisonment sentence, he had been in remand for about 12 months before being released on bail. The appellant had referred to this period as being “enough for \[him\] to learn \[his\] lesson”,[^15] but had nevertheless reoffended while on bail. As such, the respondent submitted that the District Judge rightly held that the indicative uplift should be six years’ imprisonment. Considering that there were three similar charges taken into consideration and that the appellant’s plea of guilt carried little mitigating value as he had been caught red-handed, the sentence of 12 years’ imprisonment per enhanced trafficking charge was not manifestly excessive.
 
-30     The sentences for the 8th charge and the 10th charge were in line with the sentencing norms. Further, the appellant was an addict who consumed methamphetamine about four or six times a day, and up to one gram each day.[\[note: 16\]](#Ftn_16) He had another consumption charge arising from the first set of offences taken into consideration, had possessed a significant quantity of methamphetamine and had four other possession charges arising from the first set of offences taken into consideration.[\[note: 17\]](#Ftn_17)
+30     The sentences for the 8th charge and the 10th charge were in line with the sentencing norms. Further, the appellant was an addict who consumed methamphetamine about four or six times a day, and up to one gram each day.[^16] He had another consumption charge arising from the first set of offences taken into consideration, had possessed a significant quantity of methamphetamine and had four other possession charges arising from the first set of offences taken into consideration.[^17]
 
-31     The sentence of two years’ and six months’ imprisonment was appropriate for the 21st charge considering that three other drug possession charges arising from the second set of offences were taken into consideration.[\[note: 18\]](#Ftn_18)
+31     The sentence of two years’ and six months’ imprisonment was appropriate for the 21st charge considering that three other drug possession charges arising from the second set of offences were taken into consideration.[^18]
 
 32     The mandatory minimum sentence of three years’ imprisonment was imposed for the 25th charge.
 
 #### The global sentence was in line with the totality principle
 
-33     The offences of drug trafficking, possession and consumption implicate different legal interests. The seven proceeded charges pertained to offences committed on three separate days. Accordingly, at least three sentences should be ordered to run consecutively such that the sentencing consideration of deterrence that underlies the individual sentences is not compromised and the global sentence accords with the alternative scenario of the offender being separately sentenced for each offence.[\[note: 19\]](#Ftn_19) The District Judge had regard to the totality principle in calibrating the sentence downwards, and the global sentence therefore could not be said to be manifestly excessive.
+33     The offences of drug trafficking, possession and consumption implicate different legal interests. The seven proceeded charges pertained to offences committed on three separate days. Accordingly, at least three sentences should be ordered to run consecutively such that the sentencing consideration of deterrence that underlies the individual sentences is not compromised and the global sentence accords with the alternative scenario of the offender being separately sentenced for each offence.[^19] The District Judge had regard to the totality principle in calibrating the sentence downwards, and the global sentence therefore could not be said to be manifestly excessive.
 
 ## Issues to be determined
 
@@ -136,11 +137,11 @@ Criminal Law – Statutory offences – Misuse of Drugs Act
 
 35     The appellant submitted that the sentences imposed by the District Court were wrong in principle as he should not have been liable for enhanced punishment. At the outset, it should be noted that the appellant’s contention that the enhanced punishment provisions ought not to have applied to him was in direct contradiction to his chosen course of action in the proceedings below. There was no suggestion that he was unclear, confused or under any misapprehension for any reason as to the consequences of pleading guilty to the various charges and accepting the Statement of Facts without qualification. He did so upon the advice of counsel.
 
-36     The appellant accepted, at para 37 of his Skeletal Arguments, that “as it stands, under law, the only qualification for the statutory enhancement in punishment for the drug offences in question, is a previous conviction”. However, he went on to argue that this interpretation would lead to inconsistent results. According to the appellant, this is because an offender who pleads guilty at the earliest opportunity will be liable for enhanced punishment if he later reoffends, while an offender who does not plead guilty and reoffends will not be liable for enhanced punishment. He went on to flesh out his analysis with a few hypothetical examples in his Skeletal Arguments. To the appellant, the “irresistible inference” to the “criminal mind” from these examples is that “to avoid enhanced punishment, one should avoid conviction”.[\[note: 20\]](#Ftn_20)
+36     The appellant accepted, at para 37 of his Skeletal Arguments, that “as it stands, under law, the only qualification for the statutory enhancement in punishment for the drug offences in question, is a previous conviction”. However, he went on to argue that this interpretation would lead to inconsistent results. According to the appellant, this is because an offender who pleads guilty at the earliest opportunity will be liable for enhanced punishment if he later reoffends, while an offender who does not plead guilty and reoffends will not be liable for enhanced punishment. He went on to flesh out his analysis with a few hypothetical examples in his Skeletal Arguments. To the appellant, the “irresistible inference” to the “criminal mind” from these examples is that “to avoid enhanced punishment, one should avoid conviction”.[^20]
 
-37     The appellant further argued that the legislative purpose of the enhanced sentencing regime is to deter criminals from reoffending after resources have been expended on their rehabilitation. He asserted that an offender is only liable under s 33A(2) MDA as an “LT-2” drug offender if he has ‘failed to respond to previous treatment and rehabilitation”. According to the appellant, it is thus inconsistent that all that is required for a repeat consumption charge under s 33(4) MDA is a prior conviction.[\[note: 21\]](#Ftn_21)
+37     The appellant further argued that the legislative purpose of the enhanced sentencing regime is to deter criminals from reoffending after resources have been expended on their rehabilitation. He asserted that an offender is only liable under s 33A(2) MDA as an “LT-2” drug offender if he has ‘failed to respond to previous treatment and rehabilitation”. According to the appellant, it is thus inconsistent that all that is required for a repeat consumption charge under s 33(4) MDA is a prior conviction.[^21]
 
-38     Finally, the appellant argued that he was not a “repeat” offender under the “spirit of the law”. He further stated that “it could be argued that \[he had\] been arbitrarily charged under enhanced charges without the opportunity for any \[deterrent or rehabilitative\] message to be ‘driven home’.”[\[note: 22\]](#Ftn_22) The appellant therefore urged the court to exercise its revisionary powers to reduce the enhanced drug charges to charges under s 33(1) MDA by “post-dating the first plea of guilt on the 17th January 2018 to the date of the second plea of guilt on 18 July 2018 prior to sentencing”.[\[note: 23\]](#Ftn_23)
+38     Finally, the appellant argued that he was not a “repeat” offender under the “spirit of the law”. He further stated that “it could be argued that \[he had\] been arbitrarily charged under enhanced charges without the opportunity for any \[deterrent or rehabilitative\] message to be ‘driven home’.”[^22] The appellant therefore urged the court to exercise its revisionary powers to reduce the enhanced drug charges to charges under s 33(1) MDA by “post-dating the first plea of guilt on the 17th January 2018 to the date of the second plea of guilt on 18 July 2018 prior to sentencing”.[^23]
 
 39     The respondent did not make any specific submissions on the appellant’s liability under the enhanced punishment provisions.
 
@@ -188,7 +189,7 @@ that person so convicted shall be punished with —
 
 47     The literal meaning of the enhanced punishment provisions above is immediately clear, and free from any ambiguity. Sections 33(4) and 33(4A) both refer solely to _conviction_ and not sentence as the relevant criterion: “any person convicted… is again convicted”. The meaning apparent from the text of these provisions is that a person who has previously been convicted under s 8(b) or s 5(1) MDA will be liable under s 33(4) and s 33(4A) of the same Act respectively if he is again convicted of the same offence. The Second Schedule, which applies to repeat possession charges by virtue of s 33(1) MDA, refers to a second or subsequent _offence_. Here, the natural reading of the text would suggest that the relevant test for enhanced punishment is whether an offender has committed a prior offence under s 8(_a_) MDA. None of these three provisions contains any suggestion that the offender must have been sentenced for a previous offence.
 
-48     The appellant argued before me that the legislative purpose of the enhanced punishment provisions is to deter recalcitrant criminals from reoffending after public resources have been expended on their rehabilitation.[\[note: 24\]](#Ftn_24) I saw no basis for this suggestion. As above, primacy should be given to the text of the provision and its statutory context when determining legislative intent. In the present case, it was clear to me that the enhanced punishment provisions for second-time consumers, possessors and traffickers of drugs were intended to apply irrespective of whether an offender has already been sentenced or served his sentence, insofar as he has a prior conviction (for repeat drug consumers and traffickers) or has committed a prior offence (for repeat drug possessors). I could not agree with the appellant’s contention that the mere fact of a previous conviction is a “rather questionable prerequisite”.[\[note: 25\]](#Ftn_25)
+48     The appellant argued before me that the legislative purpose of the enhanced punishment provisions is to deter recalcitrant criminals from reoffending after public resources have been expended on their rehabilitation.[^24] I saw no basis for this suggestion. As above, primacy should be given to the text of the provision and its statutory context when determining legislative intent. In the present case, it was clear to me that the enhanced punishment provisions for second-time consumers, possessors and traffickers of drugs were intended to apply irrespective of whether an offender has already been sentenced or served his sentence, insofar as he has a prior conviction (for repeat drug consumers and traffickers) or has committed a prior offence (for repeat drug possessors). I could not agree with the appellant’s contention that the mere fact of a previous conviction is a “rather questionable prerequisite”.[^25]
 
 49     It is useful at this point to contrast the provisions above with s 33A(2) MDA since the appellant had made reference to this provision. The offence under s 33A(2) MDA is commonly known as an “LT-2” offence, as it seeks to deal with repeat offenders who consume specified drugs after having been convicted under the “LT-1” enhanced punishment regime set out in s 33(1) MDA. At the time of the appellant’s offences, s 33A(2) MDA read:
 
@@ -220,9 +221,9 @@ that person so convicted shall be punished with —
 
 60     I agreed with the District Judge that minimal weight should be given to the appellant’s plea of guilt in relation to both the first and second set of offences. A plea of guilt may result in a discount to the aggregate sentence if it evidences the offender’s remorse, saves the victim the prospect of reliving his or her trauma at trial, or saves the public costs which would have been expended by holding a trial (_Gan Chai Bee Anne v Public Prosecutor_ at \[73\], citing _Ng Kean Meng Terence v Public Prosecutor_ \[2017\] 2 SLR 499 at \[66\], \[69\], and \[71\]).
 
-61     In the present case, as the District Judge noted, the appellant was caught red-handed. The evidence against him was overwhelming for most, even if not all, of the charges he faced. This was indicated by the fact that he had been found in possession of drugs on 5 August 2016 (the first set of offences) and 20 February 2018 (the second set of offences). In my view, his plea was weak evidence of his remorse. The appellant had also conveniently glossed over the fact that he did not plead guilty at an early stage to the first set of charges but had instead claimed trial. He finally pleaded guilty to those charges only one year, five months and 12 days after he had first been charged in court.[\[note: 26\]](#Ftn_26) A “last gasp” plea of guilt is generally not indicative of genuine remorse.
+61     In the present case, as the District Judge noted, the appellant was caught red-handed. The evidence against him was overwhelming for most, even if not all, of the charges he faced. This was indicated by the fact that he had been found in possession of drugs on 5 August 2016 (the first set of offences) and 20 February 2018 (the second set of offences). In my view, his plea was weak evidence of his remorse. The appellant had also conveniently glossed over the fact that he did not plead guilty at an early stage to the first set of charges but had instead claimed trial. He finally pleaded guilty to those charges only one year, five months and 12 days after he had first been charged in court.[^26] A “last gasp” plea of guilt is generally not indicative of genuine remorse.
 
-62     The appellant further maintained that he had “attended every court hearing, thus demonstrating a certain degree of remorse and the willingness to answer for \[his\] crimes, yet because of an earlier plea of guilt, \[he was\] subject to enhanced punishment”.[\[note: 27\]](#Ftn_27) I did not see how attendance at court hearings was somehow demonstrative of his remorse. Viewed in proper context, the fact was that he was in remand for the better part of the proceedings which spanned almost two years from August 2016 to August 2018. He was bailed out for only about seven months. He then reoffended while on bail pending sentence for the first set of offences. Thereafter, he simply had no choice but to attend every court hearing since bail was revoked.
+62     The appellant further maintained that he had “attended every court hearing, thus demonstrating a certain degree of remorse and the willingness to answer for \[his\] crimes, yet because of an earlier plea of guilt, \[he was\] subject to enhanced punishment”.[^27] I did not see how attendance at court hearings was somehow demonstrative of his remorse. Viewed in proper context, the fact was that he was in remand for the better part of the proceedings which spanned almost two years from August 2016 to August 2018. He was bailed out for only about seven months. He then reoffended while on bail pending sentence for the first set of offences. Thereafter, he simply had no choice but to attend every court hearing since bail was revoked.
 
 63     In my assessment, the appellant indubitably was not genuinely contrite as he went on to reoffend. In the circumstances, I agreed with the District Judge that little weight (if any) ought to be given to the appellant’s plea of guilt.
 
@@ -230,7 +231,7 @@ that person so convicted shall be punished with —
 
 64     The appellant argued that the District Judge had not placed any weight on his full cooperation with the CNB in relation to the first set of offences. This purportedly led to the prosecution of another trafficker. I did not think his purported cooperation with the CNB would merit any significant sentencing discount. Even if this was accepted as a relevant mitigating factor, I did not think the sentences imposed by the District Judge for the other charges were manifestly excessive.
 
-65     Instead, as the respondent notes, the appellant offered a wide variety of drugs in significant quantities, which would indicate higher culpability (_Vasentha d/o Joseph_ at \[51\]).[\[note: 28\]](#Ftn_28) He had also done so motivated by profit in order to support his chosen lifestyle and to pay his gambling debts.[\[note: 29\]](#Ftn_29) Crucially, there were seven other trafficking-related charges taken into consideration, which would have warranted a very substantial uplift in sentence. I also noted that the District Judge had taken into account the one-third remission period, and allowed a deduction of 18 months’ imprisonment, resulting in the imposition of the mandatory minimum imprisonment term of five years for the 3rd charge. As such, I did not agree that the indicative sentence of six and a half years’ imprisonment would have been manifestly excessive in the circumstances.
+65     Instead, as the respondent notes, the appellant offered a wide variety of drugs in significant quantities, which would indicate higher culpability (_Vasentha d/o Joseph_ at \[51\]).[^28] He had also done so motivated by profit in order to support his chosen lifestyle and to pay his gambling debts.[^29] Crucially, there were seven other trafficking-related charges taken into consideration, which would have warranted a very substantial uplift in sentence. I also noted that the District Judge had taken into account the one-third remission period, and allowed a deduction of 18 months’ imprisonment, resulting in the imposition of the mandatory minimum imprisonment term of five years for the 3rd charge. As such, I did not agree that the indicative sentence of six and a half years’ imprisonment would have been manifestly excessive in the circumstances.
 
 ### The 18th and 26th Charges
 
@@ -257,7 +258,7 @@ that person so convicted shall be punished with —
 
 73     I did not think the District Judge erred in ordering the three sentences to run consecutively. The District Judge ordered the 3rd, 25th and 26th charges to run consecutively. All three offences were committed on different dates in August 2016 and February 2018. The sentences therefore pertained to discrete offences committed on separate occasions.
 
-74     Further, in the proceedings below, the Defence accepted that the possession for the purposes of trafficking charges, trafficking by selling charges, drug consumption and drug possession charges triggered different legally-protected interests.[\[note: 30\]](#Ftn_30) The Defence further accepted that the sentences which ought to run consecutively should reflect these distinct interests. The District Judge therefore sentenced the appellant in accordance with these principles: the offences were separate and distinct, and the 3rd charge pertained to possession for the purpose of trafficking, the 25th charge consumption, and the 26th charge trafficking by selling. The result was that the sentence fell squarely within the range proposed by the Defence.
+74     Further, in the proceedings below, the Defence accepted that the possession for the purposes of trafficking charges, trafficking by selling charges, drug consumption and drug possession charges triggered different legally-protected interests.[^30] The Defence further accepted that the sentences which ought to run consecutively should reflect these distinct interests. The District Judge therefore sentenced the appellant in accordance with these principles: the offences were separate and distinct, and the 3rd charge pertained to possession for the purpose of trafficking, the 25th charge consumption, and the 26th charge trafficking by selling. The result was that the sentence fell squarely within the range proposed by the Defence.
 
 75     I was also satisfied that the aggregate sentence imposed did not infringe the totality principle. The comparisons made by the appellant to the aggregate sentence imposed in _Shouffee_ were unhelpful: it is trite that each case must be decided on its own facts. In the present case, I did not think the sentence of 20 years’ imprisonment was crushing or substantially above the normal level of sentences imposed for the most serious of the offences committed. The sentence had been appropriately calibrated having regard to the appellant’s relative youth, lack of prior criminal record, and future prospects. In coming to this conclusion, I bore in mind Menon CJ’s reminder at \[80\] of _Public Prosecutor v Raveen Balakrishnan_ that there is an element of judgment inherent in the application of the aggregation principle, and to that extent, the decision of the sentencing judge should not be interfered with lightly.
 
@@ -269,65 +270,65 @@ that person so convicted shall be punished with —
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)Appellant’s Skeletal Arguments, at para 56.
+[^1]: Appellant’s Skeletal Arguments, at para 56.
 
-[\[note: 2\]](#Ftn_2_1)Appellant’s Skeletal Arguments, at paras 58 and 59.
+[^2]: Appellant’s Skeletal Arguments, at paras 58 and 59.
 
-[\[note: 3\]](#Ftn_3_1)Appellant’s Skeletal Arguments, at para 60.
+[^3]: Appellant’s Skeletal Arguments, at para 60.
 
-[\[note: 4\]](#Ftn_4_1)Appellant’s Skeletal Arguments, at para 61.
+[^4]: Appellant’s Skeletal Arguments, at para 61.
 
-[\[note: 5\]](#Ftn_5_1)GD, at \[29\]; Appellant’s Skeletal Arguments, at para 62.
+[^5]: GD, at \[29\]; Appellant’s Skeletal Arguments, at para 62.
 
-[\[note: 6\]](#Ftn_6_1)Appellant’s Skeletal Arguments, at para 63.
+[^6]: Appellant’s Skeletal Arguments, at para 63.
 
-[\[note: 7\]](#Ftn_7_1)Appellant’s Skeletal Arguments, at para 64.
+[^7]: Appellant’s Skeletal Arguments, at para 64.
 
-[\[note: 8\]](#Ftn_8_1)Appellant’s Skeletal Arguments, at paras 66 and 67.
+[^8]: Appellant’s Skeletal Arguments, at paras 66 and 67.
 
-[\[note: 9\]](#Ftn_9_1)Appellant’s Skeletal Arguments, at para 69.
+[^9]: Appellant’s Skeletal Arguments, at para 69.
 
-[\[note: 10\]](#Ftn_10_1)Appellant’s Skeletal Arguments, at para 69 to 77.
+[^10]: Appellant’s Skeletal Arguments, at para 69 to 77.
 
-[\[note: 11\]](#Ftn_11_1)Appellant’s Skeletal Arguments, at para 86.
+[^11]: Appellant’s Skeletal Arguments, at para 86.
 
-[\[note: 12\]](#Ftn_12_1)Respondent’s Submissions, at para 32.
+[^12]: Respondent’s Submissions, at para 32.
 
-[\[note: 13\]](#Ftn_13_1)Respondent’s Submissions, at para 4.
+[^13]: Respondent’s Submissions, at para 4.
 
-[\[note: 14\]](#Ftn_14_1)Respondent’s Submissions, at para 50.
+[^14]: Respondent’s Submissions, at para 50.
 
-[\[note: 15\]](#Ftn_15_1)ROP, p 15 line 32, p 125; Respondent’s Submissions, at para 46.
+[^15]: ROP, p 15 line 32, p 125; Respondent’s Submissions, at para 46.
 
-[\[note: 16\]](#Ftn_16_1)Respondent’s submissions, at para 51; Statement of Facts dated 15 January 2018 at \[29\].
+[^16]: Respondent’s submissions, at para 51; Statement of Facts dated 15 January 2018 at \[29\].
 
-[\[note: 17\]](#Ftn_17_1)Respondent’s Submissions, at para 51.
+[^17]: Respondent’s Submissions, at para 51.
 
-[\[note: 18\]](#Ftn_18_1)Respondent’s Submissions, at para 51.
+[^18]: Respondent’s Submissions, at para 51.
 
-[\[note: 19\]](#Ftn_19_1)Respondent’s Submissions, at paras 58 and 59.
+[^19]: Respondent’s Submissions, at paras 58 and 59.
 
-[\[note: 20\]](#Ftn_20_1)Appellant’s Skeletal Arguments, at para 48.
+[^20]: Appellant’s Skeletal Arguments, at para 48.
 
-[\[note: 21\]](#Ftn_21_1)Appellant’s Skeletal Arguments, at paras 49 and 50.
+[^21]: Appellant’s Skeletal Arguments, at paras 49 and 50.
 
-[\[note: 22\]](#Ftn_22_1)Appellant’s Skeletal Arguments, at paras 50 to 52.
+[^22]: Appellant’s Skeletal Arguments, at paras 50 to 52.
 
-[\[note: 23\]](#Ftn_23_1)Appellant’s Skeletal Arguments, at para 54.
+[^23]: Appellant’s Skeletal Arguments, at para 54.
 
-[\[note: 24\]](#Ftn_24_1)Appellant’s Skeletal Arguments, at para 49.
+[^24]: Appellant’s Skeletal Arguments, at para 49.
 
-[\[note: 25\]](#Ftn_25_1)Appellant’s Skeletal Arguments, at para 50.
+[^25]: Appellant’s Skeletal Arguments, at para 50.
 
-[\[note: 26\]](#Ftn_26_1)Respondent’s Submissions, at para 41.
+[^26]: Respondent’s Submissions, at para 41.
 
-[\[note: 27\]](#Ftn_27_1)Appellant’s Skeletal Arguments, at para 83.
+[^27]: Appellant’s Skeletal Arguments, at para 83.
 
-[\[note: 28\]](#Ftn_28_1)Respondent’s Submissions, at para 40.
+[^28]: Respondent’s Submissions, at para 40.
 
-[\[note: 29\]](#Ftn_29_1)Statement of Facts dated 15 January 2018 at para 12 (ROP p 21).
+[^29]: Statement of Facts dated 15 January 2018 at para 12 (ROP p 21).
 
-[\[note: 30\]](#Ftn_30_1)Defence’s Further Submissions on Sentence at \[30\] (ROP p 1303).
+[^30]: Defence’s Further Submissions on Sentence at \[30\] (ROP p 1303).
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23060-SSP.xml)

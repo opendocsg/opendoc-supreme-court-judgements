@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # Lee Pheng Lip Ian _v_ Chen Fun Gee and others and other matters  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Originating Summons No 514 of 2018 and Summonses Nos 2032 and 3118 of 2018</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">04 March 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Woo Bih Li J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Liew Wey-Ren Colin (Essex Court Chambers Duxton (Singapore Group Practice)) for the plaintiff; Thio Shen Yi SC and Thara Rubini Gopalan (TSMP Law Corporation) for the defendants.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Lee Pheng Lip Ian — Chen Fun Gee — Venkataraman Anantharaman — Yeow Kok Leng Vincent — Tan Jin Hwee — Singapore Medical Council</td></tr></tbody></table>
@@ -36,59 +37,59 @@ Administrative Law – Judicial review
 
 8       The plaintiff was practising as a medical practitioner at Integrated Medicine Clinic (“the clinic”). The clinic was licensed to him under the Private Hospitals and Medical Clinics Act (Cap 248, 1999 Rev Ed) (“PHMCA”).
 
-9       On 3 April 2013, MOH sent a letter to the plaintiff which, _inter alia_, noted that the clinic offered some non-mainstream services in addition to mainstream medical services, and alleged that there were contraventions of certain subsidiary legislation under the PHMCA.[\[note: 1\]](#Ftn_1) The plaintiff sent a letter in reply to MOH’s letter. Thereafter, there was further correspondence between MOH and the plaintiff.
+9       On 3 April 2013, MOH sent a letter to the plaintiff which, _inter alia_, noted that the clinic offered some non-mainstream services in addition to mainstream medical services, and alleged that there were contraventions of certain subsidiary legislation under the PHMCA.[^1] The plaintiff sent a letter in reply to MOH’s letter. Thereafter, there was further correspondence between MOH and the plaintiff.
 
-10     On 31 July 2013, MOH sent a letter to the SMC to inform it that the plaintiff was offering some non-mainstream services in addition to mainstream medical services, and that MOH was concerned over the appropriateness of the medical management of some of the clinic’s patients.[\[note: 2\]](#Ftn_2)
+10     On 31 July 2013, MOH sent a letter to the SMC to inform it that the plaintiff was offering some non-mainstream services in addition to mainstream medical services, and that MOH was concerned over the appropriateness of the medical management of some of the clinic’s patients.[^2]
 
-11     Following from the plaintiff’s correspondence with MOH, it appears that the plaintiff was, _inter alia_, dissatisfied with how MOH maintained its position that he/the clinic was offering non-mainstream services which he/the clinic should not provide. On 11 September 2013, the plaintiff sent a letter to the Minister for Health primarily to contend against the allegation that he was offering non-mainstream services.[\[note: 3\]](#Ftn_3)
+11     Following from the plaintiff’s correspondence with MOH, it appears that the plaintiff was, _inter alia_, dissatisfied with how MOH maintained its position that he/the clinic was offering non-mainstream services which he/the clinic should not provide. On 11 September 2013, the plaintiff sent a letter to the Minister for Health primarily to contend against the allegation that he was offering non-mainstream services.[^3]
 
-12     In the meantime, on 24 September 2013, the SMC sent a letter to MOH to seek clarification from MOH concerning its letter dated 31 July 2013 and to request certain documents.[\[note: 4\]](#Ftn_4)
+12     In the meantime, on 24 September 2013, the SMC sent a letter to MOH to seek clarification from MOH concerning its letter dated 31 July 2013 and to request certain documents.[^4]
 
-13     On 27 September 2013, MOH sent a letter to the plaintiff in reply to his letter dated 11 September 2013, and stated at para 2:[\[note: 5\]](#Ftn_5)
+13     On 27 September 2013, MOH sent a letter to the plaintiff in reply to his letter dated 11 September 2013, and stated at para 2:[^5]
 
 2    We have … noted your feedback on the practise of integrated medicine. We understand SMC is reviewing this matter and you may like to wait for the outcome of the SMC’s deliberations.
 
-14     On 30 September 2013, MOH sent a letter to the SMC in reply to the SMC’s letter dated 24 September 2013 and enclosed some documents.[\[note: 6\]](#Ftn_6)
+14     On 30 September 2013, MOH sent a letter to the SMC in reply to the SMC’s letter dated 24 September 2013 and enclosed some documents.[^6]
 
-15     Thereafter from October 2013 to December 2013, there was further correspondence between the plaintiff and MOH.[\[note: 7\]](#Ftn_7) Separately, the plaintiff also wrote letters to the SMC in October 2013 and December 2013, enclosing patient testimonials, to which the SMC acknowledged receipt in January 2014.[\[note: 8\]](#Ftn_8)
+15     Thereafter from October 2013 to December 2013, there was further correspondence between the plaintiff and MOH.[^7] Separately, the plaintiff also wrote letters to the SMC in October 2013 and December 2013, enclosing patient testimonials, to which the SMC acknowledged receipt in January 2014.[^8]
 
-16     On 14 February 2014, the SMC sent a letter to the chairman of the CP to make a complaint against the plaintiff pursuant to s 39(3)(_a_).[\[note: 9\]](#Ftn_9) In the letter, the SMC referred to and enclosed (i) MOH’s letter to the SMC dated 31 July 2013, (ii) the SMC’s letter to MOH dated 24 September 2013, (iii) MOH’s reply to the SMC dated 30 September 2013, and (iv) the plaintiff’s letters to the SMC in October 2013 and December 2013 enclosing patient testimonials. The SMC stated that it had considered all this information and decided to refer the plaintiff to the chairman of the CP pursuant to s 39(3)(_a_).
+16     On 14 February 2014, the SMC sent a letter to the chairman of the CP to make a complaint against the plaintiff pursuant to s 39(3)(_a_).[^9] In the letter, the SMC referred to and enclosed (i) MOH’s letter to the SMC dated 31 July 2013, (ii) the SMC’s letter to MOH dated 24 September 2013, (iii) MOH’s reply to the SMC dated 30 September 2013, and (iv) the plaintiff’s letters to the SMC in October 2013 and December 2013 enclosing patient testimonials. The SMC stated that it had considered all this information and decided to refer the plaintiff to the chairman of the CP pursuant to s 39(3)(_a_).
 
-17     According to the defendants, on 8 May 2014, the CC was appointed and this complaint from the SMC was laid before the CC for its inquiry into the complaint.[\[note: 10\]](#Ftn_10) The CC thereafter directed the SMC Investigation Unit to carry out an investigation into the complaint. On 1 September 2014, the SMC Investigation Unit sent a letter giving the plaintiff notice of the complaint, pursuant to ss 44(1) and 44(2), and inviting the plaintiff to give any written explanation he may wish to offer.[\[note: 11\]](#Ftn_11) On 20 October 2014, the plaintiff sent a letter to the SMC Investigation Unit providing an explanation.[\[note: 12\]](#Ftn_12)
+17     According to the defendants, on 8 May 2014, the CC was appointed and this complaint from the SMC was laid before the CC for its inquiry into the complaint.[^10] The CC thereafter directed the SMC Investigation Unit to carry out an investigation into the complaint. On 1 September 2014, the SMC Investigation Unit sent a letter giving the plaintiff notice of the complaint, pursuant to ss 44(1) and 44(2), and inviting the plaintiff to give any written explanation he may wish to offer.[^11] On 20 October 2014, the plaintiff sent a letter to the SMC Investigation Unit providing an explanation.[^12]
 
 18     Separately, there was further correspondence between the plaintiff and MOH in 2014 and 2015.
 
-19     On 11 March 2015, MOH sent a letter to the plaintiff stating that in accordance with the PHMCA, MOH would not renew the plaintiff’s clinic licence upon the expiry of his current clinic licence on 16 March 2015.[\[note: 13\]](#Ftn_13) MOH stated that this decision was based on the inspection findings from February 2013 to March 2015 that the clinic had repeatedly not complied with the licensing requirements under the PHMCA and its subsidiary legislation in prescribing certain treatments.
+19     On 11 March 2015, MOH sent a letter to the plaintiff stating that in accordance with the PHMCA, MOH would not renew the plaintiff’s clinic licence upon the expiry of his current clinic licence on 16 March 2015.[^13] MOH stated that this decision was based on the inspection findings from February 2013 to March 2015 that the clinic had repeatedly not complied with the licensing requirements under the PHMCA and its subsidiary legislation in prescribing certain treatments.
 
-20     On 16 March 2015, the plaintiff’s clinic licence expired. On 27 March 2015, the plaintiff sent a letter to the Minister for Health to appeal against MOH’s decision not to renew his clinic licence.[\[note: 14\]](#Ftn_14)
+20     On 16 March 2015, the plaintiff’s clinic licence expired. On 27 March 2015, the plaintiff sent a letter to the Minister for Health to appeal against MOH’s decision not to renew his clinic licence.[^14]
 
-21     On 10 April 2015, MOH sent a letter to the SMC to refer the plaintiff for further investigations for inappropriate prescriptions of certain treatments, which MOH termed non-evidence-based.[\[note: 15\]](#Ftn_15) These were the same treatments for which MOH had decided not to renew the plaintiff’s clinic licence, as stated in MOH’s letter to the plaintiff dated 11 March 2015 (see \[19\] above).
+21     On 10 April 2015, MOH sent a letter to the SMC to refer the plaintiff for further investigations for inappropriate prescriptions of certain treatments, which MOH termed non-evidence-based.[^15] These were the same treatments for which MOH had decided not to renew the plaintiff’s clinic licence, as stated in MOH’s letter to the plaintiff dated 11 March 2015 (see \[19\] above).
 
-22     On 30 April 2015, the SMC sent a letter to the chairman of the CP referring to the SMC’s letter of complaint dated 14 February 2014 against the plaintiff (see \[16\] above).[\[note: 16\]](#Ftn_16) The SMC then stated that MOH had sent a further letter dated 10 April 2015, which the SMC enclosed with its letter. The SMC stated that it had considered this “additional information” submitted by MOH on the plaintiff and would be grateful if the chairman of the CP could place MOH’s letter dated 10 April 2015 together with the SMC’s letter of complaint dated 14 February 2014 before the CC.
+22     On 30 April 2015, the SMC sent a letter to the chairman of the CP referring to the SMC’s letter of complaint dated 14 February 2014 against the plaintiff (see \[16\] above).[^16] The SMC then stated that MOH had sent a further letter dated 10 April 2015, which the SMC enclosed with its letter. The SMC stated that it had considered this “additional information” submitted by MOH on the plaintiff and would be grateful if the chairman of the CP could place MOH’s letter dated 10 April 2015 together with the SMC’s letter of complaint dated 14 February 2014 before the CC.
 
-23     In the meantime, on 18 May 2015, the plaintiff sent a letter to the Minister for Health requesting a reply to his earlier letter dated 27 March 2015 (see \[20\] above).[\[note: 17\]](#Ftn_17) On 29 May 2015, MOH sent a letter to the plaintiff informing him that MOH had requested the SMC to form an advisory committee to consider his appeal, and that he would be notified of the outcome in writing.[\[note: 18\]](#Ftn_18)
+23     In the meantime, on 18 May 2015, the plaintiff sent a letter to the Minister for Health requesting a reply to his earlier letter dated 27 March 2015 (see \[20\] above).[^17] On 29 May 2015, MOH sent a letter to the plaintiff informing him that MOH had requested the SMC to form an advisory committee to consider his appeal, and that he would be notified of the outcome in writing.[^18]
 
-24     According to the defendants, the additional information provided by the SMC in its letter dated 30 April 2015 (see \[22\] above) was subsequently laid before the CC in June 2015.[\[note: 19\]](#Ftn_19)
+24     According to the defendants, the additional information provided by the SMC in its letter dated 30 April 2015 (see \[22\] above) was subsequently laid before the CC in June 2015.[^19]
 
-25     Thereafter in February 2016 and March 2016, there was correspondence between the SMC Investigation Unit and the plaintiff following from the SMC Investigation Unit’s letter dated 1 September 2014 and the plaintiff’s letter dated 20 October 2014 (see \[17\] above).[\[note: 20\]](#Ftn_20) To recapitulate, this was in relation to the complaint made by the SMC on 14 February 2014.
+25     Thereafter in February 2016 and March 2016, there was correspondence between the SMC Investigation Unit and the plaintiff following from the SMC Investigation Unit’s letter dated 1 September 2014 and the plaintiff’s letter dated 20 October 2014 (see \[17\] above).[^20] To recapitulate, this was in relation to the complaint made by the SMC on 14 February 2014.
 
-26     Subsequently, on 22 June 2016, the SMC Investigation Unit sent a letter giving the plaintiff notice of the additional information provided by the SMC in its letter dated 30 April 2015 (see \[22\] above).[\[note: 21\]](#Ftn_21) This was again pursuant to ss 44(1) and 44(2), and the SMC Investigation Unit invited the plaintiff to give any further written explanation he may wish to offer in response to the additional information.
+26     Subsequently, on 22 June 2016, the SMC Investigation Unit sent a letter giving the plaintiff notice of the additional information provided by the SMC in its letter dated 30 April 2015 (see \[22\] above).[^21] This was again pursuant to ss 44(1) and 44(2), and the SMC Investigation Unit invited the plaintiff to give any further written explanation he may wish to offer in response to the additional information.
 
 27     In this letter, the SMC Investigation Unit also referred to the additional information as “the Second Complaint”. As mentioned at \[1\] above, for the purposes of this judgment, I will refer to the complaint made by the SMC on 14 February 2014 and the additional information/the Second Complaint collectively as “the Complaint”. The arguments of the parties do not turn on this point.
 
-28     On 15 September 2016, the plaintiff sent a letter to the SMC Investigation Unit providing his further written explanation.[\[note: 22\]](#Ftn_22)
+28     On 15 September 2016, the plaintiff sent a letter to the SMC Investigation Unit providing his further written explanation.[^22]
 
-29     Returning to the plaintiff’s appeal against MOH’s decision not to renew his clinic licence, MOH subsequently sent a letter dated 24 April 2017 to the plaintiff informing him that the Minister had decided to allow the plaintiff’s appeal and had directed that his clinic licence be renewed for six months subject to the condition that he strictly comply with MOH’s guidelines on the provision of non-evidence-based medicine.[\[note: 23\]](#Ftn_23) MOH also stated that it would write to the SMC to clarify its letter dated 10 April 2015 (see \[21\] above). MOH also provided instructions on how the plaintiff could apply to renew his clinic licence.
+29     Returning to the plaintiff’s appeal against MOH’s decision not to renew his clinic licence, MOH subsequently sent a letter dated 24 April 2017 to the plaintiff informing him that the Minister had decided to allow the plaintiff’s appeal and had directed that his clinic licence be renewed for six months subject to the condition that he strictly comply with MOH’s guidelines on the provision of non-evidence-based medicine.[^23] MOH also stated that it would write to the SMC to clarify its letter dated 10 April 2015 (see \[21\] above). MOH also provided instructions on how the plaintiff could apply to renew his clinic licence.
 
 30     The plaintiff however did not restart the clinic.
 
-31     From May 2017 to August 2017, there was further correspondence between the SMC Investigation Unit and the plaintiff. During this period, on 14 July 2017, MOH wrote a letter to the SMC to clarify its letter dated 10 April 2015 (see \[29\] above).[\[note: 24\]](#Ftn_24)
+31     From May 2017 to August 2017, there was further correspondence between the SMC Investigation Unit and the plaintiff. During this period, on 14 July 2017, MOH wrote a letter to the SMC to clarify its letter dated 10 April 2015 (see \[29\] above).[^24]
 
-32     According to the defendants, on 12 December 2017, the CC decided to order that an inquiry into the Complaint be held by a DT.[\[note: 25\]](#Ftn_25)
+32     According to the defendants, on 12 December 2017, the CC decided to order that an inquiry into the Complaint be held by a DT.[^25]
 
-33     On 12 February 2018, the CC sent a letter to the plaintiff informing him that the CC had completed its inquiry into the Complaint and had ordered that an inquiry into the Complaint be held by a DT.[\[note: 26\]](#Ftn_26)
+33     On 12 February 2018, the CC sent a letter to the plaintiff informing him that the CC had completed its inquiry into the Complaint and had ordered that an inquiry into the Complaint be held by a DT.[^26]
 
-34     Over the course of conducting its inquiry since 8 May 2014 (see \[17\] above), the CC had applied in writing to the chairman of the CP for 13 EOTs to complete its inquiry. The CC had made these applications pursuant to s 42(2). It had made eight of these 13 applications for EOTs after its extended deadline to complete its inquiry.[\[note: 27\]](#Ftn_27) The chairman of the CP had granted all 13 EOTs to the CC. The chairman had granted these EOTs pursuant to s 42(2). A table of the dates of the 13 applications for EOTs and other information is attached in the Annex to this judgment.
+34     Over the course of conducting its inquiry since 8 May 2014 (see \[17\] above), the CC had applied in writing to the chairman of the CP for 13 EOTs to complete its inquiry. The CC had made these applications pursuant to s 42(2). It had made eight of these 13 applications for EOTs after its extended deadline to complete its inquiry.[^27] The chairman of the CP had granted all 13 EOTs to the CC. The chairman had granted these EOTs pursuant to s 42(2). A table of the dates of the 13 applications for EOTs and other information is attached in the Annex to this judgment.
 
 ## SUM 2032/2018 and SUM 3118/2018
 
@@ -118,21 +119,21 @@ Administrative Law – Judicial review
 
 40     The parties raised many arguments in support of their respective positions.
 
-41     On the one hand, the plaintiff submitted that he had satisfied the requirements for leave to be granted for him to apply for the various quashing orders and prohibiting order.[\[note: 28\]](#Ftn_28)
+41     On the one hand, the plaintiff submitted that he had satisfied the requirements for leave to be granted for him to apply for the various quashing orders and prohibiting order.[^28]
 
-42     The plaintiff argued that s 42(2) is a mandatory provision in two main aspects: (i) the time when a CC is to apply for an EOT, and (ii) the reasons why the EOT is applied for and subsequently granted. The plaintiff consequently argued that the CC’s inquiry into the Complaint was _ultra vires_, because some of its applications for EOTs did not satisfy the precedent facts stipulated in s 42(2).[\[note: 29\]](#Ftn_29) The plaintiff also argued that the chairman of the CP acted unlawfully and/or irrationally in repeatedly granting EOTs to the CC.[\[note: 30\]](#Ftn_30)
+42     The plaintiff argued that s 42(2) is a mandatory provision in two main aspects: (i) the time when a CC is to apply for an EOT, and (ii) the reasons why the EOT is applied for and subsequently granted. The plaintiff consequently argued that the CC’s inquiry into the Complaint was _ultra vires_, because some of its applications for EOTs did not satisfy the precedent facts stipulated in s 42(2).[^29] The plaintiff also argued that the chairman of the CP acted unlawfully and/or irrationally in repeatedly granting EOTs to the CC.[^30]
 
-43     The plaintiff further submitted that he had suffered substantial prejudice (i) as a result of non-compliance with s 42(2),[\[note: 31\]](#Ftn_31) and (ii) as a result of the inordinate delay in the prosecution of disciplinary proceedings against him for matters arising from over nine years ago in September 2009.[\[note: 32\]](#Ftn_32) In relation to (ii), the plaintiff argued that at common law, such inordinate delay amounted to an abuse of process or breach of natural justice.[\[note: 33\]](#Ftn_33)
+43     The plaintiff further submitted that he had suffered substantial prejudice (i) as a result of non-compliance with s 42(2),[^31] and (ii) as a result of the inordinate delay in the prosecution of disciplinary proceedings against him for matters arising from over nine years ago in September 2009.[^32] In relation to (ii), the plaintiff argued that at common law, such inordinate delay amounted to an abuse of process or breach of natural justice.[^33]
 
-44     The plaintiff submitted that it was thus irrational for the CC to order that an inquiry into the Complaint be held by a DT.[\[note: 34\]](#Ftn_34)
+44     The plaintiff submitted that it was thus irrational for the CC to order that an inquiry into the Complaint be held by a DT.[^34]
 
-45     On the other hand, the defendants argued that a CC’s application to the chairman of the CP for an EOT to complete its inquiry into a complaint is not amenable to judicial review and cannot be quashed.[\[note: 35\]](#Ftn_35) They contended that the CC’s application for an EOT is an expression of opinion that has no discernible legal effect upon the exercise of discretion by the chairman of the CP to grant an EOT.[\[note: 36\]](#Ftn_36)
+45     On the other hand, the defendants argued that a CC’s application to the chairman of the CP for an EOT to complete its inquiry into a complaint is not amenable to judicial review and cannot be quashed.[^35] They contended that the CC’s application for an EOT is an expression of opinion that has no discernible legal effect upon the exercise of discretion by the chairman of the CP to grant an EOT.[^36]
 
 46     The defendants also submitted that s 42(2) is a directory provision.
 
-47     The defendants further argued that it was premature for the plaintiff to apply for leave to apply for a quashing of the CC’s order that an inquiry into the Complaint be held by a DT, given that the CC’s order was not an ultimate decision or action with substantive legal consequences.[\[note: 37\]](#Ftn_37) The defendants also submitted that any alleged delay by the CC in completing its inquiry into the Complaint did not result in the making of a prohibiting order (see \[4(d)\] above) which effectively circumscribes the SMC’s ability to prosecute a complaint.[\[note: 38\]](#Ftn_38)
+47     The defendants further argued that it was premature for the plaintiff to apply for leave to apply for a quashing of the CC’s order that an inquiry into the Complaint be held by a DT, given that the CC’s order was not an ultimate decision or action with substantive legal consequences.[^37] The defendants also submitted that any alleged delay by the CC in completing its inquiry into the Complaint did not result in the making of a prohibiting order (see \[4(d)\] above) which effectively circumscribes the SMC’s ability to prosecute a complaint.[^38]
 
-48     The defendants also argued in their written submissions that pursuant to s 68, in order to obtain leave to apply for the various quashing orders and prohibiting order, the plaintiff must also prove to the court that the acts of the CC, of the chairman of the CP and of the SMC were done in bad faith or with malice.[\[note: 39\]](#Ftn_39)
+48     The defendants also argued in their written submissions that pursuant to s 68, in order to obtain leave to apply for the various quashing orders and prohibiting order, the plaintiff must also prove to the court that the acts of the CC, of the chairman of the CP and of the SMC were done in bad faith or with malice.[^39]
 
 ### Whether s 42(2) is directory or mandatory
 
@@ -142,9 +143,9 @@ Administrative Law – Judicial review
 
 51     As mentioned, the plaintiff argued that s 42(2) is a mandatory provision in two main aspects: (i) the time when a CC is to apply for an EOT, and (ii) the reasons why the EOT is applied for and subsequently granted. This would mean that a non-compliance with s 42(2) invalidates a CC’s application for an EOT or the grant of an EOT by the chairman of the CP to a CC. On the other hand, the defendants argued that s 42(2) is a directory provision. This would mean that even if there was non-compliance with s 42(2), that would not invalidate a CC’s application for an EOT or the grant of an EOT by the chairman of the CP to a CC.
 
-52     I briefly mention the plaintiff’s general arguments as to why s 42(2) is a mandatory provision. The plaintiff argued that in introducing the predecessor provisions of ss 42(1) and 42(2), the Minister for Health Mr Yeo Cheow Tong expressly stated that “\[t\]o ensure that complaints are dealt with expeditiously, each \[CC\] will be given three months to complete its preliminary investigations” (_Singapore Parliamentary Debates, Official Report_ (25 August 1997) vol 67 at col 1566). The plaintiff thus submitted that Parliament was clear in its intention for s 42(1) to be complied with strictly in that a CC is to complete its inquiry not later than three months, and any EOT granted by the chairman of the CP pursuant to s 42(2) must be limited.[\[note: 40\]](#Ftn_40)
+52     I briefly mention the plaintiff’s general arguments as to why s 42(2) is a mandatory provision. The plaintiff argued that in introducing the predecessor provisions of ss 42(1) and 42(2), the Minister for Health Mr Yeo Cheow Tong expressly stated that “\[t\]o ensure that complaints are dealt with expeditiously, each \[CC\] will be given three months to complete its preliminary investigations” (_Singapore Parliamentary Debates, Official Report_ (25 August 1997) vol 67 at col 1566). The plaintiff thus submitted that Parliament was clear in its intention for s 42(1) to be complied with strictly in that a CC is to complete its inquiry not later than three months, and any EOT granted by the chairman of the CP pursuant to s 42(2) must be limited.[^40]
 
-53     The plaintiff also argued that Parliament did intend that certain defects in a CC’s procedure would not invalidate an act of the CC and expressly provided for them, but Parliament did not provide as such for non-compliance with s 42(2).[\[note: 41\]](#Ftn_41) For instance, s 40(4) states: “No act done by or under the authority of a Complaints Committee shall be invalid in consequence of any defect that is subsequently discovered in the appointment or qualification of the members or any of them.”
+53     The plaintiff also argued that Parliament did intend that certain defects in a CC’s procedure would not invalidate an act of the CC and expressly provided for them, but Parliament did not provide as such for non-compliance with s 42(2).[^41] For instance, s 40(4) states: “No act done by or under the authority of a Complaints Committee shall be invalid in consequence of any defect that is subsequently discovered in the appointment or qualification of the members or any of them.”
 
 #### Time when a CC is to apply for an EOT
 
@@ -164,9 +165,9 @@ Administrative Law – Judicial review
 
 60     I address next the issue pertaining to the reasons why an EOT is applied for by a CC and subsequently granted by the chairman of the CP to the CC.
 
-61     The plaintiff argued that under s 42(2), a CC can only apply for an EOT if, first, the CC is of the _opinion_ that it will not be able to complete its inquiry before its deadline due to the complexity of the matter or serious difficulties encountered in conducting its inquiry. Second, there must _in fact_ be such complexity or serious difficulties.[\[note: 42\]](#Ftn_42) I will consider these two preconditions together as the adequacy of a CC’s reasons for applying for an EOT. In this case, the CC applied for 13 EOTs. The plaintiff argued that when making all 13 applications for EOTs, the CC did not hold the requisite opinion, and the matter was not complex and the CC did not encounter serious difficulties in conducting its inquiry.[\[note: 43\]](#Ftn_43) In its 13 applications to the chairman of the CP for EOTs, the CC does not seem to have provided such reasons to the chairman to justify the applications for EOTs.[\[note: 44\]](#Ftn_44) Consequently, the plaintiff argued that non-compliance with s 42(2) by the CC in not having adequate reasons for applying for EOTs necessarily invalidated the CC’s applications for EOTs.
+61     The plaintiff argued that under s 42(2), a CC can only apply for an EOT if, first, the CC is of the _opinion_ that it will not be able to complete its inquiry before its deadline due to the complexity of the matter or serious difficulties encountered in conducting its inquiry. Second, there must _in fact_ be such complexity or serious difficulties.[^42] I will consider these two preconditions together as the adequacy of a CC’s reasons for applying for an EOT. In this case, the CC applied for 13 EOTs. The plaintiff argued that when making all 13 applications for EOTs, the CC did not hold the requisite opinion, and the matter was not complex and the CC did not encounter serious difficulties in conducting its inquiry.[^43] In its 13 applications to the chairman of the CP for EOTs, the CC does not seem to have provided such reasons to the chairman to justify the applications for EOTs.[^44] Consequently, the plaintiff argued that non-compliance with s 42(2) by the CC in not having adequate reasons for applying for EOTs necessarily invalidated the CC’s applications for EOTs.
 
-62     In relation to the chairman of the CP, the plaintiff argued that under s 42(2), the chairman can only grant an EOT if he thinks that the CC will not be able to complete its inquiry before its deadline due to the complexity of the matter or serious difficulties encountered by the CC in conducting its inquiry. In this case, the plaintiff argued that the chairman granted EOTs to the CC as a matter of course without considering whether the EOTs were justified by the complexity of the matter or the serious difficulties the CC encountered in conducting its inquiry.[\[note: 45\]](#Ftn_45) Consequently, the plaintiff argued that such non-compliance with s 42(2) also necessarily invalidated the chairman’s grants of EOTs.
+62     In relation to the chairman of the CP, the plaintiff argued that under s 42(2), the chairman can only grant an EOT if he thinks that the CC will not be able to complete its inquiry before its deadline due to the complexity of the matter or serious difficulties encountered by the CC in conducting its inquiry. In this case, the plaintiff argued that the chairman granted EOTs to the CC as a matter of course without considering whether the EOTs were justified by the complexity of the matter or the serious difficulties the CC encountered in conducting its inquiry.[^45] Consequently, the plaintiff argued that such non-compliance with s 42(2) also necessarily invalidated the chairman’s grants of EOTs.
 
 63     On this point, the High Court in _Chai Chwan_ was of the view that the predecessor provision of s 42(2), which is materially similar to s 42(2), conferred upon the chairman of the CP a discretion that was “not based on any conditions that must be satisfied” before he could exercise his discretion to grant an EOT (at \[40\]). The High Court stated that the language of “as he thinks fit” in the provision was “in plain and unfettered terms” (at \[40\]). The High Court took the view that nowhere in the legislation did it mention the matters which the chairman should have regard to when exercising his discretion to grant an EOT (at \[42\]).
 
@@ -194,7 +195,7 @@ Administrative Law – Judicial review
 
 This was also cited with approval by the Court of Appeal in _Tan Tiang Hin Jerry v Singapore Medical Council_ (“_Tan Tiang Hin Jerry_”) at \[50\].
 
-74     At present, each CC may be required to inquire into discrete complaints against more than one registered medical practitioner. For example, in this case, the CC was apparently inquiring into seven discrete complaints against various registered medical practitioners at one time.[\[note: 46\]](#Ftn_46) This, plus the fact that the members of a CC are volunteers who do not work full-time on the CC and have other responsibilities (see s 40(1)),[\[note: 47\]](#Ftn_47) means that unfortunately, it will not be surprising that a CC will have to seek at least an EOT to complete its inquiry.
+74     At present, each CC may be required to inquire into discrete complaints against more than one registered medical practitioner. For example, in this case, the CC was apparently inquiring into seven discrete complaints against various registered medical practitioners at one time.[^46] This, plus the fact that the members of a CC are volunteers who do not work full-time on the CC and have other responsibilities (see s 40(1)),[^47] means that unfortunately, it will not be surprising that a CC will have to seek at least an EOT to complete its inquiry.
 
 75     It is also likely that a CC will need to seek EOTs for reasons other than the complexity of the matter or serious difficulties it encountered in conducting its inquiry. The mere reason that more time is required to inquire into each of the discrete complaints before the CC is not likely to constitute such a serious difficulty as is envisaged in s 42(2). By way of another example, the reason that the schedules of the members of the CC are such that they have difficulty in getting suitable dates to meet together on enough occasions to complete their inquiry is also not likely to constitute such a serious difficulty as is envisaged in s 42(2).
 
@@ -238,23 +239,23 @@ the CC’s application for an EOT is not invalidated.
 
 87     The plaintiff alleged he suffered prejudice in various ways such as:
 
-(a)     the plaintiff’s livelihood had been destroyed as a result of MOH refusing to renew his clinic licence for 3.5 years from 16 March 2015, without his having been found guilty of any disciplinary offence, and this result exceeded the most severe punishment that a DT can impose on him;[\[note: 48\]](#Ftn_48)
+(a)     the plaintiff’s livelihood had been destroyed as a result of MOH refusing to renew his clinic licence for 3.5 years from 16 March 2015, without his having been found guilty of any disciplinary offence, and this result exceeded the most severe punishment that a DT can impose on him;[^48]
 
-(b)     the plaintiff no longer has the financial wherewithal to afford senior counsel or the necessary expert witnesses;[\[note: 49\]](#Ftn_49) and
+(b)     the plaintiff no longer has the financial wherewithal to afford senior counsel or the necessary expert witnesses;[^49] and
 
-(c)     the plaintiff’s ability to defend himself before a DT has been severely compromised particularly because he is no longer able to contact several of his patients who were the subject of the Complaint to serve as witnesses,[\[note: 50\]](#Ftn_50) and the abilities of the plaintiff and his patients to recall events from the material time would have been compromised by the time of a hearing before the DT.[\[note: 51\]](#Ftn_51)
+(c)     the plaintiff’s ability to defend himself before a DT has been severely compromised particularly because he is no longer able to contact several of his patients who were the subject of the Complaint to serve as witnesses,[^50] and the abilities of the plaintiff and his patients to recall events from the material time would have been compromised by the time of a hearing before the DT.[^51]
 
 88     It was undisputed that 13 applications for EOTs were made by the CC and granted by the chairman of the CP such that although the CC commenced its inquiry into the Complaint on 8 May 2014 (see \[17\] above), its decision to order that an inquiry be held by a DT was made only on 12 December 2017 (see \[32\] above), _ie_, after around 3.5 years.
 
-89     On the point of the plaintiff’s alleged loss of livelihood, the parties argued whether the CC’s alleged delay in completing its inquiry was responsible for the plaintiff’s loss of livelihood when MOH refused to renew the plaintiff’s licence to operate the clinic. The plaintiff argued that MOH’s refusal to renew his clinic licence was directly related to how long the CC’s inquiry was taking,[\[note: 52\]](#Ftn_52) while the defendants argued that the evidence showed otherwise.
+89     On the point of the plaintiff’s alleged loss of livelihood, the parties argued whether the CC’s alleged delay in completing its inquiry was responsible for the plaintiff’s loss of livelihood when MOH refused to renew the plaintiff’s licence to operate the clinic. The plaintiff argued that MOH’s refusal to renew his clinic licence was directly related to how long the CC’s inquiry was taking,[^52] while the defendants argued that the evidence showed otherwise.
 
-90     As set out in the background facts, there was correspondence between MOH and the plaintiff from 2013 to 2015. It was subsequently MOH’s decision not to renew the plaintiff’s clinic licence when it expired on 16 March 2015. MOH had made its decision in accordance with the PHMCA, and based on the inspection findings from February 2013 to March 2015 that the clinic had repeatedly not complied with the licensing requirements under the PHMCA and its subsidiary legislation in prescribing certain treatments (see \[19\] above). The plaintiff then appealed against this decision to the Minister for Health. MOH thereafter sent a letter to the plaintiff on 24 April 2017 informing him that the Minister had decided to allow the plaintiff’s appeal and had directed that his clinic licence be renewed for six months subject to the condition that he strictly comply with MOH’s guidelines on the provision of non-evidence-based medicine (see \[29\] above).[\[note: 53\]](#Ftn_53)
+90     As set out in the background facts, there was correspondence between MOH and the plaintiff from 2013 to 2015. It was subsequently MOH’s decision not to renew the plaintiff’s clinic licence when it expired on 16 March 2015. MOH had made its decision in accordance with the PHMCA, and based on the inspection findings from February 2013 to March 2015 that the clinic had repeatedly not complied with the licensing requirements under the PHMCA and its subsidiary legislation in prescribing certain treatments (see \[19\] above). The plaintiff then appealed against this decision to the Minister for Health. MOH thereafter sent a letter to the plaintiff on 24 April 2017 informing him that the Minister had decided to allow the plaintiff’s appeal and had directed that his clinic licence be renewed for six months subject to the condition that he strictly comply with MOH’s guidelines on the provision of non-evidence-based medicine (see \[29\] above).[^53]
 
 91     While the plaintiff argued that there was some evidence that MOH was awaiting the outcome from the SMC following MOH’s letter dated 31 July 2013 informing the SMC of the plaintiff’s practices (see \[10\] and \[13\] above), the short point is that, even if this was so, the SMC and the CC were not responsible for the decision of MOH in refusing to renew the plaintiff’s clinic licence, or the decision of the Minister in allowing the plaintiff’s appeal, or any interval or delay in between.
 
 92     It is also unclear if MOH was awaiting any outcome from the SMC before deciding whether or not to renew the plaintiff’s clinic licence. Also, as it turned out, the Minister allowed the plaintiff’s appeal before the CC (or the DT) reached a decision on the Complaint.
 
-93     I also do not accept that the SMC was responsible for the decision of the Minister in allowing the plaintiff’s appeal just because MOH had requested the SMC to form an _advisory committee_ to consider his appeal (see \[23\] above). This advisory committee was constituted pursuant to s 10(2)(_a_) of the PHMCA,[\[note: 54\]](#Ftn_54) consisting three SMC members as the SMC may designate. The defendants have stated on affidavit that none of the members of the CC was a member of this advisory committee.[\[note: 55\]](#Ftn_55)
+93     I also do not accept that the SMC was responsible for the decision of the Minister in allowing the plaintiff’s appeal just because MOH had requested the SMC to form an _advisory committee_ to consider his appeal (see \[23\] above). This advisory committee was constituted pursuant to s 10(2)(_a_) of the PHMCA,[^54] consisting three SMC members as the SMC may designate. The defendants have stated on affidavit that none of the members of the CC was a member of this advisory committee.[^55]
 
 94     Moreover, the plaintiff’s argument that he had been without a clinic licence and practice for 3.5 years (see his written submissions for OS 514/2018 at para 69), as a result of the CC’s delay, and that this exceeded the most severe punishment that a DT can impose on him presented an inaccurate picture. The plaintiff had used the duration of 3.5 years but this period was calculated from 16 March 2015 (when MOH decided not to renew his clinic licence) to the date of his written submissions of 19 September 2018 to the court. However, as mentioned, MOH had sent a letter to the plaintiff on 24 April 2017, around two years later from 16 March 2015, informing him that his clinic licence would be renewed. It is a separate matter if the plaintiff decided not to restart the clinic (see \[30\] above).
 
@@ -262,13 +263,13 @@ the CC’s application for an EOT is not invalidated.
 
 96     For completeness, I would mention that the plaintiff’s clinic licence was initially not renewed by MOH apparently because the plaintiff was prescribing certain treatments. This forms the subject of the Complaint made by the SMC to the chairman of the CP, _ie_, the subject of the CC’s inquiry, since MOH had sent the letters to the SMC informing it of the plaintiff’s practices (see \[10\] and \[21\] above). There was no suggestion that MOH would still have refused to renew the plaintiff’s clinic licence even if he agreed not to prescribe such treatments for the time being. There was also no suggestion that the plaintiff was precluded from practising as a locum while MOH refused to renew his clinic licence.
 
-97     In the light of the above, the plaintiff’s argument that he “has been condemned unheard”, in being deprived of his livelihood without having been found guilty of any disciplinary offence, is also unsustainable.[\[note: 56\]](#Ftn_56) MOH’s refusal to renew the plaintiff’s clinic licence was not because he had been found guilty of a disciplinary offence.
+97     In the light of the above, the plaintiff’s argument that he “has been condemned unheard”, in being deprived of his livelihood without having been found guilty of any disciplinary offence, is also unsustainable.[^56] MOH’s refusal to renew the plaintiff’s clinic licence was not because he had been found guilty of a disciplinary offence.
 
 98     As for the plaintiff’s contention that he no longer has the financial wherewithal to afford senior counsel or the necessary expert witnesses, in line with what I have mentioned, the CC did not cause the plaintiff any alleged loss of livelihood. It is also unclear what financial resources the plaintiff actually has but I need not say any more on this point.
 
 99     I turn to the plaintiff’s point about his ability to defend himself before a DT. It is premature to conclude that even if the plaintiff truly cannot contact the patients he seeks to serve as witnesses, he would be prejudiced in presenting his case before a DT.
 
-100    The inquiry to be held by a DT into the Complaint pertains to the issue of the plaintiff offering some _non-mainstream_ services and concerns over the appropriateness of the medical management of some patients. The plaintiff himself believes that the Complaint would come under para 4.1.4 of the SMC Ethical Code and Ethical Guidelines,[\[note: 57\]](#Ftn_57) which states:
+100    The inquiry to be held by a DT into the Complaint pertains to the issue of the plaintiff offering some _non-mainstream_ services and concerns over the appropriateness of the medical management of some patients. The plaintiff himself believes that the Complaint would come under para 4.1.4 of the SMC Ethical Code and Ethical Guidelines,[^57] which states:
 
 4.1.4  Untested practices and clinical trials
 
@@ -276,7 +277,7 @@ A doctor shall treat patients according to generally accepted methods and use on
 
 …
 
-101    In this regard, evidence from the plaintiff’s patients does not necessarily address the question as to whether the plaintiff’s management plans or remedies were generally accepted by the profession. The defendants made a similar submission.[\[note: 58\]](#Ftn_58)
+101    In this regard, evidence from the plaintiff’s patients does not necessarily address the question as to whether the plaintiff’s management plans or remedies were generally accepted by the profession. The defendants made a similar submission.[^58]
 
 102    Based on the present evidence, I do not accept that any alleged non-compliance with s 42(2) by the CC and/or the chairman of the CP resulted in the plaintiff suffering substantial prejudice such that it merits the invalidation of the CC’s order that an inquiry into the Complaint be held by a DT.
 
@@ -310,7 +311,7 @@ A doctor shall treat patients according to generally accepted methods and use on
 
 110    In the light of the reasons above, I also do not have to address the remaining arguments of the parties. Many of them would be academic for the purposes of these proceedings.
 
-111    I deal with one further point. I agree with the defendants that the plaintiff should have filed an affidavit in support of OS 514/2018 verifying all the facts he relied on, as required under O 53 r 1(2) of the Rules of Court (Cap 322, R 5, 2014 Rev Ed).[\[note: 59\]](#Ftn_59) The plaintiff did not do this but instead included such facts in his statement in support of OS 514/2018. It is unclear why the plaintiff did not file the supporting affidavit accordingly.
+111    I deal with one further point. I agree with the defendants that the plaintiff should have filed an affidavit in support of OS 514/2018 verifying all the facts he relied on, as required under O 53 r 1(2) of the Rules of Court (Cap 322, R 5, 2014 Rev Ed).[^59] The plaintiff did not do this but instead included such facts in his statement in support of OS 514/2018. It is unclear why the plaintiff did not file the supporting affidavit accordingly.
 
 ## Conclusion
 
@@ -335,123 +336,123 @@ A doctor shall treat patients according to generally accepted methods and use on
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)1Statement Annex 2 pp 73–75.
+[^1]: 1Statement Annex 2 pp 73–75.
 
-[\[note: 2\]](#Ftn_2_1)1Statement Annex 3 p 210.
+[^2]: 1Statement Annex 3 p 210.
 
-[\[note: 3\]](#Ftn_3_1)See 1Statement at paras 53, 55; 1Statement Annex 6 pp 235–241.
+[^3]: See 1Statement at paras 53, 55; 1Statement Annex 6 pp 235–241.
 
-[\[note: 4\]](#Ftn_4_1)1Statement Annex 7 p 244.
+[^4]: 1Statement Annex 7 p 244.
 
-[\[note: 5\]](#Ftn_5_1)1Statement Annex 6 p 242.
+[^5]: 1Statement Annex 6 p 242.
 
-[\[note: 6\]](#Ftn_6_1)See 1Statement Annex 7 p 245.
+[^6]: See 1Statement Annex 7 p 245.
 
-[\[note: 7\]](#Ftn_7_1)See 1Statement at paras 60, 62.
+[^7]: See 1Statement at paras 60, 62.
 
-[\[note: 8\]](#Ftn_8_1)See 1Statement at paras 60, 62.
+[^8]: See 1Statement at paras 60, 62.
 
-[\[note: 9\]](#Ftn_9_1)1Statement Annex 10 p 499.
+[^9]: 1Statement Annex 10 p 499.
 
-[\[note: 10\]](#Ftn_10_1)See Chen Fun Gee’s (the first defendant’s) affidavit dated 14 June 2018 at para 29.
+[^10]: See Chen Fun Gee’s (the first defendant’s) affidavit dated 14 June 2018 at para 29.
 
-[\[note: 11\]](#Ftn_11_1)See 2Statement Annex 15 pp 879–880.
+[^11]: See 2Statement Annex 15 pp 879–880.
 
-[\[note: 12\]](#Ftn_12_1)See 2Statement Annex 18 pp 1248–1260.
+[^12]: See 2Statement Annex 18 pp 1248–1260.
 
-[\[note: 13\]](#Ftn_13_1)3Statement Annex 22 pp 1460–1461.
+[^13]: 3Statement Annex 22 pp 1460–1461.
 
-[\[note: 14\]](#Ftn_14_1)3Statement Annex 23 pp 1463–1468.
+[^14]: 3Statement Annex 23 pp 1463–1468.
 
-[\[note: 15\]](#Ftn_15_1)3Statement Annex 24 pp 1522–1523.
+[^15]: 3Statement Annex 24 pp 1522–1523.
 
-[\[note: 16\]](#Ftn_16_1)3Statement Annex 25 p 1525.
+[^16]: 3Statement Annex 25 p 1525.
 
-[\[note: 17\]](#Ftn_17_1)3Statement Annex 26 p 1529.
+[^17]: 3Statement Annex 26 p 1529.
 
-[\[note: 18\]](#Ftn_18_1)3Statement Annex 26 p 1530.
+[^18]: 3Statement Annex 26 p 1530.
 
-[\[note: 19\]](#Ftn_19_1)Venkataraman Anantharaman’s affidavit dated 14 June 2018 (“the second defendant’s affidavit”) at para 15.
+[^19]: Venkataraman Anantharaman’s affidavit dated 14 June 2018 (“the second defendant’s affidavit”) at para 15.
 
-[\[note: 20\]](#Ftn_20_1)See 1Statement at paras 133–136; 3Statement Annex 27 p 1532.
+[^20]: See 1Statement at paras 133–136; 3Statement Annex 27 p 1532.
 
-[\[note: 21\]](#Ftn_21_1)See 3Statement Annex 28 pp 1567–1568.
+[^21]: See 3Statement Annex 28 pp 1567–1568.
 
-[\[note: 22\]](#Ftn_22_1)See 3Statement Annex 30 pp 1582–1586.
+[^22]: See 3Statement Annex 30 pp 1582–1586.
 
-[\[note: 23\]](#Ftn_23_1)3Statement Annex 32 p 1641.
+[^23]: 3Statement Annex 32 p 1641.
 
-[\[note: 24\]](#Ftn_24_1)See 3Statement Annex 34 pp 1661–1662.
+[^24]: See 3Statement Annex 34 pp 1661–1662.
 
-[\[note: 25\]](#Ftn_25_1)See the second defendant’s affidavit at para 135.
+[^25]: See the second defendant’s affidavit at para 135.
 
-[\[note: 26\]](#Ftn_26_1)3Statement Annex 37 p 1916.
+[^26]: 3Statement Annex 37 p 1916.
 
-[\[note: 27\]](#Ftn_27_1)While the parties informed the court that the CC had made _seven_ of these 13 applications for EOTs after its extended deadline to complete its inquiry (see _eg_, Defendants’ Written Submissions at para 229), the CC in fact made _eight_ applications after its extended deadline (the eighth pertained to the 13th application for an EOT).
+[^27]: While the parties informed the court that the CC had made _seven_ of these 13 applications for EOTs after its extended deadline to complete its inquiry (see _eg_, Defendants’ Written Submissions at para 229), the CC in fact made _eight_ applications after its extended deadline (the eighth pertained to the 13th application for an EOT).
 
-[\[note: 28\]](#Ftn_28_1)See Plaintiff’s Submissions for OS 514/2018 at para 84.
+[^28]: See Plaintiff’s Submissions for OS 514/2018 at para 84.
 
-[\[note: 29\]](#Ftn_29_1)See Plaintiff’s Submissions for OS 514/2018 at paras 86–87, 108.
+[^29]: See Plaintiff’s Submissions for OS 514/2018 at paras 86–87, 108.
 
-[\[note: 30\]](#Ftn_30_1)See Plaintiff’s Submissions for OS 514/2018 at para 88.
+[^30]: See Plaintiff’s Submissions for OS 514/2018 at para 88.
 
-[\[note: 31\]](#Ftn_31_1)See Plaintiff’s Submissions for OS 514/2018 at para 91.
+[^31]: See Plaintiff’s Submissions for OS 514/2018 at para 91.
 
-[\[note: 32\]](#Ftn_32_1)See Plaintiff’s Submissions for OS 514/2018 at para 134.
+[^32]: See Plaintiff’s Submissions for OS 514/2018 at para 134.
 
-[\[note: 33\]](#Ftn_33_1)See Plaintiff’s Submissions for OS 514/2018 at paras 92, 133.
+[^33]: See Plaintiff’s Submissions for OS 514/2018 at paras 92, 133.
 
-[\[note: 34\]](#Ftn_34_1)See Plaintiff’s Submissions for OS 514/2018 at para 93.
+[^34]: See Plaintiff’s Submissions for OS 514/2018 at para 93.
 
-[\[note: 35\]](#Ftn_35_1)See Defendants’ Written Submissions at paras 196, 209.
+[^35]: See Defendants’ Written Submissions at paras 196, 209.
 
-[\[note: 36\]](#Ftn_36_1)See Defendants’ Written Submissions at paras 199, 208.
+[^36]: See Defendants’ Written Submissions at paras 199, 208.
 
-[\[note: 37\]](#Ftn_37_1)See Defendants’ Written Submissions at paras 211–212.
+[^37]: See Defendants’ Written Submissions at paras 211–212.
 
-[\[note: 38\]](#Ftn_38_1)See Defendants’ Written Submissions at para 264.
+[^38]: See Defendants’ Written Submissions at para 264.
 
-[\[note: 39\]](#Ftn_39_1)See Defendants’ Written Submissions at para 182.
+[^39]: See Defendants’ Written Submissions at para 182.
 
-[\[note: 40\]](#Ftn_40_1)See Plaintiff’s Submissions for OS 514/2018 at para 100.
+[^40]: See Plaintiff’s Submissions for OS 514/2018 at para 100.
 
-[\[note: 41\]](#Ftn_41_1)See Plaintiff’s Submissions for OS 514/2018 at paras 103–104.
+[^41]: See Plaintiff’s Submissions for OS 514/2018 at paras 103–104.
 
-[\[note: 42\]](#Ftn_42_1)See Plaintiff’s Submissions for OS 514/2018 at paras 108(b)–108(c).
+[^42]: See Plaintiff’s Submissions for OS 514/2018 at paras 108(b)–108(c).
 
-[\[note: 43\]](#Ftn_43_1)See Plaintiff’s Submissions for OS 514/2018 at paras 114–115.
+[^43]: See Plaintiff’s Submissions for OS 514/2018 at paras 114–115.
 
-[\[note: 44\]](#Ftn_44_1)See Plaintiff’s Bundle of Documents (Extensions of Time).
+[^44]: See Plaintiff’s Bundle of Documents (Extensions of Time).
 
-[\[note: 45\]](#Ftn_45_1)See Plaintiff’s Submissions for OS 514/2018 at paras 122–123.
+[^45]: See Plaintiff’s Submissions for OS 514/2018 at paras 122–123.
 
-[\[note: 46\]](#Ftn_46_1)See the second defendant’s affidavit at para 21.
+[^46]: See the second defendant’s affidavit at para 21.
 
-[\[note: 47\]](#Ftn_47_1)See Defendants’ Written Submissions at paras 7–8.
+[^47]: See Defendants’ Written Submissions at paras 7–8.
 
-[\[note: 48\]](#Ftn_48_1)See Plaintiff’s Submissions for OS 514/2018 at paras 66, 68–69, 72, 137–138, 146(a).
+[^48]: See Plaintiff’s Submissions for OS 514/2018 at paras 66, 68–69, 72, 137–138, 146(a).
 
-[\[note: 49\]](#Ftn_49_1)See Plaintiff’s Submissions for OS 514/2018 at para 73(a).
+[^49]: See Plaintiff’s Submissions for OS 514/2018 at para 73(a).
 
-[\[note: 50\]](#Ftn_50_1)See Plaintiff’s Submissions for OS 514/2018 at paras 73(c), 135.
+[^50]: See Plaintiff’s Submissions for OS 514/2018 at paras 73(c), 135.
 
-[\[note: 51\]](#Ftn_51_1)See Plaintiff’s Submissions for OS 514/2018 at para 73(b).
+[^51]: See Plaintiff’s Submissions for OS 514/2018 at para 73(b).
 
-[\[note: 52\]](#Ftn_52_1)See Plaintiff’s Submissions for OS 514/2018 at para 56.
+[^52]: See Plaintiff’s Submissions for OS 514/2018 at para 56.
 
-[\[note: 53\]](#Ftn_53_1)3Statement Annex 32 p 1641.
+[^53]: 3Statement Annex 32 p 1641.
 
-[\[note: 54\]](#Ftn_54_1)See 3Statement Annex 26 p 1530.
+[^54]: See 3Statement Annex 26 p 1530.
 
-[\[note: 55\]](#Ftn_55_1)See the second defendant’s affidavit at para 141(c).
+[^55]: See the second defendant’s affidavit at para 141(c).
 
-[\[note: 56\]](#Ftn_56_1)See Plaintiff’s Submissions for OS 514/2018 at paras 68, 138.
+[^56]: See Plaintiff’s Submissions for OS 514/2018 at paras 68, 138.
 
-[\[note: 57\]](#Ftn_57_1)See Plaintiff’s Submissions for OS 514/2018 at para 67.
+[^57]: See Plaintiff’s Submissions for OS 514/2018 at para 67.
 
-[\[note: 58\]](#Ftn_58_1)See Defendants’ Written Submissions at para 252(b).
+[^58]: See Defendants’ Written Submissions at para 252(b).
 
-[\[note: 59\]](#Ftn_59_1)See Defendants’ Written Submissions at paras 187–189.
+[^59]: See Defendants’ Written Submissions at paras 187–189.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F22894-SSP.xml)

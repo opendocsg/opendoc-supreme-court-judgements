@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # BNA _v_ BNB and another  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Originating Summons No 938 of 2017</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">01 July 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Vinodh Coomaraswamy J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Thio Shen Yi SC, Thara Rubini Gopalan and Andrew Neil Purchase (TSMP Law Corporation) for the plaintiff; William Ong, Tan Xeauwei and Sheryl Lauren Koh Quanli (Allen &amp; Gledhill LLP) for the defendants.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">BNA — BNB — BNC</td></tr></tbody></table>
@@ -12,11 +13,11 @@ Arbitration – Arbitral tribunal – Jurisdiction
 
 ## Introduction
 
-1       The plaintiff brings this application under s 10(3) of the International Arbitration Act (Cap 143A, 2002 Rev Ed) (“the Act”). By this application, the plaintiff invites the court to declare[\[note: 1\]](#Ftn_1) that a three-member tribunal appointed by the Singapore International Arbitration Centre (“SIAC”) to arbitrate a dispute between the defendants and the plaintiff lacks the jurisdiction to do so.
+1       The plaintiff brings this application under s 10(3) of the International Arbitration Act (Cap 143A, 2002 Rev Ed) (“the Act”). By this application, the plaintiff invites the court to declare[^1] that a three-member tribunal appointed by the Singapore International Arbitration Centre (“SIAC”) to arbitrate a dispute between the defendants and the plaintiff lacks the jurisdiction to do so.
 
-2       The parties’ dispute arises out of a contract which the plaintiff entered into with the first defendant in 2012. That contract is known as the Takeout Agreement.[\[note: 2\]](#Ftn_2) In 2013,[\[note: 3\]](#Ftn_3) all three parties agreed to modify the Takeout Agreement by entering into an addendum to it. Under the addendum, the second defendant took over from the first defendant all of the first defendant’s obligations to the plaintiff under the Takeout Agreement. The result of the addendum was that the first defendant immediately ceased to owe any primary performance obligations to the plaintiff under the Takeout Agreement. But the addendum expressly provided that the first defendant was nevertheless to be liable to the plaintiff, jointly and severally with the second defendant, for any failure by the second defendant to perform its newly-acquired obligations under the Takeout Agreement.
+2       The parties’ dispute arises out of a contract which the plaintiff entered into with the first defendant in 2012. That contract is known as the Takeout Agreement.[^2] In 2013,[^3] all three parties agreed to modify the Takeout Agreement by entering into an addendum to it. Under the addendum, the second defendant took over from the first defendant all of the first defendant’s obligations to the plaintiff under the Takeout Agreement. The result of the addendum was that the first defendant immediately ceased to owe any primary performance obligations to the plaintiff under the Takeout Agreement. But the addendum expressly provided that the first defendant was nevertheless to be liable to the plaintiff, jointly and severally with the second defendant, for any failure by the second defendant to perform its newly-acquired obligations under the Takeout Agreement.
 
-3       The critical provision of the Takeout Agreement for the purposes of this application is Article 14. Article 14 serves two purposes. First, it records the parties’ express choice of the law of the People’s Republic of China (“the PRC”) to govern the Takeout Agreement. Second, it contains the parties’ arbitration agreement. Article 14 provides as follows:[\[note: 4\]](#Ftn_4)
+3       The critical provision of the Takeout Agreement for the purposes of this application is Article 14. Article 14 serves two purposes. First, it records the parties’ express choice of the law of the People’s Republic of China (“the PRC”) to govern the Takeout Agreement. Second, it contains the parties’ arbitration agreement. Article 14 provides as follows:[^4]
 
 ARTICLE 14: DISPUTES
 
@@ -24,21 +25,21 @@ ARTICLE 14: DISPUTES
 
 14.2  With respect to any and all disputes arising out of or relating to this Agreement, the Parties shall initially attempt in good faith to resolve all disputes amicably between themselves. If such negotiations fail, it is agreed by both parties that such disputes shall be finally submitted to the Singapore International Arbitration Centre (SIAC) for arbitration in Shanghai, which will be conducted in accordance with its Arbitration Rules. The arbitration shall be final and binding on both Parties.
 
-4       The addendum expressly provides that it constitutes an indivisible part of the Takeout Agreement, which is to remain in full effect to the extent that the addendum has not modified it.[\[note: 5\]](#Ftn_5) The result is that Article 14 governs a single indivisible agreement comprising both the Takeout Agreement and the addendum. The addendum thus turned the Takeout Agreement in general, and Article 14.2 in particular, from a bipartite agreement between the plaintiff and the first defendant into a tripartite agreement between the plaintiff and both defendants. The addendum also extended the scope of Article 14.2 to encompass disputes not only under the original Takeout Agreement but also under the addendum. I shall henceforth use the term “Takeout Agreement” to refer to the single indivisible agreement comprising both the original Takeout Agreement and the addendum.
+4       The addendum expressly provides that it constitutes an indivisible part of the Takeout Agreement, which is to remain in full effect to the extent that the addendum has not modified it.[^5] The result is that Article 14 governs a single indivisible agreement comprising both the Takeout Agreement and the addendum. The addendum thus turned the Takeout Agreement in general, and Article 14.2 in particular, from a bipartite agreement between the plaintiff and the first defendant into a tripartite agreement between the plaintiff and both defendants. The addendum also extended the scope of Article 14.2 to encompass disputes not only under the original Takeout Agreement but also under the addendum. I shall henceforth use the term “Takeout Agreement” to refer to the single indivisible agreement comprising both the original Takeout Agreement and the addendum.
 
 5       The parties’ arbitration agreement manifests the parties’ unambiguous and unqualified intention to arbitrate “any and all disputes arising out of or relating to” the Takeout Agreement. The plaintiff’s case on this application, however, is that the tribunal lacks jurisdiction to resolve all such disputes because the arbitration agreement is invalid under its proper law, being PRC law. The question before me is therefore whether the parties nullified their manifest intention to arbitrate disputes under the Takeout Agreement by making PRC law its proper law.
 
 ### The arbitration and the tribunal’s decision on jurisdiction
 
-6       The defendants commenced the underlying arbitration in 2016 by lodging a notice of arbitration[\[note: 6\]](#Ftn_6) against the plaintiff with the SIAC under the Arbitration Rules of the SIAC (5th Edition, 2013).[\[note: 7\]](#Ftn_7) In its response to the notice of arbitration, _ie_ from the very outset of the arbitration, the plaintiff challenged the tribunal’s jurisdiction.[\[note: 8\]](#Ftn_8)
+6       The defendants commenced the underlying arbitration in 2016 by lodging a notice of arbitration[^6] against the plaintiff with the SIAC under the Arbitration Rules of the SIAC (5th Edition, 2013).[^7] In its response to the notice of arbitration, _ie_ from the very outset of the arbitration, the plaintiff challenged the tribunal’s jurisdiction.[^8]
 
-7       The SIAC appointed a tribunal comprising three arbitrators: Mr Hee Theng Fong as chair with Mr Philip Yang and Ms Teresa Cheng SC on the wings. The tribunal gave directions for the plaintiff’s jurisdictional challenge to be determined.[\[note: 9\]](#Ftn_9) The parties exchanged written submissions on the issue of jurisdiction.[\[note: 10\]](#Ftn_10)
+7       The SIAC appointed a tribunal comprising three arbitrators: Mr Hee Theng Fong as chair with Mr Philip Yang and Ms Teresa Cheng SC on the wings. The tribunal gave directions for the plaintiff’s jurisdictional challenge to be determined.[^9] The parties exchanged written submissions on the issue of jurisdiction.[^10]
 
-8       In due course, the tribunal handed down its decision on jurisdiction. A majority of the tribunal, comprising Mr Hee Theng Fong and Mr Philip Yang, held that the tribunal _had_ jurisdiction in the arbitration because: (i) the arbitration is seated in Singapore; (ii) the arbitration agreement is thereby governed by Singapore law; and (iii) PRC law is therefore irrelevant on the question of jurisdiction.[\[note: 11\]](#Ftn_11) Ms Teresa Cheng SC, dissenting, held that the tribunal _lacked_ jurisdiction because: (i) the proper law of the parties’ arbitration agreement is PRC law; (ii) the parties’ dispute is classified in PRC law as a domestic dispute; and (iii) PRC law prohibits a foreign arbitral institution from administering the arbitration of a domestic dispute.[\[note: 12\]](#Ftn_12)
+8       In due course, the tribunal handed down its decision on jurisdiction. A majority of the tribunal, comprising Mr Hee Theng Fong and Mr Philip Yang, held that the tribunal _had_ jurisdiction in the arbitration because: (i) the arbitration is seated in Singapore; (ii) the arbitration agreement is thereby governed by Singapore law; and (iii) PRC law is therefore irrelevant on the question of jurisdiction.[^11] Ms Teresa Cheng SC, dissenting, held that the tribunal _lacked_ jurisdiction because: (i) the proper law of the parties’ arbitration agreement is PRC law; (ii) the parties’ dispute is classified in PRC law as a domestic dispute; and (iii) PRC law prohibits a foreign arbitral institution from administering the arbitration of a domestic dispute.[^12]
 
 ### The plaintiff commences this application
 
-9       The plaintiff now applies under s 10(3) of the Act to have it declared, contrary to the majority decision of the tribunal, that the tribunal has no jurisdiction in the arbitration. The plaintiff makes this application in Singapore because the tribunal has decided, albeit by a majority, that the arbitration is seated in Singapore. The parties have submitted to the jurisdiction of the courts of Singapore for the purposes of this application.[\[note: 13\]](#Ftn_13)
+9       The plaintiff now applies under s 10(3) of the Act to have it declared, contrary to the majority decision of the tribunal, that the tribunal has no jurisdiction in the arbitration. The plaintiff makes this application in Singapore because the tribunal has decided, albeit by a majority, that the arbitration is seated in Singapore. The parties have submitted to the jurisdiction of the courts of Singapore for the purposes of this application.[^13]
 
 10     It is common ground between the parties that I am to determine the question of jurisdiction afresh, by undertaking a hearing _de novo_. An application under s 10(3) of the Act is neither an application to set aside the tribunal’s majority decision on jurisdiction nor an appeal against that decision. In order to succeed on this application, therefore, the plaintiff need not satisfy the grounds for setting aside an award specified in the Act or even show that the tribunal fell into error in its majority decision. As Steven Chong J (as he then was) said in _BCY v BCZ_ (“_BCY_”) at \[36\]:
 
@@ -46,7 +47,7 @@ Pursuant to s 10(3) of the IAA, the court undertakes a _de novo_ review of the i
 
 ### The parties’ respective cases on this application
 
-11     The plaintiff’s case on this application is that the tribunal lacks jurisdiction to arbitrate the parties’ dispute because their arbitration agreement is invalid under its proper law.[\[note: 14\]](#Ftn_14) The plaintiff’s case proceeds as follows:[\[note: 15\]](#Ftn_15)
+11     The plaintiff’s case on this application is that the tribunal lacks jurisdiction to arbitrate the parties’ dispute because their arbitration agreement is invalid under its proper law.[^14] The plaintiff’s case proceeds as follows:[^15]
 
 (a)     PRC law is the proper law of the parties’ arbitration agreement.
 
@@ -54,15 +55,15 @@ Pursuant to s 10(3) of the IAA, the court undertakes a _de novo_ review of the i
 
 (c)     Alternatively, even if the parties’ dispute _does_ satisfy PRC law’s “foreign elements” test, PRC law prohibits an arbitration which has its seat in the PRC from being administered by a foreign arbitral institution such as the SIAC The parties’ arbitration agreement provides that the seat of any arbitration between the parties is to be Shanghai. Accordingly, on this alternative ground also, the parties’ arbitration agreement is invalid under its proper law.
 
-The plaintiff therefore submits that the only dispute-resolution mechanism open to the defendants is litigation in the courts of the PRC.[\[note: 16\]](#Ftn_16)
+The plaintiff therefore submits that the only dispute-resolution mechanism open to the defendants is litigation in the courts of the PRC.[^16]
 
-12     The defendants’ case on this application is that the tribunal has jurisdiction to arbitrate the parties’ dispute because the arbitration agreement is valid and, insofar as PRC law is relevant, does not contravene PRC law. The defendants’ case proceeds as follows:[\[note: 17\]](#Ftn_17)
+12     The defendants’ case on this application is that the tribunal has jurisdiction to arbitrate the parties’ dispute because the arbitration agreement is valid and, insofar as PRC law is relevant, does not contravene PRC law. The defendants’ case proceeds as follows:[^17]
 
 (a)     The seat of the arbitration is Singapore and not the PRC;
 
 (b)     The parties’ implied choice as the proper law of their arbitration agreement is Singapore law and not PRC law; and
 
-(c)     It is common ground between the parties that, if the proper law of the parties’ arbitration agreement is Singapore law, the arbitration agreement is valid and the tribunal does have jurisdiction.[\[note: 18\]](#Ftn_18)
+(c)     It is common ground between the parties that, if the proper law of the parties’ arbitration agreement is Singapore law, the arbitration agreement is valid and the tribunal does have jurisdiction.[^18]
 
 13     Four critical questions therefore lie at the heart of this application. First, what is the proper law of the parties’ arbitration agreement? Is it PRC law, given that that is their express choice to be the proper law of the Takeout Agreement? Second, what is the seat of the parties’ arbitration? Is it the PRC, being the jurisdiction in which Shanghai – the only geographical location expressly referred to in the arbitration agreement – is situated? Third, what is the interplay between the proper law of the Takeout Agreement and the arbitral law of the seat chosen by the parties in their arbitration agreement when it comes to ascertaining the proper law of the parties’ arbitration agreement? Finally, if the proper law of the parties’ arbitration agreement is PRC law, is the plaintiff correct that the agreement is invalid under PRC law?
 
@@ -74,7 +75,7 @@ The plaintiff therefore submits that the only dispute-resolution mechanism open 
 
 15     There are, broadly speaking, two approaches to choosing the starting point for ascertaining the proper law of an arbitration agreement. One approach proceeds bottom up and the other proceeds top down. The bottom up approach begins with the arbitration agreement itself, construes it to ascertain the seat which the parties have chosen for their arbitrations and identifies the law of that seat as the starting point for ascertaining the proper law of the arbitration agreement. The top down approach begins with the substantive contract into which the arbitration agreement is integrated, construes that contract to ascertain its proper law and then identifies that law as the starting point for ascertaining the proper law of the arbitration agreement. Each approach acknowledges that the starting point which it yields may be displaced upon further analysis. But, to the extent that each approach does identify a starting point, each approach inclines towards that starting point as the end point of the inquiry.
 
-16     It is common ground before me that Singapore law has adopted the top-down approach.[\[note: 19\]](#Ftn_19) The parties are therefore agreed as regards the principles I am to apply in order to ascertain the proper law of this arbitration agreement.[\[note: 20\]](#Ftn_20) Both parties cite and rely upon the decision of the English Court of Appeal in _Sulamérica Cia Nacional de Seguros SA and others v Enesa Engelharia SA and others_ [\[note: 21\]](#Ftn_21) (“_Sulamérica_”), of Steven Chong J (as he then was) in _BCY_ and of Belinda Ang J in _BMO v BMP_ (“_BMO_”).
+16     It is common ground before me that Singapore law has adopted the top-down approach.[^19] The parties are therefore agreed as regards the principles I am to apply in order to ascertain the proper law of this arbitration agreement.[^20] Both parties cite and rely upon the decision of the English Court of Appeal in _Sulamérica Cia Nacional de Seguros SA and others v Enesa Engelharia SA and others_ [^21] (“_Sulamérica_”), of Steven Chong J (as he then was) in _BCY_ and of Belinda Ang J in _BMO v BMP_ (“_BMO_”).
 
 17     I can summarise the applicable principles as follows:
 
@@ -94,9 +95,9 @@ The plaintiff therefore submits that the only dispute-resolution mechanism open 
 
 ### Why Singapore law?
 
-19     I have avoided until now a threshold issue on the first question before me. That question is what law I should apply in order to ascertain the proper law of the parties’ arbitration agreement. The plaintiff submits that I should ascertain the proper law of the parties’ arbitration agreement by applying Singapore’s conflict of laws rules.[\[note: 22\]](#Ftn_22) I accept that submission, and proceed on that basis.
+19     I have avoided until now a threshold issue on the first question before me. That question is what law I should apply in order to ascertain the proper law of the parties’ arbitration agreement. The plaintiff submits that I should ascertain the proper law of the parties’ arbitration agreement by applying Singapore’s conflict of laws rules.[^22] I accept that submission, and proceed on that basis.
 
-20     In any event, the plaintiff’s alternative submission[\[note: 23\]](#Ftn_23) is that PRC law approaches the task of ascertaining the proper law of an arbitration agreement in much the same way as Singapore law, at least on the first and second stages of the three-stage inquiry. In other words, PRC law too attempts first to ascertain the parties’ express or implied agreement as to the proper law of their arbitration agreement. It is only if there is no such express or implied agreement that PRC law diverges from Singapore law. In that situation, PRC will hold that the law of the seat is the proper law of the parties’ arbitration agreement whereas Singapore law undertakes the multi-factorial analysis mandated by the third stage of the three-stage inquiry to ascertain the proper law to be imputed to the parties in the absence of an express or implied agreement.
+20     In any event, the plaintiff’s alternative submission[^23] is that PRC law approaches the task of ascertaining the proper law of an arbitration agreement in much the same way as Singapore law, at least on the first and second stages of the three-stage inquiry. In other words, PRC law too attempts first to ascertain the parties’ express or implied agreement as to the proper law of their arbitration agreement. It is only if there is no such express or implied agreement that PRC law diverges from Singapore law. In that situation, PRC will hold that the law of the seat is the proper law of the parties’ arbitration agreement whereas Singapore law undertakes the multi-factorial analysis mandated by the third stage of the three-stage inquiry to ascertain the proper law to be imputed to the parties in the absence of an express or implied agreement.
 
 21     The analysis which follows will show that this divergence between Singapore law and PRC law on the first question before me makes no material difference to the outcome of this application. I shall, therefore, proceed on the basis that the first question is to be decided by applying Singapore law and that there is no material difference between Singapore law and PRC law on this question.
 
@@ -138,7 +139,7 @@ These clauses will need to be interpreted by arbitrators, and by the courts revi
 
 #### Evidence of pre-contractual negotiations
 
-29     The defendants submit that it is legitimate for me, as an aid to construing the parties’ arbitration agreement, to take into consideration evidence extrinsic to the Takeout Agreement. This evidence comprises: (i) previous drafts of the arbitration agreement; (ii) evidence of the pre-contractual negotiations between the parties which led to the arbitration agreement in its final form; and (iii) affidavit evidence filed by a witness for the defendants as to his intention in the course of those pre-contractual negotiations.[\[note: 24\]](#Ftn_24)
+29     The defendants submit that it is legitimate for me, as an aid to construing the parties’ arbitration agreement, to take into consideration evidence extrinsic to the Takeout Agreement. This evidence comprises: (i) previous drafts of the arbitration agreement; (ii) evidence of the pre-contractual negotiations between the parties which led to the arbitration agreement in its final form; and (iii) affidavit evidence filed by a witness for the defendants as to his intention in the course of those pre-contractual negotiations.[^24]
 
 30     I reject the defendants’ submission. For the following reasons, I disregard the extrinsic evidence which the defendants proffer as an aid to construing the arbitration agreement.
 
@@ -148,21 +149,21 @@ These clauses will need to be interpreted by arbitrators, and by the courts revi
 
 33     The parol evidence rule and its exceptions form, simultaneously, a part of Singapore’s substantive law of contract, a part of Singapore’s statutory law of evidence and a part of Singapore’s common law of evidence. To the extent that the parol evidence rule and its exceptions are part of Singapore’s law of evidence, they are found in ss 94 to 99 of the Evidence Act (Cap 97, 1997 Rev Ed) (the “Evidence Act”) in Singapore’s statutory law of evidence and are mirrored by analogous rules in Singapore’s common law of evidence.
 
-34     The defendants’ argument on the first preliminary point relies on the decision of Quentin Loh J in _BQP v BQQ_ (“_BQP_”).[\[note: 25\]](#Ftn_25) In that case, Loh J dismissed a plaintiff’s challenge to an arbitral tribunal’s decision on jurisdiction under the same s 10(3) of the Act (at \[1\]). The plaintiff then applied to Loh J under s 10(4) of the Act for leave to appeal against his decision to the Court of Appeal (at \[3\]). The plaintiff argued that leave to appeal should be granted because: (i) its application under s 10(3) of the Act raised a question of law as to whether evidence of pre-contractual negotiations is admissible for the purposes of construing a written contract under Singapore law; and (ii) that question was either a question of principle to be decided for the first time or a question of importance upon which further argument and a decision of a higher tribunal would be to the public advantage.
+34     The defendants’ argument on the first preliminary point relies on the decision of Quentin Loh J in _BQP v BQQ_ (“_BQP_”).[^25] In that case, Loh J dismissed a plaintiff’s challenge to an arbitral tribunal’s decision on jurisdiction under the same s 10(3) of the Act (at \[1\]). The plaintiff then applied to Loh J under s 10(4) of the Act for leave to appeal against his decision to the Court of Appeal (at \[3\]). The plaintiff argued that leave to appeal should be granted because: (i) its application under s 10(3) of the Act raised a question of law as to whether evidence of pre-contractual negotiations is admissible for the purposes of construing a written contract under Singapore law; and (ii) that question was either a question of principle to be decided for the first time or a question of importance upon which further argument and a decision of a higher tribunal would be to the public advantage.
 
 35     Loh J refused the plaintiff’s application for leave to appeal. He held that there is no rule of evidence applicable in arbitrations in Singapore which excludes evidence of pre-contractual negotiations for the purpose of construing a written contract. Loh J concluded therefore that the question of law identified by the plaintiff did not satisfy the test for granting leave to appeal to the Court of Appeal. He arrived at that conclusion for both a statutory and a contractual reason.
 
 36     Loh J’s statutory reason is that ss 94 to 99 of the Evidence Act simply do not apply to arbitration. Section 2(1) of the Evidence Act expressly disapplies Part I, II and III of that Act to “proceedings before an arbitrator” (_BQP_ at \[124\]). It is Part II of the Act which contains ss 94 to 99 of the Evidence Act. Singapore law’s _statutory_ parol evidence rule therefore has no application to arbitration, whether domestic or international.
 
-37     Loh J’s contractual reason is that the parties in the case before him had contracted out of Singapore’s domestic law of evidence, including the parol evidence rule. The parties had incorporated by reference the Arbitration Rules of the Singapore International Arbitration Centre (5th Edition, 2013) (“the SIAC Rules”) into their arbitration agreement (at \[127\]). Rule 16.2 of the SIAC Rules[\[note: 26\]](#Ftn_26) provides that it is entirely within the tribunal’s power to determine the admissibility, materiality and weight of any evidence and may receive evidence which is not admissible in law.[\[note: 27\]](#Ftn_27)
+37     Loh J’s contractual reason is that the parties in the case before him had contracted out of Singapore’s domestic law of evidence, including the parol evidence rule. The parties had incorporated by reference the Arbitration Rules of the Singapore International Arbitration Centre (5th Edition, 2013) (“the SIAC Rules”) into their arbitration agreement (at \[127\]). Rule 16.2 of the SIAC Rules[^26] provides that it is entirely within the tribunal’s power to determine the admissibility, materiality and weight of any evidence and may receive evidence which is not admissible in law.[^27]
 
 38     Loh J pointed out that many international arbitral institutions around the world include a rule analogous to Rule 16.2 of the SIAC Rules (at \[128\]). They do so in order to uphold rather than defeat the procedural expectations of parties involved in arbitration, and in particular in international arbitration (at \[126\]). Parties to an international arbitration, particularly those from civil law jurisdictions, expect their disputes to be resolved subject to an evidential principle of free admissibility, shorn of any technicalities of the seat’s domestic law of evidence, with factors which would otherwise go to the admissibility of the evidence in question going instead only to the weight to be attached to that evidence.
 
 39     Loh J also observed that the concern in domestic litigation that receiving evidence of pre-contractual negotiations would expand the scope of discovery and the volume of evidence without any appreciable improvement in the accuracy of the decision was of significantly less force in international arbitration. Arbitral tribunals have tools at their disposal, such as the International Bar Association’s Rules on the Taking of Evidence in International Arbitration (“the IBA Rules”), to keep discovery within reasonable and proportionate bounds and to ensure that the arbitration proceeds expeditiously and cost-effectively (at \[129\]). In the arbitration underlying the application before Loh J, the parties had expressly adopted the IBA Rules.
 
-40     The defendants argue before me, on the basis of _BQP_, that evidence of the parties’ pre-contractual negotiations is admissible on the application before me.[\[note: 28\]](#Ftn_28) Just as in _BQP_, the parties before me have expressly incorporated by reference the SIAC Rules into their arbitration agreement, including Rule 16.2. Just as in _BQP_, the parties before me have expressly agreed that their arbitration is to be conducted in accordance with the IBA Rules.[\[note: 29\]](#Ftn_29) The defendants submit, further, that evidence of the parties’ pre-contractual negotiations is clearly relevant and material since the evidence shows that the plaintiff and the first defendant agreed that any arbitration was to be seated, not in the PRC, but in Singapore as a neutral and third-country venue.[\[note: 30\]](#Ftn_30)
+40     The defendants argue before me, on the basis of _BQP_, that evidence of the parties’ pre-contractual negotiations is admissible on the application before me.[^28] Just as in _BQP_, the parties before me have expressly incorporated by reference the SIAC Rules into their arbitration agreement, including Rule 16.2. Just as in _BQP_, the parties before me have expressly agreed that their arbitration is to be conducted in accordance with the IBA Rules.[^29] The defendants submit, further, that evidence of the parties’ pre-contractual negotiations is clearly relevant and material since the evidence shows that the plaintiff and the first defendant agreed that any arbitration was to be seated, not in the PRC, but in Singapore as a neutral and third-country venue.[^30]
 
-41     I do not accept that I can have recourse to evidence of the parties’ pre-contractual negotiations as an aid on the question of construction which lies at the heart of this application. I arrive at that conclusion because the Takeout Agreement contains an entire agreement clause. Article 16.3 of the Takeout Agreement[\[note: 31\]](#Ftn_31) reads as follows:
+41     I do not accept that I can have recourse to evidence of the parties’ pre-contractual negotiations as an aid on the question of construction which lies at the heart of this application. I arrive at that conclusion because the Takeout Agreement contains an entire agreement clause. Article 16.3 of the Takeout Agreement[^31] reads as follows:
 
 This Agreement has constructed \[sic\] as all understandings of the Parties with respect to the Subject matter hereof and shall supersede any agreement, negotiation, discussion and understanding heretofore…
 
@@ -170,7 +171,7 @@ This Agreement has constructed \[sic\] as all understandings of the Parties with
 
 43     That is precisely what the parties to the Takeout Agreement did in Article 16.3. The parties contracted out of the parol evidence rule as a rule of Singapore’s evidence law when they incorporated by reference the SIAC Rules into their arbitration agreement. But they reintroduced a contractual analogue of the parol evidence rule by incorporating Article 16.3 into the Takeout Agreement. The parties have, by contract, precluded each other from adducing evidence of their pre-contractual negotiations, including previous drafts of the Takeout Agreement, as an aid to construing their arbitration agreement. That is the contractual effect of Article 16.3 whether the legitimacy of recourse to this evidence were to arise in arbitration or in litigation.
 
-44     I have thus far considered the availability of the extrinsic evidence proffered by the defendants as an aid to construing the parties’ arbitration agreement under Singapore law. But I accept the plaintiff’s submission that that evidence is excluded even under PRC law. Under PRC law, there is a blanket rule denying an adjudicator any power to receive extrinsic evidence of this type as an aid to construction. Thus, the plaintiff’s expert, Professor Chen, opines in her third Report[\[note: 32\]](#Ftn_32) that:
+44     I have thus far considered the availability of the extrinsic evidence proffered by the defendants as an aid to construing the parties’ arbitration agreement under Singapore law. But I accept the plaintiff’s submission that that evidence is excluded even under PRC law. Under PRC law, there is a blanket rule denying an adjudicator any power to receive extrinsic evidence of this type as an aid to construction. Thus, the plaintiff’s expert, Professor Chen, opines in her third Report[^32] that:
 
 … construction / interpretation of contract terms is a legal issue rather than a fact-finding issue; those interpretative canons set forth under Article 125 of the Contract Law are legal tools provided for an adjudicator to construct contract terms. None of these canons require an adjudicator to explore the parties' subjective intention in light of the totality of factual circumstances. Accordingly, when the adjudicator exercises its power to interpret any contract terms including an arbitration clause, he is addressing a legal question on the basis of those canons expressly set forth under the Contract Law. The adjudicator is therefore not bound, nor does he have any power, to accept any factual evidence of subjective intent to determine the proper interpretation.
 
@@ -192,7 +193,7 @@ I accept that this proposition represents PRC law on the first preliminary point
 
 50     The third preliminary point is the defendants’ reliance on what is called “the validation principle”. Like the effective interpretation principle, the validation principle is also a principle drawn from international arbitration law. However, unlike the principle of effective interpretation – which operates generally when construing an arbitration agreement – the validation principle operates specifically when ascertaining the proper law of an arbitration agreement.
 
-51     The defendants rely on Professor Gary Born’s formulation of the validation principle in the following terms: “Where the parties have subjected their underlying contract to a law that would, if applied to their arbitration agreement, invalidate that agreement, the separability presumption provides sound analytical reason not to apply that law to the parties’ arbitration agreement.”[\[note: 33\]](#Ftn_33) (Gary Born, _International Commercial Arbitration_ (Kluwer Law International, 2nd Ed, 2014) at pp 24-27) That formulation is in negative terms: it tells us what the proper law of an arbitration agreement _is not_, but does not tell us what it _is_. Professor Born has also put the validation principle in positive terms in his article “The Law Governing International Arbitration Agreements: An International Perspective” at \[51\]: The “validation principle provides that, if an international arbitration agreement is substantively valid under any of the laws that may potentially be applicable to it, then its validity will be upheld, even if it is not valid under any of the other potentially applicable choices of law”.
+51     The defendants rely on Professor Gary Born’s formulation of the validation principle in the following terms: “Where the parties have subjected their underlying contract to a law that would, if applied to their arbitration agreement, invalidate that agreement, the separability presumption provides sound analytical reason not to apply that law to the parties’ arbitration agreement.”[^33] (Gary Born, _International Commercial Arbitration_ (Kluwer Law International, 2nd Ed, 2014) at pp 24-27) That formulation is in negative terms: it tells us what the proper law of an arbitration agreement _is not_, but does not tell us what it _is_. Professor Born has also put the validation principle in positive terms in his article “The Law Governing International Arbitration Agreements: An International Perspective” at \[51\]: The “validation principle provides that, if an international arbitration agreement is substantively valid under any of the laws that may potentially be applicable to it, then its validity will be upheld, even if it is not valid under any of the other potentially applicable choices of law”.
 
 52     The validation principle may well form a part of international arbitration law. It may even form part of the domestic arbitration law of other jurisdictions. But I do not accept that the validation principle forms a part of Singapore’s arbitration law. I come to that conclusion for four reasons.
 
@@ -210,7 +211,7 @@ I accept that this proposition represents PRC law on the first preliminary point
 
 59     In both cases, the parties’ consent to the proper law chosen by the court is real, even at the third stage. The Singapore court, to whose jurisdiction the parties have submitted, finds the proper law objectively, on well-established contractual principles which at every stage has regard to the parties’ intentions, and which bind both parties in equal measure. There is no special “validation principle” in Singapore’s arbitration law which operates _only_ in the domain of arbitration agreements and _only_ to validate an arbitration agreement without a foundation in our general law of contract and without addressing the parties’ intentions.
 
-60     The defendants argue that _BCY_ is authority for the “validation principle”.[\[note: 34\]](#Ftn_34) I do not agree. The validation principle in the terms formulated by Professor Born is incompatible with the three-stage inquiry for ascertaining the proper law of an arbitration agreement which Chong J was at pains to set out in _BCY_. The validation principle would operate to exclude a candidate for the proper law of the arbitration agreement at any stage of the three-stage inquiry as soon as it was revealed that that candidate invalidated the parties’ arbitration agreement, regardless of the parties’ intent. Only the three-stage inquiry allows the court to ascertain the proper law of an arbitration agreement in a manner which places the parties’ intentions front and centre in the inquiry.
+60     The defendants argue that _BCY_ is authority for the “validation principle”.[^34] I do not agree. The validation principle in the terms formulated by Professor Born is incompatible with the three-stage inquiry for ascertaining the proper law of an arbitration agreement which Chong J was at pains to set out in _BCY_. The validation principle would operate to exclude a candidate for the proper law of the arbitration agreement at any stage of the three-stage inquiry as soon as it was revealed that that candidate invalidated the parties’ arbitration agreement, regardless of the parties’ intent. Only the three-stage inquiry allows the court to ascertain the proper law of an arbitration agreement in a manner which places the parties’ intentions front and centre in the inquiry.
 
 61     I therefore do not consider that _BCY_ is any authority for a validity principle in the terms formulated by Professor Born. Of course, as I have made clear above, both _Sulamérica_ and _BCY_ do acknowledge that the court must, at every stage, have regard to the consequence of invalidity. But that is not as an end in itself but only as a means to the end of giving effect to the parties’ intention objectively ascertained. The difference may be subtle, but the distinction is important.
 
@@ -230,7 +231,7 @@ Business men often record the most important agreements in crude and summary fas
 
 #### The doctrine of separability
 
-67     The fourth preliminary point is the plaintiff’s submission[\[note: 35\]](#Ftn_35) that the defendants cannot rely on the doctrine of separability to protect the parties’ arbitration agreement from invalidity. The plaintiff’s argument proceeds as follows. Separability operates to protect an arbitration agreement which would otherwise be valid from being rendered invalid only because the substantive contract into which it is integrated is itself invalid. The parties’ substantive contract being invalid is therefore a condition precedent to the doctrine of separability operating. Separability cannot operate to protect an arbitration agreement from invalidity where the parties’ substantive contract is _valid_, but subjects the arbitration agreement to a proper law which renders the arbitration agreement _invalid_.
+67     The fourth preliminary point is the plaintiff’s submission[^35] that the defendants cannot rely on the doctrine of separability to protect the parties’ arbitration agreement from invalidity. The plaintiff’s argument proceeds as follows. Separability operates to protect an arbitration agreement which would otherwise be valid from being rendered invalid only because the substantive contract into which it is integrated is itself invalid. The parties’ substantive contract being invalid is therefore a condition precedent to the doctrine of separability operating. Separability cannot operate to protect an arbitration agreement from invalidity where the parties’ substantive contract is _valid_, but subjects the arbitration agreement to a proper law which renders the arbitration agreement _invalid_.
 
 68     The plaintiff submits that there is no authority in Singapore for the doctrine of separability being used to protect an arbitration agreement from its own _inherent_ invalidity. Indeed, the plaintiff cites the following passage from _Sulamérica_, at \[9\] and \[26\] as authority directly against any such view of separability:
 
@@ -282,7 +283,7 @@ Article 16. Competence of arbitral tribunal to rule on its jurisdiction
 
 80     But the parties’ arbitration agreement is not set out in Article 14.1. It is set out in Article 14.2. It is apparent on its face that Article 14.2 does not contain an express choice of law. I do not consider that the parties’ express choice of PRC law to govern their substantive contract in Article 14.1 amounts to an express choice of PRC law to govern the parties’ arbitration agreement in Article 14.2.
 
-81     The plaintiff submits that it does.[\[note: 36\]](#Ftn_36) The plaintiff points out that Article 14.2 is as much a part of the Takeout Agreement as any of the substantive clauses which form part of the Takeout Agreement and which precede Article 14. And it is true that there is nothing in Article 14 or anywhere else in the Agreement to suggest that PRC law should _not_ be the proper law of the parties’ arbitration agreement.
+81     The plaintiff submits that it does.[^36] The plaintiff points out that Article 14.2 is as much a part of the Takeout Agreement as any of the substantive clauses which form part of the Takeout Agreement and which precede Article 14. And it is true that there is nothing in Article 14 or anywhere else in the Agreement to suggest that PRC law should _not_ be the proper law of the parties’ arbitration agreement.
 
 82     I do not accept the plaintiff’s submissions. The mere fact that the parties expressly chose PRC law to govern their substantive contract in Article 14.1 of the Takeout Agreement is not enough, in itself, to constitute that choice an express choice of law for the arbitration agreement integrated into their contract. The first stage would be satisfied only if the parties had, in Article 14.2, expressly provided that the proper law of their arbitration agreement was to be PRC law.
 
@@ -292,13 +293,13 @@ Article 16. Competence of arbitral tribunal to rule on its jurisdiction
 
 85     So too, in _Sulamérica_, the parties’ substantive contract provided expressly that its proper law was to be Brazilian law. The parties’ arbitration agreement immediately followed the choice of law clause and made no express reference to any law as the proper law of the arbitration agreement (at \[5\]). The parties accepted that their substantive contract was governed by Brazilian law. But neither party argued that that that choice of law amounted to an express choice of law for their arbitration agreement. As a result, the arguments before the English Court of Appeal in _Sulamérica_ were only on the second and third stages of the three-stage inquiry (at \[27\]).
 
-86     I therefore accept the defendants’ submission[\[note: 37\]](#Ftn_37) that the parties’ express choice of law in Article 14.1 does not amount to an express choice of law for the parties’ arbitration agreement so as to satisfy the first stage of the three-stage inquiry.
+86     I therefore accept the defendants’ submission[^37] that the parties’ express choice of law in Article 14.1 does not amount to an express choice of law for the parties’ arbitration agreement so as to satisfy the first stage of the three-stage inquiry.
 
 87     It is therefore necessary to go on to consider the second and third stages.
 
 ### Second stage: implied choice of law
 
-88     At the second stage of the three-stage inquiry, the proper law of the parties’ substantive contract is the starting point as to the parties’ implied choice as the proper law of their arbitration agreement (see _BCY_ at \[49\]–\[50\] and \[59\] –\[65\]).[\[note: 38\]](#Ftn_38) Indeed, _Sulamérica_ goes so far as to say that if the parties have not expressly chosen a proper law for their arbitration agreement but have expressly chosen a proper law for their substantive contract, in the absence of any indication to the contrary, that is a strong indication at the second stage of the three-stage inquiry that they have impliedly chosen the same law to be the proper law of their arbitration agreement: _Sulamérica_ at \[11\], \[25\] and \[26\]; _BCY_ at \[44(b)\], \[49\] and \[65\].
+88     At the second stage of the three-stage inquiry, the proper law of the parties’ substantive contract is the starting point as to the parties’ implied choice as the proper law of their arbitration agreement (see _BCY_ at \[49\]–\[50\] and \[59\] –\[65\]).[^38] Indeed, _Sulamérica_ goes so far as to say that if the parties have not expressly chosen a proper law for their arbitration agreement but have expressly chosen a proper law for their substantive contract, in the absence of any indication to the contrary, that is a strong indication at the second stage of the three-stage inquiry that they have impliedly chosen the same law to be the proper law of their arbitration agreement: _Sulamérica_ at \[11\], \[25\] and \[26\]; _BCY_ at \[44(b)\], \[49\] and \[65\].
 
 89     The purpose of the three-stage inquiry is to set out a consistent and principled approach to construing an arbitration agreement in order to ascertain its proper law. It is in that context that this latter observation from _Sulamérica_ ought to be read. The three-stage inquiry adopts the proper law of the parties’ substantive agreement as the starting point on the second stage in order to give effect to what will ordinarily be the intention of the parties in the bulk of cases.
 
@@ -306,7 +307,7 @@ Article 16. Competence of arbitral tribunal to rule on its jurisdiction
 
 91     I accept that the starting point on the second stage of the three-stage inquiry is, therefore, that PRC law is the parties’ implied choice as the proper law of their arbitration agreement. The plaintiff acknowledges that this is only a starting point and can be displaced by indications to the contrary. But the plaintiff submits that there are no indications in this case.
 
-92     The plaintiff makes this submission for two reasons. The first reason is that the seat selected by the parties in their arbitration agreement is the PRC. So, the plaintiff argues, PRC law is both the governing law of the parties’ substantive contract and the law of the seat chosen by the parties in their arbitration agreement. There is therefore no alternative to PRC law as the proper law of the parties’ arbitration agreement. The plaintiff’s second submission[\[note: 39\]](#Ftn_39) is that, even if the parties’ arbitration agreement is construed as agreeing that the seat of any arbitration is Singapore, the parties’ choice of a seat in a jurisdiction different from that of the proper law of the substantive contract is not in itself an indication to the contrary and cannot, without more, displace that starting point (_BCY_ at \[65\]).[\[note: 40\]](#Ftn_40)
+92     The plaintiff makes this submission for two reasons. The first reason is that the seat selected by the parties in their arbitration agreement is the PRC. So, the plaintiff argues, PRC law is both the governing law of the parties’ substantive contract and the law of the seat chosen by the parties in their arbitration agreement. There is therefore no alternative to PRC law as the proper law of the parties’ arbitration agreement. The plaintiff’s second submission[^39] is that, even if the parties’ arbitration agreement is construed as agreeing that the seat of any arbitration is Singapore, the parties’ choice of a seat in a jurisdiction different from that of the proper law of the substantive contract is not in itself an indication to the contrary and cannot, without more, displace that starting point (_BCY_ at \[65\]).[^40]
 
 93     I take these two submissions in turn.
 
@@ -316,19 +317,19 @@ Article 16. Competence of arbitral tribunal to rule on its jurisdiction
 
 … disputes shall be finally submitted to the Singapore International Arbitration Centre (SIAC) for arbitration in Shanghai, which will be conducted in accordance with its Arbitration Rules. ….
 
-95     The plaintiff construes these words[\[note: 41\]](#Ftn_41) as providing that the seat of any arbitration is the PRC. The plaintiff’s argument proceeds as follows. The arbitration agreement makes no reference whatsoever to Singapore law generally, to Singapore’s arbitration laws specifically or to Singapore even as a geographic location, let alone as a seat.[\[note: 42\]](#Ftn_42) The only express reference in the arbitration agreement to any geographic location is the reference to “arbitration in Shanghai”. That express reference suffices in itself to constitute the PRC as the seat.[\[note: 43\]](#Ftn_43) The parties’ express reference to the SIAC and the SIAC Rules in the arbitration agreement indicates merely an intention that the SIAC should administer future arbitrations seated in the PRC and provide institutional support for those arbitration in accordance with the SIAC rules.
+95     The plaintiff construes these words[^41] as providing that the seat of any arbitration is the PRC. The plaintiff’s argument proceeds as follows. The arbitration agreement makes no reference whatsoever to Singapore law generally, to Singapore’s arbitration laws specifically or to Singapore even as a geographic location, let alone as a seat.[^42] The only express reference in the arbitration agreement to any geographic location is the reference to “arbitration in Shanghai”. That express reference suffices in itself to constitute the PRC as the seat.[^43] The parties’ express reference to the SIAC and the SIAC Rules in the arbitration agreement indicates merely an intention that the SIAC should administer future arbitrations seated in the PRC and provide institutional support for those arbitration in accordance with the SIAC rules.
 
-96     The defendants, on the other hand, rely[\[note: 44\]](#Ftn_44) on _Insigma_[\[note: 45\]](#Ftn_45) (at \[30\]) to argue that the fundamental objective of construing an arbitration agreement is to give effect to the intention of the parties as expressed in the words of their agreement. The defendants accept that a reference to a specific geographical location has been interpreted in many decided cases as signifying an intention to select that location as the arbitral seat. But, the defendants submit, ascertaining the seat of a particular arbitration agreement depends ultimately on construing the arbitration agreement in question.[\[note: 46\]](#Ftn_46) And as a matter of construction of this arbitration agreement, the defendants submit that the parties have agreed on Singapore as the seat of their arbitration and have agreed on Shanghai merely as the venue.
+96     The defendants, on the other hand, rely[^44] on _Insigma_[^45] (at \[30\]) to argue that the fundamental objective of construing an arbitration agreement is to give effect to the intention of the parties as expressed in the words of their agreement. The defendants accept that a reference to a specific geographical location has been interpreted in many decided cases as signifying an intention to select that location as the arbitral seat. But, the defendants submit, ascertaining the seat of a particular arbitration agreement depends ultimately on construing the arbitration agreement in question.[^46] And as a matter of construction of this arbitration agreement, the defendants submit that the parties have agreed on Singapore as the seat of their arbitration and have agreed on Shanghai merely as the venue.
 
-97     It is well-established – and indeed common ground[\[note: 47\]](#Ftn_47) between the parties – that the venue of an arbitration is a distinct concept from its seat. The venue of an arbitration is merely the geographic location in which the arbitral hearings and other proceedings take place.[\[note: 48\]](#Ftn_48) The seat of an arbitration – or the “place” of the arbitration as it is called in Article 20 of the Model Law – is the jurisdiction whose law governs the arbitral process. As the Court of Appeal held in _PT Garuda Indonesia v Birgen Air_ (“_PT Garuda_”) (at \[23\]–\[24\]):[\[note: 49\]](#Ftn_49)
+97     It is well-established – and indeed common ground[^47] between the parties – that the venue of an arbitration is a distinct concept from its seat. The venue of an arbitration is merely the geographic location in which the arbitral hearings and other proceedings take place.[^48] The seat of an arbitration – or the “place” of the arbitration as it is called in Article 20 of the Model Law – is the jurisdiction whose law governs the arbitral process. As the Court of Appeal held in _PT Garuda Indonesia v Birgen Air_ (“_PT Garuda_”) (at \[23\]–\[24\]):[^49]
 
 23    It should be apparent from Art 20 that there is a distinction between “place of arbitration” and the place where the arbitral tribunal carries on hearing witnesses, experts or the parties, namely, the “venue of hearing”. The place of arbitration is a matter to be agreed by the parties. Where they have so agreed, the place of arbitration does not change even though the tribunal may meet to hear witnesses or do any other things in relation to the arbitration at a location other than the place of arbitration.
 
 24    Thus, the place of arbitration does not change merely because the tribunal holds its hearing at a different place or places. It only changes when the parties so agree. The significance of the place of arbitration lies in the fact that for legal reasons the arbitration is to be regarded as situated in that state or territory. It identifies a state or territory whose laws will govern the arbitral process. …It will be seen that the English concept of “seat of arbitration” is the same as “place of arbitration” under the Model Law.
 
-Thus, the defendants submit,[\[note: 50\]](#Ftn_50) the selection of the venue or location of hearings does not, in itself, constitute a choice of the arbitral seat.
+Thus, the defendants submit,[^50] the selection of the venue or location of hearings does not, in itself, constitute a choice of the arbitral seat.
 
-98     The lynchpin of this aspect of the plaintiff’s case is its submission[\[note: 51\]](#Ftn_51) that, “\[u\]nder Singapore law, when the place of the arbitration is expressly stated in an arbitration agreement, that place is considered to be the seat of the arbitration”. The plaintiff submits further that: “The geographical reference in an arbitration agreement…refers to the seat of the arbitration and not to the “venue of hearing’.”[\[note: 52\]](#Ftn_52) Thus, the plaintiff submits, the reference to Shanghai in the parties’ arbitration agreement is enough in itself to constitute the PRC as the seat of the parties’ arbitration. I do not accept either of these propositions as being correct. To my mind, these propositions improperly convert what should be a question of construction into a question of precedent.
+98     The lynchpin of this aspect of the plaintiff’s case is its submission[^51] that, “\[u\]nder Singapore law, when the place of the arbitration is expressly stated in an arbitration agreement, that place is considered to be the seat of the arbitration”. The plaintiff submits further that: “The geographical reference in an arbitration agreement…refers to the seat of the arbitration and not to the “venue of hearing’.”[^52] Thus, the plaintiff submits, the reference to Shanghai in the parties’ arbitration agreement is enough in itself to constitute the PRC as the seat of the parties’ arbitration. I do not accept either of these propositions as being correct. To my mind, these propositions improperly convert what should be a question of construction into a question of precedent.
 
 99     For these two propositions, the plaintiff cites two authorities. The first authority is _PT Garuda_. In _PT Garuda_, the Court of Appeal cited with approval (at \[24\]) the following passage from the English case of _Naviera Amazonica Peruana SA v Compania International de Seguros del Peru_ \[1988\] 1 Lloyd’s Rep 116 (at 120):
 
@@ -350,7 +351,7 @@ The parties may agree on the seat of arbitration. Failing such an agreement, the
 
 The effect of the parties’ choice of the SIAC Rules (and in particular Rule 18.1), therefore, is that they have expressly agreed _both_ that Singapore should be the seat for their future arbitrations subject to contrary agreement _and also_ that there should be “arbitration in Shanghai”. The fundamental question therefore is whether the reference to “arbitration in Shanghai” amounts to a contrary agreement as contemplated by Rule 18.1 That question must be resolved by a process of construction and not by resort to propositions from precedent.
 
-105    The second case which the plaintiff cites is _Hilton International Manage (Maldives) Pvt Ltd v Sun Travels & Tours Pvt Ltd_ (“_Hilton_”).[\[note: 53\]](#Ftn_53) The plaintiff cites _Hilton_ for the proposition that “the mere reference to the ‘Singapore International Arbitration Centre’ – without stating a geographical place – does not automatically make Singapore the seat of the arbitration”.[\[note: 54\]](#Ftn_54) In _Hilton_, the plaintiff applied in Singapore for a permanent anti-suit injunction to restrain the defendant from commencing litigation in another jurisdiction in breach of an arbitration clause. The question before Belinda Ang J was whether the Singapore court had _in personam_ jurisdiction over the defendant in order to issue the anti-suit injunction. Belinda Ang J held (at \[28\]) that that turned on whether Singapore was the seat of the arbitration. The difficulty was that the arbitration agreement in _Hilton_ did not make express provision for the seat of any future arbitration. Indeed, it did not make any express reference to any geographical location at all.
+105    The second case which the plaintiff cites is _Hilton International Manage (Maldives) Pvt Ltd v Sun Travels & Tours Pvt Ltd_ (“_Hilton_”).[^53] The plaintiff cites _Hilton_ for the proposition that “the mere reference to the ‘Singapore International Arbitration Centre’ – without stating a geographical place – does not automatically make Singapore the seat of the arbitration”.[^54] In _Hilton_, the plaintiff applied in Singapore for a permanent anti-suit injunction to restrain the defendant from commencing litigation in another jurisdiction in breach of an arbitration clause. The question before Belinda Ang J was whether the Singapore court had _in personam_ jurisdiction over the defendant in order to issue the anti-suit injunction. Belinda Ang J held (at \[28\]) that that turned on whether Singapore was the seat of the arbitration. The difficulty was that the arbitration agreement in _Hilton_ did not make express provision for the seat of any future arbitration. Indeed, it did not make any express reference to any geographical location at all.
 
 106    Belinda Ang J said this (at \[27\] and \[29\]):
 
@@ -366,7 +367,7 @@ The effect of the parties’ choice of the SIAC Rules (and in particular Rule 18
 
 109    The cases cited by the plaintiff being of no assistance on the fundamental question of construction before me, I return to the words of the parties’ arbitration agreement. Those words expressly incorporate by reference a set of arbitration rules which expressly constitutes Singapore the seat of any future arbitration, albeit subject to the parties’ contrary agreement. The arbitration agreement also refers to Shanghai, but does so without expressly stating whether Shanghai is to be a seat or merely a venue. To my mind, the express reference to the SIAC Rules, a set of rules which the parties expressly agreed was to govern their arbitration and which makes express provision as to the seat, is the clearest possible manifestation of their intention to have all future arbitrations under their arbitration agreement seated in Singapore. Because an arbitration cannot have two seats simultaneously, and because there is nothing in the words chosen by the parties to refer to Shanghai which compels the construction that the PRC is to be the seat, I have no hesitation in holding that the parties’ arbitration agreement, properly construed, constitutes Singapore the seat and constitutes Shanghai merely the venue for the hearings in the arbitration.
 
-110    It is also significant to me that the parties’ arbitration agreement does not refer to the PRC, which is a law district, but to Shanghai, which is a city but not a law district. Where an arbitration agreement constitutes a law district such as Singapore expressly as the seat of any future arbitration, a reference in the same arbitration agreement to a geographical location which is not a law district is much more naturally construed as a reference to a venue rather than as a reference to a seat. It is not to the point that PRC law may look at a reference to a geographical reference in an arbitration agreement as the seat, as the plaintiff submits.[\[note: 55\]](#Ftn_55) That submission does not take into consideration the express reference in Rule 18.1 of the SIAC Rules to Singapore as the seat of the arbitration in the absence of agreement.
+110    It is also significant to me that the parties’ arbitration agreement does not refer to the PRC, which is a law district, but to Shanghai, which is a city but not a law district. Where an arbitration agreement constitutes a law district such as Singapore expressly as the seat of any future arbitration, a reference in the same arbitration agreement to a geographical location which is not a law district is much more naturally construed as a reference to a venue rather than as a reference to a seat. It is not to the point that PRC law may look at a reference to a geographical reference in an arbitration agreement as the seat, as the plaintiff submits.[^55] That submission does not take into consideration the express reference in Rule 18.1 of the SIAC Rules to Singapore as the seat of the arbitration in the absence of agreement.
 
 #### Displacing PRC law at the second stage
 
@@ -374,7 +375,7 @@ The effect of the parties’ choice of the SIAC Rules (and in particular Rule 18
 
 112    In so holding, I reject the defendants’ submission that it is appropriate for me to receive and consider evidence extrinsic to the Takeout Agreement, _ie_, evidence of the parties’ pre-contractual negotiations and of the defendants’ subjective intention in entering into the arbitration agreement. I do so because of the entire agreement clause found in Article 16.3 of the Takeout Agreement, and for the reasons already given.
 
-113    The plaintiff submits that the law of the seat will be the parties’ implied choice as the proper law of their arbitration agreement _only if_ the parties have failed to make express provision as to the proper law of their substantive contract.[\[note: 56\]](#Ftn_56) In support of this proposition, the plaintiff cites _dicta_ from \[55\] and \[64\] of Chong J’s judgment in _BCY_. At \[55\] of _BCY_, Chong J refers to two English cases and says:
+113    The plaintiff submits that the law of the seat will be the parties’ implied choice as the proper law of their arbitration agreement _only if_ the parties have failed to make express provision as to the proper law of their substantive contract.[^56] In support of this proposition, the plaintiff cites _dicta_ from \[55\] and \[64\] of Chong J’s judgment in _BCY_. At \[55\] of _BCY_, Chong J refers to two English cases and says:
 
 These \[cases\] also establish that although in _Sulamérica_ the choice of seat was accepted as one of the factors pointing away from the main contract’s choice of law, it would be insufficient on its own to negate the presumption that the parties intended the governing law of the main contract to govern the arbitration agreement.
 
@@ -386,7 +387,7 @@ At \[64\] of _BCY_, Chong J says:
 
 115    The plaintiff has stated the tests to be applied at the second stage of the three-stage inquiry too dogmatically. The ultimate objective of the three-stage inquiry, and of each of its stages, is to give effect to the parties’ intention. Both _BCY_ and _Sulamérica_ make clear that it is a sufficient indication to the contrary on the second stage that the parties’ arbitration agreement will be invalid under the proper law of the substantive contract.
 
-116    I accept the plaintiff’s submission that it is likely that the parties’ arbitration agreement is invalid if PRC law is its proper law. That is either because the parties’ dispute does not satisfy the foreign-elements test in PRC arbitration law[\[note: 57\]](#Ftn_57) or because PRC arbitration law does not allow a foreign arbitral institution to administer an arbitration in the PRC.[\[note: 58\]](#Ftn_58) Both parties have adduced extensive expert evidence on these two points. It is clear from the expert evidence that PRC law on these two points is uncertain, fraught with difficulty and rapidly evolving. I am deeply conscious of the difficulties which an outsider to a system of law faces in attempting to reach a conclusion on such fraught and difficult questions under that system of law. Those difficulties are compounded when the system of law is fundamentally different from the outsider’s own system of law, and have to be understood only through translation. Having peered cautiously through the window on PRC law which has been offered to me by the expert evidence adduced by both parties, it appears to me that the wiser course is to adopt the more conservative view of PRC law and to concede in the plaintiff’s favour that its position on these two points of PRC law is likely to be the correct position in PRC law.
+116    I accept the plaintiff’s submission that it is likely that the parties’ arbitration agreement is invalid if PRC law is its proper law. That is either because the parties’ dispute does not satisfy the foreign-elements test in PRC arbitration law[^57] or because PRC arbitration law does not allow a foreign arbitral institution to administer an arbitration in the PRC.[^58] Both parties have adduced extensive expert evidence on these two points. It is clear from the expert evidence that PRC law on these two points is uncertain, fraught with difficulty and rapidly evolving. I am deeply conscious of the difficulties which an outsider to a system of law faces in attempting to reach a conclusion on such fraught and difficult questions under that system of law. Those difficulties are compounded when the system of law is fundamentally different from the outsider’s own system of law, and have to be understood only through translation. Having peered cautiously through the window on PRC law which has been offered to me by the expert evidence adduced by both parties, it appears to me that the wiser course is to adopt the more conservative view of PRC law and to concede in the plaintiff’s favour that its position on these two points of PRC law is likely to be the correct position in PRC law.
 
 117    That finding suffices in itself to displace PRC law as the proper law of the parties’ arbitration agreement and to constitute Singapore law as the parties’ implied choice at the second stage of the three-stage inquiry. The contextual approach to construing contracts and the _ut res magis_ principle both permit me legitimately to adopt the law of the seat as the proper law of an arbitration agreement if hewing to the starting point of PRC law would defeat the parties’ manifest intention to resolve their disputes through arbitration.
 
@@ -408,121 +409,121 @@ At \[64\] of _BCY_, Chong J says:
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)Originating Summons No 938/2017, prayer 1.
+[^1]: Originating Summons No 938/2017, prayer 1.
 
-[\[note: 2\]](#Ftn_2_1)First affidavit of \[B\] at Exhibit 1 at page 24.
+[^2]: First affidavit of \[B\] at Exhibit 1 at page 24.
 
-[\[note: 3\]](#Ftn_3_1)First affidavit of \[B\] at Exhibit 1 at page 42.
+[^3]: First affidavit of \[B\] at Exhibit 1 at page 42.
 
-[\[note: 4\]](#Ftn_4_1)First affidavit of \[B\] at Exhibit 1, page 37 to 38.
+[^4]: First affidavit of \[B\] at Exhibit 1, page 37 to 38.
 
-[\[note: 5\]](#Ftn_5_1)First affidavit of \[B\] at Exhibit 1, page 42.
+[^5]: First affidavit of \[B\] at Exhibit 1, page 42.
 
-[\[note: 6\]](#Ftn_6_1)First affidavit of \[B\] at Exhibit 1, page 12.
+[^6]: First affidavit of \[B\] at Exhibit 1, page 12.
 
-[\[note: 7\]](#Ftn_7_1)First affidavit of \[B\] at Exhibit 1, page 13, paragraph 1.
+[^7]: First affidavit of \[B\] at Exhibit 1, page 13, paragraph 1.
 
-[\[note: 8\]](#Ftn_8_1)First affidavit of \[B\] at Exhibit 2 at page 55, paragraph 5 to 8.
+[^8]: First affidavit of \[B\] at Exhibit 2 at page 55, paragraph 5 to 8.
 
-[\[note: 9\]](#Ftn_9_1)First affidavit of \[B\] at Exhibit 8 (page 939 to 980).
+[^9]: First affidavit of \[B\] at Exhibit 8 (page 939 to 980).
 
-[\[note: 10\]](#Ftn_10_1)First affidavit of \[B\] at Exhibit 3 (page 59) to JS-9.
+[^10]: First affidavit of \[B\] at Exhibit 3 (page 59) to JS-9.
 
-[\[note: 11\]](#Ftn_11_1)First affidavit of \[B\] at Exhibit 8, page 939.
+[^11]: First affidavit of \[B\] at Exhibit 8, page 939.
 
-[\[note: 12\]](#Ftn_12_1)First affidavit of \[B\] at Exhibit 9, page 982.
+[^12]: First affidavit of \[B\] at Exhibit 9, page 982.
 
-[\[note: 13\]](#Ftn_13_1)Plaintiff’s written submissions dated 22 June 2018 at paragraph 9.
+[^13]: Plaintiff’s written submissions dated 22 June 2018 at paragraph 9.
 
-[\[note: 14\]](#Ftn_14_1)Affidavit of \[B\] filed on 17 August 2017 at \[12\] and \[15\].
+[^14]: Affidavit of \[B\] filed on 17 August 2017 at \[12\] and \[15\].
 
-[\[note: 15\]](#Ftn_15_1)Plaintiff’s written submissions dated 22 June 2018 at paragraph 1.
+[^15]: Plaintiff’s written submissions dated 22 June 2018 at paragraph 1.
 
-[\[note: 16\]](#Ftn_16_1)Plaintiff’s written submissions dated 22 June 2018, page 2, paragraph 1(h).
+[^16]: Plaintiff’s written submissions dated 22 June 2018, page 2, paragraph 1(h).
 
-[\[note: 17\]](#Ftn_17_1)Defendants’ written submissions dated 25 June 2018 at paragraph 11.
+[^17]: Defendants’ written submissions dated 25 June 2018 at paragraph 11.
 
-[\[note: 18\]](#Ftn_18_1)Defendants’ written submissions dated 25 June 2018 at paragraph 10.
+[^18]: Defendants’ written submissions dated 25 June 2018 at paragraph 10.
 
-[\[note: 19\]](#Ftn_19_1)Defendants’ written submissions dated 25 June 2018 at paragraph 49.
+[^19]: Defendants’ written submissions dated 25 June 2018 at paragraph 49.
 
-[\[note: 20\]](#Ftn_20_1)Plaintiff’s written submissions dated 25 June 2018 at paragraph 10 and Defendants’ written submissions dated 22 June 2018 at paragraph 49.
+[^20]: Plaintiff’s written submissions dated 25 June 2018 at paragraph 10 and Defendants’ written submissions dated 22 June 2018 at paragraph 49.
 
-[\[note: 21\]](#Ftn_21_1)Plaintiff’s bundle of authorities at Tab 9, \[9\] and \[25\].
+[^21]: Plaintiff’s bundle of authorities at Tab 9, \[9\] and \[25\].
 
-[\[note: 22\]](#Ftn_22_1)Plaintiff’s written submissions dated 22 June 2018 at paragraph 9.
+[^22]: Plaintiff’s written submissions dated 22 June 2018 at paragraph 9.
 
-[\[note: 23\]](#Ftn_23_1)Plaintiff’s written submissions dated 22 June 2018 at paragraph 41.
+[^23]: Plaintiff’s written submissions dated 22 June 2018 at paragraph 41.
 
-[\[note: 24\]](#Ftn_24_1)Defendants’ written submissions dated 25 June 2018 at paragraph 28.
+[^24]: Defendants’ written submissions dated 25 June 2018 at paragraph 28.
 
-[\[note: 25\]](#Ftn_25_1)Defendants’ bundle of authorities, Tab 5.
+[^25]: Defendants’ bundle of authorities, Tab 5.
 
-[\[note: 26\]](#Ftn_26_1)Defendants’ bundle of authorities, Tab 2.
+[^26]: Defendants’ bundle of authorities, Tab 2.
 
-[\[note: 27\]](#Ftn_27_1)Defendants’ written submissions dated 25 June 2018 at paragraph 29.
+[^27]: Defendants’ written submissions dated 25 June 2018 at paragraph 29.
 
-[\[note: 28\]](#Ftn_28_1)Defendant’s written submissions dated 25 June 2018, paragraphs 28 to 29.
+[^28]: Defendant’s written submissions dated 25 June 2018, paragraphs 28 to 29.
 
-[\[note: 29\]](#Ftn_29_1)Defendants’ written submissions dated 25 June 2018, paragraphs 28 to 29.
+[^29]: Defendants’ written submissions dated 25 June 2018, paragraphs 28 to 29.
 
-[\[note: 30\]](#Ftn_30_1)Defendants’ written submissions dated 25 June 2018, paragraph 30.
+[^30]: Defendants’ written submissions dated 25 June 2018, paragraph 30.
 
-[\[note: 31\]](#Ftn_31_1)First affidavit of \[B\] at Exhibit 1 at p.39, Plaintiff’s affidavit at Tab 1.
+[^31]: First affidavit of \[B\] at Exhibit 1 at p.39, Plaintiff’s affidavit at Tab 1.
 
-[\[note: 32\]](#Ftn_32_1)Second affidavit of \[D\] at page 133.
+[^32]: Second affidavit of \[D\] at page 133.
 
-[\[note: 33\]](#Ftn_33_1)Defendants’ bundle of authorities, Tab 10 cited in the defendants’ written submissions at paragraph 61.
+[^33]: Defendants’ bundle of authorities, Tab 10 cited in the defendants’ written submissions at paragraph 61.
 
-[\[note: 34\]](#Ftn_34_1)First affidavit of \[B\] at Exhibit 4 at \[16\](iv), p.346, Plaintiff’s affidavit at Tab 1.
+[^34]: First affidavit of \[B\] at Exhibit 4 at \[16\](iv), p.346, Plaintiff’s affidavit at Tab 1.
 
-[\[note: 35\]](#Ftn_35_1)Plaintiff’s written submissions dated 22 June 2018 at paragraph 107.
+[^35]: Plaintiff’s written submissions dated 22 June 2018 at paragraph 107.
 
-[\[note: 36\]](#Ftn_36_1)Plaintiff’s written submissions at paragraph 11.
+[^36]: Plaintiff’s written submissions at paragraph 11.
 
-[\[note: 37\]](#Ftn_37_1)Defendants’ written submissions at paragraph 50.
+[^37]: Defendants’ written submissions at paragraph 50.
 
-[\[note: 38\]](#Ftn_38_1)Plaintiff’s bundle of authorities, Tab 3.
+[^38]: Plaintiff’s bundle of authorities, Tab 3.
 
-[\[note: 39\]](#Ftn_39_1)Plaintiff’s written submissions dated 22 June 2018, paragraph 14.
+[^39]: Plaintiff’s written submissions dated 22 June 2018, paragraph 14.
 
-[\[note: 40\]](#Ftn_40_1)Plaintiff’s bundle of authorities, Tab 3.
+[^40]: Plaintiff’s bundle of authorities, Tab 3.
 
-[\[note: 41\]](#Ftn_41_1)Plaintiff’s written submissions dated 22 June 2018 at paragraph 21.
+[^41]: Plaintiff’s written submissions dated 22 June 2018 at paragraph 21.
 
-[\[note: 42\]](#Ftn_42_1)Plaintiff’s written submissions dated 22 June 2018 at paragraph 22.
+[^42]: Plaintiff’s written submissions dated 22 June 2018 at paragraph 22.
 
-[\[note: 43\]](#Ftn_43_1)Plaintiff’s written submissions dated 22 June 2018 at paragraph 23.
+[^43]: Plaintiff’s written submissions dated 22 June 2018 at paragraph 23.
 
-[\[note: 44\]](#Ftn_44_1)Defendants’ written submissions dated 25 June 2018 at paragraph 31.
+[^44]: Defendants’ written submissions dated 25 June 2018 at paragraph 31.
 
-[\[note: 45\]](#Ftn_45_1)Defendants’ bundle of authorities, Tab 6.
+[^45]: Defendants’ bundle of authorities, Tab 6.
 
-[\[note: 46\]](#Ftn_46_1)Defendants’ written submissions dated 25 June 2018 at paragraph 39.
+[^46]: Defendants’ written submissions dated 25 June 2018 at paragraph 39.
 
-[\[note: 47\]](#Ftn_47_1)Plaintiff’s written submissions dated 22 June 2018 at paragraphs 25 to 26; Defendants’ written submissions dated 25 June 2018 at paragraphs 40 to 41.
+[^47]: Plaintiff’s written submissions dated 22 June 2018 at paragraphs 25 to 26; Defendants’ written submissions dated 25 June 2018 at paragraphs 40 to 41.
 
-[\[note: 48\]](#Ftn_48_1)Defendants’ bundle of authorities, Tab 9.
+[^48]: Defendants’ bundle of authorities, Tab 9.
 
-[\[note: 49\]](#Ftn_49_1)Plaintiff’s bundle of authorities, Tab 8.
+[^49]: Plaintiff’s bundle of authorities, Tab 8.
 
-[\[note: 50\]](#Ftn_50_1)Defendants’ written submissions dated 25 June 2018 at paragraph 41; Defendants’ bundle of authorities, Tab 11 at page 8.
+[^50]: Defendants’ written submissions dated 25 June 2018 at paragraph 41; Defendants’ bundle of authorities, Tab 11 at page 8.
 
-[\[note: 51\]](#Ftn_51_1)Plaintiff’s written submissions dated 22 June 2018 at paragraph 23.
+[^51]: Plaintiff’s written submissions dated 22 June 2018 at paragraph 23.
 
-[\[note: 52\]](#Ftn_52_1)Plaintiff’s written submissions at paragraph 26.
+[^52]: Plaintiff’s written submissions at paragraph 26.
 
-[\[note: 53\]](#Ftn_53_1)Plaintiff’s bundle of authorities, Tab 6.
+[^53]: Plaintiff’s bundle of authorities, Tab 6.
 
-[\[note: 54\]](#Ftn_54_1)Plaintiff’s written submissions dated 22 June 2018 at paragraph 28.
+[^54]: Plaintiff’s written submissions dated 22 June 2018 at paragraph 28.
 
-[\[note: 55\]](#Ftn_55_1)Plaintiff’s written submissions dated 22 June 2018 at paragraph 44 and 48.
+[^55]: Plaintiff’s written submissions dated 22 June 2018 at paragraph 44 and 48.
 
-[\[note: 56\]](#Ftn_56_1)Plaintiff’s written submissions dated 22 June 2018 at paragraph 14.
+[^56]: Plaintiff’s written submissions dated 22 June 2018 at paragraph 14.
 
-[\[note: 57\]](#Ftn_57_1)Plaintiff’s written submissions dated 22 June 2018 at paragraph 51 to 87.
+[^57]: Plaintiff’s written submissions dated 22 June 2018 at paragraph 51 to 87.
 
-[\[note: 58\]](#Ftn_58_1)Plaintiff’s written submissions dated 22 June 2018 at paragraph 88 to 98.
+[^58]: Plaintiff’s written submissions dated 22 June 2018 at paragraph 88 to 98.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23322-SSP.xml)

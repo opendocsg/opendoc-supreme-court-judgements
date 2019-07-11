@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # EQ Capital Investments Ltd _v_ The Wellness Group Pte Ltd  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Companies Winding Up No 62 of 2018</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">25 June 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Chua Lee Ming J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Davinder Singh SC, Jaikanth Shankar, Srruthi Ilankathir, Hanspreet Singh Sachdev, Rajvinder Singh Chahal and Avinesh Selvarajah (Davinder Singh Chambers LLC) for the plaintiff; Toby Landau QC and Calvin Liang (instructed), Chua Sui Tong, Liew Yik Wee and Wong Wan Chee (Rev Law LLC) for the defendant; Alvin Yeo SC, Koh Swee Yen, Lin Chunlong and Jasmine Low (WongPartnership LLP) for the 1st Non-Party.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">EQ Capital Investments Ltd — The Wellness Group Pte Ltd</td></tr></tbody></table>
@@ -24,7 +25,7 @@ Companies – Winding up – Stay of execution pending appeal
 
 ## Background
 
-5       On 22 December 2003, Mr Manoj Mohan Murjani (“Manoj”) incorporated Wellness.[\[note: 1\]](#Ftn_1) Manoj and his wife, Mrs Kanchan Manoj Murjani (“Kanchan”) were the initial shareholders. In 2006, the Vickers Funds became shareholders of Wellness, and in 2008, EQ Capital followed suit. In 2010, Manoj and Kanchan transferred their shareholdings in Wellness to Sunbreeze, a company that was wholly owned by, and under the directorships of, Manoj and Kanchan.
+5       On 22 December 2003, Mr Manoj Mohan Murjani (“Manoj”) incorporated Wellness.[^1] Manoj and his wife, Mrs Kanchan Manoj Murjani (“Kanchan”) were the initial shareholders. In 2006, the Vickers Funds became shareholders of Wellness, and in 2008, EQ Capital followed suit. In 2010, Manoj and Kanchan transferred their shareholdings in Wellness to Sunbreeze, a company that was wholly owned by, and under the directorships of, Manoj and Kanchan.
 
 6       As at the date these proceedings were commenced, the shareholding in Wellness was as follows:
 
@@ -33,7 +34,7 @@ Companies – Winding up – Stay of execution pending appeal
   
   
 
-7       A shareholders’ agreement dated 21 August 2007[\[note: 2\]](#Ftn_2) supplemented by an addendum dated 21 August 2008[\[note: 3\]](#Ftn_3) (together, “the SHA”) governed the rights and obligations of Wellness and its shareholders. Sunbreeze and EQ Capital became parties to the SHA by way of accession. The directors of Wellness were Manoj, Kanchan and Dr Finian Tan Seng Chin (“Dr Finian Tan”). Dr Finian Tan represented the Vickers Funds.
+7       A shareholders’ agreement dated 21 August 2007[^2] supplemented by an addendum dated 21 August 2008[^3] (together, “the SHA”) governed the rights and obligations of Wellness and its shareholders. Sunbreeze and EQ Capital became parties to the SHA by way of accession. The directors of Wellness were Manoj, Kanchan and Dr Finian Tan Seng Chin (“Dr Finian Tan”). Dr Finian Tan represented the Vickers Funds.
 
 8       By an employment agreement dated 12 October 2007, Manoj was employed by Wellness as the chief executive officer (“CEO”) for a period of five years (_ie_, until 12 October 2012). Under this agreement, Manoj’s remuneration was to be determined in accordance with the SHA. Manoj tendered his resignation as CEO on 14 August 2012.
 
@@ -105,13 +106,13 @@ See _Re HL Sensecurity Pte Ltd (formerly known as HL Integral Systems Pte Ltd)_ 
 
 #### Accounts and Annual General Meetings
 
-24     Wellness’ auditors had qualified the company’s accounts for FY2010 on the basis that:[\[note: 4\]](#Ftn_4)
+24     Wellness’ auditors had qualified the company’s accounts for FY2010 on the basis that:[^4]
 
 (a)     they were not able to examine the accompanying financial statements of Wellness for FY2010 because Wellness had not maintained proper accounting records and no adequate supporting documents were made available to the auditors for inspection; and
 
 (b)     they had not been able to obtain all the relevant information and explanations they considered necessary for the purpose of their audit.
 
-25     Wellness’ auditors had also qualified the company’s accounts for FY2009 on the same basis.[\[note: 5\]](#Ftn_5)
+25     Wellness’ auditors had also qualified the company’s accounts for FY2009 on the same basis.[^5]
 
 26     There had been no audited accounts of Wellness since the audited accounts for FY2010. No accounting books or records had been produced by Manoj or Kanchan either.
 
@@ -121,7 +122,7 @@ See _Re HL Sensecurity Pte Ltd (formerly known as HL Integral Systems Pte Ltd)_ 
 
 (a)     ss 175, 197, 199 and 203 of the Companies Act, and exposed Wellness to penalties;
 
-(b)     the SHA, which required Wellness to:[\[note: 6\]](#Ftn_6)
+(b)     the SHA, which required Wellness to:[^6]
 
 (i)       maintain accurate and complete accounting records;
 
@@ -131,7 +132,7 @@ See _Re HL Sensecurity Pte Ltd (formerly known as HL Integral Systems Pte Ltd)_ 
 
 (iv)       submit its audited accounts to the board of directors in any case not later than 90 days from the end of the relevant financial year (_ie_, 31 March of each calendar year); and
 
-(c)     Wellness’ Articles of Association,[\[note: 7\]](#Ftn_7) which required:
+(c)     Wellness’ Articles of Association,[^7] which required:
 
 (i)       AGMs to be held at least once in every calendar year (Articles 73 and 74);
 
@@ -145,19 +146,19 @@ See _Re HL Sensecurity Pte Ltd (formerly known as HL Integral Systems Pte Ltd)_ 
 
 #### Taking loans from Sunbreeze
 
-29     Manoj caused Wellness to borrow S$1.05m and S$3.1m from Sunbreeze. The loan of S$1.05m was used to pay the party-and-party costs ordered against Wellness and Manoj in Suit 187 (including the appeal) and Suit 545. The loan of S$3.1m was used to pay the costs of the lawyers acting for Wellness and Manoj in Suit 187 and Suit 545. Under the SHA, Wellness required the Vickers Funds’ consent to take the loans.[\[note: 8\]](#Ftn_8) The Vickers Funds refused to give consent to the loans,[\[note: 9\]](#Ftn_9) but Manoj caused Wellness to proceed to take the loans anyway. Manoj alleged that the Vickers Funds acted unreasonably in refusing to give consent. In my view, even assuming that the Vickers Funds could not refuse consent unreasonably, it was debatable whether the Vickers Funds had acted unreasonably given that Manoj had caused Wellness to commence Suit 187 and Suit 545 without even consulting the Vickers Funds or Dr Finian Tan (in his capacity as a director of Wellness). In any event, there was also no reason why Wellness had to borrow monies to pay the costs and disbursements ordered against, or incurred by, _Manoj personally_. In his letter dated 14 August 2017, Dr Finian Tan objected to the use of Wellness’ funds to pay Manoj’s personal liability for the costs.[\[note: 10\]](#Ftn_10) Manoj did not respond to this objection in his reply on 5 September 2017.[\[note: 11\]](#Ftn_11)
+29     Manoj caused Wellness to borrow S$1.05m and S$3.1m from Sunbreeze. The loan of S$1.05m was used to pay the party-and-party costs ordered against Wellness and Manoj in Suit 187 (including the appeal) and Suit 545. The loan of S$3.1m was used to pay the costs of the lawyers acting for Wellness and Manoj in Suit 187 and Suit 545. Under the SHA, Wellness required the Vickers Funds’ consent to take the loans.[^8] The Vickers Funds refused to give consent to the loans,[^9] but Manoj caused Wellness to proceed to take the loans anyway. Manoj alleged that the Vickers Funds acted unreasonably in refusing to give consent. In my view, even assuming that the Vickers Funds could not refuse consent unreasonably, it was debatable whether the Vickers Funds had acted unreasonably given that Manoj had caused Wellness to commence Suit 187 and Suit 545 without even consulting the Vickers Funds or Dr Finian Tan (in his capacity as a director of Wellness). In any event, there was also no reason why Wellness had to borrow monies to pay the costs and disbursements ordered against, or incurred by, _Manoj personally_. In his letter dated 14 August 2017, Dr Finian Tan objected to the use of Wellness’ funds to pay Manoj’s personal liability for the costs.[^10] Manoj did not respond to this objection in his reply on 5 September 2017.[^11]
 
 #### Payment of excessive remuneration to Manoj
 
-30     Under the SHA, the Vickers Funds’ prior written consent was required before Manoj’s salary could exceed US$400,000 a year, and any salary in excess of US$250,000 could not exceed 10% of Wellness’ net profits.[\[note: 12\]](#Ftn_12) The total remuneration and professional fees paid to Manoj for FY2009–FY2011 amounted to S$1.105m, S$750,000 and S$1.07m respectively.[\[note: 13\]](#Ftn_13) The payments to Manoj were made without the Vickers Funds’ prior written consents. Manoj pointed out that Dr Finian Tan (as a director of Wellness) had approved the accounts for FY2009 and FY2010. However, even so, there was no prior written consent from Vickers Funds for the payments in FY2011.
+30     Under the SHA, the Vickers Funds’ prior written consent was required before Manoj’s salary could exceed US$400,000 a year, and any salary in excess of US$250,000 could not exceed 10% of Wellness’ net profits.[^12] The total remuneration and professional fees paid to Manoj for FY2009–FY2011 amounted to S$1.105m, S$750,000 and S$1.07m respectively.[^13] The payments to Manoj were made without the Vickers Funds’ prior written consents. Manoj pointed out that Dr Finian Tan (as a director of Wellness) had approved the accounts for FY2009 and FY2010. However, even so, there was no prior written consent from Vickers Funds for the payments in FY2011.
 
-31     In his letter to Dr Finian Tan on 30 June 2016, Manoj also drew a distinction between his remuneration as a director and his salary as an employee of Wellness.[\[note: 14\]](#Ftn_14) However, Manoj did not respond to Dr Finian Tan’s request for a breakdown of the payments shown in the financial statements. In any event, to the extent that any of the payments were in the form of director’s remuneration, Manoj did not obtain any approval at a general meeting, as required under Article 108(1) of Wellness’ Articles of Association.[\[note: 15\]](#Ftn_15)
+31     In his letter to Dr Finian Tan on 30 June 2016, Manoj also drew a distinction between his remuneration as a director and his salary as an employee of Wellness.[^14] However, Manoj did not respond to Dr Finian Tan’s request for a breakdown of the payments shown in the financial statements. In any event, to the extent that any of the payments were in the form of director’s remuneration, Manoj did not obtain any approval at a general meeting, as required under Article 108(1) of Wellness’ Articles of Association.[^15]
 
 #### Distribution of excessive dividends
 
-32     On 31 March 2011, the shareholders of Wellness passed a resolution authorising the distribution of dividends to Sunbreeze (S$20,557,375.15), the Vickers Funds (S$3,018,175.40) and EQ Capital (S$1,924,449.46). This was after the Wellness’ sale of shares in TWG Tea to OSIM pursuant to the SPA. On 12 April 2011, Raymond Kong, who was the Chief Financial Officer of one of the Vickers Funds, queried whether there were sufficient profits for the distribution of dividends.[\[note: 16\]](#Ftn_16) Manoj replied on the same day, confirming that the amount was “fine”.[\[note: 17\]](#Ftn_17)
+32     On 31 March 2011, the shareholders of Wellness passed a resolution authorising the distribution of dividends to Sunbreeze (S$20,557,375.15), the Vickers Funds (S$3,018,175.40) and EQ Capital (S$1,924,449.46). This was after the Wellness’ sale of shares in TWG Tea to OSIM pursuant to the SPA. On 12 April 2011, Raymond Kong, who was the Chief Financial Officer of one of the Vickers Funds, queried whether there were sufficient profits for the distribution of dividends.[^16] Manoj replied on the same day, confirming that the amount was “fine”.[^17]
 
-33     However, it transpired that the dividends had exceeded Wellness’s accumulated profits. On 4 November 2013, Manoj informed Wellness’ shareholders that the amount of dividends that had been paid in excess was S$10,997,730.49.[\[note: 18\]](#Ftn_18) Manoj suggested that the excess dividends be treated as advances to the shareholders. On 11 November 2013, EQ Capital asked for an explanation as to how the distribution of excessive dividends came about, describing the distribution as “highly unusual”.[\[note: 19\]](#Ftn_19) Dr Finian Tan suggested seeking legal advice.[\[note: 20\]](#Ftn_20) Manoj agreed and informed Dr Finian Tan that he would proceed to instruct legal counsel to advise Wellness.[\[note: 21\]](#Ftn_21) Subsequently, Dr Finian Tan signed a Board resolution dated 31 December 2013, authorising Manoj to appoint lawyers to advise Wellness “on all and any matters including the issue of excess dividend payments raised by \[EQ Capital\]”.[\[note: 22\]](#Ftn_22)
+33     However, it transpired that the dividends had exceeded Wellness’s accumulated profits. On 4 November 2013, Manoj informed Wellness’ shareholders that the amount of dividends that had been paid in excess was S$10,997,730.49.[^18] Manoj suggested that the excess dividends be treated as advances to the shareholders. On 11 November 2013, EQ Capital asked for an explanation as to how the distribution of excessive dividends came about, describing the distribution as “highly unusual”.[^19] Dr Finian Tan suggested seeking legal advice.[^20] Manoj agreed and informed Dr Finian Tan that he would proceed to instruct legal counsel to advise Wellness.[^21] Subsequently, Dr Finian Tan signed a Board resolution dated 31 December 2013, authorising Manoj to appoint lawyers to advise Wellness “on all and any matters including the issue of excess dividend payments raised by \[EQ Capital\]”.[^22]
 
 34     Manoj did appoint lawyers for Wellness. However, the lawyers were apparently not appointed to advise on the excessive dividends issue or the reply to EQ Capital. Instead, Manoj appointed the lawyers to commence Suit 187. The issue of the excessive dividends was not resolved.
 
@@ -165,7 +166,7 @@ See _Re HL Sensecurity Pte Ltd (formerly known as HL Integral Systems Pte Ltd)_ 
 
 35     It was not disputed that Manoj did not consult Dr Finian Tan before commencing Suit 187 or Suit 545. He also did not consult Dr Finian Tan before filing the appeal against the decision in Suit 187.
 
-36     Manoj relied on the Board resolution dated 31 December 2013 (see \[33\] above) as having authorised him to commence Suit 187 and Suit 545.[\[note: 23\]](#Ftn_23) In my view, Manoj’s attempt to rely on the Board resolution was wholly unmeritorious. Dr Finian Tan signed the Board resolution in the context of discussions with Manoj about obtaining legal advice on the issue of the excessive dividends. Although the Board resolution was worded in broader terms, clearly, it was no excuse for Manoj’s action in commencing Suit 187 and Suit 545 without consulting Dr Finian Tan who was at all material times a director of Wellness.
+36     Manoj relied on the Board resolution dated 31 December 2013 (see \[33\] above) as having authorised him to commence Suit 187 and Suit 545.[^23] In my view, Manoj’s attempt to rely on the Board resolution was wholly unmeritorious. Dr Finian Tan signed the Board resolution in the context of discussions with Manoj about obtaining legal advice on the issue of the excessive dividends. Although the Board resolution was worded in broader terms, clearly, it was no excuse for Manoj’s action in commencing Suit 187 and Suit 545 without consulting Dr Finian Tan who was at all material times a director of Wellness.
 
 #### Dilution caused by the Profit Swing Clause
 
@@ -177,11 +178,11 @@ See _Re HL Sensecurity Pte Ltd (formerly known as HL Integral Systems Pte Ltd)_ 
 
 39     The excess dividends that had been distributed (see \[33\] above) amounted to S$10.997,730.49 and would have provided Wellness with a very substantial part of the S$11.59m that was needed to subscribe to the Rights Issue and thereby prevent the further dilution of its shareholding in TWG Tea.
 
-40     In his email dated 10 December 2013 to Manoj, Dr Finian Tan said that the Vickers Funds were willing to return the excess dividends received by them and noted that the other shareholders may be obliged to do so.[\[note: 24\]](#Ftn_24) Sunbreeze had received 80.62% of the excess dividends. Dr Finian Tan also pointed out that the return of the excess dividends would provide Wellness the funds to “mitigate the dilution or even prevent it” if Wellness could raise more capital to take up its full allocation under the Rights Issue. Manoj ignored Dr Finian Tan’s email and did not take any steps to resolve the issue of the excess dividends. Instead, in February 2014, Manoj and Wellness commenced Suit 187. Manoj also ignored the Vickers Funds’ and EQ Capital’s requests[\[note: 25\]](#Ftn_25) that Wellness subscribe to the Rights Issue.
+40     In his email dated 10 December 2013 to Manoj, Dr Finian Tan said that the Vickers Funds were willing to return the excess dividends received by them and noted that the other shareholders may be obliged to do so.[^24] Sunbreeze had received 80.62% of the excess dividends. Dr Finian Tan also pointed out that the return of the excess dividends would provide Wellness the funds to “mitigate the dilution or even prevent it” if Wellness could raise more capital to take up its full allocation under the Rights Issue. Manoj ignored Dr Finian Tan’s email and did not take any steps to resolve the issue of the excess dividends. Instead, in February 2014, Manoj and Wellness commenced Suit 187. Manoj also ignored the Vickers Funds’ and EQ Capital’s requests[^25] that Wellness subscribe to the Rights Issue.
 
 #### Manoj’s attempts to sell Wellness’ shares in TWG Tea
 
-41     On 24 October 2017 and 16 November 2017, Manoj offered to sell Wellness’ shares in TWG Tea to OSIM and Paris.[\[note: 26\]](#Ftn_26) The shares in TWG Tea constituted the whole or substantially the whole of Wellness’ property. Under s 160(1) of the Companies Act, such a sale required approval by the company in a general meeting. In addition, under the SHA, the sale required the Vickers Funds’ prior written consent.[\[note: 27\]](#Ftn_27) Manoj did not have the requisite approval of either the company in a general meeting or of the Vickers Funds. Neither did he inform Dr Finian Tan that he was making the offers to OSIM and Paris. Manoj asserted that the Vickers Funds had given their “unequivocal consent” to Wellness selling its shares in TWG Tea because Dr Finian Tan had “repeatedly expressed the view that it would be in the interests of \[Wellness\] as well as that of \[the Vickers Funds\] and Sunbreeze” for Wellness to sell its stake TWG Tea.[\[note: 28\]](#Ftn_28) I found no merit in Manoj’s assertion. Dr Finian Tan did raise the idea of Wellness selling its stake in TWG Tea in his correspondence with Manoj over several unresolved issues. However, this fell far short of constituting consent for the _specific_ offers that Manoj subsequently made to OSIM and Paris. The Vickers Funds could hardly be said to have consented to the terms of those offers.
+41     On 24 October 2017 and 16 November 2017, Manoj offered to sell Wellness’ shares in TWG Tea to OSIM and Paris.[^26] The shares in TWG Tea constituted the whole or substantially the whole of Wellness’ property. Under s 160(1) of the Companies Act, such a sale required approval by the company in a general meeting. In addition, under the SHA, the sale required the Vickers Funds’ prior written consent.[^27] Manoj did not have the requisite approval of either the company in a general meeting or of the Vickers Funds. Neither did he inform Dr Finian Tan that he was making the offers to OSIM and Paris. Manoj asserted that the Vickers Funds had given their “unequivocal consent” to Wellness selling its shares in TWG Tea because Dr Finian Tan had “repeatedly expressed the view that it would be in the interests of \[Wellness\] as well as that of \[the Vickers Funds\] and Sunbreeze” for Wellness to sell its stake TWG Tea.[^28] I found no merit in Manoj’s assertion. Dr Finian Tan did raise the idea of Wellness selling its stake in TWG Tea in his correspondence with Manoj over several unresolved issues. However, this fell far short of constituting consent for the _specific_ offers that Manoj subsequently made to OSIM and Paris. The Vickers Funds could hardly be said to have consented to the terms of those offers.
 
 42     Sunbreeze submitted that it was normal to reach agreement on the sale before seeking the requisite shareholders’ approval. However, as EQ Capital pointed out, there was nothing in the either of the offers from Manoj that indicated that any sale of Wellness’ shares in TWG Tea pursuant to the offers, were subject to the approval of Wellness’ shareholders.
 
@@ -209,7 +210,7 @@ See _Re HL Sensecurity Pte Ltd (formerly known as HL Integral Systems Pte Ltd)_ 
 
 #### Exit mechanism under the Articles of Association
 
-51     In the present case, Wellness’ Articles of Association provided a buy-out mechanism similar to that which was available in _Perennial_. Briefly, under Wellness’ Articles of Association,[\[note: 29\]](#Ftn_29) a selling shareholder was required to give the company notice of his desire to sell his shares at a fair value fixed by him, and the company would be constituted as his agent to sell the shares to another shareholder. In case there was no agreement as to the price, the company’s auditor would on the application of either the selling shareholder or the purchasing shareholder, certify in writing the fair value of the shares. If the company was unable to find a purchasing shareholder within 28 days, the selling shareholder would be free to sell his shares to any person at any price.
+51     In the present case, Wellness’ Articles of Association provided a buy-out mechanism similar to that which was available in _Perennial_. Briefly, under Wellness’ Articles of Association,[^29] a selling shareholder was required to give the company notice of his desire to sell his shares at a fair value fixed by him, and the company would be constituted as his agent to sell the shares to another shareholder. In case there was no agreement as to the price, the company’s auditor would on the application of either the selling shareholder or the purchasing shareholder, certify in writing the fair value of the shares. If the company was unable to find a purchasing shareholder within 28 days, the selling shareholder would be free to sell his shares to any person at any price.
 
 52     EQ Capital did not invoke the buy-out mechanism under Wellness’ Articles of Association. However, I agreed with EQ Capital that, on the facts of the present case, a winding up order was still appropriate.
 
@@ -227,7 +228,7 @@ See _Re HL Sensecurity Pte Ltd (formerly known as HL Integral Systems Pte Ltd)_ 
 
 (d)     the excess remuneration paid to Manoj in breach of the SHA.
 
-56     I disagreed with Wellness’ submission that the auditor acting as an expert could decide whether Manoj and/or Kanchan should be held liable to compensate Wellness for the above matters. The auditor would be acting as an expert for purposes of certifying the fair value of the shares; he was not an arbitrator or judge. He would have no power to decide whether any party should be held liable for legal wrongs. In this case, this limitation was made even clearer by Article 48 of Wellness’ Articles of Association, which embodied the parties’ agreement that in certifying the fair value, “the auditor shall be considered to be acting as an expect \[_sic_\] and not as an arbitrator”.[\[note: 30\]](#Ftn_30)
+56     I disagreed with Wellness’ submission that the auditor acting as an expert could decide whether Manoj and/or Kanchan should be held liable to compensate Wellness for the above matters. The auditor would be acting as an expert for purposes of certifying the fair value of the shares; he was not an arbitrator or judge. He would have no power to decide whether any party should be held liable for legal wrongs. In this case, this limitation was made even clearer by Article 48 of Wellness’ Articles of Association, which embodied the parties’ agreement that in certifying the fair value, “the auditor shall be considered to be acting as an expect \[_sic_\] and not as an arbitrator”.[^30]
 
 57     Wellness, Manoj and Kanchan offered the following undertakings to “aid the auditor … to ascertain Wellness’ true financial position”:
 
@@ -253,7 +254,7 @@ See _Re HL Sensecurity Pte Ltd (formerly known as HL Integral Systems Pte Ltd)_ 
 
 (a)     First, Sunbreeze, Manoj and Kanchan were relying on a valuation of Wellness’ stake in TWG Tea that was by then, a year old.
 
-(b)     Second, the valuation had been done on a net tangible assets (“NTA”) basis for purposes of a Post Hearing Information Pack submitted by V3 Group Limited (OSIM’s holding company) in September 2017 in accordance with the requirements for listing on the Stock Exchange of Hong Kong.[\[note: 31\]](#Ftn_31) It did not necessarily reflect the fair value of Wellness’ shares in TWG Tea. The NTA was but one of the ways in which the shares could have been valued.
+(b)     Second, the valuation had been done on a net tangible assets (“NTA”) basis for purposes of a Post Hearing Information Pack submitted by V3 Group Limited (OSIM’s holding company) in September 2017 in accordance with the requirements for listing on the Stock Exchange of Hong Kong.[^31] It did not necessarily reflect the fair value of Wellness’ shares in TWG Tea. The NTA was but one of the ways in which the shares could have been valued.
 
 (c)     Third, the 9 May 2018 offer did not consider whether Manoj and/or Kanchan should be held liable to compensate Wellness in connection with the various matters referred to in \[56\] above.
 
@@ -275,67 +276,67 @@ See _Re HL Sensecurity Pte Ltd (formerly known as HL Integral Systems Pte Ltd)_ 
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)1st Non-Party’s Bundle of Documents vol 1 (“1 BD”), tab 3, p 433.
+[^1]: 1st Non-Party’s Bundle of Documents vol 1 (“1 BD”), tab 3, p 433.
 
-[\[note: 2\]](#Ftn_2_1)1 BD, tab 3, pp 154–169.
+[^2]: 1 BD, tab 3, pp 154–169.
 
-[\[note: 3\]](#Ftn_3_1)1 BD, tab 3, pp 189–193.
+[^3]: 1 BD, tab 3, pp 189–193.
 
-[\[note: 4\]](#Ftn_4_1)1 BD, tab 3, pp 663–684, at p 668.
+[^4]: 1 BD, tab 3, pp 663–684, at p 668.
 
-[\[note: 5\]](#Ftn_5_1)1 BD, tab 3, p 669.
+[^5]: 1 BD, tab 3, p 669.
 
-[\[note: 6\]](#Ftn_6_1)Clauses 7.3 and 7.4 of the SHA; 1 BD, tab 3, p 163.
+[^6]: Clauses 7.3 and 7.4 of the SHA; 1 BD, tab 3, p 163.
 
-[\[note: 7\]](#Ftn_7_1)1 BD, tab 3, pp 111–137.
+[^7]: 1 BD, tab 3, pp 111–137.
 
-[\[note: 8\]](#Ftn_8_1)Clause 2(k) of the SHA; 1 BD, tab 3, p 156.
+[^8]: Clause 2(k) of the SHA; 1 BD, tab 3, p 156.
 
-[\[note: 9\]](#Ftn_9_1)3 BD, tab 5, pp 1400–1401, at p 1401.
+[^9]: 3 BD, tab 5, pp 1400–1401, at p 1401.
 
-[\[note: 10\]](#Ftn_10_1)3 BD, tab 5, pp 1404–1407, at p 1405.
+[^10]: 3 BD, tab 5, pp 1404–1407, at p 1405.
 
-[\[note: 11\]](#Ftn_11_1)3 BD, tab 5, pp 1430–1433.
+[^11]: 3 BD, tab 5, pp 1430–1433.
 
-[\[note: 12\]](#Ftn_12_1)Clause 2(s) of the SHA; 1 BD, tab 3, p 157.
+[^12]: Clause 2(s) of the SHA; 1 BD, tab 3, p 157.
 
-[\[note: 13\]](#Ftn_13_1)2 BD, tab 4, p 937.
+[^13]: 2 BD, tab 4, p 937.
 
-[\[note: 14\]](#Ftn_14_1)2 BD, tab 4, pp 1127–1136, at p 1134 (para 26).
+[^14]: 2 BD, tab 4, pp 1127–1136, at p 1134 (para 26).
 
-[\[note: 15\]](#Ftn_15_1)1 BD, tab 3, p 127.
+[^15]: 1 BD, tab 3, p 127.
 
-[\[note: 16\]](#Ftn_16_1)2 BD, tab 4, p 873.
+[^16]: 2 BD, tab 4, p 873.
 
-[\[note: 17\]](#Ftn_17_1)2 BD, tab 4, p 873.
+[^17]: 2 BD, tab 4, p 873.
 
-[\[note: 18\]](#Ftn_18_1)2 BD, tab 4, pp 941–945.
+[^18]: 2 BD, tab 4, pp 941–945.
 
-[\[note: 19\]](#Ftn_19_1)2 BD, tab 4, p 946.
+[^19]: 2 BD, tab 4, p 946.
 
-[\[note: 20\]](#Ftn_20_1)2 BD, tab 4, pp 959–961.
+[^20]: 2 BD, tab 4, pp 959–961.
 
-[\[note: 21\]](#Ftn_21_1)2 BD, tab 4, p 963.
+[^21]: 2 BD, tab 4, p 963.
 
-[\[note: 22\]](#Ftn_22_1)2 BD, tab 4, p 961.
+[^22]: 2 BD, tab 4, p 961.
 
-[\[note: 23\]](#Ftn_23_1)2 BD, tab 4, p 982.
+[^23]: 2 BD, tab 4, p 982.
 
-[\[note: 24\]](#Ftn_24_1)2 BD, tab 4, p 954.
+[^24]: 2 BD, tab 4, p 954.
 
-[\[note: 25\]](#Ftn_25_1)2 BD, tab 4, pp 962 and 970.
+[^25]: 2 BD, tab 4, pp 962 and 970.
 
-[\[note: 26\]](#Ftn_26_1)3 BD, tab 5, pp 1547–1552.
+[^26]: 3 BD, tab 5, pp 1547–1552.
 
-[\[note: 27\]](#Ftn_27_1)Clause 2(b) of the SHA; 1 BD, tab 3, p 156.
+[^27]: Clause 2(b) of the SHA; 1 BD, tab 3, p 156.
 
-[\[note: 28\]](#Ftn_28_1)Manoj’s 3rd Affidavit; 3 BD, tab 6, at paras 53–54.
+[^28]: Manoj’s 3rd Affidavit; 3 BD, tab 6, at paras 53–54.
 
-[\[note: 29\]](#Ftn_29_1)Articles 46–50 of the Articles of Association; 1 BD, tab 3, pp 118–119.
+[^29]: Articles 46–50 of the Articles of Association; 1 BD, tab 3, pp 118–119.
 
-[\[note: 30\]](#Ftn_30_1)Article 48 of the Articles of Association; 1 BD, tab 3, p 118.
+[^30]: Article 48 of the Articles of Association; 1 BD, tab 3, p 118.
 
-[\[note: 31\]](#Ftn_31_1)3 BD, tab 7, pp 9–12, at p 11.
+[^31]: 3 BD, tab 7, pp 9–12, at p 11.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23312-SSP.xml)

@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # ULA _v_ UKZ  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">HCF/District Court Appeal No 174 of 2017</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">05 December 2018</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Tan Puay Boon JC</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Yap Teong Liang and Tan Hui Qing (T L Yap Law Chambers LLC) for the appellant; Ivan Cheong and Eugene Chan (Eversheds Harry Elias LLP) for the respondent.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">ULA — UKZ</td></tr></tbody></table>
@@ -18,15 +19,15 @@ Family Law – Custody – Care and control – Relocation
 
 3       The Mother is Singaporean and resides in Singapore, where she works in a senior position in the legal department of a subsidiary of a multinational company. The Father, who is an Irish citizen, lives with the woman he married and their two children in New Zealand. He is a consultant in a property development consultancy company and also the Chief Executive Officer of another property investment company there.
 
-4       R was born in Australia in July 2009. Two months later, the Mother returned to Singapore with R. The Father remained in New Zealand but visited Singapore twice or thrice between September 2009 and January 2010.[\[note: 1\]](#Ftn_1) In January 2010, the Mother and R returned to New Zealand and lived there with the Father until December 2010 (unbeknownst to the Father’s wife and other children, who were then in Ireland).[\[note: 2\]](#Ftn_2) In December 2010, the Mother and R moved to Singapore, where they have been living since.[\[note: 3\]](#Ftn_3) Besides their cohabitation in 2010, the Father has always lived apart from the Mother and R. However, the parties continued their relationship, and the Father visited the Mother and R in Singapore at least once every three months. In 2012, the Mother informed the Father’s wife about her and R’s existence and their relationship to the Father. Until then, the Father had not told his wife about them.[\[note: 4\]](#Ftn_4)
+4       R was born in Australia in July 2009. Two months later, the Mother returned to Singapore with R. The Father remained in New Zealand but visited Singapore twice or thrice between September 2009 and January 2010.[^1] In January 2010, the Mother and R returned to New Zealand and lived there with the Father until December 2010 (unbeknownst to the Father’s wife and other children, who were then in Ireland).[^2] In December 2010, the Mother and R moved to Singapore, where they have been living since.[^3] Besides their cohabitation in 2010, the Father has always lived apart from the Mother and R. However, the parties continued their relationship, and the Father visited the Mother and R in Singapore at least once every three months. In 2012, the Mother informed the Father’s wife about her and R’s existence and their relationship to the Father. Until then, the Father had not told his wife about them.[^4]
 
-5       In early 2016, the Mother and the Father discussed plans for the Mother and R to move to London. (The Father said the intention was for him _also_ to move to London to be with them as a family unit, but the Mother disputed this.) However, these plans did not advance because the Mother’s company had no firm plans to place her overseas. In September 2016, the Mother ended her relationship with the Father.[\[note: 5\]](#Ftn_5) From November 2016 to April 2017, the Father had no access to R, though the parties gave conflicting accounts of why this was so.[\[note: 6\]](#Ftn_6)
+5       In early 2016, the Mother and the Father discussed plans for the Mother and R to move to London. (The Father said the intention was for him _also_ to move to London to be with them as a family unit, but the Mother disputed this.) However, these plans did not advance because the Mother’s company had no firm plans to place her overseas. In September 2016, the Mother ended her relationship with the Father.[^5] From November 2016 to April 2017, the Father had no access to R, though the parties gave conflicting accounts of why this was so.[^6]
 
-6       On 13 March 2017, by way of Originating Summons (Family Justice Courts) No 53 of 2017 (“FC/OSG 53/2017”), the Father applied for joint custody of R, with care and control to the Mother and liberal access to the Father (amongst others).[\[note: 7\]](#Ftn_7) Contact between the Father and R was re-established in April 2017. On 14 June 2017, a consent order was recorded for the parties to have joint custody of R, with care and control to the Mother and liberal access to the Father (“the Consent Order”).[\[note: 8\]](#Ftn_8) In essence, the Father was to have physical access to R on an average of once every six to eight weeks and half of the school holidays. He would also have physical access whenever the Mother was overseas for more than three days, and liberal phone/Skype access (“remote access”) at least thrice a week on Mondays, Wednesdays and Fridays from 4.30pm to 5.30 or 6pm.[\[note: 9\]](#Ftn_9) Also, Singapore was to be R’s habitual residence unless parties agreed or the Court ordered otherwise.
+6       On 13 March 2017, by way of Originating Summons (Family Justice Courts) No 53 of 2017 (“FC/OSG 53/2017”), the Father applied for joint custody of R, with care and control to the Mother and liberal access to the Father (amongst others).[^7] Contact between the Father and R was re-established in April 2017. On 14 June 2017, a consent order was recorded for the parties to have joint custody of R, with care and control to the Mother and liberal access to the Father (“the Consent Order”).[^8] In essence, the Father was to have physical access to R on an average of once every six to eight weeks and half of the school holidays. He would also have physical access whenever the Mother was overseas for more than three days, and liberal phone/Skype access (“remote access”) at least thrice a week on Mondays, Wednesdays and Fridays from 4.30pm to 5.30 or 6pm.[^9] Also, Singapore was to be R’s habitual residence unless parties agreed or the Court ordered otherwise.
 
 7       R presently attends an international school in Singapore. The Mother is his primary caregiver, although her work commitments sometimes prevent her from fetching R to and from his after-school activities. The Mother’s mother (_ie_, R’s maternal grandmother) and helper also help to look after R, including when the Mother is travelling.
 
-8       The Mother claimed that in July 2017, about one month after the Consent Order was entered into, she was informed by her employer that the next step in her career with the company was for her to embark on an international assignment in London from 1 January 2018 to 31 December 2019, whilst holding her current position.[\[note: 10\]](#Ftn_10) She subsequently received an assignment letter from her employer dated 22 August 2017 containing “the general terms and conditions applicable” to her “global assignment to the United Kingdom” for a period of two years effective from 1 January 2018.[\[note: 11\]](#Ftn_11)
+8       The Mother claimed that in July 2017, about one month after the Consent Order was entered into, she was informed by her employer that the next step in her career with the company was for her to embark on an international assignment in London from 1 January 2018 to 31 December 2019, whilst holding her current position.[^10] She subsequently received an assignment letter from her employer dated 22 August 2017 containing “the general terms and conditions applicable” to her “global assignment to the United Kingdom” for a period of two years effective from 1 January 2018.[^11]
 
 9       On 5 October 2017, the Mother applied to the Family Court by way of Summons (Family Justice Courts) No 3409 of 2017 pursuant to s 5 of the Guardianship of Infants Act (Cap 122, 1985 Rev Ed) for a variation of the Consent Order, amongst other things. In particular, she sought permission for R to relocate to London with her from December 2017, as well as amendments to the access arrangements recorded in the Consent Order. The District Judge refused the application for relocation on 11 December 2017 and gave the grounds of her decision on 23 March 2018 in _UKZ v ULA_ (“the GD”).
 
@@ -88,52 +89,52 @@ Family Law – Custody – Care and control – Relocation
 
 ### The significance of the Consent Order
 
-27     I first briefly address the Father’s argument that the Consent Order, which provided that R’s habitual residence is Singapore, implicitly acknowledges that it is in R’s best interests to remain in Singapore. He also argues that the Consent Order was recorded fewer than four months before the Mother’s relocation application and should not be varied at the Mother’s whim.[\[note: 12\]](#Ftn_12)
+27     I first briefly address the Father’s argument that the Consent Order, which provided that R’s habitual residence is Singapore, implicitly acknowledges that it is in R’s best interests to remain in Singapore. He also argues that the Consent Order was recorded fewer than four months before the Mother’s relocation application and should not be varied at the Mother’s whim.[^12]
 
 28     In my judgment, the fact that the parties previously agreed that Singapore would be R’s habitual residence is a relevant factor. But _equally_ relevant is the fact that they agreed that the order is subject to any further order of court. The paramount consideration is simply whether relocation would be in R’s best interests (see \[24\] above). The fact that the parties previously agreed that Singapore would be R’s habitual residence cannot change this. Moreover, all the Consent Order stated was:
 
 Unless expressly agreed to by parties or pursuant to an Order of Court, Singapore shall remain \[R’s\] habitual residence and neither party is to remove \[R\] from Singapore for a period of more than one (1) month without the leave of Court, save for parties’ school holiday access.
 
-29     The parties’ agreement that Singapore shall remain R’s habitual residence was _expressly_ made subject to any further order of court and agreement by the parties otherwise. The parties thus clearly contemplated the possibility of change. Moreover, the Consent Order was recorded at a time when the Mother had not yet received the assignment letter from her employer. The assignment letter, which appeared to have prompted the Mother’s relocation application, was only issued around August 2017. Although the parties had contemplated moving to London in 2016, this plan was abandoned and the Mother informed the court in April 2017 that she was _not_ relocating because her employer had no firm plans at that point in time for her to relocate.[\[note: 13\]](#Ftn_13) I therefore do not take the Consent Order as a concession on the Mother’s part that it would be in R’s interests _permanently_ to stay in Singapore rather than move to London.
+29     The parties’ agreement that Singapore shall remain R’s habitual residence was _expressly_ made subject to any further order of court and agreement by the parties otherwise. The parties thus clearly contemplated the possibility of change. Moreover, the Consent Order was recorded at a time when the Mother had not yet received the assignment letter from her employer. The assignment letter, which appeared to have prompted the Mother’s relocation application, was only issued around August 2017. Although the parties had contemplated moving to London in 2016, this plan was abandoned and the Mother informed the court in April 2017 that she was _not_ relocating because her employer had no firm plans at that point in time for her to relocate.[^13] I therefore do not take the Consent Order as a concession on the Mother’s part that it would be in R’s interests _permanently_ to stay in Singapore rather than move to London.
 
 ### The Mother’s working hours
 
-30     Much of the parties’ dispute centred on (a) whether a move to London would improve the Mother’s working conditions; and (b) if so, what effect this would have on (i) her health, and (ii) the amount of time she would be able to spend with R. The Mother submits that the District Judge should not have faulted her for the lack of evidence that her working hours in London would improve, or that her health would suffer from a failure to relocate, since such evidence would be impossible to obtain until it actually happened.[\[note: 14\]](#Ftn_14)
+30     Much of the parties’ dispute centred on (a) whether a move to London would improve the Mother’s working conditions; and (b) if so, what effect this would have on (i) her health, and (ii) the amount of time she would be able to spend with R. The Mother submits that the District Judge should not have faulted her for the lack of evidence that her working hours in London would improve, or that her health would suffer from a failure to relocate, since such evidence would be impossible to obtain until it actually happened.[^14]
 
-31     Unfortunately, the assignment letter from the Mother’s company does not give a very good idea of what her work schedule in London would be like. The first paragraph of the letter states, “The terms set out in this letter together with the terms contained in your Home Country Employment Contract shall govern your employment.”[\[note: 15\]](#Ftn_15) Her Singapore contract reflects her working hours as 8.30am to 5.30pm on Mondays to Fridays,[\[note: 16\]](#Ftn_16) but it is the Mother’s own evidence that she usually has to work much longer hours than that. The assignment letter alone therefore does not reliably indicate what her actual working hours in London will be.
+31     Unfortunately, the assignment letter from the Mother’s company does not give a very good idea of what her work schedule in London would be like. The first paragraph of the letter states, “The terms set out in this letter together with the terms contained in your Home Country Employment Contract shall govern your employment.”[^15] Her Singapore contract reflects her working hours as 8.30am to 5.30pm on Mondays to Fridays,[^16] but it is the Mother’s own evidence that she usually has to work much longer hours than that. The assignment letter alone therefore does not reliably indicate what her actual working hours in London will be.
 
-32     On the other hand, it is not disputed that the Mother’s job requires her to provide legal support to clients from Europe, Africa, Middle East, the Americas and Singapore. This means that she works during the day in Singapore and, after attending to R’s “night routine”, resumes work again, with conference calls with her overseas colleagues and clients, which can last past midnight. She therefore effectively works 15 to 18 hours a day.[\[note: 17\]](#Ftn_17) The following table shows the time differences between Singapore/London and where her colleagues and clients are located:[\[note: 18\]](#Ftn_18)
+32     On the other hand, it is not disputed that the Mother’s job requires her to provide legal support to clients from Europe, Africa, Middle East, the Americas and Singapore. This means that she works during the day in Singapore and, after attending to R’s “night routine”, resumes work again, with conference calls with her overseas colleagues and clients, which can last past midnight. She therefore effectively works 15 to 18 hours a day.[^17] The following table shows the time differences between Singapore/London and where her colleagues and clients are located:[^18]
 
 <table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="30.92%"> <col width="35.06%"> <col width="34.02%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p class="Table-Heading-Center">Work day (8.30am–5.30pm) in location</p></td><td align="left" class="br" rowspan="1" valign="top"><p class="Table-Heading-Center">Corresponding time in Singapore</p></td><td align="left" class="b" rowspan="1" valign="top"><p class="Table-Heading-Center">Corresponding time in London</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">London/Africa</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3.30pm–12.30am</p><p align="justify" class="Table-Para-1">(7 hours ahead)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">8.30am–5.30pm</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Europe</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2.30pm–11.30pm</p><p align="justify" class="Table-Para-1">(6 hours ahead)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">7.30am–4.30pm</p><p align="justify" class="Table-Para-1">(1 hour behind)</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">South America</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">8.30pm–5.30am</p><p align="justify" class="Table-Para-1">(12 hours ahead)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1.30pm–10.30pm</p><p align="justify" class="Table-Para-1">(5 hours ahead)</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">North America</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">9.30pm–6.30am</p><p align="justify" class="Table-Para-1">(13 hours ahead)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2.30pm–11.30pm</p><p align="justify" class="Table-Para-1">(6 hours ahead)</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">The Middle East</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">12.30pm–9.30pm</p><p align="justify" class="Table-Para-1">(4 hours ahead)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">5.30am–2.30pm</p><p align="justify" class="Table-Para-1">(3 hours behind)</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Singapore</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">8.30am–5.30pm</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1.30am–10.30am</p><p align="justify" class="Table-Para-1">(7 hours behind)</p></td></tr></tbody></table>
 
   
   
 
-33     According to the Mother, at least 75% of her meetings and calls are with colleagues and clients in the Europe or United Kingdom (“UK”) time zone.[\[note: 19\]](#Ftn_19) By relocating to the UK, she would be in an adjacent time zone to that of her colleagues in Europe, and would be able to make such calls during the day.[\[note: 20\]](#Ftn_20) The Mother has explained that her Asian clients can be supported by her Singapore team members, and her American clients by her Argentinian and American team members. In any event, she would be able to call them during UK working hours, rather than at night from Singapore.[\[note: 21\]](#Ftn_21)
+33     According to the Mother, at least 75% of her meetings and calls are with colleagues and clients in the Europe or United Kingdom (“UK”) time zone.[^19] By relocating to the UK, she would be in an adjacent time zone to that of her colleagues in Europe, and would be able to make such calls during the day.[^20] The Mother has explained that her Asian clients can be supported by her Singapore team members, and her American clients by her Argentinian and American team members. In any event, she would be able to call them during UK working hours, rather than at night from Singapore.[^21]
 
-34     I recognise that the Mother has not adduced documentary evidence that her working hours in London would be an improvement over her working hours in Singapore. However, this is understandable because much would depend on her working conditions when she is there – including her ability to manage her time and workload – and she is unlikely to be able to obtain a firm indication from her company about the hours she would have to work.[\[note: 22\]](#Ftn_22) The Father does not dispute that the Mother’s work has a strong international focus and that she spends much of her time (particularly in the latter half of the day and at night) liaising with clients in the UK/Europe time zone. In the circumstances, I accept that relocating to London would spare the Mother, at the very least, from having to make so many conference calls late at night, and for that reason would likely afford her a better work-life balance. I now go on to consider the effect that this might have on two factors which the Mother relied on to support her application, namely, her health and her time with R.
+34     I recognise that the Mother has not adduced documentary evidence that her working hours in London would be an improvement over her working hours in Singapore. However, this is understandable because much would depend on her working conditions when she is there – including her ability to manage her time and workload – and she is unlikely to be able to obtain a firm indication from her company about the hours she would have to work.[^22] The Father does not dispute that the Mother’s work has a strong international focus and that she spends much of her time (particularly in the latter half of the day and at night) liaising with clients in the UK/Europe time zone. In the circumstances, I accept that relocating to London would spare the Mother, at the very least, from having to make so many conference calls late at night, and for that reason would likely afford her a better work-life balance. I now go on to consider the effect that this might have on two factors which the Mother relied on to support her application, namely, her health and her time with R.
 
 #### Effect on the Mother’s health
 
-35     First, I agree with the District Judge that the evidence does not substantiate the Mother’s claim that her health would _necessarily_ suffer and that she would burn out should she continue in her present job in Singapore.[\[note: 23\]](#Ftn_23) As the District Judge observed, the Mother had not taken any steps to reduce her workload and was, apparently, content with the _status quo_ until being informed of the posting to London (the GD at \[46\]). The Mother does not appear to have sought any medical attention, an alternative work schedule or alternative employment to address her health concerns, and there is no evidence that she is on medication for stress-related ailments. That said, I accept that it is difficult for the Mother to show concrete evidence that her health would suffer until it actually does, by which point it may be too late. Moreover, it is not unreasonable to think that sustaining a 15- to 18-hour work day over the long term can be deleterious to the Mother’s health, and affect her ability to care for R. By contrast, as mentioned above, the move to London would better align her working hours with that of her clients in Europe/UK, and likely to improve her working hours.
+35     First, I agree with the District Judge that the evidence does not substantiate the Mother’s claim that her health would _necessarily_ suffer and that she would burn out should she continue in her present job in Singapore.[^23] As the District Judge observed, the Mother had not taken any steps to reduce her workload and was, apparently, content with the _status quo_ until being informed of the posting to London (the GD at \[46\]). The Mother does not appear to have sought any medical attention, an alternative work schedule or alternative employment to address her health concerns, and there is no evidence that she is on medication for stress-related ailments. That said, I accept that it is difficult for the Mother to show concrete evidence that her health would suffer until it actually does, by which point it may be too late. Moreover, it is not unreasonable to think that sustaining a 15- to 18-hour work day over the long term can be deleterious to the Mother’s health, and affect her ability to care for R. By contrast, as mentioned above, the move to London would better align her working hours with that of her clients in Europe/UK, and likely to improve her working hours.
 
 #### The Mother’s time with R
 
-36     The Mother is R’s primary caregiver. She buys his clothes and books, organises playdates for him, attends his parent-teacher conferences and takes him to appointments, save when she is travelling and when R is with the Father. The Mother describes their daily schedule as follows. The Mother gets R ready for school in the morning and sees him off on the school bus, before she goes to work. She tries to send R to school two to three days a month. After school, the school bus drops R off at his maternal grandmother’s home and the Mother tries to picks him up after his after-school activities between 6.30pm and 7pm. On Wednesdays and Fridays, the Mother sends R for soccer practice and they have dinner together. They also aim to have dinner with R’s grandmother on average at least twice a week. Except when she has evening commitments, which are infrequent, the Mother puts R to bed by 9pm and then makes work calls ending between 11pm and 1am most nights. She travels once every two to three months to London for work for about a week each time, during which time R stays with his maternal grandmother.[\[note: 24\]](#Ftn_24)
+36     The Mother is R’s primary caregiver. She buys his clothes and books, organises playdates for him, attends his parent-teacher conferences and takes him to appointments, save when she is travelling and when R is with the Father. The Mother describes their daily schedule as follows. The Mother gets R ready for school in the morning and sees him off on the school bus, before she goes to work. She tries to send R to school two to three days a month. After school, the school bus drops R off at his maternal grandmother’s home and the Mother tries to picks him up after his after-school activities between 6.30pm and 7pm. On Wednesdays and Fridays, the Mother sends R for soccer practice and they have dinner together. They also aim to have dinner with R’s grandmother on average at least twice a week. Except when she has evening commitments, which are infrequent, the Mother puts R to bed by 9pm and then makes work calls ending between 11pm and 1am most nights. She travels once every two to three months to London for work for about a week each time, during which time R stays with his maternal grandmother.[^24]
 
-37     Due to the Mother’s current work schedule, she is busiest from 3pm onwards and is usually not available to pick R up from school or send him to and from some of his after-school activities. A Private Investigation report adduced by the Father, which describes the Mother’s and R’s schedules from 6 to 24 February 2017, supports the Mother’s assertion that she is often unable to spend as much time with R as she would like due to work commitments. The report observed that the Mother was overseas from 6 to 12 February, and that of the days which she spent in Singapore, she was often at work until R’s bedtime or would only return home at around 7.30pm to 8pm. R spent all his weekday afternoons and evenings at his maternal grandmother’s place and the Mother only took R out for dinner once, on a Sunday night. On 16 of 19 nights, R had dinner without the Mother at his maternal grandmother’s place.[\[note: 25\]](#Ftn_25)
+37     Due to the Mother’s current work schedule, she is busiest from 3pm onwards and is usually not available to pick R up from school or send him to and from some of his after-school activities. A Private Investigation report adduced by the Father, which describes the Mother’s and R’s schedules from 6 to 24 February 2017, supports the Mother’s assertion that she is often unable to spend as much time with R as she would like due to work commitments. The report observed that the Mother was overseas from 6 to 12 February, and that of the days which she spent in Singapore, she was often at work until R’s bedtime or would only return home at around 7.30pm to 8pm. R spent all his weekday afternoons and evenings at his maternal grandmother’s place and the Mother only took R out for dinner once, on a Sunday night. On 16 of 19 nights, R had dinner without the Mother at his maternal grandmother’s place.[^25]
 
-38     The Mother submits that, by relocating, she would be able to spend more time with R and personally attend to his needs. She would also not have to travel to London for work, as a lot of her current days away from R are for trips to London (for example, three of her four trips from May to November 2017). Relocation, on the other hand, would allow her to work hours that coincide much better with R’s school hours and would allow her to pick him up and drop him off to and from school and his after-school activities on most if not all school days.[\[note: 26\]](#Ftn_26)
+38     The Mother submits that, by relocating, she would be able to spend more time with R and personally attend to his needs. She would also not have to travel to London for work, as a lot of her current days away from R are for trips to London (for example, three of her four trips from May to November 2017). Relocation, on the other hand, would allow her to work hours that coincide much better with R’s school hours and would allow her to pick him up and drop him off to and from school and his after-school activities on most if not all school days.[^26]
 
 39     I accept the Mother’s submission that she would be able to spend more time with R if she works in London, both because she would be able to liaise with clients and colleagues during the work day, and because she would not have to travel to London for work. Importantly, any improvements to the Mother’s well-being and psychological and emotional health as a result of a better work-life balance would also indirectly benefit R, as she is his primary caregiver and the parent on whom he depends for his daily needs. I therefore find that relocation would benefit R insofar as it allows the Mother to spend more time caring for and nurturing R. This would also help to mitigate the absence of R’s grandmother from his daily life.
 
 ### Effect on the Mother’s career
 
-40     The Mother also contends that her career would be adversely affected if the relocation application were to be dismissed. The Mother has been working for her present employer since July 2012 and has held her present position since April 2014.[\[note: 27\]](#Ftn_27) She claims that the London posting is a company assignment, not an option that she can accept or reject. By turning it down, she may be at risk of losing her job and would most likely suffer a pay cut. As the Mother is R’s sole financial caregiver, she cannot risk losing her job.[\[note: 28\]](#Ftn_28)
+40     The Mother also contends that her career would be adversely affected if the relocation application were to be dismissed. The Mother has been working for her present employer since July 2012 and has held her present position since April 2014.[^27] She claims that the London posting is a company assignment, not an option that she can accept or reject. By turning it down, she may be at risk of losing her job and would most likely suffer a pay cut. As the Mother is R’s sole financial caregiver, she cannot risk losing her job.[^28]
 
-41     The assignment letter from the Mother’s company, dated 22 August 2017, is titled “International Assignment Letter”. This letter purports to “confirm the general terms and conditions applicable to \[her\] global assignment to the United Kingdom” and the terms and conditions applicable to “give effect to \[her\] planned secondment”.[\[note: 29\]](#Ftn_29) The letter concludes, “May we offer our congratulations on your international assignment and wish you every success in the next step of your career with \[the company\]. Please confirm your acceptance by signing the enclosed letter …”
+41     The assignment letter from the Mother’s company, dated 22 August 2017, is titled “International Assignment Letter”. This letter purports to “confirm the general terms and conditions applicable to \[her\] global assignment to the United Kingdom” and the terms and conditions applicable to “give effect to \[her\] planned secondment”.[^29] The letter concludes, “May we offer our congratulations on your international assignment and wish you every success in the next step of your career with \[the company\]. Please confirm your acceptance by signing the enclosed letter …”
 
-42     The Mother relies on the words “planned secondment” and “next step of your career with \[the company\]” to buttress her argument that she risks losing her job by refusing the posting.[\[note: 30\]](#Ftn_30) On the other hand, the letter seems to treat the posting as an advancement or promotion, because it congratulates her on the assignment and wishes her “every success in the next step of \[her\] career with \[the company\]”. There is certainly nothing to suggest that declining the offer would occasion such severe consequences as potentially losing her job.[\[note: 31\]](#Ftn_31) In fact, this seems very unlikely given the Mother’s seniority and income.
+42     The Mother relies on the words “planned secondment” and “next step of your career with \[the company\]” to buttress her argument that she risks losing her job by refusing the posting.[^30] On the other hand, the letter seems to treat the posting as an advancement or promotion, because it congratulates her on the assignment and wishes her “every success in the next step of \[her\] career with \[the company\]”. There is certainly nothing to suggest that declining the offer would occasion such severe consequences as potentially losing her job.[^31] In fact, this seems very unlikely given the Mother’s seniority and income.
 
 43     That said, I accept that the Mother stands to gain by accepting the posting to London and embarking on this next step of her career. Insofar as the posting would advance the Mother’s career while also affording her a better work-life balance, it would indirectly benefit R as well. Conversely, if the Mother is prevented from accepting the posting, the frustration and regret that she would feel – as well as any adverse impact on her career – would also be felt by R to some degree, because he depends on her. As the Court of Appeal observed in _BNS v BNT_ at \[20\]:
 
@@ -159,25 +160,25 @@ Unless expressly agreed to by parties or pursuant to an Order of Court, Singapor
 
 49     I am satisfied that the relationship between R and the Father is a positive and loving one. I am not persuaded by the Mother’s attempts to downplay the closeness and love between the Father and R. She raises in particular the following points:
 
-(a)     The Father did not inform his wife of R’s birth and existence.[\[note: 32\]](#Ftn_32)
+(a)     The Father did not inform his wife of R’s birth and existence.[^32]
 
-(b)     She was R’s primary caregiver during the one year in 2010 that all three of them lived together in New Zealand. The Father was allegedly busy managing his multiple businesses and was not a hands-on father to R or close to R. She also claims that he chose to prioritise spending key holidays and his birthday with the children from his marriage.[\[note: 33\]](#Ftn_33)
+(b)     She was R’s primary caregiver during the one year in 2010 that all three of them lived together in New Zealand. The Father was allegedly busy managing his multiple businesses and was not a hands-on father to R or close to R. She also claims that he chose to prioritise spending key holidays and his birthday with the children from his marriage.[^33]
 
-(c)     In October 2016, the Father insisted that he and the Mother go on a holiday together, without R, during almost the entire duration of R’s school holidays. She submits that the Father was “not interested in spending time with \[R\] during his October 2016 holidays”.[\[note: 34\]](#Ftn_34)
+(c)     In October 2016, the Father insisted that he and the Mother go on a holiday together, without R, during almost the entire duration of R’s school holidays. She submits that the Father was “not interested in spending time with \[R\] during his October 2016 holidays”.[^34]
 
-(d)     The Consent Order permitted the Father overnight access to R when the Mother was overseas for more than three days, subject to the Father securing rented residence at a condominium in the neighbourhood of R’s residence. However, the Father had yet to secure such residence.[\[note: 35\]](#Ftn_35)
+(d)     The Consent Order permitted the Father overnight access to R when the Mother was overseas for more than three days, subject to the Father securing rented residence at a condominium in the neighbourhood of R’s residence. However, the Father had yet to secure such residence.[^35]
 
-(e)     The Father “refused to provide any payment of maintenance” and had “not volunteered any maintenance payments” since November 2016.[\[note: 36\]](#Ftn_36)
+(e)     The Father “refused to provide any payment of maintenance” and had “not volunteered any maintenance payments” since November 2016.[^36]
 
-50     I do not give much weight to these allegations. The court must assess the merits of the relocation application on the facts as they _presently_ are. Matters to do with R’s birth and his early years do not provide much insight into the nature of the current relationship between R and the Father. In that regard, the Mother did not “deny or debate \[R’s\] affection and love for his Father” and recognised that R “enjoys his father’s company and the lavish holidays he showers on \[R\]”.[\[note: 37\]](#Ftn_37) She also admitted that “\[R\] loves his Father and actively seeks his father’s approval hence the need to show his Father how his \[s\]occer or \[s\]wimming skills have improved”.[\[note: 38\]](#Ftn_38) Nor was the relationship at all one-sided. The Father made a ten-hour flight (one-way) to Singapore from New Zealand on an average of once every six to eight weeks to visit R and spend time with him. He also brought R for holidays.[\[note: 39\]](#Ftn_39) It certainly seems that the Father and R both love each other dearly.
+50     I do not give much weight to these allegations. The court must assess the merits of the relocation application on the facts as they _presently_ are. Matters to do with R’s birth and his early years do not provide much insight into the nature of the current relationship between R and the Father. In that regard, the Mother did not “deny or debate \[R’s\] affection and love for his Father” and recognised that R “enjoys his father’s company and the lavish holidays he showers on \[R\]”.[^37] She also admitted that “\[R\] loves his Father and actively seeks his father’s approval hence the need to show his Father how his \[s\]occer or \[s\]wimming skills have improved”.[^38] Nor was the relationship at all one-sided. The Father made a ten-hour flight (one-way) to Singapore from New Zealand on an average of once every six to eight weeks to visit R and spend time with him. He also brought R for holidays.[^39] It certainly seems that the Father and R both love each other dearly.
 
-51     As for the issue of maintenance, it was not disputed that the Father has not maintained R since November 2016, when the Mother ended their relationship.[\[note: 40\]](#Ftn_40) However, I do not think this suggests a lack of love or care for R, for the following reasons:
+51     As for the issue of maintenance, it was not disputed that the Father has not maintained R since November 2016, when the Mother ended their relationship.[^40] However, I do not think this suggests a lack of love or care for R, for the following reasons:
 
-(a)     First, the Father sent monthly maintenance of NZ$9,000 from mid-2011 to November 2016 for the Mother and R. The Mother was the one who, when she ended the relationship, instructed the Father to stop making these payments.[\[note: 41\]](#Ftn_41)
+(a)     First, the Father sent monthly maintenance of NZ$9,000 from mid-2011 to November 2016 for the Mother and R. The Mother was the one who, when she ended the relationship, instructed the Father to stop making these payments.[^41]
 
-(b)     Secondly, as part of the relocation application, the Mother sought an order that the Father provide reasonable monthly maintenance for R, to be backdated to November 2016. The District Judge has adjourned her decision on that prayer pending the outcome of this appeal.[\[note: 42\]](#Ftn_42) I also recognise that there is no urgent need for the Father’s financial assistance given that the Mother is very well-paid (see the GD at n 1) and it was not her case that she could not afford household goods or family expenses. (That said, I do think that the Father’s passiveness in maintaining R shows that he was content for the Mother to shoulder primary responsibility for R’s daily needs and well-being, and to himself take the backseat in R’s care, which I return to at \[80\]–\[81\] below.)
+(b)     Secondly, as part of the relocation application, the Mother sought an order that the Father provide reasonable monthly maintenance for R, to be backdated to November 2016. The District Judge has adjourned her decision on that prayer pending the outcome of this appeal.[^42] I also recognise that there is no urgent need for the Father’s financial assistance given that the Mother is very well-paid (see the GD at n 1) and it was not her case that she could not afford household goods or family expenses. (That said, I do think that the Father’s passiveness in maintaining R shows that he was content for the Mother to shoulder primary responsibility for R’s daily needs and well-being, and to himself take the backseat in R’s care, which I return to at \[80\]–\[81\] below.)
 
-(c)     Thirdly, the Father appeared to be willing in principle to maintain R. In his affidavit filed in OSG 53/2017, the Father stated that he was “prepared to accept \[R’s\] total monthly reasonable expenses” as S$3,000 per month, and asked that this be shared equally between the parties.[\[note: 43\]](#Ftn_43) The Mother points out that his estimate of $3,000 per month excludes R’s school fees, which amount to about $34,000 a year.[\[note: 44\]](#Ftn_44) Be that as it may, the Father has not taken the position that he would refuse to pay maintenance over and above the figure he has suggested; he was merely making submissions on the proper sum to be ordered as maintenance. I have no reason to doubt his willingness to contribute to the maintenance of R.
+(c)     Thirdly, the Father appeared to be willing in principle to maintain R. In his affidavit filed in OSG 53/2017, the Father stated that he was “prepared to accept \[R’s\] total monthly reasonable expenses” as S$3,000 per month, and asked that this be shared equally between the parties.[^43] The Mother points out that his estimate of $3,000 per month excludes R’s school fees, which amount to about $34,000 a year.[^44] Be that as it may, the Father has not taken the position that he would refuse to pay maintenance over and above the figure he has suggested; he was merely making submissions on the proper sum to be ordered as maintenance. I have no reason to doubt his willingness to contribute to the maintenance of R.
 
 52     I also do not think anything can be made of the fact that the Father had not secured rented residence at the neighbourhood condominium. There was no obligation for him to do so. Moreover, as his counsel explained at the hearing before me, the Father was understandably reluctant to rent a residence there for a fixed term given the uncertainty (pending this appeal) of whether R will be permitted to relocate.
 
@@ -185,11 +186,11 @@ Unless expressly agreed to by parties or pursuant to an Order of Court, Singapor
 
 #### Physical contact
 
-54     It is largely undisputed that from 2011 to 2014, the Father visited Singapore every 8 to 12 weeks and from 2014 to 2016, he visited every 4 to 8 weeks.[\[note: 45\]](#Ftn_45) Under the Consent Order, he is to have physical access to R on an average of once every 6 to 8 weeks and half the school holidays.
+54     It is largely undisputed that from 2011 to 2014, the Father visited Singapore every 8 to 12 weeks and from 2014 to 2016, he visited every 4 to 8 weeks.[^45] Under the Consent Order, he is to have physical access to R on an average of once every 6 to 8 weeks and half the school holidays.
 
-55     The Father submits that it would be unreasonable and impractical for him to exercise any form of regular access if R were to relocate to London.[\[note: 46\]](#Ftn_46) It is not disputed that a one-way trip from Auckland to London would take at least 30 hours and require at least one stopover.[\[note: 47\]](#Ftn_47) The Mother counters that the Father has business interests in London and it would pose no inconvenience for him to travel to London for access to R. Further, he has travelled to London fairly often since 2016, including twice in 2017. Should relocation be granted, the existing access orders could be varied to give the Father additional physical access to R whenever the father is in London, subject to him giving prior notice. In an affidavit filed below, the Mother offered the Father holiday access for 75% of R’s year-end holidays and half of his summer holidays, and said that she was willing to facilitate access if the Father should visit London outside of his access period, provided he gives two weeks’ prior notice. The Mother even offered to fly R to Singapore for holiday access with the Father for up to three of the five holiday access periods.[\[note: 48\]](#Ftn_48)
+55     The Father submits that it would be unreasonable and impractical for him to exercise any form of regular access if R were to relocate to London.[^46] It is not disputed that a one-way trip from Auckland to London would take at least 30 hours and require at least one stopover.[^47] The Mother counters that the Father has business interests in London and it would pose no inconvenience for him to travel to London for access to R. Further, he has travelled to London fairly often since 2016, including twice in 2017. Should relocation be granted, the existing access orders could be varied to give the Father additional physical access to R whenever the father is in London, subject to him giving prior notice. In an affidavit filed below, the Mother offered the Father holiday access for 75% of R’s year-end holidays and half of his summer holidays, and said that she was willing to facilitate access if the Father should visit London outside of his access period, provided he gives two weeks’ prior notice. The Mother even offered to fly R to Singapore for holiday access with the Father for up to three of the five holiday access periods.[^48]
 
-56     I accept the Father’s submission that the increase in travel time would make it harder for him to have physical contact with R as often as he presently does. The Father denies that he ever had or continues to have any business interests in London, and asserted in his affidavit filed in October last year that he had only travelled to London once in the last 18 months.[\[note: 49\]](#Ftn_49) However, I do not think that the increased difficulty of visiting R would be as drastic as the Father suggests. The Mother makes the point that the Father travels frequently to London and made some 11 trips from 2009 to 2017 involving London either as a destination or as a stopover. Five of these trips were made in 2016 and 2017.[\[note: 50\]](#Ftn_50) The Father claims that two of the trips in 2016 were made for the purpose of exploring opportunities in London when the parties were still planning to move there, and that these opportunities were discontinued when their relationship ended.[\[note: 51\]](#Ftn_51) Even if that is so, this suggests that the Father’s business may well take him to London or other parts of the world in future, which will make travelling to London less of an inconvenience. The Father also travels to other parts of Europe (_eg_, to France in July 2015, July 2016 and August 2017; and to Frankfurt in 2015), from which it will not be difficult to fly to London. Moreover, the Father acknowledges that he travels frequently. The frequency and duration of his trips – which, by the Father’s own evidence, were not for work purposes[\[note: 52\]](#Ftn_52) – contradict his assertion that it would be difficult for him to visit R in London because he is “just an employee of a company with a fixed number of leave days” and “cannot possibly be expected to take leave from work frequently and for long durations on a regular basis”.[\[note: 53\]](#Ftn_53) Indeed, the fact that the Father was able to plan a relocation to London in 2016 and took steps to organise his work commitments on that basis[\[note: 54\]](#Ftn_54) suggests that he exercises substantial control over his work and the projects he is involved in.
+56     I accept the Father’s submission that the increase in travel time would make it harder for him to have physical contact with R as often as he presently does. The Father denies that he ever had or continues to have any business interests in London, and asserted in his affidavit filed in October last year that he had only travelled to London once in the last 18 months.[^49] However, I do not think that the increased difficulty of visiting R would be as drastic as the Father suggests. The Mother makes the point that the Father travels frequently to London and made some 11 trips from 2009 to 2017 involving London either as a destination or as a stopover. Five of these trips were made in 2016 and 2017.[^50] The Father claims that two of the trips in 2016 were made for the purpose of exploring opportunities in London when the parties were still planning to move there, and that these opportunities were discontinued when their relationship ended.[^51] Even if that is so, this suggests that the Father’s business may well take him to London or other parts of the world in future, which will make travelling to London less of an inconvenience. The Father also travels to other parts of Europe (_eg_, to France in July 2015, July 2016 and August 2017; and to Frankfurt in 2015), from which it will not be difficult to fly to London. Moreover, the Father acknowledges that he travels frequently. The frequency and duration of his trips – which, by the Father’s own evidence, were not for work purposes[^52] – contradict his assertion that it would be difficult for him to visit R in London because he is “just an employee of a company with a fixed number of leave days” and “cannot possibly be expected to take leave from work frequently and for long durations on a regular basis”.[^53] Indeed, the fact that the Father was able to plan a relocation to London in 2016 and took steps to organise his work commitments on that basis[^54] suggests that he exercises substantial control over his work and the projects he is involved in.
 
 57     Moreover, even if the Father is not able to travel to London as often as he presently travels to Singapore, he might possibly compensate for this by spending more time with R on each occasion. I also note that the Mother was willing to fly R to Singapore to meet the Father. The District Judge was skeptical about this proposal because it “would entail R flying to New Zealand thereafter”, and “\[h\]aving to endure such long flights and the ensuing jet lag could not be in R’s best interests” (the GD at \[63\]). However, the Father need not fly R back to New Zealand. He could, for example, spend time with R in Singapore (where R’s friends and maternal relatives would be), or bring R for holidays to nearby destinations. This would allow the Father to see R without having to fly all the way to London. While such a proposal might not be feasible on a regular basis, and is dependent on R’s school schedule, it is an arrangement which can be properly planned and has the advantage of relative certainty.
 
@@ -207,17 +208,17 @@ Unless expressly agreed to by parties or pursuant to an Order of Court, Singapor
 
 ### The disruption to R’s life
 
-62     I next address the factor of disruption to R’s life, which the District Judge thought would be significant (see \[22\] above). The Mother reiterates that there is no evidence that relocation would be stressful or traumatic for R given his youth and adaptability, the possibility of connecting with old friends via social media, and the fact that the Mother is his primary caregiver and sense of security.[\[note: 55\]](#Ftn_55) Moreover, he has a cross-cultural background and no one single culture governs his upbringing.[\[note: 56\]](#Ftn_56) The Mother also claims that she would not need to bring her mother and her helper to London because she would be able to spend more time looking after R, though she may hire a nanny to assist with household chores (not to care for R). In any event the court may specifically order that the maternal grandmother and/or helper accompany R to London.[\[note: 57\]](#Ftn_57)
+62     I next address the factor of disruption to R’s life, which the District Judge thought would be significant (see \[22\] above). The Mother reiterates that there is no evidence that relocation would be stressful or traumatic for R given his youth and adaptability, the possibility of connecting with old friends via social media, and the fact that the Mother is his primary caregiver and sense of security.[^55] Moreover, he has a cross-cultural background and no one single culture governs his upbringing.[^56] The Mother also claims that she would not need to bring her mother and her helper to London because she would be able to spend more time looking after R, though she may hire a nanny to assist with household chores (not to care for R). In any event the court may specifically order that the maternal grandmother and/or helper accompany R to London.[^57]
 
-63     I take the Father’s point that the move to London would involve quite a dramatic change for R. R has spent the past eight years in Singapore and has never lived in London. He would also no longer see his uncles and cousins, with whom he usually has dinner on Sundays, often.[\[note: 58\]](#Ftn_58) However, given his youth, I consider that R would be able to adapt. The fact that R is “sociable” (the GD at \[51\] and \[54\]) may even be favourable, and is at worst neutral, to the Mother’s relocation application because it bodes well for R’s ability to make new friends in London, as compared to a child who is more introverted. I also consider that the extra time and love the Mother would be able to give him in London would help to ease the transition. That said, I take the view that the Mother should bring her mother and helper along for the initial transition period, particularly as the Mother herself would be acclimatising to work. As the District Judge said, the face of a familiar family member in a foreign land would likely bring R some measure of assurance and comfort (see the GD at \[54\]). The Mother has stated that she would be willing to make such arrangements if the court takes the view that the maternal grandmother and/or helper should accompany them for the initial transition period.[\[note: 59\]](#Ftn_59)
+63     I take the Father’s point that the move to London would involve quite a dramatic change for R. R has spent the past eight years in Singapore and has never lived in London. He would also no longer see his uncles and cousins, with whom he usually has dinner on Sundays, often.[^58] However, given his youth, I consider that R would be able to adapt. The fact that R is “sociable” (the GD at \[51\] and \[54\]) may even be favourable, and is at worst neutral, to the Mother’s relocation application because it bodes well for R’s ability to make new friends in London, as compared to a child who is more introverted. I also consider that the extra time and love the Mother would be able to give him in London would help to ease the transition. That said, I take the view that the Mother should bring her mother and helper along for the initial transition period, particularly as the Mother herself would be acclimatising to work. As the District Judge said, the face of a familiar family member in a foreign land would likely bring R some measure of assurance and comfort (see the GD at \[54\]). The Mother has stated that she would be willing to make such arrangements if the court takes the view that the maternal grandmother and/or helper should accompany them for the initial transition period.[^59]
 
-64     For the avoidance of doubt, I place no weight on the Mother’s argument that relocation would allow R to get to know his paternal relatives (particularly his paternal grandmother, paternal aunt and three cousins).[\[note: 60\]](#Ftn_60) They reside in Ireland, not London, and it would take a day’s travel to reach them (the GD at \[58\]).[\[note: 61\]](#Ftn_61) Interaction between R and his paternal relatives is unlikely to be regular and would not, as far as is reasonably foreseeable, have a significant impact on R’s well-being.
+64     For the avoidance of doubt, I place no weight on the Mother’s argument that relocation would allow R to get to know his paternal relatives (particularly his paternal grandmother, paternal aunt and three cousins).[^60] They reside in Ireland, not London, and it would take a day’s travel to reach them (the GD at \[58\]).[^61] Interaction between R and his paternal relatives is unlikely to be regular and would not, as far as is reasonably foreseeable, have a significant impact on R’s well-being.
 
 ### R’s education in London
 
-65     Next, I note that the Father has expressed concerns about the school in which the Mother has enrolled R. Before the District Judge, the Father also tendered two regulatory reports by the UK Office for Standards in Education, Children’s Services and Skills (“Ofsted”), as well as an article showing that the school does not feature on recent league tables for IB schools.[\[note: 62\]](#Ftn_62) The Mother relied on an article of “unknown reliability” to show that the school was a good school, even though the article stated that the school’s own website claimed that it was in the top 20% for IB results (the GD at \[56\]).
+65     Next, I note that the Father has expressed concerns about the school in which the Mother has enrolled R. Before the District Judge, the Father also tendered two regulatory reports by the UK Office for Standards in Education, Children’s Services and Skills (“Ofsted”), as well as an article showing that the school does not feature on recent league tables for IB schools.[^62] The Mother relied on an article of “unknown reliability” to show that the school was a good school, even though the article stated that the school’s own website claimed that it was in the top 20% for IB results (the GD at \[56\]).
 
-66     I first address the two Ofsted reports. The first was based on an inspection conducted on 20 May 2016. The second was dated 9 November 2016. The District Judge observed that the reports “showed that the said school was not one of the top IB schools and the said report also cited several safety concerns” (the GD at \[57\]). However, these safety concerns appear to relate to the inadequacy of the school’s risk assessment for one particular trip (a residential trip to India). Most of Ofsted’s feedback regarding the school was positive and complimentary. This is shown by the “Main findings” of the Ofsted report:[\[note: 63\]](#Ftn_63)
+66     I first address the two Ofsted reports. The first was based on an inspection conducted on 20 May 2016. The second was dated 9 November 2016. The District Judge observed that the reports “showed that the said school was not one of the top IB schools and the said report also cited several safety concerns” (the GD at \[57\]). However, these safety concerns appear to relate to the inadequacy of the school’s risk assessment for one particular trip (a residential trip to India). Most of Ofsted’s feedback regarding the school was positive and complimentary. This is shown by the “Main findings” of the Ofsted report:[^63]
 
 **Main findings**
 
@@ -235,27 +236,27 @@ Unless expressly agreed to by parties or pursuant to an Order of Court, Singapor
 
 \[emphasis added\]
 
-67     As can be seen, Ofsted’s findings were generally positive. The school’s arrangements for safeguarding and first aid, and its health and safety policy, were adequate and even praiseworthy. The only negative comments about the school are those which I have emphasised in italics above, but even those were addressed by the time of Ofsted’s second report in November 2016. That report recounted a slew of measures which the school undertook to remedy the lapses discovered as a result of Ofsted’s May 2016 inspection, and concluded that the school met all the relevant requirements in respect of the welfare, health and safety of pupils, as well as the quality of leadership in and management of the school. The report concluded that the school staff, proprietor and governors had been “successful in addressing the remaining unmet parts of the standards that were highlighted at the emergency inspection in May 2016” and that all the relevant requirements were satisfied.[\[note: 64\]](#Ftn_64) It therefore appears that the school has taken Ofsted’s concerns seriously and worked very hard to address them.
+67     As can be seen, Ofsted’s findings were generally positive. The school’s arrangements for safeguarding and first aid, and its health and safety policy, were adequate and even praiseworthy. The only negative comments about the school are those which I have emphasised in italics above, but even those were addressed by the time of Ofsted’s second report in November 2016. That report recounted a slew of measures which the school undertook to remedy the lapses discovered as a result of Ofsted’s May 2016 inspection, and concluded that the school met all the relevant requirements in respect of the welfare, health and safety of pupils, as well as the quality of leadership in and management of the school. The report concluded that the school staff, proprietor and governors had been “successful in addressing the remaining unmet parts of the standards that were highlighted at the emergency inspection in May 2016” and that all the relevant requirements were satisfied.[^64] It therefore appears that the school has taken Ofsted’s concerns seriously and worked very hard to address them.
 
-68     Secondly, I note the Father’s remark that the school “is a small school of very average repute” with “a very limited range of amenities that is substantially below that which \[R\] enjoys in \[his school in Singapore\]”.[\[note: 65\]](#Ftn_65) He adduced a print-out of an article ranking the top 45 “large cohort” IB schools and the top 10 “small cohort” IB schools in the UK in 2017. The school selected by the Mother is not ranked among these. However, the article does not state how many IB schools there are, so it is impossible to know how the school fares in comparison to the average.
+68     Secondly, I note the Father’s remark that the school “is a small school of very average repute” with “a very limited range of amenities that is substantially below that which \[R\] enjoys in \[his school in Singapore\]”.[^65] He adduced a print-out of an article ranking the top 45 “large cohort” IB schools and the top 10 “small cohort” IB schools in the UK in 2017. The school selected by the Mother is not ranked among these. However, the article does not state how many IB schools there are, so it is impossible to know how the school fares in comparison to the average.
 
-69     Thirdly, the Father tendered photographs he had taken of the exterior of the school.[\[note: 66\]](#Ftn_66) However, not much can be deduced from these photographs regarding the quality of teaching, the extra-curricular activities available or what R’s educational experience there would be like.
+69     Thirdly, the Father tendered photographs he had taken of the exterior of the school.[^66] However, not much can be deduced from these photographs regarding the quality of teaching, the extra-curricular activities available or what R’s educational experience there would be like.
 
 70     There is no other evidence that the school is a poor choice for R, that better options were feasible and available, or that the Mother did not have his interests at heart in selecting this school. In any event, the District Judge noted that the Mother was “open to exploring alternative schools” in the light of the Father’s concerns (the GD at \[37\]). The choice of school is an important decision as it will affect the Mother’s and R’s lives significantly. It invites many considerations, such as location, admission criteria, curriculum and affordability. In the absence of any evidence that the school chosen by the Mother is patently unsuitable, I do not think that the relocation application should be dismissed on this basis.
 
 ### Prior discussions about a relocation to London
 
-71     Another fact which the Mother relies on to support the relocation application is that the parties seriously discussed her relocation with R to London in March 2015 to help her achieve a better work-life balance.[\[note: 67\]](#Ftn_67) In 2015, the parties sought the approval of the Ministry of Education for R to continue his studies at an international school in Singapore because of their intention to relocate to New Zealand or the UK within the next two to four years. The parties travelled to London in 2016 to further explore relocation, and the Father made arrangements in March 2016 for them to explore London schools. There are also e-mails which refer to the Father planning to set up offices in London and making site visits to various property developments that he had a business interest in.[\[note: 68\]](#Ftn_68)
+71     Another fact which the Mother relies on to support the relocation application is that the parties seriously discussed her relocation with R to London in March 2015 to help her achieve a better work-life balance.[^67] In 2015, the parties sought the approval of the Ministry of Education for R to continue his studies at an international school in Singapore because of their intention to relocate to New Zealand or the UK within the next two to four years. The parties travelled to London in 2016 to further explore relocation, and the Father made arrangements in March 2016 for them to explore London schools. There are also e-mails which refer to the Father planning to set up offices in London and making site visits to various property developments that he had a business interest in.[^68]
 
-72     The Mother claims that only she and R were to relocate to London, and that the Father was to remain in New Zealand, commuting to London to visit them periodically. The Mother cites the fact that the Father had not divorced his wife as evidence that he did not plan to move to London with the Mother and R.[\[note: 69\]](#Ftn_69) Her argument is that, if the Father was agreeable at that time to R relocating to London, he must have accepted that relocation would be in R’s best interests.[\[note: 70\]](#Ftn_70)
+72     The Mother claims that only she and R were to relocate to London, and that the Father was to remain in New Zealand, commuting to London to visit them periodically. The Mother cites the fact that the Father had not divorced his wife as evidence that he did not plan to move to London with the Mother and R.[^69] Her argument is that, if the Father was agreeable at that time to R relocating to London, he must have accepted that relocation would be in R’s best interests.[^70]
 
-73     I do not place much weight on this factor. First, the parties dispute whether the move to London was meant to include the Father. From the evidence, it seems likely that the parties intended the Father to move to London. For example, the Mother’s draft e-mail to the Ministry of Education requesting permission for R to study at an international school states:[\[note: 71\]](#Ftn_71)
+73     I do not place much weight on this factor. First, the parties dispute whether the move to London was meant to include the Father. From the evidence, it seems likely that the parties intended the Father to move to London. For example, the Mother’s draft e-mail to the Ministry of Education requesting permission for R to study at an international school states:[^71]
 
 4.     _We_ intend to relocate out of Singapore to New Zealand or UK within the next 2 to 4 years. This is entirely feasible based on _\[the Father’s\] business plans_ and \[the Mother’s\] career path.
 
 5.    We also plan to obtain for \[R\] an Irish passport within the next 24 months to facilitate _our_ relocation. \[emphasis added\]
 
-74     Another e-mail drafted by the Father to a business associate states:[\[note: 72\]](#Ftn_72)
+74     Another e-mail drafted by the Father to a business associate states:[^72]
 
 You know that I am keen to relocate to London for personal reasons and I have been looking at options to achieve this … my relocation needs to operate around school terms and ideally we would need to be based in London from next September.
 
@@ -263,7 +264,7 @@ You know that I am keen to relocate to London for personal reasons and I have be
 
 ### The duration of the relocation
 
-76     One of the Father’s concerns was that the Mother’s posting to London would be permanent (the GD at \[34\]). The assignment letter from the Mother’s company dated 22 August 2017 referred to an “assignment period … from 1 January 2018 to 31 December 2019”, but para 8 titled “End of Assignment” stated that at the conclusion of her international assignment, the company would “consider possible options available to \[the Mother\]” as follows:[\[note: 73\]](#Ftn_73)
+76     One of the Father’s concerns was that the Mother’s posting to London would be permanent (the GD at \[34\]). The assignment letter from the Mother’s company dated 22 August 2017 referred to an “assignment period … from 1 January 2018 to 31 December 2019”, but para 8 titled “End of Assignment” stated that at the conclusion of her international assignment, the company would “consider possible options available to \[the Mother\]” as follows:[^73]
 
 (a)     the company would take reasonable steps to identify “a suitable role”, but if a suitable role was not available in any location, then the redundancy process would commence;
 
@@ -305,7 +306,7 @@ You know that I am keen to relocate to London for personal reasons and I have be
 
 (c)     there be regular contact through Skype, Facetime, WhatsApp or other electronic means between the Father and R, the timing of which is to be scheduled around R’s school schedules and taking into account the time difference between New Zealand and London.
 
-86     The Father takes issue with the access arrangements proposed by the Mother because they would essentially require him to “shuttle between New Zealand and London \[five\] times a year”, which he claims is not feasible. The holiday access periods which she has proposed are each at least a week long, requiring him to “take long periods of absence \[from\] work”, which he says is “impractical”.[\[note: 74\]](#Ftn_74) The Father’s position in these proceedings has consistently been that the relocation application should be dismissed because it would be impractical for him to maintain regular contact with R if R moves to London. He has not himself proposed any access arrangements. Given my decision to allow R to relocate, it would be profitable for the parties to try to agree on a set of physical and remote access arrangements that would meet R’s needs and that would be workable for the Father. If the parties are unable to agree, they may apply to the District Judge for an order varying the terms of access.
+86     The Father takes issue with the access arrangements proposed by the Mother because they would essentially require him to “shuttle between New Zealand and London \[five\] times a year”, which he claims is not feasible. The holiday access periods which she has proposed are each at least a week long, requiring him to “take long periods of absence \[from\] work”, which he says is “impractical”.[^74] The Father’s position in these proceedings has consistently been that the relocation application should be dismissed because it would be impractical for him to maintain regular contact with R if R moves to London. He has not himself proposed any access arrangements. Given my decision to allow R to relocate, it would be profitable for the parties to try to agree on a set of physical and remote access arrangements that would meet R’s needs and that would be workable for the Father. If the parties are unable to agree, they may apply to the District Judge for an order varying the terms of access.
 
 87     I therefore make the order that the Father’s access arrangements, the date of relocation, R’s school in London and other necessary details pertaining to the relocation are to be agreed between the parties, failing which they are to address the District Judge on them.
 
@@ -313,153 +314,153 @@ You know that I am keen to relocate to London for personal reasons and I have be
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)Appellant’s Case at para 11; Record of Appeal (“ROA”) Vol 3, Tab 14, para 7; ROA Vol 2, Tab 8, para 7.
+[^1]: Appellant’s Case at para 11; Record of Appeal (“ROA”) Vol 3, Tab 14, para 7; ROA Vol 2, Tab 8, para 7.
 
-[\[note: 2\]](#Ftn_2_1)Appellant’s Case at para 12.
+[^2]: Appellant’s Case at para 12.
 
-[\[note: 3\]](#Ftn_3_1)Appellant’s Case at para 9; Respondent’s Case at para 8.
+[^3]: Appellant’s Case at para 9; Respondent’s Case at para 8.
 
-[\[note: 4\]](#Ftn_4_1)Appellant’s Case at para 17.
+[^4]: Appellant’s Case at para 17.
 
-[\[note: 5\]](#Ftn_5_1)Respondent’s Case at para 9.
+[^5]: Respondent’s Case at para 9.
 
-[\[note: 6\]](#Ftn_6_1)Respondent’s Case at para 10.
+[^6]: Respondent’s Case at para 10.
 
-[\[note: 7\]](#Ftn_7_1)ROA Vol 3, Tab 13.
+[^7]: ROA Vol 3, Tab 13.
 
-[\[note: 8\]](#Ftn_8_1)ROA Vol 2, Tab 8, pp 27–35.
+[^8]: ROA Vol 2, Tab 8, pp 27–35.
 
-[\[note: 9\]](#Ftn_9_1)Respondent’s Case at para 73.
+[^9]: Respondent’s Case at para 73.
 
-[\[note: 10\]](#Ftn_10_1)ROA Vol 2, Tab 8, para 25.
+[^10]: ROA Vol 2, Tab 8, para 25.
 
-[\[note: 11\]](#Ftn_11_1)ROA Vol 2, Tab 8, p 36.
+[^11]: ROA Vol 2, Tab 8, p 36.
 
-[\[note: 12\]](#Ftn_12_1)Respondent’s Case at para 73; Minute Sheet (13 August 2018) in HCF/DCA 174/2017 at pp 6, 7, 10 and 13.
+[^12]: Respondent’s Case at para 73; Minute Sheet (13 August 2018) in HCF/DCA 174/2017 at pp 6, 7, 10 and 13.
 
-[\[note: 13\]](#Ftn_13_1)Respondent’s Case at para 40; ROA Vol 2, Tab 9, pp 140–145; ROA Vol 3, Tab 11, para 48.
+[^13]: Respondent’s Case at para 40; ROA Vol 2, Tab 9, pp 140–145; ROA Vol 3, Tab 11, para 48.
 
-[\[note: 14\]](#Ftn_14_1)Appellant’s Case at para 26.
+[^14]: Appellant’s Case at para 26.
 
-[\[note: 15\]](#Ftn_15_1)ROA Vol 2, Tab 8, p 36.
+[^15]: ROA Vol 2, Tab 8, p 36.
 
-[\[note: 16\]](#Ftn_16_1)Appellant’s Case at para 58.
+[^16]: Appellant’s Case at para 58.
 
-[\[note: 17\]](#Ftn_17_1)Appellant’s Case at para 46; ROA Vol 2, Tab 8 at para 26.
+[^17]: Appellant’s Case at para 46; ROA Vol 2, Tab 8 at para 26.
 
-[\[note: 18\]](#Ftn_18_1)ROA Vol 2, Tab 8 at para 27.
+[^18]: ROA Vol 2, Tab 8 at para 27.
 
-[\[note: 19\]](#Ftn_19_1)Appellant’s Case at para 65; Respondent’s Case at para 51.
+[^19]: Appellant’s Case at para 65; Respondent’s Case at para 51.
 
-[\[note: 20\]](#Ftn_20_1)GD at \[19\] and \[26\]; Appellant’s Case at paras 46–47.
+[^20]: GD at \[19\] and \[26\]; Appellant’s Case at paras 46–47.
 
-[\[note: 21\]](#Ftn_21_1)ROA Vol 3, Tab 11 at para 72.
+[^21]: ROA Vol 3, Tab 11 at para 72.
 
-[\[note: 22\]](#Ftn_22_1)Appellant’s Case at paras 48–53, 57 and 65.
+[^22]: Appellant’s Case at paras 48–53, 57 and 65.
 
-[\[note: 23\]](#Ftn_23_1)Appellant’s Case at para 26.
+[^23]: Appellant’s Case at para 26.
 
-[\[note: 24\]](#Ftn_24_1)ROA Vol 3, Tab 11, paras 65 and 129.
+[^24]: ROA Vol 3, Tab 11, paras 65 and 129.
 
-[\[note: 25\]](#Ftn_25_1)ROA Vol 3, Tab 14, paras 40–42.
+[^25]: ROA Vol 3, Tab 14, paras 40–42.
 
-[\[note: 26\]](#Ftn_26_1)ROA Vol 3, Tab 11, para 67.
+[^26]: ROA Vol 3, Tab 11, para 67.
 
-[\[note: 27\]](#Ftn_27_1)ROA Vol 2, Tab 8, para 26.
+[^27]: ROA Vol 2, Tab 8, para 26.
 
-[\[note: 28\]](#Ftn_28_1)Appellant’s Case at paras 39–43.
+[^28]: Appellant’s Case at paras 39–43.
 
-[\[note: 29\]](#Ftn_29_1)ROA Vol 2, Tab 8, pp 36–39.
+[^29]: ROA Vol 2, Tab 8, pp 36–39.
 
-[\[note: 30\]](#Ftn_30_1)Appellant’s Case at paras 41–42;
+[^30]: Appellant’s Case at paras 41–42;
 
-[\[note: 31\]](#Ftn_31_1)ROA Vol 2, Tab 8, p 36.
+[^31]: ROA Vol 2, Tab 8, p 36.
 
-[\[note: 32\]](#Ftn_32_1)Appellant’s Case at paras 12, 16, 18 and 34.
+[^32]: Appellant’s Case at paras 12, 16, 18 and 34.
 
-[\[note: 33\]](#Ftn_33_1)Appellant’s Case at para 14.
+[^33]: Appellant’s Case at para 14.
 
-[\[note: 34\]](#Ftn_34_1)Appellant’s Case at para 21.
+[^34]: Appellant’s Case at para 21.
 
-[\[note: 35\]](#Ftn_35_1)Appellant’s Case at para 24.
+[^35]: Appellant’s Case at para 24.
 
-[\[note: 36\]](#Ftn_36_1)Appellant’s Case at paras 31 and 34.
+[^36]: Appellant’s Case at paras 31 and 34.
 
-[\[note: 37\]](#Ftn_37_1)ROA Vol 3, Tab 11, para 33.
+[^37]: ROA Vol 3, Tab 11, para 33.
 
-[\[note: 38\]](#Ftn_38_1)ROA Vol 3, Tab 11, para 44.
+[^38]: ROA Vol 3, Tab 11, para 44.
 
-[\[note: 39\]](#Ftn_39_1)Respondent’s Case at paras 69 and 72.
+[^39]: Respondent’s Case at paras 69 and 72.
 
-[\[note: 40\]](#Ftn_40_1)Appellant’s Case at para 29.
+[^40]: Appellant’s Case at para 29.
 
-[\[note: 41\]](#Ftn_41_1)ROA Vol 3, Tab 14, para 16; see also the GD at \[16\].
+[^41]: ROA Vol 3, Tab 14, para 16; see also the GD at \[16\].
 
-[\[note: 42\]](#Ftn_42_1)Appellant’s Case at paras 2 and 5.
+[^42]: Appellant’s Case at paras 2 and 5.
 
-[\[note: 43\]](#Ftn_43_1)ROA Vol 2, Tab 9, para 110.
+[^43]: ROA Vol 2, Tab 9, para 110.
 
-[\[note: 44\]](#Ftn_44_1)Appellant’s Case at para 32.
+[^44]: Appellant’s Case at para 32.
 
-[\[note: 45\]](#Ftn_45_1)Appellant’s Case at para 20; Respondent’s Case at para 8; the GD at \[14\].
+[^45]: Appellant’s Case at para 20; Respondent’s Case at para 8; the GD at \[14\].
 
-[\[note: 46\]](#Ftn_46_1)Respondent’s Case at paras 75, 81 and 86.
+[^46]: Respondent’s Case at paras 75, 81 and 86.
 
-[\[note: 47\]](#Ftn_47_1)Respondent’s Case at para 75.
+[^47]: Respondent’s Case at para 75.
 
-[\[note: 48\]](#Ftn_48_1)Appellant’s Case at paras 61, 81, 86–88; ROA Vol 3, Tab 11, paras 104–105.
+[^48]: Appellant’s Case at paras 61, 81, 86–88; ROA Vol 3, Tab 11, paras 104–105.
 
-[\[note: 49\]](#Ftn_49_1)Respondent’s Case at para 77; ROA Vol 2, Tab 9, para 91.
+[^49]: Respondent’s Case at para 77; ROA Vol 2, Tab 9, para 91.
 
-[\[note: 50\]](#Ftn_50_1)Appellant’s Case at para 82.
+[^50]: Appellant’s Case at para 82.
 
-[\[note: 51\]](#Ftn_51_1)ROA Vol 2, Tab 9, para 91.
+[^51]: ROA Vol 2, Tab 9, para 91.
 
-[\[note: 52\]](#Ftn_52_1)Respondent’s Case at para 78.
+[^52]: Respondent’s Case at para 78.
 
-[\[note: 53\]](#Ftn_53_1)Respondent’s Case at para 86.
+[^53]: Respondent’s Case at para 86.
 
-[\[note: 54\]](#Ftn_54_1)ROA Vol 3, Tab 11, p 155.
+[^54]: ROA Vol 3, Tab 11, p 155.
 
-[\[note: 55\]](#Ftn_55_1)Appellant’s Case at paras 70–73.
+[^55]: Appellant’s Case at paras 70–73.
 
-[\[note: 56\]](#Ftn_56_1)Appellant’s Case at paras 76–77.
+[^56]: Appellant’s Case at paras 76–77.
 
-[\[note: 57\]](#Ftn_57_1)Appellant’s Case at paras 65–67.
+[^57]: Appellant’s Case at paras 65–67.
 
-[\[note: 58\]](#Ftn_58_1)ROA Vol 3, Tab 11, para 129(i).
+[^58]: ROA Vol 3, Tab 11, para 129(i).
 
-[\[note: 59\]](#Ftn_59_1)Appellant’s Case at para 68.
+[^59]: Appellant’s Case at para 68.
 
-[\[note: 60\]](#Ftn_60_1)ROA Vol 2, Tab 8, para 37.
+[^60]: ROA Vol 2, Tab 8, para 37.
 
-[\[note: 61\]](#Ftn_61_1)Respondent’s Case at para 66.
+[^61]: Respondent’s Case at para 66.
 
-[\[note: 62\]](#Ftn_62_1)ROA Vol 2 Tab 9, para 84.
+[^62]: ROA Vol 2 Tab 9, para 84.
 
-[\[note: 63\]](#Ftn_63_1)ROA Vol 2, Tab 9, pp 273–274 (exhibit Tab 13).
+[^63]: ROA Vol 2, Tab 9, pp 273–274 (exhibit Tab 13).
 
-[\[note: 64\]](#Ftn_64_1)ROA Vol 2, Tab 9, pp 273–279 (exhibit Tab 13).
+[^64]: ROA Vol 2, Tab 9, pp 273–279 (exhibit Tab 13).
 
-[\[note: 65\]](#Ftn_65_1)ROA Vol 2, Tab 9, para 85.
+[^65]: ROA Vol 2, Tab 9, para 85.
 
-[\[note: 66\]](#Ftn_66_1)ROA Vol 2, Tab 9, exhibit Tab 11.
+[^66]: ROA Vol 2, Tab 9, exhibit Tab 11.
 
-[\[note: 67\]](#Ftn_67_1)Appellant’s Case at paras 35 and 38.
+[^67]: Appellant’s Case at paras 35 and 38.
 
-[\[note: 68\]](#Ftn_68_1)ROA Vol 3, Tab 11, pp 65–66, 68 and 155.
+[^68]: ROA Vol 3, Tab 11, pp 65–66, 68 and 155.
 
-[\[note: 69\]](#Ftn_69_1)Appellant’s Case at paras 60, 62 and 64; ROA Vol 3, Tab 11, para 37.
+[^69]: Appellant’s Case at paras 60, 62 and 64; ROA Vol 3, Tab 11, para 37.
 
-[\[note: 70\]](#Ftn_70_1)Appellant’s Case at para 63.
+[^70]: Appellant’s Case at para 63.
 
-[\[note: 71\]](#Ftn_71_1)ROA Vol 2, Tab 8, p 62.
+[^71]: ROA Vol 2, Tab 8, p 62.
 
-[\[note: 72\]](#Ftn_72_1)ROA Vol 3, Tab 11, p 155.
+[^72]: ROA Vol 3, Tab 11, p 155.
 
-[\[note: 73\]](#Ftn_73_1)ROA Vol 2, Tab 8, p 38.
+[^73]: ROA Vol 2, Tab 8, p 38.
 
-[\[note: 74\]](#Ftn_74_1)Respondent’s Case at paras 85 and 101.
+[^74]: Respondent’s Case at paras 85 and 101.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F22490-SSP.xml)

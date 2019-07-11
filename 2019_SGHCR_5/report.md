@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # Shepherdson, Terence Christopher _v_ Singapore Recreation Club  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Originating Summons No 218 of 2017 (Assessment of Damages No 19 of 2018)</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">22 February 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Navin Anand AR</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Ganesh Ramanathan (Karuppan Chettiar &amp; Partners) for the Plaintiff; Ponnampalam Sivakumar and Tan Shi Yun Jolene (BR Law Corporation) for the Defendant.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Shepherdson, Terence Christopher — Singapore Recreation Club</td></tr></tbody></table>
@@ -30,7 +31,7 @@ Damages – Assessment
 
 7       After a quorum was reached, Dr Singh called the meeting to order and started his opening address without opening the voting booth. Mr Shepherdson approached the nearest microphone in the hall and raised a point of order that the voting booth should be opened immediately after a quorum was reached. Mr Shepherdson’s view was based on Rule 35(e)(ii) of SRC’s Constitution, and he was motivated by the desire that members be allowed to cast their votes without having to wait until the conclusion of Dr Singh’s speech (see _Shepherdson v SRC_ at \[4\]).
 
-8       Dr Singh told Mr Shepherdson to sit down, and took the view that the voting booth should only be opened after he had concluded his speech. Mr Shepherdson tried to repeat his point, but his microphone was switched off.[\[note: 1\]](#Ftn_1) The situation escalated, and resulted in a tense exchange between Dr Singh, Mr Shepherdson, and some other members of SRC which lasted for a few minutes.[\[note: 2\]](#Ftn_2) Mr Shepherdson left the hall after the argument, and the voting booth was opened after Dr Singh concluded his speech.
+8       Dr Singh told Mr Shepherdson to sit down, and took the view that the voting booth should only be opened after he had concluded his speech. Mr Shepherdson tried to repeat his point, but his microphone was switched off.[^1] The situation escalated, and resulted in a tense exchange between Dr Singh, Mr Shepherdson, and some other members of SRC which lasted for a few minutes.[^2] Mr Shepherdson left the hall after the argument, and the voting booth was opened after Dr Singh concluded his speech.
 
 9       Between 20 and 26 April 2016, SRC received three written complaints from Mr Shawn Chua, Mr Maxwell Norbert Fernando (“Mr Fernando”) and Ms Paul Elizabeth (“Ms Elizabeth”) about Mr Shepherdson’s conduct at the 2016 AGM (see _Shepherdson v SRC_ at \[5\]). Mr Shawn Chua passed away on 10 July 2016 before the Complaints Committee (“CC”) was appointed so SRC took the position that his complaint was to be treated as having been withdrawn (see _Shepherdson v SRC_ at \[10\]).
 
@@ -46,7 +47,7 @@ Damages – Assessment
 
 13     The MC held a meeting on 12 December 2016 to consider the appeal (the “MC Meeting”). At the MC Meeting, Dr Singh recused himself and asked three others – Mr Fabian Chan (“Mr Chan”), Mr Ronald Wee (“Mr Wee”) and Mr Tay Peng Kee (“Mr Tay”) – to recuse themselves as well (see _Shepherdson v SRC_ at \[55\]). For Mr Chan, Dr Singh’s purported reason for asking him to recuse himself was that Mr Chan had previously made a complaint against Mr Shepherdson. For the other two, Dr Singh’s purported reason was that they would have been biased in Mr Shepherdson’s favour because they were informally part of the same team that stood for election at the 2016 AGM. Mr Chan, Mr Wee, and Mr Tay agreed to recuse themselves. As a result, seven members of the MC (“Remaining Seven Members”) were left to consider the appeal and they decided to uphold the decision of the DC.
 
-14     By way of a letter dated 14 December 2016, SRC informed Mr Shepherdson that:[\[note: 3\]](#Ftn_3)
+14     By way of a letter dated 14 December 2016, SRC informed Mr Shepherdson that:[^3]
 
 (a)     the MC had dismissed his appeal;
 
@@ -72,11 +73,11 @@ Damages – Assessment
 
 17     As a result, on 3 November 2017, Woo J granted Mr Shepherdson’s application to nullify the suspension and the fine. Woo J also ordered SRC to pay damages to be assessed by the Registrar, with the costs of the assessment of damages and interest also to be determined by the Registrar.
 
-18     SRC reactivated Mr Shepherdson’s membership on 3 November 2017 (_ie_, on the same day as Woo J’s decision), and thereafter sent Mr Shepherdson a letter dated 6 November 2017 to inform him of this.[\[note: 4\]](#Ftn_4) In total, Mr Shepherdson’s membership was suspended for 10 months and 20 days.[\[note: 5\]](#Ftn_5)
+18     SRC reactivated Mr Shepherdson’s membership on 3 November 2017 (_ie_, on the same day as Woo J’s decision), and thereafter sent Mr Shepherdson a letter dated 6 November 2017 to inform him of this.[^4] In total, Mr Shepherdson’s membership was suspended for 10 months and 20 days.[^5]
 
 ## The Assessment Proceedings
 
-19     Mr Shepherdson sought the following two heads of damages:[\[note: 6\]](#Ftn_6)
+19     Mr Shepherdson sought the following two heads of damages:[^6]
 
 (a)     $35,000 as damages for the deprivation of his rights and privileges as an ordinary member of SRC (including the loss of use of SRC’s facilities); and
 
@@ -84,25 +85,25 @@ Damages – Assessment
 
 20     Mr Shepherdson relied heavily on the decision of AR Teo Guan Siew in _Kay Swee Pin v Singapore Island Country Club_ (“_Kay Swee Pin_”), which to the best of my knowledge is the only reported decision in Singapore on the damages payable to a member as a result of the invalid suspension of a club membership. In _Kay Swee Pin_, AR Teo awarded the plaintiff $32,000 as damages for the deprivation of her membership rights and privileges, and $40,000 as damages for mental distress (at \[103\]).
 
-21     SRC disputed both claims. With respect to the deprivation of membership rights and privileges, SRC accepted that Mr Shepherdson was entitled to damages but contended that he should only be awarded a sum of $2,496.66. SRC submitted that damages should be pegged against the pro-rated value of a one-year term membership at SRC (since the period of suspension was 10 months and 20 days), with an uplift to take into account the right to vote and the right to hold office accorded to ordinary membership.[\[note: 7\]](#Ftn_7)
+21     SRC disputed both claims. With respect to the deprivation of membership rights and privileges, SRC accepted that Mr Shepherdson was entitled to damages but contended that he should only be awarded a sum of $2,496.66. SRC submitted that damages should be pegged against the pro-rated value of a one-year term membership at SRC (since the period of suspension was 10 months and 20 days), with an uplift to take into account the right to vote and the right to hold office accorded to ordinary membership.[^7]
 
-22     As for the second claim, SRC contended that no damages should be awarded for mental distress.[\[note: 8\]](#Ftn_8) SRC submitted that:
+22     As for the second claim, SRC contended that no damages should be awarded for mental distress.[^8] SRC submitted that:
 
-(a)     Insofar as mental distress damages are claimed on the authority of _Kay Swee Pin_, that decision was wrongly decided.[\[note: 9\]](#Ftn_9)
+(a)     Insofar as mental distress damages are claimed on the authority of _Kay Swee Pin_, that decision was wrongly decided.[^9]
 
-(b)     In any event, Mr Shepherdson’s alleged mental distress was not caused by his suspension, but was instead occasioned by the altercation at the 2016 AGM and the filing of three written complaints against him.[\[note: 10\]](#Ftn_10)
+(b)     In any event, Mr Shepherdson’s alleged mental distress was not caused by his suspension, but was instead occasioned by the altercation at the 2016 AGM and the filing of three written complaints against him.[^10]
 
-(c)     Even if damages for mental distress were claimable, Mr Shepherdson should be awarded only nominal damages, as the severity of the mental distress suffered was mild and limited.[\[note: 11\]](#Ftn_11)
+(c)     Even if damages for mental distress were claimable, Mr Shepherdson should be awarded only nominal damages, as the severity of the mental distress suffered was mild and limited.[^11]
 
 ### Plaintiff’s Witnesses
 
 23     A total of seven witnesses were called to give evidence. The witnesses who gave evidence on behalf of Mr Shepherdson were:
 
-(a)     Mr Shepherdson, who gave evidence on how he has been an active member of SRC since 1996,[\[note: 12\]](#Ftn_12) participating in both club activities as well as the management of SRC. He was a member of various sections at SRC, including the toastmasters club, golf, balut, and dance sport.[\[note: 13\]](#Ftn_13) Mr Shepherdson also spoke of his contributions to SRC, which included a two-year stint as Vice-President of the MC (from 2002 to 2004) and an eight-year stint as the Games Control Board (“GCB”) Chairman from 2006 to 2014.[\[note: 14\]](#Ftn_14) Mr Shepherdson felt that the complaints against him were designed to set him up,[\[note: 15\]](#Ftn_15) and he cancelled the spousal membership for his wife on or around 26 May 2016, even before the CC had been appointed.[\[note: 16\]](#Ftn_16) Mr Shepherdson also testified of the humiliation, embarrassment, and mental distress caused to him by his suspension.
+(a)     Mr Shepherdson, who gave evidence on how he has been an active member of SRC since 1996,[^12] participating in both club activities as well as the management of SRC. He was a member of various sections at SRC, including the toastmasters club, golf, balut, and dance sport.[^13] Mr Shepherdson also spoke of his contributions to SRC, which included a two-year stint as Vice-President of the MC (from 2002 to 2004) and an eight-year stint as the Games Control Board (“GCB”) Chairman from 2006 to 2014.[^14] Mr Shepherdson felt that the complaints against him were designed to set him up,[^15] and he cancelled the spousal membership for his wife on or around 26 May 2016, even before the CC had been appointed.[^16] Mr Shepherdson also testified of the humiliation, embarrassment, and mental distress caused to him by his suspension.
 
 (b)     Dr Goh Kok Guan (“Dr Goh”), a former president of the MC of SRC for 22 years, gave evidence on Mr Shepherdson’s contributions as the GCB Chairman, and how Mr Shepherdson felt disappointed, angry and humiliated by the MC’s decision to uphold the suspension and the fine recommended by the DC.
 
-(c)     Ms De Roza Adelene Margaretta (“Ms Adelene”), Mr Shepherdson’s wife, deposed as to how the MC’s decision affected Mr Shepherdson’s behaviour, causing him to be moodier, withdrawn, and restless at home. I should highlight that the parties agreed to dispense with the cross-examination of Ms Adelene.[\[note: 17\]](#Ftn_17)
+(c)     Ms De Roza Adelene Margaretta (“Ms Adelene”), Mr Shepherdson’s wife, deposed as to how the MC’s decision affected Mr Shepherdson’s behaviour, causing him to be moodier, withdrawn, and restless at home. I should highlight that the parties agreed to dispense with the cross-examination of Ms Adelene.[^17]
 
 (d)     Mr Dayal Odhermal Khemlani (“Mr Khemlani”) and Mr Abdul Rashid s/o Mohamed Ali (“Mr Rashid”), two people whom Mr Shepherdson confided in, also gave evidence of the mental distress caused to Mr Shepherdson by his suspension.
 
@@ -112,7 +113,7 @@ Damages – Assessment
 
 (a)     Mr Shareef Bin Abdul Jaffar (“Mr Shareef”), the current general manager of SRC, gave evidence on the value of, and the rights associated with, the different membership tiers at SRC.
 
-(b)     Mr Chua Poh Teck (“Mr Ronnie Chua”), the current Vice-President of the MC of SRC, gave evidence on a complaint made by Mr Shepherdson against the late Mr Shawn Chua in 2012. Mr Shepherdson’s complaint led to the alleged wrongful suspension of Mr Shawn Chua from SRC for a period of three months. The purpose of Mr Ronnie Chua’s testimony was to show that Mr Shawn Chua was “very magnanimous” as he had “never asked for anything much” after his suspension,[\[note: 18\]](#Ftn_18) and that “\[all members\] should be magnanimous”.[\[note: 19\]](#Ftn_19) I will not discuss Mr Ronnie Chua’s evidence in my decision, as it did not seem to me to be relevant since there was never any finding that Mr Shawn Chua had been wrongfully suspended by SRC.
+(b)     Mr Chua Poh Teck (“Mr Ronnie Chua”), the current Vice-President of the MC of SRC, gave evidence on a complaint made by Mr Shepherdson against the late Mr Shawn Chua in 2012. Mr Shepherdson’s complaint led to the alleged wrongful suspension of Mr Shawn Chua from SRC for a period of three months. The purpose of Mr Ronnie Chua’s testimony was to show that Mr Shawn Chua was “very magnanimous” as he had “never asked for anything much” after his suspension,[^18] and that “\[all members\] should be magnanimous”.[^19] I will not discuss Mr Ronnie Chua’s evidence in my decision, as it did not seem to me to be relevant since there was never any finding that Mr Shawn Chua had been wrongfully suspended by SRC.
 
 (c)     Dr Calvin Fones Soon Leng (“Dr Fones”), a psychiatrist who examined Mr Shepherdson on 11 June 2018, testified that Mr Shepherdson suffered from a psychiatric disorder known as an adjustment disorder as a result of his suspension from SRC.
 
@@ -216,17 +217,17 @@ For the embarrassment, distress and humiliation which \[the plaintiff\] has suff
 
 48     In my view, the following matters are relevant in the assessment of damages for deprivation of membership rights and privileges.
 
-(a)     Mr Shepherdson purchased his ordinary membership at SRC in 1996 for $49,500.[\[note: 20\]](#Ftn_20) Mr Shepherdson’s ordinary membership would last his lifetime, and could be transferred or sold to another person.[\[note: 21\]](#Ftn_21) The costs of ordinary membership has since gone down, and the present market value ranges from $4,500.00 to $5,260.65.[\[note: 22\]](#Ftn_22)
+(a)     Mr Shepherdson purchased his ordinary membership at SRC in 1996 for $49,500.[^20] Mr Shepherdson’s ordinary membership would last his lifetime, and could be transferred or sold to another person.[^21] The costs of ordinary membership has since gone down, and the present market value ranges from $4,500.00 to $5,260.65.[^22]
 
-(b)     A one-year non-transferrable term membership costs $2,140.00.[\[note: 23\]](#Ftn_23) It is not possible to buy a term membership for any period less than one year.[\[note: 24\]](#Ftn_24)
+(b)     A one-year non-transferrable term membership costs $2,140.00.[^23] It is not possible to buy a term membership for any period less than one year.[^24]
 
-(c)     The difference between a term member and an ordinary member is that a term member is not entitled to vote at annual general meetings or hold office at SRC.[\[note: 25\]](#Ftn_25)
+(c)     The difference between a term member and an ordinary member is that a term member is not entitled to vote at annual general meetings or hold office at SRC.[^25]
 
-(d)     During the period of suspension, Mr Shepherdson continued to pay a monthly subscription fee of $69.55.[\[note: 26\]](#Ftn_26)
+(d)     During the period of suspension, Mr Shepherdson continued to pay a monthly subscription fee of $69.55.[^26]
 
 49     Since Mr Shepherdson’s membership fee was paid upfront in a lump sum, a broad brush approach is warranted to quantify the damages for deprivation of membership rights and privileges (see paras \[31\]–\[33\] above). Bearing in mind the matters stated in the preceding paragraph, I find it appropriate to award damages by (a) applying a one-third uplift to the price of a one-year term membership (_ie_, $2,140) to take into account the right to vote and the right to hold office and (b) adding the monthly subscription fee of $69.55 which Mr Shepherdson had to pay during the period of suspension even though he could not make use of SRC’s facilities. Accordingly, I award Mr Shepherdson damages of $3,600 for the deprivation of his membership rights and privileges.
 
-50     For completeness, I do not accept Mr Shepherdson’s position that he should be awarded $35,000 in damages for this head of claim. Mr Shepherdson’s arguments in support are that: (a) SRC is a second home to Mr Shepherdson and his wife, and they valued the club and its facilities, and (b) the low value of SRC’s membership is attributable to the poor management of SRC.[\[note: 27\]](#Ftn_27) I do not accept these contentions for the following reasons.
+50     For completeness, I do not accept Mr Shepherdson’s position that he should be awarded $35,000 in damages for this head of claim. Mr Shepherdson’s arguments in support are that: (a) SRC is a second home to Mr Shepherdson and his wife, and they valued the club and its facilities, and (b) the low value of SRC’s membership is attributable to the poor management of SRC.[^27] I do not accept these contentions for the following reasons.
 
 (a)     First, this head of damages is meant to compensate Mr Shepherdson for the _pecuniary_ loss he suffered as a result of the loss of his membership. There is no evidence which supports the argument that the financial value of this loss of membership is $35,000. To put things into perspective, the $35,000 claimed is around two-thirds of the price Mr Shepherdson paid in 1996 for his _lifetime_ ordinary membership.
 
@@ -242,7 +243,7 @@ For the embarrassment, distress and humiliation which \[the plaintiff\] has suff
 
 ### Correctness of Kay Swee Pin
 
-54     SRC submits that _Kay Swee Pin_ was wrongly decided for two reasons. First, there was no authority cited in _Kay Swee Pin_ to permit the recovery of mental distress damages in cases involving recreational clubs.[\[note: 28\]](#Ftn_28) Second, the claim for damages for anguish, humiliation and embarrassment are claims for _reputational loss_, and the court in _Kay Swee Pin_ erred by conflating such claims with a claim for mental distress. I am not persuaded by either argument.
+54     SRC submits that _Kay Swee Pin_ was wrongly decided for two reasons. First, there was no authority cited in _Kay Swee Pin_ to permit the recovery of mental distress damages in cases involving recreational clubs.[^28] Second, the claim for damages for anguish, humiliation and embarrassment are claims for _reputational loss_, and the court in _Kay Swee Pin_ erred by conflating such claims with a claim for mental distress. I am not persuaded by either argument.
 
 (a)     The fact that there was no authority prior to _Kay Swee Pin_ permitting the recovery of mental distress damages in cases involving recreational clubs is irrelevant. In my respectful view, the correctness of the principle established by _Kay Swee Pin_ – that mental distress damages can be recovered for wrongful suspension of club membership – is beyond peradventure. In _Sim Yong Teng_, which concerned a member’s wrongful suspension from a recreational club (_ie_, Singapore Swimming Club), the Court of Appeal endorsed AR Teo’s analysis of the law and his holding that mental distress damages are recoverable for wrongful suspension of club membership as follows (at \[102\]-\[103\]):
 
@@ -256,9 +257,9 @@ For the embarrassment, distress and humiliation which \[the plaintiff\] has suff
 
 ### Causation
 
-55     SRC’s next objection is that Mr Shepherdson’s mental distress was not caused by his wrongful suspension, but instead by the altercation at the 2016 AGM and the filing of written complaints by three members of SRC. In this regard, SRC referred to disparate pieces of evidence from Mr Shepherdson, Dr Fones, Mr Khemlani and Ms Adelene on the disappointment and embarrassment felt by Mr Shepherdson after the said events.[\[note: 29\]](#Ftn_29)
+55     SRC’s next objection is that Mr Shepherdson’s mental distress was not caused by his wrongful suspension, but instead by the altercation at the 2016 AGM and the filing of written complaints by three members of SRC. In this regard, SRC referred to disparate pieces of evidence from Mr Shepherdson, Dr Fones, Mr Khemlani and Ms Adelene on the disappointment and embarrassment felt by Mr Shepherdson after the said events.[^29]
 
-56     The key question here is whether Mr Shepherdson suffered mental distress because of the bias against him during the disciplinary process, or because of the brief altercation and the fact of the three complaint letters having been sent. The clear purport of Mr Shepherdson’s evidence was that the mental distress suffered arose out of the flawed disciplinary process that culminated in his suspension. Mr Shepherdson was unhappy and aggrieved with how badly he had been treated during the disciplinary process, and the process also had collateral consequences in the form of distress at how he was subsequently perceived by others. The following excerpts from Mr Shepherdson’s testimony are pertinent:[\[note: 30\]](#Ftn_30)
+56     The key question here is whether Mr Shepherdson suffered mental distress because of the bias against him during the disciplinary process, or because of the brief altercation and the fact of the three complaint letters having been sent. The clear purport of Mr Shepherdson’s evidence was that the mental distress suffered arose out of the flawed disciplinary process that culminated in his suspension. Mr Shepherdson was unhappy and aggrieved with how badly he had been treated during the disciplinary process, and the process also had collateral consequences in the form of distress at how he was subsequently perceived by others. The following excerpts from Mr Shepherdson’s testimony are pertinent:[^30]
 
 28.     _I was disappointed and angry at the developments… I was now being made to go through a disciplinary process which I started to feel was biased_. I felt that I did not do anything wrong at the AGM. All I was trying to do was to ask for the voting booth to be opened, and I left it at that when Dr Singh was not prepared to listened...
 
@@ -284,31 +285,31 @@ For the embarrassment, distress and humiliation which \[the plaintiff\] has suff
 
 #### Step 1: Type of Mental Distress Claimed
 
-59     Mr Shepherdson is claiming damages for two types of mental distress. First, Mr Shepherdson suffered mental distress in the form of _disappointment and frustration_ at not receiving the expected mental benefit of pleasure, relaxation and peace of mind from the club membership. In addition, Mr Shepherdson also suffered mental distress in the form of an injury to his mental condition. Mr Shepherdson felt humiliated, embarrassed, aggrieved and distressed by his suspension from SRC (see para \[56\] above). He also felt emotionally down and upset, and had difficulties sleeping.[\[note: 31\]](#Ftn_31) He became quiet and withdrawn, and avoided going out except with good friends (see para \[56\] above). Further, Dr Fones diagnosed Mr Shepherdson as having suffered from adjustment disorder from 15 December 2016 to 3 November 2017 as a result of his suspension.[\[note: 32\]](#Ftn_32)
+59     Mr Shepherdson is claiming damages for two types of mental distress. First, Mr Shepherdson suffered mental distress in the form of _disappointment and frustration_ at not receiving the expected mental benefit of pleasure, relaxation and peace of mind from the club membership. In addition, Mr Shepherdson also suffered mental distress in the form of an injury to his mental condition. Mr Shepherdson felt humiliated, embarrassed, aggrieved and distressed by his suspension from SRC (see para \[56\] above). He also felt emotionally down and upset, and had difficulties sleeping.[^31] He became quiet and withdrawn, and avoided going out except with good friends (see para \[56\] above). Further, Dr Fones diagnosed Mr Shepherdson as having suffered from adjustment disorder from 15 December 2016 to 3 November 2017 as a result of his suspension.[^32]
 
 #### Step 2: Severity of the Mental Distress
 
 60     In assessing the severity of the mental distress suffered, regard should be had to the following factors.
 
-61     First, SRC occupied a significant part of Mr Shepherdson’s life prior to his suspension. Since retiring from work in 2006, Mr Shepherdson spent much time in SRC with his wife and the friends they have made over the years participating in club activities, and unwinding over food and music at the Barker Lounge.[\[note: 33\]](#Ftn_33) Aside from participating in club activities, Mr Shepherdson was active in the management of the club, having served as the Vice-President of the MC for 2 years, and the GCB Chairman for 8 years (see para \[23(a)\] above). As a retiree, the activities and leadership roles he assumed at SRC were a big part of his social life.[\[note: 34\]](#Ftn_34) The suspension undoubtedly affected him significantly.
+61     First, SRC occupied a significant part of Mr Shepherdson’s life prior to his suspension. Since retiring from work in 2006, Mr Shepherdson spent much time in SRC with his wife and the friends they have made over the years participating in club activities, and unwinding over food and music at the Barker Lounge.[^33] Aside from participating in club activities, Mr Shepherdson was active in the management of the club, having served as the Vice-President of the MC for 2 years, and the GCB Chairman for 8 years (see para \[23(a)\] above). As a retiree, the activities and leadership roles he assumed at SRC were a big part of his social life.[^34] The suspension undoubtedly affected him significantly.
 
-62     Second, the punishment meted to Mr Shepherdson (_ie_, the fine of $1,000 and the 12-month suspension) was severe, being the maximum sanction for each category.[\[note: 35\]](#Ftn_35) Mr Shepherdson also felt aggrieved that he was sanctioned over speaking out on a point of order at the 2016 AGM, when no other member has been disciplined in recent memory for similar or more egregious conduct at an annual general meeting.[\[note: 36\]](#Ftn_36) Dr Goh, a former president of the MC of SRC for 22 years, gave evidence that it was usual for the annual general meetings to be rowdy affairs. There were no disciplinary proceedings – much less one involving the fining and suspension of a member – on account of an altercation at an annual general meeting during Dr Goh’s time as president of the MC.[\[note: 37\]](#Ftn_37)
+62     Second, the punishment meted to Mr Shepherdson (_ie_, the fine of $1,000 and the 12-month suspension) was severe, being the maximum sanction for each category.[^35] Mr Shepherdson also felt aggrieved that he was sanctioned over speaking out on a point of order at the 2016 AGM, when no other member has been disciplined in recent memory for similar or more egregious conduct at an annual general meeting.[^36] Dr Goh, a former president of the MC of SRC for 22 years, gave evidence that it was usual for the annual general meetings to be rowdy affairs. There were no disciplinary proceedings – much less one involving the fining and suspension of a member – on account of an altercation at an annual general meeting during Dr Goh’s time as president of the MC.[^37]
 
-63     Third, Mr Shepherdson was disappointed as he felt that he contributed much to SRC, and spent his “10 best years bringing the club to a lot of glory”.[\[note: 38\]](#Ftn_38) During his stint as the GCB Chairman, he raised the profile of the sports sections at SRC.[\[note: 39\]](#Ftn_39) Mr Shepherdson, who is also a life member at the Eurasian Association, managed to forge stronger ties between SRC and the Eurasian Association.[\[note: 40\]](#Ftn_40) Dr Goh testified that Mr Shepherdson’s contributions to SRC were recognised when he was awarded the Singapore Sporting Inspiration Award by the Singapore Sports Council.[\[note: 41\]](#Ftn_41)
+63     Third, Mr Shepherdson was disappointed as he felt that he contributed much to SRC, and spent his “10 best years bringing the club to a lot of glory”.[^38] During his stint as the GCB Chairman, he raised the profile of the sports sections at SRC.[^39] Mr Shepherdson, who is also a life member at the Eurasian Association, managed to forge stronger ties between SRC and the Eurasian Association.[^40] Dr Goh testified that Mr Shepherdson’s contributions to SRC were recognised when he was awarded the Singapore Sporting Inspiration Award by the Singapore Sports Council.[^41]
 
-64     Fourth, the humiliation experienced by Mr Shepherdson was of a public nature.[\[note: 42\]](#Ftn_42) The altercation between Mr Shepherdson and Dr Singh occurred before the 923 members of SRC who attended the 2016 AGM.[\[note: 43\]](#Ftn_43) The altercation culminated in SRC’s decision to suspend Mr Shepherdson from the club. Although Mr Shepherdson’s suspension was not publicised,[\[note: 44\]](#Ftn_44) I accept Mr Shepherdson’s testimony that the news of his suspension had spread to other members of SRC.[\[note: 45\]](#Ftn_45) This is corroborated by (a) Dr Goh’s testimony that the news on Mr Shepherdson’s suspension had spread by word-of-mouth to many of his friends at SRC[\[note: 46\]](#Ftn_46) and (b) Mr Shareef’s concession during cross-examination that news of a suspension can spread very quickly amongst the members of SRC by word-of-mouth.[\[note: 47\]](#Ftn_47) Mr Shepherdson also sensed that the news of his suspension had spread to the members at the Eurasian Association due to the overlap in membership at both places. He noticed that members at the Eurasian Association were avoiding him, and he stopped going to the Eurasian Association after a while as he no longer felt comfortable there.[\[note: 48\]](#Ftn_48)
+64     Fourth, the humiliation experienced by Mr Shepherdson was of a public nature.[^42] The altercation between Mr Shepherdson and Dr Singh occurred before the 923 members of SRC who attended the 2016 AGM.[^43] The altercation culminated in SRC’s decision to suspend Mr Shepherdson from the club. Although Mr Shepherdson’s suspension was not publicised,[^44] I accept Mr Shepherdson’s testimony that the news of his suspension had spread to other members of SRC.[^45] This is corroborated by (a) Dr Goh’s testimony that the news on Mr Shepherdson’s suspension had spread by word-of-mouth to many of his friends at SRC[^46] and (b) Mr Shareef’s concession during cross-examination that news of a suspension can spread very quickly amongst the members of SRC by word-of-mouth.[^47] Mr Shepherdson also sensed that the news of his suspension had spread to the members at the Eurasian Association due to the overlap in membership at both places. He noticed that members at the Eurasian Association were avoiding him, and he stopped going to the Eurasian Association after a while as he no longer felt comfortable there.[^48]
 
-65     Fifth, the clear evidence is that Mr Shepherdson’s behaviour was affected by the suspension from SRC. Mr Khemlani described Mr Shepherdson as a changed person who had lost his usual cheerfulness and who could not stop talking about how he was treated unfairly in this episode.[\[note: 49\]](#Ftn_49) Mr Shepherdson’s wife, Ms Adelene, deposed as to how the MC’s decision caused him to be moodier and more withdrawn.[\[note: 50\]](#Ftn_50) Mr Shepherdson became restless at home, and he reduced his visits to his children and grandchildren.[\[note: 51\]](#Ftn_51) Mr Shepherdson’s behaviour largely returned to normal after this matter was decided in his favour.[\[note: 52\]](#Ftn_52) He now goes to SRC about once a week to meet with friends, although he has yet to return to any of the activities he used to enjoy.[\[note: 53\]](#Ftn_53)
+65     Fifth, the clear evidence is that Mr Shepherdson’s behaviour was affected by the suspension from SRC. Mr Khemlani described Mr Shepherdson as a changed person who had lost his usual cheerfulness and who could not stop talking about how he was treated unfairly in this episode.[^49] Mr Shepherdson’s wife, Ms Adelene, deposed as to how the MC’s decision caused him to be moodier and more withdrawn.[^50] Mr Shepherdson became restless at home, and he reduced his visits to his children and grandchildren.[^51] Mr Shepherdson’s behaviour largely returned to normal after this matter was decided in his favour.[^52] He now goes to SRC about once a week to meet with friends, although he has yet to return to any of the activities he used to enjoy.[^53]
 
-66     Finally, Mr Shepherdson suffered from an adjustment disorder as a result of the suspension. An adjustment disorder, as Dr Fones explained in his affidavit of evidence-in-chief, is the development of “emotional or behavioural symptoms in response to an identifiable stressor \[that\] are out of proportion to the intensity of the stressor”, thereby “leading to significant impairment in social, occupational and other important areas of functioning”.[\[note: 54\]](#Ftn_54) Dr Fones described the adjustment disorder in Mr Shepherdson’s case to be a process rather than an event:[\[note: 55\]](#Ftn_55)
+66     Finally, Mr Shepherdson suffered from an adjustment disorder as a result of the suspension. An adjustment disorder, as Dr Fones explained in his affidavit of evidence-in-chief, is the development of “emotional or behavioural symptoms in response to an identifiable stressor \[that\] are out of proportion to the intensity of the stressor”, thereby “leading to significant impairment in social, occupational and other important areas of functioning”.[^54] Dr Fones described the adjustment disorder in Mr Shepherdson’s case to be a process rather than an event:[^55]
 
 Sometimes the effects of some of these stress … will come on later. For example, the effects of --- in this case, we are talking about embarrassment and humiliation … it’s a process rather than an event. So indeed, as he goes through, he’s trying to adjust to a different, I suppose, lifestyle because of his suspension, the people that he meets, how they … react to him. Indeed, how much it is etched into his memory as well the impression of others, I will say that there are some aspects … that may surface subsequent and later.
 
-67     According to Dr Fones, Mr Shepherdson’s adjustment disorder has resolved without the need for psychiatric treatment,[\[note: 56\]](#Ftn_56) and he described Mr Shepherdson’s mental distress and emotional anguish to be of a mild and limited severity. However, Dr Fones accepted in cross-examination that he only examined Mr Shepherdson seven months after Woo J’s decision in November 2017, and that Mr Shepherdson may have been more distressed in the months leading up to Woo J’s decision.[\[note: 57\]](#Ftn_57) In my view, having considered all the evidence, Mr Shepherdson probably suffered a psychiatric condition of a “moderate” severity as a result of his suspension from SRC (see _Guidelines for the Assessment of General Damages_ at 25-27).
+67     According to Dr Fones, Mr Shepherdson’s adjustment disorder has resolved without the need for psychiatric treatment,[^56] and he described Mr Shepherdson’s mental distress and emotional anguish to be of a mild and limited severity. However, Dr Fones accepted in cross-examination that he only examined Mr Shepherdson seven months after Woo J’s decision in November 2017, and that Mr Shepherdson may have been more distressed in the months leading up to Woo J’s decision.[^57] In my view, having considered all the evidence, Mr Shepherdson probably suffered a psychiatric condition of a “moderate” severity as a result of his suspension from SRC (see _Guidelines for the Assessment of General Damages_ at 25-27).
 
 68     Accordingly, taking into account the factors above, in particular (a) the effect of the suspension on Mr Shepherdson’s behaviour, (b) the public nature of Mr Shepherdson’s humiliation, (c) impact on Mr Shepherdson’s social life for ten and a half months, (d) the adjustment disorder, and (e) that Mr Shepherdson’s behaviour appeared to have largely returned to normal after Woo J decided in his favour, I assess the mental distress suffered by Mr Shepherdson to be of a moderate to moderately severe nature.
 
-69     For completeness, I do not accept SRC’s contention that Mr Shepherdson exaggerated his symptoms of mental distress.[\[note: 58\]](#Ftn_58) I found Mr Shepherdson to be a credible witness. Dr Fones was also of the opinion that Mr Shepherdson was honest and forthcoming during the psychiatric examination on 11 June 2018.[\[note: 59\]](#Ftn_59) I also reject SRC’s attempt to downplay the effect of the suspension on Mr Shepherdson by submitting that “suspensions are part and parcel of club membership” and that “\[t\]here had been 9 different membership suspensions from \[SRC\] since 24 August 2015”.[\[note: 60\]](#Ftn_60) The fact that there had been other suspensions is irrelevant to the assessment of the suffering caused by a wrongful one and its impact on that particular member.
+69     For completeness, I do not accept SRC’s contention that Mr Shepherdson exaggerated his symptoms of mental distress.[^58] I found Mr Shepherdson to be a credible witness. Dr Fones was also of the opinion that Mr Shepherdson was honest and forthcoming during the psychiatric examination on 11 June 2018.[^59] I also reject SRC’s attempt to downplay the effect of the suspension on Mr Shepherdson by submitting that “suspensions are part and parcel of club membership” and that “\[t\]here had been 9 different membership suspensions from \[SRC\] since 24 August 2015”.[^60] The fact that there had been other suspensions is irrelevant to the assessment of the suffering caused by a wrongful one and its impact on that particular member.
 
 #### Step 3: Quantifying the Damages
 
@@ -332,125 +333,125 @@ Sometimes the effects of some of these stress … will come on later. For exampl
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)Affidavit of Evidence-in-Chief of Shepherdson Terence Christopher dated 14 September 2018 (“Shepherdson’s AEIC”) at para 19.
+[^1]: Affidavit of Evidence-in-Chief of Shepherdson Terence Christopher dated 14 September 2018 (“Shepherdson’s AEIC”) at para 19.
 
-[\[note: 2\]](#Ftn_2_1)_Ibid_.
+[^2]: _Ibid_.
 
-[\[note: 3\]](#Ftn_3_1)Affidavit of Evidence-in-Chief of Shareef Bin Abdul Jaffar dated 11 September 2018 (“Shareef’s AEIC”) at pp 36-37.
+[^3]: Affidavit of Evidence-in-Chief of Shareef Bin Abdul Jaffar dated 11 September 2018 (“Shareef’s AEIC”) at pp 36-37.
 
-[\[note: 4\]](#Ftn_4_1)Shareef’s AEIC at para 24 and p 38.
+[^4]: Shareef’s AEIC at para 24 and p 38.
 
-[\[note: 5\]](#Ftn_5_1)_Ibid_ at para 25.
+[^5]: _Ibid_ at para 25.
 
-[\[note: 6\]](#Ftn_6_1)Prayer 4 of HC/OS 218/2017; Plaintiff’s closing submissions (“PCS”) at pp 17 and 22.
+[^6]: Prayer 4 of HC/OS 218/2017; Plaintiff’s closing submissions (“PCS”) at pp 17 and 22.
 
-[\[note: 7\]](#Ftn_7_1)Defendant’s closing submissions (“DCS”) at paras 6-7.
+[^7]: Defendant’s closing submissions (“DCS”) at paras 6-7.
 
-[\[note: 8\]](#Ftn_8_1)Defendant’s reply submissions (“DRS”) at para 19.
+[^8]: Defendant’s reply submissions (“DRS”) at para 19.
 
-[\[note: 9\]](#Ftn_9_1)DCS at paras 17-59.
+[^9]: DCS at paras 17-59.
 
-[\[note: 10\]](#Ftn_10_1)_Ibid_ at paras 60-68.
+[^10]: _Ibid_ at paras 60-68.
 
-[\[note: 11\]](#Ftn_11_1)_Ibid_ at paras 78-82.
+[^11]: _Ibid_ at paras 78-82.
 
-[\[note: 12\]](#Ftn_12_1)Shepherdson’s AEIC at para 5.
+[^12]: Shepherdson’s AEIC at para 5.
 
-[\[note: 13\]](#Ftn_13_1)_Ibid_ at para 10.
+[^13]: _Ibid_ at para 10.
 
-[\[note: 14\]](#Ftn_14_1)_Ibid_ at paras 10-11.
+[^14]: _Ibid_ at paras 10-11.
 
-[\[note: 15\]](#Ftn_15_1)_Ibid_ at para 24.
+[^15]: _Ibid_ at para 24.
 
-[\[note: 16\]](#Ftn_16_1)Exhibit D-9; Notes of Evidence (4 October 2018) (“NE2”), p 30, line 5 to p 31, line 31.
+[^16]: Exhibit D-9; Notes of Evidence (4 October 2018) (“NE2”), p 30, line 5 to p 31, line 31.
 
-[\[note: 17\]](#Ftn_17_1)Notes of Evidence (3 October 2018) (“NE1”), p 5, lines 23-32.
+[^17]: Notes of Evidence (3 October 2018) (“NE1”), p 5, lines 23-32.
 
-[\[note: 18\]](#Ftn_18_1)NE2, p 64, lines 2-4.
+[^18]: NE2, p 64, lines 2-4.
 
-[\[note: 19\]](#Ftn_19_1)_Ibid_, p 77, lines 2-10
+[^19]: _Ibid_, p 77, lines 2-10
 
-[\[note: 20\]](#Ftn_20_1)Shepherdson’s AEIC at para 5.
+[^20]: Shepherdson’s AEIC at para 5.
 
-[\[note: 21\]](#Ftn_21_1)Shareef’s AEIC at para 27.
+[^21]: Shareef’s AEIC at para 27.
 
-[\[note: 22\]](#Ftn_22_1)_Ibid_ at paras 28-29, and pp 40-45.
+[^22]: _Ibid_ at paras 28-29, and pp 40-45.
 
-[\[note: 23\]](#Ftn_23_1)_Ibid_ at para 30, and pp 52-54.
+[^23]: _Ibid_ at para 30, and pp 52-54.
 
-[\[note: 24\]](#Ftn_24_1)NE2, p 47, lines 1 to 5.
+[^24]: NE2, p 47, lines 1 to 5.
 
-[\[note: 25\]](#Ftn_25_1)Shareef’s AEIC at para 30.
+[^25]: Shareef’s AEIC at para 30.
 
-[\[note: 26\]](#Ftn_26_1)Shepherdson’s AEIC at paras 46-47.
+[^26]: Shepherdson’s AEIC at paras 46-47.
 
-[\[note: 27\]](#Ftn_27_1)PCS at pp 17-18; Plaintiff’s reply submissions at para 2.
+[^27]: PCS at pp 17-18; Plaintiff’s reply submissions at para 2.
 
-[\[note: 28\]](#Ftn_28_1)DCS at paras 48-49.
+[^28]: DCS at paras 48-49.
 
-[\[note: 29\]](#Ftn_29_1)DCS at paras 60-68.
+[^29]: DCS at paras 60-68.
 
-[\[note: 30\]](#Ftn_30_1)Shepherdson’s AEIC at paras 28, 39, 41, and 44.
+[^30]: Shepherdson’s AEIC at paras 28, 39, 41, and 44.
 
-[\[note: 31\]](#Ftn_31_1)Affidavit of Evidence-in-Chief of Calvin Fones Soon Leng dated 17 September 2018 (“Dr Fones’ AEIC”) at p 15; Affidavit of Evidence-in-Chief of De Roza Adelene Margaretta dated 12 September 2018 (“Adelene’s AEIC”) at paras 17-18.
+[^31]: Affidavit of Evidence-in-Chief of Calvin Fones Soon Leng dated 17 September 2018 (“Dr Fones’ AEIC”) at p 15; Affidavit of Evidence-in-Chief of De Roza Adelene Margaretta dated 12 September 2018 (“Adelene’s AEIC”) at paras 17-18.
 
-[\[note: 32\]](#Ftn_32_1)Dr Fones’ AEIC at pp 15-17.
+[^32]: Dr Fones’ AEIC at pp 15-17.
 
-[\[note: 33\]](#Ftn_33_1)Shepherdson’s AEIC at paras 11, 13 and 15.
+[^33]: Shepherdson’s AEIC at paras 11, 13 and 15.
 
-[\[note: 34\]](#Ftn_34_1)Dr Fones’ AEIC at p 24.
+[^34]: Dr Fones’ AEIC at p 24.
 
-[\[note: 35\]](#Ftn_35_1)Shepherdson’s AEIC at para 39.
+[^35]: Shepherdson’s AEIC at para 39.
 
-[\[note: 36\]](#Ftn_36_1)NE1, p 25, lines 20-28; NE1 p 70, lines 10-16
+[^36]: NE1, p 25, lines 20-28; NE1 p 70, lines 10-16
 
-[\[note: 37\]](#Ftn_37_1)NE1, p 99 line 19 to p 100, line2; NE1, p 102, lines 18-24; NE1, p 118, lines 3-19.
+[^37]: NE1, p 99 line 19 to p 100, line2; NE1, p 102, lines 18-24; NE1, p 118, lines 3-19.
 
-[\[note: 38\]](#Ftn_38_1)NE1, p 25, lines 27-28.
+[^38]: NE1, p 25, lines 27-28.
 
-[\[note: 39\]](#Ftn_39_1)Shepherdson’s AEIC at para 11.
+[^39]: Shepherdson’s AEIC at para 11.
 
-[\[note: 40\]](#Ftn_40_1)_Ibid_ at para 14.
+[^40]: _Ibid_ at para 14.
 
-[\[note: 41\]](#Ftn_41_1)Affidavit of Evidence-in-Chief of Goh Kok Guan dated 12 September 2018 (“Dr Goh’s AEIC”) at paras 10-13.
+[^41]: Affidavit of Evidence-in-Chief of Goh Kok Guan dated 12 September 2018 (“Dr Goh’s AEIC”) at paras 10-13.
 
-[\[note: 42\]](#Ftn_42_1)Dr Fones’ AEIC at p 18; Notes of Evidence (5 October 2018) (“NE3”), p 9, lines 11-19.
+[^42]: Dr Fones’ AEIC at p 18; Notes of Evidence (5 October 2018) (“NE3”), p 9, lines 11-19.
 
-[\[note: 43\]](#Ftn_43_1)Exhibit D-3.
+[^43]: Exhibit D-3.
 
-[\[note: 44\]](#Ftn_44_1)Shareef’s AEIC at para 23.
+[^44]: Shareef’s AEIC at para 23.
 
-[\[note: 45\]](#Ftn_45_1)NE1, p 23, lines 21-32
+[^45]: NE1, p 23, lines 21-32
 
-[\[note: 46\]](#Ftn_46_1)Dr Goh’s AEIC at para 21.
+[^46]: Dr Goh’s AEIC at para 21.
 
-[\[note: 47\]](#Ftn_47_1)NE2, p 35, lines 5-8
+[^47]: NE2, p 35, lines 5-8
 
-[\[note: 48\]](#Ftn_48_1)Shepherdson’s AEIC at para 42; NE1, p 51, lines 10-20
+[^48]: Shepherdson’s AEIC at para 42; NE1, p 51, lines 10-20
 
-[\[note: 49\]](#Ftn_49_1)Affidavit of Evidence-in-Chief of Dayal Odhermal Khemlani dated 12 September 2018 at para 19; NE1, p 79, lines 7-10
+[^49]: Affidavit of Evidence-in-Chief of Dayal Odhermal Khemlani dated 12 September 2018 at para 19; NE1, p 79, lines 7-10
 
-[\[note: 50\]](#Ftn_50_1)Adelene’s AEIC at para 18.
+[^50]: Adelene’s AEIC at para 18.
 
-[\[note: 51\]](#Ftn_51_1)_Ibid_ at para 20.
+[^51]: _Ibid_ at para 20.
 
-[\[note: 52\]](#Ftn_52_1)_Ibid_ at para 21.
+[^52]: _Ibid_ at para 21.
 
-[\[note: 53\]](#Ftn_53_1)Dr Fones’ AEIC at p 18.
+[^53]: Dr Fones’ AEIC at p 18.
 
-[\[note: 54\]](#Ftn_54_1)_Ibid_ at p16.
+[^54]: _Ibid_ at p16.
 
-[\[note: 55\]](#Ftn_55_1)NE3, p 7, lines 13-20.
+[^55]: NE3, p 7, lines 13-20.
 
-[\[note: 56\]](#Ftn_56_1)Dr Fones’ AEIC at pp 16-17.
+[^56]: Dr Fones’ AEIC at pp 16-17.
 
-[\[note: 57\]](#Ftn_57_1)NE3, p 6 lines 22-28; NE3 p 7, line 4 to p8, line 11.
+[^57]: NE3, p 6 lines 22-28; NE3 p 7, line 4 to p8, line 11.
 
-[\[note: 58\]](#Ftn_58_1)NE1, p 59, lines 2-4.
+[^58]: NE1, p 59, lines 2-4.
 
-[\[note: 59\]](#Ftn_59_1)Dr Fones’ AEIC at p 19.
+[^59]: Dr Fones’ AEIC at p 19.
 
-[\[note: 60\]](#Ftn_60_1)DCS at para 82.
+[^60]: DCS at para 82.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F22864-SSP.xml)

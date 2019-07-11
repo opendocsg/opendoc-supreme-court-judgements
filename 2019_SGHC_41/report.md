@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # Asplenium Land Pte Ltd _v_ Lam Chye Shing and others  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Originating Summons No 952 of 2016</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">22 February 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Pang Khang Chau JC</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Chuah Chee Kian Christopher, Kua Lay Theng, Candy Agnes Sutedja, and Liana Chek (WongPartnership LLP) for the plaintiff; Nicholas Beetsma (Clasis LLC) for the 1st to 3rd defendants; Vikram Nair, Zhuang Wenxiong, and Ching Meng Hang (Rajah &amp; Tann Singapore LLP) for the 4th defendant.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Asplenium Land Pte Ltd — Lam Chye Shing — Rider Levett Bucknall LLP — RLB Consultancy Pte Ltd — CKR Contract Services Pte Ltd</td></tr></tbody></table>
@@ -70,7 +71,7 @@ Asplenium Land Pte Ltd (the “Employer”) asserts privilege over the documents
 
 16     Asplenium asserted that the Item 3 documents concerned ongoing discussions on various matters relating to the Project as well as the termination of the Contract. It claimed that it was entitled to assert legal advice privilege under s 128A(1) of the Evidence Act (Cap 97, 1997 Rev Ed) (“EA”) in respect of these documents because they were communications between Sia, who was Asplenium’s project manager for the Project, and Hwang, who was deemed to be Asplenium’s in-house legal counsel for the purposes of s 128A(1), in the course of and for the purpose of Hwang’s employment as such legal counsel. The fact that Lam was also copied in the e-mails did not preclude or waive such privilege.
 
-17     As for the Item 4 documents, Asplenium explained that these were communications between Asplenium, Lam, and WongPartnership LLP relating to the preparation of the Annexures. According to Asplenium, the Annexures were a set of accounts that “basically represent\[ed\] the estimated amount of loss that \[Asplenium\] incurred and/or would incur arising from the termination as a result of \[CKR’s\] breach at that time”.[\[note: 1\]](#Ftn_1) The Annexures were being relied on by Asplenium for its claim in arbitration against CKR for damages arising from the termination of CKR’s engagement under the Contract (see \[6\] and \[10(b)\] above). In that context, Asplenium claimed in relation to the Item 4 documents that: (a) legal advice privilege attached as the documents contained legal advice from WongPartnership LLP regarding the collation of evidence for the evaluation and substantiation of Asplenium’s claim against CKR; and (b) litigation privilege subsisted as the documents were created for the dominant purpose of contemplated litigation between it and CKR, at a time when there was a reasonable prospect of such litigation.
+17     As for the Item 4 documents, Asplenium explained that these were communications between Asplenium, Lam, and WongPartnership LLP relating to the preparation of the Annexures. According to Asplenium, the Annexures were a set of accounts that “basically represent\[ed\] the estimated amount of loss that \[Asplenium\] incurred and/or would incur arising from the termination as a result of \[CKR’s\] breach at that time”.[^1] The Annexures were being relied on by Asplenium for its claim in arbitration against CKR for damages arising from the termination of CKR’s engagement under the Contract (see \[6\] and \[10(b)\] above). In that context, Asplenium claimed in relation to the Item 4 documents that: (a) legal advice privilege attached as the documents contained legal advice from WongPartnership LLP regarding the collation of evidence for the evaluation and substantiation of Asplenium’s claim against CKR; and (b) litigation privilege subsisted as the documents were created for the dominant purpose of contemplated litigation between it and CKR, at a time when there was a reasonable prospect of such litigation.
 
 ### Overview of CKR’s case
 
@@ -186,7 +187,7 @@ Included in amounts due to other related parties, trade and non-trade, are mainl
 
 \[emphasis added\]
 
-(b)     Notwithstanding the above, Nuri and Tuan Sing were not related corporations as defined in s 6 of the CA. The fact that Nuri held around 46.46% of the shares in Tuan Sing was insufficient to render Tuan Sing a subsidiary of Nuri such as to fall within the scope of s 6(_a_)(ii) of the CA. Nor did any other limb of s 6(1) apply for Tuan Sing and Nuri to be regarded as related corporations.[\[note: 2\]](#Ftn_2)
+(b)     Notwithstanding the above, Nuri and Tuan Sing were not related corporations as defined in s 6 of the CA. The fact that Nuri held around 46.46% of the shares in Tuan Sing was insufficient to render Tuan Sing a subsidiary of Nuri such as to fall within the scope of s 6(_a_)(ii) of the CA. Nor did any other limb of s 6(1) apply for Tuan Sing and Nuri to be regarded as related corporations.[^2]
 
 (c)     In contrast, because Asplenium was a subsidiary of Tuan Sing, Tuan Sing and Asplenium were related corporations within the meaning of s 6 of the CA.
 
@@ -210,7 +211,7 @@ Included in amounts due to other related parties, trade and non-trade, are mainl
 
 39     Hwang’s evidence in this regard was not seriously challenged, and CKR did not press the point that Hwang was not, at the material time, a legal counsel as defined in s 3(7)(_a_) of the EA (see \[29\] above). In my view, CKR was right not to press the point, as s 3(7)(_a_) defined “legal counsel” as a person employed to undertake the provision of legal advice, _etc_, and not as a person employed _exclusively_ to undertake the provision of legal advice, _etc_. Thus, in the absence of any contrary argument or evidence, I found that Hwang was a legal counsel as statutorily defined at the material time.
 
-40     Even though some questions regarding Hwang’s business development role were put to Hwang during cross-examination, CKR did not seriously challenge the capacity in which Hwang received the Item 3 documents eventually. Hwang’s own evidence was that the documents had been sent to him in his capacity as an in-house legal counsel to seek his advice, input, and opinion where necessary.[\[note: 3\]](#Ftn_3) Accordingly, I also found that the Item 3 documents were communications made in the course of and for the purpose of Hwang’s employment as legal counsel, rather than in any other capacity.
+40     Even though some questions regarding Hwang’s business development role were put to Hwang during cross-examination, CKR did not seriously challenge the capacity in which Hwang received the Item 3 documents eventually. Hwang’s own evidence was that the documents had been sent to him in his capacity as an in-house legal counsel to seek his advice, input, and opinion where necessary.[^3] Accordingly, I also found that the Item 3 documents were communications made in the course of and for the purpose of Hwang’s employment as legal counsel, rather than in any other capacity.
 
 ##### (2)   Whether Hwang was employed by Tuan Sing and therefore deemed legal counsel of Asplenium
 
@@ -268,7 +269,7 @@ I understood the thrust of CKR’s submission at (b) to be that, even if I were 
 
 1.29  In common law at various points in time, different tests such as the ‘control’ test and the ‘integration’ test held sway, but the current position is that all the relevant factors have to be considered. Some relevant factors are listed below, though the list is not exhaustive. Neither can an exhaustive list ever be drawn. Further, it is not possible to pre-assign relative weights to each of these factors. It is also possible that the very same factors carry different weight in different circumstances. Hence, much depends on the actual facts and essentially the court has to embark on a balancing act. Before looking at some of the relevant factors, it must also be mentioned that due to a change in nature of the work relationship, it is possible for a worker to evolve from being an employee to not being one or vice versa, at some point in time. Further, it is possible that with respect to the same organisation, the worker may do work in two different capacities as an employee and as a non-employee, as for example, the situation where an editor of a newspaper who is not expected to do translations is paid separately to do those translations on some occasions. The burden of proof is likely to be on the person who is alleging that there is an employment relationship, though this could be reversed by statute.
 
-55     The learned author went on to identify no less than 17 non-exhaustive factors relevant to the identification of an employment relationship. Of these, the parties’ submissions highlighted the following factors as relevant:[\[note: 4\]](#Ftn_4)
+55     The learned author went on to identify no less than 17 non-exhaustive factors relevant to the identification of an employment relationship. Of these, the parties’ submissions highlighted the following factors as relevant:[^4]
 
 (a)     the extent of control exerted by the putative employer over the putative employee;
 
@@ -288,7 +289,7 @@ Item (a) was highlighted by both Asplenium and CKR, while items (b) to (e) were 
 
 (II)   Overview of working arrangements
 
-56     Hwang commenced his employment with Nuri in 2009. Clause 1 of Hwang’s employment contract with Nuri provides:[\[note: 5\]](#Ftn_5)
+56     Hwang commenced his employment with Nuri in 2009. Clause 1 of Hwang’s employment contract with Nuri provides:[^5]
 
 **JOB DESCRIPTION**
 
@@ -300,15 +301,15 @@ You shall, when requested by the Company, travel between or take up temporary re
 
 From day one, Hwang was expected to provide legal advice and assistance, not only to Nuri and its subsidiaries, but also to Tuan Sing and its subsidiaries. As previously noted (at \[34(b)\]), although Nuri owned 46.46% of Tuan Sing’s shareholding, neither company is a subsidiary or holding company of the other. Nuri and Tuan Sing are each holding companies for separate groups of subsidiaries. Tuan Sing is a listed company while Nuri is not.
 
-57     Nuri and Tuan Sing occupied separate office premises in the same building. Nuri’s office was on the second floor while Tuan Sing’s was on the third floor. Hwang’s office was located within Tuan Sing’s premises. Throughout his employment, Hwang was involved, on a daily basis, in providing legal advice to, as well as in reviewing and preparing documents for, Tuan Sing and its subsidiaries.[\[note: 6\]](#Ftn_6)
+57     Nuri and Tuan Sing occupied separate office premises in the same building. Nuri’s office was on the second floor while Tuan Sing’s was on the third floor. Hwang’s office was located within Tuan Sing’s premises. Throughout his employment, Hwang was involved, on a daily basis, in providing legal advice to, as well as in reviewing and preparing documents for, Tuan Sing and its subsidiaries.[^6]
 
-58     Hwang’s salary and CPF were paid by Nuri. From July 2014 until Hwang’s resignation in February 2017, Tuan Sing reimbursed Nuri, on a monthly basis, an amount equivalent to half of Hwang’s salary. This cost-sharing arrangement was initiated by Nuri sometime in 2014, when Nuri indicated to Tuan Sing that, as the amount of work Hwang did for Tuan Sing had been increasing, it was not fair for Nuri to continue bearing the full burden of Hwang’s salary.[\[note: 7\]](#Ftn_7) Hwang was asked by Nuri to provide an estimate of the proportion of time he spent on Tuan Sing’s work[\[note: 8\]](#Ftn_8) and, pursuant to that estimate, Nuri and Tuan Sing agreed that Tuan Sing should pay for half of Hwang’s salary.
+58     Hwang’s salary and CPF were paid by Nuri. From July 2014 until Hwang’s resignation in February 2017, Tuan Sing reimbursed Nuri, on a monthly basis, an amount equivalent to half of Hwang’s salary. This cost-sharing arrangement was initiated by Nuri sometime in 2014, when Nuri indicated to Tuan Sing that, as the amount of work Hwang did for Tuan Sing had been increasing, it was not fair for Nuri to continue bearing the full burden of Hwang’s salary.[^7] Hwang was asked by Nuri to provide an estimate of the proportion of time he spent on Tuan Sing’s work[^8] and, pursuant to that estimate, Nuri and Tuan Sing agreed that Tuan Sing should pay for half of Hwang’s salary.
 
 (III)   Extent of control
 
-59     The evidence showed that Tuan Sing would assign work directly to Hwang without need for clearance from Nuri. Nor was there evidence that Hwang had the discretion to decline assignments given to him by Tuan Sing. Hwang recounted a transaction in which he acted for Tuan Sing even though the counterparty was one of Nuri’s subsidiaries. He took on the assignment from Tuan Sing without needing to seek permission from Nuri. All he did was to inform Nuri that Nuri should be separately represented on that transaction.[\[note: 9\]](#Ftn_9) When it was suggested to Hwang in cross-examination that, in a situation like this, he had to take instructions from Nuri’s management as to which side of the transaction he would act for, this suggestion was refuted by Hwang.[\[note: 10\]](#Ftn_10) Instead, Hwang’s evidence was that Nuri did not give him directions in relation to the work that he had done for Tuan Sing.[\[note: 11\]](#Ftn_11) In the light of this, CKR’s submission that the CEO of Nuri had the ultimate say over which entity Hwang was to advise[\[note: 12\]](#Ftn_12) was not supported by the evidence.
+59     The evidence showed that Tuan Sing would assign work directly to Hwang without need for clearance from Nuri. Nor was there evidence that Hwang had the discretion to decline assignments given to him by Tuan Sing. Hwang recounted a transaction in which he acted for Tuan Sing even though the counterparty was one of Nuri’s subsidiaries. He took on the assignment from Tuan Sing without needing to seek permission from Nuri. All he did was to inform Nuri that Nuri should be separately represented on that transaction.[^9] When it was suggested to Hwang in cross-examination that, in a situation like this, he had to take instructions from Nuri’s management as to which side of the transaction he would act for, this suggestion was refuted by Hwang.[^10] Instead, Hwang’s evidence was that Nuri did not give him directions in relation to the work that he had done for Tuan Sing.[^11] In the light of this, CKR’s submission that the CEO of Nuri had the ultimate say over which entity Hwang was to advise[^12] was not supported by the evidence.
 
-60     CKR submitted that, in the specific context of a person allowing a third party to use the services of his employee, the courts will apply “a more stringent test” as to control to determine whether an employment relationship existed. In this regard, CKR cited the following passage from _Halsbury’s Laws of Singapore_ vol 9 (LexisNexis, 2017) (“_Halsbury_”) at para 100.003:[\[note: 13\]](#Ftn_13)
+60     CKR submitted that, in the specific context of a person allowing a third party to use the services of his employee, the courts will apply “a more stringent test” as to control to determine whether an employment relationship existed. In this regard, CKR cited the following passage from _Halsbury’s Laws of Singapore_ vol 9 (LexisNexis, 2017) (“_Halsbury_”) at para 100.003:[^13]
 
 In the instances where the services of an employee are hired out by his general employer to a third party, it is a question of fact as to who his employer is _for a particular purpose_. Unless the third party is vested with the _entire and absolute control_ of such an employee by the general employer, who engages, pays and regularly employs and can alone dismiss him, the third party will not be regarded as his employer. \[emphasis added\]
 
@@ -334,7 +335,7 @@ It was further held in _Karuppan Bhoomidas_’ case that partial control by the 
 
 One feature which seems to run through the instances is that, under a contract of service, _a man is employed as part of the business and his work is done as an integral part of the business_, whereas, under a contract for service, his work although done for the business, is not integrated into it but is only accessory to it. \[emphasis added\]
 
-66     As noted above, Hwang was seated in Tuan Sing’s premises. He was involved, on a daily basis, in providing legal advice to Tuan Sing and its subsidiaries through various means. Chong Chou Yuen (“Chong”), the Chief Financial Officer of Tuan Sing and a director of Asplenium, gave evidence that “\[Hwang\]’s one of us”[\[note: 14\]](#Ftn_14) and that Hwang would attend Tuan Sing’s office functions together with the rest of Tuan Sing’s employees.[\[note: 15\]](#Ftn_15) Hwang was Tuan Sing’s only in-house legal advisor.[\[note: 16\]](#Ftn_16) His work was thus integral to Tuan Sing’s business. In fact, Hwang’s work became so integral to Tuan Sing that Nuri proposed in 2014 that Tuan Sing should share the cost of Hwang’s salary, and Tuan Sing readily accepted the proposal. When disputes arose with CKR over the Project, it was Hwang who approached and engaged external counsel on behalf of Asplenium.[\[note: 17\]](#Ftn_17) I was therefore of the view that the relationship between Hwang and Tuan Sing met the integration test.
+66     As noted above, Hwang was seated in Tuan Sing’s premises. He was involved, on a daily basis, in providing legal advice to Tuan Sing and its subsidiaries through various means. Chong Chou Yuen (“Chong”), the Chief Financial Officer of Tuan Sing and a director of Asplenium, gave evidence that “\[Hwang\]’s one of us”[^14] and that Hwang would attend Tuan Sing’s office functions together with the rest of Tuan Sing’s employees.[^15] Hwang was Tuan Sing’s only in-house legal advisor.[^16] His work was thus integral to Tuan Sing’s business. In fact, Hwang’s work became so integral to Tuan Sing that Nuri proposed in 2014 that Tuan Sing should share the cost of Hwang’s salary, and Tuan Sing readily accepted the proposal. When disputes arose with CKR over the Project, it was Hwang who approached and engaged external counsel on behalf of Asplenium.[^17] I was therefore of the view that the relationship between Hwang and Tuan Sing met the integration test.
 
 (IV)   Remuneration
 
@@ -342,7 +343,7 @@ One feature which seems to run through the instances is that, under a contract o
 
 68     On the issue of remuneration, CKR raised two objections. The first was that it was Nuri which had made the actual payments of Hwang’s salary and CPF contributions, and Hwang testified also that he looked to Nuri for these payments. In my view, however, the more important point was that all three parties had been aware that there was in place a cost-sharing arrangement between Nuri and Tuan Sing, under which Hwang would provide his legal services to Tuan Sing, and Tuan Sing would pay Nuri the relevant part of Hwang’s salary.
 
-69     The second objection was the fact that Tuan Sing had paid goods and services tax (“GST”) to Nuri on Tuan Sing’s share of Hwang’s salary. CKR submitted that as GST is charged only on the supply of goods and services, the labour of an employee is not subject to GST and “only an independent contractor would charge GST for services”.[\[note: 18\]](#Ftn_18) It followed, purportedly, that Hwang must have been an independent contractor to Tuan Sing.
+69     The second objection was the fact that Tuan Sing had paid goods and services tax (“GST”) to Nuri on Tuan Sing’s share of Hwang’s salary. CKR submitted that as GST is charged only on the supply of goods and services, the labour of an employee is not subject to GST and “only an independent contractor would charge GST for services”.[^18] It followed, purportedly, that Hwang must have been an independent contractor to Tuan Sing.
 
 70     In response, Asplenium submitted that the payment of GST by Tuan Sing is in fact evidence of Hwang working for Tuan Sing pursuant to a secondment arrangement under which Tuan Sing was regarded as having employed Hwang as its own legal counsel. In support of this argument, Asplenium pointed to a guideline published by the Inland Revenue Authority of Singapore on 31 May 2013 entitled “GST Guide on Reimbursement and Disbursement of Expenses” (“IRAS Guide”), which stated at paras 6.23 to 6.25 as follows:
 
@@ -378,11 +379,11 @@ Nor is there anything inconsistent with the existence of a contract of service i
 
 (VII)   Obligation to provide and accept work
 
-79     While this factor was highlighted by CKR as relevant, CKR did not develop the point in its submissions. It was therefore not clear whether CKR’s position was that this factor militated against a finding that Hwang was Tuan Sing’s employee. Further, while the evidence showed that Hwang was obliged to accept work from Tuan Sing,[\[note: 19\]](#Ftn_19) no evidence was led on whether Tuan Sing was obliged to provide work for Hwang. Given that Hwang was Tuan Sing’s only in-house legal advisor and that Tuan Sing paid half of Hwang’s salary, the reality of the situation was that Tuan Sing would have, as a matter of course, provided work to Hwang. In any event, as noted in _Chandran on Employment_ (at para 1.47), this again is not a conclusive factor.
+79     While this factor was highlighted by CKR as relevant, CKR did not develop the point in its submissions. It was therefore not clear whether CKR’s position was that this factor militated against a finding that Hwang was Tuan Sing’s employee. Further, while the evidence showed that Hwang was obliged to accept work from Tuan Sing,[^19] no evidence was led on whether Tuan Sing was obliged to provide work for Hwang. Given that Hwang was Tuan Sing’s only in-house legal advisor and that Tuan Sing paid half of Hwang’s salary, the reality of the situation was that Tuan Sing would have, as a matter of course, provided work to Hwang. In any event, as noted in _Chandran on Employment_ (at para 1.47), this again is not a conclusive factor.
 
 (VII)   Right to dismiss, suspend and evaluate
 
-80     CKR highlighted this as a relevant factor, but again, it did not develop the point in submissions. It was therefore not clear what CKR wished to submit concerning this factor. In my view, although no specific evidence was led on this point, the fact that Hwang had superiors within Tuan Sing to report to (such as the CEO of Tuan Sing, Mr William Liem),[\[note: 20\]](#Ftn_20) suggested that Hwang would be evaluated by the management of Tuan Sing, and consequently, that the possibility existed of Tuan Sing terminating its relationship with Hwang. In any event, this factor was again not conclusive.
+80     CKR highlighted this as a relevant factor, but again, it did not develop the point in submissions. It was therefore not clear what CKR wished to submit concerning this factor. In my view, although no specific evidence was led on this point, the fact that Hwang had superiors within Tuan Sing to report to (such as the CEO of Tuan Sing, Mr William Liem),[^20] suggested that Hwang would be evaluated by the management of Tuan Sing, and consequently, that the possibility existed of Tuan Sing terminating its relationship with Hwang. In any event, this factor was again not conclusive.
 
 (IX)   Miscellaneous
 
@@ -392,13 +393,13 @@ Nor is there anything inconsistent with the existence of a contract of service i
 
 (b)     Although Hwang was aware of the cost-sharing arrangement, he was never told by Nuri or Tuan Sing that he was seconded to Tuan Sing or that he was working for Tuan Sing pursuant to a secondment arrangement.
 
-(c)     Asplenium’s submission concerning secondment must have been an afterthought as the term “secondment” did not appear either in the supporting affidavits filed initially by Asplenium or in Asplenium’s initial round of written submissions filed on 10 January 2017. Those submissions only referred to “an arrangement whereby Tuan Sing would contribute to a share of the costs of Hwang’s salary for the provision of legal advice and services by him to Tuan Sing”[\[note: 21\]](#Ftn_21) without calling it a secondment arrangement. It was only in Asplenium’s rebuttal submission filed on 26 January 2017 that secondment was first mentioned.
+(c)     Asplenium’s submission concerning secondment must have been an afterthought as the term “secondment” did not appear either in the supporting affidavits filed initially by Asplenium or in Asplenium’s initial round of written submissions filed on 10 January 2017. Those submissions only referred to “an arrangement whereby Tuan Sing would contribute to a share of the costs of Hwang’s salary for the provision of legal advice and services by him to Tuan Sing”[^21] without calling it a secondment arrangement. It was only in Asplenium’s rebuttal submission filed on 26 January 2017 that secondment was first mentioned.
 
 82     I did have some concerns about the lack of formal documentation, as well as the fact that the cost-sharing arrangement commenced only in 2014, even though Hwang had been working for Nuri and Tuan Sing since 2009. These concerns prompted me to be more careful in examining the claim as to the secondment arrangement. However, the lack of a formal documentation did not in itself preclude the finding of an employment relationship. Proper documentation would most likely assist, but in the end, it is the court’s overall assessment of the reality of the situation and the substance of the relationship that matters.
 
 83     In the present case, I accepted the tax invoices as evidence that a cost-sharing arrangement existed between Nuri and Tuan Sing concerning Hwang’s salary. Chong explained that this was the purpose of the payments. Hwang testified that he was aware of the cost-sharing arrangement. The evidence of both Chong and Hwang were tested in cross-examination and I was satisfied that they were both truthful on this issue.
 
-84     Hwang candidly admitted during cross-examination that neither Nuri nor Tuan Sing had any discussion with him about the secondment exercise.[\[note: 22\]](#Ftn_22) Further, when Hwang was asked whether he considered Tuan Sing his employer, Hwang replied in the following manner:[\[note: 23\]](#Ftn_23)
+84     Hwang candidly admitted during cross-examination that neither Nuri nor Tuan Sing had any discussion with him about the secondment exercise.[^22] Further, when Hwang was asked whether he considered Tuan Sing his employer, Hwang replied in the following manner:[^23]
 
 That’s a difficult question to answer in the sense that I’m aware that there was a cost sharing arrangement with Tuan Sing. So, yes, they were partially responsible for the salary that I got from Nuri. So, you know, this is a legal question. I’m not an expert on employment law.
 
@@ -418,7 +419,7 @@ On Mr Kumar’s third issue concerning the scope of section 128A(4), he queried 
 
 The suggestion is that there be a definition of direct or indirect ownership to be used to determine legitimate related entities of limited liability partnerships. That goes well beyond the scope of today’s amendments and we felt that that needed more careful study. We need to be able to establish a clear nexus between the entity employing the legal counsel and the related entity claiming privilege, or run the risk that the provision will be abused to hide communications or material that should be rightly disclosed, be it for investigation, inspection or transparency. …
 
-89     CKR also relied on a passage in the _Report of the Law Reform Committee on Reforming Legal Professional Privilege_ (October 2011) (Chairman: Harpreet Singh Nehal SC) (“LRC Report”) which cautioned (at para 123) against an unrestrained extension of the privilege to communications with in-house legal counsel.[\[note: 24\]](#Ftn_24)
+89     CKR also relied on a passage in the _Report of the Law Reform Committee on Reforming Legal Professional Privilege_ (October 2011) (Chairman: Harpreet Singh Nehal SC) (“LRC Report”) which cautioned (at para 123) against an unrestrained extension of the privilege to communications with in-house legal counsel.[^24]
 
 90     In my view, CKR had cited the LRC Report out of context. It was clear from para 122 of the LRC Report that the phrase “unrestrained extension of the privilege to communications with in-house counsel” referred to one of the three options being considered in the LRC Report. The other two options considered were “reject the extension” and “extend the privilege restrictively”. Therefore, the content of the “unrestrained extension” option could only be understood by contrasting it with the content of the “extend the privilege restrictively” option, which incidentally was the option eventually recommended in the LRC Report. As explained in paras 125–127 of the LRC Report, the restrictions envisaged under this recommended option were that: (a) privilege should not attach to materials which lack confidentiality; and (b) the in-house legal counsel must have been instructed for his independent advice, as if he were an external counsel.
 
@@ -556,11 +557,11 @@ Section 133 of the \[EA\] provides that no person can be compelled to produce do
 
 … the general principle is that equity imposes a duty of confidence whenever a person receives information he knows or ought to know to be fairly and reasonably regarded as confidential. This includes the situation where an obviously confidential document is wafted by an electric fan out of a window into a crowded street or is dropped in a public place and is picked up by a passer-by (_Attorney-General v Guardian Newspapers (No 2)_ (“_Spycatcher_”) at 281, per Lord Goff of Chievely; _Campbell v MGN Ltd_ at \[14\], per Lord Nicholls of Birkenhead). When such confidential information is also privileged, an application may be made to restrain its use for the purposes of litigation…  
 
-133    In my view, injunctive relief restraining the RLB Defendants from disclosing the Item 3 documents was in order. Lam had obtained the e-mails containing legal advice provided by Hwang to Sia by virtue of his involvement in the Project, in circumstances where it must have been clear that such e-mails containing legal advice were internal to Asplenium and its related entities, and were not to be disclosed to any other party or for any other purpose. In the words of _Wee Shuo Woon_, Lam had received the e-mails in a context where he knew or ought to have known that they should fairly and reasonably be regarded as confidential. Notably, CKR did not dispute the confidentiality of the e-mails, but rather submitted that “even if Items 3 and 4 are found to be privileged in the first place, and retained its privilege and confidential status, the issue remains how \[the RLB Defendants\] have exercised their choice under section 133”.[\[note: 25\]](#Ftn_25) This was erroneous as a matter of law, since nothing suggested that s 133 of the EA precluded the equitable power of the courts to restrain use in court proceedings of information contained in privileged material of a confidential nature, at least before such information was in fact used.
+133    In my view, injunctive relief restraining the RLB Defendants from disclosing the Item 3 documents was in order. Lam had obtained the e-mails containing legal advice provided by Hwang to Sia by virtue of his involvement in the Project, in circumstances where it must have been clear that such e-mails containing legal advice were internal to Asplenium and its related entities, and were not to be disclosed to any other party or for any other purpose. In the words of _Wee Shuo Woon_, Lam had received the e-mails in a context where he knew or ought to have known that they should fairly and reasonably be regarded as confidential. Notably, CKR did not dispute the confidentiality of the e-mails, but rather submitted that “even if Items 3 and 4 are found to be privileged in the first place, and retained its privilege and confidential status, the issue remains how \[the RLB Defendants\] have exercised their choice under section 133”.[^25] This was erroneous as a matter of law, since nothing suggested that s 133 of the EA precluded the equitable power of the courts to restrain use in court proceedings of information contained in privileged material of a confidential nature, at least before such information was in fact used.
 
 ## Whether legal advice privilege and/or litigation privilege subsisted in the Item 4 documents
 
-134    I turn now to the Item 4 documents. These comprised e-mails exchanged between 10 and 31 October 2014 among Asplenium, Lam, and WongPartnership LLP relating to the preparation of the Annexures (see \[6\] and \[10(b)\] above). Asplenium explained that the Annexures were a set of accounts that “basically represent\[ed\] the estimated amount of loss that \[Asplenium\] incurred and/or would incur arising from the termination as a result of \[CKR’s purported\] breach at that time”.[\[note: 26\]](#Ftn_26) It further explained that these e-mails contained legal advice that it had obtained from WongPartnership LLP as its solicitors regarding the collation of evidence for the evaluation and substantiation of its claim against CKR. On this basis, it claimed both legal advice and litigation privilege in relation to the Item 4 documents. I have outlined Asplenium and CKR’s cases in relation to the Item 4 documents above at \[17\] and \[19\] respectively.
+134    I turn now to the Item 4 documents. These comprised e-mails exchanged between 10 and 31 October 2014 among Asplenium, Lam, and WongPartnership LLP relating to the preparation of the Annexures (see \[6\] and \[10(b)\] above). Asplenium explained that the Annexures were a set of accounts that “basically represent\[ed\] the estimated amount of loss that \[Asplenium\] incurred and/or would incur arising from the termination as a result of \[CKR’s purported\] breach at that time”.[^26] It further explained that these e-mails contained legal advice that it had obtained from WongPartnership LLP as its solicitors regarding the collation of evidence for the evaluation and substantiation of its claim against CKR. On this basis, it claimed both legal advice and litigation privilege in relation to the Item 4 documents. I have outlined Asplenium and CKR’s cases in relation to the Item 4 documents above at \[17\] and \[19\] respectively.
 
 ### Whether litigation privilege applied
 
@@ -598,9 +599,9 @@ For litigation privilege to apply, two conditions must be satisfied:
 
 146    Secondly, O 40A r 3 of the Rules of Court (Cap 322, R 5, 2014 Rev Ed) provides for the requirements that an expert witness’s report _must_ comply with, including, for instance, details regarding the expert’s qualifications and a statement that the expert understands that his duty is to the court and not his appointee. None of these formalities ordinarily required of an expert report were complied with in relation to Lam’s evidence in OS 1025, and there was no indication that this had been the case because of CKR’s consent or on the court’s direction.
 
-147    Thirdly, it was not clear to me how Lam could have served as an expert witness in OS 1025 without any objections or serious questions being raised about his independence or the propriety of his appointment, when the subject matter in dispute was precisely the termination of the Contract which Lam was personally and integrally involved in, and when the nature of that involvement was such as to associate him far more closely with one party (Asplenium) than the other (CKR). In this regard, CKR submitted that “it is recognised practice for an expert who advised a party to become an expert witness in the proceedings”.[\[note: 27\]](#Ftn_27) Even if this was so in some situations, there was no indication that it was in fact the case _vis-à-vis_ Lam. Indeed, if CKR had genuinely believed that Lam was called in OS 1025 as an expert witness, it would surely have made its objections known in order to undermine the weight of Lam’s evidence. Yet, there was no indication that CKR had raised any such objections in OS 1025.
+147    Thirdly, it was not clear to me how Lam could have served as an expert witness in OS 1025 without any objections or serious questions being raised about his independence or the propriety of his appointment, when the subject matter in dispute was precisely the termination of the Contract which Lam was personally and integrally involved in, and when the nature of that involvement was such as to associate him far more closely with one party (Asplenium) than the other (CKR). In this regard, CKR submitted that “it is recognised practice for an expert who advised a party to become an expert witness in the proceedings”.[^27] Even if this was so in some situations, there was no indication that it was in fact the case _vis-à-vis_ Lam. Indeed, if CKR had genuinely believed that Lam was called in OS 1025 as an expert witness, it would surely have made its objections known in order to undermine the weight of Lam’s evidence. Yet, there was no indication that CKR had raised any such objections in OS 1025.
 
-148    Fourthly, CKR argued that Lam had given opinion evidence on the parties’ rights and liabilities under the Contract.[\[note: 28\]](#Ftn_28) In my view, even if that is true, it did not in itself render Lam an expert witness. Nothing highlighted by CKR showed that Lam, in giving evidence in OS 1025, had gone beyond statements of opinion needed as part and parcel of his effort to justify and explain his factual evidence.
+148    Fourthly, CKR argued that Lam had given opinion evidence on the parties’ rights and liabilities under the Contract.[^28] In my view, even if that is true, it did not in itself render Lam an expert witness. Nothing highlighted by CKR showed that Lam, in giving evidence in OS 1025, had gone beyond statements of opinion needed as part and parcel of his effort to justify and explain his factual evidence.
 
 149    In the circumstances, I did not agree that Lam had given evidence in OS 1025 as an expert witness. Rather, CKR’s belated claim that Lam was an expert witness in OS 1025 was clearly an afterthought. Consequently, Lam was not obliged to disclose the Item 4 documents on the premise that they formed the basis of his purported expert opinion. There was no other apparent basis for Lam to be obliged to disclose the Item 4 documents by virtue merely of his having testified in OS 1025.
 
@@ -618,61 +619,61 @@ For litigation privilege to apply, two conditions must be satisfied:
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)Asplenium’s Submissions dated 10 January 2017 at para 46.
+[^1]: Asplenium’s Submissions dated 10 January 2017 at para 46.
 
-[\[note: 2\]](#Ftn_2_1)CKR’s Submissions dated 3 July 2017 at para 19.
+[^2]: CKR’s Submissions dated 3 July 2017 at para 19.
 
-[\[note: 3\]](#Ftn_3_1)Hwang’s affidavit dated 19 September 2016 at para 74.
+[^3]: Hwang’s affidavit dated 19 September 2016 at para 74.
 
-[\[note: 4\]](#Ftn_4_1)Asplenium’s Submissions dated 3 July 2017 at paras 34-57; CKR’s Submissions dated 3 July 2017 at para 15.
+[^4]: Asplenium’s Submissions dated 3 July 2017 at paras 34-57; CKR’s Submissions dated 3 July 2017 at para 15.
 
-[\[note: 5\]](#Ftn_5_1)See Exhibit P1.
+[^5]: See Exhibit P1.
 
-[\[note: 6\]](#Ftn_6_1)Hwang’s affidavit dated 15 December 2016 at para 24.
+[^6]: Hwang’s affidavit dated 15 December 2016 at para 24.
 
-[\[note: 7\]](#Ftn_7_1)NE 12 June 2017 at p 29, lines 13 to 21; NE 12 June 2017 at p 21, line 12.
+[^7]: NE 12 June 2017 at p 29, lines 13 to 21; NE 12 June 2017 at p 21, line 12.
 
-[\[note: 8\]](#Ftn_8_1)NE 12 June 2017 at p 20, line 25 to p 21, line 5.
+[^8]: NE 12 June 2017 at p 20, line 25 to p 21, line 5.
 
-[\[note: 9\]](#Ftn_9_1)NE 12 June 2017 at p 16, line 30 to p 17, line 8.
+[^9]: NE 12 June 2017 at p 16, line 30 to p 17, line 8.
 
-[\[note: 10\]](#Ftn_10_1)NE 12 June 2017 at p 17, lines 15 to 17.
+[^10]: NE 12 June 2017 at p 17, lines 15 to 17.
 
-[\[note: 11\]](#Ftn_11_1)NE 12 June 2017 at p 18, lines 8 to 19.
+[^11]: NE 12 June 2017 at p 18, lines 8 to 19.
 
-[\[note: 12\]](#Ftn_12_1)CKR’s Submission dated 3 July 2017 at para 32.
+[^12]: CKR’s Submission dated 3 July 2017 at para 32.
 
-[\[note: 13\]](#Ftn_13_1)CKR’s Submission dated 3 July 2017 at para 16.
+[^13]: CKR’s Submission dated 3 July 2017 at para 16.
 
-[\[note: 14\]](#Ftn_14_1)NE 12 June 2017 at p 32, line 21.
+[^14]: NE 12 June 2017 at p 32, line 21.
 
-[\[note: 15\]](#Ftn_15_1)NE 12 June 2017 at p 31, lines 11 to 14.
+[^15]: NE 12 June 2017 at p 31, lines 11 to 14.
 
-[\[note: 16\]](#Ftn_16_1)NE 12 June 2017 at p 40, lines 23 to 26.
+[^16]: NE 12 June 2017 at p 40, lines 23 to 26.
 
-[\[note: 17\]](#Ftn_17_1)Hwang’s affidavit dated 19 September 2016 at para 13.
+[^17]: Hwang’s affidavit dated 19 September 2016 at para 13.
 
-[\[note: 18\]](#Ftn_18_1)CKR’s Submissions dated 11 January 2017 at para 44.
+[^18]: CKR’s Submissions dated 11 January 2017 at para 44.
 
-[\[note: 19\]](#Ftn_19_1)NE 12 June 2017 at p 17, lines 6 to 17.
+[^19]: NE 12 June 2017 at p 17, lines 6 to 17.
 
-[\[note: 20\]](#Ftn_20_1)NE 12 June 2017 at p 17, lines 21 to 27
+[^20]: NE 12 June 2017 at p 17, lines 21 to 27
 
-[\[note: 21\]](#Ftn_21_1)Asplenium’s Submissions dated 10 January 2017 at para 117(d).
+[^21]: Asplenium’s Submissions dated 10 January 2017 at para 117(d).
 
-[\[note: 22\]](#Ftn_22_1)NE 12 June 2017 at p 21, lines 13 to 15.
+[^22]: NE 12 June 2017 at p 21, lines 13 to 15.
 
-[\[note: 23\]](#Ftn_23_1)NE 12 June 2017 at p 16, lines 1 to 4.
+[^23]: NE 12 June 2017 at p 16, lines 1 to 4.
 
-[\[note: 24\]](#Ftn_24_1)CKR’s Submissions dated 11 January 2017 at paras 50-51; CKR’s Submissions dated 3 July 2017 at para 41.
+[^24]: CKR’s Submissions dated 11 January 2017 at paras 50-51; CKR’s Submissions dated 3 July 2017 at para 41.
 
-[\[note: 25\]](#Ftn_25_1)4th Respondent’s Submissions dated 24 July 2017 at para 17.
+[^25]: 4th Respondent’s Submissions dated 24 July 2017 at para 17.
 
-[\[note: 26\]](#Ftn_26_1)Asplenium’s Submissions dated 10 January 2017 at para 46.
+[^26]: Asplenium’s Submissions dated 10 January 2017 at para 46.
 
-[\[note: 27\]](#Ftn_27_1)CKR’s Submissions dated 3 July 2017 at para 83.
+[^27]: CKR’s Submissions dated 3 July 2017 at para 83.
 
-[\[note: 28\]](#Ftn_28_1)See CKR’s Submissions dated 3 July 2017 at para 80.
+[^28]: See CKR’s Submissions dated 3 July 2017 at para 80.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F22867-SSP.xml)

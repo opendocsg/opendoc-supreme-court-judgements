@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # Quantum Automation Pte Ltd _v_ Saravanan Apparsamy  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Suit No 1204 of 2017</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">13 February 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Woo Bih Li J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Ho Tze Herng Eugene (Eugene Ho &amp; Partners) for the plaintiff; The defendant in person.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Quantum Automation Pte Ltd — Saravanan Apparsamy</td></tr></tbody></table>
@@ -40,7 +41,7 @@ In exchange, Quantum ceased its claim in the 1st Suit.
 
 8       Quantum filed a notice of discontinuance of the 1st Suit the next day, _ie_, on 8 November 2017.
 
-9       On 11 November 2017, SA asked Quantum’s lawyers for an update on the 1st Suit. Quantum’s lawyers replied on 11 and 13 November 2017 to inform him that the 1st Suit had been discontinued.[\[note: 1\]](#Ftn_1)
+9       On 11 November 2017, SA asked Quantum’s lawyers for an update on the 1st Suit. Quantum’s lawyers replied on 11 and 13 November 2017 to inform him that the 1st Suit had been discontinued.[^1]
 
 ## The disputed emails
 
@@ -48,21 +49,21 @@ In exchange, Quantum ceased its claim in the 1st Suit.
 
 ### The 1st Disputed Email
 
-11     On 17 November 2017, SA sent an email to William Yee of the Institute of Technical Education (“ITE”) (“the 1st Disputed Email”) which he also copied to Quantum.[\[note: 2\]](#Ftn_2) Quantum had installed a BMS at ITE in 2006. The disputed words in the 1st Disputed Email are set out in Annex A1 of this judgment. The disputed meanings are set out in Annex A2 of this judgment.
+11     On 17 November 2017, SA sent an email to William Yee of the Institute of Technical Education (“ITE”) (“the 1st Disputed Email”) which he also copied to Quantum.[^2] Quantum had installed a BMS at ITE in 2006. The disputed words in the 1st Disputed Email are set out in Annex A1 of this judgment. The disputed meanings are set out in Annex A2 of this judgment.
 
 ### The 2nd Disputed Email
 
-12     On 21 November 2017, SA sent a second email to Raja Khabir of the National Heritage Board (“NHB”) (“the 2nd Disputed Email”).[\[note: 3\]](#Ftn_3) SA copied two other persons at NHB and Quantum on this email. The disputed words in the 2nd Disputed Email are set out in Annex B1 of this judgment. The disputed meanings are set out in Annex B2 of this judgment.
+12     On 21 November 2017, SA sent a second email to Raja Khabir of the National Heritage Board (“NHB”) (“the 2nd Disputed Email”).[^3] SA copied two other persons at NHB and Quantum on this email. The disputed words in the 2nd Disputed Email are set out in Annex B1 of this judgment. The disputed meanings are set out in Annex B2 of this judgment.
 
 ### Quantum’s request for SA to cease and desist in sending emails
 
-13     On 1 December 2017, Quantum’s lawyers sent an email attaching a letter of demand to SA. The letter stated that the 1st and 2nd Disputed Emails contained defamatory allegations against Quantum. The letter demanded, _inter alia_, that SA immediately cease making defamatory comments against Quantum, make an apology and an undertaking to Quantum on Quantum’s terms, and pay Quantum damages and costs.[\[note: 4\]](#Ftn_4)
+13     On 1 December 2017, Quantum’s lawyers sent an email attaching a letter of demand to SA. The letter stated that the 1st and 2nd Disputed Emails contained defamatory allegations against Quantum. The letter demanded, _inter alia_, that SA immediately cease making defamatory comments against Quantum, make an apology and an undertaking to Quantum on Quantum’s terms, and pay Quantum damages and costs.[^4]
 
-14     On 3 December 2017, SA replied to Quantum’s lawyers. He said that whatever he wrote to ITE and NHB was true. He referred to a letter dated 2 September 2017 which he had apparently written. He expressed unhappiness over the settlement of the 1st Suit which he had settled because he could not afford legal expenses. He said that he had left Singapore and gone back to India. He could not work on any of Quantum’s existing projects but the settlement did not stop him from getting justice for losses and damages. He complained that Quantum had acted unfairly in not using him for Equinix Singapore projects in 2015. He would continue to write to other authorities about Quantum.[\[note: 5\]](#Ftn_5)
+14     On 3 December 2017, SA replied to Quantum’s lawyers. He said that whatever he wrote to ITE and NHB was true. He referred to a letter dated 2 September 2017 which he had apparently written. He expressed unhappiness over the settlement of the 1st Suit which he had settled because he could not afford legal expenses. He said that he had left Singapore and gone back to India. He could not work on any of Quantum’s existing projects but the settlement did not stop him from getting justice for losses and damages. He complained that Quantum had acted unfairly in not using him for Equinix Singapore projects in 2015. He would continue to write to other authorities about Quantum.[^5]
 
-15     On 4 December 2017, SA sent another email to Quantum. He said the withdrawal of the 1st Suit was not a favour to him. He complained about being denied involvement in Equinix Singapore projects. He said he would write to Equinix USA, the parent company of Equinix Singapore, about a tender for BMS by Equinix Singapore. He would continue to write to all authorities about “Quantum’s unfair employment policy, technical facts and monopoly businesses”.[\[note: 6\]](#Ftn_6)
+15     On 4 December 2017, SA sent another email to Quantum. He said the withdrawal of the 1st Suit was not a favour to him. He complained about being denied involvement in Equinix Singapore projects. He said he would write to Equinix USA, the parent company of Equinix Singapore, about a tender for BMS by Equinix Singapore. He would continue to write to all authorities about “Quantum’s unfair employment policy, technical facts and monopoly businesses”.[^6]
 
-16     On 7 December 2017, SA sent yet another email to Quantum’s lawyers. He reiterated that he would continue to write to all authorities about “Quantum’s unfair employment contracts, technical deficiencies \[and\] monopoly business policies” until Quantum remedied his losses and damages and those of Quantum’s customers.[\[note: 7\]](#Ftn_7)
+16     On 7 December 2017, SA sent yet another email to Quantum’s lawyers. He reiterated that he would continue to write to all authorities about “Quantum’s unfair employment contracts, technical deficiencies \[and\] monopoly business policies” until Quantum remedied his losses and damages and those of Quantum’s customers.[^7]
 
 ### The 3rd Disputed Email
 
@@ -172,7 +173,7 @@ See Gary Chan Kok Yew & Lee Pey Woan, _The Law of Torts in Singapore_ (Academy P
 
 (f)    the ordinary reasonable reader will take note of the circumstances and manner of the publication.
 
-49     The main thrust of SA’s submission was that he was only making complaints to government bodies and hence there could not be any defamation. If his emails could constitute defamation, that would prevent anyone from making a complaint to such bodies.[\[note: 8\]](#Ftn_8)
+49     The main thrust of SA’s submission was that he was only making complaints to government bodies and hence there could not be any defamation. If his emails could constitute defamation, that would prevent anyone from making a complaint to such bodies.[^8]
 
 50     In my view, SA had confused different aspects of the case. A person may make a complaint whether to a government body or to a private body. However, his complaint may defame another person who is the subject of the complaint. In other words, defamation may occur even though it is part of a complaint. This does not mean that no one will dare to make a complaint. It means that a complainant has to be careful when he makes a complaint. If his complaint may defame an individual or some other entity, he has to be ready to defend himself if the need arises. There are various possible defences, _eg_, justification, qualified privilege and fair comment.
 
@@ -210,7 +211,7 @@ See Gary Chan Kok Yew & Lee Pey Woan, _The Law of Torts in Singapore_ (Academy P
 
 (d)     Quantum habitually charged its customers a high fee.
 
-58     In so far as Quantum alleged that the disputed words meant that Quantum is dishonourable in its conduct and ethics to customers, competitors and employees,[\[note: 9\]](#Ftn_9) this is already covered in \[57(b)\] and \[57(c)\] above.
+58     In so far as Quantum alleged that the disputed words meant that Quantum is dishonourable in its conduct and ethics to customers, competitors and employees,[^9] this is already covered in \[57(b)\] and \[57(c)\] above.
 
 59     With regard to the 3rd Disputed Email, I find that the disputed words did refer to the Environment Building, where Quantum had installed BMS, and have the following meanings:
 
@@ -218,9 +219,9 @@ See Gary Chan Kok Yew & Lee Pey Woan, _The Law of Torts in Singapore_ (Academy P
 
 (b)     Quantum had deliberately instructed its lawyers to send SA a letter of demand with the result that he was distracted from discussing the failures of Quantum’s BMS at a meeting with MEWR, and hence, Quantum did not account for the failures at the meeting.
 
-60     I do not find that the disputed words meant that Quantum had over-declared its profits, as alleged by Quantum.[\[note: 10\]](#Ftn_10) SA was not complaining that Quantum’s profit was in fact low and that Quantum was inflating its profits figures. Instead, SA was complaining that Quantum was making excessive profits. This is different from saying that Quantum’s profit was lower than that disclosed by Quantum.
+60     I do not find that the disputed words meant that Quantum had over-declared its profits, as alleged by Quantum.[^10] SA was not complaining that Quantum’s profit was in fact low and that Quantum was inflating its profits figures. Instead, SA was complaining that Quantum was making excessive profits. This is different from saying that Quantum’s profit was lower than that disclosed by Quantum.
 
-61     The other disputed meanings alleged by Quantum[\[note: 11\]](#Ftn_11) overlap with those stated in \[59(a)\] and \[59(b)\] above.
+61     The other disputed meanings alleged by Quantum[^11] overlap with those stated in \[59(a)\] and \[59(b)\] above.
 
 62     Quite clearly, the meanings I have found in respect of the disputed words which Quantum complained of from the disputed emails would lower Quantum in the estimation of right-thinking members of society generally and were defamatory of Quantum.
 
@@ -228,7 +229,7 @@ See Gary Chan Kok Yew & Lee Pey Woan, _The Law of Torts in Singapore_ (Academy P
 
 ### Whether SA acted maliciously
 
-64     Quantum also alleged that SA acted maliciously in sending the disputed emails. He had sent them after he knew the 1st Suit against him had been discontinued. He copied Quantum on the disputed emails so that Quantum would be aware of his conduct. He clearly indicated that he would continue with his tirade until Quantum compensated him for his alleged loss and damage. He had also threatened to send more emails to others.[\[note: 12\]](#Ftn_12)
+64     Quantum also alleged that SA acted maliciously in sending the disputed emails. He had sent them after he knew the 1st Suit against him had been discontinued. He copied Quantum on the disputed emails so that Quantum would be aware of his conduct. He clearly indicated that he would continue with his tirade until Quantum compensated him for his alleged loss and damage. He had also threatened to send more emails to others.[^12]
 
 65     Although malice might be relevant to a defence of fair comment, no such defence was raised by SA. In any event, I will make a finding on the question of malice as it will be relevant later to the quantum of damages to be assessed.
 
@@ -252,7 +253,7 @@ See Gary Chan Kok Yew & Lee Pey Woan, _The Law of Torts in Singapore_ (Academy P
 
 74     The next question is whether the court should order an injunction against SA.
 
-75     Quantum relied on _Lee Hsien Loong v Roy Ngerng Yi Ling_ (“_Roy Ngerng_”) at \[55\] to submit that an injunction should be granted against SA because there was reason to believe SA may further publish defamatory words of Quantum. Quantum submitted that after the 2nd Suit was commenced, SA sent three more emails to Equinix and three emails to employees of Duke-NUS, a tertiary institution. These emails were said to be also defamatory of Quantum.[\[note: 13\]](#Ftn_13)
+75     Quantum relied on _Lee Hsien Loong v Roy Ngerng Yi Ling_ (“_Roy Ngerng_”) at \[55\] to submit that an injunction should be granted against SA because there was reason to believe SA may further publish defamatory words of Quantum. Quantum submitted that after the 2nd Suit was commenced, SA sent three more emails to Equinix and three emails to employees of Duke-NUS, a tertiary institution. These emails were said to be also defamatory of Quantum.[^13]
 
 76     On the other hand, as mentioned, SA said he had stopped sending emails about Quantum’s BMS. The High Court in _Roy Ngerng_ gave little weight to this factor, given that the defendant in that case had previously taken deliberate steps to conceal his actions and to leave his defamatory statements on the Internet (see _Roy Ngerng_ at \[58\]). Here, however, SA did not conceal his emails to others. Indeed, he even copied Quantum on the disputed emails.
 
@@ -398,31 +399,31 @@ The disputed meanings in the 3rd Disputed Email as pleaded in the SOC
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)Toh’s AEIC at paras 3–11.
+[^1]: Toh’s AEIC at paras 3–11.
 
-[\[note: 2\]](#Ftn_2_1)Toh’s AEIC at p 29.
+[^2]: Toh’s AEIC at p 29.
 
-[\[note: 3\]](#Ftn_3_1)Toh’s AEIC at p 31.
+[^3]: Toh’s AEIC at p 31.
 
-[\[note: 4\]](#Ftn_4_1)Toh’s AEIC at pp 37–38.
+[^4]: Toh’s AEIC at pp 37–38.
 
-[\[note: 5\]](#Ftn_5_1)Toh’s AEIC at p 39.
+[^5]: Toh’s AEIC at p 39.
 
-[\[note: 6\]](#Ftn_6_1)Toh’s AEIC at p 40.
+[^6]: Toh’s AEIC at p 40.
 
-[\[note: 7\]](#Ftn_7_1)Toh’s AEIC at p 41.
+[^7]: Toh’s AEIC at p 41.
 
-[\[note: 8\]](#Ftn_8_1)SA’s Opening Statement at paras 33–41.
+[^8]: SA’s Opening Statement at paras 33–41.
 
-[\[note: 9\]](#Ftn_9_1)Annex B2 at para 6.
+[^9]: Annex B2 at para 6.
 
-[\[note: 10\]](#Ftn_10_1)Annex C2 at para 1.
+[^10]: Annex C2 at para 1.
 
-[\[note: 11\]](#Ftn_11_1)See Annex C2.
+[^11]: See Annex C2.
 
-[\[note: 12\]](#Ftn_12_1)Quantum’s Opening Statement at paras 27–31.
+[^12]: Quantum’s Opening Statement at paras 27–31.
 
-[\[note: 13\]](#Ftn_13_1)Quantum’s Opening Statement at paras 32–38.
+[^13]: Quantum’s Opening Statement at paras 32–38.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F22816-SSP.xml)

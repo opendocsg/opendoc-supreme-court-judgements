@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # UTJ _v_ UTK  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Divorce (Transferred) No 5269 of 2011</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">07 March 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court (Family Division)</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Tan Puay Boon JC</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Sivanathan Wijaya Ravana (R S Wijaya &amp; Co) for the Plaintiff; Kee Lay Lian and Ada Chua (Rajah &amp; Tann Singapore LLP) for the Defendant.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">UTJ — UTK</td></tr></tbody></table>
@@ -16,13 +17,13 @@ Family Law – Divorce – Ancillary Matters – Division of matrimonial a
 
 ## Background of the Parties
 
-3       The Husband is a director at a company which is in the business of printing and publishing. The Wife used to be a primary school teacher until her retirement in June 2004.[\[note: 1\]](#Ftn_1)
+3       The Husband is a director at a company which is in the business of printing and publishing. The Wife used to be a primary school teacher until her retirement in June 2004.[^1]
 
-4       The Parties were engaged to be married in 1969. However, due to certain events which interrupted the Husband’s life from September 1970 to December 1973, the Parties were only married in Singapore in 1974.[\[note: 2\]](#Ftn_2) The Son was born in 1975, and he was looked after by the Wife’s mother until 1989.[\[note: 3\]](#Ftn_3)
+4       The Parties were engaged to be married in 1969. However, due to certain events which interrupted the Husband’s life from September 1970 to December 1973, the Parties were only married in Singapore in 1974.[^2] The Son was born in 1975, and he was looked after by the Wife’s mother until 1989.[^3]
 
 5       The Parties purchased as their first matrimonial home a Housing & Development Board flat located in the Whampoa area. The sale proceeds from the first matrimonial home went into the purchase in 1989 of the current matrimonial home at Jalan J (“the Jalan J Property”).
 
-6       Sometime in 1978, cracks in the marriage started appearing,[\[note: 4\]](#Ftn_4) resulting in Parties having separate bedrooms in their matrimonial homes at different times, for a total of 16 years.[\[note: 5\]](#Ftn_5) For example, on 11 December 1999, the Husband moved out of the Parties’ bedroom at the Jalan J Property.[\[note: 6\]](#Ftn_6) In August 2003, the Parties moved to the Son’s matrimonial home at Jalan B (“the Jalan B Property”) so that the Parties could rent out their matrimonial home.[\[note: 7\]](#Ftn_7) However, in May 2005, the Husband moved back to their matrimonial home and stayed there during the weekdays and spent weekends at the Jalan B Property.[\[note: 8\]](#Ftn_8) In December 2010, the Wife decided to end the marriage,[\[note: 9\]](#Ftn_9) and filed for divorce in November 2011. Presently, the Wife lives with the Son at the Jalan B Property and the Husband lives at the Jalan J Property.
+6       Sometime in 1978, cracks in the marriage started appearing,[^4] resulting in Parties having separate bedrooms in their matrimonial homes at different times, for a total of 16 years.[^5] For example, on 11 December 1999, the Husband moved out of the Parties’ bedroom at the Jalan J Property.[^6] In August 2003, the Parties moved to the Son’s matrimonial home at Jalan B (“the Jalan B Property”) so that the Parties could rent out their matrimonial home.[^7] However, in May 2005, the Husband moved back to their matrimonial home and stayed there during the weekdays and spent weekends at the Jalan B Property.[^8] In December 2010, the Wife decided to end the marriage,[^9] and filed for divorce in November 2011. Presently, the Wife lives with the Son at the Jalan B Property and the Husband lives at the Jalan J Property.
 
 7       Following the Wife’s application on 15 July 2015 for interim maintenance of $4,000 per month, the High Court, on appeal, ordered the Husband to pay her $2,000 per month backdated to commence from 1 August 2015.
 
@@ -44,7 +45,7 @@ Family Law – Divorce – Ancillary Matters – Division of matrimonial a
 
 #### Identification and Assessment of the matrimonial assets
 
-13     I deal first with the identification of the matrimonial assets and the assessment of their net values. Parties are agreed that subject to the updates of the valuations of two Singapore properties, _viz_ the Jalan J Property and the Jalan B Property, the assessments of the matrimonial assets will be based on valuations produced around 2015, when Interim Judgment was granted.[\[note: 10\]](#Ftn_10)
+13     I deal first with the identification of the matrimonial assets and the assessment of their net values. Parties are agreed that subject to the updates of the valuations of two Singapore properties, _viz_ the Jalan J Property and the Jalan B Property, the assessments of the matrimonial assets will be based on valuations produced around 2015, when Interim Judgment was granted.[^10]
 
 ### Agreed Assets
 
@@ -86,45 +87,45 @@ I will deal with these in turn.
 
 #### POSB Bank Account No ending with 8107
 
-18     The Parties agreed that the money in this account formed part of the pool of matrimonial assets but could not agree on the amount to be included. The Husband submitted that it was $51.21, while the Wife submitted that it was $260.75.[\[note: 12\]](#Ftn_12) Since the Wife acknowledged that there were no transactions in the account after 31 December 2016,[\[note: 13\]](#Ftn_13) I will take the value of $51.21, which was the account balance on that date, being the value closest to the date of the ancillary matters hearing. As the Court of Appeal in _Yeo Chong Lin v Tay Ang Choo Nancy_ held at \[39\], once an asset “is regarded as a matrimonial asset to be divided, then for the purposes of determining its value, it must be assessed as at the date of the hearing”. This approach has also been endorsed by the Court of Appeal in _TND v TNC_ (“_TND v TNC_”). While not a hard and fast rule (see _TDT v TDS_ ), a departure has to be justified on the facts (see _TND v TNC_ at \[22\] – \[23\]). There is none in the present case to suggest that the value of $260.75 should be used instead.
+18     The Parties agreed that the money in this account formed part of the pool of matrimonial assets but could not agree on the amount to be included. The Husband submitted that it was $51.21, while the Wife submitted that it was $260.75.[^12] Since the Wife acknowledged that there were no transactions in the account after 31 December 2016,[^13] I will take the value of $51.21, which was the account balance on that date, being the value closest to the date of the ancillary matters hearing. As the Court of Appeal in _Yeo Chong Lin v Tay Ang Choo Nancy_ held at \[39\], once an asset “is regarded as a matrimonial asset to be divided, then for the purposes of determining its value, it must be assessed as at the date of the hearing”. This approach has also been endorsed by the Court of Appeal in _TND v TNC_ (“_TND v TNC_”). While not a hard and fast rule (see _TDT v TDS_ ), a departure has to be justified on the facts (see _TND v TNC_ at \[22\] – \[23\]). There is none in the present case to suggest that the value of $260.75 should be used instead.
 
 ### Assets jointly owned by Wife and the Son
 
 #### Jalan B Property
 
-19     The Parties had agreed that the Jalan B Property formed part of the matrimonial assets but could not agree on the valuation. The Husband submitted that as this property was held by the Wife and the Son as joint tenants,[\[note: 14\]](#Ftn_14) she should only be entitled to half of his valuation of $4,170,000, _ie_, $2,085,000.[\[note: 15\]](#Ftn_15) The Wife on the other hand submitted that the full amount of her valuation of $4,170,000 should be taken,[\[note: 16\]](#Ftn_16) although she submitted during the hearing that it was her half share that was to be divided.[\[note: 17\]](#Ftn_17) As both valuation reports were prepared some three years ago, I ordered the Jalan B Property to be revalued. The same court appointed valuer valued it at $4,200,000 as at 28 June 2018, and I adopt this as the valuation of the Jalan B Property. Since the Wife and the Son are joint tenants of this property, in the absence of any evidence of what their respective beneficial interests are, I take each of them to hold a half share in the property. I will therefore use $2,100,000 as the value of the half share of the Jalan B Property that is part of the matrimonial assets.
+19     The Parties had agreed that the Jalan B Property formed part of the matrimonial assets but could not agree on the valuation. The Husband submitted that as this property was held by the Wife and the Son as joint tenants,[^14] she should only be entitled to half of his valuation of $4,170,000, _ie_, $2,085,000.[^15] The Wife on the other hand submitted that the full amount of her valuation of $4,170,000 should be taken,[^16] although she submitted during the hearing that it was her half share that was to be divided.[^17] As both valuation reports were prepared some three years ago, I ordered the Jalan B Property to be revalued. The same court appointed valuer valued it at $4,200,000 as at 28 June 2018, and I adopt this as the valuation of the Jalan B Property. Since the Wife and the Son are joint tenants of this property, in the absence of any evidence of what their respective beneficial interests are, I take each of them to hold a half share in the property. I will therefore use $2,100,000 as the value of the half share of the Jalan B Property that is part of the matrimonial assets.
 
 ### Assets owned by the Wife
 
-#### AIA Dollars for Life (CPF MSS) Policy No ending with 7018[\[note: 18\]](#Ftn_18)
+#### AIA Dollars for Life (CPF MSS) Policy No ending with 7018[^18]
 
-20     The Parties agreed that this policy formed part of the pool of matrimonial assets but could not agree on the value of the AIA Dollars for Life account under which the Wife receives a monthly annuity payment of $376.84 for life. The Husband submitted that the value should be $30,402.92 after taking into consideration the last monthly pay out of $376.84 made on 18 September 2017.[\[note: 19\]](#Ftn_19) The Husband’s value was derived from deducting $42,206.08, the total of the amounts withdrawn (up until 18 September 2017), from the premium sum of $72,609.00. The Wife on the other hand submitted that the value should be $33,417.64, but did not provide any such calculation or information on the date on which the value was calculated. Given those circumstances, I found it fair to adopt the Husband’s value of $30,402.92.
+20     The Parties agreed that this policy formed part of the pool of matrimonial assets but could not agree on the value of the AIA Dollars for Life account under which the Wife receives a monthly annuity payment of $376.84 for life. The Husband submitted that the value should be $30,402.92 after taking into consideration the last monthly pay out of $376.84 made on 18 September 2017.[^19] The Husband’s value was derived from deducting $42,206.08, the total of the amounts withdrawn (up until 18 September 2017), from the premium sum of $72,609.00. The Wife on the other hand submitted that the value should be $33,417.64, but did not provide any such calculation or information on the date on which the value was calculated. Given those circumstances, I found it fair to adopt the Husband’s value of $30,402.92.
 
 #### Jewellery given by the Husband
 
-21     Parties were agreed that the jewellery given by the Husband to the Wife formed part of the matrimonial assets. The Husband did not exhibit any documentary evidence such as receipts to show the values of the gifts, but merely stated estimated values which totalled $50,800.[\[note: 20\]](#Ftn_20) However, the Wife disputed the Husband’s valuation and had marked the value of the jewellery as “Not Known” in the Joint Summary of Relevant Information.[\[note: 21\]](#Ftn_21) While one who asserts the fact bears the burden of proving the fact exists, I do not think it would be equitable to just assign no value to the 29 items of jewellery which include the wedding gold Thali and chain, two Rolex gold watches, and many gold items. I would therefore use $30,620 (the same amount that was accepted as the value of the Wife’s 23 items of jewellery) as their value.
+21     Parties were agreed that the jewellery given by the Husband to the Wife formed part of the matrimonial assets. The Husband did not exhibit any documentary evidence such as receipts to show the values of the gifts, but merely stated estimated values which totalled $50,800.[^20] However, the Wife disputed the Husband’s valuation and had marked the value of the jewellery as “Not Known” in the Joint Summary of Relevant Information.[^21] While one who asserts the fact bears the burden of proving the fact exists, I do not think it would be equitable to just assign no value to the 29 items of jewellery which include the wedding gold Thali and chain, two Rolex gold watches, and many gold items. I would therefore use $30,620 (the same amount that was accepted as the value of the Wife’s 23 items of jewellery) as their value.
 
 #### Retirement Gratuities
 
 22     The Wife received $634,148.08 on 30 June 2004 when she retired as a teacher. This was an agreed valuation, but the Parties disputed whether this sum ought to be added to the pool of matrimonial assets.
 
-23     The Wife submitted an itemised table to show how the sum of $628,176.24 was spent from 30 June 2004 to July 2015.[\[note: 22\]](#Ftn_22) Essentially, her point was that the sums had been expended prior to the date of the divorce proceedings. The Husband submitted that the Wife made large lump sum withdrawals from the retirement gratuities over the years and highlighted the Wife’s feeble response of not recalling the details of what these large lump sum withdrawals were for.[\[note: 23\]](#Ftn_23) The Husband also submitted that since he had been giving the Wife monthly maintenance of $2,000 until December 2011, the amounts which the Wife spent from her retirement gratuities were not credible.[\[note: 24\]](#Ftn_24)
+23     The Wife submitted an itemised table to show how the sum of $628,176.24 was spent from 30 June 2004 to July 2015.[^22] Essentially, her point was that the sums had been expended prior to the date of the divorce proceedings. The Husband submitted that the Wife made large lump sum withdrawals from the retirement gratuities over the years and highlighted the Wife’s feeble response of not recalling the details of what these large lump sum withdrawals were for.[^23] The Husband also submitted that since he had been giving the Wife monthly maintenance of $2,000 until December 2011, the amounts which the Wife spent from her retirement gratuities were not credible.[^24]
 
 24     Some of the items in the Wife’s table were not supported by documentary evidence. Where the Wife had exhibited documentary evidence, certain of the documents were not readable or were without any explanation on what they were. Hence, I will not take them into consideration.
 
-25     After reviewing all documents exhibited by the Wife, I note that only approximately $475,995 out of the $634,148.08 has been accounted for in the exhibits. A large proportion of the items listed consisted of household expenses which the Wife incurred on a daily basis. Given that the Husband has been providing the Wife a monthly maintenance of $2,000 since 1999[\[note: 25\]](#Ftn_25) until December 2011, it is not reasonable to find that the entire sum of $475,995 was paid entirely out of the Wife’s retirement gratuities. The Husband would have contributed a total of $180,000 (being $2,000 x 90) from June 2004 to December 2011.
+25     After reviewing all documents exhibited by the Wife, I note that only approximately $475,995 out of the $634,148.08 has been accounted for in the exhibits. A large proportion of the items listed consisted of household expenses which the Wife incurred on a daily basis. Given that the Husband has been providing the Wife a monthly maintenance of $2,000 since 1999[^25] until December 2011, it is not reasonable to find that the entire sum of $475,995 was paid entirely out of the Wife’s retirement gratuities. The Husband would have contributed a total of $180,000 (being $2,000 x 90) from June 2004 to December 2011.
 
 26     In light of the above, I find that the amount of $295,995 (being $475,995 minus the $180,000 contributed by the Husband) was spent by the Wife from the retirement gratuities. I therefore add $338,153.08 (being $634,148.08 - $295,995.00) from the retirement gratuities into the pool of matrimonial assets.
 
 #### Sale proceeds of shares
 
-27     Parties agreed that the valuation of this item is $110,485.03. However, the Wife disputed that this item should be added to the pool of matrimonial assets. The Wife submitted that the sale proceeds of the shares should be considered together with her retirement gratuities, where the breakdown on how it was spent has been disclosed together with how the retirement gratuities was spent.[\[note: 26\]](#Ftn_26) The Wife further submitted that the Court should consider the purchase price of the shares and the price at which the shares were sold, as it would show that the Wife suffered losses of $114,894.20 instead.[\[note: 27\]](#Ftn_27) In contrast, the Husband submitted that shares were purchased during the marriage and sold shortly after divorce proceedings were commenced, and the amount of $110,485.03 was received.[\[note: 28\]](#Ftn_28) The Husband also submitted that although the Wife alleged that the sale proceeds went into POSB account ending with 3798,[\[note: 29\]](#Ftn_29) the balance in that account is only $7,954.06. Therefore, the Husband submitted that the Wife had not properly accounted for the sum of $110,485.03.[\[note: 30\]](#Ftn_30)
+27     Parties agreed that the valuation of this item is $110,485.03. However, the Wife disputed that this item should be added to the pool of matrimonial assets. The Wife submitted that the sale proceeds of the shares should be considered together with her retirement gratuities, where the breakdown on how it was spent has been disclosed together with how the retirement gratuities was spent.[^26] The Wife further submitted that the Court should consider the purchase price of the shares and the price at which the shares were sold, as it would show that the Wife suffered losses of $114,894.20 instead.[^27] In contrast, the Husband submitted that shares were purchased during the marriage and sold shortly after divorce proceedings were commenced, and the amount of $110,485.03 was received.[^28] The Husband also submitted that although the Wife alleged that the sale proceeds went into POSB account ending with 3798,[^29] the balance in that account is only $7,954.06. Therefore, the Husband submitted that the Wife had not properly accounted for the sum of $110,485.03.[^30]
 
-28     Based on the evidence produced by both Parties, I find that the Wife did not adequately explain where the sale proceeds of the shares went, and these should be returned to the pool of matrimonial assets. Except for the Allgreen shares that were disposed of for $11,134.39 on 31 May 2011, all the shares were disposed of by the Wife after the writ was filed in November 2011.[\[note: 31\]](#Ftn_31) In _TNL v TNK_ (“_TNL v TNK_”), the Court of Appeal held at \[24\] that when divorce proceedings are imminent, substantial expenditures incurred by one spouse, whether by gift or otherwise, without the consent of the other spouse should be returned to the asset pool. This is regardless of whether the expenditure was a deliberate attempt to dissipate matrimonial assets or for the benefit of children. Here, the shares were disposed of by the Wife shortly before or soon after the writ was filed, and no adequate explanation was provided on where the sale proceeds went. Accordingly, the amount of $110,485.03 will be added into the pool of matrimonial assets. In so deciding, I do not accept the Wife’s submission that this amount should not be included in the pool of matrimonial assets because she had suffered a loss upon the sale of the shares. This is because it is the current value of the asset, as represented by sale price, that has to be divided. If the Wife is correct, then any asset that has depreciated in value would never be available for division, irrespective of the current value. By way of illustration, if the value of the only asset of a divorcing couple that was purchased for $2 million has dropped to $1 million, it would not be included in the pool of matrimonial assets for division, and will be retained by the spouse in whose name it belongs. This would not be correct.
+28     Based on the evidence produced by both Parties, I find that the Wife did not adequately explain where the sale proceeds of the shares went, and these should be returned to the pool of matrimonial assets. Except for the Allgreen shares that were disposed of for $11,134.39 on 31 May 2011, all the shares were disposed of by the Wife after the writ was filed in November 2011.[^31] In _TNL v TNK_ (“_TNL v TNK_”), the Court of Appeal held at \[24\] that when divorce proceedings are imminent, substantial expenditures incurred by one spouse, whether by gift or otherwise, without the consent of the other spouse should be returned to the asset pool. This is regardless of whether the expenditure was a deliberate attempt to dissipate matrimonial assets or for the benefit of children. Here, the shares were disposed of by the Wife shortly before or soon after the writ was filed, and no adequate explanation was provided on where the sale proceeds went. Accordingly, the amount of $110,485.03 will be added into the pool of matrimonial assets. In so deciding, I do not accept the Wife’s submission that this amount should not be included in the pool of matrimonial assets because she had suffered a loss upon the sale of the shares. This is because it is the current value of the asset, as represented by sale price, that has to be divided. If the Wife is correct, then any asset that has depreciated in value would never be available for division, irrespective of the current value. By way of illustration, if the value of the only asset of a divorcing couple that was purchased for $2 million has dropped to $1 million, it would not be included in the pool of matrimonial assets for division, and will be retained by the spouse in whose name it belongs. This would not be correct.
 
 #### Gold bars and souvenir coins
 
-29     The Husband submitted that he had left some gold bars and souvenir coins in his room in the Jalan B Property before he moved out but has since been unable to find them. Thus, the Husband alleged that the Wife took them.[\[note: 32\]](#Ftn_32) He has valued these items at $560,000. The Wife submitted that the Husband’s allegation was not supported by any documentary evidence hence it should be disregarded.[\[note: 33\]](#Ftn_33) I agree with the Wife’s submissions as there was no documentary evidence, not even photos of the alleged gold bars and souvenir coins. Moreover, the Wife was not the only person who had access to the Jalan B Property.[\[note: 34\]](#Ftn_34) I will therefore not include the alleged gold bars and souvenir coins in the pool of matrimonial assets.
+29     The Husband submitted that he had left some gold bars and souvenir coins in his room in the Jalan B Property before he moved out but has since been unable to find them. Thus, the Husband alleged that the Wife took them.[^32] He has valued these items at $560,000. The Wife submitted that the Husband’s allegation was not supported by any documentary evidence hence it should be disregarded.[^33] I agree with the Wife’s submissions as there was no documentary evidence, not even photos of the alleged gold bars and souvenir coins. Moreover, the Wife was not the only person who had access to the Jalan B Property.[^34] I will therefore not include the alleged gold bars and souvenir coins in the pool of matrimonial assets.
 
 ### Assets owned by the Husband
 
@@ -144,25 +145,25 @@ I will deal with these in turn.
 
 57    In respect of \[56(d)\] above, the family justice court should only take Option 1 if both spouses agree to it, as this course could result in the disputed asset being treated as a matrimonial asset and adjustments being made in the division of other assets to account for its value when in separate proceedings later it may be determined that the third party was both the legal and the beneficial owner of the property and neither spouse had any interest in it at all …
 
-31     The Husband submitted that the Johore Property was purchased by him in April 2011[\[note: 35\]](#Ftn_35) with the intention of gifting it to the Son fully but was purchased in joint names with the Son for administrative purposes.[\[note: 36\]](#Ftn_36) The Husband further submitted that the Wife never contributed financially to the property and it thus should not be a matrimonial asset.[\[note: 37\]](#Ftn_37) The Wife submitted that the Husband’s purported intention of gifting the Johore Property to the Son has not been realised by any document, deed or agreement. Thus, the Husband may change his mind at any point after this ancillary matter hearing to not gift the property to the Son. Accordingly, the Wife submitted that this property should be deemed as a matrimonial asset.[\[note: 38\]](#Ftn_38)
+31     The Husband submitted that the Johore Property was purchased by him in April 2011[^35] with the intention of gifting it to the Son fully but was purchased in joint names with the Son for administrative purposes.[^36] The Husband further submitted that the Wife never contributed financially to the property and it thus should not be a matrimonial asset.[^37] The Wife submitted that the Husband’s purported intention of gifting the Johore Property to the Son has not been realised by any document, deed or agreement. Thus, the Husband may change his mind at any point after this ancillary matter hearing to not gift the property to the Son. Accordingly, the Wife submitted that this property should be deemed as a matrimonial asset.[^38]
 
 32     Section 112(10)(b) of the WC defines “matrimonial asset” as any other asset of any nature acquired during the marriage by one party or both parties to the marriage. Hence, the Johore Property may be considered a matrimonial asset even though the Wife did not contribute financially to the property.
 
-33     Applying _UDA v UDB_, the option in \[56(a)\] is not available because the Husband contested the Wife’s assertion, and Wife did not commence legal proceedings as contemplated in \[56(b)\]. Since the Wife did not want to drop the claim, the option in \[56(c)\] is also not viable. The option in \[56(d)\] is out as well as the Husband was not agreeable to it. Even though the Johore Property is held by the Husband and the Son as joint tenants,[\[note: 39\]](#Ftn_39) as the Johore Property was bought in April 2011, which was just before divorce proceedings commenced, I would treat the entire Johore Property as a matrimonial asset. I therefore add the agreed value of $636,527.04[\[note: 40\]](#Ftn_40) to the pool of matrimonial assets (see _TNL v TNK_, at \[24\]).
+33     Applying _UDA v UDB_, the option in \[56(a)\] is not available because the Husband contested the Wife’s assertion, and Wife did not commence legal proceedings as contemplated in \[56(b)\]. Since the Wife did not want to drop the claim, the option in \[56(c)\] is also not viable. The option in \[56(d)\] is out as well as the Husband was not agreeable to it. Even though the Johore Property is held by the Husband and the Son as joint tenants,[^39] as the Johore Property was bought in April 2011, which was just before divorce proceedings commenced, I would treat the entire Johore Property as a matrimonial asset. I therefore add the agreed value of $636,527.04[^40] to the pool of matrimonial assets (see _TNL v TNK_, at \[24\]).
 
 #### The Husband’s companies
 
 34     The Husband referred to _Ong Boon Huat Samuel v Chan Mei Lan Kristine_ (“_Ong Boon Huat Samuel v Chan Mei Lan Kristine_”) \[2007\] SLR(R) 729, where the Court of Appeal held that the court can exercise its discretionary power to exclude a property acquired during the marriage from the pool of matrimonial assets where there is good reason to do so (at \[25\] to \[26\]).
 
-35     The Husband submitted that the companies were fully acquired and managed by him and there was a complete lack of involvement of the Wife in them. She was also disinterested in them, and sought to distance herself from any liabilities resulting from the operation of the companies. When one of the companies was in need of financing during the recession in 2000, the Wife had refused to act as a guarantor so that he could obtain financing to sustain the company, stating that “in business anything can happen, and that was the recession period”.[\[note: 41\]](#Ftn_41) However, _Ong Boon Huat Samuel v Chan Mei Lan Kristine_ involved a property which was purchased at a time when the parties’ relationship had deteriorated and the wife also sought to enter into a deed of settlement disclaiming all responsibilities for its purchase (see “_TNC v TND_” , at \[36\]). I do not think the matters relied on by the Husband were sufficient to warrant the companies being excluded from the pool of matrimonial assets. It is not uncommon for spouses to divide their roles, with one concentrating on being the financial provider while the other concentrates on domestic matters. The refusal by the Wife to act as a guarantor was because she could not do so, being a civil servant.[\[note: 42\]](#Ftn_42) It can also be seen from the perspective of her preserving her financial status in case the companies did fail, so that the family could still depend on her income as a teacher. I therefore include the companies in the pool for division.
+35     The Husband submitted that the companies were fully acquired and managed by him and there was a complete lack of involvement of the Wife in them. She was also disinterested in them, and sought to distance herself from any liabilities resulting from the operation of the companies. When one of the companies was in need of financing during the recession in 2000, the Wife had refused to act as a guarantor so that he could obtain financing to sustain the company, stating that “in business anything can happen, and that was the recession period”.[^41] However, _Ong Boon Huat Samuel v Chan Mei Lan Kristine_ involved a property which was purchased at a time when the parties’ relationship had deteriorated and the wife also sought to enter into a deed of settlement disclaiming all responsibilities for its purchase (see “_TNC v TND_” , at \[36\]). I do not think the matters relied on by the Husband were sufficient to warrant the companies being excluded from the pool of matrimonial assets. It is not uncommon for spouses to divide their roles, with one concentrating on being the financial provider while the other concentrates on domestic matters. The refusal by the Wife to act as a guarantor was because she could not do so, being a civil servant.[^42] It can also be seen from the perspective of her preserving her financial status in case the companies did fail, so that the family could still depend on her income as a teacher. I therefore include the companies in the pool for division.
 
 #### Valuation of the Husband’s companies
 
-36     The Husband had applied for a court-appointed expert to value his companies. This was opposed by the Wife who had already appointed an expert while the Husband did not similarly do so. The Husband’s application was eventually granted, and a court-appointed expert (“the Court Expert”) was subsequently chosen and directed by the District Judge on 5 September 2016 to value the Husband’s shareholdings in the six companies as of 31 December 2016. There were no terms of reference ordered, but the scope of work was agreed between Parties.[\[note: 43\]](#Ftn_43)
+36     The Husband had applied for a court-appointed expert to value his companies. This was opposed by the Wife who had already appointed an expert while the Husband did not similarly do so. The Husband’s application was eventually granted, and a court-appointed expert (“the Court Expert”) was subsequently chosen and directed by the District Judge on 5 September 2016 to value the Husband’s shareholdings in the six companies as of 31 December 2016. There were no terms of reference ordered, but the scope of work was agreed between Parties.[^43]
 
 #### Company C
 
-37     One of the companies, Company C, owns a leasehold property in Singapore (“Company Property”). The Court Expert valued the Company Property at $6.4 million based on the reasons set out in the Independent Court Expert’s Valuation Report.[\[note: 44\]](#Ftn_44) The Wife disputed the Court Expert’s valuation of the Company Property and submitted that a higher figure of $8.5 million should be adopted instead. She said that the Court Expert considered three different methods of valuing the Company Property, the Direct Comparison Approach, the Market Approach and the Discounted Cash Flow Approach. While the Direct Comparison Approach would value the property at $8 million, the Market Approach would value it at $5.6 million and the Discounted Cash Flow Approach would value it at $5.6 million, the Court Expert valued the property at $6.4 million. The Wife submitted that this was an average valuation of the three valuations, and the Court Expert had no basis for doing so. She submitted that the value of the Company Property should instead be $8.5 million.[\[note: 45\]](#Ftn_45) This is because the Court Expert used a different valuation method from that used by the two other valuers earlier.[\[note: 46\]](#Ftn_46) If the value of the Company Property is accepted as $8.5 million, the value of the company would then be $13,612,922. The Husband disagreed with the Wife’s suggestion for the valuation of the Company Property and submitted that the Court Expert’s valuation of $11,506,014 should be used.[\[note: 47\]](#Ftn_47)
+37     One of the companies, Company C, owns a leasehold property in Singapore (“Company Property”). The Court Expert valued the Company Property at $6.4 million based on the reasons set out in the Independent Court Expert’s Valuation Report.[^44] The Wife disputed the Court Expert’s valuation of the Company Property and submitted that a higher figure of $8.5 million should be adopted instead. She said that the Court Expert considered three different methods of valuing the Company Property, the Direct Comparison Approach, the Market Approach and the Discounted Cash Flow Approach. While the Direct Comparison Approach would value the property at $8 million, the Market Approach would value it at $5.6 million and the Discounted Cash Flow Approach would value it at $5.6 million, the Court Expert valued the property at $6.4 million. The Wife submitted that this was an average valuation of the three valuations, and the Court Expert had no basis for doing so. She submitted that the value of the Company Property should instead be $8.5 million.[^45] This is because the Court Expert used a different valuation method from that used by the two other valuers earlier.[^46] If the value of the Company Property is accepted as $8.5 million, the value of the company would then be $13,612,922. The Husband disagreed with the Wife’s suggestion for the valuation of the Company Property and submitted that the Court Expert’s valuation of $11,506,014 should be used.[^47]
 
 38     In _NK v NL_ (“_NK v NL_ (2010)”), the Court of Appeal held at \[6\] that:
 
@@ -170,37 +171,37 @@ I will deal with these in turn.
 
 and further held at \[20\] that where there are legitimate differences of opinion between experts on the valuation, it would not warrant intervention by the court.
 
-39     I do not find that the Court Expert failed to act in accordance with his terms of reference, that his valuation was patently or manifestly in error or that the method used was wholly inappropriate for valuing shares of a private company. Indeed, the Wife acknowledged that she was not in a position to say that the Court Expert was completely wrong, but was asking the court to consider the various valuations and his reasons, and to come to its own view on the valuation. At the draft stage of his report, the Court Expert had also taken on board the views of the Wife’s expert where he agreed with them, but not others where he disagreed.[\[note: 48\]](#Ftn_48) Thus, there was no reason not to accept the Court Expert’s valuation. The Court Expert has explained in the report the reasons behind why and how he arrived at the valuation of the Company Property at $6.4 million,[\[note: 49\]](#Ftn_49) and how he treated the various cash advances the Husband made to the company. After reviewing the Court Expert’s reasons for arriving at the value of the Company Property at $6.4 million and how he valued the company, I find that the Court Expert has adequately explained how he arrived at the valuation and I agree with the Court Expert’s valuation. Accordingly, I accept the valuation of the Husband’s shareholdings in Company C to be the Court Expert’s valuation of $11,506,014, and add it to the pool of matrimonial assets.
+39     I do not find that the Court Expert failed to act in accordance with his terms of reference, that his valuation was patently or manifestly in error or that the method used was wholly inappropriate for valuing shares of a private company. Indeed, the Wife acknowledged that she was not in a position to say that the Court Expert was completely wrong, but was asking the court to consider the various valuations and his reasons, and to come to its own view on the valuation. At the draft stage of his report, the Court Expert had also taken on board the views of the Wife’s expert where he agreed with them, but not others where he disagreed.[^48] Thus, there was no reason not to accept the Court Expert’s valuation. The Court Expert has explained in the report the reasons behind why and how he arrived at the valuation of the Company Property at $6.4 million,[^49] and how he treated the various cash advances the Husband made to the company. After reviewing the Court Expert’s reasons for arriving at the value of the Company Property at $6.4 million and how he valued the company, I find that the Court Expert has adequately explained how he arrived at the valuation and I agree with the Court Expert’s valuation. Accordingly, I accept the valuation of the Husband’s shareholdings in Company C to be the Court Expert’s valuation of $11,506,014, and add it to the pool of matrimonial assets.
 
 #### Company D
 
-40     The Court Expert stated that the value of the Husband’s shares in Company D is $0. This was based on a duly executed share purchase agreement dated 19 July 2007 that showed that the Husband has sold his shares to a third party.[\[note: 50\]](#Ftn_50) However, the Court Expert also noted that there is an annual report filed by Company D dated 2 September 2015 which indicated that the Husband still holds 8,000 shares of the company.[\[note: 51\]](#Ftn_51)
+40     The Court Expert stated that the value of the Husband’s shares in Company D is $0. This was based on a duly executed share purchase agreement dated 19 July 2007 that showed that the Husband has sold his shares to a third party.[^50] However, the Court Expert also noted that there is an annual report filed by Company D dated 2 September 2015 which indicated that the Husband still holds 8,000 shares of the company.[^51]
 
-41     The Wife was of the view that the share purchase agreement is at odds with Company D’s annual return dated 2 September 2015, and submitted that the Husband’s claim that he had “forgot” about the sale of shares when the Husband made his first affidavit of assets and means could not be true.[\[note: 52\]](#Ftn_52)
+41     The Wife was of the view that the share purchase agreement is at odds with Company D’s annual return dated 2 September 2015, and submitted that the Husband’s claim that he had “forgot” about the sale of shares when the Husband made his first affidavit of assets and means could not be true.[^52]
 
 42     Having reviewed the evidence, I am inclined to agree with the Court Expert, as there is a duly executed share purchase agreement showing that all of the Husband’s shares in Company D has been sold. As the Husband is no longer a shareholder in the company, it is up to Company D to make the necessary arrangements to remove the Husband’s name from the company’s profile search and not for the Husband to ensure this was the case. I therefore exclude the shares in the company from the pool of matrimonial assets.
 
 #### Company E
 
-43     Company E was wound up by the Husband and he closed its bank account in or around January 2012. The account had AUD 553,836.19 at the time it was closed and the Husband transferred AUD500,000 to an account of a third party to hold on trust for Company E, and AUD53,836.19 to his personal bank account. There was a suit commenced in Australia for the AUD500,000 as the amount was frozen by a third party. The Court of Appeal of Victoria, Australia held that the AUD500,000 was for repayment of a loan owed to the third party and as such it did not form part of the assets of Company E. Accordingly, Company E did not have any assets at the time it was wound up.[\[note: 53\]](#Ftn_53)
+43     Company E was wound up by the Husband and he closed its bank account in or around January 2012. The account had AUD 553,836.19 at the time it was closed and the Husband transferred AUD500,000 to an account of a third party to hold on trust for Company E, and AUD53,836.19 to his personal bank account. There was a suit commenced in Australia for the AUD500,000 as the amount was frozen by a third party. The Court of Appeal of Victoria, Australia held that the AUD500,000 was for repayment of a loan owed to the third party and as such it did not form part of the assets of Company E. Accordingly, Company E did not have any assets at the time it was wound up.[^53]
 
-44     The Court Expert accepted the decision of the Court of Appeal of Victoria, Australia, and accordingly found that the Husband’s shares in Company E was not worth any value.[\[note: 54\]](#Ftn_54) I agree that the Court Expert was entitled to rely on the decision of a court which had adjudicated on the disputed sum, and therefore do not place any value on these shares when considering the pool of matrimonial assets.
+44     The Court Expert accepted the decision of the Court of Appeal of Victoria, Australia, and accordingly found that the Husband’s shares in Company E was not worth any value.[^54] I agree that the Court Expert was entitled to rely on the decision of a court which had adjudicated on the disputed sum, and therefore do not place any value on these shares when considering the pool of matrimonial assets.
 
 #### Motor Vehicle – Mercedes Benz
 
-45     The Husband had purchased the motor vehicle at a price of $322,888. While the Parties agreed that the motor vehicle is part of the pool of matrimonial assets, the Husband submitted that the value of the motor vehicle should be $197,888, being the price of the vehicle less the loan amount of $197,000.[\[note: 55\]](#Ftn_55) The Wife submitted that the amount should be $322,888,[\[note: 56\]](#Ftn_56) which was the price of the motor vehicle. I accept as a matter of principle that it is the net value of the motor vehicle that should be added to the pool of matrimonial assets. This is the current value of the motor vehicle less any outstanding loan. It is not clear how the documents provided by the Husband on the purchase of the motor vehicle are relevant for establishing the net value. They were on the proposed purchase of a bigger model in 2014, and the registration of a vehicle in 2006.[\[note: 57\]](#Ftn_57) Yet the current vehicle referred to in the Joint Summary of Relevant Information was acquired after the trade in of an earlier vehicle sometime on or before August 2016. However, it appears that the Wife has accepted that the price of the motor car to be the $322,888 provided by the husband. Given that the Husband is claiming a value of $197,888 and the Wife is claiming a value of $322,888, in the absence of other evidence, I am constrained to accept the lower amount of $197,888 as the net value, and accordingly add it to the pool of matrimonial assets.
+45     The Husband had purchased the motor vehicle at a price of $322,888. While the Parties agreed that the motor vehicle is part of the pool of matrimonial assets, the Husband submitted that the value of the motor vehicle should be $197,888, being the price of the vehicle less the loan amount of $197,000.[^55] The Wife submitted that the amount should be $322,888,[^56] which was the price of the motor vehicle. I accept as a matter of principle that it is the net value of the motor vehicle that should be added to the pool of matrimonial assets. This is the current value of the motor vehicle less any outstanding loan. It is not clear how the documents provided by the Husband on the purchase of the motor vehicle are relevant for establishing the net value. They were on the proposed purchase of a bigger model in 2014, and the registration of a vehicle in 2006.[^57] Yet the current vehicle referred to in the Joint Summary of Relevant Information was acquired after the trade in of an earlier vehicle sometime on or before August 2016. However, it appears that the Wife has accepted that the price of the motor car to be the $322,888 provided by the husband. Given that the Husband is claiming a value of $197,888 and the Wife is claiming a value of $322,888, in the absence of other evidence, I am constrained to accept the lower amount of $197,888 as the net value, and accordingly add it to the pool of matrimonial assets.
 
 #### London Property
 
-46     The Husband disputed that the London Property formed part of the pool of matrimonial assets. He submitted that he is holding the London Property on trust for his cousins. This is because it was meant to be a gift to the cousins when it was purchased in 1997 as his cousins were facing financial difficulties.[\[note: 58\]](#Ftn_58) The Husband also submitted that the reason why the legal title of the property still vests in his name is because his cousins wanted to avoid paying unnecessary stamp duty for the transfer.[\[note: 59\]](#Ftn_59) In support of his position, the Husband exhibited an affidavit from the cousins explaining that the beneficial interest of the London Property belonged to them.[\[note: 60\]](#Ftn_60) The Husband further submitted that as the Wife never contributed financially to the London Property, it should not be considered a matrimonial asset.[\[note: 61\]](#Ftn_61)
+46     The Husband disputed that the London Property formed part of the pool of matrimonial assets. He submitted that he is holding the London Property on trust for his cousins. This is because it was meant to be a gift to the cousins when it was purchased in 1997 as his cousins were facing financial difficulties.[^58] The Husband also submitted that the reason why the legal title of the property still vests in his name is because his cousins wanted to avoid paying unnecessary stamp duty for the transfer.[^59] In support of his position, the Husband exhibited an affidavit from the cousins explaining that the beneficial interest of the London Property belonged to them.[^60] The Husband further submitted that as the Wife never contributed financially to the London Property, it should not be considered a matrimonial asset.[^61]
 
-47     The Wife submitted that the trust arrangement should not be recognised as the Husband failed to produce any declaration of trust pursuant to s 53(1)(a) and (1)(b) of the English Law of Property Act 1925.[\[note: 62\]](#Ftn_62) She further submitted that the Husband did not have an actual intention to benefit the cousins as he had been using the London Property to house his employees who travelled to London for the past 15 years.[\[note: 63\]](#Ftn_63)
+47     The Wife submitted that the trust arrangement should not be recognised as the Husband failed to produce any declaration of trust pursuant to s 53(1)(a) and (1)(b) of the English Law of Property Act 1925.[^62] She further submitted that the Husband did not have an actual intention to benefit the cousins as he had been using the London Property to house his employees who travelled to London for the past 15 years.[^63]
 
-48     Although the cousins had filed an affidavit explaining that the beneficial interest in the London Property belonged to them, the evidence is hardly persuasive. The payments by them for utilities expenses and council tax are not inconsistent with them not having beneficial ownership of the property, as tenants also do make such payments. The other expenses were for minor renovations, the general upkeep of the property, purchase of furniture and appliances which added up to a relatively insignificant sum. If indeed the only obstacle holding the Husband back from transferring the property was to avoid incurring stamp fees, one would have expected the Husband to have done his calculations on the costs of such transfer. However, the Husband was unable to even submit on how much the stamp duty is payable for the transfer of the property now, or how much estate duty would have to be paid if his intention is to bequeath the property to the cousins upon his death,[\[note: 64\]](#Ftn_64) much less produce a deed of trust in favour of the cousins. I am not convinced that there is any trust intended to vest the beneficial interest of the London Property in the Husband’s cousins. I therefore include the London Property in the pool of matrimonial assets, and will use as its valuation $682,614.21, the equivalent of the estate agent’s valuation of £385,000 on 11 January 2016,[\[note: 65\]](#Ftn_65) instead of the purchase price of £111,500 in 1997 submitted by the Husband.[\[note: 66\]](#Ftn_66)
+48     Although the cousins had filed an affidavit explaining that the beneficial interest in the London Property belonged to them, the evidence is hardly persuasive. The payments by them for utilities expenses and council tax are not inconsistent with them not having beneficial ownership of the property, as tenants also do make such payments. The other expenses were for minor renovations, the general upkeep of the property, purchase of furniture and appliances which added up to a relatively insignificant sum. If indeed the only obstacle holding the Husband back from transferring the property was to avoid incurring stamp fees, one would have expected the Husband to have done his calculations on the costs of such transfer. However, the Husband was unable to even submit on how much the stamp duty is payable for the transfer of the property now, or how much estate duty would have to be paid if his intention is to bequeath the property to the cousins upon his death,[^64] much less produce a deed of trust in favour of the cousins. I am not convinced that there is any trust intended to vest the beneficial interest of the London Property in the Husband’s cousins. I therefore include the London Property in the pool of matrimonial assets, and will use as its valuation $682,614.21, the equivalent of the estate agent’s valuation of £385,000 on 11 January 2016,[^65] instead of the purchase price of £111,500 in 1997 submitted by the Husband.[^66]
 
 #### Sale Proceeds of Race Course Road Property
 
-49     The Husband had previously owned the Race Course Road Property which he bought in December 2006 for $1,350,000 and sold in February 2007 for $1,600,000. The Wife submitted that the net proceeds of sale should be included in the pool of matrimonial assets as the Husband was not able to provide any documentary evidence on where the money went. They should be treated in a like manner as what the Husband had submitted on how the proceeds of sale of her shares should be treated.[\[note: 67\]](#Ftn_67) The Husband submitted that since the net proceeds from the sale had been transferred to his bank accounts, to include the sale proceeds into the pool of matrimonial assets would amount to double- counting.[\[note: 68\]](#Ftn_68) As the Race Course Property had been sold in 2007, some four years before the divorce proceedings were filed, I accepted that the proceeds would have found their way into the Husband’s bank accounts and utilised since then. In contrast, the proceeds of sale of the Wife’s shares that were sold when the divorce was imminent or soon after it was filed had to be included (_TNL v TNK_ at \[24\]). I will therefore not include the sale proceeds of the Race Course Property into the pool of matrimonial assets.
+49     The Husband had previously owned the Race Course Road Property which he bought in December 2006 for $1,350,000 and sold in February 2007 for $1,600,000. The Wife submitted that the net proceeds of sale should be included in the pool of matrimonial assets as the Husband was not able to provide any documentary evidence on where the money went. They should be treated in a like manner as what the Husband had submitted on how the proceeds of sale of her shares should be treated.[^67] The Husband submitted that since the net proceeds from the sale had been transferred to his bank accounts, to include the sale proceeds into the pool of matrimonial assets would amount to double- counting.[^68] As the Race Course Property had been sold in 2007, some four years before the divorce proceedings were filed, I accepted that the proceeds would have found their way into the Husband’s bank accounts and utilised since then. In contrast, the proceeds of sale of the Wife’s shares that were sold when the divorce was imminent or soon after it was filed had to be included (_TNL v TNK_ at \[24\]). I will therefore not include the sale proceeds of the Race Course Property into the pool of matrimonial assets.
 
 50     In summary, for the assets that the Parties either disputed were matrimonial assets and/or disputed their values, I set out in the table below the values which the Wife and Husband submitted, and the values which the court has found:
 
@@ -220,7 +221,7 @@ and further held at \[20\] that where there are legitimate differences of opinio
 
 #### Methodology in ANJ v ANK
 
-52     Parties are agreed that the methodology in _ANJ v ANK_ (“_ANJ v ANK_”) should apply in the present case.[\[note: 69\]](#Ftn_69) There, the Court of Appeal laid out a structured approach for the division of matrimonial assets. That structured approach was succinctly summarised in _TIT v TIU_ (“_TIT v TIU_”) at \[21\] as follows:
+52     Parties are agreed that the methodology in _ANJ v ANK_ (“_ANJ v ANK_”) should apply in the present case.[^69] There, the Court of Appeal laid out a structured approach for the division of matrimonial assets. That structured approach was succinctly summarised in _TIT v TIU_ (“_TIT v TIU_”) at \[21\] as follows:
 
 (a)    express as a ratio the parties’ direct contributions relative to each other, having regard to the amount of financial contribution each party made towards the acquisition or improvement of the matrimonial assets (“Step 1”);
 
@@ -238,7 +239,7 @@ and further held at \[20\] that where there are legitimate differences of opinio
 
 40    Since the presence of different direct contributions to different assets has never stood in the way of a court dividing the matrimonial assets globally, there must be something more to indicate that the classification methodology may be the more suitable approach. In my view, assets can be separately divided if some are not wholly the gains of the co-operative partnership of efforts that the marriage represents. Professor Leong Wai Kum stated in Elements of Family Law in Singapore (LexisNexis, 2nd Ed, 2013) (“Elements”) at p 577 that “\[t\]he power to divide matrimonial assets is driven by the motive to share the gains of the marital partnership as fairly as possible between the former marital partners” \[emphasis added\]. In Professor Leong’s view, there is a meaningful distinction to be made between “quintessential matrimonial assets”, which are assets that wholly represent the gains of the marital partnership, and those which are not. She describes assets acquired during the marriage by the efforts of one or both parties as “quintessential” matrimonial assets (Elements at p 557).
 
-55     The Husband submitted that pursuant to the approach laid out in _TNC v TND_, the classification methodology would be appropriate for the Husband’s shareholdings in the six companies and his foreign properties.[\[note: 70\]](#Ftn_70) The Wife, in response to the Husband’s submissions, submitted that the global assessment method should be used.[\[note: 71\]](#Ftn_71) Amongst the reasons she provided in support was that the London and Johore Properties which the Husband claimed to be holding on trusts for others were not, in fact, trust properties. Given that there had been no substantive submissions on how the classification methodology is to be applied, particularly on how the other assets are to be classified and what the Parties’ direct contributions were in some of the assets like jewellery and cars, I found that there was little to no utility in applying the classification methodology. I have found that the London and Johore Properties were not trust properties, but belonged to the Husband. For his shareholding in the companies, the Wife has not claimed to make any direct contributions, so that dealing with them as a separate class would not have made any difference, as indirect contributions are applied across the board to all classes of assets in any event (see _AYQ v AYR_ , at \[22\] – \[24\]). Requesting for further submissions on the point would only draw out an already long fought legal battle. In the circumstances, I will adopt the global assessment methodology. I note that the Court of Appeal has observed in _NK v NL_ (2007) at \[35\] that in the vast majority of cases, “either approach would likely achieve the same result”.
+55     The Husband submitted that pursuant to the approach laid out in _TNC v TND_, the classification methodology would be appropriate for the Husband’s shareholdings in the six companies and his foreign properties.[^70] The Wife, in response to the Husband’s submissions, submitted that the global assessment method should be used.[^71] Amongst the reasons she provided in support was that the London and Johore Properties which the Husband claimed to be holding on trusts for others were not, in fact, trust properties. Given that there had been no substantive submissions on how the classification methodology is to be applied, particularly on how the other assets are to be classified and what the Parties’ direct contributions were in some of the assets like jewellery and cars, I found that there was little to no utility in applying the classification methodology. I have found that the London and Johore Properties were not trust properties, but belonged to the Husband. For his shareholding in the companies, the Wife has not claimed to make any direct contributions, so that dealing with them as a separate class would not have made any difference, as indirect contributions are applied across the board to all classes of assets in any event (see _AYQ v AYR_ , at \[22\] – \[24\]). Requesting for further submissions on the point would only draw out an already long fought legal battle. In the circumstances, I will adopt the global assessment methodology. I note that the Court of Appeal has observed in _NK v NL_ (2007) at \[35\] that in the vast majority of cases, “either approach would likely achieve the same result”.
 
 ### Step 1
 
@@ -248,7 +249,7 @@ and further held at \[20\] that where there are legitimate differences of opinio
 
 57     For the amount of $304.27 in the POSB Account No ending with 7029, even though it is held jointly by the Wife and the Son, Parties have agreed that the amount in the account is a matrimonial asset. Since there is no claim on it by the Son, I will attribute it to the Wife solely.
 
-58     For the Jalan J Property, the Wife submitted that her CPF statement as at 6 October 2017 shows that she had utilised $172,400.00 towards its payment.[\[note: 72\]](#Ftn_72) While the Husband accepted that the Wife did make this payment, he claimed that he had repaid her in cash for the entire sum. Hence, he took the view that the Wife did not make any direct contributions towards the purchase of the Jalan J Property.[\[note: 73\]](#Ftn_73) I was unable to accept this claim by the Husband, as his paying the Wife in cash for the amount was not evidenced in any document. Even if the repayments were in cash, there would be records of the bank accounts from which the money was withdrawn. None was provided in support of the Husband’s claim.
+58     For the Jalan J Property, the Wife submitted that her CPF statement as at 6 October 2017 shows that she had utilised $172,400.00 towards its payment.[^72] While the Husband accepted that the Wife did make this payment, he claimed that he had repaid her in cash for the entire sum. Hence, he took the view that the Wife did not make any direct contributions towards the purchase of the Jalan J Property.[^73] I was unable to accept this claim by the Husband, as his paying the Wife in cash for the amount was not evidenced in any document. Even if the repayments were in cash, there would be records of the bank accounts from which the money was withdrawn. None was provided in support of the Husband’s claim.
 
 59     The apportionment of each party’s direct contributions towards the Jalan J Property is therefore as follows:
 
@@ -267,7 +268,7 @@ and further held at \[20\] that where there are legitimate differences of opinio
 
 64     Save for what has been set out above, the Wife has not made any claims that she had directly contributed to the matrimonial assets in the possession of the Husband. I therefore proceed on the basis that the rest of the assets in the possession of the Husband were paid for by him solely.
 
-65     For the rest of the assets in the possession of the Wife, the Husband accepted that the Wife had contributed to her own assets save for the jewellery he gifted her.[\[note: 77\]](#Ftn_77) For these, I find that it was the Husband who had contributed to their acquisition.
+65     For the rest of the assets in the possession of the Wife, the Husband accepted that the Wife had contributed to her own assets save for the jewellery he gifted her.[^77] For these, I find that it was the Husband who had contributed to their acquisition.
 
 66     I set out my findings of the Parties’ direct contributions in the table below:
 
@@ -282,15 +283,15 @@ and further held at \[20\] that where there are legitimate differences of opinio
 
 #### Parties’ indirect contributions
 
-68     The Wife submitted that the ratio of indirect contributions ought to be 80:20 between her and the Husband. Broadly, she stated that she was the primary caregiver of the Son and contributed to the household and Son’s expenses from 2003. She argued that even though Parties had domestic helpers (from 2003), she had to manage both the Jalan B and the Jalan J properties and either personally saw to chores or supervised the domestic helpers. The Wife also argued that she had to top up $1,500 to the monthly $2,000 which the Husband paid to her as maintenance for the household expenses. She further submitted that she was involved in the activities of the Husband’s side of the family and organised family gatherings.[\[note: 78\]](#Ftn_78) She added that during certain periods of her marriage, she had hosted the Husband’s relatives and business associates at home for meals; for a number of years bought and prepared gifts for his staff of about 120 during Christmas; assisted in accompanying his mother to the doctors when she was very ill and visited her daily whenever she could; and provided emotional support to him during a dispute in his family.[\[note: 79\]](#Ftn_79) The Wife pointed out that the Husband has been very active in community service over the years besides his involvement in his own companies. He has therefore been dependent on her to manage the domestic affairs of the home.[\[note: 80\]](#Ftn_80)
+68     The Wife submitted that the ratio of indirect contributions ought to be 80:20 between her and the Husband. Broadly, she stated that she was the primary caregiver of the Son and contributed to the household and Son’s expenses from 2003. She argued that even though Parties had domestic helpers (from 2003), she had to manage both the Jalan B and the Jalan J properties and either personally saw to chores or supervised the domestic helpers. The Wife also argued that she had to top up $1,500 to the monthly $2,000 which the Husband paid to her as maintenance for the household expenses. She further submitted that she was involved in the activities of the Husband’s side of the family and organised family gatherings.[^78] She added that during certain periods of her marriage, she had hosted the Husband’s relatives and business associates at home for meals; for a number of years bought and prepared gifts for his staff of about 120 during Christmas; assisted in accompanying his mother to the doctors when she was very ill and visited her daily whenever she could; and provided emotional support to him during a dispute in his family.[^79] The Wife pointed out that the Husband has been very active in community service over the years besides his involvement in his own companies. He has therefore been dependent on her to manage the domestic affairs of the home.[^80]
 
-69     The Wife has also argued that her indirect financial contributions included purchasing of furnishings in the Jalan J Property (although this was not supported by documentary evidence),[\[note: 81\]](#Ftn_81) contribution of a sum of money to the household expenses, household expenses at the Jalan B Property from March 2012, helper’s salary and levy for the Jalan B Property from March 2012 onwards, and the Son’s school fees from Kindergarten to Secondary 4.[\[note: 82\]](#Ftn_82) Her access to a Government loan in the purchase of the Jalan J Property had allowed parties to enjoy a lower interest rate in financing its purchase.[\[note: 83\]](#Ftn_83)
+69     The Wife has also argued that her indirect financial contributions included purchasing of furnishings in the Jalan J Property (although this was not supported by documentary evidence),[^81] contribution of a sum of money to the household expenses, household expenses at the Jalan B Property from March 2012, helper’s salary and levy for the Jalan B Property from March 2012 onwards, and the Son’s school fees from Kindergarten to Secondary 4.[^82] Her access to a Government loan in the purchase of the Jalan J Property had allowed parties to enjoy a lower interest rate in financing its purchase.[^83]
 
-70     In contrast, the Husband submitted that the ratio of indirect contributions ought to be 70:30 between him and the Wife. He argued that the Son was taken care of by the Wife’s mother, grandmother, siblings and domestic helpers when young, and he had an active role bringing up the Son. The Husband also argued that he was the financial provider for the family, paid for all expenses including repair works on the house, paid for the Son’s overseas education and provided for the Wife’s immediate family. The Husband further argued that he provided the Wife with a monthly allowance and reimbursed her for household expenses.[\[note: 84\]](#Ftn_84)
+70     In contrast, the Husband submitted that the ratio of indirect contributions ought to be 70:30 between him and the Wife. He argued that the Son was taken care of by the Wife’s mother, grandmother, siblings and domestic helpers when young, and he had an active role bringing up the Son. The Husband also argued that he was the financial provider for the family, paid for all expenses including repair works on the house, paid for the Son’s overseas education and provided for the Wife’s immediate family. The Husband further argued that he provided the Wife with a monthly allowance and reimbursed her for household expenses.[^84]
 
-71     I found the ratios submitted by the Parties to be over generous. This was not a marriage where only the Husband contributed to the household but it was one where both Parties worked during the entirety of their marriage (up to the point when the Wife retired in June 2004). Whilst I acknowledge that the Wife did not dispute that the Husband paid for the bulk of the family’s expenses including the Son’s education overseas,[\[note: 85\]](#Ftn_85) Parties (as the Husband admitted) had led separate lives for at least 22 out of 41 years of the marriage when they slept in separate rooms or even lived in different houses. It is thus believable that the Wife had to maintain the household expenses by herself.[\[note: 86\]](#Ftn_86) In addition, when the Wife was a full-time working mother, she had contributed to the upbringing of the Son and the running of the household whilst the Husband was preoccupied with work over the weekends.[\[note: 87\]](#Ftn_87) Even though she had the assistance of a helper (from the time the Son was three months to 8 years old[\[note: 88\]](#Ftn_88)), the Husband did not allege that the Wife delegated all of the household responsibilities to the helper.
+71     I found the ratios submitted by the Parties to be over generous. This was not a marriage where only the Husband contributed to the household but it was one where both Parties worked during the entirety of their marriage (up to the point when the Wife retired in June 2004). Whilst I acknowledge that the Wife did not dispute that the Husband paid for the bulk of the family’s expenses including the Son’s education overseas,[^85] Parties (as the Husband admitted) had led separate lives for at least 22 out of 41 years of the marriage when they slept in separate rooms or even lived in different houses. It is thus believable that the Wife had to maintain the household expenses by herself.[^86] In addition, when the Wife was a full-time working mother, she had contributed to the upbringing of the Son and the running of the household whilst the Husband was preoccupied with work over the weekends.[^87] Even though she had the assistance of a helper (from the time the Son was three months to 8 years old[^88]), the Husband did not allege that the Wife delegated all of the household responsibilities to the helper.
 
-72     I note also that little has been said about the Husband’s role as a father during the growing years of the Son beyond him saying that he spent a substantial amount of time tutoring the Son in English, fetching him to school daily when he was 8 to 10 years old and attending his school functions.[\[note: 89\]](#Ftn_89)
+72     I note also that little has been said about the Husband’s role as a father during the growing years of the Son beyond him saying that he spent a substantial amount of time tutoring the Son in English, fetching him to school daily when he was 8 to 10 years old and attending his school functions.[^89]
 
 73     The Parties did not submit on any authorities to support their proposals on the indirect contributions. I refer to the following three cases where the lengths of the marriages were also substantial as guides:
 
@@ -313,19 +314,19 @@ and further held at \[20\] that where there are legitimate differences of opinio
   
   
 
-76     The Wife submitted that a higher weight should be given to the indirect contributions of Parties, as the marriage has lasted 37 years before the writ was filed. However, the calculations presented appeared to be based on equal weights being given to indirect and direct contributions.[\[note: 90\]](#Ftn_90)
+76     The Wife submitted that a higher weight should be given to the indirect contributions of Parties, as the marriage has lasted 37 years before the writ was filed. However, the calculations presented appeared to be based on equal weights being given to indirect and direct contributions.[^90]
 
 77     In _ANJ v ANK_ (at \[27\]), the Court of Appeal held that the average ratio under Step 3 may be calibrated by giving different weights to direct and indirect contributions depending on the circumstances of the case. The relevant factors to be considered include the length of the marriage, the size of the matrimonial assets and its constituents, and the extent and nature of the indirect contributions. I am not minded to adjust the Parties’ respective average percentage contributions by giving different weightages to the direct and indirect contributions as the facts presented no compelling reason to do so. The importance of each of the factors to be considered has already been duly recognised in the percentages of the direct and indirect contributions. In my view, the ratio of 33:67 between the Wife and the Husband was a just and equitable division of the matrimonial assets.
 
 ### Adverse Inference
 
-78     The Wife argued that an adverse inference should be drawn against the Husband as he had failed to provide all information required for the Court Expert to value the six companies,[\[note: 91\]](#Ftn_91) and that the information provided to the Court Expert came mainly from persons who were either employed by the Husband or affiliated to the Husband’s Companies.[\[note: 92\]](#Ftn_92)
+78     The Wife argued that an adverse inference should be drawn against the Husband as he had failed to provide all information required for the Court Expert to value the six companies,[^91] and that the information provided to the Court Expert came mainly from persons who were either employed by the Husband or affiliated to the Husband’s Companies.[^92]
 
-79     In addition, the Wife cited the Court Expert’s Report which stated that numerous items such as audited financial statements, supporting accounting schedules and memorandum and articles of association that were asked for by the Court Expert were not furnished by the Husband.[\[note: 93\]](#Ftn_93) The Court Expert had stated that it was unable to obtain audited financial statements from Company A as the director declined to provide the information.[\[note: 94\]](#Ftn_94)
+79     In addition, the Wife cited the Court Expert’s Report which stated that numerous items such as audited financial statements, supporting accounting schedules and memorandum and articles of association that were asked for by the Court Expert were not furnished by the Husband.[^93] The Court Expert had stated that it was unable to obtain audited financial statements from Company A as the director declined to provide the information.[^94]
 
-80     The Husband also argued that an adverse inference should be drawn against the Wife with regard to her retirement gratuities of $634,148.08 and sale proceeds of the shares that she sold shortly after the divorce proceedings were commenced. The Husband alleged that the Wife had habitually kept records of the Parties’ lives from as early as 1970s, but yet claimed that she could not recall or did not have any records of how she spent the retirement gratuities.[\[note: 95\]](#Ftn_95) Furthermore, the Husband argued that the Wife failed to properly account for the proceeds received from the sale of the her shares which amounted to $110,485.03.[\[note: 96\]](#Ftn_96)
+80     The Husband also argued that an adverse inference should be drawn against the Wife with regard to her retirement gratuities of $634,148.08 and sale proceeds of the shares that she sold shortly after the divorce proceedings were commenced. The Husband alleged that the Wife had habitually kept records of the Parties’ lives from as early as 1970s, but yet claimed that she could not recall or did not have any records of how she spent the retirement gratuities.[^95] Furthermore, the Husband argued that the Wife failed to properly account for the proceeds received from the sale of the her shares which amounted to $110,485.03.[^96]
 
-81     The Husband therefore sought the full sum of the retirement gratuities and sale proceeds of the shares sold to be added back to the pool of matrimonial assets and for an adverse inference to be drawn. He also pointed out that the $201,410.51 the Wife received when her five insurance policies matured between 2012 and 2014 had not been accounted for and should be returned to the pool of matrimonial assets.[\[note: 97\]](#Ftn_97)
+81     The Husband therefore sought the full sum of the retirement gratuities and sale proceeds of the shares sold to be added back to the pool of matrimonial assets and for an adverse inference to be drawn. He also pointed out that the $201,410.51 the Wife received when her five insurance policies matured between 2012 and 2014 had not been accounted for and should be returned to the pool of matrimonial assets.[^97]
 
 82     The Wife did not submit on any cases for adverse inference to be drawn, while the cases submitted by the Husband did not exactly shed much light on the conditions that must be present for the Court to draw an adverse inference.
 
@@ -345,7 +346,7 @@ and further held at \[20\] that where there are legitimate differences of opinio
 
 46    On the facts of this case, this was not an extraordinarily long marriage nor was the asset pool extraordinarily large. If equal weightage was given to both direct and indirect limbs, the final division ratio would be 55:45 in favour of the Husband. In my judgment, two factors called for a more unusual order in this case: (a) the adverse inference drawn against the Husband’s financial position, and (b) the needs of the family.
 
-85     I accept also the Husband’s arguments that the Wife did not sufficiently explain or account for how she spent her retirement gratuities and the sale proceeds of the shares. However, since I have returned the unaccounted sums to the pool of matrimonial assets for division (see \[26\] and \[28\] above), no further adverse inference needs to be drawn against the Wife for these two groups of assets beyond the findings that I have made above. While I also do not think her response that the money she received from the insurance policies had gone into household expenses was adequate in explaining where this amount went,[\[note: 98\]](#Ftn_98) I will only draw an adverse inference against the Wife for this group of assets instead of returning them to the pool of matrimonial assets. This is because they were not listed in the Joint Summary of Relevant Information, and no substantive evidence was adduced or submissions made on them.
+85     I accept also the Husband’s arguments that the Wife did not sufficiently explain or account for how she spent her retirement gratuities and the sale proceeds of the shares. However, since I have returned the unaccounted sums to the pool of matrimonial assets for division (see \[26\] and \[28\] above), no further adverse inference needs to be drawn against the Wife for these two groups of assets beyond the findings that I have made above. While I also do not think her response that the money she received from the insurance policies had gone into household expenses was adequate in explaining where this amount went,[^98] I will only draw an adverse inference against the Wife for this group of assets instead of returning them to the pool of matrimonial assets. This is because they were not listed in the Joint Summary of Relevant Information, and no substantive evidence was adduced or submissions made on them.
 
 86     In light of the above, I will adjust the ratio at Step 3 between the Wife and the Husband from 33:67 to 38:62 by increasing the percentage of the Wife’s share by 5%. Applying the percentages to the total value of the assets of the Parties of $21,239,423.02 (see \[51\] above), the Wife will receive $8,070,980.75 and the Husband will receive $13,168,442.27.
 
@@ -353,7 +354,7 @@ and further held at \[20\] that where there are legitimate differences of opinio
 
 #### Approach – each to keep assets under their respective names – indicated preferences to be followed where possible
 
-87     The Wife did not indicate her position on whether Parties should keep the assets which are presently in their names, save to state that she has no objection to the Jalan J Property being sold and divided.[\[note: 99\]](#Ftn_99) The Husband, however, submitted that:
+87     The Wife did not indicate her position on whether Parties should keep the assets which are presently in their names, save to state that she has no objection to the Jalan J Property being sold and divided.[^99] The Husband, however, submitted that:
 
 (a)     Parties keep assets that are in their own names;
 
@@ -376,9 +377,9 @@ and further held at \[20\] that where there are legitimate differences of opinio
 
 ### Maintenance
 
-92     The Wife, who is in her early 70s, stated in the Joint Summary of Relevant Information that she would like to have a lump sum maintenance of $240,000, based on a multiplicand of $2,000 (which was what she is receiving as interim maintenance) and a multiplier of 10 years. She did not provide any authorities in support in her written submissions. Alternatively, the Wife suggested a monthly maintenance of $3,000.[\[note: 100\]](#Ftn_100)
+92     The Wife, who is in her early 70s, stated in the Joint Summary of Relevant Information that she would like to have a lump sum maintenance of $240,000, based on a multiplicand of $2,000 (which was what she is receiving as interim maintenance) and a multiplier of 10 years. She did not provide any authorities in support in her written submissions. Alternatively, the Wife suggested a monthly maintenance of $3,000.[^100]
 
-93     The Husband, who is in his late 70s, submitted that there should be no maintenance for the Wife as she has a substantial share of the pool of matrimonial assets after taking into consideration her retirement gratuities.[\[note: 101\]](#Ftn_101) The Husband also submitted that maintenance for a former spouse is meant to be supplemental in nature.[\[note: 102\]](#Ftn_102) He added that the Wife has free medical benefits as a former civil servant, while he has to pay for the medical expenses of his various health issues, such as diabetes, heart problems, arthritis and other problems associated with old age as he has no medical coverage.[\[note: 103\]](#Ftn_103)
+93     The Husband, who is in his late 70s, submitted that there should be no maintenance for the Wife as she has a substantial share of the pool of matrimonial assets after taking into consideration her retirement gratuities.[^101] The Husband also submitted that maintenance for a former spouse is meant to be supplemental in nature.[^102] He added that the Wife has free medical benefits as a former civil servant, while he has to pay for the medical expenses of his various health issues, such as diabetes, heart problems, arthritis and other problems associated with old age as he has no medical coverage.[^103]
 
 94     The Court of Appeal in _TNL v TNK_ provided the following guidance on the ordering of maintenance for a wife:
 
@@ -400,211 +401,211 @@ and further held at \[20\] that where there are legitimate differences of opinio
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)Wife’s 1st affidavit of assets and means (AOM), para 2(i).
+[^1]: Wife’s 1st affidavit of assets and means (AOM), para 2(i).
 
-[\[note: 2\]](#Ftn_2_1)Statement of Particulars (Amendment No 1), para 2(a).
+[^2]: Statement of Particulars (Amendment No 1), para 2(a).
 
-[\[note: 3\]](#Ftn_3_1)Wife’s 1st AOM, para 15(g), p 18.
+[^3]: Wife’s 1st AOM, para 15(g), p 18.
 
-[\[note: 4\]](#Ftn_4_1)Statement of Particulars (Amendment No 1), para 2(c).
+[^4]: Statement of Particulars (Amendment No 1), para 2(c).
 
-[\[note: 5\]](#Ftn_5_1)Husband’s Written Submissions dated 9 April 2018, para 7.
+[^5]: Husband’s Written Submissions dated 9 April 2018, para 7.
 
-[\[note: 6\]](#Ftn_6_1)Statement of Particulars (Amendment No 1), para 2(d).
+[^6]: Statement of Particulars (Amendment No 1), para 2(d).
 
-[\[note: 7\]](#Ftn_7_1)Statement of Particulars (Amendment No 1), para 2(h).
+[^7]: Statement of Particulars (Amendment No 1), para 2(h).
 
-[\[note: 8\]](#Ftn_8_1)Statement of Particulars, para 2(j).
+[^8]: Statement of Particulars, para 2(j).
 
-[\[note: 9\]](#Ftn_9_1)Statement of Particulars, para 2(l).
+[^9]: Statement of Particulars, para 2(l).
 
-[\[note: 10\]](#Ftn_10_1)Notes of Argument dated 18 April 2018, p 1.
+[^10]: Notes of Argument dated 18 April 2018, p 1.
 
-[\[note: 11\]](#Ftn_11_1)Joint Summary of Relevant Information, pp 7 and 8.
+[^11]: Joint Summary of Relevant Information, pp 7 and 8.
 
-[\[note: 12\]](#Ftn_12_1)Joint Summary of Relevant Information, p 4.
+[^12]: Joint Summary of Relevant Information, p 4.
 
-[\[note: 13\]](#Ftn_13_1)Wife’s 2nd AOM dated 10 October 2017, pp 6, 104 and 105.
+[^13]: Wife’s 2nd AOM dated 10 October 2017, pp 6, 104 and 105.
 
-[\[note: 14\]](#Ftn_14_1)Notes of Argument dated 18 April 2018, p 4.
+[^14]: Notes of Argument dated 18 April 2018, p 4.
 
-[\[note: 15\]](#Ftn_15_1)Husband’s written submissions dated 9 April 2018, p 10, para 21.
+[^15]: Husband’s written submissions dated 9 April 2018, p 10, para 21.
 
-[\[note: 16\]](#Ftn_16_1)Wife’s written submissions dated 9 April 2018, p 20, para 43.
+[^16]: Wife’s written submissions dated 9 April 2018, p 20, para 43.
 
-[\[note: 17\]](#Ftn_17_1)Notes of Argument dated 18 April 2018, p 3.
+[^17]: Notes of Argument dated 18 April 2018, p 3.
 
-[\[note: 18\]](#Ftn_18_1)Wife’s 1st AOM dated 30 July 2015, pp 128 to 139.
+[^18]: Wife’s 1st AOM dated 30 July 2015, pp 128 to 139.
 
-[\[note: 19\]](#Ftn_19_1)Wife’s 2nd AOM dated 10 October 2017, pp 6 and 96.
+[^19]: Wife’s 2nd AOM dated 10 October 2017, pp 6 and 96.
 
-[\[note: 20\]](#Ftn_20_1)Husband’s 2nd AOM dated 9 October 2017, para 71 and pp 92 and 93.
+[^20]: Husband’s 2nd AOM dated 9 October 2017, para 71 and pp 92 and 93.
 
-[\[note: 21\]](#Ftn_21_1)See also Wife’s 1st AOM dated 3 February 2016, pp 72 and 73.
+[^21]: See also Wife’s 1st AOM dated 3 February 2016, pp 72 and 73.
 
-[\[note: 22\]](#Ftn_22_1)Wife’s 1st compliance affidavit dated 3 February 2016, pp 72 and 73.
+[^22]: Wife’s 1st compliance affidavit dated 3 February 2016, pp 72 and 73.
 
-[\[note: 23\]](#Ftn_23_1)Wife’s 1st voluntary affidavit, p 85.
+[^23]: Wife’s 1st voluntary affidavit, p 85.
 
-[\[note: 24\]](#Ftn_24_1)Husband’s written submissions, p 28, para 69.
+[^24]: Husband’s written submissions, p 28, para 69.
 
-[\[note: 25\]](#Ftn_25_1)Wife’s Brief Skeletal Submissions dated 19 April 2018, para 4.
+[^25]: Wife’s Brief Skeletal Submissions dated 19 April 2018, para 4.
 
-[\[note: 26\]](#Ftn_26_1)Joint Summary of Relevant Information dated 6 April 2018, p 15.
+[^26]: Joint Summary of Relevant Information dated 6 April 2018, p 15.
 
-[\[note: 27\]](#Ftn_27_1)Wife’s written submissions dated 9 April 2018, p 22, paras 47– 48.
+[^27]: Wife’s written submissions dated 9 April 2018, p 22, paras 47– 48.
 
-[\[note: 28\]](#Ftn_28_1)Wife’s 1st AOM dated 30 July 2015, p 7, para 7 and Husband 2nd AOM dated 9 October 2017, p 31, para 69.
+[^28]: Wife’s 1st AOM dated 30 July 2015, p 7, para 7 and Husband 2nd AOM dated 9 October 2017, p 31, para 69.
 
-[\[note: 29\]](#Ftn_29_1)Wife’s written submissions dated 9 April 2018, p 24, para 54.
+[^29]: Wife’s written submissions dated 9 April 2018, p 24, para 54.
 
-[\[note: 30\]](#Ftn_30_1)Husband’s written submissions dated 9 April 2018, p 32, para 77.
+[^30]: Husband’s written submissions dated 9 April 2018, p 32, para 77.
 
-[\[note: 31\]](#Ftn_31_1)Wife’s written submissions dated 9 April 2018, p 21, para 46.
+[^31]: Wife’s written submissions dated 9 April 2018, p 21, para 46.
 
-[\[note: 32\]](#Ftn_32_1)Husband’s written submissions dated 9 April 2018, p 32, para 78.
+[^32]: Husband’s written submissions dated 9 April 2018, p 32, para 78.
 
-[\[note: 33\]](#Ftn_33_1)Wife’s written submissions dated 9 April 2018, p 22, paras 50 – 52.
+[^33]: Wife’s written submissions dated 9 April 2018, p 22, paras 50 – 52.
 
-[\[note: 34\]](#Ftn_34_1)Notes of Argument dated 18 April 2018, p 5.
+[^34]: Notes of Argument dated 18 April 2018, p 5.
 
-[\[note: 35\]](#Ftn_35_1)Husband’s 2nd AOM, para 58.
+[^35]: Husband’s 2nd AOM, para 58.
 
-[\[note: 36\]](#Ftn_36_1)Husband’s written submissions dated 9 April 2018, p 14, para 29.
+[^36]: Husband’s written submissions dated 9 April 2018, p 14, para 29.
 
-[\[note: 37\]](#Ftn_37_1)Husband’s written submissions dated 9 April 2018, p 14, para 29.
+[^37]: Husband’s written submissions dated 9 April 2018, p 14, para 29.
 
-[\[note: 38\]](#Ftn_38_1)Wife’s written submissions dated 9 April 2018, p 27, paras 59 – 61.
+[^38]: Wife’s written submissions dated 9 April 2018, p 27, paras 59 – 61.
 
-[\[note: 39\]](#Ftn_39_1)Wife’s written submissions dated 9 April 2018, p 26, para 58.
+[^39]: Wife’s written submissions dated 9 April 2018, p 26, para 58.
 
-[\[note: 40\]](#Ftn_40_1)Joint Summary of Relevant Information dated 6 April 2018, p 17, no 1.
+[^40]: Joint Summary of Relevant Information dated 6 April 2018, p 17, no 1.
 
-[\[note: 41\]](#Ftn_41_1)Husband’s written submissions dated 9 April 2018, p 18, para 38.
+[^41]: Husband’s written submissions dated 9 April 2018, p 18, para 38.
 
-[\[note: 42\]](#Ftn_42_1)Wife’s 2nd AOM dated 10 October 2017, para 66.
+[^42]: Wife’s 2nd AOM dated 10 October 2017, para 66.
 
-[\[note: 43\]](#Ftn_43_1)Yak Chau Wei’s 1st affidavit dated 3 November 2017, p 148.
+[^43]: Yak Chau Wei’s 1st affidavit dated 3 November 2017, p 148.
 
-[\[note: 44\]](#Ftn_44_1)Yak Chau Wei’s 1st affidavit dated 3 November 2017, pp 55 to 58.
+[^44]: Yak Chau Wei’s 1st affidavit dated 3 November 2017, pp 55 to 58.
 
-[\[note: 45\]](#Ftn_45_1)Wife’s written submissions dated 9 April 2018, p 11 para 22 and p 14, paras 27 – 28.
+[^45]: Wife’s written submissions dated 9 April 2018, p 11 para 22 and p 14, paras 27 – 28.
 
-[\[note: 46\]](#Ftn_46_1)Wife’s written submissions dated 9 April 2018, p 11.
+[^46]: Wife’s written submissions dated 9 April 2018, p 11.
 
-[\[note: 47\]](#Ftn_47_1)Notes of Argument dated 14 April 2018, p 4.
+[^47]: Notes of Argument dated 14 April 2018, p 4.
 
-[\[note: 48\]](#Ftn_48_1)Notes of Argument dated 19 April 2018, p 6.
+[^48]: Notes of Argument dated 19 April 2018, p 6.
 
-[\[note: 49\]](#Ftn_49_1)Yak Chau Wei’s 1st affidavit dated 3 November 2017, p 56.
+[^49]: Yak Chau Wei’s 1st affidavit dated 3 November 2017, p 56.
 
-[\[note: 50\]](#Ftn_50_1)Yak Chau Wei’s 1st affidavit dated 3 November 2017, p 70.
+[^50]: Yak Chau Wei’s 1st affidavit dated 3 November 2017, p 70.
 
-[\[note: 51\]](#Ftn_51_1)Husband’s 3rd compliance affidavit dated 10 October 2016, pp 125 – 138.
+[^51]: Husband’s 3rd compliance affidavit dated 10 October 2016, pp 125 – 138.
 
-[\[note: 52\]](#Ftn_52_1)Wife’s written submissions, p 34, paras 77 -83.
+[^52]: Wife’s written submissions, p 34, paras 77 -83.
 
-[\[note: 53\]](#Ftn_53_1)Yak Chau Wei’s 1st affidavit dated 3 November 2017, pp 41, 42 and 76.
+[^53]: Yak Chau Wei’s 1st affidavit dated 3 November 2017, pp 41, 42 and 76.
 
-[\[note: 54\]](#Ftn_54_1)Husband’s 3rd compliance affidavit dated 10 October 2016, pp 125 – 138.
+[^54]: Husband’s 3rd compliance affidavit dated 10 October 2016, pp 125 – 138.
 
-[\[note: 55\]](#Ftn_55_1)Joint Summary of Relevant Information dated 6 April 2018, p 12, item F.
+[^55]: Joint Summary of Relevant Information dated 6 April 2018, p 12, item F.
 
-[\[note: 56\]](#Ftn_56_1)Joint Summary of Relevant Information dated 6 April 2018, p 12, item F.
+[^56]: Joint Summary of Relevant Information dated 6 April 2018, p 12, item F.
 
-[\[note: 57\]](#Ftn_57_1)Husband’s 1st AOM dated 6 November 2017, pp 199, 216 and 217.
+[^57]: Husband’s 1st AOM dated 6 November 2017, pp 199, 216 and 217.
 
-[\[note: 58\]](#Ftn_58_1)Husband’s written submissions dated 9 April 2018, p 13, para 26.
+[^58]: Husband’s written submissions dated 9 April 2018, p 13, para 26.
 
-[\[note: 59\]](#Ftn_59_1)Husband’s written submissions dated 9 April 2018, p 14, para 27.
+[^59]: Husband’s written submissions dated 9 April 2018, p 14, para 27.
 
-[\[note: 60\]](#Ftn_60_1)Husband’s 1st AOM dated 6 November 2017, p 98.
+[^60]: Husband’s 1st AOM dated 6 November 2017, p 98.
 
-[\[note: 61\]](#Ftn_61_1)Husband’s written submissions dated 9 April 2018, p 14, para 28.
+[^61]: Husband’s written submissions dated 9 April 2018, p 14, para 28.
 
-[\[note: 62\]](#Ftn_62_1)Wife’s written submissions dated 9 April 2018, p 30, paras 66 - 68.
+[^62]: Wife’s written submissions dated 9 April 2018, p 30, paras 66 - 68.
 
-[\[note: 63\]](#Ftn_63_1)Wife’s written submissions dated 9 April 2018, p 32, para 71.
+[^63]: Wife’s written submissions dated 9 April 2018, p 32, para 71.
 
-[\[note: 64\]](#Ftn_64_1)Wife’s Written Submissions dated 9 April 2018, at paras 71(a), and Notes of Argument dated 18 April 2018, p 2.
+[^64]: Wife’s Written Submissions dated 9 April 2018, at paras 71(a), and Notes of Argument dated 18 April 2018, p 2.
 
-[\[note: 65\]](#Ftn_65_1)Husband’s Affidavit dated 23 August 2016, p 726.
+[^65]: Husband’s Affidavit dated 23 August 2016, p 726.
 
-[\[note: 66\]](#Ftn_66_1)Notes of Argument dated 18 April 2018, p 2.
+[^66]: Notes of Argument dated 18 April 2018, p 2.
 
-[\[note: 67\]](#Ftn_67_1)Wife’s Written Submissions dated 9 April 2018, at paras 74 and 75.
+[^67]: Wife’s Written Submissions dated 9 April 2018, at paras 74 and 75.
 
-[\[note: 68\]](#Ftn_68_1)Husband’s written submissions dated 9 April 2018, p 15, para 30.
+[^68]: Husband’s written submissions dated 9 April 2018, p 15, para 30.
 
-[\[note: 69\]](#Ftn_69_1)Notes of Argument of 18 April 2018, p 1.
+[^69]: Notes of Argument of 18 April 2018, p 1.
 
-[\[note: 70\]](#Ftn_70_1)Husband’s written submissions dated 9 April 2018, p 8, paras 17 – 19.
+[^70]: Husband’s written submissions dated 9 April 2018, p 8, paras 17 – 19.
 
-[\[note: 71\]](#Ftn_71_1)Wife’s Brief Supplemental Submissions dated 19 April 2018, p 1, para 1.
+[^71]: Wife’s Brief Supplemental Submissions dated 19 April 2018, p 1, para 1.
 
-[\[note: 72\]](#Ftn_72_1)Wife’s written submissions dated 9 April 2018, p 41, para 92.
+[^72]: Wife’s written submissions dated 9 April 2018, p 41, para 92.
 
-[\[note: 73\]](#Ftn_73_1)Husband’s written submissions dated 9 April 2018, p 19, para 42.
+[^73]: Husband’s written submissions dated 9 April 2018, p 19, para 42.
 
-[\[note: 74\]](#Ftn_74_1)Wife’s written submissions dated 9 April 2018, p 40, para 91.
+[^74]: Wife’s written submissions dated 9 April 2018, p 40, para 91.
 
-[\[note: 75\]](#Ftn_75_1)Husband’s 1st AOM dated 6 November 2017, p 23, para 42 and Tab 7, p 176.
+[^75]: Husband’s 1st AOM dated 6 November 2017, p 23, para 42 and Tab 7, p 176.
 
-[\[note: 76\]](#Ftn_76_1)Husband’s 1st AOM dated 6 November 2017, p 24, para 46 and Tab 35, pp 1150 to 1174.
+[^76]: Husband’s 1st AOM dated 6 November 2017, p 24, para 46 and Tab 35, pp 1150 to 1174.
 
-[\[note: 77\]](#Ftn_77_1)Husband’s’s written submission dated 9 April 2018, para 46.
+[^77]: Husband’s’s written submission dated 9 April 2018, para 46.
 
-[\[note: 78\]](#Ftn_78_1)Joint Summary of Relevant Information dated 6 April 2018, p 21.
+[^78]: Joint Summary of Relevant Information dated 6 April 2018, p 21.
 
-[\[note: 79\]](#Ftn_79_1)Wife’s written submissions dated 9 April 2018, para 118.
+[^79]: Wife’s written submissions dated 9 April 2018, para 118.
 
-[\[note: 80\]](#Ftn_80_1)Wife’s written submissions dated 9 April 2018, para 120.
+[^80]: Wife’s written submissions dated 9 April 2018, para 120.
 
-[\[note: 81\]](#Ftn_81_1)Wife’s 2nd AOM para 37.
+[^81]: Wife’s 2nd AOM para 37.
 
-[\[note: 82\]](#Ftn_82_1)Wife’s written submissions dated 9 April 2018, p 47.
+[^82]: Wife’s written submissions dated 9 April 2018, p 47.
 
-[\[note: 83\]](#Ftn_83_1)Wife’s written submissions dated 9 April 2018, para 122.
+[^83]: Wife’s written submissions dated 9 April 2018, para 122.
 
-[\[note: 84\]](#Ftn_84_1)Joint Summary of Relevant Information dated 6 April 2018, p 21 and Husband’s written submissions dated 9 April 2018, p 24.
+[^84]: Joint Summary of Relevant Information dated 6 April 2018, p 21 and Husband’s written submissions dated 9 April 2018, p 24.
 
-[\[note: 85\]](#Ftn_85_1)Husband’s 1st AOM para 51.
+[^85]: Husband’s 1st AOM para 51.
 
-[\[note: 86\]](#Ftn_86_1)Husband’s 1st AOM para 73.
+[^86]: Husband’s 1st AOM para 73.
 
-[\[note: 87\]](#Ftn_87_1)Wife’s 1st AOM para 15(a).
+[^87]: Wife’s 1st AOM para 15(a).
 
-[\[note: 88\]](#Ftn_88_1)Husband’s 2nd AOM para 86.
+[^88]: Husband’s 2nd AOM para 86.
 
-[\[note: 89\]](#Ftn_89_1)Husband’s written submissions dated 9 April 2018, p 24.
+[^89]: Husband’s written submissions dated 9 April 2018, p 24.
 
-[\[note: 90\]](#Ftn_90_1)Wife’s Brief Supplemental Submissions dated 19 April 2018, p 1, paras 2 and 3.
+[^90]: Wife’s Brief Supplemental Submissions dated 19 April 2018, p 1, paras 2 and 3.
 
-[\[note: 91\]](#Ftn_91_1)Wife’s written submissions dated 9 April 2018, p 14, para 29.
+[^91]: Wife’s written submissions dated 9 April 2018, p 14, para 29.
 
-[\[note: 92\]](#Ftn_92_1)Wife’s written submissions dated 9 April 2018, p 15, para 30.
+[^92]: Wife’s written submissions dated 9 April 2018, p 15, para 30.
 
-[\[note: 93\]](#Ftn_93_1)Wife’s written submissions dated 9 April 2018, p 16, para 31.
+[^93]: Wife’s written submissions dated 9 April 2018, p 16, para 31.
 
-[\[note: 94\]](#Ftn_94_1)Wife’s written submissions dated 9 April 2018, p 16, para 33.
+[^94]: Wife’s written submissions dated 9 April 2018, p 16, para 33.
 
-[\[note: 95\]](#Ftn_95_1)Husband’s written submissions dated 9 April 2018, p 28, paras 67 and 68.
+[^95]: Husband’s written submissions dated 9 April 2018, p 28, paras 67 and 68.
 
-[\[note: 96\]](#Ftn_96_1)Husband’s written submissions dated 9 April 2018, p 31, paras 75 and 77.
+[^96]: Husband’s written submissions dated 9 April 2018, p 31, paras 75 and 77.
 
-[\[note: 97\]](#Ftn_97_1)Notes of Argument dated 18 April 2018, p 9 and Exhibit D2.
+[^97]: Notes of Argument dated 18 April 2018, p 9 and Exhibit D2.
 
-[\[note: 98\]](#Ftn_98_1)Exhibit P4 – Brief submissions on issues concerning retirement gratuity and monies received from insurance policies.
+[^98]: Exhibit P4 – Brief submissions on issues concerning retirement gratuity and monies received from insurance policies.
 
-[\[note: 99\]](#Ftn_99_1)Notes of Argument dated 18 April 2018, p 4.
+[^99]: Notes of Argument dated 18 April 2018, p 4.
 
-[\[note: 100\]](#Ftn_100_1)Joint Summary of Relevant Information dated 6 April 2018, p 3.
+[^100]: Joint Summary of Relevant Information dated 6 April 2018, p 3.
 
-[\[note: 101\]](#Ftn_101_1)Husband’s written submissions dated 9 April 2018, p 37, para 89.
+[^101]: Husband’s written submissions dated 9 April 2018, p 37, para 89.
 
-[\[note: 102\]](#Ftn_102_1)Husband’s written submissions dated 9 April 2018, p 38, para 91.
+[^102]: Husband’s written submissions dated 9 April 2018, p 38, para 91.
 
-[\[note: 103\]](#Ftn_103_1)Husband’s written submissions dated 9 April 2018, p 40, para 95.
+[^103]: Husband’s written submissions dated 9 April 2018, p 40, para 95.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F22912-SSP.xml)

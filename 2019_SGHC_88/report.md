@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # Werner Samuel Vuillemin _v_ Oversea-Chinese Banking Corp Ltd  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Originating Summons No 242 of 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">02 April 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">See Kee Oon J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Applicant in person; Ang Leong Hao (Rajah &amp; Tann) for the respondent.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Werner Samuel Vuillemin — Oversea-Chinese Banking Corporation Limited</td></tr></tbody></table>
@@ -16,7 +17,7 @@ Civil Procedure – Striking out – Leave to appeal
 
 ## Background
 
-4       I do not propose to provide a detailed account of the rather involved background facts. The facts have been set out in various judgments, including two judgments of the High Court.[\[note: 1\]](#Ftn_1) Most recently, the facts have been summarised in the Grounds of Decision (“GD”) of the District Judge in _Werner Samuel Vuillemin v Oversea-Chinese Banking Corporation Limited_ . This GD was issued by the District Judge to explain why he had affirmed the decision of the Deputy Registrar of the State Courts to strike out the action, leading to RAS 33/2018 which came before me for hearing.
+4       I do not propose to provide a detailed account of the rather involved background facts. The facts have been set out in various judgments, including two judgments of the High Court.[^1] Most recently, the facts have been summarised in the Grounds of Decision (“GD”) of the District Judge in _Werner Samuel Vuillemin v Oversea-Chinese Banking Corporation Limited_ . This GD was issued by the District Judge to explain why he had affirmed the decision of the Deputy Registrar of the State Courts to strike out the action, leading to RAS 33/2018 which came before me for hearing.
 
 5       Very briefly, the relevant background facts are as follows. The present claim arose from the applicant’s dispute with the respondent over an alleged breach of contract relating to the opening and relocation of a safe deposit box (“the SDB”). He had hired the SDB in February 1999 from the respondent at its then-existing branch at the Specialists’ Shopping Centre (“SSC”) located on Orchard Road. In June 2007, in preparation for the relocation of the SSC branch to new premises at Orchard Point, the SDB was opened by the respondent and its contents accounted for and kept in a sealed security bag. The applicant had been notified beforehand by mail of the respondent’s intended course of action but he did not respond to the notification.
 
@@ -58,7 +59,7 @@ Civil Procedure – Striking out – Leave to appeal
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)_Werner Samuel Vuillemin v Oversea-Chinese Banking Corporation Limited_ ; _Werner Samuel Vuillemin v Overseas-Chinese Banking Corporation Limited_ .
+[^1]: _Werner Samuel Vuillemin v Oversea-Chinese Banking Corporation Limited_ ; _Werner Samuel Vuillemin v Overseas-Chinese Banking Corporation Limited_ .
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23006-SSP.xml)

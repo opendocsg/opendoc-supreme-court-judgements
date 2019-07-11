@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # United Integrated Services Pte Ltd _v_ Harmonious Coretrades Pte Ltd  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Originating Summons 1113 of 2018 (Registrar's Appeal No 79 of 2019)</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">15 May 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Chan Seng Onn J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Lee Mei Yong Debbie (ECYT Law LLC) for the appellant; Lynette Chew and Lu Huiru Grace (Holborn Law LLC) for the respondent.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">United Integrated Services Pte Ltd — Harmonious Coretrades Pte Ltd</td></tr></tbody></table>
@@ -28,29 +29,29 @@ Civil Procedure – Inherent powers – Garnishee orders
 
 (c)     The sub-contractor’s sub-contractor: Harmonious Coretrades Pte Ltd (the “judgment creditor”).
 
-6       By an adjudication determination dated 31 August 2018, the judgment debtor was ordered to pay the judgment creditor $1,261,096.71 (inclusive of GST)[\[note: 1\]](#Ftn_1) by 7 September 2018.[\[note: 2\]](#Ftn_2)
+6       By an adjudication determination dated 31 August 2018, the judgment debtor was ordered to pay the judgment creditor $1,261,096.71 (inclusive of GST)[^1] by 7 September 2018.[^2]
 
 ### Final garnishee order
 
-7       As the adjudication determination remained unsatisfied in full, the judgment creditor commenced garnishee proceedings, seeking to attach any debt due and accruing from the garnishee to answer the debt owed to it by the judgment debtor.[\[note: 3\]](#Ftn_3)
+7       As the adjudication determination remained unsatisfied in full, the judgment creditor commenced garnishee proceedings, seeking to attach any debt due and accruing from the garnishee to answer the debt owed to it by the judgment debtor.[^3]
 
-8       On 2 November 2018, at the garnishee to show cause hearing, the garnishee indicated that it had “no objections” to the garnishee application.[\[note: 4\]](#Ftn_4) This was because, on 23 October 2018, shortly before the garnishee to show cause hearing, the judgment debtor had obtained a separate adjudication determination against the garnishee, in which it was determined that the garnishee was to pay the judgment debtor $1,369,987.02 plus interest and costs (“1AD”).[\[note: 5\]](#Ftn_5) This amount owed by the garnishee to the judgment debtor exceeded the amount owed by the judgment debtor to the judgment creditor.
+8       On 2 November 2018, at the garnishee to show cause hearing, the garnishee indicated that it had “no objections” to the garnishee application.[^4] This was because, on 23 October 2018, shortly before the garnishee to show cause hearing, the judgment debtor had obtained a separate adjudication determination against the garnishee, in which it was determined that the garnishee was to pay the judgment debtor $1,369,987.02 plus interest and costs (“1AD”).[^5] This amount owed by the garnishee to the judgment debtor exceeded the amount owed by the judgment debtor to the judgment creditor.
 
-9       Given the lack of objection by the garnishee, the garnishee order was made final, and the garnishee was ordered to pay the judgment creditor “$1,277,000 … of the debt due from the \[g\]arnishee to the \[j\]udgment \[d\]ebtor”.[\[note: 6\]](#Ftn_6) The sum of $1,277,000 formed the bulk of the $1,369,987.02 which was owed by the garnishee to the judgment debtor under 1AD.
+9       Given the lack of objection by the garnishee, the garnishee order was made final, and the garnishee was ordered to pay the judgment creditor “$1,277,000 … of the debt due from the \[g\]arnishee to the \[j\]udgment \[d\]ebtor”.[^6] The sum of $1,277,000 formed the bulk of the $1,369,987.02 which was owed by the garnishee to the judgment debtor under 1AD.
 
 ### Debt under final garnishee order no longer due
 
-10     On 23 November 2018, after the garnishee order was made final, a second adjudication determination (“2AD”) which related to the same works considered in 1AD determined that no amount was in fact payable by the garnishee to the judgment debtor. This was because the value of works done by the judgment debtor was offset by liquidated damages and back-charges which it owed to the garnishee.[\[note: 7\]](#Ftn_7)
+10     On 23 November 2018, after the garnishee order was made final, a second adjudication determination (“2AD”) which related to the same works considered in 1AD determined that no amount was in fact payable by the garnishee to the judgment debtor. This was because the value of works done by the judgment debtor was offset by liquidated damages and back-charges which it owed to the garnishee.[^7]
 
 11     In a separate hearing before me, the garnishee thus sought to stay the enforcement of 1AD. Having considered that 2AD had in effect superseded 1AD, and to prevent an unintended windfall that could accrue to the judgment debtor if 1AD were to be enforced, I ordered the stay of enforcement of 1AD by the judgment debtor unless it obtained an order setting aside 2AD (_United Integrated Services Pte Ltd v Civil Tech Pte Ltd and another_ (“_UIS v CTPL_”) at \[24\]). However, upon further arguments, I was satisfied that there was clear and objective evidence that the judgment debtor was insolvent. On that basis, I lifted the condition for the stay, and granted an unconditional stay of enforcement of 1AD (_UIS v CTPL_ at \[30\]).
 
 12     As a result of my decision in _UIS v CTPL_, no debt remained due and payable by the garnishee to the judgment debtor. On that basis, the garnishee sought to set aside the final garnishee order.
 
-13     The Assistant Registrar dismissed the garnishee’s application as she was “persuaded … that there are only limited circumstances that this Court can set aside an order that is regular”.[\[note: 8\]](#Ftn_8) The garnishee appealed.
+13     The Assistant Registrar dismissed the garnishee’s application as she was “persuaded … that there are only limited circumstances that this Court can set aside an order that is regular”.[^8] The garnishee appealed.
 
 ## The inherent powers of the Court to set aside an order
 
-14     Before me, the garnishee sought to set aside the final garnishee order by relying on the inherent powers of the Court to prevent injustice,[\[note: 9\]](#Ftn_9) as found in O 92 r 4 of the Rules of Court (Cap 322, R5, 2014 Ed) (“Rules of Court”):
+14     Before me, the garnishee sought to set aside the final garnishee order by relying on the inherent powers of the Court to prevent injustice,[^9] as found in O 92 r 4 of the Rules of Court (Cap 322, R5, 2014 Ed) (“Rules of Court”):
 
 For the avoidance of doubt it is hereby declared that nothing in these Rules shall be deemed to limit or affect the inherent powers of the Court to make any order as may be necessary to _prevent injustice_ or to prevent an abuse of the process of the Court. \[emphasis added\]
 
@@ -74,7 +75,7 @@ I find no reason to depart from the holding in _Airtrust_ that the court retai
 
 18     Hence, the Court retains a residual discretion flowing from its inherent powers to prevent injustice under O 92 r 4 of the Rules of Court to set aside any order that falls outside the three circumstances identified in _Ong Cher Keong_ and _Sunny Daisy_ (at \[15\] above).
 
-19     Indeed, contrary to the judgment creditor’s assertion,[\[note: 10\]](#Ftn_10) it is clear that the three circumstances were not intended to be exhaustive of the circumstances in which an order may be set aside. As the court observed in _Ong Cher Keong_ at \[47\], since the order therein did not fall within any of the three circumstances, “the defendant from the beginning faced an uphill task in his application to set it aside.” Similarly, in _Sunny Daisy_ at \[23\], as the order also did not fall within any of the three circumstances, the applicant “had an onerous task to establish that that judgment should be set aside.”
+19     Indeed, contrary to the judgment creditor’s assertion,[^10] it is clear that the three circumstances were not intended to be exhaustive of the circumstances in which an order may be set aside. As the court observed in _Ong Cher Keong_ at \[47\], since the order therein did not fall within any of the three circumstances, “the defendant from the beginning faced an uphill task in his application to set it aside.” Similarly, in _Sunny Daisy_ at \[23\], as the order also did not fall within any of the three circumstances, the applicant “had an onerous task to establish that that judgment should be set aside.”
 
 20     The words “uphill task” and “onerous task” do not connote impossibility; they merely evince that the threshold for invoking the Court’s inherent powers is high. On the facts of _Ong Cher Keong_ and _Sunny Daisy_, the high threshold was not met, and the orders were accordingly not set aside.
 
@@ -138,7 +139,7 @@ It seems to me to be **_contrary to justice_** _and sense to order that a garnis
 
 43     In the present case, while 1AD, being a SOPA adjudication determination, has temporary finality in that it “finally and conclusively determin\[es\] the parties’ rights”, it is liable to being reversed by final adjudication in accordance with the provisions of SOPA (_W Y Steel Construction Pte Ltd v Osko Pte Ltd_ at \[71\]). If, upon final adjudication, it is determined that no debt is in fact due from the garnishee to the judgment debtor, the garnishee would have paid to the judgment creditor a debt which it did not even owe.
 
-44     In fact, contrary to _Hale_ whereby the garnishee’s counterclaim was merely alleged through an affidavit, an adjudicator has in fact determined that the liquidated damages and back-charges owed by the judgment debtor to the garnishee would likely outweigh the value of works which remain unpaid by the garnishee to the judgment debtor. Here, the second adjudicator in 2AD had, after considering the valuation of works in 1AD _as well as_ liquidated damages and back-charges which were not before the adjudicator in 1AD, arrived at a negative sum of $1,176,050.67.[\[note: 11\]](#Ftn_11) Therefore, the garnishee’s counterclaim has been determined to be valid and has temporary finality by virtue of 2AD.
+44     In fact, contrary to _Hale_ whereby the garnishee’s counterclaim was merely alleged through an affidavit, an adjudicator has in fact determined that the liquidated damages and back-charges owed by the judgment debtor to the garnishee would likely outweigh the value of works which remain unpaid by the garnishee to the judgment debtor. Here, the second adjudicator in 2AD had, after considering the valuation of works in 1AD _as well as_ liquidated damages and back-charges which were not before the adjudicator in 1AD, arrived at a negative sum of $1,176,050.67.[^11] Therefore, the garnishee’s counterclaim has been determined to be valid and has temporary finality by virtue of 2AD.
 
 45     In the circumstances, it is plainly unjust to order the garnishee to pay the sum for a debt which is no longer enforceable, and which it may not even owe.
 
@@ -168,27 +169,27 @@ It seems to me to be **_contrary to justice_** _and sense to order that a garnis
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)Wang Jianheng Affidavit (“WJH Affidavit”) at p 67, para 108.
+[^1]: Wang Jianheng Affidavit (“WJH Affidavit”) at p 67, para 108.
 
-[\[note: 2\]](#Ftn_2_1)WJH Affidavit at p 69, para 113.
+[^2]: WJH Affidavit at p 69, para 113.
 
-[\[note: 3\]](#Ftn_3_1)Applicant’s Written Submissions at pp 3–4, para 7; WJH Affidavit at p 73.
+[^3]: Applicant’s Written Submissions at pp 3–4, para 7; WJH Affidavit at p 73.
 
-[\[note: 4\]](#Ftn_4_1)WJH Affidavit at p 124, para 4.
+[^4]: WJH Affidavit at p 124, para 4.
 
-[\[note: 5\]](#Ftn_5_1)_United Integrated Services Pte Ltd v Civil Tech Pte Ltd and another_ at \[5\].
+[^5]: _United Integrated Services Pte Ltd v Civil Tech Pte Ltd and another_ at \[5\].
 
-[\[note: 6\]](#Ftn_6_1)WJH Affidavit at p 127.
+[^6]: WJH Affidavit at p 127.
 
-[\[note: 7\]](#Ftn_7_1)_United Integrated Services Pte Ltd v Civil Tech Pte Ltd and another_ at \[7\].
+[^7]: _United Integrated Services Pte Ltd v Civil Tech Pte Ltd and another_ at \[7\].
 
-[\[note: 8\]](#Ftn_8_1)Applicant’s Written Submissions, Annex B, p 4 at lines 3–5.
+[^8]: Applicant’s Written Submissions, Annex B, p 4 at lines 3–5.
 
-[\[note: 9\]](#Ftn_9_1)Appellant’s Skeletal Arguments at p 5, para 11(a).
+[^9]: Appellant’s Skeletal Arguments at p 5, para 11(a).
 
-[\[note: 10\]](#Ftn_10_1)Applicant’s Written Submissions at pp 9–10, para 26.
+[^10]: Applicant’s Written Submissions at pp 9–10, para 26.
 
-[\[note: 11\]](#Ftn_11_1)_United Integrated Services Pte Ltd v Civil Tech Pte Ltd and another_ at \[7\].
+[^11]: _United Integrated Services Pte Ltd v Civil Tech Pte Ltd and another_ at \[7\].
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23154-SSP.xml)

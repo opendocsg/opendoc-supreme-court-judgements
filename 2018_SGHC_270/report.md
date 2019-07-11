@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # Management Corporation Strata Title Plan No 901 _v_ Lian Tat Huat Trading Pte Ltd  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Originating Summons No 1337 of 2017 (Summonses Nos 2140 and 2145 of 2018)</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">07 December 2018</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Dedar Singh Gill JC</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Kwek Yiu Wing Kevin, Yeo Teng Yung Christopher and Joshua Chan (Legal Solutions LLC) for the plaintiff; Jeremy Gan Eng Tong and Tan Hua Chong Edwin (Rajah &amp; Tann LLP) for the defendant.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">The Management Corporation Strata Title Plan No 901 — Lian Tat Huat Trading Pte Ltd</td></tr></tbody></table>
@@ -18,11 +19,11 @@ Land – Strata titles – By-laws
 
 ## Background
 
-3       The plaintiff is the MC of a development known as the Hoa Nam Building (“the Building”). The defendant, Lian Tat Huat Trading Pte Ltd, is the subsidiary proprietor of a unit on the ground floor of the Building (“the Unit”).[\[note: 1\]](#Ftn_1)
+3       The plaintiff is the MC of a development known as the Hoa Nam Building (“the Building”). The defendant, Lian Tat Huat Trading Pte Ltd, is the subsidiary proprietor of a unit on the ground floor of the Building (“the Unit”).[^1]
 
-4       On 1 August 2016, the defendant entered into a tenancy agreement (“the Tenancy Agreement”) with L20 218 Coffeeshop (“the Tenant”) to lease the Unit for 36 months. The Tenant, who operated a coffee shop, placed its tables, chairs and other items in the walkway outside the Unit and also installed various fixtures such as television sets and lighting in the walkway. It was undisputed that the walkway was the common property of the Building and that the Tenant had encroached on the common property.[\[note: 2\]](#Ftn_2) According to the plaintiff, this had been happening since October 2016.[\[note: 3\]](#Ftn_3)
+4       On 1 August 2016, the defendant entered into a tenancy agreement (“the Tenancy Agreement”) with L20 218 Coffeeshop (“the Tenant”) to lease the Unit for 36 months. The Tenant, who operated a coffee shop, placed its tables, chairs and other items in the walkway outside the Unit and also installed various fixtures such as television sets and lighting in the walkway. It was undisputed that the walkway was the common property of the Building and that the Tenant had encroached on the common property.[^2] According to the plaintiff, this had been happening since October 2016.[^3]
 
-5       Clause 3.30(ii) of the Tenancy Agreement required the Tenant to comply with the rules, regulations, requirements and by-laws of the plaintiff. In turn, the by-laws of the Building (“By-laws”), which were passed by the plaintiff, included a number of provisions on the topic of encroachment. The relevant By-laws read as follows:[\[note: 4\]](#Ftn_4)
+5       Clause 3.30(ii) of the Tenancy Agreement required the Tenant to comply with the rules, regulations, requirements and by-laws of the plaintiff. In turn, the by-laws of the Building (“By-laws”), which were passed by the plaintiff, included a number of provisions on the topic of encroachment. The relevant By-laws read as follows:[^4]
 
 **ENCROACHMENT**
 
@@ -50,9 +51,9 @@ By-law 9 of the First Schedule of the Land Titles (Strata) Act (Cap 185, 1988 Re
 
 9.    A subsidiary proprietor or occupier of a lot shall not obstruct the lawful use of the common property by any person.
 
-6       After the Tenant had failed to comply with repeated warnings by the defendant to remove the unauthorised items and fixtures from the walkway, the defendant commenced proceedings against the Tenant in the State Courts on 14 November 2017, seeking an order of possession against the Tenant.[\[note: 5\]](#Ftn_5)
+6       After the Tenant had failed to comply with repeated warnings by the defendant to remove the unauthorised items and fixtures from the walkway, the defendant commenced proceedings against the Tenant in the State Courts on 14 November 2017, seeking an order of possession against the Tenant.[^5]
 
-7       The plaintiff subsequently filed OS 1337 in the High Court on 28 November 2017, seeking the following relief:[\[note: 6\]](#Ftn_6)
+7       The plaintiff subsequently filed OS 1337 in the High Court on 28 November 2017, seeking the following relief:[^6]
 
 (a)     an order for the defendant to take action against the Tenant to stop the Tenant’s unauthorised encroachments on the common property and to remove all unauthorised fixtures, pursuant to By-law 65;
 
@@ -64,15 +65,15 @@ By-law 9 of the First Schedule of the Land Titles (Strata) Act (Cap 185, 1988 Re
 
 (e)     costs on an indemnity basis.
 
-8       On 10 January 2018, the defendant filed Summons No 184 of 2018 (“SUM 184”) to convert OS 1337 into a writ action. SUM 184 also included a prayer that OS 1337 be set aside. Following negotiations between the parties, the defendant withdrew SUM 184 and agreed to pay the plaintiff $1,500 in costs. The consent order was recorded by the court on 11 April 2018.[\[note: 7\]](#Ftn_7)
+8       On 10 January 2018, the defendant filed Summons No 184 of 2018 (“SUM 184”) to convert OS 1337 into a writ action. SUM 184 also included a prayer that OS 1337 be set aside. Following negotiations between the parties, the defendant withdrew SUM 184 and agreed to pay the plaintiff $1,500 in costs. The consent order was recorded by the court on 11 April 2018.[^7]
 
-9       On 8 May 2018, the defendant filed two further applications, which were the subject of these proceedings:[\[note: 8\]](#Ftn_8)
+9       On 8 May 2018, the defendant filed two further applications, which were the subject of these proceedings:[^8]
 
 (a)     SUM 2140 was an application under O 18 r 19 of the Rules to strike out OS 1337 in its entirety.
 
 (b)     SUM 2145 was an application under O 14 r 12 for the preliminary determination of a question of law. Specifically, the defendant sought a declaration that the plaintiff had sued the wrong party and should not be allowed to claim damages from the defendant.
 
-10     Subsequent to the filing of these applications, the defendant obtained a writ of possession against the Tenant, and the Bailiff of the State Courts issued a notice to the Tenant to vacate the Unit. On 5 July 2018, the Bailiff handed vacant possession of the Unit to the defendant.[\[note: 9\]](#Ftn_9)
+10     Subsequent to the filing of these applications, the defendant obtained a writ of possession against the Tenant, and the Bailiff of the State Courts issued a notice to the Tenant to vacate the Unit. On 5 July 2018, the Bailiff handed vacant possession of the Unit to the defendant.[^9]
 
 ## Parties’ cases
 
@@ -250,23 +251,23 @@ The BCA had proposed recommending that MCs be allowed to impose fines of up to $
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)Defendant’s submissions, para 6.
+[^1]: Defendant’s submissions, para 6.
 
-[\[note: 2\]](#Ftn_2_1)Plaintiff’s submissions, paras 6–7; defendant’s submissions, para 7.
+[^2]: Plaintiff’s submissions, paras 6–7; defendant’s submissions, para 7.
 
-[\[note: 3\]](#Ftn_3_1)Plaintiff’s submissions, para 63.
+[^3]: Plaintiff’s submissions, para 63.
 
-[\[note: 4\]](#Ftn_4_1)1st affidavit of Lim On Guan, pp 27–28 and 57.
+[^4]: 1st affidavit of Lim On Guan, pp 27–28 and 57.
 
-[\[note: 5\]](#Ftn_5_1)Defendant’s submissions, paras 8–9.
+[^5]: Defendant’s submissions, paras 8–9.
 
-[\[note: 6\]](#Ftn_6_1)Originating Summons No 1337 of 2017.
+[^6]: Originating Summons No 1337 of 2017.
 
-[\[note: 7\]](#Ftn_7_1)Certified transcript of 11 April 2018 (SUM 184); plaintiff’s submissions, para 12.
+[^7]: Certified transcript of 11 April 2018 (SUM 184); plaintiff’s submissions, para 12.
 
-[\[note: 8\]](#Ftn_8_1)Plaintiff’s submissions, para 13.
+[^8]: Plaintiff’s submissions, para 13.
 
-[\[note: 9\]](#Ftn_9_1)3rd affidavit of Ang Thian Lam, paras 16–18.
+[^9]: 3rd affidavit of Ang Thian Lam, paras 16–18.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F22496-SSP.xml)

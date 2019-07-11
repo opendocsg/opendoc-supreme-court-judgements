@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # Senda International Capital Ltd _v_ Kiri Industries Ltd and others and another appeal  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Civil Appeal Nos 122 and 126 of 2018</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">29 May 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Court of Appeal</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Judith Prakash JA; Robert French IJ; Bernard Rix IJ</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Nandakumar Ponniya, Wong Tjen Wee, Liu Zeming, Daniel Ho Jeunhsien and Nicolette Oon (Wong &amp; Leow LLC) for the appellant in CA/CA 122/2018; Dinesh Dhillon, Lim Dao Kai, Margaret Joan Ling, Ivan Lim and Teh Shi Ying (Allen &amp; Gledhill LLP) for the 1st to 5th respondents in CA/CA 122/2018 and the respondents in CA/CA 126/2018; Jimmy Yim Wing Kuen SC, Lim Yu Sheng Lucas, Eunice Lau Guan Ting and Wong Wan Kee Stephania (Drew &amp; Napier LLC) for the appellant in CA/CA 126/2018 and the 6th respondent in CA/CA 122/2018.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Senda International Capital Limited — Kiri Industries Limited — Manishkumar Pravinchandra Kiri — Kiri International (Mauritius) Private Limited — Pravinchandra Amrutlal Kiri — Mukherjee Amitava — Dystar Global Holdings (Singapore) Pte Ltd</td></tr></tbody></table>
@@ -104,7 +105,7 @@ That should be read as a reference to Manish’s evidence, for at \[124\] the tr
 
 24     To complete this initial history, at its meeting on 28 and 29 July 2010, the Board established Remuneration and Audit Committees which subsequently held their meetings separately and before each Board meeting. Later, in January 2013, those meetings were consolidated with the DyStar Board meetings.
 
-25     Manish stepped down as co-chair of DyStar on 25 May 2012 while remaining a director. Kiri was facing financial difficulties at the time and DyStar was starting to become profitable. Dystar’s net comprehensive income for the year ended 31 December 2010 was US$114.8m and DyStar’s net loss for the year ended 31 December 2011 was US$2.8m.[\[note: 1\]](#Ftn_1) The consolidated statements as at 31 March of 2010, 2011 and 2012 showed losses: the consolidated net loss for the period from 1 January 2010 to 31 March 2010 was €17.6m,[\[note: 2\]](#Ftn_2) the consolidated comprehensive loss for the year ended 31 March 2011 was US$27.9m, and that for the year ended 31 March 2012 was US$8.0m.[\[note: 3\]](#Ftn_3)
+25     Manish stepped down as co-chair of DyStar on 25 May 2012 while remaining a director. Kiri was facing financial difficulties at the time and DyStar was starting to become profitable. Dystar’s net comprehensive income for the year ended 31 December 2010 was US$114.8m and DyStar’s net loss for the year ended 31 December 2011 was US$2.8m.[^1] The consolidated statements as at 31 March of 2010, 2011 and 2012 showed losses: the consolidated net loss for the period from 1 January 2010 to 31 March 2010 was €17.6m,[^2] the consolidated comprehensive loss for the year ended 31 March 2011 was US$27.9m, and that for the year ended 31 March 2012 was US$8.0m.[^3]
 
 ### Senda becomes majority shareholder and the difficulties begin
 
@@ -236,7 +237,7 @@ Where the decision answers that description and involves a degree of subjectivit
 
 ### Some context and the general position of the parties
 
-50     It is necessary to consider the trial court’s key findings of fact in relation to the transactions and events underpinning its decision on the oppression claims and the arguments advanced on appeal in relation to those findings. The trial court’s particular findings should be read by reference to some key background factors. One was Longsheng’s provision of financial support to DyStar from 2010, including loans which carried an interest rate of 6.6%, albeit repaid by June 2014. Another was Kiri’s inability to provide funds after 2010. Another was DyStar’s progress to profitability which began in 2013 after it had sustained losses from 2010. A table set out in the Joint Respondents’ Case summarises the position from and including 2013:[\[note: 4\]](#Ftn_4)
+50     It is necessary to consider the trial court’s key findings of fact in relation to the transactions and events underpinning its decision on the oppression claims and the arguments advanced on appeal in relation to those findings. The trial court’s particular findings should be read by reference to some key background factors. One was Longsheng’s provision of financial support to DyStar from 2010, including loans which carried an interest rate of 6.6%, albeit repaid by June 2014. Another was Kiri’s inability to provide funds after 2010. Another was DyStar’s progress to profitability which began in 2013 after it had sustained losses from 2010. A table set out in the Joint Respondents’ Case summarises the position from and including 2013:[^4]
 
 <table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="33.6787564766839%"> <col width="32.7576280944157%"> <col width="33.5636154289004%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p class="Table-Heading-Center">Year/Period</p><p class="Table-Heading-Center">Ended</p><p class="Table-Heading-Center">&nbsp;</p></td><td align="left" class="br" rowspan="1" valign="top"><p class="Table-Heading-Center">DyStar’s Net Profit</p><p class="Table-Heading-Center">(USD million)</p></td><td align="left" class="b" rowspan="1" valign="top"><p class="Table-Heading-Center">DyStar’s Cumulative Net Profit (USD million)</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">31.12.2013</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">49.92</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">49.92</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">31.12.2014</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">102.71</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">152.31</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">31.12.2015</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">96.67</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">249.3</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">31.12.2016</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">76.13</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">325.43</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="center" class="Table-Para-1">30.06.2017</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="center" class="Table-Para-1">55.1</p></td><td align="left" class="" rowspan="1" valign="top"><p align="center" class="Table-Para-1">380.53</p></td></tr></tbody></table>
 
@@ -271,7 +272,7 @@ Senda’s counsel put the “independent management” argument front and centre
 
 58     The Amino-Chem Loan was signed by Ruan as a director of DyStar and by Xu as a director of Amino-Chem (HK) Co Ltd. The WPL Loan was signed by Xu as a director of DSPL and Ruan as a director of WPL. In each case they signed on behalf of both the lender and the borrower. Despite the obvious conflict of interest, they saw no need to obtain approval from the DyStar Board. There was also evidence that DyStar had provided US$2m in loans to Amino-Chem (HK) Co Ltd before the Amino-Chem Loan agreement was signed and that the loan agreement itself was backdated.
 
-59     The minutes of the April 2014 Board meeting recorded simply that the matter was “kept in abeyance and Shareholders agree\[d\] to discuss it separately and review it in the next Board meeting”.[\[note: 5\]](#Ftn_5) Amit sent an email to Viktor on 30 May 2014 stating that he hoped that “the outstanding loan given by DyStar to \[Longsheng\] has been unwound”. That had not happened.
+59     The minutes of the April 2014 Board meeting recorded simply that the matter was “kept in abeyance and Shareholders agree\[d\] to discuss it separately and review it in the next Board meeting”.[^5] Amit sent an email to Viktor on 30 May 2014 stating that he hoped that “the outstanding loan given by DyStar to \[Longsheng\] has been unwound”. That had not happened.
 
 60     All the directors of DyStar were present at a meeting of shareholders in July 2014 when the Longsheng Directors sought to justify the Related Party Loans. They argued that Longsheng was guaranteeing loans taken out by DyStar-related entities and was required to put up cash as security. It was thereby deprived of the use of what it called “the Cash Margins”, which were the cash collaterals that it had to put up for the loans taken out by DyStar-related entities. That justification itself indicated that the conduct of the DyStar management in making the loans was, in effect, Longsheng’s conduct. Senda, one of whose directors, Ruan, was also chairman and general manager of Longsheng, as well as chairman of DyStar, could not disentangle itself from that connection by appeals to “independent management”.
 
@@ -320,7 +321,7 @@ Amit sought a copy of the Cash-pooling Agreement in October 2015 and received a 
 
 73     The evidence showed that the loan from DST of US$37m was disclosed in a slide presentation to the Board in October 2014 under the general heading “Related Party Loans as at 30.09.2014”. The slide made no reference to the Cash-pooling Agreement. In contrast, a similar slide at the Board meeting of April 2015 carried a note “Loan is a cash pooling arrangement with SCB”.
 
-74     The trial court characterised the Cash-pooling Agreement as having been put in place “primarily for the purpose of making related party loans to Longsheng” (Judgment at \[157\]). It was entered into by Xu on behalf of DSPL and Chang on behalf of DST. They each had a conflict of interest but made no disclosure of the conflict and sought no prior approval from the DyStar Board. Although they were aware of Kiri’s concerns about the Related Party Loans, the Longsheng Directors did not take any steps to bring the Cash-pooling Agreement to the attention of the Kiri Directors. Yet Senda asserted that the Cash-pooling Agreement was a legitimate commercial arrangement. The trial court held that no cogent explanation was offered to justify the arrangement or why the Longsheng-related entities were the principal beneficiaries.[\[note: 6\]](#Ftn_6) It held the Cash-pooling Agreement to be commercially unfair and oppressive. That evaluation was, on the face of it, correct.
+74     The trial court characterised the Cash-pooling Agreement as having been put in place “primarily for the purpose of making related party loans to Longsheng” (Judgment at \[157\]). It was entered into by Xu on behalf of DSPL and Chang on behalf of DST. They each had a conflict of interest but made no disclosure of the conflict and sought no prior approval from the DyStar Board. Although they were aware of Kiri’s concerns about the Related Party Loans, the Longsheng Directors did not take any steps to bring the Cash-pooling Agreement to the attention of the Kiri Directors. Yet Senda asserted that the Cash-pooling Agreement was a legitimate commercial arrangement. The trial court held that no cogent explanation was offered to justify the arrangement or why the Longsheng-related entities were the principal beneficiaries.[^6] It held the Cash-pooling Agreement to be commercially unfair and oppressive. That evaluation was, on the face of it, correct.
 
 ### The Longsheng Financing Concept
 
@@ -340,7 +341,7 @@ Amit sought a copy of the Cash-pooling Agreement in October 2015 and received a 
 
 ### Special Incentive Payment Complaint
 
-82     During the lunch break at the October 2014 Board meeting Xu suggested to the other DyStar directors that a special payment be made to Ruan to acknowledge his contribution to Dystar. The Kiri Directors did not agree. They considered that payment of dividends should take priority. On 21 November 2014, Xu Shan sent an email to Manish with a proposed DyStar Board resolution dated 21 October 2014 already signed by the Longsheng Directors and seeking his signature. Under the terms of the resolution Dystar China Ltd would pay Ruan US$2m as a special incentive in view of his “personal input and contributions … to the Dystar business performance in 2014”.[\[note: 7\]](#Ftn_7) DyStar China Ltd would also pay 50% of Xu’s special incentive (if any). The Kiri Directors did not sign the resolution. Despite this, the Special Incentive Payment of US$2m was made to Ruan.
+82     During the lunch break at the October 2014 Board meeting Xu suggested to the other DyStar directors that a special payment be made to Ruan to acknowledge his contribution to Dystar. The Kiri Directors did not agree. They considered that payment of dividends should take priority. On 21 November 2014, Xu Shan sent an email to Manish with a proposed DyStar Board resolution dated 21 October 2014 already signed by the Longsheng Directors and seeking his signature. Under the terms of the resolution Dystar China Ltd would pay Ruan US$2m as a special incentive in view of his “personal input and contributions … to the Dystar business performance in 2014”.[^7] DyStar China Ltd would also pay 50% of Xu’s special incentive (if any). The Kiri Directors did not sign the resolution. Despite this, the Special Incentive Payment of US$2m was made to Ruan.
 
 83     Senda sought to justify the payment on the basis of a document dated 21 October 2014 designated by the trial court as “the Special Incentive Plan” (Judgment at \[73\]). The Plan set increasing targets for the DyStar Group’s post-tax earnings for 2014 which, if met, would determine the amount of a Special Incentive Payment to Ruan. Earnings after tax of US$90m would entitle Ruan to an incentive of US$2m. The trial court observed that the Special Incentive Plan, in purporting to set targets for 2014, was ostensibly only formulated late in the year.
 
@@ -354,7 +355,7 @@ Another option was for all the other directors to be paid a nominal amount, and 
 
 There was evidence, evidently denied by Kiri, of a further telephone call between Xu and Manish of 21 November 2014 in which Manish confirmed that the Kiri Directors would support the Special Incentive. It was allegedly on that basis that the draft Board resolution was sent to Manish for signature. He did not sign it because he had changed his mind. That evidence was disputed by Kiri in its submissions and it attracted no finding by the trial court.
 
-87     Senda also relied upon the Memorandum and Articles of Association of DyStar which provided in Article 98 that:[\[note: 8\]](#Ftn_8)
+87     Senda also relied upon the Memorandum and Articles of Association of DyStar which provided in Article 98 that:[^8]
 
 Any director who is appointed to any executive office or serves on any committee or who otherwise performs or renders services, which in the opinion of the Directors are outside his ordinary duties as a Director, may, subject to Section 169 of the Act, be paid such extra remuneration as the Directors may determine.
 
@@ -474,7 +475,7 @@ He agreed with the proposition put to him by the trial court that the concern ex
 
 133    Exclusion from management was a theme in most of the complaints of oppressive conduct already discussed. The trial court considered four other cases of alleged exclusion. Only one of those was found to constitute oppressive conduct.
 
-134    At the meeting of the DyStar Board held in April 2015, Ruan had made a “comment”, according to his affidavit evidence, that members of the Board should channel messages or requests to management through the Board. Later when Amit was seeking information about the Related Party Loans, Viktor referred to the chairman’s advice that Board Members should not contact management directly but through the Board (Judgment at \[252\] and \[253\]). On 6 May 2015, Eric, the CEO at that time, sent a message to Amit advising “as requested by our Chairman during the last Board meeting in Singapore I have instructed all Senior managers and managers in the company to stop any direct communication with any directors of the board unless requested in written form by our Chairman.”[\[note: 9\]](#Ftn_9)
+134    At the meeting of the DyStar Board held in April 2015, Ruan had made a “comment”, according to his affidavit evidence, that members of the Board should channel messages or requests to management through the Board. Later when Amit was seeking information about the Related Party Loans, Viktor referred to the chairman’s advice that Board Members should not contact management directly but through the Board (Judgment at \[252\] and \[253\]). On 6 May 2015, Eric, the CEO at that time, sent a message to Amit advising “as requested by our Chairman during the last Board meeting in Singapore I have instructed all Senior managers and managers in the company to stop any direct communication with any directors of the board unless requested in written form by our Chairman.”[^9]
 
 135    The trial court held that Ruan had issued an instruction to prevent Kiri from obtaining information which the Kiri Directors were seeking about the Related Party Loans. Kiri’s right to take part in management and have access to information for that purpose arose from its expectation that DyStar would be a Board-managed company. The trial court held that Ruan’s instruction was commercially unfair. It hindered the Kiri Directors from obtaining information about the management of DyStar and was “an act of oppression” (Judgment at \[256\]).
 
@@ -506,7 +507,7 @@ He agreed with the proposition put to him by the trial court that the concern ex
 
 ## Senda’s appeal on the counterclaim in Suit 4 and DyStar’s appeal on the claim in Suit 3
 
-143    The counterclaim in Suit 4 and the claim in Suit 3 involve alleged breaches of parts of cl 15 of the SSSA by Kiri. The relevant parts of the clause provide:[\[note: 10\]](#Ftn_10)
+143    The counterclaim in Suit 4 and the claim in Suit 3 involve alleged breaches of parts of cl 15 of the SSSA by Kiri. The relevant parts of the clause provide:[^10]
 
 **15**.     **NON-COMPETITION**
 
@@ -566,7 +567,7 @@ As mentioned previously, Kiri is not aware of the identities of the customers wh
 
 Kiri used this evidence to support an argument that, absent its awareness of who was supplied by its distributors, no inference should be drawn from its non-disclosure of documents in relation to business dealings with Brandix. Further, it was simply not practicable for Kiri to ask its distributors for the identity of the parties to whom they were supplying. Kiri argued that the emails relied upon by the appellants were bereft of particulars and that the trial court was correct to find that there was insufficient evidence.
 
-161    In its written case, DyStar drew attention to evidence by Manish in cross-examination. It was put to him that Kiri’s Kirazol product range was comparable to DyStar’s Remazol range. Manish acknowledged that Remazol was DyStar’s product. Asked if the comparable product for Kiri was Kirazol, he said:[\[note: 11\]](#Ftn_11)
+161    In its written case, DyStar drew attention to evidence by Manish in cross-examination. It was put to him that Kiri’s Kirazol product range was comparable to DyStar’s Remazol range. Manish acknowledged that Remazol was DyStar’s product. Asked if the comparable product for Kiri was Kirazol, he said:[^11]
 
 RGB. Kiri doesn’t sell RGB. All Kiri products are Kirazol, all products of DyStar is Remazol, but where is RGB? We never sold RGB to them …
 
@@ -618,27 +619,27 @@ DyStar Japan is a subsidiary of DyStar.
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)RA vol 3 (Part 13) at p 208.
+[^1]: RA vol 3 (Part 13) at p 208.
 
-[\[note: 2\]](#Ftn_2_1)RA vol 3 (Part 14) at p 36.
+[^2]: RA vol 3 (Part 14) at p 36.
 
-[\[note: 3\]](#Ftn_3_1)RA vol 3 (Part 14) at p 48.
+[^3]: RA vol 3 (Part 14) at p 48.
 
-[\[note: 4\]](#Ftn_4_1)Joint Respondents’ Case (“JRC”) at para 3.
+[^4]: Joint Respondents’ Case (“JRC”) at para 3.
 
-[\[note: 5\]](#Ftn_5_1)RA vol 5 (Part 13) at p 26.
+[^5]: RA vol 5 (Part 13) at p 26.
 
-[\[note: 6\]](#Ftn_6_1)Judgment at \[158\].
+[^6]: Judgment at \[158\].
 
-[\[note: 7\]](#Ftn_7_1)RA vol 5 (Part 60) at p 229.
+[^7]: RA vol 5 (Part 60) at p 229.
 
-[\[note: 8\]](#Ftn_8_1)RA vol 5 (Part 2) at p 108.
+[^8]: RA vol 5 (Part 2) at p 108.
 
-[\[note: 9\]](#Ftn_9_1)RA vol 5 (Part 63) at p 293.
+[^9]: RA vol 5 (Part 63) at p 293.
 
-[\[note: 10\]](#Ftn_10_1)RA vol 5 (Part 2) at p 183.
+[^10]: RA vol 5 (Part 2) at p 183.
 
-[\[note: 11\]](#Ftn_11_1)RA vol 3 (Part 66) at p 171.
+[^11]: RA vol 3 (Part 66) at p 171.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23224-SSP.xml)
