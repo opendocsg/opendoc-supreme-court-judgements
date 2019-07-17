@@ -1,5 +1,6 @@
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Seraya Energy Pte Ltd _v_ Denka Advantech Pte Ltd and another suit (YTL PowerSeraya Pte Ltd, third party)  
+\[2019\] SGHC 100
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Suit Nos 1328 and 1329 of 2014</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">18 April 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Woo Bih Li J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Chan Kah Keen Melvin, Koh Li Qun, Kelvin (Xu Liqun) and Nguyen Vu Lan (TSMP Law Corporation) for the plaintiff and third party; Tay Twan Lip Philip and Yip Li Ming (Rajah &amp; Tann Singapore LLP) for the defendants.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Seraya Energy Pte Ltd — Denka Advantech Private Limited — YTL PowerSeraya Pte Limited</td></tr></tbody></table>
 
@@ -11,7 +12,7 @@ Civil Procedure – Costs – awarded
 
 ## Introduction
 
-1       The background to this action is set out in my judgment dated 2 January 2019 in _Seraya Energy Pte Ltd v Denka Advantech Pte Ltd and another suit (YTL PowerSeraya Pte Ltd, third party)_ \[2019\] SGHC 02 (“the 1st Judgment”). Subsequent to that, I determined the extent of the liability and quantum in a supplementary judgment dated 29 January 2019 in _Seraya Energy Pte Ltd v Denka Advantech Pte Ltd and another suit (YTL PowerSeraya Pte Ltd, third party)_ (“the 2nd Judgment”).
+1       The background to this action is set out in my judgment dated 2 January 2019 in _Seraya Energy Pte Ltd v Denka Advantech Pte Ltd and another suit (YTL PowerSeraya Pte Ltd, third party)_ \[2019\] SGHC 02 (“the 1st Judgment”). Subsequent to that, I determined the extent of the liability and quantum in a supplementary judgment dated 29 January 2019 in _Seraya Energy Pte Ltd v Denka Advantech Pte Ltd and another suit (YTL PowerSeraya Pte Ltd, third party)_ \[2019\] SGHC 18 (“the 2nd Judgment”).
 
 2       Thereafter, I heard the parties on costs and disbursements of the action. I will use the same definitions as in the 1st Judgment.
 

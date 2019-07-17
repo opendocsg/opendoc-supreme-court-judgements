@@ -1,5 +1,5 @@
 ---
-title: Singapore Medical Council v Looi Kok Poh and another matter
+title: 'Singapore Medical Council v Looi Kok Poh and another matter [2019] SGHC 134'
 subtitle: "[2019] SGHC 134 / Decision Date: 27\_May\_2019"
 tags:
   - Professions

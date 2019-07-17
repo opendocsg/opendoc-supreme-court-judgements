@@ -1,5 +1,6 @@
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Ram Niranjan _v_ Navin Jatia and others and another suit  
+\[2019\] SGHC 138
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Suit Nos 911 of 2016 &amp; 139 of 2017</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">29 May 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Chua Lee Ming J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Tan Teng Muan and Loh Li Qin (Mallal &amp; Namazie) for the plaintiff in Suit No 911 of 2016 and defendant in Suit No 139 of 2017; Letchamanan Devadason, Mahtani Bhagwandas and Chong Jia Hao (Legal Standard LLP) for the first to third defendants in Suit No 911 of 2016 and the plaintiff in Suit No 139 of 2017; Sarbjit Singh Chopra and Ho May Kim (Selvam LLC) for the fourth defendant in Suit No 911 of 2016.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Ram Niranjan — Navin Jatia — Samridhi Jatia — Evergreen Global Pte Ltd — Shakuntala Devi</td></tr></tbody></table>
 
@@ -233,7 +234,7 @@ Navin’s counterclaims were based on his allegation that Ram had breached the h
 
 ### Whether the 2015 Deed was void for uncertainty
 
-46     A contract is valid and enforceable if its terms are certain. A term is uncertain if there is no objective or reasonable method of ascertaining how the term is to be carried out: _Rudhra Minerals Pte Ltd v MRI Trading Pte Ltd (formerly known as CWT Integrated Services Pte Ltd)_ at \[32\]. At the same time, courts do strive to uphold contracts where possible rather than striking them down: _Climax Manufacturing Co Ltd v Colles Paragon Converters (S) Pte Ltd_ at \[22\] and \[26\].
+46     A contract is valid and enforceable if its terms are certain. A term is uncertain if there is no objective or reasonable method of ascertaining how the term is to be carried out: _Rudhra Minerals Pte Ltd v MRI Trading Pte Ltd (formerly known as CWT Integrated Services Pte Ltd)_ \[2013\] 4 SLR 1023 at \[32\]. At the same time, courts do strive to uphold contracts where possible rather than striking them down: _Climax Manufacturing Co Ltd v Colles Paragon Converters (S) Pte Ltd_ \[1998\] 3 SLR(R) 540 at \[22\] and \[26\].
 
 47     As stated in \[31(a)\] above, the 2015 Deed was stated to be in full and final settlement of all “Issues”. Ram submitted that the definition of “Issues” was uncertain. Ram also argued that it was not clear what previous agreements, arrangements and/or understandings were superseded by the 2015 Deed (see \[31(c)\] above).
 
@@ -245,7 +246,7 @@ Navin’s counterclaims were based on his allegation that Ram had breached the h
 
 50     Mrs Ram pleaded that Navin had made life very unpleasant at the Poole Road property, and that she signed the 2015 Deed in reliance on Navin’s misrepresentation that things “would return to normal” if she signed the 2015 Deed.[^60] According to Mrs Ram, Navin continued to make life unhappy for her.
 
-51     An actionable misrepresentation consists in a false statement of _existing or past fact_ made by one party before or at the time of making the contract, which is addressed to the party misled, and which induces that party to enter into the contract: _Tan Chin Seng and others v Raffles Town Club Pte Ltd_ at \[20\], citing _Anson’s Law of Contract_ (28th Ed, 2002) at p 237. In other words, an actionable misrepresentation does not operate on statements of intention.
+51     An actionable misrepresentation consists in a false statement of _existing or past fact_ made by one party before or at the time of making the contract, which is addressed to the party misled, and which induces that party to enter into the contract: _Tan Chin Seng and others v Raffles Town Club Pte Ltd_ \[2003\] 3 SLR(R) 307 at \[20\], citing _Anson’s Law of Contract_ (28th Ed, 2002) at p 237. In other words, an actionable misrepresentation does not operate on statements of intention.
 
 52     It was not necessary for me to make any finding as to whether Navin made the representations as alleged. It was clear that both Ram’s and Mrs Ram’s pleaded cases on misrepresentation were based on statements of intention and not existing fact, and therefore failed. A statement of intention can be a representation of existing fact where the representor did not in fact hold the intention he was expressing. However, this was not pleaded by Ram and Mrs Ram.
 
@@ -257,7 +258,7 @@ Navin’s counterclaims were based on his allegation that Ram had breached the h
 
 #### Economic duress
 
-55     There are two elements in duress. First, there had to be pressure amounting to compulsion of the victim’s will. Second, the pressure exerted had to be illegitimate: _E C Investment Holding Pte Ltd v Ridout Residence Pte Ltd and another_ at \[48\].
+55     There are two elements in duress. First, there had to be pressure amounting to compulsion of the victim’s will. Second, the pressure exerted had to be illegitimate: _E C Investment Holding Pte Ltd v Ridout Residence Pte Ltd and another_ \[2011\] 2 SLR 232 at \[48\].
 
 56     Both Ram and Mrs Ram claimed that they signed the 2015 Deed under economic duress. Navin stopped paying the Annual Allowance to his parents in 2013. Ram claimed that he was in a vulnerable financial position, having been deprived of the Annual Allowance and his Bonds, and that Navin was adamant that Ram had to sign the 2015 Deed before he would receive either.[^63]
 
@@ -273,7 +274,7 @@ Navin’s counterclaims were based on his allegation that Ram had breached the h
 
 #### Undue influence
 
-60     In _BOM v BOK and another appeal_ (“_BOM v BOK_”), the Court of Appeal provided a useful summary on the law of undue influence (at \[101\]). Essentially, there are two classes of undue influence:
+60     In _BOM v BOK and another appeal_ \[2019\] 1 SLR 349 (“_BOM v BOK_”), the Court of Appeal provided a useful summary on the law of undue influence (at \[101\]). Essentially, there are two classes of undue influence:
 
 (a)     “Class 1” undue influence, also known as actual undue influence, requires the plaintiff to show that he entered into the impugned transaction because of the undue influence exerted upon him by the defendant. To do this, the plaintiff has to demonstrate that: (i) the defendant had the capacity to influence him; (ii) the influence was exercised; (iii) its exercise was undue; and (iv) its exercise brought about the transaction.
 
@@ -297,7 +298,7 @@ Navin’s counterclaims were based on his allegation that Ram had breached the h
 
 #### Unconscionability
 
-67     Before me, Ram and Mrs Ram relied on the High Court’s decision in _BOK v BOL and another_ (“_BOK v BOL_”). In _BOK v BOL_, the High Court held that the doctrine of unconscionability forms part of the law of Singapore, and set out a three-stage test to determine whether a transaction is unconscionable (at \[120\]–\[122\]). First, there must be weakness on one side, which could arise from poverty, ignorance or other circumstances, like acute grief. Second, there must be exploitation of that weakness and a transaction at an undervalue would be a necessary component of this requirement. Third, upon the satisfaction of these two elements, it will be for the defendant to demonstrate that the transaction was fair, just and reasonable.
+67     Before me, Ram and Mrs Ram relied on the High Court’s decision in _BOK v BOL and another_ \[2017\] SGHC 316 (“_BOK v BOL_”). In _BOK v BOL_, the High Court held that the doctrine of unconscionability forms part of the law of Singapore, and set out a three-stage test to determine whether a transaction is unconscionable (at \[120\]–\[122\]). First, there must be weakness on one side, which could arise from poverty, ignorance or other circumstances, like acute grief. Second, there must be exploitation of that weakness and a transaction at an undervalue would be a necessary component of this requirement. Third, upon the satisfaction of these two elements, it will be for the defendant to demonstrate that the transaction was fair, just and reasonable.
 
 68     I concluded that there was no reason to set aside the 2015 Deed for unconscionability. Ram and Mrs Ram relied on the same allegations that they relied on for economic duress and undue influence. In my view, they had not shown that they were suffering from such a weakness as to invoke the doctrine.
 
@@ -307,7 +308,7 @@ Navin’s counterclaims were based on his allegation that Ram had breached the h
 
 ## _Whether Mrs Ram could rely on_ non est factum
 
-71     Mrs Ram also relied on the doctrine of _non est factum_ to set aside the 2015 Deed. The doctrine of _non est factum_ operates as an exception to the general rule that a person is bound by his signature on a contractual document even if he did not fully understand its terms. Two elements need to be established for this doctrine to be invoked. First, there must be a radical difference between what was signed and what was thought to have been signed. Second, the party seeking to rely on the doctrine must prove that he took care in signing the document, that is, he must not have been negligent. See _Mahidon Nichiar bte Mohd Ali and others v Dawood Sultan Kamaldin_ at \[119\].
+71     Mrs Ram also relied on the doctrine of _non est factum_ to set aside the 2015 Deed. The doctrine of _non est factum_ operates as an exception to the general rule that a person is bound by his signature on a contractual document even if he did not fully understand its terms. Two elements need to be established for this doctrine to be invoked. First, there must be a radical difference between what was signed and what was thought to have been signed. Second, the party seeking to rely on the doctrine must prove that he took care in signing the document, that is, he must not have been negligent. See _Mahidon Nichiar bte Mohd Ali and others v Dawood Sultan Kamaldin_ \[2015\] 5 SLR 62 at \[119\].
 
 72     Navin brought Mr Mohan Singh, a lawyer, to the signing of the 2015 Deed. Mr Mohan Singh was the witness to the execution of the 2015 Deed by all the four parties. He also explained the 2015 Deed to Mrs Ram in Hindi. However, Mrs Ram claimed that nobody explained the deed to her.[^67] She admitted that Mr Mohan Singh was present but claimed that she could not understand him because his Hindi was poor.
 
@@ -319,7 +320,7 @@ Navin’s counterclaims were based on his allegation that Ram had breached the h
 
 75     Ram submitted that the 2015 Deed was a family arrangement and as such, it should be set aside because Navin failed to disclose a material fact, that is, Navin failed to disclose the actual amount of Ram’s share of the proceeds from the sale of the Bonds.
 
-76     A family arrangement is an agreement between members of the same family intended to be generally and reasonably for the benefit of the family either by compromising doubtful or disputed rights or by preserving the family property or the peace or security of the family by avoiding litigation or by saving its honour: _Rajabali Jumabhoy and others v Ameerali R Jumabhoy and others_ (“_Rajabali Jumabhoy_”) (at \[204\]). In any family arrangement there must be honest disclosure by each party to the other of all such material facts known to him, relative to the rights and title of either, as are calculated to influence the other’s judgment in the adoption of the arrangement, and any advantage taken by either of the parties of the other’s known ignorance of such facts will render the agreement liable to be set aside: _Halsbury’s Laws of England_ vol 18 (Butterworths, 4thEd, 1977), at para 315.
+76     A family arrangement is an agreement between members of the same family intended to be generally and reasonably for the benefit of the family either by compromising doubtful or disputed rights or by preserving the family property or the peace or security of the family by avoiding litigation or by saving its honour: _Rajabali Jumabhoy and others v Ameerali R Jumabhoy and others_ \[1997\] 2 SLR(R) 296 (“_Rajabali Jumabhoy_”) (at \[204\]). In any family arrangement there must be honest disclosure by each party to the other of all such material facts known to him, relative to the rights and title of either, as are calculated to influence the other’s judgment in the adoption of the arrangement, and any advantage taken by either of the parties of the other’s known ignorance of such facts will render the agreement liable to be set aside: _Halsbury’s Laws of England_ vol 18 (Butterworths, 4thEd, 1977), at para 315.
 
 77     Clearly, the 2015 Deed was a family arrangement as defined in R_ajabali Jumabhoy_. The next question was whether Navin failed to disclose a material fact.
 
@@ -339,7 +340,7 @@ Navin’s counterclaims were based on his allegation that Ram had breached the h
 
 83     Navin and Mrs Navin submitted that the MOU was an informal family arrangement set out in writing, and that there was no intention to create legal relations by any party. I disagreed.
 
-84     It is true that in social and domestic arrangements, there is a presumption that parties do not intend to create legal relations: _Gay Choon Ing v Loh Sze Ti Terence Peter and another appeal_ (at \[72\]). Nevertheless, it bears reminding that the facts, context and circumstances in each case must be carefully considered. In my view, the presumption was easily rebutted in this case. An objective assessment of the facts showed that the parties clearly intended the MOU to be legally binding.
+84     It is true that in social and domestic arrangements, there is a presumption that parties do not intend to create legal relations: _Gay Choon Ing v Loh Sze Ti Terence Peter and another appeal_ \[2009\] 2 SLR(R) 332 (at \[72\]). Nevertheless, it bears reminding that the facts, context and circumstances in each case must be carefully considered. In my view, the presumption was easily rebutted in this case. An objective assessment of the facts showed that the parties clearly intended the MOU to be legally binding.
 
 85     First, disputes had arisen between Ram and Navin over various matters. One of the more notable incidents was when Navin attempted to punch Ram during a heated quarrel. Mrs Ram managed to push Ram aside and Navin’s fist shattered a glass window instead.[^70] Mrs Ram testified that during a “big disagreement” between Ram and Navin in 2006, Navin demanded that Ram give him shares in Evergreen.[^71]
 
@@ -451,7 +452,7 @@ An additional provision relating to Ram’s and Mrs Ram’s right to stay at the
 
 113    Navin’s case was that the contractual licence under the MOU was subject to an implied term that Ram/Mrs Ram did not misbehave in such a way as would make it unreasonable for them to insist on staying at the property.
 
-114    The Court of Appeal in _Sembcorp Marine Ltd v PPL Holdings Pte Ltd_ set out a three-step process for the implication of contractual terms (at \[101\]). The first step is to ascertain how the gap in the contract arises. Implication will be considered only if the court discerns that the gap arose because the parties did not contemplate the gap. At the second step, the court considers whether it is necessary in the business or commercial sense to imply a term in order to give the contract efficacy. Finally, the court considers whether the specific term to be implied is one which the parties, having regard to the need for business efficacy, would have responded “Oh, of course!” had the proposed term been put to them at the time of the contract. If it is not possible to find such a clear response, then the proposed term will not be implied. The exercise of implying contractual terms in fact is best understood as an exercise in giving effect to the parties’ _presumed_ (and not _actual_) intentions (at \[93\]).
+114    The Court of Appeal in _Sembcorp Marine Ltd v PPL Holdings Pte Ltd_ \[2013\] 4 SLR 193 set out a three-step process for the implication of contractual terms (at \[101\]). The first step is to ascertain how the gap in the contract arises. Implication will be considered only if the court discerns that the gap arose because the parties did not contemplate the gap. At the second step, the court considers whether it is necessary in the business or commercial sense to imply a term in order to give the contract efficacy. Finally, the court considers whether the specific term to be implied is one which the parties, having regard to the need for business efficacy, would have responded “Oh, of course!” had the proposed term been put to them at the time of the contract. If it is not possible to find such a clear response, then the proposed term will not be implied. The exercise of implying contractual terms in fact is best understood as an exercise in giving effect to the parties’ _presumed_ (and not _actual_) intentions (at \[93\]).
 
 115    I agreed with Navin and Mrs Navin that the contractual licence under the MOU was subject to the implied term that Ram/Mrs Ram did not misbehave in such a way as would make it unreasonable for them to insist on staying at the property (“the Implied Term”). First, the MOU did not address the question whether the contractual licence could be revoked on such a ground. On the evidence, it was clear that this was not contemplated for otherwise, surely, it would have been addressed. Second, given the disputes between Ram and Navin, it was necessary to imply a term as to revocation of the licence, in order to give the MOU efficacy. Third, in view of the disputes between Ram and Navin, the Implied Term would, in my view, have received their unhesitating agreement had it been proposed to them then.
 
@@ -505,7 +506,7 @@ An additional provision relating to Ram’s and Mrs Ram’s right to stay at the
 
 ## Conversion and detinue
 
-128    Generally, an act of conversion occurs when there is an unauthorised dealing with the claimant’s chattel as to question or deny his title to it, while a claim in detinue lies at the suit of the person who has a right to immediate possession of goods against a person who is in possession of the goods and who, upon proper demand and without lawful excuse, fails or refuses to deliver them up: _Simgood Pte Ltd v MLC Shipbuilding Sdn Bhd_ (at \[150\] and \[159\]).
+128    Generally, an act of conversion occurs when there is an unauthorised dealing with the claimant’s chattel as to question or deny his title to it, while a claim in detinue lies at the suit of the person who has a right to immediate possession of goods against a person who is in possession of the goods and who, upon proper demand and without lawful excuse, fails or refuses to deliver them up: _Simgood Pte Ltd v MLC Shipbuilding Sdn Bhd_ \[2016\] 1 SLR 1129 (at \[150\] and \[159\]).
 
 129    Navin had engaged professional movers to pack his parents’ belongings at the Poole Road property into several boxes, which were then returned to them.[^116] Ram testified that Navin had “sent two truckloads of cartons to the hotel” where he was putting up with Mrs Ram temporarily.[^117] Ram/Mrs Ram claimed that certain items were not returned to them.[^118] However, neither Ram nor Mrs Ram produced any evidence in support of their claim apart from their bare statements. I therefore dismissed these claims.
 
@@ -554,7 +555,7 @@ An additional provision relating to Ram’s and Mrs Ram’s right to stay at the
   
   
 
-135    The evidentiary burden of proof in so far as allegations of forgery and fraud are concerned must be at the upper end of the scale, albeit on a balance of probabilities: _R Mahendran and another v R Arumuganathan_ (at \[17\]). In this regard, the role of expert handwriting analysis may be probative of the genuineness of signatures, but like all other forms of evidence, the probative value of the expert’s opinion is to be assessed and weighed against contradictory evidence: _Sudha Natrajan v The Bank of East Asia Ltd_ (at \[45\]). I need only add that where Ram’s expert found it inconclusive whether a questioned signature was Ram’s, that would not be sufficient to discharge Ram’s burden of proving that the signature was a forgery.
+135    The evidentiary burden of proof in so far as allegations of forgery and fraud are concerned must be at the upper end of the scale, albeit on a balance of probabilities: _R Mahendran and another v R Arumuganathan_ \[1999\] 2 SLR(R) 166 (at \[17\]). In this regard, the role of expert handwriting analysis may be probative of the genuineness of signatures, but like all other forms of evidence, the probative value of the expert’s opinion is to be assessed and weighed against contradictory evidence: _Sudha Natrajan v The Bank of East Asia Ltd_ \[2017\] 1 SLR 141 (at \[45\]). I need only add that where Ram’s expert found it inconclusive whether a questioned signature was Ram’s, that would not be sufficient to discharge Ram’s burden of proving that the signature was a forgery.
 
 #### Transfer of 499,999 shares to Mrs Ram and one share to Navin
 
@@ -738,7 +739,7 @@ An additional provision relating to Ram’s and Mrs Ram’s right to stay at the
 
 (_a_)    that the affairs of the company are being conducted or the powers of the directors are being exercised in a manner oppressive to one or more of the members or holders of debentures including himself or in disregard of his or their interests as members, shareholders or holders of debentures of the company …
 
-182    The touchstone for minority oppression is whether the conduct being complained of is commercially unfair: _Over & Over Ltd v Bonvests Holdings Ltd_ (“_Over & Over_”) (at \[81\]).
+182    The touchstone for minority oppression is whether the conduct being complained of is commercially unfair: _Over & Over Ltd v Bonvests Holdings Ltd_ \[2010\] 2 SLR 776 (“_Over & Over_”) (at \[81\]).
 
 183    I found that:
 

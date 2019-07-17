@@ -1,5 +1,6 @@
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # EQ Capital Investments Ltd _v_ The Wellness Group Pte Ltd  
+\[2019\] SGHC 154
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Companies Winding Up No 62 of 2018</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">25 June 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Chua Lee Ming J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Davinder Singh SC, Jaikanth Shankar, Srruthi Ilankathir, Hanspreet Singh Sachdev, Rajvinder Singh Chahal and Avinesh Selvarajah (Davinder Singh Chambers LLC) for the plaintiff; Toby Landau QC and Calvin Liang (instructed), Chua Sui Tong, Liew Yik Wee and Wong Wan Chee (Rev Law LLC) for the defendant; Alvin Yeo SC, Koh Swee Yen, Lin Chunlong and Jasmine Low (WongPartnership LLP) for the 1st Non-Party.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">EQ Capital Investments Ltd — The Wellness Group Pte Ltd</td></tr></tbody></table>
 
@@ -60,7 +61,7 @@ Companies – Winding up – Stay of execution pending appeal
 
 (b)     Ron Sim’s proposal and OSIM’s and Paris’ approval of the TWG Tea Rights Issue, which was, _inter alia_, not for commercial reasons and intended to dilute Wellness’ shareholding.
 
-17     On 22 April 2016, I dismissed the claims in Suit 187 – see _The Wellness Group Pte Ltd and another v OSIM International Ltd and others_ . Among other things, I found as follows (at \[95\], \[107\] and \[200\]):
+17     On 22 April 2016, I dismissed the claims in Suit 187 – see _The Wellness Group Pte Ltd and another v OSIM International Ltd and others_ \[2016\] 3 SLR 729. Among other things, I found as follows (at \[95\], \[107\] and \[200\]):
 
 (a)     OSIM did not cause TWG Tea’s failure to meet the performance target in the Profit Swing Clause and OSIM was entitled to exercise its rights under that clause. TWG Tea failed to achieve its project profit target for FY2013 because the profit projections presented by Manoj were (as Manoj knew) unreliable.
 
@@ -96,9 +97,9 @@ Companies – Winding up – Stay of execution pending appeal
 
 (b)     the words “unfair and unjust” refer to commercial morality or integrity which the law ought to uphold or sustain having regard to all the circumstances.
 
-See _Re HL Sensecurity Pte Ltd (formerly known as HL Integral Systems Pte Ltd)_ at \[28\].
+See _Re HL Sensecurity Pte Ltd (formerly known as HL Integral Systems Pte Ltd)_ \[2006\] SGHC 135 at \[28\].
 
-22     As for s 254(1)(_i_), it is well established that the “notion of unfairness is the foundation of the court’s jurisdiction under s 254(1)(_i_)”: _Perennial (Capitol) Pte Ltd and another v Capitol Investment Holdings Pte Ltd and other appeals_ (“_Perennial_”) at \[40\]. Section 254(1)(_i_) is a jurisdiction permitting the court to superimpose equitable considerations on the exercise of legal rights: _Perennial_ at \[41\]. The test for unfairness is an objective one, _ie_, whether a reasonable bystander would regard the majority shareholder’s conduct as having unfairly prejudiced the minority’s interests: _Summit Co (S) Pte Ltd v Pacific Biosciences Pte Ltd_ at \[5\]. It is also well established that the court can wind up a company under s 254(1)(_i_) where it is found that the company’s business has been carried on in a fraudulent manner or there is a lack of probity in the directors’ conduct: _Ma Wai Fong Kathryn v Trillion Investment Pte Ltd and others and another appeal_ (“_Kathryn Ma_”) at \[38\].
+22     As for s 254(1)(_i_), it is well established that the “notion of unfairness is the foundation of the court’s jurisdiction under s 254(1)(_i_)”: _Perennial (Capitol) Pte Ltd and another v Capitol Investment Holdings Pte Ltd and other appeals_ \[2018\] 1 SLR 763 (“_Perennial_”) at \[40\]. Section 254(1)(_i_) is a jurisdiction permitting the court to superimpose equitable considerations on the exercise of legal rights: _Perennial_ at \[41\]. The test for unfairness is an objective one, _ie_, whether a reasonable bystander would regard the majority shareholder’s conduct as having unfairly prejudiced the minority’s interests: _Summit Co (S) Pte Ltd v Pacific Biosciences Pte Ltd_ \[2007\] 1 SLR(R) 46 at \[5\]. It is also well established that the court can wind up a company under s 254(1)(_i_) where it is found that the company’s business has been carried on in a fraudulent manner or there is a lack of probity in the directors’ conduct: _Ma Wai Fong Kathryn v Trillion Investment Pte Ltd and others and another appeal_ \[2019\] 1 SLR 1046 (“_Kathryn Ma_”) at \[38\].
 
 ### Whether grounds established
 
@@ -268,7 +269,7 @@ See _Re HL Sensecurity Pte Ltd (formerly known as HL Integral Systems Pte Ltd)_ 
 
 65     Sunbreeze and Wellness made an oral application for a stay of my order pending appeal. Both undertook to file their appeals.
 
-66     EQ Capital referred me to _In re A & BC Chewing Gum Ltd_ (“_In re A & BC_”). In that case, the court refused to stay a winding up order. Plowman J reasoned (at 592G–593A) that if a stay was granted and the appeal against the winding up order failed, the delay would very seriously hamper the liquidator’s ability to ascertain (a) the assets of the company as at the date of the winding up order and the date of the application, and (b) the liabilities of the company as at the date of the winding up order. In contrast, assuming a stay was not granted, a profitable business could be carried on and the refusal of a stay would have caused no additional harm (at 593A–B).
+66     EQ Capital referred me to _In re A & BC Chewing Gum Ltd_ \[1975\] 1 WLR 579 (“_In re A & BC_”). In that case, the court refused to stay a winding up order. Plowman J reasoned (at 592G–593A) that if a stay was granted and the appeal against the winding up order failed, the delay would very seriously hamper the liquidator’s ability to ascertain (a) the assets of the company as at the date of the winding up order and the date of the application, and (b) the liabilities of the company as at the date of the winding up order. In contrast, assuming a stay was not granted, a profitable business could be carried on and the refusal of a stay would have caused no additional harm (at 593A–B).
 
 67     In the present case, Wellness was a holding company with no business operations. I agreed with EQ Capital that there was a need for the liquidators to step in. However, I agreed with Sunbreeze and Wellness that Wellness’ shareholding in TWG Tea ought to be preserved pending their appeal. Otherwise, the shares might be sold by the liquidators under distress sale conditions and a successful appeal would be rendered nugatory.
 

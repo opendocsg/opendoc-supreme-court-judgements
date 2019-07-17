@@ -1,5 +1,6 @@
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # United Integrated Services Pte Ltd _v_ Harmonious Coretrades Pte Ltd  
+\[2019\] SGHC 126
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Originating Summons 1113 of 2018 (Registrar's Appeal No 79 of 2019)</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">15 May 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Chan Seng Onn J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Lee Mei Yong Debbie (ECYT Law LLC) for the appellant; Lynette Chew and Lu Huiru Grace (Holborn Law LLC) for the respondent.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">United Integrated Services Pte Ltd — Harmonious Coretrades Pte Ltd</td></tr></tbody></table>
 
@@ -43,7 +44,7 @@ Civil Procedure – Inherent powers – Garnishee orders
 
 10     On 23 November 2018, after the garnishee order was made final, a second adjudication determination (“2AD”) which related to the same works considered in 1AD determined that no amount was in fact payable by the garnishee to the judgment debtor. This was because the value of works done by the judgment debtor was offset by liquidated damages and back-charges which it owed to the garnishee.[^7]
 
-11     In a separate hearing before me, the garnishee thus sought to stay the enforcement of 1AD. Having considered that 2AD had in effect superseded 1AD, and to prevent an unintended windfall that could accrue to the judgment debtor if 1AD were to be enforced, I ordered the stay of enforcement of 1AD by the judgment debtor unless it obtained an order setting aside 2AD (_United Integrated Services Pte Ltd v Civil Tech Pte Ltd and another_ (“_UIS v CTPL_”) at \[24\]). However, upon further arguments, I was satisfied that there was clear and objective evidence that the judgment debtor was insolvent. On that basis, I lifted the condition for the stay, and granted an unconditional stay of enforcement of 1AD (_UIS v CTPL_ at \[30\]).
+11     In a separate hearing before me, the garnishee thus sought to stay the enforcement of 1AD. Having considered that 2AD had in effect superseded 1AD, and to prevent an unintended windfall that could accrue to the judgment debtor if 1AD were to be enforced, I ordered the stay of enforcement of 1AD by the judgment debtor unless it obtained an order setting aside 2AD (_United Integrated Services Pte Ltd v Civil Tech Pte Ltd and another_ \[2019\] SGHC 32 (“_UIS v CTPL_”) at \[24\]). However, upon further arguments, I was satisfied that there was clear and objective evidence that the judgment debtor was insolvent. On that basis, I lifted the condition for the stay, and granted an unconditional stay of enforcement of 1AD (_UIS v CTPL_ at \[30\]).
 
 12     As a result of my decision in _UIS v CTPL_, no debt remained due and payable by the garnishee to the judgment debtor. On that basis, the garnishee sought to set aside the final garnishee order.
 
@@ -57,7 +58,7 @@ For the avoidance of doubt it is hereby declared that nothing in these Rules sha
 
 ### The three circumstances for setting aside an order
 
-15     It is undisputed that the Court may set aside an order. As Judith Prakash J (as she then was) observed in _Ong Cher Keong v Goh Chin Soon Ricky_ (“_Ong Cher Keong_”) at \[44\]–\[46\] and _Sunny Daisy Ltd v WBG Network (Singapore) Pte Ltd_ (“_Sunny Daisy_”) at \[21\], the three circumstances in which an order may be set aside are:
+15     It is undisputed that the Court may set aside an order. As Judith Prakash J (as she then was) observed in _Ong Cher Keong v Goh Chin Soon Ricky_ \[2001\] 1 SLR(R) 213 (“_Ong Cher Keong_”) at \[44\]–\[46\] and _Sunny Daisy Ltd v WBG Network (Singapore) Pte Ltd_ (“_Sunny Daisy_”) at \[21\], the three circumstances in which an order may be set aside are:
 
 (a)     First, where the order has been obtained irregularly (_ie_, the person obtaining the order has not complied with the requirements of the Rules of Court in some aspect);
 
@@ -69,7 +70,7 @@ For the avoidance of doubt it is hereby declared that nothing in these Rules sha
 
 ### The court retains the discretion to set aside an order outside the three circumstances
 
-17     The garnishee therefore sought to rely on the inherent powers of the Court to prevent injustice to set aside the final garnishee order. In _Airtrust (Singapore) Pte Ltd v Kao Chai-Chau Linda_ (“_Airtrust_”), George Wei JC (as he then was) observed at \[22\] that “the court retains the residual discretion to vary its terms where this is necessary to prevent injustice.” Such views were echoed in _Sentosa Building Construction Pte Ltd v DJ Builders & Contractors Pte Ltd_ (“_Sentosa Building_”) at \[46\]:
+17     The garnishee therefore sought to rely on the inherent powers of the Court to prevent injustice to set aside the final garnishee order. In _Airtrust (Singapore) Pte Ltd v Kao Chai-Chau Linda_ \[2014\] 2 SLR 693 (“_Airtrust_”), George Wei JC (as he then was) observed at \[22\] that “the court retains the residual discretion to vary its terms where this is necessary to prevent injustice.” Such views were echoed in _Sentosa Building Construction Pte Ltd v DJ Builders & Contractors Pte Ltd_ \[2015\] SGHCR 18 (“_Sentosa Building_”) at \[46\]:
 
 I find no reason to depart from the holding in _Airtrust_ that the court retains a residual discretion – even in the case of a contractual consent order – to vary the terms of the order where this is necessary to prevent injustice. This stated principle of law is eminently justified by O 92 r 4 of the Rules of Court (Cap 322, R 5, 2014 Rev Ed) (“ROC”) which provides that “nothing in \[the ROC\] shall be deemed to limit or affect the inherent powers of the Court to make any order as may be necessary to prevent injustice or to prevent an abuse of the process of the Court” (see also _Airtrust_ at \[23\]). In my view, the same position should in principle _a fortiori_ hold true vis-à-vis uncontested consent orders.
 
@@ -79,19 +80,19 @@ I find no reason to depart from the holding in _Airtrust_ that the court retai
 
 20     The words “uphill task” and “onerous task” do not connote impossibility; they merely evince that the threshold for invoking the Court’s inherent powers is high. On the facts of _Ong Cher Keong_ and _Sunny Daisy_, the high threshold was not met, and the orders were accordingly not set aside.
 
-21     That the threshold for invoking the court’s residual discretion to utilise its inherent powers is high is not new. As the Court of Appeal observed in _Roberto Building Material Pte Ltd & others v Overseas-Chinese Banking Corp Ltd and another_ (“_Roberto Building_”) at \[16\]:
+21     That the threshold for invoking the court’s residual discretion to utilise its inherent powers is high is not new. As the Court of Appeal observed in _Roberto Building Material Pte Ltd & others v Overseas-Chinese Banking Corp Ltd and another_ \[2003\] 2 SLR(R) 353 (“_Roberto Building_”) at \[16\]:
 
-By its very nature, the inherent jurisdiction of the court should only be exercised in special circumstances where the justice of the case so demands. The court had, in _Wee Soon Kim Anthony v Law Society of Singapore_ cited a passage from Sir Jack Jacob published in (1970) 23 Current Legal Problems 23, indicating how this jurisdiction should be exercised:
+By its very nature, the inherent jurisdiction of the court should only be exercised in special circumstances where the justice of the case so demands. The court had, in _Wee Soon Kim Anthony v Law Society of Singapore_ \[2001\] 2 SLR(R) 821 cited a passage from Sir Jack Jacob published in (1970) 23 Current Legal Problems 23, indicating how this jurisdiction should be exercised:
 
 This \[inherent\] jurisdiction may be invoked when it is just and equitable to do so and in particular to ensure the observance of the due process of law, to prevent improper vexation or oppression and to do justice between the parties. Without intending to be exhaustive, we think an essential touchstone is really that of ‘need’.
 
-22     It is hereby noted that while the court in _Roberto Building_ had utilised the term “inherent jurisdiction” as opposed to “inherent powers”, it was likely delimiting the scope of its inherent powers. As the Court of Appeal clarified in Re _Nalpon Zero Geraldo Mario_ at \[33\]:
+22     It is hereby noted that while the court in _Roberto Building_ had utilised the term “inherent jurisdiction” as opposed to “inherent powers”, it was likely delimiting the scope of its inherent powers. As the Court of Appeal clarified in Re _Nalpon Zero Geraldo Mario_ \[2013\] 3 SLR 258 at \[33\]:
 
 the terms “inherent jurisdiction” and “inherent powers” should mean different things, the former being the court’s inherent authority to hear a matter, while the latter being its inherent capacity to give effect to its determination by making or granting the orders or reliefs sought by the successful party to the dispute.
 
 23     Notwithstanding the inappropriate use of “inherent jurisdiction” in _Roberto Building_, the point remains that the threshold for invoking the court’s inherent powers is high.
 
-24     It must also be correct that the Court’s powers of setting aside orders are not to be limited to the three circumstances. As the Court of Appeal recognised in _Wee Soon Kim Anthony v Law Society of Singapore_ (“_Anthony Wee_”) at \[27\], the inherent powers of the court “should not be circumscribed by rigid criteria or tests.” Hence, the circumstances in which a court may set aside an order or judgment must remain sufficiently open-ended to account for previously unforeseen situations which would warrant the court stepping in to “prevent injustice or to prevent an abuse of the process of the Court” (O 92 r 4 of the Rules of Court). To deem the three circumstances as exhaustive of the grounds for setting aside would be to subsume the inherent powers of the court in the context of setting aside to those three grounds, directly contradicting the pronouncements in _Anthony Wee_.
+24     It must also be correct that the Court’s powers of setting aside orders are not to be limited to the three circumstances. As the Court of Appeal recognised in _Wee Soon Kim Anthony v Law Society of Singapore_ \[2001\] 2 SLR(R) 821 (“_Anthony Wee_”) at \[27\], the inherent powers of the court “should not be circumscribed by rigid criteria or tests.” Hence, the circumstances in which a court may set aside an order or judgment must remain sufficiently open-ended to account for previously unforeseen situations which would warrant the court stepping in to “prevent injustice or to prevent an abuse of the process of the Court” (O 92 r 4 of the Rules of Court). To deem the three circumstances as exhaustive of the grounds for setting aside would be to subsume the inherent powers of the court in the context of setting aside to those three grounds, directly contradicting the pronouncements in _Anthony Wee_.
 
 25     Indeed, in _Marshall v James_ \[1905\] 1 Ch 432 (“_Marshall_”), the English High Court invoked its inherent powers to set aside a final garnishee order when none of the three circumstances were present.
 
@@ -111,9 +112,9 @@ the terms “inherent jurisdiction” and “inherent powers” should mean diff
 
 32     Nonetheless, as explained in _Roberto Building_ at \[16\], the threshold for invoking the court’s inherent powers is high, and the “essential touchstone is really that of ‘need’.”
 
-33     “\[I\]n looking at the question of necessity in the context of the court’s inherent jurisdiction, one must take a sensible approach that has regard to all the circumstances of the case” (_UMCI Ltd v Tokio Marine & Fire Insurance Co (Singapore) Pte Ltd_ at \[92\]).
+33     “\[I\]n looking at the question of necessity in the context of the court’s inherent jurisdiction, one must take a sensible approach that has regard to all the circumstances of the case” (_UMCI Ltd v Tokio Marine & Fire Insurance Co (Singapore) Pte Ltd_ \[2006\] 4 SLR(R) 95 at \[92\]).
 
-34     In the context of setting aside orders, the considerations to be had in ensuring the judicious exercise of the court’s inherent powers “include having finality in litigation, the undesirability of a judge setting aside or reviewing the order made by another judge of equal standing, and the need to prevent back-door appeals and re-litigation of matters” (_Powercore Pte Ltd v D+B Projects Pte Ltd (United Overseas Bank Limited, garnishee)_ at \[50\]).
+34     In the context of setting aside orders, the considerations to be had in ensuring the judicious exercise of the court’s inherent powers “include having finality in litigation, the undesirability of a judge setting aside or reviewing the order made by another judge of equal standing, and the need to prevent back-door appeals and re-litigation of matters” (_Powercore Pte Ltd v D+B Projects Pte Ltd (United Overseas Bank Limited, garnishee)_ \[2017\] SGDC 157 at \[50\]).
 
 35     While such guidelines are useful, preventing injustice is ultimately an amorphous concept, and the facts of each case are of primary importance in determining whether it is warranted for the court to exercise its inherent powers.
 
@@ -123,13 +124,13 @@ the terms “inherent jurisdiction” and “inherent powers” should mean diff
 
 37     Had the garnishee order not been made final, there is no doubt that it would not have been granted in light of the series of events that have occurred. As Chitty J observed in _In re General Horticultural Co, ex p. Whitehouse_ (1886) 32 Ch.D. 512 at 516, a judgment creditor “can only obtain what the judgment debtor could honestly give him”. Here, since the judgment debtor has been stayed from enforcing the debt which it is owed under 1AD, allowing the judgment creditor to enforce the final garnishee order which is premised on the same debt would be to allow the judgment creditor to take what the judgment debtor cannot honestly give him. This would allow the judgment creditor to stand in a better position than the judgment debtor _vis-à-vis_ the garnishee.
 
-38     Indeed, as observed in _Singapore Civil Procedure_ vol 1 (Chua Lee Ming ed) (Sweet & Maxwell, 9th Ed, 2019) at para 49/1/27, while “\[t\]he question \[as to\] whether a judgment upon which there is a stay of execution can be attached has never been decided”, “\[i\]t should follow however, that until the stay is removed there can be no attachment” by way of a garnishee order. This is because a garnishee order is a parasitic order: it is suspended if the right to call on the debt on which it is based is suspended (see _Glegg v Bromley_ at 484).
+38     Indeed, as observed in _Singapore Civil Procedure_ vol 1 (Chua Lee Ming ed) (Sweet & Maxwell, 9th Ed, 2019) at para 49/1/27, while “\[t\]he question \[as to\] whether a judgment upon which there is a stay of execution can be attached has never been decided”, “\[i\]t should follow however, that until the stay is removed there can be no attachment” by way of a garnishee order. This is because a garnishee order is a parasitic order: it is suspended if the right to call on the debt on which it is based is suspended (see _Glegg v Bromley_ \[1912\] 3 KB 474 at 484).
 
 ### Exposing the garnishee to a debt which it may not even owe
 
 39     Furthermore, upholding the garnishee order could expose the garnishee to a debt which it may not even owe.
 
-40     Similar circumstances were before the English Court of Appeal in _Hale v Victoria Plumbing Co Ltd and another_ (“_Hale_”). There, the judgment creditor obtained judgment against the judgment debtor for £256 13_s._ 10_d._ The judgment debt being unsatisfied, the judgment creditor sought to attach a debt which it alleged to be owing from the garnishee to the judgment debtor in satisfaction of the judgment debt which it was owed.
+40     Similar circumstances were before the English Court of Appeal in _Hale v Victoria Plumbing Co Ltd and another_ \[1966\] 2 QB 746 (“_Hale_”). There, the judgment creditor obtained judgment against the judgment debtor for £256 13_s._ 10_d._ The judgment debt being unsatisfied, the judgment creditor sought to attach a debt which it alleged to be owing from the garnishee to the judgment debtor in satisfaction of the judgment debt which it was owed.
 
 41     At the garnishee to show cause hearing, the garnishee contended that it had claims against the judgment debtor in excess of the amount which it owed the judgment debtor under the sub-contracts. The transactions between the garnishee and the judgment debtor arose out of building contracts in which the judgment debtor had been appointed as a sub-contractor. Owing to works alleged to have been badly done by the judgment debtor, the garnishee disputed its indebtedness to the judgment debtor in respect of the works. Notwithstanding its potential counterclaim against the judgment debtor, the District Registrar ordered that the garnishee order be made final.
 
@@ -137,7 +138,7 @@ the terms “inherent jurisdiction” and “inherent powers” should mean diff
 
 It seems to me to be **_contrary to justice_** _and sense to order that a garnishee should_ **_pay out money which it appears probably will not be due from him at all_** - because no proceedings have been taken by the judgment debtor against the garnishee, any more than any proceedings have been taken by the garnishee against the judgment debtor. It seems to me contrary to justice that an order should be made for payment of moneys which on the face of it appear not likely to be due and which might perhaps be paid away irretrievably to a man or company who is in trouble. \[emphasis added\]
 
-43     In the present case, while 1AD, being a SOPA adjudication determination, has temporary finality in that it “finally and conclusively determin\[es\] the parties’ rights”, it is liable to being reversed by final adjudication in accordance with the provisions of SOPA (_W Y Steel Construction Pte Ltd v Osko Pte Ltd_ at \[71\]). If, upon final adjudication, it is determined that no debt is in fact due from the garnishee to the judgment debtor, the garnishee would have paid to the judgment creditor a debt which it did not even owe.
+43     In the present case, while 1AD, being a SOPA adjudication determination, has temporary finality in that it “finally and conclusively determin\[es\] the parties’ rights”, it is liable to being reversed by final adjudication in accordance with the provisions of SOPA (_W Y Steel Construction Pte Ltd v Osko Pte Ltd_ \[2013\] 3 SLR 380 at \[71\]). If, upon final adjudication, it is determined that no debt is in fact due from the garnishee to the judgment debtor, the garnishee would have paid to the judgment creditor a debt which it did not even owe.
 
 44     In fact, contrary to _Hale_ whereby the garnishee’s counterclaim was merely alleged through an affidavit, an adjudicator has in fact determined that the liquidated damages and back-charges owed by the judgment debtor to the garnishee would likely outweigh the value of works which remain unpaid by the garnishee to the judgment debtor. Here, the second adjudicator in 2AD had, after considering the valuation of works in 1AD _as well as_ liquidated damages and back-charges which were not before the adjudicator in 1AD, arrived at a negative sum of $1,176,050.67.[^11] Therefore, the garnishee’s counterclaim has been determined to be valid and has temporary finality by virtue of 2AD.
 
@@ -177,11 +178,11 @@ It seems to me to be **_contrary to justice_** _and sense to order that a garnis
 
 [^4]: WJH Affidavit at p 124, para 4.
 
-[^5]: _United Integrated Services Pte Ltd v Civil Tech Pte Ltd and another_ at \[5\].
+[^5]: _United Integrated Services Pte Ltd v Civil Tech Pte Ltd and another_ \[2019\] SGHC 32 at \[5\].
 
 [^6]: WJH Affidavit at p 127.
 
-[^7]: _United Integrated Services Pte Ltd v Civil Tech Pte Ltd and another_ at \[7\].
+[^7]: _United Integrated Services Pte Ltd v Civil Tech Pte Ltd and another_ \[2019\] SGHC 32 at \[7\].
 
 [^8]: Applicant’s Written Submissions, Annex B, p 4 at lines 3–5.
 
@@ -189,7 +190,7 @@ It seems to me to be **_contrary to justice_** _and sense to order that a garnis
 
 [^10]: Applicant’s Written Submissions at pp 9–10, para 26.
 
-[^11]: _United Integrated Services Pte Ltd v Civil Tech Pte Ltd and another_ at \[7\].
+[^11]: _United Integrated Services Pte Ltd v Civil Tech Pte Ltd and another_ \[2019\] SGHC 32 at \[7\].
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23154-SSP.xml)

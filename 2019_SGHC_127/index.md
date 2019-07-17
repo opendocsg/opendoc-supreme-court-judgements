@@ -1,5 +1,7 @@
 ---
-title: I-Admin (Singapore) Pte Ltd v Hong Ying Ting and others and another suit
+title: >-
+  I-Admin (Singapore) Pte Ltd v Hong Ying Ting and others and another suit
+  [2019] SGHC 127
 subtitle: "[2019] SGHC 127 / Decision Date: 14\_May\_2019"
 tags:
   - Copyright

@@ -1,5 +1,7 @@
 ---
-title: HE & SF Properties LP v Rising Dragon Singapore Pte Ltd and another
+title: >-
+  HE & SF Properties LP v Rising Dragon Singapore Pte Ltd and another [2019]
+  SGHC(I) 5
 subtitle: "[2019] SGHC(I) 5 / Decision Date: 3\_May\_2019"
 tags:
   - Trusts

@@ -1,5 +1,5 @@
 ---
-title: Allswell Marketing Pte Ltd v Public Prosecutor
+title: 'Allswell Marketing Pte Ltd v Public Prosecutor [2019] SGHC 157'
 subtitle: "[2019] SGHC 157 / Decision Date: 28\_June\_2019"
 tags:
   - Criminal Law

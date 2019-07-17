@@ -1,5 +1,7 @@
 ---
-title: Yip Man Hing Kevin v Singapore Medical Council and another matter
+title: >-
+  Yip Man Hing Kevin v Singapore Medical Council and another matter [2019] SGHC
+  102
 subtitle: "[2019] SGHC 102 / Decision Date: 23\_April\_2019"
 tags:
   - Professions

@@ -1,7 +1,7 @@
 ---
 title: >-
   Sunny Metal & Engineering Pte Ltd v Lee Xin Ben Jimmy (Serangoon Gardens
-  Country Club, garnishee)
+  Country Club, garnishee) [2019] SGHC 135
 subtitle: "[2019] SGHC 135 / Decision Date: 27\_May\_2019"
 tags:
   - Credit and Security

@@ -1,5 +1,7 @@
 ---
-title: Nagaenthran a/l K Dharmalingam v Public Prosecutor and another appeal
+title: >-
+  Nagaenthran a/l K Dharmalingam v Public Prosecutor and another appeal [2019]
+  SGCA 37
 subtitle: "[2019] SGCA 37 / Decision Date: 27\_May\_2019"
 tags:
   - Criminal Law

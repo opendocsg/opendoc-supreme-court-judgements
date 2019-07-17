@@ -1,5 +1,5 @@
 ---
-title: Arpah bte Sabar and others v Colex Environmental Pte Ltd
+title: 'Arpah bte Sabar and others v Colex Environmental Pte Ltd [2019] SGHC 137'
 subtitle: "[2019] SGHC 137 / Decision Date: 29\_May\_2019"
 tags:
   - Employment Law

@@ -1,5 +1,6 @@
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Grande Corp Pte Ltd _v_ Cubix Group Pte Ltd and others  
+\[2019\] SGHC 146
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Suit No 331 of 2013 (Assessment of Damages No 23 of 2018)</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">07 June 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Lee Seiu Kin J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Dominic Chan Wai Kit and Daniel Ng Yi Ming (Characterist LLC) for the plaintiff; Mark Goh and Ng Boon Gan (Vanilla Law LLC) for the third and fourth defendants; The second, sixth, seventh and eight defendants absent and unrepresented.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Grande Corporation Pte Ltd — Cubix Group Pte Ltd — Toh Wee Ping Benjamin — Goh Bee Heong — Cubix and Kosmic Pte Ltd — AXXIS Group Pte Ltd — AXXIS International Pte Ltd — AXXIS Pte Ltd</td></tr></tbody></table>
 
@@ -9,7 +10,7 @@ Damages – Assessment
 
 ### Lee Seiu Kin J:
 
-1       The present judgment concerns only the assessment of damages following my earlier judgment in _Grande Corporation Pte Ltd v Cubix International Pte Ltd and others_ (“the striking out judgment”). I adopt the same terms used in the striking out judgment. The striking out judgment sets out extensively the relationship between the parties, the relevant procedural history and the reasons for the underlying dispute. I do not reproduce them here.
+1       The present judgment concerns only the assessment of damages following my earlier judgment in _Grande Corporation Pte Ltd v Cubix International Pte Ltd and others_ \[2018\] SGHC 13 (“the striking out judgment”). I adopt the same terms used in the striking out judgment. The striking out judgment sets out extensively the relationship between the parties, the relevant procedural history and the reasons for the underlying dispute. I do not reproduce them here.
 
 ## Background
 
@@ -39,7 +40,7 @@ Damages – Assessment
 
 8       The plaintiff called on Mr Nemamkurral Vijaykumar Krishna as its sole witness while the defendants, Ben and Bee, were their own factual witnesses, together with Mr Chong Guan Choi, who was an expert witness.
 
-9       Relying on the cases of _Malcolmson v Mehta_ and _Quality Assurance Management Asia Pte Ltd v Zhang Qing and others_ , counsel for the plaintiff argued that the defendants must be taken to have admitted to all matters pleaded by the plaintiff in the statement of claim, as their defences had been struck out and interlocutory judgment entered against them.[^4]
+9       Relying on the cases of _Malcolmson v Mehta_ \[2001\] 3 SLR(R) 379 and _Quality Assurance Management Asia Pte Ltd v Zhang Qing and others_ \[2013\] 3 SLR 631, counsel for the plaintiff argued that the defendants must be taken to have admitted to all matters pleaded by the plaintiff in the statement of claim, as their defences had been struck out and interlocutory judgment entered against them.[^4]
 
 10     Counsel for Ben and Bee, Mr Mark Goh (“Mr Goh”), also agreed that the facts pleaded in the plaintiff’s statement of claim must be taken as proven,[^5] and that they would not cross-examine the plaintiff’s witness for the purpose of establishing that the pleadings are not true.[^6]
 

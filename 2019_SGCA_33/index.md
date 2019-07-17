@@ -1,5 +1,7 @@
 ---
-title: Rakna Arakshaka Lanka Ltd v Avant Garde Maritime Services (Pte) Ltd
+title: >-
+  Rakna Arakshaka Lanka Ltd v Avant Garde Maritime Services (Pte) Ltd [2019]
+  SGCA 33
 subtitle: "[2019] SGCA 33 / Decision Date: 9\_May\_2019"
 tags:
   - Arbitration

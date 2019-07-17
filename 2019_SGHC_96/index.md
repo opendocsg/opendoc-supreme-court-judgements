@@ -1,5 +1,5 @@
 ---
-title: HT SRL v Wee Shuo Woon
+title: 'HT SRL v Wee Shuo Woon [2019] SGHC 96'
 subtitle: "[2019] SGHC 96 / Decision Date: 18\_April\_2019"
 tags:
   - Contract

@@ -1,7 +1,7 @@
 ---
 title: >-
   CRRC (Hong Kong) Co Ltd and another v Chen Weiping (Chew Hwa Kwang Patrick,
-  third party)
+  third party) [2019] SGHC 109
 subtitle: "[2019] SGHC 109 / Decision Date: 29\_April\_2019"
 tags:
   - Civil Procedure

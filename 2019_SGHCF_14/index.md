@@ -1,5 +1,5 @@
 ---
-title: UVH and another v UVJ and others
+title: 'UVH and another v UVJ and others [2019] SGHCF 14'
 subtitle: "[2019] SGHCF 14 / Decision Date: 3\_June\_2019"
 tags:
   - Equity

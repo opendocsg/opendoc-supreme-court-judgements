@@ -1,5 +1,5 @@
 ---
-title: Public Prosecutor v Ridhaudin Ridhwan bin Bakri and others
+title: 'Public Prosecutor v Ridhaudin Ridhwan bin Bakri and others [2019] SGHC 105'
 subtitle: "[2019] SGHC 105 / Decision Date: 23\_April\_2019"
 tags:
   - Criminal law

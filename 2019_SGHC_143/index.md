@@ -1,5 +1,5 @@
 ---
-title: Wilmar Trading Pte Ltd v Heroic Warrior Inc.
+title: 'Wilmar Trading Pte Ltd v Heroic Warrior Inc. [2019] SGHC 143'
 subtitle: "[2019] SGHC 143 / Decision Date: 4\_June\_2019"
 tags:
   - Admiralty and Shipping
