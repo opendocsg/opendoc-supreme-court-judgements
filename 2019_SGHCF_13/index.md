@@ -1,5 +1,5 @@
 ---
-title: 'UTQ v UTR [2019] SGHCF 13'
+title: UTQ v UTR
 subtitle: "[2019] SGHCF 13 / Decision Date: 31\_May\_2019"
 tags:
   - Family Law

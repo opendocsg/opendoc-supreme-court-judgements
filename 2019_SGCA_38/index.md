@@ -1,5 +1,5 @@
 ---
-title: 'Adili Chibuike Ejike v Public Prosecutor [2019] SGCA 38'
+title: Adili Chibuike Ejike v Public Prosecutor
 subtitle: "[2019] SGCA 38 / Decision Date: 27\_May\_2019"
 tags:
   - Criminal Law

@@ -1,5 +1,5 @@
 ---
-title: 'EQ Capital Investments Ltd v The Wellness Group Pte Ltd [2019] SGHC 154'
+title: EQ Capital Investments Ltd v The Wellness Group Pte Ltd
 subtitle: "[2019] SGHC 154 / Decision Date: 25\_June\_2019"
 tags:
   - Companies

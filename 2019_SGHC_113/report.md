@@ -1,5 +1,6 @@
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Lilyana Alwi _v_ John Arifin  
+
 \[2019\] SGHC 113
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Suit No 159 of 2016</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">02 May 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Woo Bih Li J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Deborah Barker SC, Ushan Premaratne and Kenneth Yap Meng (KhattarWong LLP) for the plaintiff; Narayanan Sreenivasan SC and Tan Kai Ning Claire (Straits Law Practice LLC) for the defendant.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Lilyana Alwi — John Arifin</td></tr></tbody></table>

@@ -1,5 +1,5 @@
 ---
-title: 'UTS v UTT [2019] SGHCF 8'
+title: UTS v UTT
 subtitle: "[2019] SGHCF 8 / Decision Date: 23\_April\_2019"
 tags:
   - Family Law

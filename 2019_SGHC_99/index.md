@@ -1,5 +1,5 @@
 ---
-title: 'Lim Teck Kim v Public Prosecutor [2019] SGHC 99'
+title: Lim Teck Kim v Public Prosecutor
 subtitle: "[2019] SGHC 99 / Decision Date: 18\_April\_2019"
 tags:
   - Criminal Law

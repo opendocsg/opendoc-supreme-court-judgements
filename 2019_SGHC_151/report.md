@@ -1,5 +1,6 @@
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Public Prosecutor _v_ Vashan a/l K Raman  
+
 \[2019\] SGHC 151
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Criminal Case No 21 of 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">13 June 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Vincent Hoong JC</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Tan Wee Hao (Attorney's General Chambers) for the Public Prosecutor; Mahadevan Lukshumayeh (Lukshumayeh Law Corporation) for the accused.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Vashan a/l K Raman</td></tr></tbody></table>

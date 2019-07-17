@@ -1,5 +1,5 @@
 ---
-title: 'Ram Niranjan v Navin Jatia and others and another suit [2019] SGHC 138'
+title: Ram Niranjan v Navin Jatia and others and another suit
 subtitle: "[2019] SGHC 138 / Decision Date: 29\_May\_2019"
 tags:
   - Companies

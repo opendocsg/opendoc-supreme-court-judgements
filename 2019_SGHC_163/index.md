@@ -1,5 +1,5 @@
 ---
-title: 'Liew Kum Chong v SVM International Trading Pte Ltd and others [2019] SGHC 163'
+title: Liew Kum Chong v SVM International Trading Pte Ltd and others
 subtitle: "[2019] SGHC 163 / Decision Date: 11\_July\_2019"
 tags:
   - Contract

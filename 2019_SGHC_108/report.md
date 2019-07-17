@@ -1,5 +1,6 @@
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Mah Kiat Seng _v_ Attorney-General and others  
+
 \[2019\] SGHC 108
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Originating Summons No 1084 of 2018</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">29 April 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Valerie Thean J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">The plaintiff in person; Gordon Lim Wei Wen and Jessie Lim for the Attorney-General's Chambers.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Mah Kiat Seng — Attorney-General — Mohamed Rosli Bin Mohamed — Tan Chin Thiam Lawrence</td></tr></tbody></table>

@@ -1,5 +1,5 @@
 ---
-title: 'Patsystems Pte Ltd v PT Bursa Komoditi Dan Derivatif Indonesia [2019] SGHC 131'
+title: Patsystems Pte Ltd v PT Bursa Komoditi Dan Derivatif Indonesia
 subtitle: "[2019] SGHC 131 / Decision Date: 22\_May\_2019"
 tags:
   - Contracts

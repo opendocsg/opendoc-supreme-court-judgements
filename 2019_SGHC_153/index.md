@@ -1,5 +1,5 @@
 ---
-title: 'GCP v Public Prosecutor and another matter [2019] SGHC 153'
+title: GCP v Public Prosecutor and another matter
 subtitle: "[2019] SGHC 153 / Decision Date: 26\_June\_2019"
 tags:
   - Criminal Law

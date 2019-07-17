@@ -1,5 +1,5 @@
 ---
-title: 'Public Prosecutor v Satesh s/o Navarlan [2019] SGHC 119'
+title: Public Prosecutor v Satesh s/o Navarlan
 subtitle: "[2019] SGHC 119 / Decision Date: 8\_May\_2019"
 tags:
   - Criminal Procedure and Sentencing

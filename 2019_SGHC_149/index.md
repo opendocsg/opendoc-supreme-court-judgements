@@ -1,5 +1,5 @@
 ---
-title: 'Swee Wan Enterprises Pte Ltd v Yak Thye Peng [2019] SGHC 149'
+title: Swee Wan Enterprises Pte Ltd v Yak Thye Peng
 subtitle: "[2019] SGHC 149 / Decision Date: 12\_June\_2019"
 tags:
   - Companies

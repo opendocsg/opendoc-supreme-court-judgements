@@ -1,5 +1,6 @@
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Soh Xia Kai Ronnie _v_ Loke Chor Kay  
+
 \[2019\] SGHC 136
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Suit No 787 of 2017 (Assessment of Damages No 15 of 2018)</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">28 May 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Woo Bih Li J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Simon Yuen (Legal Clinic LLC) for the plaintiff; Mahendra Prasad Rai and Dean Salleh (Cooma &amp; Rai) for the defendant.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Soh Xia Kai Ronnie — Loke Chor Kay</td></tr></tbody></table>

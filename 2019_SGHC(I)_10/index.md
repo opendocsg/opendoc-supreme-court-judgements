@@ -1,5 +1,5 @@
 ---
-title: 'BXS v BXT [2019] SGHC(I) 10'
+title: BXS v BXT
 subtitle: "[2019] SGHC(I) 10 / Decision Date: 20\_June\_2019"
 tags:
   - Arbitration

@@ -1,5 +1,5 @@
 ---
-title: 'The “Yue You 902” and another matter [2019] SGHC 106'
+title: The “Yue You 902” and another matter
 subtitle: "[2019] SGHC 106 / Decision Date: 24\_April\_2019"
 tags:
   - Admiralty and Shipping

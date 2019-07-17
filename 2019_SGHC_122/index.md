@@ -1,7 +1,5 @@
 ---
-title: >-
-  Global Switch (Property) Singapore Pte Ltd v Arup Singapore Pte Ltd [2019]
-  SGHC 122
+title: Global Switch (Property) Singapore Pte Ltd v Arup Singapore Pte Ltd
 subtitle: "[2019] SGHC 122 / Decision Date: 10\_May\_2019"
 tags:
   - Building and Construction Law

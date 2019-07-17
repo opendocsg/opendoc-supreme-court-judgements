@@ -1,5 +1,5 @@
 ---
-title: 'Bintai Kindenko Pte Ltd v Samsung C&T Corp and another [2019] SGCA 39'
+title: Bintai Kindenko Pte Ltd v Samsung C&T Corp and another
 subtitle: "[2019] SGCA 39 / Decision Date: 30\_May\_2019"
 tags:
   - Credit and Security

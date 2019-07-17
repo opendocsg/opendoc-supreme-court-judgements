@@ -1,5 +1,5 @@
 ---
-title: 'Bachmeer Capital Limited v Ong Chih Ching and others [2019] SGHC(I) 7'
+title: Bachmeer Capital Limited v Ong Chih Ching and others
 subtitle: "[2019] SGHC(I) 7 / Decision Date: 24\_May\_2019"
 tags:
   - Contract

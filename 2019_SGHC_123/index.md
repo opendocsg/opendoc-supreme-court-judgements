@@ -1,7 +1,5 @@
 ---
-title: >-
-  Taishan Sports Engineering Pte Ltd v Sivalingam Pragadesh Vinoth [2019] SGHC
-  123
+title: Taishan Sports Engineering Pte Ltd v Sivalingam Pragadesh Vinoth
 subtitle: "[2019] SGHC 123 / Decision Date: 13\_May\_2019"
 tags:
   - Employment Law

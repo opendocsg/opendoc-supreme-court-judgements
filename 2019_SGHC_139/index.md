@@ -1,7 +1,5 @@
 ---
-title: >-
-  Lendlease Singapore Pte Ltd v M & S Management & Contracts Services Pte Ltd
-  [2019] SGHC 139
+title: Lendlease Singapore Pte Ltd v M & S Management & Contracts Services Pte Ltd
 subtitle: "[2019] SGHC 139 / Decision Date: 30\_May\_2019"
 tags:
   - Building and Construction Law

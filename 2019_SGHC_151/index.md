@@ -1,5 +1,5 @@
 ---
-title: 'Public Prosecutor v Vashan a/l K Raman [2019] SGHC 151'
+title: Public Prosecutor v Vashan a/l K Raman
 subtitle: "[2019] SGHC 151 / Decision Date: 13\_June\_2019"
 tags:
   - Criminal Law

@@ -1,5 +1,5 @@
 ---
-title: 'Yap Chen Hsiang Osborn v Public Prosecutor [2019] SGCA 40'
+title: Yap Chen Hsiang Osborn v Public Prosecutor
 subtitle: "[2019] SGCA 40 / Decision Date: 12\_July\_2019"
 tags:
   - Criminal Law

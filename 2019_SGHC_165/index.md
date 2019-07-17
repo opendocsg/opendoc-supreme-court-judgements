@@ -1,7 +1,5 @@
 ---
-title: >-
-  Zillion Global Ltd and another v Deutsche Bank AG, Singapore Branch [2019]
-  SGHC 165
+title: 'Zillion Global Ltd and another v Deutsche Bank AG, Singapore Branch'
 subtitle: "[2019] SGHC 165 / Decision Date: 12\_July\_2019"
 tags:
   - Contract
