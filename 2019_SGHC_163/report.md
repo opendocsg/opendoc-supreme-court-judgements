@@ -1,7 +1,7 @@
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Liew Kum Chong _v_ SVM International Trading Pte Ltd and others  
 
-\[2019\] SGHC 163
+### \[2019\] SGHC 163
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Suit No 980 of 2016</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">11 July 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Chua Lee Ming J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Tang Shang Wei and Gavin Neo (WongPartnership LLP) for the plaintiff; A Rajandran (A. Rajandran) for the first to fourth defendants; The fifth defendant absent.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Liew Kum Chong — SVM International Trading Pte Ltd — Feasto Pte Ltd — Mizimegah Pte Ltd — Scarlett Merida Xi Wei Yuan — Pan Jiaying</td></tr></tbody></table>
 

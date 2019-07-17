@@ -1,7 +1,7 @@
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Ding Horng Industrial Pte Ltd _v_ Sulzer Singapore Pte Ltd  
 
-\[2019\] SGHC 160
+### \[2019\] SGHC 160
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">HC/Originating Summons No 182 of 2019 (HC/Registrar's Appeal No 59 of 2019 and HC/Summons No 2047 of 2019)</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">04 July 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Choo Han Teck J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Amos Cai Enhuai and Ernest Wong Changyan (Yuen Law LLC) for plaintiff; Anparasan s/o Kamachi and Sumyutha Sivamani (WhiteFern LLC) for defendant.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Ding Horng Industrial Pte Ltd — Sulzer Singapore Pte Ltd</td></tr></tbody></table>
 

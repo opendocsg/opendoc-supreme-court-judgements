@@ -1,7 +1,7 @@
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # P & P Engineering & Construction Pte Ltd _v_ Kori Construction (S) Pte Ltd  
 
-\[2019\] SGHCR 10
+### \[2019\] SGHCR 10
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Suit No 1255 of 2016 (Summons No 2210 of 2019)</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">26 June 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Justin Yeo AR</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Mr Andrew John Hanam (Andrew LLC) for the Plaintiff; Mr Twang Kern Zern (Central Chambers Law Corporation) for the Defendant.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">P &amp; P Engineering &amp; Construction Pte Ltd — Kori Construction (S) Pte Ltd</td></tr></tbody></table>
 

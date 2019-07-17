@@ -1,7 +1,7 @@
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Millennium Pharmaceuticals, Inc _v_ Drug Houses of Australia Pte Ltd and another appeal  
 
-\[2019\] SGCA 31
+### \[2019\] SGCA 31
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Civil Appeals Nos 79 and 84 of 2018</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">30 April 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Court of Appeal</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Andrew Phang Boon Leong JA; Tay Yong Kwang JA; Woo Bih Li J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Suhaimi bin Lazim, Chow Jian Hong and Yan Chongshuo (Mirandah Law LLP) for the appellant in Civil Appeals Nos 79 and 84 of 2018; Kang Choon Hwee Alban, Tan Lijun and Mok Ho Fai (Bird &amp; Bird ATMD LLP) for the respondent in Civil Appeals Nos 79 and 84 of 2018.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Millennium Pharmaceuticals, Inc — Drug Houses of Australia Pte Ltd</td></tr></tbody></table>
 

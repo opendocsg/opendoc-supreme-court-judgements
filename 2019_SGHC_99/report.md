@@ -1,7 +1,7 @@
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Lim Teck Kim _v_ Public Prosecutor  
 
-\[2019\] SGHC 99
+### \[2019\] SGHC 99
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Magistrate's Appeal No 9321 of 2018/01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">18 April 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Chan Seng Onn J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Kishan Pratap (Kishan Law Chambers LLC) for the appellant; Stephanie Koh (Attorney-General's Chambers) for the respondent.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Lim Teck Kim — Public Prosecutor</td></tr></tbody></table>
 

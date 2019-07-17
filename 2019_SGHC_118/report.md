@@ -1,7 +1,7 @@
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # BSD _v_ Attorney-General and other matters  
 
-\[2019\] SGHC 118
+### \[2019\] SGHC 118
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Originating Summons No 945 of 2017, Registrar's Appeals State Courts Nos 1 and 2 of 2018</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">06 May 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Chua Lee Ming J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Davinder Singh SC, Jaikanth Shankar, Navin Thevar, Derrick Teo, and Teo Li Fang (Drew &amp; Napier LLC) for the first applicant; Jason Chan Tai-Hui, Edward Kwok, and Evangeline Oh (Allen &amp; Gledhill LLP) for the second to fourth applicants; Hri Kumar Nair SC, Shivani Retnam, James Low, Kexian Ng, and Zhang Hong Chuan (Attorney-General's Chambers (International Affairs Division)) for the respondent; Zhuang WenXiong (Rajah &amp; Tann Singapore LLP) Young Amicus Curiae.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">BSD — Attorney-General — BSF — BSH — BSI — BSJ — Attorney-General</td></tr></tbody></table>
 

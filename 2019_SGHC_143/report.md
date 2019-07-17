@@ -1,7 +1,7 @@
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Wilmar Trading Pte Ltd _v_ Heroic Warrior Inc.  
 
-\[2019\] SGHC 143
+### \[2019\] SGHC 143
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Admiralty in Personam No 33 of 2015</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">04 June 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Belinda Ang Saw Ean J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Mr Gurbani Prem Kumar and Ms Tan Hui Tsing (Gurbani &amp; Co LLC) for the plaintiff; Mr Tay Twan Lip Philip and Ms Yip Li Ming (Rajah &amp; Tann Singapore LLP) for the defendant.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Wilmar Trading Pte Ltd — Heroic Warrior Inc.</td></tr></tbody></table>
 

@@ -1,7 +1,7 @@
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Yip Man Hing Kevin _v_ Singapore Medical Council and another matter  
 
-\[2019\] SGHC 102
+### \[2019\] SGHC 102
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Originating Summonses Nos 8 and 9 of 2018</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">23 April 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Andrew Phang Boon Leong JA; Judith Prakash JA; Quentin Loh J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Navin Joseph Lobo, Shaun Oon Kim San, Cheng Liqi and Yap Chun Kai (Bird &amp; Bird ATMD LLP) for the appellant in Originating Summons No 8 of 2018 and the respondent in Originating Summons No 9 of 2018; Chang Man Phing Jenny, Chua Sin Yen Jacqueline and Lim Wan Yu Cheronne (WongPartnership LLP) for the respondent in Originating Summons No 8 of 2018 and the appellant in Originating Summons No 9 of 2018.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Kevin Yip Man Hing — Singapore Medical Council</td></tr></tbody></table>
 

@@ -1,7 +1,7 @@
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # EQ Capital Investments Ltd _v_ Sunbreeze Group Investments Ltd and others  
 
-\[2019\] SGHC 101
+### \[2019\] SGHC 101
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Suit No 233 of 2018 (Summons No 2030 of 2018)</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">22 April 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Chua Lee Ming J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Davinder Singh s/o Amar Singh SC, Jaikanth Shankar, Srruthi Ilankathir, Hanspreet Singh Sachdev and Rajvinder Singh Chahal (Davinder Singh Chambers LLC) for the plaintiff and the first and second defendants in counterclaim; Yeo Khirn Hai Alvin SC, Koh Swee Yen, Lin Chunlong, Jasmine Low and Sim Mei Ling (WongPartnership LLP) for the first, second, and third defendants and the first and second plaintiffs in counterclaim.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">EQ Capital Investments Ltd — Sunbreeze Group Investments Limited — Manoj Mohan Murjani — Kanchan Manoj Murjani — The Wellness Group Pte Ltd</td></tr></tbody></table>
 

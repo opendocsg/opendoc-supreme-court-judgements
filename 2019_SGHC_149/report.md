@@ -1,7 +1,7 @@
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Swee Wan Enterprises Pte Ltd _v_ Yak Thye Peng  
 
-\[2019\] SGHC 149
+### \[2019\] SGHC 149
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Suit No 67 of 2017</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">12 June 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Hoo Sheau Peng J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Vikram Nair and Ngo Wei Shing (Rajah &amp; Tann Singapore LLP) for the plaintiff and defendants in counterclaim; Tan Sia Khoon Kelvin David and Sara Ng Qian Hui (Vicki Heng Law Corporation) for the defendant and plaintiff in counterclaim.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Swee Wan Enterprises Pte Ltd — Yak Thye Peng — Yak Tiong Liew — Yak Chau Wei — Swee Wan Trading Pte Ltd</td></tr></tbody></table>
 

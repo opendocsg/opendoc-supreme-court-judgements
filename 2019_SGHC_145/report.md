@@ -1,7 +1,7 @@
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Ram Niranjan _v_ Navin Jatia and others and another suit  
 
-\[2019\] SGHC 145
+### \[2019\] SGHC 145
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Suit Nos 911 of 2016 &amp; 139 of 2017</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">07 June 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Chua Lee Ming J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Tan Teng Muan and Loh Li Qin (Mallal &amp; Namazie) for the plaintiff in Suit No 911 of 2016 and defendant in Suit No 139 of 2017; Letchamanan Devadason, Mahtani Bhagwandas and Chong Jia Hao (Legal Standard LLP) for the first to third defendants in Suit No 911 of 2016 and the plaintiff in Suit No 139 of 2017; Sarbjit Singh Chopra and Ho May Kim (Selvam LLC) for the fourth defendant in Suit No 911 of 2016.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Ram Niranjan — Navin Jatia — Samridhi Jatia — Evergreen Global Pte Ltd — Shakuntala Devi</td></tr></tbody></table>
 

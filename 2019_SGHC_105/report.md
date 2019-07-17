@@ -1,7 +1,7 @@
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Public Prosecutor _v_ Ridhaudin Ridhwan bin Bakri and others  
 
-\[2019\] SGHC 105
+### \[2019\] SGHC 105
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Criminal Case No 35 of 2016</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">23 April 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Woo Bih Li J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Sharmila Sripathy-Shanaz, Charlene Tay-Chia, Michael Quilindo and Amanda Chong Wei-Zhen (Attorney-General's Chambers) for the Prosecution; Ng Joel Yuan-Ming (Quahe Woo &amp; Palmer LLC) for the first accused; Ng Huiling Cheryl (Intelleigen Legal LLC) for the second accused; Low Jian Hui and Wong Li-Yen, Dew (Dew Chambers) for the third accused.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Ridhaudin Ridhwan Bin Bakri — Muhammad Faris Bin Ramlee — Asep Ardiansyah</td></tr></tbody></table>
 

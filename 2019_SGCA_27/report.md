@@ -1,7 +1,7 @@
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Public Prosecutor _v_ Dinesh s/o Rajantheran  
 
-\[2019\] SGCA 27
+### \[2019\] SGCA 27
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Criminal Reference No 5 of 2018</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">23 April 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Court of Appeal</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Sundaresh Menon CJ; Judith Prakash JA; Steven Chong JA</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Kow Keng Siong, Kelvin Kow and Senthilkumaran Sabapathy (Attorney-General's Chambers) for the applicant; Peter Keith Fernando, Renuga Devi &amp; Kavita Pandey (Leo Fernando) for the respondent.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Dinesh s/o Rajantheran</td></tr></tbody></table>
 

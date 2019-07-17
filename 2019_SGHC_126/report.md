@@ -1,7 +1,7 @@
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # United Integrated Services Pte Ltd _v_ Harmonious Coretrades Pte Ltd  
 
-\[2019\] SGHC 126
+### \[2019\] SGHC 126
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Originating Summons 1113 of 2018 (Registrar's Appeal No 79 of 2019)</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">15 May 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Chan Seng Onn J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Lee Mei Yong Debbie (ECYT Law LLC) for the appellant; Lynette Chew and Lu Huiru Grace (Holborn Law LLC) for the respondent.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">United Integrated Services Pte Ltd — Harmonious Coretrades Pte Ltd</td></tr></tbody></table>
 

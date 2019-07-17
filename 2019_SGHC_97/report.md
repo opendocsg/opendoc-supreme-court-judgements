@@ -1,7 +1,7 @@
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Wong Kit Kee _v_ KSE Technology (Int’l) Pte Ltd  
 
-\[2019\] SGHC 97
+### \[2019\] SGHC 97
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Companies Winding Up No 30 of 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">18 April 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Choo Han Teck J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Sam Hui Min Lisa (Lisa Sam &amp; Company) for the plaintiff; The defendant is unrepresented; Harry Zheng, Satinder Pal Singh and Gabriel Lee (Selvam LLC) for Non-Party, Chng Hup Huat; Lim Yew Jin and Wileeza A Gapar for Official Receiver.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Wong Kit Kee — KSE Technology (Int'l) Pte Ltd</td></tr></tbody></table>
 

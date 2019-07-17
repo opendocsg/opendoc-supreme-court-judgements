@@ -1,7 +1,7 @@
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # B2C2 Ltd _v_ Quoine Pte Ltd  
 
-\[2019\] SGHC(I) 6
+### \[2019\] SGHC(I) 6
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Suit No 7 of 2017</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">14 May 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Singapore International Commercial Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Simon Thorley IJ</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Danny Ong, Sheila Ng and Jason Teo (Rajah &amp; Tann Singapore LLP) for the plaintiff; Paul Ong, Ivan Lim and Marrissa Karuna (Allen &amp; Gledhill LLP) for the defendant.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">B2C2 Ltd — Quoine Pte Ltd</td></tr></tbody></table>
 

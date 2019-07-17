@@ -1,7 +1,7 @@
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Viking Engineering Pte Ltd _v_ Feen, Bjornar and others  
 
-\[2019\] SGHC 158
+### \[2019\] SGHC 158
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Suit No 294 of 2017 (Summons No 5784 of 2018)</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">04 July 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Valerie Thean J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Mahesh Rai s/o Vedprakash Rai and Ang Si Yi (Drew &amp; Napier LLC) for the plaintiff; Kelvin David Tan and Sara Ng (instructed counsel, Vicki Heng Law Corporation) and Byron Nicholas Xavier (Xavier &amp; Associates LLC) for the defendants</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Viking Engineering Pte Ltd — Bjornar Feen — Also known as Bjoernar Feen — Feen Marine Pte Ltd — Viking Inert Gas Pte Ltd (formerly known as Inert Gas Asia Pte Ltd) — Scanjet Feen IGS Pte Ltd — Feen Marine Scrubbers Pte Ltd</td></tr></tbody></table>
 

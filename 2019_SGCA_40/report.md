@@ -1,7 +1,7 @@
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Yap Chen Hsiang Osborn _v_ Public Prosecutor  
 
-\[2019\] SGCA 40
+### \[2019\] SGCA 40
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Criminal Reference No 3 of 2018</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">12 July 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Court of Appeal</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Andrew Phang Boon Leong JA; Judith Prakash JA; Steven Chong JA</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Thong Chee Kun and Chee Fei Josephine (Rajah &amp; Tann Singapore LLP) for the applicant; Christopher Ong, Nicholas Khoo and Cheng Yuxi (Attorney-General's Chambers) for the respondent.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Osborn Yap Chen Hsiang — Public Prosecutor</td></tr></tbody></table>
 

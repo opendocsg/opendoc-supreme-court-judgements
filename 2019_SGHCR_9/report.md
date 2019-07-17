@@ -1,7 +1,7 @@
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Bae Junho _v_ Daimwood, Samuel Lathan and another  
 
-\[2019\] SGHCR 9
+### \[2019\] SGHCR 9
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Suit No 1261 of 2018 (Summons No 355 of 2019 &amp; Summons No 796 of 2019)</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">06 June 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Jean Chan Lay Koon AR</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Anil Narain Balchandani (Red Lion Circle) for the plaintiff; Yeo Yan Hui Mark, Lew Shaun Marc, Charmaine Lim (Engelin Teh Practice LLC) for the 1st defendant; Bhargavan Sujatha (Gavan Law Practice LLC) for the 2nd defendant</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Junho Bae — Samuel Lathan Daimwood — London School of Business &amp; Finance Pte Ltd —</td></tr></tbody></table>
 

@@ -1,7 +1,7 @@
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Grande Corp Pte Ltd _v_ Cubix Group Pte Ltd and others  
 
-\[2019\] SGHC 146
+### \[2019\] SGHC 146
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Suit No 331 of 2013 (Assessment of Damages No 23 of 2018)</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">07 June 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Lee Seiu Kin J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Dominic Chan Wai Kit and Daniel Ng Yi Ming (Characterist LLC) for the plaintiff; Mark Goh and Ng Boon Gan (Vanilla Law LLC) for the third and fourth defendants; The second, sixth, seventh and eight defendants absent and unrepresented.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Grande Corporation Pte Ltd — Cubix Group Pte Ltd — Toh Wee Ping Benjamin — Goh Bee Heong — Cubix and Kosmic Pte Ltd — AXXIS Group Pte Ltd — AXXIS International Pte Ltd — AXXIS Pte Ltd</td></tr></tbody></table>
 

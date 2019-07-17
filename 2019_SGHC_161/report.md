@@ -1,7 +1,7 @@
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Public Prosecutor _v_ Hamidah Binte Awang and another  
 
-\[2019\] SGHC 161
+### \[2019\] SGHC 161
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Criminal Motion No 4 of 2017 and No 22 of 2018</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">05 July 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Lee Seiu Kin J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Kristy Tan, Tan Wee Hao, Zhou Yihong and Uni Khng (Attorney-General's Chambers) for the Public Prosecutor; Eugene Thuraisingam, Suang Wijaya, Johannes Hadi (Eugene Thuraisingam LLP) and Jerrie Tan (K&amp;L Gates Straits Law LLC) for the second accused.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Hamidah Binte Awang — Ilechukwu Uchechukwu Chukwudi</td></tr></tbody></table>
 

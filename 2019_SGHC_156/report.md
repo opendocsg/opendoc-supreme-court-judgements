@@ -1,7 +1,7 @@
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Public Prosecutor _v_ Tan Seo Whatt Albert and another appeal  
 
-\[2019\] SGHC 156
+### \[2019\] SGHC 156
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Magistrate's Appeal Nos 9242 of 2018/01 and 9242 of 2018/02</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">28 June 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Hoo Sheau Peng J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Nicholas Khoo and Suhas Malhotra (Attorney-General's Chambers) for the Public Prosecutor; Foo Cheow Ming (Foo Cheow Ming Chambers) for the Accused.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Tan Seo Whatt Albert</td></tr></tbody></table>
 

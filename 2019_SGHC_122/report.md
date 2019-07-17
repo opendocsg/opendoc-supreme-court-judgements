@@ -1,7 +1,7 @@
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Global Switch (Property) Singapore Pte Ltd _v_ Arup Singapore Pte Ltd  
 
-\[2019\] SGHC 122
+### \[2019\] SGHC 122
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Suit No 1147 of 2014</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">10 May 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Quentin Loh J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Ho Chien Mien, Gregory Leong, Ng Chee Jian, Tan Li-Jie and Xu Xuekun (Allen &amp; Gledhill LLP) for the plaintiff; Daniel Chia Hsiung Wen, Tan Gim Hai Adrian, Amarjit Kaur, Annette Liu Jia Ying, Ker Yanguang, and Yeoh Jean Wern (Morgan Lewis Stamford LLC) for the defendant.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Global Switch (Property) Singapore Pte Ltd — Arup Singapore Pte Ltd</td></tr></tbody></table>
 

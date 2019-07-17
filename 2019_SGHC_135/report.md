@@ -1,7 +1,7 @@
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Sunny Metal & Engineering Pte Ltd _v_ Lee Xin Ben Jimmy (Serangoon Gardens Country Club, garnishee)  
 
-\[2019\] SGHC 135
+### \[2019\] SGHC 135
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Suit No 436 of 2010 (Registrar's Appeal No 290 of 2018)</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">27 May 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Audrey Lim JC</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Lee Nyet Fah Alyssa (Alyssa Lee &amp; Co) for the plaintiff; Toh Kok Seng and Chua Huimin, Michelle (Lee &amp; Lee) for the garnishee.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Sunny Metal &amp; Engineering Pte Ltd — Jimmy Lee Xin Ben, formerly trading as Plafometal Panel System — Serangoon Gardens Country Club</td></tr></tbody></table>
 

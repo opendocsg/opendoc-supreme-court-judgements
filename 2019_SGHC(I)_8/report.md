@@ -1,7 +1,7 @@
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # AKRO Group DMCC _v_ Discovery Drilling Pte Ltd  
 
-\[2019\] SGHC(I) 8
+### \[2019\] SGHC(I) 8
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Suit No 1 of 2017</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">31 May 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Singapore International Commercial Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Patricia Bergin IJ</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">The plaintiff and the defendants in counterclaim were not represented and did not appear; Visheshwar Shrivastav (V Shrivastav &amp; Co) (Registered Foreign Lawyer) for the defendant and plaintiff in counterclaim.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">AKRO Group DMCC — Discovery Drilling Pte Ltd — AKRO Group DMCC — Parmod Kumar — Sunil Kumar Arora — Arjun Suresh Kandoth — David William Fowler — AYBI Energy FZE</td></tr></tbody></table>
 

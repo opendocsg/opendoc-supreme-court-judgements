@@ -1,7 +1,7 @@
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Ng Hai Chong Brandon _v_ Public Prosecutor  
 
-\[2019\] SGHC 107
+### \[2019\] SGHC 107
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Magistrate's Appeal No 9070 of 2018</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">25 April 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Aedit Abdullah J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">N Sreenivasan SC, S Balamurugan and Partheban Pandiyan (instructed) (M/s Straits Law Practice LLC) and Lee Yoon Tet Luke (Luke Lee &amp; Co) (instructing) for the appellant; Choong Hefeng Gabriel (Attorney-General's Chambers) for the Prosecution.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Brandon Ng Hai Chong — Public Prosecutor</td></tr></tbody></table>
 
