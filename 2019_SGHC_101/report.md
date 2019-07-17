@@ -53,7 +53,7 @@ The Profit Swing Clause was based broadly on profit projections for TWG Tea that
 
 13     S187/2014 was tried together with another action, Suit No 545 of 2014 (“S545/2014”). S545/2014 was a claim for defamation and was not relevant to the present case.
 
-14     I heard the trial in S187/2014 and dismissed the claim in its entirety: see _The Wellness Group Pte Ltd and another v OSIM International Ltd and others and another suit_ \[2016\] 3 SLR 729. Wellness’ appeal against my decision was dismissed by the Court of Appeal on 25 October 2016.
+14     I heard the trial in S187/2014 and dismissed the claim in its entirety: see _The Wellness Group Pte Ltd and another v OSIM International Ltd and others and another suit_ <span class="citation">\[2016\] 3 SLR 729</span>. Wellness’ appeal against my decision was dismissed by the Court of Appeal on 25 October 2016.
 
 ### Suit No 17 of 2017
 
@@ -69,7 +69,7 @@ The Profit Swing Clause was based broadly on profit projections for TWG Tea that
 
 (e)     Manoj and Kanchan caused Wellness to bring S187/2014 against OSIM, Paris and the directors of TWG Tea, and the appeal against the decision in S187/2014, thereby causing Wellness to incur legal fees and exposing Wellness to the costs order that was made against it in both S187/2014 and the appeal.
 
-16     On 6 February 2017, the 3 Defendants commenced third party proceedings against Ron Sim in S17/2017 for indemnity or contribution in respect of EQ Capital’s claim against them. The basis for the third party proceedings was essentially the same as the allegations raised in the 3 Defendants’ defence. In summary, the 3 Defendants alleged that the matters which EQ Capital complained of in S17/2017 had been brought about by Ron Sim through OSIM and that it was an abuse of process for Ron Sim, having caused and/or benefited from those matters, to procure EQ Capital to commence S17/2017 in respect of the very same matters. On 5 May 2017, I struck out the third party claim. The appeal by the 3 Defendants has since been dismissed by the Court of Appeal: _Sunbreeze Group Investments Ltd and others v Sim Chye Hock Ron_ \[2018\] 2 SLR 1242.
+16     On 6 February 2017, the 3 Defendants commenced third party proceedings against Ron Sim in S17/2017 for indemnity or contribution in respect of EQ Capital’s claim against them. The basis for the third party proceedings was essentially the same as the allegations raised in the 3 Defendants’ defence. In summary, the 3 Defendants alleged that the matters which EQ Capital complained of in S17/2017 had been brought about by Ron Sim through OSIM and that it was an abuse of process for Ron Sim, having caused and/or benefited from those matters, to procure EQ Capital to commence S17/2017 in respect of the very same matters. On 5 May 2017, I struck out the third party claim. The appeal by the 3 Defendants has since been dismissed by the Court of Appeal: _Sunbreeze Group Investments Ltd and others v Sim Chye Hock Ron_ <span class="citation">\[2018\] 2 SLR 1242</span>.
 
 ### The present action
 
@@ -133,9 +133,9 @@ OSIM and Paris requested confirmation that shareholders’ approval had been obt
 
 (e)     the plaintiff suffered loss as a result of the conspiracy.
 
-See _EFT Holdings, Inc and another v Marinteknik Shipbuilders (S) Pte Ltd and another_ \[2014\] 1 SLR 860 at \[112\].
+See _EFT Holdings, Inc and another v Marinteknik Shipbuilders (S) Pte Ltd and another_ <span class="citation">\[2014\] 1 SLR 860</span> at \[112\].
 
-31     A claim for lawful means conspiracy does not require an unlawful act, but there is the additional requirement of proving a predominant purpose by all the conspirators to cause injury or damage to the plaintiff, and the act is carried out and the purpose achieved: _Raffles Town Club Pte Ltd v Lim Eng Hock Peter and others and other appeals_ \[2013\] 1 SLR 374 at \[62\]
+31     A claim for lawful means conspiracy does not require an unlawful act, but there is the additional requirement of proving a predominant purpose by all the conspirators to cause injury or damage to the plaintiff, and the act is carried out and the purpose achieved: _Raffles Town Club Pte Ltd v Lim Eng Hock Peter and others and other appeals_ <span class="citation">\[2013\] 1 SLR 374</span> at \[62\]
 
 32     The 3 Defendants claimed that the conspiracy was to injure them by commencing the present action in bad faith and for a collateral and/or improper purpose. The bad faith and collateral and/or improper purposes were alleged to take the following forms:
 
@@ -183,7 +183,7 @@ See _EFT Holdings, Inc and another v Marinteknik Shipbuilders (S) Pte Ltd and an
 
 45     The claim for conspiracy to abuse civil process was based on the same grounds as those relied upon for the claim for conspiracy to injure. For purposes of the striking out application, EQ Capital and Ron Sim proceeded on the assumption that the tort of abuse of process was part of Singapore law and that the reliefs claimed were recoverable. I agreed with their submission that even so, the claim was factually unsustainable.
 
-46     Since then, the Court of Appeal has decided that abuse of process as a tort is not part of the law in Singapore: _Lee Tat Development Pte Ltd v Management Corporation Strata Title Plan No 301_ \[2018\] 2 SLR 866 (“_Lee Tat_”) at \[161\]. Therefore, the counterclaim based on conspiracy to abuse civil process would be struck out in any event because it is legally unsustainable.
+46     Since then, the Court of Appeal has decided that abuse of process as a tort is not part of the law in Singapore: _Lee Tat Development Pte Ltd v Management Corporation Strata Title Plan No 301_ <span class="citation">\[2018\] 2 SLR 866</span> (“_Lee Tat_”) at \[161\]. Therefore, the counterclaim based on conspiracy to abuse civil process would be struck out in any event because it is legally unsustainable.
 
 ## Conclusion
 

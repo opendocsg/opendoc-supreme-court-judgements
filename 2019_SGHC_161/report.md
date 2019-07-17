@@ -31,7 +31,7 @@ Evidence – Expert Evidence
 
 ### The acquittal by the High Court
 
-5       Ilechukwu claimed trial. At the end of the trial, on 5 November 2014, I acquitted Ilechukwu of the charge against him. My written grounds of decision is reported in _Public Prosecutor v Hamidah Binte Awang and another_ \[2015\] SGHC 4 (“_HC (Acquittal)_”).
+5       Ilechukwu claimed trial. At the end of the trial, on 5 November 2014, I acquitted Ilechukwu of the charge against him. My written grounds of decision is reported in _Public Prosecutor v Hamidah Binte Awang and another_ <span class="citation">\[2015\] SGHC 4</span> (“_HC (Acquittal)_”).
 
 6       In acquitting Ilechukwu, I accepted his defence that he had come to Singapore on business and that he did not know that the Black Luggage contained drugs. I found that Ilechukwu had rebutted the presumption of knowledge of the nature of the drugs under s 18(2) of the MDA and stated at \[70\] of _HC (Acquittal)_:
 
@@ -39,7 +39,7 @@ On the evidence that I have before me, I found that Ilechukwu had rebutted the p
 
 ### The CA conviction decision
 
-7       The Prosecution appealed against the acquittal of Ilechukwu by way of Criminal Appeal No 10 of 2014 (“CCA 10/2014”). On 29 June 2015, the Court of Appeal allowed the appeal and convicted Ilechukwu of the charge brought against him. The Court of Appeal’s grounds of decision is reported in _Public Prosecutor v Ilechukwu Uchechukwu Chukwudi_ \[2015\] SGCA 33 (“_CA (Conviction)_”).
+7       The Prosecution appealed against the acquittal of Ilechukwu by way of Criminal Appeal No 10 of 2014 (“CCA 10/2014”). On 29 June 2015, the Court of Appeal allowed the appeal and convicted Ilechukwu of the charge brought against him. The Court of Appeal’s grounds of decision is reported in _Public Prosecutor v Ilechukwu Uchechukwu Chukwudi_ <span class="citation">\[2015\] SGCA 33</span> (“_CA (Conviction)_”).
 
 8       The primary reason for the Court of Appeal’s decision to convict Ilechukwu was the lies and omissions he made in his statements to the Central Narcotics Bureau (“CNB”). The Court of Appeal found that there was no innocent explanation for those lies. The Court of Appeal stated at \[61\] and \[88\] of _CA (Conviction)_:
 
@@ -59,7 +59,7 @@ On the evidence that I have before me, I found that Ilechukwu had rebutted the p
 
 11     Relying on the First Sarkar Report as fresh evidence of his innocence, Ilechukwu filed Criminal Motion No 4 of 2017 (“CA/CM 4/2017”) on 5 April 2017 requesting the Court of Appeal to rehear Criminal Appeal No 10 of 2014, _ie_, the Prosecution’s appeal against the acquittal of Ilechukwu.
 
-12     On 2 August 2017, the Court of Appeal allowed CA/CM 4/2017 in part. The CA’s judgment for CA/CM 4/2017 is reported at _Ilechukwu Uchechukwu Chukwudi v Public Prosecutor_ \[2017\] 2 SLR 741 (“_CA (Criminal Motion 1)_”). The Court of Appeal found that the First Sarkar Report was _prima facie_ powerfully probative in respect of the issue of the reasons Ilechukwu lied in his statements to the CNB (“the False Statements Issue”). This was because Dr Sarkar’s opinion may explain why Ilechukwu continued to lie in the statements which he made to the CNB. The False Statements Issue was in turn the essential question in CCA 10/2014 (see \[43\] of _CA (Criminal Motion 1)_).
+12     On 2 August 2017, the Court of Appeal allowed CA/CM 4/2017 in part. The CA’s judgment for CA/CM 4/2017 is reported at _Ilechukwu Uchechukwu Chukwudi v Public Prosecutor_ <span class="citation">\[2017\] 2 SLR 741</span> (“_CA (Criminal Motion 1)_”). The Court of Appeal found that the First Sarkar Report was _prima facie_ powerfully probative in respect of the issue of the reasons Ilechukwu lied in his statements to the CNB (“the False Statements Issue”). This was because Dr Sarkar’s opinion may explain why Ilechukwu continued to lie in the statements which he made to the CNB. The False Statements Issue was in turn the essential question in CCA 10/2014 (see \[43\] of _CA (Criminal Motion 1)_).
 
 13     The Court of Appeal then remitted the matter to me to receive evidence from Dr Sarkar in relation to the First Sarkar Report as well as such other evidence on matters arising from the report. Specifically, the Court of Appeal directed at \[50\]–\[51\] of _CA (Criminal Motion 1)_:
 

@@ -45,7 +45,7 @@ Credit and Security – Remedies – Garnishee orders – Garnishee issued
 
 ## My decision
 
-13     The legal burden is on the judgment creditor to prove that there is a debt due and accruing from the garnishee to the judgment debtor, even if a provisional garnishee order has been obtained: _The State-Owned Company Yugoimport SDPR (also known as Jugoimport-SDPR) v Westacre Investments Inc and other appeals_ \[2016\] 5 SLR 372 at \[81\]–\[82\]. I found that the Plaintiff had not been able to prove this in relation to both the First and Second GOs.
+13     The legal burden is on the judgment creditor to prove that there is a debt due and accruing from the garnishee to the judgment debtor, even if a provisional garnishee order has been obtained: _The State-Owned Company Yugoimport SDPR (also known as Jugoimport-SDPR) v Westacre Investments Inc and other appeals_ <span class="citation">\[2016\] 5 SLR 372</span> at \[81\]–\[82\]. I found that the Plaintiff had not been able to prove this in relation to both the First and Second GOs.
 
 ### First garnishee order
 
@@ -75,7 +75,7 @@ Credit and Security – Remedies – Garnishee orders – Garnishee issued
 
 #### Whether a garnishee is obliged to stop a cheque
 
-24     The Plaintiff also asserted, in relation to the First GO, that if SGCC could have stopped payment of the DBS Cheque, it should have done so.[^29] The Plaintiff relied on _Cohen v Hale_ (1878) 3 QBD 371 (“_Cohen_”). In _Cohen_, a garnishee stopped payment of a cheque upon being served with a garnishee order, and before the cheque was presented by the judgment debtor. The court held that the garnishee order could be enforced against the garnishee. The effect of a cheque was only to suspend the judgment debtor’s ability to call on the debt against the garnishee; if the cheque was stopped or dishonoured, the judgment debtor’s ability to call on the debt revived, and it was at that point that there was an attachable debt. Pertinently, Cockburn CJ stated _obiter_ (at 373) that:
+24     The Plaintiff also asserted, in relation to the First GO, that if SGCC could have stopped payment of the DBS Cheque, it should have done so.[^29] The Plaintiff relied on _Cohen v Hale_ <span class="citation">(1878) 3 QBD 371</span> (“_Cohen_”). In _Cohen_, a garnishee stopped payment of a cheque upon being served with a garnishee order, and before the cheque was presented by the judgment debtor. The court held that the garnishee order could be enforced against the garnishee. The effect of a cheque was only to suspend the judgment debtor’s ability to call on the debt against the garnishee; if the cheque was stopped or dishonoured, the judgment debtor’s ability to call on the debt revived, and it was at that point that there was an attachable debt. Pertinently, Cockburn CJ stated _obiter_ (at 373) that:
 
 _It may be that the garnishee order could not have been made effectual against \[the garnishee\] if they had declined to stop the cheque_, on the ground that having given it they had so far pledged themselves that it would not be proper for them to stop payment of it, but they did not take this course, and by their direction the cheque was stopped. The suspension of the remedy then ceased, and the debt remained just as if the cheque had never been given … \[emphasis added\]
 

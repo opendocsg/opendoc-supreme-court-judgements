@@ -11,7 +11,7 @@ Civil Procedure – Pleadings – Striking Out
 
 Patents and Inventions – Infringement
 
-\[LawNet Editorial Note: This was an appeal from the decision of the High Court in \[2018\] SGHC 149.\]
+\[LawNet Editorial Note: This was an appeal from the decision of the High Court in <span class="citation">\[2018\] SGHC 149</span>.\]
 
 30 April 2019
 

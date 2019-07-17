@@ -11,7 +11,7 @@ Civil Procedure – Costs
 
 ### Chua Lee Ming J:
 
-1       These grounds of decision are supplemental to my grounds of decision in _Ram Niranjan v Navin Jatia and others and another suit_ \[2019\] SGHC 138 (“_Ram Niranjan_”), and relate to the costs orders that I made. In these supplemental grounds, I shall use the same defined terms as those used in _Ram Niranjan_.
+1       These grounds of decision are supplemental to my grounds of decision in _Ram Niranjan v Navin Jatia and others and another suit_ <span class="citation">\[2019\] SGHC 138</span> (“_Ram Niranjan_”), and relate to the costs orders that I made. In these supplemental grounds, I shall use the same defined terms as those used in _Ram Niranjan_.
 
 2       As stated in _Ram Niranjan_ at \[217\], I ordered Navin and Mrs Navin to pay
 

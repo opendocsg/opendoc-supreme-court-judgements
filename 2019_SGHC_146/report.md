@@ -11,7 +11,7 @@ Damages – Assessment
 
 ### Lee Seiu Kin J:
 
-1       The present judgment concerns only the assessment of damages following my earlier judgment in _Grande Corporation Pte Ltd v Cubix International Pte Ltd and others_ \[2018\] SGHC 13 (“the striking out judgment”). I adopt the same terms used in the striking out judgment. The striking out judgment sets out extensively the relationship between the parties, the relevant procedural history and the reasons for the underlying dispute. I do not reproduce them here.
+1       The present judgment concerns only the assessment of damages following my earlier judgment in _Grande Corporation Pte Ltd v Cubix International Pte Ltd and others_ <span class="citation">\[2018\] SGHC 13</span> (“the striking out judgment”). I adopt the same terms used in the striking out judgment. The striking out judgment sets out extensively the relationship between the parties, the relevant procedural history and the reasons for the underlying dispute. I do not reproduce them here.
 
 ## Background
 
@@ -41,7 +41,7 @@ Damages – Assessment
 
 8       The plaintiff called on Mr Nemamkurral Vijaykumar Krishna as its sole witness while the defendants, Ben and Bee, were their own factual witnesses, together with Mr Chong Guan Choi, who was an expert witness.
 
-9       Relying on the cases of _Malcolmson v Mehta_ \[2001\] 3 SLR(R) 379 and _Quality Assurance Management Asia Pte Ltd v Zhang Qing and others_ \[2013\] 3 SLR 631, counsel for the plaintiff argued that the defendants must be taken to have admitted to all matters pleaded by the plaintiff in the statement of claim, as their defences had been struck out and interlocutory judgment entered against them.[^4]
+9       Relying on the cases of _Malcolmson v Mehta_ <span class="citation">\[2001\] 3 SLR(R) 379</span> and _Quality Assurance Management Asia Pte Ltd v Zhang Qing and others_ <span class="citation">\[2013\] 3 SLR 631</span>, counsel for the plaintiff argued that the defendants must be taken to have admitted to all matters pleaded by the plaintiff in the statement of claim, as their defences had been struck out and interlocutory judgment entered against them.[^4]
 
 10     Counsel for Ben and Bee, Mr Mark Goh (“Mr Goh”), also agreed that the facts pleaded in the plaintiff’s statement of claim must be taken as proven,[^5] and that they would not cross-examine the plaintiff’s witness for the purpose of establishing that the pleadings are not true.[^6]
 

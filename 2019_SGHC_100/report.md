@@ -13,7 +13,7 @@ Civil Procedure – Costs – awarded
 
 ## Introduction
 
-1       The background to this action is set out in my judgment dated 2 January 2019 in _Seraya Energy Pte Ltd v Denka Advantech Pte Ltd and another suit (YTL PowerSeraya Pte Ltd, third party)_ \[2019\] SGHC 02 (“the 1st Judgment”). Subsequent to that, I determined the extent of the liability and quantum in a supplementary judgment dated 29 January 2019 in _Seraya Energy Pte Ltd v Denka Advantech Pte Ltd and another suit (YTL PowerSeraya Pte Ltd, third party)_ \[2019\] SGHC 18 (“the 2nd Judgment”).
+1       The background to this action is set out in my judgment dated 2 January 2019 in _Seraya Energy Pte Ltd v Denka Advantech Pte Ltd and another suit (YTL PowerSeraya Pte Ltd, third party)_ \[2019\] SGHC 02 (“the 1st Judgment”). Subsequent to that, I determined the extent of the liability and quantum in a supplementary judgment dated 29 January 2019 in _Seraya Energy Pte Ltd v Denka Advantech Pte Ltd and another suit (YTL PowerSeraya Pte Ltd, third party)_ <span class="citation">\[2019\] SGHC 18</span> (“the 2nd Judgment”).
 
 2       Thereafter, I heard the parties on costs and disbursements of the action. I will use the same definitions as in the 1st Judgment.
 

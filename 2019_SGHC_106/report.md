@@ -91,7 +91,7 @@ As there were no objections from the Defendant’s counsel, I decided to proceed
 
 19     In an application for summary judgment, the plaintiff bears the burden of showing that he has a _prima facie_ case for summary judgment. If the plaintiff manages to show that he has a _prima facie_ case, the burden shifts to the defendant to show that there is an issue or question in dispute which ought to be tried or that there ought for some other reason to be a trial (O 14, r 3(1) of the Rules of Court).
 
-20     To satisfy the court that there is an issue or question in dispute which ought to be tried (a “triable issue”), the defendant must show grounds which raise a reasonable probability that he has a real or _bona fide_ defence in relation to the issues that he says ought to be tried (see _Wee Cheng Swee Henry v Jo Baby Kartika Polim_ \[2015\] 4 SLR 250 at \[36\], _JP Choon Pte Ltd v Lal Offshore Marine Pte Ltd_ \[2016\] SGHC 115 at \[14\] and _Sim Kim Seng (trading as Kim Seng Ship Building) v New West Coast Shipyard Pte Ltd_ \[2016\] SGHCR 2 at \[10\]). In this regard, the task of the court is neatly summarised in the following passage in _Goh Chok Tong v Chee Soon Juan_ \[2003\] 3 SLR(R) 32 at \[25\]:
+20     To satisfy the court that there is an issue or question in dispute which ought to be tried (a “triable issue”), the defendant must show grounds which raise a reasonable probability that he has a real or _bona fide_ defence in relation to the issues that he says ought to be tried (see _Wee Cheng Swee Henry v Jo Baby Kartika Polim_ <span class="citation">\[2015\] 4 SLR 250</span> at \[36\], _JP Choon Pte Ltd v Lal Offshore Marine Pte Ltd_ <span class="citation">\[2016\] SGHC 115</span> at \[14\] and _Sim Kim Seng (trading as Kim Seng Ship Building) v New West Coast Shipyard Pte Ltd_ <span class="citation">\[2016\] SGHCR 2</span> at \[10\]). In this regard, the task of the court is neatly summarised in the following passage in _Goh Chok Tong v Chee Soon Juan_ <span class="citation">\[2003\] 3 SLR(R) 32</span> at \[25\]:
 
 25    It is a settled principle of law that in an application for summary judgment, the defendant will not be given leave to defend based on mere assertions alone_: Banque de Paris et des Pays-Bas (Suisse) SA v Costa de Naray and Christopher John Walters_ \[1984\] 1 Lloyd’s Rep 21 at 23. The court must be convinced that there is a reasonable probability that the defendant has a real or bona fide defence in relation to the issues. In this regard, the standard to be applied was well-articulated by Laddie J in _Microsoft Corporation v Electro-Wide Limited_ \[1997\] FSR 580, where he said at 593 to 594 that:
 
@@ -99,23 +99,23 @@ As there were no objections from the Defendant’s counsel, I decided to proceed
 
 \[emphasis added\]
 
-21     In a passage cited with approval recently by the Singapore High Court in _M2B World Asia Pacific Pte Ltd v Matsumura Akihiko_ \[2015\] 1 SLR 325 at \[19\] and _Calvin Klein, Inc and another v HS International Pte Ltd and others_ \[2016\] 5 SLR 1183 at \[45\], the Supreme Court of Malaysia observed in _Bank Negara Malaysia v Mohd Ismail & Ors_ \[1992\] 1 MLJ 400 that:
+21     In a passage cited with approval recently by the Singapore High Court in _M2B World Asia Pacific Pte Ltd v Matsumura Akihiko_ <span class="citation">\[2015\] 1 SLR 325</span> at \[19\] and _Calvin Klein, Inc and another v HS International Pte Ltd and others_ <span class="citation">\[2016\] 5 SLR 1183</span> at \[45\], the Supreme Court of Malaysia observed in _Bank Negara Malaysia v Mohd Ismail & Ors_ <span class="citation">\[1992\] 1 MLJ 400</span> that:
 
 Under an O 14 application, the duty of a judge does not end as soon as a fact is asserted by one party, and denied or disputed by the other in an affidavit. _Where such assertion, denial or dispute is equivocal, or lacking in precision or is inconsistent with undisputed contemporary documents or other statements by the same deponent, or is inherently improbable in itself, then the judge has a duty to reject such assertion or denial, thereby rendering the issue not triable_.
 
 \[emphasis added\]
 
-22     Further, as observed in _Ritzland Investment Pte Ltd v Grace Management & Consultancy Services Pte Ltd_ \[2014\] 2 SLR 1342 at \[46\]:
+22     Further, as observed in _Ritzland Investment Pte Ltd v Grace Management & Consultancy Services Pte Ltd_ <span class="citation">\[2014\] 2 SLR 1342</span> at \[46\]:
 
 The policy underlying summary judgment is twofold and comprises a private and a public element. First, summary judgment enables a plaintiff with a strong claim to secure a judgment in a period of time and at an expense which is proportionate to the dispute. Second, summary judgment proceedings enable the court to conserve scarce public resources where there is no reasonable or fair probability that deploying those resources in a full trial would make a difference to the just determination of the dispute.
 
-23     Finally, as noted in _Lee Hsien Loong v Singapore Democratic Party and others and another suit_ \[2007\] 1 SLR(R) 675, the fact that an action involves complex issues is not an answer to a claim for summary judgment if the claim is otherwise well-founded (at \[19\]).
+23     Finally, as noted in _Lee Hsien Loong v Singapore Democratic Party and others and another suit_ <span class="citation">\[2007\] 1 SLR(R) 675</span>, the fact that an action involves complex issues is not an answer to a claim for summary judgment if the claim is otherwise well-founded (at \[19\]).
 
 ## Whether the plaintiff has made out a _prima facie_ case for summary judgment
 
 24     It is settled law that an order or bearer bill entitles the holder to call for delivery of the goods to which the bill of lading relates. The carrier who issued the bill of lading is thus obliged to deliver the goods only to the person in possession of the bill, whether as original shipper or as transferee of the bill by indorsement (where necessary) and delivery.
 
-25     In the present case, the bills of lading were signed on behalf of the master of _Yue You 902_ and made “To Order”. As the bills were blank endorsed by FGV before delivery to OCBC, they were in OCBC’s hands, bearer bills: see _Bandung Shipping Pte Ltd v Keppel TatLee Bank Ltd_ \[2003\] 1 SLR(R) 295 (“_Keppel TatLee_”) at \[20\] _per_ Chao Hick Tin JA. OCBC acquired a special property in the goods as pledgee when it granted a trust receipt loan to Aavanti for the purchase price. OCBC thus became holder of the bills of lading pursuant to s 5(2)(_b_) of the Bills of Lading Act. When OCBC demanded delivery of the cargo as holder of the bills of lading, the Defendant did not make the delivery to OCBC as demanded.
+25     In the present case, the bills of lading were signed on behalf of the master of _Yue You 902_ and made “To Order”. As the bills were blank endorsed by FGV before delivery to OCBC, they were in OCBC’s hands, bearer bills: see _Bandung Shipping Pte Ltd v Keppel TatLee Bank Ltd_ <span class="citation">\[2003\] 1 SLR(R) 295</span> (“_Keppel TatLee_”) at \[20\] _per_ Chao Hick Tin JA. OCBC acquired a special property in the goods as pledgee when it granted a trust receipt loan to Aavanti for the purchase price. OCBC thus became holder of the bills of lading pursuant to s 5(2)(_b_) of the Bills of Lading Act. When OCBC demanded delivery of the cargo as holder of the bills of lading, the Defendant did not make the delivery to OCBC as demanded.
 
 26     These elements are sufficient to make out a _prima facie_ case that the Defendant has breached its duty to deliver the cargo to OCBC upon presentation of the bills of lading.
 
@@ -177,7 +177,7 @@ shall (_by virtue of becoming the holder of the bill_ or, as the case may be, th
 
 41     The Defendant then suggested that:
 
-(a)     no local cases have dealt with this point, as Belinda Ang Saw Ean J had left the point open in _BNP Paribas v Bandung Shipping Pte Ltd (Shweta International Pte Ltd and another, third parties)_ \[2003\] 3 SLR(R) 611 (“_BNP Paribas_”); and
+(a)     no local cases have dealt with this point, as Belinda Ang Saw Ean J had left the point open in _BNP Paribas v Bandung Shipping Pte Ltd (Shweta International Pte Ltd and another, third parties)_ <span class="citation">\[2003\] 3 SLR(R) 611</span> (“_BNP Paribas_”); and
 
 (b)     the determination of this important issue mandates that the matter proceed to trial.
 
@@ -209,7 +209,7 @@ It seems to me clear from the 1992 Act that the reference to the right to posses
 
 \[emphasis added\]
 
-On appeal, Mance LJ similarly held, in _East West Corporation v DKBS AF 1912 A/S and another_ \[2003\] QB 1509 (“_East West Corp_ (CA)”) at \[44\], that:
+On appeal, Mance LJ similarly held, in _East West Corporation v DKBS AF 1912 A/S and another_ <span class="citation">\[2003\] QB 1509</span> (“_East West Corp_ (CA)”) at \[44\], that:
 
 However, section 2(2) refers to the possibility of a person becoming the holder of a bill at a time “when … possession of the bill no longer gives a right (as against the carrier) to possession of the goods to which the bill relates”, and to “the time when such a right to possession ceased to attach to possession of the bill”. Whilst this assumes a linkage between possession of the bill and possession of the goods, the subsection’s purpose is no more than to regulate the passing of contractual rights _in circumstances when a bill of lading would at common law be regarded as “spent”._
 
@@ -231,7 +231,7 @@ Similarly, Stephen Girvin, _Carriage of Goods by Sea_ (Oxford University Press, 
 
 \[emphasis in original\]
 
-52     With respect to Aikens J, I believe Lord Hobhouse was not discussing s 5(2)(c) or s 2(2) at \[31\] of _The Berge Sisar_ \[2002\] 2 AC 205. Instead, Lord Hobhouse’s comment was directed specifically at s 3 of COGSA 1992. The relevant part of Lord Hobhouse’s remarks at \[31\] reads:
+52     With respect to Aikens J, I believe Lord Hobhouse was not discussing s 5(2)(c) or s 2(2) at \[31\] of _The Berge Sisar_ <span class="citation">\[2002\] 2 AC 205</span>. Instead, Lord Hobhouse’s comment was directed specifically at s 3 of COGSA 1992. The relevant part of Lord Hobhouse’s remarks at \[31\] reads:
 
 The important point which is demonstrated by _this part of the report_ and carried into the Act is that it is the contractual rights, not the proprietary rights (be they general or special), that are to be relevant. The relevant consideration is the _mutuality of the contractual relationship_ transferred to the endorsee and the reciprocal contractual rights and obligations which arise from that relationship.
 
@@ -267,7 +267,7 @@ It was common ground below that by 7 July 2010, when \[the seller\] accepted pay
 
 In other words, delivery to the buyer against a seller’s LOI does _not_ have the effect of bringing the matter within the ambit of s 2(2).
 
-61     In Singapore, it was held in _BNP Paribas_ (at \[30\]) that delivery to a person not entitled does not cause the bill of lading to be spent. It was similarly held in the later case of _The Pacific Vigorous_ \[2006\] 3 SLR(R) 374 that (at \[5\]):
+61     In Singapore, it was held in _BNP Paribas_ (at \[30\]) that delivery to a person not entitled does not cause the bill of lading to be spent. It was similarly held in the later case of _The Pacific Vigorous_ <span class="citation">\[2006\] 3 SLR(R) 374</span> that (at \[5\]):
 
 Even though the shipowner no longer has the goods, the bill of lading is not spent and as such it does not cease to be a transferable document of title. The contract of carriage generally continues and the bill of lading remains effective until the goods are delivered to the person entitled under the bill of lading…
 
@@ -359,7 +359,7 @@ The letter of indemnity is designed to provide a remedy for a shipowner, where t
 
 The purpose of the clause was to ensure that the defendants would discharge the cargo even if the bill of lading was not available for presentation, but on terms that they would be protected by a letter of indemnity. It thus contemplated that they would be liable to the holder of the bill of lading if they delivered otherwise than in return for an original bill of lading.
 
-68    Choo Han Teck JC (as he then was) in _The Nordic Freedom_ \[1999\] 3 SLR(R) 507 considered a clause similar to cl 16 and came to the same conclusion.
+68    Choo Han Teck JC (as he then was) in _The Nordic Freedom_ <span class="citation">\[1999\] 3 SLR(R) 507</span> considered a clause similar to cl 16 and came to the same conclusion.
 
 69    Accordingly, cl 16 and its incorporation in the bills of lading cannot on a proper consideration provide a defence to wrongful discharge of the cargo against letters of indemnity.
 
@@ -431,7 +431,7 @@ Although it could be argued that in view of lack of definition in COGSA, 1992, a
 
 \[emphasis added\]
 
-102    This passage from _The Aegean Sea_ was cited with approval by the Singapore Court of Appeal in _UCO Bank v Golden Shore Transportation Pte Ltd_ \[2006\] 1 SLR(R) 1 (“_UCO Bank_”) where the Court of Appeal, at \[39\], held that “good faith” in s 5 of the Bills of Lading Act connotes “honest conduct”. The Court of Appeal added, also at \[39\], that it did not see “why more should be read into the provision than its plain meaning”. The Court of Appeal further commented, at \[40\], that “\[i\]t is obviously to preclude the case where possession is obtained unlawfully, or by other improper means, that s 5(2) prescribes that the person (be he the named consignee or an indorsee) must become the holder ‘in good faith’.”
+102    This passage from _The Aegean Sea_ was cited with approval by the Singapore Court of Appeal in _UCO Bank v Golden Shore Transportation Pte Ltd_ <span class="citation">\[2006\] 1 SLR(R) 1</span> (“_UCO Bank_”) where the Court of Appeal, at \[39\], held that “good faith” in s 5 of the Bills of Lading Act connotes “honest conduct”. The Court of Appeal added, also at \[39\], that it did not see “why more should be read into the provision than its plain meaning”. The Court of Appeal further commented, at \[40\], that “\[i\]t is obviously to preclude the case where possession is obtained unlawfully, or by other improper means, that s 5(2) prescribes that the person (be he the named consignee or an indorsee) must become the holder ‘in good faith’.”
 
 103    The Defendant seized upon the Court of Appeal’s reference to “other improper means” at \[40\] of _UCO Bank_ to argue that the Court of Appeal did not intend, by its remarks at \[39\] to confine the meaning of “good faith” _only_ to honest conduct.[^34] The Defendant therefore submitted that the scope of “good faith” could be developed incrementally by the courts, including to consider whether it is contrary to good faith for a holder to take possession of bills of lading to obtain a bare right of suit against a carrier without any real interest in the goods under the bills of lading.[^35]
 
@@ -519,7 +519,7 @@ In _Nederlandsche Handel-Maatschappij v Strathlorne Steamship Company_ (1931) 39
 
 (e)     The plaintiff must encourage the defendant in the defendant’s expenditure of money or other act, either directly or by abstaining from asserting his legal right.
 
-_Nasaka Industries (S) Pte Ltd v Aspac Aircargo Services Pte Ltd_ \[1999\] 2 SLR(R) 817 (“_Nasaka_”) at \[70\].
+_Nasaka Industries (S) Pte Ltd v Aspac Aircargo Services Pte Ltd_ <span class="citation">\[1999\] 2 SLR(R) 817</span> (“_Nasaka_”) at \[70\].
 
 126    It was plain that the Defendant’s defence on this front could not get off the ground. The first _Nasaka_ requirement necessitated the Defendant to have been mistaken about its entitlement to deliver the goods to Ruchi without the presentation of the bills of lading: see _Nasaka_ at \[71\]. And yet the Defendant’s delivery against a LOI is precisely an acknowledgement and acceptance that they are _not_ entitled to deliver without presentation of the bills, and might become liable for misdelivery otherwise. The Defendant’s acceptance of and reliance on FGV’s LOI demonstrates that it was not mistaken about it legal rights.
 
@@ -531,7 +531,7 @@ _Nasaka Industries (S) Pte Ltd v Aspac Aircargo Services Pte Ltd_ \[1999\] 2 SLR
 
 129    In relation to the defence of estoppel by convention, the Defendant claimed that both OCBC and Aavanti (on its behalf and on behalf of the Defendant) had contemplated the fact that the cargo would be discharged without the presentation of the bills of lading.[^53]
 
-130    The requirements for estoppel by convention were clarified in _Travista Development Pte Ltd v Tan Kim Swee Augustine and others_ \[2008\] 2 SLR(R) 474 (“_Travista_”) at \[31\]:
+130    The requirements for estoppel by convention were clarified in _Travista Development Pte Ltd v Tan Kim Swee Augustine and others_ <span class="citation">\[2008\] 2 SLR(R) 474</span> (“_Travista_”) at \[31\]:
 
 (a)     The parties must have acted on “an assumed and incorrect state of _fact or law_” (emphasis in original);
 
@@ -553,7 +553,7 @@ _Nasaka Industries (S) Pte Ltd v Aspac Aircargo Services Pte Ltd_ \[1999\] 2 SLR
 
 ### Whether there are some other reasons for the matter to go to trial
 
-136    The Defendant submitted, alternatively, there is “some other reason” for a trial as most of the facts and evidence relevant to whether OCBC had actual knowledge of the discharge of the cargo are under OCBC’s control.[^55] In support of this submission, the Defendant cited the case of _Concentrate Engineering Pte Ltd v United Malayan Banking Corp Bhd_ \[1990\] 1 SLR(R) 465 (“_Concentrate Engineering_”).
+136    The Defendant submitted, alternatively, there is “some other reason” for a trial as most of the facts and evidence relevant to whether OCBC had actual knowledge of the discharge of the cargo are under OCBC’s control.[^55] In support of this submission, the Defendant cited the case of _Concentrate Engineering Pte Ltd v United Malayan Banking Corp Bhd_ <span class="citation">\[1990\] 1 SLR(R) 465</span> (“_Concentrate Engineering_”).
 
 137    In _Concentrate Engineering_, the plaintiff company sued the defendant bank for making wrongful payment from the plaintiff’s bank account against forged cheques. The manner in which the cheques were forged gave rise to a strong suspicion that the forgery was committed by a person within the plaintiff’s organisation (at \[10\]–\[11\]). Noting that “O 14 is for the plain and obvious and not for the devious and crafty” (at \[19\]), the court observed (at \[18\]):
 

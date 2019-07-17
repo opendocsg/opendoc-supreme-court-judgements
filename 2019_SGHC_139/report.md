@@ -73,7 +73,7 @@ c)    27, 28, 29, 30 and 31 December.
 
 a)    After agreeing the payment claim amount and in any case within 21 days of receiving the payment claim duly submitted pursuant to clause 7.1, \[the Plaintiff\] must issue a progress payment to \[the Defendant\] …
 
-12     The defendant disagreed with the plaintiff’s interpretation of the contractual terms and submitted that the operative date was the date on which PC29 was _dated_. In so arguing, it relied heavily on the Court of Appeal decision in _Audi Construction Pte Ltd v Kian Hiap Construction Pte Ltd_ \[2018\] SGCA 4 (“_Audi Construction_”).
+12     The defendant disagreed with the plaintiff’s interpretation of the contractual terms and submitted that the operative date was the date on which PC29 was _dated_. In so arguing, it relied heavily on the Court of Appeal decision in _Audi Construction Pte Ltd v Kian Hiap Construction Pte Ltd_ <span class="citation">\[2018\] SGCA 4</span> (“_Audi Construction_”).
 
 13     Both parties agreed that if the operative date was on 18 January 2019, the AA would have been lodged out of time and if it was 20 January 2019, then it would have been validly lodged. Thus, the only issue to be determined was whether the operative date was on 18 or 20 January 2019.
 

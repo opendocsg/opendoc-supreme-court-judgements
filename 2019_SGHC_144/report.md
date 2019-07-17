@@ -166,7 +166,7 @@ Trusts – Recipient liability
 
 The Defendants are liable to account to the Plaintiff for the sum of SGG$1,741,812.03 as constructive trustee on the grounds of unjust enrichment.
 
-51     The plaintiff’s claim simply asserted that the defendants were liable to it in unjust enrichment without identifying a particular recognised unjust factor or event which would give rise to a claim. As the Court of Appeal stated in _Wee Chiaw Sek Anna v Ng Li-Ann Genevieve (sole executrix of the estate of Ng Hock Seng, deceased) and another_ \[2013\] 3 SLR 801 at \[134\]:
+51     The plaintiff’s claim simply asserted that the defendants were liable to it in unjust enrichment without identifying a particular recognised unjust factor or event which would give rise to a claim. As the Court of Appeal stated in _Wee Chiaw Sek Anna v Ng Li-Ann Genevieve (sole executrix of the estate of Ng Hock Seng, deceased) and another_ <span class="citation">\[2013\] 3 SLR 801</span> at \[134\]:
 
 It is important to reiterate that there is no freestanding claim in unjust enrichment on the abstract basis that it is “unjust” for the defendant to retain the benefit – _there must be a particular recognised unjust factor or event which gives rise to a claim_. The following observations by Prof Birks in a seminal article are, in this regard, apposite (see Peter Birks, “The English recognition of unjust enrichment” \[1991\] LMCLQ 473 (at 482)):
 
@@ -311,7 +311,7 @@ It is important to reiterate that there is no freestanding claim in unjust enric
 
 96     The exception in s 22(1) of the LA only applies to “an action by a beneficiary under a trust”. Since there was no question of there having been an express trust with the Deceased serving as trustee, the only other trust which the plaintiff could rely on to invoke the exception was a constructive trust.
 
-97     In _Yong Kheng Leong and another v Panweld Trading Pte Ltd_ \[2013\] 1 SLR 173 (“_Yong Kheng Leong_”), the Court of Appeal at \[46\] differentiated between “Class 1” and “Class 2” constructive trusts:
+97     In _Yong Kheng Leong and another v Panweld Trading Pte Ltd_ <span class="citation">\[2013\] 1 SLR 173</span> (“_Yong Kheng Leong_”), the Court of Appeal at \[46\] differentiated between “Class 1” and “Class 2” constructive trusts:
 
 46    … If a person holds property in the position of a trustee (and there is no doubt that a director is regarded as a trustee over the company’s property…) and deals with that property in breach of that trust, he will be a Class 1 constructive trustee; whereas a wrongdoer who fraudulently acquires property over which he had never previously been impressed with any trust obligations, may, by virtue of his fraudulent conduct, be held liable in equity to account as if he were a constructive trustee… the latter is not a case of someone who had ever in reality been a trustee of that property; and it is only by virtue of equity’s reach that such a person is regarded as a Class 2 constructive trustee.
 
@@ -365,7 +365,7 @@ the period of limitation shall not begin to run until the plaintiff has discover
 
 112    While D2 conceded that a breach of the duty of fidelity owed by employees to their employer would be sufficient to found a claim in knowing receipt (and thus negate the need to find a breach of fiduciary duty),[^110] I did not need to make a finding on this point.
 
-113    The plaintiff’s claim against D1 was for fraud committed by the Deceased. If the plaintiff were to succeed in proving the Deceased’s fraud, a constructive trust would arise over the fraudulently obtained moneys. Lord Browne-Wilkinson observed in _Westdeutsche Landesbank Girozentrale v Islington London Borough Council_ \[1996\] AC 669 at 716C:
+113    The plaintiff’s claim against D1 was for fraud committed by the Deceased. If the plaintiff were to succeed in proving the Deceased’s fraud, a constructive trust would arise over the fraudulently obtained moneys. Lord Browne-Wilkinson observed in _Westdeutsche Landesbank Girozentrale v Islington London Borough Council_ <span class="citation">\[1996\] AC 669</span> at 716C:
 
 I agree that the stolen moneys are traceable in equity. But the proprietary interest which equity is enforcing in such circumstances arises under a constructive, not a resulting, trust. Although it is difficult to find clear authority for the proposition, when property is obtained by fraud equity imposes a constructive trust on the fraudulent recipient: the property is recoverable and traceable in equity.
 
