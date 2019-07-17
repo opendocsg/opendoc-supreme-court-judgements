@@ -7,7 +7,7 @@
 
 Damages – Assessment
 
-7 June 2019
+7 June 2019 - Judgment reserved.
 
 ### Lee Seiu Kin J:
 

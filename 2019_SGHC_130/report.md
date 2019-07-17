@@ -7,7 +7,7 @@
 
 Building and Construction Law – Statutes and regulations – Building and Construction Industry Security of Payment Act – Payment claim – Performance bond proceeds
 
-22 May 2019
+22 May 2019 - Judgment reserved.
 
 ### Chan Seng Onn J:
 

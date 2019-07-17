@@ -7,7 +7,7 @@
 
 Civil Procedure – Injunctions
 
-23 April 2019
+23 April 2019 - Judgment reserved.
 
 ### Choo Han Teck J:
 

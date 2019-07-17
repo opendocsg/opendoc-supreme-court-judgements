@@ -13,7 +13,7 @@ Constitutional Law – Judicial Power
 
 \[LawNet Editorial Note: These were appeals from the decisions of the High Court in <span class="citation">\[2017\] SGHC 222</span> and <span class="citation">\[2018\] SGHC 112</span>.\]
 
-27 May 2019
+27 May 2019 - Judgment reserved.
 
 ### Sundaresh Menon CJ (delivering the judgment of the court):
 

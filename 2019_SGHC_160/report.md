@@ -9,7 +9,7 @@ Civil Procedure – Appeals – Leave
 
 Civil Procedure – Corporate self-representation
 
-4 July 2019
+4 July 2019 - Judgment reserved.
 
 ### Choo Han Teck J:
 

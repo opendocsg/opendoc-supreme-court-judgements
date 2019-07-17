@@ -9,7 +9,7 @@ Equity – Fiduciary relationships – Duties
 
 Equity – Remedies – Account
 
-3 June 2019
+3 June 2019 - Judgment reserved.
 
 ### Valerie Thean J:
 

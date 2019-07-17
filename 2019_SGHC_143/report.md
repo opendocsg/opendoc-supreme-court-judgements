@@ -9,7 +9,7 @@ Admiralty and Shipping – bills of lading – contracting and performing ca
 
 Tort – negligence – duty of care between registered owner and sub-charterer – cargo operations – cargo claims – damage to cargo and vessel
 
-4 June 2019
+4 June 2019 - Judgment reserved.
 
 ### Belinda Ang Saw Ean J:
 

@@ -11,7 +11,7 @@ Tort – Misrepresentation – Fraud and deceit
 
 Equity – Fiduciary relationships – Breach of fiduciary duties
 
-31 May 2019
+31 May 2019 - Judgment reserved.
 
 ### Patricia Bergin IJ:
 

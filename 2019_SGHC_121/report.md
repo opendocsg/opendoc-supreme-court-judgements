@@ -11,7 +11,7 @@ Trusts – Accessory liability – Knowing receipt
 
 Trusts – Accessory liability – Dishonest assistance
 
-13 May 2019
+13 May 2019 - Judgment reserved.
 
 ### Ang Cheng Hock JC:
 

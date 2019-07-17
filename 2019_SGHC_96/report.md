@@ -13,7 +13,7 @@ Contract – Remedies – Damages
 
 Employment law – Employees’ duties – Duty of good faith and fidelity
 
-18 April 2019
+18 April 2019 - Judgment reserved.
 
 ### Hoo Sheau Peng J:
 

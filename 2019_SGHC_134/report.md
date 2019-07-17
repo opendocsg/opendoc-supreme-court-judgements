@@ -7,7 +7,7 @@
 
 Professions – Medical profession and practice – Professional conduct
 
-27 May 2019
+27 May 2019 - Judgment reserved.
 
 ### Judith Prakash JA (delivering the judgment of the court):
 

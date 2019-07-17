@@ -9,7 +9,7 @@ Companies – Oppression – Minority shareholders
 
 Contract – Breach
 
-29 May 2019
+29 May 2019 - Judgment reserved.
 
 ### Robert French IJ (delivering the judgment of the court):
 

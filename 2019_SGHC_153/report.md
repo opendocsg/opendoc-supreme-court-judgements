@@ -9,7 +9,7 @@ Criminal Law – Statutory offences – Infectious Diseases Act
 
 Criminal Procedure and Sentencing – Sentencing – Benchmark sentences
 
-26 June 2019
+26 June 2019 - Judgment reserved.
 
 ### See Kee Oon J:
 

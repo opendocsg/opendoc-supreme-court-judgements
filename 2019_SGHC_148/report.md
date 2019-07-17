@@ -7,7 +7,7 @@
 
 Damages – Assessment
 
-19 June 2019
+19 June 2019 - Judgment reserved
 
 ### Choo Han Teck J:
 

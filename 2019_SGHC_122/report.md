@@ -15,7 +15,7 @@ Building and Construction Law – Terms – Implied terms – Fitness for 
 
 Building and Construction Law – Scope of works – Variation
 
-10 May 2019
+10 May 2019 - Judgment reserved.
 
 ### Quentin Loh J:
 

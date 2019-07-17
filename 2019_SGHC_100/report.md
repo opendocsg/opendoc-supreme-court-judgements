@@ -7,7 +7,7 @@
 
 Civil Procedure – Costs – awarded
 
-18 April 2019
+18 April 2019 - Judgment reserved.
 
 ### Woo Bih Li J:
 

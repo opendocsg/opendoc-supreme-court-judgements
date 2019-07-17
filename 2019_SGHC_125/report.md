@@ -9,7 +9,7 @@ Deeds and Other Instruments – Deeds – Duress – Illegality
 
 Trusts – Trustees – Duties – Duty to let trust property
 
-14 May 2019
+14 May 2019 - Judgment reserved.
 
 ### Audrey Lim JC:
 

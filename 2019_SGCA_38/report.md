@@ -11,7 +11,7 @@ Criminal Law – Statutory offences – Misuse of Drugs Act – Illegal im
 
 \[LawNet Editorial Note: This was an appeal from the decision of the High Court in <span class="citation">\[2017\] SGHC 106</span>.\]
 
-27 May 2019
+27 May 2019 - Judgment reserved.
 
 ### Sundaresh Menon CJ (delivering the judgment of the court):
 

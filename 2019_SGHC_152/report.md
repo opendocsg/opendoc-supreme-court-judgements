@@ -11,7 +11,7 @@ Trusts – Constructive trusts
 
 Trusts – Breach of trust – Remedies
 
-20 June 2019
+20 June 2019 - Judgment reserved.
 
 ### Ang Cheng Hock JC:
 

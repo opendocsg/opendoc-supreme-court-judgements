@@ -9,7 +9,7 @@ Criminal Law – Offences – Property – Corruption, Drug Trafficking an
 
 Statutory Interpretation – Construction of statute
 
-12 July 2019
+12 July 2019 - Judgment reserved.
 
 ### Andrew Phang Boon Leong JA (delivering the judgment of the court):
 

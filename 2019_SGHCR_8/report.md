@@ -7,7 +7,7 @@
 
 Civil Procedure – Judgments and orders
 
-30 April 2019
+30 April 2019 - Judgment reserved.
 
 ### Jean Chan Lay Koon AR:
 

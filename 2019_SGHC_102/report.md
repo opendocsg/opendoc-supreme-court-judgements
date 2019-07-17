@@ -7,7 +7,7 @@
 
 Professions – Medical profession and practice – Professional conduct
 
-23 April 2019
+23 April 2019 - Judgment reserved.
 
 ### Andrew Phang Boon Leong JA (delivering the judgment of the court):
 

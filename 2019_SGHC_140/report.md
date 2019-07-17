@@ -9,7 +9,7 @@ Criminal Procedure and Sentencing – Sentencing
 
 Criminal Law – Offences – Hurt
 
-6 June 2019
+6 June 2019 - Judgment reserved.
 
 ### See Kee Oon J:
 

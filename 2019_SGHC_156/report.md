@@ -9,7 +9,7 @@ Criminal Law – Statutory Offences – Securities and Futures Act – Off
 
 Criminal Procedure and Sentencing – Sentencing – Securities and Futures Act – Offering securities without a prospectus
 
-28 June 2019
+28 June 2019 - Judgment reserved.
 
 ### Hoo Sheau Peng J:
 

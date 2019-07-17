@@ -9,7 +9,7 @@ Employment Law – Work Injury Compensation Act – Substantial question of 
 
 Employment Law – Work Injury Compensation Act – Employer’s liability for compensation – Accident arising out of employment
 
-29 May 2019
+29 May 2019 - Judgment reserved.
 
 ### Chan Seng Onn J:
 

@@ -11,7 +11,7 @@ Arbitration – Award – Recourse against award – Setting aside – P
 
 \[LawNet Editorial Note: This was an appeal from the decisions of the High Court in <span class="citation">\[2018\] SGHC 78</span>.\]
 
-9 May 2019
+9 May 2019 - Judgment reserved.
 
 ### Judith Prakash JA (delivering the judgment of the court):
 

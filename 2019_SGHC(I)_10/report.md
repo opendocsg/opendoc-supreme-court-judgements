@@ -7,7 +7,7 @@
 
 Arbitration – Award – Recourse against award – Setting aside – Whether three-month time limit under Article 34(3) extendable by court
 
-20 June 2019
+20 June 2019 - Judgment reserved.
 
 ### Anselmo Reyes IJ:
 

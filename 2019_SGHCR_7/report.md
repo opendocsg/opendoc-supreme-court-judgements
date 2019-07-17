@@ -7,7 +7,7 @@
 
 Insolvency Law – Bankruptcy – Statutory demand
 
-3 May 2019
+3 May 2019 - Judgment reserved.
 
 ### Jonathan Ng Pang Ern AR:
 

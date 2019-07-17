@@ -7,7 +7,7 @@
 
 Civil Procedure – Summary judgment
 
-24 April 2019
+24 April 2019 - Judgment reserved.
 
 ### Choo Han Teck J:
 

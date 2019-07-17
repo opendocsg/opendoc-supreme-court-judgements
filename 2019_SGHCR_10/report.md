@@ -7,7 +7,7 @@
 
 Civil Procedure – Interim Payments
 
-26 June 2019
+26 June 2019 - Judgment reserved.
 
 ### Justin Yeo AR:
 

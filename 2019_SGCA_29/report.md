@@ -15,7 +15,7 @@ Companies – Schemes of arrangement – Abuse of process
 
 \[LawNet Editorial Note: This was an appeal from the decision of the High Court in <span class="citation">\[2018\] SGHC 36</span>.\]
 
-30 April 2019
+30 April 2019 - Judgment reserved.
 
 ### Sundaresh Menon CJ (delivering the judgment of the court):
 

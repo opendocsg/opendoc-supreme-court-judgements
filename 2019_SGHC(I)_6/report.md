@@ -11,7 +11,7 @@ Contract – Remedies – Damages
 
 Equity – Remedies – Equitable compensation
 
-14 May 2019
+14 May 2019 - Judgment reserved.
 
 ### Simon Thorley IJ:
 

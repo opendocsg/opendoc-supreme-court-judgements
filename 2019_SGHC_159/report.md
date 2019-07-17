@@ -11,7 +11,7 @@ Tort – Vicarious liability
 
 Limitation of Actions – Particular causes of action – Tort
 
-4 July 2019
+4 July 2019 - Judgment reserved.
 
 ### Choo Han Teck J:
 

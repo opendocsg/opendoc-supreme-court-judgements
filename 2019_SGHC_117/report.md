@@ -11,7 +11,7 @@ Civil Procedure – No case to answer – Standard of proof
 
 Tort – Defamation – Malicious falsehood – Damage
 
-3 May 2019
+3 May 2019 - Judgment reserved.
 
 ### Audrey Lim JC:
 

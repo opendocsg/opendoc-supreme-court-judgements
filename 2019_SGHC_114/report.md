@@ -7,7 +7,7 @@
 
 Companies – Directors – Duties
 
-3 May 2019
+3 May 2019 - Judgment reserved.
 
 ### Kannan Ramesh J:
 

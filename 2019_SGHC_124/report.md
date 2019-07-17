@@ -7,7 +7,7 @@
 
 Civil Procedure – Costs – Security
 
-15 May 2019
+15 May 2019 - Judgment reserved.
 
 ### Choo Han Teck J:
 

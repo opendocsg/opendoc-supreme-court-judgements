@@ -7,7 +7,7 @@
 
 Criminal Law – Statutory offences – Protection from Harassment Act – Unlawful stalking – Sentencing framework
 
-18 April 2019
+18 April 2019 - Judgment reserved.
 
 ### Chan Seng Onn J:
 

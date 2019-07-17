@@ -7,7 +7,7 @@
 
 Civil Procedure – Inherent powers – Garnishee orders
 
-15 May 2019
+15 May 2019 - Judgment reserved.
 
 ### Chan Seng Onn J:
 

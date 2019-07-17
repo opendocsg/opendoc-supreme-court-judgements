@@ -7,7 +7,7 @@
 
 Family Law – Maintenance – Child – Due proof of neglect or refusal
 
-27 May 2019
+27 May 2019 - Judgment reserved.
 
 ### Debbie Ong J:
 

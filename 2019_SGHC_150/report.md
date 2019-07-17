@@ -7,7 +7,7 @@
 
 Criminal Law – Statutory offences – Central Provident Fund Act
 
-12 June 2019
+12 June 2019 - Judgment reserved.
 
 ### See Kee Oon J:
 

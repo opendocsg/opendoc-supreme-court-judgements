@@ -9,7 +9,7 @@ Family Law – Matrimonial assets – Division – Long single income marr
 
 Family Law – Maintenance – Wife
 
-23 April 2019
+23 April 2019 - Judgment reserved.
 
 ### Tan Puay Boon JC:
 

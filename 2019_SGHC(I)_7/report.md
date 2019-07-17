@@ -13,7 +13,7 @@ Tort – Conspiracy – Conspiracy by unlawful means
 
 Tort – Defamation – Publication
 
-24 May 2019
+24 May 2019 - Judgment reserved.
 
 ### Vivian Ramsey IJ:
 

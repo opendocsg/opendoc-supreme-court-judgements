@@ -7,7 +7,7 @@
 
 Succession and Wills – Construction
 
-27 May 2019
+27 May 2019 - Judgment reserved.
 
 ### Choo Han Teck J:
 

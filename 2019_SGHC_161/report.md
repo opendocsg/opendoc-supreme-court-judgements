@@ -11,7 +11,7 @@ Criminal procedure and sentencing – Statements
 
 Evidence – Expert Evidence
 
-5 July 2019
+5 July 2019 - Judgment reserved.
 
 ### Lee Seiu Kin J:
 

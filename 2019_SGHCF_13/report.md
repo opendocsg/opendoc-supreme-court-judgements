@@ -9,7 +9,7 @@ Family Law – Divorce – Ancillary matters – Division of matrimonial a
 
 Family Law – Divorce – Ancillary matters – Maintenance of wife
 
-31 May 2019
+31 May 2019 - Judgment reserved.
 
 ### Tan Puay Boon JC:
 

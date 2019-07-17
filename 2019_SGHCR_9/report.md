@@ -7,7 +7,7 @@
 
 Civil Procedure – Pleadings – Striking out
 
-6 June 2019
+6 June 2019 - Judgment reserved.
 
 ### Jean Chan Lay Koon AR:
 

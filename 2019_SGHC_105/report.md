@@ -17,7 +17,7 @@ Criminal law – General exceptions – Consent
 
 Criminal law – General exceptions – Mistake of fact
 
-23 April 2019
+23 April 2019 - Judgment reserved.
 
 ### Woo Bih Li J:
 

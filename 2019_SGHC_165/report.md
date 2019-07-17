@@ -19,7 +19,7 @@ Tort – Negligence – Causation
 
 Tort – Negligence – Duty of care
 
-12 July 2019
+12 July 2019 - Judgment reserved.
 
 ### Woo Bih Li J:
 
