@@ -1,5 +1,5 @@
 <style>.footnotes::before { content: "Footnotes:"; }</style>
-# Malayan Banking Bhd _v_ Barclays Bank PLC  
+# Malayan Banking Bhd _v_ Barclays Bank PLC
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Originating Summons No 1 of 2018</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">12 April 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Singapore International Commercial Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Jeremy Lionel Cooke IJ</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Ng Ka Luon Eddee, Siew Guo Wei and Vinna Yip Kai Mun (Tan Kok Quan Partnership) for the plaintiff; Mohammed Reza s/o Mohammed Riaz, Kwek Yuan, Justin and Victoria Jones (JWS Asia Law Corporation) for the defendant.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Malayan Banking Berhad — Barclays Bank PLC</td></tr></tbody></table>
 
@@ -17,11 +17,11 @@ Contract – Illegality and public policy
 
 1       The claimant (to whom I shall refer as “Maybank”) applies by way of Originating Summons No 1 of 2018 filed on 14 February 2018 for declarations _vis-à-vis_ the defendant (to whom I shall refer as “Barclays”) that:
 
-(a)     an implied contract arose between the parties by Barclays sending to Maybank and Maybank accepting and acting upon the payment instruction contained in a Society for Worldwide Interbank Financial Telecommunication (“SWIFT”) MT 103 STP Single Customer Credit Transfer (“MT 103 STP”) sent on 30 June 2017;
+> (a)     an implied contract arose between the parties by Barclays sending to Maybank and Maybank accepting and acting upon the payment instruction contained in a Society for Worldwide Interbank Financial Telecommunication (“SWIFT”) MT 103 STP Single Customer Credit Transfer (“MT 103 STP”) sent on 30 June 2017;
 
-(b)     pursuant to such an implied contract, Barclays was obliged to initiate a sequence of transfers that would have ultimately led to Maybank’s correspondent bank paying Maybank the funds in relation to the MT 103 STP; and
+> (b)     pursuant to such an implied contract, Barclays was obliged to initiate a sequence of transfers that would have ultimately led to Maybank’s correspondent bank paying Maybank the funds in relation to the MT 103 STP; and
 
-(c)     Barclays breached such an implied contract by failing to initiate a sequence of transfers that would have ultimately led to Maybank’s correspondent bank paying Maybank the funds in relation to the MT 103 STP.
+> (c)     Barclays breached such an implied contract by failing to initiate a sequence of transfers that would have ultimately led to Maybank’s correspondent bank paying Maybank the funds in relation to the MT 103 STP.
 
 2       Maybank further seeks an order that Barclays pay Maybank the sum of US$871,085.61, being the equivalent of the interbank settlement amount specified in the MT 103 STP, within seven days of such order being made and an order for payment of its costs in bringing this action.
 
@@ -29,41 +29,41 @@ Contract – Illegality and public policy
 
 4       The SWIFT General Terms and Conditions describe themselves as:
 
-… the main set of SWIFT standard terms and conditions for the provision and the use of SWIFT services and products. They apply to each electronic form or contract executed by the customer to subscribe to SWIFT services and products …
+> … the main set of SWIFT standard terms and conditions for the provision and the use of SWIFT services and products. They apply to each electronic form or contract executed by the customer to subscribe to SWIFT services and products …
 
 From the SWIFT General Terms and Conditions, it is stated:
 
-SWIFT offers SWIFT services and products to all customers on a common contractual basis.
+> SWIFT offers SWIFT services and products to all customers on a common contractual basis.
 
-This is a key element of SWIFT’s co-operative nature. It ensures … that the sender and receiver of a SWIFT message are treated equally in all material respects.
+> This is a key element of SWIFT’s co-operative nature. It ensures … that the sender and receiver of a SWIFT message are treated equally in all material respects.
 
-…
+> …
 
 5       Paragraph 5.5 of these conditions is entitled “Industry Practice, Applicable Laws, and Regulations”. The following appears:
 
-Industry Practice, Applicable Laws, and Regulations
+> Industry Practice, Applicable Laws, and Regulations
 
-The customer is responsible for its use of SWIFT services and products, including any data transmitted through SWIFT.
+> The customer is responsible for its use of SWIFT services and products, including any data transmitted through SWIFT.
 
-In using SWIFT services and products and conducting its business, the customer must always exercise due diligence and reasonable judgment, and must comply with good industry practice and all relevant laws, regulations, and third-party rights, even if this restricts its usage entitlement under SWIFT’s governance.
+> In using SWIFT services and products and conducting its business, the customer must always exercise due diligence and reasonable judgment, and must comply with good industry practice and all relevant laws, regulations, and third-party rights, even if this restricts its usage entitlement under SWIFT’s governance.
 
-Without prejudice to the generality of the foregoing, the customer must:
+> Without prejudice to the generality of the foregoing, the customer must:
 
-…
+>> …
 
-(b)    ensure not to use, or try to use, SWIFT services and products for illegal, illicit or fraudulent purposes …
+>> (b)    ensure not to use, or try to use, SWIFT services and products for illegal, illicit or fraudulent purposes …
 
-(c)    use BICs \[business identifier codes\] and message standards as prescribed in the applicable documentation
+>> (c)    use BICs \[business identifier codes\] and message standards as prescribed in the applicable documentation
 
-…
+>> …
 
 6       On Friday 30 June 2017, Maybank received payment instructions or payment information from Barclays in a particular type of SWIFT message (known as an MT 103 STP) and proceeded to act upon it by crediting US$871,080.61 into the account of the beneficiary customer, PLG International Pte Ltd (“PLG”), that day. Maybank’s position is that, although it was not obliged to act on such a message until receipt of funds into its account or that of its correspondent bank, or until it received a communication informing it that instructions had been given by Barclays (in the form of a SWIFT message MT 202 COV) to transmit such funds from Barclays’ correspondent bank in New York, US (being Barclays’ New York branch (“Barclays NY”)) to Maybank’s own correspondent bank there, JP Morgan Chase Bank NA (“Chase”), Maybank was entitled to act on such instructions in the MT 103 STP and Barclays was obliged to reimburse the sums paid out to PLG on its instructions. It is Maybank’s case that, once the MT 103 STP instruction was acted on by it, the instruction could not be cancelled and Barclays was obliged to send (as this was a US dollar (“USD”) transaction) an MT 202 COV to Barclays NY. Barclays NY would inform and pay Chase which would inform Maybank, with funds then accruing to Maybank in its mutual accounting with its correspondent bank, with a credit transfer. The MT 202 COV would be sent to “cover” the MT 103 STP. This has been referred to as “the Cover Method”, as opposed to other forms of messaging which can achieve the same effect under the SWIFT system, such as “the Serial Method”.
 
 7       An MT 202 COV was in fact sent by Barclays to Barclays NY on 30 June 2017, at about the same time as the MT 103 STP was sent to Maybank on 30 June 2017. However, no payment or confirmation of payment was ever made to Chase because, after sending the MT 103 STP and the MT 202 COV, Barclays received information that the funds to be transferred had been received by its customer in “questionable circumstances”. Bearing in mind the time differences (Singapore was seven hours ahead of London, UK which was five hours ahead of New York), Barclays in London sought, a few hours later:
 
-(a)     the cancellation of the MT 103 STP instruction by sending to Maybank a SWIFT message in the form of an MT 192, which was not received until after closing hours on the Friday 30 June 2017 in Singapore, by which time payment had already been made by Maybank to PLG’s account with it, which had been credited with the relevant sum; and
+> (a)     the cancellation of the MT 103 STP instruction by sending to Maybank a SWIFT message in the form of an MT 192, which was not received until after closing hours on the Friday 30 June 2017 in Singapore, by which time payment had already been made by Maybank to PLG’s account with it, which had been credited with the relevant sum; and
 
-(b)     the cancellation of the MT 202 COV instruction by sending to Barclays NY a SWIFT message in the form of an MT 292, and Barclays NY was still open at that stage and assented to the instruction to cancel the MT 202 COV.
+> (b)     the cancellation of the MT 202 COV instruction by sending to Barclays NY a SWIFT message in the form of an MT 292, and Barclays NY was still open at that stage and assented to the instruction to cancel the MT 202 COV.
 
 8       As already stated, by the time of effective receipt by Maybank of the MT 192 cancellation request from Barclays, which was after the weekend, on Monday 3 July 2017, Maybank had already credited its customer PLG. Maybank thereafter sought PLG’s consent to adjust the position to debit the funds credited, but PLG refused, saying that the payment was made for a genuine business transaction.
 
@@ -71,17 +71,17 @@ Without prejudice to the generality of the foregoing, the customer must:
 
 10     Barclays’ case, as put in its early evidence and at the case management conferences, was that Maybank was not entitled to treat the MT 103 STP as irrevocable because it could be cancelled and was so cancelled by Barclays when it sent the MT 192 upon the discovery of a potential fraud. Barclays also submitted that Maybank acted in a manner inconsistent with market practice by effecting the credit transfer to PLG’s account without having first received the underlying MT 202 COV and that this was an internal credit risk decision which Maybank took and for which it should bear the consequences. For convenience I shall refer to the bank sending the MT 103 STP as the “Sending Bank” and to the bank receiving it as the “Receiving Bank”. Barclays contended, at that stage, that:
 
-(a)     An MT 103 STP sent using the Cover Method is irrevocable only if and when the Receiving Bank receives the MT 202 COV. The MT 202 COV must match the MT 103 STP.
+> (a)     An MT 103 STP sent using the Cover Method is irrevocable only if and when the Receiving Bank receives the MT 202 COV. The MT 202 COV must match the MT 103 STP.
 
-(b)     If the Receiving Bank decides to act upon the MT 103 STP by effecting the underlying credit transfer, without receipt of the funds from the Sending Bank, this decision is an internal policy matter and a credit risk which the Receiving Bank voluntarily takes.
+> (b)     If the Receiving Bank decides to act upon the MT 103 STP by effecting the underlying credit transfer, without receipt of the funds from the Sending Bank, this decision is an internal policy matter and a credit risk which the Receiving Bank voluntarily takes.
 
-(c)     If the Receiving Bank ultimately does not receive the underlying settlement instruction by way of the MT 202 COV, its recourse is to unwind the credit of the funds into its beneficiary customer’s account; its recourse is not to recover the funds from the Sending Bank.
+> (c)     If the Receiving Bank ultimately does not receive the underlying settlement instruction by way of the MT 202 COV, its recourse is to unwind the credit of the funds into its beneficiary customer’s account; its recourse is not to recover the funds from the Sending Bank.
 
-(d)     This position is consistent with the SWIFT Standards MT in relation to the MT 103 STP, the Payments Market Practice Group (“PMPG”) Market Practice Guidelines for use of the MT 202 COV (“the PMPG Guidelines”) (and in particular, frequently asked question (“FAQ”) 10 of the PMPG Guidelines) and market practice.
+> (d)     This position is consistent with the SWIFT Standards MT in relation to the MT 103 STP, the Payments Market Practice Group (“PMPG”) Market Practice Guidelines for use of the MT 202 COV (“the PMPG Guidelines”) (and in particular, frequently asked question (“FAQ”) 10 of the PMPG Guidelines) and market practice.
 
-(e)     In the present case, Maybank did not receive the MT 202 COV from Barclays in respect of the MT 103 STP. Therefore, Barclays was entitled to cancel the MT 103 STP.
+> (e)     In the present case, Maybank did not receive the MT 202 COV from Barclays in respect of the MT 103 STP. Therefore, Barclays was entitled to cancel the MT 103 STP.
 
-(f)     Under the SWIFT General Terms and Conditions, Barclays and Maybank are obliged, as SWIFT users, to comply with all relevant laws, regulations and third-party rights, _even if that affects their use of the SWIFT messaging system_, and they agreed not to use SWIFT services for illegal, illicit or fraudulent purposes. Since the MT 103 STP was issued in connection with a potential fraud, Barclays was acting consistently with the SWIFT General Terms and Conditions by seeking to cancel the MT 103 STP and refusing to issue the related MT 202 COV.
+> (f)     Under the SWIFT General Terms and Conditions, Barclays and Maybank are obliged, as SWIFT users, to comply with all relevant laws, regulations and third-party rights, _even if that affects their use of the SWIFT messaging system_, and they agreed not to use SWIFT services for illegal, illicit or fraudulent purposes. Since the MT 103 STP was issued in connection with a potential fraud, Barclays was acting consistently with the SWIFT General Terms and Conditions by seeking to cancel the MT 103 STP and refusing to issue the related MT 202 COV.
 
 11     As expressed by Barclays at the time of the case management conferences, there was, at the very least, terminological inexactitude in the way it put its case, since the evidence shows that the Receiving Bank does not receive an MT 202 COV. The MT 202 COV is the instruction sent by the Sending Bank to its correspondent bank, instructing it to pay the correspondent bank of the Receiving Bank. The latter notifies the Receiving Bank of the receipt of actual funds, which occurs by wire transfer or clearing house transaction, by means of a communication which is usually in the form of an MT 910, and so the MT 202 COV is not sent to the Receiving Bank. The lack of precision in Barclays’ case, as put, is odd but is now expressed differently, but raises essentially the same point of substance. The point is that Maybank was not entitled to any reimbursement of sums paid out by it pursuant to the MT 103 STP if it chose to pay before the actual receipt of funds by its correspondent bank in New York, _ie_, Chase, and/or communication of that to it.
 
@@ -91,9 +91,9 @@ Without prejudice to the generality of the foregoing, the customer must:
 
 13     Additionally, Barclays had, in April 2018, adduced affidavit evidence in the form of a legal opinion from an English lawyer Mr Stephen Gentle which, in summary, said that if Barclays had proceeded to transfer to Maybank the funds under the MT 103 STP, Barclays could have been:
 
-(a)     liable for an offence of money laundering under s 327 of the Proceeds of Crime Act 2002 (c 29) (UK) (“POCA”); and
+> (a)     liable for an offence of money laundering under s 327 of the Proceeds of Crime Act 2002 > (c 29) (UK) (“POCA”); and
 
-(b)     subject to criminal or regulatory enforcement by the UK Financial Conduct Authority (“FCA”), pursuant to: (i) The Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 (SI 2017 No 692) (UK) (“the Regulations”) (in particular, regs 19 and 20); (ii) para 6.3 of the Senior Management Arrangements, System and Controls (“SYSC”) Sourcebook of the FCA’s Handbook; and/or (iii) FCA’s Principles for Businesses.
+> (b)     subject to criminal or regulatory enforcement by the UK Financial Conduct Authority (“FCA”), pursuant to: (i) The Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 (SI 2017 No 692) (UK) (“the Regulations”) (in particular, regs 19 and 20); (ii) para 6.3 of the Senior Management Arrangements, System and Controls (“SYSC”) Sourcebook of the FCA’s Handbook; and/or (iii) FCA’s Principles for Businesses.
 
 14     I expressed doubt at the first case management conference at the course that the proceedings were taking in the light of the opinion evidence of Ms Trood of market practice and the English law opinion. The issues raised by the former were not likely to be capable of resolution on affidavit evidence alone and the latter seemed to me to be of questionable relevance, if there was an implied contract of the kind alleged by Maybank, in the absence of any actual illegality in the transfer of funds by Barclays to Maybank, particularly since Barclays was always free to transfer funds out of its own pocket, rather than funds from its customer’s account which had been credited in “questionable circumstances”. I was prepared to accept some expert evidence because the SWIFT materials might involve more than a question of construction, but the end result has been that the proceedings have been protracted. The originating summons has taken an unusual course and, instead of being a speedy procedure for the determination of points of construction of documents, such as the MT 103 STP and other related SWIFT forms, has resulted in a hybrid form of proceedings with oral evidence and cross-examination. At the end of the day, no relevant “market practice” has been shown, which could affect the outcome, and the expert evidence was no more than useful background to the operation of the SWIFT system and the way in which banks operate.
 
@@ -101,41 +101,41 @@ Without prejudice to the generality of the foregoing, the customer must:
 
 16     The facts, including those known only to Barclays, as relayed in Warrington 1 and Warrington 2, include the following:
 
-(a)     On 29 June 2017, a sum of US$3,999,975 was deposited into an account of Barclays’ customer (“Bengeo”) (_ie_, US$4,000,000 less applicable bank charges).
+> (a)     On 29 June 2017, a sum of US$3,999,975 was deposited into an account of Barclays’ customer (“Bengeo”) (_ie_, US$4,000,000 less applicable bank charges).
 
-(b)     On Friday 30 June 2017, Bengeo issued seven instructions to Barclays to transfer a total sum of US$4,017,615.76 from its account with Barclays to various beneficiaries’ bank accounts with four banks (including Maybank).
+> (b)     On Friday 30 June 2017, Bengeo issued seven instructions to Barclays to transfer a total sum of US$4,017,615.76 from its account with Barclays to various beneficiaries’ bank accounts with four banks (including Maybank).
 
-(c)     Accordingly, Barclays sent MT 103 STPs to the four banks (including Maybank). In particular, there were two MT 103 STPs sent to Maybank (of which this court is concerned with only one) using the Cover Method.
+> (c)     Accordingly, Barclays sent MT 103 STPs to the four banks (including Maybank). In particular, there were two MT 103 STPs sent to Maybank (of which this court is concerned with only one) using the Cover Method.
 
-(d)     Therefore, corresponding MT 202 COVs to these MT 103 STPs were also sent by Barclays to Barclays NY as the USD correspondent bank.
+> (d)     Therefore, corresponding MT 202 COVs to these MT 103 STPs were also sent by Barclays to Barclays NY as the USD correspondent bank.
 
-(e)     On the evening of 30 June 2017, the Barclays branch in Singapore learnt that the sum of US$3,999,975 mentioned at \[16(a)\] above was deposited into Bengeo’s account in questionable circumstances – because that sum of US$4,000,000 was intended to be credited into the account of another customer of Barclays instead. A request was received from the correspondent bank of the sender of those moneys at 10.18am London time in a SWIFT message asking for the return of the moneys and saying “payment was not intended for you” and “suspected fraud payment”. Because of this and the receipt of other emails to similar effect, Mr Warrington in London said that he had reason to believe that the inbound funds from which payment to Maybank was to be made were the subject of fraud. He instructed the cancellation of the fund transfers, which included the sending of an MT 292 to Barclays NY requesting cancellation of the MT 202 COV and of payment to Maybank’s correspondent bank, Chase. Steps were taken to request cancellation of the MT 103 STP with an MT 192.
+> (e)     On the evening of 30 June 2017, the Barclays branch in Singapore learnt that the sum of US$3,999,975 mentioned at \[16(a)\] above was deposited into Bengeo’s account in questionable circumstances – because that sum of US$4,000,000 was intended to be credited into the account of another customer of Barclays instead. A request was received from the correspondent bank of the sender of those moneys at 10.18am London time in a SWIFT message asking for the return of the moneys and saying “payment was not intended for you” and “suspected fraud payment”. Because of this and the receipt of other emails to similar effect, Mr Warrington in London said that he had reason to believe that the inbound funds from which payment to Maybank was to be made were the subject of fraud. He instructed the cancellation of the fund transfers, which included the sending of an MT 292 to Barclays NY requesting cancellation of the MT 202 COV and of payment to Maybank’s correspondent bank, Chase. Steps were taken to request cancellation of the MT 103 STP with an MT 192.
 
-(f)     The MT 103 STP with which this court is concerned was received by Maybank at around 5.15pm. This was processed by Maybank and the payment instruction carried out by crediting PLG’s account with the relevant sum by about 7.39pm that day.
+> (f)     The MT 103 STP with which this court is concerned was received by Maybank at around 5.15pm. This was processed by Maybank and the payment instruction carried out by crediting PLG’s account with the relevant sum by about 7.39pm that day.
 
-(g)     The second MT 103 STP, with which this court is not concerned, was received at around 7.59pm after the close of business on Friday 30 June 2017 and was only made available for processing on the next business day, Monday 3 July 2017.
+> (g)     The second MT 103 STP, with which this court is not concerned, was received at around 7.59pm after the close of business on Friday 30 June 2017 and was only made available for processing on the next business day, Monday 3 July 2017.
 
-(h)     On the evening of 30 June 2017, Barclays issued MT 192s to all four banks who had received the MT 103 STPs, seeking cancellation of the latter.
+> (h)     On the evening of 30 June 2017, Barclays issued MT 192s to all four banks who had received the MT 103 STPs, seeking cancellation of the latter.
 
-(i)     The MT 192 in relation to the MT 103 STP with which this court is concerned reached Maybank at 9.53pm on Friday 30 June 2017, long after banking hours, and was not seen or capable of being processed until Monday 3 July 2017. The effective time of receipt was about 8.25am on 3 July 2017, by which time the MT 103 STP with which this court is concerned had been implemented (but the second MT 103 STP, with which this court is not concerned, had not).
+> (i)     The MT 192 in relation to the MT 103 STP with which this court is concerned reached Maybank at 9.53pm on Friday 30 June 2017, long after banking hours, and was not seen or capable of being processed until Monday 3 July 2017. The effective time of receipt was about 8.25am on 3 July 2017, by which time the MT 103 STP with which this court is concerned had been implemented (but the second MT 103 STP, with which this court is not concerned, had not).
 
-(j)     Barclays also issued MT 292s to Barclays NY in respect of the MT 202 COVs, including an MT 292 in relation to the MT 103 STP with which the court is concerned, at 9.54pm Singapore time (9.54am New York time).
+> (j)     Barclays also issued MT 292s to Barclays NY in respect of the MT 202 COVs, including an MT 292 in relation to the MT 103 STP with which the court is concerned, at 9.54pm Singapore time (9.54am New York time).
 
-(k)     Upon receiving the MT 192s, the three banks apart from Maybank agreed to cancel the MT 103 STPs which they had received respectively, and upon receiving the MT 292s, Barclays NY agreed to cancel the MT 202 COVs it had received, including that relating to the MT 103 STP sent to Maybank with which this court is concerned.
+> (k)     Upon receiving the MT 192s, the three banks apart from Maybank agreed to cancel the MT 103 STPs which they had received respectively, and upon receiving the MT 292s, Barclays NY agreed to cancel the MT 202 COVs it had received, including that relating to the MT 103 STP sent to Maybank with which this court is concerned.
 
 ## List of issues
 
 17     The parties agreed a list of issues as follows:
 
-(a)     whether the MT 103 STP was irrevocable by Barclays once Maybank acted upon the MT 103 STP by crediting PLG’s account with the relevant sum on 30 June 2017 at 7.39pm;
+> (a)     whether the MT 103 STP was irrevocable by Barclays once Maybank acted upon the MT 103 STP by crediting PLG’s account with the relevant sum on 30 June 2017 at 7.39pm;
 
-(b)     if the answer to issue (a) is yes, whether, and if so, to what extent, Barclays is liable to Maybank in respect of the MT 103 STP;
+> (b)     if the answer to issue (a) is yes, whether, and if so, to what extent, Barclays is liable to Maybank in respect of the MT 103 STP;
 
-(c)     whether an implied contract arose between Barclays and Maybank by Barclays sending to Maybank, and Maybank acting upon, the MT 103 STP, under which Barclays was obliged to initiate a sequence of transfers that would have ultimately led to Maybank receiving the funds in relation to the MT 103 STP;
+> (c)     whether an implied contract arose between Barclays and Maybank by Barclays sending to Maybank, and Maybank acting upon, the MT 103 STP, under which Barclays was obliged to initiate a sequence of transfers that would have ultimately led to Maybank receiving the funds in relation to the MT 103 STP;
 
-(d)     if the answer to issue (c) is yes, whether Barclays was in breach of the implied contract by failing to initiate a sequence of transfers that would have ultimately led to Maybank receiving the funds in relation to the MT 103 STP; and
+> (d)     if the answer to issue (c) is yes, whether Barclays was in breach of the implied contract by failing to initiate a sequence of transfers that would have ultimately led to Maybank receiving the funds in relation to the MT 103 STP; and
 
-(e)     what are the costs orders that should be made in respect of the entire hearing of the matter.
+> (e)     what are the costs orders that should be made in respect of the entire hearing of the matter.
 
 18     It appears to the court that the fundamental issue always has been that set out at \[17(c)\] above and that the sequence of the questions raised should be seen in that light. The question of the irrevocability of the MT 103 STP is only part of that issue. Whether or not an MT 103 STP is revocable in general does not necessarily assist in answering the fundamental issue, since it may well be revocable in general, as with any instruction which is capable of being cancelled prior to being implemented, but once fulfilled by the party receiving the instruction, the position may be different. If there was some universal market practice that an MT 103 STP instruction to pay was capable of cancellation following implementation by the Receiving Bank, that would be directly to the point, but there was no evidence of such a practice and the court has to determine the rights of the parties in the light of the messages sent and received, the general law and any relevant market practice that may be established which could impact on that.
 
@@ -143,17 +143,17 @@ Without prejudice to the generality of the foregoing, the customer must:
 
 19     The implied contract here is said to arise on the sending of the MT 103 STP instruction to pay PLG and the action of Maybank in accepting that instruction and making the payment instructed. The implied contract requires Barclays to reimburse Maybank in respect of the payment made on Barclays’ instructions. The SWIFT documentation, as appears below, recognises the existence of such an obligation, but the question is whether the test for the existence of an implied contract and the implied obligation is met.
 
-20     I was referred to the decision of the Singapore Court of Appeal in _Cooperatieve Centrale Raiffeisen-Boerenleenbank BA (trading as Rabobank International), Singapore Branch v Motorola Electronics Pte Ltd_ (“_Rabobank_”) where it was observed that an implied contract is no different in legal effect from an express contract but that the difference lies solely in the manner in which the consent of the parties is manifested. Such a contract can arise from communications between the parties and from conduct (see _Rabobank_ at \[46\]). In the _Rabobank_ decision, it was said that in a case where the court was faced with a claim that an agreement had been entered into by conduct, and the mechanism for offer and acceptance was conduct, rather than express written or oral agreement, it ought to scrutinise the evidence carefully to determine whether the existence of a contract, compliant with all the requirements of contract formation, had been proved on the balance of probabilities. “\[A\]ll the surrounding circumstances must be considered objectively to determine whether or not a contract may properly be implied. No assumptions should be made, since contracts are not to be ‘lightly implied’” (_Rabobank_ at \[50\]). Elsewhere the following appears (at \[49\], citing _Tribune Investment Trust Inc v Soosan Trading Co Ltd_ at \[40\]):
+20     I was referred to the decision of the Singapore Court of Appeal in _Cooperatieve Centrale Raiffeisen-Boerenleenbank BA (trading as Rabobank International), Singapore Branch v Motorola Electronics Pte Ltd_ <span class="citation">\[2011\] 2 SLR 63</span> (“_Rabobank_”) where it was observed that an implied contract is no different in legal effect from an express contract but that the difference lies solely in the manner in which the consent of the parties is manifested. Such a contract can arise from communications between the parties and from conduct (see _Rabobank_ at \[46\]). In the _Rabobank_ decision, it was said that in a case where the court was faced with a claim that an agreement had been entered into by conduct, and the mechanism for offer and acceptance was conduct, rather than express written or oral agreement, it ought to scrutinise the evidence carefully to determine whether the existence of a contract, compliant with all the requirements of contract formation, had been proved on the balance of probabilities. “\[A\]ll the surrounding circumstances must be considered objectively to determine whether or not a contract may properly be implied. No assumptions should be made, since contracts are not to be ‘lightly implied’” (_Rabobank_ at \[50\]). Elsewhere the following appears (at \[49\], citing _Tribune Investment Trust Inc v Soosan Trading Co Ltd_ <span class="citation">\[2000\] 2 SLR(R) 407</span> at \[40\]):
 
-… the function of the court is to try as far as practical experience allows, to ensure that the reasonable expectations of honest men are not disappointed. To this end, it is also trite law that the test of agreement or of inferring _consensus ad idem_ is objective. Thus, the language used by one party … is to be construed in the sense in which it would reasonably be understood by the other. \[emphasis in original\]
+> … the function of the court is to try as far as practical experience allows, to ensure that the reasonable expectations of honest men are not disappointed. To this end, it is also trite law that the test of agreement or of inferring _consensus ad idem_ is objective. Thus, the language used by one party … is to be construed in the sense in which it would reasonably be understood by the other. \[emphasis in original\]
 
 21     I was also referred to decisions of the English courts and in particular to that of the Court of Appeal in _Baird Textile Holdings Ltd v Marks & Spencer plc_ \[2002\] 1 All ER (Comm) 737 where the court said that it was fatal to the implication of a contract that the conduct in question was explicable by reference to other facts. It was not enough for the conduct to be consistent with the alleged contract. For a court to imply a contract it had to be necessary to do so because the conduct was not explicable on any other basis. The court (at \[20\]) cited _Mitsui & Co Ltd v Novorossiysk Shipping Co (The “Gudermes”)_ \[1993\] 1 Lloyd’s Rep 311 at 320:
 
-… it is not enough to show that the parties have done something more than, or something different from, what they were already bound to do under obligations owed to others. What they do must be consistent only with there being a new contract implied, and inconsistent with there being no such contract.
+> … it is not enough to show that the parties have done something more than, or something different from, what they were already bound to do under obligations owed to others. What they do must be consistent only with there being a new contract implied, and inconsistent with there being no such contract.
 
 The court also (at \[18\]) cited the decision of Bingham LJ (as he then was) in _“The Aramis”_ \[1989\] 1 Lloyd’s Rep 213 at 224:
 
-… it would, in my view, be contrary to principle to countenance the implication of a contract from conduct if the conduct relied upon is no more consistent with an intention to contract than with an intention not to contract. It must, surely, be necessary to identify conduct referable to the contract contended for or, at the very least, conduct inconsistent with there being no contract made between the parties. Put another way, I think it must be fatal to the implication of a contract if the parties would or might have acted exactly as they did in the absence of a contract.
+> … it would, in my view, be contrary to principle to countenance the implication of a contract from conduct if the conduct relied upon is no more consistent with an intention to contract than with an intention not to contract. It must, surely, be necessary to identify conduct referable to the contract contended for or, at the very least, conduct inconsistent with there being no contract made between the parties. Put another way, I think it must be fatal to the implication of a contract if the parties would or might have acted exactly as they did in the absence of a contract.
 
 22     Barclays submits that sending an MT 103 STP could not be construed as the making of an offer to pay which could be accepted by Maybank by paying PLG. It was not to be understood by a reasonable recipient to be an offer and did not require Maybank to pay PLG when to do so would be contrary to common sense without receiving covering funds. There would be no certainty of any payment reaching Maybank because it might be stopped for any number of reasons which had nothing whatever to do with the Sending Bank or Receiving Bank. Cover payments could be stopped along the payment chain because of failure to pass the screening by intermediate/correspondent banks for money laundering, financing of terrorism or sanctions, the financial failure of the Sending Bank or one of the correspondent banks, transfer risk, and operational risk.
 
@@ -173,17 +173,17 @@ The court also (at \[18\]) cited the decision of Bingham LJ (as he then was) in
 
 29     The SWIFT Standards MT describes the rationale for financial messages to adhere to the message text standards as “\[t\]o ensure that the multitude of practices and conventions of users are in harmony” (para 2.1).
 
-(a)     In “Category 1 Message Types” appears the entry “103 STP” which is given the MT name of “Single Customer Credit Transfer” with the stated purpose of “\[i\]nstruct\[ing\] a funds transfer”.
+> (a)     In “Category 1 Message Types” appears the entry “103 STP” which is given the MT name of “Single Customer Credit Transfer” with the stated purpose of “\[i\]nstruct\[ing\] a funds transfer”.
 
-(b)     In the section under the heading “MT 103 STP Single Customer Credit Transfer”, appears the following: “The MT 103 STP … allows the exchange of single customer credit transfers using a restricted set of fields and format options of the core MT 103 to make it straight through processable”.
+> (b)     In the section under the heading “MT 103 STP Single Customer Credit Transfer”, appears the following: “The MT 103 STP … allows the exchange of single customer credit transfers using a restricted set of fields and format options of the core MT 103 to make it straight through processable”.
 
-(c)     The scope of the MT 103 STP is described in the following way:
+> (c)     The scope of the MT 103 STP is described in the following way:
 
-This message type is sent by, or on behalf of, the financial institution of the ordering customer, directly or through (a) correspondent(s), to the financial institution of the beneficiary customer.
+>> This message type is sent by, or on behalf of, the financial institution of the ordering customer, directly or through (a) correspondent(s), to the financial institution of the beneficiary customer.
 
-It is used to convey a funds transfer instruction in which the ordering customer or the beneficiary customer, or both, are non-financial institutions from the perspective of the Sender.
+>> It is used to convey a funds transfer instruction in which the ordering customer or the beneficiary customer, or both, are non-financial institutions from the perspective of the Sender.
 
-This message may only be used for clean payment instructions. It must not be used to advise the remitting bank of a payment for a clean, for example, cheque, collection, nor to provide the cover for a transaction whose completion was advised separately, for example, via an MT 400.
+>> This message may only be used for clean payment instructions. It must not be used to advise the remitting bank of a payment for a clean, for example, cheque, collection, nor to provide the cover for a transaction whose completion was advised separately, for example, via an MT 400.
 
 30     There can be no doubt therefore that the use of the MT 103 STP by one bank to another is an instruction to the Receiving Bank to pay a sum of money to the beneficiary named in it.
 
@@ -195,7 +195,7 @@ This message may only be used for clean payment instructions. It must not be use
 
 34     In the Standards, under the heading “MT 103 STP Guidelines”, the different methods of transfer are detailed. The Cover Method is described as follows:
 
-If the Sender and the Receiver have no direct account relationship in the currency of the transfer or do not wish to use their account relationship, then third banks will be involved to cover the transaction. The MT 103 STP contains only the payment details and the Sender must cover the customer transfer by sending an MT 202 COV General Financial Institution Transfer to a third bank. This payment method is called ‘cover’.
+> If the Sender and the Receiver have no direct account relationship in the currency of the transfer or do not wish to use their account relationship, then third banks will be involved to cover the transaction. The MT 103 STP contains only the payment details and the Sender must cover the customer transfer by sending an MT 202 COV General Financial Institution Transfer to a third bank. This payment method is called ‘cover’.
 
 35     The MT 202 COV is described in the SWIFT Standards MT as a “General Financial Institution Transfer” and the stated purpose as “\[r\]equest\[ing\] the movement of funds between financial institutions, relat\[ing\] to an underlying customer credit transfer that was sent with the \[C\]over \[M\]ethod.”
 
@@ -203,49 +203,49 @@ If the Sender and the Receiver have no direct account relationship in the curren
 
 37     There is further guidance to be found under the heading “MT 103 STP Market Practice Rules” which appear in the Standards:
 
-As indicated in the MT 103 STP Guidelines, when an MT 103 STP is sent using the \[C\]over \[M\]ethod, an MT 202 COV message must be sent to cover the transfer. A credit to a beneficiary’s account that is based on the receipt of an \[MT 103 STP\], without receipt of the related cover payment, is a policy decision. Institutions have deployed processes that are approved by their internal risk committees; the risk lies clearly with the beneficiary institution. Guidelines for the processing of an MT 103 STP sent with the \[C\]over \[M\]ethod have been published by the \[PMPG\].
+> As indicated in the MT 103 STP Guidelines, when an MT 103 STP is sent using the \[C\]over \[M\]ethod, an MT 202 COV message must be sent to cover the transfer. A credit to a beneficiary’s account that is based on the receipt of an \[MT 103 STP\], without receipt of the related cover payment, is a policy decision. Institutions have deployed processes that are approved by their internal risk committees; the risk lies clearly with the beneficiary institution. Guidelines for the processing of an MT 103 STP sent with the \[C\]over \[M\]ethod have been published by the \[PMPG\].
 
-…
+> …
 
 38     The form of an MT 103 STP as set out by SWIFT has certain mandatory fields which include field 32A which specifies the value date, the currency and the settlement amount, the latter being the amount to be booked/reconciled at interbank level. Fields 53a and 54A refer to the Sending Bank’s correspondent bank and the Receiving Bank’s correspondent bank respectively and are conditional fields to be completed when required. The Standards set them out in this way:
 
-**11\. Field 53a: Sender’s Correspondent**
+> **11\. Field 53a: Sender’s Correspondent**
 
-…
+> …
 
-DEFINITION
+> DEFINITION
 
-Where required, this field specifies the account or branch of the Sender or another financial institution through which the Sender will reimburse the Receiver.
+> Where required, this field specifies the account or branch of the Sender or another financial institution through which the Sender will reimburse the Receiver.
 
-…
+> …
 
-USAGE RULES
+> USAGE RULES
 
-…
+> …
 
-When field 53A is present and contains a branch of the Sender, the need for a cover message is dependent on the currency of the transaction, the relationship between the Sender and the Receiver and the contents of field 54A, if present.
+> When field 53A is present and contains a branch of the Sender, the need for a cover message is dependent on the currency of the transaction, the relationship between the Sender and the Receiver and the contents of field 54A, if present.
 
-…
+> …
 
-**12\. Field 54A: Receiver’s Correspondent**
+> **12\. Field 54A: Receiver’s Correspondent**
 
-…
+> …
 
-DEFINITION
+> DEFINITION
 
-This field specifies the branch of the Receiver or another financial institution at which the funds will be made available to the Receiver.
+> This field specifies the branch of the Receiver or another financial institution at which the funds will be made available to the Receiver.
 
-…
+> …
 
-USAGE RULES
+> USAGE RULES
 
-…
+> …
 
-Field 54A containing the name of a financial institution other than the Receiver’s branch must be preceded by field 53A; the Receiver will be paid by the financial institution in field 54A.
+> Field 54A containing the name of a financial institution other than the Receiver’s branch must be preceded by field 53A; the Receiver will be paid by the financial institution in field 54A.
 
-The use and interpretation of fields 53a and 54A is in all cases dictated by the currency of the transaction and the correspondent relationship between the Sender and Receiver relative to that currency.
+> The use and interpretation of fields 53a and 54A is in all cases dictated by the currency of the transaction and the correspondent relationship between the Sender and Receiver relative to that currency.
 
-…
+> …
 
 39     In circumstances where the payment was to be in USD, completion of these fields was mandatory and provided the details required for reimbursement by the Sending Bank of the Receiving Bank for payment made by the latter pursuant to the instructions to pay given by the MT 103 STP. Furthermore, on the evidence of Mr Lyddon, the entries under the heading “Val Dte/Curr/Interbnk Settld Amt”, where “30 June 2017”, “USD (US Dollar)” and “871,085.61” appear \[original emphasis omitted\], represent the assurance that these funds will be made available on the date given in interbank funds between the Sending Bank’s correspondent bank and the Receiving Bank’s correspondent bank. The passages cited in the Standards thus assume, if they do not impose, an obligation on the part of the Sending Bank to cover the payment instructions given in the MT 103 STP by means of the Cover Method, using an MT 202 COV and the form of the MT 103 STP which was utilised in the present case confirms and sets out that obligation.
 
@@ -255,19 +255,19 @@ The use and interpretation of fields 53a and 54A is in all cases dictated by th
 
 42     An MT 192 is given the name of “Request for Cancellation” and the stated purpose is that of “\[r\]equest\[ing\] the receiver to consider cancellation of the message identified in the request”. Under the Message Reference Guide in the Standards for “Category n - Common Group Messages”, “Category n Message Types” gives the description for “n92” as “Request for Cancellation” and the stated purpose as “\[r\]equests the Receiver to consider cancellation of the message identified in the request”. In the more detailed section, under the headings “MT n92 Request for Cancellation” and “MT n92 Scope”, the following appears:
 
-This message is:
+> This message is:
 
-·    sent by a financial institution to request a second financial institution to consider cancellation of the SWIFT message identified in the request.
+>> ·    sent by a financial institution to request a second financial institution to consider cancellation of the SWIFT message identified in the request.
 
-·    sent by a corporate customer to request a financial institution to consider cancellation of the SWIFT message identified in the request.
+>> ·    sent by a corporate customer to request a financial institution to consider cancellation of the SWIFT message identified in the request.
 
-If the Receiver of the request for cancellation has already acted on the message for which cancellation is requested, the MT n92 asks for a retransfer, that is, reversal, with the beneficiary’s consent.
+> If the Receiver of the request for cancellation has already acted on the message for which cancellation is requested, the MT n92 asks for a retransfer, that is, reversal, with the beneficiary’s consent.
 
-…
+> …
 
 43     The MT 192 in the present case was headed “FIN 192 Request for Cancellation”, sent by Barclays to Maybank, and used the following language, after quoting the same reference number and referring to the MT 103 STP dated “170630” (30June 2017):
 
-1ST REQUEST. PLEASE CANCEL OUR PAYMENT AND RETURN FUNDS TO OURSELVES. OR CONFIRM VIA AUTHENTICATED SWIFT THAT YOU HAVE TREATED OUR PAYMENT AS NULL AND VOID AND PROVIDE FULL RETURN PAYMENT DETAILS. WE HAVE RECEIVED A REQUEST TO RECALL THE FUNDS AS REMITTER STATING REASON AS PAYMENT WAS REPORTED AS FRAUDULENT PROCEEDS
+> 1ST REQUEST. PLEASE CANCEL OUR PAYMENT AND RETURN FUNDS TO OURSELVES. OR CONFIRM VIA AUTHENTICATED SWIFT THAT YOU HAVE TREATED OUR PAYMENT AS NULL AND VOID AND PROVIDE FULL RETURN PAYMENT DETAILS. WE HAVE RECEIVED A REQUEST TO RECALL THE FUNDS AS REMITTER STATING REASON AS PAYMENT WAS REPORTED AS FRAUDULENT PROCEEDS
 
 44     On its face, therefore and by reference to the SWIFT Standards MT, this was a request for cancellation or consideration of cancellation of the previous MT 103 STP, and the terms of the wording set out at \[42\] above suggest that it was recognised that the consent of the beneficiary would be required if the instructions to pay in the MT 103 STP had been implemented already.
 
@@ -275,61 +275,61 @@ If the Receiver of the request for cancellation has already acted on the message
 
 46     Paragraph 11.2 states that “\[t\]he MT 103 payment instruction and its cover, the MT 202 COV, should be considered as one transaction” and that:
 
-As practices vary widely and may impact the choice of a preferred option, the legal relationship established between the sender and the receiver of the original MT 103 (that is, mandator and mandated party) must be taken into account. The receiver is therefore responsible for carrying out the mandate given by the sender.
+> As practices vary widely and may impact the choice of a preferred option, the legal relationship established between the sender and the receiver of the original MT 103 (that is, mandator and mandated party) must be taken into account. The receiver is therefore responsible for carrying out the mandate given by the sender.
 
-The MT 103 payment instruction and its cover, the MT 202 COV, should be considered as one transaction. Consequently, cancelling the original MT 103 should automatically trigger the cancellation by the receiver of the whole transaction, including the cover.
+> The MT 103 payment instruction and its cover, the MT 202 COV, should be considered as one transaction. Consequently, cancelling the original MT 103 should automatically trigger the cancellation by the receiver of the whole transaction, including the cover.
 
 47     The guidelines do not state the circumstances in which cancellation can be effected, nor the effect thereof, but set out four options, of which attention focused on the first and fourth. The first option of “Sending an MT 192 to the receiver of the \[MT 103 STP\]” is said to be “the recommended and most logical option” \[original emphasis omitted\]. The first option then proceeds thus:
 
-The receiver of the \[MT 103 STP\] and MT 192 is responsible for requesting cancellation of the payment from the beneficiary if payment has already been effected, and for initiating the return of the funds through the correspondent chain, that is, reversing the MT 202 COV. …
+> The receiver of the \[MT 103 STP\] and MT 192 is responsible for requesting cancellation of the payment from the beneficiary if payment has already been effected, and for initiating the return of the funds through the correspondent chain, that is, reversing the MT 202 COV. …
 
-By doing so, the receiver retains control of the funds, and does not run the risk of having the cover reversed by its correspondent before consent is received from the beneficiary and debit authorisation is given to the receiver’s correspondent.
+> By doing so, the receiver retains control of the funds, and does not run the risk of having the cover reversed by its correspondent before consent is received from the beneficiary and debit authorisation is given to the receiver’s correspondent.
 
-…
+> …
 
 The fourth option reads: “Sending an MT 192 to the receiver of the \[MT 103 STP\] without sending any cover.” The advice then proceeds to say:
 
-This option presents threats for both sender and receiver. This situation could arise if the sender realises that a mistake has been made, and requests cancellation of the \[MT 103 STP\] before the MT 202 COV instruction has been sent.
+> This option presents threats for both sender and receiver. This situation could arise if the sender realises that a mistake has been made, and requests cancellation of the \[MT 103 STP\] before the MT 202 COV instruction has been sent.
 
-The receiver will be put in a position of having received, and possibly acted on, a bona-fide payment instruction for which it is entitled to expect reimbursement. If the beneficiary subsequently refuses to refund the payment, the receiver will be out of funds.
+> The receiver will be put in a position of having received, and possibly acted on, a bona-fide payment instruction for which it is entitled to expect reimbursement. If the beneficiary subsequently refuses to refund the payment, the receiver will be out of funds.
 
-The sender obviously does not want to be debited by its correspondent for an instruction that should not have been sent. Nevertheless, the risk is that the receiver and/or beneficiary will refuse to refund the original, or that the refund will not be effected with original value.
+> The sender obviously does not want to be debited by its correspondent for an instruction that should not have been sent. Nevertheless, the risk is that the receiver and/or beneficiary will refuse to refund the original, or that the refund will not be effected with original value.
 
 48     In the PMPG Guidelines appears, as FAQ 10, the question:
 
-If the beneficiary institution has credited the beneficiary’s account based on the \[MT 103 STP\] and the covering funds are frozen by an intermediary institution due to a sanction against any party in the payment chain what is the recourse of the beneficiary institution?
+> If the beneficiary institution has credited the beneficiary’s account based on the \[MT 103 STP\] and the covering funds are frozen by an intermediary institution due to a sanction against any party in the payment chain what is the recourse of the beneficiary institution?
 
 The answer given is that:
 
-Crediting a beneficiary’s account based on the receipt of an \[MT 103 STP\] without receipt of the cover payment is a credit policy decision. Each institution has deployed a process that has been approved by the internal risk committees; the risk being clearly with the beneficiary institution. Policies should be reviewed on a regular basis as part of the MT 202 COV handling to ensure a proper reflection in internal credit risk policies.
+> Crediting a beneficiary’s account based on the receipt of an \[MT 103 STP\] without receipt of the cover payment is a credit policy decision. Each institution has deployed a process that has been approved by the internal risk committees; the risk being clearly with the beneficiary institution. Policies should be reviewed on a regular basis as part of the MT 202 COV handling to ensure a proper reflection in internal credit risk policies.
 
 A note appears alongside saying: “Only the entity whose funds are frozen can apply to the appropriate government agency for an unfreezing of funds.”
 
 49     A number of points emerge from these passages in the SWIFT documentation and from the nature of the SWIFT system as revealed in definitional statements elsewhere:
 
-(a)     The SWIFT system is a secure messaging system and not a mechanism for transfer of funds.
+> (a)     The SWIFT system is a secure messaging system and not a mechanism for transfer of funds.
 
-(b)     The SWIFT materials offer guidance as to how the documents are to operate as matters of best practice in order to achieve harmony in usage. The nature of the different format of messages to be used, with mandatory and optional fields to be completed in each, is set out.
+> (b)     The SWIFT materials offer guidance as to how the documents are to operate as matters of best practice in order to achieve harmony in usage. The nature of the different format of messages to be used, with mandatory and optional fields to be completed in each, is set out.
 
-(c)     The SWIFT materials do not seek to set out statements of law but give voice to the market understanding of the effect of the MT 103 STP and the MT 202 COV.
+> (c)     The SWIFT materials do not seek to set out statements of law but give voice to the market understanding of the effect of the MT 103 STP and the MT 202 COV.
 
-(d)     The MT 103 STP is an instruction by one bank to another to pay a beneficiary, with no element of conditionality in it.
+> (d)     The MT 103 STP is an instruction by one bank to another to pay a beneficiary, with no element of conditionality in it.
 
-(e)     The MT 202 COV is an instruction by a bank to a correspondent bank to pay a sum to cover the instruction given by an MT 103 STP.
+> (e)     The MT 202 COV is an instruction by a bank to a correspondent bank to pay a sum to cover the instruction given by an MT 103 STP.
 
-(f)     The bank which issues the MT 103 STP should as a matter of practice, issue an MT 202 COV at the same time as part and parcel of the same operation.
+> (f)     The bank which issues the MT 103 STP should as a matter of practice, issue an MT 202 COV at the same time as part and parcel of the same operation.
 
-(g)     A bank which receives an MT 103 STP is expected to fulfil the instruction and can do so when it is received without receiving notification that an MT 202 COV has been issued to cover the payment it makes in accordance with the MT 103 STP; but there is a risk in so doing because there may be a blockage in the system of transfer of funds as a result of sanctions imposed by governments (particularly the US) or for other reasons, which may delay or prevent the receipt of the funds.
+> (g)     A bank which receives an MT 103 STP is expected to fulfil the instruction and can do so when it is received without receiving notification that an MT 202 COV has been issued to cover the payment it makes in accordance with the MT 103 STP; but there is a risk in so doing because there may be a blockage in the system of transfer of funds as a result of sanctions imposed by governments (particularly the US) or for other reasons, which may delay or prevent the receipt of the funds.
 
-(h)     The risk that is referred to is a credit risk, _ie_, the risk that payment by way of reimbursement for fulfilling the instruction may be delayed or prevented. That has no impact on the legal obligations of the parties.
+> (h)     The risk that is referred to is a credit risk, _ie_, the risk that payment by way of reimbursement for fulfilling the instruction may be delayed or prevented. That has no impact on the legal obligations of the parties.
 
-(i)     The risk that is referred to is not the risk of being unable to recover that sum from the beneficiary because, as between the Sending Bank and the Receiving Bank, recovery from the beneficiary requires its consent.
+> (i)     The risk that is referred to is not the risk of being unable to recover that sum from the beneficiary because, as between the Sending Bank and the Receiving Bank, recovery from the beneficiary requires its consent.
 
-(j)     The recipient of an MT 103 STP is responsible for fulfilling the mandate given to pay.
+> (j)     The recipient of an MT 103 STP is responsible for fulfilling the mandate given to pay.
 
-(k)     A Receiving Bank which pays out in accordance with the payment instruction contained in an MT 103 STP is entitled to expect reimbursement by the Sending Bank.
+> (k)     A Receiving Bank which pays out in accordance with the payment instruction contained in an MT 103 STP is entitled to expect reimbursement by the Sending Bank.
 
-(l)     Cancellation of an MT 103 STP can occur but a bank which wishes to cancel, sends a message requesting the recipient of the MT 103 STP to consider cancellation and, if payment has already been made pursuant to the instruction, to seek the consent of the beneficiary to reverse the payment it has received. There is no ability, unilaterally to cancel the payment instruction, once payment has been made although, if no payment has been made and no commitment by the Receiving Bank to pay, there is no reason why it should refuse.
+> (l)     Cancellation of an MT 103 STP can occur but a bank which wishes to cancel, sends a message requesting the recipient of the MT 103 STP to consider cancellation and, if payment has already been made pursuant to the instruction, to seek the consent of the beneficiary to reverse the payment it has received. There is no ability, unilaterally to cancel the payment instruction, once payment has been made although, if no payment has been made and no commitment by the Receiving Bank to pay, there is no reason why it should refuse.
 
 50     The recommended option when a bank is seeking to cancel an MT 103 STP which would cancel the whole operation (since there would then be no need for any payment to cover the instruction to pay out) is to place responsibility on the bank paying out on the MT 103 STP to seek to retrieve the funds and initiate a process of reversal, including the reversal of the MT 202 COV instruction to transfer funds (and the transfer which followed it). It is not recommended to withhold making the cover payment, even if it is realised before sending the MT 202 COV that a mistake has been made. To take the latter course “presents threats for both sender and receiver”, because the Receiving Bank “will be put in a position of having received, and possibly acted on, a bona-fide payment instruction for which it is entitled to expect reimbursement” and “the risk is that the receiver and/or beneficiary will refuse to refund” the sum paid (see \[47\] above).
 
@@ -349,7 +349,7 @@ A note appears alongside saying: “Only the entity whose funds are frozen can a
 
 58     In the BIS Report appears a passage which, when comparing the two methods, states that the Cover Method is considered to be faster but that, when using it, two separate message flows exist, which means that the bank receiving the MT 103 STP is aware that it will receive funds and should it not do so via the MT 202 COV, it can then investigate. It is stated at para 3.5.2 of the BIS Report that:
 
-… On the other hand, depending on the commercial policies of a \[R\]eceiving \[B\]ank, this knowledge either allows the customer account to be credited sooner or it might put the bank under pressure – for competitive reasons – to credit the sum to the account of its customer before it actually receives the funds (eg in the case of large corporates). This might be especially critical in cases where the beneficiary bank has received the \[MT 103 STP\] but the MT 202 COV is stopped or rejected by one of the banks involved in the payment chain due to compliance concerns. Therefore, banks need to ensure that appropriate unwinding procedures are in place to reverse a credit on the account should the need arise. Moreover, as mentioned above, the \[R\]eceiving \[B\]ank always needs to ‘match’ both message flows.
+> … On the other hand, depending on the commercial policies of a \[R\]eceiving \[B\]ank, this knowledge either allows the customer account to be credited sooner or it might put the bank under pressure – for competitive reasons – to credit the sum to the account of its customer before it actually receives the funds (eg in the case of large corporates). This might be especially critical in cases where the beneficiary bank has received the \[MT 103 STP\] but the MT 202 COV is stopped or rejected by one of the banks involved in the payment chain due to compliance concerns. Therefore, banks need to ensure that appropriate unwinding procedures are in place to reverse a credit on the account should the need arise. Moreover, as mentioned above, the \[R\]eceiving \[B\]ank always needs to ‘match’ both message flows.
 
 59     Once again Barclays sought to say that because this passage advised Receiving Banks to ensure that they could reverse payments made to their beneficiaries (by appropriate terms and conditions allowing them to do that in circumstances where payment down the chain was delayed or prevented) that meant that a Receiving Bank which paid out was not entitled to look to the Sending Bank for reimbursement and had recourse only to the beneficiary. That is a _non sequitur_. Whether or not a Receiving Bank is entitled to recover from a beneficiary in such circumstances does not affect the right of the bank paying on instructions to recover from the Sending Bank. The Receiving Bank may have more than one right of recovery (and it is recommended that it does) and, in accordance with usual banking terms and conditions it is likely to be able to seek recovery from the beneficiary, but that does not change the Sending Bank’s implied promise to reimburse unless there is some established market practice to that effect.
 
@@ -359,25 +359,25 @@ A note appears alongside saying: “Only the entity whose funds are frozen can a
 
 61     The burden is on the party alleging a market practice to prove it. On being asked what the relevant market practice was, counsel for Barclays pointed me to Mr Lyddon’s report at para 28(d) where the following appears:
 
-… market practice started to evolve in 2001 (and settled since 2008) such that a Receiving Bank no longer makes payment on an MT 103 STP until the Receiving Bank receives confirmation that the cover payment has been received. … \[original emphasis omitted\]
+> … market practice started to evolve in 2001 (and settled since 2008) such that a Receiving Bank no longer makes payment on an MT 103 STP until the Receiving Bank receives confirmation that the cover payment has been received. … \[original emphasis omitted\]
 
 62     It is Barclays’ contention, supported by Ms Trood and the following passage in Mr Lyddon’s report that:
 
-Accordingly … where a Receiving Bank pays out on an MT 103 STP before receiving confirmation of cover, it takes its own risk that it may not ultimately receive the underlying funds if the cover payment does not proceed for financial crime or other reasons. If it is out of pocket, its remedy lies against its customer, and not against the \[Sending\] Bank. The \[Sending\] Bank is not obliged to follow through with the MT 202 COV in these circumstances. …
+> Accordingly … where a Receiving Bank pays out on an MT 103 STP before receiving confirmation of cover, it takes its own risk that it may not ultimately receive the underlying funds if the cover payment does not proceed for financial crime or other reasons. If it is out of pocket, its remedy lies against its customer, and not against the \[Sending\] Bank. The \[Sending\] Bank is not obliged to follow through with the MT 202 COV in these circumstances. …
 
 63     As to what amounts to a market practice which can give rise to a term of a contract, the authors of _The Law of Contract in Singapore_ (Andrew Phang Boon Leong gen ed) (Academy Publishing, 2012) from para 06.078 onwards stated that the same rules and principles apply as in English law. A term can be implied from custom or usage where it is universal in the sense that it is generally accepted by those who habitually do business in the trade or market concerned and is so generally known that an outsider who makes reasonable enquiries could not fail to be made aware of it (see the Privy Council decision in _Chan Cheng Kum v Wah Tat Bank Ltd_ (on appeal from the Federal Court of Malaysia) at \[13\]–\[14\]). The custom or usage should be certain, reasonable and not repugnant, in the sense of being inconsistent with the express or implied terms, or the nature of any contract or of any title document it affects. The authors went on to cite the decision of Ungoed-Thomas J in _Cunliffe-Owen v Teather & Greenwood_ , where he stated at 1438–1439 that:
 
-‘Usage’ may be admitted to explain the language used in a written contract or to add an implied incident to it, provided that if expressed in the written contract it would not make its terms or its tenor insensible or inconsistent …
+> ‘Usage’ may be admitted to explain the language used in a written contract or to add an implied incident to it, provided that if expressed in the written contract it would not make its terms or its tenor insensible or inconsistent …
 
-‘Usage’ is apt to be used confusingly in the authorities, in two senses, (1) a practice, and (2) a practice which the court will recognise. ‘Usage’ as a practice which the court will recognise is a mixed question of fact and law. For the practice to amount to such a recognised usage, it must be certain, in the sense that the practice is clearly established; it must be notorious, in the sense that it is so well known, in the market in which it is alleged to exist, that those who conduct business in that market contract with the usage as an implied term; and it must be reasonable.
+> ‘Usage’ is apt to be used confusingly in the authorities, in two senses, (1) a practice, and (2) a practice which the court will recognise. ‘Usage’ as a practice which the court will recognise is a mixed question of fact and law. For the practice to amount to such a recognised usage, it must be certain, in the sense that the practice is clearly established; it must be notorious, in the sense that it is so well known, in the market in which it is alleged to exist, that those who conduct business in that market contract with the usage as an implied term; and it must be reasonable.
 
-The burden lies on those alleging ‘usage’ to establish it …
+> The burden lies on those alleging ‘usage’ to establish it …
 
 64     The authors of _Chitty on Contracts_ vol 1 (H G Beale gen ed) (Sweet & Maxwell, 33rd Ed, 2018) said at para 14-033 that such a practice, if it is to represent a term of the contract, must be notorious, certain and reasonable and something more than a mere trade practice. It must be an invariable, certain and general usage or custom of a particular trade or place for it to represent a term by which the parties are bound. Such usages are incorporated on the presumption that the parties did not mean to express in writing the whole of the contract by which they intended to be bound, but a contract with reference to those known usages.
 
 65     As to the evidence required to show a market practice, Maybank drew attention to the English decision in _Tayeb v HSBC Bank plc and another_ \[2004\] 2 All ER (Comm) 880 (“_Tayeb_”) where Colman J had to consider whether “ordinary banking practice” entitled HSBC to freeze and then return funds paid into a customer’s account on the ground that it suspected that the transfer into the account was illegitimate. Whilst the decision has echoes of the facts in the present case, the citation was for the purpose of establishing the need for clear and cogent evidence to meet the stringent test applied to implying a term by reason of market custom or usage. In that case, HSBC argued that, had it not acted as it did, it would have been at risk of committing an offence of money laundering under s 93A of the Criminal Justice Act 1988 (c 33) (UK) or of being held liable as a constructive trustee if the funds represented proceeds of fraud. Colman J considered that the market practice for which HSBC contended was contrary to the Clearing House Automated Payment System (“CHAPS”) rules and the terms of the contract between HSBC and its customer. Whilst giving full weight to the need to comply with the Criminal Justice Act 1988 and to the objective of discouraging money laundering transactions or transactions involving the proceeds of crime, he stated at \[66\] that:
 
-… the argument that, in order to protect the interests of the bank, the express regime of the CHAPS rules can be ignored by the transferee bank by reference to some overriding concept of banking practice designed to achieve disengagement of the bank from a transfer of funds as to which it justifiably entertains suspicions can carry little weight unless there is cogent evidence of a settled banking practice to this effect. … If banks are to be entitled to depart from their contracts with customers, on the basis of suspicion of unlawfulness and of general banking practice, that practice has to be clearly proved. That such alleged practice goes well beyond what is necessary to protect the bank from unlawful activity may be a strong indication that no such practice exists.
+> … the argument that, in order to protect the interests of the bank, the express regime of the CHAPS rules can be ignored by the transferee bank by reference to some overriding concept of banking practice designed to achieve disengagement of the bank from a transfer of funds as to which it justifiably entertains suspicions can carry little weight unless there is cogent evidence of a settled banking practice to this effect. … If banks are to be entitled to depart from their contracts with customers, on the basis of suspicion of unlawfulness and of general banking practice, that practice has to be clearly proved. That such alleged practice goes well beyond what is necessary to protect the bank from unlawful activity may be a strong indication that no such practice exists.
 
 He further stated at \[71\] that “\[i\]f the implication of any such overriding practice … is inconsistent with what would otherwise be the terms of that relationship, very strong evidence of such a practice would be necessary for its implication.”
 
@@ -411,9 +411,9 @@ He further stated at \[71\] that “\[i\]f the implication of any such overridin
 
 79     He then went on to say that:
 
-Where the default policy of the Receiving Bank is to wait to see the cover payment arrive before processing the \[MT 103 STP\] from the IBOS Sending Bank, the Receiving Bank should apply for a policy exemption for IBOS payments such that the \[MT 103 STP\] can be processed upon receipt.
+> Where the default policy of the Receiving Bank is to wait to see the cover payment arrive before processing the \[MT 103 STP\] from the IBOS Sending Bank, the Receiving Bank should apply for a policy exemption for IBOS payments such that the \[MT 103 STP\] can be processed upon receipt.
 
-…
+> …
 
 Thus, this document recognised that there were some IBOS banks with a default policy of waiting for funds to arrive before implementing the payment instruction in a MT 103 STP, which necessarily means that he recognised the existence of a body of other banks which had no such policy and would pay on receipt of the MT 103 STP. Moreover, the document stated that, in the context of IBOS payments, the former group should apply for an exemption so that payment could be made upon receipt of the MT 103 STP. Whilst the number of banks involved in the IBOS club was unclear and it is also unclear whether the group with the default policy was in the majority or minority, there would appear to be a significant number in each and the IBOS objective was to pay out on the MT 103 STP.
 
@@ -425,15 +425,15 @@ Thus, this document recognised that there were some IBOS banks with a default po
 
 83     A further document exhibited by him was authored or sponsored by a number of banks and included a series of presentation slides concerning “The Introduction of the MT 202 COV in the International Payment Systems”, which was said by Mr Lyddon and Mr Jones to be introduced in 2009 at the instigation of the US authorities and/or banks which wished to be able to screen correspondent bank USD payments for sanctions purposes and which resulted, in Mr Lyddon’s view, in the virtual death of payments on MT 103 STPs before receipt of the cover payments, because of the risk of payments being held up in the chain. Under the heading of “What is a Cover Payment?” appears the bullet point:
 
-…
+> …
 
-A cover payment involves two distinct message streams (\[MT 103 STP\] & \[MT 202 COV\]).
+> A cover payment involves two distinct message streams (\[MT 103 STP\] & \[MT 202 COV\]).
 
-\[MT 103 STP\] – Direct payment order to the Beneficiary’s Bank, and
+>> \[MT 103 STP\] – Direct payment order to the Beneficiary’s Bank, and
 
-\[MT 202 COV\] – Bank-to-bank order(s) to Intermediary Bank(s) to cover the Originator’s Bank’s obligation to pay the Beneficiary’s Bank.
+>> \[MT 202 COV\] – Bank-to-bank order(s) to Intermediary Bank(s) to cover the Originator’s Bank’s obligation to pay the Beneficiary’s Bank.
 
-…
+> …
 
 This too is inconsistent with Mr Lyddon’s thesis, because, it refers to an obligation to cover the MT 103 STP.
 
@@ -443,17 +443,17 @@ This too is inconsistent with Mr Lyddon’s thesis, because, it refers to an ob
 
 86     In a 2018 paper written by Mr Lyddon himself (and thus after the events with which this court is concerned), he criticised the Wolfsberg Group guidance of 2016 on SWIFT non-customer Relationship Management Application (“RMA”) and argued for its withdrawal on a number of bases. One reason advanced was that the use cases referred to in that guidance for such non-customer RMAs did not include the most common one in practice which was where an MT 103 STP was sent by the Cover Method. In the part of Mr Lyddon’s paper dealing with “Timing”, the following appears:
 
-A USD payment made from the UK to Germany at 14:00 UK time would have a good chance of being credited with same-day value in Germany, if the Beneficiary Bank received the direct \[MT 103 STP\] at 15:01 CET\[.\]
+> A USD payment made from the UK to Germany at 14:00 UK time would have a good chance of being credited with same-day value in Germany, if the Beneficiary Bank received the direct \[MT 103 STP\] at 15:01 CET\[.\]
 
-At that point the Account-With Institution \[the ordering institution\] has committed to deliver good funds to the Beneficiary Bank’s USD correspondent, and the Beneficiary Bank can claim compensation from the Account-With Institution if good funds are not delivered\[.\]
+> At that point the Account-With Institution \[the ordering institution\] has committed to deliver good funds to the Beneficiary Bank’s USD correspondent, and the Beneficiary Bank can claim compensation from the Account-With Institution if good funds are not delivered\[.\]
 
-…
+> …
 
 87     It can be seen that in writing this, Mr Lyddon, long after the point at which he maintained that the practice had changed so that no bank ever paid out on an MT 103 STP alone, has accepted the obligation of the Sending Bank to pay the Receiving Bank in circumstances where an MT 103 STP has been issued by it. The existence of such an obligation is inconsistent with his thesis that the MT 103 STP gives only payment information and is not an instruction by the Sending Bank to the Receiving Bank to pay, with recourse to it. There is thus a direct contradiction between his evidence before this court and his comments in this paper.
 
 88     If “same day value” is to be given in circumstances where there can be a time lag between an MT 103 STP instruction and an MT 202 COV being acted on in New York of around 12 hours (Singapore/New York) or more, the only way that same day value could be assured would be to act on the MT 103 STP without waiting for confirmation of the cover payment. The reality of this, of necessity, means that banks would have to rely on the MT 103 STP alone if they are to fulfil the instructions.
 
-89     In the light of this evidence, it is clear that Barclays cannot discharge the burden of proof of showing that there was an established banking practice which constitutes a usage or custom that was notorious, certain and reasonable that Receiving Banks do not to pay on MT 103 STPs until a cover payment is received, let alone a usage of lack of entitlement to be reimbursed when payment is made before receipt of the cover payment. There is nothing which could impact on the implied contract which necessarily exists when one bank instructs another to make a payment on its behalf. To the contrary, the evidence shows that such payments have continued to be made and of necessity, have to be made in some circumstances, if same day value is to be given.
+89     In the light of this evidence, it is clear that Barclays cannot discharge the burden of proof of showing that there was an established banking practice which constitutes a usage or custom that was notorious, certain and reasonable that Receiving Banks do not to pay on MT 103 STPs until a cover payment is received, let alone a usage of lack of entitlement to be reimbursed when payment is made before receipt of the cover payment. There is nothing which could impact on the implied contract which necessarily exists when one bank instructs another to make>  a payment on its behalf. To the contrary, the evidence shows that such payments have continued to be made and of necessity, have to be made in some circumstances, if same day value is to be given.
 
 90     Thus the reality is, even were it to be shown that there is a general reluctance on the part of banks to make payment on MT 103 STPs prior to receipt of MT 202 COVs, which is about as far as Mr Lyddon’s evidence could really run, that this would go nowhere near establishing a market practice which would negate the obligation to reimburse a Receiving Bank that has paid out on the instructions of a Sending Bank under an MT 103 STP.
 
@@ -461,59 +461,59 @@ At that point the Account-With Institution \[the ordering institution\] has comm
 
 91     As mentioned at \[5\] above, at para 5.5 of the SWIFT General Terms and Conditions entitled “Industry Practice, Applicable Laws, and Regulations”, the following appears:
 
-Industry Practice, Applicable Laws, and Regulations
+> Industry Practice, Applicable Laws, and Regulations
 
-The customer is responsible for its use of SWIFT services and products, including any data transmitted through SWIFT.
+> The customer is responsible for its use of SWIFT services and products, including any data transmitted through SWIFT.
 
-In using SWIFT services and products and conducting its business, the customer must always exercise due diligence and reasonable judgment, and must comply with good industry practice and all relevant laws, regulations, and third-party rights, even if this restricts its usage entitlement under SWIFT’s governance.
+> In using SWIFT services and products and conducting its business, the customer must always exercise due diligence and reasonable judgment, and must comply with good industry practice and all relevant laws, regulations, and third-party rights, even if this restricts its usage entitlement under SWIFT’s governance.
 
-Without prejudice to the generality of the foregoing, the customer must:
+> Without prejudice to the generality of the foregoing, the customer must:
 
-…
+>> …
 
-(b)    ensure not to use, or try to use, SWIFT services and products for illegal, illicit or fraudulent purposes …
+>> (b)    ensure not to use, or try to use, SWIFT services and products for illegal, illicit or fraudulent purposes …
 
-…
+>> …
 
 92     No evidence has been adduced by Barclays to show that an actual fraud was in fact committed or was in process at the time of the cancellation of the MT 103 STP and the MT 202 COV. The evidence is that Mr Warrington suspected such a fraud as the result of messages received and instructed the cancellation of the payment of funds on that basis. Barclays has remained silent as to the outcome of its suspicions and the events which actually occurred. Its silence on this is significant and no defence of illegality is put forward in respect of the payment due at the time or in respect of any payment which the court might now order. When pressed on this point in his closing submissions, counsel for Barclays placed reliance upon the requirement that Barclays had to comply with “industry practice” which meant, he said, not paying Maybank in circumstances where there was a suspected fraud, even if, in actuality there was no such fraud.
 
 93     Ms Trood in her affidavit and Barclays, by reference to English law as put forward by Mr Gentle, maintained that, had it not cancelled the payment instructed by the MT 202 COV and the MT 103 STP, it ran the risk of incurring liability for (see \[13\] above):
 
-(a)     an offence under s 327 of POCA; and/or
+> (a)     an offence under s 327 of POCA; and/or
 
-(b)     breaches of various regulatory provisions enforced by the UK FCA under regs 19 and 20 of the Regulations, para 6.3 of the SYSC Sourcebook and FCA’s Principles for Businesses.
+> (b)     breaches of various regulatory provisions enforced by the UK FCA under regs 19 and 20 of the Regulations, para 6.3 of the SYSC Sourcebook and FCA’s Principles for Businesses.
 
 94     It was maintained that to have paid in such circumstances, rather than taking steps to cancel the instructions already given, would be contrary to industry practice but no evidence of such practice was put before the court, although a bank’s concern not to be party to any fraud or money laundering or to be involved in such, or to run the risk of such involvement is obvious. A bank has also to consider the contractual commitments it has made and the two considerations may come into conflict. In this case, as I have found, Barclays had made a contractual commitment to Maybank and, absent a defence of illegality, was bound to make payment to it by way of reimbursement of the sums paid out by it pursuant to Barclays’ instructions.
 
 95     It would unnecessarily prolong this judgment to set out _in extenso_ the provisions referred to in the Regulations and, in any event, attention focused on ss 327 and 340 of POCA. Those sections provide:
 
-**327**      **Concealing etc**
+> **327**      **Concealing etc**
 
-(1)    A person commits an offence if he—
+> (1)    A person commits an offence if he—
 
-(a)    conceals criminal property;
+>> (a)    conceals criminal property;
 
-(b)    disguises criminal property;
+>> (b)    disguises criminal property;
 
-(c)    converts criminal property;
+>> (c)    converts criminal property;
 
-(d)    transfers criminal property;
+>> (d)    transfers criminal property;
 
-(e)    removes criminal property from England and Wales or from Scotland or from Northern Ireland.
+>> (e)    removes criminal property from England and Wales or from Scotland or from Northern Ireland.
 
-…
+> …
 
-**340**      **Interpretation**
+> **340**      **Interpretation**
 
-…
+> …
 
-(3)    Property is criminal property if—
+> (3)    Property is criminal property if—
 
-(a)    it constitutes a person’s benefit from criminal conduct or it represents such a benefit (in whole or part and whether directly or indirectly), and
+>> (a)    it constitutes a person’s benefit from criminal conduct or it represents such a benefit (in whole or part and whether directly or indirectly), and
 
-(b)    the alleged offender knows or suspects that it constitutes or represents such a benefit.
+>> (b)    the alleged offender knows or suspects that it constitutes or represents such a benefit.
 
-…
+> …
 
 96     For an offence to be committed under s 327 of POCA, therefore, there is a need to show that the property which is the subject of the actions set out in s 327 is truly criminal property, meaning that it must constitute a person’s benefit from criminal conduct or represent such a benefit. There is no offence if the alleged offender merely suspects that criminal property is involved, in the sense that he suspects that the property constitutes a person’s benefit from criminal conduct, when in fact it does not or cannot be shown to be such.
 
@@ -523,9 +523,9 @@ Without prejudice to the generality of the foregoing, the customer must:
 
 99     Whilst Barclays might have considered that it was bound to freeze the sum of just under US$4m recently received into Bengeo’s account:
 
-(a)     Barclays could have utilised other funds of Bengeo (if sufficient) to reimburse Maybank, once Maybank had declined the request for cancellation because it had already paid PLG which had refused to reverse the credit. There was no evidence before the court as to the existence or non-existence of other funds available in Bengeo’s accounts, but PLG had maintained to Maybank that the payment was in respect of a genuine invoice and transaction. If that was the case, then funds might be expected to be found in Bengeo’s accounts or it might have had a facility to borrow from its bankers.
+> (a)     Barclays could have utilised other funds of Bengeo (if sufficient) to reimburse Maybank, once Maybank had declined the request for cancellation because it had already paid PLG which had refused to reverse the credit. There was no evidence before the court as to the existence or non-existence of other funds available in Bengeo’s accounts, but PLG had maintained to Maybank that the payment was in respect of a genuine invoice and transaction. If that was the case, then funds might be expected to be found in Bengeo’s accounts or it might have had a facility to borrow from its bankers.
 
-(b)     Barclays could have paid funds of its own, from its own pocket, in order to fulfil its interbank obligations, on the basis that, when the true position was ascertained, financial adjustment could be made in its books. It could then recoup the expenditure if and when suspicions of fraud were allayed. If they were never allayed or if fraud was proved, it would then be in a position where it suffered the loss as the result of its customer’s fraud, rather than Maybank which had simply complied with the instructions given to it with the implied promise of reimbursement.
+> (b)     Barclays could have paid funds of its own, from its own pocket, in order to fulfil its interbank obligations, on the basis that, when the true position was ascertained, financial adjustment could be made in its books. It could then recoup the expenditure if and when suspicions of fraud were allayed. If they were never allayed or if fraud was proved, it would then be in a position where it suffered the loss as the result of its customer’s fraud, rather than Maybank which had simply complied with the instructions given to it with the implied promise of reimbursement.
 
 100    Whilst, as Colman J pointed out in _Tayeb_ (\[65\] _supra_), banks should be careful not to assist in any fraudulent or money laundering activity, he found no basis for an implied term that enabled the bank to avoid its obligations under the CHAPS system by reference to a reasonable suspicion of wrongdoing. This court would wish to encourage all banks to fulfil their obligations in respect of suspected fraud or money laundering but the possibility of a customer being involved in wrongdoing of this kind which impacts upon the bank’s own obligations to other banks is an occupational hazard.
 
