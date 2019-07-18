@@ -78,31 +78,31 @@ Tort – Detinue
   
   
 
-Ram claimed that the above allotments and transfers were carried out without his knowledge or consent.
+> Ram claimed that the above allotments and transfers were carried out without his knowledge or consent.
 
 19     By 2006, Ram and Navin were at loggerheads. The reasons were in dispute. Amongst others, Ram claimed that during a quarrel sometime in 2001 over matters relating to Evergreen’s business, Navin threw a punch at him. Mrs Ram managed to pull Ram away and Navin’s punch landed on a glass window, breaking the glass.[^19] Subsequently, Ram’s younger daughter, Kalpana Binani (“Kalpana”), and her husband, Braj Binani (“Braj”) stepped in to mediate.[^20] Navin denied throwing the punch at Ram. Another incident took place in December 2006 during which Navin allegedly tried to hit Ram again. Kalpana and Braj were again summoned to Singapore to mediate.[^21]
 
 20     This time, the mediation led to a Memorandum of Understanding dated 9 December 2006 being signed by Ram, Mrs Ram and Navin (“the MOU”). Mrs Navin was named as a party to the MOU but she did not sign the MOU. The reason why she did not sign was in dispute. Whether the MOU was intended to be legally binding was also in dispute. Under the MOU:
 
-(a)     Clause 1 provided that Evergreen would have a “revised Capital structure” under which Ram would hold 25%, Mrs Ram 25% and Navin 50%.
+> (a)     Clause 1 provided that Evergreen would have a “revised Capital structure” under which Ram would hold 25%, Mrs Ram 25% and Navin 50%.
 
-(b)     Clause 2 provided that in view of the “restructured shareholding pattern”, Navin would ensure that the personal guarantees which Ram, Mrs Ram and Mrs Navin had given to Evergreen’s bankers will be discharged “at the earliest possible convenience”.
+> (b)     Clause 2 provided that in view of the “restructured shareholding pattern”, Navin would ensure that the personal guarantees which Ram, Mrs Ram and Mrs Navin had given to Evergreen’s bankers will be discharged “at the earliest possible convenience”.
 
-(c)     Clause 3 provided that Ram will remain as a “non-executive Director” and “elected Chairman of the Board of the Company”. Clause 4 provided that Navin will assume the role of managing director and “will have effective control of the day-to-day operations of the company” and if necessary, Evergreen’s operations will be supported by Navin’s personal guarantee secured by his personal assets.
+> (c)     Clause 3 provided that Ram will remain as a “non-executive Director” and “elected Chairman of the Board of the Company”. Clause 4 provided that Navin will assume the role of managing director and “will have effective control of the day-to-day operations of the company” and if necessary, Evergreen’s operations will be supported by Navin’s personal guarantee secured by his personal assets.
 
-(d)     Clause 5 provided for a power of attorney to be given by Evergreen to Navin for “running the day to day operations of the company” and on terms which included the following:
+> (d)     Clause 5 provided for a power of attorney to be given by Evergreen to Navin for “running the day to day operations of the company” and on terms which included the following:
 
-(i)       Clause 5(i): The term of office will be from 1 October 2006 until 31 December 2011 and will be subject to renewal thereafter.
+>> (i)       Clause 5(i): The term of office will be from 1 October 2006 until 31 December 2011 and will be subject to renewal thereafter.
 
-(ii)       Clause 5(ii): Navin will be paid a remuneration of S$35,000 per month.
+>> (ii)       Clause 5(ii): Navin will be paid a remuneration of S$35,000 per month.
 
-(iii)       Clause 5(ix): Navin was under an “obligation … to arrange to provide SGD360,000 in three prior instalments in favour of \[Ram\] and \[Mrs Ram\] effective 1/10/2006 till further advice towards meeting expenses in Nepal and Mumbai and out of pocket expenses” (“the Annual Allowance”). It was not disputed that payment of the Annual Allowance could take the form of dividends from Evergreen or director’s fees to Ram.[^22] It was also not disputed that the Annual Allowance was paid up to 2013.[^23]
+>> (iii)       Clause 5(ix): Navin was under an “obligation … to arrange to provide SGD360,000 in three prior instalments in favour of \[Ram\] and \[Mrs Ram\] effective 1/10/2006 till further advice towards meeting expenses in Nepal and Mumbai and out of pocket expenses” (“the Annual Allowance”). It was not disputed that payment of the Annual Allowance could take the form of dividends from Evergreen or director’s fees to Ram.[^22] It was also not disputed that the Annual Allowance was paid up to 2013.[^23]
 
-(iv)       Clause 5(xii): Ram “has provided one office block to be used by \[Evergreen\] and till such time he has extended this to be used by the company. The company will be under obligation to meet all its outgoings in running and maintaining the office”.
+>> (iv)       Clause 5(xii): Ram “has provided one office block to be used by \[Evergreen\] and till such time he has extended this to be used by the company. The company will be under obligation to meet all its outgoings in running and maintaining the office”.
 
-(v)       Clause 5(xiii): Navin “shall be under obligation to acquire a residential property for \[Mrs Ram\] to the extent of US$1 million anywhere as she desired”. To exercise this right of hers, Mrs Ram had to first indicate her desire for such a property in writing to Navin.
+>> (v)       Clause 5(xiii): Navin “shall be under obligation to acquire a residential property for \[Mrs Ram\] to the extent of US$1 million anywhere as she desired”. To exercise this right of hers, Mrs Ram had to first indicate her desire for such a property in writing to Navin.
 
-(vi)       Clause 5(xvii): Ram and Mrs Ram “have absolute discretion of right of stay with full comforts in \[the Poole Road property\] for their entire lives.”
+>> (vi)       Clause 5(xvii): Ram and Mrs Ram “have absolute discretion of right of stay with full comforts in \[the Poole Road property\] for their entire lives.”
 
 ### 2007 to 2015
 
@@ -135,11 +135,11 @@ Again, Ram claimed that these allotments were made without his knowledge and con
 
 27     On 2 January 2015, Mrs Ram and Navin entered into an agreement (“the SPA”) for the sale of Mrs Ram’s 25% shareholding in Evergreen to Navin for US$1,962,000. Mrs Ram sought to set aside the SPA in the third party proceedings. Under the terms of the SPA,[^36]
 
-(a)     the transfer of the shares to Navin was to take place upon Mrs Ram’s demise;
+> (a)     the transfer of the shares to Navin was to take place upon Mrs Ram’s demise;
 
-(b)     pending the transfer, Mrs Ram was to grant an irrevocable power of attorney to Navin to deal with all the rights and interests with respect to the shares; and
+> (b)     pending the transfer, Mrs Ram was to grant an irrevocable power of attorney to Navin to deal with all the rights and interests with respect to the shares; and
 
-(c)     in the event Mrs Ram breached the terms of the SPA, Navin would be entitled to transfer the shares to himself forthwith.
+> (c)     in the event Mrs Ram breached the terms of the SPA, Navin would be entitled to transfer the shares to himself forthwith.
 
 28     Pursuant to the SPA, Mrs Ram signed a power of attorney dated the same day, in favour of Navin (“the POA”).[^37] Navin paid Mrs Ram the sum of US$1,962,000 by way of a cheque dated the same day.[^38] Navin also signed a letter addressed to Mrs Ram, stating that he “will endeavour to provide \[her\] the sum of SGD180,000 per year, to the best of \[his\] ability, towards \[her\] housing/living maintenance expenses etc”.[^39]
 
@@ -151,29 +151,29 @@ Again, Ram claimed that these allotments were made without his knowledge and con
 
 31     Eventually, Braj and Navin’s father-in-law were roped in to mediate the disputes between Ram and Navin. A meeting was scheduled for 11 August 2015. Before the scheduled meeting of 11 August 2015 could take place however, on 6 August 2015, Ram, Mrs Ram, Navin and Mrs Navin signed a settlement deed (“the 2015 Deed”).[^44] Pursuant to the 2015 Deed:
 
-(a)     Navin paid Ram US$2m “in full and final settlement of all or any Issues (including any claim(s) thereto) arising between them.” The term “Issues” was defined as “disagreements over matters concerning personal business styles, work aptitudes, monies and other personal matters/concerns … which have created certain disharmony within the family or amongst the individual members”.
+> (a)     Navin paid Ram US$2m “in full and final settlement of all or any Issues (including any claim(s) thereto) arising between them.” The term “Issues” was defined as “disagreements over matters concerning personal business styles, work aptitudes, monies and other personal matters/concerns … which have created certain disharmony within the family or amongst the individual members”.
 
-(b)     Each party agreed to henceforth “conduct himself/herself in the best possible manner so as to achieve a good and harmonious relationship with one another and also vis-à-vis \[Evergreen\] (including its officers, employees, agents or otherwise) so as to enhance \[Evergreen’s\] growth and success in whichever way possible” (“the harmonious relationship clause”).
+> (b)     Each party agreed to henceforth “conduct himself/herself in the best possible manner so as to achieve a good and harmonious relationship with one another and also vis-à-vis \[Evergreen\] (including its officers, employees, agents or otherwise) so as to enhance \[Evergreen’s\] growth and success in whichever way possible” (“the harmonious relationship clause”).
 
-(c)     The parties also agreed and confirmed that the 2015 Deed “revokes and supersedes all previous agreements, arrangements and/or understandings made between them (including those made individually between certain parties to \[the 2015 Deed\], without the involvement of all four parties herein)”.
+> (c)     The parties also agreed and confirmed that the 2015 Deed “revokes and supersedes all previous agreements, arrangements and/or understandings made between them (including those made individually between certain parties to \[the 2015 Deed\], without the involvement of all four parties herein)”.
 
 32     Also around this time, Navin transferred his entire 10% shareholding in another company called EG Global Holdings Pte Ltd (“EG Global”) to Ram.[^45] The remaining 90% of the shares in EG Global were held by Ram (45%) and Mrs Ram (45%).[^46] According to Navin, the transfer to Ram was at Ram’s request and made by Navin as a gesture of goodwill.[^47]
 
 33     The 2015 Deed was followed soon after by a further agreement dated 1 September 2015 (“the September Agreement”) signed by the same parties to the 2015 Deed. In the September Agreement,[^48]
 
-(a)     Navin stated that, based on Ram’s and Mrs Ram’s request, he agreed to execute a deed of gift and power of attorney to transfer to Mrs Ram 7,300 shares in an Indian company called Janson Engineering and Trading Company Pte Ltd (“Janson”); and
+> (a)     Navin stated that, based on Ram’s and Mrs Ram’s request, he agreed to execute a deed of gift and power of attorney to transfer to Mrs Ram 7,300 shares in an Indian company called Janson Engineering and Trading Company Pte Ltd (“Janson”); and
 
-(b)     the parties agreed that henceforth, “\[they\] will each retain the assets held in respective names and will be free to deal with the same in any manner”.
+> (b)     the parties agreed that henceforth, “\[they\] will each retain the assets held in respective names and will be free to deal with the same in any manner”.
 
 34     Ram claimed[^49] that he had signed the 2015 Deed on the understanding that Navin would
 
-(a)     return to Mrs Ram the shares in Evergreen which Navin had transferred to himself pursuant to the SPA;
+> (a)     return to Mrs Ram the shares in Evergreen which Navin had transferred to himself pursuant to the SPA;
 
-(b)     pay Ram the Annual Allowance;
+> (b)     pay Ram the Annual Allowance;
 
-(c)     return one unit at High Street Plaza to Ram; and
+> (c)     return one unit at High Street Plaza to Ram; and
 
-(d)     return the shares in Janson to Mrs Ram. Ram alleged that Navin held the shares in Janson on trust.
+> (d)     return the shares in Janson to Mrs Ram. Ram alleged that Navin held the shares in Janson on trust.
 
 Navin disputed any such understanding. Navin did transfer 7,300 shares in Janson to Mrs Ram but he said that the transfer was pursuant to the September Agreement.
 
@@ -195,35 +195,35 @@ Navin disputed any such understanding. Navin did transfer 7,300 shares in Janson
 
 41     In summary, Ram’s claims in Suit 911 were primarily for:
 
-(a)     minority oppression under s 216 of the Companies Act (Cap 50, 2006 Rev Ed) in relation to the affairs of Evergreen;
+> (a)     minority oppression under s 216 of the Companies Act (Cap 50, 2006 Rev Ed) in relation to the affairs of Evergreen;
 
-(b)     various allotments and transfers of shares in Evergreen to be set aside;
+> (b)     various allotments and transfers of shares in Evergreen to be set aside;
 
-(c)     orders enforcing the terms of the MOU;
+> (c)     orders enforcing the terms of the MOU;
 
-(d)     payment of his share of the proceeds of sale of the Bonds;
+> (d)     payment of his share of the proceeds of sale of the Bonds;
 
-(e)     the 2015 Deed to be set aside; and
+> (e)     the 2015 Deed to be set aside; and
 
-(f)     delivery up of his belongings, alternatively, damages for conversion.
+> (f)     delivery up of his belongings, alternatively, damages for conversion.
 
 42     Mrs Ram’s claims against Navin and Mrs Navin in the third party proceedings were mainly for:
 
-(a)     orders enforcing the MOU;
+> (a)     orders enforcing the MOU;
 
-(b)     the SPA to be set aside and the shares in Evergreen transferred back to her;
+> (b)     the SPA to be set aside and the shares in Evergreen transferred back to her;
 
-(c)     the 2015 Deed and September Agreement to be set aside; and
+> (c)     the 2015 Deed and September Agreement to be set aside; and
 
-(d)     delivery up of her belongings, alternatively, damages for conversion.
+> (d)     delivery up of her belongings, alternatively, damages for conversion.
 
 43     Navin’s counterclaims in Suit 911 were for:
 
-(a)     the return of the sum of US$2m paid to Ram pursuant to the 2015 Deed;
+> (a)     the return of the sum of US$2m paid to Ram pursuant to the 2015 Deed;
 
-(b)     the return of the 7,300 shares in Janson that were transferred to Mrs Ram; and
+> (b)     the return of the 7,300 shares in Janson that were transferred to Mrs Ram; and
 
-(c)     the return of the shares in EG Global that were transferred to Ram.
+> (c)     the return of the shares in EG Global that were transferred to Ram.
 
 Navin’s counterclaims were based on his allegation that Ram had breached the harmonious relationship clause under the 2015 Deed.
 
@@ -269,21 +269,21 @@ Navin’s counterclaims were based on his allegation that Ram had breached the h
 
 59     Further, the evidence did not support any compulsion of will:
 
-(a)     Ram testified that he signed the 2015 Deed on the understanding that Navin would return the shares in Evergreen, pay the Annual Allowance, return one unit at High Street Plaza to Ram, and return the shares in Janson (see \[34\] above). It seemed to me that the evidence was more consistent with the striking of a bargain than any compulsion of will.
+> (a)     Ram testified that he signed the 2015 Deed on the understanding that Navin would return the shares in Evergreen, pay the Annual Allowance, return one unit at High Street Plaza to Ram, and return the shares in Janson (see \[34\] above). It seemed to me that the evidence was more consistent with the striking of a bargain than any compulsion of will.
 
-(b)     Mrs Ram testified that she signed the 2015 Deed “because Ram had signed it.”[^66] This put paid to any allegation of compulsion of will.
+> (b)     Mrs Ram testified that she signed the 2015 Deed “because Ram had signed it.”[^66] This put paid to any allegation of compulsion of will.
 
 #### Undue influence
 
 60     In _BOM v BOK and another appeal_ <span class="citation">\[2019\] 1 SLR 349</span> (“_BOM v BOK_”), the Court of Appeal provided a useful summary on the law of undue influence (at \[101\]). Essentially, there are two classes of undue influence:
 
-(a)     “Class 1” undue influence, also known as actual undue influence, requires the plaintiff to show that he entered into the impugned transaction because of the undue influence exerted upon him by the defendant. To do this, the plaintiff has to demonstrate that: (i) the defendant had the capacity to influence him; (ii) the influence was exercised; (iii) its exercise was undue; and (iv) its exercise brought about the transaction.
+> (a)     “Class 1” undue influence, also known as actual undue influence, requires the plaintiff to show that he entered into the impugned transaction because of the undue influence exerted upon him by the defendant. To do this, the plaintiff has to demonstrate that: (i) the defendant had the capacity to influence him; (ii) the influence was exercised; (iii) its exercise was undue; and (iv) its exercise brought about the transaction.
 
-(b)     “Class 2” undue influence, also known as presumed undue influence, does not require the plaintiff to prove actual undue influence. Instead, it suffices for the plaintiff to show (i) that there was a relationship of trust and confidence between him and the defendant; (ii) that the relationship was such that it could be presumed that the defendant abused the plaintiff’s trust and confidence in influencing the plaintiff to enter into the impugned transaction; and (iii) that the transaction was one that calls for an explanation. This class of undue influence is further divided into “Class 2A” and “Class 2B” undue influence.
+> (b)     “Class 2” undue influence, also known as presumed undue influence, does not require the plaintiff to prove actual undue influence. Instead, it suffices for the plaintiff to show (i) that there was a relationship of trust and confidence between him and the defendant; (ii) that the relationship was such that it could be presumed that the defendant abused the plaintiff’s trust and confidence in influencing the plaintiff to enter into the impugned transaction; and (iii) that the transaction was one that calls for an explanation. This class of undue influence is further divided into “Class 2A” and “Class 2B” undue influence.
 
-(i)       Under “Class 2A” undue influence, there are relationships that the law irrebuttably presumes to give rise to a relationship of trust and confidence. Once the plaintiff shows that his relationship with the wrongdoer triggers the presumption and that the impugned transaction calls for an explanation, there is a _rebuttable_ presumption that the wrongdoer has exerted undue influence.
+>> (i)       Under “Class 2A” undue influence, there are relationships that the law irrebuttably presumes to give rise to a relationship of trust and confidence. Once the plaintiff shows that his relationship with the wrongdoer triggers the presumption and that the impugned transaction calls for an explanation, there is a _rebuttable_ presumption that the wrongdoer has exerted undue influence.
 
-(ii)       Under “Class 2B” undue influence, the plaintiff must prove that there is a relationship of trust and confidence. If it is shown that there was such a relationship and that the transaction calls for an explanation, then there is a _rebuttable_ presumption of undue influence.
+>> (ii)       Under “Class 2B” undue influence, the plaintiff must prove that there is a relationship of trust and confidence. If it is shown that there was such a relationship and that the transaction calls for an explanation, then there is a _rebuttable_ presumption of undue influence.
 
 61     In my view, both Ram and Mrs Ram failed to prove undue influence (whether actual or presumed). The evidence simply did not support their case.
 
@@ -347,17 +347,17 @@ Navin’s counterclaims were based on his allegation that Ram had breached the h
 
 86     Kalpana and Braj had to step in to mediate and the MOU was the result of that mediation. This was the context in which the MOU came to be signed. The matters agreed upon included
 
-(a)     the capital structure of Evergreen;
+> (a)     the capital structure of Evergreen;
 
-(b)     the discharge of guarantees given by Ram and Mrs Ram in connection with Evergreen;
+> (b)     the discharge of guarantees given by Ram and Mrs Ram in connection with Evergreen;
 
-(c)     Ram’s and Navin’s roles in the company and Navin’s remuneration;
+> (c)     Ram’s and Navin’s roles in the company and Navin’s remuneration;
 
-(d)     payment of the Annual Allowance;
+> (d)     payment of the Annual Allowance;
 
-(e)     Evergreen’s continued use of the office premises which belonged to Ram; and
+> (e)     Evergreen’s continued use of the office premises which belonged to Ram; and
 
-(f)     Navin’s obligation to pay Mrs Ram US$1m to acquire a residential property of her choice.
+> (f)     Navin’s obligation to pay Mrs Ram US$1m to acquire a residential property of her choice.
 
 An additional provision relating to Ram’s and Mrs Ram’s right to stay at the Poole Road property was hand-written in by Navin. All of these were significant matters and reflected an agreement reached between Ram/Mrs Ram and Navin to resolve their differences. Navin himself acknowledged that he “had to try to resolve it somehow with \[Ram\]…”.[^72] In my view, the MOU was clearly intended to be legally binding. It was not just some informal family arrangement.
 
@@ -397,25 +397,25 @@ An additional provision relating to Ram’s and Mrs Ram’s right to stay at the
 
 100    Second, two days after Navin exercised the option to purchase the Poole Road property, an application was made to the Land Dealings (Approval) Unit for approval to take the title to the property in the names of Ram (65%) and Navin (35%), with both of them holding the property as tenants-in-common (“the LDU application”).[^78] This application was rejected on 12 April 1993.[^79] An appeal was made on 24 April 1993, this time, for approval for Navin and his parents to hold the property as joint tenants (“the LDU appeal”).[^80] The appeal was also rejected.[^81] In my view, the LDU application and the LDU appeal were consistent with the fact that it was Ram who was buying the property. In particular, I noted the following:
 
-(a)     Under the LDU application and the LDU appeal, Navin’s interest in the property was to be only 35% and 33.3% respectively. This was inconsistent with Navin’s claim that he bought the property by himself. Navin’s explanation was that Ram wanted to co-invest in the property.[^82] I rejected Navin’s explanation. Navin had no credible explanation for not having included this explanation in his AEIC.[^83]
+> (a)     Under the LDU application and the LDU appeal, Navin’s interest in the property was to be only 35% and 33.3% respectively. This was inconsistent with Navin’s claim that he bought the property by himself. Navin’s explanation was that Ram wanted to co-invest in the property.[^82] I rejected Navin’s explanation. Navin had no credible explanation for not having included this explanation in his AEIC.[^83]
 
-(b)     The LDU application expressly stated that the Poole Road property was intended to be used as a family residence. This was more consistent with Ram buying the property as Navin was not married then.
+> (b)     The LDU application expressly stated that the Poole Road property was intended to be used as a family residence. This was more consistent with Ram buying the property as Navin was not married then.
 
 101    Third, Navin moved to Singapore in 1989 and finished his national service in mid-1991. The Poole Road property cost S$2.88m. The cash outlay was S$580,000. The balance of S$2.3m was paid with a mortgage loan. According to Navin, he repaid the mortgage loan within six years. I found it highly unlikely that Navin, at the age of 23 in 1993, would have had the means to buy the Poole Road property for $2.88m, paying S$580,000 in cash and repaying a S$2.3m loan over six years.
 
 102    In his AEIC, Navin claimed that the funds that he used to pay for the Poole Road property were from “a combination of \[his\] overseas brokerage business/investments and salary/fees/loans from Milansar Pte Ltd (“Milansar”) and Evergreen.[^84] Milansar was a company that Ram incorporated in Singapore in 1981; it was eventually closed down in December 2007. I did not believe Navin’s claim for the following reasons:
 
-(a)     Navin claimed that he was able to pay for the property as he “had already been running the family business since 1991” and had “helped to increase the annual turnover of \[Evergreen\] from about SGD6 million in 1990 to SGD30 million in 1993”.[^85] However, this was at odds with the fact that Navin became a director of Evergreen only in September 1994.[^86] Further, it was clear from the evidence that the fact that Navin started working in Evergreen in 1991could not explain his alleged ability to pay for the Poole Road property:
+> (a)     Navin claimed that he was able to pay for the property as he “had already been running the family business since 1991” and had “helped to increase the annual turnover of \[Evergreen\] from about SGD6 million in 1990 to SGD30 million in 1993”.[^85] However, this was at odds with the fact that Navin became a director of Evergreen only in September 1994.[^86] Further, it was clear from the evidence that the fact that Navin started working in Evergreen in 1991could not explain his alleged ability to pay for the Poole Road property:
 
-(i)       Under cross-examination, Navin agreed that he was not paid any salary in Evergreen or Milansar until 1994.[^87] In any event, the total commissions and salaries paid by Evergreen for the years from 1991 to 1993 were only S$21,179 for 1991, S$18,964 for 1992 and S$51,405 for 1993.[^88]
+>> (i)       Under cross-examination, Navin agreed that he was not paid any salary in Evergreen or Milansar until 1994.[^87] In any event, the total commissions and salaries paid by Evergreen for the years from 1991 to 1993 were only S$21,179 for 1991, S$18,964 for 1992 and S$51,405 for 1993.[^88]
 
-(ii)       Further, Evergreen’s profits before tax for the financial years from 1991 to 1993 were a loss of S$338 for 1991,[^89] a profit of S$15,677 for 1992[^90] and a profit of S$43,656 for 1993.[^91] In fact, Evergreen’s profits before tax for the years from 1994 to 1999 were also nowhere near US$300,000 a year except for 1997 (S$380,280).[^92] Evergreen’s profits could not have funded the purchase of the property.
+>> (ii)       Further, Evergreen’s profits before tax for the financial years from 1991 to 1993 were a loss of S$338 for 1991,[^89] a profit of S$15,677 for 1992[^90] and a profit of S$43,656 for 1993.[^91] In fact, Evergreen’s profits before tax for the years from 1994 to 1999 were also nowhere near US$300,000 a year except for 1997 (S$380,280).[^92] Evergreen’s profits could not have funded the purchase of the property.
 
-(b)     Navin also claimed that he was carrying out his own brokerage business selling tyres and yarn to Afghanistan and that he earned about US$300,000 to US$400,000 in commissions per year.[^93] Navin claimed that when he exercised the option to purchase the Poole Road property in 1993, he had some US$800,000 which he had earned from his own brokerage business from 1991 to 1993.[^94] According to Navin, the moneys were brought into Singapore through his account with UCO Bank. However, he did not produce any bank statements to support his claim. The issue as to who paid for the Poole Road property was not a new issue; the statement of claim pleaded that Ram provided the funds for the purchase of the property.[^95] Navin admitted that he had not written to UCO Bank for his account statements and could not explain why he had not done so.[^96] I also noted that Navin did not give any details of his own brokerage business in his AEIC.
+> (b)     Navin also claimed that he was carrying out his own brokerage business selling tyres and yarn to Afghanistan and that he earned about US$300,000 to US$400,000 in commissions per year.[^93] Navin claimed that when he exercised the option to purchase the Poole Road property in 1993, he had some US$800,000 which he had earned from his own brokerage business from 1991 to 1993.[^94] According to Navin, the moneys were brought into Singapore through his account with UCO Bank. However, he did not produce any bank statements to support his claim. The issue as to who paid for the Poole Road property was not a new issue; the statement of claim pleaded that Ram provided the funds for the purchase of the property.[^95] Navin admitted that he had not written to UCO Bank for his account statements and could not explain why he had not done so.[^96] I also noted that Navin did not give any details of his own brokerage business in his AEIC.
 
-(c)     Navin did not produce any evidence of his earnings in Milansar or any of the loans which he claimed to have taken from Milansar and Evergreen to pay for the Poole Road property.
+> (c)     Navin did not produce any evidence of his earnings in Milansar or any of the loans which he claimed to have taken from Milansar and Evergreen to pay for the Poole Road property.
 
-(d)     Mr Moti Vaswani (“Moti”) gave evidence on behalf of Navin. Moti was the lawyer who handled the conveyancing for the Poole Road property. In his oral testimony, he said that he could not remember details of the purchase. However, when he was asked whether it was Ram who paid for the property, his immediate answer was that Navin was “a NS person with a salary of $200.”[^97] When pressed for a direct answer, Moti finally said he could not recall who gave him the payment.[^98] Moti did not say that Navin paid for the property. On the contrary, Moti’s first answer showed that he did not come across anything that suggested that Navin paid for the property. In my view, if it had been clear that Navin, as “a NS person with a salary of $200”, was paying for the property, surely Moti would have remembered.
+> (d)     Mr Moti Vaswani (“Moti”) gave evidence on behalf of Navin. Moti was the lawyer who handled the conveyancing for the Poole Road property. In his oral testimony, he said that he could not remember details of the purchase. However, when he was asked whether it was Ram who paid for the property, his immediate answer was that Navin was “a NS person with a salary of $200.”[^97] When pressed for a direct answer, Moti finally said he could not recall who gave him the payment.[^98] Moti did not say that Navin paid for the property. On the contrary, Moti’s first answer showed that he did not come across anything that suggested that Navin paid for the property. In my view, if it had been clear that Navin, as “a NS person with a salary of $200”, was paying for the property, surely Moti would have remembered.
 
 103    Fourth, the S$2.3m mortgage loan included a S$1.8m overdraft facility in Ram’s and Navin’s names.[^99] There was no reason why Ram had to be a borrower if Navin had the funds and earning capacity that he claimed he had. According to Navin, he gave the bank the details of his brokerage business and the commissions he was earning.[^100] Navin also claimed that he exercised the option to purchase on the basis of UOB’s in-principle approval for the loan (which included Ram as a co-borrower for S$1.8m) without first obtaining Ram’s consent.[^101] I found this claim too incredible to believe. Finally, I also noted that Navin was not forthcoming in his evidence about the overdraft facility to Ram and him. It was not mentioned in his AEIC. In his oral testimony, Navin at first said that the overdraft facility was against his account.[^102] It was only after he was questioned further that he admitted that it was an overdraft facility given to Ram and him.[^103]
 
@@ -431,13 +431,13 @@ An additional provision relating to Ram’s and Mrs Ram’s right to stay at the
 
 108    Both Ram and Mrs Ram sought the following reliefs:
 
-(a)     A declaration that they are entitled to a right of occupation of the Poole Road property for life with full comforts.
+> (a)     A declaration that they are entitled to a right of occupation of the Poole Road property for life with full comforts.
 
-(b)     Further or alternatively, a declaration that Navin holds the Poole Road property on remedial constructive trust for Ram and Mrs Ram.
+> (b)     Further or alternatively, a declaration that Navin holds the Poole Road property on remedial constructive trust for Ram and Mrs Ram.
 
-(c)     An order that the Poole Road property be sold and the net proceeds or such amount as the Court deems fit be apportioned and distributed to Ram and Mrs Ram equally.
+> (c)     An order that the Poole Road property be sold and the net proceeds or such amount as the Court deems fit be apportioned and distributed to Ram and Mrs Ram equally.
 
-(d)     Damages in lieu of specific performance of the contractual licence under the MOU (in Ram’s case) and under the common understanding and/or MOU (in Mrs Ram’s case).
+> (d)     Damages in lieu of specific performance of the contractual licence under the MOU (in Ram’s case) and under the common understanding and/or MOU (in Mrs Ram’s case).
 
 #### Common understanding
 
@@ -461,13 +461,13 @@ An additional provision relating to Ram’s and Mrs Ram’s right to stay at the
 
 116    In my judgment, Ram breached the Implied Term. The CCTV recordings showed the following:
 
-(a)     On 13 April 2016, Ram was walking around the house carrying a knife and dressed only in a singlet and his underwear. There was no evidence of him looking for Mrs Navin or threatening her with the knife and I accepted Ram’s evidence that he was bringing the knife to cut a rope.[^107] Mrs Ram testified that Ram was in his underwear because he had taken off his “sarong” after he had slipped and his “sarong” got wet.[^108] However, that was no reason for Ram to walk around the house in his underwear when Mrs Navin was around.
+> (a)     On 13 April 2016, Ram was walking around the house carrying a knife and dressed only in a singlet and his underwear. There was no evidence of him looking for Mrs Navin or threatening her with the knife and I accepted Ram’s evidence that he was bringing the knife to cut a rope.[^107] Mrs Ram testified that Ram was in his underwear because he had taken off his “sarong” after he had slipped and his “sarong” got wet.[^108] However, that was no reason for Ram to walk around the house in his underwear when Mrs Navin was around.
 
-(b)     On 17 May 2016, Ram kicked at Navin’s car (which was parked in the driveway) and/or the domestic helper. According to Ram, his elder brother and sister-in-law could not leave after their visit, because neither Mrs Navin nor the domestic helpers wanted to unlock the main gate. One of the domestic helpers, one Ms Sunanda, subsequently “grudgingly unlocked the gate using a remote control”. Ram claimed that as he was walking out to apologise to his guests, Sunanda “inexplicably opened the door of one of the cars which blocked” Ram’s way.[^109] However, the CCTV recording merely showed Sunanda opening the car door and looking for something in the car. Ram was nowhere near at this time. Just as she was done, Ram walked up to the car and kicked the car and/or Sunanda. Suannda tried to move away but Ram continued behaving aggressively towards her. The CCTV recording was clear proof that Ram’s allegation was pure fabrication.
+> (b)     On 17 May 2016, Ram kicked at Navin’s car (which was parked in the driveway) and/or the domestic helper. According to Ram, his elder brother and sister-in-law could not leave after their visit, because neither Mrs Navin nor the domestic helpers wanted to unlock the main gate. One of the domestic helpers, one Ms Sunanda, subsequently “grudgingly unlocked the gate using a remote control”. Ram claimed that as he was walking out to apologise to his guests, Sunanda “inexplicably opened the door of one of the cars which blocked” Ram’s way.[^109] However, the CCTV recording merely showed Sunanda opening the car door and looking for something in the car. Ram was nowhere near at this time. Just as she was done, Ram walked up to the car and kicked the car and/or Sunanda. Suannda tried to move away but Ram continued behaving aggressively towards her. The CCTV recording was clear proof that Ram’s allegation was pure fabrication.
 
-(c)     On the same day, Ram kicked the door to Navin’s room. Navin was apparently not home at the time. Mrs Navin locked herself in the guestroom, with her son. Ram started banging and violently kicking the door to the guestroom, all the while hurling verbal abuse.
+> (c)     On the same day, Ram kicked the door to Navin’s room. Navin was apparently not home at the time. Mrs Navin locked herself in the guestroom, with her son. Ram started banging and violently kicking the door to the guestroom, all the while hurling verbal abuse.
 
-(d)     On 31 July 2016, Ram reacted to something that Navin said by pulling down his pants and exposing himself to Navin in the presence of Navin’s wife and son. Ram claimed that Navin had told him “I will f--- you”. Navin denied this. There was no voice recording. However, Ram’s behaviour was simply inexcusable.
+> (d)     On 31 July 2016, Ram reacted to something that Navin said by pulling down his pants and exposing himself to Navin in the presence of Navin’s wife and son. Ram claimed that Navin had told him “I will f--- you”. Navin denied this. There was no voice recording. However, Ram’s behaviour was simply inexcusable.
 
 117    The CCTV recordings confirmed Ram’s propensity towards violent behaviour and verbal abuse whilst living at the Poole Road property. It was clear to me that Ram had, by his conduct, breached the Implied Term and that Navin was fully entitled to revoke Ram’s licence to stay at the Poole Road property. Navin and his family cannot be expected to have to put up with Ram’s behaviour at the Poole Road property.
 
@@ -489,13 +489,13 @@ An additional provision relating to Ram’s and Mrs Ram’s right to stay at the
 
 123    I was not satisfied that Ram and Mrs Ram had proved the alleged breaches.
 
-(a)     Ram/Mrs Ram alleged that Navin/Mrs Navin instructed their domestic helpers and one driver not to serve them and consequently, Mrs Ram had to do her own chores. In my view, it was more likely that, as Navin and Mrs Navin claimed, the domestic helpers and driver were simply reluctant to serve Ram and Mrs Ram, in view of Ram’s conduct.
+> (a)     Ram/Mrs Ram alleged that Navin/Mrs Navin instructed their domestic helpers and one driver not to serve them and consequently, Mrs Ram had to do her own chores. In my view, it was more likely that, as Navin and Mrs Navin claimed, the domestic helpers and driver were simply reluctant to serve Ram and Mrs Ram, in view of Ram’s conduct.
 
-(b)     I rejected Ram/Mrs Ram’s allegation that they had no access to the common areas in the house because they were locked, or that they were effectively confined to their bedrooms. The CCTV recordings showed Ram and Mrs Ram wandering freely about the house. Ram had no hesitation walking around the house holding a knife and dressed only in his singlet and underwear. This was not evidence of a man confined to his bedroom.
+> (b)     I rejected Ram/Mrs Ram’s allegation that they had no access to the common areas in the house because they were locked, or that they were effectively confined to their bedrooms. The CCTV recordings showed Ram and Mrs Ram wandering freely about the house. Ram had no hesitation walking around the house holding a knife and dressed only in his singlet and underwear. This was not evidence of a man confined to his bedroom.
 
-(c)     I rejected Ram/Mrs Ram’s bare allegations that they were not permitted assistance by external service providers to attend to maintenance issues in their bedroom, that Navin/Mrs Navin controlled their mail, and that they did not have the keys to the Poole Road property and if they left the house together, there was a “real likelihood” that Navin/Mrs Navin would lock them out.
+> (c)     I rejected Ram/Mrs Ram’s bare allegations that they were not permitted assistance by external service providers to attend to maintenance issues in their bedroom, that Navin/Mrs Navin controlled their mail, and that they did not have the keys to the Poole Road property and if they left the house together, there was a “real likelihood” that Navin/Mrs Navin would lock them out.
 
-(d)     I also did not accept Ram’s bare assertion that Navin threatened him in November 2014 that Mrs Navin would falsely accuse him of molest if he returned to the Poole Road property. No such accusation has been made even though Ram had subsequently returned to the house.
+> (d)     I also did not accept Ram’s bare assertion that Navin threatened him in November 2014 that Mrs Navin would falsely accuse him of molest if he returned to the Poole Road property. No such accusation has been made even though Ram had subsequently returned to the house.
 
 124    Ram/Mrs Ram also complained that Navin/Mrs Navin kept their children away from them. In my view, even if Navin/Mrs Navin kept their children away from Ram/Mrs Ram, given the circumstances of this case, I did not think that this sufficient to show a conspiracy to constructively evict Ram/Mrs Ram.
 
@@ -515,35 +515,35 @@ An additional provision relating to Ram’s and Mrs Ram’s right to stay at the
 
 130    Ram’s minority oppression claim was based on the following complaints:
 
-(a)     That Navin caused/procured certain transfers and allotments of shares in Evergreen without Ram’s knowledge or consent.
+> (a)     That Navin caused/procured certain transfers and allotments of shares in Evergreen without Ram’s knowledge or consent.
 
-(b)     That Navin procured the transfer of shares in Evergreen by Mrs Ram to Navin, by duress, undue influence and/or unconscionable conduct.
+> (b)     That Navin procured the transfer of shares in Evergreen by Mrs Ram to Navin, by duress, undue influence and/or unconscionable conduct.
 
-(c)     That Navin denied Ram access to Evergreen’s books and records.
+> (c)     That Navin denied Ram access to Evergreen’s books and records.
 
-(d)     That Navin and Mrs Navin wrongfully removed Ram from the Board of Directors (“Board”) of Evergreen.
+> (d)     That Navin and Mrs Navin wrongfully removed Ram from the Board of Directors (“Board”) of Evergreen.
 
-(e)     That Navin and Mrs Navin wrongfully excluded Ram from general meetings and Board meetings of the Evergreen.
+> (e)     That Navin and Mrs Navin wrongfully excluded Ram from general meetings and Board meetings of the Evergreen.
 
-(f)     That Navin and Mrs Navin caused Evergreen to refuse or fail to declare and pay dividends.
+> (f)     That Navin and Mrs Navin caused Evergreen to refuse or fail to declare and pay dividends.
 
-(g)     That Navin misused Evergreen’s funds.
+> (g)     That Navin misused Evergreen’s funds.
 
-(h)     That Navin and Mrs Navin breached their duties as directors of Evergreen by procuring Evergreen’s participation in the present action.
+> (h)     That Navin and Mrs Navin breached their duties as directors of Evergreen by procuring Evergreen’s participation in the present action.
 
 ### Unauthorised transfers / allotments of shares
 
 131    Ram’s statement of claim pleaded that Navin caused or procured the following without Ram’s knowledge and consent:
 
-(a)     Transfer of 499,999 ordinary shares from Ram to Mrs Ram and one ordinary share from Ram to Navin. These transfers were reflected in Evergreen’s records with the Accounting and Corporate Regulatory Authority (“ACRA”) on 6 October 2005.[^119]
+> (a)     Transfer of 499,999 ordinary shares from Ram to Mrs Ram and one ordinary share from Ram to Navin. These transfers were reflected in Evergreen’s records with the Accounting and Corporate Regulatory Authority (“ACRA”) on 6 October 2005.[^119]
 
-(b)     Allotment of six million ordinary shares in Evergreen on 30 September 2006 to Ram (1,250,000 shares), Mrs Ram (1,250,001 shares) and Navin (3,499,999 shares).[^120]
+> (b)     Allotment of six million ordinary shares in Evergreen on 30 September 2006 to Ram (1,250,000 shares), Mrs Ram (1,250,001 shares) and Navin (3,499,999 shares).[^120]
 
-(c)     Allotment of 1,040,000 ordinary shares in Evergreen on 13 July 2007 to Ram (260,000 shares), Mrs Ram (260,000 shares) and Navin (520,000 shares).[^121]
+> (c)     Allotment of 1,040,000 ordinary shares in Evergreen on 13 July 2007 to Ram (260,000 shares), Mrs Ram (260,000 shares) and Navin (520,000 shares).[^121]
 
-(d)     Allotment of 1,960,000 ordinary shares on 25 August 2008 to Ram (490,000 shares), Mrs Ram (490,000 shares) and Navin (980,000 shares).[^122]
+> (d)     Allotment of 1,960,000 ordinary shares on 25 August 2008 to Ram (490,000 shares), Mrs Ram (490,000 shares) and Navin (980,000 shares).[^122]
 
-(e)     Transfer of one share from Navin to Mrs Navin on 7 January 2013 in breach of Article 31 of Evergreen’s articles of association and/or the MOU.[^123]
+> (e)     Transfer of one share from Navin to Mrs Navin on 7 January 2013 in breach of Article 31 of Evergreen’s articles of association and/or the MOU.[^123]
 
 132    The above transfers and allotments, save for the transfer of one share by Navin to Mrs Navin on 7 January 2013, were evidenced by various documents that were signed by Ram. Ram’s common refrain was to claim that his signatures were forged. Ram and Navin called Mr Pang Chan Kok William and Mr Yang Chiew Yung respectively as their handwriting expert witnesses.
 
@@ -562,15 +562,15 @@ An additional provision relating to Ram’s and Mrs Ram’s right to stay at the
 
 136    Notice of these transfers was lodged with ACRA on 6 October 2005.[^131] However, the transfer of 499,999 shares from Ram to Mrs Ram was effected on 25 October 2002, as evidenced by the following documents all of which bore Ram’s signature:
 
-(a)     A notice of the EGM to be held on 25 October 2002 to “approve transfer of shares”.[^132] In his oral testimony, Ram’s expert revised his previous view and concluded that there was strong support that Ram signed this document.[^133] Navin’s expert concluded there were indications that Ram signed the document.[^134]
+> (a)     A notice of the EGM to be held on 25 October 2002 to “approve transfer of shares”.[^132] In his oral testimony, Ram’s expert revised his previous view and concluded that there was strong support that Ram signed this document.[^133] Navin’s expert concluded there were indications that Ram signed the document.[^134]
 
-(b)     The minutes of the EGM held on 25 October 2002, approving the transfer of the 499,999 shares.[^135] Ram’s expert concluded that there was strong support that Ram did sign the document, whilst Navin’s expert concluded that there were indications that Ram signed the document.[^136]
+> (b)     The minutes of the EGM held on 25 October 2002, approving the transfer of the 499,999 shares.[^135] Ram’s expert concluded that there was strong support that Ram did sign the document, whilst Navin’s expert concluded that there were indications that Ram signed the document.[^136]
 
-(c)     The transfer form dated 25 October 2002 for the transfer of the 499,999 shares.[^137] Ram’s expert concluded that it was inconclusive whether one of the signatures was Ram’s and that there was strong support that the other signature was not Ram’s, whilst Navin’s expert concluded that there were indications that both signatures were Ram’s.[^138]
+> (c)     The transfer form dated 25 October 2002 for the transfer of the 499,999 shares.[^137] Ram’s expert concluded that it was inconclusive whether one of the signatures was Ram’s and that there was strong support that the other signature was not Ram’s, whilst Navin’s expert concluded that there were indications that both signatures were Ram’s.[^138]
 
-(d)     The requisition form dated 25 October 2002 for the transfer of the 499,999 shares.[^139] Ram’s expert concluded that it was inconclusive whether the signature was Ram’s whilst Navin’s expert concluded that there were indications that it was Ram’s.[^140]
+> (d)     The requisition form dated 25 October 2002 for the transfer of the 499,999 shares.[^139] Ram’s expert concluded that it was inconclusive whether the signature was Ram’s whilst Navin’s expert concluded that there were indications that it was Ram’s.[^140]
 
-(e)     A Working Sheet A dated 25 October 2002 for the transfer of the 499,999 shares.[^141] Ram’s expert concluded that it was inconclusive whether the signature was Ram’s whilst Navin’s expert concluded that there were indications that it was Ram’s.[^142]
+> (e)     A Working Sheet A dated 25 October 2002 for the transfer of the 499,999 shares.[^141] Ram’s expert concluded that it was inconclusive whether the signature was Ram’s whilst Navin’s expert concluded that there were indications that it was Ram’s.[^142]
 
 137    As for the transfer of one share to Navin, Ram claimed that it was transferred from him to Navin without his knowledge. However, the evidence showed that the one share was transferred by Kishore to Navin on 29 April 1995 (see, also, \[17\] above).[^143] The minutes of the directors’ meeting on 3 April 1995 approving the transfer, was signed by Ram, Navin and Kishore.[^144] Ram’s expert concluded that there was strong support, and Navin’s expert concluded that it was highly likely, that the signature was Ram’s.[^145]
 
@@ -580,11 +580,11 @@ An additional provision relating to Ram’s and Mrs Ram’s right to stay at the
 
 139    On 30 September 2006, a loan of US$3,781,433 (equivalent to S$6m) from Ram to Evergreen was capitalised and six million shares were allotted to Ram (1,250,000 shares), Mrs Ram (1,250,001 shares) and Navin (3,499,999 shares). This was evidenced by the following documents all of which bore Ram’s signature:
 
-(a)     The notice dated 14 September 2006 for the EGM to be held on 30 September 2006 to approve “the allotment of shares for otherwise than for cash of the Company”.[^146] Ram’s expert concluded that there was strong support, and Navin’s expert concluded that it was highly likely, that the signature was Ram’s.[^147]
+> (a)     The notice dated 14 September 2006 for the EGM to be held on 30 September 2006 to approve “the allotment of shares for otherwise than for cash of the Company”.[^146] Ram’s expert concluded that there was strong support, and Navin’s expert concluded that it was highly likely, that the signature was Ram’s.[^147]
 
-(b)     The minutes of the EGM held on 30 September 2006, approving the conversion of Ram’s loan into shares and the allotment of 6m shares to Ram (1,250,000 shares), Mrs Ram (1,250,001 shares) and Navin (3,499,999 shares).[^148] Ram’s expert concluded that there was strong support, and Navin’s expert concluded that it was highly likely, that the signature was Ram’s.[^149]
+> (b)     The minutes of the EGM held on 30 September 2006, approving the conversion of Ram’s loan into shares and the allotment of 6m shares to Ram (1,250,000 shares), Mrs Ram (1,250,001 shares) and Navin (3,499,999 shares).[^148] Ram’s expert concluded that there was strong support, and Navin’s expert concluded that it was highly likely, that the signature was Ram’s.[^149]
 
-(c)     Ram’s request dated 30 September 2006 to convert his loan into shares and to allot the shares to himself (1,250,000 shares), Mrs Ram (1,250,001 shares) and Navin (3,499,999 shares).[^150] Ram’s expert concluded that it was inconclusive whether the signature was Ram’s whilst Navin’s expert concluded that there were indications that it was Ram’s.
+> (c)     Ram’s request dated 30 September 2006 to convert his loan into shares and to allot the shares to himself (1,250,000 shares), Mrs Ram (1,250,001 shares) and Navin (3,499,999 shares).[^150] Ram’s expert concluded that it was inconclusive whether the signature was Ram’s whilst Navin’s expert concluded that there were indications that it was Ram’s.
 
 140    Based on the evidence, I concluded that Ram did sign the above documents, and knew and consented to the conversion of his loan into shares and the allotment of 6m shares to himself (1,250,000 shares), Mrs Ram (1,250,001 shares) and Navin (3,499,999 shares).
 
@@ -594,21 +594,21 @@ An additional provision relating to Ram’s and Mrs Ram’s right to stay at the
 
 142    In December 2006, Ram sold his two units at High Street Plaza (HS Units #10-04 and #10-05) to Evergreen for S$520,000 each. The proceeds of sale amounting to S$1,040,000 were used to pay for the 1,040,000 shares. The sale and the use of the sale proceeds were evidenced by the following documents, all of which bore Ram’s signature:
 
-(a)     An undated letter from Ram to Moti instructing Moti to act for him in the sale of the two properties to Evergreen.[^154] Ram’s expert concluded that there was very strong support that the signature was not Ram’s, whilst Navin’s expert concluded that there were indications that it was Ram’s.[^155]
+> (a)     An undated letter from Ram to Moti instructing Moti to act for him in the sale of the two properties to Evergreen.[^154] Ram’s expert concluded that there was very strong support that the signature was not Ram’s, whilst Navin’s expert concluded that there were indications that it was Ram’s.[^155]
 
-(b)     The sale and purchase agreements, both dated 13 December 2006, for the sale of the two properties to Evergreen.[^156] Ram’s expert concluded that there was very strong support that the signature was not Ram’s, whilst Navin’s expert concluded that there were indications that it was Ram’s.[^157]
+> (b)     The sale and purchase agreements, both dated 13 December 2006, for the sale of the two properties to Evergreen.[^156] Ram’s expert concluded that there was very strong support that the signature was not Ram’s, whilst Navin’s expert concluded that there were indications that it was Ram’s.[^157]
 
-(c)     The transfer forms for the transfer of the two properties to Evergreen, in which Ram’s signatures were witnessed by an advocate in Nepal.[^158] Ram’s expert concluded that there was very strong support that the signature was not Ram’s, whilst Navin’s expert concluded that there were indications that it was Ram’s. As it turned out, these transfer forms were not used.
+> (c)     The transfer forms for the transfer of the two properties to Evergreen, in which Ram’s signatures were witnessed by an advocate in Nepal.[^158] Ram’s expert concluded that there was very strong support that the signature was not Ram’s, whilst Navin’s expert concluded that there were indications that it was Ram’s. As it turned out, these transfer forms were not used.
 
-(d)     The transfer forms for the transfer of the two properties to Evergreen, in which Ram’s signatures were witnessed by Moti.[^159] Ram’s expert concluded that there was very strong support that the signatures were not Ram’s, whilst Navin’s expert concluded that either it was likely or there were indications that the signatures were Ram’s.[^160] Further, Ram’s expert concluded that there was very strong support that Moti’s signatures on these documents were not Moti’s, while Navin’s expert concluded that either it was likely or there were indications that those signatures were Moti’s.[^161]
+> (d)     The transfer forms for the transfer of the two properties to Evergreen, in which Ram’s signatures were witnessed by Moti.[^159] Ram’s expert concluded that there was very strong support that the signatures were not Ram’s, whilst Navin’s expert concluded that either it was likely or there were indications that the signatures were Ram’s.[^160] Further, Ram’s expert concluded that there was very strong support that Moti’s signatures on these documents were not Moti’s, while Navin’s expert concluded that either it was likely or there were indications that those signatures were Moti’s.[^161]
 
-(e)     A cheque dated 30 May 2007 for S$1,040,000 issued by Ram in favour of Evergreen.[^162] Ram’s expert concluded that there was strong support that the signature on the cheque was not Ram’s, whilst Navin’s expert concluded that there were indications that the signature was Ram’s.[^163]
+> (e)     A cheque dated 30 May 2007 for S$1,040,000 issued by Ram in favour of Evergreen.[^162] Ram’s expert concluded that there was strong support that the signature on the cheque was not Ram’s, whilst Navin’s expert concluded that there were indications that the signature was Ram’s.[^163]
 
 143    Ram’s expert opined that
 
-(a)     Ram’s questioned signatures were composites, _ie_ the signatures were created using some form of tracing process where different letters or combination of letters from two or more genuine signatures were used to create the composite signatures.[^164]
+> (a)     Ram’s questioned signatures were composites, _ie_ the signatures were created using some form of tracing process where different letters or combination of letters from two or more genuine signatures were used to create the composite signatures.[^164]
 
-(b)     Moti’s questioned signatures were composites as there was a high level of co-incidence between the signatures.[^165]
+> (b)     Moti’s questioned signatures were composites as there was a high level of co-incidence between the signatures.[^165]
 
 144    In my view, Navin’s expert’s conclusions were more persuasive. First, she showed, using enlargements, that the questioned signatures were not as similar to the specimen signatures as Ram’s expert claimed. Second, Ram’s expert’s conclusion that Ram’s questioned signatures were composites was based on comparisons of only the first parts of the questioned signatures.[^166] There was no evidence that the subsequent parts of the signatures showed any similarities. It did not seem logical that a forger would trace one part of the signature and then finish the rest of the signature by his own hand, _ie_, without tracing. Third, Navin’s expert showed that Moti’s specimen signatures that were signed on the same day were consistent.[^167]
 
@@ -664,9 +664,9 @@ An additional provision relating to Ram’s and Mrs Ram’s right to stay at the
 
 164    The reasons for Ram’s removal from the Board were that Ram:[^188]
 
-(a)     failed/refused to (i) attend the last 11 Board meetings, (ii) participate in the company’s business since October 2015, and (iii) attend at the company’s business premises since October 2015;
+> (a)     failed/refused to (i) attend the last 11 Board meetings, (ii) participate in the company’s business since October 2015, and (iii) attend at the company’s business premises since October 2015;
 
-(b)     acted against the company’s interest, including abusing senior management employees, behaving in a manner unbecoming of a director, and allowing a third party to use or access the company’s property without the company’s knowledge or consent.
+> (b)     acted against the company’s interest, including abusing senior management employees, behaving in a manner unbecoming of a director, and allowing a third party to use or access the company’s property without the company’s knowledge or consent.
 
 165    Navin relied on notices dated between July 2015 and June 2016 for Board meetings held between August 2015 and June 2016.[^189] The notices were sent to Ram at the Poole Road property, by registered post. Ram did not attend these meetings because, according to him, he did not receive the notices.
 
@@ -684,33 +684,33 @@ An additional provision relating to Ram’s and Mrs Ram’s right to stay at the
 
 171    Ram alleged that[^195]
 
-(a)     since 1995, he had been prohibited from going to the office, speaking to the staff and participating in the management of the company;
+> (a)     since 1995, he had been prohibited from going to the office, speaking to the staff and participating in the management of the company;
 
-(b)     Navin and/or Mrs Navin refused/failed to give him notices of general meetings and Board meetings;
+> (b)     Navin and/or Mrs Navin refused/failed to give him notices of general meetings and Board meetings;
 
-(c)     he was denied access to the letterbox at the Poole Road property.
+> (c)     he was denied access to the letterbox at the Poole Road property.
 
 172    I rejected Ram’s allegation that he had been prohibited from going to the office, speaking to the staff or participating in the management of the company since 1995. As stated earlier, Ram was the majority shareholder in Evergreen up until September 2006. Navin could not have done what Ram claimed; Ram could have removed Navin as director. As for the period after 2006, in my view, Ram had not proved his claim either.
 
 173    As for notices of meetings, the evidence showed that Ram chaired at least the following general and Board meetings:
 
-(a)     EGMs held on 5 March 1996,[^196] 25 October 2002,[^197] 30 September 2006, 13 July 2007 and 25 August 2008.
+> (a)     EGMs held on 5 March 1996,[^196] 25 October 2002,[^197] 30 September 2006, 13 July 2007 and 25 August 2008.
 
-(i)       With respect to the minutes of the EGM on 5 March 1996 and 25 October 2002, Ram’s expert concluded that there was strong support that Ram signed both sets of minutes, whilst Navin’s expert concluded that it was highly likely that Ram signed the minutes for 5 March 1996 and there were indications that Ram signed the minutes for 25 October 2002.[^198] I was satisfied that Ram did sign those minutes.
+>> (i)       With respect to the minutes of the EGM on 5 March 1996 and 25 October 2002, Ram’s expert concluded that there was strong support that Ram signed both sets of minutes, whilst Navin’s expert concluded that it was highly likely that Ram signed the minutes for 5 March 1996 and there were indications that Ram signed the minutes for 25 October 2002.[^198] I was satisfied that Ram did sign those minutes.
 
-(ii)       As for the minutes of the remaining three EGMs, I have already found that they were signed by Ram (see \[140\], \[147\] above) or initialled by Navin on his behalf (see \[150\] above).
+>> (ii)       As for the minutes of the remaining three EGMs, I have already found that they were signed by Ram (see \[140\], \[147\] above) or initialled by Navin on his behalf (see \[150\] above).
 
-(b)     AGMs held on 18 September 2003,[^199] 22 April 2010,[^200] 8 April 2011[^201] and 22 March 2012.[^202]
+> (b)     AGMs held on 18 September 2003,[^199] 22 April 2010,[^200] 8 April 2011[^201] and 22 March 2012.[^202]
 
-(i)       With respect to the minutes for the AGM on 18 September 2003, Ram’s expert revised his view and concluded that there was strong support that Ram signed the minutes, whilst Navin’s expert concluded that there were indications that Ram signed the minutes.[^203] I was satisfied that Ram did sign the minutes.
+>> (i)       With respect to the minutes for the AGM on 18 September 2003, Ram’s expert revised his view and concluded that there was strong support that Ram signed the minutes, whilst Navin’s expert concluded that there were indications that Ram signed the minutes.[^203] I was satisfied that Ram did sign the minutes.
 
-(ii)       As for the remaining three sets of minutes, I was not prepared to accept Ram’s bare assertion that he did not sign those minutes. This was especially so given his conduct in simply denying his signatures to just about every document that was adverse to him despite his own expert having concluded (in some cases, in strong terms) that the signatures were his. In any event, the burden was on Ram to prove that the signatures on the minutes were not his and he clearly did not discharge this burden.
+>> (ii)       As for the remaining three sets of minutes, I was not prepared to accept Ram’s bare assertion that he did not sign those minutes. This was especially so given his conduct in simply denying his signatures to just about every document that was adverse to him despite his own expert having concluded (in some cases, in strong terms) that the signatures were his. In any event, the burden was on Ram to prove that the signatures on the minutes were not his and he clearly did not discharge this burden.
 
-(c)     Board meetings held on 15 September 1997[^204] and 31 October 2002.[^205]
+> (c)     Board meetings held on 15 September 1997[^204] and 31 October 2002.[^205]
 
-(i)       The Board meeting on 15 September 1997 resolved to open a bank account in Mumbai. I saw no reason to doubt that Ram did sign the minutes of the meeting.
+>> (i)       The Board meeting on 15 September 1997 resolved to open a bank account in Mumbai. I saw no reason to doubt that Ram did sign the minutes of the meeting.
 
-(ii)       As for the minutes of the Board meeting on 31 October 2002, Ram’s expert was of the view that it was inconclusive whether Ram signed the minutes, whilst Navin’s expert concluded that there were indications that Ram did.[^206] I was satisfied that Ram did sign the minutes.
+>> (ii)       As for the minutes of the Board meeting on 31 October 2002, Ram’s expert was of the view that it was inconclusive whether Ram signed the minutes, whilst Navin’s expert concluded that there were indications that Ram did.[^206] I was satisfied that Ram did sign the minutes.
 
 174    I also found it unbelievable that Ram would not have exercised his majority voting power to remove Navin as a director, if indeed he had not received any notice of meetings for so many years.
 
@@ -734,21 +734,21 @@ An additional provision relating to Ram’s and Mrs Ram’s right to stay at the
 
 181    Section 216 of the Companies Act (Cap 50, 2006 Rev Ed) states as follows:
 
-**Personal remedies in cases of oppression or injustice**
+> **Personal remedies in cases of oppression or injustice**
 
-**216.**––(1)    Any member or holder of a debenture of a company… may apply to the Court for an order under this section on the ground ––
+> **216.**––(1)    Any member or holder of a debenture of a company… may apply to the Court for an order under this section on the ground ––
 
-(_a_)    that the affairs of the company are being conducted or the powers of the directors are being exercised in a manner oppressive to one or more of the members or holders of debentures including himself or in disregard of his or their interests as members, shareholders or holders of debentures of the company …
+>> (_a_)    that the affairs of the company are being conducted or the powers of the directors are being exercised in a manner oppressive to one or more of the members or holders of debentures including himself or in disregard of his or their interests as members, shareholders or holders of debentures of the company …
 
 182    The touchstone for minority oppression is whether the conduct being complained of is commercially unfair: _Over & Over Ltd v Bonvests Holdings Ltd_ <span class="citation">\[2010\] 2 SLR 776</span> (“_Over & Over_”) (at \[81\]).
 
 183    I found that:
 
-(a)     Ram was wrongfully excluded from Board meetings held between August 2015 and June 2016 and the EGM held on 5 August 2016;
+> (a)     Ram was wrongfully excluded from Board meetings held between August 2015 and June 2016 and the EGM held on 5 August 2016;
 
-(b)     Ram was wrongfully removed as director in August 2016, in breach of the MOU; and
+> (b)     Ram was wrongfully removed as director in August 2016, in breach of the MOU; and
 
-(c)     Navin failed to notify Ram of Mrs Ram’s transfer notice despite knowing that Ram would not receive the notice that was sent to the Poole Road property.
+> (c)     Navin failed to notify Ram of Mrs Ram’s transfer notice despite knowing that Ram would not receive the notice that was sent to the Poole Road property.
 
 184    In my judgment, the above were sufficient to establish the grounds under s 216 of the Companies Act. First, as a shareholder, Ram was entitled to expect that Navin and/or Mrs Navin would (a) properly notify all directors of any directors’ meetings, and (b) properly notify shareholders of any general meetings. Second, under the MOU, Ram had an expectation not to be removed as a director of Evergreen without justification. Third, as a shareholder, Ram was entitled to expect that Navin would take steps to notify Ram of Mrs Ram’s transfer notice since he knew for a fact that Ram would not receive the notice sent by Evergreen.
 
@@ -758,15 +758,15 @@ An additional provision relating to Ram’s and Mrs Ram’s right to stay at the
 
 186    The background has been set out earlier (see \[21\] and \[25\] above). The total amount invested in bonds was US$3,017,340.10 comprising the following fund transfers:[^214]
 
-(a)     US$991,000 from Ram’s UBS account;
+> (a)     US$991,000 from Ram’s UBS account;
 
-(b)     US$1.04m from Ram’s account with Citibank NA (“Citi”);
+> (b)     US$1.04m from Ram’s account with Citibank NA (“Citi”);
 
-(c)     US$120,240 from Ram’s account with Citi;
+> (c)     US$120,240 from Ram’s account with Citi;
 
-(d)     US$847,396.14 from Mrs Navin’s accounts with State Bank of India (“SBI”); and
+> (d)     US$847,396.14 from Mrs Navin’s accounts with State Bank of India (“SBI”); and
 
-(e)     US$18,703.96 from Navin’s account with UBS.
+> (e)     US$18,703.96 from Navin’s account with UBS.
 
 187    The source of funds for two of the above transfers were in dispute. First, Navin claimed that of the US$1.04m transferred from Ram’s Citi account, only US$200,000 belonged to Ram and the balance US$840,000 belonged to him. Second, Ram claimed that of the US$847,396.14 transferred from Mrs Navin’s accounts with SBI, US$550,760.52 belonged to him.
 
@@ -774,21 +774,21 @@ An additional provision relating to Ram’s and Mrs Ram’s right to stay at the
 
 188    The amount of US$1.04m was transferred from Ram’s Citi account to Navin/Mrs Navin’s joint account with UBS.[^215] Navin claimed that
 
-(a)     the amount of US$1.04m comprised the remittances received between 5 October 2010 and 10 November 2010 from one Rajesh Jatia (“Rajesh”) amounting to US$1,044,816.64, after deducting bank charges (“the Rajesh Remittances”);[^216] and
+> (a)     the amount of US$1.04m comprised the remittances received between 5 October 2010 and 10 November 2010 from one Rajesh Jatia (“Rajesh”) amounting to US$1,044,816.64, after deducting bank charges (“the Rajesh Remittances”);[^216] and
 
-(b)     of the Rajesh Remittances (and consequently the US$1.04m transferred from Ram’s Citi account), only US$200,000 belonged to Ram and the balance of about US$840,000 belonged to him.[^217]
+> (b)     of the Rajesh Remittances (and consequently the US$1.04m transferred from Ram’s Citi account), only US$200,000 belonged to Ram and the balance of about US$840,000 belonged to him.[^217]
 
 189    Navin relied on a series of emails exchanged with Rajesh (“the Rajesh Emails”)[^218] which showed that, between 5 October 2010 and 10 November 2010, Rajesh made the following remittances which added up to the total amount of US$1,044,816.64:
 
-(a)     US$94,980;[^219]
+> (a)     US$94,980;[^219]
 
-(b)     US$149,960.64;[^220]
+> (b)     US$149,960.64;[^220]
 
-(c)     US$129, 980 and US$119,980;[^221]
+> (c)     US$129, 980 and US$119,980;[^221]
 
-(d)     US$199,980;[^222]
+> (d)     US$199,980;[^222]
 
-(e)     US$149,980 and US$199,956;[^223]
+> (e)     US$149,980 and US$199,956;[^223]
 
 190    Navin submitted that the similarity in amounts and the proximity of dates (the transfer of US$1.04m from Ram’s Citi account was made on 18 November 2010)[^224] showed that the US$1.04m transferred from Ram’s Citi account came from the Rajesh Remittances. I rejected Navin’s submission.
 
@@ -796,11 +796,11 @@ An additional provision relating to Ram’s and Mrs Ram’s right to stay at the
 
 192    Second, the Rajesh Remittances included a sum of US$150,000 which belonged to Rajesh. In an email dated 4 November 2010 (“the 4 November Email”), Rajesh wrote:[^226]
 
-inform Tauji arrnegd 200k and 150k @ 74.05 net
+> inform Tauji arrnegd 200k and 150k @ 74.05 net
 
-200k is thapa account
+> 200k is thapa account
 
-150k is my account
+> 150k is my account
 
 Navin explained that “thapa account” referred to Ram’s account.
 
@@ -830,27 +830,27 @@ Navin explained that “thapa account” referred to Ram’s account.
 
 201    It was clear that Mrs Ram did not sign the SPA under any economic duress or undue influence and that she had not successfully invoked the doctrine of unconscionability. After all, Mrs Ram’s own evidence was that[^236]
 
-(a)     she had a quarrel with Ram in November 2014 because he wanted to close Evergreen due to his disagreements with Navin, after which she left Ram;
+> (a)     she had a quarrel with Ram in November 2014 because he wanted to close Evergreen due to his disagreements with Navin, after which she left Ram;
 
-(b)     one reason she did not want Ram to close Evergreen was that it could cause Navin to lose his livelihood; and
+> (b)     one reason she did not want Ram to close Evergreen was that it could cause Navin to lose his livelihood; and
 
-(c)     she signed the SPA and the POA so that Navin could exercise the voting rights to her shares and prevent the closure of Evergreen.
+> (c)     she signed the SPA and the POA so that Navin could exercise the voting rights to her shares and prevent the closure of Evergreen.
 
 202    As for misrepresentation, Mrs Ram claimed that Navin misrepresented to her that:[^237]
 
-(a)     the power of attorney for him to exercise the voting rights to her shares had to be structured as a sale and purchase agreement;
+> (a)     the power of attorney for him to exercise the voting rights to her shares had to be structured as a sale and purchase agreement;
 
-(b)     Mrs Ram would remain the legal owner of the shares for the rest of her life without exception;
+> (b)     Mrs Ram would remain the legal owner of the shares for the rest of her life without exception;
 
-(c)     Navin required the POA so that he could secure her proxy for meetings of Evergreen;
+> (c)     Navin required the POA so that he could secure her proxy for meetings of Evergreen;
 
-(d)     Navin would resume payment of Mrs Ram’s share of the Annual Allowance after she signed the SPA.
+> (d)     Navin would resume payment of Mrs Ram’s share of the Annual Allowance after she signed the SPA.
 
 203    I dismissed Mrs Ram’s misrepresentation claim. The structure of the SPA suggested that the intent was to let Navin exercise the voting power on his mother’s shares. However, the payment of US$1.962m to Mrs Ram was more consistent with it being a sale than a mere power of attorney to vote. Mrs Ram’s pleaded case was that the payment was a transfer of half of the sale proceeds of the Bonds.[^238] However, Mrs Ram’s oral testimony clearly contradicted this. On the stand, Mrs Ram testified that[^239]
 
-(a)     she did not know that it was half of the money invested in the Bonds; and
+> (a)     she did not know that it was half of the money invested in the Bonds; and
 
-(b)     the US$1.962m that was paid to her was “for her security” because she had left Ram and did not have any money.
+> (b)     the US$1.962m that was paid to her was “for her security” because she had left Ram and did not have any money.
 
 204    I did not accept Mrs Ram’s claim that Navin gave her US$1.962m for her “security”. As Mrs Ram admitted, Navin had never given her such big sums of money in the past.[^240] Further, as dealt with earlier (at \[58\] above), the amount of US$1.962m was not used to meet any living expenses. It could not therefore have been for her “security” as Mrs Ram claimed. Mrs Ram’s oral testimony also showed that she understood that she was transferring her shares to Navin.[^241] In my view, the US$1.962m was the purchase price of her share, as stated in cl 2.1 of the SPA. In my judgment, Mrs Ram knew she was selling her shares to Navin for US$1.962m.
 
@@ -870,11 +870,11 @@ Navin explained that “thapa account” referred to Ram’s account.
 
 210    Navin counterclaimed for the return of:
 
-(a)     the US$2m settlement sum paid to Ram under the 2015 Deed;
+> (a)     the US$2m settlement sum paid to Ram under the 2015 Deed;
 
-(b)     the 10% shares in EG Global transferred to Ram; and
+> (b)     the 10% shares in EG Global transferred to Ram; and
 
-(c)     the 7,300 shares in Janson Engineering transferred to Mrs Ram.
+> (c)     the 7,300 shares in Janson Engineering transferred to Mrs Ram.
 
 211    I had set aside the 2015 Deed and the September Agreement, and ordered Ram to return the sum of US$2m to Navin. As for the shares in EG Global, Navin’s own evidence was that he transferred those shares to Ram as “as gesture of goodwill”.[^247] There was therefore no basis for his counterclaim for the return of the shares in EG Global.
 
@@ -890,33 +890,33 @@ Navin explained that “thapa account” referred to Ram’s account.
 
 215    With respect to Suit 911:
 
-(a)     The 2015 Deed and the September Agreement were set aside due to Navin’s failure to disclose a material fact. Ram was ordered to return the sum of US$2m to Navin, subject to a set off against amounts that Navin had been ordered to pay Ram.
+> (a)     The 2015 Deed and the September Agreement were set aside due to Navin’s failure to disclose a material fact. Ram was ordered to return the sum of US$2m to Navin, subject to a set off against amounts that Navin had been ordered to pay Ram.
 
-(b)     The MOU was found to be legally binding and under the MOU,
+> (b)     The MOU was found to be legally binding and under the MOU,
 
-(i)       Navin was ordered to pay Ram and Mrs Ram S$720,000 each, being arrears of the Annual Allowance for the years from 2014 to 2017;
+>> (i)       Navin was ordered to pay Ram and Mrs Ram S$720,000 each, being arrears of the Annual Allowance for the years from 2014 to 2017;
 
-(ii)       Navin was ordered to continue to pay Ram and Mrs Ram the Annual Allowance of S$360,000 a year (_ie_, S$180,000 each) in three equal instalments, on the first of October, February and June of each year;
+>> (ii)       Navin was ordered to continue to pay Ram and Mrs Ram the Annual Allowance of S$360,000 a year (_ie_, S$180,000 each) in three equal instalments, on the first of October, February and June of each year;
 
-(iii)       Navin was ordered to pay Mrs Ram to the extent of US$1m upon receipt of notice in writing that Mrs Ram desires to acquire a residential property; and
+>> (iii)       Navin was ordered to pay Mrs Ram to the extent of US$1m upon receipt of notice in writing that Mrs Ram desires to acquire a residential property; and
 
-(iv)       Ram and Mrs Ram had a contractual licence to stay at the Poole Road property with full comforts for the rest of their lives subject to Implied Term (_ie_, that they did not misbehave in such a way as would make it unreasonable for them to insist on staying at the property).
+>> (iv)       Ram and Mrs Ram had a contractual licence to stay at the Poole Road property with full comforts for the rest of their lives subject to Implied Term (_ie_, that they did not misbehave in such a way as would make it unreasonable for them to insist on staying at the property).
 
-(c)     Ram was found to have breached the Implied Term and Navin was entitled to revoke Ram’s licence to stay at the Poole Road property. Mrs Ram had not breached the Implied Term but it was her own decision not to continue staying at the Poole Road property.
+> (c)     Ram was found to have breached the Implied Term and Navin was entitled to revoke Ram’s licence to stay at the Poole Road property. Mrs Ram had not breached the Implied Term but it was her own decision not to continue staying at the Poole Road property.
 
-(d)     Ram had established his case under s 216 of the Companies Act and Navin and Mrs Navin were ordered to buy out Ram’s shares in Evergreen at fair value, with no discount.
+> (d)     Ram had established his case under s 216 of the Companies Act and Navin and Mrs Navin were ordered to buy out Ram’s shares in Evergreen at fair value, with no discount.
 
-(e)     Navin was found to hold sum of US$3,442,378.29 being Ram’s share of the proceeds from the sale of the Bonds (plus accrued interest), on trust for Ram. Navin was ordered to pay this sum to Ram. Ram is entitled to trace this sum into any traceable product; alternatively, Ram is entitled to an equitable lien over any traceable product.
+> (e)     Navin was found to hold sum of US$3,442,378.29 being Ram’s share of the proceeds from the sale of the Bonds (plus accrued interest), on trust for Ram. Navin was ordered to pay this sum to Ram. Ram is entitled to trace this sum into any traceable product; alternatively, Ram is entitled to an equitable lien over any traceable product.
 
-(f)     All other prayers for relief were dismissed.
+> (f)     All other prayers for relief were dismissed.
 
 216    Navin’s claim in Suit 139 was dismissed.
 
 217    As for costs, I ordered Navin and Mrs Navin to pay
 
-(a)     Ram costs fixed at S$200,000. I allowed the disbursements as claimed save for the disbursements for Ram’s handwriting expert (which I disallowed) and the reimbursement of hearing fees (which I limited to 50 per cent);
+> (a)     Ram costs fixed at S$200,000. I allowed the disbursements as claimed save for the disbursements for Ram’s handwriting expert (which I disallowed) and the reimbursement of hearing fees (which I limited to 50 per cent);
 
-(b)     Mrs Ram costs fixed at S$150,000. I allowed the disbursements as claimed.
+> (b)     Mrs Ram costs fixed at S$150,000. I allowed the disbursements as claimed.
 
 * * *
 

@@ -37,19 +37,19 @@ Criminal Law – Statutory offences – Central Provident Fund Act
 
 11     The District Judge applied the approach adopted by the High Court in _Kureoka Enterprise Pte Ltd v Central Provident Fund Board_ <span class="citation">\[1992\] SGHC 113</span> (“_Kureoka_”). While the Prosecution had argued that the main focus of any test determining the existence of an employment relationship should be the degree or extent of control exercised and the manner of remuneration, the District Judge noted that the Court of Appeal had stated that control may not be the only, or decisive, factor in _BNM (administratrix of the estate of B, deceased) on her own behalf and on behalf of others v National University of Singapore and others and another appeal_ <span class="citation">\[2014\] 4 SLR 931</span> (“_BNM_”) (GD at \[24\] and \[27\]). The District Judge took into account the following factors (GD at \[29\]):
 
-(a)     the degree or extent of control exercised by the Club over Yusoff;
+> (a)     the degree or extent of control exercised by the Club over Yusoff;
 
-(b)     whether Yusoff was given any employment benefits;
+> (b)     whether Yusoff was given any employment benefits;
 
-(c)     whether the contractual terms allowed the Club to terminate the relationship without notice;
+> (c)     whether the contractual terms allowed the Club to terminate the relationship without notice;
 
-(d)     whether Yusoff was required to render the services personally;
+> (d)     whether Yusoff was required to render the services personally;
 
-(e)     whether Yusoff was required to supply or use his own gym equipment;
+> (e)     whether Yusoff was required to supply or use his own gym equipment;
 
-(f)     whether Yusoff took on any degree of financial risk or made any investment in the running of the gym for the opportunity to profit; and
+> (f)     whether Yusoff took on any degree of financial risk or made any investment in the running of the gym for the opportunity to profit; and
 
-(g)     whether the gym services were an integral part of JCC’s business or if they were an accessory to its main business.
+> (g)     whether the gym services were an integral part of JCC’s business or if they were an accessory to its main business.
 
 12     The District Judge assessed these factors in light of all the evidence adduced, including the various employment contracts between Yusoff and JCC. Particular attention was paid to the contracts dated 1 December 2003, 1 January 2007, 30 November 2010 and 1 December 2015 as they directly related to the four charges before the court (GD at \[30\]).
 
@@ -95,7 +95,7 @@ Criminal Law – Statutory offences – Central Provident Fund Act
 
 30     The Prosecution asserted that the structured approach has been consistently adopted by the English courts. It relied mainly on two cases in distilling this approach. First, in _Montgomery_, Buckley J held that it was desirable for a clear framework or principle to be identified and kept in mind (at \[23\]). The following passage from MacKenna J’s judgment in _Ready Mixed Concrete_ at 515 was said to be “the best guide and as containing the irreducible minimum by way of legal requirement for a contract of employment to exist” (at \[18\] and \[23\]):
 
-… A contract of service exists if these three conditions are fulfilled. (i) The servant agrees that, in consideration of a wage or other remuneration, he will provide his own work and skill in the performance of some service for his master. (ii) He agrees, expressly or impliedly, that in the performance of that service he will be subject to the other’s control in a sufficient degree to make that other master. (iii) The other provisions of the contract are consistent with its being a contract of service.
+> … A contract of service exists if these three conditions are fulfilled. (i) The servant agrees that, in consideration of a wage or other remuneration, he will provide his own work and skill in the performance of some service for his master. (ii) He agrees, expressly or impliedly, that in the performance of that service he will be subject to the other’s control in a sufficient degree to make that other master. (iii) The other provisions of the contract are consistent with its being a contract of service.
 
 31     The Prosecution also relied on _Market Investigations Ltd v Minister of Social Security_ <span class="citation">\[1969\] 2 QB 173</span> (“_Market Investigations_”) at 183 and 185. According to the Prosecution, Cooke J, in _Market Investigations_, essentially adopted MacKenna J’s approach.
 
@@ -123,11 +123,11 @@ Criminal Law – Statutory offences – Central Provident Fund Act
 
 41     The main issues which were addressed at the hearing of this appeal substantially mirrored the conceptual questions posed to the YAC. These were as follows:
 
-(a)     whether Yusoff was an employee for the purposes of the CPFA at the material times;
+> (a)     whether Yusoff was an employee for the purposes of the CPFA at the material times;
 
-(b)     what the _mens rea_ requirement for the s 58(_b_) CPFA offence is; and
+> (b)     what the _mens rea_ requirement for the s 58(_b_) CPFA offence is; and
 
-(c)     whether a s 61B(1) CPFA order can be made in respect of periods not covered by the charges preferred, and whether the District Judge should have made this order.
+> (c)     whether a s 61B(1) CPFA order can be made in respect of periods not covered by the charges preferred, and whether the District Judge should have made this order.
 
 42     Given my conclusion that Yusoff was not an employee of JCC, there is no need, strictly speaking, for me to address the second and third issues. Nevertheless, the parties and the YAC made comprehensive submissions on these issues, which are of considerable importance and have not hitherto been considered by the High Court. Thus, I take this opportunity to put forth my views in relation to these issues _obiter_ in this judgment.
 
@@ -139,7 +139,7 @@ Criminal Law – Statutory offences – Central Provident Fund Act
 
 44     Section 2(1)(_a_) CPFA defines an “employee” to mean any person who is employed in Singapore by an employer otherwise than as a master, seaman or an apprentice in any vessel. The word “employed” is then defined as:
 
-… engaged under a _contract of service_ or apprenticeship or in an employment in respect of which contributions are payable under regulations made under section 77 \[emphasis added\]
+> … engaged under a _contract of service_ or apprenticeship or in an employment in respect of which contributions are payable under regulations made under section 77 \[emphasis added\]
 
 45     As identified by the District Judge and the parties, the relevant question is therefore whether Yusoff was engaged under a contract of service.
 
@@ -147,7 +147,7 @@ Criminal Law – Statutory offences – Central Provident Fund Act
 
 47     It is clear and undisputed that the express intentions of parties are not conclusive. JCC rightly accepted that the court must consider whether such declarations reflected the reality of the arrangement. Where the parties have either inadvertently or deliberately used a label (_eg_, of an independent contractor) that does not match the reality of their working relationship, the court should not hesitate to depart from the express wording of the contract (_eg_, by finding that the worker was in fact an employee). In this regard, I note that the Prosecution cited the case of _Autoclenz Ltd v Belcher and others_ \[2011\] 4 All ER 745 (“_Autoclenz_”) for the propositions that where employment contracts are concerned, the relative bargaining powers of the parties must be taken into account in deciding whether the terms of any written agreement in truth represent what was agreed, and that the true agreement will often have to be gleaned from all the circumstances of the case (at \[35\]). Within the CPFA context, this would be consistent with the comments made by the Minister of State for Manpower in 2012, cited to me by the Prosecution (_Singapore Parliamentary Debates, Official Report_ (17 February 2012) vol 88 at p 1200 (Tan Chuan-Jin, Minister of State for Manpower)):
 
-… in instances where employers attempt to disguise their employees as “freelancers”, let me emphasise that they would not be absolved of their responsibilities under the law, including the Employment Act and the \[CPFA\]. …
+> … in instances where employers attempt to disguise their employees as “freelancers”, let me emphasise that they would not be absolved of their responsibilities under the law, including the Employment Act and the \[CPFA\]. …
 
 48     This is essential to ensure that the statutory entitlements of employees are not easily removed through the mere insertion of express terms in the contract that are at odds with the parties’ actual relationship.
 
@@ -269,15 +269,15 @@ Criminal Law – Statutory offences – Central Provident Fund Act
 
 97     Section 58(_b_) CPFA reads:
 
-**58**.    If any person —
+> **58**.    If any person —
 
-...
+>> ...
 
-(_b_)    fails to pay to the Fund within such period as may be prescribed any amount which he is liable under this Act to pay in respect of or on behalf of any employee in any month;
+>> (_b_)    fails to pay to the Fund within such period as may be prescribed any amount which he is liable under this Act to pay in respect of or on behalf of any employee in any month;
 
-…
+>> …
 
-he shall be guilty of an offence.
+> he shall be guilty of an offence.
 
 ## _The presumption of_ mens rea
 
@@ -309,13 +309,13 @@ he shall be guilty of an offence.
 
 110    One passage from Hansard relied on by the YAC was from the Parliamentary debates on the 2007 CPF (Amendment No. 2) Bill, where the Minister for Manpower Dr Ng Eng Hen said (_Singapore Parliamentary Debates, Official Report_ (12 November 2007) vol 83 at col 2612) (Ng Eng Hen, Minister for Manpower):
 
-Mdm Halimah also brought up a very important point – that the CPF is such an integral part of our structure that we ought to make sure that people make contributions … _But the way to do this also has to be customised._ There will be groups that we want to take a very hard line. And these are employers who systematically or basically cheat and do not pay their employees CPF. Even those who say that they are the contract workers, but if it is proved in practice that they are the employees, we will take action. So there will be a group that we will use the law and we will send a very strong signal and, from time to time, we will do that to make sure that the employers know that they are liable to pay their employees CPF.
+> Mdm Halimah also brought up a very important point – that the CPF is such an integral part of our structure that we ought to make sure that people make contributions … _But the way to do this also has to be customised._ There will be groups that we want to take a very hard line. And these are employers who systematically or basically cheat and do not pay their employees CPF. Even those who say that they are the contract workers, but if it is proved in practice that they are the employees, we will take action. So there will be a group that we will use the law and we will send a very strong signal and, from time to time, we will do that to make sure that the employers know that they are liable to pay their employees CPF.
 
-\[emphasis from the YAC’s submissions\]
+> \[emphasis from the YAC’s submissions\]
 
 111    The YAC argued that Dr Ng was drawing a distinction between employers who cheat their employees (where a “very hard line” is taken), and employers who say that their employees are in fact contract workers (where action is taken). With respect, having regard to the context of this paragraph, I do not think that Dr Ng’s remarks support the YAC’s submissions. Dr Ng in fact goes on to say that there is:
 
-… a group, on the other hand, which we do not want to use the stick but carrot, and this is where the Medisave Contributions Draw comes in. And this is where we need persuasion by unions to get these self-employed to put in money so they can benefit from Workfare.
+> … a group, on the other hand, which we do not want to use the stick but carrot, and this is where the Medisave Contributions Draw comes in. And this is where we need persuasion by unions to get these self-employed to put in money so they can benefit from Workfare.
 
 112    It thus appears that the true distinction being drawn is between employers who do not pay their employees CPF (where legal action will be taken), and self-employed people (where persuasion will be used). Dr Ng’s statement indicates that legal action will be taken against employers who mischaracterise their employees, even without a dishonest intention to cheat. At the very least, Dr Ng’s remarks are inconclusive as to whether there is a _mens rea_ requirement for the s 58(_b_) CPFA offence.
 
@@ -331,7 +331,7 @@ Mdm Halimah also brought up a very important point – that the CPF is such an i
 
 116    Section 61B(1) CPFA reads:
 
-**61B.**—(1)    The court before which any conviction under section 7(3) or 61 is had may in addition to the penalty prescribed in those sections order the person convicted to pay the amount of any contributions together with any interest due thereon certified by an officer appointed by the Board in that behalf to be due from that person at the date of the conviction.
+> **61B.**—(1)    The court before which any conviction under section 7(3) or 61 is had may in addition to the penalty prescribed in those sections order the person convicted to pay the amount of any contributions together with any interest due thereon certified by an officer appointed by the Board in that behalf to be due from that person at the date of the conviction.
 
 117    Section 58(_b_) is punishable under s 61 CPFA. The Prosecution sought an order for the payment of arrears in CPF contributions plus interest from December 2003 to the date of conviction, which amounted to $416,924. The primary question here was whether s 61B(1) allows the court to order the payment of _any_ contributions due to the CPF Board, including sums arising from periods not covered by the charges which have been preferred by the Prosecution. JCC argued that the proper construction of s 61B(1) CPFA does not permit an order for recovery of arrears to be made where these do not relate to the subject matter of the charges preferred. On the other hand, the Prosecution argued that a s 61B(1) order can be made in relation to all the arrears and interest thereon certified to be due from JCC at the time of conviction. The YAC agreed that the court may order the payment of arrears arising from periods not covered by the charges preferred by the Prosecution.
 
@@ -341,7 +341,7 @@ Mdm Halimah also brought up a very important point – that the CPF is such an i
 
 120    This interpretation appears to be in line with Parliamentary intent, as indicated by the Parliamentary debates. As the District Judge noted at \[89\] of the GD, the Minister for Manpower had said that (_Singapore Parliamentary Debates, Official Report_ (22 November 2000) vol 72 at col 1224 (Lee Boon Yang, Minister for Manpower)):
 
-… Clause 18 \[providing for the earlier version of s 61B\] will allow the court to order the recovery of CPF arrears … in the same manner as a judgement in civil proceedings. This will enable the CPF Board to help members to recover the arrears more expeditiously …
+> … Clause 18 \[providing for the earlier version of s 61B\] will allow the court to order the recovery of CPF arrears … in the same manner as a judgement in civil proceedings. This will enable the CPF Board to help members to recover the arrears more expeditiously …
 
 121    Interpreting s 61B(1) CPFA to cover all due contributions would be in line with the legislative intent to enable the CPF Board to recover the contributions due and payable in a more expeditious manner. In contrast, interpreting s 61B(1) CPFA to mean that the court can only make an order pertaining to periods covered by the charges preferred would not be in line with legislative intent. Where the charge preferred does not concern CPF arrears arising as a result of the offence, the CPF Board would still have to commence civil proceedings separately. Further proceedings would also be necessary to recover arrears which have accrued since the time the charges were preferred. This would not promote the expeditious recovery of contributions suggested by the Parliamentary debates.
 

@@ -19,15 +19,15 @@ Family Law – Matrimonial assets – Division
 
 3       The main ancillary orders made by the Judge which the Appellant appealed against relate to the order on division of matrimonial assets and the order on maintenance of the Appellant. The Judge’s orders on these matters may be summarised as follows:
 
-(a)     Division of matrimonial assets: the matrimonial assets valued at $9,317,449 are to be divided in the proportion of 42% to the Appellant and 58% to the Respondent.
+> (a)     Division of matrimonial assets: the matrimonial assets valued at $9,317,449 are to be divided in the proportion of 42% to the Appellant and 58% to the Respondent.
 
-(b)     Maintenance for Appellant: there be no order for maintenance for the Appellant.
+> (b)     Maintenance for Appellant: there be no order for maintenance for the Appellant.
 
 4       The Appellant claimed that the matrimonial assets should have been divided in the ratio 80:20 in her favour. She claimed that she was responsible for 95% of the indirect contributions. In addition, she submitted that a greater proportion of the direct contributions should have been attributed to her, based on the following principal submissions:
 
-(a)     The Respondent’s monthly deposits of $8,300 from 2002 to 2012 into the parties’ DBS joint account should be attributed to the Appellant because there was an agreement between the parties that the money was for the Appellant’s sole use, as it constituted a reimbursement to her (“the agreement”).
+> (a)     The Respondent’s monthly deposits of $8,300 from 2002 to 2012 into the parties’ DBS joint account should be attributed to the Appellant because there was an agreement between the parties that the money was for the Appellant’s sole use, as it constituted a reimbursement to her (“the agreement”).
 
-(b)     A $1.25m lottery win, which was principally used to repay the mortgage loans for the matrimonial home, should be attributed to the Appellant because, contrary to the findings of the Judge, she was the one who had won the lottery. Alternatively, given the fortuitous nature of a lottery winning, the direct contributions to the matrimonial home from the lottery winnings should be attributed 50:50 between the parties and should not have been attributed entirely to the Respondent.
+> (b)     A $1.25m lottery win, which was principally used to repay the mortgage loans for the matrimonial home, should be attributed to the Appellant because, contrary to the findings of the Judge, she was the one who had won the lottery. Alternatively, given the fortuitous nature of a lottery winning, the direct contributions to the matrimonial home from the lottery winnings should be attributed 50:50 between the parties and should not have been attributed entirely to the Respondent.
 
 ## Our findings
 
@@ -39,19 +39,19 @@ Family Law – Matrimonial assets – Division
 
 7       Turning to the first sub-issue, the key question that needs to be answered, in our view, is whether lottery winnings constitute a “matrimonial asset” within the definition of the same contained in s 112(10) of the Act (“s 112(10)”), which reads as follows:
 
-(10)  In this section, “matrimonial asset” means —
+> (10)  In this section, “matrimonial asset” means —
 
-(_a_)    any asset acquired before the marriage by one party or both parties to the marriage —
+>> (_a_)    any asset acquired before the marriage by one party or both parties to the marriage —
 
-(i)    ordinarily used or enjoyed by both parties or one or more of their children while the parties are residing together for shelter or transportation or for household, education, recreational, social or aesthetic purposes; or
+>>> (i)    ordinarily used or enjoyed by both parties or one or more of their children while the parties are residing together for shelter or transportation or for household, education, recreational, social or aesthetic purposes; or
 
-(ii)   which has been substantially improved during the marriage by the other party or by both parties to the marriage; and
+>>> (ii)   which has been substantially improved during the marriage by the other party or by both parties to the marriage; and
 
-(_b_)    any other asset of any nature acquired _during_ the marriage by one party or both parties to the marriage,
+>> (_b_)    any other asset of any nature acquired _during_ the marriage by one party or both parties to the marriage,
 
-but does _not_ include any asset (not being a matrimonial home) that has been acquired by one party at any time by _gift_ **_or_** _inheritance_ and that has not been substantially improved during the marriage by the other party or by both parties to the marriage.
+> but does _not_ include any asset (not being a matrimonial home) that has been acquired by one party at any time by _gift_ **_or_** _inheritance_ and that has not been substantially improved during the marriage by the other party or by both parties to the marriage.
 
-\[emphasis added in italics and bold italics\]
+> \[emphasis added in italics and bold italics\]
 
 8       We note that the parties in this case did not consider this particular sub-issue and merely assumed that the lottery winnings (from a Singapore Pools 4-D bet) constituted a “matrimonial asset” that formed part of the pool of matrimonial assets to be divided between them. This is likely due to the fact that in this case, the lottery winnings were used to acquire the parties’ matrimonial home and would, _prima facie_, fall outside the exception under s 112(10) for a gift or an inheritance. As we shall see, even leaving aside the fact that in this case the lottery winnings were used to acquire the matrimonial home, the parties’ assumption was correct. However, we now take the opportunity to explain why, as a matter of _legal principle_, this assumption was indeed well-founded. This will also ensure that this particular issue – as a matter of law – is clarified for parties in future cases.
 
@@ -61,15 +61,15 @@ but does _not_ include any asset (not being a matrimonial home) that has been ac
 
 11     In addition to the plain (and we might add, commonsensical) reading of the material parts of s 112(10), there is also support in **_both_** the **_case law_** **_and_** **_legal literature_** for the view that lottery winnings constitute a “matrimonial asset” that therefore forms part of the pool of matrimonial assets to be divided. We would like to turn to the latter (_viz_, legal literature) first. Whilst this might appear unusual, we adopt this approach because at least one significant case relies on the relevant legal literature. We also note that the relevant legal literature is by the leading scholar on family law in Singapore, Prof Leong Wai Kum. In particular, we refer to the following paragraphs in the latest edition of her leading textbook on family law in Singapore (see Leong Wai Kum, _Elements of Family Law in Singapore_ (LexisNexis, 3rd Ed, 2018) (“_Leong_”) at paras 16.062−16.063, commenting on the Singapore High Court decision of _Ng Sylvia v Oon Choon Huat Peter and another_ <span class="citation">\[2002\] 1 SLR(R) 246</span> (“_Ng Sylvia_”), where it was held that a property purchased with lottery winnings could be included in the pool of matrimonial assets for division between the parties):
 
-\[16.062\]    … A property acquired as a windfall presents challenges to its inclusion as matrimonial asset. The Women’s Charter section 112(10) does exclude “any asset … that has been acquired by one party … by gift or inheritance” from “any … asset of any nature acquired … during the marriage” as matrimonial asset. It is possible to argue that a purposive reading of “gift or inheritance” would also exclude, by analogy, property acquired by other sorts of windfall including lottery winnings.
+> \[16.062\]    … A property acquired as a windfall presents challenges to its inclusion as matrimonial asset. The Women’s Charter section 112(10) does exclude “any asset … that has been acquired by one party … by gift or inheritance” from “any … asset of any nature acquired … during the marriage” as matrimonial asset. It is possible to argue that a purposive reading of “gift or inheritance” would also exclude, by analogy, property acquired by other sorts of windfall including lottery winnings.
 
-\[16.063\]    … The point that lottery winnings may be equated with “gift or inheritance” was not argued before the Judge. The author suggests that the decision is supportable. If one bears in mind that matrimonial assets are the material gains of the marital partnership it is not necessary to exclude the entire of property acquired by windfall. … If marriage is truly an equal co-operative partnership of different efforts for the spouses’ mutual benefit, why should they not share their good fortune?
+> \[16.063\]    … The point that lottery winnings may be equated with “gift or inheritance” was not argued before the Judge. The author suggests that the decision is supportable. If one bears in mind that matrimonial assets are the material gains of the marital partnership it is not necessary to exclude the entire of property acquired by windfall. … If marriage is truly an equal co-operative partnership of different efforts for the spouses’ mutual benefit, why should they not share their good fortune?
 
 12     We have dealt with the possible analogy of “gift” and “inheritance” in s 112(10) with lottery winnings by way of the concept of a windfall and do not think that it is an apt one (_cf_, _Leong_ at para 16.062, reproduced in the preceding paragraph). However, Prof Leong’s view with regard to the fact that lottery winnings may be viewed as being for the spouses’ mutual benefit is a persuasive one (see _Leong_ at para 16.063) and buttresses our interpretation of the express language of s 112(10) as set out above (at \[9\]). Indeed, this approach is consistent with Prof Leong’s concern (and, indeed, hope) that the ambiguities be resolved in favour of including rather than excluding properties that are acquired through windfalls (see _Leong_ at para 16.064).
 
 13     Indeed (and turning now to the relevant case law), the paragraphs we have quoted from Prof Leong’s work (above at \[11\]) were also quoted by Debbie Ong J in the Singapore High Court decision of _UMU v UMT and another appeal_ <span class="citation">\[2019\] 3 SLR 504</span> (“_UMU_”) at \[10\]. Indeed, Ong J also referred (at \[7\]) to this Court’s decision in _NK v NL_ <span class="citation">\[2007\] 3 SLR(R) 743</span> (at \[20\]) where it was observed, _inter alia_, that “\[t\]he division of matrimonial assets under the Act is founded on the prevailing ideology of marriage as an equal co-operative partnership of efforts”. The learned judge also proceeded to observe thus (at \[11\]):
 
-Thus lottery winnings already present challenges to their inclusion as MAs \[_ie_, matrimonial assets\] despite the possible connection between lottery winnings and the key characteristics of MAs (see \[8\] above). It could be argued that some utilisation of effort and matrimonial funds for the purchase of lottery tickets arise in the acquisition of lottery winnings. On the other hand, there is no element of effort in respect of damages received as compensation for the victim of a tort for his personal suffering. Lottery winnings could also be said to be part of the good fortune to be shared by both spouses in a marital partnership, while tortious damages are personal to the injured spouse.
+> Thus lottery winnings already present challenges to their inclusion as MAs \[_ie_, matrimonial assets\] despite the possible connection between lottery winnings and the key characteristics of MAs (see \[8\] above). It could be argued that some utilisation of effort and matrimonial funds for the purchase of lottery tickets arise in the acquisition of lottery winnings. On the other hand, there is no element of effort in respect of damages received as compensation for the victim of a tort for his personal suffering. Lottery winnings could also be said to be part of the good fortune to be shared by both spouses in a marital partnership, while tortious damages are personal to the injured spouse.
 
 14     We pause at this particular juncture to note that Ong J’s observations on lottery winnings in _UMU_ were _obiter dicta_ since, as is evident from the passage from her judgment cited in the preceding paragraph, what was directly in issue before her in that case was the legal status of damages received by one spouse as compensation for being the victim of a tort and for his personal suffering. Indeed, the learned judge was contrasting the nature of lottery winnings with that of the damages just referred to. Nevertheless, Ong J’s observations are also consistent with part of the reasoning of this court (at \[12\] above).
 
@@ -79,7 +79,7 @@ Thus lottery winnings already present challenges to their inclusion as MAs \[_ie
 
 17     However, we also note the English High Court decision of _S v AG (Financial Remedy: Lottery Prize)_ \[2011\] EWHC 2637 (Fam) (“_S v AG_”), where Mostyn J observed as follows (at \[15\]):
 
-In my judgment, Mance LJ \[in _Cowan v Cowan_ <span class="citation">\[2001\] 3 WLR 684</span>\] was right to warn against an uncritical acceptance of the Australian approach, which focuses on an analysis of contributions and where the concept of equal sharing is generally eschewed. As I have stated, the result is highly fact specific, and does not depend centrally on the origin of the trifling amount to purchase the ticket. If the parties are in effect operating a syndicate, whether formal or informal, where both are aware that tickets are being bought and where both have agreed tacitly or expressly to their purchase, then it is easy to see the prize as a joint venture and therefore as matrimonial property, normally to be equally shared. _On the other hand if one party is unilaterally buying tickets, from his or her own earned income, without the knowledge of the other party, then it is equally easy to see the prize as a receipt by that party alone akin to an external donation, and therefore as non-matrimonial property._ This case will be fortified if the party in question is buying the ticket as part of a syndicate with others, and more so if the marriage has become troubled and unhappy with the parties drifting into separate lives socially and economically (as I will find to be the case here). \[emphasis added\]
+> In my judgment, Mance LJ \[in _Cowan v Cowan_ <span class="citation">\[2001\] 3 WLR 684</span>\] was right to warn against an uncritical acceptance of the Australian approach, which focuses on an analysis of contributions and where the concept of equal sharing is generally eschewed. As I have stated, the result is highly fact specific, and does not depend centrally on the origin of the trifling amount to purchase the ticket. If the parties are in effect operating a syndicate, whether formal or informal, where both are aware that tickets are being bought and where both have agreed tacitly or expressly to their purchase, then it is easy to see the prize as a joint venture and therefore as matrimonial property, normally to be equally shared. _On the other hand if one party is unilaterally buying tickets, from his or her own earned income, without the knowledge of the other party, then it is equally easy to see the prize as a receipt by that party alone akin to an external donation, and therefore as non-matrimonial property._ This case will be fortified if the party in question is buying the ticket as part of a syndicate with others, and more so if the marriage has become troubled and unhappy with the parties drifting into separate lives socially and economically (as I will find to be the case here). \[emphasis added\]
 
 To the extent that _S v AG_ suggests a different approach to that adopted in this judgment, we would respectfully differ from it – not least because of the plain language of s 112(10) as well as the general reasoning that has been set out above.
 
@@ -105,7 +105,7 @@ To the extent that _S v AG_ suggests a different approach to that adopted in t
 
 27     Finally, the following observations by Choo Han Teck J in _LV_ (at \[8\]) might be usefully noted:
 
-Lottery prizes are just what they are – matters of luck. I do not think that any sensible formula can be made to apportion such assets, and accordingly, the prize-money must be shared equally after deducting the sum used to redeem some of the mortgage liabilities of the marriage.
+> Lottery prizes are just what they are – matters of luck. I do not think that any sensible formula can be made to apportion such assets, and accordingly, the prize-money must be shared equally after deducting the sum used to redeem some of the mortgage liabilities of the marriage.
 
 28     Whilst we would _not_ go so far as the learned judge in laying down a blanket rule that lottery winnings must _always_ be shared equally between the spouses, his focus on the luck or stroke of good fortune involved is consistent with our analysis above (at \[25\]).
 
@@ -113,13 +113,13 @@ Lottery prizes are just what they are – matters of luck. I do not think that a
 
 30     We pause to note, briefly, that the position in Australia on lottery winnings appears to be somewhat similar in that lottery winnings are usually treated as joint contributions, albeit through the application of a slightly different approach. In the Full Court of the Family Court of Australia decision of _In the Marriage of R M and D Zyk_ (1995) 19 Fam LR 797 (“_Zyk_”), it was held (at 807) that a lottery winning is not a “windfall” to be treated as a special class of assets but, rather, a “contribution” under s 79 of the Australia Family Law Act 1975 (Cth). In considering how lottery winnings should be attributed between the parties, the court was of the view (at 808) that which party purchased the ticket should not determine the issue. Rather,
 
-\[w\]here both parties are in receipt of income and where their marriage is predicated upon the basis of each contributing their income towards the joint partnership constituted by their marriage, the purchase of the ticket would be regarded as a purchase from joint funds in the same way as any other purchase within that context and would be treated accordingly …
+> \[w\]here both parties are in receipt of income and where their marriage is predicated upon the basis of each contributing their income towards the joint partnership constituted by their marriage, the purchase of the ticket would be regarded as a purchase from joint funds in the same way as any other purchase within that context and would be treated accordingly …
 
 31     Indeed, the court then proceeded to observe (at 808) that “\[w\]here one party is working and the other is not the _same_ conclusion would ordinarily apply because that is the mode of partnership selected by the parties” \[emphasis added\] and that “\[t\]he income of the working member is treated as joint in the same way as the domestic activities of the non-working partner are regarded as being for their joint benefit”.
 
 32     Finally, the court did observe (at 808) that (_cf_, for example, _Elford_),
 
-\[t\]here may be cases where the parties have so conducted their affairs and/or so expressed their intentions that this would not be the appropriate conclusion, but in the generality of cases with which this court would normally deal this appears to us to be the correct approach and the correct outcome.
+> \[t\]here may be cases where the parties have so conducted their affairs and/or so expressed their intentions that this would not be the appropriate conclusion, but in the generality of cases with which this court would normally deal this appears to us to be the correct approach and the correct outcome.
 
 This last-mentioned qualification is similar to that which we have in fact stated at \[29\] above.
 
@@ -135,11 +135,11 @@ This last-mentioned qualification is similar to that which we have in fact state
 
 37     For completeness, we would also note that aside from the 2002 lottery winnings, the Respondent had also won the following amounts between 2011 and 2013, which he deposited into his personal bank account:
 
-(a)     $201,028 in 2011;
+> (a)     $201,028 in 2011;
 
-(b)     $48,210 in 2012; and
+> (b)     $48,210 in 2012; and
 
-(c)     $1.032m in 2013.
+> (c)     $1.032m in 2013.
 
 Likewise, the Appellant had also won $10,000 in 2010. We are satisfied that these 2010 to 2013 lottery winnings may be distinguished from the Respondent’s 2002 lottery winnings. Since the tickets in relation to the former were purchased after the parties had already separated in 2004 and close to the date at which the interim judgment of divorce was granted in February 2014, it can be inferred that both parties did not intend for any winnings from these tickets to be for the benefit of the family, but instead for each of themselves only. Therefore, any contributions to the matrimonial pool from these later lottery winnings need not be attributed to each party on an equal basis. In any event, we note that the credit for and entitlement of each party to these later winnings were not in dispute between the parties on appeal.
 

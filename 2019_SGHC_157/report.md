@@ -59,15 +59,15 @@ Criminal Law – Statutory offences – Income Tax Act
 
 20     The YAC was requested to address three questions pertaining to s 94A(3)(_a_) ITA which are germane to the determination of the present appeal. He reformulated them slightly to broaden their scope. I set out his reformulated issues below:
 
-(a)     Does the court have the power to impose a penalty under s 94A(3) ITA when the assessment by the Comptroller is subject to further amendment or review? (“Issue 1A”)
+> (a)     Does the court have the power to impose a penalty under s 94A(3) ITA when the assessment by the Comptroller is subject to further amendment or review? (“Issue 1A”)
 
-(b)     Does the court only have the power to impose a penalty under s 94A(3) ITA when the Comptroller’s assessment is final and conclusive for the purposes of the ITA? (“Issue 1B”)
+> (b)     Does the court only have the power to impose a penalty under s 94A(3) ITA when the Comptroller’s assessment is final and conclusive for the purposes of the ITA? (“Issue 1B”)
 
-(c)     How should the assessment of the ITBR, High Court, or Court of Appeal affect the penalty to be imposed by the court, if at all? (“Issue 2”)
+> (c)     How should the assessment of the ITBR, High Court, or Court of Appeal affect the penalty to be imposed by the court, if at all? (“Issue 2”)
 
-(d)     What factors should guide the exercise of the court’s discretion to adjourn the proceedings pending an appeal against the Comptroller’s decision? (“Issue 3A”)
+> (d)     What factors should guide the exercise of the court’s discretion to adjourn the proceedings pending an appeal against the Comptroller’s decision? (“Issue 3A”)
 
-(e)     What should be the threshold for appellate intervention in the exercise of such discretion? (“Issue 3B”)
+> (e)     What should be the threshold for appellate intervention in the exercise of such discretion? (“Issue 3B”)
 
 21     The five issues address substantially the same questions that were initially posed to the YAC. I shall go on in due course to address Issues 1A, 1B and 2 together as a question of statutory interpretation pertaining to the scope of the court’s power to impose a penalty under s 94A(3) ITA. If the assessments of the appellate bodies are not relevant to the penalty, then it must follow _a fortiori_ that the court has the power to impose a penalty under s 94A(3) even if the Comptroller’s assessment is subject to further amendment or review. Issues 3A and 3B which pertain to the court’s exercise of discretion would also be best addressed as a whole.
 
@@ -81,15 +81,15 @@ Criminal Law – Statutory offences – Income Tax Act
 
 26     The YAC submitted that where the assessment is not final and conclusive at the time of sentencing, the court should consider:
 
-(a)     The stage of the appeal process under Part XVII or XVIII of the ITA the parties are at and the status of the appeal at that stage (_ie_, how close that stage is to reaching its conclusion);
+> (a)     The stage of the appeal process under Part XVII or XVIII of the ITA the parties are at and the status of the appeal at that stage (_ie_, how close that stage is to reaching its conclusion);
 
-(b)     The basis of any appeal;
+> (b)     The basis of any appeal;
 
-(c)     The potential prejudice suffered by the taxpayer in having the penalty sum imposed immediately where it contends this sum is excessive, and whether this prejudice is irremediable – the burden should be on the taxpayer to show to the court’s satisfaction that this prejudice will result by reference to the difference in tax payable, the taxpayer’s financial situation, and how the penalty would impact the latter;
+> (c)     The potential prejudice suffered by the taxpayer in having the penalty sum imposed immediately where it contends this sum is excessive, and whether this prejudice is irremediable – the burden should be on the taxpayer to show to the court’s satisfaction that this prejudice will result by reference to the difference in tax payable, the taxpayer’s financial situation, and how the penalty would impact the latter;
 
-(d)     Whether the taxpayer or Comptroller has caused delay to the process, how long the delay has been, and whether the taxpayer is taking advantage of the appeal process to delay paying the s 94A(3) penalty; and
+> (d)     Whether the taxpayer or Comptroller has caused delay to the process, how long the delay has been, and whether the taxpayer is taking advantage of the appeal process to delay paying the s 94A(3) penalty; and
 
-(e)     Reasons for the taxpayer’s disagreement with the assessment of the Comptroller or appellate body.
+> (e)     Reasons for the taxpayer’s disagreement with the assessment of the Comptroller or appellate body.
 
 27     The fact that any sentence passed may be subject to criminal revision proceedings should not provide a _carte blanche_ justification to pass sentence upon conviction regardless of the status of the appeal under Part XVIII as this may result in the expenditure of additional judicial time and resources.
 
@@ -103,13 +103,13 @@ Criminal Law – Statutory offences – Income Tax Act
 
 29     Section 94A(3) provides that:
 
-(3)    Any person who fails or neglects without reasonable excuse to comply with section 62 or 71(1) in respect of any year of assessment for 2 years or more shall be guilty of an offence and shall be liable on conviction to —
+> (3)    Any person who fails or neglects without reasonable excuse to comply with section 62 or 71(1) in respect of any year of assessment for 2 years or more shall be guilty of an offence and shall be liable on conviction to —
 
-(_a_)    a penalty equal to double the amount of tax which the Comptroller assesses him to be liable for that year of assessment after determining, to the best of the Comptroller’s judgment, the amount of his chargeable income; and
+>> (_a_)    a penalty equal to double the amount of tax which the Comptroller assesses him to be liable for that year of assessment after determining, to the best of the Comptroller’s judgment, the amount of his chargeable income; and
 
-(_b_)    a fine not exceeding $1,000,
+>> (_b_)    a fine not exceeding $1,000,
 
-and in default of payment to imprisonment for a term not exceeding 6 months.
+> and in default of payment to imprisonment for a term not exceeding 6 months.
 
 30     The penalty and fine are complementary and coordinate components of the sentence to be imposed by the court.
 
@@ -117,7 +117,7 @@ and in default of payment to imprisonment for a term not exceeding 6 months.
 
 32     I agree with the YAC that the imposition of the penalty pursuant to s 94A(3)(_a_) is mandatory. It is implausible that Parliament would have removed the court’s discretion as to the quantum of the penalty while allowing the court to determine whether or not a penalty should be imposed. This reading is also suggested by the Minister of State for Finance’s comments at the Second Reading for the Income Tax (Amendment Bill) 2007, where the Minister said that (_Singapore Parliamentary Debates, Official Report_ (22 January 2007) vol 82 at cols 1043-1044 (Lim Hwee Hua, Minister of State for Finance)):
 
-Currently, the penalty for not filing an income tax return is significantly less severe than the penalty for under-declaring income. This creates an incentive for taxpayers to avoid taxation by not submitting their income tax returns. To discourage this practice, a penalty of double the amount of tax undercharged will be introduced for the failure to file a tax return in respect of any year of assessment within three years from the filing deadline.
+> Currently, the penalty for not filing an income tax return is significantly less severe than the penalty for under-declaring income. This creates an incentive for taxpayers to avoid taxation by not submitting their income tax returns. To discourage this practice, a penalty of double the amount of tax undercharged will be introduced for the failure to file a tax return in respect of any year of assessment within three years from the filing deadline.
 
 33     Section 95(1) ITA provides for the penalty to be imposed for furnishing incorrect returns or information. It states that a person who contravenes this provision “shall be guilty of an offence for which, on conviction, _he shall pay a penalty_ …” \[emphasis added\]. Section 95(1) ITA therefore makes clear that the penalty is not discretionary, and that the court _must_ order such payment. Given that Parliamentary intention appears to have been to bring the penalties for these two offences into closer alignment, s 94A(3) should be read as directive and not permissive.
 
@@ -155,7 +155,7 @@ Currently, the penalty for not filing an income tax return is significantly less
 
 47     Consistent with what IRAS has specified to be its practice in the e-Tax Guide, the Comptroller would generally be expected to revise his assessment forthwith to bring it in line with the determination of the appellate body. I fully accept that the e-Tax guide does not have the force of law. However, as I understand it, the Comptroller’s revision of his assessment is not merely a practice, but a _statutory obligation_ in view of s 80(14) ITA, which provides as follows:
 
-(14)  Notice of the amount of tax payable under the assessment as determined by the Board shall be served by the Comptroller either personally or by registered post upon the appellant.
+> (14)  Notice of the amount of tax payable under the assessment as determined by the Board shall be served by the Comptroller either personally or by registered post upon the appellant.
 
 48     The reference to the Comptroller’s revised assessment in the e-Tax Guide is quite plainly a reference to the way in which s 80(14) is given effect to in practice. Indeed, it seems self-evident that it is not open to the Comptroller to refuse to amend his assessment, particularly where this has been _annulled_ by the ITBR. Once the Comptroller has revised his assessment, there is no issue of the sentencing court having to impose an anomalous or artificial order on the wrong factual premise. A further implication of this is that the imposition of the penalty on the basis of the Comptroller’s assessment need not be an artificial exercise in which the wrong factual premise is utilised, as suggested by the YAC. The problem is thus more illusory than real, and this becomes evident when s 80(14) is taken into account to support a plain and purposive reading of s 94A(3).
 
@@ -171,9 +171,9 @@ Currently, the penalty for not filing an income tax return is significantly less
 
 53     This is also indicated by a comparison with s 91(2) ITA, as highlighted by the YAC. Section 91(2) clearly distinguishes between the situation where: (1) an assessment has or has not been made; and (2) where the assessment made is final and conclusive. Express words indicating that this distinction is significant have not been included in s 94A(3) ITA In contrast, s 91(2) ITA states:
 
-(2)    Subject to any rules made under section 7, deductions authorised by this section shall be made at such times and in such amounts as the Comptroller shall direct _whether or not the tax has been assessed_; except that _if on the assessment becoming final and conclusive_ it appears that the deductions made exceed the tax payable, the tax overpaid by means of the previous deductions shall be repaid.
+> (2)    Subject to any rules made under section 7, deductions authorised by this section shall be made at such times and in such amounts as the Comptroller shall direct _whether or not the tax has been assessed_; except that _if on the assessment becoming final and conclusive_ it appears that the deductions made exceed the tax payable, the tax overpaid by means of the previous deductions shall be repaid.
 
-\[emphasis added\]
+> \[emphasis added\]
 
 54     Here, as above, I do not see any reason justifying a departure from the ordinary meaning of the provision.
 
@@ -215,7 +215,7 @@ Currently, the penalty for not filing an income tax return is significantly less
 
 70     It appears to me that the appellant’s main contention was that it did not under-declare its income and that the BDM should not have been used to determine its chargeable income. The appellant stated in its POA that:
 
-The company is willing to pay penalty based on true amount of tax based on our actual accounts instead of guessing figures based on wrong accusation of under declaration income and to pay tax amount that is under dispute.
+> The company is willing to pay penalty based on true amount of tax based on our actual accounts instead of guessing figures based on wrong accusation of under declaration income and to pay tax amount that is under dispute.
 
 71     The Comptroller utilised the BDM and explained that the signs of inadequate record-keeping were sufficient for it to construe that the appellant may have under-reported its revenue. While the appellant had suggested that this inference was wrong, it falls short of a suggestion that it was wholly unreasonable. In this regard, I note that the appellant appears to accept that the information it had provided the Comptroller was inadequate. Indeed, the main thrust of its submissions before me appeared to be that it ought to be given more time to put together records and entries that would show that the tax assessed was excessive. In the circumstances, there is no reason to doubt the reasonableness of the Comptroller’s determination of the appellant’s chargeable income, or the tax assessed thereon.
 
@@ -227,13 +227,13 @@ The company is willing to pay penalty based on true amount of tax based on our a
 
 74     To sum up, my decision is as follows:
 
-(a)     The imposition of the penalty pursuant to s 94A(3)(_a_) ITA is mandatory.
+> (a)     The imposition of the penalty pursuant to s 94A(3)(_a_) ITA is mandatory.
 
-(b)     On a plain and purposive reading of s 94A(3)(_a_), the penalty should be ordered on the basis of the Comptroller’s assessment. However, any revised assessment of the ITBR, High Court or Court of Appeal should be adopted by the Comptroller as the basis for the penalty to be imposed by the sentencing court if the revised assessment is already in existence at the time of sentencing. To this extent, the determination of an appellate body is relevant, albeit indirectly.
+> (b)     On a plain and purposive reading of s 94A(3)(_a_), the penalty should be ordered on the basis of the Comptroller’s assessment. However, any revised assessment of the ITBR, High Court or Court of Appeal should be adopted by the Comptroller as the basis for the penalty to be imposed by the sentencing court if the revised assessment is already in existence at the time of sentencing. To this extent, the determination of an appellate body is relevant, albeit indirectly.
 
-(c)     The sentencing court may impose the penalty even where the assessment by the Comptroller is subject to further amendment and review.
+> (c)     The sentencing court may impose the penalty even where the assessment by the Comptroller is subject to further amendment and review.
 
-(d)     The court has a general discretion to adjourn sentencing (inclusive of the penalty), but in deciding whether to allow an adjournment, the court should consider whether the offender has raised a credible challenge in his appeal against the Comptroller’s assessment on the basis that the Comptroller did not exercise his best judgment in determining the chargeable income.
+> (d)     The court has a general discretion to adjourn sentencing (inclusive of the penalty), but in deciding whether to allow an adjournment, the court should consider whether the offender has raised a credible challenge in his appeal against the Comptroller’s assessment on the basis that the Comptroller did not exercise his best judgment in determining the chargeable income.
 
 75     I find that the appellant has not raised any credible challenge on the ground of the Comptroller’s failure to exercise his best judgment in assessing the appellant’s tax liability. Further, while there is some suggestion that irremediable prejudice would result from the imposition of the penalty, on the facts of this particular case, I am not persuaded that the Magistrate’s decision to sentence the appellant and impose the penalty while the appeal to the ITBR remains pending was erroneous in any way. This is especially so when the procedural history of the present case is taken into account.
 

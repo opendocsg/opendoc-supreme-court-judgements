@@ -49,45 +49,45 @@ Professions – Medical profession and practice – Professional conduct
 
 15     The First Charge stated:
 
-That you, DR LOOI KOK POH, a medical practitioner, are charged that whilst practising at \[the Hospital\] on 8 August 2011, did fail to ensure that adequate medical leave was given to \[the Patient\], in light of his condition and the nature of his occupation.
+> That you, DR LOOI KOK POH, a medical practitioner, are charged that whilst practising at \[the Hospital\] on 8 August 2011, did fail to ensure that adequate medical leave was given to \[the Patient\], in light of his condition and the nature of his occupation.
 
 Particulars
 
-…
+> …
 
-(f)    The Thenar Flap surgery would be done in two stages, with an intervening period of 14 to 21 days between the two stages. The Patient would require adequate rest of his right hand during the intervening period and would be unable to use his right hand effectively for many activities of daily living and for work.
+> (f)    The Thenar Flap surgery would be done in two stages, with an intervening period of 14 to 21 days between the two stages. The Patient would require adequate rest of his right hand during the intervening period and would be unable to use his right hand effectively for many activities of daily living and for work.
 
-(g)    The Patient was not given any medical leave for the period from 9 August 2011 to 11 August 2011, both dates inclusive, prior to his next review scheduled for 12 August 2011.
+> (g)    The Patient was not given any medical leave for the period from 9 August 2011 to 11 August 2011, both dates inclusive, prior to his next review scheduled for 12 August 2011.
 
-(h)    Given the nature of the Patient’s occupation, his condition on 8 August 2011, the requisite post-operative management of the Patient after the first stage of the Thenar Flap Surgery and the upcoming second stage of the Patient’s Thenar Flap surgery, you failed to ensure that adequate medical leave was given to the Patient.
+> (h)    Given the nature of the Patient’s occupation, his condition on 8 August 2011, the requisite post-operative management of the Patient after the first stage of the Thenar Flap Surgery and the upcoming second stage of the Patient’s Thenar Flap surgery, you failed to ensure that adequate medical leave was given to the Patient.
 
-And that in relation to the facts alleged, you have been guilty of professional misconduct under \[Section 53(1)(_d_) of the Act\] in that your conduct demonstrated an intentional, deliberate departure from standards observed or approved by members of the profession of good repute and competency.
+> And that in relation to the facts alleged, you have been guilty of professional misconduct under \[Section 53(1)(_d_) of the Act\] in that your conduct demonstrated an intentional, deliberate departure from standards observed or approved by members of the profession of good repute and competency.
 
-\[emphasis in original omitted\]
+> \[emphasis in original omitted\]
 
 16     The Second Charge was largely similar, except that the relevant date was 12 August 2011, and specified that the Patient had gone back to Dr Looi for a follow-up review on that date. The Second Charge stated:
 
-That you, DR LOOI KOK POH, a medical practitioner, are charged that whilst practising at \[the Hospital\] on 12 August 2011, did fail to ensure that adequate medical leave was given to \[the Patient\], in light of his condition and the nature of his occupation.
+> That you, DR LOOI KOK POH, a medical practitioner, are charged that whilst practising at \[the Hospital\] on 12 August 2011, did fail to ensure that adequate medical leave was given to \[the Patient\], in light of his condition and the nature of his occupation.
 
 Particulars
 
-…
+> …
 
-(e)    During the intervening period, the Patient’s right middle fingertip was attached via a Thenar flap to the volar side of the metacarpo-phalangeal joint region of the thumb. The Patient would require adequate rest of his right hand during the intervening period and would be unable to use his right hand effectively for many activities of daily living and for work.
+> (e)    During the intervening period, the Patient’s right middle fingertip was attached via a Thenar flap to the volar side of the metacarpo-phalangeal joint region of the thumb. The Patient would require adequate rest of his right hand during the intervening period and would be unable to use his right hand effectively for many activities of daily living and for work.
 
-(f)    At a follow-up review of the Patient on 12 August 2011, you gave the Patient light duties for a period of eleven (11) days from 12 August 2011 to 22 August 2011, and no medical leave.
+> (f)    At a follow-up review of the Patient on 12 August 2011, you gave the Patient light duties for a period of eleven (11) days from 12 August 2011 to 22 August 2011, and no medical leave.
 
-(g)    Given the nature of the Patient’s occupation, his condition on 12 August 2011, the requisite post-operative management of the Patient after the first stage of the Thenar Flap surgery and the upcoming second stage of the Patient’s Thenar Flap surgery, medical leave should have been given to the Patient, and it was inappropriate for you to certify the Patient fit for light duties from 12 August 2011 to 22 August 2011.
+> (g)    Given the nature of the Patient’s occupation, his condition on 12 August 2011, the requisite post-operative management of the Patient after the first stage of the Thenar Flap surgery and the upcoming second stage of the Patient’s Thenar Flap surgery, medical leave should have been given to the Patient, and it was inappropriate for you to certify the Patient fit for light duties from 12 August 2011 to 22 August 2011.
 
-And that in relation to the facts alleged, you have been guilty of professional misconduct under Section 53(1)(_d_) of \[the Act\] in that your conduct demonstrated an intentional, deliberate departure from standards observed or approved by members of the profession of good repute and competency.
+> And that in relation to the facts alleged, you have been guilty of professional misconduct under Section 53(1)(_d_) of \[the Act\] in that your conduct demonstrated an intentional, deliberate departure from standards observed or approved by members of the profession of good repute and competency.
 
-\[emphasis in original omitted\]
+> \[emphasis in original omitted\]
 
 17     It is evident that the Charges were framed pursuant to the first limb of the test for professional misconduct as laid down in _Low Cze Hong v Singapore Medical Council_ <span class="citation">\[2008\] 3 SLR(R) 612</span> (“_Low Cze Hong_”). In _Low Cze Hong_, the High Court held that professional misconduct could be made out in at least two situations as follows (at \[37\]):
 
-(a)     where there is an intentional, deliberate departure from standards observed or approved by members of the profession of good repute and competency; and
+> (a)     where there is an intentional, deliberate departure from standards observed or approved by members of the profession of good repute and competency; and
 
-(b)     where there has been such serious negligence that it objectively portrays an abuse of the privileges which accompany registration as a medical practitioner.
+> (b)     where there has been such serious negligence that it objectively portrays an abuse of the privileges which accompany registration as a medical practitioner.
 
 18     The Alternative Charges essentially mirrored the Charges in terms of the particulars, except that they were framed pursuant to the second limb of the test for professional misconduct as stated in _Low Cze Hong_.
 
@@ -99,27 +99,27 @@ And that in relation to the facts alleged, you have been guilty of professional 
 
 21     The Tribunal delivered its written decision (“the GD”) in May 2018, and convicted Dr Looi on the Charges. The Tribunal ordered that Dr Looi:
 
-(a)     be suspended for a term of six months;
+> (a)     be suspended for a term of six months;
 
-(b)     be censured;
+> (b)     be censured;
 
-(c)     give a written understanding to the SMC that he would not engage in the conduct complained of or any similar conduct; and
+> (c)     give a written understanding to the SMC that he would not engage in the conduct complained of or any similar conduct; and
 
-(d)     pay the costs and expenses of incidental to the proceedings, including the costs of SMC’s solicitors, to the SMC.
+> (d)     pay the costs and expenses of incidental to the proceedings, including the costs of SMC’s solicitors, to the SMC.
 
 22     The Tribunal held that the First Charge was made out. In reaching this decision, the Tribunal made the following findings:
 
-(a)     Dr Looi, as the primary doctor who in fact reviewed the Patient on the afternoon of discharge, could not avoid responsibility for the Patient’s post-operative management on the basis that there had been a miscommunication between him and Dr Stephen Tan in the morning of discharge. Further, even taking Dr Looi’s _intended_ plan of one day of medical leave and seven days of light duties, the Tribunal found that it was not the practice to have ordered light duties on the second post-operative day for someone in the Patient’s circumstances.
+> (a)     Dr Looi, as the primary doctor who in fact reviewed the Patient on the afternoon of discharge, could not avoid responsibility for the Patient’s post-operative management on the basis that there had been a miscommunication between him and Dr Stephen Tan in the morning of discharge. Further, even taking Dr Looi’s _intended_ plan of one day of medical leave and seven days of light duties, the Tribunal found that it was not the practice to have ordered light duties on the second post-operative day for someone in the Patient’s circumstances.
 
-(b)     With regard to Dr Looi’s contention that he had used good surgical technique – in particular, an axial pattern thenar flap surgery, as opposed to a random pattern thenar flap surgery – the Tribunal noted that Dr Looi’s medical records did not refer to an axial pattern flap, Dr Looi had raised his use of an axial pattern flap only belatedly, and Dr Looi’s expert reports similarly omitted mention of such a technique. Despite that, the Tribunal was prepared to accept his evidence that he had performed an axial pattern flap surgery. However, Dr Looi did not adduce evidence to support his claim that axial pattern flap surgery had such a significant effect on post-operative management that it permitted light duties from the second post-operative day.
+> (b)     With regard to Dr Looi’s contention that he had used good surgical technique – in particular, an axial pattern thenar flap surgery, as opposed to a random pattern thenar flap surgery – the Tribunal noted that Dr Looi’s medical records did not refer to an axial pattern flap, Dr Looi had raised his use of an axial pattern flap only belatedly, and Dr Looi’s expert reports similarly omitted mention of such a technique. Despite that, the Tribunal was prepared to accept his evidence that he had performed an axial pattern flap surgery. However, Dr Looi did not adduce evidence to support his claim that axial pattern flap surgery had such a significant effect on post-operative management that it permitted light duties from the second post-operative day.
 
-(c)     Dr Looi had not clinically assessed the Patient’s suitability for light duties. He had decided almost immediately after the First Stage surgery on the type and amount of leave, and admitted that he had not even considered the Patient’s pain score of nine on the night of 7 August 2011. His plan also failed to take into account the sedating effect of the Patient’s medication.
+> (c)     Dr Looi had not clinically assessed the Patient’s suitability for light duties. He had decided almost immediately after the First Stage surgery on the type and amount of leave, and admitted that he had not even considered the Patient’s pain score of nine on the night of 7 August 2011. His plan also failed to take into account the sedating effect of the Patient’s medication.
 
-(d)     The Tribunal accepted the evidence that medical leave ought to have been provided until the flap was divided, particularly given the 7% loss of function in the Patient’s dominant hand, and the need to protect the flap until the Second Stage surgery.
+> (d)     The Tribunal accepted the evidence that medical leave ought to have been provided until the flap was divided, particularly given the 7% loss of function in the Patient’s dominant hand, and the need to protect the flap until the Second Stage surgery.
 
-(e)     Dr Looi had no good explanation for failing to check the Patient’s medical leave when he reviewed the Patient on the afternoon of 8 August 2011. Dr Looi had also ignored basic factors such as the Patient’s injury, the recovery that he needed until the Second Stage surgery, and the Patient’s pain levels when he decided on the Patient’s medical leave. The Tribunal thus found that Dr Looi’s departure from acceptable practice had been intentional.
+> (e)     Dr Looi had no good explanation for failing to check the Patient’s medical leave when he reviewed the Patient on the afternoon of 8 August 2011. Dr Looi had also ignored basic factors such as the Patient’s injury, the recovery that he needed until the Second Stage surgery, and the Patient’s pain levels when he decided on the Patient’s medical leave. The Tribunal thus found that Dr Looi’s departure from acceptable practice had been intentional.
 
-(f)     Dr Looi had, in his conduct, intentionally and deliberately departed from his duty to establish that there were adequate conditions for rest and rehabilitation, in particular, his duty to establish the existence and nature of light duty arrangements. There was no evidence that Dr Looi made efforts to establish the existence and nature of light duties. Instead, he had left it to Tellus to decide how the Patient would spend the time until the review on 12 August 2011.
+> (f)     Dr Looi had, in his conduct, intentionally and deliberately departed from his duty to establish that there were adequate conditions for rest and rehabilitation, in particular, his duty to establish the existence and nature of light duty arrangements. There was no evidence that Dr Looi made efforts to establish the existence and nature of light duties. Instead, he had left it to Tellus to decide how the Patient would spend the time until the review on 12 August 2011.
 
 23     On the Second Charge, the Tribunal found, on similar reasoning as per the First Charge, that Dr Looi had intentionally and deliberately departed from the accepted practice of the medical profession. In particular, it was not the practice to certify a welder with the Patient’s injuries as fit for light duties on the fifth post-operative day following First Stage surgery and pending division of the flap at the Second Stage surgery. Further, the Tribunal noted that Dr Looi could not explain why he offered the Patient a week of medical leave, or why the Patient refused the medical leave, at the review on 22 August 2011.
 
@@ -135,9 +135,9 @@ And that in relation to the facts alleged, you have been guilty of professional 
 
 27     In that context, Dr Looi submits that the Tribunal erred in convicting him on the Charges, and in the alternative, on the Alternative Charges, for the following reasons:
 
-(a)     The Tribunal erred in convicting Dr Looi on the basis of Dr Rajaratnam’s evidence that he would have given medical leave between the First Stage surgery and the Second Stage surgery. This was based on his opinion on a random pattern thenar flap, whereas the procedure that had actually been carried out on the Patient was an axial pattern thenar flap. Further, the Tribunal failed to explain why it had ignored the evidence of both Dr Rajaratnam and Dr Tan Soo Heong that certification for light duties was adequate, and in some cases could be beneficial to a patient.
+> (a)     The Tribunal erred in convicting Dr Looi on the basis of Dr Rajaratnam’s evidence that he would have given medical leave between the First Stage surgery and the Second Stage surgery. This was based on his opinion on a random pattern thenar flap, whereas the procedure that had actually been carried out on the Patient was an axial pattern thenar flap. Further, the Tribunal failed to explain why it had ignored the evidence of both Dr Rajaratnam and Dr Tan Soo Heong that certification for light duties was adequate, and in some cases could be beneficial to a patient.
 
-(b)     The Tribunal erred in finding that Dr Looi had not considered whether adequate conditions for rest and rehabilitation were present. Among other things, the SMC did not produce evidence showing that the Patient’s condition or his work environment rendered light duties inappropriate. Further, that finding is at odds with the Tribunal’s other findings that Dr Looi had knowledge of light duty arrangements at the Patient’s workplace, and that the Patient attended a rehabilitation programme rather than engaging in his pre-injury job of welding.
+> (b)     The Tribunal erred in finding that Dr Looi had not considered whether adequate conditions for rest and rehabilitation were present. Among other things, the SMC did not produce evidence showing that the Patient’s condition or his work environment rendered light duties inappropriate. Further, that finding is at odds with the Tribunal’s other findings that Dr Looi had knowledge of light duty arrangements at the Patient’s workplace, and that the Patient attended a rehabilitation programme rather than engaging in his pre-injury job of welding.
 
 28     On the sentence imposed, Dr Looi contends that it is manifestly excessive, and that an appropriate sentence would be a fine of $20,000 to $30,000.
 
@@ -145,9 +145,9 @@ And that in relation to the facts alleged, you have been guilty of professional 
 
 29     The SMC first makes the preliminary point that the Tribunal erred in finding that the axial pattern thenar flap procedure was used by Dr Looi, and submits that the random pattern thenar flap procedure was used by Dr Looi instead. In that context, the SMC submits that the Tribunal’s decision to convict Dr Looi on the Charges was correct for the following reasons:
 
-(a)     Dr Rajaratnam’s evidence was that medical leave should have been given, and that light duties were inappropriate for the Patient prior to the Second Stage surgery. His evidence was to be preferred over Dr Tan Soo Heong’s evidence that light duties were appropriate as the latter was against “uncontroverted contemporaneous records and unsupported by any medical literature”.
+> (a)     Dr Rajaratnam’s evidence was that medical leave should have been given, and that light duties were inappropriate for the Patient prior to the Second Stage surgery. His evidence was to be preferred over Dr Tan Soo Heong’s evidence that light duties were appropriate as the latter was against “uncontroverted contemporaneous records and unsupported by any medical literature”.
 
-(b)     The Tribunal correctly took the view that the burden of proof was on Dr Looi to show that he was aware that there were adequate conditions at the Patient’s workplace to cater for the Patient’s rest and rehabilitation if light duties were issued. As he could not show that he knew whether the Patient would require the use of his injured hand, it follows that it was inappropriate for him to have assigned the Patient light duties.
+> (b)     The Tribunal correctly took the view that the burden of proof was on Dr Looi to show that he was aware that there were adequate conditions at the Patient’s workplace to cater for the Patient’s rest and rehabilitation if light duties were issued. As he could not show that he knew whether the Patient would require the use of his injured hand, it follows that it was inappropriate for him to have assigned the Patient light duties.
 
 30     On the issue of sentence, the SMC submits that the appropriate sentence should be 12 months’ suspension in respect of each of the Charges, and that they should run consecutively, such that the total term of suspension would be 24 months.
 
@@ -155,13 +155,13 @@ And that in relation to the facts alleged, you have been guilty of professional 
 
 31     Under s 55(11) of the Act, the High Court shall accept as final and conclusive any finding of the disciplinary tribunal relating to any issue of medical ethics or standards of professional conduct “unless such finding is in the opinion of the High Court unsafe, unreasonable or contrary to the evidence”. As has been affirmed in _Singapore Medical Council v Wong Him Choon_ <span class="citation">\[2016\] 4 SLR 1086</span> (“_Wong Him Choon_”) at \[39\], and more recently in _Yip Man Hing Kevin v Singapore Medical Council and another matter_ <span class="citation">\[2019\] SGHC 102</span> (“_Kevin Yip_”) at \[48\], this requires the High Court to make the following findings before it can intervene:
 
-(a)     there is something clearly wrong either:
+> (a)     there is something clearly wrong either:
 
-(i)       in the conduct of the disciplinary proceedings; and/or
+>> (i)       in the conduct of the disciplinary proceedings; and/or
 
-(ii)       in the legal principles applied; and/or
+>> (ii)       in the legal principles applied; and/or
 
-(b)     the findings of the disciplinary tribunal are sufficiently out of tune with the evidence to indicate with reasonable certainty that the evidence has been misread.
+> (b)     the findings of the disciplinary tribunal are sufficiently out of tune with the evidence to indicate with reasonable certainty that the evidence has been misread.
 
 32     In assessing the decision of a disciplinary tribunal, the court would be mindful that a disciplinary tribunal has had the benefit of hearing oral evidence and is “a specialist tribunal with its own professional expertise and understands what the medical profession expects of its members”. Consequently, the court would accord an appropriate degree of respect to the decision of a disciplinary tribunal, and would be slow to overturn its findings. That said, a disciplinary tribunal’s decision would nevertheless have to be reached reasonably and in accordance with the law and the facts, and to that extent, the court would not give undue deference to the views of a disciplinary tribunal and thereby render its own powers nugatory (_Wong Him Choon_ at \[40\]; _Kevin Yip_ at \[49\]).
 
@@ -175,9 +175,9 @@ And that in relation to the facts alleged, you have been guilty of professional 
 
 35     The difference between the two procedures was described in similar terms by both Dr Rajaratnam and Dr Looi at the inquiry:
 
-(a)     According to Dr Rajaratnam, an axial pattern thenar flap procedure would result in a flap which is more robust, drawn closer to the fingers thereby requiring less flexion of the fingers, and resulting in a lesser degree of immobilisation of the thumb, as compared to the random pattern thenar flap procedure.
+> (a)     According to Dr Rajaratnam, an axial pattern thenar flap procedure would result in a flap which is more robust, drawn closer to the fingers thereby requiring less flexion of the fingers, and resulting in a lesser degree of immobilisation of the thumb, as compared to the random pattern thenar flap procedure.
 
-(b)     According to Dr Looi, the key difference between the axial pattern thenar flap and the random pattern thenar flap procedures is that, in the former, the flap is drawn closer to the finger, and therefore the finger is not stretched as much as it would be if the random pattern thenar flap procedure had been followed. The random pattern thenar flap requires the flap to be drawn at the base of the thumb, whereas the axial pattern thenar flap allows it to be drawn closer to the middle of the palm. Consequently, the axial pattern thenar flap procedure gives the patient significantly more mobility in his other fingers, and also provides for better revascularisation from the finger to the flap. That an axial pattern thenar flap procedure was performed would not however mean that a patient could do light duties in all cases.
+> (b)     According to Dr Looi, the key difference between the axial pattern thenar flap and the random pattern thenar flap procedures is that, in the former, the flap is drawn closer to the finger, and therefore the finger is not stretched as much as it would be if the random pattern thenar flap procedure had been followed. The random pattern thenar flap requires the flap to be drawn at the base of the thumb, whereas the axial pattern thenar flap allows it to be drawn closer to the middle of the palm. Consequently, the axial pattern thenar flap procedure gives the patient significantly more mobility in his other fingers, and also provides for better revascularisation from the finger to the flap. That an axial pattern thenar flap procedure was performed would not however mean that a patient could do light duties in all cases.
 
 36     As was mentioned above, the Tribunal was prepared to accept Dr Looi’s evidence that he had performed an axial pattern thenar flap on the Patient. We are satisfied that the Tribunal was right to have taken that view. Crucially, there is evidence that the axial pattern thenar flap is by far the preferred procedure in Singapore.
 
@@ -185,13 +185,13 @@ And that in relation to the facts alleged, you have been guilty of professional 
 
 38     Dr Tan Soo Heong put it even more strongly. Dr Tan Soo Heong first explained that the thenar flap procedure has developed over time from the random pattern to the axial pattern. The axial pattern thenar flap was, in his view, a more robust, stronger and better flap. In particular, Dr Tan Soo Heong stated in clear terms that the state of practice in Singapore had reached the point where the random pattern thenar flap was, to the best of his knowledge, no longer being practised. His precise responses when referred to an article from 1982 describing the random pattern thenar flap were as follows:
 
-Q… So I am asking you, Dr Tan, can you comment on the development in thenar flap surgery since 1982?
+> Q… So I am asking you, Dr Tan, can you comment on the development in thenar flap surgery since 1982?
 
-A… it is not done anymore because this is a historic paper. Even when I teach my trainees, I don’t teach with this method anymore.
+> A… it is not done anymore because this is a historic paper. Even when I teach my trainees, I don’t teach with this method anymore.
 
-QJust to confirm, well, let me rephrase my question. To what extent is the procedure described in paragraphs 11, 12 and 13, and the 1982 article still practised in Singapore?
+> QJust to confirm, well, let me rephrase my question. To what extent is the procedure described in paragraphs 11, 12 and 13, and the 1982 article still practised in Singapore?
 
-AAs far as I know, for the past 10 years, I haven’t taught thenar flap in this way, nor do I know of any doctors \[_sic_\] that does thenar flap this way. I mean the principle is there, in terms of harvesting it, but not the way it is done.
+> AAs far as I know, for the past 10 years, I haven’t taught thenar flap in this way, nor do I know of any doctors \[_sic_\] that does thenar flap this way. I mean the principle is there, in terms of harvesting it, but not the way it is done.
 
 That the axial pattern thenar flap is the preferred procedure in Singapore was not controverted by Dr Rajaratnam, or indeed any other evidence before the Tribunal.
 
@@ -215,11 +215,11 @@ That the axial pattern thenar flap is the preferred procedure in Singapore was n
 
 45     We turn now to consider Dr Looi’s appeal against his conviction on the First Charge. The Charges were framed in terms of the first limb of professional misconduct as set out in _Low Cze Hong_. In order to substantiate a charge under the first limb of professional misconduct, the following had to be established by the SMC and found by the Tribunal (_Kevin Yip_ at \[50\]; _Wong Him Choon_ at \[49(a)\]):
 
-(a)     what the applicable standard of conduct was among members of the medical profession of good standing and repute in relation to the actions that the allegation of misconduct related to;
+> (a)     what the applicable standard of conduct was among members of the medical profession of good standing and repute in relation to the actions that the allegation of misconduct related to;
 
-(b)     whether the applicable standard of conduct required the respondent doctor to do something and at what point in time such duty crystallised; and
+> (b)     whether the applicable standard of conduct required the respondent doctor to do something and at what point in time such duty crystallised; and
 
-(c)     whether the respondent doctor’s conduct constituted a departure from the applicable standard of conduct and, if so, whether the departure was intentional and deliberate, in that the doctor was _conscious of the applicable standard_ when he decided to depart from it (_Wong Him Choon_ at \[53\]).
+> (c)     whether the respondent doctor’s conduct constituted a departure from the applicable standard of conduct and, if so, whether the departure was intentional and deliberate, in that the doctor was _conscious of the applicable standard_ when he decided to depart from it (_Wong Him Choon_ at \[53\]).
 
 46     As this court held in _Ang Pek San Lawrence v Singapore Medical Council_ <span class="citation">\[2015\] 1 SLR 436</span> (“_Ang Pek San_”) at \[40\], these are discrete elements that have to be proved by the SMC. They set out high thresholds that have to be crossed before a conviction can be sustained. These requirements are also different from and “more exacting than those applicable to establishing civil liability both in terms of the _standard of misconduct_ that must be shown _as well as the burden of proof that must be discharged_” \[emphasis added\]. Being elements of a charge that carries with it the possibility of penal sanctions, it follows that it is for the SMC to prove each element beyond a reasonable doubt.
 
@@ -241,27 +241,27 @@ That the axial pattern thenar flap is the preferred procedure in Singapore was n
 
 51     The SMC relies primarily on Dr Rajaratnam’s evidence in support of its position that the applicable standard was for medical leave to be given at least until the Second Stage surgery, and that assigning light duties was inappropriate. For the inquiry, Dr Rajaratnam prepared an expert opinion on the care provided to the Patient by Dr Looi (“Dr Rajaratnam’s Report”). In his report, Dr Rajaratnam set out his views on the appropriate medical leave that ought to have been given to the Patient as follows:
 
-(a)     He first explained what, in his view, light duties and medical leave entail:
+> (a)     He first explained what, in his view, light duties and medical leave entail:
 
-(i)       Medical leave is given when a patient requires time off from work to address his or her health and safety needs.
+>> (i)       Medical leave is given when a patient requires time off from work to address his or her health and safety needs.
 
-(ii)       Light duties is a generic term and is open to interpretation. It has to be taken in the context of the patient’s job description. The requirement is that the patient should not be engaged in activities at work that delay his recovery or put it at risk. Specifically, with regard to someone who has had a cut in the dominant hand that has been sutured, he would be unable to safely perform heavy work requiring the use of his hands. During this period, he may be assigned light duties _if the work environment allows for it_. That is the case when he can perform duties not requiring the use of the injured hand.
+>> (ii)       Light duties is a generic term and is open to interpretation. It has to be taken in the context of the patient’s job description. The requirement is that the patient should not be engaged in activities at work that delay his recovery or put it at risk. Specifically, with regard to someone who has had a cut in the dominant hand that has been sutured, he would be unable to safely perform heavy work requiring the use of his hands. During this period, he may be assigned light duties _if the work environment allows for it_. That is the case when he can perform duties not requiring the use of the injured hand.
 
-(b)     Broadly speaking, whether a patient requires medical leave after a First Stage surgery depends on the patient’s working environment. If a patient’s occupation does not require the use of his affected hand at all, he may be able to return to work without medical leave. For instance, office duties like answering phone calls with hands-free devices would be fine. However, such a situation was “very unlikely” in Dr  Rajaratnam’s view, as there would be “significant pain with discomfort” following the First Stage surgery. It would be difficult to return to manual work immediately after surgery as most people would require the use of their hands in handling basic activities at work.
+> (b)     Broadly speaking, whether a patient requires medical leave after a First Stage surgery depends on the patient’s working environment. If a patient’s occupation does not require the use of his affected hand at all, he may be able to return to work without medical leave. For instance, office duties like answering phone calls with hands-free devices would be fine. However, such a situation was “very unlikely” in Dr  Rajaratnam’s view, as there would be “significant pain with discomfort” following the First Stage surgery. It would be difficult to return to manual work immediately after surgery as most people would require the use of their hands in handling basic activities at work.
 
-(c)     In deciding the number of days of medical leave that should be given to a patient, it was appropriate to consider the following:
+> (c)     In deciding the number of days of medical leave that should be given to a patient, it was appropriate to consider the following:
 
-(i)       patient factors such as the patient’s tolerance for pain, injury sustained, or emotional trauma suffered;
+>> (i)       patient factors such as the patient’s tolerance for pain, injury sustained, or emotional trauma suffered;
 
-(ii)       work environment factors such as the job description of the patient, the nature of his job and the availability of alternative jobs, _especially for the issuance of light duties_; and
+>> (ii)       work environment factors such as the job description of the patient, the nature of his job and the availability of alternative jobs, _especially for the issuance of light duties_; and
 
-(iii)       the circumstances surrounding the procedure performed, such as the type of immobilisation, splinting and the amount of rest required.
+>> (iii)       the circumstances surrounding the procedure performed, such as the type of immobilisation, splinting and the amount of rest required.
 
-(d)     After a First Stage surgery, he would give medical leave for two to three weeks for the flap to set. During that time, the recipient finger and the thumb would have to be splinted together, and it is therefore crucial that the fingers should rest. Any activity using the hand could put the surgery at risk, as the flap may detach.
+> (d)     After a First Stage surgery, he would give medical leave for two to three weeks for the flap to set. During that time, the recipient finger and the thumb would have to be splinted together, and it is therefore crucial that the fingers should rest. Any activity using the hand could put the surgery at risk, as the flap may detach.
 
-(e)     Dr Looi ought to have given medical leave to the Patient on 8 August 2011. Dr Rajaratnam reiterated that he would have given the Patient medical leave from the day of his injury to the day he would return for the Second Stage surgery, which would be 21 days later in his practice.
+> (e)     Dr Looi ought to have given medical leave to the Patient on 8 August 2011. Dr Rajaratnam reiterated that he would have given the Patient medical leave from the day of his injury to the day he would return for the Second Stage surgery, which would be 21 days later in his practice.
 
-(f)     Dr Rajaratnam further opined that Dr Looi’s decision not to give medical leave, and to assign light duties instead, on 12 August 2011 was “grossly inappropriate”. This was because, in respect of light duties in the marine industry, even if the Patient had been advised to stay and help out in the office instead, he would “most likely require the use of his hand for even the most basic of office functions”. Further, even if the Patient did not use his hand for the light duties, the “exposure to dusty environment in travelling to the office is a potential risk for infection of the wound”, despite the fact that the wound may be dressed. Further still, the Patient may, while engaging in those activities, “accidentally pull off the middle finger from the thumb”. In his view, it was “not optimal” to allow the Patient to go back to a working environment so soon after the surgery had been performed.
+> (f)     Dr Rajaratnam further opined that Dr Looi’s decision not to give medical leave, and to assign light duties instead, on 12 August 2011 was “grossly inappropriate”. This was because, in respect of light duties in the marine industry, even if the Patient had been advised to stay and help out in the office instead, he would “most likely require the use of his hand for even the most basic of office functions”. Further, even if the Patient did not use his hand for the light duties, the “exposure to dusty environment in travelling to the office is a potential risk for infection of the wound”, despite the fact that the wound may be dressed. Further still, the Patient may, while engaging in those activities, “accidentally pull off the middle finger from the thumb”. In his view, it was “not optimal” to allow the Patient to go back to a working environment so soon after the surgery had been performed.
 
 52     At the inquiry, Dr Rajaratnam testified that he understood Dr Looi as having performed a “random pattern flap”. It was therefore crucial for the flap not to be disturbed, or it would fail. He accepted that his report was based on the understanding that the random pattern thenar flap procedure had been performed on the Patient, although he maintained that his report would remain applicable to any thenar flap. He also stated that since the 1990s he had not performed thenar flap surgeries as there were “better alternatives”.
 
@@ -273,17 +273,17 @@ That the axial pattern thenar flap is the preferred procedure in Singapore was n
 
 55     We turn next to the evidence given by Dr Looi in his own defence. Unsurprisingly, he took the position that light duties were appropriate. He explained his reasons as follows:
 
-(a)     He had performed the axial pattern thenar flap procedure on the Patient, and not the random pattern thenar flap. The key difference in the axial pattern flap procedure was that the flap was drawn closer to the finger, and therefore less stretching of the finger was required. The random pattern flap required the flap to be drawn at the base of the thumb, whereas the axial pattern flap allowed it to be drawn closer to the middle of the palm. The axial pattern flap procedure thus gave the Patient significantly more mobility in his other fingers, and also provided for better revascularisation from the finger to the flap. That said, he also accepted that it did not follow that an axial pattern flap surgery would mean that a patient could carry out light duties thereafter.
+> (a)     He had performed the axial pattern thenar flap procedure on the Patient, and not the random pattern thenar flap. The key difference in the axial pattern flap procedure was that the flap was drawn closer to the finger, and therefore less stretching of the finger was required. The random pattern flap required the flap to be drawn at the base of the thumb, whereas the axial pattern flap allowed it to be drawn closer to the middle of the palm. The axial pattern flap procedure thus gave the Patient significantly more mobility in his other fingers, and also provided for better revascularisation from the finger to the flap. That said, he also accepted that it did not follow that an axial pattern flap surgery would mean that a patient could carry out light duties thereafter.
 
-(b)     After the surgery, he put an occlusive dressing over the wound. An occlusive dressing completely covers the wound such that it is not exposed to the external environment, and this helps keep it clean and prevent infection.
+> (b)     After the surgery, he put an occlusive dressing over the wound. An occlusive dressing completely covers the wound such that it is not exposed to the external environment, and this helps keep it clean and prevent infection.
 
-(c)     Dr Looi stated that he was familiar with the working environment at a shipyard. He had asked the Hospital to organise safety talks at the worksite and medical talks to executives on hand surgery, so as to assist specialists at the Hospital when they had to make decisions on treatment plans for patients in such industrial cases. During those engagements, he would take the opportunity to walk around the area to better understand the working environment of the workers, and the light duty and medical protocol in such a workplace. In this regard, he made reference to a documented visit to the shipyard of PPL Shipyard Pte Ltd in October 2012. He also stated that he had made similar site visits even before the SMC’s first letter to him in 2012.
+> (c)     Dr Looi stated that he was familiar with the working environment at a shipyard. He had asked the Hospital to organise safety talks at the worksite and medical talks to executives on hand surgery, so as to assist specialists at the Hospital when they had to make decisions on treatment plans for patients in such industrial cases. During those engagements, he would take the opportunity to walk around the area to better understand the working environment of the workers, and the light duty and medical protocol in such a workplace. In this regard, he made reference to a documented visit to the shipyard of PPL Shipyard Pte Ltd in October 2012. He also stated that he had made similar site visits even before the SMC’s first letter to him in 2012.
 
-(d)     Dr Looi observed that the Patient was able to hold a pen and sign off on his discharge advice form after the First Stage surgery, despite the fact that it was his dominant hand that had been injured and operated on. He strongly disagreed with the allegation in the Charges that the Patient would be unable to use his right hand effectively for many activities of daily living. He asserted that after First Stage surgery patients could still feed themselves, “wipe themselves”, and dress themselves. In this case, he noted that the Patient’s pain score had generally been low, and he was conscious, alert and coherent the entire time. He also took into account his knowledge that the company (Tellus) had a system to assign recovering workers other duties, and would not send them back to their regular work. In particular, his understanding was that Tellus had in the past assigned injured patients to duties that did not “jeopardise their hand, such as in the office \[and\] in the guardhouse”.
+> (d)     Dr Looi observed that the Patient was able to hold a pen and sign off on his discharge advice form after the First Stage surgery, despite the fact that it was his dominant hand that had been injured and operated on. He strongly disagreed with the allegation in the Charges that the Patient would be unable to use his right hand effectively for many activities of daily living. He asserted that after First Stage surgery patients could still feed themselves, “wipe themselves”, and dress themselves. In this case, he noted that the Patient’s pain score had generally been low, and he was conscious, alert and coherent the entire time. He also took into account his knowledge that the company (Tellus) had a system to assign recovering workers other duties, and would not send them back to their regular work. In particular, his understanding was that Tellus had in the past assigned injured patients to duties that did not “jeopardise their hand, such as in the office \[and\] in the guardhouse”.
 
-(e)     In the circumstances, he did not think that the Patient should be denied the chance for early rehabilitation through light duties. Dr Rajaratnam’s view that medical leave ought to follow for the two or three weeks until the Second Stage surgery neglected to consider that the Patient had responded well, that the surgery was performed well and with a good procedure which reduced tension, and that the Patient’s workplace had facilities which could cater for injured workers on light duties. For instance, Dr Rajaratnam’s view assumed that a patient would be in significant pain after a First Stage surgery, but the Patient’s case shows that post the operation he actually only experienced mild pain (except for one episode on the night of the procedure).
+> (e)     In the circumstances, he did not think that the Patient should be denied the chance for early rehabilitation through light duties. Dr Rajaratnam’s view that medical leave ought to follow for the two or three weeks until the Second Stage surgery neglected to consider that the Patient had responded well, that the surgery was performed well and with a good procedure which reduced tension, and that the Patient’s workplace had facilities which could cater for injured workers on light duties. For instance, Dr Rajaratnam’s view assumed that a patient would be in significant pain after a First Stage surgery, but the Patient’s case shows that post the operation he actually only experienced mild pain (except for one episode on the night of the procedure).
 
-(f)     Dr Looi also disagreed with Dr Rajaratnam’s assessment of the risk of flap detachment. First, the risk of pulling the finger out of the flap is low because the finger would be engaging the extensor mechanism, which is a weak mechanism (as compared to the flexor mechanism, which is engaged when one grasps something). Second, the risk of flap detachment must be balanced against the risk that immobilising the other fingers could give rise to a greater risk of circulation compromise and flap failure.
+> (f)     Dr Looi also disagreed with Dr Rajaratnam’s assessment of the risk of flap detachment. First, the risk of pulling the finger out of the flap is low because the finger would be engaging the extensor mechanism, which is a weak mechanism (as compared to the flexor mechanism, which is engaged when one grasps something). Second, the risk of flap detachment must be balanced against the risk that immobilising the other fingers could give rise to a greater risk of circulation compromise and flap failure.
 
 56     Finally, Dr Looi accepted in cross-examination that if Tellus had no facilities to cater for an injured worker who had been assigned light duties, he would have given full medical leave instead. He also accepted that performing light duties was not a substitute for occupational therapy.
 
@@ -295,15 +295,15 @@ That the axial pattern thenar flap is the preferred procedure in Singapore was n
 
 59     Dr Looi’s post-operative management plan to give the Patient one day of medical leave followed by seven days of light duties, was “appropriate and acceptable”. He reached this view based on the following factors:
 
-(a)     The Patient’s records showed that he mostly experienced only “mild pain” after the First Stage surgery, contrary to Dr Rajaratnam’s suggestion that a patient would typically experience “significant pain”.
+> (a)     The Patient’s records showed that he mostly experienced only “mild pain” after the First Stage surgery, contrary to Dr Rajaratnam’s suggestion that a patient would typically experience “significant pain”.
 
-(b)     Although the Patient’s dominant hand was bandaged, he was still able to use it, and his lower limbs and left arm allowed him to ambulate. Even with his right hand bandaged, he managed to sign his discharge advice form the day after surgery, and was able to sign his consent form for the Second Stage surgery on 7 September 2011, as well as the Financial Counselling Form. As only the middle finger was bandaged, the other fingers were left free and still allowed him to write, hold objects, and to do light chores. These activities would not compromise his recovery.
+> (b)     Although the Patient’s dominant hand was bandaged, he was still able to use it, and his lower limbs and left arm allowed him to ambulate. Even with his right hand bandaged, he managed to sign his discharge advice form the day after surgery, and was able to sign his consent form for the Second Stage surgery on 7 September 2011, as well as the Financial Counselling Form. As only the middle finger was bandaged, the other fingers were left free and still allowed him to write, hold objects, and to do light chores. These activities would not compromise his recovery.
 
-(c)     Contrary to Dr Rajaratnam’s description, the thenar flap procedure was not a “complex reconstruction of the hand”. Although skill is required to successfully perform it, it is a procedure which a trainee registrar is expected to be able to perform, and it took Dr Looi just 40 minutes. It is a purely “skin and subcutaneous tissue level of surgery” and the underlying tendons, nerves, bones and joints are not disturbed in any way.
+> (c)     Contrary to Dr Rajaratnam’s description, the thenar flap procedure was not a “complex reconstruction of the hand”. Although skill is required to successfully perform it, it is a procedure which a trainee registrar is expected to be able to perform, and it took Dr Looi just 40 minutes. It is a purely “skin and subcutaneous tissue level of surgery” and the underlying tendons, nerves, bones and joints are not disturbed in any way.
 
-(d)     Although Dr Rajaratnam was right to say that there was a risk of flap detachment, there was also a risk of circulation compromise and flap failure if immobilisation were to be done incorrectly. In his view, early mobilisation was very important for recovery. As a routine matter, therefore, he would not splint or immobilise fingers after the First Stage surgery.
+> (d)     Although Dr Rajaratnam was right to say that there was a risk of flap detachment, there was also a risk of circulation compromise and flap failure if immobilisation were to be done incorrectly. In his view, early mobilisation was very important for recovery. As a routine matter, therefore, he would not splint or immobilise fingers after the First Stage surgery.
 
-(e)     Although certain activities, such as climbing up a ladder or operating powered tools, would be detrimental to recovery, that did not mean that the Patient could not use the affected hand at all.
+> (e)     Although certain activities, such as climbing up a ladder or operating powered tools, would be detrimental to recovery, that did not mean that the Patient could not use the affected hand at all.
 
 60     In general, patients can use their unaffected hand for activities of daily living immediately after the completion of First Stage surgery. They usually begin using the injured hand to assist in activities of daily living the day after the surgery. There is no special requirement for rest other than what is common for a minor day-surgery. Rehabilitation after the First Stage surgery includes joint mobilisation to move the unaffected fingers, and functional rehabilitation to optimise reintegration of the injured hand. The latter may be started the day after the First Stage surgery, once the flap has been assessed to be stable.
 
@@ -329,35 +329,35 @@ That the axial pattern thenar flap is the preferred procedure in Singapore was n
 
 69     As for his evidence at the inquiry that giving the Patient light duties was grossly inappropriate and that he could see no purpose in sending the Patient back to work, this too has to be scrutinised to extract the _principle_ that he was propounding. When Dr Rajaratnam was asked why he thought that giving the Patient light duties was grossly inappropriate he replied:
 
-A.Because he just had had a reconstructive procedure and his -- the treatment is still ongoing in terms of the surgical treatment, it’s not completed yet. And I wouldn’t want to risk the surgery that I have performed, until I at least have divided. Now we are taking \[_sic_\] in context of this patient, who’s a welder in a shipyard. _If  it’s in another situation, where I am assured of the environment which he goes to, he uses his purely his brains to work and no physical labour, he doesn’t have to drive, then it’s possible he could have gone back to light duties_. So for -- _in context of this patient_, no, he should not have had light duties. He should have been given medical leave. I do not see any benefit for the patient to receive light duties.
+> A.Because he just had had a reconstructive procedure and his -- the treatment is still ongoing in terms of the surgical treatment, it’s not completed yet. And I wouldn’t want to risk the surgery that I have performed, until I at least have divided. Now we are taking \[_sic_\] in context of this patient, who’s a welder in a shipyard. _If  it’s in another situation, where I am assured of the environment which he goes to, he uses his purely his brains to work and no physical labour, he doesn’t have to drive, then it’s possible he could have gone back to light duties_. So for -- _in context of this patient_, no, he should not have had light duties. He should have been given medical leave. I do not see any benefit for the patient to receive light duties.
 
-Q.Well, what if the patient tells you that, “I am a welder, my employer is going to arrange for me to do light duties, I think I can do light duties”?
+> Q.Well, what if the patient tells you that, “I am a welder, my employer is going to arrange for me to do light duties, I think I can do light duties”?
 
-A.I still would not, because not just to cover myself, but I think I am _putting the patient under the risk, you know, for the flap to be detached or get infected_. And _I see no gain in him, because he’s not going to be that useful in his work environment_. _I can’t see the purpose_ of him going back to work. He sustained an injury, quite a significant injury, in which he’s lost the tip of his finger. He’s had a reconstructive procedure, any logical mind says he needs time to rest. So, and I think the general practice among most surgeons would be to give them medical leave.
+> A.I still would not, because not just to cover myself, but I think I am _putting the patient under the risk, you know, for the flap to be detached or get infected_. And _I see no gain in him, because he’s not going to be that useful in his work environment_. _I can’t see the purpose_ of him going back to work. He sustained an injury, quite a significant injury, in which he’s lost the tip of his finger. He’s had a reconstructive procedure, any logical mind says he needs time to rest. So, and I think the general practice among most surgeons would be to give them medical leave.
 
-\[emphasis added\]
+> \[emphasis added\]
 
 70     On first glance, it would appear that Dr Rajaratnam gave two inconsistent answers regarding the suitability of light duties. In the first response above, he accepted that there _could_ be a case in which light duties could be given – namely, where he is “assured of the environment”, the patient uses “purely his brains to work”, there is “no physical labour”, and the patient “doesn’t have to drive”. On the other hand, in the second response above, he said that even if the patient had told him that his employer was going to arrange for him to do light duties, he would not certify the patient fit for light duties. The reason for this refusal was that he would be putting the patient at risk of having an infected flap or of it detaching, and that he did not envisage that the patient would gain from going back to work because the patient would not be useful in his work environment.
 
 71     In our view, this is not so much an inconsistency as simply an indication of Dr Rajaratnam applying his principle – that light duties _could_ be suitable in the appropriate circumstances – to the particular context of the Patient, as he understood it to be. This is evidenced by his references to the “context of this patient”, in particular, as a “welder in a shipyard”. We are fortified in our view by Dr Rajaratnam’s answers later on in the inquiry in relation to Ms Pang’s opinion that the Patient could have returned to light duties on 10 August 2011:
 
-Q.Okay, going on to the next paragraph -- next part of Vicki Pang’s evidence, opinion: “My opinion on the Patient returning to work on light duties. As mentioned above, _I am informed that the light duties available at the Patient’s work place entails changing of security passes, desk jobs, sentry duties and sweeping of the floor_. _Based on this understanding of light duties available to the Patient_, I believe that the Patient would very likely be able to perform these light duties even on 10 August … The Patient did not have a bulky dressing on his affected hand and he would not have been obstructed on his affected hand. In addition, the Patient could also have managed these light duties with his non-dominant hand.” Now pausing there, can I just refer you to Dr Tan Soo Heong’s report, which is tab 1 of this bundle. Now Dr Tan has -- I think you have seen this, has at page 20 -- look at page 24 and 25.
+> Q.Okay, going on to the next paragraph -- next part of Vicki Pang’s evidence, opinion: “My opinion on the Patient returning to work on light duties. As mentioned above, _I am informed that the light duties available at the Patient’s work place entails changing of security passes, desk jobs, sentry duties and sweeping of the floor_. _Based on this understanding of light duties available to the Patient_, I believe that the Patient would very likely be able to perform these light duties even on 10 August … The Patient did not have a bulky dressing on his affected hand and he would not have been obstructed on his affected hand. In addition, the Patient could also have managed these light duties with his non-dominant hand.” Now pausing there, can I just refer you to Dr Tan Soo Heong’s report, which is tab 1 of this bundle. Now Dr Tan has -- I think you have seen this, has at page 20 -- look at page 24 and 25.
 
-A.Yup.
+> A.Yup.
 
-Q.Of the report. Dr Tan’s evidence is that this patient here also had a Thenar Flap under the pedicle method on -- right?
+> Q.Of the report. Dr Tan’s evidence is that this patient here also had a Thenar Flap under the pedicle method on -- right?
 
-A.Yes.
+> A.Yes.
 
-Q.And this was how the bandage was done and the patient can be seen to be holding a medicine bottle, at the bottom picture of 24 and 25, he seemed to be holding a broom and a pen on the lower picture. Okay. So having this picture in mind and what Vicki Pang states here –
+> Q.And this was how the bandage was done and the patient can be seen to be holding a medicine bottle, at the bottom picture of 24 and 25, he seemed to be holding a broom and a pen on the lower picture. Okay. So having this picture in mind and what Vicki Pang states here –
 
-A.Yup.
+> A.Yup.
 
-Q.\-- would you agree that Vicki Pang is correct in saying that _this patient could have done light duties as of 10th August 2011_?
+> Q.\-- would you agree that Vicki Pang is correct in saying that _this patient could have done light duties as of 10th August 2011_?
 
-A. _Yes_.
+> A. _Yes_.
 
-\[emphasis added\]
+> \[emphasis added\]
 
 When Dr Rajaratnam was given the _particulars_ of the light duties assigned by Tellus, he accepted that the Patient could have done light duties as of 10 August 2011.
 
@@ -389,17 +389,17 @@ When Dr Rajaratnam was given the _particulars_ of the light duties assigned by T
 
 84     The evidence in favour of Dr Looi’s account was as follows:
 
-(a)     Ms Ho, a Senior Staff Nurse at the Hospital, who regularly assisted Dr Looi, gave evidence on Dr Looi’s usual practice in the following terms:
+> (a)     Ms Ho, a Senior Staff Nurse at the Hospital, who regularly assisted Dr Looi, gave evidence on Dr Looi’s usual practice in the following terms:
 
-A… And also either before or after the surgery, Dr Looi will ask the safety officer regarding the patient’s job scope or environment to make sure -- because he want to ensure that after the patient discharge from the hospital, his post-op management is well taken care of.
+>> A… And also either before or after the surgery, Dr Looi will ask the safety officer regarding the patient’s job scope or environment to make sure -- because he want to ensure that after the patient discharge from the hospital, his post-op management is well taken care of.
 
-Q… So can you tell us what is Dr Looi’s standard procedure for post-op management? For consultation, for post-op review consultation?
+>> Q… So can you tell us what is Dr Looi’s standard procedure for post-op management? For consultation, for post-op review consultation?
 
-AAlright. Okay, subsequently when a patient who come back for a clinic review, nurses would open up his dressing and let Dr Looi see. … Either the nurses or Dr Looi himself will do a dressing for the patient. And during the process, Dr Looi will assess the workers, whether regarding his wound function, whether the patient warrant for a full MC or a light duties. Okay, if he thinks that the conditions warrant for a full MC, he will issue a full MC to the patient. If the condition doesn’t warrant for a full MC, then he will ask the patients. If there is a communication problem with the patient, then we will speak together with the safety officer or some -- a person that who can translate. Okay, Dr Looi will ask them whether the company will treat him well, whether he is in a lot of pain, and then whether the company has any light duties for him? If light duty is given -- light duty certificate is issued to him, whether the company will still put him as light duty job or still heavy manual labour. … So if Dr Looi finally decide that this worker is warrant for light duties certificate, then he would try his best to ensure that the company is compliant with it and that, in what way is that, we will call up the company or if the next day, the patient can return, and then said that he can’t cope with the light duty or he is in a lot of pain, then Dr Looi will issue a full MC to him. Or if on that day, Dr Looi is not present, the 24-hours walk-in doctor will call up Dr Looi to clarify whether to -- can he issue a full MC to the patient.
+>> AAlright. Okay, subsequently when a patient who come back for a clinic review, nurses would open up his dressing and let Dr Looi see. … Either the nurses or Dr Looi himself will do a dressing for the patient. And during the process, Dr Looi will assess the workers, whether regarding his wound function, whether the patient warrant for a full MC or a light duties. Okay, if he thinks that the conditions warrant for a full MC, he will issue a full MC to the patient. If the condition doesn’t warrant for a full MC, then he will ask the patients. If there is a communication problem with the patient, then we will speak together with the safety officer or some -- a person that who can translate. Okay, Dr Looi will ask them whether the company will treat him well, whether he is in a lot of pain, and then whether the company has any light duties for him? If light duty is given -- light duty certificate is issued to him, whether the company will still put him as light duty job or still heavy manual labour. … So if Dr Looi finally decide that this worker is warrant for light duties certificate, then he would try his best to ensure that the company is compliant with it and that, in what way is that, we will call up the company or if the next day, the patient can return, and then said that he can’t cope with the light duty or he is in a lot of pain, then Dr Looi will issue a full MC to him. Or if on that day, Dr Looi is not present, the 24-hours walk-in doctor will call up Dr Looi to clarify whether to -- can he issue a full MC to the patient.
 
-(b)     Dr Looi’s evidence was that he had discussed with Mr Chia, who was present at the Hospital after the First Stage surgery, the Patient’s work environment and the possibilities for the Patient’s early rehabilitation. His exact testimony was as follows:
+> (b)     Dr Looi’s evidence was that he had discussed with Mr Chia, who was present at the Hospital after the First Stage surgery, the Patient’s work environment and the possibilities for the Patient’s early rehabilitation. His exact testimony was as follows:
 
-A… And therefore, so I told \[the Patient\] to watch out some of these, and then I went on to discuss the work environment with Jimmy. I asked Jimmy what sort of -- whether is it possible to rehab this patient early. … And I also asked -- I also talked to the safety supervisor to see if there is provisions for work and I operate – I have many experience with workers, injured workers from Tellus, and in my experience, the management, the supervisors and the safety officers, they generally care for their workers and they generally, if they are fit for mobilisation and light duty, they generally allocate them to positions of revocation or transitional work to allow them to go back. … so after all this was discussed, we then sent him back to the ward. So because \[the Patient\] responded so well, I then went on to write my probably \[_sic_\] post-operative plan …
+>> A… And therefore, so I told \[the Patient\] to watch out some of these, and then I went on to discuss the work environment with Jimmy. I asked Jimmy what sort of -- whether is it possible to rehab this patient early. … And I also asked -- I also talked to the safety supervisor to see if there is provisions for work and I operate – I have many experience with workers, injured workers from Tellus, and in my experience, the management, the supervisors and the safety officers, they generally care for their workers and they generally, if they are fit for mobilisation and light duty, they generally allocate them to positions of revocation or transitional work to allow them to go back. … so after all this was discussed, we then sent him back to the ward. So because \[the Patient\] responded so well, I then went on to write my probably \[_sic_\] post-operative plan …
 
 85     Dr Looi’s evidence that he spoke with Mr Chia at the Hospital on the day of the Patient’s First Stage surgery was, however, contradicted by Mr Chia himself. Although Mr Chia explained that his role in Tellus entailed that on most occasions he was the one “bringing the injured to the hospital”, the day of the accident, 7 August 2011, was his “off day”. He was therefore only notified about the Patient’s accident by a telephone call from his “safety coordinator”, one Mr Mokasamy Panisivan (“Mr Mokasamy”), who accompanied the Patient to the Hospital. Mr Mokasamy had called initially to ask for authority to take the Patient to the Hospital when he was injured, and had called subsequently to obtain approval for the Hospital’s proposal that the Patient be operated on.
 
@@ -457,9 +457,9 @@ A… And therefore, so I told \[the Patient\] to watch out some of these, and t
 
 106    Having set aside Dr Looi’s conviction on both of the Charges, we consider finally whether either of the Alternative Charges can be established instead. As mentioned earlier, the Alternative Charges were framed along the lines of the second limb of professional misconduct as set out in _Low Cze Hong_. The following findings would have to be made to make out a charge under the second limb of professional misconduct (_Kevin Yip_ at \[51\]; _Wong Him Choon_ at \[49(b)\]):
 
-(a)     that there was serious negligence on the part of the doctor; and
+> (a)     that there was serious negligence on the part of the doctor; and
 
-(b)     that such negligence objectively constituted an abuse of the privileges of being registered as a medical practitioner.
+> (b)     that such negligence objectively constituted an abuse of the privileges of being registered as a medical practitioner.
 
 107    In _Wong Him Choon_, this court stated that serious negligence may be demonstrated by a lack of concern for a patient’s interests. In the context of a charge alleging that a doctor had prescribed inadequate medical leave, serious negligence may be demonstrated by a doctor failing to follow the “very basic principle of obtaining a detailed history from a patient, especially in relation to the nature of his work, before issuing a medical certificate for light duty” \[emphasis in original omitted\] (at \[87\]).
 

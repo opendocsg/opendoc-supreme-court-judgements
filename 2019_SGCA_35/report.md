@@ -15,7 +15,52 @@ Criminal Procedure and Sentencing – Appeal – Jurisdiction
 
 2       In or about 1977, erroneous entries (“the 1977 errors”) were made by the Criminal Records Office (“CRO”) to the applicant’s CRO record. The 1977 errors stated that the applicant was convicted for four traffic offences by the then-Subordinate Courts on 13 April 1977. They were the following, with the sentences imposed shown (with “DQ” signifying the period of disqualification from driving):
 
-<table align="left" cellpadding="0" cellspacing="0" class="Judg-2" frame="none" pgwide="1"><colgroup><col width="49.92%"> <col width="50.08%"> </colgroup><tbody><tr><td align="left" class="" rowspan="1" valign="top"><p class="Table-Heading-Center">Offence</p></td><td align="left" class="" rowspan="1" valign="top"><p class="Table-Heading-Center">Sentence</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Failing to display an “L” plate</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Fine $150</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Failing to insure against third party risks</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Fine $150, one year DQ (the “1977 DQ”)</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Reckless/dangerous driving</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Fine $500</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Carrying a passenger other than an instructor</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Fine $150</p></td></tr></tbody></table>
+>   
+| 
+
+Offence
+
+ | 
+
+Sentence
+
+ |
+| 
+
+Failing to display an “L” plate
+
+ | 
+
+Fine $150
+
+ |
+| 
+
+Failing to insure against third party risks
+
+ | 
+
+Fine $150, one year DQ (the “1977 DQ”)
+
+ |
+| 
+
+Reckless/dangerous driving
+
+ | 
+
+Fine $500
+
+ |
+| 
+
+Carrying a passenger other than an instructor
+
+ | 
+
+Fine $150
+
+ |
 
   
   
@@ -24,13 +69,13 @@ The Prosecution accepted that these four entries were erroneous as the applicant
 
 3       In Criminal Revision 5 of 2018 (“CR 5”) in the High Court, the applicant sought the following reliefs from the Court acting in its revisionary jurisdiction:
 
-(a)     that the 1977 errors be removed from his CRO record;
+> (a)     that the 1977 errors be removed from his CRO record;
 
-(b)     consequent upon (1), his conviction on 13 May 1998 by the then Subordinate Courts (now the State Courts) be set aside or, alternatively, the two-year DQ which was ordered against him be substituted with a DQ of less than one year;
+> (b)     consequent upon (1), his conviction on 13 May 1998 by the then Subordinate Courts (now the State Courts) be set aside or, alternatively, the two-year DQ which was ordered against him be substituted with a DQ of less than one year;
 
-(c)     the convictions entered against him by the then Subordinate Courts on 11 April 2001, 21 July 2005 and 4 June 2009, all of which pertained to traffic offences or related offences, be set aside; and
+> (c)     the convictions entered against him by the then Subordinate Courts on 11 April 2001, 21 July 2005 and 4 June 2009, all of which pertained to traffic offences or related offences, be set aside; and
 
-(d)     the trial of his pending charges in the State Courts be vacated and re-fixed after the disposal of CR 5.
+> (d)     the trial of his pending charges in the State Courts be vacated and re-fixed after the disposal of CR 5.
 
 4       The Prosecution informed us that the applicant’s CRO record was already rectified and that the 1977 errors were expunged even before the High Court heard CR 5 on 13 July 2018. The High Court Judge dismissed CR 5 as he was of the view that the 1977 errors did not occasion “serious or palpable injustice” and he did not see any basis to invoke the Court’s revisionary jurisdiction. No written grounds of decision were given by the High Court.
 
@@ -46,7 +91,7 @@ The Prosecution accepted that these four entries were erroneous as the applicant
 
 10     The applicant argued that the District Court ordered DQ for two years “only and only because the Court took into consideration” the 1977 errors, in particular, the erroneous 1977 DQ for one year. He submitted that the District Court “should have imposed a disqualification for less than one year, in which case his disqualification would only be a suspension of his driving licence and not a revocation or cancellation of his licence altogether.” If that had happened, “his licence would be valid immediately after the expiry of the less than 1 year period of disqualification”. In other words, he would not be required to go through the process of applying for a driving licence again (with all the attendant tests). Flowing from this logic, the applicant added:
 
-Following your petitioner’s submissions above, under a less than 1 year driving disqualification imposed for his 13th May 1998 conviction, for example, for 6 months, he would have had a valid driving licence after 12th March 1999 and following that he would have had a driving licence on each of the following dates of purported offences, that is, 29th September 2000, 30th November 2000, 1st November 2005, 22nd October 2007, 12th February 2008 and 1st February 2009.
+> Following your petitioner’s submissions above, under a less than 1 year driving disqualification imposed for his 13th May 1998 conviction, for example, for 6 months, he would have had a valid driving licence after 12th March 1999 and following that he would have had a driving licence on each of the following dates of purported offences, that is, 29th September 2000, 30th November 2000, 1st November 2005, 22nd October 2007, 12th February 2008 and 1st February 2009.
 
 The applicant appeared to have made a computation error because 6 months after 13 May 1998 would not be 12 March 1999 but we left this aside and considered his arguments on their logic.
 
@@ -54,7 +99,7 @@ The applicant appeared to have made a computation error because 6 months after 1
 
 12     During mitigation on 13 May 1998, Mr Gurdaib Singh was recorded to have said the following:
 
-Accused is 39 years old. Pleading guilty. On the day in question, regular driver not working. Principal Offender drove on an urgent assignment. Regrets the offences. Urges court for leniency. Ask that the disqualification be restricted to Class 4. Married with two children.
+> Accused is 39 years old. Pleading guilty. On the day in question, regular driver not working. Principal Offender drove on an urgent assignment. Regrets the offences. Urges court for leniency. Ask that the disqualification be restricted to Class 4. Married with two children.
 
 It can be seen that the applicant’s counsel submitted on only the classes of driving licence for which the applicant should be disqualified, not on the length of the disqualification. No “special reasons” were highlighted to warrant DQ for less than 12 months. Further, as a director of the company, the applicant had allowed the public to be endangered by the presence of a large vehicle (the applicant says it was a 14-foot lorry) on the roads driven by someone not qualified to handle that sort of vehicle. The DQ for two years was therefore entirely justifiable on these facts alone.
 
@@ -66,7 +111,7 @@ It can be seen that the applicant’s counsel submitted on only the classes of d
 
 16     At 3pm, Mr Leonard Loo was recorded to have said during mitigation (among other things):
 
-… My client cannot understand why he committed the offences. Because he knew that he did not have a driving licence, he drove even more carefully on the road. Admits folly and wishes to be given another chance so that he will not appear in Court again.
+> … My client cannot understand why he committed the offences. Because he knew that he did not have a driving licence, he drove even more carefully on the road. Admits folly and wishes to be given another chance so that he will not appear in Court again.
 
 The applicant was also allowed to address the court in mitigation.
 

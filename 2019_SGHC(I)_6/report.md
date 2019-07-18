@@ -21,27 +21,27 @@ Equity – Remedies – Equitable compensation
 
 2       I invited the parties to liaise to seek to agree on an Order giving effect to the Judgment. This they were unable to do and travelling drafts were prepared indicating the areas of dispute.[^1] Having reviewed these drafts, I directed the Registry to issue a letter on 8 April 2019 which stated:
 
-Subject to anything the parties wish to submit to the contrary, the Court proposes first to deal with the following issues:
+> Subject to anything the parties wish to submit to the contrary, the Court proposes first to deal with the following issues:
 
-1.    The Plaintiff’s entitlement to the order sought in paragraph 2 of its draft.
+>> 1.    The Plaintiff’s entitlement to the order sought in paragraph 2 of its draft.
 
-(a)    Is the Plaintiff entitled to any financial compensation by way of equitable relief in the form of an account in addition to damages at common law?
+>>> (a)    Is the Plaintiff entitled to any financial compensation by way of equitable relief in the form of an account in addition to damages at common law?
 
-(b)    What would be the nature of that account?
+>>> (b)    What would be the nature of that account?
 
-(c)    If not, is the Plaintiff entitled to elect to receive any such equitable relief in lieu of damages at common law?
+>>> (c)    If not, is the Plaintiff entitled to elect to receive any such equitable relief in lieu of damages at common law?
 
-(d)    If so, what election would the Plaintiff make?
+>>> (d)    If so, what election would the Plaintiff make?
 
-2.    The grounds on which the order sought in paragraph 3 of its draft is justified.
+>> 2.    The grounds on which the order sought in paragraph 3 of its draft is justified.
 
-3.    Whether the order as to financial compensation should be in the form sought by the Plaintiff at paragraph 4 of its draft or by the Defendant in paragraph 2 of its draft?
+>> 3.    Whether the order as to financial compensation should be in the form sought by the Plaintiff at paragraph 4 of its draft or by the Defendant in paragraph 2 of its draft?
 
-4.    Whether any assessment of costs should await the outcome of any appeal?
+>> 4.    Whether any assessment of costs should await the outcome of any appeal?
 
-5.    Whether any assessment of financial compensation should proceed or whether it should be stayed pending any appeal?
+>> 5.    Whether any assessment of financial compensation should proceed or whether it should be stayed pending any appeal?
 
-The Court considers that these matters are capable of being resolved on the basis of written submissions without the need for an oral hearing but will appoint an oral hearing if either party requests it.
+> The Court considers that these matters are capable of being resolved on the basis of written submissions without the need for an oral hearing but will appoint an oral hearing if either party requests it.
 
 3       Thereafter the parties provided written submissions and did not seek an oral hearing. This is therefore my decision on the Order.
 
@@ -73,7 +73,7 @@ The Court considers that these matters are capable of being resolved on the basi
 
 14     In the light of \[4\]–\[9\] above, paragraph 4 of that draft, now paragraph 2 of the draft Judgment, should be rewritten as follows:
 
-2.    The Defendant is liable to pay the Plaintiff damages in respect of the breach of contract referred to at \[1\] above or equitable compensation in respect of the breach of trust referred to at \[1\] above. The Plaintiff’s right to elect between the two shall be the subject of a further hearing and thereafter such damages or compensation shall be assessed if not agreed. The costs of the assessment are reserved.
+> 2.    The Defendant is liable to pay the Plaintiff damages in respect of the breach of contract referred to at \[1\] above or equitable compensation in respect of the breach of trust referred to at \[1\] above. The Plaintiff’s right to elect between the two shall be the subject of a further hearing and thereafter such damages or compensation shall be assessed if not agreed. The costs of the assessment are reserved.
 
 ## Interest and Costs (Paragraphs 5 and 6 of the Plaintiff’s draft)
 
@@ -89,7 +89,7 @@ The Court considers that these matters are capable of being resolved on the basi
 
 19     The following sentence shall thus be added to the (new) paragraph 4 of the draft:
 
-The Defendant shall be at liberty following assessment or agreement to apply to the Court either for a stay of payment pending judgment on the appeal or for terms to be imposed on such payment pending judgment thereon or further order in the meantime.
+> The Defendant shall be at liberty following assessment or agreement to apply to the Court either for a stay of payment pending judgment on the appeal or for terms to be imposed on such payment pending judgment thereon or further order in the meantime.
 
 ## Stay of the Assessment
 
@@ -101,19 +101,19 @@ The Defendant shall be at liberty following assessment or agreement to apply to 
 
 22     Accordingly, the correct way forward is as follows:
 
-(a)     The Plaintiff will within 28 days of the date of this Order serve a pleading in the form of Points of Claim in support of its claim to financial compensation.
+> (a)     The Plaintiff will within 28 days of the date of this Order serve a pleading in the form of Points of Claim in support of its claim to financial compensation.
 
-(b)     It will within the same period plead its case on its right to elect in the circumstances of this case for equitable financial relief in the alternative to common law damages, on the time at which any such right must be exercised and on the alleged limitation of liability issue referred to in \[135\] of the Judgment.
+> (b)     It will within the same period plead its case on its right to elect in the circumstances of this case for equitable financial relief in the alternative to common law damages, on the time at which any such right must be exercised and on the alleged limitation of liability issue referred to in \[135\] of the Judgment.
 
-(c)     If the Plaintiff wishes to make an application for interim payment, it will, within the same period, make such an application.
+> (c)     If the Plaintiff wishes to make an application for interim payment, it will, within the same period, make such an application.
 
-(d)     Within 28 days of service of the Points of Claim referred to in (b) above the Defendant will serve Points of Defence together with its pleading in response to the matters set out in (b) above.
+> (d)     Within 28 days of service of the Points of Claim referred to in (b) above the Defendant will serve Points of Defence together with its pleading in response to the matters set out in (b) above.
 
-(e)     The parties will within 28 days confer on the quantum of costs and disbursements up to and including disposal of this action on liability to be paid by the Defendant to the Plaintiff, and shall notify the Court of the extent of the parties’ agreement or disagreement, and, if not agreed, the Court shall fix the said quantum of costs and disbursements.
+> (e)     The parties will within 28 days confer on the quantum of costs and disbursements up to and including disposal of this action on liability to be paid by the Defendant to the Plaintiff, and shall notify the Court of the extent of the parties’ agreement or disagreement, and, if not agreed, the Court shall fix the said quantum of costs and disbursements.
 
-(f)     Thereafter a Case Management Conference will be appointed for further directions.
+> (f)     Thereafter a Case Management Conference will be appointed for further directions.
 
-(g)     The Parties have liberty to apply.
+> (g)     The Parties have liberty to apply.
 
 23     The Plaintiff’s draft Order contains a provision for the discharge of the Security given by the Plaintiff for the Defendant’s costs up to the trial of the action. I have received no submissions on this matter. If the Defendant does not consent to the discharge, reasons should be given in writing prior to the next Case Management Conference.
 
@@ -123,51 +123,51 @@ The Defendant shall be at liberty following assessment or agreement to apply to 
 
 This action having been tried before the Honourable Justice Simon Thorley on 21, 22, 23, 26 and 29 November 2018, **IT IS THIS DAY ADJUDGED THAT:**
 
-1.     The Defendant has acted in breach of contract and in breach of trust, in respect of its reversal of the Trades (as defined at \[6\] of the Statement of Claim filed herein) and the deduction of 3084.78582325 BTC from the Plaintiff’s account maintained with the Defendant, and refusing to pay and/or withholding the same from the Plaintiff;
+> 1.     The Defendant has acted in breach of contract and in breach of trust, in respect of its reversal of the Trades (as defined at \[6\] of the Statement of Claim filed herein) and the deduction of 3084.78582325 BTC from the Plaintiff’s account maintained with the Defendant, and refusing to pay and/or withholding the same from the Plaintiff;
 
-2.     The Defendant held and continues to hold on trust and is liable to account to the Plaintiff for 3084.78582325 BTC, and/or any and all assets, properties and/or benefits representing all or part of the same, and there be an account and inquiry of the same;
+> 2.     The Defendant held and continues to hold on trust and is liable to account to the Plaintiff for 3084.78582325 BTC, and/or any and all assets, properties and/or benefits representing all or part of the same, and there be an account and inquiry of the same;
 
-3.     The Defendant is liable to indemnify the Plaintiff and keep the Plaintiff indemnified in respect of any loss, damage, cost and/or expense which has been or may be suffered by the Plaintiff by reason of the breach referred to at \[1\] above, and to pay the Plaintiff any and all such loss, damage, cost and/or expense, as assessed if not agreed;
+> 3.     The Defendant is liable to indemnify the Plaintiff and keep the Plaintiff indemnified in respect of any loss, damage, cost and/or expense which has been or may be suffered by the Plaintiff by reason of the breach referred to at \[1\] above, and to pay the Plaintiff any and all such loss, damage, cost and/or expense, as assessed if not agreed;
 
-4.     The Defendant is liable to pay the Plaintiff damages in respect of the breach of contract referred to at \[1\] above, and/or equitable compensation in respect of the breach of trust referred to at \[1\] above, as assessed if not agreed;
+> 4.     The Defendant is liable to pay the Plaintiff damages in respect of the breach of contract referred to at \[1\] above, and/or equitable compensation in respect of the breach of trust referred to at \[1\] above, as assessed if not agreed;
 
-5.     The Defendant shall pay to the Plaintiff interest pursuant to the Civil Law Act on all sums due and/or found to be due under \[3\] to \[4\] above, at the rate of 5.33% per annum, for the period of 20 April 2017 to the date of this judgment;
+> 5.     The Defendant shall pay to the Plaintiff interest pursuant to the Civil Law Act on all sums due and/or found to be due under \[3\] to \[4\] above, at the rate of 5.33% per annum, for the period of 20 April 2017 to the date of this judgment;
 
-6.     The Defendant shall pay the Plaintiff costs and disbursements up to and including the disposal of this action on liability, such costs and disbursements to be fixed if not agreed.
+> 6.     The Defendant shall pay the Plaintiff costs and disbursements up to and including the disposal of this action on liability, such costs and disbursements to be fixed if not agreed.
 
 ## Annex B: the Defendant’s proposed draft judgment
 
 This action having been tried before the Honourable Justice Simon Thorley on 21, 22, 23, 26 and 29 November 2018, **IT IS THIS DAY ADJUDGED THAT:**
 
-1.     The Defendant has acted in breach of contract and in breach of trust, in respect of its reversal of the Trades (as defined at \[6\] of the Statement of Claim filed herein) and the deduction of 3084.78582325 BTC from the Plaintiff’s account maintained with the Defendant, and refusing to pay and/or withholding the same from the Plaintiff;
+> 1.     The Defendant has acted in breach of contract and in breach of trust, in respect of its reversal of the Trades (as defined at \[6\] of the Statement of Claim filed herein) and the deduction of 3084.78582325 BTC from the Plaintiff’s account maintained with the Defendant, and refusing to pay and/or withholding the same from the Plaintiff;
 
-2.     The Defendant is liable to pay the Plaintiff damages in respect of the breach of contract and/or breach of trust referred to at \[1\] above, as assessed if not agreed;
+> 2.     The Defendant is liable to pay the Plaintiff damages in respect of the breach of contract and/or breach of trust referred to at \[1\] above, as assessed if not agreed;
 
-3.     The Defendant shall pay to the Plaintiff interest pursuant to the Civil Law Act on all sums due and/or found to be due under \[2\] above, at the rate of 5.33% per annum, for the period of 20 April 2017 to the date of this judgment;
+> 3.     The Defendant shall pay to the Plaintiff interest pursuant to the Civil Law Act on all sums due and/or found to be due under \[2\] above, at the rate of 5.33% per annum, for the period of 20 April 2017 to the date of this judgment;
 
-4.     The Defendant shall pay the Plaintiff costs and disbursements up to and including the disposal of this action on liability, such costs and disbursements to be fixed if not agreed.
+> 4.     The Defendant shall pay the Plaintiff costs and disbursements up to and including the disposal of this action on liability, such costs and disbursements to be fixed if not agreed.
 
 ## Annex C: the Plaintiff’s proposed draft Order
 
 AT THE CASE MANAGEMENT CONFERENCE on \[●\], UPON READING \[●\], AND UPON HEARING Counsel for the Plaintiff and Counsel for the Defendant, IT IS ORDERED THAT:
 
-1.     Parties shall, within 1 month of the date of this order, confer on the quantum of the costs and disbursements up to and including the disposal of this action on liability to be paid by the Defendant to the Plaintiff, and shall notify the Court of the extent of the parties’ agreement or disagreement, and if disagreed, the Court shall thereafter fix the said quantum of costs and disbursements;
+> 1.     Parties shall, within 1 month of the date of this order, confer on the quantum of the costs and disbursements up to and including the disposal of this action on liability to be paid by the Defendant to the Plaintiff, and shall notify the Court of the extent of the parties’ agreement or disagreement, and if disagreed, the Court shall thereafter fix the said quantum of costs and disbursements;
 
-2.     In respect of the trial on assessment of damages and/or equitable compensation and an account and inquiry (the “**Assessment and Inquiry**”):
+> 2.     In respect of the trial on assessment of damages and/or equitable compensation and an account and inquiry (the “**Assessment and Inquiry**”):
 
-(a)       parties shall, by 30 April 2019, disclose the identity of their respective quantum expert, and confer as to the issues on which the experts are to. The parties shall, by 15 May 2019, notify the Court of the extent of the parties’ agreement or disagreement on the above matters, and the Court shall thereafter issue directions on the same;
+>> (a)       parties shall, by 30 April 2019, disclose the identity of their respective quantum expert, and confer as to the issues on which the experts are to. The parties shall, by 15 May 2019, notify the Court of the extent of the parties’ agreement or disagreement on the above matters, and the Court shall thereafter issue directions on the same;
 
-(b)       parties shall, by 31 May 2019, file and serve a Supplementary List of Documents (“**SLOD**”) enumerating the documents on which they rely, in respect of the Assessment and Inquiry, and parties shall within 7 days of such filing and service, produce to the other copies of all documents enumerated in their respective SLOD;
+>> (b)       parties shall, by 31 May 2019, file and serve a Supplementary List of Documents (“**SLOD**”) enumerating the documents on which they rely, in respect of the Assessment and Inquiry, and parties shall within 7 days of such filing and service, produce to the other copies of all documents enumerated in their respective SLOD;
 
-(c)       if necessary, parties shall, by 14 June 2019, serve on the other their respective requests to produce documents; and
+>> (c)       if necessary, parties shall, by 14 June 2019, serve on the other their respective requests to produce documents; and
 
-(d) parties shall, by 31 August 2019, file and serve the affidavits of evidence-in-chief of their respective factual and/or expert witnesses in respect of the Assessment and Inquiry;
+>> (d) parties shall, by 31 August 2019, file and serve the affidavits of evidence-in-chief of their respective factual and/or expert witnesses in respect of the Assessment and Inquiry;
 
-3.     The alleged limitation of liability point referred to at \[135\] of the Judgment in _B2C2 Ltd v Quoine Pte Ltd_ \[2019\] SGHC(I) 03 shall be disposed together with the issues in respect of the Assessment and Inquiry;
+> 3.     The alleged limitation of liability point referred to at \[135\] of the Judgment in _B2C2 Ltd v Quoine Pte Ltd_ \[2019\] SGHC(I) 03 shall be disposed together with the issues in respect of the Assessment and Inquiry;
 
-4.     The Plaintiff shall, within 1 month of the date of this order, make its application for interim payment of damages and/or equitable compensation; and
+> 4.     The Plaintiff shall, within 1 month of the date of this order, make its application for interim payment of damages and/or equitable compensation; and
 
-5.     The security for the Defendant’s costs up to the trial of the action in the sum of S$80,000, given by the Plaintiff by way of solicitor’s undertaking on 27 July 2017, is discharged.
+> 5.     The security for the Defendant’s costs up to the trial of the action in the sum of S$80,000, given by the Plaintiff by way of solicitor’s undertaking on 27 July 2017, is discharged.
 
 * * *
 

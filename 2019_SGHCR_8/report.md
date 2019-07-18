@@ -109,25 +109,25 @@ Civil Procedure – Judgments and orders
 
 40     On appeal, the House of Lords dismissed the appeal. In the judgment, Lord Wilberforce stated a few uncontroversial propositions of law (at pp 392 -394):
 
-First, in a contract for the sale of land, after time has been made, or has become, of the essence of the contract, if the purchaser fails to complete, the vendor can _either_ treat the purchaser as having repudiated the contract, accept the repudiation, and proceed to claim damages for breach of the contract, both parties being discharged from further performance of the contract; _or_ he may seek from the court an order for specific performance with damages for any loss arising from delay in performance. (Similar remedies are of course available to purchasers against vendors.) This is simply the ordinary law of contract applied to contracts capable of specific performance.
+> First, in a contract for the sale of land, after time has been made, or has become, of the essence of the contract, if the purchaser fails to complete, the vendor can _either_ treat the purchaser as having repudiated the contract, accept the repudiation, and proceed to claim damages for breach of the contract, both parties being discharged from further performance of the contract; _or_ he may seek from the court an order for specific performance with damages for any loss arising from delay in performance. (Similar remedies are of course available to purchasers against vendors.) This is simply the ordinary law of contract applied to contracts capable of specific performance.
 
-Secondly, the vendor may proceed by action for the above remedies (viz. specific performance or damages) in the alternative. At the trial he will however have to elect which remedy to pursue.
+> Secondly, the vendor may proceed by action for the above remedies (viz. specific performance or damages) in the alternative. At the trial he will however have to elect which remedy to pursue.
 
-Thirdly, if the vendor treats the purchaser as having repudiated the contract and accepts the repudiation, he cannot thereafter seek specific performance. This follows from the fact that, the purchaser having repudiated the contract and his repudiation having been accepted, both parties are discharged from further performance.
+> Thirdly, if the vendor treats the purchaser as having repudiated the contract and accepts the repudiation, he cannot thereafter seek specific performance. This follows from the fact that, the purchaser having repudiated the contract and his repudiation having been accepted, both parties are discharged from further performance.
 
-At this point it is important to dissipate a fertile source of confusion and to make clear that although the vendor is sometimes referred to in the above situation as "rescinding" the contract, this so-called "rescission" is quite different from rescission ab initio, such as may arise for example in cases of mistake, fraud or lack of consent. In those cases, the contract is treated in law as never having come into existence. (Cases of a contractual right to rescind may fall under this principle but are not relevant to the present discussion.) In the case of an accepted repudiatory breach the contract has come into existence but has been put an end to or discharged. Whatever contrary indications may be disinterred from old authorities, it is now quite clear, under the general law of contract, that acceptance of a repudiatory breach does not bring about "rescission ab initio."
+> At this point it is important to dissipate a fertile source of confusion and to make clear that although the vendor is sometimes referred to in the above situation as "rescinding" the contract, this so-called "rescission" is quite different from rescission ab initio, such as may arise for example in cases of mistake, fraud or lack of consent. In those cases, the contract is treated in law as never having come into existence. (Cases of a contractual right to rescind may fall under this principle but are not relevant to the present discussion.) In the case of an accepted repudiatory breach the contract has come into existence but has been put an end to or discharged. Whatever contrary indications may be disinterred from old authorities, it is now quite clear, under the general law of contract, that acceptance of a repudiatory breach does not bring about "rescission ab initio."
 
-Fourthly, if an order for specific performance is sought and is made, the contract remains in effect and is not merged in the judgment for specific performance.
+> Fourthly, if an order for specific performance is sought and is made, the contract remains in effect and is not merged in the judgment for specific performance.
 
-Fifthly, if the order for specific performance is not complied with by the purchaser, the vendor may _either_ apply to the court for enforcement of the order, _or_ may apply to the court to dissolve the order and ask the court to put an end to the contract.
+> Fifthly, if the order for specific performance is not complied with by the purchaser, the vendor may _either_ apply to the court for enforcement of the order, _or_ may apply to the court to dissolve the order and ask the court to put an end to the contract.
 
 41     Lord Wilberforce went on to cite with approval an Australian case which he held was very similar to _Agnew_ and that is the case of _McKenna v Richey_ \[1950\] V.L.R. 360. _McKenna v Richey_ was a case decided by the Supreme Court of Victoria that, after an order for specific performance have been made, which in the events could not be carried into effect, even though this was by reason of delay on the part of the plaintiff, the plaintiff could still come to court and ask for damages on the basis of an accepted repudiation. Lord Wilberforce held that the following passage from the case was illuminating (at p 397):
 
-The apparent inconsistency of a plaintiff suing for specific performance and for common law damages in the alternative arises from the fact that, in order to avoid circuitry of action, there is vested in the one court jurisdiction to grant either form of relief. The plaintiff, in effect, is saying: 'I don't accept your repudiation of the contract but am willing to perform my part of the contract and insist upon your performing your part - but if I cannot successfully insist on your performing your part, I will accept the repudiation and ask for damages.' Until the defendant's repudiation is accepted the contract remains on foot, with all the possible consequences of that fact. But if, from first to last, the defendant continues unwilling to perform her part of the contract, then, if for any reason the contract cannot be specifically enforced, the plaintiff may, in my opinion, turn round and say: 'Very well, I cannot have specific performance; I will now ask for my alternative remedy of damages at common law.' This, in my opinion, is equally applicable both before and after decree whether the reason for the refusal or the failure of the decree of specific performance is due to inability of the defendant to give any title to the property sold, or to the conduct of the plaintiff which makes it inequitable for the contract to be specifically enforced...."
+> The apparent inconsistency of a plaintiff suing for specific performance and for common law damages in the alternative arises from the fact that, in order to avoid circuitry of action, there is vested in the one court jurisdiction to grant either form of relief. The plaintiff, in effect, is saying: 'I don't accept your repudiation of the contract but am willing to perform my part of the contract and insist upon your performing your part - but if I cannot successfully insist on your performing your part, I will accept the repudiation and ask for damages.' Until the defendant's repudiation is accepted the contract remains on foot, with all the possible consequences of that fact. But if, from first to last, the defendant continues unwilling to perform her part of the contract, then, if for any reason the contract cannot be specifically enforced, the plaintiff may, in my opinion, turn round and say: 'Very well, I cannot have specific performance; I will now ask for my alternative remedy of damages at common law.' This, in my opinion, is equally applicable both before and after decree whether the reason for the refusal or the failure of the decree of specific performance is due to inability of the defendant to give any title to the property sold, or to the conduct of the plaintiff which makes it inequitable for the contract to be specifically enforced...."
 
-And later the learned judge said, at p. 376:
+> And later the learned judge said, at p. 376:
 
-"It is an appropriate case for a court of equity to say: 'As a matter of discretion, this contract should not now be enforced specifically, but, in lieu of the decree for specific performance, the court will award the plaintiff such damages as have been suffered by her in consequence of the defendant's breach. That is the best justice that can be done in this case.'"
+>> "It is an appropriate case for a court of equity to say: 'As a matter of discretion, this contract should not now be enforced specifically, but, in lieu of the decree for specific performance, the court will award the plaintiff such damages as have been suffered by her in consequence of the defendant's breach. That is the best justice that can be done in this case.'"
 
 42     Lord Wilberforce cited the above passage in _McKenna v Richey_ with approval and concluded that he was happy to follow the reasoning in this case (at p 398B).
 
@@ -141,31 +141,31 @@ And later the learned judge said, at p. 376:
 
 46     The context of Lord Wilberforce’s observation is made even clearer when one juxtaposed it with his Lordship’s citation of _McKenna v Richey_ at p 397D to E of the judgment, where he explained what the effect of a plaintiff suing for specific performance and for common law damages in the alternative is:
 
-The plaintiff, in effect, is saying: ‘I don’t accept your repudiation of the contract but am willing to perform my part of the contract and insist upon your performing your part – _but if I cannot successfully insist on your performing your part, I will accept the repudiation and ask for damages_.’ Until the defendant's repudiation is accepted the contract remains on foot, with all the possible consequences of that fact. But if, from first to last, the defendant continues unwilling to perform her part of the contract, then, if for any reason the contract cannot be specifically enforced, the plaintiff may, in my opinion, turn round and say: 'Very well, I cannot have specific performance; I will now ask for my alternative remedy of damages at common law.'
+> The plaintiff, in effect, is saying: ‘I don’t accept your repudiation of the contract but am willing to perform my part of the contract and insist upon your performing your part – _but if I cannot successfully insist on your performing your part, I will accept the repudiation and ask for damages_.’ Until the defendant's repudiation is accepted the contract remains on foot, with all the possible consequences of that fact. But if, from first to last, the defendant continues unwilling to perform her part of the contract, then, if for any reason the contract cannot be specifically enforced, the plaintiff may, in my opinion, turn round and say: 'Very well, I cannot have specific performance; I will now ask for my alternative remedy of damages at common law.'
 
 47     In fact, this was what happened in _Agnew_. The plaintiff vendors first obtained an order for specific performance through a summary judgment. However, the defendant purchaser still did not complete the sales and purchase of the properties as required under the order. Eventually, the properties were forced sold by the mortgagees and naturally, the order for specific performance could no longer be enforced. Hence, the plaintiff vendors went back to Court to ask for their alternative declaration that they were no longer required to perform the contract on the grounds of defendant’s repudiation and to seek their alternative remedy of damages at common law.
 
 48     Nonetheless, this was not the state of the plaintiff’s pleadings in its First SOC. The plaintiff pleaded at paragraphs 12, 13 and the reliefs sought were as follows:
 
-12.    By reason of the aforesaid, the Plaintiff is entitled to specific performance of the Agreement, and payment of the Outstanding Sum from the Defendant.
+> 12.    By reason of the aforesaid, the Plaintiff is entitled to specific performance of the Agreement, and payment of the Outstanding Sum from the Defendant.
 
-13.    In the alternative, by reason of the Defendant’s aforesaid breaches of the Agreement, the Plaintiff has suffered loss and damages.
+> 13.    In the alternative, by reason of the Defendant’s aforesaid breaches of the Agreement, the Plaintiff has suffered loss and damages.
 
-….
+> ….
 
-And the Plaintiff claims:
+> And the Plaintiff claims:
 
-(i)    An order for specific performance by the Defendant of the Agreement;
+>> (i)    An order for specific performance by the Defendant of the Agreement;
 
-(ii)   The outstanding Sum of US$6,250,000;
+>> (ii)   The outstanding Sum of US$6,250,000;
 
-(iii)   in the alternative, damages to be assessed;
+>> (iii)   in the alternative, damages to be assessed;
 
-(iv)   interest on the Outstanding Sum at the rate of 4% per annum, compounded monthly and calculated on the basis of the actual number of days elapsed and a 360-day year or, in the alternative, interest pursuant to section 12 of the Civil Law Act;
+>> (iv)   interest on the Outstanding Sum at the rate of 4% per annum, compounded monthly and calculated on the basis of the actual number of days elapsed and a 360-day year or, in the alternative, interest pursuant to section 12 of the Civil Law Act;
 
-(v)    costs; and
+>> (v)    costs; and
 
-(vi)   such further or other relief as this Honourable Court deems fit.
+>> (vi)   such further or other relief as this Honourable Court deems fit.
 
 49     Nowhere in the First SOC did the plaintiff plead in the alternative, that the defendant’s earlier failures to pay the Balance Sum evinced an intention on the defendant’s part never to perform its obligations under the Agreement, which amounted to a repudiatory breach; and therefore in the alternative to a claim for specific performance, the plaintiff also seeks the declaration that it is no longer bound to perform the Agreement.
 

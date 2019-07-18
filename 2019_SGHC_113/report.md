@@ -21,9 +21,9 @@ Equity – Fraud
 
 1       The plaintiff, Lilyana Alwi, commenced Suit No 159 of 2016 on 18 February 2016 against the defendant, John Arifin, seeking:
 
-(a)     a declaration that she was the sole beneficiary of moneys held in certain joint accounts with the defendant, together with other orders to give effect to this declaration;[^1] and
+> (a)     a declaration that she was the sole beneficiary of moneys held in certain joint accounts with the defendant, together with other orders to give effect to this declaration;[^1] and
 
-(b)     that the defendant account as trustee for alleged breaches of trust and/or fiduciary duties.[^2]
+> (b)     that the defendant account as trustee for alleged breaches of trust and/or fiduciary duties.[^2]
 
 2       The plaintiff also sought the return of several pieces of jewellery (“the Jewellery”) which were allegedly handed over to the defendant to be held on trust for her sometime in 1998.
 
@@ -48,25 +48,25 @@ Equity – Fraud
 
 9       Second, the plaintiff alleged that there was an express trust agreement between her and the defendant which was formed orally (“the Express Trust Agreement”). According to the plaintiff, she had discussed the opening of joint accounts with Mr Arifin, following which she approached the defendant and his wife Anna Ho (“Mdm Ho”) for assistance. It was during this process that the Express Trust Agreement was formed.[^10] Under this agreement, the plaintiff would remit the sales proceeds of the Simprug Property into a joint account with the defendant in Singapore to be held on trust for her.[^11] The defendant would help to manage the moneys in the joint account and would, as trustee, owe fiduciary duties including:[^12]
 
-(a)     to hold the moneys solely for the benefit of the plaintiff, and to act only on her instructions in relation to the same;
+> (a)     to hold the moneys solely for the benefit of the plaintiff, and to act only on her instructions in relation to the same;
 
-(b)     to act in good faith and in the best interests of the plaintiff; and
+> (b)     to act in good faith and in the best interests of the plaintiff; and
 
-(c)     not to place or allow himself to be placed in a situation or position whereby any of his duties and obligations to the plaintiff conflict or may conflict with his own personal interests.
+> (c)     not to place or allow himself to be placed in a situation or position whereby any of his duties and obligations to the plaintiff conflict or may conflict with his own personal interests.
 
 10     The plaintiff relied primarily on the defendant’s conduct in relation to the Joint Accounts to prove the existence of the Express Trust Agreement.[^13] The plaintiff also relied on an email where the defendant stated that he was assisting the plaintiff in “\[investing\]… and \[looking\] after \[her\] account”.[^14]
 
 11     The plaintiff claimed that the following payments were made in breach of fiduciary duties owed to the plaintiff by the defendant:[^15]
 
-(a)     payment of US$19,000 to Trina Arifin (“Trina”), a daughter of the defendant, on 31 January 2008;
+> (a)     payment of US$19,000 to Trina Arifin (“Trina”), a daughter of the defendant, on 31 January 2008;
 
-(b)     payment of US$16,000 to Trina on 23 April 2008;
+> (b)     payment of US$16,000 to Trina on 23 April 2008;
 
-(c)     payment of S$335,000 to the defendant allegedly for the setting up of an “Arifin Fund” for the benefit of the plaintiff’s grandchildren. On this sum, the defendant explained that it was derived from two payments of US$95,000 on 17 April 2008 and £76,726.05 on 28 May 2008, which were equivalent to about S$335,304.44 (based on agreed upon exchange rates).[^16] More will be said below about these two payments;
+> (c)     payment of S$335,000 to the defendant allegedly for the setting up of an “Arifin Fund” for the benefit of the plaintiff’s grandchildren. On this sum, the defendant explained that it was derived from two payments of US$95,000 on 17 April 2008 and £76,726.05 on 28 May 2008, which were equivalent to about S$335,304.44 (based on agreed upon exchange rates).[^16] More will be said below about these two payments;
 
-(d)     payment of S$60,000 to the defendant on 7 January 2014, allegedly for the repayment of loans and reimbursement of medical expenses incurred on behalf of the plaintiff; and
+> (d)     payment of S$60,000 to the defendant on 7 January 2014, allegedly for the repayment of loans and reimbursement of medical expenses incurred on behalf of the plaintiff; and
 
-(e)     cumulative withdrawals of S$43,525.25 for alleged cumulative credit card payments of the plaintiff.
+> (e)     cumulative withdrawals of S$43,525.25 for alleged cumulative credit card payments of the plaintiff.
 
 12     The plaintiff also claimed that a sum of S$128,581.99 remained unaccounted for in the Joint Accounts and that the defendant should provide an account for the same.[^17]
 
@@ -88,13 +88,13 @@ Equity – Fraud
 
 20     The issues to be determined are:
 
-(a)     the ownership of the moneys in the Joint Accounts, which requires a consideration of: (i) the ownership of the Simprug Property; and (ii) the extent of the plaintiff’s interest in the moneys in the Initial Citibank Joint Account;
+> (a)     the ownership of the moneys in the Joint Accounts, which requires a consideration of: (i) the ownership of the Simprug Property; and (ii) the extent of the plaintiff’s interest in the moneys in the Initial Citibank Joint Account;
 
-(b)     whether the plaintiff was able to establish the Express Trust Agreement;
+> (b)     whether the plaintiff was able to establish the Express Trust Agreement;
 
-(c)     whether the defendant had breached his fiduciary duties in respect of the six disputed payments and the alleged unaccounted sum; and
+> (c)     whether the defendant had breached his fiduciary duties in respect of the six disputed payments and the alleged unaccounted sum; and
 
-(d)     whether the plaintiff handed the Jewellery to the defendant to be held on trust for the plaintiff.
+> (d)     whether the plaintiff handed the Jewellery to the defendant to be held on trust for the plaintiff.
 
 ## Ownership of the moneys in the Joint Accounts
 
@@ -104,13 +104,13 @@ Equity – Fraud
 
 22     While the plaintiff accepted that Mr Arifin held the legal title to the Simprug Property,[^26] she took the position that she was a joint owner of the Simprug Property for the following reasons:
 
-(a)     Mr Arifin intended for his legal rights to the Simprug Property to be bequeathed to the plaintiff upon his death. This was evidenced by documents purporting to be Mr Arifin’s final will dated 11 October 2006 (“the Final Will”) and a draft will dated 11 October 2006 (“the Draft Will”);[^27]
+> (a)     Mr Arifin intended for his legal rights to the Simprug Property to be bequeathed to the plaintiff upon his death. This was evidenced by documents purporting to be Mr Arifin’s final will dated 11 October 2006 (“the Final Will”) and a draft will dated 11 October 2006 (“the Draft Will”);[^27]
 
-(b)     the Simprug Property was purchased during her marriage to Mr Arifin and they had lived in it;[^28]
+> (b)     the Simprug Property was purchased during her marriage to Mr Arifin and they had lived in it;[^28]
 
-(c)     the plaintiff was actively consulted and involved in the sale process of the Simprug Property in 2007;[^29] and
+> (c)     the plaintiff was actively consulted and involved in the sale process of the Simprug Property in 2007;[^29] and
 
-(d)     the plaintiff’s consent to the sale was required under Indonesian law.[^30]
+> (d)     the plaintiff’s consent to the sale was required under Indonesian law.[^30]
 
 23     I do not think that the evidence shows that the plaintiff had any legal or beneficial interest in the Simprug Property at the time it was sold in 2007.
 
@@ -132,19 +132,19 @@ Equity – Fraud
 
 31     Having determined that the Simprug Property was owned by Mr Arifin, I have to consider his intention when he caused the sales proceeds to be paid into the Initial Citibank Joint Account in the names of the plaintiff and defendant. Should the court be unable to discern a clear intention on the part of Mr Arifin, the presumption of resulting trust or the presumption of advancement would then be applied. The following passage from _Lim Chen Yeow Kelvin v Goh Chin Peng_ <span class="citation">\[2008\] 4 SLR(R) 783</span> at \[116\] (cited by the Court of Appeal in _Chan Yuen Lan v See Fong Mun_ <span class="citation">\[2014\] 3 SLR 1048</span> at \[52\]) sets out of the approach to be adopted:
 
-If the court could discern a clear intention on the part of the deceased… then there should be no need to apply any presumption of a resulting trust to aid the fact-finding or decision-making process. Only when the court is not able to find any clear intention or if the evidence is inconclusive either way as to what the deceased’s real intention might be, then in this rather limited and exceptional situation (where the evidence is so finely balanced on either side) should the court apply the evidential presumption of a resulting trust to tilt the balance…
+> If the court could discern a clear intention on the part of the deceased… then there should be no need to apply any presumption of a resulting trust to aid the fact-finding or decision-making process. Only when the court is not able to find any clear intention or if the evidence is inconclusive either way as to what the deceased’s real intention might be, then in this rather limited and exceptional situation (where the evidence is so finely balanced on either side) should the court apply the evidential presumption of a resulting trust to tilt the balance…
 
 32     I mention the presumption of advancement as well because the plaintiff and defendant were the wife and eldest son of Mr Arifin respectively. Since the plaintiff and defendant were Mr Arifin’s wife and child respectively, the presumption of advancement would apply to displace the presumption of resulting trust which would otherwise have applied: _Lau Siew Kim v Yeo Guan Chye Terence and another_ <span class="citation">\[2008\] 2 SLR(R) 108</span> at \[57\], \[68\] and \[77\].
 
 33     The plaintiff’s position was that Mr Arifin intended to give the entire proceeds from the sale of the Simprug Property to her.[^37] The plaintiff raised several arguments in this regard:
 
-(a)     the Final Will evinced Mr Arifin’s intention for the plaintiff to benefit from the proceeds of the sale of the Simprug Property;[^38]
+> (a)     the Final Will evinced Mr Arifin’s intention for the plaintiff to benefit from the proceeds of the sale of the Simprug Property;[^38]
 
-(b)     Mr Arifin had told Peter, his second son, that the sales proceeds from the Simprug Property were a gift to the plaintiff;[^39]
+> (b)     Mr Arifin had told Peter, his second son, that the sales proceeds from the Simprug Property were a gift to the plaintiff;[^39]
 
-(c)     given Mr Arifin’s age and health when the Simprug Property was sold in 2007, it was not unreasonable for him to think of providing for the plaintiff should he pass away;[^40] and
+> (c)     given Mr Arifin’s age and health when the Simprug Property was sold in 2007, it was not unreasonable for him to think of providing for the plaintiff should he pass away;[^40] and
 
-(d)     the defendant’s admissions at trial and in emails to his brother David Arifin (“David”) that he had no beneficial interest in the moneys in the Joint Accounts.[^41]
+> (d)     the defendant’s admissions at trial and in emails to his brother David Arifin (“David”) that he had no beneficial interest in the moneys in the Joint Accounts.[^41]
 
 34     The defendant’s claim to half the moneys in the Initial Citibank Joint Account was based on a conversation which he allegedly had with Mr Arifin whereby the latter had told him that the money was “for you both”.[^42] The defendant also relied on his status as a joint holder of the Initial Citibank Joint Account with the liberty, as an authorised signatory, to withdraw all the moneys in the account unilaterally. According to him, the rule of equality applied in this case and he was entitled to half of the moneys.[^43]
 
@@ -164,7 +164,7 @@ If the court could discern a clear intention on the part of the deceased… then
 
 42     Third, in an email from the defendant to his brother David dated 18 February 2014, the defendant stated:
 
-“\[I\]t is \[the plaintiff’s\] money and she can do what she likes…”
+> “\[I\]t is \[the plaintiff’s\] money and she can do what she likes…”
 
 43     While the defendant attempted to explain that this was not an admission as to the plaintiff’s ownership of the moneys in the Joint Accounts from the time they were first set up,[^49] I do not find his explanation to be credible. The defendant testified that after Mr Arifin passed away on 15 December 2010,[^50] he had told the plaintiff that he was giving his share of the moneys in the Joint Accounts to her for her medical expenses and travel. This would explain his statement in the email that the moneys in the Joint Accounts belonged to the plaintiff.[^51] However, the difficulty for the defendant was that the email did not say that the plaintiff could use half of the moneys only for her medical expenses and travel as agreed between the two of them. Instead the email said that the moneys were the plaintiff’s and that she could do what she liked with them.
 
@@ -184,7 +184,7 @@ If the court could discern a clear intention on the part of the deceased… then
 
 51     I was of the view that the presumption of advancement in favour of the plaintiff was not rebutted solely by this fact. The fact that the recipient of property allows the property or the fruit of that property to be used according to the donor’s wishes does not necessarily rebut the presumption of advancement. In _Commissioner of Stamp Duties v Byrnes_ <span class="citation">\[1911\] 1 AC 386</span> (cited in _Chin Kim Yon v Chin Kheng Hai_ <span class="citation">\[2016\] SGHC 2</span> at \[31\]), a father transferred properties to his two adult sons but continued to receive rents derived from the properties. The Privy Council held that the presumption of advancement was not rebutted, explaining at 392:
 
-In the present case, having regard to the state of the family and the relations subsisting between Mr. Byrnes and his two sons who were living at home, it seems very natural that the sons receiving advances should yet feel a delicacy in taking the fruits during their father’s lifetime.
+> In the present case, having regard to the state of the family and the relations subsisting between Mr. Byrnes and his two sons who were living at home, it seems very natural that the sons receiving advances should yet feel a delicacy in taking the fruits during their father’s lifetime.
 
 52     Given that the source of the moneys came from the Simprug Property owned by Mr Arifin and his position as patriarch of the family, it was only natural that the plaintiff would consent to using moneys from the Joint Accounts to make payments on behalf of Mr Arifin. The present case can be distinguished from situations in which the presumption of advancement was found to be rebutted. In _Low Gim Siah and others v Low Geok Khim and another_ <span class="citation">\[2007\] 1 SLR(R) 795</span>, the joint accounts in question, while opened in the name of the father and son, were controlled entirely by the former and the latter was never given the opportunity to operate the account at all (at \[51\]). Here, Mr Arifin was never a holder of the Initial Citibank Joint Account. Also, there was evidence that the plaintiff could use the moneys as she thought fit; the plaintiff possessed a credit card linked to the Initial Citibank Joint Account which she used for her personal expenses.[^58]
 
@@ -202,21 +202,21 @@ In the present case, having regard to the state of the family and the relations 
 
 58     The plaintiff’s position was that there was an express trust constituted by the Express Trust Agreement, which was entered into with the defendant before the moneys from the sale of the Simprug Property were remitted to the Initial Citibank Joint Account on 10 July 2007.[^59] Paragraph 7 of the Statement of Claim pleaded that the terms of the Express Trust Agreement were:
 
-(a)     the plaintiff would remit the sales proceeds from the Simprug Property to a bank account in Singapore opened under the joint names of the plaintiff and the defendant, to be held on trust for the plaintiff;
+> (a)     the plaintiff would remit the sales proceeds from the Simprug Property to a bank account in Singapore opened under the joint names of the plaintiff and the defendant, to be held on trust for the plaintiff;
 
-(b)     the defendant would manage the money; and
+> (b)     the defendant would manage the money; and
 
-(c)     the bank account would be opened as an “And/Or” account.
+> (c)     the bank account would be opened as an “And/Or” account.
 
 59     The plaintiff argued that the trust was evidenced by the following conduct of the parties:
 
-(a)     the defendant never withdrew moneys for his own personal use without the plaintiff’s approval;[^60]
+> (a)     the defendant never withdrew moneys for his own personal use without the plaintiff’s approval;[^60]
 
-(b)     the defendant being named as an account holder although he had no beneficial interest in the moneys and his wife Mdm Ho had explained to the plaintiff any transactions which took place;[^61]
+> (b)     the defendant being named as an account holder although he had no beneficial interest in the moneys and his wife Mdm Ho had explained to the plaintiff any transactions which took place;[^61]
 
-(c)     the defendant kept extensive records of transactions in the Joint Accounts and purportedly obtained the plaintiff’s acknowledgement or consent to various transactions;[^62] and
+> (c)     the defendant kept extensive records of transactions in the Joint Accounts and purportedly obtained the plaintiff’s acknowledgement or consent to various transactions;[^62] and
 
-(d)     the defendant’s emails, including one where he states that he is assisting the plaintiff in “\[investing\]… and \[looking\] after \[her\] account”.[^63]
+> (d)     the defendant’s emails, including one where he states that he is assisting the plaintiff in “\[investing\]… and \[looking\] after \[her\] account”.[^63]
 
 60     I set out the requirements for an express trust to be constituted. Three certainties must be present for the creation of an express trust: (a) certainty of intention; (b) certainty of subject matter; and (c) certainty of the objects of the trust (_Guy Neale and others v Nine Squares Pty Ltd_ <span class="citation">\[2015\] 1 SLR 1097</span> at \[51\].
 
@@ -236,15 +236,15 @@ In the present case, having regard to the state of the family and the relations 
 
 68     Second, the plaintiff’s pleadings and AEIC stated that one of the express terms was that the money deposited into the Initial Citibank Joint Account was to be held on trust for the plaintiff. Yet it became clear during cross-examination that the plaintiff did not understand the concept of a trustee:[^66]
 
-Q:I’m putting it to you that \[the defendant\] was not the trustee of the monies. He was a joint owner of the monies.
+> Q:I’m putting it to you that \[the defendant\] was not the trustee of the monies. He was a joint owner of the monies.
 
-A:When you said “trustee”, does it mean that he has the right to collect the money?
+> A:When you said “trustee”, does it mean that he has the right to collect the money?
 
-Q:No, “trustee” means he has no right ---
+> Q:No, “trustee” means he has no right ---
 
-…
+> …
 
-A:Does it mean to say the---to have the right to collect money?
+> A:Does it mean to say the---to have the right to collect money?
 
 69     Given that the plaintiff’s case here was that she specifically agreed with the defendant that a trust would be created, the fact that she was unsure of the concept of a trustee at trial cast further doubt on her account that such an oral agreement was reached with the defendant.
 
@@ -276,11 +276,11 @@ A:Does it mean to say the---to have the right to collect money?
 
 82     It would be helpful at this stage to come back to the documents which both parties relied on in relation to the question whether there were outstanding loans between the defendant on the one hand and Mr Arifin on the other. The defendant relied on three documents which were purportedly statements of account:
 
-(a)     The first was prepared by Mdm Ho in 2004 (“the 2004 Statement”). It was signed by Mr Arifin on 18 April 2004 and the plaintiff on 17 August 2004.
+> (a)     The first was prepared by Mdm Ho in 2004 (“the 2004 Statement”). It was signed by Mr Arifin on 18 April 2004 and the plaintiff on 17 August 2004.
 
-(b)     The second was an unsigned document prepared by Mdm Ho, which purportedly updated the 2004 Statement to 12 November 2004. (“the November 2004 Draft Statement”).[^74]
+> (b)     The second was an unsigned document prepared by Mdm Ho, which purportedly updated the 2004 Statement to 12 November 2004. (“the November 2004 Draft Statement”).[^74]
 
-(c)     The third was a document prepared by Mdm Ho. This was signed by Mr Arifin, the plaintiff, the defendant and Mdm Ho on 11 June 2008 (“the 2008 Statement”).[^75]
+> (c)     The third was a document prepared by Mdm Ho. This was signed by Mr Arifin, the plaintiff, the defendant and Mdm Ho on 11 June 2008 (“the 2008 Statement”).[^75]
 
 83     On the other hand, the plaintiff relied on the “Surat Keterangan” prepared by the defendant and which was signed by Mr Arifin and the plaintiff on 17 August 2007. This document purportedly set out the quantum of gifts from Mr Arifin and the plaintiff to their sons, but the plaintiff relied on it to show that, contrary to the defendant’s allegation, there was a sum of S$500,000 due from the defendant to Mr Arifin which was not reflected in any of the statements of account.[^76]
 
@@ -290,9 +290,9 @@ A:Does it mean to say the---to have the right to collect money?
 
 86     In respect of the 2008 Statement, the plaintiff also suggested that the agreement thereunder was vitiated on two grounds:[^78]
 
-(a)     the plaintiff did not have a clear understanding of the 2008 Statement and merely signed it because Mr Arifin did so; and
+> (a)     the plaintiff did not have a clear understanding of the 2008 Statement and merely signed it because Mr Arifin did so; and
 
-(b)     Mr Arifin was suffering from dementia.
+> (b)     Mr Arifin was suffering from dementia.
 
 87     Significantly, these challenges were not mentioned in the plaintiff’s pleadings. As mentioned, her position then was only that she did not admit that the relevant signatures on the 2008 Statement were hers or Mr Arifin’s.[^79] Yet, she admitted that they had signed the “Surat Keterangan”. It was obvious that at the time of her pleadings she was picking and choosing which document to admit to, depending on whether she perceived the document to be to her advantage. This was not a wise strategy as it reflected poorly on her credibility.
 
@@ -306,19 +306,19 @@ A:Does it mean to say the---to have the right to collect money?
 
 92     As I understood it, the plaintiff raised three main objections to the accounting in the 2004 Statement and the 2004 November Draft Statement in her submissions:
 
-(a)     First, the defendant made Mr Arifin pay all the interest charges arising from an overdraft facility obtained by the defendant and Mdm Ho. While Mr Arifin had drawn on the overdraft facility, the defendant and Mdm Ho had also used the overdraft facility for their own purposes. There were also other interest charges unaccounted for.[^82]
+> (a)     First, the defendant made Mr Arifin pay all the interest charges arising from an overdraft facility obtained by the defendant and Mdm Ho. While Mr Arifin had drawn on the overdraft facility, the defendant and Mdm Ho had also used the overdraft facility for their own purposes. There were also other interest charges unaccounted for.[^82]
 
-(b)     Second, they failed to take into account the money paid by Mr Arifin for a property at #17-01 Hawaii Towers, 73 Meyer Road, Singapore 437898 (“the Hawaii Towers Property”) which was transferred from Mr Arifin to the defendant. Apparently, Mr Arifin had paid S$500,000 towards the purchase of this property before the property was transferred to the defendant.[^83] The balance of the purchase price was paid by the defendant and Mdm Ho when Mr Arifin’s fortunes declined. According to the plaintiff, the 2004 Statement and 2004 November Draft Statement ought to have included this sum of S$500,000 as a loan from Mr Arifin to the defendant from around 1982.[^84] There is some dispute over the exact time at which the Hawaii Towers Property was transferred but it is not relevant for present purposes.
+> (b)     Second, they failed to take into account the money paid by Mr Arifin for a property at #17-01 Hawaii Towers, 73 Meyer Road, Singapore 437898 (“the Hawaii Towers Property”) which was transferred from Mr Arifin to the defendant. Apparently, Mr Arifin had paid S$500,000 towards the purchase of this property before the property was transferred to the defendant.[^83] The balance of the purchase price was paid by the defendant and Mdm Ho when Mr Arifin’s fortunes declined. According to the plaintiff, the 2004 Statement and 2004 November Draft Statement ought to have included this sum of S$500,000 as a loan from Mr Arifin to the defendant from around 1982.[^84] There is some dispute over the exact time at which the Hawaii Towers Property was transferred but it is not relevant for present purposes.
 
-(c)     Third, they accounted for a S$327,000 payment from Mr Arifin for the defendant as having been made only in 2004, when in fact it was made in 1990. [^85] It is not in dispute that this payment was made by Mr Arifin in 1990 to assist the defendant in making the down payment for a property located at 7A Eber Gardens, 1-15 Eber Road, Singapore 239759 (“the Eber Gardens Property”).[^86] The plaintiff’s point was that the payment should have been attributed to the correct year so that it would either negate or reduce any interest which Mr Arifin had allegedly agreed to pay to the defendant.
+> (c)     Third, they accounted for a S$327,000 payment from Mr Arifin for the defendant as having been made only in 2004, when in fact it was made in 1990. [^85] It is not in dispute that this payment was made by Mr Arifin in 1990 to assist the defendant in making the down payment for a property located at 7A Eber Gardens, 1-15 Eber Road, Singapore 239759 (“the Eber Gardens Property”).[^86] The plaintiff’s point was that the payment should have been attributed to the correct year so that it would either negate or reduce any interest which Mr Arifin had allegedly agreed to pay to the defendant.
 
 93     For the 2008 Statement, the plaintiff’s objection was that it was based erroneously on the premise that there was a starting sum of S$280,000 due from Mr Arifin to the defendant as at 1992. If the issues identified in \[92\] were properly addressed, there would not have been such a sum owed.[^87]
 
 94     It may be that some of the plaintiff’s objections to the accounting in the 2004 Statement have merit:
 
-(a)     the interest charges on the overdraft facility should not have been completely attributed to Mr Arifin; and
+> (a)     the interest charges on the overdraft facility should not have been completely attributed to Mr Arifin; and
 
-(b)     the S$327,000 down payment for the Eber Gardens property ought to have been considered a credit in Mr Arifin’s favour in 1990, when it was paid, rather than in 2004. This would have reduced the interest Mr Arifin was liable for on the balance owed by him to the defendant.
+> (b)     the S$327,000 down payment for the Eber Gardens property ought to have been considered a credit in Mr Arifin’s favour in 1990, when it was paid, rather than in 2004. This would have reduced the interest Mr Arifin was liable for on the balance owed by him to the defendant.
 
 95     On the other hand, the defendant’s response was that he and Mdm Ho had frequently tried to reduce the balance on the overdraft account by putting in their own moneys whenever they could. As for the money paid by Mr Arifin towards the purchase of the Hawaii Towers Property, this was a gift to the defendant.
 
@@ -332,9 +332,9 @@ A:Does it mean to say the---to have the right to collect money?
 
 100    The question of the Hawaii Towers Property was only brought up in the “Surat Keterangan”[^91] and even then, I do not think that it assists the plaintiff’s case. The plaintiff argued that the “Surat Keterangan” showed that the sum of S$500,000 ought to be reflected as a loan from Mr Arifin to the defendant.[^92] The key portion of the “Surat Keterangan” states:[^93]
 
-\[Mr Arifin\] paid roughly S$500,000 \[for the Hawaii Tower Property\] from 1983 to 1985…
+> \[Mr Arifin\] paid roughly S$500,000 \[for the Hawaii Tower Property\] from 1983 to 1985…
 
-We’ve taken as much as \[S\]$280,000 from John and Anna. But, we’ve given S$500,000. So all this time, we’ve given John and Anna S$220,000 (S$500,000 – S$280,000).
+> We’ve taken as much as \[S\]$280,000 from John and Anna. But, we’ve given S$500,000. So all this time, we’ve given John and Anna S$220,000 (S$500,000 – S$280,000).
 
 101    To my mind, the “Surat Keterangan” makes it clear that of the sum of S$500,000 paid by Mr Arifin towards the purchase of the Hawaii Tower Property, or at least S$220,000, was never intended to form part of the running account between him and the defendant. The “Surat Keterangan” unequivocally states that Mr Arifin and the plaintiff gave the sum of S$220,000 to the defendant. It would defeat the very purpose of the gift if the sum of S$220,000 were to be offset from any outstanding loan balance owed to the defendant by Mr Arifin.
 
@@ -376,11 +376,11 @@ We’ve taken as much as \[S\]$280,000 from John and Anna. But, we’ve given S$
 
 120    The next disputed payment was a sum of S$60,000 for the alleged repayment of loans and reimbursement of medical expenses incurred on behalf of the plaintiff or Mr Arifin. The plaintiff made multiple arguments in respect of this payment to demonstrate that there was a breach of trust:
 
-(a)     First, that the payment was obtained through fraudulent misrepresentation that there were moneys owed by Mr Arifin to the defendant.[^116]
+> (a)     First, that the payment was obtained through fraudulent misrepresentation that there were moneys owed by Mr Arifin to the defendant.[^116]
 
-(b)     Second, that there was no agreement that medical expenses incurred by Mr Arifin and the plaintiff but paid for by the defendant were to be repaid at a subsequent date.[^117]
+> (b)     Second, that there was no agreement that medical expenses incurred by Mr Arifin and the plaintiff but paid for by the defendant were to be repaid at a subsequent date.[^117]
 
-(c)     Third, that in any case, the defendant had waived his claim to the repayment pursuant to the 2008 Statement.[^118]
+> (c)     Third, that in any case, the defendant had waived his claim to the repayment pursuant to the 2008 Statement.[^118]
 
 121    The S$60,000 payment was thus obtained in breach of trust and/or fiduciary duties by the defendant.
 
@@ -436,21 +436,107 @@ We’ve taken as much as \[S\]$280,000 from John and Anna. But, we’ve given S$
 
 146    The plaintiff argued that the conduct of the defendant and Mdm Ho was inconsistent with the Jewellery having been given as gifts:
 
-(a)     the defendant and Mdm Ho failed to adduce any documentary evidence to indicate that the Jewellery was given as gifts;[^151]
+> (a)     the defendant and Mdm Ho failed to adduce any documentary evidence to indicate that the Jewellery was given as gifts;[^151]
 
-(b)     Mdm Ho could not recall the dates when the Jewellery was given to her, but was able to recall conversations in 1985 with Mr Arifin on the purchase price for the Hawaii Towers apartment;[^152]
+> (b)     Mdm Ho could not recall the dates when the Jewellery was given to her, but was able to recall conversations in 1985 with Mr Arifin on the purchase price for the Hawaii Towers apartment;[^152]
 
-(c)     the defendant’s original pleaded position was that the Jewellery was given to Mdm Ho as a gift. In his AEIC, the defendant claimed that the Jewellery was given as gifts to Mdm Ho and his daughters;[^153]
+> (c)     the defendant’s original pleaded position was that the Jewellery was given to Mdm Ho as a gift. In his AEIC, the defendant claimed that the Jewellery was given as gifts to Mdm Ho and his daughters;[^153]
 
-(d)     Mdm Ho mentioned during cross-examination that she would have returned the Jewellery if the plaintiff had made the request to her instead of the defendant;[^154] and
+> (d)     Mdm Ho mentioned during cross-examination that she would have returned the Jewellery if the plaintiff had made the request to her instead of the defendant;[^154] and
 
-(e)     the Jewellery was kept in a box that was not in the defendant’s home. [^155]
+> (e)     the Jewellery was kept in a box that was not in the defendant’s home. [^155]
 
 147    The fact of the matter is that the plaintiff failed to adduce any evidence other than her bare assertion that the Jewellery was handed over to the defendant on trust. Peter, who was present in court at times, was also not called as a witness in these proceedings even though his evidence might have been relevant.
 
 148    Further, the plaintiff was inconsistent about a key aspect of her case, namely whether the Jewellery was handed over to the defendant or Mdm Ho. In the plaintiff’s Reply and Defence to Counterclaim (Amendment No 1), she stated that the Jewellery was handed over to the defendant.[^156] However, during cross-examination, the plaintiff said that the Jewellery was handed over to Mdm Ho:[^157]
 
-<table align="left" cellpadding="0" cellspacing="0" class="Judg-2" frame="none" pgwide="1"><colgroup><col width="20.44%"> <col width="79.56%"> </colgroup><tbody><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Q:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">And how many years after 1998 did you first request for these items?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">A:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">That was a few years ago. That was the time when his wife say that actually given the jewelleries to her. but I told her that the --- I did not give the jewelleries to her. <em>I merely give the jewelleries to her for safekeeping</em>. [emphasis added]</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">…</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">&nbsp;</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Court:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Sorry? “I merely told her I gave her the jewellery for safekeeping” is it?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">A:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Yes, your Honour…</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">…</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">&nbsp;</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Q:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Okay. Do you remember getting this ring --- whether it was a gift or not, do you remember getting this ring and handing it over to Anna?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">A:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Give it to who?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Q:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">To Anna.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">A:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">I did not. I brought the whole bag over and I did not do so intentionally to give it to her.</p></td></tr></tbody></table>
+>   
+| 
+
+Q:
+
+ | 
+
+And how many years after 1998 did you first request for these items?
+
+ |
+| 
+
+A:
+
+ | 
+
+That was a few years ago. That was the time when his wife say that actually given the jewelleries to her. but I told her that the --- I did not give the jewelleries to her. _I merely give the jewelleries to her for safekeeping_. \[emphasis added\]
+
+ |
+| 
+
+…
+
+ | 
+
+ |
+| 
+
+Court:
+
+ | 
+
+Sorry? “I merely told her I gave her the jewellery for safekeeping” is it?
+
+ |
+| 
+
+A:
+
+ | 
+
+Yes, your Honour…
+
+ |
+| 
+
+…
+
+ | 
+
+ |
+| 
+
+Q:
+
+ | 
+
+Okay. Do you remember getting this ring --- whether it was a gift or not, do you remember getting this ring and handing it over to Anna?
+
+ |
+| 
+
+A:
+
+ | 
+
+Give it to who?
+
+ |
+| 
+
+Q:
+
+ | 
+
+To Anna.
+
+ |
+| 
+
+A:
+
+ | 
+
+I did not. I brought the whole bag over and I did not do so intentionally to give it to her.
+
+ |
 
   
   

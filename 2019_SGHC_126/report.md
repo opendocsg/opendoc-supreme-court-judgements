@@ -25,11 +25,11 @@ Civil Procedure – Inherent powers – Garnishee orders
 
 5       The present case involves three building and construction companies which were involved in a construction project. Their respective capacities in the construction project were as follows:
 
-(a)     The main contractor: United Integrated Services Pte Ltd (the “garnishee”);
+> (a)     The main contractor: United Integrated Services Pte Ltd (the “garnishee”);
 
-(b)     The sub-contractor: Civil Tech Pte Ltd (the “judgment debtor”); and
+> (b)     The sub-contractor: Civil Tech Pte Ltd (the “judgment debtor”); and
 
-(c)     The sub-contractor’s sub-contractor: Harmonious Coretrades Pte Ltd (the “judgment creditor”).
+> (c)     The sub-contractor’s sub-contractor: Harmonious Coretrades Pte Ltd (the “judgment creditor”).
 
 6       By an adjudication determination dated 31 August 2018, the judgment debtor was ordered to pay the judgment creditor $1,261,096.71 (inclusive of GST)[^1] by 7 September 2018.[^2]
 
@@ -55,17 +55,17 @@ Civil Procedure – Inherent powers – Garnishee orders
 
 14     Before me, the garnishee sought to set aside the final garnishee order by relying on the inherent powers of the Court to prevent injustice,[^9] as found in O 92 r 4 of the Rules of Court (Cap 322, R5, 2014 Ed) (“Rules of Court”):
 
-For the avoidance of doubt it is hereby declared that nothing in these Rules shall be deemed to limit or affect the inherent powers of the Court to make any order as may be necessary to _prevent injustice_ or to prevent an abuse of the process of the Court. \[emphasis added\]
+> For the avoidance of doubt it is hereby declared that nothing in these Rules shall be deemed to limit or affect the inherent powers of the Court to make any order as may be necessary to _prevent injustice_ or to prevent an abuse of the process of the Court. \[emphasis added\]
 
 ### The three circumstances for setting aside an order
 
 15     It is undisputed that the Court may set aside an order. As Judith Prakash J (as she then was) observed in _Ong Cher Keong v Goh Chin Soon Ricky_ <span class="citation">\[2001\] 1 SLR(R) 213</span> (“_Ong Cher Keong_”) at \[44\]–\[46\] and _Sunny Daisy Ltd v WBG Network (Singapore) Pte Ltd_ (“_Sunny Daisy_”) at \[21\], the three circumstances in which an order may be set aside are:
 
-(a)     First, where the order has been obtained irregularly (_ie_, the person obtaining the order has not complied with the requirements of the Rules of Court in some aspect);
+> (a)     First, where the order has been obtained irregularly (_ie_, the person obtaining the order has not complied with the requirements of the Rules of Court in some aspect);
 
-(b)     Secondly, where the judgment has been obtained by fraud. This fraud must relate to matters which _prima facie_ would be a reason for setting the judgment aside if they were established by proof and the fraud must have been discovered after the judgment was passed; and
+> (b)     Secondly, where the judgment has been obtained by fraud. This fraud must relate to matters which _prima facie_ would be a reason for setting the judgment aside if they were established by proof and the fraud must have been discovered after the judgment was passed; and
 
-(c)     Thirdly, where an order or judgment has been obtained in default of the appearance of one of the parties to the suit.
+> (c)     Thirdly, where an order or judgment has been obtained in default of the appearance of one of the parties to the suit.
 
 16     It is clear that the final garnishee order in this case did not fall under any of the three circumstances.
 
@@ -73,7 +73,7 @@ For the avoidance of doubt it is hereby declared that nothing in these Rules sha
 
 17     The garnishee therefore sought to rely on the inherent powers of the Court to prevent injustice to set aside the final garnishee order. In _Airtrust (Singapore) Pte Ltd v Kao Chai-Chau Linda_ <span class="citation">\[2014\] 2 SLR 693</span> (“_Airtrust_”), George Wei JC (as he then was) observed at \[22\] that “the court retains the residual discretion to vary its terms where this is necessary to prevent injustice.” Such views were echoed in _Sentosa Building Construction Pte Ltd v DJ Builders & Contractors Pte Ltd_ <span class="citation">\[2015\] SGHCR 18</span> (“_Sentosa Building_”) at \[46\]:
 
-I find no reason to depart from the holding in _Airtrust_ that the court retains a residual discretion – even in the case of a contractual consent order – to vary the terms of the order where this is necessary to prevent injustice. This stated principle of law is eminently justified by O 92 r 4 of the Rules of Court (Cap 322, R 5, 2014 Rev Ed) (“ROC”) which provides that “nothing in \[the ROC\] shall be deemed to limit or affect the inherent powers of the Court to make any order as may be necessary to prevent injustice or to prevent an abuse of the process of the Court” (see also _Airtrust_ at \[23\]). In my view, the same position should in principle _a fortiori_ hold true vis-à-vis uncontested consent orders.
+> I find no reason to depart from the holding in _Airtrust_ that the court retains a residual discretion – even in the case of a contractual consent order – to vary the terms of the order where this is necessary to prevent injustice. This stated principle of law is eminently justified by O 92 r 4 of the Rules of Court (Cap 322, R 5, 2014 Rev Ed) (“ROC”) which provides that “nothing in \[the ROC\] shall be deemed to limit or affect the inherent powers of the Court to make any order as may be necessary to prevent injustice or to prevent an abuse of the process of the Court” (see also _Airtrust_ at \[23\]). In my view, the same position should in principle _a fortiori_ hold true vis-à-vis uncontested consent orders.
 
 18     Hence, the Court retains a residual discretion flowing from its inherent powers to prevent injustice under O 92 r 4 of the Rules of Court to set aside any order that falls outside the three circumstances identified in _Ong Cher Keong_ and _Sunny Daisy_ (at \[15\] above).
 
@@ -83,13 +83,13 @@ I find no reason to depart from the holding in _Airtrust_ that the court retai
 
 21     That the threshold for invoking the court’s residual discretion to utilise its inherent powers is high is not new. As the Court of Appeal observed in _Roberto Building Material Pte Ltd & others v Overseas-Chinese Banking Corp Ltd and another_ <span class="citation">\[2003\] 2 SLR(R) 353</span> (“_Roberto Building_”) at \[16\]:
 
-By its very nature, the inherent jurisdiction of the court should only be exercised in special circumstances where the justice of the case so demands. The court had, in _Wee Soon Kim Anthony v Law Society of Singapore_ <span class="citation">\[2001\] 2 SLR(R) 821</span> cited a passage from Sir Jack Jacob published in (1970) 23 Current Legal Problems 23, indicating how this jurisdiction should be exercised:
+> By its very nature, the inherent jurisdiction of the court should only be exercised in special circumstances where the justice of the case so demands. The court had, in _Wee Soon Kim Anthony v Law Society of Singapore_ <span class="citation">\[2001\] 2 SLR(R) 821</span> cited a passage from Sir Jack Jacob published in (1970) 23 Current Legal Problems 23, indicating how this jurisdiction should be exercised:
 
-This \[inherent\] jurisdiction may be invoked when it is just and equitable to do so and in particular to ensure the observance of the due process of law, to prevent improper vexation or oppression and to do justice between the parties. Without intending to be exhaustive, we think an essential touchstone is really that of ‘need’.
+>> This \[inherent\] jurisdiction may be invoked when it is just and equitable to do so and in particular to ensure the observance of the due process of law, to prevent improper vexation or oppression and to do justice between the parties. Without intending to be exhaustive, we think an essential touchstone is really that of ‘need’.
 
 22     It is hereby noted that while the court in _Roberto Building_ had utilised the term “inherent jurisdiction” as opposed to “inherent powers”, it was likely delimiting the scope of its inherent powers. As the Court of Appeal clarified in Re _Nalpon Zero Geraldo Mario_ <span class="citation">\[2013\] 3 SLR 258</span> at \[33\]:
 
-the terms “inherent jurisdiction” and “inherent powers” should mean different things, the former being the court’s inherent authority to hear a matter, while the latter being its inherent capacity to give effect to its determination by making or granting the orders or reliefs sought by the successful party to the dispute.
+> the terms “inherent jurisdiction” and “inherent powers” should mean different things, the former being the court’s inherent authority to hear a matter, while the latter being its inherent capacity to give effect to its determination by making or granting the orders or reliefs sought by the successful party to the dispute.
 
 23     Notwithstanding the inappropriate use of “inherent jurisdiction” in _Roberto Building_, the point remains that the threshold for invoking the court’s inherent powers is high.
 
@@ -137,7 +137,7 @@ the terms “inherent jurisdiction” and “inherent powers” should mean diff
 
 42     On appeal, even though it was unclear that the garnishee’s counterclaim against the judgment debtor was valid, the court unanimously deemed it appropriate to set aside the final garnishee order. As Danckwerts LJ observed in plain terms (_Hale_ at 751):
 
-It seems to me to be **_contrary to justice_** _and sense to order that a garnishee should_ **_pay out money which it appears probably will not be due from him at all_** - because no proceedings have been taken by the judgment debtor against the garnishee, any more than any proceedings have been taken by the garnishee against the judgment debtor. It seems to me contrary to justice that an order should be made for payment of moneys which on the face of it appear not likely to be due and which might perhaps be paid away irretrievably to a man or company who is in trouble. \[emphasis added\]
+> It seems to me to be **_contrary to justice_** _and sense to order that a garnishee should_ **_pay out money which it appears probably will not be due from him at all_** - because no proceedings have been taken by the judgment debtor against the garnishee, any more than any proceedings have been taken by the garnishee against the judgment debtor. It seems to me contrary to justice that an order should be made for payment of moneys which on the face of it appear not likely to be due and which might perhaps be paid away irretrievably to a man or company who is in trouble. \[emphasis added\]
 
 43     In the present case, while 1AD, being a SOPA adjudication determination, has temporary finality in that it “finally and conclusively determin\[es\] the parties’ rights”, it is liable to being reversed by final adjudication in accordance with the provisions of SOPA (_W Y Steel Construction Pte Ltd v Osko Pte Ltd_ <span class="citation">\[2013\] 3 SLR 380</span> at \[71\]). If, upon final adjudication, it is determined that no debt is in fact due from the garnishee to the judgment debtor, the garnishee would have paid to the judgment creditor a debt which it did not even owe.
 

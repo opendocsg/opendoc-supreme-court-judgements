@@ -19,7 +19,7 @@ Criminal Procedure and Sentencing – Plead guilty procedure – Qualificati
 
 1       This was a criminal reference brought by the Public Prosecutor (“the Prosecution”) to refer two questions concerning the interpretation of s 228(4) of the Criminal Procedure Code (Cap 68, 2012 Rev Ed) (“CPC”) to the Court of Appeal. Section 228(4) of the CPC, which was enacted as part of a suite of changes to the CPC in 2010, provides as follows:
 
-Where the court is satisfied that any matter raised in the plea in mitigation materially affects any legal condition required by law to constitute the offence charged, the court must reject the plea of guilty.
+> Where the court is satisfied that any matter raised in the plea in mitigation materially affects any legal condition required by law to constitute the offence charged, the court must reject the plea of guilty.
 
 2       The Prosecution contended that s 228(4) of the CPC did not apply to an accused person who, having pleaded guilty to an offence, then wished to change his mind. According to the Prosecution, such a person would be obliged to apply to the court to be allowed to retract his guilty plea and to set aside his conviction. If the court declined to allow the application, then the accused person would not be permitted to advance anything in his mitigation plea that would be inconsistent with his guilty plea. Were it otherwise, an accused person would be able, in effect, to circumvent the need to make an application for leave to retract his guilty plea by simply asserting facts in mitigation which were inconsistent with his earlier plea of guilt. The Prosecution contended that this should only be permitted if the accused person had valid and sufficient reasons for retracting his guilty plea. The High Court Judge (“the Judge”) who heard the respondent’s petition for criminal revision in this case disagreed with this position, and held that the unambiguous language of s 228(4) of the CPC made it clear that the court was compelled to reject a guilty plea as long as matters raised in the mitigation plea materially qualified the earlier plea of guilt.
 
@@ -39,17 +39,17 @@ Where the court is satisfied that any matter raised in the plea in mitigation ma
 
 9       The respondent’s submissions for retraction stated that he “disputes the following material allegations against him”:
 
-I.    that he received directly from each of the foreign employees named in Table A of the Statement of Facts a sum of SGD$2,000 each, as a condition for their employment as reclamation workers by the respective companies as stated in Column E;
+> I.    that he received directly from each of the foreign employees named in Table A of the Statement of Facts a sum of SGD$2,000 each, as a condition for their employment as reclamation workers by the respective companies as stated in Column E;
 
-II.    that the accused knew that each of the named 20 foreign employees had each paid a sum of about 4 million kyat (equivalent to about SGD$4,000) as agent fees to an employment agent in Myanmar known as “Soe Hla” in order to get their jobs as seaman in Singapore;
+> II.    that the accused knew that each of the named 20 foreign employees had each paid a sum of about 4 million kyat (equivalent to about SGD$4,000) as agent fees to an employment agent in Myanmar known as “Soe Hla” in order to get their jobs as seaman in Singapore;
 
-III.  that the accused had any knowledge that Soe Hla passed envelopes to the said foreign employees stating that there were sums of monies in the envelopes and that they were to pass the envelopes to the accused upon their arrival in Singapore;
+> III.  that the accused had any knowledge that Soe Hla passed envelopes to the said foreign employees stating that there were sums of monies in the envelopes and that they were to pass the envelopes to the accused upon their arrival in Singapore;
 
-IV.    that the accused knew that the said envelopes contained money that were from the foreign employees’ agent fees which were paid to Soe Hla;
+> IV.    that the accused knew that the said envelopes contained money that were from the foreign employees’ agent fees which were paid to Soe Hla;
 
-V.    that the accused knew that each of the said foreign employees had contributed SGD$2,000 out of the SGD$4,000 in agency fees to be paid to the accused in order for them to secure their jobs with the companies and to come over to Singapore to work; and
+> V.    that the accused knew that each of the said foreign employees had contributed SGD$2,000 out of the SGD$4,000 in agency fees to be paid to the accused in order for them to secure their jobs with the companies and to come over to Singapore to work; and
 
-VI.    that the accused had collected the sums of money as a condition for the employment of the said foreign employees and that he (the accused) was aware that he was not to do so.
+> VI.    that the accused had collected the sums of money as a condition for the employment of the said foreign employees and that he (the accused) was aware that he was not to do so.
 
 According to the submissions, these assertions “materially affect the legal conditions of the alleged offences”, and hence the court was “obliged under law to reject the \[respondent’s\] guilty plea” pursuant to s 228(4) of the CPC. There was evidently some confusion in the position taken by Mr Fernando who cited s 228(4) even though he did not appear to be making any mitigation submissions.
 
@@ -77,9 +77,9 @@ According to the submissions, these assertions “materially affect the legal co
 
 19     The Prosecution then filed the present criminal reference to refer the following questions of law of public interest to us pursuant to s 397(2) of the CPC:
 
-(a)     Question 1: Does s 228(4) of the CPC apply to a case where an accused person seeks to retract his plea of guilty at the mitigation stage of sentencing?
+> (a)     Question 1: Does s 228(4) of the CPC apply to a case where an accused person seeks to retract his plea of guilty at the mitigation stage of sentencing?
 
-(b)     Question 2: Must an accused person seeking to retract his plea of guilty at the mitigation stage of sentencing satisfy a court that he has valid and sufficient grounds for his retraction before the court can reject his plea of guilty?
+> (b)     Question 2: Must an accused person seeking to retract his plea of guilty at the mitigation stage of sentencing satisfy a court that he has valid and sufficient grounds for his retraction before the court can reject his plea of guilty?
 
 ## The parties’ cases
 
@@ -109,63 +109,63 @@ According to the submissions, these assertions “materially affect the legal co
 
 _Division 3 – Plead guilty procedures_
 
-**Procedure if accused pleads guilty, etc.**
+> **Procedure if accused pleads guilty, etc.**
 
-**227.**—(1)    If the accused pleads guilty to the charge after it has been read and explained to him, whether as originally framed or as amended, his plea must be recorded and he may be convicted on it.
+> **227.**—(1)    If the accused pleads guilty to the charge after it has been read and explained to him, whether as originally framed or as amended, his plea must be recorded and he may be convicted on it.
 
-(2)    Before the court records a plea of guilty, it must —
+> (2)    Before the court records a plea of guilty, it must —
 
-(_a_)    if the accused is not represented by an advocate, be satisfied that the accused —
+>> (_a_)    if the accused is not represented by an advocate, be satisfied that the accused —
 
-(i)    understands the nature and consequences of his plea and the punishment prescribed for the offence; and
+>>> (i)    understands the nature and consequences of his plea and the punishment prescribed for the offence; and
 
-(ii)   intends to admit to the offence without qualification; or
+>>> (ii)   intends to admit to the offence without qualification; or
 
-(_b_)    if the accused is represented by an advocate, record the advocate’s confirmation that the accused —
+>> (_b_)    if the accused is represented by an advocate, record the advocate’s confirmation that the accused —
 
-(i)    understands the nature and consequences of his plea; and
+>>> (i)    understands the nature and consequences of his plea; and
 
-(ii)   intends to admit to the offence without qualification.
+>>> (ii)   intends to admit to the offence without qualification.
 
-…
+> …
 
-**Address on sentence, mitigation and sentence**
+> **Address on sentence, mitigation and sentence**
 
-**228.**—(1)    On the conviction of the accused, the prosecution may where it thinks fit address the court on sentence.
+> **228.**—(1)    On the conviction of the accused, the prosecution may where it thinks fit address the court on sentence.
 
-(2)    The address on sentence may include —
+> (2)    The address on sentence may include —
 
-(_a_)    the criminal records of the accused;
+>> (_a_)    the criminal records of the accused;
 
-(_b_)    any victim impact statement; and
+>> (_b_)    any victim impact statement; and
 
-(_c_)    any relevant factors which may affect the sentence.
+>> (_c_)    any relevant factors which may affect the sentence.
 
-(3)    The court must then hear any plea in mitigation of sentence by the accused and the prosecution has a right of reply.
+> (3)    The court must then hear any plea in mitigation of sentence by the accused and the prosecution has a right of reply.
 
-(4)    Where the court is satisfied that any matter raised in the plea in mitigation materially affects any legal condition required by law to constitute the offence charged, the court must reject the plea of guilty.
+> (4)    Where the court is satisfied that any matter raised in the plea in mitigation materially affects any legal condition required by law to constitute the offence charged, the court must reject the plea of guilty.
 
-(5)    After the court has heard the plea in mitigation, it may —
+> (5)    After the court has heard the plea in mitigation, it may —
 
-(_a_)    at its discretion or on the application of the prosecution or the accused hear any evidence to determine the truth or otherwise of the matters raised before the court which may materially affect the sentence; and
+>> (_a_)    at its discretion or on the application of the prosecution or the accused hear any evidence to determine the truth or otherwise of the matters raised before the court which may materially affect the sentence; and
 
-(_b_)    attach such weight to the matter raised as it considers appropriate after hearing the evidence.
+>> (_b_)    attach such weight to the matter raised as it considers appropriate after hearing the evidence.
 
-(6)    The court must then pass sentence according to law immediately or on such day as it thinks fit.
+> (6)    The court must then pass sentence according to law immediately or on such day as it thinks fit.
 
-…
+> …
 
 28     It is important to note at the outset, as the Judge correctly pointed out, that the literal words of s 228(4) leave very little room for any exercise of judicial discretion. Simply put, once the provision is properly invoked, the court _must_ reject the plea of guilty. It is true that the relevant condition is that the court must first be “satisfied that any matter raised in the plea in mitigation materially affects any legal condition required by law to constitute the offence charged”. Admittedly, the court might not be so satisfied in a given case. But the court’s role in this context is confined to considering whether what is said in the plea in mitigation in fact “affects any legal condition required by law to constitute the offence.” In our judgment, the effect of this is clear: the court may only consider whether the averments in the mitigation submissions have the effect of materially affecting the validity of any essential element or ingredient of the offence. Once this is answered in the affirmative, the plain words of s 228(4) lead to the conclusion that, at least as a general rule, the court _must_ then reject the guilty plea, and by extension, terminate the mitigation stage of the proceedings. We briefly consider the limits of this general rule at \[67\] below.
 
 29     However, we are not satisfied that the plain text of s 228(4) permits the introduction of requirements which are not otherwise found in the words of the provision, and the effect of which would be to wholly undermine the mandatory nature of s 228(4). Yet, this was the effect of the Prosecution’s submissions. This was also the position taken by the High Court in _Public Prosecutor v Mangalagiri Dhruva Kumar_ <span class="citation">\[2018\] SGHC 62</span> at \[23\]:
 
-If there were indeed no valid or sufficient reasons for retraction, then the legal conditions to constitute the offence were unaffected, let alone “materially affect\[ed\]” under s 228(4) CPC.
+> If there were indeed no valid or sufficient reasons for retraction, then the legal conditions to constitute the offence were unaffected, let alone “materially affect\[ed\]” under s 228(4) CPC.
 
 30     With respect, this position cannot be correct. It is clear that the legal conditions required by law to constitute the offence refer to the elements of the offence, specifically the _mens rea_ and _actus reus_ of the offence. It would not cohere with the clear words and ordinary meaning of s 228(4) to find that the court in determining whether or not the elements of the offence have been materially affected by matters raised in the mitigation plea, may have regard to circumstances _external_ to the mitigation plea, such as the accused person’s reasons for advancing a mitigation plea that is inconsistent with the elements of the offence to which he had earlier pleaded guilty.
 
 31     In that light, we turn to consider the relevant case law on the point. Yong Pung How CJ in _Toh Lam Seng v Public Prosecutor_ <span class="citation">\[2003\] 2 SLR(R) 346</span> (“_Toh Lam Seng_”) (at \[9\]) observed that “a statement which discloses the possibility of a defence does not always qualify a plea of guilt.” Likewise, Chao Hick Tin JA (as he then was) in _Md Rafiqul Islam Abdul Aziz v Public Prosecutor_ <span class="citation">\[2017\] 3 SLR 619</span> (“_Md Rafiqul”_) at \[34\] suggested that the court might examine whether the point raised has any substance:
 
-…the requirement in s 228(4) of the CPC, that the matter raised in the plea in mitigation should “materially affect any legal condition required by law to constitute the offence charged” before the court is mandated to reject the plea of guilty, allows the court in such an event to examine whether the point raised in mitigation has any substance. As in _Toh Lam Seng_ (\[28\] _supra_), this ensures that not every ostensible defence raised in mitigation would prevent the court from convicting the accused on the charge to which he has pleaded guilty.
+> …the requirement in s 228(4) of the CPC, that the matter raised in the plea in mitigation should “materially affect any legal condition required by law to constitute the offence charged” before the court is mandated to reject the plea of guilty, allows the court in such an event to examine whether the point raised in mitigation has any substance. As in _Toh Lam Seng_ (\[28\] _supra_), this ensures that not every ostensible defence raised in mitigation would prevent the court from convicting the accused on the charge to which he has pleaded guilty.
 
 32     In _Toh Lam Seng_, the accused person had pleaded guilty to a charge of voluntarily causing hurt under s 323 of the Penal Code (Cap 224, 1985 Rev Ed), but stated in mitigation that the victim had “severely provoked him such that he could not control his emotions” (at \[12\]). On a petition for criminal revision, Yong CJ found that the facts advanced by the accused person fell short of satisfying the requirements for the defence of grave and sudden provocation, but merely gave rise to mitigating circumstances. In other words, the court considered whether, as a matter of law, the assertions in the mitigation submission could amount to a defence such that it might qualify the guilty plea and concluded that they did not. Thus the notional defence in that case, was found to be without substance.
 
@@ -183,47 +183,47 @@ If there were indeed no valid or sufficient reasons for retraction, then the leg
 
 38     However, once the mitigation and sentencing process is regarded as part and parcel of the plead guilty procedure as a whole in the manner outlined above, it becomes clear that the Prosecution’s concerns are not valid. Section 228(4) does not displace or undermine the existing case law pertaining to the validity of plea, but rather crystallises a further safeguard which would need to be complied with before the plea can be safely accepted by the court as the legal basis for a conviction. This is not an additional or hitherto unknown safeguard or requirement but rather is one that has long been entrenched in this area of the law. This was explained as follows in _Koh Bak Kiang_ at \[41\]–\[43\]:
 
-41    A qualified plea of guilt is in fact a plea of not guilty: see the decision of the English Court of Appeal in _Regina v Durham Quarter Sessions, ex parte Virgo_ <span class="citation">\[1952\] 2 QB 1</span> at 7. The plea of guilt of an accused person carries with it grave implications. By it, the accused waives his right to be convicted _only_ after a full trial. In such abbreviated proceedings, the Prosecution no longer needs to adduce evidence to prove the accused person’s guilt and the court may pass sentence on the accused without hearing a further word of testimony. The accused is also precluded from appealing against his conviction even if he subsequently comes to regret the plea, so long as the plea is not set aside.
+> 41    A qualified plea of guilt is in fact a plea of not guilty: see the decision of the English Court of Appeal in _Regina v Durham Quarter Sessions, ex parte Virgo_ <span class="citation">\[1952\] 2 QB 1</span> at 7. The plea of guilt of an accused person carries with it grave implications. By it, the accused waives his right to be convicted _only_ after a full trial. In such abbreviated proceedings, the Prosecution no longer needs to adduce evidence to prove the accused person’s guilt and the court may pass sentence on the accused without hearing a further word of testimony. The accused is also precluded from appealing against his conviction even if he subsequently comes to regret the plea, so long as the plea is not set aside.
 
-42    Given these grave consequences that flow upon a plea of guilt, it is unsurprising that the law imposes a strict duty on the judge recording the plea to ensure that “the accused understands the nature and consequences of his plea and intends to admit without qualification the offence alleged against him” (see s 180(_b_) of the CPC 1985). This is not a mere technicality but a crucial procedural safeguard that is not to be taken lightly. …
+> 42    Given these grave consequences that flow upon a plea of guilt, it is unsurprising that the law imposes a strict duty on the judge recording the plea to ensure that “the accused understands the nature and consequences of his plea and intends to admit without qualification the offence alleged against him” (see s 180(_b_) of the CPC 1985). This is not a mere technicality but a crucial procedural safeguard that is not to be taken lightly. …
 
-43    The subjective views of the judge or of the Prosecution as to the _factual_ guilt of the accused or the likelihood of the success of his potential defences are irrelevant to the propriety of the accused’s plea of guilt. As V K Rajah JA (as he then was) observed in _XP v PP_ <span class="citation">\[2008\] 4 SLR(R) 686</span> at \[98\], the guilt of the accused is determined “on the sole basis of legal proof and not mere suspicion or intuition”. What follows from this is that a court may only come to the conclusion that the accused is guilty when there is a _legal_ basis for it. A qualified plea does not afford such a basis. …
+> 43    The subjective views of the judge or of the Prosecution as to the _factual_ guilt of the accused or the likelihood of the success of his potential defences are irrelevant to the propriety of the accused’s plea of guilt. As V K Rajah JA (as he then was) observed in _XP v PP_ <span class="citation">\[2008\] 4 SLR(R) 686</span> at \[98\], the guilt of the accused is determined “on the sole basis of legal proof and not mere suspicion or intuition”. What follows from this is that a court may only come to the conclusion that the accused is guilty when there is a _legal_ basis for it. A qualified plea does not afford such a basis. …
 
 39     The Prosecution was right to say that s 228(4) of the CPC was not intended to introduce drastic changes to the law. Yet, it is established law that if a mitigation plea qualifies the earlier plea of guilt by indicating the lack of either the necessary _mens rea_ or _actus reus_, the accused person would not be taken to have admitted to the offence without qualification and the plea would be rejected by the court (_Ulaganathan Thamilarasan v Public Prosecutor_ <span class="citation">\[1996\] 2 SLR(R) 112</span>; _Balasubramanian Palaniappa_ at \[29\]). In this connection, we respectfully agree with and endorse the observations of Chao JA sitting in the High Court in _Md Rafiqul_ at \[27\]–\[31\]:
 
-27    What then is the position if the accused has pleaded guilty, but raises facts in his mitigation plea that may contradict the elements of the charge? Prior to the enactment of s 228(4) of the CPC, the position was laid down in case law. In _Balasubramanian Palaniappa Vaiyapuri v PP_ <span class="citation">\[2002\] 1 SLR(R) 138</span>, Yong Pung How CJ stated (at \[29\]):
+> 27    What then is the position if the accused has pleaded guilty, but raises facts in his mitigation plea that may contradict the elements of the charge? Prior to the enactment of s 228(4) of the CPC, the position was laid down in case law. In _Balasubramanian Palaniappa Vaiyapuri v PP_ <span class="citation">\[2002\] 1 SLR(R) 138</span>, Yong Pung How CJ stated (at \[29\]):
 
-…The law in Singapore is that, if the mitigation plea qualified the earlier plea of guilt by indicating the lack of _mens rea_ or _actus reus_, the accused would not be deemed to have admitted to the offence without qualification and the plea would be rejected by the court: _Ulaganathan Thamilarasan v PP_ <span class="citation">\[1996\] 2 SLR(R) 112</span>.
+>> …The law in Singapore is that, if the mitigation plea qualified the earlier plea of guilt by indicating the lack of _mens rea_ or _actus reus_, the accused would not be deemed to have admitted to the offence without qualification and the plea would be rejected by the court: _Ulaganathan Thamilarasan v PP_ <span class="citation">\[1996\] 2 SLR(R) 112</span>.
 
-…
+> …
 
-30    From the above, it may be observed that if and when a plea of guilt is in fact qualified in mitigation, the actual plea is that of “not guilty” and the court ought not to convict the accused on the charge. …
+> 30    From the above, it may be observed that if and when a plea of guilt is in fact qualified in mitigation, the actual plea is that of “not guilty” and the court ought not to convict the accused on the charge. …
 
-31    With the enactment of s 228(4) in 2010, the above approach to guilty pleas that have been qualified in the course of mitigation has been codified. …
+> 31    With the enactment of s 228(4) in 2010, the above approach to guilty pleas that have been qualified in the course of mitigation has been codified. …
 
 Thus, both before and after the 2010 CPC amendments, a qualified plea of guilt, including one that is qualified at the mitigation stage, is effectively a plea of not guilty, and the court simply cannot regard such a plea as a legal basis for a conviction.
 
 40     In our judgment, the Judge’s interpretation of s 228(4) did not undermine _Ganesun_ and the related authorities, but restated the position correctly in the light of the case law which establishes that the court’s duty in a plead guilty procedure is a continuing one which persists until the accused person is both convicted _and_ sentenced. In this regard, we again gratefully adopt the observations of Chao JA in _Md Rafiqul_ (at \[34\]–\[38\]), which in our view correctly interprets s 228(4) of the CPC in the proper context of the plead guilty procedure as a whole:
 
-34    …The combined purport of ss 227(2) and 228(4) of the CPC is that at all stages of the plead guilty procedure – both when the plea is being taken and during mitigation – the court must be cautious to ensure that the accused intends to unequivocally admit to the offence alleged against him without qualification before convicting and sentencing the accused on the charge.
+> 34    …The combined purport of ss 227(2) and 228(4) of the CPC is that at all stages of the plead guilty procedure – both when the plea is being taken and during mitigation – the court must be cautious to ensure that the accused intends to unequivocally admit to the offence alleged against him without qualification before convicting and sentencing the accused on the charge.
 
-35    Thus, the legal position prior to, and after, the enactment of s 228(4) of the CPC remains broadly similar (in that a plea of guilt must be unequivocal), and s 228(4) codifies the position by making it compulsory for the court to reject a guilty plea if it is satisfied that “any matter raised in the plea in mitigation materially affects any legal condition required by law to constitute the offence charged”.
+> 35    Thus, the legal position prior to, and after, the enactment of s 228(4) of the CPC remains broadly similar (in that a plea of guilt must be unequivocal), and s 228(4) codifies the position by making it compulsory for the court to reject a guilty plea if it is satisfied that “any matter raised in the plea in mitigation materially affects any legal condition required by law to constitute the offence charged”.
 
-36    To summarise the above legal principles, a court ought not to accept an accused’s guilty plea in the following (non-exhaustive) circumstances:
+> 36    To summarise the above legal principles, a court ought not to accept an accused’s guilty plea in the following (non-exhaustive) circumstances:
 
-(a)    where the court is not satisfied that the accused understands the nature and consequences of his plea (see s 227(2) of the CPC);
+>> (a)    where the court is not satisfied that the accused understands the nature and consequences of his plea (see s 227(2) of the CPC);
 
-(b)    where the court is not satisfied that the accused intends to admit to the offence without qualification (see s 227(2) of the CPC);
+>> (b)    where the court is not satisfied that the accused intends to admit to the offence without qualification (see s 227(2) of the CPC);
 
-(c)    where the court is satisfied that the accused has qualified his plea in mitigation (see s 228(4) of the CPC);
+>> (c)    where the court is satisfied that the accused has qualified his plea in mitigation (see s 228(4) of the CPC);
 
-(d)    where the accused pleaded guilty based on a mistake or misunderstanding; and
+>> (d)    where the accused pleaded guilty based on a mistake or misunderstanding; and
 
-(e)    where the accused did not plead guilty voluntarily.
+>> (e)    where the accused did not plead guilty voluntarily.
 
-…
+> …
 
-38    … The fact that there was an adjournment between the recording of a conviction and the sentencing process does not change the legal character of the proceeding before the court; the court is not _functus officio_ until it has passed sentence.
+> 38    … The fact that there was an adjournment between the recording of a conviction and the sentencing process does not change the legal character of the proceeding before the court; the court is not _functus officio_ until it has passed sentence.
 
 ### Problems with the Prosecution’s position
 
@@ -233,7 +233,7 @@ Thus, both before and after the 2010 CPC amendments, a qualified plea of guilt, 
 
 43     There is also no principled basis for such an undue focus on the subjective intentions of the accused person. The emphasis in the case law both prior to and following the enactment of s 228(4) of the CPC has been on whether relevant matters that were raised _during mitigation_, that is, the stage of the plead guilty procedure that follows the conviction but before an accused person is sentenced, had the effect of qualifying the earlier guilty plea. This is evident from the paragraphs of _Md Rafiqul_ we have cited above, and also in _Ganesun_ (at \[14\]):
 
-Moreover, the discretion \[to allow a retraction of plea\] exists so long as the court is not _functus officio._ Since the court is not usually _functus officio_ until sentence is passed, a withdrawal of the plea of guilt, even though unequivocal, can be entertained _at the stage of mitigation_ or at any time before the case is finally disposed of by sentence \[emphasis added\]
+> Moreover, the discretion \[to allow a retraction of plea\] exists so long as the court is not _functus officio._ Since the court is not usually _functus officio_ until sentence is passed, a withdrawal of the plea of guilt, even though unequivocal, can be entertained _at the stage of mitigation_ or at any time before the case is finally disposed of by sentence \[emphasis added\]
 
 44     Thirdly, the effect of the Prosecution’s interpretation of s 228(4) of the CPC is to render it either otiose or ineffectual. If the Prosecution is correct in its contention, then it would follow that whenever the accused person raises a point in his mitigation submission that has the effect of qualifying his guilty plea, he would first need to apply for and obtain the permission of the court to retract his earlier guilty plea. But once such permission was obtained, the matter would proceed to trial on a contested basis and s 228(4) would no longer apply, rendering it otiose. On the other hand, if such permission was denied, the court would presumably ignore the point that the accused person wished to make in his mitigation plea, or prohibit him from making it, which would be flatly contrary to the terms of s 228(4) and render it wholly ineffectual.
 
@@ -259,7 +259,7 @@ Moreover, the discretion \[to allow a retraction of plea\] exists so long as the
 
 52     In the second category of cases, an accused person after having been convicted on a guilty plea but before he has been sentenced, puts forth assertions or allegations attacking the integrity of the plead guilty procedure, and seeks on this basis to retract his guilty plea. In such cases, given the seriousness of any allegations that aim to cast doubt on the legality and propriety of legal proceedings, the court will take steps to ascertain the truth of the matter. This duty is particularly heightened when allegations of impropriety are made against judicial officers, for reasons which were made clear in _Sukla Lalatendu_ (at \[1\]):
 
-In criminal appeals, it is unfortunately the case that allegations of impropriety are sometimes made against the judges and judicial officers who had presided over the matters in question in the courts below. Occasionally, the allegations may have some basis and, in such cases, it may be found that they have arisen out of some genuine miscommunication or misunderstanding or conceivably even from improper conduct of the matter. More commonly, however, such allegations are borne out of desperation and are contrived efforts on the part of the accused to avoid a conviction and/or sentence that was appropriately imposed. Whatever the case may be, appellate courts need to be especially careful in dealing with these allegations. While due weight should be given to the policy of finality and the need to prevent an abuse of the court’s processes, the prudent approach in dealing with such cases is to carefully consider the allegations and their basis to assess whether they merit closer scrutiny, so that any miscarriage of justice may be promptly corrected if the allegations are borne out, or if they are not, then the relevant appeal or application may be dismissed, if necessary with appropriate observations. It is only in this way that the hard-won reputation and standing of our judiciary can be vigorously protected.
+> In criminal appeals, it is unfortunately the case that allegations of impropriety are sometimes made against the judges and judicial officers who had presided over the matters in question in the courts below. Occasionally, the allegations may have some basis and, in such cases, it may be found that they have arisen out of some genuine miscommunication or misunderstanding or conceivably even from improper conduct of the matter. More commonly, however, such allegations are borne out of desperation and are contrived efforts on the part of the accused to avoid a conviction and/or sentence that was appropriately imposed. Whatever the case may be, appellate courts need to be especially careful in dealing with these allegations. While due weight should be given to the policy of finality and the need to prevent an abuse of the court’s processes, the prudent approach in dealing with such cases is to carefully consider the allegations and their basis to assess whether they merit closer scrutiny, so that any miscarriage of justice may be promptly corrected if the allegations are borne out, or if they are not, then the relevant appeal or application may be dismissed, if necessary with appropriate observations. It is only in this way that the hard-won reputation and standing of our judiciary can be vigorously protected.
 
 53     Similarly, where grave allegations are made against counsel, such as in alleging that the defence counsel had in any way induced or pressured the accused person into pleading guilty against his will, there is a strong public interest in investigating these claims unless these are inherently unbelievable, and to ensure that counsel is given an opportunity to respond to the allegations (see _Thong Sing Hock v Public Prosecutor_ <span class="citation">\[2009\] 3 SLR(R) 47</span> at \[1\], \[32\]). In any case, the court should satisfy itself as to whether what has been asserted is factually true. Depending on the nature of the allegations grounding the accused person’s application, the court would usually require the adduction of sworn or affirmed evidence by the relevant persons, to assist the court in its inquiry into the veracity of the accused person’s allegations (_Sukla Lalatendu_ at \[20\]).
 
@@ -307,15 +307,15 @@ In criminal appeals, it is unfortunately the case that allegations of impropriet
 
 71     For the foregoing reasons and in consultation with the parties, we reformulated the questions referred by the Prosecution as follows:
 
-(a)     Does s 228(4) of the CPC apply to a case where an accused person seeks to qualify his plea of guilt, at the mitigation stage of sentencing, to such an extent that it amounts to a retraction of his plea of guilt?
+> (a)     Does s 228(4) of the CPC apply to a case where an accused person seeks to qualify his plea of guilt, at the mitigation stage of sentencing, to such an extent that it amounts to a retraction of his plea of guilt?
 
-(b)     Must an accused person seeking to qualify his plea of guilt in the manner aforesaid, at the mitigation stage of sentencing, satisfy the court that he has valid and sufficient grounds for doing so, before the court may reject his plea of guilt?
+> (b)     Must an accused person seeking to qualify his plea of guilt in the manner aforesaid, at the mitigation stage of sentencing, satisfy the court that he has valid and sufficient grounds for doing so, before the court may reject his plea of guilt?
 
 72     We answered the reformulated questions as follows:
 
-(a)     Yes, it does, save where the court is satisfied that the conduct of the accused person amounts to an abuse of the process of the court.
+> (a)     Yes, it does, save where the court is satisfied that the conduct of the accused person amounts to an abuse of the process of the court.
 
-(b)     No, because it is sufficient that the mitigation plea materially affects a legal condition of the offence.
+> (b)     No, because it is sufficient that the mitigation plea materially affects a legal condition of the offence.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23066-SSP.xml)

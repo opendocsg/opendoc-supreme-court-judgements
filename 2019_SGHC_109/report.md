@@ -35,14 +35,86 @@ Civil Procedure – Striking out
 
 9       On or around 23 November 2016, Midas issued US$30m 7% fixed rate notes due 2017 (“the Series 003 Notes”) under the MTN Programme. The principal terms of the Series 003 Notes were as follows:
 
-<table align="left" cellpadding="0" cellspacing="0" class="Judg-2" frame="none" pgwide="1"><colgroup><col width="34.2%"> <col width="65.8%"> </colgroup><tbody><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Issue size:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">US$30m;</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Issue price:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">100% of the principal amount of the notes;</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Interest:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">7% per annum; and</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Maturity date:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">one year from the date of issue.</p></td></tr></tbody></table>
+>   
+| 
+
+Issue size:
+
+ | 
+
+US$30m;
+
+ |
+| 
+
+Issue price:
+
+ | 
+
+100% of the principal amount of the notes;
+
+ |
+| 
+
+Interest:
+
+ | 
+
+7% per annum; and
+
+ |
+| 
+
+Maturity date:
+
+ | 
+
+one year from the date of issue.
+
+ |
 
   
   
 
 10     On or around 23 November 2016, Midas also issued US$30m 7% fixed rate notes due 2018 (“the Series 004 Notes”) under the MTN programme. The principal terms of the Series 004 Notes were as follows:
 
-<table align="left" cellpadding="0" cellspacing="0" class="Judg-2" frame="none" pgwide="1"><colgroup><col width="36.5%"> <col width="63.5%"> </colgroup><tbody><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Issue size:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">US$30m;</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Issue price:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">100% of the principal amount of the notes;</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Interest:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">7% per annum; and</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Maturity date:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">two years from the date of issue.</p></td></tr></tbody></table>
+>   
+| 
+
+Issue size:
+
+ | 
+
+US$30m;
+
+ |
+| 
+
+Issue price:
+
+ | 
+
+100% of the principal amount of the notes;
+
+ |
+| 
+
+Interest:
+
+ | 
+
+7% per annum; and
+
+ |
+| 
+
+Maturity date:
+
+ | 
+
+two years from the date of issue.
+
+ |
 
   
   
@@ -57,19 +129,19 @@ Civil Procedure – Striking out
 
 15     Under the Letter Agreement, Midas was to procure the following from Chen:
 
-(a)     execution of a securities charge agreement over 100 million shares (“the Charged Shares”) owned by Chen in Midas in favour of the Plaintiffs;
+> (a)     execution of a securities charge agreement over 100 million shares (“the Charged Shares”) owned by Chen in Midas in favour of the Plaintiffs;
 
-(b)     execution and delivery of a confirmation and amendment of the Guarantee (“the Guarantor Confirmation”) in favour of the Plaintiffs; and
+> (b)     execution and delivery of a confirmation and amendment of the Guarantee (“the Guarantor Confirmation”) in favour of the Plaintiffs; and
 
-(c)     payment of the US dollar equivalent of RMB10m (“the Performance Deposit”) into the first Plaintiff’s account as a performance deposit in relation to the obligations under the Series 003 Notes and the Series 004 Notes.
+> (c)     payment of the US dollar equivalent of RMB10m (“the Performance Deposit”) into the first Plaintiff’s account as a performance deposit in relation to the obligations under the Series 003 Notes and the Series 004 Notes.
 
 16     Chen performed the following:
 
-(a)     signed a securities charge over the Charged Shares on 22 November 2017 (“the Securities Charge”);
+> (a)     signed a securities charge over the Charged Shares on 22 November 2017 (“the Securities Charge”);
 
-(b)     signed the Guarantor Confirmation on 22 November 2017; and
+> (b)     signed the Guarantor Confirmation on 22 November 2017; and
 
-(c)     paid the Performance Deposit on 22 November 2017.
+> (c)     paid the Performance Deposit on 22 November 2017.
 
 17     Pursuant to cl 3.10 of the Letter Agreement, Midas was obliged to make an early redemption of the Series 003 Notes on 22 March 2018 unless the Plaintiffs otherwise agreed.
 
@@ -83,17 +155,17 @@ Civil Procedure – Striking out
 
 22     The Plaintiffs commenced the present suit on 23 April 2018. Chen filed his Defence and Counterclaim on 23 May 2018. On 18 July 2018, the Plaintiffs filed Summons No 3301 of 2018 for the following reliefs:
 
-(a)     final judgment against Chen for US$31,173,698.53 (“the Outstanding Amount”) or such sum as the court deems fit;
+> (a)     final judgment against Chen for US$31,173,698.53 (“the Outstanding Amount”) or such sum as the court deems fit;
 
-(b)     interest on the Outstanding Amount at the rate of 9% per annum from 23 March 2018 until 3 April 2018;
+> (b)     interest on the Outstanding Amount at the rate of 9% per annum from 23 March 2018 until 3 April 2018;
 
-(c)     interest on the Outstanding Amount at the rate of 12% per annum from 4 April 2018 until the date of full payment;
+> (c)     interest on the Outstanding Amount at the rate of 12% per annum from 4 April 2018 until the date of full payment;
 
-(d)     an order for specific performance by Chen of the Securities Charge, in particular, cl 3.4 of the Securities Charge;
+> (d)     an order for specific performance by Chen of the Securities Charge, in particular, cl 3.4 of the Securities Charge;
 
-(e)     costs on an indemnity basis; and
+> (e)     costs on an indemnity basis; and
 
-(f)     such further or other relief as the court deems fit.
+> (f)     such further or other relief as the court deems fit.
 
 23     I heard the application on 24 September 2018 and 26 September 2018. On 26 September 2018, I granted final judgment against Chen for the Outstanding Amount, _ie_, US$31,173,698.53 and interest on the Outstanding Amount and ordered him to specifically perform cl 3.4(c) of the Securities Charge by signing and lodging Form 9 under the Securities and Futures Act (Cap 289, 2006 Rev Ed) within seven days from the date that the Plaintiffs or their solicitors require Chen to do so in writing, with a consequential order if he failed to do so.
 
@@ -105,11 +177,11 @@ Civil Procedure – Striking out
 
 26     For his first set of defences, Chen alleged that before he signed the Guarantee on 21 November 2016, PC (mentioned at \[2\] above) had made certain representations to him. Although four were mentioned by Chen, I need to focus on two only, _ie_:
 
-(a)     that the Guarantee was a mere formality and would only form part of the Plaintiffs’ internal processes; and/or
+> (a)     that the Guarantee was a mere formality and would only form part of the Plaintiffs’ internal processes; and/or
 
-(b)     that the Plaintiffs would not call on and/or enforce the Guarantee
+> (b)     that the Plaintiffs would not call on and/or enforce the Guarantee
 
-(collectively “the Representations”; see paras 9(c) and 9(d) of the Defence and Counterclaim).
+> (collectively “the Representations”; see paras 9(c) and 9(d) of the Defence and Counterclaim).
 
 27     Chen also relied on _estoppel_ and _non est factum_ in his first set of defences.
 
@@ -125,21 +197,21 @@ Civil Procedure – Striking out
 
 32     Nevertheless, Chen’s position was that PC was acting as the Plaintiffs’ agent when PC made the Representations because, although Chen had met or spoken to a representative from CRRC before, he had not dealt with the Plaintiffs on the Guarantee. His allegation that PC was acting as the Plaintiffs’ agent was based on the following:
 
-(a)     the Plaintiffs had never met or communicated with Chen in relation to the intended guarantee before Chen signed it;
+> (a)     the Plaintiffs had never met or communicated with Chen in relation to the intended guarantee before Chen signed it;
 
-(b)     the Plaintiffs had relied on PC to handle all communication with Chen in relation to the intended guarantee;
+> (b)     the Plaintiffs had relied on PC to handle all communication with Chen in relation to the intended guarantee;
 
-(c)     the Plaintiffs had communicated only with PC in relation to the intended guarantee and had obtained Chen’s particulars through PC; and
+> (c)     the Plaintiffs had communicated only with PC in relation to the intended guarantee and had obtained Chen’s particulars through PC; and
 
-(d)     the Plaintiffs had furnished PC with the intended guarantee for him to forward it to Chen and obtain Chen’s signature.
+> (d)     the Plaintiffs had furnished PC with the intended guarantee for him to forward it to Chen and obtain Chen’s signature.
 
 33     Chen alleged that on or around 21 November 2016, PC furnished him with a document in English and advised him that this was the Guarantee required by the Plaintiffs. PC informed him that the Plaintiffs required the Guarantee to be signed and returned to them urgently given that the Series 003 Notes and the Series 004 Notes were to be issued on 23 November 2016.
 
 34     Chen’s position was that as he was induced by and acted in reliance upon the Representations and the apparent urgency of the matter, he signed the Guarantee in the presence of PC and his then secretary, one Melisa Wong, without first obtaining:
 
-(a)     a translation of the Guarantee from English to Chinese; or
+> (a)     a translation of the Guarantee from English to Chinese; or
 
-(b)     any independent legal advice on the Guarantee,
+> (b)     any independent legal advice on the Guarantee,
 
 although he is not a native English speaker and had not reviewed the Guarantee.
 
@@ -151,7 +223,7 @@ although he is not a native English speaker and had not reviewed the Guarantee.
 
 38     Secondly, in _Mahidon Nichiar bte Mohd Ali and others v Dawood Sultan Kamaldin_ <span class="citation">\[2015\] 5 SLR 62</span>, the Court of Appeal set out two requirements for the defence of _non est factum_ to apply (at \[119\]):
 
-… Two requirements need to be established for this doctrine to apply, as may be gathered from the leading decision of the House of Lords in _Saunders v Anglia Building Society_ <span class="citation">\[1971\] AC 1004</span> … (see also _The Law of Contract in Singapore_ (Andrew Phang Boon Leong gen ed) (Academy Publishing, 2012) at paras 10.239–10.245). First, there must be a radical difference between what was signed and what was thought to have been signed. Second, the party seeking to rely upon the doctrine must prove that he took care in signing the document, that is, he must not have been negligent.
+> … Two requirements need to be established for this doctrine to apply, as may be gathered from the leading decision of the House of Lords in _Saunders v Anglia Building Society_ <span class="citation">\[1971\] AC 1004</span> … (see also _The Law of Contract in Singapore_ (Andrew Phang Boon Leong gen ed) (Academy Publishing, 2012) at paras 10.239–10.245). First, there must be a radical difference between what was signed and what was thought to have been signed. Second, the party seeking to rely upon the doctrine must prove that he took care in signing the document, that is, he must not have been negligent.
 
 39     As regards the first requirement, in my view, there was no radical difference between a guarantee and an indemnity in so far as the present circumstances were concerned. Furthermore, it was clear to this court that it mattered not to Chen as to whether the Guarantee he signed was in the nature of an indemnity or not. He wanted the funds from the Plaintiffs for Midas at the material time and it did not matter to him whether the Guarantee was really an indemnity.
 
@@ -201,9 +273,9 @@ although he is not a native English speaker and had not reviewed the Guarantee.
 
 61     Indeed, as mentioned, the Letter Agreement required Chen to:
 
-(a)     provide the US dollar equivalent of RMB10m as a performance deposit; and
+> (a)     provide the US dollar equivalent of RMB10m as a performance deposit; and
 
-(b)     execute a share pledge or charge over the Charged Shares.
+> (b)     execute a share pledge or charge over the Charged Shares.
 
 62     Significantly, the Performance Deposit was not mentioned in the Chinese Extension Agreement but in the Letter Agreement and Chen did provide both the Performance Deposit and the Charged Shares, _ie_, the Securities Charge. It was therefore not open to him to say that he did not understand the Letter Agreement or for that matter, the Guarantor Confirmation.
 
@@ -211,11 +283,11 @@ although he is not a native English speaker and had not reviewed the Guarantee.
 
 64     There is a third time frame which is also material. This is from 12 December 2017 to 22 December 2017. On 12 December 2017, Midas issued an announcement in English and in Chinese while Chen was still Midas’ executive chairman. The announcement stated:
 
-The Guarantor had on 22 November 2017 entered into a charge over 100 million shares (free of security) owned by the Guarantor in the Company, representing not less than 5.26% of the total paid share capital of the Company (the ‘Share Charge’), as security in respect of his obligations under the guarantee he had provided in relation to the Company’s obligations under the Notes.
+> The Guarantor had on 22 November 2017 entered into a charge over 100 million shares (free of security) owned by the Guarantor in the Company, representing not less than 5.26% of the total paid share capital of the Company (the ‘Share Charge’), as security in respect of his obligations under the guarantee he had provided in relation to the Company’s obligations under the Notes.
 
 65     On 22 December 2017, Midas responded to an SGX query to state that:
 
-… The Guarantor is of the view that his entry into the Share Charge is aligned with his commercial interest in maintaining the value of the stake he holds in \[Midas\].
+> … The Guarantor is of the view that his entry into the Share Charge is aligned with his commercial interest in maintaining the value of the stake he holds in \[Midas\].
 
 66     Chen did not dispute that the announcement and the response to SGX acknowledged the existence of the Guarantee and his liability thereunder.
 
@@ -259,9 +331,9 @@ The Guarantor had on 22 November 2017 entered into a charge over 100 million sh
 
 84     The third party claim against PC was for:
 
-(a)     fraudulent or negligent representations made by PC to Chen in respect of the Guarantee: these were the same as the Representations relied on in the defence against the Plaintiffs’ claim save that, here, Chen was not alleging that the Representations were made by PC as an agent of the Plaintiffs; and
+> (a)     fraudulent or negligent representations made by PC to Chen in respect of the Guarantee: these were the same as the Representations relied on in the defence against the Plaintiffs’ claim save that, here, Chen was not alleging that the Representations were made by PC as an agent of the Plaintiffs; and
 
-(b)     fraudulent or negligent representations made by PC to Chen or omission by PC to ensure that the execution papers sent on 21 November 2017 to Chen to sign, only reflected the terms of the Chinese Extension Agreement or were only necessary to effect the share pledges under the Chinese Extension Agreement; and the claim also alleged misrepresentation by PC that the Guarantee was cancelled on or around 15 November 2017.
+> (b)     fraudulent or negligent representations made by PC to Chen or omission by PC to ensure that the execution papers sent on 21 November 2017 to Chen to sign, only reflected the terms of the Chinese Extension Agreement or were only necessary to effect the share pledges under the Chinese Extension Agreement; and the claim also alleged misrepresentation by PC that the Guarantee was cancelled on or around 15 November 2017.
 
 85     I will address first Chen’s allegations against PC on the Representations and on the other representation that the Guarantee was cancelled.
 
@@ -269,9 +341,9 @@ The Guarantor had on 22 November 2017 entered into a charge over 100 million sh
 
 87     Indeed, PC also pointed to more documents which Chen had signed referring either to the Letter Agreement or the Guarantor Confirmation or both, or to his obligations under these documents:
 
-(a)     Chen had signed a Guarantor Confirmation dated 22 November 2017. Clause 8 referred to his obligation to pay the US dollar equivalent of RMB10m which was in turn stated in cl 3.2 of the Letter Agreement. This was the Performance Deposit already mentioned above and was consistent with Chen’s continuing obligation as a guarantor. Clause 3.2 also referred to the Guarantor Confirmation.
+> (a)     Chen had signed a Guarantor Confirmation dated 22 November 2017. Clause 8 referred to his obligation to pay the US dollar equivalent of RMB10m which was in turn stated in cl 3.2 of the Letter Agreement. This was the Performance Deposit already mentioned above and was consistent with Chen’s continuing obligation as a guarantor. Clause 3.2 also referred to the Guarantor Confirmation.
 
-(b)     Chen had signed a Deed of Undertaking with Midas relating to the Performance Deposit and extension fees dated 12 December 2017. This was the same date as Midas’ announcement to SGX (referred to at \[64\] above). Chen was described as “the Guarantor” and Recital (B) referred to the Letter Agreement.
+> (b)     Chen had signed a Deed of Undertaking with Midas relating to the Performance Deposit and extension fees dated 12 December 2017. This was the same date as Midas’ announcement to SGX (referred to at \[64\] above). Chen was described as “the Guarantor” and Recital (B) referred to the Letter Agreement.
 
 88     If it were true that Chen did not understand the documents that he had signed on or about 22 November 2017 and that he really wanted to seek legal advice but for representations from PC, he had had plenty of time after 22 November 2017 to seek such advice (and ask for copies of those documents if he had not retained them) before the 12 December 2017 announcement. He did not do so. Neither did he suggest that he attempted to do so. As a shrewd businessman, he must have known that he could not simply rely on representations which were contrary to the nature of the documents he was signing. This, plus his sham defences against the Plaintiffs’ claim, made it clear to me that he lacked credibility. He knew what he was doing when he signed the Letter Agreement and the Guarantor Confirmation.
 

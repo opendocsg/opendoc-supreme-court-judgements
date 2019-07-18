@@ -91,13 +91,13 @@ Tort – Defamation – Malicious falsehood – Damage
 
 30     Indeed, when Taha and Maranda joined Wellness, their terms of employment dated 26 February 2007 stated that they would receive 15% (in total) of Wellness’ Tea Division. I replicate Clause 4(b):
 
-**4**)     **Salary, Bonus, Profit Sharing Scheme & Expenses**
+> **4**)     **Salary, Bonus, Profit Sharing Scheme & Expenses**
 
-…
+>> …
 
-b)    You will receive 15% shareholding of the Tea Division of \[Wellness\] … **At the point in which the division is a company, equity shall be issued as per latter shareholding. If 3rd party investment is accepted to the newly formed company, the ratio of shareholding between yourselves and \[Wellness\] shall hold** …
+>> b)    You will receive 15% shareholding of the Tea Division of \[Wellness\] … **At the point in which the division is a company, equity shall be issued as per latter shareholding. If 3rd party investment is accepted to the newly formed company, the ratio of shareholding between yourselves and \[Wellness\] shall hold** …
 
-\[**Emphasis added**.\]
+> \[**Emphasis added**.\]
 
 Rith (who joined in November 2007) was also to be given 5% of the shareholding of “_the Tea Division of \[Wellness\]_”.[^27]
 
@@ -133,13 +133,13 @@ Rith (who joined in November 2007) was also to be given 5% of the shareholding o
 
 45     Second, the Declaration Letter of 25 February 2010 signed by Manoj was probative.[^49] It stated:
 
-Domain Name TWGTEA.com Declaration Letter
+> Domain Name TWGTEA.com Declaration Letter
 
-I hereby declare the domain name TWGTEA.com is currently registered under my name...
+> I hereby declare the domain name TWGTEA.com is currently registered under my name...
 
-However the domain name shall **always remain** the property of TWG Tea Company Pte Ltd and at the next available date of renewal, I will transfer the registration and ownership of the domain name TWGTEA.com to TWG Tea Company Pte Ltd.
+> However the domain name shall **always remain** the property of TWG Tea Company Pte Ltd and at the next available date of renewal, I will transfer the registration and ownership of the domain name TWGTEA.com to TWG Tea Company Pte Ltd.
 
-\[**Emphasis added**.\]
+> \[**Emphasis added**.\]
 
 46     I accept Taha’s evidence that Vision Straight’s representative (Ghassan) had asked about the Domain Name in Taha’s and Manoj’s presence and Manoj had confirmed and assured Ghassan that it was owned by TWG Tea and that he was merely holding it on trust for TWG Tea. Manoj then procured the preparation of the Declaration Letter and signed it.[^50] I find that Manoj would not have signed the Declaration Letter to state that the Domain Name will always remain the property of TWG Tea, even for the purposes of Vision Straight acquiring shares in the company, if it were not the case. Manoj did not assert that the statement he made was at that time untrue. In his Defence, Manoj merely claimed that the Declaration Letter was null and void because the negotiations fell through. While the document might have no legal effect _vis-à-vis_ Vision Straight and as the share acquisition deal had failed, the Declaration Letter was evidence that Manoj had declared the Domain Name to be held on trust for TWG Tea and had all along regarded it as TWG Tea’s property.[^51]
 
@@ -191,7 +191,7 @@ However the domain name shall **always remain** the property of TWG Tea Company 
 
 67     The doctrine of laches was summarised in _Cytec Industries Pte Ltd v APP Chemicals International (Mau) Ltd_ <span class="citation">\[2009\] 4 SLR(R) 769</span> at \[46\] (cited with approval by the Court of Appeal, eg, in _Chng Weng Wah v Goh Bak Heng_ <span class="citation">\[2016\] 2 SLR 464</span> at \[44\]), as follows:
 
-Laches is a doctrine of equity. It is properly invoked where essentially there has been a substantial lapse of time coupled with circumstances where it would be practically unjust to give a remedy either because the party has by his conduct done that which might fairly be regarded as equivalent to a waiver thereof; or, where by his conduct and neglect he had, though perhaps not waiving that remedy, yet put the other party in a situation in which it would not be reasonable to place him, if the remedy were afterwards to be asserted … This is a broad-based inquiry and it would be relevant to consider the length of delay before the claim was brought, the nature of the prejudice said to be suffered by the defendant, as well as any element of unconscionability in allowing the claim to be enforced …
+> Laches is a doctrine of equity. It is properly invoked where essentially there has been a substantial lapse of time coupled with circumstances where it would be practically unjust to give a remedy either because the party has by his conduct done that which might fairly be regarded as equivalent to a waiver thereof; or, where by his conduct and neglect he had, though perhaps not waiving that remedy, yet put the other party in a situation in which it would not be reasonable to place him, if the remedy were afterwards to be asserted … This is a broad-based inquiry and it would be relevant to consider the length of delay before the claim was brought, the nature of the prejudice said to be suffered by the defendant, as well as any element of unconscionability in allowing the claim to be enforced …
 
 68     Manoj has not been able to show me why laches should apply. There is no basis for Manoj to claim that TWG Tea had caused him to believe that it did not intend to make a claim against him. On the contrary, Manoj had maintained and assured TWG Tea and Taha that the Domain Name belonged to it and that he would transfer the Domain Name to it on its demand. As Taha explained, he had no reason to doubt Manoj at the material time as they had a good working relationship; Manoj was also up until September 2012 TWG Tea’s Chairman, CEO and director, and would have been obliged to act in its best interests. Even when Manoj left TWG Tea, Taha had no reason to believe that he would injure TWG Tea as Manoj continued to have a stake (as shareholder through Wellness) in the business. Further, when TWG Tea first sent its demand letter in August 2016 (see \[17\] above) and Manoj refused to transfer the Domain Name, TWG Tea had commenced this suit shortly after in 2017. Pertinently, Manoj failed to show what prejudice he has suffered such that it would be unconscionable for TWG Tea to now maintain its claim. To the contrary, as he has a stake in TWG Tea, Manoj would have benefitted from TWG Tea’s continuing use of the Domain Name. I did not find any undue delay on TWG Tea’s part, or an undue delay without any proper justification, in taking earlier steps to assert its claim on the Domain Name.
 
@@ -215,11 +215,11 @@ Laches is a doctrine of equity. It is properly invoked where essentially there h
 
 75     The first is a webpage on TWG Tea’s website (“the Website”), www.twgtea.com/the-twg-tea-story, titled “The Story of TWG Tea” which included the following relevant excerpts (“the Website Statement”):[^68]
 
-THE STORY OF TWG TEA
+> THE STORY OF TWG TEA
 
-…TWG Tea, which stands for **The Wellbeing Group, was co-founded by Taha Bouqdib, Maranda Barnes and Rith Aum-Stievenard in 2008** as a luxury concept that incorporates unique and original retail outlets, exquisite tea rooms and an international distribution network to professionals…
+> …TWG Tea, which stands for **The Wellbeing Group, was co-founded by Taha Bouqdib, Maranda Barnes and Rith Aum-Stievenard in 2008** as a luxury concept that incorporates unique and original retail outlets, exquisite tea rooms and an international distribution network to professionals…
 
-\[**Emphasis added**.\]
+> \[**Emphasis added**.\]
 
 The Website had this material since June 2015 and the Website Statement was the first time TWG Tea had mentioned on its website who its founders were.[^69]
 
@@ -227,15 +227,15 @@ The Website had this material since June 2015 and the Website Statement was the 
 
 77     Next, Manoj pointed to five other statements which he asserted were false and published maliciously:
 
-(a)     In an interview with Maranda on or about 22 March 2017, Montecristo Magazine had published an article titled “TWG Tea Salon & Boutique Vancouver: True love’s sip” on its website. The article states, “ … Founded in 2008 in Singapore by Barnes and her husband Taha Bouqdib, TWG is known across the globe, especially in Asia…” (“the Montecristo article”).[^71]
+> (a)     In an interview with Maranda on or about 22 March 2017, Montecristo Magazine had published an article titled “TWG Tea Salon & Boutique Vancouver: True love’s sip” on its website. The article states, “ … Founded in 2008 in Singapore by Barnes and her husband Taha Bouqdib, TWG is known across the globe, especially in Asia…” (“the Montecristo article”).[^71]
 
-(b)     In an interview with Taha and Maranda on or about 8 December 2016, Nomss.com (“Nomss”) published an article titled “TWG Tea Canada Vancouver Tea Salon and Boutique” on its website. In particular, the article stated, “… We started the evening mingling over tea infused cocktails with TWG Tea founders from Singapore – Taha Bouqdib … and Maranda Barnes …” (“the Nomss article”).[^72]
+> (b)     In an interview with Taha and Maranda on or about 8 December 2016, Nomss.com (“Nomss”) published an article titled “TWG Tea Canada Vancouver Tea Salon and Boutique” on its website. In particular, the article stated, “… We started the evening mingling over tea infused cocktails with TWG Tea founders from Singapore – Taha Bouqdib … and Maranda Barnes …” (“the Nomss article”).[^72]
 
-(c)     Following an interview between Maranda and Niche magazine on or about 31 August 2015, Niche magazine published an article title “Urban Elegance: TWG Tea Brings It Back In Style” on its website. The caption to a photo of Taha and Maranda, which stated “TWG Tea founders Maranda Barnes and Taha Bouqdib” did not contain any mention of Manoj (“the Niche article”).[^73]
+> (c)     Following an interview between Maranda and Niche magazine on or about 31 August 2015, Niche magazine published an article title “Urban Elegance: TWG Tea Brings It Back In Style” on its website. The caption to a photo of Taha and Maranda, which stated “TWG Tea founders Maranda Barnes and Taha Bouqdib” did not contain any mention of Manoj (“the Niche article”).[^73]
 
-(d)     In an interview with Taha and Maranda on or about 7 June 2018, Forbes published an article titled, “The World’s Finest Luxury Tea Has Just Landed In London” on its website. The article stated that TWG Tea was founded by “the co-foundering (_sic_) couple: Taha Bouqdib … and Maranda Barnes” without any mention of Manoj (“the Forbes article”).[^74]
+> (d)     In an interview with Taha and Maranda on or about 7 June 2018, Forbes published an article titled, “The World’s Finest Luxury Tea Has Just Landed In London” on its website. The article stated that TWG Tea was founded by “the co-foundering (_sic_) couple: Taha Bouqdib … and Maranda Barnes” without any mention of Manoj (“the Forbes article”).[^74]
 
-(e)     Following an interview with Taha and Maranda on 25 June 2018, Vogue published an article titled “The Luxury Teahouse Revolutionising Our Tea-Drinking Habits” on its website. The article stated that TWG Tea was “co-founded in 2008 by Taha Bouqdib Maranda Barnes and partners” (“the Vogue article”).[^75]
+> (e)     Following an interview with Taha and Maranda on 25 June 2018, Vogue published an article titled “The Luxury Teahouse Revolutionising Our Tea-Drinking Habits” on its website. The article stated that TWG Tea was “co-founded in 2008 by Taha Bouqdib Maranda Barnes and partners” (“the Vogue article”).[^75]
 
 78     Finally, Manoj took issue with the fact that at an event on 12 March 2017, Maranda had made statements to the effect that Taha and she had founded and developed TWG Tea and that there was another partner who merely acted as an investor (“the CRIB summit”).[^76]
 
@@ -271,15 +271,15 @@ The Website had this material since June 2015 and the Website Statement was the 
 
 91     I accept that the mere fact that a webpage is accessible does not by itself constitute publication. That said, the extent of publication can be proved either by direct proof or by establishing a “platform of facts” from which the court can properly _infer_ that substantial publication has taken place (_Freddie Koh_ at \[43\]). In _The Law of Defamation and the Internet_ (M Collins) (3rd Ed, 2010 Ed) (“_The Law of Defamation and the Internet_”), the learned author stated as follows, at paras 5.04–5.09:
 
-Proof that Internet communications have been published is therefore not usually a difficult task…
+> Proof that Internet communications have been published is therefore not usually a difficult task…
 
-…
+> …
 
-The claimant bears the burden of establishing publication. That burden can be discharged directly, by proving that at least one person, other than the claimant, saw, read, or heard the communication. In appropriate cases it may also be proved indirectly, by an inference that publication must have occurred. There is, however, no presumption of law that matter appearing on the Internet has been published. There must be a substratum of fact to support an inference of publication. It is not sufficient for the purposes of proving publication for a claimant simply to allege that defamatory matter was posted on the Internet and was accessible in the jurisdiction of the court.
+> The claimant bears the burden of establishing publication. That burden can be discharged directly, by proving that at least one person, other than the claimant, saw, read, or heard the communication. In appropriate cases it may also be proved indirectly, by an inference that publication must have occurred. There is, however, no presumption of law that matter appearing on the Internet has been published. There must be a substratum of fact to support an inference of publication. It is not sufficient for the purposes of proving publication for a claimant simply to allege that defamatory matter was posted on the Internet and was accessible in the jurisdiction of the court.
 
-…
+> …
 
-Inferences of publication may be drawn in appropriate cases in the absence of direct evidence of any person actually having accessed the allegedly defamatory matter. Where allegedly defamatory matter has appeared on the generally accessible web site of a mainstream newspaper, for example, an inference of publication will readily be drawn.
+> Inferences of publication may be drawn in appropriate cases in the absence of direct evidence of any person actually having accessed the allegedly defamatory matter. Where allegedly defamatory matter has appeared on the generally accessible web site of a mainstream newspaper, for example, an inference of publication will readily be drawn.
 
 I will return to this issue when I consider the Statements proper.
 
@@ -297,21 +297,21 @@ I will return to this issue when I consider the Statements proper.
 
 97     That Taha was equally aware was illustrated by an earlier episode concerning an article published in the Bangkok Post on 9 August 2012 (“the Bangkok Post article”). The material portion read:[^93]
 
-Avid tea drinkers Taha Bouqdib and Maranda Barnes don’t just make a handsome married couple, their common passion for tea played a determining role in their decision to set up TWG (The Wellness Group) Tea – **a company they started in Singapore** five years ago…
+> Avid tea drinkers Taha Bouqdib and Maranda Barnes don’t just make a handsome married couple, their common passion for tea played a determining role in their decision to set up TWG (The Wellness Group) Tea – **a company they started in Singapore** five years ago…
 
-The duo have pooled together their talents and resources to set their business apart…
+> The duo have pooled together their talents and resources to set their business apart…
 
-Bouqdib … and Barnes have also **brought on board fellow founding partners Manoj Murjani**, Rith … and Philippe …
+> Bouqdib … and Barnes have also **brought on board fellow founding partners Manoj Murjani**, Rith … and Philippe …
 
-\[**Emphases added**.\]
+> \[**Emphases added**.\]
 
 98     On 14 August 2012 Manoj sent a peeved email about the article to Taha stating that “I am not happy as there is so much untruth…Please can you explain…as to the facts and who said this … as it implies that you founded the company with just Maranda and yourself and then decided to bring me on?”[^94] Taha’s reply on the same date and in follow up emails included the following:[^95]
 
-…Manoj, I am always doing the best for the company and we never said to the journalist that we bring you to the company after, we always said that we found twg tea all together … I never said that to this journalist or any others person in this world.
+> …Manoj, I am always doing the best for the company and we never said to the journalist that we bring you to the company after, we always said that we found twg tea all together … I never said that to this journalist or any others person in this world.
 
-…
+> …
 
-\[Y\]our name was \[always\] present when the journalist ask, how can I hide something giving to all the journalist the bio of all the founders.
+> \[Y\]our name was \[always\] present when the journalist ask, how can I hide something giving to all the journalist the bio of all the founders.
 
 99     Taha’s strenuous efforts to defend himself spoke to the truth of the matter. He was well aware that Manoj had co-founded TWG Tea and that statements to the contrary would have been false. Taha admitted that if he had said that only he and Maranda were founding partners, that would have been untrue. He was thus cognisant that Manoj should be given due attribution in the context of TWG Tea’s founding.
 
@@ -327,17 +327,17 @@ Bouqdib … and Barnes have also **brought on board fellow founding partners Man
 
 104    The general principles for what is the natural and ordinary meaning of the words in the context of defamation were highlighted in _Chan Cheng Wah Bernard and others v Koh Sin Chong Freddie and another appeal_ <span class="citation">\[2012\] 1 SLR 506</span> at \[18\]:
 
-(a)     The natural and ordinary meaning of a word is that which is conveyed to an ordinary reasonable person;
+> (a)     The natural and ordinary meaning of a word is that which is conveyed to an ordinary reasonable person;
 
-(b)     As the test is objective, the meaning which the defendant intended to convey is irrelevant;
+> (b)     As the test is objective, the meaning which the defendant intended to convey is irrelevant;
 
-(c)     The ordinary reasonable reader is not avid for scandal but can read between the lines and draw inferences;
+> (c)     The ordinary reasonable reader is not avid for scandal but can read between the lines and draw inferences;
 
-(d)     Where there are a number of possible interpretations, some of which may be non-defamatory, such a reader will not seize on only the defamatory one;
+> (d)     Where there are a number of possible interpretations, some of which may be non-defamatory, such a reader will not seize on only the defamatory one;
 
-(e)     The ordinary reasonable reader is treated as having read the publication as a whole in determining its meaning, thus “the bane and the antidote must be taken together”; and
+> (e)     The ordinary reasonable reader is treated as having read the publication as a whole in determining its meaning, thus “the bane and the antidote must be taken together”; and
 
-(f)     The ordinary reasonable reader will take note of the circumstances and manner of the publication.
+> (f)     The ordinary reasonable reader will take note of the circumstances and manner of the publication.
 
 105    As to the principle stated in \[104(d)\] above, I note that in the tort of malicious falsehood, there is some authority in the English Court of Appeal that suggests that a claimant can avail of more than one of the natural and ordinary meanings: see _Ajinomoto Sweeteners Europe SAS v Asda Stores Ltd_ <span class="citation">\[2011\] 2 WLR 91</span> at \[35\].[^98] However, it was unnecessary to make that determination here as it was clear to me that there were singular interpretations available.
 
@@ -419,15 +419,15 @@ Bouqdib … and Barnes have also **brought on board fellow founding partners Man
 
 136    Instead, Ms Koh sought to rely on s 6(1) of the Defamation Act (Cap 75, 2014 Rev Ed), which states:
 
-**Slander of title, etc.**
+> **Slander of title, etc.**
 
-**6.**—(1)    In any action for slander of title, slander of goods or other malicious falsehood, it shall not be necessary to allege or prove special damage —
+> **6.**—(1)    In any action for slander of title, slander of goods or other malicious falsehood, it shall not be necessary to allege or prove special damage —
 
-(_a_)    if the words upon which the action is founded are _calculated to cause pecuniary damage_ to the plaintiff and are published in writing or other permanent form; or
+>> (_a_)    if the words upon which the action is founded are _calculated to cause pecuniary damage_ to the plaintiff and are published in writing or other permanent form; or
 
-(_b_)    if the said words are c_alculated to cause pecuniary damage_ to the plaintiff in respect of any office, profession, calling, trade or business held or carried on by him at the time of publication.
+>> (_b_)    if the said words are c_alculated to cause pecuniary damage_ to the plaintiff in respect of any office, profession, calling, trade or business held or carried on by him at the time of publication.
 
-\[_Emphases added_.\]
+> \[_Emphases added_.\]
 
 137    In _Sukamto Sia_ (at \[112\]–\[113\]) the Court of Appeal held that if s 6(1) of the Defamation Act applied, a plaintiff would not need to prove specific pecuniary loss but instead the court will infer the existence of such loss. The meaning of the words “calculated to cause pecuniary damage” means “likely to produce the result”.
 

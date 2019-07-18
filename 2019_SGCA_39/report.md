@@ -35,7 +35,7 @@ Contract – Contractual terms – Incorporation by reference
 
 6       The Appellant accepted the terms and conditions stated in the Second LOA. Its representative, who was the Appellant’s President, Chief Executive Officer and Managing Director, signed below a paragraph in the Second LOA which stated as follows:
 
-On behalf of **BINTAI KINDENKO Pte Ltd**, we the undersigned hereby acknowledge receipt of this Letter of Acceptance, the documents and confirm acceptance of all the terms and conditions stated herein.
+> On behalf of **BINTAI KINDENKO Pte Ltd**, we the undersigned hereby acknowledge receipt of this Letter of Acceptance, the documents and confirm acceptance of all the terms and conditions stated herein.
 
 ### The relevant clauses of the Sub-Contract
 
@@ -43,19 +43,19 @@ On behalf of **BINTAI KINDENKO Pte Ltd**, we the undersigned hereby acknowledge 
 
 8       The first, cl 3 (“Clause 3”), provided as follows:
 
-**3**.     **Form of Sub-Contract**
+> **3**.     **Form of Sub-Contract**
 
-The Form of our Main Contract with the Employer is the Singapore Institute of Architects (“SIA”) Lump Sum Contract (9th Edition) and the Sub-Contract shall be SIA Conditions of Sub-Contract 4th Edition, 2010, including all Particular Conditions as set out in the Main Contract.
+> The Form of our Main Contract with the Employer is the Singapore Institute of Architects (“SIA”) Lump Sum Contract (9th Edition) and the Sub-Contract shall be SIA Conditions of Sub-Contract 4th Edition, 2010, including all Particular Conditions as set out in the Main Contract.
 
-This Sub-Contract shall be executed on a “back-to-back” basis in accordance with the relevant clauses within the Main Contract.
+> This Sub-Contract shall be executed on a “back-to-back” basis in accordance with the relevant clauses within the Main Contract.
 
 9       A provision similar to Clause 3 was also contained in the First LOA.
 
 10     The next clause of the Second LOA which is relevant here is cl 6 (“Clause 6”), which concerned the performance bond. This clause provided:
 
-**6**.     **Performance Bond**
+> **6**.     **Performance Bond**
 
-\[The Appellant\] is to submit the Performance Bond (issued by an approved Bank) equivalent to Five (5%) percent of the Sub-Contract Sum within 14 days from the date hereof as required under the terms of the Sub-Contract.
+> \[The Appellant\] is to submit the Performance Bond (issued by an approved Bank) equivalent to Five (5%) percent of the Sub-Contract Sum within 14 days from the date hereof as required under the terms of the Sub-Contract.
 
 ### The relevant clauses of the Main Contract
 
@@ -65,23 +65,23 @@ This Sub-Contract shall be executed on a “back-to-back” basis in accordance 
 
 13     Both the MC Particular Conditions and the SC Particular Conditions purported to add similarly-worded exclusion clauses into the Main Contract and the Sub-Contract respectively. Clause 13 of the MC Particular conditions provided that a new cl 5A was to be added to the Main Contract’s conditions. Sub-clause (5) of this new cl 5A (“Clause 5A(5)”) stated as follows:
 
-(5)    Pursuant to the intent set out in Sub-Clause (1) above that the performance bond is to stand in lieu of a cash deposit, the Contractor agrees that except in the case of fraud, the Contractor shall not for any reason whatsoever be entitled to enjoin or restrain:
+> (5)    Pursuant to the intent set out in Sub-Clause (1) above that the performance bond is to stand in lieu of a cash deposit, the Contractor agrees that except in the case of fraud, the Contractor shall not for any reason whatsoever be entitled to enjoin or restrain:
 
-(a)    the Employer from making any call or demand on the performance bond or receiving any cash proceeds under the performance bond; and/or
+>> (a)    the Employer from making any call or demand on the performance bond or receiving any cash proceeds under the performance bond; and/or
 
-(b)    the obligor under the performance bond from paying any cash proceeds under the performance bond,
+>> (b)    the obligor under the performance bond from paying any cash proceeds under the performance bond,
 
-on any other ground including the ground of unconscionability. …
+> on any other ground including the ground of unconscionability. …
 
 14     Likewise, cl 8 of the SC Particular Conditions purported to add a new cl 14A(5) to the SIA Conditions of Sub-Contract (“Clause 14A(5)”), which provided that:
 
-(5)    Pursuant to the intent set out in Sub-Clause (1) above that the performance bond is to stand in lieu of a cash deposit, the Contractor agrees that except in the case of fraud, the Sub-Contractor shall not for any reason whatsoever be entitled to enjoin or restrain:
+> (5)    Pursuant to the intent set out in Sub-Clause (1) above that the performance bond is to stand in lieu of a cash deposit, the Contractor agrees that except in the case of fraud, the Sub-Contractor shall not for any reason whatsoever be entitled to enjoin or restrain:
 
-(a)    the Contractor from making any call or demand on the performance bond or receiving any cash proceeds under the performance bond; and/or
+>> (a)    the Contractor from making any call or demand on the performance bond or receiving any cash proceeds under the performance bond; and/or
 
-(b)    the obligor under the performance bond from paying any cash proceeds under the performance bond,
+>> (b)    the obligor under the performance bond from paying any cash proceeds under the performance bond,
 
-on any other ground including the ground of unconscionability. …
+> on any other ground including the ground of unconscionability. …
 
 15     We shall refer to Clauses 5A(5) and 14A(5) collectively as the “Exclusion Clauses”.
 
@@ -91,9 +91,9 @@ on any other ground including the ground of unconscionability. …
 
 17     The BG, an on-demand guarantee, provided in Clauses 2 and 3 that:
 
-2    Upon your demand of the whole or any part of the Guaranteed Sum made in writing addressed to us and sent by hand or by AR registered post to our Banker’s Guarantee Section … and made at any time on or before the expiry of 90 days after the Termination Date of this Bond, we shall immediately pay the sum demanded to you notwithstanding the existence of any dispute or differences which may have arisen in relation to the Sub-Contract or any amount payable under the Sub-Contract or any defences which the Sub-Contractor may have, or any request or instruction which may have been given to us by \[the Appellant\] not to pay the same.
+> 2    Upon your demand of the whole or any part of the Guaranteed Sum made in writing addressed to us and sent by hand or by AR registered post to our Banker’s Guarantee Section … and made at any time on or before the expiry of 90 days after the Termination Date of this Bond, we shall immediately pay the sum demanded to you notwithstanding the existence of any dispute or differences which may have arisen in relation to the Sub-Contract or any amount payable under the Sub-Contract or any defences which the Sub-Contractor may have, or any request or instruction which may have been given to us by \[the Appellant\] not to pay the same.
 
-3    We shall not be obliged to inquire into the reasons, grounds or circumstances or any demand made by you nor into the respective rights, obligations and/or liabilities between you and \[the Appellant\] under the Sub-Contract, or into the authenticity of your notice or the authority of the persons signing such notice but shall immediately pay to you the Guaranteed Sum (or any part as stated in your demand) on your written demand made in the manner as set out in Clause 2 herein.
+> 3    We shall not be obliged to inquire into the reasons, grounds or circumstances or any demand made by you nor into the respective rights, obligations and/or liabilities between you and \[the Appellant\] under the Sub-Contract, or into the authenticity of your notice or the authority of the persons signing such notice but shall immediately pay to you the Guaranteed Sum (or any part as stated in your demand) on your written demand made in the manner as set out in Clause 2 herein.
 
 18     The Appellant did not dispute that the BG was valid when the First Respondent called on it on 28 August 2017.
 
@@ -158,9 +158,9 @@ on any other ground including the ground of unconscionability. …
 
 41     In relation to the question of whether it was entitled to rely on the unconscionability exception in this case, the Appellant submitted that:
 
-(a)     First, the Court should not disallow the Appellant from relying on the unconscionability exception at this interim stage as it has raised triable issues relating to the issue of whether the Exclusion Clauses were incorporated into the Sub-Contract. To do otherwise would curtail the Appellant’s ability to raise various claims or defences against the First Respondent in arbitration or at trial. This triable issue arose from the fact that the SC and MC Particular Conditions were not provided to the Appellant and could not therefore have been incorporated into the Sub-Contract without the Appellant’s notice. The Appellant also submitted that the balance of convenience test would be highly relevant if the potential effect of the interlocutory order would have the effect of striking out a plausible defence or claim that should be resolved at trial.
+> (a)     First, the Court should not disallow the Appellant from relying on the unconscionability exception at this interim stage as it has raised triable issues relating to the issue of whether the Exclusion Clauses were incorporated into the Sub-Contract. To do otherwise would curtail the Appellant’s ability to raise various claims or defences against the First Respondent in arbitration or at trial. This triable issue arose from the fact that the SC and MC Particular Conditions were not provided to the Appellant and could not therefore have been incorporated into the Sub-Contract without the Appellant’s notice. The Appellant also submitted that the balance of convenience test would be highly relevant if the potential effect of the interlocutory order would have the effect of striking out a plausible defence or claim that should be resolved at trial.
 
-(b)     Second, even if the Court was to determine that the Exclusion Clauses had been incorporated, it should nevertheless find that the clauses were unenforceable pursuant to ss 3 and 11 of the UCTA as such clauses were inherently unreasonable.
+> (b)     Second, even if the Court was to determine that the Exclusion Clauses had been incorporated, it should nevertheless find that the clauses were unenforceable pursuant to ss 3 and 11 of the UCTA as such clauses were inherently unreasonable.
 
 42     Finally, the Appellant submitted that it had not failed to make full and frank disclosure of material facts at the _ex parte_ hearing of its injunction application. It also submitted that there was no deliberate suppression of material facts before the Judge and any omissions were innocent in any case.
 
@@ -176,11 +176,11 @@ on any other ground including the ground of unconscionability. …
 
 46     The issues that arose for determination in this appeal can be broadly stated as follows:
 
-(a)     Whether the Judge erred in holding that the Appellant’s right to rely on the unconscionability exception was contractually excluded in this case?
+> (a)     Whether the Judge erred in holding that the Appellant’s right to rely on the unconscionability exception was contractually excluded in this case?
 
-(b)     Whether the Judge erred in finding that the First Respondent’s call on the BG was not fraudulent?
+> (b)     Whether the Judge erred in finding that the First Respondent’s call on the BG was not fraudulent?
 
-(c)     Whether the Judge erred in declining to discharge the Interim Injunction solely on the basis that the Appellant had failed to provide full and frank disclosure of all material facts?
+> (c)     Whether the Judge erred in declining to discharge the Interim Injunction solely on the basis that the Appellant had failed to provide full and frank disclosure of all material facts?
 
 47     Before setting out our analysis of the various issues, we must emphasise that the conclusions which we express at this stage are not meant to be binding on any court or tribunal which may be called upon to resolve the parties’ underlying disputes in this case. These conclusions are meant for the disposal of this appeal only.
 
@@ -196,13 +196,13 @@ on any other ground including the ground of unconscionability. …
 
 51     The burden therefore lay on the First Respondent to show that there were circumstances which justified a departure from the general position that we have expressed above. By virtue of ss 103 and 105 of the Evidence Act Act (Cap 97, 1997 Rev Ed) (the “Evidence Act”), the burden of proof fell on the First Respondent since the party that asserts the affirmative must prove its case: _Cooperatieve Centrale Raiffeisen-Boerenleenbank BA (trading as Rabobank International), Singapore Branch v Motorola Electronics Pte Ltd_ <span class="citation">\[2011\] 2 SLR 63</span> (“_Cooperatieve Centrale_”) at \[30\]–\[31\]. For convenience, s 103 of the Evidence Act states:
 
-**103.**—(1)    Whoever desires any court to give judgment as to any legal right or liability, dependent on the existence of facts which he asserts, must prove that those facts exist.
+> **103.**—(1)    Whoever desires any court to give judgment as to any legal right or liability, dependent on the existence of facts which he asserts, must prove that those facts exist.
 
-(2)    When a person is bound to prove the existence of any fact, it is said that the burden of proof lies on that person.
+> (2)    When a person is bound to prove the existence of any fact, it is said that the burden of proof lies on that person.
 
 Section 105 of the Evidence Act provides:
 
-**105**.    The burden of proof as to any particular fact lies on that person who wishes the court to believe in its existence, unless it is provided by any law that the proof of that fact shall lie on any particular person.
+> **105**.    The burden of proof as to any particular fact lies on that person who wishes the court to believe in its existence, unless it is provided by any law that the proof of that fact shall lie on any particular person.
 
 52     This position makes practical sense since it would be impracticable for the Appellant to prove a negative (_ie_, that it is not disentitled from relying on the unconscionability exception) (_Cooperatieve Centrale_ at \[31\], citing _Phipson on Evidence_ (Hodge M Malek gen ed) (Sweet & Maxwell, 17th ed, 2009) at para 6-06). However, the fact that the burden was on the First Respondent did not exempt the Appellant from its duty to draw the Judge’s attention to this issue as part of its duty to make full and frank disclosure. We shall say more on this below at \[78\]–\[84\].
 
@@ -214,9 +214,9 @@ Section 105 of the Evidence Act provides:
 
 55     The Judge found that Clause 3 of the Second LOA incorporated the SC Particular Conditions into the Sub-Contract by reference, thereby causing the parties to be bound by Clause 14A(5) (GD at \[31\]–\[33\]). The Appellant submitted that the Judge erred in so holding for the following reasons:
 
-(a)     First, the “back to back” reference in Clause 3 was only meant to incorporate the Main Contract’s scope of works. As Clause 14A(5) did not concern the Main Contract’s scope of works, it was not incorporated into the Sub-Contract through Clause 3.
+> (a)     First, the “back to back” reference in Clause 3 was only meant to incorporate the Main Contract’s scope of works. As Clause 14A(5) did not concern the Main Contract’s scope of works, it was not incorporated into the Sub-Contract through Clause 3.
 
-(b)     Second, Clause 14A(5) could not have been incorporated into the Sub-Contract because the Appellant was not provided with the SC Particular Conditions at the time of contracting.
+> (b)     Second, Clause 14A(5) could not have been incorporated into the Sub-Contract because the Appellant was not provided with the SC Particular Conditions at the time of contracting.
 
 56     In our view, contrary to the Appellant’s submissions, the Judge did not decide that the SC Particular Conditions were incorporated into the Sub-Contract because of the “back to back” reference to the Main Contract in Clause 3. Instead, the Judge’s decision was based on the interpretation that the first sentence of Clause 3 incorporated the SC Particular Conditions by express reference (GD at \[33\]). Since the Judge also found that there would have been “little room” for any argument that the SC Particular Conditions were not incorporated into the Sub-Contract (GD at \[33\]), we were satisfied that he would have found in the First Respondent’s favour even if he had applied our views on the burden of proof set out above. Thus, we saw no reason to disturb his conclusion on this issue.
 
@@ -226,15 +226,15 @@ Section 105 of the Evidence Act provides:
 
 59     Therefore, if a term in a signed contract incorporated some or all the terms of a separate document by making reference to those terms, the parties to the contract would be bound by those separate terms even if they did not have any knowledge of what those terms were at the time of contracting. This principle holds true even if the terms of the separate document sought to be incorporated contain exclusion clauses like in the present case. In the High Court’s decision in _Press Automation Technology Pte Ltd v Trans-Link Exhibition Forwarding Pte Ltd_ <span class="citation">\[2003\] 1 SLR(R) 712</span> (“_Press Automation_”), the plaintiff, a machine owner, sought a tender from the defendant freight forwarder to transport a machine from Singapore to Bangkok. The freight forwarder provided three quotations to the owner, each of which was accompanied by a document called a “Confirmation of Acceptance” (“CoA”) which contained the following clause (at \[8\]):
 
-“All business is only transacted in accordance with the Singapore Freight Forwarders Association (SFFA) Standard Trading Conditions. Copy is available upon application.”
+> “All business is only transacted in accordance with the Singapore Freight Forwarders Association (SFFA) Standard Trading Conditions. Copy is available upon application.”
 
 60     The owner eventually accepted one of the three quotations by signing the accompanying CoA and sending the CoA back to the freight forwarder. This was the parties’ first transaction and the freight forwarder did not send the SFFA conditions, which were contained in a separate document, to the owner, nor did it draw the owner’s attention to the abovementioned clause. Subsequently, the machine was damaged while in the freight forwarder’s custody. The owner sued the freight forwarder in negligence. However, the freight forwarder argued, among other things, that its liability for negligence was limited under an exclusion clause contained in the SFFA conditions and that the owner’s claim was also time-barred contractually under that same clause. In response, the owner contended that the exclusion clause was not properly incorporated into the parties’ contract because the exclusion clause was not fairly or reasonably brought to its attention. The owner’s contention was rejected by Judith Prakash J (as she then was) who held that the requirement of reasonable notice did not apply in a case where terms contained in a separate document were specifically incorporated into a contract that was signed by the party that was sought to be bound. Thus, Prakash J observed, at \[39\]–\[40\], that:
 
-Having considered the authorities, I am of the opinion that the fact that the incorporating clause here was contained in a document that was signed by \[the owner\], resulted in the conditions being incorporated as part of the contract between the parties notwithstanding that \[the owner\] did not have a copy of them and had not read them. I hold that the conditions were incorporated as a whole and that the line of authorities that decides that onerous and unusual conditions cannot be incorporated unless the attention of the party sought to be bound has been specifically drawn to them does not apply to a case like this where there is a signed contract with an explicit incorporating clause. …
+> Having considered the authorities, I am of the opinion that the fact that the incorporating clause here was contained in a document that was signed by \[the owner\], resulted in the conditions being incorporated as part of the contract between the parties notwithstanding that \[the owner\] did not have a copy of them and had not read them. I hold that the conditions were incorporated as a whole and that the line of authorities that decides that onerous and unusual conditions cannot be incorporated unless the attention of the party sought to be bound has been specifically drawn to them does not apply to a case like this where there is a signed contract with an explicit incorporating clause. …
 
-… Where a party has signed a contract after having been given notice, by way of a clear incorporating clause such as the one used in the present case, of what would be included among the contractual terms, that party cannot afterwards assert that it is not bound by some of the terms on the ground that the same are onerous and unusual and had not been drawn specifically to its attention. Contracting parties must have a care for their own legal positions by ascertaining what terms are to be part of a contract before signing it. If they do not do so, they will be bound by those terms except to the extent that the UCTA offers them relief. In _AEG (UK) Ltd v Logic Resource Limited_ \[1996\] CLC 265, Hobhouse LJ expressed the opinion that whilst in the past there may have been a tendency to introduce more strict criteria in relation to the question of whether particular terms had been incorporated into a contract by reference:
+> … Where a party has signed a contract after having been given notice, by way of a clear incorporating clause such as the one used in the present case, of what would be included among the contractual terms, that party cannot afterwards assert that it is not bound by some of the terms on the ground that the same are onerous and unusual and had not been drawn specifically to its attention. Contracting parties must have a care for their own legal positions by ascertaining what terms are to be part of a contract before signing it. If they do not do so, they will be bound by those terms except to the extent that the UCTA offers them relief. In _AEG (UK) Ltd v Logic Resource Limited_ \[1996\] CLC 265, Hobhouse LJ expressed the opinion that whilst in the past there may have been a tendency to introduce more strict criteria in relation to the question of whether particular terms had been incorporated into a contract by reference:
 
-… this is no longer necessary in view of the Unfair Contract Terms Act. The reasonableness of clauses is the subject matter of the Unfair Contract Terms Act and it is under the provisions of that Act that problems of unreasonable clauses should be addressed and the solution found.
+>> … this is no longer necessary in view of the Unfair Contract Terms Act. The reasonableness of clauses is the subject matter of the Unfair Contract Terms Act and it is under the provisions of that Act that problems of unreasonable clauses should be addressed and the solution found.
 
 61     These propositions are consistent with the well-established common law position that we have expressed above and we adopt Prakash J’s analysis here. We also note that Prakash J’s decision in _Press Automation_ has been cited with approval in successive High Court decisions (see, _Wartsila Singapore Pte Ltd v Lau Yew Choong and another suit_ <span class="citation">\[2017\] 5 SLR 268</span> (at \[126\]), _Huationg (Asia) Pte Ltd v Lonpac Insurance Bhd_ <span class="citation">\[2016\] 1 SLR 1431</span> (at \[72\]–\[73\]) and _Abani Trading Pte Ltd v BNP Paribas and another appeal_ <span class="citation">\[2014\] 3 SLR 909</span> (at \[86\])).
 

@@ -35,11 +35,11 @@ Constitutional Law – Judicial Power
 
 7       At the conclusion of the trial, on 22 November 2010, the appellant was found guilty and accordingly sentenced to death. The trial Judge made a number of findings including the following:
 
-(a)     The appellant’s contemporaneous statements to the CNB officers had been provided voluntarily and recorded accurately: _Nagaenthran (Trial)_ at \[33\].
+> (a)     The appellant’s contemporaneous statements to the CNB officers had been provided voluntarily and recorded accurately: _Nagaenthran (Trial)_ at \[33\].
 
-(b)     The appellant’s allegations that King had assaulted him and threatened to kill his girlfriend if he did not deliver the drugs into Singapore were fabricated. He therefore failed to establish the defence of duress: _Nagaenthran (Trial)_ at \[18\]–\[19\].
+> (b)     The appellant’s allegations that King had assaulted him and threatened to kill his girlfriend if he did not deliver the drugs into Singapore were fabricated. He therefore failed to establish the defence of duress: _Nagaenthran (Trial)_ at \[18\]–\[19\].
 
-(c)     The appellant had actual knowledge of the contents of the bundle he had been tasked with delivering, namely, that it contained diamorphine: _Nagaenthran (Trial)_ at \[33\]. This finding was based largely on the appellant’s contemporaneous statement to the CNB officers, where he had stated unequivocally that the bundle strapped to his thigh contained heroin.
+> (c)     The appellant had actual knowledge of the contents of the bundle he had been tasked with delivering, namely, that it contained diamorphine: _Nagaenthran (Trial)_ at \[33\]. This finding was based largely on the appellant’s contemporaneous statement to the CNB officers, where he had stated unequivocally that the bundle strapped to his thigh contained heroin.
 
 8       On appeal, we affirmed all of the aforementioned findings: see _Nagaenthran (CA)_ at \[18\]–\[19\]. The mandatory death sentence was therefore upheld.
 
@@ -69,45 +69,45 @@ Constitutional Law – Judicial Power
 
 17     The Judge found that the appellant was not suffering from an abnormality of mind within the meaning of s 33B(3)(_b_) of the MDA (see \[3\] above). The issues that arise in CCA 50 correspond with the three cumulative requirements that the appellant would have to satisfy in order to be able to rely on the defence under s 33B(3)(_b_), namely:
 
-(a)     whether the appellant was suffering from an abnormality of mind;
+> (a)     whether the appellant was suffering from an abnormality of mind;
 
-(b)     if he was, whether the abnormality of mind: (i) arose from a condition of arrested or retarded development of mind; (ii) arose from any inherent causes; or (iii) was induced by disease or injury; and
+> (b)     if he was, whether the abnormality of mind: (i) arose from a condition of arrested or retarded development of mind; (ii) arose from any inherent causes; or (iii) was induced by disease or injury; and
 
-(c)     if (a) and (b) are answered affirmatively, whether the abnormality of mind substantially impaired his mental responsibility for his acts and omissions in relation to his offence.
+> (c)     if (a) and (b) are answered affirmatively, whether the abnormality of mind substantially impaired his mental responsibility for his acts and omissions in relation to his offence.
 
 ### CA 98
 
 18     In CA 98, the appellant pursues his application for leave to commence judicial review proceedings against the PP’s non-certification decision on the grounds that: (i) the PP did not take into account relevant considerations in arriving at his non-certification decision, and (ii) the PP arrived at his non-certification decision in the absence of a necessary precedent fact. First, however, the appellant had to show that s 33B(4) of the MDA did not preclude judicial review of the PP’s non-certification decision under s 33B(2)(_b_) on those grounds. Accordingly, the issues in CA 98 were as follows:
 
-(a)     First, whether s 33B(4) of the MDA precluded judicial review of the PP’s non-certification decision under s 33B(2)(_b_) on grounds other than bad faith or malice.
+> (a)     First, whether s 33B(4) of the MDA precluded judicial review of the PP’s non-certification decision under s 33B(2)(_b_) on grounds other than bad faith or malice.
 
-(b)     Second, and only if the answer to (a) is in the negative, whether the appellant has made out a _prima facie_ case of reasonable suspicion that the PP, in arriving at his non-certification decision: (i) failed to take into account relevant considerations; and (ii) acted in the absence of a necessary precedent fact.
+> (b)     Second, and only if the answer to (a) is in the negative, whether the appellant has made out a _prima facie_ case of reasonable suspicion that the PP, in arriving at his non-certification decision: (i) failed to take into account relevant considerations; and (ii) acted in the absence of a necessary precedent fact.
 
 ## CCA 50
 
 19     We first deal with CCA 50. Section 33B(3)(_b_) of the MDA makes it mandatory for a court to sentence an offender convicted on a capital drug charge to life imprisonment where the offender can demonstrate that he suffered from an illness of the mind as described in the provision. Section 33B(3)(_b_) provides as follows:
 
-**Discretion of court not to impose sentence of death in certain circumstances**
+> **Discretion of court not to impose sentence of death in certain circumstances**
 
-**33B.**— …
+> **33B.**— …
 
-(3)    The requirements referred to in subsection (1)(_b_) are that the person convicted proves, on a balance of probabilities, that —
+> (3)    The requirements referred to in subsection (1)(_b_) are that the person convicted proves, on a balance of probabilities, that —
 
-…
+>> …
 
-(_b_)    he was suffering from such abnormality of mind (whether arising from a condition of arrested or retarded development of mind or any inherent causes or induced by disease or injury) as substantially impaired his mental responsibility for his acts and omissions in relation to the offence under section 5(1) or 7.
+>> (_b_)    he was suffering from such abnormality of mind (whether arising from a condition of arrested or retarded development of mind or any inherent causes or induced by disease or injury) as substantially impaired his mental responsibility for his acts and omissions in relation to the offence under section 5(1) or 7.
 
 20     The material words of s 33B(3)(_b_) that describe the relevant illness of mind are identical to those found in Exception 7 to the offence of murder in s 300 of the Penal Code (Cap 224, 2008 Rev Ed) (“the Penal Code”): see _Rosman bin Abdullah v Public Prosecutor_ <span class="citation">\[2017\] 1 SLR 10</span> at \[46\]. Exception 7 provides as follows:
 
-_Exception_ 7.—Culpable homicide is not murder if the offender was suffering from such abnormality of mind (whether arising from a condition of arrested or retarded development of mind or any inherent causes or induced by disease or injury) as substantially impaired his mental responsibility for his acts and omissions in causing the death or being a party to causing the death.
+> _Exception_ 7.—Culpable homicide is not murder if the offender was suffering from such abnormality of mind (whether arising from a condition of arrested or retarded development of mind or any inherent causes or induced by disease or injury) as substantially impaired his mental responsibility for his acts and omissions in causing the death or being a party to causing the death.
 
 21     It stands to reason, as the Judge correctly noted (see _Nagaenthran (Criminal Motion)_ at \[36\]), that the three-limb test that applies under Exception 7 (see _Iskandar bin Rahmat v Public Prosecutor and other matters_ <span class="citation">\[2017\] 1 SLR 505</span> (“_Iskandar_”) at \[79\], citing _Ong Pang Siew v Public Prosecutor_ <span class="citation">\[2011\] 1 SLR 606</span> (“_Ong Pang Siew_”) at \[58\] and _Public Prosecutor v Wang Zhijian_ <span class="citation">\[2014\] SGCA 58</span> at \[50\]) ought equally to apply in the context of s 33B(3)(_b_) of the MDA. Under this three-limb test, the appellant may be re-sentenced to life imprisonment, only if he is able to establish the following cumulative requirements on a balance of probabilities:
 
-(a)     first, that he was suffering from an abnormality of mind (“the first limb”);
+> (a)     first, that he was suffering from an abnormality of mind (“the first limb”);
 
-(b)     second, that the abnormality of mind: (i) arose from a condition of arrested or retarded development of mind; (ii) arose from any inherent causes; or (iii) was induced by disease or injury (“the second limb”); and
+> (b)     second, that the abnormality of mind: (i) arose from a condition of arrested or retarded development of mind; (ii) arose from any inherent causes; or (iii) was induced by disease or injury (“the second limb”); and
 
-(c)     the abnormality of mind substantially impaired his mental responsibility for his acts and omissions in relation to his offence (“the third limb”).
+> (c)     the abnormality of mind substantially impaired his mental responsibility for his acts and omissions in relation to his offence (“the third limb”).
 
 ### The first limb
 
@@ -115,7 +115,7 @@ _Exception_ 7.—Culpable homicide is not murder if the offender was suffering f
 
 23     In this context, what constitutes an ‘abnormality of mind’ under the first limb has been set out by Lord Parker CJ, delivering the judgment of the English Court of Criminal Appeal decision in _Regina v Byrne_ <span class="citation">\[1960\] 2 QB 396</span> (“_Byrne_”) (at 403) as follows:
 
-‘Abnormality of mind,’ … means a state of mind so different from that of ordinary human beings that the reasonable man would term it abnormal. It appears to us to be wide enough to cover the mind’s activities in all its aspects, not only the perception of physical acts and matters, and the ability to form a rational judgment as to whether an act is right or wrong, but also the ability to exercise the will power to control physical acts in accordance with that rational judgment.
+> ‘Abnormality of mind,’ … means a state of mind so different from that of ordinary human beings that the reasonable man would term it abnormal. It appears to us to be wide enough to cover the mind’s activities in all its aspects, not only the perception of physical acts and matters, and the ability to form a rational judgment as to whether an act is right or wrong, but also the ability to exercise the will power to control physical acts in accordance with that rational judgment.
 
 24     It is evident from that formulation that the nature of the inquiry as to whether there is an abnormality of mind is, necessarily, fact-sensitive and predicated on what the reasonable man would term as abnormal in all the circumstances. This, in turn, is typically analysed in terms of three aspects of the mind’s activities: the capacity to understand events, judge the rightness or wrongness of one’s actions, and exercise self-control: see Stanley Yeo, Neil Morgan, and Chan Wing Cheong, _Criminal Law in Malaysia and Singapore_ (LexisNexis, 3rd Ed, 2018) at para 27.13.
 
@@ -127,7 +127,7 @@ _Exception_ 7.—Culpable homicide is not murder if the offender was suffering f
 
 28     This segues into the second point, which is that the opinion of a medical professional on whether a particular condition is an abnormality of mind, whilst oftentimes useful, is not necessarily dispositive of the _legal_ inquiry into whether an abnormality of mind has been established under the first limb. This is self-evident, but worth repeating nonetheless. It is trite that the verdict as to abnormality of mind must be founded on _all_ the evidence, which evidence _includes_ medical opinion: _Sek Kim Wah v Public Prosecutor_ <span class="citation">\[1987\] SLR(R) 371</span> (“_Sek Kim Wah_”) at \[33\]. In _Chua Jimmy_ at \[28\], this Court adopted the approach in the Privy Council case of _David Augustus Walton v The Queen_ <span class="citation">\[1978\] AC 788</span> (“_Walton_”), in which Lord Keith stated at 793:
 
-\[U\]pon an issue of diminished responsibility the jury are entitled and indeed bound to consider not only the medical evidence but evidence upon the whole facts and circumstances of the case. These include the nature of the killing, the conduct of the defendant before, at the time of and after it and any history of mental abnormality … what the jury are essentially seeking to ascertain is whether at the time of the killing the defendant was suffering from a state of mind bordering on but not amounting to insanity. That task is to be approached in a broad common sense way.
+> \[U\]pon an issue of diminished responsibility the jury are entitled and indeed bound to consider not only the medical evidence but evidence upon the whole facts and circumstances of the case. These include the nature of the killing, the conduct of the defendant before, at the time of and after it and any history of mental abnormality … what the jury are essentially seeking to ascertain is whether at the time of the killing the defendant was suffering from a state of mind bordering on but not amounting to insanity. That task is to be approached in a broad common sense way.
 
 29     The surrounding circumstances of the case, which include the nature of the killing, the conduct of the accused before, at the time of and after the offence, and any history of mental abnormality, may lead to the rejection of the medical evidence on whether the accused suffered from an abnormality of mind. Thus, in _Walton_, although the Prosecution did not lead medical evidence to challenge the medical evidence led by the accused, the Privy Council decided that the jury were entitled to conclude, as they did, that the defence of diminished responsibility had not been made out. Amongst other reasons, their Lordships considered the evidence as to the conduct of the accused before, during and after the killing, including a number of conflicting statements about it made by him to the police and to the psychiatrist who interviewed him after the offence (at 794). Further, the medical evidence may also be cast in doubt or rejected entirely where the factual basis upon which the medical opinion is premised is rejected at trial: see _R v Morgan, Ex parte Attorney-General_ \[1987\] 2 Qd R 627 at 646, referring to _R v Wallace_ \[1982\] Qd R 265. This approach to the treatment of the medical evidence is plainly sensible because in the final analysis, whether an abnormality of mind has been established depends on whether, having regard to all the facts of a given case, the accused person’s state of mind was so different from that of ordinary human beings that the reasonable man would term it abnormal.
 
@@ -135,17 +135,17 @@ _Exception_ 7.—Culpable homicide is not murder if the offender was suffering f
 
 30     In respect of the second limb of the three-limb test under s 33B(3)(_b_), it might at first blush seem from the text of that provision that the words in parenthesis, from which the second limb of the test emanates, are meant to be extensive rather than restrictive. Those words are “(whether arising from a condition of arrested or retarded development of mind or any inherent causes or induced by disease or injury)”. But, as we concluded in _Iskandar_, the words in parenthesis (there, in the context of Exception 7), ought to be read in a _restrictive_ sense rather than an _extensive_ one. In particular, we noted (at \[85\]) that at the second reading of the English Homicide Bill, which introduced the abnormality of mind defence under s 2(1) of the English Homicide Act 1957 (Cap 11) (the English equivalent of Exception 7), the Home Secretary stressed that the defence was only intended to cover those grave forms of abnormality of mind that might substantially impair responsibility, and was not intended to provide a defence to persons who were merely hot-tempered, or who, while otherwise normal, might commit murder in a sudden excess of rage or jealousy. Indeed, in the Queensland Court of Criminal Appeal decision of _R v Whitworth_ \[1989\] 1 Qd R 437, Derrington J described the purpose behind the second limb as follows (see _Iskandar_ at \[87\]):
 
-The purpose of the reference by the legislation to these specific causes of the relevant abnormality of mind is to exclude other sources, such as intoxication, degeneration of control due to lack of self-discipline, simple transient, extravagant loss of control due to temper, jealousy, attitudes derived from upbringing and so on. The feature which has most exercised the attention of the courts on this subject is _the necessity to avoid the extension of the defence to the occasion where there is an abnormality of mind to the required degree and producing the required impairment, but where it is due only to personal characteristics which are not outside the control of the accused and which do not come within the nominated causes_. … \[emphasis added\]
+> The purpose of the reference by the legislation to these specific causes of the relevant abnormality of mind is to exclude other sources, such as intoxication, degeneration of control due to lack of self-discipline, simple transient, extravagant loss of control due to temper, jealousy, attitudes derived from upbringing and so on. The feature which has most exercised the attention of the courts on this subject is _the necessity to avoid the extension of the defence to the occasion where there is an abnormality of mind to the required degree and producing the required impairment, but where it is due only to personal characteristics which are not outside the control of the accused and which do not come within the nominated causes_. … \[emphasis added\]
 
 31     We recognise that what was said in _Iskandar_ concerning the rationale for treating the second limb as restrictive rather than extensive was said in the context of the defence of diminished responsibility to murder. But in our judgment, that applies with equal force in the context of s 33B(3)(_b_) of the MDA. We are satisfied that Parliament did not intend for s 33B(3)(_b_) to apply to offenders suffering from transient or even self-induced illnesses that have no firm basis in an established psychiatric condition that arose from an arrested or retarded development of mind, any inherent root cause, or was induced by disease or injury. We note in this regard that in introducing s 33B(3)(_b_) of the MDA, the Minister for Law, Mr K Shanmugam, in _Singapore Parliamentary Debates_, _Official Report_ (14 November 2012) vol 89 stated that “\[i\]t \[was\] not our intention to extend this to those who do not suffer from a recognised and proven psychiatric condition.” The Minister further elaborated:
 
-On the second exception on diminished responsibility, some Members spoke on this.
+> On the second exception on diminished responsibility, some Members spoke on this.
 
-The law in this area has recently been set out by the Court of Appeal in _Ong Pang Siew v. PP_ \[2011\] 1 SLR 60. Our view is the law has been set out and commonsensical judgments have to be made on the facts. _Genuine cases of mental disability are recognised, while, errors of judgments will not afford a defence_. And the law is also capable of taking into account the progress of medical science in understanding mental conditions.
+> The law in this area has recently been set out by the Court of Appeal in _Ong Pang Siew v. PP_ \[2011\] 1 SLR 60. Our view is the law has been set out and commonsensical judgments have to be made on the facts. _Genuine cases of mental disability are recognised, while, errors of judgments will not afford a defence_. And the law is also capable of taking into account the progress of medical science in understanding mental conditions.
 
-Mr Christopher de Souza said the law must be interpreted strictly in its application to drug trafficking. Drug trafficking is a highly purposive and coordinated activity. _The legal principles remain the same, however, in assessing whether diminished responsibility is made out_.
+> Mr Christopher de Souza said the law must be interpreted strictly in its application to drug trafficking. Drug trafficking is a highly purposive and coordinated activity. _The legal principles remain the same, however, in assessing whether diminished responsibility is made out_.
 
-\[emphasis added\]
+> \[emphasis added\]
 
 32     As we have already noted, this will largely be a matter for expert evidence and in that regard, we would also reiterate what we said in _Iskandar_ (at \[89\]) about expert witnesses having, “on top of diagnosing whether the accused person was suffering from a recognised mental condition, \[to\] identify which prescribed cause, if any, in their opinion gave rise to the accused’s abnormality of mind”.
 
@@ -159,91 +159,91 @@ Mr Christopher de Souza said the law must be interpreted strictly in its applica
 
 35     The Judge, in fact, found that the appellant had not established the third limb, making the same assumptions in his favour in respect of the first two limbs: _Nagaenthran (Criminal Motion)_ at \[87\]. It is evident that the Judge (at \[88\]) was particularly troubled by the fact that the appellant had, at various points in time, provided vastly different and irreconcilable accounts of why he had committed the offence:
 
-88    The \[appellant\] has, at various points in time from his arrest till now, furnished vastly distinct accounts of why he had committed the offence:
+> 88    The \[appellant\] has, at various points in time from his arrest till now, furnished vastly distinct accounts of why he had committed the offence:
 
-(a)    When the \[appellant\] was first arrested, he admitted in his contemporaneous statement that he knew that the Bundle contained heroin which he was delivering for King. He also stated that he had to deliver the heroin as he owed King money and was promised another RM500 after delivery. There was no mention of any threat made by King towards the \[appellant’s\] girlfriend if he had refused to make the delivery (see \[9\] above).
+>> (a)    When the \[appellant\] was first arrested, he admitted in his contemporaneous statement that he knew that the Bundle contained heroin which he was delivering for King. He also stated that he had to deliver the heroin as he owed King money and was promised another RM500 after delivery. There was no mention of any threat made by King towards the \[appellant’s\] girlfriend if he had refused to make the delivery (see \[9\] above).
 
-(b)    During trial, the \[appellant\] denied knowledge of the contents of the Bundle, insisting that he was told that it contained “company products”. The \[appellant\] then claimed that he had made the delivery under duress – King had assaulted him and threatened to kill his girlfriend unless he made the delivery (see \[9\] above). The \[appellant\] repeated this account to Dr Koh when he was examined in \[_sic_\] on 14 and 21 March 2013.
+>> (b)    During trial, the \[appellant\] denied knowledge of the contents of the Bundle, insisting that he was told that it contained “company products”. The \[appellant\] then claimed that he had made the delivery under duress – King had assaulted him and threatened to kill his girlfriend unless he made the delivery (see \[9\] above). The \[appellant\] repeated this account to Dr Koh when he was examined in \[_sic_\] on 14 and 21 March 2013.
 
-(c)    When the \[appellant\] was examined by Dr Ung on 19 April and 19 July 2016, he claimed that he had lied to Dr Koh. He had agreed to deliver the heroin for King because he was desperate for money, having owed a loanshark money. He was also motivated to obey King by a mixture of loyalty, awe, fear and gratitude. While he claimed that King possessed a gun, he omitted any mention of any threat to his girlfriend.
+>> (c)    When the \[appellant\] was examined by Dr Ung on 19 April and 19 July 2016, he claimed that he had lied to Dr Koh. He had agreed to deliver the heroin for King because he was desperate for money, having owed a loanshark money. He was also motivated to obey King by a mixture of loyalty, awe, fear and gratitude. While he claimed that King possessed a gun, he omitted any mention of any threat to his girlfriend.
 
-(d)    When the \[appellant\] was examined by Dr Yap in the period from November 2016 to January 2017, he claimed that he belonged to a gang and had volunteered to deliver the Bundle on behalf of a fellow gang member who was reluctant to do so. He explained that he did so out of his loyalty to the gang and his gratitude to his gang leader, who had provided him with emotional and financial support. He emphasised that he was not coerced into performing the delivery.
+>> (d)    When the \[appellant\] was examined by Dr Yap in the period from November 2016 to January 2017, he claimed that he belonged to a gang and had volunteered to deliver the Bundle on behalf of a fellow gang member who was reluctant to do so. He explained that he did so out of his loyalty to the gang and his gratitude to his gang leader, who had provided him with emotional and financial support. He emphasised that he was not coerced into performing the delivery.
 
 36     In _Nagaenthran (CA)_ at \[33\], we upheld the Judge’s finding that the defence of duress was not established. We also agree with the Judge’s rejection of the appellant’s alternative account (see _Nagaenthran (Criminal Motion)_ at \[91\]), namely, that he had transported the bundle out of a misguided sense of gang loyalty. This account has all the marks of being an afterthought, since it only emerged in late 2016. Consequently, the Judge was left, in his own words, with “no factual basis on which to make any … finding of substantial impairment”: _Nagaenthran (Criminal Motion)_ at \[87\].
 
 37     In our judgment, the appellant’s vacillation between various accounts of why he had committed the offence – from being in desperate need of money, to being coerced under duress by King (an account that we flatly rejected in _Nagaenthran (CA)_), to acting out of a misguided sense of gang loyalty – did not aid his case at all. Most importantly, the subsequent accounts contradicted the original account of the reason for his offending which he had provided in his contemporaneous statement to the CNB officers. This was that he had delivered the bundle, which he knew contained diamorphine, because he was in need of money:
 
-Q1)What is this? (Pointing to a zip lock Bag consisting of 1 big packet of white granular substance, Crushed Newspaper & yellow Tape)
+> Q1)What is this? (Pointing to a zip lock Bag consisting of 1 big packet of white granular substance, Crushed Newspaper & yellow Tape)
 
-A1) _Heroin_.
+> A1) _Heroin_.
 
-Q2)Whom does it belong to?
+> Q2)Whom does it belong to?
 
-A2)It belongs to my Chinese friend who goes by the name of king who strapped it on my left thigh.
+> A2)It belongs to my Chinese friend who goes by the name of king who strapped it on my left thigh.
 
-Q3) _Why did he strapped it on your left Thigh?_
+> Q3) _Why did he strapped it on your left Thigh?_
 
-A3)He Strapped it on my left thigh is _because it was for my safety and no one will find it_.
+> A3)He Strapped it on my left thigh is _because it was for my safety and no one will find it_.
 
-Q4)Whom is it to be delivered to?
+> Q4)Whom is it to be delivered to?
 
-A4)It is to be delivered to one Chinese recipient who will be driving a dark blue Camry and he will be meeting me in front of \[the\] 7-11 store at Woodlands Transit.
+> A4)It is to be delivered to one Chinese recipient who will be driving a dark blue Camry and he will be meeting me in front of \[the\] 7-11 store at Woodlands Transit.
 
-_Q5_) _Why do you have to deliver the Heroin?_
+> _Q5_) _Why do you have to deliver the Heroin?_
 
-_A5_) _I have to deliver \[the\] Heroin is because I owe king money & he promised to pass me another five hundred dollars after my delivery_.
+> _A5_) _I have to deliver \[the\] Heroin is because I owe king money & he promised to pass me another five hundred dollars after my delivery_.
 
-\[emphasis added\]
+> \[emphasis added\]
 
 38     This statement was found to have been accurately recorded and given voluntarily (_Nagaenthran (Trial)_ at \[33\]). It was corroborated by the fact that the drugs were subsequently found to be diamorphine, the street name of which is heroin. It was also against the appellant’s interest and there is no reason to think it was not true. Furthermore, in his submissions, Mr Thuraisingam accepted that the appellant was neither labouring under a threat from King nor acting out of a misguided sense of loyalty to his gang. In other words, he proceeded on what was the original account of the reason for the appellant’s offending – that the appellant had committed the offence because he needed money. Mr Thuraisingam nonetheless submitted that the appellant’s mental responsibility for his acts in relation to the offence was substantially impaired. To that end, Mr Thuraisingam submitted that this was so because the appellant’s internal rationality and _ability to assess the relevant risks_ appropriately were impaired. Mr Thuraisingam relied on the following aspects of the expert evidence in support of his thesis:
 
-(a)     First, Dr Koh, in his 7 February 2017 report (at \[12\] above), had concluded, among other things, that “\[the appellant’s\] borderline intelligence and concurrent cognitive deficits may have contributed toward his misdirected loyalty and poor assessment of the risks in agreeing to carry out the offence”. Dr Koh had also testified that the appellant would have been impaired in his internal rationality and more specifically, his ability to appropriately assess the risks of his actions, thereby causing him to focus on his immediate needs at the expense of considering the future consequences of his actions:
+> (a)     First, Dr Koh, in his 7 February 2017 report (at \[12\] above), had concluded, among other things, that “\[the appellant’s\] borderline intelligence and concurrent cognitive deficits may have contributed toward his misdirected loyalty and poor assessment of the risks in agreeing to carry out the offence”. Dr Koh had also testified that the appellant would have been impaired in his internal rationality and more specifically, his ability to appropriately assess the risks of his actions, thereby causing him to focus on his immediate needs at the expense of considering the future consequences of his actions:
 
-QNow, when you say that his executive functioning skills were impaired, that is also an abnormality of the mind, correct?
+>> QNow, when you say that his executive functioning skills were impaired, that is also an abnormality of the mind, correct?
 
-AYes.
+>> AYes.
 
-QAnd you have agreed that this abnormality of the mind affects decision-making, correct?
+>> QAnd you have agreed that this abnormality of the mind affects decision-making, correct?
 
-AIt is---it is part of decision-making.
+>> AIt is---it is part of decision-making.
 
-QYes. It affects judgement, correct?
+>> QYes. It affects judgement, correct?
 
-AYes.
+>> AYes.
 
-QIt affects---it affects assess---the individual’s ability to assess risks, correct?
+>> QIt affects---it affects assess---the individual’s ability to assess risks, correct?
 
-AYes.
+>> AYes.
 
-QFor example, someone whose judgement is impaired, based on this abnormality of the mind, may have a poor assessment of what is risky and what is not, correct?
+>> QFor example, someone whose judgement is impaired, based on this abnormality of the mind, may have a poor assessment of what is risky and what is not, correct?
 
-AYes.
+>> AYes.
 
-QThis person who has this abnormality of mind, which impairs the judgement, impairs his assessment of risk, may disregard future consequences of his immediate actions, correct?
+>> QThis person who has this abnormality of mind, which impairs the judgement, impairs his assessment of risk, may disregard future consequences of his immediate actions, correct?
 
-AIt may, yes.
+>> AIt may, yes.
 
-QAnd may lead him to focus on immediate needs as opposed to his long-term goals, correct?
+>> QAnd may lead him to focus on immediate needs as opposed to his long-term goals, correct?
 
-AYes.
+>> AYes.
 
-QHe may not have internal rationality because his judgement is impaired, correct?
+>> QHe may not have internal rationality because his judgement is impaired, correct?
 
-AHe may have reduced, but probably not “no”.
+>> AHe may have reduced, but probably not “no”.
 
-QAnd he may have no internal rationality in relation to his assessment of risks, correct?
+>> QAnd he may have no internal rationality in relation to his assessment of risks, correct?
 
-AAgain, I would not use the word “no”. I might say “impaired”.
+>> AAgain, I would not use the word “no”. I might say “impaired”.
 
-QImpaired, yes.
+>> QImpaired, yes.
 
-AYes, slightly reduced.
+>> AYes, slightly reduced.
 
-QYes. You would say impaired, correct?
+>> QYes. You would say impaired, correct?
 
-AYes.
+>> AYes.
 
-(b)     Secondly, Dr Ung’s report of 22 August 2016 (at \[10\] above) had concluded that “the synergistic effect of \[the appellant’s severe alcohol use disorder, severe attention deficit hyperactivity disorder (combined type), and borderline intellectual functioning\] significantly affected his judgment, decision making and impulse control leading up to his arrest. There was a total preoccupation with the short and immediate term with little regard of the long-term consequences of his action.”
+> (b)     Secondly, Dr Ung’s report of 22 August 2016 (at \[10\] above) had concluded that “the synergistic effect of \[the appellant’s severe alcohol use disorder, severe attention deficit hyperactivity disorder (combined type), and borderline intellectual functioning\] significantly affected his judgment, decision making and impulse control leading up to his arrest. There was a total preoccupation with the short and immediate term with little regard of the long-term consequences of his action.”
 
 39     In our judgment, Mr Thuraisingam’s submission on this point must fail. We begin with the narrative provided by the appellant in his contemporaneous statement to the CNB officers at the time he was first arrested.
 
@@ -265,7 +265,7 @@ AYes.
 
 46     In a constitutional system of governance such as Singapore’s, the courts are ordinarily vested with the power to adjudicate upon all disputes. As we observed in _Tan Seet Eng v Attorney-General and another matter_ <span class="citation">\[2016\] 1 SLR 779</span> (“_Tan Seet Eng_”) at \[47\], judicial review forms a part of this power to adjudicate, and concerns that area of law where the courts review the legality of government actions:
 
-… In the normal course of events, all controversies, whether of fact or of law, are resolved by the courts. This work is done in accordance with the applicable rules of adjectival and substantive law, and it is the function of the courts to determine what the facts are and also to apply the relevant rules of substantive law to those facts. Judicial review concerns an area of law in which the courts review the lawfulness of acts undertaken by other branches of the government.
+> … In the normal course of events, all controversies, whether of fact or of law, are resolved by the courts. This work is done in accordance with the applicable rules of adjectival and substantive law, and it is the function of the courts to determine what the facts are and also to apply the relevant rules of substantive law to those facts. Judicial review concerns an area of law in which the courts review the lawfulness of acts undertaken by other branches of the government.
 
 47     It is crucial here to differentiate between clauses that oust or exclude the court’s jurisdiction or authority to act in a matter, and clauses that immunise parties from suit or liability. Parliament may from time to time enact statutory immunity clauses, some of which have been considered by our courts. In _South East Enterprises (Singapore) Pte Ltd v Hean Nerng Holdings Pte Ltd_ <span class="citation">\[2013\] 2 SLR 908</span>, we had occasion to consider s 68(2) of the Subordinate Courts Act (Cap 321, 1999 Rev Ed), the precursor to the current s 68(2) of the State Courts Act (Cap 321, 2007 Rev Ed). In essence, s 68(2) of the Subordinate Courts Act provided that no officer of a subordinate court charged with the duty of executing any mandatory process of the subordinate court shall be sued for the execution of his duty unless he knowingly acted in excess of the authority conferred upon him by the mandatory process. We held in that case (at \[56\]) that s 68(2) of the Subordinate Courts Act had the effect of protecting a bailiff from excessive seizure claims unless the bailiff had knowingly acted in excess of his authority. Separately, in _Estate of Lee Rui Feng Dominique Sarron, deceased v Najib Hanuk bin Muhammad Jalal and others_ <span class="citation">\[2016\] 4 SLR 438</span> (“_Dominique Sarron Lee_”), the High Court considered s 14(1) of the Government Proceedings Act (Cap 121, 1985 Rev Ed), and held (at \[41\]–\[42\]) that it had the effect of protecting a member of the Singapore Armed Forces (“SAF”) from liability in tort for causing death or personal injury to another member of the SAF where certain conditions were fulfilled. However, even where those conditions were fulfilled, the wrongdoing member would not be exempted from liability in tort where his act or omission was not connected with the execution of his duties as a member of the SAF.
 
@@ -281,31 +281,31 @@ AYes.
 
 52     We begin by observing that as far as s 33B(2) and s 33B(4) are concerned, one should distinguish between, on the one hand, the _conditions_ that must be cumulatively fulfilled under s 33B(2) for the court’s sentencing discretion to be engaged under s 33B(1)(_a_), and on the other, the _inquiries_ that must be undertaken to determine whether those conditions have been established. It is useful here to set out the relevant portions of s 33B of the MDA in full:
 
-**Discretion of court not to impose sentence of death in certain circumstances**
+> **Discretion of court not to impose sentence of death in certain circumstances**
 
-**33B.**—(1)    Where a person commits or attempts to commit an offence under section 5(1) or 7, being an offence punishable with death under the sixth column of the Second Schedule, and he is convicted thereof, the court —
+> **33B.**—(1)    Where a person commits or attempts to commit an offence under section 5(1) or 7, being an offence punishable with death under the sixth column of the Second Schedule, and he is convicted thereof, the court —
 
-(_a_)    may, if the person satisfies the requirements of subsection (2), instead of imposing the death penalty, sentence the person to imprisonment for life and, if the person is sentenced to life imprisonment, he shall also be sentenced to caning of not less than 15 strokes; …
+>> (_a_)    may, if the person satisfies the requirements of subsection (2), instead of imposing the death penalty, sentence the person to imprisonment for life and, if the person is sentenced to life imprisonment, he shall also be sentenced to caning of not less than 15 strokes; …
 
-…
+>> …
 
-(2)    The requirements referred to in subsection (1)(_a_) are as follows:
+> (2)    The requirements referred to in subsection (1)(_a_) are as follows:
 
-(_a_)    the person convicted proves, on a balance of probabilities, that his involvement in the offence under section 5(1) or 7 was restricted —
+>> (_a_)    the person convicted proves, on a balance of probabilities, that his involvement in the offence under section 5(1) or 7 was restricted —
 
-(i)    to transporting, sending or delivering a controlled drug;
+>>> (i)    to transporting, sending or delivering a controlled drug;
 
-(ii)   to offering to transport, send or deliver a controlled drug;
+>>> (ii)   to offering to transport, send or deliver a controlled drug;
 
-(iii)   to doing or offering to do any act preparatory to or for the purpose of his transporting, sending or delivering a controlled drug; or
+>>> (iii)   to doing or offering to do any act preparatory to or for the purpose of his transporting, sending or delivering a controlled drug; or
 
-(iv)   to any combination of activities in sub-paragraphs (i), (ii) and (iii); and
+>>> (iv)   to any combination of activities in sub-paragraphs (i), (ii) and (iii); and
 
-(_b_)    the Public Prosecutor certifies to any court that, in his determination, the person has substantively assisted the Central Narcotics Bureau in disrupting drug trafficking activities within or outside Singapore.
+>> (_b_)    the Public Prosecutor certifies to any court that, in his determination, the person has substantively assisted the Central Narcotics Bureau in disrupting drug trafficking activities within or outside Singapore.
 
-…
+> …
 
-(4)    The determination of whether or not any person has substantively assisted the Central Narcotics Bureau in disrupting drug trafficking activities shall be at the sole discretion of the Public Prosecutor and no action or proceeding shall lie against the Public Prosecutor in relation to any such determination unless it is proved to the court that the determination was done in bad faith or with malice.
+> (4)    The determination of whether or not any person has substantively assisted the Central Narcotics Bureau in disrupting drug trafficking activities shall be at the sole discretion of the Public Prosecutor and no action or proceeding shall lie against the Public Prosecutor in relation to any such determination unless it is proved to the court that the determination was done in bad faith or with malice.
 
 53     The starting point is s 33B(1)(_a_), which provides that the court “_may_” sentence an offender convicted of a capital drug offence to life imprisonment instead, provided that the specified conditions in s 33B(2) are met. By virtue of s 33B(1)(_a_) therefore, the court is given the sentencing discretion to impose a sentence of life imprisonment where the conditions under subsection (2) are met.
 
@@ -329,31 +329,31 @@ AYes.
 
 62     The House of Lords had to consider several issues, including whether the Court of Appeal was correct in refusing Buttes Gas’s striking out application. In holding that the issues raised in Occidental’s pleadings were incapable of being entertained by the court, Lord Wilberforce started out by framing “the essential question” in terms of whether there exists a general principle of law that the courts will not adjudicate upon the transactions of foreign sovereign states (at 931). Pertinently, Lord Wilberforce stated that “it seems desirable to consider this principle, if existing, not as a variety of ‘act of state’ but one for judicial restraint or abstention”. He opined (at 932) that the principle has long existed in English law, and was not a principle of discretion but a principle of law “inherent in the very nature of the judicial process”. In his view, if Occidental’s justification defence and counterclaim in conspiracy as pleaded were to be heard by the court, the court would have to deal with issues that would include whether Occidental had acquired, in November 1969, a vested right to explore the seabed at a location within 12 miles from the coast of Abu Musa, an issue which itself would turn on the question of which state had sovereignty over Abu Musa in the first place. And if Occidental did acquire such a right, the court would then have to consider whether Occidental had subsequently been deprived of its right by the actions of sovereigns such as the Ruler of Sharjah, and inquire into the Ruler’s motives for backdating the decree, if proved (at 937). In the final analysis, Lord Wilberforce stated (at 938) that:
 
-\[these issues\] have only to be stated to compel the conclusion that these are not issues upon which a municipal court can pass. _Leaving aside all possibility of embarrassment in our foreign relations …_ there are—to follow the Fifth Circuit Court of Appeals—_no judicial or manageable standards by which to judge these issues, or to adopt another phrase …, the court would be in a judicial no-man’s land_: the court would be asked to review transactions in which four sovereign states were involved, which they had brought to a precarious settlement, after diplomacy and the use of force, and to say that at least part of these were “unlawful” under international law. \[emphasis added\]
+> \[these issues\] have only to be stated to compel the conclusion that these are not issues upon which a municipal court can pass. _Leaving aside all possibility of embarrassment in our foreign relations …_ there are—to follow the Fifth Circuit Court of Appeals—_no judicial or manageable standards by which to judge these issues, or to adopt another phrase …, the court would be in a judicial no-man’s land_: the court would be asked to review transactions in which four sovereign states were involved, which they had brought to a precarious settlement, after diplomacy and the use of force, and to say that at least part of these were “unlawful” under international law. \[emphasis added\]
 
 63     Subsequently, the UK Supreme Court in _Shergill v Khaira_ <span class="citation">\[2014\] 3 WLR 1</span> noted (at \[40\], _per_ Lord Neuberger, Lord Sumption and Lord Hodge (with whom Lord Mance and Lord Clarke agreed)) that Lord Wilberforce’s reference to judicial and manageable standards by which issues are judged was derived from the decision of the Fifth Circuit Court of Appeals in the United States litigation between the same parties on substantially the same issues. That in turn was based on the celebrated decision of the United States Supreme Court in _Underhill v Hernandez_ (1897) 168 US 250 concerning the act of state doctrine. But the Fifth Circuit Court of Appeals regarded the issues as non-justiciable not because judges in municipal courts were incapable of determining questions of international law. Rather, as the Supreme Court bluntly observed, the issues raised in _Buttes Gas_ “w\[ere\] non-justiciable because \[they were\] political”. To begin with, the court would be “trespass\[ing\] on the proper province of the executive, as the organ of the state charged with the conduct of foreign relations”. This was a concern rooted in the doctrine of the separation of powers. But the Supreme Court went on to note that the entire dispute arose out of the way in which four sovereign states had settled the issue of international law “by a mixture of diplomacy, political pressure and force in a manner adverse to the interests of Occidental Petroleum”. Occidental’s case in court would involve the court “assessing decisions and acts of sovereign states which \[unlike those of private parties\] had not been governed by law but by power politics”. This concern proceeds from an even more fundamental premise that goes beyond any doctrine of “self-imposed judicial restraint” (see Thio Li-ann, _A Treatise on Singapore Constitutional Law_ (Academy Publishing, 2012) (“_Thio Li-ann_”) at para 10.219) and extends to taking due regard of the inherent limitations of litigation and the judicial process. We accept that the facts presented in _Buttes Gas_ were far removed from those in the present case but, in our judgment, the underlying principle is equally applicable.
 
 64     Indeed, similar concerns with the lack of manageable judicial standards featured in the much more closely analogous context of assessing the value of police intelligence to police operations. In _Carnduff v Rock_ <span class="citation">\[2001\] 1 WLR 1786</span> (“_Carnduff_”), a registered police informer brought an action against a police inspector and his chief constable to recover payment for information provided to the police. He claimed that specific information and assistance he had provided had resulted in the arrest and prosecution of certain persons involved in the illegal drugs trade. The Court of Appeal struck out the claim (Waller LJ dissenting), holding that a fair trial of the issues arising from the pleadings would necessarily require the police to disclose sensitive information that ought in the public interest to remain confidential to the police. While confidentiality concerns were the principal reason underlying the Court of Appeal’s decision, Laws LJ in his judgment was also palpably perturbed by the futility of having the court assess the value to police operations of the intelligence the informant had provided (at \[33\]):
 
-If the disputes which they generate were to be resolved fairly by reference to the relevant evidence … the court would be required to examine in detail the operational methods of the police as they related to the particular investigation in question; to look into the detailed circumstances of the plaintiff’s discussions with police officers; _to conduct a close perusal of such information as the plaintiff provided, to assess its quality; to compare that information with other relevant information in the hands of the police, very possibly including material coming from or relating to other informers, and so also to assess and contrast the degree of trust reposed by the police in one informer rather than another; and to make judgments about the information’s usefulness_, and not only the use in fact made of it (and thus, _notionally at least, to put itself in the shoes of a competent police force so as to decide what such a force would or should have done_). \[emphasis added\]
+> If the disputes which they generate were to be resolved fairly by reference to the relevant evidence … the court would be required to examine in detail the operational methods of the police as they related to the particular investigation in question; to look into the detailed circumstances of the plaintiff’s discussions with police officers; _to conduct a close perusal of such information as the plaintiff provided, to assess its quality; to compare that information with other relevant information in the hands of the police, very possibly including material coming from or relating to other informers, and so also to assess and contrast the degree of trust reposed by the police in one informer rather than another; and to make judgments about the information’s usefulness_, and not only the use in fact made of it (and thus, _notionally at least, to put itself in the shoes of a competent police force so as to decide what such a force would or should have done_). \[emphasis added\]
 
 65     We would observe that, the question in _Carnduff_ related to the relationship between specific information and its value to a _specific_ police operation. The problem is greatly exacerbated where the question is whether an offender had provided substantive assistance in disrupting drug trafficking activities _in general, whether in or outside Singapore_: see further our observations at \[58\] above. This raises issues that simply cannot be resolved by a court of law using the methods, tools or standards that are properly at its disposal.
 
 66     Our view that the inquiry under s 33B(2)(_b_) of the MDA is not one a court is capable of addressing, at least in part because of the operational facets that are implicated, is supported by the relevant legislative debates. In response to concerns raised that there should be greater judicial discretion in the application of the death penalty, the Minister for Law stated (see _Singapore Parliamentary Debates, Official Report_ (14 November 2012) vol 89:
 
-Next, on the issue of who decides cooperation and by what criteria. The Bill provides for the Public Prosecutor to assess whether the courier has substantively assisted CNB.
+> Next, on the issue of who decides cooperation and by what criteria. The Bill provides for the Public Prosecutor to assess whether the courier has substantively assisted CNB.
 
-I think Ms Sylvia Lim, Mr Pritam Singh, Mrs Chiam and Ms Faizah Jamal have concerns here. Their view is: it is an issue of life and death – the discretion should lie with the courts to decide on cooperation.
+> I think Ms Sylvia Lim, Mr Pritam Singh, Mrs Chiam and Ms Faizah Jamal have concerns here. Their view is: it is an issue of life and death – the discretion should lie with the courts to decide on cooperation.
 
-First, the cooperation mechanism is neither novel nor unusual. Other jurisdictions, like the US and UK, have similar provisions, operated by prosecutors, to recognise cooperation for the purposes of sentencing. …
+> First, the cooperation mechanism is neither novel nor unusual. Other jurisdictions, like the US and UK, have similar provisions, operated by prosecutors, to recognise cooperation for the purposes of sentencing. …
 
-The Courts decide questions of guilt and culpability. **_As for the operational value of assistance provided by the accused, the Public Prosecutor is better placed to decide_**. The Public Prosecutor is independent and at the same time, works closely with law enforcement agencies and **_has a good understanding of operational concerns_**. An additional important consideration is protecting the confidentiality of operational information.
+> The Courts decide questions of guilt and culpability. **_As for the operational value of assistance provided by the accused, the Public Prosecutor is better placed to decide_**. The Public Prosecutor is independent and at the same time, works closely with law enforcement agencies and **_has a good understanding of operational concerns_**. An additional important consideration is protecting the confidentiality of operational information.
 
-The very phrase **_“substantive assistance” is an operational question and turns on the operational parameters and demands of each case_**. Too precise a definition may limit and hamper the operational latitude of the Public Prosecutor, as well as the CNB. It may also discourage couriers from offering useful assistance which falls outside of the statutory definition.
+> The very phrase **_“substantive assistance” is an operational question and turns on the operational parameters and demands of each case_**. Too precise a definition may limit and hamper the operational latitude of the Public Prosecutor, as well as the CNB. It may also discourage couriers from offering useful assistance which falls outside of the statutory definition.
 
-Ms Lim suggested that if there are concerns about confidentiality, why not have it _in camera_, although I am not quite sure she used that phrase. The real point is this. Just imagine the scenario. In a case, the defendant argues that he rendered substantial assistance – it is CNB’s fault for not dismantling some organisation overseas, it is something which CNB did or did not do, what intelligence agencies and officers did and did not do. And you put the officers on the stand and cross-examine them on their methods, their sources, their thinking. Ask yourself whether that is the best way of dealing with this question. Is that helpful?
+> Ms Lim suggested that if there are concerns about confidentiality, why not have it _in camera_, although I am not quite sure she used that phrase. The real point is this. Just imagine the scenario. In a case, the defendant argues that he rendered substantial assistance – it is CNB’s fault for not dismantling some organisation overseas, it is something which CNB did or did not do, what intelligence agencies and officers did and did not do. And you put the officers on the stand and cross-examine them on their methods, their sources, their thinking. Ask yourself whether that is the best way of dealing with this question. Is that helpful?
 
-\[emphasis in original; emphasis added in bold italics\]
+> \[emphasis in original; emphasis added in bold italics\]
 
 #### Our judgment
 
@@ -363,17 +363,17 @@ Ms Lim suggested that if there are concerns about confidentiality, why not have 
 
 69     Before turning to the disposal of the merits of the appeal, we make some further observations. First, we had opined in _Ridzuan_ (at \[72\]) that it would be unsatisfactory if the PP’s determination under s 33B(2)(_b_) was indeed unreviewable by the courts even if, for the sake of argument, it could be shown that, although not constituting bad faith or malice, the PP had, for example, disregarded relevant considerations and/or failed to take relevant considerations into account:
 
-Before we move away from this issue of bad faith, we need to address the proposition made by the Appellant that where the PP has taken into account irrelevant considerations and has instead failed to take into account relevant considerations, that would constitute bad faith. On the authorities that we have just alluded to, this proposition is erroneous. _However, does it mean that where it has been shown that the PP has disregarded relevant considerations and/or failed to take relevant consideration into account, the aggrieved drug trafficker is without remedy?_ We would first observe that such a situation does not arise in the present case. The relevant considerations taken into account by the PP have been set out at \[60\] and \[64\] above and nothing was advanced by or on behalf of the Appellant to suggest that this was in any way erroneous. Having said that, _if such a situation were to arise in a case and it is substantiated that relevant considerations were disregarded or irrelevant considerations were considered by the PP in coming to his decision, intuitively it seems inconceivable that the aggrieved person would be left without a remedy and that the decision of the PP should nevertheless stand_. … \[emphasis added\]
+> Before we move away from this issue of bad faith, we need to address the proposition made by the Appellant that where the PP has taken into account irrelevant considerations and has instead failed to take into account relevant considerations, that would constitute bad faith. On the authorities that we have just alluded to, this proposition is erroneous. _However, does it mean that where it has been shown that the PP has disregarded relevant considerations and/or failed to take relevant consideration into account, the aggrieved drug trafficker is without remedy?_ We would first observe that such a situation does not arise in the present case. The relevant considerations taken into account by the PP have been set out at \[60\] and \[64\] above and nothing was advanced by or on behalf of the Appellant to suggest that this was in any way erroneous. Having said that, _if such a situation were to arise in a case and it is substantiated that relevant considerations were disregarded or irrelevant considerations were considered by the PP in coming to his decision, intuitively it seems inconceivable that the aggrieved person would be left without a remedy and that the decision of the PP should nevertheless stand_. … \[emphasis added\]
 
 70     These observations seem especially compelling where the determination in question may have a bearing on the life of an accused person.
 
 71     Secondly, the respondent submitted that this was ultimately a matter of construing the legislative intent underlying any provision said to have that effect. We do not need to reach a final decision on this because of the view we have taken on the true construction, purport and effect of s 33B(4), but we observe that the court’s power of judicial review, which is a core aspect of the judicial power and function, would not ordinarily be capable of being excluded by ordinary legislation such as the MDA. This follows inevitably from Singapore’s system of constitutional governance, where the Singapore Constitution is the supreme law of the land, as stated in Article 4:
 
-This Constitution is the supreme law of the Republic of Singapore and any law enacted by the Legislature after the commencement of this Constitution which is inconsistent with this Constitution shall, to the extent of the inconsistency, be void.
+> This Constitution is the supreme law of the Republic of Singapore and any law enacted by the Legislature after the commencement of this Constitution which is inconsistent with this Constitution shall, to the extent of the inconsistency, be void.
 
 72     As Chan Sek Keong CJ noted in _Faizal_ (\[59\] _supra_ at \[15\]), “Art 4 reinforces the principle that the Singapore parliament may not enact a law, and the Singapore government may not do an act, which is inconsistent with the principle of the separation of powers to the extent to which that principle is embodied in the Singapore Constitution”. The separation of powers, in turn, is embodied in the Singapore Constitution by virtue of Article 23 (which vests the executive authority in the President and the Cabinet), Article 38 (which vests the legislative power in the President and Parliament) and Article 93 (which vests the judicial power in a system of courts). Article 93 provides as follows:
 
-The judicial power of Singapore shall be vested in a Supreme Court and in such subordinate courts as may be provided by any written law for the time being in force.
+> The judicial power of Singapore shall be vested in a Supreme Court and in such subordinate courts as may be provided by any written law for the time being in force.
 
 73     We have referenced (at \[59\] above) Chan CJ’s holding in _Faizal_ (at \[27\]), that “the judicial function is premised on the existence of a controversy either between a State and one or more of its subjects, or between two or more subjects of a State…\[and which\] entails the courts making a finding on the facts as they stand, applying the relevant law to those facts and determining the rights and obligations of the parties concerned for the purposes of governing their relationship for the future”. It follows from the nature of the judicial function, as well as the fact that the State’s judicial power is vested in the Supreme Court under Article 93 of the Singapore Constitution, that “there will (or should) be few, if any, legal disputes between the State and the people from which the judicial power is excluded”: _Yong Vui Kong v Attorney-General_ <span class="citation">\[2011\] 2 SLR 1189</span> at \[31\]. In particular, any society that prides itself in being governed by the rule of law, as our society does, must hold steadfastly to the principle that “\[a\]ll power has legal limits and the rule of law demands that the courts should be able to examine the exercise of discretionary power”: _Chng Suan Tze v Minister for Home Affairs and others and other appeals_ <span class="citation">\[1988\] 2 SLR(R) 525</span> (“_Chng Suan Tze_”) at \[86\].
 
@@ -383,9 +383,9 @@ The judicial power of Singapore shall be vested in a Supreme Court and in such s
 
 75     Having held that s 33B(4) of the MDA does not preclude judicial review of the PP’s non-certification decision under s 33B(2)(_b_) on any of the usual grounds of judicial review (see \[51\] above), it remains for us to consider the appellant’s case on its merits. At its core, the appellant seeks leave to commence judicial review of the PP’s non-certification decision on two grounds:
 
-(a)     first, that there is a _prima facie_ case of reasonable suspicion that the PP failed to take into account relevant considerations in coming to his non-certification decision; and
+> (a)     first, that there is a _prima facie_ case of reasonable suspicion that the PP failed to take into account relevant considerations in coming to his non-certification decision; and
 
-(b)     second, that there is a _prima facie_ case of reasonable suspicion that the PP’s non-certification decision was made in the absence of a precedent fact.
+> (b)     second, that there is a _prima facie_ case of reasonable suspicion that the PP’s non-certification decision was made in the absence of a precedent fact.
 
 76     As the Judge correctly noted, the requirement at the leave stage is for the appellant to adduce material that discloses an arguable or _prima facie_ case of reasonable suspicion in favour of granting the remedies the appellant seeks. This is, undoubtedly, “a very low threshold”: _Chan Hiang Leng Colin and others v Minister for Information and the Arts_ <span class="citation">\[1996\] 1 SLR(R) 294</span> at \[22\]. Nonetheless, the leave requirement to commence judicial review is intended to serve as a means of filtering out groundless or hopeless cases at an early stage, so as to prevent wastage of judicial time and to protect public bodies from harassment (whether intentional or otherwise) that might arise from a need to delay implementing decisions, where the legality of such decisions is being challenged: _Public Service Commission v Lai Swee Lin Linda_ <span class="citation">\[2001\] 1 SLR(R) 133</span> at \[23\].
 
@@ -397,19 +397,19 @@ The judicial power of Singapore shall be vested in a Supreme Court and in such s
 
 79     Next, it may be noted that when the Amendment Act introduced the transitional framework for persons who had been convicted and sentenced to death under the previous version of the MDA, to be resentenced in accordance with s 33B, no obligation was imposed on the PP to consider retrospectively the effect of the information provided by such offenders on the disruption of drug trafficking activities. In any event, we were prepared to take the appellant’s case at its highest and proceed on the basis that the PP ought to have considered the information provided by the appellant in 2009 and its effect on the disruption of drug trafficking operations then. Even so, however, the appellant fails because he has not adduced a shred of evidence to support his case that there is a _prima facie_ case of reasonable suspicion that the PP had failed to consider the effect of the appellant’s information provided in his contemporaneous statements on the disruption of drug trafficking activities at that time. On the contrary, the respondent deposed to the following in the affidavit dated 30 October 2017 that was filed on his behalf:
 
-6.    On 26 February 2013, the Central Narcotics Bureau (“CNB”) received information from the \[appellant\] (“the first set of information”), provided in a voluntary statement, for purposes of the Public Prosecutor (“PP”) making a determination, pursuant to s 33B(2)(_b_) of the MDA, as to whether the \[appellant\] had substantively assisted the CNB in disrupting drug trafficking activities within or outside Singapore.
+> 6.    On 26 February 2013, the Central Narcotics Bureau (“CNB”) received information from the \[appellant\] (“the first set of information”), provided in a voluntary statement, for purposes of the Public Prosecutor (“PP”) making a determination, pursuant to s 33B(2)(_b_) of the MDA, as to whether the \[appellant\] had substantively assisted the CNB in disrupting drug trafficking activities within or outside Singapore.
 
-7.    The following (collectively, “the first set of material”) was subsequently submitted to the then-PP, Attorney-General Steven Chong Horng Siong (“AG Chong”), for his consideration:
+> 7.    The following (collectively, “the first set of material”) was subsequently submitted to the then-PP, Attorney-General Steven Chong Horng Siong (“AG Chong”), for his consideration:
 
-(a)    the first set of information;
+>> (a)    the first set of information;
 
-(b)    information pertaining to operational matters; and
+>> (b)    information pertaining to operational matters; and
 
-(c)    the views of the CNB in relation to whether, based on the first set of information, the \[appellant\] had substantively assisted the CNB in disrupting drug trafficking activities within or outside Singapore.
+>> (c)    the views of the CNB in relation to whether, based on the first set of information, the \[appellant\] had substantively assisted the CNB in disrupting drug trafficking activities within or outside Singapore.
 
-8.    On 22 July 2013, AG Chong determined, _after having considered the first set of material, that the \[appellant\] had not substantively assisted the CNB in disrupting drug trafficking activities within or outside Singapore_.
+> 8.    On 22 July 2013, AG Chong determined, _after having considered the first set of material, that the \[appellant\] had not substantively assisted the CNB in disrupting drug trafficking activities within or outside Singapore_.
 
-\[emphasis added\]
+> \[emphasis added\]
 
 80     As can be seen from paragraph 8 of the respondent’s 30 October 2017 affidavit, the PP had considered all the relevant material and arrived at the conclusion that “the appellant had not substantively assisted the CNB in disrupting drug trafficking activities within or outside Singapore”. This, in our judgment, is a complete statement unto itself, not limited in time, that is capable of encapsulating the fact that the PP had indeed considered the effect of the appellant’s information on the disruption of drug trafficking activities shortly after the time of his arrest in 2009. The appellant has not adduced any evidence to show why this was not the case. We therefore hold that the appellant has not made out a _prima facie_ case of reasonable suspicion that the PP had not taken into account relevant considerations in arriving at his non-certification decision.
 
@@ -421,19 +421,19 @@ The judicial power of Singapore shall be vested in a Supreme Court and in such s
 
 83      _Chng Suan Tze_ in relevant part held as follows:
 
-(a)     The court’s function in judicial review depends on whether a precedent fact is involved. Where there is none, the scope of review is limited to _Wednesbury_ principles (see _Associated Provincial Picture Houses Limited v Wednesbury Corporation_ <span class="citation">\[1948\] 1 KB 223</span>); where, however, a precedent fact issue arises, the scope of review extends to deciding whether the evidence justifies the decision (at \[108\]).
+> (a)     The court’s function in judicial review depends on whether a precedent fact is involved. Where there is none, the scope of review is limited to _Wednesbury_ principles (see _Associated Provincial Picture Houses Limited v Wednesbury Corporation_ <span class="citation">\[1948\] 1 KB 223</span>); where, however, a precedent fact issue arises, the scope of review extends to deciding whether the evidence justifies the decision (at \[108\]).
 
-(b)     Whether the exercise of a particular executive power is subject to any precedent fact depends on the construction of the legislation that creates that power. An executive power may be subject to the requirement that it be exercised based on objective facts, but Parliament could also entrust all the relevant decisions to some other decision-maker. If this was the case, then the scope of judicial review would be limited to _Wednesbury_ principles (at \[108\]).
+> (b)     Whether the exercise of a particular executive power is subject to any precedent fact depends on the construction of the legislation that creates that power. An executive power may be subject to the requirement that it be exercised based on objective facts, but Parliament could also entrust all the relevant decisions to some other decision-maker. If this was the case, then the scope of judicial review would be limited to _Wednesbury_ principles (at \[108\]).
 
-(c)     The President’s discretion under s 8(1) and the Minister’s discretion under s 10 of the Internal Security Act (Cap 143, 1985 Rev Ed) fell outside the precedent fact category, as s 8(1) provided that it was for the President to be satisfied that detention was necessary in order to prevent a detainee from acting prejudicially to national security, and s 10 gave the Minister the power to make revocation orders where the public interest so necessitated (at \[117\]).
+> (c)     The President’s discretion under s 8(1) and the Minister’s discretion under s 10 of the Internal Security Act (Cap 143, 1985 Rev Ed) fell outside the precedent fact category, as s 8(1) provided that it was for the President to be satisfied that detention was necessary in order to prevent a detainee from acting prejudicially to national security, and s 10 gave the Minister the power to make revocation orders where the public interest so necessitated (at \[117\]).
 
-(d)     Apart from the construction of the words used, which stress that the relevant determinations of facts were reposed in the executive, Parliament could not have intended for the courts to decide on the evidence whether a detainee was _likely_ to act in a manner prejudicial to Singapore’s national security; the judicial process is unsuitable for reaching such decisions (at \[118\]).
+> (d)     Apart from the construction of the words used, which stress that the relevant determinations of facts were reposed in the executive, Parliament could not have intended for the courts to decide on the evidence whether a detainee was _likely_ to act in a manner prejudicial to Singapore’s national security; the judicial process is unsuitable for reaching such decisions (at \[118\]).
 
 84     In our judgment, the appellant’s case on this point must fail as well. This is because the PP’s role in respect of s 33B(2)(_b_) is to make a _determination_; that determination is not a matter of the exercise of executive discretion. Once the PP determines that an offender has provided substantive assistance that has disrupted drug trafficking activities within the meaning of s 33B(2)(_b_), then the PP is bound to issue the appropriate certificate: see _Prabagaran_ at \[65\]. But what the PP has the discretion to decide is as to the sort of inquiries he should make and the sort of information he should consider in coming to that determination. In that sense, this is simply _not_ a situation involving the exercise of an executive discretion that requires a precedent fact to be established in the first place.
 
 85     The crucial words of s 33B(2)(_b_) of the MDA are as follows:
 
-… the Public Prosecutor certifies to any court that, _in his determination_, the person _has substantively assisted the Central Narcotics Bureau_ in disrupting drug trafficking activities within or outside Singapore \[emphasis added\].
+> … the Public Prosecutor certifies to any court that, _in his determination_, the person _has substantively assisted the Central Narcotics Bureau_ in disrupting drug trafficking activities within or outside Singapore \[emphasis added\].
 
 86     The words “in his determination” in s 33B(2)(_b_) are important. They demonstrate that Parliament had intended for the PP to be the decision-maker in answering the question of whether an offender has substantively assisted the CNB in disrupting drug-trafficking activities. This view is further confirmed by s 33B(4), which provides that the PP’s determination under s 33B(2)(_b_) shall be at the sole discretion of the PP (at \[56\] above). As we have stated above (at \[84\]), that discretion pertains to the PP’s decision as to the sorts of inquiries and information he would need in coming to his determination under s 33B(2)(_b_). Finally, we note, though the point was not directly taken by the appellant, that Parliament’s decision to entrust the PP with discretion over such matters and with the power to make the determination in question does not violate Article 93 of the Singapore Constitution. This is because of the lack of manageable judicial standards in assessing whether the substantive assistance provided by an offender to the CNB can be said to have disrupted drug trafficking activities locally and/or overseas, as a result of which, that determination under s 33B(2)(_b_) would not constitute something that can properly be considered to be the exercise of a core judicial function to begin with.
 

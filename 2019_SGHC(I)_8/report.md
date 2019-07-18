@@ -49,23 +49,23 @@ Equity – Fiduciary relationships – Breach of fiduciary duties
 
 14     The Contract included the following:
 
-\[DDPL\] have identified the need to engage a suitably qualified project management company and to provide project management and support services for the activation of their newly acquired Jack-Up drilling unit “Rowan Louisiana” which is to be mobilised from the Sabine Pass in the state of Texas in the USA in Q1 2016.
+> \[DDPL\] have identified the need to engage a suitably qualified project management company and to provide project management and support services for the activation of their newly acquired Jack-Up drilling unit “Rowan Louisiana” which is to be mobilised from the Sabine Pass in the state of Texas in the USA in Q1 2016.
 
-The overall scope will entail the provision of all project management services identified by DDPL in support of the refurbishment programme. Key areas of focus will be the AKRO project delivery assurance process and the project execution plan (PEP) designed and employed to meet or exceed the deadlines and budgets determined and set by DDPL and agreed by AKRO. The PMEP (09001-AKRO-PR-PEP-002) will form the basis and the framework for the deliverables.
+> The overall scope will entail the provision of all project management services identified by DDPL in support of the refurbishment programme. Key areas of focus will be the AKRO project delivery assurance process and the project execution plan (PEP) designed and employed to meet or exceed the deadlines and budgets determined and set by DDPL and agreed by AKRO. The PMEP (09001-AKRO-PR-PEP-002) will form the basis and the framework for the deliverables.
 
 15     AKRO agreed to provide services which included Procurement Support services which in turn included the identification and qualification of initial suppliers and service providers. AKRO also agreed to prepare and issue all equipment and tangible tenders and to evaluate them for the purpose of contracts being issued and materials delivered.
 
 16     The Contract provided relevantly as follows:
 
-7.    Commercial terms
+> 7.    Commercial terms
 
-A Service Order will be raised on a day rate basis and cover the period of the project as detailed in the approved Project Execution Plan (Contract start Date 10-04-2016).
+> A Service Order will be raised on a day rate basis and cover the period of the project as detailed in the approved Project Execution Plan (Contract start Date 10-04-2016).
 
-The day rate payable will be USD 800.00 per day and will include all USA site costs for accommodation, local transportation, and meals. All international travel for the period will be provided by DDPL.
+> The day rate payable will be USD 800.00 per day and will include all USA site costs for accommodation, local transportation, and meals. All international travel for the period will be provided by DDPL.
 
-The project management fee does NOT include any genuine third-party charges applicable (additional insurance premiums incurred, fees and other project specific charges incurred by AKRO) DDPL to reimburse pre-approved Third-party charges at documented cost.
+> The project management fee does NOT include any genuine third-party charges applicable (additional insurance premiums incurred, fees and other project specific charges incurred by AKRO) DDPL to reimburse pre-approved Third-party charges at documented cost.
 
-Payment Terms will be 7 days from submission of invoice and supporting timesheet.
+> Payment Terms will be 7 days from submission of invoice and supporting timesheet.
 
 17     Two employees of JDIL, Parmod Kumar (“Mr Kumar”) and Sunil Kumar Arora (“Mr Arora”), acted as DDPL’s representatives in respect of the Project. The two AKRO personnel in charge of the delivery of services for the Project were David William Fowler (“Mr Fowler”), a director of AKRO, and Arjun Suresh Kandoth (“Mr Kandoth”), the managing director of AKRO and AYBI.
 
@@ -227,13 +227,13 @@ Payment Terms will be 7 days from submission of invoice and supporting timesheet
 
 87     On 23 November 2015 AKRO wrote to DDPL advising that it had completed a “Vendor Due Diligence” in respect of the Accommodation Upgrade of the Rig. It advised DDPL that it recommended Trident Maritime Systems (“TMS”) for those works. That letter included the following:
 
-To maintain complete transparency we have attached the proposal received from Trident Maritime Systems.
+> To maintain complete transparency we have attached the proposal received from Trident Maritime Systems.
 
-We propose an overall schedule of completion on or before 22nd Jan 2016, subject to the Service Order/Purchase Order and advance payment being received by 25th November 2015. We shall ensure that the work will be performed at Rowen’s (sic) Shipyard in accordance with the detailed production timelines to be developed after Contract Award and based in accordance with the above mentioned contract schedule for delivery.
+> We propose an overall schedule of completion on or before 22nd Jan 2016, subject to the Service Order/Purchase Order and advance payment being received by 25th November 2015. We shall ensure that the work will be performed at Rowen’s (sic) Shipyard in accordance with the detailed production timelines to be developed after Contract Award and based in accordance with the above mentioned contract schedule for delivery.
 
 88     In its letter of 23 November 2015 AKRO advised DDPL that the cost for the upgrade was US$149,000 “as per the attached” TMS proposal. The “attached” proposal included a coversheet with TMS’s logo and its name above the words which included “Rowan Louisiana” and “Revision 1”. The Proposal was addressed to DDPL but to the attention of Mr Fowler at AKRO. It included a Scope of Work under which the General Notes included the following:
 
-Trident Maritime has developed interior accommodations subcontract fixed price proposal delivered to Rowan Shipyard (F.O.B. Sabine Pass,TX) for USD 149,000.00.
+> Trident Maritime has developed interior accommodations subcontract fixed price proposal delivered to Rowan Shipyard (F.O.B. Sabine Pass,TX) for USD 149,000.00.
 
 89     The other costs to which AKRO referred in its letter of 23 November 2015 included an amount of US$30,000 for “coordination with ABS for approval” and a 5% handling fee of US$8,950.
 
@@ -253,37 +253,489 @@ Trident Maritime has developed interior accommodations subcontract fixed price p
 
 97     Mr Gupta’s affidavit evidence included the following:
 
-197.  Mr Kandoth admitted that he indeed forged the documents that were submitted to DDPL for payment for the Rig together with Mr Kumar and Mr Arora. Mr Kandoth also admitted that he bribed Mr Kumar and Mr Arora to commit the said forgery by:
+> 197.  Mr Kandoth admitted that he indeed forged the documents that were submitted to DDPL for payment for the Rig together with Mr Kumar and Mr Arora. Mr Kandoth also admitted that he bribed Mr Kumar and Mr Arora to commit the said forgery by:
 
-(a)    paying them US$112,000 in cash in UAE;
+>> (a)    paying them US$112,000 in cash in UAE;
 
-(b)    paying for their hotel accommodation in UAE;
+>> (b)    paying for their hotel accommodation in UAE;
 
-(c)    providing each of them a brand new high end mobile phone; and
+>> (c)    providing each of them a brand new high end mobile phone; and
 
-(d)    paying them US$500,000 in total for procuring DDPL to appoint and engage AKRO and/or AYBI as DDPL’s supplier for services and goods required for the Project.
+>> (d)    paying them US$500,000 in total for procuring DDPL to appoint and engage AKRO and/or AYBI as DDPL’s supplier for services and goods required for the Project.
 
-198.  Mr Kandoth also mentioned that he would pay to Mr Kumar and Mr Arora more money for giving evidence in favour of AKRO if AKRO succeeded in its action herein against DDPL. A Dropbox link to the sound recordings of the said meeting is exhibited herein at \[2311\].
+> 198.  Mr Kandoth also mentioned that he would pay to Mr Kumar and Mr Arora more money for giving evidence in favour of AKRO if AKRO succeeded in its action herein against DDPL. A Dropbox link to the sound recordings of the said meeting is exhibited herein at \[2311\].
 
 98     At the hearing on 8 April 2019, DDPL relied upon the affidavit of Mr Gupta sworn 2 April 2019 which included correspondence between DDPL’s solicitor in Singapore and Mr Kandoth in May 2018. That correspondence included an email dated 21 May 2018 from DDPL’s lawyer in respect of the subject “AKRO – Meeting and subsequent call”. That email was in the following terms:
 
-We refer to our telephone conversation this afternoon wherein you indicated that you were apologetic for your/AKRO’s /AYBI’s wrongful conduct in relation to the agreement for the Rig “Rowan Louisiana” entered into between AKRO Group DMCC and our client, Discovery Drilling Pte Ltd (“Discovery Drilling”), and suggested that we meet to give you an opportunity to explain and/or account for the allegations and claims brought against you, AKRO and AYBI by our client. Whilst our client is confident of the merits of its case, our client (in particular, Mr Ravi Gupta of DP Jindal Group who is copied here) is prepared to meet you in Delhi on any date this month to discuss the way forward with this matter as a show of good faith. Please let us hear from you on your availability on the proposed dates by tomorrow.
+> We refer to our telephone conversation this afternoon wherein you indicated that you were apologetic for your/AKRO’s /AYBI’s wrongful conduct in relation to the agreement for the Rig “Rowan Louisiana” entered into between AKRO Group DMCC and our client, Discovery Drilling Pte Ltd (“Discovery Drilling”), and suggested that we meet to give you an opportunity to explain and/or account for the allegations and claims brought against you, AKRO and AYBI by our client. Whilst our client is confident of the merits of its case, our client (in particular, Mr Ravi Gupta of DP Jindal Group who is copied here) is prepared to meet you in Delhi on any date this month to discuss the way forward with this matter as a show of good faith. Please let us hear from you on your availability on the proposed dates by tomorrow.
 
-In the meantime, all our client’s rights are expressly reserved.
+> In the meantime, all our client’s rights are expressly reserved.
 
 99     On 24 May 2018 in an email in response to DDPL’s lawyer, Mr Kandoth wrote:
 
-Thank you for your email.
+> Thank you for your email.
 
-I would like to thank Mr Gupta for being magnanimous in agreeing to meet. I propose coming to Delhi to meet either on 29 or 30 May to amicably resolve this issue. Please let me know which date is convenient and a time. There also seems to be misunderstanding in the content of our telecom, which we will like to clear as well during my meeting with him.
+> I would like to thank Mr Gupta for being magnanimous in agreeing to meet. I propose coming to Delhi to meet either on 29 or 30 May to amicably resolve this issue. Please let me know which date is convenient and a time. There also seems to be misunderstanding in the content of our telecom, which we will like to clear as well during my meeting with him.
 
-I await confirmation.
+> I await confirmation.
 
-Without prejudice.
+> Without prejudice.
 
 100    The meeting took place in India on 30 May 2018. Mr Gupta’s evidence was that at the beginning of the meeting he placed his mobile phone on the table in front of Mr Kandoth and switched it to recording in Mr Kandoth’s full view to which he raised no objection. Mr Gupta included a transcript of the tape-recorded meeting in his affidavit of 2 April 2019. The transcript of the meeting includes the following exchanges:
 
-<table align="left" cellpadding="0" cellspacing="0" class="Judg-2" frame="none" pgwide="1"><colgroup><col width="26.64%"> <col width="73.36%"> </colgroup><tbody><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Mr Bengani:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">You are hand in glove with Pramod Kumar and you kept on saying I didn’t ask you to place a PO on me. Your company placed a PO on me and then why should I disclose my …</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Mr Kandoth:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">I was not in hand in glove with Pramod.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Mr Bengani:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Yes you were. Please. Please don’t insult our intelligence.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Mr Gupta:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Don’t argue with him, don’t argue with him.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Mr Kandoth:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">No I don’t want to argue. I am not here.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Mr Khanna:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">What is the question can you repeat it please what did you say?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Mr Kandoth:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">You said that you were hand in glove with Pramod. This is the biggest mistake that we …</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Mr Gupta:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">What was the biggest mistake?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Mr Kandoth:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">And you said that reference checks. You know, honestly! I am not here to say anything but you know what is honest.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Mr Gupta:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">This is not this is third party feedback I am giving Arjun Kandoth. So don’t give us. When I am saying something. I got evidence for it.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Mr Kandoth:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">I have not interrupt you.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Mr Gupta:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Ya so don’t challenge me. You have challenged me in Singapore Court and I will.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Mr Kandoth:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">I apologise that’s what I am saying. I am really very sorry.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Mr Gupta:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">You have wasted my two years.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Mr Bengani:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">You are not sorry. You have shaken entire organisation.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Arjun:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">I apologise beyond the road.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">…</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">&nbsp;</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Mr Bengani:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Please say what you have to say. If you have come here to sit silently then we have other things to do.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Mr Kandoth:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">I have come here to apologise. The biggest mistake was to go to court.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">…</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">&nbsp;</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Mr Gupta:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Be frank man. What kind of man you are? How much was paid to them when you signed the contract?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Mr Kandoth:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">As per their demand.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Mr Gupta:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">How much they demanded? How much they demanded?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Mr Gupta:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">No, no, you are just protecting. Okay.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Mr Khanna:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">You thought by filing their Affidavit you have won the case.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Mr Kandoth:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">That was a biggest mistake. I agreed to put them as witness I should not have put them as witness.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Mr Gupta:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">No, no, this was a very smart move on your part. That was very smart move. You are very intelligent man Mr Arjun Kandoth.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Mr Kandoth:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">You are rubbing salt on my wound.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Mr Gupta:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">How much you paid them?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">…</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">&nbsp;</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Mr Kandoth:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Paid them 112000 Dollars.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Mr Gupta:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">112000 dollars that is peanuts. It is peanuts. For a 18 million dollars contract, in which forgery is about 40-50%. You raised invoices about 18 million dollars and a 8 million dollar court order will shortly be on your head … for the forgeries.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">…</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">&nbsp;</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Mr Gupta:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">You remember further and better particulars your lawyer was asking, we spent about 10 days and the arguments went in the court for 3 days. For that further and better particulars I have paid 100000 dollars to lawyers. You paid them 112000 dollars?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Mr Kandoth:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Yes.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Mr Gupta:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">What was the total amount payable to them? How much?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Mr Kandoth:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">The total amount was about half a million dollars.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">…</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">&nbsp;</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Mr Kandoth:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">You have asked me about forgeries, who did it?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Mr Gupta:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">What did I ask you for the forgeries? How the forgeries started? Whose idea was this? How did you do? Because only if you are honest now then we can think of something, otherwise we don’t trust you. Why should we trust you when you are not replying? You want us to trust you or not, then come out. Start from the beginning how the forgeries started, who told you, how did it happen? What all invoices were forged? How much was the amount? Because if you don’t speak anything how we can help you and it is just creating distrust. If you want us to trust you then be honest. I did not have my lunch because my flight was delayed. So at least have some mercy on me, come out with the truth. We have repeated this question 10 times.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">…</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">&nbsp;</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Mr Kandoth:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">I am sorry.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Mr Gupta:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">You are not sorry.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Mr Kandoth:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">I am sorry.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">…</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">&nbsp;</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Mr Gupta:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">So if it is no then tell us why you are hiding all this now or Pramod is very dear friend of yours.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Mr Kandoth:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">No … he is not a friend.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Mr Gupta:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">So what was he, if he was not your friend? Why did he give this job to you?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Mr Kandoth:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">He was not.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">…</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">&nbsp;</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Mr Gupta:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">You were the Managing Director of this company so the control is with you, then so let us continue this fight.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Mr Kandoth:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">I don’t have the money.</p></td></tr></tbody></table>
+>   
+| 
+
+Mr Bengani:
+
+ | 
+
+You are hand in glove with Pramod Kumar and you kept on saying I didn’t ask you to place a PO on me. Your company placed a PO on me and then why should I disclose my …
+
+ |
+| 
+
+Mr Kandoth:
+
+ | 
+
+I was not in hand in glove with Pramod.
+
+ |
+| 
+
+Mr Bengani:
+
+ | 
+
+Yes you were. Please. Please don’t insult our intelligence.
+
+ |
+| 
+
+Mr Gupta:
+
+ | 
+
+Don’t argue with him, don’t argue with him.
+
+ |
+| 
+
+Mr Kandoth:
+
+ | 
+
+No I don’t want to argue. I am not here.
+
+ |
+| 
+
+Mr Khanna:
+
+ | 
+
+What is the question can you repeat it please what did you say?
+
+ |
+| 
+
+Mr Kandoth:
+
+ | 
+
+You said that you were hand in glove with Pramod. This is the biggest mistake that we …
+
+ |
+| 
+
+Mr Gupta:
+
+ | 
+
+What was the biggest mistake?
+
+ |
+| 
+
+Mr Kandoth:
+
+ | 
+
+And you said that reference checks. You know, honestly! I am not here to say anything but you know what is honest.
+
+ |
+| 
+
+Mr Gupta:
+
+ | 
+
+This is not this is third party feedback I am giving Arjun Kandoth. So don’t give us. When I am saying something. I got evidence for it.
+
+ |
+| 
+
+Mr Kandoth:
+
+ | 
+
+I have not interrupt you.
+
+ |
+| 
+
+Mr Gupta:
+
+ | 
+
+Ya so don’t challenge me. You have challenged me in Singapore Court and I will.
+
+ |
+| 
+
+Mr Kandoth:
+
+ | 
+
+I apologise that’s what I am saying. I am really very sorry.
+
+ |
+| 
+
+Mr Gupta:
+
+ | 
+
+You have wasted my two years.
+
+ |
+| 
+
+Mr Bengani:
+
+ | 
+
+You are not sorry. You have shaken entire organisation.
+
+ |
+| 
+
+Arjun:
+
+ | 
+
+I apologise beyond the road.
+
+ |
+| 
+
+…
+
+ | 
+
+ |
+| 
+
+Mr Bengani:
+
+ | 
+
+Please say what you have to say. If you have come here to sit silently then we have other things to do.
+
+ |
+| 
+
+Mr Kandoth:
+
+ | 
+
+I have come here to apologise. The biggest mistake was to go to court.
+
+ |
+| 
+
+…
+
+ | 
+
+ |
+| 
+
+Mr Gupta:
+
+ | 
+
+Be frank man. What kind of man you are? How much was paid to them when you signed the contract?
+
+ |
+| 
+
+Mr Kandoth:
+
+ | 
+
+As per their demand.
+
+ |
+| 
+
+Mr Gupta:
+
+ | 
+
+How much they demanded? How much they demanded?
+
+ |
+| 
+
+Mr Gupta:
+
+ | 
+
+No, no, you are just protecting. Okay.
+
+ |
+| 
+
+Mr Khanna:
+
+ | 
+
+You thought by filing their Affidavit you have won the case.
+
+ |
+| 
+
+Mr Kandoth:
+
+ | 
+
+That was a biggest mistake. I agreed to put them as witness I should not have put them as witness.
+
+ |
+| 
+
+Mr Gupta:
+
+ | 
+
+No, no, this was a very smart move on your part. That was very smart move. You are very intelligent man Mr Arjun Kandoth.
+
+ |
+| 
+
+Mr Kandoth:
+
+ | 
+
+You are rubbing salt on my wound.
+
+ |
+| 
+
+Mr Gupta:
+
+ | 
+
+How much you paid them?
+
+ |
+| 
+
+…
+
+ | 
+
+ |
+| 
+
+Mr Kandoth:
+
+ | 
+
+Paid them 112000 Dollars.
+
+ |
+| 
+
+Mr Gupta:
+
+ | 
+
+112000 dollars that is peanuts. It is peanuts. For a 18 million dollars contract, in which forgery is about 40-50%. You raised invoices about 18 million dollars and a 8 million dollar court order will shortly be on your head … for the forgeries.
+
+ |
+| 
+
+…
+
+ | 
+
+ |
+| 
+
+Mr Gupta:
+
+ | 
+
+You remember further and better particulars your lawyer was asking, we spent about 10 days and the arguments went in the court for 3 days. For that further and better particulars I have paid 100000 dollars to lawyers. You paid them 112000 dollars?
+
+ |
+| 
+
+Mr Kandoth:
+
+ | 
+
+Yes.
+
+ |
+| 
+
+Mr Gupta:
+
+ | 
+
+What was the total amount payable to them? How much?
+
+ |
+| 
+
+Mr Kandoth:
+
+ | 
+
+The total amount was about half a million dollars.
+
+ |
+| 
+
+…
+
+ | 
+
+ |
+| 
+
+Mr Kandoth:
+
+ | 
+
+You have asked me about forgeries, who did it?
+
+ |
+| 
+
+Mr Gupta:
+
+ | 
+
+What did I ask you for the forgeries? How the forgeries started? Whose idea was this? How did you do? Because only if you are honest now then we can think of something, otherwise we don’t trust you. Why should we trust you when you are not replying? You want us to trust you or not, then come out. Start from the beginning how the forgeries started, who told you, how did it happen? What all invoices were forged? How much was the amount? Because if you don’t speak anything how we can help you and it is just creating distrust. If you want us to trust you then be honest. I did not have my lunch because my flight was delayed. So at least have some mercy on me, come out with the truth. We have repeated this question 10 times.
+
+ |
+| 
+
+…
+
+ | 
+
+ |
+| 
+
+Mr Kandoth:
+
+ | 
+
+I am sorry.
+
+ |
+| 
+
+Mr Gupta:
+
+ | 
+
+You are not sorry.
+
+ |
+| 
+
+Mr Kandoth:
+
+ | 
+
+I am sorry.
+
+ |
+| 
+
+…
+
+ | 
+
+ |
+| 
+
+Mr Gupta:
+
+ | 
+
+So if it is no then tell us why you are hiding all this now or Pramod is very dear friend of yours.
+
+ |
+| 
+
+Mr Kandoth:
+
+ | 
+
+No … he is not a friend.
+
+ |
+| 
+
+Mr Gupta:
+
+ | 
+
+So what was he, if he was not your friend? Why did he give this job to you?
+
+ |
+| 
+
+Mr Kandoth:
+
+ | 
+
+He was not.
+
+ |
+| 
+
+…
+
+ | 
+
+ |
+| 
+
+Mr Gupta:
+
+ | 
+
+You were the Managing Director of this company so the control is with you, then so let us continue this fight.
+
+ |
+| 
+
+Mr Kandoth:
+
+ | 
+
+I don’t have the money.
+
+ |
 
   
   
@@ -384,7 +836,7 @@ Without prejudice.
 
 142    Mr Pal also analysed the contractual arrangement between AKRO and DDPL and proffered the following opinion in respect of AKRO becoming a direct supplier to DDPL:
 
-There is no justification for doing such a drastic change. A SPM services provider cannot become a supplier and if he does so he ought to record good solid reasons for doing so as there is clear conflict of interest. It appears that AKRO took the advantage of the limited timeline available to repair/refurbish the Rig and abused the same to deviate from processes consequent to which we have noted serious discrepancies in the documentation which have been dealt in detail in our report.
+> There is no justification for doing such a drastic change. A SPM services provider cannot become a supplier and if he does so he ought to record good solid reasons for doing so as there is clear conflict of interest. It appears that AKRO took the advantage of the limited timeline available to repair/refurbish the Rig and abused the same to deviate from processes consequent to which we have noted serious discrepancies in the documentation which have been dealt in detail in our report.
 
 143    Some of the discrepancies identified by Mr Pal in his detailed report included differences in formats of invoices/quotations, discrepancies in manpower rates charged, independent evaluation of quotations, and lack of independent confirmations from vendor/sub-vendors. In a number of instances, there were no substantiating documents furnished by AKRO or AYBI to DDPL.
 

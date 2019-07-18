@@ -59,11 +59,11 @@ Mental Disorders and Treatment – Legal capacity – Mental Capacity Act
 
 18     The MCA application was conducted as a judge-led process and involved the taking of evidence from the following persons:
 
-(a)     two court-appointed medical experts who gave evidence on the second defendant’s mental capacity and her ability to manage her own affairs, namely, Professor Kua Ee Heok (“Prof Kua”), a psychiatrist, and Dr Tang Kok Foo (“Dr Tang”), a neurologist;
+> (a)     two court-appointed medical experts who gave evidence on the second defendant’s mental capacity and her ability to manage her own affairs, namely, Professor Kua Ee Heok (“Prof Kua”), a psychiatrist, and Dr Tang Kok Foo (“Dr Tang”), a neurologist;
 
-(b)     a neuropsychologist, Dr Yeo Hong Huang Donald (“Dr Yeo”), who adduced a report and gave testimony on what transpired during his psychological testing of the second defendant; and
+> (b)     a neuropsychologist, Dr Yeo Hong Huang Donald (“Dr Yeo”), who adduced a report and gave testimony on what transpired during his psychological testing of the second defendant; and
 
-(c)     the second defendant, the first defendant, the plaintiff and a number of other family members; the evidence of the family members largely concerned their interactions with the second defendant, as well as various events relating to the second defendant’s disposal of property and assets.
+> (c)     the second defendant, the first defendant, the plaintiff and a number of other family members; the evidence of the family members largely concerned their interactions with the second defendant, as well as various events relating to the second defendant’s disposal of property and assets.
 
 ## The parties’ cases in OSM 1/2017
 
@@ -99,41 +99,41 @@ Mental Disorders and Treatment – Legal capacity – Mental Capacity Act
 
 29     Section 4(1) defines a lack of capacity:
 
-… \[A\] person lacks capacity in relation to a matter if at the material time he is unable to make a decision for himself in relation to the matter because of an impairment of, or a disturbance in the functioning of, the mind or brain.
+> … \[A\] person lacks capacity in relation to a matter if at the material time he is unable to make a decision for himself in relation to the matter because of an impairment of, or a disturbance in the functioning of, the mind or brain.
 
 This is further explained by s 5(1), which defines the inability to make a decision:
 
-For the purposes of section 4, a person is unable to make a decision for himself if he is unable —
+> For the purposes of section 4, a person is unable to make a decision for himself if he is unable —
 
-(_a_)     to understand the information relevant to the decision;
+>> (_a_)     to understand the information relevant to the decision;
 
-(_b_)    to retain that information;
+>> (_b_)    to retain that information;
 
-(_c_)     to use or weigh that information as part of the process of making the decision; or
+>> (_c_)     to use or weigh that information as part of the process of making the decision; or
 
-(_d_)    to communicate his decision (whether by talking, using sign language or any other means).
+>> (_d_)    to communicate his decision (whether by talking, using sign language or any other means).
 
 Section 5(2) provides that a person is not to be found unable to understand the information relevant to a decision if he is able to understand an explanation of it using simpler language or by other means. Section 5(3) specifies that the fact that a person is able to retain information relevant to a decision for a short period only does not prevent him from being regarded as able to make the decision.
 
 30     As decided in _Re BKR_, the test for capacity in s 4(1) of the MCA has a functional and clinical component, the functional aspect being that the subject must be unable to make a decision, and the clinical aspect being that this inability must be caused by a mental impairment: at \[134\]. While expert evidence may address the clinical component of the test, it is not determinative. The expert evidence tells the court what view of the subject’s mental impairment emerges from her symptoms, but the functional component is a judgment for the court to make based on the evidence as to the degree her mental functioning is compromised: at \[134\]. To this end, answers in cross-examination should be considered in assessing the functional component, to shed light on (a) whether the subject is able to retain, understand, use and weigh information relevant to decisions and (b) her symptoms as might shed light on the nature of her mental impairment: at \[154\]. As noted at \[134\] and \[135\]:
 
-… \[The court is\] able to form our own assessment from the evidence … \[T\]hat competence derives essentially from the knowledge and experience that we as rational human beings have of the process of thinking and reasoning. It does not require the specialised expertise of a medical professional to see whether P has, for instance, poor memory or difficulty in understanding sophisticated concepts. …
+> … \[The court is\] able to form our own assessment from the evidence … \[T\]hat competence derives essentially from the knowledge and experience that we as rational human beings have of the process of thinking and reasoning. It does not require the specialised expertise of a medical professional to see whether P has, for instance, poor memory or difficulty in understanding sophisticated concepts. …
 
-… \[Clinical interviews and cross-examination\] afford us an insight into the extent to which she is able to retain, understand, use and weigh information, and hence furnish us with evidence upon which we determine whether she is able to make decisions; but at the same time, they also reveal symptoms, such as a decline in memory or executive function, which a medical expert might use in a clinical diagnosis as to the nature and degree of her mental impairment. We rely on experts to tell us what view of her mental impairment emerges from her symptoms, but questions such as whether she is able to retain, understand, use and weigh information relevant to the decisions she makes are matters that are within our capability to assess and do not call for expert assistance.
+> … \[Clinical interviews and cross-examination\] afford us an insight into the extent to which she is able to retain, understand, use and weigh information, and hence furnish us with evidence upon which we determine whether she is able to make decisions; but at the same time, they also reveal symptoms, such as a decline in memory or executive function, which a medical expert might use in a clinical diagnosis as to the nature and degree of her mental impairment. We rely on experts to tell us what view of her mental impairment emerges from her symptoms, but questions such as whether she is able to retain, understand, use and weigh information relevant to the decisions she makes are matters that are within our capability to assess and do not call for expert assistance.
 
 31     Additionally, I would note that the High Court in _Re BKR_ <span class="citation">\[2013\] 4 SLR 1257</span> (“_Re BKR (HC)_”) held at \[71\] that the requirements under ss 5(1)(_a_) to 5(1)(_d_) are to be read conjunctively, following the English approach articulated in _Re F_ \[2009\] EWHC B30 (Fam) (at \[21\]). A person must be able to understand, retain, and weigh the relevant information, and then communicate his decision if he is found able to make a decision. A deficiency in any one of these requirements would mean he lacks mental capacity. I understood from this guidance that the court’s assessment as to mental capacity should be made holistically.
 
 32     The principles as laid down in ss 3(2) to 3(6) of the MCA were also material to my assessment. These provisions specify as follows:
 
-(2)    A person must be assumed to have capacity unless it is established that he lacks capacity.
+> (2)    A person must be assumed to have capacity unless it is established that he lacks capacity.
 
-(3)    A person is not to be treated as unable to make a decision unless all practicable steps to help him to do so have been taken without success.
+> (3)    A person is not to be treated as unable to make a decision unless all practicable steps to help him to do so have been taken without success.
 
-(4)   A person is not to be treated as unable to make a decision merely because he makes an unwise decision.
+> (4)   A person is not to be treated as unable to make a decision merely because he makes an unwise decision.
 
-(5)    An act done, or a decision made, under this Act for or on behalf of a person who lacks capacity must be done, or made, in his best interests.
+> (5)    An act done, or a decision made, under this Act for or on behalf of a person who lacks capacity must be done, or made, in his best interests.
 
-(6)    Before the act is done, or the decision is made, regard must be had to whether the purpose for which it is needed can be as effectively achieved in a way that is less restrictive of the person’s rights and freedom of action.
+> (6)    Before the act is done, or the decision is made, regard must be had to whether the purpose for which it is needed can be as effectively achieved in a way that is less restrictive of the person’s rights and freedom of action.
 
 33     Of these, s 3(3) was raised specifically in the present case. Dr Tang, in particular, was concerned that it should not be too readily inferred that the second defendant could not make decisions in respect of the 2016 LPA as she could have been given assistance when executing it. But as will be discussed below, I was concerned that this principle could not be taken too far; the possibility of assistance rendered will not be able to correct for any deficit in capacity if a subject is found to be mentally incapable.
 
@@ -141,17 +141,17 @@ Section 5(2) provides that a person is not to be found unable to understand the 
 
 34     I accepted the plaintiff’s argument that it was relevant to consider if there was some interaction between the second defendant’s mental impairment and the exertion of undue influence on her by her family members. The proven or potential presence of undue influence is relevant to the issue of mental capacity in three ways (_Re BKR_ at \[125\] and \[126\]):
 
-… \[First, it is\] material whether P is able to retain, understand or use the information that relates to whether there might be undue influence being applied, for instance whether P can understand that a third person may have interests opposed to his; and if not, whether that inability is caused by mental impairment. \[Second,\] it must be considered whether P’s susceptibility to undue influence is caused by mental impairment; if so, and if the result of such undue influence is that P’s will is so overborne that he is unable to use and weigh information relevant to the decision in question, P would be unable to make decisions “because of” mental impairment.
+> … \[First, it is\] material whether P is able to retain, understand or use the information that relates to whether there might be undue influence being applied, for instance whether P can understand that a third person may have interests opposed to his; and if not, whether that inability is caused by mental impairment. \[Second,\] it must be considered whether P’s susceptibility to undue influence is caused by mental impairment; if so, and if the result of such undue influence is that P’s will is so overborne that he is unable to use and weigh information relevant to the decision in question, P would be unable to make decisions “because of” mental impairment.
 
-The third way in which undue influence is relevant is that it might mean that P cannot realistically hope to obtain assistance in making decisions. In such a situation, P may be found to lack capacity because of a mental impairment operating together with that lack of assistance. …
+> The third way in which undue influence is relevant is that it might mean that P cannot realistically hope to obtain assistance in making decisions. In such a situation, P may be found to lack capacity because of a mental impairment operating together with that lack of assistance. …
 
 35     To this end, the plaintiff referenced _Royal Bank of Scotland v Etridge (No 2)_ <span class="citation">\[2002\] 2 AC 773</span>, which distinguished between classes of actual and presumed undue influence. This categorisation has recently been affirmed in the Court of Appeal’s decision in _BOM v BOK and another appeal_ <span class="citation">\[2019\] 1 SLR 349</span> (“_BOM_”). Although _BOM_ was published after my decision in this case was rendered, it does not change the approach that is to be taken. Presumed undue influence, or “Class 2” undue influence, which was relied upon here, arises where the following conditions are met (_BOM_ at \[101\]):
 
-… It suffices for the plaintiff to demonstrate (i) that there was a relationship of trust and confidence between him and the defendant; (ii) that the relationship was such that it could be presumed that the defendant abused the plaintiff’s trust and confidence in influencing the plaintiff to enter into the impugned transaction; and (iii) that the transaction was one that calls for an explanation. This class of undue influence is further divided into “Class 2A” and “Class 2B” undue influence, as follows:
+> … It suffices for the plaintiff to demonstrate (i) that there was a relationship of trust and confidence between him and the defendant; (ii) that the relationship was such that it could be presumed that the defendant abused the plaintiff’s trust and confidence in influencing the plaintiff to enter into the impugned transaction; and (iii) that the transaction was one that calls for an explanation. This class of undue influence is further divided into “Class 2A” and “Class 2B” undue influence, as follows:
 
-…
+>> …
 
-(ii)   Under “Class 2B” undue influence, the plaintiff must prove that there is a relationship of trust and confidence. If it is shown that there was such a relationship and that the transaction calls for an explanation, then there is a _rebuttable_ presumption of undue influence.
+>> (ii)   Under “Class 2B” undue influence, the plaintiff must prove that there is a relationship of trust and confidence. If it is shown that there was such a relationship and that the transaction calls for an explanation, then there is a _rebuttable_ presumption of undue influence.
 
 ## Whether the second defendant lacked capacity in relation to her personal welfare, property and affairs
 
@@ -171,36 +171,219 @@ The third way in which undue influence is relevant is that it might mean that P 
 
 42     As it transpired, it was clear from the second defendant’s testimony in court that she could not remember information and events. Indeed, she could not even remember what she had just testified. When asked during cross-examination how she kept track of the money she had in the Bank Account, she first explained that she read her bank statements:[^11]
 
-<table align="left" cellpadding="0" cellspacing="0" class="Judg-2" frame="none" pgwide="1"><colgroup><col width="25.44%"> <col width="74.56%"> </colgroup><tbody><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Witness:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">When I am done reading, I tear them up, so no one else can read them.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Court:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">You can read the statements?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Witness:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Yes, I can read them. If I don’t understand, I will write it somewhere else and ask someone what this means. And then I can remember.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">…</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">&nbsp;</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Q:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Now, … who is that somebody you would ask?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Witness:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">I cannot remember who I asked. There are too many matters. If there’s more money, there’s more money, it’s all in the passbook.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Low:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Sorry, can you repeat that, Mr Translator?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">…</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">&nbsp;</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Interpreter:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">‘If there’s more money, there’s more money; if there’s less money, there’s less money. It’s all in the passbook.’</p></td></tr></tbody></table>
+>   
+| 
+
+Witness:
+
+ | 
+
+When I am done reading, I tear them up, so no one else can read them.
+
+ |
+| 
+
+Court:
+
+ | 
+
+You can read the statements?
+
+ |
+| 
+
+Witness:
+
+ | 
+
+Yes, I can read them. If I don’t understand, I will write it somewhere else and ask someone what this means. And then I can remember.
+
+ |
+| 
+
+…
+
+ | 
+
+ |
+| 
+
+Q:
+
+ | 
+
+Now, … who is that somebody you would ask?
+
+ |
+| 
+
+Witness:
+
+ | 
+
+I cannot remember who I asked. There are too many matters. If there’s more money, there’s more money, it’s all in the passbook.
+
+ |
+| 
+
+Low:
+
+ | 
+
+Sorry, can you repeat that, Mr Translator?
+
+ |
+| 
+
+…
+
+ | 
+
+ |
+| 
+
+Interpreter:
+
+ | 
+
+‘If there’s more money, there’s more money; if there’s less money, there’s less money. It’s all in the passbook.’
+
+ |
 
   
   
 
 The second defendant was unable to recall her previous answers as the questioning continued. The next page in the transcript disclosed the following:[^12]
 
-<table align="left" cellpadding="0" cellspacing="0" class="Judg-2" frame="none" pgwide="1"><colgroup><col width="20.22%"> <col width="79.78%"> </colgroup><tbody><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Q:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Now you said if there’s more money, there’s more money; there’s less money, there’s less money. That’s what you said just now. Do you remember that, just 2, 3 minutes ago?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">A:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Why would I say that?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Court:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">You just said it.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">A:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">I don’t remember.</p></td></tr></tbody></table>
+>   
+| 
+
+Q:
+
+ | 
+
+Now you said if there’s more money, there’s more money; there’s less money, there’s less money. That’s what you said just now. Do you remember that, just 2, 3 minutes ago?
+
+ |
+| 
+
+A:
+
+ | 
+
+Why would I say that?
+
+ |
+| 
+
+Court:
+
+ | 
+
+You just said it.
+
+ |
+| 
+
+A:
+
+ | 
+
+I don’t remember.
+
+ |
 
   
   
 
 43     As highlighted by the plaintiff,[^13] a similar problem arose in respect of the second defendant’s testimony about her 2005 Will. At around 12pm, she testified:[^14]
 
-<table align="left" cellpadding="0" cellspacing="0" class="Judg-2" frame="none" pgwide="1"><colgroup><col width="22.82%"> <col width="77.18%"> </colgroup><tbody><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Q:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">… [D]o you recall making a will dated … 25th August 2005.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">A:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">I think I did. I can’t quite remember the date.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">…</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">&nbsp;</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Q:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Now [the will] has two pages [<em>ie</em>, pages 135 and 136 of the second defendant’s affidavit]. And if you flip to the second page, 136, it’s dated 25th August 2005.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Low:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">First, does she see that?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">A:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Yes, I see it.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Low:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Does she recognise the thumbprint that is there in the middle of the page?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">A:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">That’s my thumbprint.</p></td></tr></tbody></table>
+>   
+| 
+
+Q:
+
+ | 
+
+… \[D\]o you recall making a will dated … 25th August 2005.
+
+ |
+| 
+
+A:
+
+ | 
+
+I think I did. I can’t quite remember the date.
+
+ |
+| 
+
+…
+
+ | 
+
+ |
+| 
+
+Q:
+
+ | 
+
+Now \[the will\] has two pages \[_ie_, pages 135 and 136 of the second defendant’s affidavit\]. And if you flip to the second page, 136, it’s dated 25th August 2005.
+
+ |
+| 
+
+Low:
+
+ | 
+
+First, does she see that?
+
+ |
+| 
+
+A:
+
+ | 
+
+Yes, I see it.
+
+ |
+| 
+
+Low:
+
+ | 
+
+Does she recognise the thumbprint that is there in the middle of the page?
+
+ |
+| 
+
+A:
+
+ | 
+
+That’s my thumbprint.
+
+ |
 
   
   
 
 However, the second defendant was not able to recall this exchange at around 2.40pm:[^15]
 
-Q:Now in relation to your will that was dated August 2005, do you remember us discussing that earlier this morning?
+> Q:Now in relation to your will that was dated August 2005, do you remember us discussing that earlier this morning?
 
-A:I can’t quite remember.
+> A:I can’t quite remember.
 
-…
+> …
 
-Q:… Do you recall, looking at page 135 and 136 this morning?
+> Q:… Do you recall, looking at page 135 and 136 this morning?
 
-A:I can’t remember.
+> A:I can’t remember.
 
 44     Applying _Re BKR_ at \[154\] (see above at \[30\]) and assessing the second defendant’s performance in court, I could not find based on the above and other similar exchanges that she was able to follow the proceedings, understand what was asked of her and absorb the information provided to her. The quality of her memory also demonstrated that she was unable to recall important details. It was apparent that, at the very least, she had to be reminded several times of the quality of the information that was before her or that came from her before she was able to give relevant evidence, if at all.
 
@@ -208,14 +391,235 @@ A:I can’t remember.
 
 46     Moreover, the second defendant demonstrated that she was unable to follow the questions asked of her in court and would occasionally digress from the line of questioning that was being pursued:[^21]
 
-<table align="left" cellpadding="0" cellspacing="0" class="Judg-2" frame="none" pgwide="1"><colgroup><col width="35.92%"> <col width="64.08%"> </colgroup><tbody><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Q:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">… Do you remember going to another lawyer’s office to make another will in June or July 2016?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Court:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">What did she want to say, Mr Interpreter?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Interpreter:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">She’s saying are they asking about taking her on a holiday.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Court:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">… Alright. So the question is do you remember going to another lawyer’s office?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Witness:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">When they tell me to go, I would go, I’m illiterate.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Court:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">No, the question is do you remember going to a lawyer’s office?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Witness:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">They said they will do something for me. So that’s all. When they asked me to go, I just go.</p></td></tr></tbody></table>
+>   
+| 
+
+Q:
+
+ | 
+
+… Do you remember going to another lawyer’s office to make another will in June or July 2016?
+
+ |
+| 
+
+Court:
+
+ | 
+
+What did she want to say, Mr Interpreter?
+
+ |
+| 
+
+Interpreter:
+
+ | 
+
+She’s saying are they asking about taking her on a holiday.
+
+ |
+| 
+
+Court:
+
+ | 
+
+… Alright. So the question is do you remember going to another lawyer’s office?
+
+ |
+| 
+
+Witness:
+
+ | 
+
+When they tell me to go, I would go, I’m illiterate.
+
+ |
+| 
+
+Court:
+
+ | 
+
+No, the question is do you remember going to a lawyer’s office?
+
+ |
+| 
+
+Witness:
+
+ | 
+
+They said they will do something for me. So that’s all. When they asked me to go, I just go.
+
+ |
 
   
   
 
 Later on, she was unable to cogently answer questions that I posed to her regarding the making of her affidavits:[^22]
 
-<table align="left" cellpadding="0" cellspacing="0" class="Judg-2" frame="none" pgwide="1"><colgroup><col width="35.92%"> <col width="64.08%"> </colgroup><tbody><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Court:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">… [W]hat did you tell [your lawyers] to write [in your affidavit]?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Witness:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">I told them to write that we should help others in need. That’s all I said, I didn’t say anything else.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">…</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">&nbsp;</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Witness:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">We are poor, so we have to work hard.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Court:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">… [D]o you know what documents you signed … in relation to your property or your jewellery or your bank account?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Witness:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">No, I said that when I take out in future, it’s not a lot. Some I will give to my daughters, some I will give to my daughters-in-law, and that’s it. I told them if you want take it, or leave it. I put it in a red packet.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Court:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">… [T]hat’s not my question. My question is, do you know what was the purpose of all the documents you signed?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Witness:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">To help others.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Court:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">What do these documents have to do with helping others?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Witness:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">I have been through difficult times.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Court:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">… Repeat back to me what was my question?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Witness:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">I don’t remember.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Court:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">My question is what was the purpose of the legal documents you signed?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Witness:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">It’s to help others, feed others.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Court:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">The purpose of the legal documents was to help feed others, is that what you are saying?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Witness:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Yes.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">…</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">&nbsp;</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Witness:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Cook some porridge and feed them and then I would starve.</p></td></tr></tbody></table>
+>   
+| 
+
+Court:
+
+ | 
+
+… \[W\]hat did you tell \[your lawyers\] to write \[in your affidavit\]?
+
+ |
+| 
+
+Witness:
+
+ | 
+
+I told them to write that we should help others in need. That’s all I said, I didn’t say anything else.
+
+ |
+| 
+
+…
+
+ | 
+
+ |
+| 
+
+Witness:
+
+ | 
+
+We are poor, so we have to work hard.
+
+ |
+| 
+
+Court:
+
+ | 
+
+… \[D\]o you know what documents you signed … in relation to your property or your jewellery or your bank account?
+
+ |
+| 
+
+Witness:
+
+ | 
+
+No, I said that when I take out in future, it’s not a lot. Some I will give to my daughters, some I will give to my daughters-in-law, and that’s it. I told them if you want take it, or leave it. I put it in a red packet.
+
+ |
+| 
+
+Court:
+
+ | 
+
+… \[T\]hat’s not my question. My question is, do you know what was the purpose of all the documents you signed?
+
+ |
+| 
+
+Witness:
+
+ | 
+
+To help others.
+
+ |
+| 
+
+Court:
+
+ | 
+
+What do these documents have to do with helping others?
+
+ |
+| 
+
+Witness:
+
+ | 
+
+I have been through difficult times.
+
+ |
+| 
+
+Court:
+
+ | 
+
+… Repeat back to me what was my question?
+
+ |
+| 
+
+Witness:
+
+ | 
+
+I don’t remember.
+
+ |
+| 
+
+Court:
+
+ | 
+
+My question is what was the purpose of the legal documents you signed?
+
+ |
+| 
+
+Witness:
+
+ | 
+
+It’s to help others, feed others.
+
+ |
+| 
+
+Court:
+
+ | 
+
+The purpose of the legal documents was to help feed others, is that what you are saying?
+
+ |
+| 
+
+Witness:
+
+ | 
+
+Yes.
+
+ |
+| 
+
+…
+
+ | 
+
+ |
+| 
+
+Witness:
+
+ | 
+
+Cook some porridge and feed them and then I would starve.
+
+ |
 
   
   
@@ -238,15 +642,15 @@ Later on, she was unable to cogently answer questions that I posed to her regard
 
 52     Prof Kua explained that the FAB and CLOX clock-drawing tests assessed the second defendant’s “executive control” and “executive function”.[^25] I adopted the Court of Appeal’s explanation of these concepts in _Re BKR_ at \[139\] and \[140\]:
 
-… Executive function refers to a relatively diverse constellation of skills and behaviours “all of which are involved, to some extent, in the maintenance of goal-directed behaviours”. A non-exhaustive list of the skills and behaviours considered to be part of executive function includes: (a) volition, which is the “process of ascertaining one’s needs or wants and forming a plan to achieve those goals”, (b) inhibition and impulse control, (c) planning and organising, which is the ability to “think prospectively, to conceive of the various available options, and to make decisions based on those options”, and (d) abstraction, which is “the ability to think in terms of concepts or generalizations as well as the ability to think about people, events, or situations of the past, future, or imagined”.
+> … Executive function refers to a relatively diverse constellation of skills and behaviours “all of which are involved, to some extent, in the maintenance of goal-directed behaviours”. A non-exhaustive list of the skills and behaviours considered to be part of executive function includes: (a) volition, which is the “process of ascertaining one’s needs or wants and forming a plan to achieve those goals”, (b) inhibition and impulse control, (c) planning and organising, which is the ability to “think prospectively, to conceive of the various available options, and to make decisions based on those options”, and (d) abstraction, which is “the ability to think in terms of concepts or generalizations as well as the ability to think about people, events, or situations of the past, future, or imagined”.
 
-Executive function has also been defined as “a set of mental processes that helps connect past experience with present action”, which people use to perform activities such as “planning, organising, strategising, paying attention to details and remembering them and managing time and space”. It “involves the ability to think abstractly and to plan, initiate, sequence, monitor and stop complex behaviour”. It can be seen that executive function is a rather all-encompassing concept that collects within it various cognitive skills and abilities which might be quite dissimilar to one another. …
+> Executive function has also been defined as “a set of mental processes that helps connect past experience with present action”, which people use to perform activities such as “planning, organising, strategising, paying attention to details and remembering them and managing time and space”. It “involves the ability to think abstractly and to plan, initiate, sequence, monitor and stop complex behaviour”. It can be seen that executive function is a rather all-encompassing concept that collects within it various cognitive skills and abilities which might be quite dissimilar to one another. …
 
 53     As in _Re BKR_, the experts here did not refer to the component parts of executive function in their evidence.
 
 54     Moving to the tests, the MMSE test was as described in _Re BKR_ at \[141\]:
 
-This test consists of a number of questions and tasks, including the following: (a) P is asked to give the year, month, date and day of the week, with one point awarded for each correct answer; (b) three objects are mentioned for P to remember, _eg_, \[ball, flag and tree\] and P is asked to recall them a few minutes later, with one point awarded for each object correctly recalled; (c) starting from 100, P is asked to count backwards by subtracting 7 five times to get 93, 86, 79, 72 and 65, in what is called the “serial 7s” part of the test, with one point awarded for each correct subtraction; (d) P is asked to repeat the phrase \[“An apple a day keeps the doctor away”\], with one point awarded if successful; and (e) P is referred to a drawing of a pair of interlocking pentagons and asked to reproduce it, with one point awarded if done correctly. The maximum possible score is 30, …
+> This test consists of a number of questions and tasks, including the following: (a) P is asked to give the year, month, date and day of the week, with one point awarded for each correct answer; (b) three objects are mentioned for P to remember, _eg_, \[ball, flag and tree\] and P is asked to recall them a few minutes later, with one point awarded for each object correctly recalled; (c) starting from 100, P is asked to count backwards by subtracting 7 five times to get 93, 86, 79, 72 and 65, in what is called the “serial 7s” part of the test, with one point awarded for each correct subtraction; (d) P is asked to repeat the phrase \[“An apple a day keeps the doctor away”\], with one point awarded if successful; and (e) P is referred to a drawing of a pair of interlocking pentagons and asked to reproduce it, with one point awarded if done correctly. The maximum possible score is 30, …
 
 55     Prof Kua scored the second defendant as obtaining 14 out of 30 points.[^26] She had obtained scores of 27 and 15 in 2013 and 2015 respectively. Prof Kua noted that the 12-point drop from 2013 to 2015 was significant. For an elderly Chinese patient with low education, an MMSE score lower than 22 points indicates “cognitive impairment at an abnormal level”.[^27]
 
@@ -254,7 +658,7 @@ This test consists of a number of questions and tasks, including the following: 
 
 57     The CLOX clock-drawing test was as described in _Re BKR_ at \[144\]:
 
-… \[This test\] is said to test a fairly wide range of cognitive functions: executive function, comprehension, planning, visual memory, visuospatial abilities, motor programming and execution, numerical knowledge, abstract thinking, inhibition, concentration, and frustration tolerance. There are two components to the test … \[In\] CLOX 1, … P is given a blank sheet of paper and told to draw a clock with the hands pointing at a certain time stipulated by the tester. The clock is then scored according to a detailed and structured set of criteria, the maximum attainable score being 15.
+> … \[This test\] is said to test a fairly wide range of cognitive functions: executive function, comprehension, planning, visual memory, visuospatial abilities, motor programming and execution, numerical knowledge, abstract thinking, inhibition, concentration, and frustration tolerance. There are two components to the test … \[In\] CLOX 1, … P is given a blank sheet of paper and told to draw a clock with the hands pointing at a certain time stipulated by the tester. The clock is then scored according to a detailed and structured set of criteria, the maximum attainable score being 15.
 
 58     The second defendant obtained a score of 11 out of 15 points.[^30] She had previously scored 9 in 2015, indicating abnormality in her visuio-spatial and executive functions.[^31]
 
@@ -290,11 +694,11 @@ This test consists of a number of questions and tasks, including the following: 
 
 69     In summary:
 
-(a)     As noted by the plaintiff, both experts agreed that the second defendant suffered from dementia, but differed as to the severity of her dementia.[^44] This difference was not large: Prof Kua’s finding that the second defendant had mild-moderate dementia was just a shade beyond Dr Tang’s assessment that she had mild dementia.
+> (a)     As noted by the plaintiff, both experts agreed that the second defendant suffered from dementia, but differed as to the severity of her dementia.[^44] This difference was not large: Prof Kua’s finding that the second defendant had mild-moderate dementia was just a shade beyond Dr Tang’s assessment that she had mild dementia.
 
-(b)     Both experts found that the second defendant had capacity to make the 2016 LPA, but Prof Kua differed from Dr Tang in determining that she did not have capacity to make her 2016 Will.
+> (b)     Both experts found that the second defendant had capacity to make the 2016 LPA, but Prof Kua differed from Dr Tang in determining that she did not have capacity to make her 2016 Will.
 
-(c)     Finally, although Prof Tang found that the second defendant’s financial capacity is impaired, Dr Tang concluded that she had the capacity to decide on her personal welfare, property and affairs.
+> (c)     Finally, although Prof Tang found that the second defendant’s financial capacity is impaired, Dr Tang concluded that she had the capacity to decide on her personal welfare, property and affairs.
 
 70     I ultimately concluded that the medical evidence showed that the second defendant was at the very least impaired in her judgment and mental abilities. In reaching this view, I did not rely on the second defendant’s performance on the stand, so as to avoid begging the question. I generally preferred Prof Kua’s evidence and accepted his conclusion that the second defendant’s memory retention was mildly impaired and that she was unable to make judgments or solve problems, given his more detailed and granular assessment through the tests conducted. I also observe the following.
 
@@ -328,7 +732,118 @@ This test consists of a number of questions and tasks, including the following: 
 
 81     I found, however, that the evidence the defendants relied upon pointed against a finding that the second defendant executed the 2016 Will with full knowledge and capacity. She did not appear to recall the circumstances surrounding the execution of the Will when she was on the stand. Notably, she departed from her affidavit evidence as to why her 2005 Will had to be corrected:[^57]
 
-<table align="left" cellpadding="0" cellspacing="0" class="Judg-2" frame="none" pgwide="1"><colgroup><col width="33.3%"> <col width="66.7%"> </colgroup><tbody><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Q:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">… [In your affidavit,] you say why the will had to be corrected is because it needs two witnesses. Do you remember that?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">A:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Yes.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">…</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">&nbsp;</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Witness:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">So two witnesses, my younger brother. I didn’t think he would take their side. So I cried.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">…</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">&nbsp;</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Q:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">So because this will needed correction, do you remember what was the next step you took?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">A:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">I don’t remember. I was crying very frequently, so I don’t know.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Q:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">… You mentioned in [paragraph 18 of your affidavit] that [your Second Son] told you that he will arrange for you to go to Ah Sam’s office. Is this correct?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">A:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">No.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">…</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">&nbsp;</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">A:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Sam’s office, why would I go to his office?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Court:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Are you saying you did not go to Mr Sam’s office?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Witness:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Yes. Why would I go to his office?</p></td></tr></tbody></table>
+>   
+| 
+
+Q:
+
+ | 
+
+… \[In your affidavit,\] you say why the will had to be corrected is because it needs two witnesses. Do you remember that?
+
+ |
+| 
+
+A:
+
+ | 
+
+Yes.
+
+ |
+| 
+
+…
+
+ | 
+
+ |
+| 
+
+Witness:
+
+ | 
+
+So two witnesses, my younger brother. I didn’t think he would take their side. So I cried.
+
+ |
+| 
+
+…
+
+ | 
+
+ |
+| 
+
+Q:
+
+ | 
+
+So because this will needed correction, do you remember what was the next step you took?
+
+ |
+| 
+
+A:
+
+ | 
+
+I don’t remember. I was crying very frequently, so I don’t know.
+
+ |
+| 
+
+Q:
+
+ | 
+
+… You mentioned in \[paragraph 18 of your affidavit\] that \[your Second Son\] told you that he will arrange for you to go to Ah Sam’s office. Is this correct?
+
+ |
+| 
+
+A:
+
+ | 
+
+No.
+
+ |
+| 
+
+…
+
+ | 
+
+ |
+| 
+
+A:
+
+ | 
+
+Sam’s office, why would I go to his office?
+
+ |
+| 
+
+Court:
+
+ | 
+
+Are you saying you did not go to Mr Sam’s office?
+
+ |
+| 
+
+Witness:
+
+ | 
+
+Yes. Why would I go to his office?
+
+ |
 
   
   
@@ -357,9 +872,9 @@ This test consists of a number of questions and tasks, including the following: 
 
 90     The plaintiff relied on the doctrine of undue influence to support his case that the second defendant was incapable of making decisions for herself[^66] and to argue that the 2016 LPA and Will should be revoked and set aside respectively. Undue influence was made out as the two elements were present:
 
-(a)     First, there was presumed undue influence in the relationship between the defendants. The second defendant reposed trust and confidence in the first defendant, whom she had lived with from June 2016 onwards. The medical evidence further showed that there was dependency and vulnerability on her part. The first defendant also exercised dominion and control over her: he was her primary caregiver and would direct her as to what to do (_eg_, to affix her signature on documents she was asked to sign).[^67]
+> (a)     First, there was presumed undue influence in the relationship between the defendants. The second defendant reposed trust and confidence in the first defendant, whom she had lived with from June 2016 onwards. The medical evidence further showed that there was dependency and vulnerability on her part. The first defendant also exercised dominion and control over her: he was her primary caregiver and would direct her as to what to do (_eg_, to affix her signature on documents she was asked to sign).[^67]
 
-(b)     The second limb was made out by the actions undertaken by the second defendant which were made in circumstances that called for an explanation. These included the creation of documents which gave the first defendant benefits and control over the second defendant’s personal welfare, property and affairs, and instructions to lawyers to make demands of her younger sons.[^68]
+> (b)     The second limb was made out by the actions undertaken by the second defendant which were made in circumstances that called for an explanation. These included the creation of documents which gave the first defendant benefits and control over the second defendant’s personal welfare, property and affairs, and instructions to lawyers to make demands of her younger sons.[^68]
 
 The plaintiff also argued that the second defendant’s hostility on the stand towards her children and Daughter-in-Law showed that she had had been influenced by the first defendant.[^69] Nothing was raised which rebutted the presumption of undue influence.[^70] Undue influence was relevant as the second defendant’s mental impairment operated together with the fact that she could not realistically hope to obtain assistance in making decisions.[^71]
 
@@ -373,7 +888,16 @@ The plaintiff also argued that the second defendant’s hostility on the stand t
 
 95     I first consider the second defendant’s meeting with Mr Peh on 21 June 2016. The second defendant appeared to have just complied with what was asked of her, in terms of her attendance and her execution of the documents.[^74] The meeting was attended by the second defendant, her two brothers, the first defendant and his daughter.[^75] Notably, it was the first defendant who had contacted the second defendant’s brothers to attend the meeting to witness the signing of the 2016 LPA,[^76] and the second defendant’s Second Son’s wife who had arranged the meeting.[^77] There was nothing raised in the second defendant’s evidence about weighing the information and considering what had to be done. It was of concern that when asked if she knew that the 2016 Declaration of Intention was prepared by her lawyer for her to sign, she said:[^78]
 
-<table align="left" cellpadding="0" cellspacing="0" class="Judg-2" frame="none" pgwide="1"><colgroup><col width="28.06%"> <col width="71.94%"> </colgroup><tbody><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Witness:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">They told me to sign and said that, ‘Since my son said it, you just sign’, I don’t know what they were saying.</p></td></tr></tbody></table>
+>   
+| 
+
+Witness:
+
+ | 
+
+They told me to sign and said that, ‘Since my son said it, you just sign’, I don’t know what they were saying.
+
+ |
 
   
   

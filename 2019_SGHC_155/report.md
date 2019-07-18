@@ -21,15 +21,15 @@ Criminal Procedure and Sentencing – Joint trial
 
 2       Imran is a 49-year-old male Singaporean who was charged as follows:
 
-That you, 1. IMRAN BIN MOHD ARIP, on or before 8 February 2017, in Singapore, did abet the doing of a thing by engaging in a conspiracy with one Tamilselvam A/L Yagasvranan (FIN: \[GXXXXX57M\]) and one Pragas Krissamy (FIN: \[GXXXXX76P\]) to do a certain thing, namely, to traffic in a controlled drug listed in Class ‘A’ of the First Schedule to the Misuse of Drugs Act (Cap 185, 2008 Rev Ed) (“MDA”), _to wit_, two (2) packets containing 894.2 grams of granular/powdery substance which was found to contain **not less than 19.42 grams of diamorphine**, and in pursuance of that conspiracy and in order to the doing of that thing, on 8 February 2017, at or about 7.09 a.m., at the level 4 corridor of Block 518 Jurong West Street 52, Singapore, the said Pragas Krissamy and Tamilselvam A/L Yagasvranan did jointly deliver two (2) packets containing 894.2 grams of granular/powdery substance which was found to contain not less than 19.42 grams of diamorphine to you, without authorisation under the MDA or the Regulations made thereunder, and you have thereby committed an offence under section 5(1)(a) read with section 12 of the MDA punishable under section 33(1) of the MDA, and further upon your conviction, you may alternatively be liable to be punished under Section 33B of the MDA. \[emphasis in original\]
+> That you, 1. IMRAN BIN MOHD ARIP, on or before 8 February 2017, in Singapore, did abet the doing of a thing by engaging in a conspiracy with one Tamilselvam A/L Yagasvranan (FIN: \[GXXXXX57M\]) and one Pragas Krissamy (FIN: \[GXXXXX76P\]) to do a certain thing, namely, to traffic in a controlled drug listed in Class ‘A’ of the First Schedule to the Misuse of Drugs Act (Cap 185, 2008 Rev Ed) (“MDA”), _to wit_, two (2) packets containing 894.2 grams of granular/powdery substance which was found to contain **not less than 19.42 grams of diamorphine**, and in pursuance of that conspiracy and in order to the doing of that thing, on 8 February 2017, at or about 7.09 a.m., at the level 4 corridor of Block 518 Jurong West Street 52, Singapore, the said Pragas Krissamy and Tamilselvam A/L Yagasvranan did jointly deliver two (2) packets containing 894.2 grams of granular/powdery substance which was found to contain not less than 19.42 grams of diamorphine to you, without authorisation under the MDA or the Regulations made thereunder, and you have thereby committed an offence under section 5(1)(a) read with section 12 of the MDA punishable under section 33(1) of the MDA, and further upon your conviction, you may alternatively be liable to be punished under Section 33B of the MDA. \[emphasis in original\]
 
 3       Pragas is a 34-year-old male Malaysian national who was charged as follows:
 
-That you, 2. PRAGAS KRISSAMY, on 8 February 2017, at or about 7.09 a.m., at the level 4 corridor of Block 518 Jurong West Street 52, Singapore, together with one Tamilselvam A/L Yagasvranan (FIN: \[GXXXXX57M\]) and in furtherance of the common intention of you both, did traffic in a controlled drug listed in Class ‘A’ of the First Schedule to the Misuse of Drugs Act (Cap 185, 2008 Rev Ed) (“MDA”), _to wit_, by delivering two (2) packets containing not less than 894.2 grams of granular/powdery substance which was analysed and found to contain **not less than 19.42 grams of diamorphine**, to one Imran Bin Mohd Arip (NRIC No.: \[SXXXXX97B\])… without authorisation under the MDA or the Regulations made thereunder, and you have thereby committed an offence under section 5(1)(a) of the MDA read with section 34 of the Penal Code (Chapter 224, 2008 Rev Ed) punishable with section 33(1) of the MDA, and further upon your conviction, you may alternatively be liable to be punished under Section 33B of the MDA. \[emphasis in original\]
+> That you, 2. PRAGAS KRISSAMY, on 8 February 2017, at or about 7.09 a.m., at the level 4 corridor of Block 518 Jurong West Street 52, Singapore, together with one Tamilselvam A/L Yagasvranan (FIN: \[GXXXXX57M\]) and in furtherance of the common intention of you both, did traffic in a controlled drug listed in Class ‘A’ of the First Schedule to the Misuse of Drugs Act (Cap 185, 2008 Rev Ed) (“MDA”), _to wit_, by delivering two (2) packets containing not less than 894.2 grams of granular/powdery substance which was analysed and found to contain **not less than 19.42 grams of diamorphine**, to one Imran Bin Mohd Arip (NRIC No.: \[SXXXXX97B\])… without authorisation under the MDA or the Regulations made thereunder, and you have thereby committed an offence under section 5(1)(a) of the MDA read with section 34 of the Penal Code (Chapter 224, 2008 Rev Ed) punishable with section 33(1) of the MDA, and further upon your conviction, you may alternatively be liable to be punished under Section 33B of the MDA. \[emphasis in original\]
 
 4       Tamil is a 32-year-old male Malaysian national who was charged as follows:
 
-That you on 8 February 2017, at or about 7.09 a.m., at the level 4 corridor of Block 518 Jurong West Street 52, Singapore, together with one Pragas Krissamy (FIN: \[GXXXXX76P\]) and in furtherance of the common intention of you both, did traffic in a controlled drug listed in Class ‘A’ of the First Schedule to the Misuse of Drugs Act (Cap 185, 2008 Rev Ed) (“MDA”), _to wit_, by delivering two (2) packets containing not less than 894.2 grams of granular/powdery substance which was analysed and found to contain **not less than 19.42 grams of diamorphine**, to one Imran Bin Mohd Arip (NRIC No.: \[SXXXXX97B\]) without authorisation under the MDA or the Regulations made thereunder, and you have thereby committed an offence under section 5(1)(a) of the MDA read with section 34 of the Penal Code (Chapter 224, 2008 Rev Ed) and punishable under section 33(1) of the MDA, and further upon your conviction, you may alternatively be liable to be punished under Section 33B of the MDA. \[emphasis in original\]
+> That you on 8 February 2017, at or about 7.09 a.m., at the level 4 corridor of Block 518 Jurong West Street 52, Singapore, together with one Pragas Krissamy (FIN: \[GXXXXX76P\]) and in furtherance of the common intention of you both, did traffic in a controlled drug listed in Class ‘A’ of the First Schedule to the Misuse of Drugs Act (Cap 185, 2008 Rev Ed) (“MDA”), _to wit_, by delivering two (2) packets containing not less than 894.2 grams of granular/powdery substance which was analysed and found to contain **not less than 19.42 grams of diamorphine**, to one Imran Bin Mohd Arip (NRIC No.: \[SXXXXX97B\]) without authorisation under the MDA or the Regulations made thereunder, and you have thereby committed an offence under section 5(1)(a) of the MDA read with section 34 of the Penal Code (Chapter 224, 2008 Rev Ed) and punishable under section 33(1) of the MDA, and further upon your conviction, you may alternatively be liable to be punished under Section 33B of the MDA. \[emphasis in original\]
 
 5       The Prosecution, with the agreement of defence counsel, applied for a joint trial under s 143(_g_) of the Criminal Procedure Code (Cap 68, 2012 Rev Ed) (“CPC”) and I so ordered.[^1]
 
@@ -59,57 +59,57 @@ That you on 8 February 2017, at or about 7.09 a.m., at the level 4 corridor of B
 
 16     Section 5(1)(_a_) of the MDA formed the basis of the charges against Imran, Pragas and Tamil. Section 5(1)(_a_) reads as follows:
 
-**5.**—(1)    Except as authorised by this Act, it shall be an offence for a person, on his own behalf or on behalf of any other person, whether or not that other person is in Singapore —
+> **5.**—(1)    Except as authorised by this Act, it shall be an offence for a person, on his own behalf or on behalf of any other person, whether or not that other person is in Singapore —
 
-(_a_)    to traffic in a controlled drug;
+>> (_a_)    to traffic in a controlled drug;
 
-…
+> …
 
 17     The act of trafficking is, in turn, defined under s 2 of the MDA:
 
-“traffic” means —
+> “traffic” means —
 
-(_a_)    to sell, give, administer, transport, send, deliver or distribute; or
+>> (_a_)    to sell, give, administer, transport, send, deliver or distribute; or
 
-(_b_)    to offer to do anything mentioned in paragraph (a),
+>> (_b_)    to offer to do anything mentioned in paragraph (a),
 
-otherwise than under the authority of this Act, and “trafficking” has a corresponding meaning;
+> otherwise than under the authority of this Act, and “trafficking” has a corresponding meaning;
 
 The specific mode of trafficking Pragas and Tamil were alleged to have effected was that of delivery to Imran.
 
 18     Imran was charged with abetment by conspiracy, under s 12 of the MDA. Section 12 of the MDA provides:
 
-**Abetments and attempts punishable as offences**
+> **Abetments and attempts punishable as offences**
 
-**12**.    Any person who abets the commission of or who attempts to commit or does any act preparatory to, or in furtherance of, the commission of any offence under this Act shall be guilty of that offence and shall be liable on conviction to the punishment provided for that offence.
+> **12**.    Any person who abets the commission of or who attempts to commit or does any act preparatory to, or in furtherance of, the commission of any offence under this Act shall be guilty of that offence and shall be liable on conviction to the punishment provided for that offence.
 
 19     Imran was the recipient of the delivery. A recipient of such a delivery may be charged with abetment of trafficking if his intention, either presumed or proved, is that of onward distribution: see _Ng Yang Sek v Public Prosecutor_ <span class="citation">\[1997\] 2 SLR(R) 816</span>, _Liew Zheng Yang v Public Prosecutor_ <span class="citation">\[2017\] 5 SLR 611</span>, and _Ali bin Mohamad Bahashwan v Public Prosecutor and other appeals_ <span class="citation">\[2018\] 1 SLR 610</span> (“_Ali_”). No defence of consumption or any other defence negativing onward distribution was advanced by Imran.
 
 20     The mode of abetment Imran was charged with in this case is that of conspiracy. For an offence for abetment by conspiracy to traffic drugs, the guidance of the Court of Appeal in _Ali_ at \[34\] and \[75\] is that three elements must be satisfied:
 
-(a)     the abettor must have intended to be party to an agreement to do an unlawful act;
+> (a)     the abettor must have intended to be party to an agreement to do an unlawful act;
 
-(b)     the abettor must have known the general purpose of the common design, and the fact that the act agreed to be committed is unlawful; and
+> (b)     the abettor must have known the general purpose of the common design, and the fact that the act agreed to be committed is unlawful; and
 
-(c)     the abettor’s purpose in taking delivery must be for the onward distribution of the drugs, and not for his own consumption.
+> (c)     the abettor’s purpose in taking delivery must be for the onward distribution of the drugs, and not for his own consumption.
 
 21     Pragas and Tamil, on the other hand, were charged with having the common intention to traffic pursuant to s 5(1)(_a_) of the MDA read with s 34 of the Penal Code. Section 34 reads as follows:
 
-**Each of several persons liable for an act done by all, in like manner as if done by him alone**
+> **Each of several persons liable for an act done by all, in like manner as if done by him alone**
 
-**34**.    When a criminal act is done by several persons, in furtherance of the common intention of all, each of such persons is liable for that act in the same manner as if the act were done by him alone.
+> **34**.    When a criminal act is done by several persons, in furtherance of the common intention of all, each of such persons is liable for that act in the same manner as if the act were done by him alone.
 
 22     Under s 34 of the Penal Code, constructive liability is imputed to a secondary offender in relation to an offence arising from a criminal act committed by the actual doer in furtherance of the common intention shared by the actual doer and the secondary offender (see _Muhammad Ridzuan bin Md Ali v Public Prosecutor and other matters_ <span class="citation">\[2014\] 3 SLR 721</span> (“_Ridzuan_”) at \[27\]; _Daniel Vijay s/o Katherasan and others v Public Prosecutor_ <span class="citation">\[2010\] 4 SLR 1119</span> (“_Daniel Vijay_”) at \[76\]). Three elements must be present before constructive liability can be imposed pursuant to s 34 of the Penal Code:
 
-(a)     the criminal act element: this concerns the aggregate of all the diverse acts done by the actual doer and secondary offenders which collectively give rise to the offence that they have been charged with;
+> (a)     the criminal act element: this concerns the aggregate of all the diverse acts done by the actual doer and secondary offenders which collectively give rise to the offence that they have been charged with;
 
-(b)     the common intention element: this focuses on the common intention of the offenders to do something or achieve some goal or purpose; and
+> (b)     the common intention element: this focuses on the common intention of the offenders to do something or achieve some goal or purpose; and
 
-(c)     the participation element: this requires a secondary offender to participate in the specific criminal act committed by the actual doer which gives rise to the offence charged or participate in some other criminal act that is done in furtherance of the common intention of all the offenders.
+> (c)     the participation element: this requires a secondary offender to participate in the specific criminal act committed by the actual doer which gives rise to the offence charged or participate in some other criminal act that is done in furtherance of the common intention of all the offenders.
 
 23     The Court of Appeal was of the view in _Ridzuan_ (at \[29\]) that once constructive liability against an accused has been established, there is no further need to additionally establish the elements for the charge of trafficking. It approved the stance taken in _Foong Siew Ngui v Public Prosecutor_ <span class="citation">\[1995\] 3 SLR(R) 254</span> at \[62\]:
 
-… the actual offence constituted by the criminal act was possession of the drugs for the purpose of trafficking and the persons who committed the criminal act were Foong and Lim… and s 34 was invoked to render Tan liable for that criminal act. _If s 34 applies in this case, as we think it does, it does not matter whether Tan had possession of the drugs at the material time._ \[emphasis in original\]
+> … the actual offence constituted by the criminal act was possession of the drugs for the purpose of trafficking and the persons who committed the criminal act were Foong and Lim… and s 34 was invoked to render Tan liable for that criminal act. _If s 34 applies in this case, as we think it does, it does not matter whether Tan had possession of the drugs at the material time._ \[emphasis in original\]
 
 24     In the Court of Appeal’s view, an alternative analysis based on whether the elements of the offence of trafficking had been made out under s 5(1)(_a_) read with s 5(2) of the MDA could also be completed out of an abundance of caution: see _Ridzuan_ at \[30\]–\[31\].
 
@@ -129,13 +129,13 @@ The specific mode of trafficking Pragas and Tamil were alleged to have effected 
 
 29     Imran’s basis for his allegation of threat, inducement or promise was that on the morning of 8 February 2017, when the CNB officers were raiding the Unit, he heard a CNB officer tell his colleague in English the following statement, which I refer to in these grounds as “the Disputed Statement”: [^13]
 
-If he admits, there’s a good chance for him. If he does not admit, bring back his parents to the station.
+> If he admits, there’s a good chance for him. If he does not admit, bring back his parents to the station.
 
 Imran understood the Disputed Statement to mean that he had to provide, in his words, a “simple account” of the events in relation to the transaction between Pragas, Tamil and himself, in order to ease the job of the CNB officers and if he did, they would secure a lighter sentence for him.[^14] It was this Disputed Statement that induced him to lie in the first six of his seven statements given in the course of 8–14 February 2017.[^15]
 
 30     Section 258(3) of the CPC states:
 
-The court shall refuse to admit the statement of an accused or allow it to be used in the manner referred to in subsection (1) if the making of the statement appears to the court to have been caused by any inducement, threat or promise having reference to the charge against the accused, proceeding from a person in authority and sufficient, in the opinion of the court, to give the accused grounds which would appear to him reasonable for supposing that by making the statement he would gain any advantage or avoid any evil of a temporal nature in reference to the proceedings against him.
+> The court shall refuse to admit the statement of an accused or allow it to be used in the manner referred to in subsection (1) if the making of the statement appears to the court to have been caused by any inducement, threat or promise having reference to the charge against the accused, proceeding from a person in authority and sufficient, in the opinion of the court, to give the accused grounds which would appear to him reasonable for supposing that by making the statement he would gain any advantage or avoid any evil of a temporal nature in reference to the proceedings against him.
 
 31     Section 258(3) comprises two limbs: an objective limb requiring that there was in fact, a threat, inducement or promise; and a subjective limb requiring that the threat, inducement or promise operated on the mind of the accused through hope of escape or fear of punishment connected with the charge (see _Chai Chien Wei Kelvin v Public Prosecutor_ <span class="citation">\[1998\] 3 SLR(R) 619</span> at \[53\]; _Ismail bin Abdul Rahman v Public Prosecutor_ <span class="citation">\[2004\] 2 SLR(R) 74</span> (“_Ismail_”) at \[36\]).
 
@@ -159,17 +159,17 @@ The court shall refuse to admit the statement of an accused or allow it to be us
 
 39     Imran’s statements, which alluded to prior transactions, were also clear about the delivery:
 
-(a)     In his first statement (first contemporaneous statement) recorded on 8 February 2017 at 11.49am, where he was queried on various different packets of drugs found in his apartment, Imran stated that the two bundles (C2A1A and C2B1A, the subject of the charges) contained heroin intended for sale, and that the source of the bundles was Tamil, to whom he paid $6,700 on 8 February 2017.[^18]
+> (a)     In his first statement (first contemporaneous statement) recorded on 8 February 2017 at 11.49am, where he was queried on various different packets of drugs found in his apartment, Imran stated that the two bundles (C2A1A and C2B1A, the subject of the charges) contained heroin intended for sale, and that the source of the bundles was Tamil, to whom he paid $6,700 on 8 February 2017.[^18]
 
-(b)     In his third statement (first investigative statement) recorded on 10 February 2017 at 11.05am, Imran stated that he had met up with Tamil and Pragas approximately ten minutes before the CNB arrested him on 8 February 2017. He stated that Tamil and Pragas were supposed to deliver two pounds of heroin to him for $6,700, and that after he met Tamil and Pragas, he returned to his house and confirmed that there were two big bundles of heroin contained in the white plastic bag that he was handed. He then transferred the two bundles to a black plastic bag and placed it on the top shelf of his storeroom. He mentioned that when they spoke, he and Tamil would refer to heroin as cigarettes, in order to avoid detection from the CNB.[^19]
+> (b)     In his third statement (first investigative statement) recorded on 10 February 2017 at 11.05am, Imran stated that he had met up with Tamil and Pragas approximately ten minutes before the CNB arrested him on 8 February 2017. He stated that Tamil and Pragas were supposed to deliver two pounds of heroin to him for $6,700, and that after he met Tamil and Pragas, he returned to his house and confirmed that there were two big bundles of heroin contained in the white plastic bag that he was handed. He then transferred the two bundles to a black plastic bag and placed it on the top shelf of his storeroom. He mentioned that when they spoke, he and Tamil would refer to heroin as cigarettes, in order to avoid detection from the CNB.[^19]
 
-(c)     Contrary to Pragas’s and Tamil’s narrative of prior deliveries of cigarettes to Imran, Imran’s fourth statement (second investigative statement) recorded on 10 February 2017 at 3.10pm detailed a prior delivery of a pound of heroin, either on 2 February 2017 or 3 February 2017. The contents were in the green and white plastic bag marked C1 found on the top-shelf of his storeroom.[^20]
+> (c)     Contrary to Pragas’s and Tamil’s narrative of prior deliveries of cigarettes to Imran, Imran’s fourth statement (second investigative statement) recorded on 10 February 2017 at 3.10pm detailed a prior delivery of a pound of heroin, either on 2 February 2017 or 3 February 2017. The contents were in the green and white plastic bag marked C1 found on the top-shelf of his storeroom.[^20]
 
-(d)     In his fifth statement (third investigative statement) recorded on 11 February 2017 at 11.30am, Imran stated that he had known Tamil since 2015, when they worked together at a company called Totel Oil Asia. He confirmed that the sum of $6,700 was meant as payment to Tamil for two pounds of heroin. He also stated that he had been purchasing heroin from Tamil once a week from sometime in September 2016, save from December 2016 to end-January 2019. Each time, Imran would hand the money to Tamil, and Pragas would subsequently deliver the heroin.[^21]
+> (d)     In his fifth statement (third investigative statement) recorded on 11 February 2017 at 11.30am, Imran stated that he had known Tamil since 2015, when they worked together at a company called Totel Oil Asia. He confirmed that the sum of $6,700 was meant as payment to Tamil for two pounds of heroin. He also stated that he had been purchasing heroin from Tamil once a week from sometime in September 2016, save from December 2016 to end-January 2019. Each time, Imran would hand the money to Tamil, and Pragas would subsequently deliver the heroin.[^21]
 
-(e)     Imran’s sixth statement (fourth investigative statement) recorded on 14 February 2017 at 4.00pm contradicted the contention of Pragas and Tamil that their plan was to deliver cigarettes and that Imran had agreed to loan Tamil $6,700. Imran said that he had never lent any money to Tamil or Pragas, nor had they asked to borrow money from him. He also stated that neither Tamil nor Pragas had previously delivered cigarettes to him at his house or at his lift lobby; Imran had only purchased cigarettes from Tamil when they were still working together.[^22]
+> (e)     Imran’s sixth statement (fourth investigative statement) recorded on 14 February 2017 at 4.00pm contradicted the contention of Pragas and Tamil that their plan was to deliver cigarettes and that Imran had agreed to loan Tamil $6,700. Imran said that he had never lent any money to Tamil or Pragas, nor had they asked to borrow money from him. He also stated that neither Tamil nor Pragas had previously delivered cigarettes to him at his house or at his lift lobby; Imran had only purchased cigarettes from Tamil when they were still working together.[^22]
 
-(f)     Similarly, his seventh statement recorded on 18 December 2017, which he maintained as accurate at trial, did not dispute the fact that two pounds of heroin were delivered to him.[^23] His defence was aimed at _mens rea_ – his evidence was that he thought the bag contained only one pound of heroin and not two.
+> (f)     Similarly, his seventh statement recorded on 18 December 2017, which he maintained as accurate at trial, did not dispute the fact that two pounds of heroin were delivered to him.[^23] His defence was aimed at _mens rea_ – his evidence was that he thought the bag contained only one pound of heroin and not two.
 
 40     The investigation scene showed no trace of the two cartons of cigarettes, one of Marlboro Light and another of Gudang Garam, which Pragas and Tamil contended they handed over. This was despite a thorough and lengthy search completed by the officers that morning. Only eight packets of duty-unpaid Malboro Red were recovered from the Unit.
 
@@ -185,7 +185,7 @@ The court shall refuse to admit the statement of an accused or allow it to be us
 
 45     On a charge of conspiracy, it is sufficient to “show that the words and actions of the parties indicate their concert in the pursuit of a common object or design, giving rise to the inference that their actions must have been co-ordinated by arrangement beforehand” (see _Public Prosecutor v Yeo Choon Poh_ <span class="citation">\[1993\] 3 SLR(R) 302</span> (“_Yeo Choon Poh_”) at \[20\]). There is no requirement that each member of a criminal conspiracy must have had direct contact with each other. As the Court of Appeal stated in _Yeo Choon Poh_ at \[19\], affirming the words of Whitton J in _R v Chew Chong Jin_ <span class="citation">\[1956\] MLJ 185</span> at 186:
 
-Again it is clear that there need not be communication between each conspirator and every other, provided that there be a common design common to each of them all: _R v Meyrick & Ribuffi_ 21 Cr App R 94.
+> Again it is clear that there need not be communication between each conspirator and every other, provided that there be a common design common to each of them all: _R v Meyrick & Ribuffi_ 21 Cr App R 94.
 
 46     It was thus unnecessary for Pragas and Imran to have had direct contact with each other; all that is required is that they shared a common design. The facts make clear that Imran communicated with Tamil to arrange for the delivery of heroin;[^30] and Tamil then secured Pragas to assist in the delivery. The plan came to fruition on 8 February 2017. Tamil’s caution in meeting Imran first and ascertaining payment before calling Pragas was a clear demonstration of the conspiracy, which was successfully carried out.
 
@@ -199,19 +199,19 @@ Again it is clear that there need not be communication between each conspirator 
 
 50     Second, Imran’s defence that he intended to traffic in only one pound of heroin could not withstand cross-examination. Acceptance of Imran’s version of events at trial would require acceptance that Imran could not tell the difference in weight between one and two pounds of heroin. The difference in weight should have been apparent to Imran – and indeed was, as I shall explain – the moment Pragas handed him the white plastic bag, in light of the fact that Imran was familiar with receiving and dealing drugs. When pressed, he conceded during cross-examination that he took the bag despite being able to feel the difference in the weight. The relevant part of the transcript is as follows:[^36]
 
-Q:So don’t you agree, Mr Imran, when you take over the plastic bag, you will immediately know that this weighs twice the normal weight that you normally collect from Pragas or Tamil?
+> Q:So don’t you agree, Mr Imran, when you take over the plastic bag, you will immediately know that this weighs twice the normal weight that you normally collect from Pragas or Tamil?
 
-A:I did not realise that because at that time I was rushing. I took the bag and immediately went back to my house.
+> A:I did not realise that because at that time I was rushing. I took the bag and immediately went back to my house.
 
-Q:But when you take the bag, you would feel the weight, correct? You carry in your hands.
+> Q:But when you take the bag, you would feel the weight, correct? You carry in your hands.
 
-A:I took the plastic bag. I went back home, I wanted to check---and Tamil and Pragas had already left. Once I took the plastic bag, they left.
+> A:I took the plastic bag. I went back home, I wanted to check---and Tamil and Pragas had already left. Once I took the plastic bag, they left.
 
-Q:No. Mr Imran, my point is, the moment you carry the plastic bag and you take it over from Pragas, you would have known this is twice the weight as compared to what you normally received.
+> Q:No. Mr Imran, my point is, the moment you carry the plastic bag and you take it over from Pragas, you would have known this is twice the weight as compared to what you normally received.
 
-A: _I could feel the difference but they had already left. So I went back home and I checked the plastic bag._
+> A: _I could feel the difference but they had already left. So I went back home and I checked the plastic bag._
 
-\[Emphasis added in italics\]
+> \[Emphasis added in italics\]
 
 51     His excuse that, while he “could feel the difference”, “they had already left” was unconvincing, as his admission was that he could feel the difference _once the bag was in his hand_. He could have called Tamil and Pragas back to seek an explanation: when they left him, they were merely walking to the stairwell and down the stairs. Imran’s excuse must further be weighed against another piece of his own evidence, to the effect that there was a previous delivery just immediately before the 8 February 2017 delivery, either on 2 or 3 February 2017, where he had been given “four small bundles but what was promised were \[_sic_\] two small bundles”.[^37] If so, on 8 February, he ought to have been more cautious about the number of bundles he was given. This is a wholly different situation from past cases such as _Public Prosecutor v Muhammad Farid bin Mohd Yusop_ <span class="citation">\[2015\] 3 SLR 16</span> (“_Farid_”), where the accused had similarly alleged that he had entered into an agreement with his supplier to traffic in a non-capital quantity of drugs. There, at \[25\]–\[33\], the Court of Appeal accepted the accused’s assertion that he did not know he was carrying more than 250g of Ice. In reaching this decision, the court placed emphasis on the fact that there was no “inherent contradiction” between the accused’s statements and his defence, as well as the fact that the weight of Ice delivered on three prior occasions was 250g or less (see _Farid_ at \[28\] and \[32\]). In contrast, in this case, Imran has no basis for such sanguinity. Indeed, by Imran’s own admission, Tamil had previously delivered to him an excessive amount of heroin. This being the case, he must surely have been cognisant of the possibility of a misdelivery occurring yet again on 8 February 2017.
 
@@ -233,19 +233,19 @@ A: _I could feel the difference but they had already left. So I went back home a
 
 56     Imran’s statements were an integral part of the Prosecution’s case against Pragas. The use of such statements against a co-accused is governed by s 258 of the CPC, which reads in its material part as follows:
 
-When 2 or more persons are tried jointly in any of the following circumstances, and a confession made by one such person affecting that person and any other such person is proved, the court may take into consideration the confession as against the other person as well as against the person who made the confession:
+> When 2 or more persons are tried jointly in any of the following circumstances, and a confession made by one such person affecting that person and any other such person is proved, the court may take into consideration the confession as against the other person as well as against the person who made the confession:
 
-(_a_)     _all of those persons are tried jointly for the same offence_;
+>> (_a_)     _all of those persons are tried jointly for the same offence_;
 
-(_b_)     _the proof of the facts alleged in the charge for the offence for which one of those persons (A) is tried_ (excluding any fact relating to any intent or state of mind on the part of _A_ necessary to constitute the offence for which _A_ is tried) _would, for each of the rest of those persons, result in the proof of the facts alleged in the charge for the offence for which that person is tried_ (excluding any fact relating to any intent or state of mind on the part of that person necessary to constitute the offence for which that person is tried); …
+>> (_b_)     _the proof of the facts alleged in the charge for the offence for which one of those persons (A) is tried_ (excluding any fact relating to any intent or state of mind on the part of _A_ necessary to constitute the offence for which _A_ is tried) _would, for each of the rest of those persons, result in the proof of the facts alleged in the charge for the offence for which that person is tried_ (excluding any fact relating to any intent or state of mind on the part of that person necessary to constitute the offence for which that person is tried); …
 
-\[emphasis added in italics\]
+>> \[emphasis added in italics\]
 
 57     Section 258(5B) states that “offence” in s 258(5) includes an abetment of a conspiracy to commit the offence, making s 258(5) readily applicable to Imran’s confession as to his receipt of drugs.
 
 58     The court, however, may exercise its discretion to refuse to take into account a co-accused’s confession. Section 258(5A) of the CPC states:
 
-Despite subsection (5), the court may refuse to take into consideration a confession as against a person (other than the maker of the confession), _if the prejudicial effect of the confession on that person outweighs the probative value_ of the confession. \[emphasis added in italics\]
+> Despite subsection (5), the court may refuse to take into consideration a confession as against a person (other than the maker of the confession), _if the prejudicial effect of the confession on that person outweighs the probative value_ of the confession. \[emphasis added in italics\]
 
 59     In _Norasharee bin Gous v Public Prosecutor and another appeal and another matter_ \[2017\] 1 SLR 830 (“_Norasharee_”), the Court of Appeal gave guidance where a conviction was sought solely on the basis of a co-accused’s confession. _Norasharee_ was decided prior to the passing of the Criminal Justice Reform Act 2018 (No 19 of 2018) (“CJRA”), which added subsections (_a_) and (_b_) to s 258(5) of the CPC, as well as new subsections 258(5A) and 258(5B). In _Norasharee_, the question of Norasharee’s conviction turned on evidence given by his co-accused, Yazid, who claimed that he had been instructed by Norasharee to traffic in drugs (see _Norasharee_ at \[4\]). Norasharee, on the other hand, claimed that Yazid was trying to frame him as he possessed a personal vendetta against him due to a long-term gang rivalry. As the Court of Appeal noted, the case against Norasharee rested almost entirely on Yazid’s statement (see _Norasharee_ at \[53\]). In deciding that Norasharee’s guilt had indeed been proven beyond a reasonable doubt, the court stated at \[54\] that a conviction based solely on a co-accused’s confession could be sustained “provided that the evidence emanating from \[the co-accused’s\] confession satisfied the court beyond reasonable doubt of \[the accused’s\] guilt”.
 
@@ -265,11 +265,11 @@ Despite subsection (5), the court may refuse to take into consideration a confes
 
 66     From 9 February 2017, for his cautioned statements, Pragas maintained a narrative that he was there to deliver cigarettes. In particular:
 
-(a)     In his third statement (first cautioned statement) recorded on 9 February 2017 at about 3.57am, he denied delivering heroin to Imran, claiming that he had delivered cigarettes instead. He stated that he had not seen the contents of the bag, and that Tamil had told him that it contained cigarettes.[^41]
+> (a)     In his third statement (first cautioned statement) recorded on 9 February 2017 at about 3.57am, he denied delivering heroin to Imran, claiming that he had delivered cigarettes instead. He stated that he had not seen the contents of the bag, and that Tamil had told him that it contained cigarettes.[^41]
 
-(b)     In his fourth statement (first investigative statement) recorded on 10 February 2017 at about 11.03am, he claimed that on 7 February 2017, Tamil had enlisted his help to smuggle illegal cigarettes into Singapore, offering to reward him in Malaysian currency.[^42]
+> (b)     In his fourth statement (first investigative statement) recorded on 10 February 2017 at about 11.03am, he claimed that on 7 February 2017, Tamil had enlisted his help to smuggle illegal cigarettes into Singapore, offering to reward him in Malaysian currency.[^42]
 
-(c)     In his fifth statement (second investigative statement) recorded on 10 February 2017 at about 3.15pm, Pragas specified that Tamil had told him on 7 February 2017 that he needed assistance to deliver two cartons of cigarettes to a person in Singapore. He also disclosed that he received RM500 for the previous three occasions where he assisted Tamil with deliveries. Pragas stated that on the next day, 8 February 2017, he and Tamil had met a Malay man at a coffeeshop near Tuas Industrial Park. There, Pragas handed his backpack to the Malay man, who entered the toilet with it. Ten minutes later, the Malay man returned the backpack to Pragas. Pragas did not check the contents of the backpack.[^43] Subsequently, Pragas and Tamil made the delivery to Imran. Pragas said that during the delivery, when he took out a plastic bag and handed it to Imran, the weight of the plastic bag felt “normal” (a point reiterated in cross-examination where he stated that he did not feel any apparent difference in weight of the bag that day).
+> (c)     In his fifth statement (second investigative statement) recorded on 10 February 2017 at about 3.15pm, Pragas specified that Tamil had told him on 7 February 2017 that he needed assistance to deliver two cartons of cigarettes to a person in Singapore. He also disclosed that he received RM500 for the previous three occasions where he assisted Tamil with deliveries. Pragas stated that on the next day, 8 February 2017, he and Tamil had met a Malay man at a coffeeshop near Tuas Industrial Park. There, Pragas handed his backpack to the Malay man, who entered the toilet with it. Ten minutes later, the Malay man returned the backpack to Pragas. Pragas did not check the contents of the backpack.[^43] Subsequently, Pragas and Tamil made the delivery to Imran. Pragas said that during the delivery, when he took out a plastic bag and handed it to Imran, the weight of the plastic bag felt “normal” (a point reiterated in cross-examination where he stated that he did not feel any apparent difference in weight of the bag that day).
 
 67     A third nuance to his narrative was introduced when he was interviewed and examined by Dr Jerome Goh Hern Yee (“Dr Goh”), who assessed that Pragas was of sound mind through interviews on 22 February 2017, 28 February 2017 and 6 March 2017. Dr Goh stated that Pragas had told him he had seen the cigarettes in his bag on 8 February 2017.[^44] This stands in contrast to Pragas’s previous statements where he alleged that he had not directly seen the contents of his backpack. In court, Pragas returned to the version used in his third to seventh statements.
 
@@ -287,11 +287,11 @@ Despite subsection (5), the court may refuse to take into consideration a confes
 
 73     The Court of Appeal in _Adili_ set out, at \[51\] and \[83\], the elements of wilful blindness, which are the following:
 
-(a)     The accused must have had a clear, grounded and targeted suspicion of the fact to which he is said to have been wilfully blind;
+> (a)     The accused must have had a clear, grounded and targeted suspicion of the fact to which he is said to have been wilfully blind;
 
-(b)     There must have been reasonable means of inquiry available to the accused, which, if taken, would have led him to discovery of the truth; and
+> (b)     There must have been reasonable means of inquiry available to the accused, which, if taken, would have led him to discovery of the truth; and
 
-(c)     The accused must have deliberately refused to pursue the reasonable means of inquiry available so as to avoid such negative legal consequences as might arise in connection with his knowing that fact.
+> (c)     The accused must have deliberately refused to pursue the reasonable means of inquiry available so as to avoid such negative legal consequences as might arise in connection with his knowing that fact.
 
 In setting out these elements, the Court of Appeal stated at \[52\] that the concept of wilful blindness must be considered in the context of the accused person’s knowledge of a specific fact, whether that be knowledge as to the existence within his possession, custody or control, of the thing later found to be a drug, or knowledge of the nature of the drug. In particular, the second element might vary if the fact in question were knowledge of the nature of the drug. I deal with this in the context of the second element in the discussion below.
 
@@ -299,15 +299,15 @@ In setting out these elements, the Court of Appeal stated at \[52\] that the con
 
 75     In this context, and as mentioned above, the present case was heard prior to the release of the judgment in _Adili_, where the Court of Appeal stated that “it must be put to him that he had _in fact_ suspected the truth _of the particular material fact_ at _the material time_” (_Adili_ at \[90\], emphasis in original). Because the Prosecution relied on the case of _Nagaenthran_, a case that defined wilful blindness in the first sense, the question put to Pragas was that of actual knowledge:[^50]
 
-Q:And I put it to you that you were wilfully blind as to what the item was.
+> Q:And I put it to you that you were wilfully blind as to what the item was.
 
-A:All I know is it was cigarettes.
+> A:All I know is it was cigarettes.
 
-Q:And I put it to you the reason why you did not check was because you _knew_ the items were drugs.
+> Q:And I put it to you the reason why you did not check was because you _knew_ the items were drugs.
 
-AI disagree because I did not check because I thought that it was cigarettes.
+> AI disagree because I did not check because I thought that it was cigarettes.
 
-\[emphasis added\]
+> \[emphasis added\]
 
 I am of the view that the issue was sufficiently put to Pragas such that he appropriate notice that he had to explain why he did not check the parcel throughout the time period in which it remained in his care. His explanation, that he knew or thought it contained cigarettes, did not pass muster.
 
@@ -315,7 +315,7 @@ I am of the view that the issue was sufficiently put to Pragas such that he appr
 
 77     In this regard, the facts are quite different from _Adili_, where the drugs were hidden in the inner lining of a suitcase. In _Adili_, the Court of Appeal explained at \[62\] that when dealing (as this case is) with the element of knowledge, rather than possession, “it would generally not be sufficient for the accused person simply to say that he did not know what he was carrying, or worse, that he had been _indifferent_ to what he was carrying”. This was because, by this stage of the inquiry, the accused person has already been found to have been in possession of the thing that turns out to be a drug. Where his suspicions are sufficiently aroused but he nonetheless deliberately refused to check, the Court of Appeal formed a provisional view that such a person would likely to be found to be wilfully blind to the nature of the drug. The logic and good sense in this provisional view is illustrated by the facts of this case. Such an approach is also consistent with earlier Court of Appeal authority, _Tan Kiam Peng v Public Prosecutor_ <span class="citation">\[2008\] 1 SLR(R) 1</span>, which used wilful blindness in the second sense, the approach adopted in _Adili._ At \[129\], the Court of Appeal there stated as follows:
 
-… Nevertheless, one obvious situation is where the accused takes no steps whatsoever to investigate his or her suspicions. The court would naturally find that there was wilful blindness in such a situation. **Where, for example, an accused is given a wrapped package and is told that it contains counterfeit currency when it actually contains controlled drugs, we would have thought that, absent unusual circumstances, the accused should at least ask to** **_actually view_** **what is in the package.** \[emphasis in italics in original; emphasis added in bold\]
+> … Nevertheless, one obvious situation is where the accused takes no steps whatsoever to investigate his or her suspicions. The court would naturally find that there was wilful blindness in such a situation. **Where, for example, an accused is given a wrapped package and is told that it contains counterfeit currency when it actually contains controlled drugs, we would have thought that, absent unusual circumstances, the accused should at least ask to** **_actually view_** **what is in the package.** \[emphasis in italics in original; emphasis added in bold\]
 
 Similarly, in this case, Pragas knew the parcel was put in his backpack and chose not to check despite the many signs that alerted him to the nature of its contents.
 
@@ -325,7 +325,7 @@ Similarly, in this case, Pragas knew the parcel was put in his backpack and chos
 
 80     As for common intention, this may be inferred from the accused persons’ conduct and circumstances (see _Daniel Vijay_ at \[97\]). In the Indian Privy Council decision of _Mahbub Shah v Emperor_ AIR (32) 1945 PC 118, Sir Madhavan Nair, delivering the judgment of the Privy Council, stated as follows (at 120):
 
-… common intention within the meaning of the section implies a pre-arranged plan, and to convict the accused of an offence applying the section it should be proved that the criminal act was done in concert pursuant to the pre-arranged plan. As has been often observed, it is difficult if not impossible to procure direct evidence to prove the intention of an individual; in most cases it has to be inferred from his act or conduct or other relevant circumstances of the case.
+> … common intention within the meaning of the section implies a pre-arranged plan, and to convict the accused of an offence applying the section it should be proved that the criminal act was done in concert pursuant to the pre-arranged plan. As has been often observed, it is difficult if not impossible to procure direct evidence to prove the intention of an individual; in most cases it has to be inferred from his act or conduct or other relevant circumstances of the case.
 
 81     In the present case, I inferred from the manner in which the delivery took place that there was a plan for one. Pragas and Tamil effected a coordinated system where Tamil would first seek out Imran and ascertain payment. Pragas would thereafter be summoned to deliver the package. I found it incredible that the persons involved would go to such lengths to concoct an elaborate two-man delivery system simply to deliver two cartons of contraband cigarettes. Imran’s statements were, in addition, clear as to the purpose of their visit, which had been arranged in advance with Imran by Tamil and had been preceded by other similar deliveries. I was therefore satisfied that the delivery to Imran was pursuant to the common intention of Pragas and Tamil to jointly deliver the two bundles of heroin to Imran.
 
@@ -379,19 +379,19 @@ Similarly, in this case, Pragas knew the parcel was put in his backpack and chos
 
 98     Tamil’s first two contemporaneous statements were a denial:[^56]
 
-(a)     In his first statement (first contemporaneous statement) recorded on 8 February 2017 at about 10.40am, Tamil claimed that he had gone to visit Imran in order to borrow a sum of $7,000 dollars. According to Tamil, he had gone to meet Imran alone, but Pragas “also went up” to Imran’s lift lobby to meet Imran and Pragas. Tamil said that when he left, Pragas was still speaking to Imran. Tamil also said that he would sell cigarettes to Imran; their arrangement was for Tamil to borrow money from Imran first, before using that sum to purchase cigarettes for him from Malaysia. Typically, either Pragas or Tamil would bring in the contraband cigarettes from Malaysia.
+> (a)     In his first statement (first contemporaneous statement) recorded on 8 February 2017 at about 10.40am, Tamil claimed that he had gone to visit Imran in order to borrow a sum of $7,000 dollars. According to Tamil, he had gone to meet Imran alone, but Pragas “also went up” to Imran’s lift lobby to meet Imran and Pragas. Tamil said that when he left, Pragas was still speaking to Imran. Tamil also said that he would sell cigarettes to Imran; their arrangement was for Tamil to borrow money from Imran first, before using that sum to purchase cigarettes for him from Malaysia. Typically, either Pragas or Tamil would bring in the contraband cigarettes from Malaysia.
 
-(b)     In his second statement (second contemporaneous statement) recorded on 8 February 2017 at about 11.30am., Tamil was shown some pictures of seized exhibits recovered from Imran. Tamil claimed that he did not recognise them, and that he did not deliver anything to Imran that morning.
+> (b)     In his second statement (second contemporaneous statement) recorded on 8 February 2017 at about 11.30am., Tamil was shown some pictures of seized exhibits recovered from Imran. Tamil claimed that he did not recognise them, and that he did not deliver anything to Imran that morning.
 
 99     It was only from 9 February 2017, _the same date that Pragas started to advance his narrative about cigarette delivery_, that Tamil did the same:
 
-(a)     In his third statement (first cautioned statement) recorded on 9 February 2017 at about 4.10am, Tamil stated that he had known Imran for more than a year and that Imran would always purchase cigarettes from him. He claimed that Imran would usually order one or two cartons of cigarettes per week, and that he had met Imran to borrow money from him on the morning of 8 February 2017. He reiterated that when he left, Pragas and Imran were still speaking to each other. Tamil only realised that Pragas was following him a while later. Tamil reiterated that he did not deliver anything to Imran that morning.[^57]
+> (a)     In his third statement (first cautioned statement) recorded on 9 February 2017 at about 4.10am, Tamil stated that he had known Imran for more than a year and that Imran would always purchase cigarettes from him. He claimed that Imran would usually order one or two cartons of cigarettes per week, and that he had met Imran to borrow money from him on the morning of 8 February 2017. He reiterated that when he left, Pragas and Imran were still speaking to each other. Tamil only realised that Pragas was following him a while later. Tamil reiterated that he did not deliver anything to Imran that morning.[^57]
 
-(b)     In his fourth statement (first investigative statement) recorded on 12 February 2017 at about 2.20pm, Tamil claimed that he had met Imran while they were working at the same factory in Tuas, and that he had started to purchase cartons of cigarettes for Imran from Malaysia then. Over time, Imran only paid Tamil about $70 to $80 for a carton of cigarettes. Tamil would order between one to four cartons of cigarettes at a time. Their _modus operandi_ was for Tamil to deliver the cigarettes to Imran at his home, whereupon Imran would pay Tamil in cash.[^58]
+> (b)     In his fourth statement (first investigative statement) recorded on 12 February 2017 at about 2.20pm, Tamil claimed that he had met Imran while they were working at the same factory in Tuas, and that he had started to purchase cartons of cigarettes for Imran from Malaysia then. Over time, Imran only paid Tamil about $70 to $80 for a carton of cigarettes. Tamil would order between one to four cartons of cigarettes at a time. Their _modus operandi_ was for Tamil to deliver the cigarettes to Imran at his home, whereupon Imran would pay Tamil in cash.[^58]
 
-(c)     In his fifth statement (second investigative statement) recorded on 13 February 2017 at about 10.45am, Tamil stated he had introduced Pragas to Imran sometime in 2016, as he intended for Pragas to help him with the delivery of contraband cigarettes. Tamil claimed that he was only able to smuggle two cartons of cigarettes in his bag at a time, and that he required Pragas’s assistance to smuggle an additional two cartons. He also stated that he had previously instructed Imran to call Pragas directly to arrange for the delivery of cigarettes when he had personal matters to attend to. On 7 February 2017, Imran had offered to lend a sum of $6,700 to $6,800 to Tamil for the latter to purchase cigarette cartons. That same night, Pragas had called Tamil to inform him that he was delivering two cartons of cigarettes to Imran the next morning. On 8 February 2017, Tamil had met Imran at his lift lobby on the fourth storey, where he received a stack of money from Imran that was wrapped in a rubber band. When Tamil was about to leave, Pragas appeared. Tamil parted ways with Imran then, and did not notice what Pragas and Imran were doing. Afterwards, when Tamil was walking to his motorcycle, he noticed that Pragas was walking behind him.[^59]
+> (c)     In his fifth statement (second investigative statement) recorded on 13 February 2017 at about 10.45am, Tamil stated he had introduced Pragas to Imran sometime in 2016, as he intended for Pragas to help him with the delivery of contraband cigarettes. Tamil claimed that he was only able to smuggle two cartons of cigarettes in his bag at a time, and that he required Pragas’s assistance to smuggle an additional two cartons. He also stated that he had previously instructed Imran to call Pragas directly to arrange for the delivery of cigarettes when he had personal matters to attend to. On 7 February 2017, Imran had offered to lend a sum of $6,700 to $6,800 to Tamil for the latter to purchase cigarette cartons. That same night, Pragas had called Tamil to inform him that he was delivering two cartons of cigarettes to Imran the next morning. On 8 February 2017, Tamil had met Imran at his lift lobby on the fourth storey, where he received a stack of money from Imran that was wrapped in a rubber band. When Tamil was about to leave, Pragas appeared. Tamil parted ways with Imran then, and did not notice what Pragas and Imran were doing. Afterwards, when Tamil was walking to his motorcycle, he noticed that Pragas was walking behind him.[^59]
 
-(d)     In his sixth statement (third investigative statement) recorded on 14 February 2017 at about 10.45am, Tamil claimed that he had been helping his friend, “Prakash” who resided in Johor Bahru, to sell illegal cigarettes. On average, Tamil would purchase 100 cartons of cigarettes at a time, which would cost him RM15,000. Tamil stated that that was the reason he needed to borrow so much money from Imran. He claimed that he would borrow a sum of $4,000 to $7,000 from Imran once every two weeks to buy his stock of cigarettes. Tamil said that he did not have the handphone number of “Prakash” stored in any of his handphones that were seized from him. He also stressed that both Imran and Pragas did not know about the existence of “Prakash”.[^60]
+> (d)     In his sixth statement (third investigative statement) recorded on 14 February 2017 at about 10.45am, Tamil claimed that he had been helping his friend, “Prakash” who resided in Johor Bahru, to sell illegal cigarettes. On average, Tamil would purchase 100 cartons of cigarettes at a time, which would cost him RM15,000. Tamil stated that that was the reason he needed to borrow so much money from Imran. He claimed that he would borrow a sum of $4,000 to $7,000 from Imran once every two weeks to buy his stock of cigarettes. Tamil said that he did not have the handphone number of “Prakash” stored in any of his handphones that were seized from him. He also stressed that both Imran and Pragas did not know about the existence of “Prakash”.[^60]
 
 100    His changes of position may be summed up as follows. Tamil, in his first two statements on 8 February 2017, initially denied that he was involved in delivering any goods to Imran on 8 February 2017 and claimed ignorance of Pragas’s purpose in meeting Imran. From his third statement on 9 February 2017, he changed his account of events, stating that he had introduced Pragas and Imran to each other in order for Pragas to deliver cigarettes to Imran; he claimed that Pragas had informed him on 7 February 2017 that he would be delivering cigarettes to Imran on 8 February 2017. Tamil nevertheless insisted that he was not involved in any delivery of goods to Imran on 8 February 2017. Subsequently, at trial, Tamil changed his evidence yet again to align himself with Pragas. When he was brought through his statements by his counsel, he requested to make amendments to all six of them, in order to reflect that he and Pragas had, together, handed two cartons of cigarettes to Imran.[^61]
 
@@ -407,7 +407,7 @@ Similarly, in this case, Pragas knew the parcel was put in his backpack and chos
 
 105    The concept of deemed possession under s 18(4) of the MDA also applied to the issue of Tamil’s participation. This provision reads:
 
-Where one of 2 or more persons with the _knowledge and consent_ of the rest has any controlled drug in his possession, it shall be deemed to be in the possession of each and all of them. \[emphasis added in italics\]
+> Where one of 2 or more persons with the _knowledge and consent_ of the rest has any controlled drug in his possession, it shall be deemed to be in the possession of each and all of them. \[emphasis added in italics\]
 
 106    “Consent” was explained by the Court of Appeal in _Ridzuan_ at \[63\], as having “power or authority over the object in question” \[emphasis omitted\]. In _Ridzuan_, the court found that the accused had been instrumental in putting his co-accused in actual physical possession of the drugs; he had made the necessary arrangements for his co-accused to receive the drugs from their supplier (see \[65\] of _Ridzuan_). The element of consent, as well as knowledge, was thus readily satisfied. Similarly here, Tamil had orchestrated the sale of heroin to Imran and recruited Pragas to assist him. As Pragas had the heroin in his possession with the knowledge and consent of Tamil, Tamil would also be deemed to be in possession of the heroin. Tamil’s participation element would in that case be characterised as a delivery to Imran made jointly by Pragas and himself.
 

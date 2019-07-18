@@ -21,39 +21,39 @@ Criminal Procedure and Sentencing – Bail
 
 5       The prosecution submitted that as the applicant was charged with non-bailable offences, s 95(1)(_b_) of the Criminal Procedure Code (Cap 68, 2012 Rev Ed) applied and the burden was on the applicant to show why he should be granted bail. This provision states that an accused person shall not be released on bail if he is accused of any non-bailable offence and the Court believes, on any ground prescribed in the Criminal Procedure Rules 2018 (S 727/2018), that the accused, if released, will not surrender to custody, be available for investigations or attend court. Rule 5(1) of the said rules provides that, for the purpose of s 95(1)(_b_) (among other sections), the court must have regard to all of the following non-exhaustive factors:
 
-(a)     the accused is not a citizen or permanent resident of Singapore;
+> (a)     the accused is not a citizen or permanent resident of Singapore;
 
-(b)     the accused is not domiciled in Singapore;
+> (b)     the accused is not domiciled in Singapore;
 
-(c)     the background, antecedents, employment history, occupation, home environment, community ties and financial position of the accused;
+> (c)     the background, antecedents, employment history, occupation, home environment, community ties and financial position of the accused;
 
-(d)     the association of the accused with other individuals;
+> (d)     the association of the accused with other individuals;
 
-(e)     the nature and seriousness of the offence that the accused is charged with;
+> (e)     the nature and seriousness of the offence that the accused is charged with;
 
-(f)     the manner in which the accused is likely to be dealt with if convicted of that offence;
+> (f)     the manner in which the accused is likely to be dealt with if convicted of that offence;
 
-(g)     the nature and strength of the evidence relating to the offence that the accused is charged with;
+> (g)     the nature and strength of the evidence relating to the offence that the accused is charged with;
 
-(h)     the accused did not comply with one or more of the conditions imposed under s 94 of the Criminal Procedure Code when the accused was released on bail on a previous occasion;
+> (h)     the accused did not comply with one or more of the conditions imposed under s 94 of the Criminal Procedure Code when the accused was released on bail on a previous occasion;
 
-(i)     there is evidence (for instance, of the doing of a preparatory act) that the accused does not intend to surrender to custody, be available for investigations or attend court, if the accused is released on bail.
+> (i)     there is evidence (for instance, of the doing of a preparatory act) that the accused does not intend to surrender to custody, be available for investigations or attend court, if the accused is released on bail.
 
 6       In this application for bail pending trial, the factors against the granting of bail were:
 
-(a)     the applicant was charged with serious non-bailable offences, committed on different occasions;
+> (a)     the applicant was charged with serious non-bailable offences, committed on different occasions;
 
-(b)     he failed to comply with a previous bail bond by not attending in Court; and
+> (b)     he failed to comply with a previous bail bond by not attending in Court; and
 
-(c)     he absconded to Malaysia by leaving Singapore by unauthorised means and had to be re-arrested with the assistance of the Malaysian police.
+> (c)     he absconded to Malaysia by leaving Singapore by unauthorised means and had to be re-arrested with the assistance of the Malaysian police.
 
 7       The applicant put forward the following grounds for his bail application:
 
-(a)     his father passed away on 11 July 2018, his 54-year-old mother was in poor health and he wished to spend time with her before facing a prospective long imprisonment term;
+> (a)     his father passed away on 11 July 2018, his 54-year-old mother was in poor health and he wished to spend time with her before facing a prospective long imprisonment term;
 
-(b)     he wanted to marry his “long term” girlfriend and start a family so that he could have full family support which would aid in his rehabilitation. In addition, his wife could look after his mother; and
+> (b)     he wanted to marry his “long term” girlfriend and start a family so that he could have full family support which would aid in his rehabilitation. In addition, his wife could look after his mother; and
 
-(c)     he was not a flight risk as he did not have his Singapore passport with him and was willing to subject himself to electronic monitoring, daily reporting or any other conditions.
+> (c)     he was not a flight risk as he did not have his Singapore passport with him and was willing to subject himself to electronic monitoring, daily reporting or any other conditions.
 
 8       The prosecution informed the Court that the applicant was on electronic monitoring before but went on to cut the tags placed on him. The prosecution also highlighted that the applicant was able to leave Singapore stealthily by boat in December 2017 without his passport and had to be traced and re-arrested. Counsel for the applicant confirmed before me that this was not disputed by the applicant.
 

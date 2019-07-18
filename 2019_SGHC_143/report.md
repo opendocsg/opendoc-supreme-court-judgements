@@ -31,23 +31,23 @@ Tort – negligence – duty of care between registered owner and sub-charte
 
 7       The plaintiff brings this action as the owner and/or the party entitled to sue in respect of the following palm oil products:
 
-(a)     9,650mt of RBD Palm Olein (“ROL”);
+> (a)     9,650mt of RBD Palm Olein (“ROL”);
 
-(b)     1,200mt of ROL IV 64;
+> (b)     1,200mt of ROL IV 64;
 
-(c)     5,780mt of RBD Palm Oil (“RPO”); and
+> (c)     5,780mt of RBD Palm Oil (“RPO”); and
 
-(d)     2,240mt of RBD Palm Stearin (“RPS”).
+> (d)     2,240mt of RBD Palm Stearin (“RPS”).
 
 These were the quantities and quality of palm oil products stipulated for loading at the terminal in Kuala Tanjung for carriage to and delivery at Jeddah and Adabiyah under the voyage charterparty between the disponent owner of the _Bum Chin_, NHL-Development Ltd (“NHL”), and Raffles Shipping International Pte Ltd (“Raffles Shipping International) (nominating the plaintiff as charterer) (see \[10\] below).
 
 8       Further or alternatively, the plaintiff brings this action as the owner and/or the party entitled to sue in respect of:
 
-(a)     1,200.055mt of ROL IV 64;
+> (a)     1,200.055mt of ROL IV 64;
 
-(b)     2,327.944mt of ROL; and
+> (b)     2,327.944mt of ROL; and
 
-(c)     1,146.451mt of RPO.
+> (c)     1,146.451mt of RPO.
 
 According to the plaintiff, these were the actual volumes of the palm oil products already loaded on board the _Bum Chin_ at the time of the incident. There appears to be a discrepancy in the loaded volume of ROL IV 64 stated in the pleadings, the affidavits of evidence-in-chief (referred to as “AEICs” in the plural and “AEIC” in the singular) and in parts of the closing submissions. “1,200.055” and “1,200.55” are both used. As the plaintiff’s damages are based on calculations that use the figure of 1,200.055mt, and the surveyor report adduced by the plaintiff uses the same figure, this judgment will take 1,200.055mt as the volume of ROL IV 64 that was loaded.
 
@@ -69,7 +69,7 @@ According to the plaintiff, these were the actual volumes of the palm oil produc
 
 15     That a bill of lading evidences the antecedent contract of carriage is not controversial. The question is whether there exists such a contract of carriage in the first place. In this connection, the existence of a contract of carriage is to be decided on contractual principles. The following paragraph is instructive (Guenter Treitel & F.M.B. Reynolds, _Carver on Bills of Lading_ (Sweet & Maxwell, 4th Ed, 2017) at para 3-002):
 
-Where the contract of carriage (or some other contract between carrier and shipper) is alleged to have been made on terms derived from negotiations which have taken place before shipment or intended shipment, the question whether these negotiations have indeed resulted in the conclusion of a contract will depend on the general principles of law relating to contract formation. In accordance with these principles, it was for example held in one case that a mere communication by a carrier of terms on which he would be prepared to carry the prospective goods did not have contractual force, and in another it was accepted that a booking note similarly did not give rise to a contract because a “shut-out” clause in the note made it clear that the prospective carrier had not intended to undertake any legal obligation to carry the goods in question.
+> Where the contract of carriage (or some other contract between carrier and shipper) is alleged to have been made on terms derived from negotiations which have taken place before shipment or intended shipment, the question whether these negotiations have indeed resulted in the conclusion of a contract will depend on the general principles of law relating to contract formation. In accordance with these principles, it was for example held in one case that a mere communication by a carrier of terms on which he would be prepared to carry the prospective goods did not have contractual force, and in another it was accepted that a booking note similarly did not give rise to a contract because a “shut-out” clause in the note made it clear that the prospective carrier had not intended to undertake any legal obligation to carry the goods in question.
 
 It is only if a contract of carriage has come into being between the relevant parties that the court considers the next question of whether the antecedent contract incorporated the Hague Rules or the Visby Rules as terms of the contract of carriage.
 
@@ -107,23 +107,23 @@ It is only if a contract of carriage has come into being between the relevant pa
 
 31     The plaintiff further contends that the property in the palm oil passed from MNA as seller to itself as buyer when the goods were loaded on board the _Bum Chin_, and quotes the following passage from M G Bridge, _The International Sale of Goods_ (4th Ed, Oxford University Press, 2018) at para 7.08 in its closing submissions:[^9]
 
-**On board** If an FOB seller delivers the goods to a carrier, and does not reserve the right of disposal by taking control of the bill of lading, then property will pass, if it has not already done so further to the parties’ intention, when the goods are put on board.
+> **On board** If an FOB seller delivers the goods to a carrier, and does not reserve the right of disposal by taking control of the bill of lading, then property will pass, if it has not already done so further to the parties’ intention, when the goods are put on board.
 
-…
+> …
 
-In many FOB contracts, the seller will not have been paid by the time the goods are loaded on board. Unless the seller reserves the right under s 19 of the Act, a very common occurrence, the seller is at risk of non-payment if the buyer is to pay at a later time.
+> In many FOB contracts, the seller will not have been paid by the time the goods are loaded on board. Unless the seller reserves the right under s 19 of the Act, a very common occurrence, the seller is at risk of non-payment if the buyer is to pay at a later time.
 
-\[emphasis in original\]
+> \[emphasis in original\]
 
 32     The plaintiff is effectively referring to s 19 of the Sale of Goods Act (Cap 393, 1999 Rev Ed) on the right of disposal, which states:
 
-**Reservation of right of disposal**
+> **Reservation of right of disposal**
 
-**19.**—(1)    Where there is a contract for the sale of specific goods or where goods are subsequently appropriated to the contract, the seller may, by the terms of the contract or appropriation, reserve the right of disposal of the goods until certain conditions are fulfilled; and in such a case, notwithstanding the delivery of the goods to the buyer, or to a carrier or other bailee or custodier for the purpose of transmission to the buyer, the property in the goods does not pass to the buyer until the conditions imposed by the seller are fulfilled.
+> **19.**—(1)    Where there is a contract for the sale of specific goods or where goods are subsequently appropriated to the contract, the seller may, by the terms of the contract or appropriation, reserve the right of disposal of the goods until certain conditions are fulfilled; and in such a case, notwithstanding the delivery of the goods to the buyer, or to a carrier or other bailee or custodier for the purpose of transmission to the buyer, the property in the goods does not pass to the buyer until the conditions imposed by the seller are fulfilled.
 
-(2)    Where goods are shipped, and by the bill of lading the goods are deliverable to the order of the seller or his agent, the seller is prima facie to be taken to reserve the right of disposal.
+> (2)    Where goods are shipped, and by the bill of lading the goods are deliverable to the order of the seller or his agent, the seller is prima facie to be taken to reserve the right of disposal.
 
-(3)    Where the seller of goods draws on the buyer for the price, and transmits the bill of exchange and bill of lading to the buyer together to secure acceptance or payment of the bill of exchange, the buyer is bound to return the bill of lading if he does not honour the bill of exchange, and if he wrongfully retains the bill of lading, the property in the goods does not pass to him.
+> (3)    Where the seller of goods draws on the buyer for the price, and transmits the bill of exchange and bill of lading to the buyer together to secure acceptance or payment of the bill of exchange, the buyer is bound to return the bill of lading if he does not honour the bill of exchange, and if he wrongfully retains the bill of lading, the property in the goods does not pass to him.
 
 33     The _prima facie_ presumption in s 19(2) is that by reserving its right of disposal in the bill of lading, the property in the goods remains with the seller until the seller has received payment of the price in full. Evidence of such a reservation of right is where the bill of lading is made out to the seller as shipper or to the shipper’s order. In this case, while no bills of lading were issued, the non-negotiable bills of lading can serve as proxies as to the intention of the buyer and seller on the passing of property in the goods at the time of shipment. The way the non-negotiable bills of lading were intended to be made out is consistent with the payment term of the three sale contract. Ms Chen’s testimony that MNA is the named shipper on the non-negotiable bill of lading. Further, in the email of 12 April 2013 which sets out the revised shipping instructions to MNA (also referred to above at \[29\]), MNA would be the named shipper, and the non-negotiable bills of lading were contemplated to be made out to the order of the shipper, with the plaintiff as the notify party. These are clear indications that the shipper, MNA, would be reserving its title to the shipment of palm oil products. Whilst the non-negotiable bills of lading were contemplated for custom clearance purposes, the information on the non-negotiable bills of lading as described evidentially supports an intention by MNA to reserve its right of disposal. This is logical in the light of the terms of payment in the sale contracts (see \[27\]–\[30\] above on the alternative modes of payment).
 
@@ -133,7 +133,7 @@ In many FOB contracts, the seller will not have been paid by the time the goods 
 
 36     In my view, the defendant’s contention is now moot. The parties were invited to submit on _NTUC Foodfare Co-operative Ltd v SIA Engineering Co Ltd and another_ <span class="citation">\[2018\] 2 SLR 588</span> (“_NTUC Foodcare_”), a decision which was published after close of submissions. In that case, the Court of Appeal at \[35\] expressly rejected _Aliakmon_ and held that the legal requirement of proving ownership of or a possessory interest to the cargo in order to bring a claim in negligence for loss flowing from the damage no longer applies in Singapore:
 
-… more fundamentally, under our law of negligence, there is no requirement that a plaintiff must own or have possessory title to the property to sue for loss flowing from damage to that property. There is such a requirement under English law: see _Leigh and Sillavan Ltd v Aliakmon Shipping Co Ltd_ <span class="citation">\[1986\] AC 785</span> at 809 (_per_ Lord Brandon of Oakbrook). However, it is critical to appreciate the basis of this requirement under English law. It is simply a corollary of the exclusionary rule against recovery for pure economic loss under English law: the rule that a defendant will not generally owe a duty of care to a party who suffers pure economic loss due to the defendant’s negligence. … However, in _Spandeck_ … we rejected the exclusionary rule against recovery for pure economic loss (at \[69\]). There is thus no basis under our law for a requirement that a plaintiff must own or have possessory title to the property to sue for loss flowing from damage to that property.
+> … more fundamentally, under our law of negligence, there is no requirement that a plaintiff must own or have possessory title to the property to sue for loss flowing from damage to that property. There is such a requirement under English law: see _Leigh and Sillavan Ltd v Aliakmon Shipping Co Ltd_ <span class="citation">\[1986\] AC 785</span> at 809 (_per_ Lord Brandon of Oakbrook). However, it is critical to appreciate the basis of this requirement under English law. It is simply a corollary of the exclusionary rule against recovery for pure economic loss under English law: the rule that a defendant will not generally owe a duty of care to a party who suffers pure economic loss due to the defendant’s negligence. … However, in _Spandeck_ … we rejected the exclusionary rule against recovery for pure economic loss (at \[69\]). There is thus no basis under our law for a requirement that a plaintiff must own or have possessory title to the property to sue for loss flowing from damage to that property.
 
 37     As pure economic loss is claimable under Singapore law, the plaintiff need not prove a proprietary interest in the cargo to have title to sue in respect of the loss it has suffered. The question therefore turns on whether the defendant owes the plaintiff a duty of care; and if no such duty is owed, the plaintiff’s claim can be dismissed in its entirety.
 
@@ -155,7 +155,7 @@ In many FOB contracts, the seller will not have been paid by the time the goods 
 
 44     The defendant counterclaims against the plaintiff for the damage on board the _Bum Chin_. The defendant’s counterclaim is pleaded and predicated upon the plaintiff’s averment of a contract of carriage between the plaintiff and the defendant:[^10]
 
-As set out earlier in the Defence, it is the Plaintiff’s own case that the Plaintiff and Defendant were parties to a contract of carriage and/or a charterer by agreement and/or by law. _It follows then_ that based on the Plaintiff’s own case, by law or by contract, the duties and obligations of a cargo owner / shipper / charterer to safely and properly load cargo onto the Bum Chin at the minimum up to the ship’s rails without causing damage and loss to the Vessel would apply to Plaintiff \[_sic_\] and the Plaintiff would be liable to Defendant for the loss or damage to the Vessel from their failure to safely and properly load cargo onto the same. … \[emphasis added\]
+> As set out earlier in the Defence, it is the Plaintiff’s own case that the Plaintiff and Defendant were parties to a contract of carriage and/or a charterer by agreement and/or by law. _It follows then_ that based on the Plaintiff’s own case, by law or by contract, the duties and obligations of a cargo owner / shipper / charterer to safely and properly load cargo onto the Bum Chin at the minimum up to the ship’s rails without causing damage and loss to the Vessel would apply to Plaintiff \[_sic_\] and the Plaintiff would be liable to Defendant for the loss or damage to the Vessel from their failure to safely and properly load cargo onto the same. … \[emphasis added\]
 
 The defendant’s closing submissions confirms that the counterclaim takes its course from the plaintiff’s allegation of a contract of carriage between the parties. To the extent that there is no contract of carriage between plaintiff and defendant, the counterclaim is readily dismissed.
 
@@ -167,7 +167,7 @@ The defendant’s closing submissions confirms that the counterclaim takes its c
 
 48     The defendant further submits that at common law, the shipper is responsible for (_ie_, bears the risk and expense of) pumping the cargo into the ship and cites a passage from Sir Bernard Eder _et al, Scrutton on Charterparties and Bills of Lading_ (Sweet and Maxwell, 23rd Ed, 2015) at para 9–143 to suggest that the plaintiff, as shipper, is jointly responsible for loading operations:[^12]
 
-At common law loading is a joint operation of the shipper or charterer and of the shipowner. In the absence of custom or express binding agreement it is the duty of the former at his risk and expense to bring the cargo alongside and lift it to the ship’s rail, it is then the duty of the owner by his master to receive the load and stow the cargo properly.
+> At common law loading is a joint operation of the shipper or charterer and of the shipowner. In the absence of custom or express binding agreement it is the duty of the former at his risk and expense to bring the cargo alongside and lift it to the ship’s rail, it is then the duty of the owner by his master to receive the load and stow the cargo properly.
 
 49     The passage quoted above does not improve the defendant’s agency argument. The defendant’s characterisation of the plaintiff as shipper is inaccurate. The shipper in this case is MNA, the FOB seller. And as stated above, at the material time, MNA was to be the named shipper to be inserted into the non-negotiable bills of lading. Equally, it was the terminal acting in its own capacity when it pumped the cargo through its product lines to the ship’s manifold.
 
@@ -191,11 +191,11 @@ At common law loading is a joint operation of the shipper or charterer and of th
 
 57     Compressed air from the NKB pump house would be channelled to and received by the air reservoirs in the KB pump house. Compressed air is necessary to clean the lines after cargo loading, through a process of pigging and line blowing. The KB pump house is located approximately 450m away from the NKB pump house and is the larger of the two. It is equipped with the following facilities:
 
-(a)     Three air reservoirs that receive compressed air sourced from the NKB pump house compressors.
+> (a)     Three air reservoirs that receive compressed air sourced from the NKB pump house compressors.
 
-(b)     Six product lines (labelled as “A” to “F”) that serve the jetties.
+> (b)     Six product lines (labelled as “A” to “F”) that serve the jetties.
 
-(c)     Six pig sender units that are fitted to the ends of every export line.
+> (c)     Six pig sender units that are fitted to the ends of every export line.
 
 I add that while pressure of 7 bar is released at the KB pump house during pigging, as the compressed air travels down the pipeline system, the pressure decreases to 3 to 4 bar by the time it reaches the main jetty valve at the jetty.
 
@@ -207,11 +207,11 @@ I add that while pressure of 7 bar is released at the KB pump house during piggi
 
 60     The _Bum Chin_ is fitted with 22 cargo tanks, 11 on port side and starboard side. Each tank is completely segregated and independent from all the other tanks and is comprised of longitudinal and transverse corrugated bulkheads. The following tanks were slated for loading:
 
-(a)     ROL IV 64 was to be loaded into tank 4S.
+> (a)     ROL IV 64 was to be loaded into tank 4S.
 
-(b)     RPO into tanks 2P, 2S, 8S, 9P, 9S, and 10P; and
+> (b)     RPO into tanks 2P, 2S, 8S, 9P, 9S, and 10P; and
 
-(c)     ROL into tanks 3P, 3S, 4P, 5P, 5S, 6P, 6S, 7P, 7S, and 8P.
+> (c)     ROL into tanks 3P, 3S, 4P, 5P, 5S, 6P, 6S, 7P, 7S, and 8P.
 
 61     Diagram 1: the plaintiff’s layout of tank 4S
 
@@ -229,13 +229,13 @@ I add that while pressure of 7 bar is released at the KB pump house during piggi
 
 66     Each cargo tank of the _Bum Chin_ could be vented through the following means:
 
-(a)     the pressure vacuum valve (“P/V valve”) system;
+> (a)     the pressure vacuum valve (“P/V valve”) system;
 
-(b)     the gas free vent;
+> (b)     the gas free vent;
 
-(c)     the tank access hatch and ullage port; and
+> (c)     the tank access hatch and ullage port; and
 
-(d)     the Butterworth tank cleaning hatch (“Butterworth hatch”).
+> (d)     the Butterworth tank cleaning hatch (“Butterworth hatch”).
 
 These various components serve to allow pressure to escape from the respective tanks during cargo operations.
 
@@ -281,19 +281,19 @@ These various components serve to allow pressure to escape from the respective t
 
 83     As a result of the incident, the following damage to the _Bum Chin_ was observed:[^20]
 
-(a)     cracks on the upper deck plate;
+> (a)     cracks on the upper deck plate;
 
-(b)     buckling of the centre longitudinal bulkhead of tank 4S; and
+> (b)     buckling of the centre longitudinal bulkhead of tank 4S; and
 
-(c)     fracture and lifting of the 4S tank top.
+> (c)     fracture and lifting of the 4S tank top.
 
 84     The _Bum Chin_ stopped cargo operations after the incident. According to the plaintiff, the following quantities of palm oil products had been loaded at the point in time:
 
-(a)     1,200.055mt of ROL IV 64;
+> (a)     1,200.055mt of ROL IV 64;
 
-(b)     2,327.944mt of ROL; and
+> (b)     2,327.944mt of ROL; and
 
-(c)     1,146.451mt of RPO.
+> (c)     1,146.451mt of RPO.
 
 85     The _Bum Chin_ did not perform the voyage. Palm oil products loaded on board the _Bum Chin_ had to be discharged and loaded onto the substitute vessel. Cargo of ROL IV 64 also leaked from tank 4S to the water ballast tank and _vice versa_ (_ie_, ingress of seawater into tank 4S) as a result of the incident.[^21] There was also loss of cargo during discharge. Against this backdrop, the plaintiff’s claims relate either to the loss of and damage to the various parcels of palm oil products, and loss of use of the _Bum Chin_.[^22]
 
@@ -301,13 +301,13 @@ These various components serve to allow pressure to escape from the respective t
 
 86     To the plaintiff, the incident occurred during line blowing and it was the defendant’s fault that the incident occurred. The terminal had obtained permission before commencing each stage of cargo operations and had delivered the correct pressure to the _Bum Chin’s_ manifold. Against this backdrop, the plaintiff submitted that:[^23]
 
-(a)     There were pre-existing weld defects and fatigue cracks in the tank top of tank 4S which adversely affected the strength of the structure such that the buckling of the bulkhead and the fracture of the tank top happened at a lower pressure than it otherwise would.
+> (a)     There were pre-existing weld defects and fatigue cracks in the tank top of tank 4S which adversely affected the strength of the structure such that the buckling of the bulkhead and the fracture of the tank top happened at a lower pressure than it otherwise would.
 
-(b)     The _Bum Chin_ had adopted closed venting and the P/V valve of tank 4S was not in good working order at the time of the incident. Hence, there was insufficient venting leading to an over-pressurisation of tank 4S.
+> (b)     The _Bum Chin_ had adopted closed venting and the P/V valve of tank 4S was not in good working order at the time of the incident. Hence, there was insufficient venting leading to an over-pressurisation of tank 4S.
 
-(c)     The _Bum Chin_ failed to control the air pressure entering the _Bum Chin_ by failing to throttle the manifold valve during line blowing. Hence, “excess” air entered tank 4S during line blowing, leading to continued increase in pressure (over-pressurisation) within tank 4S that contributed to the incident.
+> (c)     The _Bum Chin_ failed to control the air pressure entering the _Bum Chin_ by failing to throttle the manifold valve during line blowing. Hence, “excess” air entered tank 4S during line blowing, leading to continued increase in pressure (over-pressurisation) within tank 4S that contributed to the incident.
 
-(d)     The _Bum Chin_ failed to set the pressure alarm to 70% of the P/V valve setting for line blowing.
+> (d)     The _Bum Chin_ failed to set the pressure alarm to 70% of the P/V valve setting for line blowing.
 
 87     In support of its position, the plaintiff called its expert witness, Captain Snowden of Petrotech Marine Consultants (Pte) Ltd to opine on the cause of the incident. He opined that the nature of damage to tank 4S was indicative of structural weaknesses in the tank rather than a classic over-pressurisation incident. Further and in the alternative, tank 4S had not been venting through its P/V valve during line blowing, and this prevented air pressure entering tank 4S from being fully vented. Rejecting the sudden surge of air pressure observed by Mr Joseph, Captain Snowden opined that even assuming that the P/V valve was working, the Butterworth hatch was unsecured, the cover of the gas free vent was in open position, and the main jetty valve was opened at 100% with maximum air supplied by the pump house at 7 bar, it would have taken a total of 22 seconds for the air pressure within tank 4S to have risen to 0.993 bar. There was therefore no “instantaneous” rise in pressure. It was also suggested that the _Bum Chin_ could have taken emergency procedures in the 22 seconds of grace.
 
@@ -317,11 +317,11 @@ These various components serve to allow pressure to escape from the respective t
 
 90     Mr Gurbani further points out that according to Mr Joseph, the manifold valve was in open position during pigging and line blowing. The natural inference is that the manifold valve was not properly throttled and “excess” air was allowed into tank 4S during line blowing. Consequently, it was over-pressurisation from insufficient venting or failure to control the ship’s manifold valve that caused the incident if it was not the structural weaknesses. It follows, on the plaintiff’s argument, that the plaintiff has proved that the failure of tank 4S was due to:
 
-(a)     over-pressurisation arising from the P/V valve not working or failure to control the ship’s manifold valve;
+> (a)     over-pressurisation arising from the P/V valve not working or failure to control the ship’s manifold valve;
 
-(b)     failure of tank 4S from structural weaknesses; or
+> (b)     failure of tank 4S from structural weaknesses; or
 
-(c)     a combination of reasons, such as structural weaknesses and insufficient venting, or structural weakness and failure to control ship’s manifold.
+> (c)     a combination of reasons, such as structural weaknesses and insufficient venting, or structural weakness and failure to control ship’s manifold.
 
 91     Finally, on the defendant’s failure to set the pressure alarm to 70% of the P/V valve setting, the plaintiff’s argues that the failure contravened the _Bum Chin’s_ manual.
 
@@ -361,15 +361,15 @@ These various components serve to allow pressure to escape from the respective t
 
 106    It is not surprising that there is heavy reliance on the opinions of experts at the trial and in submissions. However, the theories and opinions advanced as to how the incident happened must ultimately be based on the facts, not postulations and beliefs: see _Khoo Bee Keng v Ang Chun Hong & another_ <span class="citation">\[2005\] SGHC 128</span> at \[68\]. As such, findings on the following factual issues must first be made:
 
-(a)     the time at which loading, pigging and line blowing commenced and ended, and relatedly, the phase of cargo operations during which the incident occurred;
+> (a)     the time at which loading, pigging and line blowing commenced and ended, and relatedly, the phase of cargo operations during which the incident occurred;
 
-(b)     the procedures and matters agreed between the terminal and the _Bum Chin_ regarding cargo operations, with reference to the Ship/Share Safety Checklist (such matters include the rate of flow of cargo, maximum pressure at the ship/shore cargo connection, agreed tank venting system being use, and agreed communications during cargo operations, including signal for emergency stop);
+> (b)     the procedures and matters agreed between the terminal and the _Bum Chin_ regarding cargo operations, with reference to the Ship/Share Safety Checklist (such matters include the rate of flow of cargo, maximum pressure at the ship/shore cargo connection, agreed tank venting system being use, and agreed communications during cargo operations, including signal for emergency stop);
 
-(c)     whether the chief officer, Mr Joseph, was in the CCR from 0524h until the incident happened;
+> (c)     whether the chief officer, Mr Joseph, was in the CCR from 0524h until the incident happened;
 
-(d)     whether the terminal sought and obtained permission to commence line blowing; and
+> (d)     whether the terminal sought and obtained permission to commence line blowing; and
 
-(e)     whether the _Bum Chin_ adopted open or controlled venting.
+> (e)     whether the _Bum Chin_ adopted open or controlled venting.
 
 107    While both the terminal and the _Bum Chin_ were involved in cargo operations, the execution of each side’s own procedures and responsibilities was, for the most part, unknown and unseen by the other, so to speak. Hence, there is little or no countervailing facts in evidence to challenge the version of facts put forth by the other. Yet, the question looming large for trial is which versions of the facts are believable. In this regard, the strength of the parties’ assertions depends on the available documents, corroborative evidence on the same side, and the credibility and veracity of witnesses under cross-examination. Whilst expert evidence can provide a check and give assistance to the analysis of the facts to some degree, it is the primary factual evidence of the witnesses that is important.
 
@@ -391,15 +391,15 @@ These various components serve to allow pressure to escape from the respective t
 
 115    With the clarification above, the jetty logbook reflects no entries for pigging and line blowing at all. On the other hand, the plaintiff’s timesheet reflects that:
 
-(a)     loading commenced at 0036h;
+> (a)     loading commenced at 0036h;
 
-(b)     loading completed at 0450h;
+> (b)     loading completed at 0450h;
 
-(c)     pigging commenced at 0500h;
+> (c)     pigging commenced at 0500h;
 
-(d)     pigging completed at 0540h; and
+> (d)     pigging completed at 0540h; and
 
-(e)     line blowing commenced at 0545h.
+> (e)     line blowing commenced at 0545h.
 
 116    The timesheet was prepared using information recorded in the jetty logbook. As the information in the jetty logbook is limited and the timesheet included more information, the Duty Loading Master would have added and corrected the inaccurate information in the jetty logbook when preparing the timesheet for MNA. It stands to reason that these additions and corrections were based on the Duty Loading Master’s recollection and account of the events as he was directly involved in loading, pigging and line blowing. Further, he could testify to these matters at trial.
 
@@ -411,47 +411,47 @@ These various components serve to allow pressure to escape from the respective t
 
 120    The Lead Surveyor was cross-examined on his evidence that line blowing commenced at 0535h:[^34]
 
-Q:0535.
+> Q:0535.
 
-A:That was at the commencement of the blowing.
+> A:That was at the commencement of the blowing.
 
-Q:And how did he know blowing started at 5.35am?
+> Q:And how did he know blowing started at 5.35am?
 
-A:At the time after getting the permission from the third officer, I walked to the deck to inform the loading master and thereafter, the loading master shouted for the blowing and when I saw that there was vibration at the flexible hose, at that time I recorded the time.
+> A:At the time after getting the permission from the third officer, I walked to the deck to inform the loading master and thereafter, the loading master shouted for the blowing and when I saw that there was vibration at the flexible hose, at that time I recorded the time.
 
 121    He stated that he had thought that line blowing had commenced as there were vibrations at the flexible hose. The Lead Surveyor was also asked about what he did after he saw the flexible hose vibrate:[^35]
 
-Q:… Then the next thing is … after you told \[the Duty Loading Master\] to start line blowing, you say you saw the flexible hose vibrate … What happened after this?
+> Q:… Then the next thing is … after you told \[the Duty Loading Master\] to start line blowing, you say you saw the flexible hose vibrate … What happened after this?
 
-…
+> …
 
-A:I and Zulchaidir was about to proceed to 2S tank.
+> A:I and Zulchaidir was about to proceed to 2S tank.
 
-…
+> …
 
-A:Wanting to take the first foot sample.
+> A:Wanting to take the first foot sample.
 
-…
+> …
 
-Q:Did they reach the 2---did they reach the tank?
+> Q:Did they reach the 2---did they reach the tank?
 
-A:Was about to reach.
+> A:Was about to reach.
 
-Q:Okay, when what happened?
+> Q:Okay, when what happened?
 
-A:And then there was a loud sound. It was loud, like that of a loud sound.
+> A:And then there was a loud sound. It was loud, like that of a loud sound.
 
-Q:Okay. And how long after line blowing started did he hear this sound, meaning while he was walking towards cargo tank 2?
+> Q:Okay. And how long after line blowing started did he hear this sound, meaning while he was walking towards cargo tank 2?
 
-A:Not long after.
+> A:Not long after.
 
-Q:Okay. Now, when he says “not long after”, can he give an estimate? Is it, like, within seconds, or within minutes?
+> Q:Okay. Now, when he says “not long after”, can he give an estimate? Is it, like, within seconds, or within minutes?
 
-A:I think it’s several minutes.
+> A:I think it’s several minutes.
 
 122    He described a series of activities he did after seeing the flexible hose vibrate and said that he heard a loud “bang” several minutes later. On reflection, the Lead Surveyor then corrected his answer on when he heard the “bang” to approximately within one minute, after he visualised the distance between the manifold and tank 2S:[^36]
 
-A:I think it’s around one minute. Between the distance of the manifold to the starboard tank, we can see for ourself \[_sic_\] what is the distance.
+> A:I think it’s around one minute. Between the distance of the manifold to the starboard tank, we can see for ourself \[_sic_\] what is the distance.
 
 123    Even though the Lead Surveyor said during cross-examination that line blowing started at 0535h, to make sense of the rest of the Lead Surveyor’s answers, the timing of 0535h cannot be taken to definitively pinpoint the commencement of line blowing. Instead, the entries for 0535h to 0545h in his report should logically be understood as encompassing a series of activities that he undertook during that period. Taking 0535h to be the commencement of line blowing would mean that line blowing would have carried on for about 10 minutes before the incident occurred. This cannot be the case as the Lead Surveyor’s own evidence is that he had heard a loud “bang” before reaching tank 2S, and in his estimation this was about a minute into line blowing (which he had assumed was underway from his own observation of the flexible hose vibrating).[^37] Accordingly, the Lead Surveyor’s testimony at trial coheres with the Duty Loading Master’s testimony that line blowing commenced at 0545h.
 
@@ -459,15 +459,15 @@ A:I think it’s around one minute. Between the distance of the manifold to the 
 
 125    For the reasons above, it follows that the said statement of facts has no evidential value as to the question of timing. The time entries in the statement of facts were all derived from what the Manifold Watchman had informed Mr Joseph. Even if Mr Joseph could give a description of what he saw at 0535h (for instance, cargo vapour on deck), the very timing of 0535h itself is traced back to his walkie-talkie conversation with the Manifold Watchman as opposed to his own appreciation of time. In similar vein, other documents that rely on 0524h and 0535h to describe the events that occurred are equally unreliable as to timing; for instance, the defendant’s Letter of Protest dated 17 April 2013 signed by the Master of the _Bum Chin_:[^40]
 
-Dear Sirs,
+> Dear Sirs,
 
-I Capt. Onkar Rai hereby strongly protest and put on record that while vessel was loading at Kuala Tanjung (Indonesia), Jetty A-MNA at 0524LT on 17/04/2013 after completion of Loading in 4S COT the teminal \[_sic_\] commenced pigging and at 0535 Lt on 17/04/2013 started blowing air without giving proper notice to the vessel for preparing tank / manifold to withstand line blow. In fact the terminal commenced blowing air, thereafter informed the vessel regarding this operation. The terminal blowed \[_sic_\] the shore line at a very high pressure which resulted in receiving high pressure alarm at CCR, PV valve lifted and at the same time 4S COT ruptured. During this operation \[Mr Joseph\] and \[duty officer\] who \[were\] monitoring the operation observed high pressure alarm of the respective tank activated and the pressure shoot up enormously high, i.e shoot up to 660 HPA first and then to 990 HPA in fraction of seconds. At this time ship’s crew also found cargo vapour mist on deck from the ruptured tank. At present we also noticed cargo ingress in to No-4 S and No-4 (p) WBT. We suspect inter tank / hold bulkhead failures. At this point of time the exact extent of damage is not known.
+> I Capt. Onkar Rai hereby strongly protest and put on record that while vessel was loading at Kuala Tanjung (Indonesia), Jetty A-MNA at 0524LT on 17/04/2013 after completion of Loading in 4S COT the teminal \[_sic_\] commenced pigging and at 0535 Lt on 17/04/2013 started blowing air without giving proper notice to the vessel for preparing tank / manifold to withstand line blow. In fact the terminal commenced blowing air, thereafter informed the vessel regarding this operation. The terminal blowed \[_sic_\] the shore line at a very high pressure which resulted in receiving high pressure alarm at CCR, PV valve lifted and at the same time 4S COT ruptured. During this operation \[Mr Joseph\] and \[duty officer\] who \[were\] monitoring the operation observed high pressure alarm of the respective tank activated and the pressure shoot up enormously high, i.e shoot up to 660 HPA first and then to 990 HPA in fraction of seconds. At this time ship’s crew also found cargo vapour mist on deck from the ruptured tank. At present we also noticed cargo ingress in to No-4 S and No-4 (p) WBT. We suspect inter tank / hold bulkhead failures. At this point of time the exact extent of damage is not known.
 
 126    There was some debate over whether the incident occurred during pigging or line blowing. To the plaintiff, there was a break and pause between end of pigging and start of line blowing (_ie_, the five-minute break between 0540h and 0545h, when line blowing commenced). The incident occurred after the start of line blowing. On the part of the defendant, the incident occurred at pigging. At this juncture, I note parenthetically that there appears to be a departure from the position set out in the Master’s Letter of Protest. In its reply submissions, the defendant stated that it did not submit a case that the incident occurred during line blowing and that its pleaded case has always been so. I reproduce the material portion of the amended defence and counterclaim:[^41]
 
-(b)    … At 0524 hours local time on 17 April 2013, the Terminal reported that the loading of the Cargo into the Tank had been completed and that pigging operations had begun. … That operation was completed at 0535 hours local time, at which time line-blowing operations were reported as having simultaneously commenced.
+> (b)    … At 0524 hours local time on 17 April 2013, the Terminal reported that the loading of the Cargo into the Tank had been completed and that pigging operations had begun. … That operation was completed at 0535 hours local time, at which time line-blowing operations were reported as having simultaneously commenced.
 
-(c)    Immediately thereafter, the Tank’s ‘high pressure alarm’ on the Vessel’s cargo tank monitoring panel sounded. …
+> (c)    Immediately thereafter, the Tank’s ‘high pressure alarm’ on the Vessel’s cargo tank monitoring panel sounded. …
 
 127    The reproduction of the pleadings above does not actually bear out the position taken in the reply submissions. It states that pigging operations had _completed_ at which time line blowing was reported to have simultaneously commenced. It does not follow from the mere use of the word “simultaneously” that the incident did not occur at or during line blowing. In the end, the nub of the defendant’s contention is the position advanced by its expert, Mr Sach: the incident took place in the interim period at the end of pigging and before the start of line blowing. For clarity, the defendant treats this interim period as still under the pigging phase. The defendant’s reason for holding on to its position that the incident occurred during pigging loops back to Mr Sachs’ theory of air breakthrough at the end of pigging.
 
@@ -491,61 +491,61 @@ I Capt. Onkar Rai hereby strongly protest and put on record that while vessel wa
 
 135    It is not controversial that the Shipboard Management Manual (“Ship’s Manual”) contains the _Bum Chin’s_ procedures for pigging and line blowing at terminals. Even though Mr Joseph joined the _Bum Chin_ as chief officer on 21 March 2013 (with the incident on 17 April 2013), he appears to have been apprised of the risks and hazards cautioned in the Ship’s Manual. This is to be gathered from his first AEIC where he deposed that he had asked the loading master for a smaller diameter hose but none was available. Although the context of his affidavit evidence on this point is not stated, if the issue of smaller size hose were raised with the terminal, it could only have been raised with reference to section 3.1.9.4 of the Ship’s Manual on the by-pass of the ship’s manifold valve:[^57]
 
-_Pigging or blowing of shore lines to ships as a general rule should not be allowed_. If the terminal insists, _all risks involved including extremely rapid pressure increase in small ullage spaces_, availability of free space in vessels tanks and when _the pig reach the catcher ashore shall be considered_. The capacity of the P/V pressure relief valve is designed to handle inflow of liquids through the cargo lines and not gas as air … _Risk reducing measures like controlling flow by by-passing manifold valves with smaller size hoses must be in place_.
+> _Pigging or blowing of shore lines to ships as a general rule should not be allowed_. If the terminal insists, _all risks involved including extremely rapid pressure increase in small ullage spaces_, availability of free space in vessels tanks and when _the pig reach the catcher ashore shall be considered_. The capacity of the P/V pressure relief valve is designed to handle inflow of liquids through the cargo lines and not gas as air … _Risk reducing measures like controlling flow by by-passing manifold valves with smaller size hoses must be in place_.
 
-… _It is important that experienced personnel open and close (throttle) manifold valves in a controlled manner_.
+> … _It is important that experienced personnel open and close (throttle) manifold valves in a controlled manner_.
 
-Due caution to be allowed towards the possibility of trapped gas bubbles releasing and expanding in the tank and hence the operation must be directly controlled by a Responsible Officer & Pigging Operation verified by Chief Officer prior to start.
+> Due caution to be allowed towards the possibility of trapped gas bubbles releasing and expanding in the tank and hence the operation must be directly controlled by a Responsible Officer & Pigging Operation verified by Chief Officer prior to start.
 
-\[emphasis added\]
+> \[emphasis added\]
 
 136    It is against this factual matrix – _ie_, the non-usage of smaller diameter by-pass line to restrict/reduce pressure for pigging or line blowing – that the Ship’s Manual then highlights the importance of putting in place “experienced personnel to open and close (throttle) manifold valves in a controlled manner”. Significantly, the Ship’s Manual states that pigging and line blowing is _generally not allowed_ because of the known risks such operations presented. Thus, the Ship’s Manual specifies certain procedures that must be adopted and these include:[^58]
 
-1)    It is to be ensured during pre-loading safety meeting that following information is provided by the terminal:-
+> 1)    It is to be ensured during pre-loading safety meeting that following information is provided by the terminal:-
 
-a)    Retention volume/quantity of shore lines which are to be displaced to the vessel during pigging;
+>> a)    Retention volume/quantity of shore lines which are to be displaced to the vessel during pigging;
 
-b)    Maximum expected pressure during the pigging/blowing operation must be clearly discussed including provisions of restricting/reduce pressure. This includes the fitting and usage of smaller diameter by-pass line (for pigging operation by-pass line/hose of **not exceeding 1” diameter**.
+>> b)    Maximum expected pressure during the pigging/blowing operation must be clearly discussed including provisions of restricting/reduce pressure. This includes the fitting and usage of smaller diameter by-pass line (for pigging operation by-pass line/hose of **not exceeding 1” diameter**.
 
-c)    Specific reference is made on emergency signal and emergency shutdown procedure where the pigging/blowing is to be immediately suspended;
+>> c)    Specific reference is made on emergency signal and emergency shutdown procedure where the pigging/blowing is to be immediately suspended;
 
-2)    The deck officer shall **CONTINUOUSLY** monitor/control tank pressure, adjust tank pressure and maintain communication with watchman at the manifold valve;
+> 2)    The deck officer shall **CONTINUOUSLY** monitor/control tank pressure, adjust tank pressure and maintain communication with watchman at the manifold valve;
 
-3)    Pigging/blowing is to be immediately stopped and manifold and tank valves shut down immediately when tank pressure exceeds 70% of the PV valve setting;
+> 3)    Pigging/blowing is to be immediately stopped and manifold and tank valves shut down immediately when tank pressure exceeds 70% of the PV valve setting;
 
-4)    Pressure alarm for tank into which pigging/blowing takes place is to be set at 70% of the PV valve pressure setting;
+> 4)    Pressure alarm for tank into which pigging/blowing takes place is to be set at 70% of the PV valve pressure setting;
 
-5)    Manifold and tank valve are to be attended to at all times during the pigging/blowing operations;
+> 5)    Manifold and tank valve are to be attended to at all times during the pigging/blowing operations;
 
-…
+> …
 
-\[emphasis in the original\]
+> \[emphasis in the original\]
 
 137    Besides the Ship’s Manual, a 40-minute long pre-loading safety meeting was held where the Ship/Shore Safety Checklist was discussed and signed. The checklist concerns the safety of the ship, the terminal and all personnel. Its importance must not be overlooked. On the face of the Ship/Shore Safety Checklist, agreed items were ticked and the checklist was jointly signed by Mr Joseph and Joyo.
 
 138    As it transpired, while the Ship/Shore Safety Checklist was signed during the meeting, certain additional information was added afterwards. Mr Joseph was questioned on these additions. He admitted to inserting information in the column “Tanks checked & ready for loading” after Joyo signed the checklist. However, he denied inserting the following handwritten note after the Ship/Shore Safety Checklist was signed:[^59]
 
-After completion of ROL IV 64, pigging and line blowing will be carried out at a slow rate and hose to be transferred to tank cargo for RPS.
+> After completion of ROL IV 64, pigging and line blowing will be carried out at a slow rate and hose to be transferred to tank cargo for RPS.
 
 139    Mr Joseph clarified in cross-examination that “slow rate” in the handwritten note referred to pigging (_ie_, the slow rate of residual cargo) and not line blowing, and that the rate corresponded to the topping off rate (100 m3/h).[^60]
 
 140    The other checklist of items in the Ship/Shore Safety Checklist that were considered and agreed upon include:
 
-(a)     the initial and maximum loading rates;
+> (a)     the initial and maximum loading rates;
 
-(b)     the topping off rate (100 m3/h);
+> (b)     the topping off rate (100 m3/h);
 
-(c)     the maximum pressure that the manifold could receive (7 bar);
+> (c)     the maximum pressure that the manifold could receive (7 bar);
 
-(d)     the mode of communication between the ship and the shore (primarily, “verbal” and as a backup, to use the “surveyor onboard”);
+> (d)     the mode of communication between the ship and the shore (primarily, “verbal” and as a backup, to use the “surveyor onboard”);
 
-(e)     the emergency signal and shutdown procedure to be used by the ship and shore (shout out “stop 3 times”);
+> (e)     the emergency signal and shutdown procedure to be used by the ship and shore (shout out “stop 3 times”);
 
-(f)     the allowance for reaction time in response to signals. For example, the maximum time required for reducing or increasing rate is 5 minutes and the time required for stopping any operation is 2 minutes;
+> (f)     the allowance for reaction time in response to signals. For example, the maximum time required for reducing or increasing rate is 5 minutes and the time required for stopping any operation is 2 minutes;
 
-(g)     the venting system used by the ship (“PV/purge pipe”); and
+> (g)     the venting system used by the ship (“PV/purge pipe”); and
 
-(h)     the requirements for closed operations.
+> (h)     the requirements for closed operations.
 
 141    The procedures and matters outlined in the Ship’s Manual and Ship/Shore Safety Checklist above all go towards highlighting the risks of pigging and line blowing, and prescribe or indicate procedures designed to mitigate such risks. It is therefore important to determine if the terminal and the vessel had executed their respective roles in a manner consistent with the proper procedures and matters.
 
@@ -557,19 +557,19 @@ After completion of ROL IV 64, pigging and line blowing will be carried out at a
 
 145    The adjustment of the manifold valve is important as it controls the rate of flow of residual cargo during pigging and the pressure of compressed air entering the ship during line blowing. This is especially crucial in the present case as there was _no agreement_ in the checklist between the _Bum Chin_ and the terminal on the maximum expected pressure for line blowing, to say the least, or any provisions made for restricting or reducing pressure for line blowing. Indeed, the Ship’s Manual mandates that the controlling of the manifold valve be done by an experienced crew member. This reflects the importance of the manifold valve; it controls the amount of air pressure entering the tank and is the first “line of defence” for the ship.[^63] Mr Joseph had in fact accepted that the incident would not have happened if the manifold valve had been controlled correctly:[^64]
 
-Q:So if that pressure that was coming into the ship was correctly controlled, right, and it is controlled at the manifold, is it not?
+> Q:So if that pressure that was coming into the ship was correctly controlled, right, and it is controlled at the manifold, is it not?
 
-A:Yes.
+> A:Yes.
 
-Q:This incident would not have happened.
+> Q:This incident would not have happened.
 
-A:Yes.
+> A:Yes.
 
 146    Mr Joseph appears to accept that there was a lapse in procedure in the present case. His complaint, however, is that the _Bum Chin_ was unable to execute the procedures outlined at \[144\] above as the terminal had not given prior warning of the change in phase of the operations (whether it be pigging or line blowing). Accordingly, there was no opportunity to give the Manifold Watchman any instructions to close and adjust the manifold valve. The manifold valve was left fully open since the completion of loading.[^65] In his first AEIC, he described the failings of the terminal and the steps he had taken to mitigate these failings in the following terms:[^66]
 
-At 0524 hours local time, the manifold watchman Able Seaman Mr Manendra Pandey who was a member of our crew informed me by radio that he had been told by the \[t\]erminal representative that loading into \[t\]ank 4S was completed and pigging operations had begun. This was unusual as normally the \[t\]erminal would ask us to shut the manifold valve when loading was completed and then ask us to open the manifold valve before they start pigging. They did not do so. If they had done so I would have asked the \[t\]erminal to reduce the loading rate to the top off rate of 100 m3/hour so that by the time 95% of the cargo was loaded, loading would be at the reduced rate. However since pigging had already started, I could not do so.
+> At 0524 hours local time, the manifold watchman Able Seaman Mr Manendra Pandey who was a member of our crew informed me by radio that he had been told by the \[t\]erminal representative that loading into \[t\]ank 4S was completed and pigging operations had begun. This was unusual as normally the \[t\]erminal would ask us to shut the manifold valve when loading was completed and then ask us to open the manifold valve before they start pigging. They did not do so. If they had done so I would have asked the \[t\]erminal to reduce the loading rate to the top off rate of 100 m3/hour so that by the time 95% of the cargo was loaded, loading would be at the reduced rate. However since pigging had already started, I could not do so.
 
-Since the \[t\]erminal said they already started pigging, as safety precaution we could not shut the manifold. I told Mr Pandey to tell the \[t\]erminal representative to do pigging at a slow rate and he confirmed that he had done so. After that I asked Mr Pandey to check the pressure gauge at the manifold. He checked and told me that the pressure was normal. I checked the tank pressure and it was somewhere between 10-20 HPA.
+> Since the \[t\]erminal said they already started pigging, as safety precaution we could not shut the manifold. I told Mr Pandey to tell the \[t\]erminal representative to do pigging at a slow rate and he confirmed that he had done so. After that I asked Mr Pandey to check the pressure gauge at the manifold. He checked and told me that the pressure was normal. I checked the tank pressure and it was somewhere between 10-20 HPA.
 
 147    Mr Joseph was cross-examined on these paragraphs. He added that while the _Bum Chin_ could not adjust the manifold valve while pigging was underway, it always open him to instruct the terminal to stop pigging in order to close the manifold valve for subsequent adjustment and to set the pressure alarm.[^67]
 
@@ -627,31 +627,31 @@ Since the \[t\]erminal said they already started pigging, as safety precaution w
 
 171    According to the plaintiff, based on the Ship/Shore Safety Checklist, it was agreed that only the P/V valve would be used for venting as the _Bum Chin_ did not have a purge pipe. In this regard, Mr Joseph explained that “PV/purge pipe” means that the _Bum Chin_ will be venting through the P/V valve _and_ the purge pipe. First, Mr Joseph’s explanation that the slash in “PV/purge pipe” is to be read as “and” is not persuasive. Second, the _Bum Chin_ is not fitted with a purge pipe. Mr Joseph claims that “purge pipe” is nautical “slang” for gas free vent. His explanation is that even though the _Bum Chin_ is not fitted with a purge pipe, by opening the cover of the gas free vent, the gas free vent would serve as a purge pipe. However, Mr Joseph eventually agreed on further cross-examination that both venting facilities were different and that the _Bum Chin_ is not fitted with a purge pipe: [^72]
 
-Q:Yes. And you confirm that the Bum Chin did not have a purge pipe?
+> Q:Yes. And you confirm that the Bum Chin did not have a purge pipe?
 
-A:Yes.
+> A:Yes.
 
-…
+> …
 
-A:The purpose of the purge pipe and gas freeing cover is the same. Only some ships are fitted with separate pipes and some ships are fitted in the same PV stack. …
+> A:The purpose of the purge pipe and gas freeing cover is the same. Only some ships are fitted with separate pipes and some ships are fitted in the same PV stack. …
 
-…
+> …
 
-Q:A gas free vent is not a purge pipe. You said that earlier.
+> Q:A gas free vent is not a purge pipe. You said that earlier.
 
-A:Yes.
+> A:Yes.
 
-Q:The Bum Chin does not have a purge pipe. You said that earlier as well.
+> Q:The Bum Chin does not have a purge pipe. You said that earlier as well.
 
-A:Yes.
+> A:Yes.
 
 172    The Ship/Shore Safety Checklist makes clear that the venting agreed upon for the _Bum Chin_ was through its P/V valve. The venting arrangements in items 29 and 30 of the Ship/Shore Safety Checklist are on controlled venting. Therefore, any assertion that there was to be open venting for the consignment of palm oil products is inconsistent with what has been agreed and hence incorrect.
 
 173    Mr Joseph also explained that while the Intended Stowage Plan showed that controlled venting was to be adopted, the document was made in advance of the actual loading and he had then anticipated that the terminal would not allow open venting. When it came to actual cargo operations, it was discussed that the _Bum Chin_ would adopt open venting and hence, the Ship/Shore Safety Checklist indicated open venting:[^73]
 
-Q:“Controlled”.
+> Q:“Controlled”.
 
-A:Controlled just using PV. Before making the plan, before making the plan, some of the terminals don’t allow open venting, because the gas escapes and the smell comes. So most of the terminals don’t allow to do open venting. So in the plan we made it as controlled, and why---before starting the operations, we already discussed with the terminal, we asked them whether they allow open venting or not. After that, we decided to go on open venting, and then mentioned that in the ship shore checklist.
+> A:Controlled just using PV. Before making the plan, before making the plan, some of the terminals don’t allow open venting, because the gas escapes and the smell comes. So most of the terminals don’t allow to do open venting. So in the plan we made it as controlled, and why---before starting the operations, we already discussed with the terminal, we asked them whether they allow open venting or not. After that, we decided to go on open venting, and then mentioned that in the ship shore checklist.
 
 174    As explained in \[172\], I do not accept that open venting was agreed upon in the Ship/Shore Safety Checklist. At trial, Mr Gurbani pointed out that the Intended Stowage Plan was eventually endorsed by the Master on 20 April 2013, after the incident had occurred. It was also further pointed out to Mr Joseph that there was no need for the Master to sign the plan at all if it was never used. The inference is that the Intended Stowage Plan was the final stowage plan and it is significant that the document stated controlled venting. As the Master was not called to testify, Mr Joseph agreed that he could not explain the Master’s intention behind endorsing the Intended Stowage Plan.[^74]
 
@@ -659,23 +659,23 @@ A:Controlled just using PV. Before making the plan, before making the plan, some
 
 176    Based on the Ship’s Manual, when open venting is adopted, the Butterworth hatch must also be used as a “safety relief valve”. It is accepted that there are at least two Butterworth hatches for each tank.[^75] For open venting, the Ship’s Manual instructs the ship to “open and leave a Butterworth hatch unsecured”.[^76] There is no evidence to show that there has been compliance with this requirement in the Ship’s Manual. Mr Joseph was cross-examined on the status of the Butterworth hatch:[^77]
 
-A:So that’s the butter worth tank, where hatch was not opened, but it is not secured.
+> A:So that’s the butter worth tank, where hatch was not opened, but it is not secured.
 
-Q:Okay. So you don’t open it. When you say “open” means the lid is off, right?
+> Q:Okay. So you don’t open it. When you say “open” means the lid is off, right?
 
-A:Lid is off, yes.
+> A:Lid is off, yes.
 
-Q:That’s what open means.
+> Q:That’s what open means.
 
-A:Yes.
+> A:Yes.
 
-Q:But it was unsecured.
+> Q:But it was unsecured.
 
-A:It was unsecured.
+> A:It was unsecured.
 
-Q:The lid was on, but it was unsecured.
+> Q:The lid was on, but it was unsecured.
 
-A:Lid was on, unsecured, yes.
+> A:Lid was on, unsecured, yes.
 
 The Butterworth hatch was not left open, though it was unsecured.
 
@@ -703,11 +703,11 @@ The Butterworth hatch was not left open, though it was unsecured.
 
 187    To reiterate, the parties put forward three theories as to the cause of the damage to tank 4S:
 
-(a)     Pre-existing weld defects and fatigue cracks in the tank top of tank 4S (“structural weaknesses of tank 4S”);
+> (a)     Pre-existing weld defects and fatigue cracks in the tank top of tank 4S (“structural weaknesses of tank 4S”);
 
-(b)     Insufficient venting that resulted in over-pressurisation of tank 4S (“insufficient venting of tank 4S”); and
+> (b)     Insufficient venting that resulted in over-pressurisation of tank 4S (“insufficient venting of tank 4S”); and
 
-(c)     Over-pressurisation of tank 4S as a result of the sudden surge of air into tank 4S (“sudden surge theory”).
+> (c)     Over-pressurisation of tank 4S as a result of the sudden surge of air into tank 4S (“sudden surge theory”).
 
 188    In the light of the key factual findings above, I will now examine the three theories. It is convenient and expedient to examine the sudden surge theory first. Thereafter, the insufficient venting of tank 4S and structural weaknesses of tank 4S will be evaluated. Insufficient venting is easily disposed of having regard to the views in \[186\] above.
 
@@ -729,15 +729,29 @@ The Butterworth hatch was not left open, though it was unsecured.
 
 196    I now turn to the plaintiff’s criticisms of the experts’ analyses. The plaintiff highlights what it considers as three flaws in Dr Ong’s analysis:[^86]
 
-(a)     Dr Ong only modelled a single wall panel, fixed at three sides. Such a model is unrealistic given that the actual wall panel was welded to the _Bum Chin’s_ structure around all four sides. Further, the absence of full restraint makes the wall more flexible, thereby allowing the buckling to take place more easily.
+> (a)     Dr Ong only modelled a single wall panel, fixed at three sides. Such a model is unrealistic given that the actual wall panel was welded to the _Bum Chin’s_ structure around all four sides. Further, the absence of full restraint makes the wall more flexible, thereby allowing the buckling to take place more easily.
 
-(b)     Dr Ong’s model completely disregarded the presence of weld defects, but yet concludes that these defects were extremely unlikely to be the primary cause of tank failure without any scientific basis or calculation. As Dr Chee pointed out, Dr Ong’s model was based on an assumption that buckling is going to take place, therefore the defects were not considered in the model in the first place. In failure analysis, it is necessary to model the actual tank exactly so that actual deformation can be observed and deduced from that.
+> (b)     Dr Ong’s model completely disregarded the presence of weld defects, but yet concludes that these defects were extremely unlikely to be the primary cause of tank failure without any scientific basis or calculation. As Dr Chee pointed out, Dr Ong’s model was based on an assumption that buckling is going to take place, therefore the defects were not considered in the model in the first place. In failure analysis, it is necessary to model the actual tank exactly so that actual deformation can be observed and deduced from that.
 
-(c)     Dr Ong’s model disregards the venting capacity of tank 4S.
+> (c)     Dr Ong’s model disregards the venting capacity of tank 4S.
 
 197    Criticism (b) is valid. Dr Ong had assumed that the structural weaknesses were irrelevant from the outset and that all he needed was to show technical evidence to support this assumption:[^87]
 
-<table align="left" cellpadding="0" cellspacing="0" class="Judg-2" frame="none" pgwide="1"><colgroup><col width="34.42%"> <col width="65.58%"> </colgroup><tbody><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Witness (DW11):</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Okay, because I see that that is a subsequent so called questions to be asked. Maybe let me describe to the Court: the way I --- the approach the methodology I approached this problem. Okay, when I first known of these problems, and--- by Philip, and he described the problem to me, and he said that--- that the tank wall has buckled and there was also the---the tank top has ruptured, and he asked me, in the very first meeting what caused the tank wall to buckle. <em>I say definitely it’s due to internal pressure. The weld defect has nothing to do---do with it. But then I need to show some so-called technical evidence to---to show what I say is true, and that’s why I---I used the finite element model. By the way, finite element model, it’s a universal engineering analysis too, and it---it can be used to model complex engineering geometry, including in this case the tank</em>”.</p></td></tr><tr><td align="left" class="" colspan="2" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">[emphasis added]</p></td></tr></tbody></table>
+>   
+| 
+
+Witness (DW11):
+
+ | 
+
+Okay, because I see that that is a subsequent so called questions to be asked. Maybe let me describe to the Court: the way I --- the approach the methodology I approached this problem. Okay, when I first known of these problems, and--- by Philip, and he described the problem to me, and he said that--- that the tank wall has buckled and there was also the---the tank top has ruptured, and he asked me, in the very first meeting what caused the tank wall to buckle. _I say definitely it’s due to internal pressure. The weld defect has nothing to do---do with it. But then I need to show some so-called technical evidence to---to show what I say is true, and that’s why I---I used the finite element model. By the way, finite element model, it’s a universal engineering analysis too, and it---it can be used to model complex engineering geometry, including in this case the tank_”.
+
+ |
+| 
+
+\[emphasis added\]
+
+ |
 
   
   
@@ -748,49 +762,49 @@ On further cross-examination, Dr Ong also accepted that he had not taken the str
 
 199    I now turn to the plaintiff’s criticisms of Dr Chua’s report. The plaintiff say that Dr Chua was not fully apprised of the presence of defects, the design of tank 4S and other material facts such as the state of the main valve at the jetty:[^88]
 
-Q:… _Have you assumed that the main valve in the jetty was completely open_?
+> Q:… _Have you assumed that the main valve in the jetty was completely open_?
 
-A:I’m sorry, I don’t---Your Honour, I am sorry, I do not have the---the knowledge on that part, but can assume it is open. …
+> A:I’m sorry, I don’t---Your Honour, I am sorry, I do not have the---the knowledge on that part, but can assume it is open. …
 
-…
+> …
 
-Q:So, Professor Chua, we---if in fact the jetty valve was not \[open\] 100%, and I understand, from some materials I have seen, I don’t know quite where now, that that is 37 turns, right? If that was not correct, _if the jetty valve was not open completely, or 100%, do you agree that the basis of the calculations that you have done, you know, will be wrong?_
+> Q:So, Professor Chua, we---if in fact the jetty valve was not \[open\] 100%, and I understand, from some materials I have seen, I don’t know quite where now, that that is 37 turns, right? If that was not correct, _if the jetty valve was not open completely, or 100%, do you agree that the basis of the calculations that you have done, you know, will be wrong?_
 
-A:Yeah, but that should---_definitely, that should be affected, but we still can recalculate to show the time_.
+> A:Yeah, but that should---_definitely, that should be affected, but we still can recalculate to show the time_.
 
-….
+> ….
 
-Q:… you did say that Professor Ong may have told you that you don’t have to take into account defects. Did you ask him why?
+> Q:… you did say that Professor Ong may have told you that you don’t have to take into account defects. Did you ask him why?
 
-A:I do admit to you, I’ve been---I---I really do not know at the very beginning, because I joined at the very, very end.
+> A:I do admit to you, I’ve been---I---I really do not know at the very beginning, because I joined at the very, very end.
 
-….
+> ….
 
-Q:Did you even know, Professor Chua, that there were defects, when you did the report?
+> Q:Did you even know, Professor Chua, that there were defects, when you did the report?
 
-…
+> …
 
-A:At that time, no.
+> A:At that time, no.
 
-Q:So _the report was prepared on the basis that there were no defects_?
+> Q:So _the report was prepared on the basis that there were no defects_?
 
-A:Yah, _I didn’t even know there’s a defect. …_
+> A:Yah, _I didn’t even know there’s a defect. …_
 
-…
+> …
 
-Q:… Professor Chua, I think you said earlier that there was a high speed---_you took into account a high speed flow and high speed---high---_
+> Q:… Professor Chua, I think you said earlier that there was a high speed---_you took into account a high speed flow and high speed---high---_
 
-_A:_ _Flow rate._
+> _A:_ _Flow rate._
 
-Q:\---volume flow rate, as far as the tank is concerned. _Were you told that the tank is actually fitted with diffusers at the bottom of the loading line_?
+> Q:\---volume flow rate, as far as the tank is concerned. _Were you told that the tank is actually fitted with diffusers at the bottom of the loading line_?
 
-….
+> ….
 
-Q:Well, _the purpose of a diffuser is to slow down rates at the bottom of the loading line. So were you told that, or you assumed that there were no diffusers, or you don’t know that there were diffusers_
+> Q:Well, _the purpose of a diffuser is to slow down rates at the bottom of the loading line. So were you told that, or you assumed that there were no diffusers, or you don’t know that there were diffusers_
 
-A: _No, I---I was not told that_.
+> A: _No, I---I was not told that_.
 
-\[emphasis added\]
+> \[emphasis added\]
 
 200    In my view, without being apprised of the above matters, Dr Chua could not have taken into account all the material facts to render his calculations reliable. Specifically, as regards the main valve at the jetty, Dr Chua’s answer in cross-examination in \[199\] above is significant. Dr Chua’s readily admitted that he had assumed that the main jetty valve was opened. He accepted that his calculations would be affected if the main valve was closed and recalculation is needed. As stated, the finding is that the Duty Loading Master had closed the main jetty valve. Hence, based on Dr Chua’s answer in cross-examination that a recalculation of time is required, unless he had revised his report, Dr Chua’s conclusion on the time required to buckle the bulkhead is unreliable. Furthermore, the conclusion in his report is unreliable as the report was prepared on the basis that there were no defects in tank 4S.
 
@@ -867,11 +881,11 @@ A: _No, I---I was not told that_.
 
 228    It is not controversial that the amount of cargo on board the _Bum Chin_ at the time of the incident is as follows:
 
-(a)     1,200.055mt of ROL IV 64;
+> (a)     1,200.055mt of ROL IV 64;
 
-(b)     2,327.944mt of ROL; and
+> (b)     2,327.944mt of ROL; and
 
-(c)     1,146.451mt of RPO.
+> (c)     1,146.451mt of RPO.
 
 229    As a result of the incident, the cargo on board had to be discharged and during discharge, losses were sustained. The quantities of cargo downgraded or discharged go towards calculating Category A, B and C losses. In relation to Category B and C losses (_ie_, the amount of ROL IV 64 and ROL lost upon discharge), the plaintiff relies on the market price to quantify its loss. In the quality claim for Category A loss, the measure of damages used is the diminution in the value of ROL IV 64 as a result of contamination.
 
@@ -879,9 +893,9 @@ A: _No, I---I was not told that_.
 
 231    Awaluddin testified in court that he was the one who measured the quantities of oil, and produced the documents evidencing the quantities. Awaluddin conducted the survey work for the _Bum Chin_ by taking the ullage sounding and temperature of the tanks. He measured the depth of the oil three times with a manual measuring equipment and recorded the results of ullage sounding and temperature, which would then be cross-checked by a personnel from MNA. The lost cargo due to discharge in the plaintiff’s claims were arrived at based on the following:
 
-(a)     The total quantity of ROL IV 64 in tank 4S of the _Bum Chin_ at the time of the incident was 1,200.055mt and upon discharge to the shore tanks and the draining of seawater, the quantity determined was 1,175.981mt. Therefore, 24.074mt of ROL IV 64 was lost as a result.
+> (a)     The total quantity of ROL IV 64 in tank 4S of the _Bum Chin_ at the time of the incident was 1,200.055mt and upon discharge to the shore tanks and the draining of seawater, the quantity determined was 1,175.981mt. Therefore, 24.074mt of ROL IV 64 was lost as a result.
 
-(b)     The total quantity of ROL loaded on board the _Bum Chin_ was 2,327.944mt at the time of the incident and upon discharge to the shore tanks and the draining of seawater, the quantity determined was 2,281.152mt. Therefore, 46.792mt of ROL was lost as a result.
+> (b)     The total quantity of ROL loaded on board the _Bum Chin_ was 2,327.944mt at the time of the incident and upon discharge to the shore tanks and the draining of seawater, the quantity determined was 2,281.152mt. Therefore, 46.792mt of ROL was lost as a result.
 
 The defendant took no issue with Awaluddin’s evidence.
 
@@ -898,19 +912,19 @@ The defendant took no issue with Awaluddin’s evidence.
 
 234    The evidence on quantification of the plaintiff’s claim for damages was led by Ms Chen. She testified to her personal knowledge of the market prices of the various palm oil products and through her, the following documents on market prices were adduced:[^96]
 
-(a)     an email enclosing a price list of crude and refined palm oil products supplied by Malaysian brokers from Reuters dated 15 April 2013; and
+> (a)     an email enclosing a price list of crude and refined palm oil products supplied by Malaysian brokers from Reuters dated 15 April 2013; and
 
-(b)     price quotations of Premium for ROL IV 64 over ROL from three brokers in the palm oil industry.
+> (b)     price quotations of Premium for ROL IV 64 over ROL from three brokers in the palm oil industry.
 
 235    The defendant argues that these documents are inadmissible on the basis of hearsay since a market expert was not called to testify on the market prices of the losses.[^97] In addition, the defendant argues that the market prices relied on by the plaintiff were “cobbled from friendly business associates” and hence unreliable.[^98] Hence, the plaintiff has not proven the market prices for the purpose of quantifying its claims.
 
 236    Contrary to the defendant’s position, there is no need for an expert to prove the market prices because the sort of information at hand is the readily available through Reuters. Further, the defendant’s contention that Ms Chen’s evidence as well as the documents adduced are hearsay and unreliable is without basis. It is not in every circumstance that the hearsay rule is offended. I adopt the following helpful passages from _Saga Foodstuffs Manufacturing (Pte) Ltd v Best Food Pte Ltd_ <span class="citation">\[1994\] 3 SLR(R) 1013</span> (“_Saga Foodstuffs_”) at \[11\] and \[16\]:
 
-… When evidence is sought to be given of what someone said to the testifying witness, whether such evidence offends the rule against hearsay depends on the purpose for which the evidence is sought to be tendered. If it is sought to be tendered for the purpose of establishing the truth of what was said to the testifying witness, its introduction will offend the rule. On the other hand, if the purpose of tendering the evidence is merely to show that such a statement was made, and not that the statement is true, then the rule is not offended. …
+> … When evidence is sought to be given of what someone said to the testifying witness, whether such evidence offends the rule against hearsay depends on the purpose for which the evidence is sought to be tendered. If it is sought to be tendered for the purpose of establishing the truth of what was said to the testifying witness, its introduction will offend the rule. On the other hand, if the purpose of tendering the evidence is merely to show that such a statement was made, and not that the statement is true, then the rule is not offended. …
 
-…
+> …
 
-… It seems to me that evidence of the results of a market survey research of the kind in question in this suit is evidence of the existence of the belief and opinion held by the respondents to the survey. The purpose of tendering such evidence is to show that such belief or opinion exists; there is no question of tendering it for the purpose of proving the truth or merits of the belief or opinion so held. …
+> … It seems to me that evidence of the results of a market survey research of the kind in question in this suit is evidence of the existence of the belief and opinion held by the respondents to the survey. The purpose of tendering such evidence is to show that such belief or opinion exists; there is no question of tendering it for the purpose of proving the truth or merits of the belief or opinion so held. …
 
 237    I accept Ms Chen testimony that she has personal knowledge of the market norms on pricing. In her evidence, the Unit Price of Premium for ROL IV 64 over ROL ranges from US$90 to US$100 per mt, and to quantify the plaintiff’s claim, she used the figure of US$90 per mt, which is the lowest price within her knowledge.[^99] Now it is unsurprising that Ms Chen would have such personal knowledge of the market price of palm oil products as she was the senior executive of operations of the plaintiff at the material time. In her role, she would be aware of the value of ROL IV 64 from the various other concluded contracts in seeing to their performance. The documents above were not adduced to prove the truth of their contents neither were the documents adduced to prove the market prices set out in the table at \[233\] above. The documents only go to show that the opinion on market price in the documents are within the range of market prices in Ms Chen’s knowledge. As stated, Ms Chen had herself arrived at the Unit Price of Premium for ROL IV 64 over ROL in the range of US$90 to US$100 per mt, and chose to use US$90 per mt to quantify the plaintiff’s claim. The quotations from the three companies of the Unit Price of Premium for ROL IV 64 over ROL gave price ranges that collectively fall within the bracket of US$70 to US$100 per mt. Indeed, price ranges of each company varied by a mere difference of US$5 to US$10 per mt. All in all, I accept the figure of US$90 per mt as reasonable in the absence of countervailing evidence from the defendant. Therefore, I accept the plaintiff’s proposed market prices in the table above at \[233\].
 
@@ -950,13 +964,13 @@ The defendant took no issue with Awaluddin’s evidence.
 
 251    As a result of the incident a substitute vessel was chartered to carry the cargo loaded onto and yet to be loaded onto the _Bum Chin_. The voyage had to be abandoned given the damage to the _Bum Chin_, and the damage had to repaired before the _Bum Chin_ could be put back to service. The Korean Class Surveyor’s Survey Report dated 19 April 2013 states the following:[^109]
 
-Reviewing the condition of damage. Vessel is permitted to depart for the nearest repairing facility i.e. Singapore or Malaysia _without any cargo onboard_.
+> Reviewing the condition of damage. Vessel is permitted to depart for the nearest repairing facility i.e. Singapore or Malaysia _without any cargo onboard_.
 
-And the following damaged parts are to be repair as soon as possible but not later than 30 May 2013.
+> And the following damaged parts are to be repair as soon as possible but not later than 30 May 2013.
 
-…
+> …
 
-\[emphasis added\]
+> \[emphasis added\]
 
 252    This factual matrix gave rise to the Category E, F and G losses and I will now turn to the quantum of the claims.
 
@@ -984,11 +998,11 @@ And the following damaged parts are to be repair as soon as possible but not lat
 
 260    To conclude, the plaintiff has only succeeded in proving three out of seven categories of losses, amounting to US$206,706.98, the breakdown of which is as follows:
 
-(a)     Category A: US$148,467.60
+> (a)     Category A: US$148,467.60
 
-(b)     Category B: US$21,215.21
+> (b)     Category B: US$21,215.21
 
-(c)     Category C: US$37,024.17
+> (c)     Category C: US$37,024.17
 
 ## Overall conclusion
 

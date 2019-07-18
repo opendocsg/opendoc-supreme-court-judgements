@@ -47,13 +47,13 @@ Family Law – Ancillary Matters – Maintenance of wife – Maintenance o
 
 12     As the values of a number of the Parties’ matrimonial assets are denominated in currencies other than the Singapore Dollar (SGD or $), in the calculation of the values of these assets, I will apply the following exchange rates agreed upon by Parties:[^11]
 
-(a)     1 SGD ($) = 0.761 USD (US Dollar)
+> (a)     1 SGD ($) = 0.761 USD (US Dollar)
 
-(b)     1 SGD ($) = 2.948 MYR (Malaysian Ringgit)
+> (b)     1 SGD ($) = 2.948 MYR (Malaysian Ringgit)
 
-(c)     1 SGD ($) = 4.804 RMB (Renminbi)
+> (c)     1 SGD ($) = 4.804 RMB (Renminbi)
 
-(d)     1SGD ($) = 5.980 HKD (Hong Kong Dollar)
+> (d)     1SGD ($) = 5.980 HKD (Hong Kong Dollar)
 
 ### The legal principles
 
@@ -228,11 +228,11 @@ Family Law – Ancillary Matters – Maintenance of wife – Maintenance o
 
 56     In their submissions on the division of matrimonial assets, Parties have used the structured approach laid out by the Court of Appeal in _ANJ v ANK_ <span class="citation">\[2015\] 4 SLR 1043</span> (“_ANJ v ANK_”). This approach was succinctly summarised in _TIT v TIU_ <span class="citation">\[2016\] 3 SLR 1137</span> (“_TIT v TIU_”) at \[21\] as follows:
 
-(a)    express as a ratio the parties’ direct contributions relative to each other, having regard to the amount of financial contribution each party made towards the acquisition or improvement of the matrimonial assets (“Step 1”);
+> (a)    express as a ratio the parties’ direct contributions relative to each other, having regard to the amount of financial contribution each party made towards the acquisition or improvement of the matrimonial assets (“Step 1”);
 
-(b)    express as a second ratio the parties’ indirect contributions relative to each other, having regard to both financial and nonfinancial contributions (“Step 2”); and
+> (b)    express as a second ratio the parties’ indirect contributions relative to each other, having regard to both financial and nonfinancial contributions (“Step 2”); and
 
-(c)    derive the parties’ overall contributions relative to each other by taking an average of the two ratios above (the derived ratio shall be referred to as “the average ratio”), keeping in mind that, depending on the circumstances of each case, the direct and indirect contributions may not be accorded equal weight, and one of the two ratios may be accorded more significance than the other. Adjustments could also be made in respect of other relevant factors under s 112 or s 114(1) of the Women’s Charter (Cap 353, 2009 Rev Ed) (“the Charter”) (“Step 3”).
+> (c)    derive the parties’ overall contributions relative to each other by taking an average of the two ratios above (the derived ratio shall be referred to as “the average ratio”), keeping in mind that, depending on the circumstances of each case, the direct and indirect contributions may not be accorded equal weight, and one of the two ratios may be accorded more significance than the other. Adjustments could also be made in respect of other relevant factors under s 112 or s 114(1) of the Women’s Charter (Cap 353, 2009 Rev Ed) (“the Charter”) (“Step 3”).
 
 57     I will apply this structured approach in the present case.
 
@@ -307,29 +307,29 @@ Family Law – Ancillary Matters – Maintenance of wife – Maintenance o
 
 75     The Husband has submitted that the indirect contributions should be 70:30 between him and the Wife,[^83] while she submitted that it should be 20:80 instead between the Husband and her.[^84] In coming to a decision on the indirect contributions of Parties, I take into consideration the following factors:
 
-(a)     This was a relatively long marriage of more than 20 years;
+> (a)     This was a relatively long marriage of more than 20 years;
 
-(b)     When Parties married in 1992, both worked full time. The Husband moved to Shenzhen in 1995 to further his career. The Wife stayed in Singapore and only moved to Shenzhen in 1998.
+> (b)     When Parties married in 1992, both worked full time. The Husband moved to Shenzhen in 1995 to further his career. The Wife stayed in Singapore and only moved to Shenzhen in 1998.
 
-(c)     The Husband started working in Guangzhou in late 1999 whilst the Wife continued working in Shenzhen. He claimed that he commuted daily between the two cities when he was not travelling on business, relying on the evidence of his employer’s then driver who stated that he sent the Husband to the Guangzhou train station after work.[^85] This was disputed by the Wife who said that the journey each way would have taken him some four hours, and the Husband could have gone elsewhere after being dropped off at the train station.[^86] The Husband, however, explained how it would only have taken an hour and a half.[^87] Even taking the Husband’s best case, he would have reached home past 7.30 pm, having left work at 6.00 pm. He would not have spent as much time with the children as his Wife did, whether or not he went home daily.
+> (c)     The Husband started working in Guangzhou in late 1999 whilst the Wife continued working in Shenzhen. He claimed that he commuted daily between the two cities when he was not travelling on business, relying on the evidence of his employer’s then driver who stated that he sent the Husband to the Guangzhou train station after work.[^85] This was disputed by the Wife who said that the journey each way would have taken him some four hours, and the Husband could have gone elsewhere after being dropped off at the train station.[^86] The Husband, however, explained how it would only have taken an hour and a half.[^87] Even taking the Husband’s best case, he would have reached home past 7.30 pm, having left work at 6.00 pm. He would not have spent as much time with the children as his Wife did, whether or not he went home daily.
 
-(d)     The Parties’ first child was born in 2001. The second child was born in 2006.
+> (d)     The Parties’ first child was born in 2001. The second child was born in 2006.
 
-(e)     In 2008 the Husband took a position in Beijing. The Wife and children continued to reside in Shenzhen from 2008 to 2010. The Husband would travel to Shenzhen to meet the family.
+> (e)     In 2008 the Husband took a position in Beijing. The Wife and children continued to reside in Shenzhen from 2008 to 2010. The Husband would travel to Shenzhen to meet the family.
 
-(f)     In 2010, the Wife and children moved to Beijing. She worked out of her home on a number of business opportunities and her travels between 2010 and 2014 within China and to South East Asia for those purposes were not infrequent.[^88]
+> (f)     In 2010, the Wife and children moved to Beijing. She worked out of her home on a number of business opportunities and her travels between 2010 and 2014 within China and to South East Asia for those purposes were not infrequent.[^88]
 
-(g)     Parties had the services of a maid in Shenzhen.[^89] While the Parties were in Beijing, they had the services of a part-time maid.
+> (g)     Parties had the services of a maid in Shenzhen.[^89] While the Parties were in Beijing, they had the services of a part-time maid.
 
-(h)     The Wife claimed that she paid for all of the household expenses while based in Shenzhen. The Husband claimed the majority of the expenses were settled via his credit card. It was more likely than not that the Husband bore a greater share of the financial burden, given his greater earning power, and the investments which the Wife was making, which would have reduced the sum she has available to pay for the family and children’s expenses.
+> (h)     The Wife claimed that she paid for all of the household expenses while based in Shenzhen. The Husband claimed the majority of the expenses were settled via his credit card. It was more likely than not that the Husband bore a greater share of the financial burden, given his greater earning power, and the investments which the Wife was making, which would have reduced the sum she has available to pay for the family and children’s expenses.
 
-(i)     After moving to Beijing, the Husband gave the Wife a monthly allowance.
+> (i)     After moving to Beijing, the Husband gave the Wife a monthly allowance.
 
-(j)     The Husband spent time with the family whenever he could when the children were born and when they were growing up, and was closely involved in the milestone family events such as birthdays.[^90] He also organised family outings and holidays,[^91] and cooked for the family on weekends.[^92]
+> (j)     The Husband spent time with the family whenever he could when the children were born and when they were growing up, and was closely involved in the milestone family events such as birthdays.[^90] He also organised family outings and holidays,[^91] and cooked for the family on weekends.[^92]
 
-(k)     The Wife was using money from the Husband to pay for her investments in her multi-level marketing business in CANAI.[^93]
+> (k)     The Wife was using money from the Husband to pay for her investments in her multi-level marketing business in CANAI.[^93]
 
-(l)     It was the Wife who was the principal care-giver of the children from the time they were born. Despite her employment when in Shenzhen and her business ventures after she stopped work, she was the parent who spent more time with the children, especially when the Husband was working in a different city from where the family resided.
+> (l)     It was the Wife who was the principal care-giver of the children from the time they were born. Despite her employment when in Shenzhen and her business ventures after she stopped work, she was the parent who spent more time with the children, especially when the Husband was working in a different city from where the family resided.
 
 76     I also note that Interim Judgment has been granted on the Wife’s Counterclaim in which the Wife has set out the details of the Husband’s alleged extra-marital affairs. Clearly, Parties’ relationship has not been a happy or harmonious one for some time. However, I would not go so far as to find that a negative value be ascribed to the Husband as the Wife has submitted ought to be the case. The facts here are quite different from that in _Chan Tin Sun v Fong Quay Sim_ <span class="citation">\[2015\] 2 SLR 195</span> (“_Chan Tin Sum v Fong Quay Sim_”) at \[27\], which the Wife had relied on, where the wife there had attempted to murder the husband by adding arsenic into his food. I also take guidance from the remarks of the Court of Appeal in _Chan Tin Sum v Fong Quay Sim_ on the no-fault basis of divorce within the Women’s Charter.
 
@@ -403,11 +403,11 @@ Family Law – Ancillary Matters – Maintenance of wife – Maintenance o
 
 96     In so deciding, I have also taken into consideration the following factors:
 
-(a)     While the Wife is unemployed presently, she is trained in accountancy with both working and business experience, and therefore has a not insubstantial earning capacity. Moreover, she is only 51 years old this year, and has at least 11 economically productive years in front of her if she chooses to retire at the age of 62, and more if she retires later.
+> (a)     While the Wife is unemployed presently, she is trained in accountancy with both working and business experience, and therefore has a not insubstantial earning capacity. Moreover, she is only 51 years old this year, and has at least 11 economically productive years in front of her if she chooses to retire at the age of 62, and more if she retires later.
 
-(b)     The Wife currently has the responsibility of looking after the children who reside with her under her care and control in Singapore while the Husband appears to reside with his partner and her child in Hong Kong. Since the children have reached an age when they can be fairly independent, the Wife will not be required to remain as a homemaker in order to look after them. The Wife therefore has time to earn a living.
+> (b)     The Wife currently has the responsibility of looking after the children who reside with her under her care and control in Singapore while the Husband appears to reside with his partner and her child in Hong Kong. Since the children have reached an age when they can be fairly independent, the Wife will not be required to remain as a homemaker in order to look after them. The Wife therefore has time to earn a living.
 
-(c)     While the standard of living of the family when it was living in Beijing was fairly high, adjustments would have to be made now that the marriage has broken down and the Wife and children have returned to live in Singapore where the standard and cost of living are different.
+> (c)     While the standard of living of the family when it was living in Beijing was fairly high, adjustments would have to be made now that the marriage has broken down and the Wife and children have returned to live in Singapore where the standard and cost of living are different.
 
 97     Had it been necessary to order maintenance for the Wife, I set out in the table below the positions of Parties on her expenses, and what I consider to be her reasonable expenses, with brief reasons for my findings:
 
@@ -463,11 +463,11 @@ Family Law – Ancillary Matters – Maintenance of wife – Maintenance o
 
 111    In light of the above, I order that:
 
-a.     The pool of matrimonial assets valued at $10,209,837.10 be divided between the Husband and the Wife in the shares of $6,051,370.45 for the Husband and $4,158,466.65 for the Wife;
+> a.     The pool of matrimonial assets valued at $10,209,837.10 be divided between the Husband and the Wife in the shares of $6,051,370.45 for the Husband and $4,158,466.65 for the Wife;
 
-b.     There be no maintenance for the Wife; and
+> b.     There be no maintenance for the Wife; and
 
-c.     The monthly maintenance for the daughter to be $3,990.00 and for the son to be $2,505.00, subject to any variations of their school fees and _ad hoc_ medical and dental expenses.
+> c.     The monthly maintenance for the daughter to be $3,990.00 and for the son to be $2,505.00, subject to any variations of their school fees and _ad hoc_ medical and dental expenses.
 
 112    I will hear Parties on costs.
 

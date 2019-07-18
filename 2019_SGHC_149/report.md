@@ -88,9 +88,9 @@ Limitation of Actions – Particular causes of action – Contract
 
 27     On 14 November 2013, a directors’ resolution was passed, regularising the withdrawals of the remaining sums by both YTP and YTL as interest-free loans repayable on demand (“the 2013 Resolution”). The 2013 Resolution was signed by the directors of SWE at the time, _ie_, YTP, YTL and YCW, and stated as follows:[^27]
 
-**Authorising unsecured balances to directors**
+> **Authorising unsecured balances to directors**
 
-APPROVED the sum of S$500,000 withdrawn in 2007 by YAK TIONG LIEW using \[BOC cheque\] 606010, S$2,325,156.62 withdrawn between 2006 and 2008 by YAK THYE PENG using \[BOC cheques\] 606009, 793485, 793486, 061687, 394985, 394988 less US$300,000 returned on 10 September 2008. The amount withdrawn shall be interest free and repayable on demand to the company.
+> APPROVED the sum of S$500,000 withdrawn in 2007 by YAK TIONG LIEW using \[BOC cheque\] 606010, S$2,325,156.62 withdrawn between 2006 and 2008 by YAK THYE PENG using \[BOC cheques\] 606009, 793485, 793486, 061687, 394985, 394988 less US$300,000 returned on 10 September 2008. The amount withdrawn shall be interest free and repayable on demand to the company.
 
 As regards cheque numbers 793485 and 793486 as referred to in the 2013 Resolution, it is not disputed that the correct references should in fact be to cheque numbers 793845 and 793846 respectively.[^28]
 
@@ -102,15 +102,15 @@ As regards cheque numbers 793485 and 793486 as referred to in the 2013 Resolutio
 
 30     While discussions were ongoing for YTP to repay the outstanding amount, a notice was issued on 21 August 2015 convening an annual general meeting of SWE. One of the matters to be dealt with was the re-election of directors:[^32]
 
-NOTICE IS HEREBY GIVEN that the Annual General Meeting of shareholders of \[SWE\] will be held… on 4 September 2015… to transact the following business:
+> NOTICE IS HEREBY GIVEN that the Annual General Meeting of shareholders of \[SWE\] will be held… on 4 September 2015… to transact the following business:
 
-ORDINARY BUSINESS
+> ORDINARY BUSINESS
 
-1.    …
+>> 1.    …
 
-2.    …
+>> 2.    …
 
-3.    To re-elect \[YTP\], \[YTL\] and \[YCW\] retiring under Article 74 of the Company’s Articles of association; …
+>> 3.    To re-elect \[YTP\], \[YTL\] and \[YCW\] retiring under Article 74 of the Company’s Articles of association; …
 
 31     On 4 September 2015, the AGM was convened with only Tang Siew Cheng (YTL’s ex-wife) and Low (as proxy for YTL) in attendance. YCW (a non-shareholder) presided as chairperson of the meeting. YTP did not attend, and called after the AGM was over to say that he could not attend as he had been ill. It was resolved at the AGM that only YTL and YCW be re-elected as directors; YTP was not re-elected.[^33]
 
@@ -154,25 +154,25 @@ ORDINARY BUSINESS
 
 43     YTP does not deny having received various sums at the material time, but avers that he is not liable to repay them for the following reasons:
 
-(a)     Some of those sums received were shareholder dividends paid in respect of profits made from the sale of various properties between 2006 and 2008.[^50]
+> (a)     Some of those sums received were shareholder dividends paid in respect of profits made from the sale of various properties between 2006 and 2008.[^50]
 
-(b)     Further, over the years, both YTL and YTP had at various times deposited money into the accounts of SWE and SWT, which were treated as one entity.[^51] Certain sums were paid either as a “refund”[^52] or were “meant to be on the account of SWT”.[^53]
+> (b)     Further, over the years, both YTL and YTP had at various times deposited money into the accounts of SWE and SWT, which were treated as one entity.[^51] Certain sums were paid either as a “refund”[^52] or were “meant to be on the account of SWT”.[^53]
 
-(c)     To the extent that these sums were recorded in the companies’ accounts as loans, there was a mutual understanding and agreement between the parties that these sums would not have to be repaid.[^54]
+> (c)     To the extent that these sums were recorded in the companies’ accounts as loans, there was a mutual understanding and agreement between the parties that these sums would not have to be repaid.[^54]
 
-(d)     YTL had himself received two substantial sums of $500,000 and $441,650 pursuant to the aforementioned mutual understanding and agreement.[^55] It had also been agreed that YTL could draw additional monthly sums from the Malaysian companies for, _inter alia_, the payment of maintenance towards his ex-wife.[^56]
+> (d)     YTL had himself received two substantial sums of $500,000 and $441,650 pursuant to the aforementioned mutual understanding and agreement.[^55] It had also been agreed that YTL could draw additional monthly sums from the Malaysian companies for, _inter alia_, the payment of maintenance towards his ex-wife.[^56]
 
-(e)     SWE’s claim is time barred by virtue of s 6(1) and s 32 of the Limitation Act (Cap 163, 1996 Rev Ed) (“Limitation Act”).[^57]
+> (e)     SWE’s claim is time barred by virtue of s 6(1) and s 32 of the Limitation Act (Cap 163, 1996 Rev Ed) (“Limitation Act”).[^57]
 
-(f)     All issues relating to the outstanding sums had already been resolved pursuant to the Suits 235/236 and Suit 664 Settlement Agreements.[^58]
+> (f)     All issues relating to the outstanding sums had already been resolved pursuant to the Suits 235/236 and Suit 664 Settlement Agreements.[^58]
 
 44     Turning to the counterclaim, YTP claims that SWE, SWT, YTL and/or YCW had: (i) engaged in a conspiracy with the intention of causing loss or financial harm to him, and (ii) acted oppressively or unfairly under s 216 of the Companies Act (Cap 50, 2006 Rev Ed) (“the Act”) against YTP as a shareholder of SWE and/or SWT by way of the following:
 
-(a)     Procuring the removal of YTP as director of SWE in breach of the common understanding that both YTP and YTL would have a say in the running and management of the SWE.[^59]
+> (a)     Procuring the removal of YTP as director of SWE in breach of the common understanding that both YTP and YTL would have a say in the running and management of the SWE.[^59]
 
-(b)     Breach of the fiduciary duties and duties of fidelity and good faith owed by YTL and YCW as directors of SWT and SWE[^60] in that YCW placed herself in a position of conflict of interest by engaging entities that she owned to carry out the investigative work required, and by charging excessive and exorbitant fees for the investigative work done by S2 and GAO Capital.[^61]
+> (b)     Breach of the fiduciary duties and duties of fidelity and good faith owed by YTL and YCW as directors of SWT and SWE[^60] in that YCW placed herself in a position of conflict of interest by engaging entities that she owned to carry out the investigative work required, and by charging excessive and exorbitant fees for the investigative work done by S2 and GAO Capital.[^61]
 
-(c)     Deliberately engineering the dilution of YTP’s shareholding in SWE by conducting the Rights Issue despite knowing that YTP would not be able to meet his obligations.[^62]
+> (c)     Deliberately engineering the dilution of YTP’s shareholding in SWE by conducting the Rights Issue despite knowing that YTP would not be able to meet his obligations.[^62]
 
 45     In terms of the relief sought, YTP claims, _inter alia_: (i) damages; (ii) the right to commence a derivative action in the name of SWE against YTL and/or YCW for the breaches of their fiduciary duties; and (iii) a buyout of his shares in SWE at a fair market valuation, _or_, an order that SWE and/or SWT be wound up on just and equitable grounds; (iv) a declaration that resolutions passed since the date of writ be nullified or rescinded; and (v) a declaration that any share transfers made pursuant to the Rights Issue be rescinded.[^63]
 
@@ -182,11 +182,11 @@ ORDINARY BUSINESS
 
 47     Based on the parties’ cases for the claim, the three main issues are:
 
-(a)     Whether the amounts paid out under the BOC Cheques are to be repaid or are recoverable as loans, or whether there was a mutual understanding that there was no need for repayment;
+> (a)     Whether the amounts paid out under the BOC Cheques are to be repaid or are recoverable as loans, or whether there was a mutual understanding that there was no need for repayment;
 
-(b)     Whether the claim is time-barred; and
+> (b)     Whether the claim is time-barred; and
 
-(c)     Whether the claim is compromised by the Suits 235/236 Settlement Agreement.
+> (c)     Whether the claim is compromised by the Suits 235/236 Settlement Agreement.
 
 ### Whether the amounts are to be repaid or are recoverable as loans
 
@@ -196,15 +196,15 @@ ORDINARY BUSINESS
 
 50     For completeness, I set out the 2013 Resolution again:[^66]
 
-We, the undersigned, being all the directors of \[SWE\] do on this date, agree and consent to pass the following resolutions as directors’ resolutions in writing:
+> We, the undersigned, being all the directors of \[SWE\] do on this date, agree and consent to pass the following resolutions as directors’ resolutions in writing:
 
-**Authorising unsecured balances to directors**
+> **Authorising unsecured balances to directors**
 
-APPROVED the sum of … S$2,325,156.62 withdrawn between 2006 and 2008 by YAK THYE PENG using Bank of China cheques 606009, 793485, 793486, 061687, 394985, 394988 less US$300,000 returned on 10 September 2008. The amount withdrawn shall be interest free and repayable on demand to the company.
+> APPROVED the sum of … S$2,325,156.62 withdrawn between 2006 and 2008 by YAK THYE PENG using Bank of China cheques 606009, 793485, 793486, 061687, 394985, 394988 less US$300,000 returned on 10 September 2008. The amount withdrawn shall be interest free and repayable on demand to the company.
 
-…
+> …
 
-\[Signed by YTL, YTP and YCW\]
+> \[Signed by YTL, YTP and YCW\]
 
 51     While I accept that the 2013 Resolution is not itself a loan agreement, I find that it is evidence of an agreement between SWE and YTP that the proceeds of the BOC Cheques be treated as an interest-free loan to YTP repayable on demand to SWE. I elaborate. The 2013 Resolution, as a resolution of the SWE’s board of directors, was a unilateral act of the company. It cannot, on its own, create mutually binding obligations between the company and a third party, even if that third party was one of the directors who had signed the resolution. That said, while the 2013 Resolution is not itself a loan agreement, it is clear evidence that SWE (by resolution of its board of directors) and YTP (in his personal capacity) intended that the proceeds of the BOC Cheques be treated as a loan by SWE to YTP.
 
@@ -228,21 +228,21 @@ APPROVED the sum of … S$2,325,156.62 withdrawn between 2006 and 2008 by YAK TH
 
 60     However, in respect of Cheque 2, YTP refers to a US$300,000 payment he had made to _SWT_ in September 2008.[^79] In other words, YTP argues that he had repaid the sum. He relies on the fact that at around the same time, YTL also returned a similar sum, and for which he is acknowledged not to owe any sum to SWE for cheque number 606010. Against this, SWE argues that SWE and SWT were separate legal entities, and that monies paid into the latter could not be later withdrawn from the former. This argument is at first blush quite attractive, but, as mentioned, the touchstone is whether YTP could prove a nexus between the sums withdrawn and deposited. Here, YCW had herself accepted – in no uncertain terms – not just that there was a nexus, but that it had been _agreed_ that the US$300,000 paid by YTP could be used to offset the sums he owed to SWE:[^80]
 
-Q:\---if … Mr Yak Tiong Liew took 500,000 and … that is deemed to be discharge by a \[US\]$300,000 payment \[by Yak Tiong Liew\]—
+> Q:\---if … Mr Yak Tiong Liew took 500,000 and … that is deemed to be discharge by a \[US\]$300,000 payment \[by Yak Tiong Liew\]—
 
-…
+> …
 
-Q:\---shouldn’t the $500,000 that Yak Thye Peng took at the same time---
+> Q:\---shouldn’t the $500,000 that Yak Thye Peng took at the same time---
 
-…
+> …
 
-Q:\---be similarly discharged by his payment of \[US\]$300,000 that he made? Do you agree?
+> Q:\---be similarly discharged by his payment of \[US\]$300,000 that he made? Do you agree?
 
-A:Yes.
+> A:Yes.
 
-Q:Alright. Thank you.
+> Q:Alright. Thank you.
 
-A:Yup. And---and there was a meeting that we actually agreed on that too.
+> A:Yup. And---and there was a meeting that we actually agreed on that too.
 
 61     Indeed, this appears to have been recorded in the 2013 Resolution in the form of a stipulation that the sum of “US$300,000 returned on 10 September 2008” should be deducted from the total sum owing. While YCW’s own record of the US$300,000 payment by YTP states the date of payment as 9 September 2008 (and not 10 September 2008 as stated in the 2013 Resolution),[^81] there was nothing to suggest that this was a reference to a different payment. YCW confirmed that the sum claimed in Statement of Claim (Amendment No 1) did not take this US$300,000 deduction into account.[^82]
 
@@ -272,17 +272,17 @@ A:Yup. And---and there was a meeting that we actually agreed on that too.
 
 71     It is clear to me, however, that this is in fact a claim for a debt arising from a loan agreement. The nature of SWE’s claim is clarified in Particular 1 of the Further and Better Particulars furnished on 17 September 2018 (“the Particulars”), in which para 14 of the Statement of Claim (Amendment No 1) was particularised as follows:
 
-**1\. Under paragraph \[14\] of Statement of Claim (Amendment No. 1)**
+> **1\. Under paragraph \[14\] of Statement of Claim (Amendment No. 1)**
 
-14.    Despite numerous demands from SWE, YTP has failed, neglected and/or refused to repay the sum of S$1,805,156.62 to SWE.
+> 14.    Despite numerous demands from SWE, YTP has failed, neglected and/or refused to repay the sum of S$1,805,156.62 to SWE.
 
 **Particulars**
 
-a.    Monies withdrawn by YTP and YTL without proper authorisation, including the cheques stated at paragraph 4 above, were acknowledged and recorded as debts owing by both of them to SWE;
+> a.    Monies withdrawn by YTP and YTL without proper authorisation, including the cheques stated at paragraph 4 above, were acknowledged and recorded as debts owing by both of them to SWE;
 
-b.    There was a director’s resolution dated 14 November 2013 (the “November 2013 Resolution”) that approved the amount withdrawn by YTP in respect of, amongst others, the cheques stated at paragraph 4 above as interest free loans repayable on demand to SWE;
+> b.    There was a director’s resolution dated 14 November 2013 (the “November 2013 Resolution”) that approved the amount withdrawn by YTP in respect of, amongst others, the cheques stated at paragraph 4 above as interest free loans repayable on demand to SWE;
 
-…
+> …
 
 72     At this juncture, I should state that there is some inconsistency in SWE’s case as to the time the agreement was reached. In particular, there is some discrepancy as to whether this was in 2013 or in 2014. Paragraph 9 of the Statement of Claim (Amendment No 1) states that YCW discovered the unauthorised withdrawals in or around 19 May 2014 and that an agreement to repay the amounts was only reached subsequently, whereas, Particular 1 of the Particulars provides that the 2013 Resolution regularised the withdrawals (though I note that Particular 3 of the Particulars claims that SWE first found out about YTP’s drawings “in or around 2014”). Notwithstanding the discrepancies in the pleadings on this aspect, YCW’s evidence is that the discrepancies were raised in or around October 2013 and that the decision to regularise them was made on 14 November 2013. This is corroborated by the AccVisory email (dated 9 October 2013)[^90] and the 2013 Resolution respectively.
 
@@ -294,7 +294,7 @@ b.    There was a director’s resolution dated 14 November 2013 (the “Nov
 
 75     By way of reminder, Suits 235/236 were brought by SWE and SWT against, _inter alia_, Hwee, Siong, Khim in February 2014. The Suits 235/236 Settlement Agreement was meant to resolve the disputes in connection with Suits 235/236, as well as loans involved in Suit 664 (“the defined subject matter”). Clause 2.1 provides that the Settlement Agreement only binds parties who have executed it. Further, cl 2.2 states as follows:[^92]
 
-This Settlement Agreement and the Suit 664 Settlement Agreement shall be in full and final settlement of all or any claims whatsoever between SWE, SWT, YTP, YTL, \[YCW\]…on the one hand, and SWA, \[two Malaysian companies\], Siong, Hwee … on the other hand arising out of or in connection with \[the defined subject matter\] and the said parties shall upon execution of this Settlement Agreement, hereby irrevocably waive any existing claims (whether known or unknown) arising out of or in connection with the same.
+> This Settlement Agreement and the Suit 664 Settlement Agreement shall be in full and final settlement of all or any claims whatsoever between SWE, SWT, YTP, YTL, \[YCW\]…on the one hand, and SWA, \[two Malaysian companies\], Siong, Hwee … on the other hand arising out of or in connection with \[the defined subject matter\] and the said parties shall upon execution of this Settlement Agreement, hereby irrevocably waive any existing claims (whether known or unknown) arising out of or in connection with the same.
 
 76     I note that YTP is not a party to the Suits 235/236 Settlement Agreement. Although he is listed as one of the parties in the text of the document, cl 2.1 provides that the Settlement Agreement only binds parties who have executed the agreement, and it is beyond dispute that YTP did _not_ sign the Suits 235/236 Settlement Agreement.[^93]
 
@@ -318,15 +318,15 @@ This Settlement Agreement and the Suit 664 Settlement Agreement shall be in full
 
 84     Based on the closing submissions, YTP’s complaint pertains to five aspects of YTL and YCW’s conduct:[^100]
 
-(a)     Causing YTP to be removed as a director of SWE;
+> (a)     Causing YTP to be removed as a director of SWE;
 
-(b)     Proceeding with the Rights Issue which led to the dilution of YTP’s shares in SWE;
+> (b)     Proceeding with the Rights Issue which led to the dilution of YTP’s shares in SWE;
 
-(c)     Committing various breaches of fiduciary duties as directors of SWE;
+> (c)     Committing various breaches of fiduciary duties as directors of SWE;
 
-(d)     Failing to provide documents and information as requested by YTP; and
+> (d)     Failing to provide documents and information as requested by YTP; and
 
-(e)     Commencing the present proceedings against YTP.
+> (e)     Commencing the present proceedings against YTP.
 
 85     I shall now consider each aspect of YTL and YCW’s conduct complained of in turn, and in the round.
 
@@ -340,7 +340,59 @@ This Settlement Agreement and the Suit 664 Settlement Agreement shall be in full
 
 88     SWE is clearly a family business, managed and run by YTP and YTL since its incorporation. On the evidence, there existed a relationship of mutual trust between YTP and YTL, at least until the subsequent breakdown of the relationship. In the circumstances, it seemed an obvious inference that there existed a mutual understanding that both YTP and YTL would have a say in the running and management of the company. This position did not change with Hwee and Siong becoming shareholders, as YTP and YTL continued to be the sole directors of SWE. Indeed, YTL agreed, under cross-examination, that this was the case:[^104]
 
-<table align="left" cellpadding="0" cellspacing="0" class="Judg-2" frame="none" pgwide="1"><colgroup><col width="18.04%"> <col width="81.96%"> </colgroup><tbody><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Q:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">… [YTP’s] case is that there was an understanding between you and him that you would both have a say in the running and management of Swee Wan Enterprise.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">A:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Yes.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Q:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Okay.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Court:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">I am not sure whether your question is that this is your case or whether he agrees with it.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">…</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">&nbsp;</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">A:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Yes, that ought to be the case.</p></td></tr></tbody></table>
+>   
+| 
+
+Q:
+
+ | 
+
+… \[YTP’s\] case is that there was an understanding between you and him that you would both have a say in the running and management of Swee Wan Enterprise.
+
+ |
+| 
+
+A:
+
+ | 
+
+Yes.
+
+ |
+| 
+
+Q:
+
+ | 
+
+Okay.
+
+ |
+| 
+
+Court:
+
+ | 
+
+I am not sure whether your question is that this is your case or whether he agrees with it.
+
+ |
+| 
+
+…
+
+ | 
+
+ |
+| 
+
+A:
+
+ | 
+
+Yes, that ought to be the case.
+
+ |
 
   
   
@@ -355,7 +407,7 @@ This Settlement Agreement and the Suit 664 Settlement Agreement shall be in full
 
 92     The test of commercial unfairness is a necessarily fact-sensitive one. Whether or not the impugned conduct is unfair is an objective inquiry; but one which must be assessed within the context of the actual, circumstantial and relational scenario of the dispute: _Margaret Chew_ at para 4.042. Therefore, in determining whether the majority has acted unfairly, it seems only right that the court also takes into account the conduct of all the parties in determining whether there has been unfairness as a whole. As Quentin Loh JC (as he then was) explained in _Tan Yong San v Neo Kok Eng and others_ <span class="citation">\[2011\] SGHC 30</span> at \[103\]:
 
-Since considerations of fairness and equity play a crucial role in an action under s 216, a court should rightly be able to take into account the conduct of all the parties in determining whether there has been unfairness as a whole warranting the grant of relief under s 216(2). After all, _fairness is a relative concept_. Furthermore, because the court has a very wide discretion in granting such relief, _it would only be natural to consider the relative equities of both the minority and majority shareholders in determining the appropriate form of relief_… \[emphasis added\]
+> Since considerations of fairness and equity play a crucial role in an action under s 216, a court should rightly be able to take into account the conduct of all the parties in determining whether there has been unfairness as a whole warranting the grant of relief under s 216(2). After all, _fairness is a relative concept_. Furthermore, because the court has a very wide discretion in granting such relief, _it would only be natural to consider the relative equities of both the minority and majority shareholders in determining the appropriate form of relief_… \[emphasis added\]
 
 93     Thus, in determining whether the dismissal of the aggrieved party in violation of his legitimate expectation to be involved in management constitutes oppression, the _reasons_ for the aggrieved party’s removal are a relevant factor (see _Eng Gee Seng_ at \[56\]; _Grace v Biagioli and others_ \[2006\] 2 BCLC 70 (“_Grace_”) at \[65\]). If the removal of the aggrieved party was justified, it will not be considered unfair, even if done in breach of that party’s expectation to remain involved in management.
 
@@ -417,7 +469,7 @@ Since considerations of fairness and equity play a crucial role in an action und
 
 119    YTP’s grievance is that there is a form of _indirect_ diversion of monies away from SWE by YCW and YTL. In _Margaret Chew_ at para 4.144, it is observed as follows:
 
-Instead of direct diversions of monies or assets from the company, a more insidious form of self-serving conduct occurs where the controller causes the company to enter into a contract with the controller or with entities associated, related or connected with him. However, such transactions could conceivably benefit the company. The threat that interested transactions pose to the shareholder is the possibility that the transactions are not arm’s length deals reflective of market conditions, and thereby favour the controller at the expense of the company (in particular, the minority shareholders)…
+> Instead of direct diversions of monies or assets from the company, a more insidious form of self-serving conduct occurs where the controller causes the company to enter into a contract with the controller or with entities associated, related or connected with him. However, such transactions could conceivably benefit the company. The threat that interested transactions pose to the shareholder is the possibility that the transactions are not arm’s length deals reflective of market conditions, and thereby favour the controller at the expense of the company (in particular, the minority shareholders)…
 
 120    For a start, I note that YTP conceded that he had, in 2012, agreed to bring YCW and Low on board for the investigations.[^132] Further, he agreed that they should be remunerated, was aware that payments had to be made for the work done and that payments had been made.[^133] He also agreed to appoint YCW as a director of SWE on 2 October 2012 to facilitate the investigative process.[^134] Therefore, the involvement of YCW, S2 and or Gao Capital is not tainted by conflict. Certainly, there is no room for YTP to protest that YCW placed herself in position of conflict of interest.
 

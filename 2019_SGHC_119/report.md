@@ -43,9 +43,9 @@ Criminal Law – Offences – Statutory offences – Women’s Charter
 
 9       In his grounds of decision reported at _Public Prosecutor v Satesh s/o Navarlan_ <span class="citation">\[2019\] SGMC 3</span> (the “GD”), having decided that the nature and extent of the violence caused the custodial threshold to be crossed (GD at \[31\]), the DJ nevertheless thought that there was “sufficient ground to view rehabilitation with some prospect” (GD at \[35\]). He appeared to have come to such a conclusion on two grounds:
 
-(a)     the Respondent enrolled himself with Alcoholics Anonymous after he was charged with the present offences (GD at \[33\]); and
+> (a)     the Respondent enrolled himself with Alcoholics Anonymous after he was charged with the present offences (GD at \[33\]); and
 
-(b)     the Respondent asserted that his wife had reconciled with him and that she and their daughter would stay with the Respondent during weekends (GD at \[34\]).
+> (b)     the Respondent asserted that his wife had reconciled with him and that she and their daughter would stay with the Respondent during weekends (GD at \[34\]).
 
 10     The DJ explained that imposing DRO with conditions to ensure that the Respondent would follow through with his promise to reform and deal with his drinking problem and SDO for deterrent effect would clearly be able to better advance the twin interests of “bringing the message of the seriousness of domestic violence” to the Respondent and “giving the chance to \[him\] to deal with his underlying issue of drinking to reduce the risk of re-offending in the future” (GD at \[35\]).
 
@@ -95,7 +95,7 @@ Criminal Law – Offences – Statutory offences – Women’s Charter
 
 26     In _Luan Yuanxin_,[^17] the offender pleaded guilty to two charges under s 323 of the Penal Code (among other charges). The offender had strangled his wife with a copper wire and had bitten her right hand. With help from their eight-year-old daughter and the wife’s elderly mother, the wife finally managed to free herself from the offender’s hold. The High Court imposed the maximum sentence of one year’s imprisonment for each charge, considering the violence and viciousness of the offender’s acts, that some degree of premeditation was involved in the attack, the considerable degree of force which the offender used and his corresponding intention to cause his wife serious injury as well as the offender’s verbal threat to strangle her to death while tightening the wire around her neck (at \[12\] and \[14\]). The High Court also gave due weight to the fact that the offender carried out the attack in front of the eight-year-old daughter who had to witness the violent attack on her mother by her own father (at \[16\]). The High Court stressed the importance of deterring anyone who might resort to familial violence (at \[17\]):
 
-Violent acts such as these are particularly heinous when they are committed within the confines of a familial relationship as they constitute an abuse of the bonds of trust and interdependency that exist between family members. More often than not, the effects of such violence within the family fall most harshly upon the children who, while they may not be the direct recipients of the violence, will nevertheless carry the scars of these acts of brutality.
+> Violent acts such as these are particularly heinous when they are committed within the confines of a familial relationship as they constitute an abuse of the bonds of trust and interdependency that exist between family members. More often than not, the effects of such violence within the family fall most harshly upon the children who, while they may not be the direct recipients of the violence, will nevertheless carry the scars of these acts of brutality.
 
 ## Conclusion
 

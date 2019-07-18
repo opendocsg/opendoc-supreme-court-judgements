@@ -15,9 +15,9 @@ Civil Procedure – Costs
 
 2       As stated in _Ram Niranjan_ at \[217\], I ordered Navin and Mrs Navin to pay
 
-(a)     Ram costs fixed at S$200,000. I allowed the disbursements as claimed save for the disbursements for Ram’s handwriting expert (which I disallowed) and the reimbursement of hearing fees (which I limited to 50%);
+> (a)     Ram costs fixed at S$200,000. I allowed the disbursements as claimed save for the disbursements for Ram’s handwriting expert (which I disallowed) and the reimbursement of hearing fees (which I limited to 50%);
 
-(b)     Mrs Ram costs fixed at S$150,000. I allowed the disbursements as claimed.
+> (b)     Mrs Ram costs fixed at S$150,000. I allowed the disbursements as claimed.
 
 These orders related to the costs and disbursements incurred in Suit 911.
 
@@ -25,15 +25,15 @@ These orders related to the costs and disbursements incurred in Suit 911.
 
 4       In my view, Ram and Mrs Ram were not entitled to full costs because they had failed to prove a substantial number of their claims and allegations:
 
-(a)     Ram sought to set aside the 2015 Deed on the ground of uncertainty, misrepresentation, duress, undue influence, unconscionability and material non-disclosure. Mrs Ram relied on the same grounds and also the doctrine of _non est factum_. Both Ram and Mrs Ram failed on all the grounds except one, _ie_, material non-disclosure.
+> (a)     Ram sought to set aside the 2015 Deed on the ground of uncertainty, misrepresentation, duress, undue influence, unconscionability and material non-disclosure. Mrs Ram relied on the same grounds and also the doctrine of _non est factum_. Both Ram and Mrs Ram failed on all the grounds except one, _ie_, material non-disclosure.
 
-(b)     Ram and Mrs Ram succeeded in proving that the MOU was legally binding and that, among other things, they had a contractual licence to reside at the Poole Road property. However, they failed to prove that the contractual licence was irrevocable and I found that Ram had breached the Implied Term. They also failed to prove that (i) there was a common understanding which gave rise to a life interest in the Poole Road property, (ii) Navin was estopped from denying the life interest or revoking the licence to reside at the Poole Road property, (iii) Navin held the Poole Road property on remedial constructive trust for them, and (iv) Navin and Mrs Navin conspired to constructively evict them from the property by lawful and/or unlawful means.
+> (b)     Ram and Mrs Ram succeeded in proving that the MOU was legally binding and that, among other things, they had a contractual licence to reside at the Poole Road property. However, they failed to prove that the contractual licence was irrevocable and I found that Ram had breached the Implied Term. They also failed to prove that (i) there was a common understanding which gave rise to a life interest in the Poole Road property, (ii) Navin was estopped from denying the life interest or revoking the licence to reside at the Poole Road property, (iii) Navin held the Poole Road property on remedial constructive trust for them, and (iv) Navin and Mrs Navin conspired to constructively evict them from the property by lawful and/or unlawful means.
 
-(c)     Ram and Mrs Ram failed to prove their claims in detinue, alternatively, conversion.
+> (c)     Ram and Mrs Ram failed to prove their claims in detinue, alternatively, conversion.
 
-(d)     Ram succeeded in his minority oppression claim but failed to prove many of the allegations that he had made in support of his minority oppression claim. In particular, Ram failed to prove his allegations that a number of transfers and allotments of shares were carried out without his knowledge and consent, and that his signatures on a number of documents had been forged. Consequently, Ram also failed in his claims for the transfers and allotments to be set aside.
+> (d)     Ram succeeded in his minority oppression claim but failed to prove many of the allegations that he had made in support of his minority oppression claim. In particular, Ram failed to prove his allegations that a number of transfers and allotments of shares were carried out without his knowledge and consent, and that his signatures on a number of documents had been forged. Consequently, Ram also failed in his claims for the transfers and allotments to be set aside.
 
-(e)     Mrs Ram failed to set aside the SPA on the grounds of economic duress, undue influence, unconscionability, misrepresentation and _non est factum_. Ram failed to prove his claim that Mrs Ram held her shares in Evergreen on trust for him and that Navin was liable for dishonest assistance or knowing receipt in connection with the sale of the shares to Navin under the SPA.
+> (e)     Mrs Ram failed to set aside the SPA on the grounds of economic duress, undue influence, unconscionability, misrepresentation and _non est factum_. Ram failed to prove his claim that Mrs Ram held her shares in Evergreen on trust for him and that Navin was liable for dishonest assistance or knowing receipt in connection with the sale of the shares to Navin under the SPA.
 
 5       Ram had more claims than Mrs Ram, in particular, his claim for minority oppression. I therefore awarded a higher amount of costs to Ram compared to the amount awarded to Mrs Ram.
 

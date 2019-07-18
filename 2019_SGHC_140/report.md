@@ -39,15 +39,15 @@ Criminal Law – Offences – Hurt
 
 12     The victim later realised that there was discomfort in her ear and that her hearing in her left ear had become poorer than her right. On medical examination, she was found to have sustained:
 
-(a)     A left anterior central tympanic membrane perforation that was about 50% in size,
+> (a)     A left anterior central tympanic membrane perforation that was about 50% in size,
 
-(b)     Multiple scratch marks over her bilateral upper limb,
+> (b)     Multiple scratch marks over her bilateral upper limb,
 
-(c)     Minimal swelling over the dorsum of the lateral side of the right wrist,
+> (c)     Minimal swelling over the dorsum of the lateral side of the right wrist,
 
-(d)     Circular abrasion over her right anterior knee, and
+> (d)     Circular abrasion over her right anterior knee, and
 
-(e)     Redness over the anterior distal neck.
+> (e)     Redness over the anterior distal neck.
 
 13     The victim had no other visible facial injuries. The hearing test conducted on her showed that she suffered mild conductive hearing loss. Two days’ medical leave was given.
 
@@ -71,23 +71,23 @@ Criminal Law – Offences – Hurt
 
 20     The alleged internal inconsistencies were broadly that:
 
-(a)     The victim’s evidence as to where the slap had landed was inconsistent with the original charge (D1), which stated that the accused had slapped the victim’s face, without any mention of her ear or the grabbing of her neck.
+> (a)     The victim’s evidence as to where the slap had landed was inconsistent with the original charge (D1), which stated that the accused had slapped the victim’s face, without any mention of her ear or the grabbing of her neck.
 
-(b)     The victim was inconsistent as to when she had pointed to the accused and raised her voice at him for making things difficult for her: during Examination-in-Chief, she said she did so when she came out of the office, before reaching the pool table, but later said she did so after throwing the pool balls.
+> (b)     The victim was inconsistent as to when she had pointed to the accused and raised her voice at him for making things difficult for her: during Examination-in-Chief, she said she did so when she came out of the office, before reaching the pool table, but later said she did so after throwing the pool balls.
 
-(c)     While the victim testified that she was certain she had used her right hand to point at the accused, she later said she could not recall whether or not she had pointed at him when she was confronted with the CCTV footage.
+> (c)     While the victim testified that she was certain she had used her right hand to point at the accused, she later said she could not recall whether or not she had pointed at him when she was confronted with the CCTV footage.
 
-(d)     The victim had claimed that she had “no strength to resist” the accused. She also initially denied she had pushed the accused, but later had to accept that she did so when confronted with the CCTV footage.
+> (d)     The victim had claimed that she had “no strength to resist” the accused. She also initially denied she had pushed the accused, but later had to accept that she did so when confronted with the CCTV footage.
 
-(e)     The victim initially claimed that the accused “swung” her, causing her to fall, then that he pushed her down, before finally admitting she had fallen on her own.
+> (e)     The victim initially claimed that the accused “swung” her, causing her to fall, then that he pushed her down, before finally admitting she had fallen on her own.
 
 21     The alleged external inconsistencies were that:
 
-(a)     The First Information Report (“FIR”) did not corroborate the victim’s account. The Prosecution did not clarify with the victim who the “boss” referred to therein was or what the victim had meant by “hit”. Further, the alleged grabbing of her neck was not mentioned in the FIR or in any of the medical reports.
+> (a)     The First Information Report (“FIR”) did not corroborate the victim’s account. The Prosecution did not clarify with the victim who the “boss” referred to therein was or what the victim had meant by “hit”. Further, the alleged grabbing of her neck was not mentioned in the FIR or in any of the medical reports.
 
-(b)     The victim’s testimony that the pool balls she had thrown merely landed on the floor was inconsistent with the testimony of the Investigating Officer (“IO”) that a stern warning had been administered for a s 337(a) Penal Code offence. Further, the IO’s evidence was that the victim admitted to having been heavily intoxicated, which the victim denied having told him.
+> (b)     The victim’s testimony that the pool balls she had thrown merely landed on the floor was inconsistent with the testimony of the Investigating Officer (“IO”) that a stern warning had been administered for a s 337(a) Penal Code offence. Further, the IO’s evidence was that the victim admitted to having been heavily intoxicated, which the victim denied having told him.
 
-(c)     The accused made six points in respect of the CCTV footage. First, the victim’s suggestion that she had thrown the pool ball at the accused because he “kept chasing \[her\] around” was not corroborated by the footage. Second, the Prosecution’s case that the offending acts occurred during the two second “freeze” in the footage was a convenient coincidence that cast serious doubt. Third, the victim’s claim that she had no strength to resist the accused was inconsistent with the footage. Fourth, the victim’s evidence that the pool balls she had thrown landed on the floor was also not supported by the footage. Fifth, the footage was not conclusive as to whether the accused’s hand had been on the victim’s neck. Finally, while the victim claimed that she had not thrown a pool ball at the accused but instead at the floor or at the side of his leg, the footage showed that she threw a ball directly at the accused.
+> (c)     The accused made six points in respect of the CCTV footage. First, the victim’s suggestion that she had thrown the pool ball at the accused because he “kept chasing \[her\] around” was not corroborated by the footage. Second, the Prosecution’s case that the offending acts occurred during the two second “freeze” in the footage was a convenient coincidence that cast serious doubt. Third, the victim’s claim that she had no strength to resist the accused was inconsistent with the footage. Fourth, the victim’s evidence that the pool balls she had thrown landed on the floor was also not supported by the footage. Fifth, the footage was not conclusive as to whether the accused’s hand had been on the victim’s neck. Finally, while the victim claimed that she had not thrown a pool ball at the accused but instead at the floor or at the side of his leg, the footage showed that she threw a ball directly at the accused.
 
 22     The accused further submitted that the Magistrate had erred in finding that he had the requisite _mens rea_ for the offence. His body posture and gestures were insufficient grounds for the Magistrate’s finding that he had intended to cause hurt to the victim. The context in which his actions took place was relevant: as KG Pearl’s manager, he was responsible for safety and security at the pub. His intention was to prevent the victim from causing harm to the people or property at the pub with the pool balls and not to cause hurt to the victim. This was purportedly corroborated by the victim’s account of what the accused had said as he allegedly grabbed her neck: “what are you trying to do? You cannot just throw your tantrums here”.
 
@@ -117,7 +117,43 @@ Criminal Law – Offences – Hurt
 
 32     The internal inconsistencies referred to by the accused have been overstated. For example, while the accused asserts that the victim initially denied having pushed the accused, and only later admitted to having done so when confronted with the video evidence, it is apparent from the NEs that this is not entirely accurate. The victim’s initial denial appears to have been because she felt she had pushed the accused in self-defence.
 
-<table align="left" cellpadding="0" cellspacing="0" class="Judg-2" frame="none" pgwide="1"><colgroup><col width="22.5%"> <col width="77.5%"> </colgroup><tbody><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Q:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">My question is, do you agree you pushed him away twice?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">A:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">I disagree.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Court:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">What did she say again? Can she repeat that?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Witness:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">It was in to---self-defence.</p></td></tr></tbody></table>
+>   
+| 
+
+Q:
+
+ | 
+
+My question is, do you agree you pushed him away twice?
+
+ |
+| 
+
+A:
+
+ | 
+
+I disagree.
+
+ |
+| 
+
+Court:
+
+ | 
+
+What did she say again? Can she repeat that?
+
+ |
+| 
+
+Witness:
+
+ | 
+
+It was in to---self-defence.
+
+ |
 
   
   
@@ -158,13 +194,13 @@ Criminal Law – Offences – Hurt
 
 48     As set out in _Tan Chor Jin v Public Prosecutor_ <span class="citation">\[2008\] 4 SLR(R) 306</span> at \[46\], the defence of private defence requires that the accused show:
 
-(a)     An offence affecting the human body has been committed or is reasonably apprehended (s 97 of the Penal Code);
+> (a)     An offence affecting the human body has been committed or is reasonably apprehended (s 97 of the Penal Code);
 
-(b)     There was no time to seek the protection of the authorities (s 99(3) of the Penal Code);
+> (b)     There was no time to seek the protection of the authorities (s 99(3) of the Penal Code);
 
-(c)     At the time of acting in private defence, he reasonably apprehended danger due to an attempt or threat by the victim to commit an offence affecting the body (s 102 of the Penal Code); and
+> (c)     At the time of acting in private defence, he reasonably apprehended danger due to an attempt or threat by the victim to commit an offence affecting the body (s 102 of the Penal Code); and
 
-(d)     The harm caused to the victim was reasonably necessary in private defence, with due allowance given to the dire circumstances under which he was acting (s 99(4) of the Penal Code).
+> (d)     The harm caused to the victim was reasonably necessary in private defence, with due allowance given to the dire circumstances under which he was acting (s 99(4) of the Penal Code).
 
 49     In my opinion, the Magistrate was right to find that private defence did not apply on the facts. Even if it is accepted that there was a reasonable apprehension of danger, which was in itself questionable on the facts, I would agree with the Magistrate’s finding that there were more appropriate ways of restraining the victim. In essence, the harm caused to the victim was not reasonably necessary, having due regard to the circumstances under which the accused had been acting.
 
@@ -172,9 +208,9 @@ Criminal Law – Offences – Hurt
 
 51     I turn now to the defence of necessity. Section 81 of the Penal Code reads:
 
-**Act likely to cause harm but done without a criminal intent, and to prevent other harm**
+> **Act likely to cause harm but done without a criminal intent, and to prevent other harm**
 
-**81**.    Nothing is an offence merely by reason of its being done with the knowledge that it is likely to cause harm, if it be done without any criminal intention to cause harm, and in good faith for the purpose of preventing or avoiding other harm to person or property.
+> **81**.    Nothing is an offence merely by reason of its being done with the knowledge that it is likely to cause harm, if it be done without any criminal intention to cause harm, and in good faith for the purpose of preventing or avoiding other harm to person or property.
 
 52     Section 81 would not apply to exculpate the accused if he is found to have “criminal intention” to cause hurt. As I have indicated at \[45\] above, the Magistrate’s finding that the accused intended to hurt the victim was correct. and hence s 81 of the Penal Code finds no application in this case.
 
@@ -202,11 +238,11 @@ Criminal Law – Offences – Hurt
 
 61     The Prosecution appealed against the sentenced imposed by the Magistrate on the basis that the Magistrate failed to:
 
-(a)     utilise the maximum penalty prescribed for an offence under s 323 of the Penal Code, which is two years’ imprisonment;
+> (a)     utilise the maximum penalty prescribed for an offence under s 323 of the Penal Code, which is two years’ imprisonment;
 
-(b)     apply his mind to determine precisely where the accused’s conduct and the resulting harm fell within the spectrum of punishment devised by Parliament despite finding that he had caused “serious injury to the victim”, demonstrated “sustained aggression”, and “targeted the vulnerable parts of the victim’s body”; and
+> (b)     apply his mind to determine precisely where the accused’s conduct and the resulting harm fell within the spectrum of punishment devised by Parliament despite finding that he had caused “serious injury to the victim”, demonstrated “sustained aggression”, and “targeted the vulnerable parts of the victim’s body”; and
 
-(c)     give due weight to the aggravating factors, in particular, that Low was a recalcitrant offender with a record of violence.
+> (c)     give due weight to the aggravating factors, in particular, that Low was a recalcitrant offender with a record of violence.
 
 62     In its submissions, the Prosecution applied the approach adopted in _Public Prosecutor v BDB_ <span class="citation">\[2018\] 1 SLR 127</span> (“_BDB_”), which pertained to the offence of voluntarily causing grievous hurt under s 325 of the Penal Code. This approach has been set out below, at \[67\] to \[69\]. The Prosecution extrapolated from the starting points set out by the Court of Appeal in _BDB_ to proportionately deduce indicative starting points under s 323.
 
@@ -229,15 +265,15 @@ Criminal Law – Offences – Hurt
 
 68     Having reviewed precedents in which serious injuries were caused, the Court of Appeal identified indicative starting points for offences under s 325 of the Penal Code, as follows (at \[56\]):
 
-(a)     Causing death: around eight years; and
+> (a)     Causing death: around eight years; and
 
-(b)     Causing multiple fractures of the type and gravity as in the sixth charge in _BDB_: around three years and six months.
+> (b)     Causing multiple fractures of the type and gravity as in the sixth charge in _BDB_: around three years and six months.
 
 69     At the second step, the indicative starting point should be adjusted either upwards or downwards based on an assessment of the offender’s culpability and the presence of relevant aggravating and/or mitigating factors (_BDB_ at \[55\]). The Court of Appeal identified a non-exhaustive list of aggravating factors at \[62\]. Of relevance to the present case is the manner and duration of the attack, and the offender’s relevant antecedents. Typical mitigating factors were also identified at \[71\] of _BDB_.
 
 70     The Prosecution argues that the application of the _BDB_ approach to s 323 offences is justified because the mischief which both s 323 and s 325 seek to address, as well as their elements, are the same. I note that in _BDB_ at \[56\], the Court of Appeal had explained why the hurt caused is a good indicator of the gravity of a s 325 offence by stating that:
 
-In our judgment, given the inherent mischief that underlies the offence under s 325, and considering that **a more severe sentencing range is prescribed for this offence (compared to the offence of voluntarily causing simple hurt under s 323) precisely because** **_grievous_** **hurt has been caused**, the factor that should guide the court’s determination of the indicative starting point for sentencing should be the _seriousness of the hurt caused_ to the victim. … \[emphasis in original in italics; emphasis added in bold\]
+> In our judgment, given the inherent mischief that underlies the offence under s 325, and considering that **a more severe sentencing range is prescribed for this offence (compared to the offence of voluntarily causing simple hurt under s 323) precisely because** **_grievous_** **hurt has been caused**, the factor that should guide the court’s determination of the indicative starting point for sentencing should be the _seriousness of the hurt caused_ to the victim. … \[emphasis in original in italics; emphasis added in bold\]
 
 71     The Court of Appeal had also said (at \[55\]) that the seriousness of the injury underscores the inherent mischief targeted by s 325. This is inapplicable to s 323 offences. Where less serious hurt is concerned, it may fairly be said that other factors, including those going towards culpability, may carry greater weight. To an extent, this is consistent with the approach taken by the courts thus far in setting out sentencing guidance in specific categories of s 323 offences identified on the basis of factors other than the severity of hurt. This includes offences against public transport workers (_Wong Hoi Len v Public Prosecutor_ <span class="citation">\[2009\] 1 SLR(R) 115</span>) and domestic helpers (_Tay Wee Kiat and another v Public Prosecutor and another appeal_ <span class="citation">\[2018\] 4 SLR 1315</span>).
 
@@ -260,9 +296,9 @@ In our judgment, given the inherent mischief that underlies the offence under s 
 
 78     Appropriate calibrations can be made in situations where offenders have claimed trial. In sentencing an offender under s 323 of the Penal Code, the court should therefore undertake a two-step inquiry:
 
-(a)     First, the court should identify the sentencing band and where the particular case falls within the applicable indicative sentencing range by considering the hurt caused by the offence. This would allow the court to derive the appropriate indicative starting point.
+> (a)     First, the court should identify the sentencing band and where the particular case falls within the applicable indicative sentencing range by considering the hurt caused by the offence. This would allow the court to derive the appropriate indicative starting point.
 
-(b)     Next, the court should make the necessary adjustments to the indicative starting point sentence based on its assessment of the offender’s culpability as well as all other relevant factors. This may take the eventual sentence out of the applicable indicative sentencing range. The aggravating and mitigating factors identified in _BDB_ at \[62\] to \[70\] and \[71\] to \[75\] respectively are relevant at this step.
+> (b)     Next, the court should make the necessary adjustments to the indicative starting point sentence based on its assessment of the offender’s culpability as well as all other relevant factors. This may take the eventual sentence out of the applicable indicative sentencing range. The aggravating and mitigating factors identified in _BDB_ at \[62\] to \[70\] and \[71\] to \[75\] respectively are relevant at this step.
 
 79     For clarity, I should state that at the first step of this inquiry, the court should only have regard to the actual, and not potential, harm caused by the offence. This would ensure greater consistency in identifying the appropriate sentencing band since the potential harm that may be caused must be inferred from the circumstances of the offending. In contrast, the actual harm caused is usually readily ascertainable. Further, the factors relating to harm and culpability often affect both considerations, as the High Court acknowledged in _Public Prosecutor v Yeo Ek Boon Jeffrey and another matter_ <span class="citation">\[2018\] 3 SLR 1080</span> at \[60\]. In determining the potential harm caused by an offender, a court must often make an inference on the basis of factors which would otherwise go to culpability, such as the numbers of offenders involved, the use or attempted use of a dangerous implement and so on. The risk of double-counting therefore arises where potential harm is concerned. For analytical clarity, therefore, it would be preferable for these factors to be considered at the second step of this inquiry. As always, the sentencing court should guard against double-counting any factor.
 

@@ -31,11 +31,11 @@ Contempt of Court – civil contempt
 
 6       Consequently, the first defendant was appointed as the plaintiff’s Myanmar production manager.[^5] He was assigned to oversee the operations of the second defendant which included:[^6]
 
-(a)     managing and overseeing the inventory of raw materials at the second defendant’s factory and obtaining these materials from the plaintiff;
+> (a)     managing and overseeing the inventory of raw materials at the second defendant’s factory and obtaining these materials from the plaintiff;
 
-(b)     encoding the plaintiff’s formulas for production by the second defendant; and
+> (b)     encoding the plaintiff’s formulas for production by the second defendant; and
 
-(c)     travelling to Myanmar to oversee operations.
+> (c)     travelling to Myanmar to oversee operations.
 
 7       Thus, in the course of his work, the first defendant gained access to confidential and business sensitive information, such as raw material lists, product formula files, product code lists, supplier lists, container code lists and/or stock information relating to the plaintiff’s products.[^7] It was agreed that the second and third defendants would only be privy to certain encoded formulas for the production of the plaintiff’s products in the second defendant’s factory. They would also have access to certain technical documentation and limited raw materials for the plaintiff’s products.[^8]
 
@@ -47,11 +47,11 @@ Contempt of Court – civil contempt
 
 11     Separately, a large amount of data from the plaintiff’s shared network drive was copied by the first defendant to the first defendant’s computer. These files, which included paint formulas, sales reports, customer quotations and customer name lists, were transferred to removable storage devices before being deleted from the first defendant’s computer.[^14] These file transfers took place in three tranches:
 
-(a)     5,340 files were transferred on 10 June 2016;
+> (a)     5,340 files were transferred on 10 June 2016;
 
-(b)     5,917 files were transferred on 16 June 2016; and
+> (b)     5,917 files were transferred on 16 June 2016; and
 
-(c)     5,793 files were transferred on 20 June 2016.
+> (c)     5,793 files were transferred on 20 June 2016.
 
 12     A total of 343 email exchanges between the first defendant and the third defendant were also extracted from the first defendant’s computer.[^15] The titles of these emails appeared to indicate that the first defendant had sent the plaintiff’s confidential information to the second and third defendants.
 
@@ -63,23 +63,23 @@ Contempt of Court – civil contempt
 
 15     On 11 July 2017 the first defendant filed his Defence (Amendment No 1) (“Defence”), which raised several significant points:
 
-(a)     the information obtained by the first defendant was not confidential and, even if it was, its confidentiality was lost and/or waived by the plaintiff;[^18]
+> (a)     the information obtained by the first defendant was not confidential and, even if it was, its confidentiality was lost and/or waived by the plaintiff;[^18]
 
-(b)     the first defendant obtained the plaintiff’s information with its knowledge and consent;[^19]
+> (b)     the first defendant obtained the plaintiff’s information with its knowledge and consent;[^19]
 
-(c)     the first defendant downloaded parts of the plaintiff’s confidential information onto his external storage device and personal Dropbox account and took photographs of the same for use in the course of his work and as a backup;[^20]
+> (c)     the first defendant downloaded parts of the plaintiff’s confidential information onto his external storage device and personal Dropbox account and took photographs of the same for use in the course of his work and as a backup;[^20]
 
-(d)     the first defendant continued to oversee production at the second defendant’s factory after his resignation on 30 September 2016;[^21] and
+> (d)     the first defendant continued to oversee production at the second defendant’s factory after his resignation on 30 September 2016;[^21] and
 
-(e)     the first defendant retained possession and use of the plaintiff’s information for the purpose of assisting the second defendant in the production of the plaintiff’s products.[^22]
+> (e)     the first defendant retained possession and use of the plaintiff’s information for the purpose of assisting the second defendant in the production of the plaintiff’s products.[^22]
 
 16     On 21 September 2017, the first defendant was adjudged a bankrupt. The bankruptcy order was made pursuant to the first defendant’s own application. On 9 February 2018, the plaintiff obtained leave to continue proceedings against the first defendant. On 25 April 2018, with the Official Assignee’s leave, the first defendant filed a notice to discontinue or withdraw his Defence. Consequently, the plaintiff applied for interlocutory judgment against the first defendant in Summons No 2803 of 2018 (“SUM 2803/2018”). I make the observation that the first defendant consciously chose to withdraw his Defence rather than apply for leave from the Official Assignee (“OA”) to defend the suit.
 
 17     On 6 July 2018, Aedit Abdullah J granted judgment (Judgment No 364 of 2018) (“the Judgment”) pursuant to O 19 r 7 of the Rules of Court (Cap 322, R 5, 2014 Rev Ed) (“ROC”), imposing an injunction against the first defendant. Paragraphs three (the “delivery up order”) and four (the “disclosure order”) of the Judgment directed the following:
 
-3.    The 1st Defendant is to deliver up all of the Plaintiff’s Confidential Information and/or Copyright Works in the possession, power, custody or control of the 1st Defendant, the use or disclosure of which would offend against the foregoing injunction against him, within 7 days.
+> 3.    The 1st Defendant is to deliver up all of the Plaintiff’s Confidential Information and/or Copyright Works in the possession, power, custody or control of the 1st Defendant, the use or disclosure of which would offend against the foregoing injunction against him, within 7 days.
 
-4.    The 1st Defendant is to disclose to the Plaintiff all unauthorised usage and/or disclosure of the Plaintiff’s Confidential Information and/or Copyright Works, as well as the identities of third parties that the Plaintiff’s Confidential Information and/or Copyright Works have been communicated and/or disseminated to, within 7 days.
+> 4.    The 1st Defendant is to disclose to the Plaintiff all unauthorised usage and/or disclosure of the Plaintiff’s Confidential Information and/or Copyright Works, as well as the identities of third parties that the Plaintiff’s Confidential Information and/or Copyright Works have been communicated and/or disseminated to, within 7 days.
 
 References to the plaintiff’s “Confidential Information and/or Copyright Works” included but were not limited to Schedule 1 of the Judgment. Schedule 1 is included in full as Annex 2 to this judgment.
 
@@ -131,9 +131,9 @@ References to the plaintiff’s “Confidential Information and/or Copyright Wor
 
 34     Having withdrawn his Defence and not having challenged the Orders, it was not open to the first defendant to argue that the information was not confidential or that his use and disclosure were authorised. The relevant issue in this case is whether the first defendant has satisfied his obligations pursuant to the Orders. On the instant facts, the scope of the Orders is clear and uncontested.[^42] The first defendant knew that he was given seven days from the date of the Judgment to do the following:
 
-(a)     deliver up _all_ of the plaintiff’s confidential information and copyright works in his possession, power, custody or control; and
+> (a)     deliver up _all_ of the plaintiff’s confidential information and copyright works in his possession, power, custody or control; and
 
-(b)     disclose _all_ unauthorised usage and/or disclosure of the plaintiff’s confidential information and copyright works as well as the identities of relevant third parties.
+> (b)     disclose _all_ unauthorised usage and/or disclosure of the plaintiff’s confidential information and copyright works as well as the identities of relevant third parties.
 
 Having set out the legal position, I shall now consider whether the first defendant had complied with the Orders.
 
@@ -143,15 +143,15 @@ Having set out the legal position, I shall now consider whether the first defend
 
 36     Issues emerged from the outset after the first defendant handed over two CDs on 12 July 2018. He caveated this delivery, saying the CDs did not contain any email correspondence including emails between the first defendant and the third defendant.[^43] Accordingly, the plaintiff’s solicitors wrote to the first defendant on the same date to reiterate the need for full compliance with the Judgment.[^44] The first defendant handed over a third CD on 13 July 2018, purporting to address these deficiencies. [^45] However, in reviewing the CDs, the plaintiff found that the enclosed emails were in a portable document format, more commonly known as “PDF”, and that the corresponding email attachments were therefore missing. On 16 July 2018, the plaintiff wrote to the first defendant to inform him of the same.[^46] In its letter, the plaintiff also highlighted that there were emails, attachments and other relevant documents which were not included in the CDs. In particular, it observed that there were “no files pertaining to paragraphs 2(e), 5(a)-(c) and 8 of Schedule A of the ASOC”. The relevant paragraphs referred to:
 
-(a)     the plaintiff’s colour and quality control methodology document for the plaintiff’s products;
+> (a)     the plaintiff’s colour and quality control methodology document for the plaintiff’s products;
 
-(b)     the compilation of the declared unit prices of the plaintiff’s products for Myanmar customs purposes;
+> (b)     the compilation of the declared unit prices of the plaintiff’s products for Myanmar customs purposes;
 
-(c)     the compilation of pricing of the raw materials exported to the Myanmar companies;
+> (c)     the compilation of pricing of the raw materials exported to the Myanmar companies;
 
-(d)     the compilation of the licensing requirements for raw materials for customs and import purposes; and
+> (d)     the compilation of the licensing requirements for raw materials for customs and import purposes; and
 
-(e)     documents received, sent, and/or created by the plaintiff’s employees in connection with the sale and production of the plaintiff’s products in Singapore and in Myanmar.
+> (e)     documents received, sent, and/or created by the plaintiff’s employees in connection with the sale and production of the plaintiff’s products in Singapore and in Myanmar.
 
 37     There was no attempt by the first defendant to substantively remedy this incomplete compliance. In an email to the plaintiff’s solicitors dated 23 July 2018, the first defendant claimed that the inaccessible email attachments could be opened in a Google browser if the icons were clicked on.[^47] The plaintiff reverted with a letter dated 3 August 2018 communicating that the emails were also password-protected and could not be accessed without an email identification and password.[^48] It also reiterated that documents stated in Schedule A of the ASOC were missing from the CDs. The plaintiff was aware that these copies existed because they had been found, in the course of its forensic examination, in the Dropbox folder on the first defendant’s computer. The significance of this will be discussed at \[43\] and \[44\]. In an annex to its letter, the plaintiff included a list of documents based on Schedule A of the ASOC which had not been provided by the first defendant. Besides the items listed at \[36(a)\] – \[36(e)\], other missing items included formulas and encoded formulas, technical data sheets, supplier quotations, price lists for the plaintiff’s products, Myanmar production monthly reports and stock transfer records and the plaintiff’s employee information. The plaintiff’s annex is set out as Annex 3 to this judgment.
 
@@ -189,25 +189,25 @@ Having set out the legal position, I shall now consider whether the first defend
 
 50     I considered the sentencing guidance for civil contempt by disobedience provided by the Court of Appeal in _Mok Kah Hong_ at \[104\]. The Court set out seven factors, citing the _dicta_ of Lawrence Collins J in _Crystal Mews Ltd v Metterick_ \[2006\] EWHC 3087 (Ch) at \[13\], providing a non-exhaustive framework to assist courts in arriving at the appropriate sentence. A court should consider:
 
-(a)     whether the claimant has been prejudiced by virtue of the contempt and whether the prejudice is capable of remedy;
+> (a)     whether the claimant has been prejudiced by virtue of the contempt and whether the prejudice is capable of remedy;
 
-(b)     the extent to which the contemnor has acted under pressure;
+> (b)     the extent to which the contemnor has acted under pressure;
 
-(c)     whether the breach of the order was deliberate or unintentional;
+> (c)     whether the breach of the order was deliberate or unintentional;
 
-(d)     the degree of culpability;
+> (d)     the degree of culpability;
 
-(e)     whether the contemnor has been placed in breach of the order by reason of the conduct of others;
+> (e)     whether the contemnor has been placed in breach of the order by reason of the conduct of others;
 
-(f)     whether the contemnor appreciates the seriousness of the deliberate breach; and
+> (f)     whether the contemnor appreciates the seriousness of the deliberate breach; and
 
-(g)     whether the contemnor has co-operated.
+> (g)     whether the contemnor has co-operated.
 
 The relevance and weight to be accorded to each of these factors would vary in each case. For instance, on the current facts, \[50(b)\] and \[50(e)\] would be inapplicable. The first defendant’s breaches were not the result of third party intervention. There is also no evidence to suggest that he was under pressure not to comply with the Orders.
 
 51     Besides laying down these considerations, the Court of Appeal in _Mok Kah Hong_ also drew a distinction between the sentencing approach for one-off breaches and breaches which are of a continuing and/or repeated nature (at \[103\]). The one-off contemnor is no longer in a position to remedy the breach and so the primary sentencing principle is that of punishment (_Tay Kar Oon v Tahir_ <span class="citation">\[2017\] 2 SLR 342</span> (“_Tay Kar Oon_”) at \[56\]). However, in respect of continuing breaches (_Mok Kah Hong_ at \[103\]):
 
-… the objective of compelling the contemnor to effect compliance with the order is likely to be … given a significant degree of weight … the sentence imposed will include both _punitive_ and _coercive_ elements. … \[emphasis in original\]
+> … the objective of compelling the contemnor to effect compliance with the order is likely to be … given a significant degree of weight … the sentence imposed will include both _punitive_ and _coercive_ elements. … \[emphasis in original\]
 
 52     This being a case where there was non-compliance over an extended period of time, I considered whether the first defendant’s sentence should contain a coercive element. In _Mah Kah Hong_ itself, the Court of Appeal suspended the sentence for four weeks to offer the contemnor a final chance to effect compliance (at \[116\]). The first defendant was given multiple opportunities over a period of several months to comply with the Orders. Notwithstanding evidence to the contrary, he maintained that he had delivered up and disclosed all relevant information to the plaintiff. It was apparent at the hearing that he had no intention of fully satisfying the Orders. Giving the first defendant more time would have been a mug’s game. I therefore determined that the sentence should be purely punitive.
 
@@ -243,7 +243,7 @@ The relevance and weight to be accorded to each of these factors would vary in e
 
 66     First, the Court of Appeal in _Mok Kah Hong_ made the following observations at \[105\]:
 
-… \[W\]e believe it is useful to refer to foreign cases not so much for benchmark sentences, but rather to discern the common factors that courts usually take into consideration in deciding the appropriate sentence to impose in each individual case.
+> … \[W\]e believe it is useful to refer to foreign cases not so much for benchmark sentences, but rather to discern the common factors that courts usually take into consideration in deciding the appropriate sentence to impose in each individual case.
 
 Although the Court of Appeal was referring to foreign cases dealing with contempt in matrimonial proceedings, there is no reason why such guidance does not apply more generally. Singapore has its own body of jurisprudence on the law of contempt. _re Barrell_ can offer guidance on relevant sentencing factors but it should not be taken as authority for the actual sentence of six months.
 
@@ -261,65 +261,65 @@ Although the Court of Appeal was referring to foreign cases dealing with contemp
 
 (1)    The Plaintiff’s formula-related documentation:
 
-a.     The Plaintiff’s Formula Spreadsheets (which contained the Plaintiff’s Formulas);
+> a.     The Plaintiff’s Formula Spreadsheets (which contained the Plaintiff’s Formulas);
 
-b.     The Plaintiff’s Formulas;
+> b.     The Plaintiff’s Formulas;
 
-c.     The Plaintiff’s Encoded Formulas;
+> c.     The Plaintiff’s Encoded Formulas;
 
-d.     The Plaintiff’s new Polyurethane formula that was undergoing testing;
+> d.     The Plaintiff’s new Polyurethane formula that was undergoing testing;
 
-e.     The Plaintiff’s list of formulas and product codes, including those as set out in Schedule A to HC/ORC 8171/2016;
+> e.     The Plaintiff’s list of formulas and product codes, including those as set out in Schedule A to HC/ORC 8171/2016;
 
-f.     The Plaintiff’s lists of encoded raw materials used in the Plaintiff’s Encoded Formulas (“**Raw Materials Code Lists**”), including those as set out in Schedule A to HC/ORC 8171/2016;
+> f.     The Plaintiff’s lists of encoded raw materials used in the Plaintiff’s Encoded Formulas (“**Raw Materials Code Lists**”), including those as set out in Schedule A to HC/ORC 8171/2016;
 
-g.     Master formulation file;
+> g.     Master formulation file;
 
 (2)    The Plaintiff’s technical documentation for each of the Plaintiff’s Formulas and Plaintiff’s Products, based on the formulation and raw materials used:
 
-a.     The Plaintiff’s Material Safety Data sheets (“**MSDS**”);
+> a.     The Plaintiff’s Material Safety Data sheets (“**MSDS**”);
 
-b.     The Plaintiff’s Globally Harmonised System of Classification and Labelling of Chemicals (“**GHS**”) documents and labels;
+> b.     The Plaintiff’s Globally Harmonised System of Classification and Labelling of Chemicals (“**GHS**”) documents and labels;
 
-c.     The Plaintiff’s Technical Data Sheets (“**TDS**”);
+> c.     The Plaintiff’s Technical Data Sheets (“**TDS**”);
 
-d.     The Plaintiff’s Certificate of Analysis (“**COA**”) documents of the Plaintiff’s Products;
+> d.     The Plaintiff’s Certificate of Analysis (“**COA**”) documents of the Plaintiff’s Products;
 
-e.     The Plaintiff’s colour and quality control methodology document for the Plaintiff’s Products;
+> e.     The Plaintiff’s colour and quality control methodology document for the Plaintiff’s Products;
 
 (3)    The Plaintiff’s documentation related to the supply of raw materials:
 
-a.     The Plaintiff’s lists of pricings for raw materials purchased from its suppliers used in all of the Plaintiff’s Products (“**Suppliers’ Price Lists**”), including those as set out in Schedule B to HC/ORC 8171/2016;
+> a.     The Plaintiff’s lists of pricings for raw materials purchased from its suppliers used in all of the Plaintiff’s Products (“**Suppliers’ Price Lists**”), including those as set out in Schedule B to HC/ORC 8171/2016;
 
-b.     The Plaintiff’s suppliers quotations for different types of solvent;
+> b.     The Plaintiff’s suppliers quotations for different types of solvent;
 
-c.     The Plaintiff’s suppliers MSDS, COA and TDS documents for the raw materials purchased by the Plaintiff;
+> c.     The Plaintiff’s suppliers MSDS, COA and TDS documents for the raw materials purchased by the Plaintiff;
 
 (4)    The Plaintiff’s documentation related to the marketing, sales and accounts of the Plaintiff’s Products locally and regionally, including:
 
-a.     The Plaintiff’s softcopy artwork and design for the catalogue of the Plaintiff’s Products;
+> a.     The Plaintiff’s softcopy artwork and design for the catalogue of the Plaintiff’s Products;
 
-b.     The Plaintiff’s quotations to its customers in all of the Plaintiff’s Products sold locally and regionally;
+> b.     The Plaintiff’s quotations to its customers in all of the Plaintiff’s Products sold locally and regionally;
 
-c.     The Plaintiff’s price lists for all of the Plaintiff’s Products sold locally and regionally to its distributors;
+> c.     The Plaintiff’s price lists for all of the Plaintiff’s Products sold locally and regionally to its distributors;
 
-d.     The Plaintiff’s intermediate product pigment colour chart;
+> d.     The Plaintiff’s intermediate product pigment colour chart;
 
-e.     The Plaintiff’s compilation of the 2nd Defendant’s profit margin based on the selling price and production and/or purchasing costs of the Plaintiff’s products sold to the Myanmar Companies;
+> e.     The Plaintiff’s compilation of the 2nd Defendant’s profit margin based on the selling price and production and/or purchasing costs of the Plaintiff’s products sold to the Myanmar Companies;
 
-f.     The Plaintiff’s compilation of the 2nd Defendant’s production costs and price of purchasing products from the Plaintiff for sale in Myanmar;
+> f.     The Plaintiff’s compilation of the 2nd Defendant’s production costs and price of purchasing products from the Plaintiff for sale in Myanmar;
 
-g.     The Plaintiff’s local and regional production and sales reports;
+> g.     The Plaintiff’s local and regional production and sales reports;
 
 (5)    The Plaintiff’s documentation related to the export of the Plaintiff’s Products, including:
 
-a.     The compilation of the declared unit prices of the Plaintiff’s Products for Myanmar customs purposes;
+> a.     The compilation of the declared unit prices of the Plaintiff’s Products for Myanmar customs purposes;
 
-b.     The compilation of pricing of the raw materials exported to the Myanmar Companies;
+> b.     The compilation of pricing of the raw materials exported to the Myanmar Companies;
 
-c.     The compilation of the licensing requirements for raw materials for customs and import purposes;
+> c.     The compilation of the licensing requirements for raw materials for customs and import purposes;
 
-d.     The Plaintiff’s container shipment details for the Plaintiff’s Products and raw materials;
+> d.     The Plaintiff’s container shipment details for the Plaintiff’s Products and raw materials;
 
 (6)    The Plaintiff’s ISO 9000 documentation and certification;
 
@@ -341,37 +341,37 @@ D.     All references to “_documents_” refers to hard copy documents, e
 
 E.     All references to “_correspondence_” refers to:
 
-i.     hard copy correspondence including letters, facsimiles, instructions sent or received by the 1st Defendant; and
+> i.     hard copy correspondence including letters, facsimiles, instructions sent or received by the 1st Defendant; and
 
-ii.     correspondence in digital form including emails, letters, facsimiles, phone messages (in text, SMS, and phone messaging applications) sent or received by the 1st Defendant.
+> ii.     correspondence in digital form including emails, letters, facsimiles, phone messages (in text, SMS, and phone messaging applications) sent or received by the 1st Defendant.
 
 1.     All copies of the Plaintiff’s Confidential Information and/or Copyright Works located in:
 
-a.     Correspondence sent to and received by email addresses used by the 1st Defendant including but not limited to:
+> a.     Correspondence sent to and received by email addresses used by the 1st Defendant including but not limited to:
 
-i.        onggseng@gmail.com;
+>> i.        onggseng@gmail.com;
 
-ii.        starlitsg@gmail.com.
+>> ii.        starlitsg@gmail.com.
 
-b.     The 1st Defendant’s personal electronic laptop(s) and folders therein;
+> b.     The 1st Defendant’s personal electronic laptop(s) and folders therein;
 
-c.     The 1st Defendant’s computer system located at 126A Edgedale Plains, #03-334, Singapore 821126;
+> c.     The 1st Defendant’s computer system located at 126A Edgedale Plains, #03-334, Singapore 821126;
 
-d.     The 1st Defendant’s personal Dropbox cloud storage folder;
+> d.     The 1st Defendant’s personal Dropbox cloud storage folder;
 
-e.     The 1st Defendant’s personal OneDrive cloud storage folder;
+> e.     The 1st Defendant’s personal OneDrive cloud storage folder;
 
-f.     SanDisk Ultra USB 3.0 USB Device (Serial No: 4C530146271115102493);
+> f.     SanDisk Ultra USB 3.0 USB Device (Serial No: 4C530146271115102493);
 
-g.     Trek ThumbDrive USB Device (Serial No: 001CC07CE642F050616C3F6A);
+> g.     Trek ThumbDrive USB Device (Serial No: 001CC07CE642F050616C3F6A);
 
-h.     TOSHIBA TransMemory USB Device (Serial No: 822BB6B05E32CD40423D4398);
+> h.     TOSHIBA TransMemory USB Device (Serial No: 822BB6B05E32CD40423D4398);
 
-i.     The 1st Defendant’s mobile phones(s);
+> i.     The 1st Defendant’s mobile phones(s);
 
-j.     Any other devices in the 1st Defendant’s possession, power and/or control; and
+> j.     Any other devices in the 1st Defendant’s possession, power and/or control; and
 
-k.     hardcopy documents and correspondence in the 1st Defendant’s possession, power and/or control.
+> k.     hardcopy documents and correspondence in the 1st Defendant’s possession, power and/or control.
 
 (9)
 
@@ -381,57 +381,57 @@ k.     hardcopy documents and correspondence in the 1st Defendant’s posse
 
 1.     Paragraph 1(a)
 
-a.     Screenshot of Urethane Oil Super Gloss Finish 175 (worksheet Batch No. 1504102) from your phone.
+> a.     Screenshot of Urethane Oil Super Gloss Finish 175 (worksheet Batch No. 1504102) from your phone.
 
-b.     Screenshot of Alkyd Gloss White 9001 (worksheet dd 15/6/15) from your phone.
+> b.     Screenshot of Alkyd Gloss White 9001 (worksheet dd 15/6/15) from your phone.
 
 2.     Paragraphs 1(b) and 1(c)
 
-a.     There were more Formulas and Encoded Formulas (and copies thereof) found in the Unauthorised Dropbox Account than those that have been delivered up. For example, No. 27 Etching (Myanmar) Formulas, No. 33 Water Base filler Formulas, No. 40 Patina Formulas which were found in the “Formula (Mynamar)” folder in the Unauthorised Dropbox Account have not been delivered up.
+> a.     There were more Formulas and Encoded Formulas (and copies thereof) found in the Unauthorised Dropbox Account than those that have been delivered up. For example, No. 27 Etching (Myanmar) Formulas, No. 33 Water Base filler Formulas, No. 40 Patina Formulas which were found in the “Formula (Mynamar)” folder in the Unauthorised Dropbox Account have not been delivered up.
 
 3.     Paragraph 1(d):
 
-a.     The Plaintiff’s new Polyurethane formula.
+> a.     The Plaintiff’s new Polyurethane formula.
 
 4.     Paragraph 2(c):
 
-a.     There are clearly multiple versions of the Plaintiff’s Technical Data Sheets in your possession. The document found in the Unauthorised Dropbox Account had the Plaintiff’s letterhead on the document. The document which you had disclosed does not have the Plaintiff’s letterhead. You are required to deliver up all versions of the Plaintiff’s Confidential Information.
+> a.     There are clearly multiple versions of the Plaintiff’s Technical Data Sheets in your possession. The document found in the Unauthorised Dropbox Account had the Plaintiff’s letterhead on the document. The document which you had disclosed does not have the Plaintiff’s letterhead. You are required to deliver up all versions of the Plaintiff’s Confidential Information.
 
 5.     Paragraph 2(e):
 
-a.     The Plaintiff’s adjustment table and Colour & QC (quality control) checking methods documents.
+> a.     The Plaintiff’s adjustment table and Colour & QC (quality control) checking methods documents.
 
 6.     Paragraph 3(b)
 
-a.     You have only delivered up the supplier monthly quotations (for different types of solvents) that were given to the Plaintiff for September 2016. This is inaccurate as our client is aware that there are more monthly quotations, and from the same suppliers, before September 2016.
+> a.     You have only delivered up the supplier monthly quotations (for different types of solvents) that were given to the Plaintiff for September 2016. This is inaccurate as our client is aware that there are more monthly quotations, and from the same suppliers, before September 2016.
 
 7.     Paragraph 3(c)
 
-a.     You have not delivered up all the documents for the raw materials purchased by the Plaintiff. This includes pictures of documents.
+> a.     You have not delivered up all the documents for the raw materials purchased by the Plaintiff. This includes pictures of documents.
 
 8.     Paragraph 4(c)
 
-a.     You have not delivered up all the price lists for the Plaintiff’s Products. There were more documents found in the Unauthorised Dropbox Account, including the Myanmar price lists for 2014 and 2015 for pricing of the Plaintiff’s Products sold to BHI, the 2nd Defendant.
+> a.     You have not delivered up all the price lists for the Plaintiff’s Products. There were more documents found in the Unauthorised Dropbox Account, including the Myanmar price lists for 2014 and 2015 for pricing of the Plaintiff’s Products sold to BHI, the 2nd Defendant.
 
 9.     Paragraph 4(g)
 
-a.     You have not delivered up all Myanmar production monthly reports and stock transfer records. There were documents found in the Unauthorised Dropbox Account, and such records would have started from June 2013.
+> a.     You have not delivered up all Myanmar production monthly reports and stock transfer records. There were documents found in the Unauthorised Dropbox Account, and such records would have started from June 2013.
 
 10.    Paragraphs 5(a)
 
-a.     The entire category of documents has not been delivered up, although some materials were found in the Unauthorised Dropbox Account.
+> a.     The entire category of documents has not been delivered up, although some materials were found in the Unauthorised Dropbox Account.
 
 11.    Paragraph 5(c)
 
-a.     You have not delivered up all the licensing requirements for raw materials for customs and import purposes. There were more documents found in the Unauthorised Dropbox Account.
+> a.     You have not delivered up all the licensing requirements for raw materials for customs and import purposes. There were more documents found in the Unauthorised Dropbox Account.
 
 12.    Paragraph 7
 
-a.     The Plaintiff’s employee information (passport and/or NRIC) of Mr Dennis Tan, Mr Tan Tiow Lin, and Mr Asaithambi has not been delivered up.
+> a.     The Plaintiff’s employee information (passport and/or NRIC) of Mr Dennis Tan, Mr Tan Tiow Lin, and Mr Asaithambi has not been delivered up.
 
 13.    Paragraph 8
 
-a.     There were more documents found in the Unauthorised Dropbox Account which have not been delivered up.
+> a.     There were more documents found in the Unauthorised Dropbox Account which have not been delivered up.
 
 * * *
 

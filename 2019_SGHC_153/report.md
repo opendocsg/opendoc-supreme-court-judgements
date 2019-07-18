@@ -100,21 +100,21 @@ Criminal Procedure and Sentencing – Sentencing – Benchmark sentences
 
 34     Section 23(1) IDA states:
 
-**23.**— (1)    A person who knows that he has HIV Infection shall not engage in any sexual activity with another person unless, before the sexual activity takes place —
+> **23.**— (1)    A person who knows that he has HIV Infection shall not engage in any sexual activity with another person unless, before the sexual activity takes place —
 
-(_a_)    he has informed that other person of _the risk of contracting HIV Infection from him_; and
+>> (_a_)    he has informed that other person of _the risk of contracting HIV Infection from him_; and
 
-(_b_)    that other person has voluntarily agreed to accept _that risk_.
+>> (_b_)    that other person has voluntarily agreed to accept _that risk_.
 
-\[emphasis added\]
+> \[emphasis added\]
 
 35     In my opinion, it is the risk of contracting HIV that must be communicated, and not merely one’s HIV status. This is clearly indicated by the text of s 23(1)(_a_), which specifies that the other person must be informed of the _risk_ of contracting HIV infection. Section 23(1)(_b_) then goes on to state that it is _that risk_ which must be accepted by the other person. This is as opposed to other provisions in the IDA, _eg_, s 6(3) IDA, under which the _fact_ of infection must be disclosed.
 
 36     The appellant referred me to the speech made by Minister Khaw Boon Wan, Minister for Health, during the Parliamentary debates on the Infectious Disease (Amendment) Bill in 2008. Minister Khaw had said that (_Singapore Parliamentary Debates, Official Report_ (22 April 2008) vol 84 at cols 2704 and 2705):
 
-Prof. Thio had asked what constitutes informing a partner of the risk of contracting HIV and raises the possibility of conflicting evidence. Let us return to the spirit of this provision. The intention is for a person who knows that he is HIV-positive … to act responsibly and inform his sexual partner _of the risk of contracting HIV from him_. How such information will be communicated between partners will be different in every relationship and in every sexual encounter. We can expect that some will be more truthful and direct, while others may try and hide the extent of their indiscretions. We do not intend to prescribe a consent form to be signed or some standard words to be uttered. In a prosecution, the courts will look at the unique circumstances of the case and decide whether there has been _sufficient disclosure of the risk_.
+> Prof. Thio had asked what constitutes informing a partner of the risk of contracting HIV and raises the possibility of conflicting evidence. Let us return to the spirit of this provision. The intention is for a person who knows that he is HIV-positive … to act responsibly and inform his sexual partner _of the risk of contracting HIV from him_. How such information will be communicated between partners will be different in every relationship and in every sexual encounter. We can expect that some will be more truthful and direct, while others may try and hide the extent of their indiscretions. We do not intend to prescribe a consent form to be signed or some standard words to be uttered. In a prosecution, the courts will look at the unique circumstances of the case and decide whether there has been _sufficient disclosure of the risk_.
 
-\[emphasis added\]
+> \[emphasis added\]
 
 37     Again, this passage suggests that it is the _risk_ of contracting HIV that must be communicated. The appellant argued that the Minister’s statements show Parliament had not intended to prescribe the exact manner in which the risk of contracting HIV is communicated. I accept that this is what may be suggested by the excerpt above. However, this is not inconsistent with the proposition that it remains the _risk_ of transmission, as opposed to one’s HIV status, that must be communicated.
 
@@ -138,15 +138,15 @@ Prof. Thio had asked what constitutes informing a partner of the risk of contrac
 
 46     I am conscious that the District Judge adverted to the victim’s statements that it was possible he had forgotten about the appellant having informed him of his HIV status. I accept the District Judge’s assessment that this did not amount to the victim having agreed that this communication had in fact occurred. When the case for the defence was put to the victim, his evidence, understood in proper perspective, was essentially that _he did not remember_:
 
-(a)     being informed through Grindr that the appellant had HIV;
+> (a)     being informed through Grindr that the appellant had HIV;
 
-(b)     being informed verbally by the appellant that he was taking a medication known as “PrEP”;
+> (b)     being informed verbally by the appellant that he was taking a medication known as “PrEP”;
 
-(c)     the appellant mentioning that he was HIV-positive, but that the risk of contracting HIV was small;
+> (c)     the appellant mentioning that he was HIV-positive, but that the risk of contracting HIV was small;
 
-(d)     that he consented to sexual activity because he understood the risk of transmission to be small; and
+> (d)     that he consented to sexual activity because he understood the risk of transmission to be small; and
 
-(e)     being informed verbally that the appellant had an undetectable viral load.
+> (e)     being informed verbally that the appellant had an undetectable viral load.
 
 47     The victim agreed that he could “possibly” have forgotten that the appellant had informed him through Grindr that he had HIV. However, the victim stated that it was _not_ possible that he had forgotten he had consented to sexual activity with the appellant while knowing the latter had HIV. In re-examination, the victim again confirmed that he would not have met the appellant to engage in sexual activity if he had known that there was _any_ risk of contracting HIV from the appellant, or if the appellant had informed him of his HIV status over Grindr.
 
@@ -166,21 +166,21 @@ Prof. Thio had asked what constitutes informing a partner of the risk of contrac
 
 54     More pertinently, there were some troubling inconsistencies in the appellant’s evidence. In particular, I note that in P2, the appellant admitted that he had engaged in unprotected intercourse with the victim after they had gotten to know each other better:
 
-Q12:When and where was the first time you have sex with \[the victim\]?
+> Q12:When and where was the first time you have sex with \[the victim\]?
 
-A12:I cannot remember the exact date but it was either in late 2012 or early 2013. We have oral sex as well as penile-anal penetration. For oral sex, \[the victim\] would take my penis and inserted into his mouth. As for the penile-anal penetration, I would penetrate \[the victim’s\] anus with my penis. For the 1st few occasions, we have protected sex. As we get to know each other better, our sex became unprotected. …
+> A12:I cannot remember the exact date but it was either in late 2012 or early 2013. We have oral sex as well as penile-anal penetration. For oral sex, \[the victim\] would take my penis and inserted into his mouth. As for the penile-anal penetration, I would penetrate \[the victim’s\] anus with my penis. For the 1st few occasions, we have protected sex. As we get to know each other better, our sex became unprotected. …
 
 55     This extract should be read in the light of the fact that both he and the victim had testified that they had not used condoms for penile-oral intercourse. In context, the appellant’s response in A12 appears to have been consistent with the victim’s evidence, which was that they had stopped using condoms for penile-anal intercourse after they had become more comfortable with each other. In contrast, the appellant’s position at trial was that he had always used a condom when engaging in penile-anal intercourse. The reasons he gave for this shift in his evidence were unconvincing. He initially said that he had asked the IO to make “some amendments” to the statement and the IO responded by saying, “You read it again, and then you just let me know.” The appellant later said that he had not read the statement clearly as he “just wanted to leave the place … and seek help at that point of time”. This did not explain why the amendments he had initially wanted to make had not in fact been made to the statement.
 
 56     Further, as the District Judge observed, there was a stark contrast between his general statement to the IO that he had informed the victim of his HIV status and his evidence in court. The appellant had testified to having allegedly taken multiple steps to ensure the victim was aware of his HIV status, from placing his medication in plain view, to telling him of this on Grindr, asking the victim if he had read the messages and so on. This can be contrasted with his initial answer to the IO, which was recorded in P2:
 
-Q22:Did you inform \[the victim\] that you are HIV positive and seek his consent to continue with the sexual intercourse with him? If yes, what was his reaction?
+> Q22:Did you inform \[the victim\] that you are HIV positive and seek his consent to continue with the sexual intercourse with him? If yes, what was his reaction?
 
-A22:I am not sure but I remember that I did tell him about my HIV status. Since he did not object to the sex activity, I presumed that he did not have any problem.
+> A22:I am not sure but I remember that I did tell him about my HIV status. Since he did not object to the sex activity, I presumed that he did not have any problem.
 
 57     I accept that the appellant was not expected to minutely detail his defence in his statement. However, in the circumstances, the failure to mention any of the precautionary steps that he later claimed to clearly remember having taken did cast some doubt on his evidence, which appears to have been an afterthought. Not only had the appellant been initially unsure, when asked by the IO, as to whether or not he had informed the victim of his HIV status, he also relied on the fact that the victim had gone on to engage in sexual activity with him to infer consent. No mention was made of any positive confirmation with the victim that the latter knew of his HIV status before they decided to engage in sexual activity, in contrast to the prudence suggested by his oral testimony:
 
-A:… I informed him that he can place his keys, his handphone, his wallet on the table where my medications can be seen and it’s visible to the guest. Then after which, I asked him again, have --- are you --- “Have you read the message?” Then he said yes, yah, “You know that I’m positive, right?” and then he said yes. That’s when we decided to have sexual contact.
+> A:… I informed him that he can place his keys, his handphone, his wallet on the table where my medications can be seen and it’s visible to the guest. Then after which, I asked him again, have --- are you --- “Have you read the message?” Then he said yes, yah, “You know that I’m positive, right?” and then he said yes. That’s when we decided to have sexual contact.
 
 58     The appellant must have appreciated the significance of this key fact, but made no mention of it to the IO. This was despite the fact that the IO specifically asked whether he had sought the victim’s consent to continue with sexual intercourse. For the above reasons, I do not think the District Judge erred in rejecting the appellant’s evidence.
 
@@ -229,15 +229,15 @@ A:… I informed him that he can place his keys, his handphone, his wallet on th
 
 74     In assessing the risk of transmission, the following non-exhaustive factors should be considered:
 
-(a)     the viral load of the HIV-positive person;
+> (a)     the viral load of the HIV-positive person;
 
-(b)     the consumption of “PrEP” or post-exposure prophylaxis (“PEP”) by the victim;
+> (b)     the consumption of “PrEP” or post-exposure prophylaxis (“PEP”) by the victim;
 
-(c)     any sexually transmitted infection (“STI”) in either partner;
+> (c)     any sexually transmitted infection (“STI”) in either partner;
 
-(d)     the type and number of instances of sexual exposure; and
+> (d)     the type and number of instances of sexual exposure; and
 
-(e)     male circumcision in cases involving penile-vaginal intercourse and a HIV-negative male.
+> (e)     male circumcision in cases involving penile-vaginal intercourse and a HIV-negative male.
 
 75     As a preliminary matter, I note that the YAC’s proposed framework presumes that the risk of transmission can be quantified and calculated. However, as he acknowledged, the epidemiological studies available only provide rough estimates of the risk of transmission, and what is known about HIV is continuously evolving. Dr Ng was of the opinion that it is not currently possible to predict to an acceptable level of certainty an individual’s risk of HIV acquisition based on his risk factor profile. In any event, the involved parties may not be able to recall events with sufficient detail to make a quantitative calculation of the risk of transmission meaningful. For example, in the present case, it is unknown exactly how many times the appellant had engaged in sexual activity with the victim, or the appellant’s viral load at the material time, even though these would be key factors in computing the risk of transmission. As such, it would not be helpful to devise a framework which requires the risk of transmission to be calculated with such precision. Rather, the sentencing court should qualitatively assess the risk of transmission with regard to the risk factors for HIV transmission.
 
@@ -261,17 +261,17 @@ A:… I informed him that he can place his keys, his handphone, his wallet on th
 
 84     In assessing culpability, the sentencing court should have regard to the following non-exhaustive factors:
 
-(a)     any disclosure relevant to the risk of transmission _eg_, of one’s HIV status;
+> (a)     any disclosure relevant to the risk of transmission _eg_, of one’s HIV status;
 
-(b)     any intention to transmit HIV;
+> (b)     any intention to transmit HIV;
 
-(c)     any deception or active misrepresentation by the offender of his HIV status, or facts relating to his HIV status (_eg_, viral load);
+> (c)     any deception or active misrepresentation by the offender of his HIV status, or facts relating to his HIV status (_eg_, viral load);
 
-(d)     the vulnerability of the victim (_eg_, young or intellectually disabled victim);
+> (d)     the vulnerability of the victim (_eg_, young or intellectually disabled victim);
 
-(e)     serious breaches of trust (_eg_, in a domestic context); and
+> (e)     serious breaches of trust (_eg_, in a domestic context); and
 
-(f)     the presence of a risk factor which is significant to the transmission of HIV.
+> (f)     the presence of a risk factor which is significant to the transmission of HIV.
 
 85     The appellant argued that the type of sexual activity he engaged in with the victim should be accounted for in assessing the risk of harm, rather than as a factor relevant to culpability. As can be seen from \[84\], this factor should be relevant to both considerations. I think it fair to _expect_ a HIV-positive person engaging in sexual activity to know of certain obvious risk factors, including the non-use of condoms or the number of instances of sexual activity. Therefore, in so far as the offender engages in high-risk sexual activity, this would be culpability-increasing as well. While I am conscious of the need to guard against double-counting, there is little risk of that under the sentencing framework I have set out. This is since potential harm and culpability are considered at the same stage of the analysis, and either high risk of transmission or greater culpability would be sufficient to move the case to Band 2.
 

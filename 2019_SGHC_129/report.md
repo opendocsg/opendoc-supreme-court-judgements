@@ -17,23 +17,23 @@ Criminal Procedure and Sentencing – Sentencing
 
 1       On 18 June 2018, the appellant, Mr Sim Kang Wei, pleaded guilty to, and was convicted on, two charges:
 
-(a)     theft of an iPhone valued at approximately $100, an offence punishable under s 379 of the Penal Code (Cap 224, 2008 Rev Ed); and
+> (a)     theft of an iPhone valued at approximately $100, an offence punishable under s 379 of the Penal Code (Cap 224, 2008 Rev Ed); and
 
-(b)     unlawful stalking, an offence under s 7(1) of the Protection from Harassment Act 2014 (Cap 265A, 2014 Rev Ed) (“POHA”) and punishable under s 7(6). The acts committed by the appellant were as follows:
+> (b)     unlawful stalking, an offence under s 7(1) of the Protection from Harassment Act 2014 (Cap 265A, 2014 Rev Ed) (“POHA”) and punishable under s 7(6). The acts committed by the appellant were as follows:
 
-(i)       recording up-skirt videos of the victim without her knowledge;
+>> (i)       recording up-skirt videos of the victim without her knowledge;
 
-(ii)       gaining unauthorised access to and making unauthorised modifications to email and social media accounts belonging to the victim; and
+>> (ii)       gaining unauthorised access to and making unauthorised modifications to email and social media accounts belonging to the victim; and
 
-(iii)       unsubscribing the victim from courses which she had registered for at the Singapore Management University (“SMU”).
+>> (iii)       unsubscribing the victim from courses which she had registered for at the Singapore Management University (“SMU”).
 
 2       Six other charges were taken into consideration for purposes of sentencing. These six charges comprised the following:
 
-(a)     two charges under s 30(1) of the Films Act (Cap 107, 1998 Rev Ed) for having in his possession obscene films;
+> (a)     two charges under s 30(1) of the Films Act (Cap 107, 1998 Rev Ed) for having in his possession obscene films;
 
-(b)     three charges under s 21(1)(a) of the Films Act for possession of films without a valid certificate; and
+> (b)     three charges under s 21(1)(a) of the Films Act for possession of films without a valid certificate; and
 
-(c)     one charge under s 509 read with s 511 of the Penal Code for attempting to take an up-skirt video of an unknown female subject.
+> (c)     one charge under s 509 read with s 511 of the Penal Code for attempting to take an up-skirt video of an unknown female subject.
 
 3       The appellant was born in August 1993. He was 21 years old and a first-year student at SMU at the time he committed the acts stated in the stalking charge. By the time he was charged in court, he was almost 25 years old. His victim, a female student at SMU, was 19 years old at the time of the stalking offence that was committed against her. The appellant and the victim knew each other.
 
@@ -93,9 +93,9 @@ Criminal Procedure and Sentencing – Sentencing
 
 29     Both the prosecution and the appellant referred me to the recent High Court judgment in _Lim Teck Kim v Public Prosecutor_ <span class="citation">\[2019\] SGHC 99</span> (“_Lim Teck Kim_”). In that case, the learned judge proposed a sentencing framework for the offence of unlawful stalking under s 7 of POHA, which is punishable with a fine not exceeding $5,000 or with imprisonment not exceeding 12 months or to both. The proposed framework identifies seven offence-specific factors and prescribes a maximum of either three or five points to each factor based on their relative weights. The number of points allocated for each factor would depend on the degree of aggravation occasioned by that factor. More points may be added for additional offence-specific factors (if any). The total number of points would then determine the indicative starting sentence. The indicative starting sentence for each point was proposed to be as follows:
 
-(a)     One to five points – a fine of between $1,000 (one point) to $5,000 (five points).
+> (a)     One to five points – a fine of between $1,000 (one point) to $5,000 (five points).
 
-(b)     Six or more points – imprisonment of 0.8 months (six points), increasing by 0.8 months for each additional point.
+> (b)     Six or more points – imprisonment of 0.8 months (six points), increasing by 0.8 months for each additional point.
 
 30     The prosecution submitted that whether a particular factor causes more harm than another should turn on the facts of the case and therefore ascribing three or five points as the maximum to each factor was arbitrary. The prosecution proposed instead that every offence-specific factor should be assigned a maximum of five points. Applying its modified version of the _Lim Teck Kim_ framework, the prosecution submitted that the appropriate sentence in the present case, after taking into consideration the appellant’s plea of guilt, should be an imprisonment term of eight and a half months.
 
@@ -137,37 +137,37 @@ Criminal Procedure and Sentencing – Sentencing
 
 47     The appellant argued that rehabilitation, not deterrence, should be the dominant sentencing consideration and that he should be placed on probation. The appellant relied on the following offender-specific factors:
 
-(a)     He was 21 years old at the time of the offences.
+> (a)     He was 21 years old at the time of the offences.
 
-(b)     He was remorseful and had shown rehabilitative progress during the long intervening period before he was charged in court.
+> (b)     He was remorseful and had shown rehabilitative progress during the long intervening period before he was charged in court.
 
-(i)       He wrote a sincere letter of apology to the victim.
+>> (i)       He wrote a sincere letter of apology to the victim.
 
-(ii)       He voluntarily dropped out of SMU after learning that the victim preferred not to see him there.
+>> (ii)       He voluntarily dropped out of SMU after learning that the victim preferred not to see him there.
 
-(iii)       He faithfully reported to the police every month for three years.
+>> (iii)       He faithfully reported to the police every month for three years.
 
-(iv)       Initially, he did not engage a lawyer because he wanted to take full responsibility for his actions. He only did so upon the Judge’s suggestion when his case was first mentioned.
+>> (iv)       Initially, he did not engage a lawyer because he wanted to take full responsibility for his actions. He only did so upon the Judge’s suggestion when his case was first mentioned.
 
-(v)       He has remained crime-free.
+>> (v)       He has remained crime-free.
 
-(vi)       He has adhered strictly to the restrictions imposed by the probation officer.
+>> (vi)       He has adhered strictly to the restrictions imposed by the probation officer.
 
-(vii)       He has kept himself gainfully employed.
+>> (vii)       He has kept himself gainfully employed.
 
-(viii)       He voluntarily sought psychiatric help from the Institute of Mental Health.
+>> (viii)       He voluntarily sought psychiatric help from the Institute of Mental Health.
 
-(ix)       His MSF Psychological Report noted his active efforts at self-improvement and his Probation Report reflected his excellent work attitude. The Probation Report also noted his willingness to receive help to manage his emotions and expectations.
+>> (ix)       His MSF Psychological Report noted his active efforts at self-improvement and his Probation Report reflected his excellent work attitude. The Probation Report also noted his willingness to receive help to manage his emotions and expectations.
 
-(c)     The MSF Psychological Report noted his concrete and realistic plans for his future, including pursuing a degree in computer science, and recommended that his academic or vocational pursuits should be facilitated and reinforced.
+> (c)     The MSF Psychological Report noted his concrete and realistic plans for his future, including pursuing a degree in computer science, and recommended that his academic or vocational pursuits should be facilitated and reinforced.
 
-(d)     The probation officer concluded that there was scope to work with him in a community based setting and recommended that he be placed on probation.
+> (d)     The probation officer concluded that there was scope to work with him in a community based setting and recommended that he be placed on probation.
 
-(e)     He has strong familial support. His mother is currently not working and can spend more time to guide him.
+> (e)     He has strong familial support. His mother is currently not working and can spend more time to guide him.
 
-(f)     He has suffered hardship as a result of the three-year delay in prosecuting him.
+> (f)     He has suffered hardship as a result of the three-year delay in prosecuting him.
 
-(g)     A long custodial sentence would be crushing as it would dash his hopes of pursuing further education and make it more difficult for him to be accepted to a school.
+> (g)     A long custodial sentence would be crushing as it would dash his hopes of pursuing further education and make it more difficult for him to be accepted to a school.
 
 48     The District Judge referred to _A Karthik v Public Prosecutor_ <span class="citation">\[2018\] 5 SLR 1289</span> (“_Karthik_”) in which the Chief Justice said (at \[44\]) that if an offender is above the age of 21 at both the time of the offence and the time of sentencing, rehabilitation would typically not be the operative concern (GD, at \[31\]). The District Judge therefore treated the appellant as an adult offender for whom rehabilitation would not be the operative concern and probation an exception rather than the norm.
 
@@ -189,27 +189,27 @@ Criminal Procedure and Sentencing – Sentencing
 
 56     In _Tan Yao Min v Public Prosecutor_ <span class="citation">\[2018\] 3 SLR 1134</span> (“_Tan Yao Min_”) the High Court considered seven precedents in which the offenders were sentenced to three to six months’ imprisonment for unlawful stalking. The details of these seven cases can be found in the grounds of decision in _Tan Yao Min_ at \[82\]–\[88\]. However, it is useful to highlight the following four cases in which sentences of six months’ imprisonment were imposed:
 
-(a)      _Public Prosecutor v Lai Zhi Heng_ (SC-912644-2015, Magistrate’s Arrest Case No 909121 of 2015 and others) – As a result of the offender’s threats, the victim sent him 30 photographs of herself in the nude. The offender printed flyers with harassing messages, her nude photographs and her personal information, and posted them publicly near her home. He also uploaded her nude photographs onto the Facebook group for her interest group at school, with the false message that she was offering prostitution services. The offender also threatened the victim by saying that he would “wreck a havoc” in her life and make her “regret it” if she did not meet him. The offender pleaded guilty to a charge of unlawful stalking under s 7(1) of POHA and was sentenced to six months’ imprisonment for the offence.
+> (a)      _Public Prosecutor v Lai Zhi Heng_ (SC-912644-2015, Magistrate’s Arrest Case No 909121 of 2015 and others) – As a result of the offender’s threats, the victim sent him 30 photographs of herself in the nude. The offender printed flyers with harassing messages, her nude photographs and her personal information, and posted them publicly near her home. He also uploaded her nude photographs onto the Facebook group for her interest group at school, with the false message that she was offering prostitution services. The offender also threatened the victim by saying that he would “wreck a havoc” in her life and make her “regret it” if she did not meet him. The offender pleaded guilty to a charge of unlawful stalking under s 7(1) of POHA and was sentenced to six months’ imprisonment for the offence.
 
-(b)      _Public Prosecutor v Adrian Goh Guan Kiong_ (SC-902574-2016, Magistrate’s Arrest Case No 902040 of 2016 and others) – The offender took photographs of the victim in the nude, with her consent. He subsequently sent the nude photographs to a WhatsApp chat group comprising her colleagues and superiors. The offender also sent an e-mail to the victim’s superior about the victim and her colleague having sex in their organisation’s uniform, and a letter to the victim’s father purporting to be from the family’s church and condemning her behaviour. The offender pleaded guilty to a charge of unlawful stalking under s 7(1) of POHA and was sentenced to six months’ imprisonment. A charge under s 30(2)(_a_) of the Films Act for possessing 331 obscene films, was taken into consideration for sentencing.
+> (b)      _Public Prosecutor v Adrian Goh Guan Kiong_ (SC-902574-2016, Magistrate’s Arrest Case No 902040 of 2016 and others) – The offender took photographs of the victim in the nude, with her consent. He subsequently sent the nude photographs to a WhatsApp chat group comprising her colleagues and superiors. The offender also sent an e-mail to the victim’s superior about the victim and her colleague having sex in their organisation’s uniform, and a letter to the victim’s father purporting to be from the family’s church and condemning her behaviour. The offender pleaded guilty to a charge of unlawful stalking under s 7(1) of POHA and was sentenced to six months’ imprisonment. A charge under s 30(2)(_a_) of the Films Act for possessing 331 obscene films, was taken into consideration for sentencing.
 
-(c)      _Public Prosecutor v Moh Yan Chung_ <span class="citation">\[2017\] SGDC 46</span> – The offender pleaded guilty on the first day of trial to five charges under s 376B(1) of the Penal Code for having commercial sex with a minor and one charge of unlawful stalking under s 7(1) of POHA. The victim in the unlawful stalking charge was the minor with whom he had had commercial sex. The offender contacted the victim’s then-boyfriend via Facebook under a moniker and informed him of the investigations and the prostitution activities. The offender also contacted at least five of the victim’s friends and “warned them” of the kind of person she was. The offender was sentenced to six months’ imprisonment for the unlawful stalking offence.
+> (c)      _Public Prosecutor v Moh Yan Chung_ <span class="citation">\[2017\] SGDC 46</span> – The offender pleaded guilty on the first day of trial to five charges under s 376B(1) of the Penal Code for having commercial sex with a minor and one charge of unlawful stalking under s 7(1) of POHA. The victim in the unlawful stalking charge was the minor with whom he had had commercial sex. The offender contacted the victim’s then-boyfriend via Facebook under a moniker and informed him of the investigations and the prostitution activities. The offender also contacted at least five of the victim’s friends and “warned them” of the kind of person she was. The offender was sentenced to six months’ imprisonment for the unlawful stalking offence.
 
-(d)      _Public Prosecutor v Tan Boon Wah_ (SC-910153-2016, Magistrate’s Arrest Case No 908859 of 2016 and others) – The offender stalked his former partner for about one year by confronting him outside his home, following him to places he frequented, calling him daily, and sending him messages that gave the impression that the victim was under surveillance. The offender also uploaded photos of them kissing to his Facebook account, e-mailed the victim nude photographs that he had surreptitiously taken of the victim during their relationship, and followed him in a taxi. The offender was sentenced to six months’ imprisonment for unlawful stalking.
+> (d)      _Public Prosecutor v Tan Boon Wah_ (SC-910153-2016, Magistrate’s Arrest Case No 908859 of 2016 and others) – The offender stalked his former partner for about one year by confronting him outside his home, following him to places he frequented, calling him daily, and sending him messages that gave the impression that the victim was under surveillance. The offender also uploaded photos of them kissing to his Facebook account, e-mailed the victim nude photographs that he had surreptitiously taken of the victim during their relationship, and followed him in a taxi. The offender was sentenced to six months’ imprisonment for unlawful stalking.
 
 57     With respect to the remaining three cases:
 
-(a)     sentences of five months’ imprisonment were imposed in a case involving a 12-year old victim, and a case in which the acts of harassment were incessant and included switching off the electricity and water supplies to the victim’s home (see _Tan Yao Min_ at \[86\] and \[88\]); and
+> (a)     sentences of five months’ imprisonment were imposed in a case involving a 12-year old victim, and a case in which the acts of harassment were incessant and included switching off the electricity and water supplies to the victim’s home (see _Tan Yao Min_ at \[86\] and \[88\]); and
 
-(b)     a sentence of three months’ imprisonment was imposed in a case in which the offender monitored the victim at her home and at each new workplace, monitored her interactions with her boyfriend and threatened her via three anonymised Facebook accounts. The offender also sent text messages to the victim’s boyfriend demanding that he break up with the victim, and shouted at the victim’s boyfriend at his workplace. The offender was sentenced to two months’ imprisonment for the unlawful stalking offence committed against the victim’s boyfriend (see _Tan Yao Min_ at \[85\]).
+> (b)     a sentence of three months’ imprisonment was imposed in a case in which the offender monitored the victim at her home and at each new workplace, monitored her interactions with her boyfriend and threatened her via three anonymised Facebook accounts. The offender also sent text messages to the victim’s boyfriend demanding that he break up with the victim, and shouted at the victim’s boyfriend at his workplace. The offender was sentenced to two months’ imprisonment for the unlawful stalking offence committed against the victim’s boyfriend (see _Tan Yao Min_ at \[85\]).
 
 58     In _Tan Yao Min_, the offender pleaded guilty and was convicted on three charges (see _Public Prosecutor v Tan Yao Min_ <span class="citation">\[2017\] SGDC 167</span>):
 
-(a)     criminal intimidation under s 506 (second limb) of the Penal Code;
+> (a)     criminal intimidation under s 506 (second limb) of the Penal Code;
 
-(b)     intentionally causing alarm under s 3(1)(_b_) of POHA; and
+> (b)     intentionally causing alarm under s 3(1)(_b_) of POHA; and
 
-(c)     unlawful stalking under s 7(1) of POHA.
+> (c)     unlawful stalking under s 7(1) of POHA.
 
 The victim in the criminal intimidation charge and the victim in the unlawful stalking charge were two sisters aged 18 and 14 respectively (“the two sisters”). The victim in the charge for intentionally causing alarm, was the two sisters’ grandmother. All three offences were committed in 2017.
 

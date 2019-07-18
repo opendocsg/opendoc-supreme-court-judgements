@@ -23,23 +23,23 @@ Damages – Assessment – Personal injuries cases
 
 4       After his initial stay at National University Hospital (“NUH”), Soh consulted various specialists:
 
-(a)     Dr Chee Yu Han (“Dr Chee”) from NUH, who examined Soh on 19 April 2012 and issued a medical report dated 26 April 2012;[^2]
+> (a)     Dr Chee Yu Han (“Dr Chee”) from NUH, who examined Soh on 19 April 2012 and issued a medical report dated 26 April 2012;[^2]
 
-(b)     A/Prof Ganesan Naidu (“Prof Naidu”) from Tan Tock Seng Hospital (“TTSH”), who examined Soh on 7 April 2015 and issued a medical report dated 23 April 2015;[^3]
+> (b)     A/Prof Ganesan Naidu (“Prof Naidu”) from Tan Tock Seng Hospital (“TTSH”), who examined Soh on 7 April 2015 and issued a medical report dated 23 April 2015;[^3]
 
-(c)     Adj Asst Prof Hitendra K Doshi (“Prof Doshi”) from TTSH, who examined Soh on 24 October 2016 and issued a medical report dated 26 October 2016;[^4] and
+> (c)     Adj Asst Prof Hitendra K Doshi (“Prof Doshi”) from TTSH, who examined Soh on 24 October 2016 and issued a medical report dated 26 October 2016;[^4] and
 
-(d)     Professor Tay Boon Keng (“Prof Tay”) from Singapore General Hospital (“SGH”), who examined Soh on 14 December 2016 and issued a medical report erroneously dated both 28 December 2016 and 5 January 2017.[^5] I will adopt the later date. Prof Tay also issued a clarification dated 26 March 2018.[^6] Prof Tay was Soh’s independent medical expert.
+> (d)     Professor Tay Boon Keng (“Prof Tay”) from Singapore General Hospital (“SGH”), who examined Soh on 14 December 2016 and issued a medical report erroneously dated both 28 December 2016 and 5 January 2017.[^5] I will adopt the later date. Prof Tay also issued a clarification dated 26 March 2018.[^6] Prof Tay was Soh’s independent medical expert.
 
 5       Loke’s independent medical expert was Dr Lee Soon Tai (“Dr Lee”). Dr Lee saw Soh on 10 March 2016 and he issued the following medical reports:
 
-(a)     his first medical report dated 4 May 2016;[^7]
+> (a)     his first medical report dated 4 May 2016;[^7]
 
-(b)     his second medical report dated 18 January 2018;[^8]
+> (b)     his second medical report dated 18 January 2018;[^8]
 
-(c)     his third medical report dated 2 May 2018;[^9] and
+> (c)     his third medical report dated 2 May 2018;[^9] and
 
-(d)     his fourth medical report dated 10 May 2018 which elaborated on his third medical report.[^10]
+> (d)     his fourth medical report dated 10 May 2018 which elaborated on his third medical report.[^10]
 
 6       Loke also relied on a video recording of the movements of Soh on three days, these being 25, 26 and 29 October 2017. This was done by a private investigator who also included photographs from Soh’s Facebook account.
 
@@ -71,19 +71,19 @@ Damages – Assessment – Personal injuries cases
 
 19     Soh has filed an appeal in respect of certain aspects of my decision, _ie_:
 
-1.    The award of $50,000.00 for the right upper leg injury;
+> 1.    The award of $50,000.00 for the right upper leg injury;
 
-2.    The award of $12,000.00 for the disabling knee injuries;
+> 2.    The award of $12,000.00 for the disabling knee injuries;
 
-3.    The “nil” award or the disallowance of the claim for chronic back pain and increased tiredness;
+> 3.    The “nil” award or the disallowance of the claim for chronic back pain and increased tiredness;
 
-4.    The ‘nil” award or the disallowance of the claim for loss of amenities;
+> 4.    The ‘nil” award or the disallowance of the claim for loss of amenities;
 
-5.    The “nil” award or the disallowance of the claim for loss of earning capacity (post-trial);
+> 5.    The “nil” award or the disallowance of the claim for loss of earning capacity (post-trial);
 
-6.    The award of $20,730.00 comprising $15,730.00 for the first total knee replacement and $5,000.00 for a second knee replacement with discount for accelerated payment and contingencies of life; and
+> 6.    The award of $20,730.00 comprising $15,730.00 for the first total knee replacement and $5,000.00 for a second knee replacement with discount for accelerated payment and contingencies of life; and
 
-7.    All the costs orders, in particular the costs given in favour of the Defendant as costs on an indemnity basis fixed at $20,000.00 plus reasonable disbursements incurred from 15 May 2018 up to the date of the Final Judgment given on 10 January 2019.
+> 7.    All the costs orders, in particular the costs given in favour of the Defendant as costs on an indemnity basis fixed at $20,000.00 plus reasonable disbursements incurred from 15 May 2018 up to the date of the Final Judgment given on 10 January 2019.
 
 ## The court’s reasons
 
@@ -95,9 +95,9 @@ Damages – Assessment – Personal injuries cases
 
 22     It seemed to me that the case which was closest to this injury was the case of _Yeo Chee Siong v Salpac (S) Pte Ltd and another_ <span class="citation">\[2017\] SGHC 304</span> (“_Yeo_”). There, the High Court awarded $40,000. I reproduce \[25\] and \[26\] of the grounds of decision there:
 
-25    The Plaintiff asked for $40,000, submitting that the fractures were serious, resulted in serious disabilities and a complicated recovery process. The Defendant submitted that $30,000 would be appropriate, submitting that while “the Plaintiff did suffer from 1 cm shortening of the left leg, he does not require further treatment as the fracture has healed well”.
+> 25    The Plaintiff asked for $40,000, submitting that the fractures were serious, resulted in serious disabilities and a complicated recovery process. The Defendant submitted that $30,000 would be appropriate, submitting that while “the Plaintiff did suffer from 1 cm shortening of the left leg, he does not require further treatment as the fracture has healed well”.
 
-26    It is clear to me that the Plaintiff suffered severe leg injuries in the Accident. The shortening of the Plaintiff’s left leg resulted in a limping gait, an inability to squat and a pre-disposition to post-traumatic arthritis or osteoporosis. The leg injuries continued to cause him pains in his thigh even at the time of trial, where he sustained fractures of his left tibia and fibula. I also note that there was a femoral fracture that involve its distal articular surface which forms part of the knee joint. Taken together, these injuries have caused a painful and complicated recovery. Some of the consequences are permanent such as the inability to squat and a limping gait and some will continue to cause the Plaintiff pain on a daily basis. I am also satisfied that these injuries would affect his chances of finding employment, given that the scope of jobs that the Plaintiff pursued is physical in nature. As such, I took the view that a quantum on the higher end would be appropriate and awarded the Plaintiff $40,000.
+> 26    It is clear to me that the Plaintiff suffered severe leg injuries in the Accident. The shortening of the Plaintiff’s left leg resulted in a limping gait, an inability to squat and a pre-disposition to post-traumatic arthritis or osteoporosis. The leg injuries continued to cause him pains in his thigh even at the time of trial, where he sustained fractures of his left tibia and fibula. I also note that there was a femoral fracture that involve its distal articular surface which forms part of the knee joint. Taken together, these injuries have caused a painful and complicated recovery. Some of the consequences are permanent such as the inability to squat and a limping gait and some will continue to cause the Plaintiff pain on a daily basis. I am also satisfied that these injuries would affect his chances of finding employment, given that the scope of jobs that the Plaintiff pursued is physical in nature. As such, I took the view that a quantum on the higher end would be appropriate and awarded the Plaintiff $40,000.
 
 23     In the present case, Soh still had a 2cm shortening of his right leg while the plaintiff in _Yeo_ had a 1cm shortening.
 
@@ -107,9 +107,9 @@ Damages – Assessment – Personal injuries cases
 
 26     On 1 December 2014, he underwent:
 
-(a)     a right femur proximal corticotomy; and
+> (a)     a right femur proximal corticotomy; and
 
-(b)     application of distracting external fixation.
+> (b)     application of distracting external fixation.
 
 These procedures were to increase the length of his right leg.
 
@@ -153,9 +153,9 @@ These procedures were to increase the length of his right leg.
 
 43     Order 18 r 12(1A) provides that a plaintiff in an action for personal injuries shall serve with his statement of claim:
 
-(a)     a medical report; and
+> (a)     a medical report; and
 
-(b)     a statement of the special damages claimed.
+> (b)     a statement of the special damages claimed.
 
 44     Order 18 r 12(1C) defines “a statement of the special damages claimed” to mean “a statement giving full particulars of the special damages claimed for expenses and losses already incurred and an estimate of any future expenses and losses (including loss of earnings, loss of Central Provident Fund contributions and loss of pension rights)”.
 
@@ -165,13 +165,13 @@ These procedures were to increase the length of his right leg.
 
 47     Nevertheless, that case is useful for the guidance it gives about the evidence that is required. At pp 404–405, the court said:
 
-Counsel for the plaintiff submitted that she was entitled to at least a conventional award under this head, without any evidence being required. But that submission rests on a misconception. A claim for loss of future earning capacity usually arises where the claimant is in employment at the time when the claim falls to be evaluated. The claim is to cover the risk that, at some future date during the claimant’s working life, he will lose his employment and will then suffer financial loss because of his disadvantage in the labour market. The court has to evaluate the present value of that future risk: see _Moeliker v. A Reyrolle & Co. Ltd_ <span class="citation">\[1977\] 1 W.L.R. 132</span>, 140 where Browne L.J. dealt fully with this matter. Evidence is therefore required in order to prove the extent, if any, of the risk that the claimant will at some future time during his working life lose his employment. If he is, and has been for many years, in secure employment with a public authority the risk may be negligible. In other cases, the degree of risk may vary almost infinitely, depending on inter alia the claimant’s age and the nature of his employment. Evidence will also be generally required in order to show how far the claimant’s earning capacity would be adversely affected by his disability. This will depend largely on the nature of his employment. Loss of an arm or a leg will have a much more serious effect upon the earning capacity of a labourer than on that of an accountant. In the present case there is no evidence at all on these matters. …
+> Counsel for the plaintiff submitted that she was entitled to at least a conventional award under this head, without any evidence being required. But that submission rests on a misconception. A claim for loss of future earning capacity usually arises where the claimant is in employment at the time when the claim falls to be evaluated. The claim is to cover the risk that, at some future date during the claimant’s working life, he will lose his employment and will then suffer financial loss because of his disadvantage in the labour market. The court has to evaluate the present value of that future risk: see _Moeliker v. A Reyrolle & Co. Ltd_ <span class="citation">\[1977\] 1 W.L.R. 132</span>, 140 where Browne L.J. dealt fully with this matter. Evidence is therefore required in order to prove the extent, if any, of the risk that the claimant will at some future time during his working life lose his employment. If he is, and has been for many years, in secure employment with a public authority the risk may be negligible. In other cases, the degree of risk may vary almost infinitely, depending on inter alia the claimant’s age and the nature of his employment. Evidence will also be generally required in order to show how far the claimant’s earning capacity would be adversely affected by his disability. This will depend largely on the nature of his employment. Loss of an arm or a leg will have a much more serious effect upon the earning capacity of a labourer than on that of an accountant. In the present case there is no evidence at all on these matters. …
 
 48     Soh submitted that he must satisfy two limbs for his claim for LEC:
 
-(a)     there must be a risk that he will lose the job he holds at the time of trial; and
+> (a)     there must be a risk that he will lose the job he holds at the time of trial; and
 
-(b)     as a result of his injury, he will be at a disadvantage in getting another job or an equally well-paying job.
+> (b)     as a result of his injury, he will be at a disadvantage in getting another job or an equally well-paying job.
 
 49     On the first limb, Soh submitted that his residual disabilities put him at a high risk of losing his present job as a technician with an oil tank company. I have set out above his allegation as to what the job entails. Soh said that he would eventually develop severe osteoarthritis of his right knee which would require a total knee replacement (“TKR”). He would also have to undergo multiple other surgical procedures such as a surgery to remove an internal fixator, arthroscopy for the meniscus tears and ACL reconstruction. He would have to take extensive medical leave and also take time off for consultation and physiotherapy. Therefore, there was a significant risk that his employer would eventually tire of having to accommodate him and let him go when the opportunity arises.[^17] Indeed, as mentioned above at \[9\], Soh also alleged that it was by grace that he could keep his job.
 

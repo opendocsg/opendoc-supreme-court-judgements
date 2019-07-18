@@ -25,19 +25,19 @@ Limitation of Actions – Particular causes of action – Tort
 
 5       This action before me concerned an investment into foreign exchange based on an algorithm trading service offered by a company known as SMLG Inc (“SMLG”). Saimee testified that sometime on or about 24 February 2011, Moi and Quek advised Saimee to sell his shares in various companies and to invest a total of USD$620,900 in SMLG’s algorithm trading service (“the SMLG Investment”). Saimee also alleged that Moi and Quek made the following representations:
 
-(a)     within a year from the date of investment, SMLG would pay the principal amount invested along with a profit of 40%;
+> (a)     within a year from the date of investment, SMLG would pay the principal amount invested along with a profit of 40%;
 
-(b)     the investment was safe and capital guaranteed; and
+> (b)     the investment was safe and capital guaranteed; and
 
-(c)     they recommended the same to all of their clients.
+> (c)     they recommended the same to all of their clients.
 
 6       On 11 April 2012, Moi introduced one Seeni to Saimee who was told that Seeni was the fund manager for SMLG. Seeni was not called as a witness in this trial, but the fact of this introduction was not disputed by the defendants. After the meeting, Saimee, on the advice of Moi and Quek, opened a trading account with FX Primus Ltd (“FX Primus”) for the purposes of the SMLG Investment, and deposited a total of US$620,900 into a Barclays bank account in Mauritius, held by FX Primus, in three tranches —
 
-(a)     USD$80,300 on 27 April 2011;
+> (a)     USD$80,300 on 27 April 2011;
 
-(b)     USD$240,300 on 17 June 2011; and
+> (b)     USD$240,300 on 17 June 2011; and
 
-(c)     USD$300,300 on 3 February 2012.
+> (c)     USD$300,300 on 3 February 2012.
 
 7       In May 2012 when the first tranche payment of USD$80,300 together with profits became due to Saimee, Moi and Quek told Saimee that due to a technical glitch in the algorithm trading platform, SMLG was unable to pay and needed to raise funds to start trading again. Moi and Quek also represented to Saimee that SMLG required a USD$200,000 loan for the purposes of fund raising, which SMLG would repay within two months. Saimee said that at this point, Moi and Quek disclosed to him that they too had invested in the SMLG Investment, which from the evidence, amounted to USD$49,701.12 and USD$21,023.84 respectively. So, in the interests of all three of them, their loan to SMLG was essential to recover their investment with profit.
 
@@ -49,17 +49,17 @@ Limitation of Actions – Particular causes of action – Tort
 
 11     There are three main issues before me which I shall address in turn:
 
-(a)     Whether Moi and Quek breached their duty of care owed to Saimee by negligently misrepresenting the SMLG Investment.
+> (a)     Whether Moi and Quek breached their duty of care owed to Saimee by negligently misrepresenting the SMLG Investment.
 
-(b)     Whether Saimee’s claim against Moi and Quek is time barred.
+> (b)     Whether Saimee’s claim against Moi and Quek is time barred.
 
-(c)     Whether IPP is vicariously liable for Moi and Quek’s breach of their duty of care.
+> (c)     Whether IPP is vicariously liable for Moi and Quek’s breach of their duty of care.
 
 12     Counsel for Moi and Quek, Mr Wilson Tan, submits that Moi and Quek do not owe Saimee a duty of care since the SMLG Investment was merely personal advice by Moi, when Saimee asked to know more about Moi’s personal experience in managing his shares. Mr Tan argues that this advice was not given in Moi’s official capacity as Saimee’s financial adviser, and that Saimee is an experienced investor. In addition, counsel for IPP, Mr Dominic Chan, submits that Saimee ought to have known that such advice was neither official nor professional advice. Counsel for Saimee, Mr Uthayasurian Sidambaram, demurs and submits that Moi and Quek owe Saimee a duty of care as they advised Saimee in their professional capacity as his financial advisers.
 
 13     It is, in my view, reasonably foreseeable that Saimee will suffer economic loss should Moi and Quek, being Saimee’s financial advisers, fail to take reasonable care when providing financial advice (_Spandeck Engineering (S) Pte Ltd v Defence Science & Technology Agency_ <span class="citation">\[2007\] 4 SLR(R) 100</span> at \[73\]). We should focus on the twin criteria of voluntary assumption of responsibility and reliance to determine if there was the requisite legal proximity imposing a duty of care on Moi and Quek for pure economic loss. As Lord Morris held in _Hedley Bryne & Co. Ltd v Heller & Partners Ltd._ <span class="citation">\[1963\] 3 W.L.R. 101</span> (“_Hedley Bryne_”) at 124:
 
-…\[I\]f someone possessed of a special skill undertakes, quite irrespective of contract, to apply that skill for the assistance of another person who relies upon such skill, a duty of care will arise.
+> …\[I\]f someone possessed of a special skill undertakes, quite irrespective of contract, to apply that skill for the assistance of another person who relies upon such skill, a duty of care will arise.
 
 14     Those words have formed the core of liability in law for financial loss since 1963. It has become a principle encrusted in our law because it is simple, sensible, and just. Moi and Quek were Saimee’s financial advisers from 2009 and had provided financial advice – to Saimee, and he acted on those pieces of advice. That was how the SMLG investment came about. Even if it had been personal advice, it was consistent with Moi and Quek’s job of providing that kind of financial and investment advice to Saimee, and nothing in the evidence suggested that this was a discrete, by-the-side personal advice. Furthermore, Moi and Quek were a managing partner and a financial services manager of IPP respectively. By virtue of their position and experience, they possessed special financial knowledge and must be deemed to have voluntarily assumed responsibility to take the necessary care in the giving of investment advice (including the SMLG Investment advice), which Saimee would have acted and did act in reliance on. For example, whenever something went awry with the SMLG Investment, Moi and Quek were always Saimee’s point of contact. In addition, it was also Moi who introduced Mr Seeni to Saimee, and was present during their meeting on 11 April 2012. Therefore, I am satisfied that the requisite legal proximity exists in imposing a duty of care on Moi and Quek in relation to the SMLG Investment. There are no other considerations, policy or otherwise, that militate against the finding of this duty of care.
 
@@ -67,31 +67,31 @@ Limitation of Actions – Particular causes of action – Tort
 
 16     Moi and Quek claimed that they did not represent to Saimee that the SMLG Investment was capital guaranteed with 40% annual returns. They clearly had no choice but to deny this claim because it was an obviously false statement as the SMLG Investment was not capital guaranteed, nor did it provide any returns. I have little difficulty finding that Moi and Quek made the representations since there were no other reasons to persuade Saimee to invest in it. I also find that Moi and Quek’s credibility is undermined by contradictory evidence given during their cross examination. Moi initially claimed that he did not recommend the SMLG Investment to Saimee on 24 February 2011:
 
-Q:… I put it to you that on the 24th of February 2011, you did recommend to the plaintiff investments with SMLG in your office in the presence of Alice.
+> Q:… I put it to you that on the 24th of February 2011, you did recommend to the plaintiff investments with SMLG in your office in the presence of Alice.
 
-A:I disagree with that. Never will I make a recommend\[_sic_\] of product that we don’t represent.
+> A:I disagree with that. Never will I make a recommend\[_sic_\] of product that we don’t represent.
 
 Subsequently, he claimed that the SMLG Investment was merely a ‘personal sharing’ of his:
 
-Q:… \[W\]hen you first spoke to the plaintiff about SMLG, you were basically saying that SMLG was a system for him to better manage his portfolio? Is that what you are telling, Mr Moi?
+> Q:… \[W\]hen you first spoke to the plaintiff about SMLG, you were basically saying that SMLG was a system for him to better manage his portfolio? Is that what you are telling, Mr Moi?
 
-A:That was not my suggestion to him. I just sharing my own experience.
+> A:That was not my suggestion to him. I just sharing my own experience.
 
-…
+> …
 
-Q:… \[Y\]ou told him that he would earn an interest of---returns of 40% per annum under this investment. Agree or disagree?
+> Q:… \[Y\]ou told him that he would earn an interest of---returns of 40% per annum under this investment. Agree or disagree?
 
-A:Disagree. Like I said earlier, everything was shared based on my own experience …
+> A:Disagree. Like I said earlier, everything was shared based on my own experience …
 
 Quek on the other hand, maintained that they did not speak about the SMLG Investment on 24 February 2011:
 
-Q:… \[D\]uring this meeting on the 24th of February, Max and your goodself had recommended that Mr Saimee invest in this forex platform or forex investment known as SMLG during this meeting on the 24th of February 2011. Do you agree, disagree?
+> Q:… \[D\]uring this meeting on the 24th of February, Max and your goodself had recommended that Mr Saimee invest in this forex platform or forex investment known as SMLG during this meeting on the 24th of February 2011. Do you agree, disagree?
 
-A:I do not agree. Because there was no mention at all on SMLG …
+> A:I do not agree. Because there was no mention at all on SMLG …
 
 17     Secondly, in a text message exhibited in Saimee’s evidence-in-chief, Saimee asked Moi:
 
-Why would you advise me to invest in FX when it’s not approved by IPP and you said it’s more than safe … I’m prepared to take it to IPP as I feel that they can do it professionally.
+> Why would you advise me to invest in FX when it’s not approved by IPP and you said it’s more than safe … I’m prepared to take it to IPP as I feel that they can do it professionally.
 
 Moi did not respond to Saimee’s message. Mr Chan submits that Moi’s lack of response did not show that he represented to Saimee that the SMLG Investment was “more than safe”. Moi had ample opportunities to deny this assertion, but did not to do so. The logical inference to be drawn is that Moi, along with Quek, had represented to Saimee that the SMLG Investment was capital guaranteed, and therefore, had only silence in response.
 
@@ -99,35 +99,35 @@ Moi did not respond to Saimee’s message. Mr Chan submits that Moi’s lack of 
 
 19     Mr Chan then submits that even if these representations were made, Saimee never relied on them since he met Mr Seeni as part of his own due diligence and did not rely on Moi’s position as a managing partner to influence his investment decision. I reject this submission. The law requires only that the misrepresentations played a real and substantial role in causing Saimee to act to his detriment. On the evidence, it was clear that in reliance of the misrepresentations made by Moi and Quek, Saimee invested and lost USD$620,900 from the SMLG Investment. It was undisputed that Moi and Quek introduced the SMLG Investment to Saimee, referred Mr Seeni to Saimee, and advised Saimee to loan USD$200,000 to SMLG and to subsequently enter into the Settlement Agreements. Further, on cross examination, Saimee was steadfast in maintaining that he relied on Moi and Quek’s advice. To illustrate:
 
-Q:… If \[Moi\] and \[Quek\] were to ask you to change some of the policies, you do not just take whatever they suggest. You would try to understand before making a decision, is that correct?
+> Q:… If \[Moi\] and \[Quek\] were to ask you to change some of the policies, you do not just take whatever they suggest. You would try to understand before making a decision, is that correct?
 
-A:No, I would just rely on them and heed their advice.
+> A:No, I would just rely on them and heed their advice.
 
-…
+> …
 
-Q:… \[Y\]ou’re telling this Court that whatever \[Moi\] and \[Quek\] advised, you follow?
+> Q:… \[Y\]ou’re telling this Court that whatever \[Moi\] and \[Quek\] advised, you follow?
 
-A:Yes.
+> A:Yes.
 
-…
+> …
 
-Q:I put it to you that there is no claim against \[Moi\] and \[Quek\] under the settlement agreements. Do you agree or disagree?
+> Q:I put it to you that there is no claim against \[Moi\] and \[Quek\] under the settlement agreements. Do you agree or disagree?
 
-A:I disagree because they advised me to go into this investment saying that, you know, it’s a more than safe investment and … it’s a principal guaranteed.
+> A:I disagree because they advised me to go into this investment saying that, you know, it’s a more than safe investment and … it’s a principal guaranteed.
 
 Similarly, on re-examination, Saimee maintained that he relied on Moi and Quek’s misrepresentations:
 
-Q:And on whose representations did you decide to invest into SMLG?
+> Q:And on whose representations did you decide to invest into SMLG?
 
-A:I just rely on---like I’ve always been, then I just rely on representation of \[Moi\] and \[Quek\] … and then trusted them.
+> A:I just rely on---like I’ve always been, then I just rely on representation of \[Moi\] and \[Quek\] … and then trusted them.
 
 For the reasons above, I am satisfied that the false representations alleged by Saimee against Moi and Quek had been proved. I move on to whether there was a breach of a duty of care resulting in damage to Saimee.
 
 20     Moi and Quek were, of course, duty-bound to exercise reasonable skill and care when giving investment advice, and the exact standard of care required of them depends largely on two factors, (a) their financial experience and knowledge relative to Saimee, and (b) the type of investment proposed. I will elaborate on each of these factors:
 
-(a)     First, Saimee, who had never received formal financial education, and relied on IPP’s advice in the making of his financial decisions, is unlikely to have sufficient knowledge of investment principles to understand the risks involved in a forex algorithm trading platform such as the SMLG Investment; he says he did not; and I believe him. In contrast, Moi and Quek hold a Diploma in Financial Planning, are Chartered Financial Consultants, and have been working in the financial services industry since 1991. As a managing partner and financial services manager respectively, Moi and Quek are likely to be in a position to understand the risks involved in the SMLG Investment. It is the reason why investment advisers need proper certification and licence to render such advice. In this case, both of them held themselves out as financial experts.
+> (a)     First, Saimee, who had never received formal financial education, and relied on IPP’s advice in the making of his financial decisions, is unlikely to have sufficient knowledge of investment principles to understand the risks involved in a forex algorithm trading platform such as the SMLG Investment; he says he did not; and I believe him. In contrast, Moi and Quek hold a Diploma in Financial Planning, are Chartered Financial Consultants, and have been working in the financial services industry since 1991. As a managing partner and financial services manager respectively, Moi and Quek are likely to be in a position to understand the risks involved in the SMLG Investment. It is the reason why investment advisers need proper certification and licence to render such advice. In this case, both of them held themselves out as financial experts.
 
-(b)     Secondly, both Moi and Quek admitted that the SMLG Investment was not an investment offered by IPP. The SMLG Investment, which was based on a forex algorithm trading platform, will attract a much higher risk as compared to conventional investments in stocks, bonds or insurance.
+> (b)     Secondly, both Moi and Quek admitted that the SMLG Investment was not an investment offered by IPP. The SMLG Investment, which was based on a forex algorithm trading platform, will attract a much higher risk as compared to conventional investments in stocks, bonds or insurance.
 
 Correspondingly, the standard of care imposed on both Moi and Quek was a high one. Even if Moi and Quek had honestly believed that the SMLG Investment was capital guaranteed with 40% annual returns, a negligent, though honest misrepresentation, would still have given rise to an action for damages for financial loss (see _Hedley Bryne_ at 486 and 502). Moi and Quek are experienced and qualified financial advisers who ought to have been wary of an investment which allegedly offered 40% annual returns with a capital guarantee, and should have done due diligence to satisfy themselves. Instead of informing Saimee about the potential risks involved with the SMLG Investment (see, for example, _Go Dante Yap v Bank Austria Creditanstalt AG_ <span class="citation">\[2011\] 4 SLR 559</span> at \[48\] and \[51\] where the investor was informed about the pros and cons of the investment), Moi and Quek negligently misrepresented that the SMLG Investment was capital guaranteed with 40% annual returns, and did not explain the risks involved. They had thus breached their duty of care owed to Saimee.
 
@@ -139,9 +139,9 @@ Correspondingly, the standard of care imposed on both Moi and Quek was a high on
 
 24     The main thrust of Mr Tan’s submission is that Saimee’s claim against Moi and Quek, which is founded on tort, is time barred pursuant to s 6(1)(a) of the Limitation Act (Cap 163, 1996 Rev Ed) which states as follows:
 
-6\. — (1)    Subject to this Act, the following actions shall not be brought after the expiration of 6 years from the date on which the cause of action accrued:
+> 6\. — (1)    Subject to this Act, the following actions shall not be brought after the expiration of 6 years from the date on which the cause of action accrued:
 
-(a)    actions founded on a contract or on tort;
+>> (a)    actions founded on a contract or on tort;
 
 Saimee filed his writ of summons on 21 July 2018. Mr Tan submits that Saimee’s claim is time barred as the latest date in law that Saimee could have pursued his tortious claim was 24 June 2018, six years from 24 June 2012, the date where the SMLG was supposed to repay the USD$200,000 loan to Saimee. Mr Tan argues that by 24 June 2012, Saimee had been informed that there was a technical glitch, and he had also admitted under cross examination that there was something wrong with the SMLG Investment. Mr Sidambaram demurs and argues that the representations made by Moi and Quek were ongoing and Saimee continued to rely on their advice when he entered into the Settlement Agreements on 17 September 2012. Therefore, Mr Sidambaram submits that the latest date in law that Saimee could have pursued his claim was 16 September 2018 and he is not time barred.
 
@@ -151,9 +151,9 @@ Saimee filed his writ of summons on 21 July 2018. Mr Tan submits that Saimee’
 
 27     Vicarious liability should be imposed on IPP only if the following two requirements are satisfied (see _Ong Han Ling and another v American International Assurance Co Ltd and others_ <span class="citation">\[2018\] 5 SLR 549</span> (“_Ong Han Ling_”) at \[160\] and _Skandinaviska Enskilda Banken AB (Publ), Singapore Branch v Asia Pacific Breweries (Singapore) Pte Ltd and another and another appeal_ <span class="citation">\[2011\] 3 SLR 540</span> (“_Skandinaviska_”) at \[87\]):
 
-(a)     First, the relationship between the tortfeasors (Moi and Quek) and IPP must be one that is capable of giving rise to vicarious liability. Simply put, it must be fair, just and reasonable to impose liability on IPP for Moi and Quek’s negligent misrepresentations.
+> (a)     First, the relationship between the tortfeasors (Moi and Quek) and IPP must be one that is capable of giving rise to vicarious liability. Simply put, it must be fair, just and reasonable to impose liability on IPP for Moi and Quek’s negligent misrepresentations.
 
-(b)     Secondly, the relationship between the tortfeasors and IPP must have materially increased the risk of negligent misrepresentations being committed. This is commonly referred to as the ‘close connection test’.
+> (b)     Secondly, the relationship between the tortfeasors and IPP must have materially increased the risk of negligent misrepresentations being committed. This is commonly referred to as the ‘close connection test’.
 
 I will deal with each requirement in turn.
 
@@ -163,33 +163,33 @@ I will deal with each requirement in turn.
 
 30     Belinda Ang J held in _Ong Han Ling_ that _Skandinaviska_ did not stand for the proposition that the lack of relative fault is a precondition before vicarious liability can be imposed. In particular, Ang J stated at \[166\] that:
 
-… \[T\]he Court of Appeal in _Skandinaviska (CA)_ did not make the lack of relative fault an absolute precondition to the imposition of vicarious liability. Its point was simply that where the victim is more at fault than the tortfeasor or defendant, the policy consideration of victim compensation as a justification for imposing vicarious liability loses much of its moral force…
+> … \[T\]he Court of Appeal in _Skandinaviska (CA)_ did not make the lack of relative fault an absolute precondition to the imposition of vicarious liability. Its point was simply that where the victim is more at fault than the tortfeasor or defendant, the policy consideration of victim compensation as a justification for imposing vicarious liability loses much of its moral force…
 
 I agree with Ang J, and am of the view that although there were indeed differences between the process and forms involved in the SMLG Investment compared to products typically offered by IPP, it was not unreasonable for Saimee, who was a lay investor (as elaborated at \[20\](a) of this judgment above), to have relied on the representations and advice of Moi and Quek in relation to the SMLG Investment, and it was also reasonable for Saimee to have assumed that the SMLG Investment was a product offered by IPP. Moi and Quek were after all, a managing partner and a financial services manager of IPP, and they, not Saimee, were in the better position to know the process and the forms required for the SMLG Investment. Therefore, I find no reason for Saimee to have doubted Moi and Quek, and he was not obliged to conduct his own due diligence.
 
 31     There are two further considerations that justify the imposition of vicarious liability, that is, (a) victim compensation and (b) deterrence of future harm (_Skandinaviska_ at \[76\]). Unlike the appellants in _Skandinaviska_ who were banks with the resources to protect themselves (_Skandinaviska_ at \[92\]), Saimee is a vulnerable individual with little investment knowledge. In addition, IPP, which is the enterprise that hired Moi and Quek as its financial advisers, has control over its financial advisers and is in the best position to manage its own risk and prevent any further wrongdoing to its clients. Lord Nicholls puts it succinctly in _Dubai Aluminium Co Ltd v Salaam_ <span class="citation">\[2003\] 2 AC 366</span> at \[21\]:
 
-… \[C\]arrying on a business enterprise necessarily involves risks to others. It involves the risk that others will be harmed by wrongful acts committed by the agents through whom the business is carried on. When those risks ripen into loss, it is just that the business should be responsible for compensating the person who has been wronged.
+> … \[C\]arrying on a business enterprise necessarily involves risks to others. It involves the risk that others will be harmed by wrongful acts committed by the agents through whom the business is carried on. When those risks ripen into loss, it is just that the business should be responsible for compensating the person who has been wronged.
 
 32     More importantly, the relationship between Moi and Quek vis-à-vis IPP has significantly increased the risk of negligent misrepresentations for the following reasons:
 
-(a)     First, IPP’s business model afforded Moi and Quek the opportunity to abuse or exploit their functions as financial advisers (see for example, _Ong Han Ling_ at \[178\]). Moi and Quek were financial advisers who were selling and recommending IPP’s financial products. They acted as intermediaries between the clients and IPP. IPP also held Moi and Quek out to be representatives of IPP by giving them name cards under the name of IPP. This promotes and creates a relationship of trust and confidence between clients and financial advisers which increased the risk of financial advisers making negligent misrepresentations.
+> (a)     First, IPP’s business model afforded Moi and Quek the opportunity to abuse or exploit their functions as financial advisers (see for example, _Ong Han Ling_ at \[178\]). Moi and Quek were financial advisers who were selling and recommending IPP’s financial products. They acted as intermediaries between the clients and IPP. IPP also held Moi and Quek out to be representatives of IPP by giving them name cards under the name of IPP. This promotes and creates a relationship of trust and confidence between clients and financial advisers which increased the risk of financial advisers making negligent misrepresentations.
 
-(b)     Secondly, Moi and Quek’s introduction of the SMLG Investment to Saimee was consistent with their job of providing financial advice to Saimee, and furthered IPP’s business of selling and recommending financial products to their clients.
+> (b)     Secondly, Moi and Quek’s introduction of the SMLG Investment to Saimee was consistent with their job of providing financial advice to Saimee, and furthered IPP’s business of selling and recommending financial products to their clients.
 
-(c)     Lastly, Saimee is a vulnerable client. He is not highly educated and predominantly relied on Moi and Quek’s financial advice.
+> (c)     Lastly, Saimee is a vulnerable client. He is not highly educated and predominantly relied on Moi and Quek’s financial advice.
 
 Considering the factors above and the policy reasons for the imposition of vicarious liability, I find IPP vicariously liable for Moi and Quek’s tort of negligence.
 
 33     I therefore find as follows:
 
-(a)     Moi and Quek had breached their duty of care owed to Saimee by negligently misrepresenting the SMLG Investment to Saimee.
+> (a)     Moi and Quek had breached their duty of care owed to Saimee by negligently misrepresenting the SMLG Investment to Saimee.
 
-(b)     Saimee’s claim against Moi and Quek is not time barred.
+> (b)     Saimee’s claim against Moi and Quek is not time barred.
 
-(c)     Moi and Quek are jointly and severally liable to compensate Saimee the sum of USD$620,900, plus interests from date of breach.
+> (c)     Moi and Quek are jointly and severally liable to compensate Saimee the sum of USD$620,900, plus interests from date of breach.
 
-(d)     IPP is vicariously liable for Moi and Quek’s tort of negligence.
+> (d)     IPP is vicariously liable for Moi and Quek’s tort of negligence.
 
 34     I will hear arguments on costs at a later date.
 

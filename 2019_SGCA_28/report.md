@@ -31,7 +31,7 @@ Land – Strata titles – Collective sales
 
 7       Knight Frank’s estimation of the DC was an important issue in this appeal. Essentially, the DC is a tax payable by developers to the relevant authorities when planning permission is granted to carry out a development project which increases the value of the land. This Court explained in _Chua Choon Cheng and others v Allgreen Properties Ltd and another appeal_ <span class="citation">\[2009\] 3 SLR(R) 724</span> as follows:
 
-4    Development charges are charges levied on the enhancement in land value resulting from the State approving a higher value development proposal… Generally, a development charge is payable where the “development ceiling” exceeds the existing “development baseline” (the formula is: Development Charge payable = Development Ceiling – Development Baseline – Development Charge Exemption). Therefore, the higher the existing development baseline of a project is, the lower the development charge will be. A lower development charge would, in turn, ordinarily translate into a higher realisable sale price for the land.
+> 4    Development charges are charges levied on the enhancement in land value resulting from the State approving a higher value development proposal… Generally, a development charge is payable where the “development ceiling” exceeds the existing “development baseline” (the formula is: Development Charge payable = Development Ceiling – Development Baseline – Development Charge Exemption). Therefore, the higher the existing development baseline of a project is, the lower the development charge will be. A lower development charge would, in turn, ordinarily translate into a higher realisable sale price for the land.
 
 8       On 1 July 2017, an extraordinary general meeting (“EGM”) of the management corporation was convened. The CSC was constituted at this EGM to act jointly on behalf of the subsidiary proprietors for the purposes of a collective sale. The CSC comprised six members, including the three respondents. The first respondent, Mr Lim Hun Joo (“Mr Lim”) became the chairman of the CSC. Sometime in early July 2017, the CSC appointed Knight Frank as the marketing agent and Rajah & Tann Singapore LLP (“R&T”) as the legal advisors for the collective sale.
 
@@ -49,11 +49,11 @@ Land – Strata titles – Collective sales
 
 15     On 7 March 2018, the tender closed as scheduled and the tender box was opened. There were:
 
-(a)     one expression of interest at $480m;
+> (a)     one expression of interest at $480m;
 
-(b)     one bid at $580m; and
+> (b)     one bid at $580m; and
 
-(c)     a second bid at $610m.
+> (c)     a second bid at $610m.
 
 16     In addition, an independent valuation report dated 7 March 2018 prepared by Colliers International Consultancy & Valuation (Singapore) Pte Ltd (“Colliers”) was opened. Taking into account the fact that no DC was payable, Colliers valued the Property at $542m.
 
@@ -101,11 +101,11 @@ Land – Strata titles – Collective sales
 
 35     Having regard to the parties’ evidence and submissions and the need to examine the issue of good faith holistically, the following issues arose for determination:
 
-(a)     The “Conflict of Interest Issue”: whether the respondents’ application to the Board or the High Court was _ultra vires_ by virtue of Mr Lim’s and Mr Chan’s failure to declare their conflict of interest;
+> (a)     The “Conflict of Interest Issue”: whether the respondents’ application to the Board or the High Court was _ultra vires_ by virtue of Mr Lim’s and Mr Chan’s failure to declare their conflict of interest;
 
-(b)     The “Voting Issue”: whether a breach of a provision in the Schedules of the LTSA deprives the court of its jurisdiction to hear a collective sale application; and
+> (b)     The “Voting Issue”: whether a breach of a provision in the Schedules of the LTSA deprives the court of its jurisdiction to hear a collective sale application; and
 
-(c)     whether the transaction was in good faith.
+> (c)     whether the transaction was in good faith.
 
 ## Our decision
 
@@ -113,29 +113,29 @@ Land – Strata titles – Collective sales
 
 36     To succeed on this issue, the appellants needed to establish that:
 
-(a)     Mr Lim and Mr Chan failed to declare actual or potential conflicts of interest prior to their election to the CSC; and
+> (a)     Mr Lim and Mr Chan failed to declare actual or potential conflicts of interest prior to their election to the CSC; and
 
-(b)     as a result, their appointments were void and the application before the High Court was _ultra vires_ as they could not have represented the assenting subsidiary proprietors.
+> (b)     as a result, their appointments were void and the application before the High Court was _ultra vires_ as they could not have represented the assenting subsidiary proprietors.
 
 37     On the first point, it was not disputed that Mr Lim’s brother and Mr Chan’s brother and mother each owned another unit in the Property and that the units they owned were the same type as those Mr Lim and Mr Chan owned respectively: GD at \[121\]. It was also not disputed that Mr Lim’s and Mr Chan’s relatives were “associates” within the meaning of para 2(6) of the Third Schedule.
 
 38     However, we agree with the Judge that, contrary to the appellants’ submissions, a person who is standing for election to the CSC does not have to declare the mere fact that his associate owns or possesses any lot that may be the subject of the collective sale. As the Judge noted, this is clear from para 2(1) of the Third Schedule, which states:
 
-**Disclosure of conflict of interests**
+> **Disclosure of conflict of interests**
 
-2.—(1)    If a person standing for election as a member of a collective sale committee is aware of any conflict of interest or potential conflict of interest, **if any**, with his duties or interests as a member of the collective sale committee (should he be elected) arising from —
+> 2.—(1)    If a person standing for election as a member of a collective sale committee is aware of any conflict of interest or potential conflict of interest, **if any**, with his duties or interests as a member of the collective sale committee (should he be elected) arising from —
 
-…
+>> …
 
-(_c_)    his possession or ownership of any lot or common property that may be the subject of the collective sale, whether alone or together with any of his associates;
+>> (_c_)    his possession or ownership of any lot or common property that may be the subject of the collective sale, whether alone or together with any of his associates;
 
-…
+>> …
 
-(_g_)    his associate’s possession or ownership of any lot or common property that may be the subject of the collective sale,
+>> (_g_)    his associate’s possession or ownership of any lot or common property that may be the subject of the collective sale,
 
-he shall, before his election, declare at the general meeting convened for such election, the nature and extent of all such conflicts of interest or potential conflicts of interest.
+> he shall, before his election, declare at the general meeting convened for such election, the nature and extent of all such conflicts of interest or potential conflicts of interest.
 
-\[emphasis added in bold\]
+> \[emphasis added in bold\]
 
 39     Like the Judge, we are of the view that the words “if any” in para 2(1) must mean that the circumstances set out in paras 2(1)(_a_)–(_g_) will not necessarily give rise to an actual or potential conflict of interest and that whether a conflict arises will depend on the facts of each case. Otherwise, those words would be otiose. In the circumstances, the appellants must show how the associates’ ownership of other lots in the Property gave rise to an actual or potential conflict of interest.
 
@@ -149,7 +149,7 @@ he shall, before his election, declare at the general meeting convened for such 
 
 44     As stated above, the Judge held that even if Mr Lim’s and Mr Chan’s appointments to the CSC were void, Mr Awe, the second respondent, would have become the sole plaintiff in the proceedings in the High Court. The appellants disagreed and submitted that the subsidiary proprietors had appointed Mr Lim, Mr Chan and Mr Awe to be their authorised representatives jointly and not Mr Awe solely. However, there is nothing in s 84A of the LTSA which states that an application under s 84A(1) would be _ultra vires_ if any of the jointly-appointed representatives turns out to have been wrongly appointed or if the number of persons fell below three. Section 84A(2) of the LTSA states:
 
-(2)    The subsidiary proprietors referred to in subsection (1) shall appoint not more than 3 persons from the collective sale committee referred to in subsection (1A) to act jointly as their authorised representatives in connection with any application made under subsection (1).
+> (2)    The subsidiary proprietors referred to in subsection (1) shall appoint not more than 3 persons from the collective sale committee referred to in subsection (1A) to act jointly as their authorised representatives in connection with any application made under subsection (1).
 
 45     In our view, the Judge’s approach is both practical and sensible. In the circumstances, we affirmed the Judge’s holding that the application before him would not have been _ultra vires_ even if Mr Lim’s and Mr Chan’s appointments to the CSC had been void.
 
@@ -161,39 +161,39 @@ he shall, before his election, declare at the general meeting convened for such 
 
 48     It was not disputed that the approvals of the apportionment of sale proceeds and of the terms and conditions of the CSA were not given at a general meeting of the management corporation, in this case, the EGM on 9 September 2017. This was a clear breach of paras 7(1)(_b_) and 7(1)(_c_) of the Third Schedule, which provide:
 
-**General meetings convened by collective sale committee**
+> **General meetings convened by collective sale committee**
 
-7.—(1)    The collective sale committee shall convene one or more general meetings of the management corporation in accordance with the Second Schedule for the following purposes:
+> 7.—(1)    The collective sale committee shall convene one or more general meetings of the management corporation in accordance with the Second Schedule for the following purposes:
 
-…
+>> …
 
-(_b_)    to approve the apportionment of sale proceeds; and
+>> (_b_)    to approve the apportionment of sale proceeds; and
 
-(_c_)    to approve the terms and conditions of the collective sale agreement.
+>> (_c_)    to approve the terms and conditions of the collective sale agreement.
 
-…
+>> …
 
 49     The only dispute was over the consequences that flowed from the said breach. As mentioned earlier, the appellants submitted that the breach struck at the heart of the High Court’s jurisdiction to hear the application for the collective sale of the Property. This was because these provisions are conditions-precedent, non-compliance of which would deprive the court of its statutory jurisdiction to hear such an application. In support of this submission, the appellants relied on s 84A(3) of the LTSA, which states:
 
-(3)    Subject to subsection (7C), no application may be made to a Board under subsection (1) by the subsidiary proprietors referred to in subsection (1) unless they have complied with the requirements specified in the First, Second and Third Schedules and have provided an undertaking to pay the costs of the Board under subsection (5).
+> (3)    Subject to subsection (7C), no application may be made to a Board under subsection (1) by the subsidiary proprietors referred to in subsection (1) unless they have complied with the requirements specified in the First, Second and Third Schedules and have provided an undertaking to pay the costs of the Board under subsection (5).
 
 50     The respondents pointed out, on the other hand, that s 84A(3) is subject expressly to s 84A(7C), which states:
 
-(7C)  A Board shall not invalidate an application to the Board for an order under subsection (1) or section 84D(2), 84E(3) or 84FA(2) by reason only of non-compliance with any requirement in the First, Second or Third Schedule if the Board is satisfied that such non-compliance does not prejudice the interest of any person, and the Board may make such order as may be necessary to rectify the non-compliance and such order for costs.
+> (7C)  A Board shall not invalidate an application to the Board for an order under subsection (1) or section 84D(2), 84E(3) or 84FA(2) by reason only of non-compliance with any requirement in the First, Second or Third Schedule if the Board is satisfied that such non-compliance does not prejudice the interest of any person, and the Board may make such order as may be necessary to rectify the non-compliance and such order for costs.
 
 51     However, s 84A(7C) refers only to the Board and not to the High Court. At this juncture, it would be apposite to provide some background on the roles of the Board and the High Court when faced with disputes over collective sales. Prior to 2010, the Board’s role was to assess all collective sale applications and ensure that each application was made in good faith and complied with the regulations under the LTSA. The Board mediated and adjudicated objections filed by minority owners in collective sales. An appeal then lay to the High Court. This changed in 2010, pursuant to amendments to the LTSA made by the Land Titles (Strata) (Amendment) Act 2010 (Act 13 of 2010). The role of the Board in collective sale disputes is now set out in s 84A(6A) of the LTSA, which provides:
 
-(6A)  Where an application is made under subsection (1) to a Board, and one or more objections have been filed under subsection (4) in relation to that application —
+> (6A)  Where an application is made under subsection (1) to a Board, and one or more objections have been filed under subsection (4) in relation to that application —
 
-(a)    the Board shall mediate matters that are in dispute between the objectors and the applicants to achieve a resolution of the dispute; and
+>> (a)    the Board shall mediate matters that are in dispute between the objectors and the applicants to achieve a resolution of the dispute; and
 
-(b)    if —
+>> (b)    if —
 
-(i)    at the end of a period of 60 days starting from the first day set aside for mediation; or
+>>> (i)    at the end of a period of 60 days starting from the first day set aside for mediation; or
 
-(ii)   mediation has proceeded as far as it reasonably can in an attempt to achieve a resolution of the dispute but has nevertheless failed to resolve the dispute,
+>>> (ii)   mediation has proceeded as far as it reasonably can in an attempt to achieve a resolution of the dispute but has nevertheless failed to resolve the dispute,
 
-whichever first occurs, one or more of those objections are not withdrawn, the Board shall, subject to subsection (6B), order a discontinuance of all proceedings before it in connection with that application (referred to in this section as a section 84A stop order).
+>> whichever first occurs, one or more of those objections are not withdrawn, the Board shall, subject to subsection (6B), order a discontinuance of all proceedings before it in connection with that application (referred to in this section as a section 84A stop order).
 
 52     Thus, instead of hearing the merits of the dispute, the Board will attempt to mediate the dispute. If mediation fails, the Board will issue a “stop order” and an application must be made to the High Court for the collective sale of the property within 14 days after the issue of the stop order: s 84A(2B).
 
@@ -205,11 +205,11 @@ whichever first occurs, one or more of those objections are not withdrawn, the B
 
 56     Our decision is consistent with the previous decisions of this court. For example, we held in _N K Rajarh and others v Tan Eng Chuan and others_ <span class="citation">\[2014\] 1 SLR 694</span>, a case concerning whether para 7(3) of the Third Schedule required the 80% threshold to be reached before a public tender is launched, that:
 
-54    …adherence to the procedural requirements laid down by Parliament in the LTSA by SCs and their advisers and agents is undeniably important (see also s 84A(3) of the LTSA), and if a breach of those requirements results in prejudice, an application for a collective sale would not be allowed to proceed.
+> 54    …adherence to the procedural requirements laid down by Parliament in the LTSA by SCs and their advisers and agents is undeniably important (see also s 84A(3) of the LTSA), and if a breach of those requirements results in prejudice, an application for a collective sale would not be allowed to proceed.
 
 57     We also held in _Lim Li Meng Dominic and others v Ching Pui Sim Sally and another and another matter_ <span class="citation">\[2015\] 5 SLR 989</span> (“_Gilstead Court_”) that:
 
-52    … Whilst s 84A(1) implicitly requires the sale and purchase agreement that is entered into between the majority owners and the purchaser to specify the distribution method, the failure to do so is not necessarily fatal to an application for collective sale if the method is already set out in the collective sale agreement. **There is no prejudice since the SPs would have already been provided with the information** necessary to decide whether or not to object to the sale and the STB would also have the necessary information to “carry out its duty under s 84A(9) to determine whether the sale was in good faith”… \[emphasis added in bold\]
+> 52    … Whilst s 84A(1) implicitly requires the sale and purchase agreement that is entered into between the majority owners and the purchaser to specify the distribution method, the failure to do so is not necessarily fatal to an application for collective sale if the method is already set out in the collective sale agreement. **There is no prejudice since the SPs would have already been provided with the information** necessary to decide whether or not to object to the sale and the STB would also have the necessary information to “carry out its duty under s 84A(9) to determine whether the sale was in good faith”… \[emphasis added in bold\]
 
 58     In both cases, we accepted that breach of provisions in the LTSA may not be fatal to a collective sale application if no prejudice is occasioned. We did not hold that we would have no jurisdiction to hear the matter if the statutory requirements were not complied with.
 
@@ -227,17 +227,17 @@ whichever first occurs, one or more of those objections are not withdrawn, the B
 
 63     The starting point is section 84A(9)(_a_)(i) of the LTSA, which provides:
 
-(9)    The High Court or a Board shall not approve an application made under subsection (1) —
+> (9)    The High Court or a Board shall not approve an application made under subsection (1) —
 
-(a)    if the High Court or Board, as the case may be, is satisfied that —
+>> (a)    if the High Court or Board, as the case may be, is satisfied that —
 
-(i)    the transaction is not in good faith after taking into account only the following factors:
+>>> (i)    the transaction is not in good faith after taking into account only the following factors:
 
-(A)    the sale price for the lots and the common property in the strata title plan;
+>>>> (A)    the sale price for the lots and the common property in the strata title plan;
 
-(B)    the method of distributing the proceeds of sale; and
+>>>> (B)    the method of distributing the proceeds of sale; and
 
-(C)    the relationship of the purchaser to any of the subsidiary proprietors; …
+>>>> (C)    the relationship of the purchaser to any of the subsidiary proprietors; …
 
 64     The above provision enjoins the court to consider whether the transaction was “not in good faith”. Occasionally, the parties and the Judge reframed the question to whether the transaction was “in bad faith”: see, for example, the GD at \[118\], \[120\], \[121\], \[168\], \[179\], \[188\]. The terms “not in good faith” and “in bad faith” were used interchangeably in _Horizon Towers_ (at \[200\] – “once _prima facie_ evidence of bad faith is produced, the applicants have the task of disproving such bad faith and establishing that the transaction was in good faith”) and _Gilstead Court_ (at \[64\] and \[95\]) as well. In our view, a transaction that is not in good faith may not necessarily be in bad faith. It would thus be preferable to adopt the language of the statutory provision and consider whether the transaction is in good faith or not. However, nothing turns on this distinction in this case.
 
@@ -245,15 +245,15 @@ whichever first occurs, one or more of those objections are not withdrawn, the B
 
 66     This court also affirmed in _Horizon Towers_ that a collective sale committee is subject to the duty to act with conscientiousness, the duty on which the appellants hinged their case. It elaborated on this duty as follows:
 
-153    An SC clearly has a duty to act conscientiously in exercising the power of collective sale. We note that trustees owe a duty of care to their beneficiaries and are bound to take all precautions in the management of the trust property as an ordinary prudent man of business would take in his own affairs... Similarly, it was formerly customary to state that even gratuitous agents owed a duty to their principals to act with such skill and care as persons would ordinarily exercise in their own affairs (although recently the more open formulation that the agent’s duty is “that which may be reasonably expected of him in all the circumstances” has been used…). The core common law content of an agent’s duty of conscientiousness to his principal is not irreconcilably dissimilar from that owed by a trustee in equity to his beneficiaries. It is the paramount duty of trustees “to exercise their powers in the best interests of \[all\] beneficiaries of the trust”... The relevant circumstances must be assessed in deciding whether the appropriate standard of care has been observed.
+> 153    An SC clearly has a duty to act conscientiously in exercising the power of collective sale. We note that trustees owe a duty of care to their beneficiaries and are bound to take all precautions in the management of the trust property as an ordinary prudent man of business would take in his own affairs... Similarly, it was formerly customary to state that even gratuitous agents owed a duty to their principals to act with such skill and care as persons would ordinarily exercise in their own affairs (although recently the more open formulation that the agent’s duty is “that which may be reasonably expected of him in all the circumstances” has been used…). The core common law content of an agent’s duty of conscientiousness to his principal is not irreconcilably dissimilar from that owed by a trustee in equity to his beneficiaries. It is the paramount duty of trustees “to exercise their powers in the best interests of \[all\] beneficiaries of the trust”... The relevant circumstances must be assessed in deciding whether the appropriate standard of care has been observed.
 
 67     The pronouncements in _Horizon Towers_ were “generally affirm\[ed\]” by this court in _Ramachandran Jayakumar and another v Woo Hon Wai and others and another matter_ <span class="citation">\[2017\] 2 SLR 413</span> (“_Shunfu Ville (CA)_”) but with the following clarifications (at \[59\] and \[61\]):
 
-(a)     Absent any reason for thinking that members of a collective sale committee are actuated by any improper motives or any conflict of interest and absent clear evidence that the transaction is tainted by unfairness towards some subsidiary proprietors, in particular the dissenting subsidiary proprietors, or by some deficit in the transaction, the transaction will less likely be refused approval. This follows because “good faith” under s 84A(9)(_a_)(i)(A) of the LTSA entails considerations of good faith as a matter of common law and equity; this usually entails a finding of some want of probity on the part of the relevant parties, although this can be inferred from aspects of the transaction itself.
+> (a)     Absent any reason for thinking that members of a collective sale committee are actuated by any improper motives or any conflict of interest and absent clear evidence that the transaction is tainted by unfairness towards some subsidiary proprietors, in particular the dissenting subsidiary proprietors, or by some deficit in the transaction, the transaction will less likely be refused approval. This follows because “good faith” under s 84A(9)(_a_)(i)(A) of the LTSA entails considerations of good faith as a matter of common law and equity; this usually entails a finding of some want of probity on the part of the relevant parties, although this can be inferred from aspects of the transaction itself.
 
-(b)     There is generally little to be gained in slicing up the sequence of events and attempting to argue that any one of them goes towards establishing lack of good faith; rather, it is through a holistic assessment of the entire circumstances of the transaction that the court may determine whether there is in fact an absence of good faith which would bar the sale from proceeding. It was necessary in _Horizon Towers_ and will generally be necessary in other cases, to consider the facts holistically instead of suggesting that any single one of the grounds relied on in _Horizon Towers_ would suffice to cross the lack of good faith threshold in and of itself.
+> (b)     There is generally little to be gained in slicing up the sequence of events and attempting to argue that any one of them goes towards establishing lack of good faith; rather, it is through a holistic assessment of the entire circumstances of the transaction that the court may determine whether there is in fact an absence of good faith which would bar the sale from proceeding. It was necessary in _Horizon Towers_ and will generally be necessary in other cases, to consider the facts holistically instead of suggesting that any single one of the grounds relied on in _Horizon Towers_ would suffice to cross the lack of good faith threshold in and of itself.
 
-(c)     The question of whether the “best price” was obtained was reframed to “whether the price obtained is appropriate in the circumstances”. This is because determining what the best price is can entail a theoretical inquiry. Thus, the real task for the court is to analyse all the circumstances, including the price, and then consider whether, in that light, it is appropriate to permit the sale to proceed. It always entails a fact-sensitive inquiry. Finally, a party seeking to make the argument that the price obtained is not an appropriate one for the purpose of letting the sale proceed should particularise the steps that should have been but were not taken and explain how the taking of those steps would have realised a better price.
+> (c)     The question of whether the “best price” was obtained was reframed to “whether the price obtained is appropriate in the circumstances”. This is because determining what the best price is can entail a theoretical inquiry. Thus, the real task for the court is to analyse all the circumstances, including the price, and then consider whether, in that light, it is appropriate to permit the sale to proceed. It always entails a fact-sensitive inquiry. Finally, a party seeking to make the argument that the price obtained is not an appropriate one for the purpose of letting the sale proceed should particularise the steps that should have been but were not taken and explain how the taking of those steps would have realised a better price.
 
 #### Burden of proof
 
@@ -261,15 +261,15 @@ whichever first occurs, one or more of those objections are not withdrawn, the B
 
 69     The respondents disagreed. The submitted that the burden should be on the appellants to prove lack of good faith, because:[^10]
 
-(a)     the LTSA was intended to facilitate collective sales and to promote the public interest for urban renewal and the creation of more homes;
+> (a)     the LTSA was intended to facilitate collective sales and to promote the public interest for urban renewal and the creation of more homes;
 
-(b)     section 84A(9)(_a_)(i) provides that the court shall not grant a sale order if it is satisfied that the sale was “not in good faith” – given this language, the burden must be for the objecting proprietors to prove lack of good faith; and
+> (b)     section 84A(9)(_a_)(i) provides that the court shall not grant a sale order if it is satisfied that the sale was “not in good faith” – given this language, the burden must be for the objecting proprietors to prove lack of good faith; and
 
-(c)     section 84A(10) of the LTSA merely sets out how a court should approach an application if no objection was filed.
+> (c)     section 84A(10) of the LTSA merely sets out how a court should approach an application if no objection was filed.
 
 70     Three days after the Judge delivered oral judgment on 26 November 2018, this court stated the following in _Low Kwang Tong v Karen Teo Mei Ling and others_ <span class="citation">\[2018\] SGCA 86</span> at \[2\], which involved the Citimac Industrial Complex collective sale:
 
-In our opinion, an applicant under s 84A of the Act complies with his duties under the law if he has complied with all relevant statutory requirements for collective sales and has spelt out all relevant facts which show purported compliance with his duties and nothing untoward appears on the face of the record. It is then for any objector to point out by credible evidence that some or all of the stated facts are inaccurate or even false or that there are some other facts which will demonstrate that the transaction is not in good faith within the meaning of the Act. The applicant will have to respond to these assertions and the Court will make its determination of the facts and express its view on whether the transaction is or is not in good faith on the facts.
+> In our opinion, an applicant under s 84A of the Act complies with his duties under the law if he has complied with all relevant statutory requirements for collective sales and has spelt out all relevant facts which show purported compliance with his duties and nothing untoward appears on the face of the record. It is then for any objector to point out by credible evidence that some or all of the stated facts are inaccurate or even false or that there are some other facts which will demonstrate that the transaction is not in good faith within the meaning of the Act. The applicant will have to respond to these assertions and the Court will make its determination of the facts and express its view on whether the transaction is or is not in good faith on the facts.
 
 71     The above seems to us to be a practical guide as to the burden of proof before the Board or the High Court. It was thus for the appellants to point out by credible evidence that the transaction was not in good faith.
 
@@ -281,7 +281,7 @@ In our opinion, an applicant under s 84A of the Act complies with his duties und
 
 73     In this regard, we find it baffling that the respondents sought to downplay the importance of the relationship of the DC to the sale price. In the respondent’s case, they submitted that there was no direct correlation between the DC and the sale price. They highlighted Knight Frank’s evidence that potential purchases of the Property:
 
-… are companies of substantial means and resources and they do not approach the purchase of a land parcel with a “budget”. Instead, a developer would conduct its own feasibility study and determine its bid based on what the developer considers to be the market sentiments in the future when the redeveloped property would be launched and sold. Any developer would be purchasing land for redevelopment and is targeting to recoup its expenditure and to profit from the redeveloped property. If a developer is bullish about the market when the redeveloped property would be sold, it would be prepared to submit a higher bid for the acquisition regardless of the DC payable. Any acquisition cost (including DC) incurred for the redevelopment would simply be recouped by passing it on to the future purchasers.
+> … are companies of substantial means and resources and they do not approach the purchase of a land parcel with a “budget”. Instead, a developer would conduct its own feasibility study and determine its bid based on what the developer considers to be the market sentiments in the future when the redeveloped property would be launched and sold. Any developer would be purchasing land for redevelopment and is targeting to recoup its expenditure and to profit from the redeveloped property. If a developer is bullish about the market when the redeveloped property would be sold, it would be prepared to submit a higher bid for the acquisition regardless of the DC payable. Any acquisition cost (including DC) incurred for the redevelopment would simply be recouped by passing it on to the future purchasers.
 
 74     The respondents submitted that the Judge should have accepted Knight Frank’s evidence because no expert evidence to the contrary was adduced.[^11] However, we point out that Knight Frank is not an independent witness as it was involved heavily in the marketing of the Property. Its evidence must therefore be viewed in this light.
 
@@ -289,17 +289,17 @@ In our opinion, an applicant under s 84A of the Act complies with his duties und
 
 76     Indeed, Knight Frank took a different stance in its correspondence to the subsidiary proprietors. In a “situational update” dated 18 October 2017 provided by the CSC (which was drafted “with inputs from Knight Frank”),[^12] it is stated:
 
-When deriving at the current Reserve Price, the following factors were taken into consideration:
+> When deriving at the current Reserve Price, the following factors were taken into consideration:
 
-…
+>> …
 
-\-    Development Charge
+>> \-    Development Charge
 
-…
+>> …
 
 77     Further, Knight Frank represented in a letter dated 8 December 2017 to the subsidiary proprietors that the DC would affect the price of the land:[^13]
 
-It is ideal to lock in a buyer before further \[DC\] rates increment, as this directly affects the land rate – developers may factor in potential \[DC\] increase during tender and discount the price to owners.
+> It is ideal to lock in a buyer before further \[DC\] rates increment, as this directly affects the land rate – developers may factor in potential \[DC\] increase during tender and discount the price to owners.
 
 78     Finally, as the Judge noted, “the fact that Knight Frank had to act urgently to inform potential bidders that there was no DC payable proved that the DC was material information to such parties”: GD at \[259\]. Accordingly, we agree with the Judge that there is a clear relationship between the DC with the reserve price as well as the bid price and we think it would be absurd to suggest otherwise.
 
@@ -319,7 +319,7 @@ It is ideal to lock in a buyer before further \[DC\] rates increment, as this di
 
 84     The appellants’ reliance on the duty to act with conscientiousness was not without basis. Indeed, this court held in _Horizon Towers_ that the CSC is subject to such a duty. However, _Horizon Towers_ has to be read in light of the clarifications made by this court in _Shunfu Ville (CA)_ (at \[61(b)\]):
 
-… “good faith” under s 84A(9)(a)(i)(A) of the LTSA entails considerations of good faith as a matter of common law and equity; this usually entails a finding of some want of probity on the part of the relevant parties, although this can be inferred from aspects of the transaction itself.
+> … “good faith” under s 84A(9)(a)(i)(A) of the LTSA entails considerations of good faith as a matter of common law and equity; this usually entails a finding of some want of probity on the part of the relevant parties, although this can be inferred from aspects of the transaction itself.
 
 85     We accept, as the appellants pointed out, that the court did not hold that there must always be want of probity on the part of the relevant parties before a lack of good faith can be established. However, the court was leaving open the possibility that sheer recklessness on the part of the CSC could amount to lack of good faith, if such recklessness showed that the CSC simply did not care very much about its duties. In our judgment, it is clear from the reference to good faith “as a matter of common law and equity” that a finding of want of probity will be present in the vast majority of cases where want of good faith is found.
 
@@ -353,29 +353,29 @@ It is ideal to lock in a buyer before further \[DC\] rates increment, as this di
 
 98     As just alluded to, this appeal was heard and decided on an expedited basis, less than four months after the Judge delivered his oral judgment on 26 November 2018. In addition, the Judge delivered judgment less than three months after hearing oral arguments in September 2018. The High Court and the Court of Appeal dealt with this matter on accelerated timelines because of the following Special Conditions in the SPA:
 
-**8**      **Statutory Sale Order – High Court**
+> **8**      **Statutory Sale Order – High Court**
 
-8.1    If at the end of five (5) months mentioned in Special Condition 7.2 above, the High Court has not given a final decision the Purchaser shall have the discretion to extend the deadline as appropriate for the High Court to give its final decision and at the expiry of the aforesaid period(s) the SPA is thereby treated as rescinded.
+> 8.1    If at the end of five (5) months mentioned in Special Condition 7.2 above, the High Court has not given a final decision the Purchaser shall have the discretion to extend the deadline as appropriate for the High Court to give its final decision and at the expiry of the aforesaid period(s) the SPA is thereby treated as rescinded.
 
-8.2    If the High Court dismisses the Vendors’ application, the Vendors shall, unless directed otherwise by the Purchaser (acting reasonably) appeal to the Court of Appeal.
+> 8.2    If the High Court dismisses the Vendors’ application, the Vendors shall, unless directed otherwise by the Purchaser (acting reasonably) appeal to the Court of Appeal.
 
-**9**      **Statutory Sale Order – Court of Appeal**
+> **9**      **Statutory Sale Order – Court of Appeal**
 
-9.1    If the Court of Appeal fails to make a decision within four (4) months after the date of High Court decision (or such longer period as mutually agreed by the Vendors and the Purchaser (“the Parties”)), the SPA is treated as rescinded.
+> 9.1    If the Court of Appeal fails to make a decision within four (4) months after the date of High Court decision (or such longer period as mutually agreed by the Vendors and the Purchaser (“the Parties”)), the SPA is treated as rescinded.
 
-9.2    If the Court of Appeal either refuses to grant or cancels the Statutory Order made, the SPA is thereby treated as rescinded.
+> 9.2    If the Court of Appeal either refuses to grant or cancels the Statutory Order made, the SPA is thereby treated as rescinded.
 
 99     The five months referred to in Special Condition 7.2 began running from 27 June 2018 when the Board issued the “stop order”. The Judge delivered his oral judgment on 26 November 2018, one day before the five-month period expired. Pursuant to the above stated agreement, this court would have until 25 March 2019 (four months after 26 November 2018) to deliver its decision, failing which the SPA would be treated as rescinded unless the parties in the SPA agreed to extend the deadline. As things turned out, we were able to give our decision immediately after the hearing on 7 March 2019.
 
 100    During the hearing of this appeal, we pointed out that this four-month period for the appeal to conclude was unrealistic and did not appear to take into consideration the rules regulating appeals from the High Court to the Court of Appeal. The Rules of Court (Cap 322, R 5, 2014 Rev Ed) (“Rules of Court”) provide for the following timelines for appeals:
 
-(a)     Every notice of appeal must be filed and served within one month from the date of the High Court’s judgment or order (O 57 r 4).
+> (a)     Every notice of appeal must be filed and served within one month from the date of the High Court’s judgment or order (O 57 r 4).
 
-(b)     Within two months after service of the Registrar’s notice that the record of proceedings is available, the appellant must file and serve the record of appeal, the Appellant’s Case and a core bundle of documents (O 57 r 9(1)).
+> (b)     Within two months after service of the Registrar’s notice that the record of proceedings is available, the appellant must file and serve the record of appeal, the Appellant’s Case and a core bundle of documents (O 57 r 9(1)).
 
-(c)     The respondent must file the Respondent’s Case within one month after service of the documents stated in paragraph (b) above (O 57 r 9A(2)).
+> (c)     The respondent must file the Respondent’s Case within one month after service of the documents stated in paragraph (b) above (O 57 r 9A(2)).
 
-(d)     The appellant must file an Appellant’s Reply within two weeks after service on him of the Respondent’s Case if certain conditions apply (O 57 r 9A(5A)).
+> (d)     The appellant must file an Appellant’s Reply within two weeks after service on him of the Respondent’s Case if certain conditions apply (O 57 r 9A(5A)).
 
 101    It can be seen from the above timelines that an appellant has at least three months to complete the first two stages of an appeal. This is on the assumption that the record of proceedings can be ready immediately after the appellant files his notice of appeal. It can be fairly said that a subsidiary proprietor who is objecting to a collective sale and who is aware of the agreed timelines is most likely to insist on utilising the maximum time periods given to him under the Rules of Court. That way, he could even stymie the collective sale by the mere lapsing of the time period in the SPA unless the vendors and the purchaser agree mutually to an extension of time. Any application for an expedited appeal is likely to involve the truncation of the time periods conferred on the appellant and that may not be fair since the unrealistic timeline in the SPA was not something he had assented to.
 

@@ -111,11 +111,11 @@ Family Law – Maintenance – Wife
 
 24     In _ANJ v ANK_ <span class="citation">\[2015\] 4 SLR 1043</span> (“_ANJ v ANK_”) the Court of Appeal laid out a structured approach for the division of matrimonial assets. That structured approach was succinctly summarised in _TIT v TIU_ <span class="citation">\[2016\] 3 SLR 1137</span> at \[21\] as follows:
 
-(a)    express as a ratio the parties’ direct contributions relative to each other, having regard to the amount of financial contribution each party made towards the acquisition or improvement of the matrimonial assets (“Step 1”);
+> (a)    express as a ratio the parties’ direct contributions relative to each other, having regard to the amount of financial contribution each party made towards the acquisition or improvement of the matrimonial assets (“Step 1”);
 
-(b)    express as a second ratio the parties’ indirect contributions relative to each other, having regard to both financial and nonfinancial contributions (“Step 2”); and
+> (b)    express as a second ratio the parties’ indirect contributions relative to each other, having regard to both financial and nonfinancial contributions (“Step 2”); and
 
-(c)    derive the parties’ overall contributions relative to each other by taking an average of the two ratios above (the derived ratio shall be referred to as “the average ratio”), keeping in mind that, depending on the circumstances of each case, the direct and indirect contributions may not be accorded equal weight, and one of the two ratios may be accorded more significance than the other. Adjustments could also be made in respect of other relevant factors under s 112 or s 114(1) of the Women’s Charter (Cap 353, 2009 Rev Ed) (“the Charter”) (“Step 3”).
+> (c)    derive the parties’ overall contributions relative to each other by taking an average of the two ratios above (the derived ratio shall be referred to as “the average ratio”), keeping in mind that, depending on the circumstances of each case, the direct and indirect contributions may not be accorded equal weight, and one of the two ratios may be accorded more significance than the other. Adjustments could also be made in respect of other relevant factors under s 112 or s 114(1) of the Women’s Charter (Cap 353, 2009 Rev Ed) (“the Charter”) (“Step 3”).
 
 25     However, in _TNL v TNK_ <span class="citation">\[2017\] 1 SLR 609</span> (“_TNL v TNK_”), the Court of Appeal cautioned that the structured approach in _ANJ V ANK_ should not be applied to single-income marriages: at \[46\]. This is because the working spouse would be “accorded 100% (or close to 100%) of direct contributions” and would “also be accorded a substantial percentage under Step 2 solely on the basis of his or her indirect financial contributions … even if he or she made little or no non-financial contributions”. The non-working spouse is therefore “doubly and (severely) disadvantaged”: at \[44\]. Thus, in single income marriages, the court should tend towards equal division. In _UBM v UBN_ <span class="citation">\[2017\] 4 SLR 921</span>, it was clarified that a single-income marriage includes a marriage where one party was primarily the breadwinner and the other primarily the homemaker.
 
@@ -139,7 +139,7 @@ Family Law – Maintenance – Wife
 
 32     The power of the court to order maintenance for former spouses is set out in s 113 of the WC, while the factors relevant to determining the quantum of maintenance are stated in s 114. As for the applicable principles, the Court of Appeal held in _Foo Ah Yan v Chiam Heng Chow_ <span class="citation">\[2012\] 2 SLR 506</span> at \[13\]:
 
-The overarching principle embodied in s 114(2) of the Act is that of **financial preservation**, which requires the wife to be maintained at a standard, which is, to a reasonable extent, commensurate with the standard of living she had enjoyed during the marriage. \[emphasis added in bold\]
+> The overarching principle embodied in s 114(2) of the Act is that of **financial preservation**, which requires the wife to be maintained at a standard, which is, to a reasonable extent, commensurate with the standard of living she had enjoyed during the marriage. \[emphasis added in bold\]
 
 33     Nevertheless, s 114(2) must be applied in a “commonsense holistic manner that takes into account the new realities that flow from the breakdown of a marriage”: at \[16\].
 
@@ -147,7 +147,7 @@ The overarching principle embodied in s 114(2) of the Act is that of **financial
 
 35     Considering these circumstances in the round, I order that there be no maintenance for the Wife. In coming to this decision, I also note the Wife’s assertion on affidavit that:[^16]
 
-… my claim for lump sum maintenance is founded not on my dependence on the \[Husband\], but in seeking some recognition to my sacrifice of my career as a wife and mother in this long marriage.
+> … my claim for lump sum maintenance is founded not on my dependence on the \[Husband\], but in seeking some recognition to my sacrifice of my career as a wife and mother in this long marriage.
 
 36     However, this is not consistent with the purpose of maintenance, which is financial preservation. Indeed, the High Court has recognised that “maintenance is based on need and not on parties’ contributions to the marriage”: _BUX v BUY_ <span class="citation">\[2019\] SGHCF 4</span> at \[55\].
 
@@ -155,11 +155,11 @@ The overarching principle embodied in s 114(2) of the Act is that of **financial
 
 37     In his written submissions, the Husband points out that the Parties had in 2009 agreed to split household expenses equally following the sale of an apartment where each party received an equal share of the sale proceeds. He highlights that the Wife has only reimbursed him for her share of the household expenses up to March 2018. He seeks an order that:[^17]
 
-(a)     the Wife is to make payment for the reimbursement claims for the months of April 2018 to September 2018;
+> (a)     the Wife is to make payment for the reimbursement claims for the months of April 2018 to September 2018;
 
-(b)     the Parties continue to share household expenses equally between them as per their previous agreement up until the sale of matrimonial home; and
+> (b)     the Parties continue to share household expenses equally between them as per their previous agreement up until the sale of matrimonial home; and
 
-(c)     such sums shall be deducted from the Wife’s share of the proceeds from the sale of the matrimonial home should the Wife fail to make the reimbursement payments.
+> (c)     such sums shall be deducted from the Wife’s share of the proceeds from the sale of the matrimonial home should the Wife fail to make the reimbursement payments.
 
 38     At the hearing, counsel for the Husband informed me that the Parties are attempting to resolve this issue between themselves, but sought liberty to apply in the event that they could not do so. I decline to grant such an order. The claimed expenses for the month of April 2018 amounted to only $1,063.42.[^18] Thus, the total claimed expenses is unlikely to be large, and will be insignificant relative to the size of the pool of assets. I encourage them to come to an agreement, failing which they would have to resolve their dispute at a forum where the costs incurred will be commensurate with the amount involved.
 

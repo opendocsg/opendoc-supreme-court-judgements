@@ -17,17 +17,17 @@ Civil Procedure – disclosure of documents
 
 1       The cases before me raised the following questions:
 
-(a)     Is a party against whom a production order has been made on an _ex parte_ application by the Attorney-General (“the AG”) under s 22 of the Mutual Assistance in Criminal Matters Act (Cap 190A, 2001 Rev Ed) (“MACMA”) entitled to inspect and take copies of the application, supporting affidavit/s and related court documents, for purposes of considering or filing an application to discharge or vary the production order?
+> (a)     Is a party against whom a production order has been made on an _ex parte_ application by the Attorney-General (“the AG”) under s 22 of the Mutual Assistance in Criminal Matters Act (Cap 190A, 2001 Rev Ed) (“MACMA”) entitled to inspect and take copies of the application, supporting affidavit/s and related court documents, for purposes of considering or filing an application to discharge or vary the production order?
 
-(b)     Where the production order has been made on an _ex parte application_ by the AG under s 22, MACMA, against a bank or financial institution, is the _holder of the account_ affected by the production order entitled to
+> (b)     Where the production order has been made on an _ex parte application_ by the AG under s 22, MACMA, against a bank or financial institution, is the _holder of the account_ affected by the production order entitled to
 
-(i)       information relating to the identity of the bank or the financial institution, the application and the order?
+>> (i)       information relating to the identity of the bank or the financial institution, the application and the order?
 
-(ii)       a copy of the order?
+>> (ii)       a copy of the order?
 
-(iii)       inspect and take copies of the application, supporting affidavit/s and related court documents?
+>> (iii)       inspect and take copies of the application, supporting affidavit/s and related court documents?
 
-(iv)       apply to discharge or vary the production order?
+>> (iv)       apply to discharge or vary the production order?
 
 2       With respect to the first question, I decided that the parties against whom production orders have been made were _prima facie_ entitled to inspect and take copies of the relevant documents unless it was shown that granting access to the court file would prejudice investigations or subvert the ends of justice. The AG, who was the Respondent in the matters before me, has appealed against these decisions.
 
@@ -43,15 +43,15 @@ Civil Procedure – disclosure of documents
 
 6       Section 22(3) provides that the court may make a production order if it is satisfied that the conditions in s 22(4) are fulfilled. These conditions are as follows:
 
-(a)     that there are reasonable grounds for suspecting that a specified person has carried on or benefited from a foreign offence;
+> (a)     that there are reasonable grounds for suspecting that a specified person has carried on or benefited from a foreign offence;
 
-(b)     that there are reasonable grounds for believing that the thing to which the application relates –
+> (b)     that there are reasonable grounds for believing that the thing to which the application relates –
 
-(i)       is likely to be of substantial value (whether by itself or together with another thing) to the criminal matter in respect of which the application was made; and
+>> (i)       is likely to be of substantial value (whether by itself or together with another thing) to the criminal matter in respect of which the application was made; and
 
-(ii)       does not consist of or include items subject to legal privilege; and
+>> (ii)       does not consist of or include items subject to legal privilege; and
 
-(c)     that the court is satisfied that it is not contrary to the public interest for the thing to be produced or that access to it be given.
+> (c)     that the court is satisfied that it is not contrary to the public interest for the thing to be produced or that access to it be given.
 
 7       In addition, s 22(6) provides that no person is required to produce or make available any thing that he could not be compelled to produce in the criminal proceedings in the Requesting State.
 
@@ -59,7 +59,7 @@ Civil Procedure – disclosure of documents
 
 9       The Requesting State in the cases before me, had signed an agreement with the Government of the Republic of Singapore concerning mutual legal assistance in criminal matters (“the MLA Agreement”). Article 16(1) of the MLA Agreement provides as follows:
 
-(1)    The Requested State shall keep a request for assistance, the contents of the request and its supporting documentation, and the fact of the granting of such assistance, confidential. If the request cannot be executed without breaching confidentiality, the Requested State shall, before executing the request, so inform the Requesting State which shall then determine the extent to which it wishes the request to be executed.
+> (1)    The Requested State shall keep a request for assistance, the contents of the request and its supporting documentation, and the fact of the granting of such assistance, confidential. If the request cannot be executed without breaching confidentiality, the Requested State shall, before executing the request, so inform the Requesting State which shall then determine the extent to which it wishes the request to be executed.
 
 ### Registrar’s Appeal State Courts No 1 of 2018 (“RAS 1/2018”)
 
@@ -83,13 +83,13 @@ Civil Procedure – disclosure of documents
 
 16     The issues in these two appeals were similar. The RAS1 Appellant and RAS2 Appellants (together, “the RAS Appellants”) applied to take copies of documents in the Court files, pursuant to O 89B r 3 of the Rules which reads as follows:
 
-**3**.    Notwithstanding Order 60, Rule 4, no person may inspect or take a copy of any document relating to –
+> **3**.    Notwithstanding Order 60, Rule 4, no person may inspect or take a copy of any document relating to –
 
-(_a_)    an application for an order under section 22; or
+>> (_a_)    an application for an order under section 22; or
 
-(_b_)    an application to discharge or vary such an order,
+>> (_b_)    an application to discharge or vary such an order,
 
-without leave of Court.
+> without leave of Court.
 
 17     Order 60 rule 4 is a general provision relating to the right to search information and inspect documents filed in the Registry. For present purposes, O 60 r 4 distinguishes between parties to a cause or matter and any other person. Parties to a cause or matter may inspect and take copies of any document filed in that cause or matter without leave of the Registrar whereas all other persons require leave of the Registrar to do so.
 
@@ -97,11 +97,11 @@ without leave of Court.
 
 19     The RAS Appellants submitted that leave should be granted to them to inspect the court files unless the AG could show that doing so would prejudice investigations. The RAS Appellants’ arguments were straightforward:
 
-(a)     Order 89B rule 2(2) of the Rules permitted the RAS Appellants to apply to discharge or vary the production orders made against each of them. Order 89B rule 2(2) reads as follows:
+> (a)     Order 89B rule 2(2) of the Rules permitted the RAS Appellants to apply to discharge or vary the production orders made against each of them. Order 89B rule 2(2) reads as follows:
 
-(2)    Where an order under section 22 has been made, the person required to comply with the order may apply to the Court for the order to be discharged or varied, and on hearing such an application, the Court may discharge the order or make such variations to it as the Court thinks fit.
+>> (2)    Where an order under section 22 has been made, the person required to comply with the order may apply to the Court for the order to be discharged or varied, and on hearing such an application, the Court may discharge the order or make such variations to it as the Court thinks fit.
 
-(b)     It was necessary for the RAS Appellants to have access to the court papers to consider whether they should make any application to discharge or vary the production orders that had been made against them. Otherwise, the statutory right to apply to vary or discharge the production order would be rendered nugatory.
+> (b)     It was necessary for the RAS Appellants to have access to the court papers to consider whether they should make any application to discharge or vary the production orders that had been made against them. Otherwise, the statutory right to apply to vary or discharge the production order would be rendered nugatory.
 
 20     The RAS Appellants submitted[^7] that the right to be heard must carry with it the right to know the case and the evidence given or statements made against the person exercising that right: _Mustafa Ahunbay v Public Prosecutor_ <span class="citation">\[2015\] 2 SLR 903</span> at \[71\], citing _B Surinder Singh Kanda v Government of the Federation of Malaya_ <span class="citation">\[1962\] AC 322</span> (at 337).
 
@@ -109,9 +109,9 @@ without leave of Court.
 
 22     On appeal, the Manitoba Court of Appeal observed as follows, at \[11\] –\[12\]:
 
-11    A person affected by an ex parte order or warrant is ordinarily entitled to apply to set it aside. In order to succeed, the party affected will ordinarily be required to show that there are valid grounds for doing so. One such ground is that the criteria for making the order were not met.
+> 11    A person affected by an ex parte order or warrant is ordinarily entitled to apply to set it aside. In order to succeed, the party affected will ordinarily be required to show that there are valid grounds for doing so. One such ground is that the criteria for making the order were not met.
 
-12    It is customary for a person affected by an order or warrant to be allowed to review the evidence or information filed in support of the application to obtain it. This enables the person affected where appropriate, to challenge the evidence or information or show that such evidence or information does not meet the criteria for the making of the order or issuing the warrant. It is rare indeed that a party affected by an order or warrant may be denied access to such evidence of information.
+> 12    It is customary for a person affected by an order or warrant to be allowed to review the evidence or information filed in support of the application to obtain it. This enables the person affected where appropriate, to challenge the evidence or information or show that such evidence or information does not meet the criteria for the making of the order or issuing the warrant. It is rare indeed that a party affected by an order or warrant may be denied access to such evidence of information.
 
 23     The Manitoba Court of Appeal in _Beach_ accepted that the common law right of inspection can be abrogated by express provisions in legislation, and that it could be denied when the ends of justice would be subverted by disclosure (at \[15\]—\[16\]). The Court went on to hold that Canada’s Mutual Assistance Act contained no provision for non-disclosure (at \[17\]). However, the Court did not grant access to the court file because it found that more information had been filed than was required to obtain the order. Instead, the Court set aside the order to testify and produce documents without prejudice to an application being made on more limited material (at \[23\]).
 
@@ -121,9 +121,9 @@ without leave of Court.
 
 26     Order 119 r 5(1) of the HKROC provided that the application, affidavit, information and all other documents relating to the application shall be treated as confidential and be placed in a packet and sealed. Order 119 rule 5(2) provided that the packet shall not be opened or have its contents removed or copied “except by order of a judge”. The Hong Kong Court of Appeal cited with approval the decision in a previous unreported case in _Application for an order under O 119 r 5(2) of the Rules of the High Court_ (HCMP 1/1998) (at 661G–662E) that
 
-The rationale underlying O.119 r.5 is the recognition that orders made under \[Pt.III of the POBO\] are investigative tools, and the documents relating to applications for such orders need to be kept confidential in order to preserve the integrity of the investigation. …For these reasons, it is plain that O.119 r.5(2) contemplates that non-accessibility to the documents relating to an application under \[Pt.III of the POBO\] should be the norm.
+> The rationale underlying O.119 r.5 is the recognition that orders made under \[Pt.III of the POBO\] are investigative tools, and the documents relating to applications for such orders need to be kept confidential in order to preserve the integrity of the investigation. …For these reasons, it is plain that O.119 r.5(2) contemplates that non-accessibility to the documents relating to an application under \[Pt.III of the POBO\] should be the norm.
 
-However, the words “except by order of a judge” in O.119 r.5(2) show that the Court has the power to disapply the requirements of O.119 r.5(2). It is therefore recognised that there may be particular cases where access to the documents should be permitted. In my view, the requirements of O.119 r.5(2) will not usually be disapplied on general grounds – for example, on the ground that the person to whom the notice is addressed needs to see the documents so that he can obtain informed advice about his legal position,…or so that he can make an informed decision as to whether to apply for the revocation or variation of the order,…\[or so that he can satisfy himself that the pre-conditions for the making of the order have been met.\] Those grounds could be relied upon in almost every case. If the requirements of O.119 r.5(2) could be regularly be disapplied on any of those grounds, the norm of non-accessibility to the documents would be seriously eroded. General grounds of this kind, of course, cannot be ignored, but what is required is an examination of the particular facts to determine whether departure from the norm is justified in any particular case.
+> However, the words “except by order of a judge” in O.119 r.5(2) show that the Court has the power to disapply the requirements of O.119 r.5(2). It is therefore recognised that there may be particular cases where access to the documents should be permitted. In my view, the requirements of O.119 r.5(2) will not usually be disapplied on general grounds – for example, on the ground that the person to whom the notice is addressed needs to see the documents so that he can obtain informed advice about his legal position,…or so that he can make an informed decision as to whether to apply for the revocation or variation of the order,…\[or so that he can satisfy himself that the pre-conditions for the making of the order have been met.\] Those grounds could be relied upon in almost every case. If the requirements of O.119 r.5(2) could be regularly be disapplied on any of those grounds, the norm of non-accessibility to the documents would be seriously eroded. General grounds of this kind, of course, cannot be ignored, but what is required is an examination of the particular facts to determine whether departure from the norm is justified in any particular case.
 
 The Court went on to hold (at 662E) that there were no grounds in that case which might justify a departure from the norm.
 
@@ -131,19 +131,19 @@ The Court went on to hold (at 662E) that there were no grounds in that case whic
 
 28     The Hong Kong Court of First Instance was of the view that there were arguable inconsistencies, misstatements and omissions in the letter of request to the Californian authorities, and noted that there were allegations of “seriously misleading” matters in the Irish proceedings. The Court further noted there was no reason to suggest that the letter of request to Hong Kong significantly differed from those to California and Ireland (_ie_, in terms of the possible inconsistencies and alleged misleading matters). However, the Court refused the application for discovery for the following reasons (at \[32\] – \[35\]):
 
-(a)     Redaction was not possible and there was a real danger that comprehensive disclosure would be potentially detrimental to the proper course of the investigation.
+> (a)     Redaction was not possible and there was a real danger that comprehensive disclosure would be potentially detrimental to the proper course of the investigation.
 
-(b)     The information that the applicants had already obtained from the Californian and Irish proceedings (including the letters of request) as to the alleged misrepresentations, omissions, and material non-disclosure were sufficient to enable the applicants to present their case even in the absence of the Hong Kong letter of request itself.
+> (b)     The information that the applicants had already obtained from the Californian and Irish proceedings (including the letters of request) as to the alleged misrepresentations, omissions, and material non-disclosure were sufficient to enable the applicants to present their case even in the absence of the Hong Kong letter of request itself.
 
 29     The DAG referred me to the following observations by the Court in _Chan Mei Yiu_ at \[9\]:
 
-In the normal run of cases, in the absence of evidence to the contrary, it is likely that there will be nothing to establish that the legislative scheme has not been properly followed…A mere assertion by an applicant that he suspects that there may have been a relevant flaw in the procedure will not be sufficient to entitle him to an order for discovery in relation to the letters of request, or the information placed before the magistrate. But where there is evidence that tends to indicate that there has been some relevant flaw in the procedure, the court will be more likely to grant an order for discovery of the documents.”
+> In the normal run of cases, in the absence of evidence to the contrary, it is likely that there will be nothing to establish that the legislative scheme has not been properly followed…A mere assertion by an applicant that he suspects that there may have been a relevant flaw in the procedure will not be sufficient to entitle him to an order for discovery in relation to the letters of request, or the information placed before the magistrate. But where there is evidence that tends to indicate that there has been some relevant flaw in the procedure, the court will be more likely to grant an order for discovery of the documents.”
 
 30     The DAG argued that[^9]
 
-(a)     similar to the position in Hong Kong, there is a need for confidentiality under the MACMA and pointed out that under s 22(8), applications for production orders were to be heard _in camera_; and
+> (a)     similar to the position in Hong Kong, there is a need for confidentiality under the MACMA and pointed out that under s 22(8), applications for production orders were to be heard _in camera_; and
 
-(b)     it was because of this need for confidentiality that O 89B r 3 created an exception to O 60 r 4 and required all persons (including the person required to comply with a production order) to obtain leave of court to inspect the court file.
+> (b)     it was because of this need for confidentiality that O 89B r 3 created an exception to O 60 r 4 and required all persons (including the person required to comply with a production order) to obtain leave of court to inspect the court file.
 
 31     I agreed with the RAS Appellants that the statutory right to challenge the production orders would be meaningless if they were not even allowed to inspect the court papers. How else could they even begin to consider whether they had any grounds to challenge the production orders?
 
@@ -153,15 +153,15 @@ In the normal run of cases, in the absence of evidence to the contrary, it is li
 
 34     The conditions in s 22(4), MACMA, are as follows:
 
-(_a_)    that there are reasonable grounds for suspecting that a specified person has carried on or benefited from a foreign offence;
+> (_a_)    that there are reasonable grounds for suspecting that a specified person has carried on or benefited from a foreign offence;
 
-(_b_)    that there are reasonable grounds for believing that the thing to which the application relates –
+> (_b_)    that there are reasonable grounds for believing that the thing to which the application relates –
 
-(i)    is likely to be of substantial value to the criminal matter in respect of which the application was made; and
+>> (i)    is likely to be of substantial value to the criminal matter in respect of which the application was made; and
 
-(ii)   does not consist of or include items subject to legal privilege; and
+>> (ii)   does not consist of or include items subject to legal privilege; and
 
-(_c_)    that the court is satisfied that it is not contrary to public interest for the thing to be produced or that access to it be given.
+> (_c_)    that the court is satisfied that it is not contrary to public interest for the thing to be produced or that access to it be given.
 
 35     In my view, the RAS Appellants could not possibly even consider challenging the production orders without having access to the application, the supporting affidavit and any submissions made to the court in respect of the application. I found myself unable to agree with the reasoning in _Apple Daily_ and _Chan Mei Yiu_. In my view, the approaches taken in both these cases would render the RAS Appellants’ statutory right under O 89B r 2(2) to challenge the production orders made against them, an illusory one.
 
@@ -195,9 +195,9 @@ In the normal run of cases, in the absence of evidence to the contrary, it is li
 
 49     The RAS1 Appellant submitted that[^14]
 
-(a)     Order 89B rule 2(2) is an enabling provision and it does not say that only the person required to comply, can apply to discharge or vary the production order; and
+> (a)     Order 89B rule 2(2) is an enabling provision and it does not say that only the person required to comply, can apply to discharge or vary the production order; and
 
-(b)     it had the requisite standing to apply to discharge or vary the Bank production orders under O 32 r 6 of the Rules and the common law.
+> (b)     it had the requisite standing to apply to discharge or vary the Bank production orders under O 32 r 6 of the Rules and the common law.
 
 50     Order 32 rule 6 provides that the court may “set aside an order made _ex parte_”. The RAS1 Appellant submitted that O 32 r 6 permits not just the party against whom the order was served, but also affected third parties, to apply to set aside an order made _ex parte_: _Singapore Civil Procedure 2017_ vol 1 (Foo Chee Hock gen ed) (Sweet & Maxwell, 2017) at para 32/6/5; _Chan Lung Kien v Chan Shwe Ching_ <span class="citation">\[2018\] 4 SLR 208</span> at \[11\]. The RAS1 Appellant argued that the banks would have no interest in challenging any production order issued against them.
 
@@ -221,9 +221,9 @@ In the normal run of cases, in the absence of evidence to the contrary, it is li
 
 59     Submissions were made on the applicability of public interest immunity, whether under s 125 of the Evidence Act (Cap 97, 1997 Rev Ed) (“the EA”) or common law. Section 125 of the EA provides as follows:
 
-**Evidence as to affairs of State**
+> **Evidence as to affairs of State**
 
-**125**.    No one shall be permitted to produce any unpublished official records relating to affairs of State, or to give any evidence derived therefrom, except with the permission of the officer at the head of the Department concerned, who shall give or withholds such permissions as he thinks fit, subject, however, to the control of the Minister.
+> **125**.    No one shall be permitted to produce any unpublished official records relating to affairs of State, or to give any evidence derived therefrom, except with the permission of the officer at the head of the Department concerned, who shall give or withholds such permissions as he thinks fit, subject, however, to the control of the Minister.
 
 60     The AG’s basis for asserting public interest immunity was Article 16(1) of the MLA Agreement (see \[9\] above). The DAG also relied on _Re Section 22_, in which the Court of Appeal observed (at \[26\]) that Article 16(1) requires the AG not to disclose the request from the requesting country even if the court were to insist on disclosure.
 

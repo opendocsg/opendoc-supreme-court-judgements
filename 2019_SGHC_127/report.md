@@ -117,23 +117,23 @@ Tort – Inducement of breach of contract
 
 33     The plaintiff set out a list of materials over which it claimed copyright.[^36] It submitted that its copyrighted material fell into five categories:[^37]
 
-(a)     source codes for its payroll software systems and human resource information system (“HRIS”) (“Category 1 materials”);
+> (a)     source codes for its payroll software systems and human resource information system (“HRIS”) (“Category 1 materials”);
 
-(b)     databases and other materials constituting the technical infrastructure supporting its payroll software systems and HRIS (“Category 2 materials”);
+> (b)     databases and other materials constituting the technical infrastructure supporting its payroll software systems and HRIS (“Category 2 materials”);
 
-(c)     business development and client-related materials (“Category 3 materials”);
+> (c)     business development and client-related materials (“Category 3 materials”);
 
-(d)     materials related to its operations, _eg_, documents setting out internal guidelines and policies (“Category 4 materials”); and
+> (d)     materials related to its operations, _eg_, documents setting out internal guidelines and policies (“Category 4 materials”); and
 
-(e)      **s**ource codes developed as part of the Kikocci Project (“Category 5 materials”).
+> (e)      **s**ource codes developed as part of the Kikocci Project (“Category 5 materials”).
 
 34     The defendants took objection to the plaintiff’s copyright claims over materials not covered by its pleadings. The plaintiff had claimed copyright to materials set out at Annex A of the amended statement of claim in Suit 585/2013 (“2ASOC”), and had listed materials that were allegedly infringing copies of its materials at Annex B of the 2ASOC. However, some of the materials in the plaintiff’s proposed categorisation were pleaded only in relation to the breach of confidence claim, and listed at Annex C of the 2ASOC (_eg_, the files “Payitem\_Singapore.xls” and “LenovoSG.xls” in Category 2 and “HK Statutory\_rev28Feb2011.doc” in Category 3).[^38]
 
 35     I had some sympathy for the defendants on this point; the plaintiff’s pleadings could have been clearer as to which of the defendants’ materials allegedly infringed its copyright. However, the ultimate question at the end of the day was whether the plaintiff’s pleadings were sufficient: see _Invenpro (M) Sdn Bhd v JCS Automation Pte Ltd and another_ <span class="citation">\[2014\] 2 SLR 1045</span> (“_Invenpro_”) at \[127\]. This issue arose in _Global Yellow Pages Ltd v Promedia Directories Pte Ltd and another matter_ <span class="citation">\[2017\] 2 SLR 185</span> (“_Global Yellow Pages_”) at \[54\] to \[56\], where the Court of Appeal disagreed with the High Court that the statement of claim in question had been framed in sufficiently broad and general terms as to include a temporary database which had not been referenced in the initial pleadings. The Court of Appeal noted as follows:
 
-54    Promedia submits that the Judge erred in holding that the temporary database was covered by GYP’s pleadings. …
+> 54    Promedia submits that the Judge erred in holding that the temporary database was covered by GYP’s pleadings. …
 
-55    We agree with Promedia’s argument. The statement of claim (“SOC”) states that the infringing works comprised Promedia’s directories, which are the Online Directory, the printed form directories and the Green Book CD-ROM. … The use of “namely” (instead of “including”) suggests that the list of allegedly infringing works is exhaustive, while the lack of any reference or allusion to databases suggest that they were not regarded as infringing works. In this respect, we respectfully disagree with the Judge, who held at \[367\] of the Judgment that the SOC was framed in sufficiently broad and general terms such that the temporary database could be regarded as an infringing work. …
+> 55    We agree with Promedia’s argument. The statement of claim (“SOC”) states that the infringing works comprised Promedia’s directories, which are the Online Directory, the printed form directories and the Green Book CD-ROM. … The use of “namely” (instead of “including”) suggests that the list of allegedly infringing works is exhaustive, while the lack of any reference or allusion to databases suggest that they were not regarded as infringing works. In this respect, we respectfully disagree with the Judge, who held at \[367\] of the Judgment that the SOC was framed in sufficiently broad and general terms such that the temporary database could be regarded as an infringing work. …
 
 36     The result in _Global Yellow Pages_ turned on the use of the word “namely”, which suggested that the list of infringing materials contained in the statement of claim was exhaustive. The present case, however, differs. Given the interlinked nature of the causes of actions and looking at the pleadings as a whole, I found that the defendant was not prejudiced by any insufficient particularity in the pleadings. Critically, the plaintiff’s case in relation to breach of confidence asserted that the defendants had reproduced and copied its confidential information and materials as listed at Annex C.[^39] The agreed list of issues in Suit 585/2013 between the parties also included the question of whether copyright subsisted in the materials listed at Annexes A to C of the 2ASOC.[^40] I thus considered the merits of the plaintiff’s copyright claim in relation to the Annex C materials as well, as raised in its submissions.
 
@@ -145,13 +145,13 @@ Tort – Inducement of breach of contract
 
 39     Associate Professor Roland Yap (“Prof Yap”), the defendants’ coding expert, helpfully defined elements of software programs. I reproduce his definitions here. Software, which is developed as source code, is written in programming languages. These vary in syntax, expressive power and areas of application. The present case concerned two programming languages: Java, a general purpose programming language, and Structured Query Language (“SQL”), a more domain-specific programming language whose purpose is to query and manipulate databases.[^43] An SQL “query” causes a database to give a result without changing the database itself.[^44] Prof Yap explained that software which deals with large amounts of data may choose to utilise a database. To expand:[^45]
 
-(a)     Many types of databases exist. In this context, a “database” refers to a relational database that organises, processes and stores data as relations. Databases do not appear visually as tables or spreadsheets; they are logical constructions which the database software presents to the programmer.
+> (a)     Many types of databases exist. In this context, a “database” refers to a relational database that organises, processes and stores data as relations. Databases do not appear visually as tables or spreadsheets; they are logical constructions which the database software presents to the programmer.
 
-(b)     The plaintiff’s and Nice Payroll’s systems used the Oracle database, a relational database management system. The Oracle database uses PL/SQL, a proprietary programming language extension to SQL.[^46]
+> (b)     The plaintiff’s and Nice Payroll’s systems used the Oracle database, a relational database management system. The Oracle database uses PL/SQL, a proprietary programming language extension to SQL.[^46]
 
-(c)     A database is made up of one or more schemas, which comprise the database’s architecture. Each schema contains one or more “database tables”, which organise data into columns and rows. Each column, or “field”, stores data of a certain logical type, _eg_, “birthday” fields store data having a “date” type. Data is stored as rows in the tables.
+> (c)     A database is made up of one or more schemas, which comprise the database’s architecture. Each schema contains one or more “database tables”, which organise data into columns and rows. Each column, or “field”, stores data of a certain logical type, _eg_, “birthday” fields store data having a “date” type. Data is stored as rows in the tables.
 
-(d)     A schema does not define the data contained in the tables. In Oracle, the schema defines the structural relationships in the database by specifying the tables and fields, and the relationships between the data in rows of a table, _etc_.[^47] The schema may also define one or more columns to be “primary keys”. The values in the primary key should be unique within the table, giving rise to a “uniqueness constraint”, such that rows with duplicate keys cannot be inserted in the same table.
+> (d)     A schema does not define the data contained in the tables. In Oracle, the schema defines the structural relationships in the database by specifying the tables and fields, and the relationships between the data in rows of a table, _etc_.[^47] The schema may also define one or more columns to be “primary keys”. The values in the primary key should be unique within the table, giving rise to a “uniqueness constraint”, such that rows with duplicate keys cannot be inserted in the same table.
 
 40     The following table illustrates how the above terms are used:[^48]
 
@@ -215,13 +215,13 @@ In this table, data corresponding to every employee is contained in a row. The �
 
 58     The defendants submitted that the plaintiff’s and Nice Payroll’s software were so substantially different that it would have been extremely time- and cost-inefficient to develop Nice Payroll’s software from the plaintiff’s:[^65]
 
-(a)     The plaintiff’s source code was larger than Nice Payroll’s. Much of Nice Payroll’s PL/SQL code was automatically generated by the APEX application builder used by its human programmers, which meant that the actual code written by its programmers was even smaller. A great deal of effort would have been required to reproduce the plaintiff’s code by translating it into a different language and then shrinking it.
+> (a)     The plaintiff’s source code was larger than Nice Payroll’s. Much of Nice Payroll’s PL/SQL code was automatically generated by the APEX application builder used by its human programmers, which meant that the actual code written by its programmers was even smaller. A great deal of effort would have been required to reproduce the plaintiff’s code by translating it into a different language and then shrinking it.
 
-(b)     The plaintiff made extensive use of Java’s language features, Java being a much more powerful programming language than PL/SQL. The difference in programming languages meant that the plaintiff’s program could not be meaningfully compared to Nice Payroll’s.
+> (b)     The plaintiff made extensive use of Java’s language features, Java being a much more powerful programming language than PL/SQL. The difference in programming languages meant that the plaintiff’s program could not be meaningfully compared to Nice Payroll’s.
 
-(c)     The plaintiff isolated its database by client. This allowed it to engage in specific database customisation. Its SQL queries were embedded into its Java code and called upon multiple database tables. In comparison, Nice Payroll’s client data was stored in a single database and its PL/SQL code was integrated with its SQL queries and called on a single database schema.
+> (c)     The plaintiff isolated its database by client. This allowed it to engage in specific database customisation. Its SQL queries were embedded into its Java code and called upon multiple database tables. In comparison, Nice Payroll’s client data was stored in a single database and its PL/SQL code was integrated with its SQL queries and called on a single database schema.
 
-(d)     The core functionality in the two payroll systems differed. For instance, the payroll calculation algorithms differed: the plaintiff’s Java code computed payrolls at the individual payroll item level, sequentially processing each employee’s payroll; Nice Payroll’s algorithm computed payrolls at the employee level, computing payroll items per employee. As the inner and outer loops for calculation were completely different, the plaintiff’s code would have required complete rewriting to be converted into Nice Payroll’s.
+> (d)     The core functionality in the two payroll systems differed. For instance, the payroll calculation algorithms differed: the plaintiff’s Java code computed payrolls at the individual payroll item level, sequentially processing each employee’s payroll; Nice Payroll’s algorithm computed payrolls at the employee level, computing payroll items per employee. As the inner and outer loops for calculation were completely different, the plaintiff’s code would have required complete rewriting to be converted into Nice Payroll’s.
 
 In addition, the database architectures of the two systems differed: the plaintiff’s software included more schemas and tables, the contents of the database tables were organised differently, and different primary keys were used.[^66] Prof Yap additionally disagreed with Mr Pillay’s focus on the software output, as different software could produce similar or identical payroll reports.[^67]
 
@@ -237,15 +237,15 @@ In addition, the database architectures of the two systems differed: the plainti
 
 62     The plaintiff classified its Category 2 materials to comprise:
 
-(a)     its payitem databases, comprised in the Microsoft Excel (“Excel”) files “payitem setup\_iAdmin.xls”, “Payitem\_Singapore.xls” and “LenovoSG.xls”;[^70] and
+> (a)     its payitem databases, comprised in the Microsoft Excel (“Excel”) files “payitem setup\_iAdmin.xls”, “Payitem\_Singapore.xls” and “LenovoSG.xls”;[^70] and
 
-(b)     its CPF database, which was “comprised in a form … substantially similar to the document ‘cpf.xls’”.[^71]
+> (b)     its CPF database, which was “comprised in a form … substantially similar to the document ‘cpf.xls’”.[^71]
 
 63     The parties understood the plaintiff’s case to be that:
 
-(a)     The files “Payitem\_Singapore.xls” and “LenovoSG.xls” (“the plaintiff’s Payitem Bibles”) were created by the plaintiff and generated from its database tables.[^72] They were circulated between the defendants and used to create the file “payitem\_bible.xls” which was integrated into Nice Payroll’s payitem database table “PR\_PAYITEM”.[^73]
+> (a)     The files “Payitem\_Singapore.xls” and “LenovoSG.xls” (“the plaintiff’s Payitem Bibles”) were created by the plaintiff and generated from its database tables.[^72] They were circulated between the defendants and used to create the file “payitem\_bible.xls” which was integrated into Nice Payroll’s payitem database table “PR\_PAYITEM”.[^73]
 
-(b)     The plaintiff’s database table “PAY\_CPF\_RULE”, which sets out the CPF Board calculation rules,[^74] was used to generate the file “cpf.xls”. The defendants used this file to generate their own CPF database table “PR\_CPF\_RATES\_SGP”.[^75]
+> (b)     The plaintiff’s database table “PAY\_CPF\_RULE”, which sets out the CPF Board calculation rules,[^74] was used to generate the file “cpf.xls”. The defendants used this file to generate their own CPF database table “PR\_CPF\_RATES\_SGP”.[^75]
 
 64     I observed that the file “payitem setup\_iAdmin.xls” was only referenced in the plaintiff’s submissions to be a file that Mr Hong downloaded from the plaintiff’s demonstration platform and deleted on the day the Anton Piller order was executed.[^76] I thus disregarded it for the purposes of the copyright claim.
 
@@ -257,7 +257,86 @@ In addition, the database architectures of the two systems differed: the plainti
 
 67     I accepted the plaintiff’s position that the Excel files were generated from its database tables. The defendants did not dispute that the Payitem Bibles were the plaintiff’s, but contended that the “cpf.xls” file had not been generated from the plaintiff’s CPF database table.[^78] Mr Liu had sent “cpf.xls” to Mr Tan in an email on 29 September 2011, such that it was later found in the defendants’ possession. Although Mr Liu claimed in his affidavit of evidence-in-chief (“AEIC”) that he did not recall how he had obtained a copy of the file,[^79] he subsequently admitted under cross-examination that he had generated the file from i-Admin (Shanghai)’s system during his previous employment with it, but claimed that the file had only included headers with no data when he created it:[^80]
 
-<table align="left" cellpadding="0" cellspacing="0" class="Judg-2" frame="none" pgwide="1"><colgroup><col width="25.44%"> <col width="74.56%"> </colgroup><tbody><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Q:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Do you confirm that when this table was generated without the data as you claim, this table must have been generated from the i-Admin system?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">A:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Because the file --</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Q:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">"Yes" or "no"?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">A:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Yes.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">…</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">&nbsp;</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Q:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">So you are saying that you -- then, when you made that [SQL] query to generate this Excel spreadsheet, you made the query to generate just the headers but with no data from the i-Admin CPF rules table?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">A:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Based on the function in PL/SQL developer, it has this function.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">COURT:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">But you just confirm that you did this deliberately?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">A:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">I think so. Just -- this is the file [“cpf.xls”] I have discovered in my thumb drive, but there's no data inside.</p></td></tr></tbody></table>
+>   
+| 
+
+Q:
+
+ | 
+
+Do you confirm that when this table was generated without the data as you claim, this table must have been generated from the i-Admin system?
+
+ |
+| 
+
+A:
+
+ | 
+
+Because the file --
+
+ |
+| 
+
+Q:
+
+ | 
+
+"Yes" or "no"?
+
+ |
+| 
+
+A:
+
+ | 
+
+Yes.
+
+ |
+| 
+
+…
+
+ | 
+
+ |
+| 
+
+Q:
+
+ | 
+
+So you are saying that you -- then, when you made that \[SQL\] query to generate this Excel spreadsheet, you made the query to generate just the headers but with no data from the i-Admin CPF rules table?
+
+ |
+| 
+
+A:
+
+ | 
+
+Based on the function in PL/SQL developer, it has this function.
+
+ |
+| 
+
+COURT:
+
+ | 
+
+But you just confirm that you did this deliberately?
+
+ |
+| 
+
+A:
+
+ | 
+
+I think so. Just -- this is the file \[“cpf.xls”\] I have discovered in my thumb drive, but there's no data inside.
+
+ |
 
   
   
@@ -304,11 +383,11 @@ Mr Liu further claimed that he only populated the file with data subsequently.[
 
 82     I only considered the materials that the plaintiff made submissions on:
 
-(a)     the file “Copy of ePayroll eHR pricing for all regions(04 Jan 2011).xls”, which contained the plaintiff’s pricing information and business strategy material, stating fees offered for services rendered;[^107]
+> (a)     the file “Copy of ePayroll eHR pricing for all regions(04 Jan 2011).xls”, which contained the plaintiff’s pricing information and business strategy material, stating fees offered for services rendered;[^107]
 
-(b)     the compressed folder “RR to Li Lian.zip”, which contained documents relating to the plaintiff’s operations, including its software and hardware technical platform, data security and security design architecture;[^108] and
+> (b)     the compressed folder “RR to Li Lian.zip”, which contained documents relating to the plaintiff’s operations, including its software and hardware technical platform, data security and security design architecture;[^108] and
 
-(c)     the compressed folder “Standard Imp Template.zip”, containing the plaintiff’s implementation templates for six jurisdictions. It included the file “SG Client\_Imp Template.xls”, which the plaintiff’s Singapore clients would input their data into for the plaintiff to process.[^109]
+> (c)     the compressed folder “Standard Imp Template.zip”, containing the plaintiff’s implementation templates for six jurisdictions. It included the file “SG Client\_Imp Template.xls”, which the plaintiff’s Singapore clients would input their data into for the plaintiff to process.[^109]
 
 #### Whether copyright subsisted in the materials
 
@@ -342,29 +421,29 @@ Mr Liu further claimed that he only populated the file with data subsequently.[
 
 92     The relevant sections of Art 16 of the Copyright Law state:[^123]
 
-A work created by a citizen in the fulfilment of tasks assigned to him by a legal entity or other \[organisation\] is a work created in the course of employment. Subject to the provisions of the second paragraph of this Article, the copyright in such work shall be enjoyed by the author; …
+> A work created by a citizen in the fulfilment of tasks assigned to him by a legal entity or other \[organisation\] is a work created in the course of employment. Subject to the provisions of the second paragraph of this Article, the copyright in such work shall be enjoyed by the author; …
 
-In any of the following cases, the author of a work created in the course of employment shall enjoy the right of authorship, while the legal entity or other \[organisation\] shall enjoy the other rights included in the copyright and may reward the author:
+> In any of the following cases, the author of a work created in the course of employment shall enjoy the right of authorship, while the legal entity or other \[organisation\] shall enjoy the other rights included in the copyright and may reward the author:
 
-(1)    drawings of engineering designs and product designs, maps, computer software and other works which are created in the course of employment mainly with the material and technical resources of the legal entity or other \[organisation\] and for which the legal entity or other \[organisation\] bears responsibility;
+>> (1)    drawings of engineering designs and product designs, maps, computer software and other works which are created in the course of employment mainly with the material and technical resources of the legal entity or other \[organisation\] and for which the legal entity or other \[organisation\] bears responsibility;
 
-(2)    works created in the course of employment the copyright in which is, in accordance with laws, administrative regulations or contracts, enjoyed by the legal entity or other \[organisation\].
+>> (2)    works created in the course of employment the copyright in which is, in accordance with laws, administrative regulations or contracts, enjoyed by the legal entity or other \[organisation\].
 
 Ms He’s expert opinion cited Art 11 of the Copyright Law Implementation Regulations as defining two terms used in Art 16 of the Copyright Law:[^124]
 
-The term “tasks” … means the duties the citizen shall fulfil in the legal person or \[organisation\] by which he is employed.
+> The term “tasks” … means the duties the citizen shall fulfil in the legal person or \[organisation\] by which he is employed.
 
-The term “material and technical resources” … means the funds, equipment or materials purposely provided to the citizen by the legal person or \[organisation\] by which he is employed for the creation of a work.
+> The term “material and technical resources” … means the funds, equipment or materials purposely provided to the citizen by the legal person or \[organisation\] by which he is employed for the creation of a work.
 
 93     Article 13 of the Computer Software Regulations states:[^125]
 
-Where a piece of software developed by a natural person working in a legal entity or other \[organisation\] in the course of his service involves one of the following circumstances, the copyright therein shall be enjoyed by such legal entity or \[organisation\], which may reward the natural person for the development of the software:
+> Where a piece of software developed by a natural person working in a legal entity or other \[organisation\] in the course of his service involves one of the following circumstances, the copyright therein shall be enjoyed by such legal entity or \[organisation\], which may reward the natural person for the development of the software:
 
-(1)    the software is developed based on the development objective explicitly designated in the line of his service duty;
+>> (1)    the software is developed based on the development objective explicitly designated in the line of his service duty;
 
-(2)    the software is a foreseeable or natural result of his work activities in the line of his service duty; or
+>> (2)    the software is a foreseeable or natural result of his work activities in the line of his service duty; or
 
-(3)    the software is developed mainly with the material and technical resources of the legal entity or other \[organisation\], such as funds, special equipment or unpublished special information, and the legal entity or other organization assumes the responsibility therefor.
+>> (3)    the software is developed mainly with the material and technical resources of the legal entity or other \[organisation\], such as funds, special equipment or unpublished special information, and the legal entity or other organization assumes the responsibility therefor.
 
 Both experts agreed that copyright ownership by the plaintiff only required one of the three circumstances under Art 13 to be fulfilled.
 
@@ -388,17 +467,17 @@ Both experts agreed that copyright ownership by the plaintiff only required one 
 
 102    There was some dispute between the forensic experts regarding the extent to which Mr Liu had coded the Kikocci files during office hours. Both experts raised concerns about using the metadata timings of the “f109.sql” application files relating to the Kikocci Project[^136] as a proxy to measure the amount of time that Mr Liu spent on the Kikocci files.
 
-(a)     The plaintiff’s expert concluded that 40% of the Kikocci files were written during office hours by relying on “last saved” timings in the “f109.sql” files that recorded user activity and when particular functions and modules in a file were written and last saved.[^137] The defendants’ expert criticised the use of these timings as creating inconsistency: the “last saved” timings only showed that changes happened within a particular file, and did not reflect whether these changes were substantive: for instance, merely navigating back and forth within a file would cause the “last saved” timing to be updated.[^138]
+> (a)     The plaintiff’s expert concluded that 40% of the Kikocci files were written during office hours by relying on “last saved” timings in the “f109.sql” files that recorded user activity and when particular functions and modules in a file were written and last saved.[^137] The defendants’ expert criticised the use of these timings as creating inconsistency: the “last saved” timings only showed that changes happened within a particular file, and did not reflect whether these changes were substantive: for instance, merely navigating back and forth within a file would cause the “last saved” timing to be updated.[^138]
 
-(b)     Instead, the defendants’ expert relied on the “last written” and export timings of the files to conclude that 19–22% of the Kikocci files were created during working hours. “Last written” timings show the last time changes were made to the overall file, and export timings are generated when a user saves and exports his work. These timings would reflect when a person makes “essential” changes to the files.[^139] The plaintiff’s expert’s response was that these timings were biased towards showing that Mr Liu only worked on the file outside of his working hours: the “last written” timing only shows when a back-up file is created, and cannot indicate when the codes contained therein were last written or worked on. Mr Liu could have worked on the Kikocci files during office hours, saving and exporting them after he ended work.[^140]
+> (b)     Instead, the defendants’ expert relied on the “last written” and export timings of the files to conclude that 19–22% of the Kikocci files were created during working hours. “Last written” timings show the last time changes were made to the overall file, and export timings are generated when a user saves and exports his work. These timings would reflect when a person makes “essential” changes to the files.[^139] The plaintiff’s expert’s response was that these timings were biased towards showing that Mr Liu only worked on the file outside of his working hours: the “last written” timing only shows when a back-up file is created, and cannot indicate when the codes contained therein were last written or worked on. Mr Liu could have worked on the Kikocci files during office hours, saving and exporting them after he ended work.[^140]
 
 103    In my view, both experts raised valid concerns about using these timings to measure the time Mr Liu spent working on the Kikocci files while at work. But what seemed more methodologically concerning was the fact that the forensic experts were only able to analyse the deleted Kikocci files that were successfully recovered. As the plaintiff’s forensic expert observed, there may well have been more files that had been deleted and which could not be recovered.[^141] As the existing evidence could only portray an incomplete picture, it was unsafe to draw any conclusions regarding the extent to which Mr Liu had worked on the files during office hours. I therefore did not place much weight on this aspect of the parties’ cases.
 
 104    Instead, I focused on the software and equipment that Mr Liu had used to create the Kikocci files, and whether their use caused the Kikocci files to fall within the meaning of “works” under para 2 of Art 16 of the Copyright Law which the plaintiff could claim copyright ownership over. It was clear from the foreign law evidence that this required the software and equipment to be “purposely” or “specially” provided by the plaintiff for Mr Liu to create the Kikocci files: see Art 11 of the Copyright Law Implementation Regulations and the first instance decision that was upheld in _Zhanyu Enterprise_. This requirement was not fulfilled in the present case, for the following two reasons:
 
-(a)     I found that Mr Liu had used i-Admin (Shanghai)’s laptop for some of the Kikocci coding work: the Kikocci files that were forensically assessed were found on the laptop which i-Admin (Shanghai) had assigned to him.[^142] But it was crucial that this laptop had not been purposely or specially provided to him for coding the Kikocci files. Rather, it was provided for his general use, as part of his employment in i-Admin (Shanghai)’s operations and business development departments at the time.
+> (a)     I found that Mr Liu had used i-Admin (Shanghai)’s laptop for some of the Kikocci coding work: the Kikocci files that were forensically assessed were found on the laptop which i-Admin (Shanghai) had assigned to him.[^142] But it was crucial that this laptop had not been purposely or specially provided to him for coding the Kikocci files. Rather, it was provided for his general use, as part of his employment in i-Admin (Shanghai)’s operations and business development departments at the time.
 
-(b)     Neither was the software used to code the Kikocci files proprietary to the plaintiff or provided to Mr Liu for the purpose of coding those files. I believed Mr Hong and Mr Liu’s evidence to the effect that Mr Liu had downloaded and installed Oracle APEX from Oracle’s website following a Skype conversation that they had on 12 February 2010, and that this software was free-to-download and publically accessible.[^143]
+> (b)     Neither was the software used to code the Kikocci files proprietary to the plaintiff or provided to Mr Liu for the purpose of coding those files. I believed Mr Hong and Mr Liu’s evidence to the effect that Mr Liu had downloaded and installed Oracle APEX from Oracle’s website following a Skype conversation that they had on 12 February 2010, and that this software was free-to-download and publically accessible.[^143]
 
 As the plaintiff had not provided the material and technical resources which Mr Liu had used to code the Kikocci files, it did not own the copyright in the said files pursuant to Art 13(3) of the Computer Software Regulations read with para 2 of Art 16 of the Copyright Law.
 
@@ -414,11 +493,11 @@ As the plaintiff had not provided the material and technical resources which Mr�
 
 108    The elements that have to be settled for an action in breach of confidence to succeed are listed in _Clearlab SG Pte Ltd v Ting Chong Chai and others_ <span class="citation">\[2015\] 1 SLR 163</span> (“_Clearlab_”) at \[64\]:
 
-(a)     The information must possess the necessary quality of confidentiality. This is satisfied if it is relatively inaccessible to the public, _ie_, it has not become public knowledge (at \[66\]).
+> (a)     The information must possess the necessary quality of confidentiality. This is satisfied if it is relatively inaccessible to the public, _ie_, it has not become public knowledge (at \[66\]).
 
-(b)     The information must have been imparted in circumstances importing an obligation of confidence. Where there is a contract expressly or impliedly imposing an obligation of confidence, this element may be satisfied simply by reference to the contract (at \[65\]).
+> (b)     The information must have been imparted in circumstances importing an obligation of confidence. Where there is a contract expressly or impliedly imposing an obligation of confidence, this element may be satisfied simply by reference to the contract (at \[65\]).
 
-(c)     There must be an unauthorised use of that information to the detriment of the party communicating it.
+> (c)     There must be an unauthorised use of that information to the detriment of the party communicating it.
 
 109    The plaintiff identified four incidents that allegedly amounted to breaches of confidence on the part of one or more defendants. I shall categorise and deal with them in turn. I first turn to the general question of whether the individual defendants owed the plaintiff obligations of confidence.
 
@@ -440,7 +519,7 @@ As the plaintiff had not provided the material and technical resources which Mr�
 
 115    The plaintiff stated that the defendants had reproduced, copied, adapted or referenced its confidential source codes, systems, database structures and client information to develop the defendants’ source codes, systems and materials.[^150] I agreed that the plaintiff’s source codes, systems, database structures and client materials were confidential, but only to the extent the information in question was not found in the public domain and was original. As noted by Lee Seiu Kin J in _Clearlab_ at \[215\], information that is too broad, general and unoriginal may not be capable of being protected as confidential:
 
-… In _De Maudsley v Palumbo_ \[1996\] FSR 447 (“_De Maudsley_”), an idea for a dance club was held not to be protectable because its five composite elements were, individually or combined, far too vague and/or unoriginal to constitute confidential information. \[The unprotectable elements were that\] (a) the club would operate all night long, (b) the decor would be of “high tech industrial” warehouse style, (c) there would be separate areas for dancing, resting and socialising as well as a VIP lounge, (d) the acoustic design for the enclosed dance area would prevent sound, light and atmosphere to leak beyond the area, and (e) top disc jockeys would appear at the club. …
+> … In _De Maudsley v Palumbo_ \[1996\] FSR 447 (“_De Maudsley_”), an idea for a dance club was held not to be protectable because its five composite elements were, individually or combined, far too vague and/or unoriginal to constitute confidential information. \[The unprotectable elements were that\] (a) the club would operate all night long, (b) the decor would be of “high tech industrial” warehouse style, (c) there would be separate areas for dancing, resting and socialising as well as a VIP lounge, (d) the acoustic design for the enclosed dance area would prevent sound, light and atmosphere to leak beyond the area, and (e) top disc jockeys would appear at the club. …
 
 116    It followed from my findings in relation to the copyright claim above that no reproduction or copying of the plaintiff’s materials had occurred _per se_. Although the plaintiff alleged that the defendants had adapted its database structures, it did not explain how such “adaptation” had occurred or what references the defendants had made of the plaintiff’s database structures; it only relied on Mr Pillay’s comparison of the parties’ respective database tables.[^151] I thus disregarded this aspect of its claim. As for the defendants’ alleged adaptations of or references to the plaintiff’s material, the plaintiff’s submissions focused mainly on the defendants’ adaptation of its payitem and CPF database materials and its result upload functionality.[^152] In particular, it argued that the element of unauthorised use of its information was made out by the defendants’ copying of its payroll data to save time and effort in developing Nice Payroll’s own payitem database structures and bible, thereby expediting its entry into the market.[^153]
 
@@ -448,35 +527,35 @@ As the plaintiff had not provided the material and technical resources which Mr�
 
 118    To summarise, the plaintiff in _Clearlab_ (“Clearlab”), a contact lens manufacturer, sued its ex-employees, _inter alia_, for taking its confidential information and using it for the benefit of a rival company (“Aquilus”). Six “clear instances” of breach of confidence were found to have occurred:
 
-(a)     The first two instances of breach involved the use of Clearlab’s confidential software to design contact lenses: at \[157\] to \[165\].
+> (a)     The first two instances of breach involved the use of Clearlab’s confidential software to design contact lenses: at \[157\] to \[165\].
 
-(b)     The third involved the defendants’ copying of Clearlab’s lens formulations to use in Aquilus’s application for a Health Sciences Authority (“HSA”) manufacturing license: at \[166\] to \[176\]. Lee J took note of the fact that the defendants would otherwise not have had enough time to independently develop a workable lens formulation: at \[174\].
+> (b)     The third involved the defendants’ copying of Clearlab’s lens formulations to use in Aquilus’s application for a Health Sciences Authority (“HSA”) manufacturing license: at \[166\] to \[176\]. Lee J took note of the fact that the defendants would otherwise not have had enough time to independently develop a workable lens formulation: at \[174\].
 
-(c)     Fourth, Aquilus used Clearlab’s combination of dosage, spin-speed and lens dimensions in its lens production. One of the defendants admitted under cross-examination that Aquilus faced “a lot of difficulties in coming up with a good lens”, and thus asked another colleague for Clearlab’s specifications in order to “shorten the trial”: at \[180\]. This suggested that the document from Clearlab containing this data was used for making certain lens: at \[177\] to \[181\].
+> (c)     Fourth, Aquilus used Clearlab’s combination of dosage, spin-speed and lens dimensions in its lens production. One of the defendants admitted under cross-examination that Aquilus faced “a lot of difficulties in coming up with a good lens”, and thus asked another colleague for Clearlab’s specifications in order to “shorten the trial”: at \[180\]. This suggested that the document from Clearlab containing this data was used for making certain lens: at \[177\] to \[181\].
 
-(d)     Fifth, the defendants had input Clearlab’s parameter settings into a machine used to cut the metal insert for producing Aquilus’s lens cast mould: at \[182\] to \[186\].
+> (d)     Fifth, the defendants had input Clearlab’s parameter settings into a machine used to cut the metal insert for producing Aquilus’s lens cast mould: at \[182\] to \[186\].
 
-(e)     Finally, the defendants used Clearlab’s documents to obtain four certifications for ISO and OHSAS standards, following an audit by TQCS International Pty Ltd (“TQCSI”), an audit firm: at \[187\] to \[194\]. ISO certification required a minimum of three months of actual implementation of quality management systems and related standard operating procedures (“SOPs”). Clearlab pointed toward the speed at which Aquilus obtained certifications (within three months after three of its four technical crew came on board) as suggestive of copying: at \[188\]. Lee J noted in particular how certain emails showed that the defendants circulated batches of Clearlab’s SOPs and operating instructions (“OIs”) with instructions to “change for Aquilus”; the reply email described the 18 attached files as having “removed all mentions of \[Clearlab\] and also changed the words 1-Day to \[Aquilus’s\] Daily Lens”. Lee J found that implementation of the SOPs and OIs to satisfy the audit requirements constituted use; relevantly, an email sent in the midst of the TQCSI audit stated, “As per Mr Ting advice, we can use Clearlab’s standard for a while.”: at \[193\].
+> (e)     Finally, the defendants used Clearlab’s documents to obtain four certifications for ISO and OHSAS standards, following an audit by TQCS International Pty Ltd (“TQCSI”), an audit firm: at \[187\] to \[194\]. ISO certification required a minimum of three months of actual implementation of quality management systems and related standard operating procedures (“SOPs”). Clearlab pointed toward the speed at which Aquilus obtained certifications (within three months after three of its four technical crew came on board) as suggestive of copying: at \[188\]. Lee J noted in particular how certain emails showed that the defendants circulated batches of Clearlab’s SOPs and operating instructions (“OIs”) with instructions to “change for Aquilus”; the reply email described the 18 attached files as having “removed all mentions of \[Clearlab\] and also changed the words 1-Day to \[Aquilus’s\] Daily Lens”. Lee J found that implementation of the SOPs and OIs to satisfy the audit requirements constituted use; relevantly, an email sent in the midst of the TQCSI audit stated, “As per Mr Ting advice, we can use Clearlab’s standard for a while.”: at \[193\].
 
 119    It is clear from this reasoning that the copying of information alone does not constitute breach of confidence. Crucially, the defendants in _Clearlab_ had actually used Clearlab’s confidential information for various purposes: to apply for a HSA license, to obtain ISO and OHSAS certifications, and in developing Aquilus’s contact lenses. The same could not be said in this case. As the defendants argued, while the data in the plaintiff’s Payitem Bibles might have been copied into the file “Payitem Bible\_Singapore.xls”, this file was “not commonly used”.[^154] The argument that the copied data had also been used to create Nice Payroll’s payitem database was also shaky; to this end, I accepted the defendants’ arguments that payitems were common knowledge in the payitem industry and that MrOng would have been able to c Hong would have been able to compile a similar list of payitems based on his own knowledge of the payitem industry.[^155] Indeed, I generally found that the plaintiff was unable to explain with any particularity how the defendants had used the copied payitem data or the headers in the “cpf.xls” file. This could be contrasted with the situation in _Clearlab_, where the use of the copied data was shown to be critical to the actual running of Aquilus’s operations and to the defendants’ ability to obtain relevant licenses within months, thereby bypassing the research and development and trial process.
 
 120    The plaintiff’s submissions further described how the defendants retained other materials which belonged to it, and accessed them or circulated them amongst themselves and Nice Payroll’s other employees. Specifically:
 
-(a)     Mr Liu accessed the “From Zaza” folder on at least eight occasions. This folder contained some of the plaintiff’s materials, and Mr Liu’s browsing was performed to identify and potentially utilise relevant or useful materials.[^156] In particular, he had searched for and accessed the file “BankDiskSGP7144.java”. This was the plaintiff’s source code that generated a “bankdisk” file. It was used for payment disbursement and was formulated according to a client bank’s specifications.[^157]
+> (a)     Mr Liu accessed the “From Zaza” folder on at least eight occasions. This folder contained some of the plaintiff’s materials, and Mr Liu’s browsing was performed to identify and potentially utilise relevant or useful materials.[^156] In particular, he had searched for and accessed the file “BankDiskSGP7144.java”. This was the plaintiff’s source code that generated a “bankdisk” file. It was used for payment disbursement and was formulated according to a client bank’s specifications.[^157]
 
-(b)     The “RR to Li Lian.zip” folder, which contained some of the plaintiff’s operational documents, was found on Mr Hong’s ThinkPad laptop. On 10 May 2012, Mr Hong emailed Mr Tan and attached the files “RR to Li Lian.zip” and “SGWI ICP questionnaire 111020-1.xls”. He sent the former file to Mr Tan to review when replying to a client questionnaire (the latter file).[^158]
+> (b)     The “RR to Li Lian.zip” folder, which contained some of the plaintiff’s operational documents, was found on Mr Hong’s ThinkPad laptop. On 10 May 2012, Mr Hong emailed Mr Tan and attached the files “RR to Li Lian.zip” and “SGWI ICP questionnaire 111020-1.xls”. He sent the former file to Mr Tan to review when replying to a client questionnaire (the latter file).[^158]
 
-(c)     Mr Liu emailed Mr Hong on 18 July 2011, attaching the plaintiff’s client implementation templates in the file “Standard Imp Template.zip” for his “reference” at a period when Nice Payroll was building its own implementation templates.[^159]
+> (c)     Mr Liu emailed Mr Hong on 18 July 2011, attaching the plaintiff’s client implementation templates in the file “Standard Imp Template.zip” for his “reference” at a period when Nice Payroll was building its own implementation templates.[^159]
 
-(d)     Mr Liu emailed Ms Shen on 15 August 2011, attaching “epayroll.zip”, which contained the plaintiff’s ePayroll source codes.[^160]
+> (d)     Mr Liu emailed Ms Shen on 15 August 2011, attaching “epayroll.zip”, which contained the plaintiff’s ePayroll source codes.[^160]
 
-(e)     Mr Liu emailed Mr Hong on 15 August 2011, attaching the plaintiff’s Payitem Bibles.[^161]
+> (e)     Mr Liu emailed Mr Hong on 15 August 2011, attaching the plaintiff’s Payitem Bibles.[^161]
 
-(f)     Mr Liu emailed Ms Shen on 20 August 2011, attaching the files “GIRO Format.pdf”, which contained coding specifications from OCBC Bank, and “BankDiskOCBCSGONI.java”, the plaintiff’s source code which generated a “bankdisk” file for its client. In the email, he instructed, “verify the java coding with the spec since the coding is the up to date one but the spec I found is 2007. If they are tally, pls do the coding asap. \[_sic_\]”.[^162]
+> (f)     Mr Liu emailed Ms Shen on 20 August 2011, attaching the files “GIRO Format.pdf”, which contained coding specifications from OCBC Bank, and “BankDiskOCBCSGONI.java”, the plaintiff’s source code which generated a “bankdisk” file for its client. In the email, he instructed, “verify the java coding with the spec since the coding is the up to date one but the spec I found is 2007. If they are tally, pls do the coding asap. \[_sic_\]”.[^162]
 
-(g)     Mr Liu emailed Mr Hong and Mr Tan on 26 March 2012, attaching the file “HK Statutory\_rev28Feb2011.doc”, which included information about Hong Kong’s statutory calculation requirements. The email was sent with the understanding that the attachment might be of use to Mr Liu and Mr Tan, who were developing Nice Payroll’s Hong Kong payroll engine at the time.[^163]
+> (g)     Mr Liu emailed Mr Hong and Mr Tan on 26 March 2012, attaching the file “HK Statutory\_rev28Feb2011.doc”, which included information about Hong Kong’s statutory calculation requirements. The email was sent with the understanding that the attachment might be of use to Mr Liu and Mr Tan, who were developing Nice Payroll’s Hong Kong payroll engine at the time.[^163]
 
-(h)     The Eclipse software is a workspace to programme and develop Java applications. The plaintiff argued that the defendants executed the Eclipse software to view and reference the plaintiff’s Java codes which were located in the “From Zaza” folder. The plaintiff’s Java files had also been concurrently opened with the defendants’ Java files, and a compilation of 259 of the plaintiff’s Java codes was found on the defendants’ Dell Server. The plaintiff drew the conclusion that the defendants had used its materials as part of their Eclipse projects, and had reviewed and utilised its files in the course of Nice Payroll’s business.[^164]
+> (h)     The Eclipse software is a workspace to programme and develop Java applications. The plaintiff argued that the defendants executed the Eclipse software to view and reference the plaintiff’s Java codes which were located in the “From Zaza” folder. The plaintiff’s Java files had also been concurrently opened with the defendants’ Java files, and a compilation of 259 of the plaintiff’s Java codes was found on the defendants’ Dell Server. The plaintiff drew the conclusion that the defendants had used its materials as part of their Eclipse projects, and had reviewed and utilised its files in the course of Nice Payroll’s business.[^164]
 
 In addition, the plaintiff highlighted that its file “tax.txt”, which contained the plaintiff’s source code for calculating tax for its Singapore payroll engine, was found in Mr Tan’s folder in the Dell Server.[^165]
 
@@ -488,9 +567,9 @@ In addition, the plaintiff highlighted that its file “tax.txt”, which contai
 
 124    For completeness, I note that the plaintiff invoked what it called the “expansive approach” taken in _Clearlab_ at \[205\] to \[207\] towards the standard of proof required to show unauthorised use of confidential material,[^174] where Lee J found that the mere taking of Clearlab’s materials could amount to a breach of confidence. The plaintiff here sought to argue that any lack of proof of use or detriment arising from the documents taken by the defendants was not fatal to its claim.[^175] I disagree: as this formulation of the breach of confidence claim had not been pleaded, it could not be considered; the plaintiff should have specifically pleaded that the fact of mere taking sufficed to give rise to breach of confidence. In any case, such a claim would not have succeeded as the present case could be sufficiently distinguished from _Clearlab_. Lee J, in concluding that the defendants had breached their obligations of confidence to Clearlab in respect of the whole lot of documents taken out of Clearlab (at \[207\]), considered that:
 
-(a)     First, the defendants systematically took a “substantial” and “remarkable” documents numbering in the thousands shortly before leaving Clearlab: at \[150\], \[151\] and \[195\]. This suggested that they had taken the documents not for the purposes of their work at Clearlab, but to accumulate them to be used at Aquilus. The defendants admitted to taking and passing on Clearlab’s documents for “reference”. This showed that the documents were treated as a resource that they could freely use: at \[206\].
+> (a)     First, the defendants systematically took a “substantial” and “remarkable” documents numbering in the thousands shortly before leaving Clearlab: at \[150\], \[151\] and \[195\]. This suggested that they had taken the documents not for the purposes of their work at Clearlab, but to accumulate them to be used at Aquilus. The defendants admitted to taking and passing on Clearlab’s documents for “reference”. This showed that the documents were treated as a resource that they could freely use: at \[206\].
 
-(b)     Second, the retention of the documents was in breach of the defendants’ employment contract with Clearlab: at \[206\].
+> (b)     Second, the retention of the documents was in breach of the defendants’ employment contract with Clearlab: at \[206\].
 
 125    It was further crucial that the defendants in _Clearlab_ had set themselves an extremely short manufacturing timeframe that would only have been consistent with the use of Clearlab’s confidential information: at \[149\]. This went towards showing that the defendants in _Clearlab_ set out with the intention of taking and using Clearlab’s documents from the start. Moreover, Lee J’s _obiter_ observations about whether “potential use” could amount to a breach of confidence were also situated alongside the “clear” instances of breach of confidence where Clearlab’s confidential information was actually used: see the discussion above at \[117\] to \[119\]. It was against the backdrop of multiple breaches of confidence that Lee J found that it would have been no defence that certain documents in the defendants’ collection of Clearlab’s documents were not actually used, when each of the documents had been taken with the intention of using them: at \[207\]. Seen in this context, the present facts were not so egregious (as in _Clearlab_) that the mere fact that the plaintiff’s documents could potentially have been used by the defendants amounted to a breach of confidence on their part.
 
@@ -498,29 +577,29 @@ In addition, the plaintiff highlighted that its file “tax.txt”, which contai
 
 126    The plaintiff submitted that the defendants used a copy of its payroll software to generate Nice Payroll’s internal payroll reports between May 2011 and February 2012.[^176] On 27 June 2011, Mr Liu sent an email to Mr Hong entitled “Payroll Server”, which stated:
 
-Here are the server info for payroll.
+> Here are the server info for payroll.
 
-IP: 175.41.140.194
+> IP: 175.41.140.194
 
-Open IE (don't close eclipse)
+> Open IE (don't close eclipse)
 
-I have setup the home page already.
+> I have setup the home page already.
 
-\[Username and password details\]
+> \[Username and password details\]
 
-Please do data input in HRIS first instead of template. I haven't setup that module since the templates has not been uploaded include recurring/variable template in epayroll.
+> Please do data input in HRIS first instead of template. I haven't setup that module since the templates has not been uploaded include recurring/variable template in epayroll.
 
-If you have any problem with synchronization, let me know.
+> If you have any problem with synchronization, let me know.
 
 127    Mr Sutrisno (“Mr Sutrisno”), the plaintiff’s head of the Network, System and Security Department, interpreted this email to mean that the plaintiff’s payroll software had been hosted at the abovementioned IP address. This IP address was traced to an Amazon Web Services cloud server. The use of Eclipse indicated that the defendants were running the plaintiff’s Java codes, since their own software was written in PL/SQL and programmed using APEX. The references to “HRIS” and “ePayroll” also pointed to the use of the plaintiff’s software, which required data to be input into an HRIS template and a “recurring/variable” template in “ePayroll”. Finally, the reference to “synchronization \[_sic_\]” also indicated that the plaintiff’s software had been used, seeing as how the plaintiff’s software required multiple databases to be synchronised, while Nice Payroll’s comprised a single database.[^177] Mr Pillay also found that Nice Payroll’s payroll reports were identical to the plaintiff’s and that Nice Payroll’s source code did not contain relevant coding which would have enabled it to generate the internal payroll reports that had been created during the material period.[^178]
 
 128    The defendants submitted that the plaintiff’s argument was deficient on various grounds:[^179]
 
-(a)     First, the evidence did not exclude the possibility that Mr Liu had created a discrete Java tool to generate internal payroll reports that looked like the plaintiff’s. This tool was deleted after Nice Payroll’s payroll software became operational in March 2012.
+> (a)     First, the evidence did not exclude the possibility that Mr Liu had created a discrete Java tool to generate internal payroll reports that looked like the plaintiff’s. This tool was deleted after Nice Payroll’s payroll software became operational in March 2012.
 
-(b)     Second, there was no forensic evidence that the defendants had actually run the plaintiff’s software to generate internal payroll reports. Running a single piece of code to generate a payroll report would have required various pieces of the plaintiff’s source codes and database to be fully installed and operational. Prof Yap’s evidence showed that it would have been extremely difficult to set up the various elements of the plaintiff’s software and database. Indeed, given the small number of employees at the time (three to eight), a payroll report could have been easily created by hand or by running a simple custom program.[^180]
+> (b)     Second, there was no forensic evidence that the defendants had actually run the plaintiff’s software to generate internal payroll reports. Running a single piece of code to generate a payroll report would have required various pieces of the plaintiff’s source codes and database to be fully installed and operational. Prof Yap’s evidence showed that it would have been extremely difficult to set up the various elements of the plaintiff’s software and database. Indeed, given the small number of employees at the time (three to eight), a payroll report could have been easily created by hand or by running a simple custom program.[^180]
 
-(c)     Third, the email sent on 27 June 2011 could be explained on the basis that Mr Liu had directed Mr Hong to run his discrete Java code to generate Nice Payroll’s internal reports, and to let him know if the source code could not “synchronise” with Nice Payroll’s database. This interpretation was not precluded by the text of the email: references to the “recurring/variable template” could refer to recurring and variable payitems, and references to Eclipse and “HRIS” were not unique to the plaintiff’s software.
+> (c)     Third, the email sent on 27 June 2011 could be explained on the basis that Mr Liu had directed Mr Hong to run his discrete Java code to generate Nice Payroll’s internal reports, and to let him know if the source code could not “synchronise” with Nice Payroll’s database. This interpretation was not precluded by the text of the email: references to the “recurring/variable template” could refer to recurring and variable payitems, and references to Eclipse and “HRIS” were not unique to the plaintiff’s software.
 
 129    Assessing the evidence, it was critical that no forensic evidence showed that the plaintiff’s software had been run, as Mr Sutrisno admitted under cross-examination.[^181] Given the small scale of the defendants’ initial operations, it was also unlikely on the balance of probabilities that the defendants would have installed the plaintiff’s software simply to process internal payroll reports when less taxing alternatives were available to it. I thus found that the plaintiff failed to sufficiently prove that their inferences should be drawn from the available evidence, and dismissed the breach of confidence claim in this regard.
 

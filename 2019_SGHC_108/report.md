@@ -61,29 +61,29 @@ Mental Disorders and Treatment
 
 18     Mr Mah sought the following relief in the OS:
 
-1.    Pursuant to s 21(1)(b) of the Supreme Court of Judicature Act read with O 55C r 1 and 2(1) of the ROC, and O 3 r 4 of the ROC; the Plaintiff be granted an extension of time to file the application for leave to appeal to a Judge of the High Court in Chambers against the costs orders of $7,500: $5,000 in the Deputy Registrar hearing and $2,500 in the Registrar’s Appeal hearing.
+> 1.    Pursuant to s 21(1)(b) of the Supreme Court of Judicature Act read with O 55C r 1 and 2(1) of the ROC, and O 3 r 4 of the ROC; the Plaintiff be granted an extension of time to file the application for leave to appeal to a Judge of the High Court in Chambers against the costs orders of $7,500: $5,000 in the Deputy Registrar hearing and $2,500 in the Registrar’s Appeal hearing.
 
-2.    Pursuant to s 21(1)(b) of the Supreme Court of Judicature Act read with O 55C r 1 and 2(1) of the ROC, the Plaintiff be granted leave to appeal to a Judge of the High Court in Chambers against the costs orders of $7,500.
+> 2.    Pursuant to s 21(1)(b) of the Supreme Court of Judicature Act read with O 55C r 1 and 2(1) of the ROC, the Plaintiff be granted leave to appeal to a Judge of the High Court in Chambers against the costs orders of $7,500.
 
-3.    Pursuant to s 21(1)(b) of the Supreme Court of Judicature Act read with O 55C r 1 and 2(1) of the ROC, the Plaintiff be granted leave to appeal to a Judge of the High Court in Chambers against the decision of \[the second DJ\] made on the 24th day of August 2018 in Summons No.: SUM 2755/2018 of DC Suit No.: 2430/2017.
+> 3.    Pursuant to s 21(1)(b) of the Supreme Court of Judicature Act read with O 55C r 1 and 2(1) of the ROC, the Plaintiff be granted leave to appeal to a Judge of the High Court in Chambers against the decision of \[the second DJ\] made on the 24th day of August 2018 in Summons No.: SUM 2755/2018 of DC Suit No.: 2430/2017.
 
-4.    Pursuant to s 25(2) of the Mental Health (Care and Treatment) Act (Cap 178A, 2012 Rev Ed.), the Plaintiff be granted leave to bring civil proceedings.
+> 4.    Pursuant to s 25(2) of the Mental Health (Care and Treatment) Act (Cap 178A, 2012 Rev Ed.), the Plaintiff be granted leave to bring civil proceedings.
 
-5.    The costs of and occasioned by this application be paid by the Defendants to the Plaintiff; and
+> 5.    The costs of and occasioned by this application be paid by the Defendants to the Plaintiff; and
 
-6.    Such further or other relief as this Honourable Court deems fit.
+> 6.    Such further or other relief as this Honourable Court deems fit.
 
 ## Issues
 
 19     Distilling the above, Mr Mah essentially requested the following four remedies:
 
-(a)     An extension of time to file the application for leave to appeal to a Judge of the High Court in Chambers in respect of orders made by the first DJ in Registrar’s Appeal 95/2017 on 20 March 2018. The DR’s first costs order against him was the subject of his appeal in Registrar’s Appeal 95/2017. His prayer 1 therefore concerned two specific aspects of the first DJ’s orders: costs of $2,500 awarded against him for Registrar’s Appeal 95/2017, and in effect, the dismissal of an extension of time to appeal the DR’s order for costs of $5,000 made against him in Summons 3131/2017 on 20 November 2017.
+> (a)     An extension of time to file the application for leave to appeal to a Judge of the High Court in Chambers in respect of orders made by the first DJ in Registrar’s Appeal 95/2017 on 20 March 2018. The DR’s first costs order against him was the subject of his appeal in Registrar’s Appeal 95/2017. His prayer 1 therefore concerned two specific aspects of the first DJ’s orders: costs of $2,500 awarded against him for Registrar’s Appeal 95/2017, and in effect, the dismissal of an extension of time to appeal the DR’s order for costs of $5,000 made against him in Summons 3131/2017 on 20 November 2017.
 
-(b)     Leave to appeal against the above two orders.
+> (b)     Leave to appeal against the above two orders.
 
-(c)     Leave to appeal to a Judge of the High Court in Chambers against the costs order of $1,000 made by the second DJ in Summons 2755/2018 on 24 August 2018; and
+> (c)     Leave to appeal to a Judge of the High Court in Chambers against the costs order of $1,000 made by the second DJ in Summons 2755/2018 on 24 August 2018; and
 
-(d)     Leave to bring civil proceedings under s 25(2) of the MHCTA for his arrest and detention on 7 July 2017.
+> (d)     Leave to bring civil proceedings under s 25(2) of the MHCTA for his arrest and detention on 7 July 2017.
 
 ## Decision
 
@@ -101,9 +101,9 @@ Mental Disorders and Treatment
 
 24     In _Lee Hsien Loong_, the Court of Appeal noted at \[28\] that “all four factors are of equal importance, and must be taken into account”. Regarding the merits of the intended appeal, the Court noted at \[19\] that a low threshold is applied, and the court asks only whether the appeal is “hopeless”, citing _Nomura Regionalisation Venture Fund Ltd v Ethical Investments Ltd_ <span class="citation">\[2000\] 2 SLR(R) 926</span> (“_Nomura_”) at \[32\]. I shall refer to this threshold as “the _Nomura_ threshold”. Andrew Phang Boon Leong JA further explained this threshold with reference to _Aberdeen Asset Management Asia Ltd and another v Fraser & Neave Ltd and others_ <span class="citation">\[2001\] 3 SLR(R) 355</span> (“_Aberdeen_”) (at \[43\]), where the Court of Appeal stated that the examination of the appeal’s merits ought not to require a full-scale examination of the issues involved, nor should it be necessary for the applicant to show that he will succeed in the appeal. Unless there are no prospects of the applicant succeeding on the appeal, the merits of any appeal should be considered a neutral factor. On the other hand, where an appeal is truly hopeless, the Court of Appeal’s guidance, at \[20\], was that this factor assumes critical importance:
 
-This third factor nevertheless becomes of signal importance where the appeal is a truly hopeless one. In such a situation, notwithstanding even a very short delay, an extension of time will generally not be granted by the court simply because to do so would be an exercise in futility, resulting in a waste of time as well as resources for all concerned. As Yong Pung How CJ put it in this court’s decision in _Pearson Judith Rosemary v Chen Chien Wen Edwin_ <span class="citation">\[1991\] 2 SLR(R) 260</span> (“_Pearson_”) at \[17\]:
+> This third factor nevertheless becomes of signal importance where the appeal is a truly hopeless one. In such a situation, notwithstanding even a very short delay, an extension of time will generally not be granted by the court simply because to do so would be an exercise in futility, resulting in a waste of time as well as resources for all concerned. As Yong Pung How CJ put it in this court’s decision in _Pearson Judith Rosemary v Chen Chien Wen Edwin_ <span class="citation">\[1991\] 2 SLR(R) 260</span> (“_Pearson_”) at \[17\]:
 
-\[T\]he chances of the appeal succeeding should be considered, as it would be a waste of time for all concerned if time is extended when the appeal is utterly hopeless.
+>> \[T\]he chances of the appeal succeeding should be considered, as it would be a waste of time for all concerned if time is extended when the appeal is utterly hopeless.
 
 25     Every case turns on its facts: _Lee Hsien Loong_, at \[28\]. In order to explain how this _Nomura_ threshold is applicable to the facts of this case, I turn first to the principles governing the grant of leave to appeal. These are set out in _Lee Kuan Yew v Tang Liang Hong and another_ <span class="citation">\[1997\] 2 SLR(R) 862</span> at \[16\] and reiterated in the Court of Appeal’s decision of _Virtual Map (Singapore) Pte Ltd v Singapore Land Authority and another application_ <span class="citation">\[2009\] 2 SLR(R) 558</span> at \[32\]. There are three limbs which a party can rely upon when seeking leave to appeal: (a) a _prima facie_ case of error; (b) a question of general principle decided for the first time; and (c) a question of importance upon which further argument and a decision of a higher tribunal would be to the public advantage.
 
@@ -127,13 +127,13 @@ This third factor nevertheless becomes of signal importance where the appeal is 
 
 34     Mr Mah produced a number of reasons to explain his delay. He claimed the following:[^29]
 
-(a)     As a litigant in person, he was unsure of the procedure to appeal, and could not decide whether to appeal against the substantive aspects of the judgments below or the cost orders;
+> (a)     As a litigant in person, he was unsure of the procedure to appeal, and could not decide whether to appeal against the substantive aspects of the judgments below or the cost orders;
 
-(b)     He was busy with caring for his family, who were suffering from cataracts, cancer and dementia;
+> (b)     He was busy with caring for his family, who were suffering from cataracts, cancer and dementia;
 
-(c)     He was defending himself against criminal charges that the police and the Attorney-General had proffered against him; and
+> (c)     He was defending himself against criminal charges that the police and the Attorney-General had proffered against him; and
 
-(d)     He had been unwell due to problems with his eyesight and back pain.
+> (d)     He had been unwell due to problems with his eyesight and back pain.
 
 35     I was of the opinion that being unrepresented is not in and of itself a good reason for delay. Mr Mah has been involved in litigation previously and is not a stranger to the judicial process. Rules and procedures exist for the good order of court litigation. Time norms are central to fairness between parties and “must _prima facie_ be obeyed” (see the remarks of Lord Guest in the Privy Council case of _Ratnam v Cumarasamy_ <span class="citation">\[1965\] 1 WLR 8</span> at 12). Of course, extensions of time may be sought and litigants, whether acting in person or not, may seek the indulgence of the court. But good reasons are required to support each request, because each extension given is a deviation from the standards and expectations that have been set for parties in order to ensure fair play and due expedition. Whilst I was sympathetic to the various issues that Mr Mah faced, they did not satisfactorily explain his delay. First, Mr Mah did not demonstrate with any specificity how these personal difficulties caused the delay of 17 weeks and 6 days. Second, Mr Mah failed to substantiate his personal circumstances with any form of evidence. He made mere assertions without supporting material. These assertions could not form a sufficient basis for me to exercise my discretion.
 
@@ -161,13 +161,13 @@ This third factor nevertheless becomes of signal importance where the appeal is 
 
 43     O 57 r 17 of the RSC states:
 
-Without prejudice to the power of the Court of Appeal under Order 3, Rule 5, to extend the time prescribed by any provision of this Order, the period for serving notice of appeal under Rule 4 or for making application _ex parte_ under Rule 16(3) may be extended by the Court below on application made before the expiration of that period.
+> Without prejudice to the power of the Court of Appeal under Order 3, Rule 5, to extend the time prescribed by any provision of this Order, the period for serving notice of appeal under Rule 4 or for making application _ex parte_ under Rule 16(3) may be extended by the Court below on application made before the expiration of that period.
 
 44     In _Chen Chien Wen Edwin_, “without prejudice to the power of the Court of Appeal under Order 3, Rule 5, to extend the time prescribed by any provision of this Order…” was understood by Chao Hick Tin J (as he then was), at \[8\], to mean that the extension of any time prescribed under O 57 may only be done by the Court of Appeal, and that O 57 r 17 merely stated exceptions where the court below was permitted to grant extensions of time. Thus, where an applicant was out of time and required an extension, only the Court of Appeal could grant the said extension. This decision was subsequently affirmed in _Wee Soon Kim Anthony v UBS AG and others_ <span class="citation">\[2005\] SGCA 3</span> at \[34\] and _Lioncity Construction Co Pte Ltd v JFC Builders Pte Ltd_ <span class="citation">\[2015\] 3 SLR 141</span> at \[32\]) in the context of an extension of time required for filing notices of appeal after the expiry of the specified 14-day period for appeals against a decision of the High Court and a decision of a District Court respectively.
 
 45     Here, the present O 55C r 4 is in _pari materia_ with O 57 r 17 of the RSC, and states:
 
-4.    Without prejudice to the power of the High Court under Order 3, Rule 4, to extend the time prescribed by any provision of this Order, the period for issuing and serving the notice of appeal under paragraph (4) of Rule 1 may be extended by the Court below on application made before the expiration of that period.
+> 4.    Without prejudice to the power of the High Court under Order 3, Rule 4, to extend the time prescribed by any provision of this Order, the period for issuing and serving the notice of appeal under paragraph (4) of Rule 1 may be extended by the Court below on application made before the expiration of that period.
 
 A District Court is only permitted to grant extensions of time for leave to appeal where an application is made before the expiration of the relevant period for such applications for leave to appeal.
 
@@ -181,29 +181,29 @@ A District Court is only permitted to grant extensions of time for leave to appe
 
 49     Under s 7 of the MHCTA, police officers have a duty to apprehend any person who is reported to be mentally disordered and believed to be dangerous to himself or other persons. It states:
 
-**Apprehension of mentally disordered person**
+> **Apprehension of mentally disordered person**
 
-7.    It shall be the duty of every police officer to apprehend any person who is _reported to be mentally disordered and is believed to be dangerous to himself or other persons by reason of mental disorder_ and take the person together with a report of the facts of the case without delay to –
+> 7.    It shall be the duty of every police officer to apprehend any person who is _reported to be mentally disordered and is believed to be dangerous to himself or other persons by reason of mental disorder_ and take the person together with a report of the facts of the case without delay to –
 
-(a)    any medical practitioner for an examination and the medical practitioner may thereafter act in accordance with section 9; or
+>> (a)    any medical practitioner for an examination and the medical practitioner may thereafter act in accordance with section 9; or
 
-(b)    any designated medical practitioner at a psychiatric institution and the designated medical practitioner may thereafter act in accordance with section 10.
+>> (b)    any designated medical practitioner at a psychiatric institution and the designated medical practitioner may thereafter act in accordance with section 10.
 
-\[emphasis added in italics\]
+> \[emphasis added in italics\]
 
 50     Section 25 of the MHCTA grants legal protection to persons enforcing the MHCTA. The relevant provisions state:
 
-**Protection of person enforcing Act**
+> **Protection of person enforcing Act**
 
-25(1) Where a person has –-
+> 25(1) Where a person has –-
 
-(a)    Made a request for the reception of any patient, or signed or carried out or done any act with a view to signing or carrying out any report, application, recommendation, or certificate purporting to be a report, application, recommendation or certificate under this Act; or
+>> (a)    Made a request for the reception of any patient, or signed or carried out or done any act with a view to signing or carrying out any report, application, recommendation, or certificate purporting to be a report, application, recommendation or certificate under this Act; or
 
-(b)    done anything under this Act,
+>> (b)    done anything under this Act,
 
-he shall not be liable to any civil or criminal proceedings, whether on the ground of want of jurisdiction or on any other ground, unless he has acted in bad faith or without reasonable care.
+> he shall not be liable to any civil or criminal proceedings, whether on the ground of want of jurisdiction or on any other ground, unless he has acted in bad faith or without reasonable care.
 
-(2)    No proceedings, civil or criminal, shall be brought against any person in any court in respect of any such matter as is mentioned in subsection (1) without the leave of the court, and leave shall not be given unless the court is satisfied that there is substantial ground for the contention that the person, against whom it is sought to bring the proceedings, has acted in bad faith or without reasonable care.
+> (2)    No proceedings, civil or criminal, shall be brought against any person in any court in respect of any such matter as is mentioned in subsection (1) without the leave of the court, and leave shall not be given unless the court is satisfied that there is substantial ground for the contention that the person, against whom it is sought to bring the proceedings, has acted in bad faith or without reasonable care.
 
 51     Three issues were raised by Mr Mah. First, that the applicable standard to be met before leave would be granted required only reasonable suspicion of bad faith or lack of reasonable care. Second, that SSgt Rosli had demonstrated sufficient bad faith or lack of reasonable care to justify granting such leave. And third, that SSgt Lawrence had shown the same. I deal with these in turn.
 
@@ -219,9 +219,9 @@ he shall not be liable to any civil or criminal proceedings, whether on the grou
 
 56     Section 141(2) of the Mental Health Act 1959 states the following:
 
-No civil or criminal proceedings shall be brought against any person in any court in respect of any such act without the leave of the High Court, and the High Court shall not give leave under this section unless satisfied that there is _substantial ground for the contention that the person to be proceeded against has acted in bad faith or without reasonable care_.
+> No civil or criminal proceedings shall be brought against any person in any court in respect of any such act without the leave of the High Court, and the High Court shall not give leave under this section unless satisfied that there is _substantial ground for the contention that the person to be proceeded against has acted in bad faith or without reasonable care_.
 
-\[emphasis added in italics\]
+> \[emphasis added in italics\]
 
 57     Similar to s 25(2) of the MHCTA, s 141(2) of the Mental Health Act 1959 requires “substantial ground” for any contention of bad faith or lack of reasonable care prior to leave being granted. As there was no local decision interpreting s 25(2), English decisions on s 141(2) were useful in considering this threshold requirement.
 
@@ -231,9 +231,9 @@ No civil or criminal proceedings shall be brought against any person in any cour
 
 60     The Mental Health Act 1959 had, however, been amended by the Mental Health Act 1983. Section 139(2) of the Mental Health Act 1983 states:
 
-_No civil proceedings shall be brought against any person in any court in respect of any such act without the leave of the High Court_; and no criminal proceedings shall be brought against any person in any court in respect of any such act except by or with the consent of the Director of Public Prosecutions.
+> _No civil proceedings shall be brought against any person in any court in respect of any such act without the leave of the High Court_; and no criminal proceedings shall be brought against any person in any court in respect of any such act except by or with the consent of the Director of Public Prosecutions.
 
-\[emphasis added in italics\]
+> \[emphasis added in italics\]
 
 61     The key difference between this provision, and the earlier s 141(2) of Mental Health Act 1959 is the fact that the words “substantial ground” were removed. The lower standard espoused in _Winch_, _Seal_ and _TW_ must be seen in the context of this legislative change. This was recognised by the very cases that Mr Mah cited. Parker LJ in _Winch_ noted at 736 that when Parliament “removed the words at the end of the subsection in the Act of 1959, there can be no question but that it was intended that the protection afforded to those purporting to act under the Mental Health Acts should be reduced …”. Similarly, in _Seal_, Baroness Hale of Richmond confirmed at \[47\] that “leave could now be granted without showing substantial grounds for the contention that the defendant had acted in bad faith or without reasonable care …”.
 
@@ -257,7 +257,7 @@ _No civil proceedings shall be brought against any person in any court in respec
 
 68     Mr Mah’s affidavit made the point that he thought the action against SSgt Rosli somewhat self-evident:[^34]
 
-To avoid missing the wood for the trees, I find it imperative to highlight here that as I was definitely sane, and so could not have displayed the symptoms of insanity, Rosli’s apprehending of me is definitely “in bad faith or without reasonable care”. No further analysis is necessary.
+> To avoid missing the wood for the trees, I find it imperative to highlight here that as I was definitely sane, and so could not have displayed the symptoms of insanity, Rosli’s apprehending of me is definitely “in bad faith or without reasonable care”. No further analysis is necessary.
 
 69     Mr Mah concluded, for the reasons he set out, that SSgt Rosli must have lied about the whole incident. Mr Mah’s account was, he had been at Suntec City to collect race packs for the Straits Times Run.[^35] During this time, he did not touch the head or pull the hair of any boy. SSgt Rosli had allegedly lied about Mr Mah’s symptoms of mental disorder; Mr Mah did not tell SSgt Rosli that he was suffering from OCD, he did not spit into a plastic bag, and he did not speak to himself.[^36]
 

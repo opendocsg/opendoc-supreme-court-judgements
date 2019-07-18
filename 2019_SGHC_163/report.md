@@ -31,11 +31,11 @@ Credit and Security – Guarantees and indemnities – Guarantor
 
 4       Mizimegah was incorporated on 3 March 2010, Feasto on 20 December 2011, and SVM on 14 June 2013.[^1] At all material times, SVM was owned equally by Scarlett and Pan, Feasto was wholly owned by Scarlett, and Mizimegah was majority owned by Scarlett. At all material times, Scarlett was the sole director of all three companies. SVM and Mizimegah were set up for purposes of “general wholesale trade” whilst Feasto was set up for purposes of “IT design”. However, it appeared that the companies had little or no business and were used as investment holding companies instead. It was not disputed that
 
-(a)     on 19 September 2012, Feasto bought a unit at 1 Dusun #01-26, One Dusun Residences, Singapore (“the Dusun property”);[^2]
+> (a)     on 19 September 2012, Feasto bought a unit at 1 Dusun #01-26, One Dusun Residences, Singapore (“the Dusun property”);[^2]
 
-(b)     on 17 June 2013, Mizimegah bought a unit at 1 West Coast Drive #01-32 NEWest, Singapore (“the NEWest property”);[^3] and
+> (b)     on 17 June 2013, Mizimegah bought a unit at 1 West Coast Drive #01-32 NEWest, Singapore (“the NEWest property”);[^3] and
 
-(c)     on 18 July 2013, SVM bought a shop unit at 9 King Albert Park #01-44, Singapore (“the KAP property”).[^4]
+> (c)     on 18 July 2013, SVM bought a shop unit at 9 King Albert Park #01-44, Singapore (“the KAP property”).[^4]
 
 5       Scarlett met Pan in October 2012 and the two of them became friends. According to Scarlett, Pan claimed to be an investor with several business opportunities in China and Pan invited Scarlett to join her (Pan’s) business venture in Singapore.[^5] On 9 May 2013, a company known as Redpine Capital Private Limited (“Redpine”) was incorporated for purposes of the business venture. Pan was a director and shareholder.[^6] Scarlett left her then current employment to join Redpine full-time and was appointed as a director of Redpine upon its incorporation.[^7] She was also given shares in Redpine.[^8] Scarlett ceased to be a director and shareholder of Redpine in February 2014.[^9]
 
@@ -43,21 +43,21 @@ Credit and Security – Guarantees and indemnities – Guarantor
 
 7       At the 26 September meeting, several things happened.
 
-(a)     Scarlett and Pan signed a Deed of Guarantee dated 26 September 2013 (“the Guarantee”).[^10] The Guarantee was stated to be in consideration of the plaintiff “advancing to \[SVM\] the sum of S$400,000.00, \[Feasto\] the sum of S$200,000 and to \[Mizimegah\] the sum of S$200,000 … as friendly loans … at \[Scarlett’s and Pan’s\] request”. Under the Guarantee, Scarlett and Pan jointly and severally guaranteed the payment of the loans.
+> (a)     Scarlett and Pan signed a Deed of Guarantee dated 26 September 2013 (“the Guarantee”).[^10] The Guarantee was stated to be in consideration of the plaintiff “advancing to \[SVM\] the sum of S$400,000.00, \[Feasto\] the sum of S$200,000 and to \[Mizimegah\] the sum of S$200,000 … as friendly loans … at \[Scarlett’s and Pan’s\] request”. Under the Guarantee, Scarlett and Pan jointly and severally guaranteed the payment of the loans.
 
-(b)     Scarlett and Pan signed Options to Purchase (“the OTPs”) on behalf of SVM, Feasto and Mizimegah for the KAP property,[^11] the Dusun property[^12] and the NEWest property[^13] respectively. All three OTPs were dated 26 September 2013 and given in favour of the plaintiff. Each OTP was stated to be in consideration of $100 “as Option Fee … and of \[the plaintiff’s\] loan” of $400,000, $200,000 and $200,000 to SVM, Feasto and Mizimegah respectively.
+> (b)     Scarlett and Pan signed Options to Purchase (“the OTPs”) on behalf of SVM, Feasto and Mizimegah for the KAP property,[^11] the Dusun property[^12] and the NEWest property[^13] respectively. All three OTPs were dated 26 September 2013 and given in favour of the plaintiff. Each OTP was stated to be in consideration of $100 “as Option Fee … and of \[the plaintiff’s\] loan” of $400,000, $200,000 and $200,000 to SVM, Feasto and Mizimegah respectively.
 
-(c)     Tang handed the following cheques to Scarlett and Pan:[^14]
+> (c)     Tang handed the following cheques to Scarlett and Pan:[^14]
 
-(i)       UOB cheque no. 517413 for the sum of $400,000 drawn payable to SVM;
+>> (i)       UOB cheque no. 517413 for the sum of $400,000 drawn payable to SVM;
 
-(ii)       UOB cheque no. 517411 for the sum of $200,000 drawn payable to Feasto; and
+>> (ii)       UOB cheque no. 517411 for the sum of $200,000 drawn payable to Feasto; and
 
-(iii)       UOB cheque no. 517412 for the sum of $200,000 drawn payable to Mizimegah.
+>> (iii)       UOB cheque no. 517412 for the sum of $200,000 drawn payable to Mizimegah.
 
-All three cheques were issued by the plaintiff and dated 26 September 2013. According to the plaintiff, these cheques represented the disbursement of the loans which he had orally agreed to give to SVM, Feasto and Mizimegah.
+> All three cheques were issued by the plaintiff and dated 26 September 2013. According to the plaintiff, these cheques represented the disbursement of the loans which he had orally agreed to give to SVM, Feasto and Mizimegah.
 
-(d)     Scarlett handed over the original options to purchase and sale and purchase agreements (signed by SVM, Feasto and Mizimegah when they purchased the properties) and the certificates of stamp duty (collectively, “the Title Deeds”) to Tang, on the understanding that the Title Deeds would be returned upon repayment of the loans in full.
+> (d)     Scarlett handed over the original options to purchase and sale and purchase agreements (signed by SVM, Feasto and Mizimegah when they purchased the properties) and the certificates of stamp duty (collectively, “the Title Deeds”) to Tang, on the understanding that the Title Deeds would be returned upon repayment of the loans in full.
 
 8       Scarlett deposited the three cheques into the respective bank accounts of SVM, Feasto and Mizimegah. Shortly thereafter, the monies were withdrawn from the accounts. According to Scarlett, the monies were withdrawn and handed to Pan in Lester’s presence.
 
@@ -75,11 +75,11 @@ All three cheques were issued by the plaintiff and dated 26 September 2013. Acco
 
 15     By way of three letters dated 20 February 2014, the plaintiff demanded repayment of $400,000, $200,000 and $200,000 from SVM, Feasto and Mizimegah respectively.[^21] Between 24 February 2014 and 2 June 2014, Pan made part payments to the plaintiff on behalf of SVM, Feasto and Mizimegah, amounting to $400,000 in total. The plaintiff applied the repayments proportionally across the three loans to SVM, Feasto and Mizimegah. Accordingly, the balance amounts outstanding were:
 
-(a)     $200,000 from SVM;
+> (a)     $200,000 from SVM;
 
-(b)     $100,000 from Feasto; and
+> (b)     $100,000 from Feasto; and
 
-(c)     $100,000 from Mizimegah.
+> (c)     $100,000 from Mizimegah.
 
 16     By way of a letter dated 9 June 2014 under the letterhead of Tang & Partners, Tang informed Scarlett that Pan had paid $400,000 to the plaintiff, and enclosed copies of the receipts of the payments made by Pan.[^22] The receipts were either in Tang’s name or in his name “for and on behalf of” the plaintiff. In the same letter, Tang asked Scarlett to pay the balance of $400,000 which she had previously received from Pan (see \[12\] above).
 
@@ -91,13 +91,13 @@ All three cheques were issued by the plaintiff and dated 26 September 2013. Acco
 
 19     SVM, Feasto, Mizimegah and Scarlett (together, “the Defendants”) raised four defences:
 
-(a)     The loans to SVM, Feasto and Mizimegah were sham transactions; the true borrower was Pan.
+> (a)     The loans to SVM, Feasto and Mizimegah were sham transactions; the true borrower was Pan.
 
-(b)     The Guarantee should be set aside on the ground of unconscionability.
+> (b)     The Guarantee should be set aside on the ground of unconscionability.
 
-(c)     The Guarantee should be set aside on the ground of _non est factum_.
+> (c)     The Guarantee should be set aside on the ground of _non est factum_.
 
-(d)     The loans and the Guarantee were not enforceable under the Moneylenders Act (Cap 188, 2010 Rev Ed) (“MLA”).
+> (d)     The loans and the Guarantee were not enforceable under the Moneylenders Act (Cap 188, 2010 Rev Ed) (“MLA”).
 
 20     The Defendants’ respective defences could have been clearer but to the extent that they alleged that the OTPs were invalid or unenforceable, that was irrelevant since the plaintiff did not seek to enforce the OTPs in this action. The OTPs remained relevant as evidence of the loans unless Scarlett could prove that she was not aware of their contents. As will be seen below, Scarlett knew what the effect of the OTPs was and she clearly knew that the loans were being given to SVM, Feasto and Mizimegah.
 

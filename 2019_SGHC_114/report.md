@@ -53,7 +53,7 @@ Companies – Directors – Duties
 
 16     The plaintiff subsequently submitted a tender for the Bishopsgate project at a contract sum of approximately $58.5m, which was accepted by Prime on 15 May 2010. The Conditions of Contract for the Bishopsgate project included the following cl 2.3.1:
 
-The Contractor shall not, without the prior Written consent of the Employer, assign this Contract or any part thereof, or any benefit or interest therein or thereunder. The Contractor shall not sub-contract the whole of the design and construction of the Works without the prior consent of the Employer.
+> The Contractor shall not, without the prior Written consent of the Employer, assign this Contract or any part thereof, or any benefit or interest therein or thereunder. The Contractor shall not sub-contract the whole of the design and construction of the Works without the prior consent of the Employer.
 
 17     On 20 May 2010, the plaintiff issued a letter of award to CCM, confirming “acceptance of \[the\] company as the Sub-Contractor to design, carry out, bring to \[completion\] & maintain the proposed condominium housing development … for the sub-contract sum of $51,343,900.00”. According to Mr Lim Soon Hock, the plaintiff’s contracts manager, the difference between the subcontract sum of approximately $51m and the tender price of $58.5m represented the plaintiff’s “profit margin and the costs for providing our management staff and other expenses required for the successful completion of the project.”
 
@@ -63,20 +63,104 @@ The Contractor shall not, without the prior Written consent of the Employer, ass
 
 20     In August 2011, the second defendant emailed the first defendant stating the following:
 
-We were awarded the Bishopsgate Residence project … in May 2010 for S$58.5M by Prime … As we were short-handed during the tendering time, we had invited CCM Industrial Pte Ltd to work on the tender by agreeing to subcontract out majority of the project to them on back-to-back basis if we were awarded.
+> We were awarded the Bishopsgate Residence project … in May 2010 for S$58.5M by Prime … As we were short-handed during the tendering time, we had invited CCM Industrial Pte Ltd to work on the tender by agreeing to subcontract out majority of the project to them on back-to-back basis if we were awarded.
 
-\[…\]
+> \[…\]
 
-Basing on the current progress on site and with the CONQUAS score of 99.2 on structure, \[the plaintiff does\] not have a valid reason to initiate an early termination of CCM’s contract. However, through some in depth negotiations and persuasions, we managed to bring down their expectation and egotism to accept our proposed final settlement as follows:
+> Basing on the current progress on site and with the CONQUAS score of 99.2 on structure, \[the plaintiff does\] not have a valid reason to initiate an early termination of CCM’s contract. However, through some in depth negotiations and persuasions, we managed to bring down their expectation and egotism to accept our proposed final settlement as follows:
 
-<table align="left" cellpadding="0" cellspacing="0" class="Judg-2" frame="none" pgwide="1"><colgroup><col width="70.04%"> <col width="29.96%"> </colgroup><tbody><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Valuation of Work Done upto [<em>sic</em>] Certificate 13 (Final)</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S$16,052,901.58</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Less retention</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S$(1,605,290.17)</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Less Previous Payment</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S$(12,223,214.14)</p></td></tr><tr><td align="left" class="" colspan="2" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Value of Work Done Payable in this Certificate</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>S$2,224,397.37</b></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Deduct Cost Deduction</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S$(1,977,750.87)</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Release of Retention</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S$1,605,290.17</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Deduct Sub-con’s Retention</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S$(350,070.84)</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Compensation/Ex-gratia payment for cessation of complete Site execution and operation as requested by the Client, Inclusive of surrendering all site establishments and loss of Profit and etc.</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S$498,134.17</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Final Net Amount Payable</b></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>S$2,000,000.00</b></p></td></tr></tbody></table>
+>   
+| 
+
+Valuation of Work Done upto \[_sic_\] Certificate 13 (Final)
+
+ | 
+
+S$16,052,901.58
+
+ |
+| 
+
+Less retention
+
+ | 
+
+S$(1,605,290.17)
+
+ |
+| 
+
+Less Previous Payment
+
+ | 
+
+S$(12,223,214.14)
+
+ |
+| 
+
+Value of Work Done Payable in this Certificate
+
+ |
+| 
+
+ | 
+
+**S$2,224,397.37**
+
+ |
+| 
+
+Deduct Cost Deduction
+
+ | 
+
+S$(1,977,750.87)
+
+ |
+| 
+
+Release of Retention
+
+ | 
+
+S$1,605,290.17
+
+ |
+| 
+
+Deduct Sub-con’s Retention
+
+ | 
+
+S$(350,070.84)
+
+ |
+| 
+
+Compensation/Ex-gratia payment for cessation of complete Site execution and operation as requested by the Client, Inclusive of surrendering all site establishments and loss of Profit and etc.
+
+ | 
+
+S$498,134.17
+
+ |
+| 
+
+**Final Net Amount Payable**
+
+ | 
+
+**S$2,000,000.00**
+
+ |
 
   
   
 
-The Management wishes to ensure the Board that we are capable of completing the remaining works of the project within the budgetary cost and this incident will not hit our bottom line of this project. In actual fact, it may be more advantageous to \[the plaintiff\] that we take over the project at this stage to maintain our good relationship with our Client as well as our market reputation in product quality.
+> The Management wishes to ensure the Board that we are capable of completing the remaining works of the project within the budgetary cost and this incident will not hit our bottom line of this project. In actual fact, it may be more advantageous to \[the plaintiff\] that we take over the project at this stage to maintain our good relationship with our Client as well as our market reputation in product quality.
 
-Therefore, we seek the Board’s approval to allow \[the plaintiff\] to enter into this settlement arrangement with CCM soonest possible as the Client has informed \[the plaintiff\] that we will not get our this month progress payment until they receive this letter of undertaking from us.
+> Therefore, we seek the Board’s approval to allow \[the plaintiff\] to enter into this settlement arrangement with CCM soonest possible as the Client has informed \[the plaintiff\] that we will not get our this month progress payment until they receive this letter of undertaking from us.
 
 The first defendant, and the second and third third parties gave their approval for the settlement with CCM proposed in the email. As evident from the above, this settlement was for the sum of $2m, which included outstanding payment for work done and retention sums, as well as a “compensation/ex-gratia payment for cessation of complete Site execution and operation” of $498,134.17. CCM’s involvement with the Bishopsgate project ceased in or around August 2011 after the settlement sum of $2m was paid.
 
@@ -136,15 +220,15 @@ The first defendant, and the second and third third parties gave their approval 
 
 40     The plaintiff’s complaint against the defendants in relation to the Goodwood project appears to be split into the following limbs:
 
-(a)     That the defendants authorised or caused the engagement of a large number of casual labourers—
+> (a)     That the defendants authorised or caused the engagement of a large number of casual labourers—
 
-(i)       at excessive wages; and
+>> (i)       at excessive wages; and
 
-(ii)       without adequate supervision of their work; and
+>> (ii)       without adequate supervision of their work; and
 
-(b)     That the defendants failed to ensure that the original labour subcontractors, which had failed to supply sufficient labour, were back charged for this default; and
+> (b)     That the defendants failed to ensure that the original labour subcontractors, which had failed to supply sufficient labour, were back charged for this default; and
 
-(c)     That the defendants failed to ensure that the plaintiff’s extension of time (“EOT”) claims were submitted on time and properly substantiated.
+> (c)     That the defendants failed to ensure that the plaintiff’s extension of time (“EOT”) claims were submitted on time and properly substantiated.
 
 41     According to the plaintiff, it is standard industry practice that workers be engaged on a per unit basis, _ie_, for the value of work performed rather than for time spent doing the work. Hiring workers on an hourly rate was clearly unfavourable to the plaintiff because workers would not be incentivised to complete their work in a timely manner. Mr Nelson opined that payment of workers on a man-day basis would “only be common for small numbers engaged on ad-hoc duties for flexibility, not the delivery of substantial core works packages”. Although the plaintiff referred to such hourly-rate workers as both “RC workers” and “casual labourers” in its pleaded case and at the trial, I shall refer to them uniformly as “casual labourers” for clarity.
 
@@ -162,11 +246,11 @@ The first defendant, and the second and third third parties gave their approval 
 
 47     In closing submissions, however, the plaintiff takes an expanded view of its case on this point. It submits that the first and second defendants:
 
-(a)     Failed to inform the plaintiff’s board that the Sophia and Goodwood projects presented a serious cash flow problem for the plaintiff;
+> (a)     Failed to inform the plaintiff’s board that the Sophia and Goodwood projects presented a serious cash flow problem for the plaintiff;
 
-(b)     Failed to inform the plaintiff’s board that the Sophia and Goodwood projects were in substantial delay, and that the plaintiff was likely to incur substantial liquidated damages as the developer had rejected the plaintiff’s EOT claims; and
+> (b)     Failed to inform the plaintiff’s board that the Sophia and Goodwood projects were in substantial delay, and that the plaintiff was likely to incur substantial liquidated damages as the developer had rejected the plaintiff’s EOT claims; and
 
-(c)     In so doing, presented a “false picture of financial health” to the plaintiff’s board on or about 27 February 2012.
+> (c)     In so doing, presented a “false picture of financial health” to the plaintiff’s board on or about 27 February 2012.
 
 #### Loss and damage
 
@@ -234,17 +318,17 @@ The first defendant, and the second and third third parties gave their approval 
 
 70     The first defendant in turn brought a claim against the first, second and third third parties (collectively, the “third parties”), alleging that they were liable to contribute on the following bases:
 
-(a)     The third parties failed to take steps towards ensuring that UFS repaid the $12.2m it owed the plaintiff, which contributed towards the plaintiff’s insolvency.
+> (a)     The third parties failed to take steps towards ensuring that UFS repaid the $12.2m it owed the plaintiff, which contributed towards the plaintiff’s insolvency.
 
-(b)     The third parties were involved in key decisions for the plaintiff’s projects and were aware of the plaintiff’s accounting practices; therefore, if the defendants were liable in respect of plaintiff’s claims above, the third parties would likewise be liable. In particular:
+> (b)     The third parties were involved in key decisions for the plaintiff’s projects and were aware of the plaintiff’s accounting practices; therefore, if the defendants were liable in respect of plaintiff’s claims above, the third parties would likewise be liable. In particular:
 
-(i)       The first third party would be liable in respect of the claims in relation to the Sophia project, as he had signed the Conditions of Contract and would have been aware of the underbidding.
+>> (i)       The first third party would be liable in respect of the claims in relation to the Sophia project, as he had signed the Conditions of Contract and would have been aware of the underbidding.
 
-(ii)       The third parties had decided to continue with the existing labour arrangements for the Goodwood project at the plaintiff’s board meeting on 22 October 2012; they would therefore also be liable in respect of the hiring of casual labourers.
+>> (ii)       The third parties had decided to continue with the existing labour arrangements for the Goodwood project at the plaintiff’s board meeting on 22 October 2012; they would therefore also be liable in respect of the hiring of casual labourers.
 
-(iii)       The first third party signed the tender for the Bishopsgate project prior to its submission; he would therefore have knowledge of and be liable for the total subcontract.
+>> (iii)       The first third party signed the tender for the Bishopsgate project prior to its submission; he would therefore have knowledge of and be liable for the total subcontract.
 
-(c)     After the third parties removed the defendants from the plaintiff’s management, the third parties took over management of the plaintiff and mismanaged the plaintiff’s projects, such as by failing to make EOT claims. The third parties also applied to place the plaintiff in JM in a negligent manner, without considering the impact of the JM on the plaintiff’s business and the possible alternatives to JM, which included the first defendant’s expressed interest to purchase the plaintiff. This was because of their conflicting interest in wanting to secure the reverse takeover of UFS. These actions prevented the plaintiff from avoiding insolvency.
+> (c)     After the third parties removed the defendants from the plaintiff’s management, the third parties took over management of the plaintiff and mismanaged the plaintiff’s projects, such as by failing to make EOT claims. The third parties also applied to place the plaintiff in JM in a negligent manner, without considering the impact of the JM on the plaintiff’s business and the possible alternatives to JM, which included the first defendant’s expressed interest to purchase the plaintiff. This was because of their conflicting interest in wanting to secure the reverse takeover of UFS. These actions prevented the plaintiff from avoiding insolvency.
 
 71     In his closing submissions, the first defendant also alleges that the third parties’ failure to consult key stakeholders prior to placing the plaintiff in JM undermined its prospects of survival.
 
@@ -258,27 +342,27 @@ The first defendant, and the second and third third parties gave their approval 
 
 74     The following issues thus arise for my determination:
 
-(a)     In relation to the Sophia project, whether the first and second defendants had breached their duties to the plaintiff in tendering for the Sophia project at a price of $115.84m;
+> (a)     In relation to the Sophia project, whether the first and second defendants had breached their duties to the plaintiff in tendering for the Sophia project at a price of $115.84m;
 
-(b)     In relation to the Bishopsgate project, whether the plaintiff had wholly subcontracted the project to CCM, and whether the first and second defendants had breached their duties to the plaintiff in allowing or causing the plaintiff to do so;
+> (b)     In relation to the Bishopsgate project, whether the plaintiff had wholly subcontracted the project to CCM, and whether the first and second defendants had breached their duties to the plaintiff in allowing or causing the plaintiff to do so;
 
-(c)     In relation to the Goodwood project, whether the defendants had breached their duties to the plaintiff by:
+> (c)     In relation to the Goodwood project, whether the defendants had breached their duties to the plaintiff by:
 
-(i)       Allowing or causing the plaintiff to hire casual labourers at an excessive and/or improper wage, and/or failing to adequately supervise their work;
+>> (i)       Allowing or causing the plaintiff to hire casual labourers at an excessive and/or improper wage, and/or failing to adequately supervise their work;
 
-(ii)       Failing to ensure that the labour subcontractors were back charged for their inadequate supply of labour; and
+>> (ii)       Failing to ensure that the labour subcontractors were back charged for their inadequate supply of labour; and
 
-(iii)       Failing to ensure that EOT claims for the project were properly made;
+>> (iii)       Failing to ensure that EOT claims for the project were properly made;
 
-(d)     In relation to all three projects, whether the first and second defendants had breached their duties by concealing the losses incurred by the plaintiff;
+> (d)     In relation to all three projects, whether the first and second defendants had breached their duties by concealing the losses incurred by the plaintiff;
 
-(e)     Whether the first defendant had breached his duties to the plaintiff by buying the Goodwood unit; and
+> (e)     Whether the first defendant had breached his duties to the plaintiff by buying the Goodwood unit; and
 
-(f)     If there has been a breach in respect of any of the above claims—
+> (f)     If there has been a breach in respect of any of the above claims—
 
-(i)       What loss was caused to and is recoverable by the plaintiff for each breach; and
+>> (i)       What loss was caused to and is recoverable by the plaintiff for each breach; and
 
-(ii)       Whether the third parties are liable for contribution in respect of the defendants’ liability.
+>> (ii)       Whether the third parties are liable for contribution in respect of the defendants’ liability.
 
 ## My decision
 
@@ -300,15 +384,15 @@ The first defendant, and the second and third third parties gave their approval 
 
 82     On the first question, a number of figures for the projected cost surfaced during the trial. I should point out that it is not entirely clear whether the numbers advanced were projected costs or proposed contract prices, but for the purposes of the present analysis I have assumed that they were projected costs figures:
 
-(a)     $134,224,378.24, being the “estimated contract sum” stated in a preliminary costing document, which was struck through by hand and replaced with $120m;
+> (a)     $134,224,378.24, being the “estimated contract sum” stated in a preliminary costing document, which was struck through by hand and replaced with $120m;
 
-(b)     $120,801,940.41, being the “estimated contract sum” stated in a revised preliminary costing document;
+> (b)     $120,801,940.41, being the “estimated contract sum” stated in a revised preliminary costing document;
 
-(c)     $116,957,400.75, being the projected cost in the bill of quantities (“BQ”) which was prepared by the plaintiff’s team of quantity surveyors, technical staff and contract managers, including Ms Gao and the plaintiff’s ex-contracts manager Ms Goh Mee Sing (“Ms Goh”);
+> (c)     $116,957,400.75, being the projected cost in the bill of quantities (“BQ”) which was prepared by the plaintiff’s team of quantity surveyors, technical staff and contract managers, including Ms Gao and the plaintiff’s ex-contracts manager Ms Goh Mee Sing (“Ms Goh”);
 
-(d)     $111,238,944.22, being the reduced projected cost in the BQ following discussions between the second defendant, third defendant, and Ms Goh; and
+> (d)     $111,238,944.22, being the reduced projected cost in the BQ following discussions between the second defendant, third defendant, and Ms Goh; and
 
-(e)     $112.8m, being the calculated projected cost based on a tender price of $120m with a 6% profit margin.
+> (e)     $112.8m, being the calculated projected cost based on a tender price of $120m with a 6% profit margin.
 
 83     According to the second defendant, the tender price of $120m “with a 6% margin” initially approved by UFS’s board was calculated by him on the basis of the projected cost of approximately $111m (\[82(d)\] above). Clearly, this calculation was far from precise. Indeed, the price of $120m with a 6% margin implies that the projected cost was about $112.8m (_ie_, \[82(e)\] above), which formed the basis of the first defendant’s pleaded case. Nevertheless, whether the projected cost is taken as $111m or $112.8m, the point remains that the tender price of $115.84m would be a profitable bid, albeit not by much.
 
@@ -368,17 +452,17 @@ The first defendant, and the second and third third parties gave their approval 
 
 107    The plaintiff relies on a wide range of alleged facts in support of its claim that the defendants failed to adequately supervise (or ensure the supervision of) the additional labourers:
 
-(a)     There were no deployment plans or productivity records for the labourers – the third defendant’s assertion that he had prepared deployment plans was false;
+> (a)     There were no deployment plans or productivity records for the labourers – the third defendant’s assertion that he had prepared deployment plans was false;
 
-(b)     Instead, the labourers were verbally assigned to works on site, resulting in skilled labourers doing unskilled labour;
+> (b)     Instead, the labourers were verbally assigned to works on site, resulting in skilled labourers doing unskilled labour;
 
-(c)     Daily site meetings did not occur until June 2012 – the third defendant’s assertion that he had always held daily site meetings was false;
+> (c)     Daily site meetings did not occur until June 2012 – the third defendant’s assertion that he had always held daily site meetings was false;
 
-(d)     Instead of an actual record of work done by labourers, the plaintiff paid them solely based on their attendance as recorded in worker cards blindly signed by site managers or supervisors;
+> (d)     Instead of an actual record of work done by labourers, the plaintiff paid them solely based on their attendance as recorded in worker cards blindly signed by site managers or supervisors;
 
-(e)     As a result, subcontractors were frequently claiming for more workers than were actually on site; and
+> (e)     As a result, subcontractors were frequently claiming for more workers than were actually on site; and
 
-(f)     The first and second defendants should have supervised the third defendant more closely because of his fractious relationship with the second defendant and his past questionable labour management, especially after they became aware of labour cost overruns.
+> (f)     The first and second defendants should have supervised the third defendant more closely because of his fractious relationship with the second defendant and his past questionable labour management, especially after they became aware of labour cost overruns.
 
 108    In response to \[107(a)\], the third defendant insisted in his testimony that the plaintiff had monthly and weekly “master plans” for labour deployment, from which he extracted daily plans. No such documents appear in the evidence, although it is Mr See’s expert evidence that the master plans themselves must have existed. I do not have reason to disbelieve the third defendant. In any event, I am not convinced that the lack of _written_ daily plans for labour deployment would by itself be enough to conclude that the third defendant had breached his duty to the plaintiff. The burden is still on the plaintiff to show that there was inadequate supervision because of the absence of a daily plan. In any case, the third defendant’s evidence is that he held (i) a daily site walk at 9 am with subcontractors’ supervisors to brief them on what they needed to achieve within the day; (ii) a daily site meeting at 11 am to brief “zone supervisors” who have responsibility for specific areas in the site; and (iii) a daily site walk at 5 pm with subcontractors’ supervisors to check on their progress, at which the third defendant would admonish them if they had failed to achieve their targets from the 9 am site walk.
 
@@ -444,17 +528,17 @@ The first defendant, and the second and third third parties gave their approval 
 
 133    In _Regal (Hastings), Ltd v Gulliver and others_ <span class="citation">\[1967\] 2 AC 134</span> (“_Regal (Hastings)_”), directors of the plaintiff company, Regal, incorporated a subsidiary to acquire two cinemas. The landlord was prepared to lease the two cinemas, but on condition that the lessee had a paid-up capital of £5,000. The plan was for Regal to own all the shares of its subsidiary, but it was unable to raise the full sum. As part of the directors’ solution to this problem, four of the directors subscribed to the shares of the subsidiary for £500 each. Subsequently, all the shares of the subsidiary were sold at a profit. The House of Lords held that the four directors were liable to repay their profits on the sale of their shares to Regal on account of the no-profit rule. Lord Russell of Killowen, with whom the other members of the House agreed, held (at 149):
 
-… \[T\]he directors standing in a fiduciary relationship to Regal in regard to the exercise of their powers as directors, and _having obtained these shares by reason and only by reason of the fact that they were directors_ of Regal and **_in the course of the execution of that office_**, are accountable for the profits which they have made out of them. … \[emphasis added\]
+> … \[T\]he directors standing in a fiduciary relationship to Regal in regard to the exercise of their powers as directors, and _having obtained these shares by reason and only by reason of the fact that they were directors_ of Regal and **_in the course of the execution of that office_**, are accountable for the profits which they have made out of them. … \[emphasis added\]
 
 134    In the same passage, Lord Russell rejected the argument that the no-profit rule did not apply when the company itself was unable to take up the opportunity. Lord Russell also called “\[t\]he suggestion that the directors were applying simply as members of the public” “a travesty of the facts” (at 150). This finding arose from the sequence of events in that case: in essence, since the plan for the directors to personally subscribe for shares was an alteration of Regal’s original plan for its subsidiary, only Regal’s directors _qua_ directors could have carried such an alteration into effect (at 145–146).
 
 135    In Singapore, the rule in _Regal (Hastings)_ was applied by the High Court in _Nordic International Ltd v Morten Innhaug_ <span class="citation">\[2017\] 3 SLR 957</span>. At \[54\], the High Court held:
 
-The no-profit rule obliges a director not to retain any profit which he has made through the use of the company’s property, _information or opportunities to which he has access by virtue of being a director_, without the fully informed consent of the company. The rule is … a strict one and liability to account arises simply because profits are made … \[emphasis added\]
+> The no-profit rule obliges a director not to retain any profit which he has made through the use of the company’s property, _information or opportunities to which he has access by virtue of being a director_, without the fully informed consent of the company. The rule is … a strict one and liability to account arises simply because profits are made … \[emphasis added\]
 
 136    This formulation of the principle was cited by the Court of Appeal in _Beyonics_ at \[51\]. In _Beyonics_, the defendant was the plaintiff’s director when he signed agreements to provide assistance to the plaintiff’s main competitors in securing contracts from one of the plaintiff’s key customers. The Court of Appeal emphasised that it was immaterial that the payments under these agreements were not made to him _qua_ the plaintiff’s director (at \[54\]):
 
-… \[P\]ayments that flout the no-profit rule need not strictly flow to the fiduciary _qua_ director. Instead, the profit merely has to be obtained _in connection_ with his position as a director … or “by reason or in virtue of the fiduciary office” … \[emphasis in original\]
+> … \[P\]ayments that flout the no-profit rule need not strictly flow to the fiduciary _qua_ director. Instead, the profit merely has to be obtained _in connection_ with his position as a director … or “by reason or in virtue of the fiduciary office” … \[emphasis in original\]
 
 137    In the same passage, the Court of Appeal pointed out that the opportunity to make the secret profit came to the defendant because he was the plaintiff’s director. He had acted in that capacity when he met the customer and presented his case for the customer to award a grant to the competitor. Likewise, he was acting in the same capacity when he met the competitor to negotiate a payment in return for his assistance to redirect the customer to the competitor.
 

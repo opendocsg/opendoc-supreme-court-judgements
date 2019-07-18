@@ -58,15 +58,15 @@ Companies – Winding up – Stay of execution pending appeal
 
 16     In February 2014, Wellness and Manoj commenced Suit No 187 of 2014 against OSIM, Paris and the directors of TWG Tea (“Suit 187”). Wellness’ claim was for minority oppression, conspiracy to injure and breach of contract whilst Manoj’s claim was for conspiracy to injure. Among other things, Wellness and Manoj alleged that OSIM, Ron Sim and the directors of OSIM, Paris and TWG Tea acted wrongfully to enable OSIM to take control of TWG Tea through the following acts, among others:
 
-(a)     OSIM’s exercise of its rights under the Profit Swing Clause to obtain an additional 10% of TWG Tea shares from Wellness and Paris; and
+> (a)     OSIM’s exercise of its rights under the Profit Swing Clause to obtain an additional 10% of TWG Tea shares from Wellness and Paris; and
 
-(b)     Ron Sim’s proposal and OSIM’s and Paris’ approval of the TWG Tea Rights Issue, which was, _inter alia_, not for commercial reasons and intended to dilute Wellness’ shareholding.
+> (b)     Ron Sim’s proposal and OSIM’s and Paris’ approval of the TWG Tea Rights Issue, which was, _inter alia_, not for commercial reasons and intended to dilute Wellness’ shareholding.
 
 17     On 22 April 2016, I dismissed the claims in Suit 187 – see _The Wellness Group Pte Ltd and another v OSIM International Ltd and others_ <span class="citation">\[2016\] 3 SLR 729</span>. Among other things, I found as follows (at \[95\], \[107\] and \[200\]):
 
-(a)     OSIM did not cause TWG Tea’s failure to meet the performance target in the Profit Swing Clause and OSIM was entitled to exercise its rights under that clause. TWG Tea failed to achieve its project profit target for FY2013 because the profit projections presented by Manoj were (as Manoj knew) unreliable.
+> (a)     OSIM did not cause TWG Tea’s failure to meet the performance target in the Profit Swing Clause and OSIM was entitled to exercise its rights under that clause. TWG Tea failed to achieve its project profit target for FY2013 because the profit projections presented by Manoj were (as Manoj knew) unreliable.
 
-(b)     The Rights Issue was undertaken _bona fide_ and for good commercial reasons.
+> (b)     The Rights Issue was undertaken _bona fide_ and for good commercial reasons.
 
 18     Wellness’ appeal in Civil Appeal No 64 of 2016 (“CA 64”) was dismissed by the Court of Appeal on 25 October 2016.
 
@@ -80,23 +80,23 @@ Companies – Winding up – Stay of execution pending appeal
 
 20     Under ss 254(1)(_f_) and 254(1)(_i_) of the Companies Act,
 
-(1)    The Court may order the winding up if ––
+> (1)    The Court may order the winding up if ––
 
-…
+>> …
 
-(_f_)    the directors have acted in the affairs of the company in their own interests rather than in the interests of the members as a whole, or in any other manner whatever which appears to be unfair or unjust to other members;
+>> (_f_)    the directors have acted in the affairs of the company in their own interests rather than in the interests of the members as a whole, or in any other manner whatever which appears to be unfair or unjust to other members;
 
-…
+>> …
 
-(_i_)    the Court is of the opinion that it is just and equitable that the company be wound up;
+>> (_i_)    the Court is of the opinion that it is just and equitable that the company be wound up;
 
-…
+>> …
 
 21     The law was not in dispute. With respect to s 254(1)(_f_):
 
-(a)     the directors are not acting in the interests of the members as a whole if they are seen not to have been acting in the interests of all the members; and
+> (a)     the directors are not acting in the interests of the members as a whole if they are seen not to have been acting in the interests of all the members; and
 
-(b)     the words “unfair and unjust” refer to commercial morality or integrity which the law ought to uphold or sustain having regard to all the circumstances.
+> (b)     the words “unfair and unjust” refer to commercial morality or integrity which the law ought to uphold or sustain having regard to all the circumstances.
 
 See _Re HL Sensecurity Pte Ltd (formerly known as HL Integral Systems Pte Ltd)_ <span class="citation">\[2006\] SGHC 135</span> at \[28\].
 
@@ -110,9 +110,9 @@ See _Re HL Sensecurity Pte Ltd (formerly known as HL Integral Systems Pte Ltd)_ 
 
 24     Wellness’ auditors had qualified the company’s accounts for FY2010 on the basis that:[^4]
 
-(a)     they were not able to examine the accompanying financial statements of Wellness for FY2010 because Wellness had not maintained proper accounting records and no adequate supporting documents were made available to the auditors for inspection; and
+> (a)     they were not able to examine the accompanying financial statements of Wellness for FY2010 because Wellness had not maintained proper accounting records and no adequate supporting documents were made available to the auditors for inspection; and
 
-(b)     they had not been able to obtain all the relevant information and explanations they considered necessary for the purpose of their audit.
+> (b)     they had not been able to obtain all the relevant information and explanations they considered necessary for the purpose of their audit.
 
 25     Wellness’ auditors had also qualified the company’s accounts for FY2009 on the same basis.[^5]
 
@@ -122,29 +122,29 @@ See _Re HL Sensecurity Pte Ltd (formerly known as HL Integral Systems Pte Ltd)_ 
 
 28     Although Dr Finian Tan was a director of Wellness, it was clear that the affairs of Wellness were managed by Manoj. In any event, the fact that Dr Finian Tan was also a director of Wellness was irrelevant insofar as EQ Capital was concerned. The failure to hold AGMs, file annual returns, keep proper accounts records, and send audited financial statements to Wellness’ shareholders, caused Wellness to breach:
 
-(a)     ss 175, 197, 199 and 203 of the Companies Act, and exposed Wellness to penalties;
+> (a)     ss 175, 197, 199 and 203 of the Companies Act, and exposed Wellness to penalties;
 
-(b)     the SHA, which required Wellness to:[^6]
+> (b)     the SHA, which required Wellness to:[^6]
 
-(i)       maintain accurate and complete accounting records;
+>> (i)       maintain accurate and complete accounting records;
 
-(ii)       keep its accounts in accordance with generally accepted accounting principles;
+>> (ii)       keep its accounts in accordance with generally accepted accounting principles;
 
-(iii)       have its accounts audited annually; and
+>> (iii)       have its accounts audited annually; and
 
-(iv)       submit its audited accounts to the board of directors in any case not later than 90 days from the end of the relevant financial year (_ie_, 31 March of each calendar year); and
+>> (iv)       submit its audited accounts to the board of directors in any case not later than 90 days from the end of the relevant financial year (_ie_, 31 March of each calendar year); and
 
-(c)     Wellness’ Articles of Association,[^7] which required:
+> (c)     Wellness’ Articles of Association,[^7] which required:
 
-(i)       AGMs to be held at least once in every calendar year (Articles 73 and 74);
+>> (i)       AGMs to be held at least once in every calendar year (Articles 73 and 74);
 
-(ii)       the directors to cause true accounts to be kept (Article 153);
+>> (ii)       the directors to cause true accounts to be kept (Article 153);
 
-(iii)       the directors to lay a profit and loss account and a balance sheet before the company at its AGM at least once in every calendar year (Article 155);
+>> (iii)       the directors to lay a profit and loss account and a balance sheet before the company at its AGM at least once in every calendar year (Article 155);
 
-(iv)       a balance sheet to be made out in every year and laid before the company in general meeting and a copy of the balance sheet together with the auditors’ report to be sent to its shareholders at least 14 days prior to the date of the AGM (Articles 156 and 157); and
+>> (iv)       a balance sheet to be made out in every year and laid before the company in general meeting and a copy of the balance sheet together with the auditors’ report to be sent to its shareholders at least 14 days prior to the date of the AGM (Articles 156 and 157); and
 
-(v)       Wellness’ accounts to be examined by auditors at least once in every year (Article 158).
+>> (v)       Wellness’ accounts to be examined by auditors at least once in every year (Article 158).
 
 #### Taking loans from Sunbreeze
 
@@ -222,25 +222,25 @@ See _Re HL Sensecurity Pte Ltd (formerly known as HL Integral Systems Pte Ltd)_ 
 
 55     More importantly, an auditor certifying the fair value of EQ Capital’s shares pursuant to the company’s Articles of Association, would not be equipped to decide whether Manoj and/or Kanchan should be held liable to compensate Wellness for:
 
-(a)     the dilutions caused by the Profit Swing Clause and the failure to subscribe to the Rights Issue; or
+> (a)     the dilutions caused by the Profit Swing Clause and the failure to subscribe to the Rights Issue; or
 
-(b)     the costs incurred by Wellness in commencing Suit 187 and appealing to the Court of Appeal; or
+> (b)     the costs incurred by Wellness in commencing Suit 187 and appealing to the Court of Appeal; or
 
-(c)     causing Wellness to assume Manoj’s personal liability for the legal costs in connection with Suit 187 (and the appeal) and Suit 545; or
+> (c)     causing Wellness to assume Manoj’s personal liability for the legal costs in connection with Suit 187 (and the appeal) and Suit 545; or
 
-(d)     the excess remuneration paid to Manoj in breach of the SHA.
+> (d)     the excess remuneration paid to Manoj in breach of the SHA.
 
 56     I disagreed with Wellness’ submission that the auditor acting as an expert could decide whether Manoj and/or Kanchan should be held liable to compensate Wellness for the above matters. The auditor would be acting as an expert for purposes of certifying the fair value of the shares; he was not an arbitrator or judge. He would have no power to decide whether any party should be held liable for legal wrongs. In this case, this limitation was made even clearer by Article 48 of Wellness’ Articles of Association, which embodied the parties’ agreement that in certifying the fair value, “the auditor shall be considered to be acting as an expect \[_sic_\] and not as an arbitrator”.[^30]
 
 57     Wellness, Manoj and Kanchan offered the following undertakings to “aid the auditor … to ascertain Wellness’ true financial position”:
 
-(a)     Wellness offered to undertake to the Court to permit the auditor to inspect all the books and papers of Wellness in its possession, custody or control that may be requested by the auditor.
+> (a)     Wellness offered to undertake to the Court to permit the auditor to inspect all the books and papers of Wellness in its possession, custody or control that may be requested by the auditor.
 
-(b)     Manoj and Kanchan offered to undertake to the Court to
+> (b)     Manoj and Kanchan offered to undertake to the Court to
 
-(i)       permit the auditor to inspect all the books and papers of Wellness or relating to Wellness in their possession, custody or control that may be requested by the auditor; and
+>> (i)       permit the auditor to inspect all the books and papers of Wellness or relating to Wellness in their possession, custody or control that may be requested by the auditor; and
 
-(ii)       consent to be examined by the auditor on oath to give information concerning the promotion, formation, trade dealings, affairs or property of Wellness, such examination to be held before a Judge in Chambers if the Court so directs.
+>> (ii)       consent to be examined by the auditor on oath to give information concerning the promotion, formation, trade dealings, affairs or property of Wellness, such examination to be held before a Judge in Chambers if the Court so directs.
 
 58     In my view, these undertakings did not address the concerns that I had. First, given the circumstances of the present case where, as I have found, Manoj had treated the company and its funds as his own, it was important that an independent party took custody and control of the company’s property. A liquidator could do this under s 269(1) of the Companies Act; the auditor appointed to value the company could not. In my view, it was not appropriate to let Manoj and Kanchan remain in control of Wellness. It was important that a liquidator took control of the company. The powers of the directors will cease when the court orders the winding up of the company: _Walter Woon on Company Law_, at para 17.122.
 
@@ -254,11 +254,11 @@ See _Re HL Sensecurity Pte Ltd (formerly known as HL Integral Systems Pte Ltd)_ 
 
 62     I agreed with EQ Capital that it was entitled to take the view that the 9 May 2018 offer did not reflect a fair value.
 
-(a)     First, Sunbreeze, Manoj and Kanchan were relying on a valuation of Wellness’ stake in TWG Tea that was by then, a year old.
+> (a)     First, Sunbreeze, Manoj and Kanchan were relying on a valuation of Wellness’ stake in TWG Tea that was by then, a year old.
 
-(b)     Second, the valuation had been done on a net tangible assets (“NTA”) basis for purposes of a Post Hearing Information Pack submitted by V3 Group Limited (OSIM’s holding company) in September 2017 in accordance with the requirements for listing on the Stock Exchange of Hong Kong.[^31] It did not necessarily reflect the fair value of Wellness’ shares in TWG Tea. The NTA was but one of the ways in which the shares could have been valued.
+> (b)     Second, the valuation had been done on a net tangible assets (“NTA”) basis for purposes of a Post Hearing Information Pack submitted by V3 Group Limited (OSIM’s holding company) in September 2017 in accordance with the requirements for listing on the Stock Exchange of Hong Kong.[^31] It did not necessarily reflect the fair value of Wellness’ shares in TWG Tea. The NTA was but one of the ways in which the shares could have been valued.
 
-(c)     Third, the 9 May 2018 offer did not consider whether Manoj and/or Kanchan should be held liable to compensate Wellness in connection with the various matters referred to in \[56\] above.
+> (c)     Third, the 9 May 2018 offer did not consider whether Manoj and/or Kanchan should be held liable to compensate Wellness in connection with the various matters referred to in \[56\] above.
 
 63     I concluded therefore that Sunbreeze’s buy-out offer did not represent a fair exit for EQ Capital.
 

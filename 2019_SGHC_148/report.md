@@ -31,23 +31,23 @@ Damages – Assessment
 
 10     I award the plaintiff a sum of $9,804.80 for his future medical expenses. This consists of the following:
 
-(a)     $2,364.80 for consultations with a Hand & Reconstructive Microsurgery Specialist at the National University Hospital. Dr Lee Soon Tai, the plaintiff’s expert witness, opines that follow-up consultations are necessary, as the plaintiff has undergone a traumatising reconstruction surgery and it is necessary to monitor the pain and discomfort the plaintiff is experiencing. On the contrary, Dr Chang Wei Chun, the defendant’s expert witness, believes that the plaintiff does not require any further consultation since he has undergone all the necessary procedures. After a reconstruction surgery, it may be in the plaintiff’s best interest to periodically monitor the pain and numbness in his arm. I observed at the hearing on 20 March 2019, that the plaintiff was constantly clutching his right arm, seemingly in pain. I accept Dr Lee’s proposal of two consultations per year for a period of ten years at an average cost of $118.24 per visit.
+> (a)     $2,364.80 for consultations with a Hand & Reconstructive Microsurgery Specialist at the National University Hospital. Dr Lee Soon Tai, the plaintiff’s expert witness, opines that follow-up consultations are necessary, as the plaintiff has undergone a traumatising reconstruction surgery and it is necessary to monitor the pain and discomfort the plaintiff is experiencing. On the contrary, Dr Chang Wei Chun, the defendant’s expert witness, believes that the plaintiff does not require any further consultation since he has undergone all the necessary procedures. After a reconstruction surgery, it may be in the plaintiff’s best interest to periodically monitor the pain and numbness in his arm. I observed at the hearing on 20 March 2019, that the plaintiff was constantly clutching his right arm, seemingly in pain. I accept Dr Lee’s proposal of two consultations per year for a period of ten years at an average cost of $118.24 per visit.
 
-(b)     $1,000 for analgesia. Dr Lee opines that the plaintiff needs analgesia for a total of five years at an average cost of $30 to $60 per month. Dr Chang agreed that the plaintiff requires analgesia, but only at $100 per year for five years from when he returned to Bangladesh. The plaintiff is now living in Bangladesh and will likely be purchasing analgesia there. I award the plaintiff a sum of $1,000 calculated at an annual cost of $100 for ten years.
+> (b)     $1,000 for analgesia. Dr Lee opines that the plaintiff needs analgesia for a total of five years at an average cost of $30 to $60 per month. Dr Chang agreed that the plaintiff requires analgesia, but only at $100 per year for five years from when he returned to Bangladesh. The plaintiff is now living in Bangladesh and will likely be purchasing analgesia there. I award the plaintiff a sum of $1,000 calculated at an annual cost of $100 for ten years.
 
-(c)     Dr Lee is of the view that the plaintiff requires Gabapentin, Tramadol and Warfarin for 24 years at an average cost of $3.50 per day. Dr Chang opines that these medications are unnecessary since they fall into the same category as analgesia. I accept Dr Chang’s opinion that there is no necessity for these other painkillers.
+> (c)     Dr Lee is of the view that the plaintiff requires Gabapentin, Tramadol and Warfarin for 24 years at an average cost of $3.50 per day. Dr Chang opines that these medications are unnecessary since they fall into the same category as analgesia. I accept Dr Chang’s opinion that there is no necessity for these other painkillers.
 
-(d)     $1,760 for hand occupational therapy. Dr Lee opines that the plaintiff requires twenty sessions (at ten sessions per course) of hand occupational therapy at $105.90 per session for the next five years, while Dr Chang demurs and states that the plaintiff only requires ten sessions (one course) at $70 per session. I am of the view that it is in the plaintiff’s best interest to undergo two courses of hand occupational therapy, and award the plaintiff a sum of $1,760 calculated at an average cost of $88 per session for 20 sessions.
+> (d)     $1,760 for hand occupational therapy. Dr Lee opines that the plaintiff requires twenty sessions (at ten sessions per course) of hand occupational therapy at $105.90 per session for the next five years, while Dr Chang demurs and states that the plaintiff only requires ten sessions (one course) at $70 per session. I am of the view that it is in the plaintiff’s best interest to undergo two courses of hand occupational therapy, and award the plaintiff a sum of $1,760 calculated at an average cost of $88 per session for 20 sessions.
 
-(e)     $4,680 for the removal of deep implants from the plaintiff’s upper limb and post-operative hand occupational therapy. Dr Lee believes that the plaintiff’s deep implants should be removed to allow the bones to heal and strengthen over time. On the contrary, Dr Chang asserts that such a removal may result in another fracture, and the deep implants should remain to strengthen the bone. In the light of the contradicting expert opinions, it may perhaps be best to err on the safe side and I award the plaintiff a sum of $4,680 for the removal of his implants and post-operative hand occupational therapy.
+> (e)     $4,680 for the removal of deep implants from the plaintiff’s upper limb and post-operative hand occupational therapy. Dr Lee believes that the plaintiff’s deep implants should be removed to allow the bones to heal and strengthen over time. On the contrary, Dr Chang asserts that such a removal may result in another fracture, and the deep implants should remain to strengthen the bone. In the light of the contradicting expert opinions, it may perhaps be best to err on the safe side and I award the plaintiff a sum of $4,680 for the removal of his implants and post-operative hand occupational therapy.
 
 11     The next claim is for future transport expenses. Mr Srinivasan and Mr Ramasamy submits a sum of $1,000 and $100 respectively. It is expected that transport expenses will be incurred, but the mode and frequency, not to mention the exact charges are not easy to determine. I think that $1000 is probably too high, and $100, too low. Accordingly, I award the plaintiff a sum of $500 for his future transport expenses.
 
 12     The last claim for general damages is for the loss of earning capacity. As enunciated by the Court of Appeal in _Mykytowych, Pamela Jane v V I P Hotel_ <span class="citation">\[2016\] 4 SLR 829</span> (“_Pamela Jane_”) at \[139\] and \[140\]:
 
-\[139\] … \[T\]he test to be applied in determining whether to make any award for loss of future earning capacity is whether there is a real risk that the plaintiff will be at a disadvantage in the open employment market because of the injury sustained in the accident.
+> \[139\] … \[T\]he test to be applied in determining whether to make any award for loss of future earning capacity is whether there is a real risk that the plaintiff will be at a disadvantage in the open employment market because of the injury sustained in the accident.
 
-\[140\] … An award for loss of future earning capacity is given as part of general damages in order to compensate a plaintiff for the weakening of his competitive position in the open labour market …
+> \[140\] … An award for loss of future earning capacity is given as part of general damages in order to compensate a plaintiff for the weakening of his competitive position in the open labour market …
 
 Mr Srinivasan submits that a sum of $220,000 should be awarded since the plaintiff is unable to continue his employment in his pre-accident vocation. Mr Ramasamy demurs and submits that no award should be made since the plaintiff has failed to adduce any evidence as to how he would be handicapped or forced into the labour market in Bangladesh. The plaintiff was a skilled worker in the manufacturing industry until the accident where he lost the function and mobility of his right arm, and continues to suffer from a deformed, angulated and shortened dominant right arm. It is clear that the plaintiff is no longer able to meet the physical demands required as a skilled manual labour, and is at a disadvantage in the labour market in Bangladesh. Both Dr Lee and Dr Chang also agreed that the plaintiff is not fit for employment for any manual work. I therefore award the plaintiff a sum of $36,000 for his loss of future earning capacity in Bangladesh. This is calculated at a rate of $500 per month over a period of six years. I will subsequently deal with the plaintiff’s claim for his loss of future income in Singapore, which is a claim under special damages.
 
@@ -63,19 +63,19 @@ Mr Srinivasan submits that a sum of $220,000 should be awarded since the plainti
 
 18     I held that the plaintiff was 50% contributory negligent and he is hence entitled to a total sum of $164,765.87 (50% x $329,531.73). I recapitulate my findings below:
 
-(a)     $107,000 for pain and suffering;
+> (a)     $107,000 for pain and suffering;
 
-(b)     $9,804.80 for future medical expenses;
+> (b)     $9,804.80 for future medical expenses;
 
-(c)     $500 for future transport expenses;
+> (c)     $500 for future transport expenses;
 
-(d)     $36,000 for loss of future earning capacity;
+> (d)     $36,000 for loss of future earning capacity;
 
-(e)     $50,559.09 for pre-trial loss of earnings;
+> (e)     $50,559.09 for pre-trial loss of earnings;
 
-(f)     $300 for transport expenses; and
+> (f)     $300 for transport expenses; and
 
-(g)     $125,367.84 for loss of future earnings.
+> (g)     $125,367.84 for loss of future earnings.
 
 19     The defendant has paid the plaintiff a total of $166,345.51 for his medical expenses, as well as medical leave wages of $12,083.61. The latter has already been taken into account at \[13\] above. In _Alam Jahangir_, I allowed the defendant to have 50% of the medical expenses paid to be set-off against its outstanding liability to the plaintiff. This amounts to $83,172.76. Therefore, I order that the defendant pay the plaintiff the sum of $81,593.11 ($164,765.87 – $83,172.76). The defendant is to pay the plaintiff costs at 50% to be taxed if not agreed.
 

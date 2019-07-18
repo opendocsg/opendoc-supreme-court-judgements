@@ -31,11 +31,11 @@ Civil Procedure – Summary judgment
 
 6       Clause 11 of the voyage charterparty between FGV and the Defendant provided that:[^8]
 
-If original bills of lading are not available for presentation at discharging port(s) prior to \[vessel’s\] arrival, \[vessel\] to discharge the \[charterer’s\] entire cargo to receivers against \[charterer’s\] LOI (with text according to owner’s P\[&\]I club format) without any supporting bank guarantee.
+> If original bills of lading are not available for presentation at discharging port(s) prior to \[vessel’s\] arrival, \[vessel\] to discharge the \[charterer’s\] entire cargo to receivers against \[charterer’s\] LOI (with text according to owner’s P\[&\]I club format) without any supporting bank guarantee.
 
 Clause 6 of the sale contract between FGV and Aavanti similarly provided that:[^9]
 
-At discharge port, in the absence of original B/L, buyer/receiver to receive cargo by providing letter of indemnity (wording as per vessel owner’s P and I club format) with first class bank guarantee.
+> At discharge port, in the absence of original B/L, buyer/receiver to receive cargo by providing letter of indemnity (wording as per vessel owner’s P and I club format) with first class bank guarantee.
 
 7       On 22 April 2016, FGV issued an LOI to the Defendant, requesting the Defendant to deliver the cargo to Ruchi without production of the original bills of lading.[^10] On the same day, Aavanti issued a back-to-back LOI to FGV requesting FGV to deliver the cargo to Ruchi without production of the original bills of lading.[^11] Ruchi had, on 19 April 2016, also issued a back-to-back LOI to Aavanti requesting Aavanti to deliver the cargo to Ruchi without production of the original bills of lading.[^12] Thus, there was a chain of back-to-back LOIs from the ultimate buyer, Ruchi, to the sub-seller, Aavanti, and then to the ultimate seller, FGV, and finally to the Defendant shipowner.
 
@@ -53,33 +53,33 @@ At discharge port, in the absence of original B/L, buyer/receiver to receive car
 
 13     After OCBC applied for summary judgment in ADM 105 and ADM 115 on 8 December 2016, the Defendant:
 
-(a)     amended its Defence on 30 December 2016 pursuant to O 20 r 12 of the Rules of Court (Cap 332, R 5, 2014 Rev Ed) (without need for leave of court);
+> (a)     amended its Defence on 30 December 2016 pursuant to O 20 r 12 of the Rules of Court (Cap 332, R 5, 2014 Rev Ed) (without need for leave of court);
 
-(b)     applied on 23 February 2017 for specific discovery against OCBC, which application was dismissed on 31 March 2017;
+> (b)     applied on 23 February 2017 for specific discovery against OCBC, which application was dismissed on 31 March 2017;
 
-(c)     appealed on 13 April 2017 against the dismissal of its discovery application, which appeal was dismissed on 26 May 2017;
+> (c)     appealed on 13 April 2017 against the dismissal of its discovery application, which appeal was dismissed on 26 May 2017;
 
-(d)     applied for leave on 9 May 2017 to further amend its defence and obtained leave to do so on 20 June 2017;
+> (d)     applied for leave on 9 May 2017 to further amend its defence and obtained leave to do so on 20 June 2017;
 
-(e)     applied for leave on 29 August 2017 to file a further affidavit containing a further expert opinion from Mr Tagore Pradip Kumar and obtained leave to do so on 7 September 2017.
+> (e)     applied for leave on 29 August 2017 to file a further affidavit containing a further expert opinion from Mr Tagore Pradip Kumar and obtained leave to do so on 7 September 2017.
 
 14     On 11 September 2017, OCBC obtained summary judgment against the Defendant for US$3,727,500 and US$3,727,473.16 with interest of 5.33% per annum.
 
 15     Following summary judgment:
 
-(a)     the Defendant filed Registrar’s Appeals 259 and 261 of 2017 (“RAs 259 & 261”) against the learned Assistant Registrar’s (“the AR”) decision granting summary judgment;
+> (a)     the Defendant filed Registrar’s Appeals 259 and 261 of 2017 (“RAs 259 & 261”) against the learned Assistant Registrar’s (“the AR”) decision granting summary judgment;
 
-(b)     OCBC filed Registrar’s Appeals 258 and 260 of 2017 (“RAs 258 & 260”) against the AR’s decision, at \[13(e)\] above, allowing the further affidavit to be filed; and
+> (b)     OCBC filed Registrar’s Appeals 258 and 260 of 2017 (“RAs 258 & 260”) against the AR’s decision, at \[13(e)\] above, allowing the further affidavit to be filed; and
 
-(c)     the Defendant took out Summonses 334 and 336 of 2018 (SUMs 334 & 336) to further amend its Defence.
+> (c)     the Defendant took out Summonses 334 and 336 of 2018 (SUMs 334 & 336) to further amend its Defence.
 
 16     RAs 259 & 261, RAs 258 & 260 and SUMs 334 & 336 were all heard before me on 29 January 2018. At the said hearing, OCBC’s counsel suggested that, to avoid repetition and unnecessarily prolonging the hearing:
 
-(a)     parties should launch straight into substantive arguments on RAs 259 & 261 (the appeals against summary judgment) instead of dealing first with RAs 258 & 260 and SUMs 334 & 336 as preliminary issues;
+> (a)     parties should launch straight into substantive arguments on RAs 259 & 261 (the appeals against summary judgment) instead of dealing first with RAs 258 & 260 and SUMs 334 & 336 as preliminary issues;
 
-(b)     I could therefore proceed to hear substantive arguments in RAs 259 & 261 on the assumption that the further affidavit which form the subject matter of RAs 258 & 260 and the proposed amendments to the Defence which form the subject matter of SUMs 334 & 336 were already before me; and
+> (b)     I could therefore proceed to hear substantive arguments in RAs 259 & 261 on the assumption that the further affidavit which form the subject matter of RAs 258 & 260 and the proposed amendments to the Defence which form the subject matter of SUMs 334 & 336 were already before me; and
 
-(c)     depending on my eventual decision in RAs 259 & 261, I could then decide on how RAs 258 & 260 and SUMs 334 & 336 should be disposed of.
+> (c)     depending on my eventual decision in RAs 259 & 261, I could then decide on how RAs 258 & 260 and SUMs 334 & 336 should be disposed of.
 
 As there were no objections from the Defendant’s counsel, I decided to proceed in the manner suggested by OCBC’s counsel.
 
@@ -93,21 +93,21 @@ As there were no objections from the Defendant’s counsel, I decided to proceed
 
 20     To satisfy the court that there is an issue or question in dispute which ought to be tried (a “triable issue”), the defendant must show grounds which raise a reasonable probability that he has a real or _bona fide_ defence in relation to the issues that he says ought to be tried (see _Wee Cheng Swee Henry v Jo Baby Kartika Polim_ <span class="citation">\[2015\] 4 SLR 250</span> at \[36\], _JP Choon Pte Ltd v Lal Offshore Marine Pte Ltd_ <span class="citation">\[2016\] SGHC 115</span> at \[14\] and _Sim Kim Seng (trading as Kim Seng Ship Building) v New West Coast Shipyard Pte Ltd_ <span class="citation">\[2016\] SGHCR 2</span> at \[10\]). In this regard, the task of the court is neatly summarised in the following passage in _Goh Chok Tong v Chee Soon Juan_ <span class="citation">\[2003\] 3 SLR(R) 32</span> at \[25\]:
 
-25    It is a settled principle of law that in an application for summary judgment, the defendant will not be given leave to defend based on mere assertions alone_: Banque de Paris et des Pays-Bas (Suisse) SA v Costa de Naray and Christopher John Walters_ \[1984\] 1 Lloyd’s Rep 21 at 23. The court must be convinced that there is a reasonable probability that the defendant has a real or bona fide defence in relation to the issues. In this regard, the standard to be applied was well-articulated by Laddie J in _Microsoft Corporation v Electro-Wide Limited_ \[1997\] FSR 580, where he said at 593 to 594 that:
+> 25    It is a settled principle of law that in an application for summary judgment, the defendant will not be given leave to defend based on mere assertions alone_: Banque de Paris et des Pays-Bas (Suisse) SA v Costa de Naray and Christopher John Walters_ \[1984\] 1 Lloyd’s Rep 21 at 23. The court must be convinced that there is a reasonable probability that the defendant has a real or bona fide defence in relation to the issues. In this regard, the standard to be applied was well-articulated by Laddie J in _Microsoft Corporation v Electro-Wide Limited_ \[1997\] FSR 580, where he said at 593 to 594 that:
 
-\[I\]t is not sufficient just to look at each factual issue one by one and to consider whether it is possible that the defendant’s story in relation to that issue is credible. The court must look at the complete account of events put forward by both the plaintiff and the defendants and … look at the whole situation. The mere fact that the defendants support their defence by sworn evidence does not mean that the court is obliged to suspend its critical faculties and accept that evidence as if it was probably accurate. _If, having regard to inconsistency with contemporaneous documents, inherent implausibility and other compelling evidence, the defence is not credible, the court must say so. It should not let the filing of evidence which surpasses belief deprive a plaintiff of its entitlement to relief_.
+>> \[I\]t is not sufficient just to look at each factual issue one by one and to consider whether it is possible that the defendant’s story in relation to that issue is credible. The court must look at the complete account of events put forward by both the plaintiff and the defendants and … look at the whole situation. The mere fact that the defendants support their defence by sworn evidence does not mean that the court is obliged to suspend its critical faculties and accept that evidence as if it was probably accurate. _If, having regard to inconsistency with contemporaneous documents, inherent implausibility and other compelling evidence, the defence is not credible, the court must say so. It should not let the filing of evidence which surpasses belief deprive a plaintiff of its entitlement to relief_.
 
-\[emphasis added\]
+> \[emphasis added\]
 
 21     In a passage cited with approval recently by the Singapore High Court in _M2B World Asia Pacific Pte Ltd v Matsumura Akihiko_ <span class="citation">\[2015\] 1 SLR 325</span> at \[19\] and _Calvin Klein, Inc and another v HS International Pte Ltd and others_ <span class="citation">\[2016\] 5 SLR 1183</span> at \[45\], the Supreme Court of Malaysia observed in _Bank Negara Malaysia v Mohd Ismail & Ors_ <span class="citation">\[1992\] 1 MLJ 400</span> that:
 
-Under an O 14 application, the duty of a judge does not end as soon as a fact is asserted by one party, and denied or disputed by the other in an affidavit. _Where such assertion, denial or dispute is equivocal, or lacking in precision or is inconsistent with undisputed contemporary documents or other statements by the same deponent, or is inherently improbable in itself, then the judge has a duty to reject such assertion or denial, thereby rendering the issue not triable_.
+> Under an O 14 application, the duty of a judge does not end as soon as a fact is asserted by one party, and denied or disputed by the other in an affidavit. _Where such assertion, denial or dispute is equivocal, or lacking in precision or is inconsistent with undisputed contemporary documents or other statements by the same deponent, or is inherently improbable in itself, then the judge has a duty to reject such assertion or denial, thereby rendering the issue not triable_.
 
-\[emphasis added\]
+> \[emphasis added\]
 
 22     Further, as observed in _Ritzland Investment Pte Ltd v Grace Management & Consultancy Services Pte Ltd_ <span class="citation">\[2014\] 2 SLR 1342</span> at \[46\]:
 
-The policy underlying summary judgment is twofold and comprises a private and a public element. First, summary judgment enables a plaintiff with a strong claim to secure a judgment in a period of time and at an expense which is proportionate to the dispute. Second, summary judgment proceedings enable the court to conserve scarce public resources where there is no reasonable or fair probability that deploying those resources in a full trial would make a difference to the just determination of the dispute.
+> The policy underlying summary judgment is twofold and comprises a private and a public element. First, summary judgment enables a plaintiff with a strong claim to secure a judgment in a period of time and at an expense which is proportionate to the dispute. Second, summary judgment proceedings enable the court to conserve scarce public resources where there is no reasonable or fair probability that deploying those resources in a full trial would make a difference to the just determination of the dispute.
 
 23     Finally, as noted in _Lee Hsien Loong v Singapore Democratic Party and others and another suit_ <span class="citation">\[2007\] 1 SLR(R) 675</span>, the fact that an action involves complex issues is not an answer to a claim for summary judgment if the claim is otherwise well-founded (at \[19\]).
 
@@ -139,23 +139,23 @@ The policy underlying summary judgment is twofold and comprises a private and a 
 
 34     To appreciate the Defendant’s submission concerning s 2 of the Bills of Lading Act, it is useful to first set out the relevant parts of s 2:
 
-**2.**—(1)    Subject to the following provisions of this section, a person who _becomes_ —
+> **2.**—(1)    Subject to the following provisions of this section, a person who _becomes_ —
 
-(_a_)    the lawful holder of a bill of lading;
+>> (_a_)    the lawful holder of a bill of lading;
 
-…
+>> …
 
-shall (_by virtue of becoming the holder of the bill_ or, as the case may be, the person to whom delivery is to be made) have transferred to and vested in him all rights of suit under the contract of carriage as if he had been a party to that contract.
+> shall (_by virtue of becoming the holder of the bill_ or, as the case may be, the person to whom delivery is to be made) have transferred to and vested in him all rights of suit under the contract of carriage as if he had been a party to that contract.
 
-(2)    Where, _when a person becomes the lawful holder of a bill of lading, possession of the bill no longer gives a right (as against the carrier) to possession of the goods to which the bill relates_, that person shall not have any rights transferred to him by virtue of subsection (1) unless he becomes the holder of the bill —
+> (2)    Where, _when a person becomes the lawful holder of a bill of lading, possession of the bill no longer gives a right (as against the carrier) to possession of the goods to which the bill relates_, that person shall not have any rights transferred to him by virtue of subsection (1) unless he becomes the holder of the bill —
 
-(_a_)    by virtue of a transaction effected in pursuance of any contractual or other arrangements made before the time when such a right to possession ceased to attach to possession of the bill; or
+>> (_a_)    by virtue of a transaction effected in pursuance of any contractual or other arrangements made before the time when such a right to possession ceased to attach to possession of the bill; or
 
-(_b_)    as a result of the rejection to that person by another person of goods or documents delivered to the other person in pursuance of any such arrangements.
+>> (_b_)    as a result of the rejection to that person by another person of goods or documents delivered to the other person in pursuance of any such arrangements.
 
-…
+> …
 
-\[emphases added\]
+> \[emphases added\]
 
 35     The Singapore Bills of Lading Act _is in fact_ UK’s Carriage of Goods by Sea Act 1992 (“COGSA 1992”) made applicable in Singapore by s 4(1)(_a_) of the Application of English Law Act (Cap 7A, 1994 Rev Ed). COGSA 1992 was enacted to address certain difficulties encountered with the Bills of Lading Act 1855 (UK), which tied the transfer of contractual rights of suit under a bill of lading to the passing of property in the goods to which the bill relates. (Prior to the enactment of the Bills of Lading Act 1855, transfer of a bill lading operated, at common law, to transfer constructive possession of the goods (as well as property in the goods, if so intended) but did not operate to transfer contractual rights under the contract of carriage contained in or evidenced by the bill. The Bills of Lading Act 1855 plugged this gap by providing that contractual rights of suit under a bill of lading would be transferred in cases where property in the goods “pass, upon or by reason” of the transfer of the bill.) First, COGSA 1992 decoupled the transfer of rights of suit from the passing of property. Secondly, to address the concern that decoupling the transfer of rights of suit from the passing of property could lead to potentially undesirable transfer of rights after a bill of lading is spent, COGSA 1992 imposes limits on the transfer of rights of suit in relation to spent bills.
 
@@ -167,9 +167,9 @@ shall (_by virtue of becoming the holder of the bill_ or, as the case may be, th
 
 38     In the first step of its submission, the Defendant adopted the following two alternative routes:
 
-(a)     Assuming that the weight of the authorities favours the view that that a bill of lading is spent when the goods covered by it have been delivered to the person entitled to delivery under the bill, it is the Defendant’s submission that FGV was a person so entitled because FGV was still the holder of the bills of lading at the time the cargo was being discharged. Therefore, delivery to Ruchi on FGV’s instructions constituted delivery to a person entitled.
+> (a)     Assuming that the weight of the authorities favours the view that that a bill of lading is spent when the goods covered by it have been delivered to the person entitled to delivery under the bill, it is the Defendant’s submission that FGV was a person so entitled because FGV was still the holder of the bills of lading at the time the cargo was being discharged. Therefore, delivery to Ruchi on FGV’s instructions constituted delivery to a person entitled.
 
-(b)     Alternatively, the Defendant urges the court to adopt a wider interpretation of s 2(2) of the Bills of Lading Act, and hold that s 2(2) applies once the carrier has parted with possession of the cargo irrespective of whether delivery was made to a person entitled or not.
+> (b)     Alternatively, the Defendant urges the court to adopt a wider interpretation of s 2(2) of the Bills of Lading Act, and hold that s 2(2) applies once the carrier has parted with possession of the cargo irrespective of whether delivery was made to a person entitled or not.
 
 39     I will deal first with the alternative submission at \[38(b)\] above, as it raised an issue which is conceptually antecedent to that raised in the Defendant’s primary submission at \[38(a)\] above. The key to assessing the correctness of this alternative submission is the meaning to be assigned to the phrase “possession of the bill no longer gives a right (as against the carrier) to possession of the goods to which the bill relates” in s 2(2), as the meaning of that phrase determines whether s 2(2) applies or not.
 
@@ -177,23 +177,23 @@ shall (_by virtue of becoming the holder of the bill_ or, as the case may be, th
 
 41     The Defendant then suggested that:
 
-(a)     no local cases have dealt with this point, as Belinda Ang Saw Ean J had left the point open in _BNP Paribas v Bandung Shipping Pte Ltd (Shweta International Pte Ltd and another, third parties)_ <span class="citation">\[2003\] 3 SLR(R) 611</span> (“_BNP Paribas_”); and
+> (a)     no local cases have dealt with this point, as Belinda Ang Saw Ean J had left the point open in _BNP Paribas v Bandung Shipping Pte Ltd (Shweta International Pte Ltd and another, third parties)_ <span class="citation">\[2003\] 3 SLR(R) 611</span> (“_BNP Paribas_”); and
 
-(b)     the determination of this important issue mandates that the matter proceed to trial.
+> (b)     the determination of this important issue mandates that the matter proceed to trial.
 
 42     Taking the last argument first, there is no principle of law or procedure which says that an important point of law cannot be dealt with in summary judgment proceedings. This is especially so in the present case, where:
 
-(a)     the resolution of the point of law does not involve any factual disputes; and
+> (a)     the resolution of the point of law does not involve any factual disputes; and
 
-(b)     more than a year had elapsed between the initial filing of OCBC’s summary judgment application and the hearing before me, thus giving parties ample time and opportunity to research and submit on the relevant points of law.
+> (b)     more than a year had elapsed between the initial filing of OCBC’s summary judgment application and the hearing before me, thus giving parties ample time and opportunity to research and submit on the relevant points of law.
 
 43     Given the factual matrix, the Defendant submitted that OCBC became the holder of the bills of lading only at 8:32pm on 29 April 2016, when OCBC remitted the funds to Maybank. To simplify the summary judgment proceedings, OCBC agreed to concede the point solely for the purposes of the summary judgment proceedings, while reserving its right to show, in subsequent stages of these proceedings (if it becomes necessary) that OCBC became the holder of the bills of lading before 29 April 2016. Since the funds were remitted to Maybank only after the discharge of cargo was completed, the implication of this concession is that, for the purposes of the summary judgment proceedings, I am obliged to assume that OCBC became holder of the bills of lading only after the Defendant had completely discharged the cargo and delivered it to Ruchi. For this reason, there are no relevant disputes of fact, for the purpose of the summary judgment proceedings, which touch on the issue of whether s 2(2) of the Bills of Lading Act applies.
 
 44     As for the argument at \[41(a)\] above, the Defendant is mistaken that Ang J had left the point of law open in _BNP Paribas_. The relevant part of her judgment reads:
 
-30    I also find that the cargo was delivered between the months of May and June 2000 to persons who were not entitled to possession so much so that BNP is not a holder of spent bills of lading (both switch and Batam bills). The contract of carriage generally continues and the bill of lading remains effective, until the goods are delivered to the person entitled under the bill of lading: see _The Future Express_ \[1992\] 2 Lloyd’s Rep 79. In that case, the bill of lading was not spent or exhausted as delivery was not to the person who had a right to demand delivery or was entitled to them. The goods were delivered against an indemnity to a person who did not have a right to delivery under the bill of lading. The decision was affirmed on grounds that made it unnecessary for the Court of Appeal to decide on the issue whether the bill of lading was spent.
+> 30    I also find that the cargo was delivered between the months of May and June 2000 to persons who were not entitled to possession so much so that BNP is not a holder of spent bills of lading (both switch and Batam bills). The contract of carriage generally continues and the bill of lading remains effective, until the goods are delivered to the person entitled under the bill of lading: see _The Future Express_ \[1992\] 2 Lloyd’s Rep 79. In that case, the bill of lading was not spent or exhausted as delivery was not to the person who had a right to demand delivery or was entitled to them. The goods were delivered against an indemnity to a person who did not have a right to delivery under the bill of lading. The decision was affirmed on grounds that made it unnecessary for the Court of Appeal to decide on the issue whether the bill of lading was spent.
 
-31    Even if a contrary view is taken that once the carrier has parted with possession of the cargo the bill of lading cannot transfer constructive possession of the cargo, BNP would be a holder who would come within the provisions of s 2(2) of the Bills of Lading Act and the extended definition of “holder” in s 5(2). A holder of a bill which is indorsed after delivery has taken place could still sue the carrier in contract: s 2(2). The holder must have become a holder by virtue of some prior transaction (ie facility agreement as in this case) before the bill of lading became spent: s 5(2)(c).
+> 31    Even if a contrary view is taken that once the carrier has parted with possession of the cargo the bill of lading cannot transfer constructive possession of the cargo, BNP would be a holder who would come within the provisions of s 2(2) of the Bills of Lading Act and the extended definition of “holder” in s 5(2). A holder of a bill which is indorsed after delivery has taken place could still sue the carrier in contract: s 2(2). The holder must have become a holder by virtue of some prior transaction (ie facility agreement as in this case) before the bill of lading became spent: s 5(2)(c).
 
 45     Ang J could not have been clearer at \[30\] of _BNP Paribas_ that she was making a definitive finding. The sentence “I also find that the cargo was delivered … to persons who were not entitled to possession so much so that BNP is not a holder of spent bills of lading” could only mean that Ang J found that delivery to persons not entitled does _not_ cause a bill of lading to be spent. The point made at \[31\] is merely an “even if” point to fully address all possibilities. It is not language used by a judge who wishes to leave a point open.
 
@@ -205,21 +205,21 @@ shall (_by virtue of becoming the holder of the bill_ or, as the case may be, th
 
 48     In my view, the Phrase in Question in s 2(2) and the similar phrase found in s 5(2)(_c_) of the Bills of Lading Act refer to the document of title function of a bill of lading in transferring constructive possession of the goods to which the bill relates. That this is the reading intended by the drafters of COGSA 1992 is made abundantly clear in the Law Commission Report, which refers to “transfer \[of\] constructive possession” at para 2.42 and to “transferable document of title” at paras 2.22 and 2.44 and at p 53 in the explanatory note to cl 5(2) of the draft Bill. In _East West Corporation v DKBS 1912_ \[2002\] 2 Lloyd’s Rep 182 (“_East West Corp_ (HC)”, Thomas J held, at \[40\], that:
 
-It seems to me clear from the 1992 Act that the reference to the right to possess is a reference to one of the primary rights emanating from _the bill of lading’s function as a document of title._
+> It seems to me clear from the 1992 Act that the reference to the right to possess is a reference to one of the primary rights emanating from _the bill of lading’s function as a document of title._
 
-\[emphasis added\]
+> \[emphasis added\]
 
 On appeal, Mance LJ similarly held, in _East West Corporation v DKBS AF 1912 A/S and another_ <span class="citation">\[2003\] QB 1509</span> (“_East West Corp_ (CA)”) at \[44\], that:
 
-However, section 2(2) refers to the possibility of a person becoming the holder of a bill at a time “when … possession of the bill no longer gives a right (as against the carrier) to possession of the goods to which the bill relates”, and to “the time when such a right to possession ceased to attach to possession of the bill”. Whilst this assumes a linkage between possession of the bill and possession of the goods, the subsection’s purpose is no more than to regulate the passing of contractual rights _in circumstances when a bill of lading would at common law be regarded as “spent”._
+> However, section 2(2) refers to the possibility of a person becoming the holder of a bill at a time “when … possession of the bill no longer gives a right (as against the carrier) to possession of the goods to which the bill relates”, and to “the time when such a right to possession ceased to attach to possession of the bill”. Whilst this assumes a linkage between possession of the bill and possession of the goods, the subsection’s purpose is no more than to regulate the passing of contractual rights _in circumstances when a bill of lading would at common law be regarded as “spent”._
 
-\[emphasis added\]
+> \[emphasis added\]
 
 49      _Scrutton on Charterparties and Bills of Lading_ (Bernard Eder _et al_, eds) (Sweet & Maxwell, 23rd Ed, 2015) (“_Scrutton_”) takes the same view, commenting, at para 3-021, that:
 
-Once a bill of lading is spent, in that _it no longer embodies constructive possession of the goods_ to which it refers, s.2(2) of the 1992 Act provides that in principle its transfer to a lawful holder does not trigger a transfer of rights of suit under s.2(1).
+> Once a bill of lading is spent, in that _it no longer embodies constructive possession of the goods_ to which it refers, s.2(2) of the 1992 Act provides that in principle its transfer to a lawful holder does not trigger a transfer of rights of suit under s.2(1).
 
-\[emphasis added\]
+> \[emphasis added\]
 
 Similarly, Stephen Girvin, _Carriage of Goods by Sea_ (Oxford University Press, 2nd Ed, 2011) (“_Girvin_”) takes the view that the Phrase in Question refers to the ability of a bill of lading to transfer constructive possession (at paras 8.32–8.36). In a similar vein, _Interests in Goods_ (Norman Palmer & Ewan McKendrick, eds) (LLP, 2nd Ed, 1998) (“_Palmer & McKendrick_”) considered that s 2(2) applies to a bill of lading “after its function as a document of title has been exhausted” (at p 592).
 
@@ -227,23 +227,23 @@ Similarly, Stephen Girvin, _Carriage of Goods by Sea_ (Oxford University Press, 
 
 51     While _Carver_ cites no authorities for the view that the Phrase in Question refers to a _contractual_ right to possession, _Aikens, Lord & Bools_ cites the judgment of Aikens J in _The Ythan_ \[2006\] 1 Lloyd’s Rep 457 as authority for this view. In that case, the cargo was totally lost when the vessel carrying it sank as a result of an explosion. As the buyer acquired the bill of lading after the destruction of the cargo, the issue was whether any rights of suit were transferred to the buyer pursuant to s 2(1) of COGSA 1992. In holding that the applicable provision for determining whether the buyer became holder of the bills was s 5(2)(c) of COGSA 1992, Aikens J reasoned as follows:
 
-70.    In my view, valuable assistance on the ambit of the words in s 5(2)(c) ‘at a time when possession of the bill no longer gave a right (as against the carrier) to possession of the goods” is gained from the analysis of Lord Hobhouse in his speech in _The Berge Sisar_. In para \[31\] of his opinion, Lord Hobhouse notes that the 1992 Act is concerned solely with contractual obligations created in a bill of lading in relation to the carriage and delivery up of the goods. He emphasises that the Act is not dealing with proprietary rights of anyone who becomes a holder of the bill of lading. This distinction is important. It means that when a ship sinks and the cargo carried under a bill of lading is lost permanently, the question to ask in connection with the wording in section 5(2)(c) under consideration is: does possession of the bill of lading any longer give a _contractual right_ (as against the carrier) to possession of the goods to which the bill relates?
+> 70.    In my view, valuable assistance on the ambit of the words in s 5(2)(c) ‘at a time when possession of the bill no longer gave a right (as against the carrier) to possession of the goods” is gained from the analysis of Lord Hobhouse in his speech in _The Berge Sisar_. In para \[31\] of his opinion, Lord Hobhouse notes that the 1992 Act is concerned solely with contractual obligations created in a bill of lading in relation to the carriage and delivery up of the goods. He emphasises that the Act is not dealing with proprietary rights of anyone who becomes a holder of the bill of lading. This distinction is important. It means that when a ship sinks and the cargo carried under a bill of lading is lost permanently, the question to ask in connection with the wording in section 5(2)(c) under consideration is: does possession of the bill of lading any longer give a _contractual right_ (as against the carrier) to possession of the goods to which the bill relates?
 
-\[emphasis in original\]
+> \[emphasis in original\]
 
 52     With respect to Aikens J, I believe Lord Hobhouse was not discussing s 5(2)(c) or s 2(2) at \[31\] of _The Berge Sisar_ <span class="citation">\[2002\] 2 AC 205</span>. Instead, Lord Hobhouse’s comment was directed specifically at s 3 of COGSA 1992. The relevant part of Lord Hobhouse’s remarks at \[31\] reads:
 
-The important point which is demonstrated by _this part of the report_ and carried into the Act is that it is the contractual rights, not the proprietary rights (be they general or special), that are to be relevant. The relevant consideration is the _mutuality of the contractual relationship_ transferred to the endorsee and the reciprocal contractual rights and obligations which arise from that relationship.
+> The important point which is demonstrated by _this part of the report_ and carried into the Act is that it is the contractual rights, not the proprietary rights (be they general or special), that are to be relevant. The relevant consideration is the _mutuality of the contractual relationship_ transferred to the endorsee and the reciprocal contractual rights and obligations which arise from that relationship.
 
-\[emphasis added\]
+> \[emphasis added\]
 
 53     The phrase “this part of the report” in the passage quoted above refers to paras 3.15–3.22 of the Law Commission Report (which Lord Hobhouse quoted in an earlier part of the same paragraph). These paragraphs of the Law Commission Report dealt with what eventually became s 3 of COGSA 1992. That is a provision dealing with the mutuality of contractual relationship between the shipowner and the holder of a bill of lading who had contractual rights under the bill transferred to him. In my view, Lord Hobhouse’s comment that COGSA 1992 transfers contractual rights and not proprietary rights does not affect how the Phrase in Question should be understood. This is because the Phrase in Question does not purport to be an operative phrase transferring any rights. Instead, the Phrase in Question merely defines a condition which, if present, could dis-apply the operative provision for transfer in s 2(1).
 
 54     Further, as noted by Thomas J in _East West Corp_ (HC), at \[50\]:
 
-The rights transferred to the lawful holder under the 1992 Act are the “rights of suit”; this phrase was taken from the 1855 Act. Although “rights of suit” have been described as rights of “suing upon the contract” (as in _The Freedom_, (1871) L.R. 3 P.C. 594 at p. 599), the phrase was not used to distinguish “rights of suit” from “rights under the contract”. It is clear, in my view, that the phrase refers not merely to the right to sue, but the rights under the contract. _These include the contractual right as against the carrier to demand delivery against presentation of the bill of lading and hence the right to possess_.
+> The rights transferred to the lawful holder under the 1992 Act are the “rights of suit”; this phrase was taken from the 1855 Act. Although “rights of suit” have been described as rights of “suing upon the contract” (as in _The Freedom_, (1871) L.R. 3 P.C. 594 at p. 599), the phrase was not used to distinguish “rights of suit” from “rights under the contract”. It is clear, in my view, that the phrase refers not merely to the right to sue, but the rights under the contract. _These include the contractual right as against the carrier to demand delivery against presentation of the bill of lading and hence the right to possess_.
 
-\[emphasis added\]
+> \[emphasis added\]
 
 Thus what is transferred by s 2(1) is not merely the right to sue, but also contractual rights generally under the contract of carriage, including the contractual right to possession. Since s 2(1), if applicable, would transfer the contractual right to possession, and the Phrase in Question determines whether s 2(1) applies, it would be circular to read the Phrase in Question as also referring to the contractual right to possession (as opposed to referring to constructive possession pursuant to the bill of lading’s function as a document of title).
 
@@ -261,15 +261,15 @@ Thus what is transferred by s 2(1) is not merely the right to sue, but also con
 
 60     After the enactment of COGSA 1992, it was held in _East West Corp_ (HC) that a bill of lading was not spent when the goods to which the bill relates were delivered to a person who had no right to take delivery of the goods and, consequently, s 2(2) of COGSA 1992 did not apply in such a situation (at \[39\]–\[41\]). More recently, in _The Erin Schulte_ \[2015\] 1 Lloyd’s Rep 97 (“_The Erin Schulte_ (CA)”), although it was common ground between parties at first instance that the bill of lading was spent when the cargo was delivered against a LOI from the seller, Moore-Bick LJ commented on appeal that this concession was wrongly made. As Moore-Bick LJ explained (at \[53\]):
 
-It was common ground below that by 7 July 2010, when \[the seller\] accepted payment from \[the bank\], the bill of lading no longer gave a right as against \[the carrier\] to possession of the goods to which it related because that right had been lost once discharge began on 15 June 2010. In my view, that was not in fact the case, because _the rights under the contract of carriage, including the right to obtain delivery of the goods from the carrier, did not cease when the goods were discharged against the letter of indemnity. They remained in existence and were capable of forming the basis of a claim against \[the carrier\] for misdelivery_.
+> It was common ground below that by 7 July 2010, when \[the seller\] accepted payment from \[the bank\], the bill of lading no longer gave a right as against \[the carrier\] to possession of the goods to which it related because that right had been lost once discharge began on 15 June 2010. In my view, that was not in fact the case, because _the rights under the contract of carriage, including the right to obtain delivery of the goods from the carrier, did not cease when the goods were discharged against the letter of indemnity. They remained in existence and were capable of forming the basis of a claim against \[the carrier\] for misdelivery_.
 
-\[emphasis added\]
+> \[emphasis added\]
 
 In other words, delivery to the buyer against a seller’s LOI does _not_ have the effect of bringing the matter within the ambit of s 2(2).
 
 61     In Singapore, it was held in _BNP Paribas_ (at \[30\]) that delivery to a person not entitled does not cause the bill of lading to be spent. It was similarly held in the later case of _The Pacific Vigorous_ <span class="citation">\[2006\] 3 SLR(R) 374</span> that (at \[5\]):
 
-Even though the shipowner no longer has the goods, the bill of lading is not spent and as such it does not cease to be a transferable document of title. The contract of carriage generally continues and the bill of lading remains effective until the goods are delivered to the person entitled under the bill of lading…
+> Even though the shipowner no longer has the goods, the bill of lading is not spent and as such it does not cease to be a transferable document of title. The contract of carriage generally continues and the bill of lading remains effective until the goods are delivered to the person entitled under the bill of lading…
 
 62     Concerning the use of LOIs, I return to the case of _The Future Express_ which I had discussed briefly at \[46\] above. In that case, the cargo was shipped in March 1985 and discharged at the destination and delivered to the buyer about two months later against a LOI from the seller. In the meantime, the seller had agreed at the buyer’s request to delay sending the shipping documents through the banking chain, in order to delay the moment when the buyer would need to reimbursement the buyer’s bank for payments made under the letter of credit. This meant that, at the time of discharge and delivery of the cargo, the seller was still in possession of the bills of lading. At the same time, the deadline for negotiation of the shipping documents under the letter of credit was extended by the buyer’s bank, at the buyer’s request, from July 1985 to September 1985 and then to December 1985. In December 1985, the buyer requested a further extension of the deadline for negotiation of documents to March 1986. By then the buyer’s bank had found out that cargo had already been discharged and delivered, but it nevertheless agreed to extend the deadline to March 1986. The seller put the shipping documents into the banking chain within this new deadline. After the buyer’s bank made payment under the letter of credit and failed to recover the payment from the buyer, it sued the shipowner under the bills of lading.
 
@@ -277,15 +277,15 @@ Even though the shipowner no longer has the goods, the bill of lading is not spe
 
 64     Judge Diamond QC then went on to discuss, in _obiter_, whether the bills of lading were exhausted as documents of title. After considering the authorities, Judge Diamond QC raised the hypothetical situation of “delivery of goods against an indemnity to _a person who was rightfully entitled to them had he surrendered the bill of lading_” (emphasis added) and suggested that he “would, however, be reluctant to hold that a bill of lading becomes exhausted as a document of title once the carrier has delivered the goods against an indemnity to _a person authorized to receive delivery_” (emphasis added) (at 99). He then went on to say:
 
-It is not, however, necessary in the present case to express any concluded view on the question I have just discussed _since it is clear in any event that delivery of goods was_ _not_ _made to some person having a right to claim them under the bills of lading_, within the test laid down by Mr. Justice Willes in _Meyerstein v. Barber._
+> It is not, however, necessary in the present case to express any concluded view on the question I have just discussed _since it is clear in any event that delivery of goods was_ _not_ _made to some person having a right to claim them under the bills of lading_, within the test laid down by Mr. Justice Willes in _Meyerstein v. Barber._
 
-\[emphasis added\]
+> \[emphasis added\]
 
 65     In other words, Judge Diamond QC:
 
-(a)     held that delivery against a LOI to a person who is _not_ entitled to claim them under the bills of lading does _not_ exhaust a bill of lading and that, on the facts of the case, the buyer was _not a person entitled_ to delivery when the cargo was delivered to him against a LOI from the seller; and
+> (a)     held that delivery against a LOI to a person who is _not_ entitled to claim them under the bills of lading does _not_ exhaust a bill of lading and that, on the facts of the case, the buyer was _not a person entitled_ to delivery when the cargo was delivered to him against a LOI from the seller; and
 
-(b)     expressed a preferred view (without deciding the point) that delivery to a _person entitled_ under the bill of lading would also not exhaust the bill if the delivery is made against a LOI without surrender of the bill of lading.
+> (b)     expressed a preferred view (without deciding the point) that delivery to a _person entitled_ under the bill of lading would also not exhaust the bill if the delivery is made against a LOI without surrender of the bill of lading.
 
 While the point at (b) above had been doubted in works like _Carver_ (para 6-036)_, Girvin_ (para 8.34), _Scrutton_ (para 10-036, fn 137) and _Aikens, Lord & Bools_ (paras 2.95–2.96), none of these learned works took issue with Judge Diamond QC’s conclusion at point (a) above. In other words, the specific point in _The Future Express_ which _BNP Paribas_ relied on remains uncontroversial and the correctness of that point had not been doubted in the academic literature.
 
@@ -307,19 +307,19 @@ While the point at (b) above had been doubted in works like _Carver_ (para 6-036
 
 74     In the light of the foregoing, my holdings on the Defendant’s alternative submission at \[38(b)\] above are:
 
-(a)     Section 2(2) of the Bills of Lading Act applies to a bill of lading which is regarded at common law as spent; and
+> (a)     Section 2(2) of the Bills of Lading Act applies to a bill of lading which is regarded at common law as spent; and
 
-(b)     Delivery against a LOI to a person who is _not_ entitled to delivery under the bill of lading does not cause the bill to be spent.
+> (b)     Delivery against a LOI to a person who is _not_ entitled to delivery under the bill of lading does not cause the bill to be spent.
 
 ##### (3)   Whether FGV was a person entitled to delivery under the bill of lading
 
 75     I turn now to the Defendant’s primary submission, at \[38(a)\] above, that FGV was a person entitled to delivery under the bill of lading. The Defendant submitted that:[^28]
 
-(a)     at the time the cargo was being discharged, the bills of lading were in OCBC’s custody but, as the purchase price had not yet been paid, neither OCBC nor Aavanti could be regarded as the holder of the bills of lading;
+> (a)     at the time the cargo was being discharged, the bills of lading were in OCBC’s custody but, as the purchase price had not yet been paid, neither OCBC nor Aavanti could be regarded as the holder of the bills of lading;
 
-(b)     therefore, FGV remained the holder of the bills of lading at the time the cargo was being discharged;
+> (b)     therefore, FGV remained the holder of the bills of lading at the time the cargo was being discharged;
 
-(c)     since delivery to Ruchi at FGV’s instructions amounts to delivery to FGV, the delivery was made to a person entitled to delivery under the bills of lading.
+> (c)     since delivery to Ruchi at FGV’s instructions amounts to delivery to FGV, the delivery was made to a person entitled to delivery under the bills of lading.
 
 76     This submission brings into issue the status of a seller under cost & freight terms who had endorsed a bill of lading in blank and parted possession with it by sending it through the banking chain with a bill of exchange, to be delivered to the buyer on documents against payment basis. FGV had sold the cargo to Aavanti on “Incoterms CNF”. “CNF” is the old abbreviation for “cost & freight”, now abbreviated as “CFR” under the International Chamber of Commerce’s rules on the use of domestic and international trade terms (“Incoterms 2010”). One of the key obligations of the seller under CFR terms is to provide the buyer with the “usual transport document for the agreed port of destination” which must, among other things, “enable the buyer to claim the goods from the carrier at the port of destination” (obligation A8 for CFR, _Incoterms 2010_ (International Chamber of Commerce, 2010), at p 102).
 
@@ -331,13 +331,13 @@ While the point at (b) above had been doubted in works like _Carver_ (para 6-036
 
 80     Furthermore, any claim that FGV was acting as lawful holder of the bills of lading when it gave instructions concerning delivery is inconsistent with the plain meaning of the relevant documents. FGV’s delivery instructions to the Defendant is contained in its LOI to the Defendant dated 22 April 2016. It reads:[^29]
 
-The above cargo was shipped on the above ship by the above shipper and consigned to the above consignee for delivery at the port NEW MANGALORE, INDIA but the bill of lading has not arrived and we, FGV TRADING SDN BHD, hereby request you to deliver the said cargo to RUCHI SOYA INDUSTRIES LIMITED … without production of the original bill of lading.
+> The above cargo was shipped on the above ship by the above shipper and consigned to the above consignee for delivery at the port NEW MANGALORE, INDIA but the bill of lading has not arrived and we, FGV TRADING SDN BHD, hereby request you to deliver the said cargo to RUCHI SOYA INDUSTRIES LIMITED … without production of the original bill of lading.
 
-In consideration of your complying with our above request, we hereby agree as follows:-
+> In consideration of your complying with our above request, we hereby agree as follows:-
 
-1.    To indemnify you, your servants and agents and to hold all of you harmless in respect of any liability, loss, damage or expense of whatsoever nature which you may sustain by reason of delivering the cargo in accordance with our request.
+>> 1.    To indemnify you, your servants and agents and to hold all of you harmless in respect of any liability, loss, damage or expense of whatsoever nature which you may sustain by reason of delivering the cargo in accordance with our request.
 
-…
+> …
 
 81     The draft LOI was accompanied by an email on 18 April 2016 from AC Tankers Services Pte Ltd (“AC Tankers”), which the Defendant accepted were FGV’s brokers.[^30] Significantly, AC Tankers’ representative emailed the Defendant stating “draft LOI for delivery or cargo _without OBL_ at New Mangalore for your approval” (emphasis added).[^31] The delivery instructions from FGV assumed that delivery ought legally to have been made against the original bill of lading, but explained that the bill of lading had not arrived, thereby giving rise to the need for FGV to give the carrier an indemnity to deliver without presentation of the bill of lading. This is not the language used by a party claiming to be entitled to delivery under the bill of lading as lawful holder. Instead, it is language used by a party who recognised that it was not, at the material time, a person entitled to delivery under the bill of lading. Were it otherwise, FGV’s delivery instructions would have simply asserted that FGV, as lawful holder of the bill of lading, was demanding delivery against presentation of the bills of lading. As noted in _Carver_, the practice of delivery against LOI is “based on the assumption that in law delivery can be claimed, and can be claimed only, by the holder of the bill” (at para 6-009).
 
@@ -347,21 +347,21 @@ In consideration of your complying with our above request, we hereby agree as fo
 
 84     For completeness, I also considered whether the existence of cl 11 in the voyage charterparty, which obliges the Defendant to deliver against a LOI from FGV if bills of ladings are not available (see \[6\] above), would make any difference to the foregoing analysis. This point was considered in _BNP Paribas_, where Ang J analysed the issue in the following manner:
 
-65    The bills provide that all conditions, liberties and exceptions of the relevant charterparty are incorporated in the conditions of carriage. Clause 16 is identical in both charterparties. Clause 16 provides:
+> 65    The bills provide that all conditions, liberties and exceptions of the relevant charterparty are incorporated in the conditions of carriage. Clause 16 is identical in both charterparties. Clause 16 provides:
 
-In the absence of original b/ls at discharge port(s), owners to release the entire cargo to receivers against charterers’ LOI (Shweta or Lanyard) without bank guarantee. (LOI wording always to be in Owners’ P and I Club format.)
+>> In the absence of original b/ls at discharge port(s), owners to release the entire cargo to receivers against charterers’ LOI (Shweta or Lanyard) without bank guarantee. (LOI wording always to be in Owners’ P and I Club format.)
 
-66    Clause 16 recognises the need to present the bill of lading for Bandung to deliver the cargo. It also reflects Bandung’s willingness to run the risk of being held liable for wrongful discharge of cargo should problems arise in relation to payment. The right of the holder of a bill of lading is not taken away by a provision for the vessel to discharge against a letter of indemnity even though the vessel would arrive at the discharge port ahead of the bill of lading. Tamberlin J in _The Stone Gemini_ \[1999\] 2 Lloyd’s Rep 255 considered a similar clause. He stated at 266:
+> 66    Clause 16 recognises the need to present the bill of lading for Bandung to deliver the cargo. It also reflects Bandung’s willingness to run the risk of being held liable for wrongful discharge of cargo should problems arise in relation to payment. The right of the holder of a bill of lading is not taken away by a provision for the vessel to discharge against a letter of indemnity even though the vessel would arrive at the discharge port ahead of the bill of lading. Tamberlin J in _The Stone Gemini_ \[1999\] 2 Lloyd’s Rep 255 considered a similar clause. He stated at 266:
 
-The letter of indemnity is designed to provide a remedy for a shipowner, where the master releases cargo at the request of a party, in respect of claims which may be brought as a consequence of such release. It is not an authority by the holder of the bearer bill of lading for the shipowner to deliver the cargo to whoever produces a letter of indemnity.
+>> The letter of indemnity is designed to provide a remedy for a shipowner, where the master releases cargo at the request of a party, in respect of claims which may be brought as a consequence of such release. It is not an authority by the holder of the bearer bill of lading for the shipowner to deliver the cargo to whoever produces a letter of indemnity.
 
-67    Clarke J in _The Sormovskiy 3068_ said at 274:
+> 67    Clarke J in _The Sormovskiy 3068_ said at 274:
 
-The purpose of the clause was to ensure that the defendants would discharge the cargo even if the bill of lading was not available for presentation, but on terms that they would be protected by a letter of indemnity. It thus contemplated that they would be liable to the holder of the bill of lading if they delivered otherwise than in return for an original bill of lading.
+>> The purpose of the clause was to ensure that the defendants would discharge the cargo even if the bill of lading was not available for presentation, but on terms that they would be protected by a letter of indemnity. It thus contemplated that they would be liable to the holder of the bill of lading if they delivered otherwise than in return for an original bill of lading.
 
-68    Choo Han Teck JC (as he then was) in _The Nordic Freedom_ <span class="citation">\[1999\] 3 SLR(R) 507</span> considered a clause similar to cl 16 and came to the same conclusion.
+> 68    Choo Han Teck JC (as he then was) in _The Nordic Freedom_ <span class="citation">\[1999\] 3 SLR(R) 507</span> considered a clause similar to cl 16 and came to the same conclusion.
 
-69    Accordingly, cl 16 and its incorporation in the bills of lading cannot on a proper consideration provide a defence to wrongful discharge of the cargo against letters of indemnity.
+> 69    Accordingly, cl 16 and its incorporation in the bills of lading cannot on a proper consideration provide a defence to wrongful discharge of the cargo against letters of indemnity.
 
 85     I agree with the foregoing analysis and would similarly hold that the existence of cl 11 in the charterparty in the present case does not affect the conclusion I have reached at \[83\] above.
 
@@ -379,13 +379,13 @@ The purpose of the clause was to ensure that the defendants would discharge the 
 
 89     In _The David Agmashenebeli_ \[2003\] 1 Lloyd’s Rep 92, Colman J held that, for a transfer to be regarded as having been “effected in pursuance of any contractual or other arrangements”, it has to be a transfer “provided for by the antecedent contractual or other arrangements” or “called for” by the contractual or other arrangements (at 118). In _The Pace_ \[2010\] 1 Lloyd’s Rep 183, Teare J noted (at \[45\]) that the use of the term “called for” by Colman J suggested a requirement that a transferee needed to be entitled to the transfer of the bill of lading pursuant to the terms of the contractual or other arrangements. Teare J considered this requirement to be unnecessarily strict having regard to the fact that the object and purpose of s 2(2) was to prevent “trafficking in bills of lading simply as pieces of paper which give causes of action against sea carriers” (at \[48\]). Instead, Teare J suggested that:
 
-… the objective or aim of section 2(2)(a) to avoid trafficking in bills of lading will be achieved if the _reason or cause_ of the transfer is the contractual or other arrangements in existence before the bills were spent. Such an interpretation may have a wider scope than one based upon contractual entitlement…but it is nevertheless consistent with the aim or object of section 2(2)(a). It will avoid trafficking in bills of lading.
+> … the objective or aim of section 2(2)(a) to avoid trafficking in bills of lading will be achieved if the _reason or cause_ of the transfer is the contractual or other arrangements in existence before the bills were spent. Such an interpretation may have a wider scope than one based upon contractual entitlement…but it is nevertheless consistent with the aim or object of section 2(2)(a). It will avoid trafficking in bills of lading.
 
-\[emphasis added\]
+> \[emphasis added\]
 
 90     It was also suggested in _The Ythan_ that such “reason or cause” should be the “immediate reason and proximate cause of the transfer” (at \[85\]). In _The Erin Schulte_ \[2013\] 2 Lloyd’s Rep 338 (“_The Erin Schulte_ (HC)”), Teare J disagreed that the test should be “immediate reason” or “proximate cause”. Instead, Teare J held that the test should be whether the contractual or other arrangement is the “real and effective cause” of the transfer (at \[68\]). On appeal, Moore-Bick LJ disagreed with Teare J in the following passage (_Erin Schulte_ (CA) at \[56\]):
 
-I do not myself think that it is helpful to seek to identify the “real and effective cause” of the transfer. Given that section 2(2)(a) refers to a transaction effected in pursuance of a contractual or other arrangement, I think it is preferable simply to identify the arrangement, if any, pursuant to which the transfer was made.
+> I do not myself think that it is helpful to seek to identify the “real and effective cause” of the transfer. Given that section 2(2)(a) refers to a transaction effected in pursuance of a contractual or other arrangement, I think it is preferable simply to identify the arrangement, if any, pursuant to which the transfer was made.
 
 Moore-Bick LJ then went on to conclude that the payment (and thus acceptance of the bill of lading) by the buyer’s bank was pursuant to the letter of credit, notwithstanding that this was done after the letter of credit had expired and after the buyer’s bank had earlier decided not to honour the letter of credit.
 
@@ -415,9 +415,9 @@ Moore-Bick LJ then went on to conclude that the payment (and thus acceptance of 
 
 100    The Bills of Lading Act distinguishes between a mere “holder” of a bill of lading and a “lawful holder” of a bill of lading. Sections 5(2)(_a_)–(_c_) define three situations in which a person not originally party to a bill of lading would become the “holder” of the bill of lading. The proviso at the end of s 5(2)goes on to provide that:
 
-…a person shall be regarded for the purposes of this Act as having become _the lawful holder_ of a bill of lading wherever he has become the _holder of the bill in good faith_.
+> …a person shall be regarded for the purposes of this Act as having become _the lawful holder_ of a bill of lading wherever he has become the _holder of the bill in good faith_.
 
-\[emphasis added\]
+> \[emphasis added\]
 
 Section 2(1)(_a_) provides for the transfer of contractual rights of suit to a “lawful holder”. This means that, for rights of suit to be transferred to the holder of a bill of lading pursuant to s 2(1), he needed to have “become the holder of the bill in good faith”.
 
@@ -425,11 +425,11 @@ Section 2(1)(_a_) provides for the transfer of contractual rights of suit to a �
 
 101    The meaning of the term “good faith” in s 5(2) of COGSA 1992 was considered by Thomas J in _The “Aegean Sea”_ \[1998\] 2 Lloyd’s Rep 39 in the following passage (at 60):
 
-The Act does not define good faith in contra-distinction, for example to s. \[61(3)\] of the Sale of Goods Act, 1979 which provides that “a thing is deemed to be done in good faith… when it is done honestly, whether it be done negligently or not” or the Uniform Commercial Code (Section 1-201(19)) where good faith is defined as “honestly in fact or in the conduct of the transaction”. The owners contended that Repsol obtained the bill of lading honestly and that was sufficient to make them lawful holders.
+> The Act does not define good faith in contra-distinction, for example to s. \[61(3)\] of the Sale of Goods Act, 1979 which provides that “a thing is deemed to be done in good faith… when it is done honestly, whether it be done negligently or not” or the Uniform Commercial Code (Section 1-201(19)) where good faith is defined as “honestly in fact or in the conduct of the transaction”. The owners contended that Repsol obtained the bill of lading honestly and that was sufficient to make them lawful holders.
 
-Although it could be argued that in view of lack of definition in COGSA, 1992, a broad meaning should be attributed to “good faith”, I do not consider that would be the correct interpretation. In the commercial context of bills of lading, the meaning of the term good faith should be clear, capable of unambiguous application and be consistent with the usage in other contexts and countries. In my view, _it therefore connotes honest conduct and not a broader concept of good faith such as “the observance of reasonable commercial standards of fair dealing in the conclusion and performance of the transaction concerned”._
+> Although it could be argued that in view of lack of definition in COGSA, 1992, a broad meaning should be attributed to “good faith”, I do not consider that would be the correct interpretation. In the commercial context of bills of lading, the meaning of the term good faith should be clear, capable of unambiguous application and be consistent with the usage in other contexts and countries. In my view, _it therefore connotes honest conduct and not a broader concept of good faith such as “the observance of reasonable commercial standards of fair dealing in the conclusion and performance of the transaction concerned”._
 
-\[emphasis added\]
+> \[emphasis added\]
 
 102    This passage from _The Aegean Sea_ was cited with approval by the Singapore Court of Appeal in _UCO Bank v Golden Shore Transportation Pte Ltd_ <span class="citation">\[2006\] 1 SLR(R) 1</span> (“_UCO Bank_”) where the Court of Appeal, at \[39\], held that “good faith” in s 5 of the Bills of Lading Act connotes “honest conduct”. The Court of Appeal added, also at \[39\], that it did not see “why more should be read into the provision than its plain meaning”. The Court of Appeal further commented, at \[40\], that “\[i\]t is obviously to preclude the case where possession is obtained unlawfully, or by other improper means, that s 5(2) prescribes that the person (be he the named consignee or an indorsee) must become the holder ‘in good faith’.”
 
@@ -443,7 +443,7 @@ Although it could be argued that in view of lack of definition in COGSA, 1992, a
 
 107    Finally, the Defendant’s attempt to use “good faith” as the gatekeeper against transfer of bills of lading to obtain a bare right of suit against the carrier conflates and confuses the function of s 2(2) and the function of the proviso on good faith in s 5(2). As paras 2.43–2.44 of the Law Commission Report made clear, the concern over transfers to obtain bare right of suits is addressed by s 2(2). In fact, the Law Commission Report spelt out expressly at para 2.22 that:
 
-By lawful holder we mean the consignee named in the bill or any indorsee (or holder of a “bearer” bill) who is in possession of the bill in good faith, including those cases where the person becomes a lawful holder after the bill of lading has ceased to be a transferable document of title, though subject to what is said below at paragraph 2.42 – 2.44.
+> By lawful holder we mean the consignee named in the bill or any indorsee (or holder of a “bearer” bill) who is in possession of the bill in good faith, including those cases where the person becomes a lawful holder after the bill of lading has ceased to be a transferable document of title, though subject to what is said below at paragraph 2.42 – 2.44.
 
 There is therefore neither reason nor justification to broaden the scope of the good faith requirement in s 5(2) to deal with a mischief that is already addressed by s 2(2).
 
@@ -457,9 +457,9 @@ There is therefore neither reason nor justification to broaden the scope of the 
 
 111    The second source of information is the evidence of a banking expert filed by the Defendant. According to the expert’s resume, he spent almost his entire career working for an Indian bank (including at its branches in Singapore, Malaysia and London).[^39] In other words, this expert had no direct knowledge of OCBC’s operations and was attempting to give his opinion concerning the banking industry generally.[^40] The expert suggested that:[^41]
 
-(a)     OCBC would, from its dealings with Aavanti, have knowledge of (i) how its customer Aavanti conducts its business, (ii) the commodities industry in which Aavanti trades, and (iii) the shipping cycle of the commodities in which Aavanti trades; and
+> (a)     OCBC would, from its dealings with Aavanti, have knowledge of (i) how its customer Aavanti conducts its business, (ii) the commodities industry in which Aavanti trades, and (iii) the shipping cycle of the commodities in which Aavanti trades; and
 
-(b)     from such knowledge, “OCBC would have been aware that Aavanti’s commercial arrangement with their buyers would require the discharge of the Cargo without the production of BLs”.
+> (b)     from such knowledge, “OCBC would have been aware that Aavanti’s commercial arrangement with their buyers would require the discharge of the Cargo without the production of BLs”.
 
 The expert also suggested that OCBC would have performed a due diligence check with the International Maritime Bureau (“IMB”) of the International Chamber of Commerce to ascertain whether _Yue You 902_ had arrived at the port of discharge before granting the trust receipt loan. The expert further opined that he “would have expected OCBC to enquire with Aavanti, after receiving Aavanti’s request for the Trust Receipt, on the status of the Cargo such as whether the Cargo has been discharged …”.[^42]
 
@@ -473,7 +473,7 @@ The expert also suggested that OCBC would have performed a due diligence check w
 
 116    Thirdly, Aavanti did not simply ask for a loan from OCBC. It asked specifically for a _trust receipt_ loan. The exact words used by Aavanti was “Kindly grant us TR for USD 7454973.16”.[^46] In respect of trust receipt loans, _Benjamin’s Sale of Goods_ (Sweet & Maxwell, 10th Ed, 2017) explained (at para 18-286):
 
-Where bills of ladings are held, generally by a bank, as security for an advance, it is often necessary for the debtor (often a buyer of the goods) to sell the goods in order to obtain the funds required to repay the advance. This need may be satisfied, and the interests of the bank to a large extent protected, by the use of trust receipts. These documents are by no means uniform in content, but their essential features are as follows. They provide for the release by the bank of the bills of lading to the debtor as trustee for the bank, and authorise him to sell the documents or the goods on behalf of the bank. The debtor, for his part, undertakes to hold the goods and their proceeds in trust for the bank, and to remit the proceeds to the bank, at least up to the amount of the advance.
+> Where bills of ladings are held, generally by a bank, as security for an advance, it is often necessary for the debtor (often a buyer of the goods) to sell the goods in order to obtain the funds required to repay the advance. This need may be satisfied, and the interests of the bank to a large extent protected, by the use of trust receipts. These documents are by no means uniform in content, but their essential features are as follows. They provide for the release by the bank of the bills of lading to the debtor as trustee for the bank, and authorise him to sell the documents or the goods on behalf of the bank. The debtor, for his part, undertakes to hold the goods and their proceeds in trust for the bank, and to remit the proceeds to the bank, at least up to the amount of the advance.
 
 Thus, when Aavanti requested a trust receipt loan, the request constituted a proposal to pledge the bills of lading to OCBC as security for the loan as well as an indication that Aavanti planned to obtain physical delivery of the bills of lading from OCBC against a trust receipt in order to transfer the same to its sub-buyer. This amounts to a representation by Aavanti to OCBC that the bills of lading remained documents which could be meaningfully pledged as security for the loan.
 
@@ -489,11 +489,11 @@ Thus, when Aavanti requested a trust receipt loan, the request constituted a pro
 
 121    In the _Pacific Vigorous_, Belinda Ang J rejected the defence of consent as the cargo was discharged against LOIs and not on the basis of _any prior consent_ by the plaintiff (at \[7\]). In _BNP Paribas_, Ang J similarly held (at \[59\]–\[60\]):
 
-59    … It is plainly wrong to construe the trust receipt as authority to \[the buyer\] to take delivery at Kandla against letters of indemnity issued by \[the sub-buyer\] without production of the bills of lading. … In the circumstances, there cannot arise by virtue of the trust receipt any consent, authority or ratification.
+> 59    … It is plainly wrong to construe the trust receipt as authority to \[the buyer\] to take delivery at Kandla against letters of indemnity issued by \[the sub-buyer\] without production of the bills of lading. … In the circumstances, there cannot arise by virtue of the trust receipt any consent, authority or ratification.
 
-60    In reality, the cargo arrived earlier than the bills of lading because of the duration of the voyage. That fact of and in itself, _even with the knowledge of BNP_, cannot give rise to any actual \[or\] implied authority to \[the buyer\] to instruct the shipowner to discharge cargo without the relevant bills of lading. … It is clear from Low’s evidence that the bank looked to the document of title as security and it made no sense for the bank to destroy its own security if it were to consent to release of cargo against a letter of indemnity.
+> 60    In reality, the cargo arrived earlier than the bills of lading because of the duration of the voyage. That fact of and in itself, _even with the knowledge of BNP_, cannot give rise to any actual \[or\] implied authority to \[the buyer\] to instruct the shipowner to discharge cargo without the relevant bills of lading. … It is clear from Low’s evidence that the bank looked to the document of title as security and it made no sense for the bank to destroy its own security if it were to consent to release of cargo against a letter of indemnity.
 
-\[emphasis added\]
+> \[emphasis added\]
 
 In _Nederlandsche Handel-Maatschappij v Strathlorne Steamship Company_ (1931) 39 Lloyd’s Rep 171, a case decided in the Scottish Court of Session, Lord Anderson held (at 175–176) that the defence of consent implied that “something was said or done by the pursuers which affected the mind of the master of the ship, induced him to conclude that they were consenters, and thus encouraged him to make delivery without production of the bills of lading”.
 
@@ -509,15 +509,15 @@ In _Nederlandsche Handel-Maatschappij v Strathlorne Steamship Company_ (1931) 39
 
 125    The requirements for estoppel by acquiescence are:
 
-(a)     The defendant must be mistaken as to his own legal rights;
+> (a)     The defendant must be mistaken as to his own legal rights;
 
-(b)     The defendant must have expended money or done some act on the faith of his mistaken belief;
+> (b)     The defendant must have expended money or done some act on the faith of his mistaken belief;
 
-(c)     The plaintiff must know of his own rights;
+> (c)     The plaintiff must know of his own rights;
 
-(d)     The plaintiff must know of the defendant’s mistaken belief; and
+> (d)     The plaintiff must know of the defendant’s mistaken belief; and
 
-(e)     The plaintiff must encourage the defendant in the defendant’s expenditure of money or other act, either directly or by abstaining from asserting his legal right.
+> (e)     The plaintiff must encourage the defendant in the defendant’s expenditure of money or other act, either directly or by abstaining from asserting his legal right.
 
 _Nasaka Industries (S) Pte Ltd v Aspac Aircargo Services Pte Ltd_ <span class="citation">\[1999\] 2 SLR(R) 817</span> (“_Nasaka_”) at \[70\].
 
@@ -533,11 +533,11 @@ _Nasaka Industries (S) Pte Ltd v Aspac Aircargo Services Pte Ltd_ <span class="c
 
 130    The requirements for estoppel by convention were clarified in _Travista Development Pte Ltd v Tan Kim Swee Augustine and others_ <span class="citation">\[2008\] 2 SLR(R) 474</span> (“_Travista_”) at \[31\]:
 
-(a)     The parties must have acted on “an assumed and incorrect state of _fact or law_” (emphasis in original);
+> (a)     The parties must have acted on “an assumed and incorrect state of _fact or law_” (emphasis in original);
 
-(b)     The assumption must be either shared by both parties pursuant to an agreement or something akin to an agreement, or made by one party and acquiesced to by the other; and
+> (b)     The assumption must be either shared by both parties pursuant to an agreement or something akin to an agreement, or made by one party and acquiesced to by the other; and
 
-(c)     It must be unjust or unconscionable to allow the parties (or one of them) to go back on that assumption.
+> (c)     It must be unjust or unconscionable to allow the parties (or one of them) to go back on that assumption.
 
 131    The Defendant conceded that their arguments were seeking to extend the law on estoppel by convention.[^54] Nevertheless, I would simply comment on the second _Travista_ requirement.
 
@@ -557,9 +557,9 @@ _Nasaka Industries (S) Pte Ltd v Aspac Aircargo Services Pte Ltd_ <span class="c
 
 137    In _Concentrate Engineering_, the plaintiff company sued the defendant bank for making wrongful payment from the plaintiff’s bank account against forged cheques. The manner in which the cheques were forged gave rise to a strong suspicion that the forgery was committed by a person within the plaintiff’s organisation (at \[10\]–\[11\]). Noting that “O 14 is for the plain and obvious and not for the devious and crafty” (at \[19\]), the court observed (at \[18\]):
 
-…
+> …
 
-No doubt, the defendants are unable to point to a specific defence, but, in theory, the following scenarios are possible: (a) that, assuming that the defendants accept the conclusions of the handwriting expert, the cheques were copied by the signatories themselves, _ie_ they are “self-forgeries”; (b) that the signatures were copied with the knowledge or consent of both the signatories or one of them; (c) that the signatures were copied by or with the knowledge or consent of the controlling mind of the plaintiffs, whoever he may be at the material time.
+> No doubt, the defendants are unable to point to a specific defence, but, in theory, the following scenarios are possible: (a) that, assuming that the defendants accept the conclusions of the handwriting expert, the cheques were copied by the signatories themselves, _ie_ they are “self-forgeries”; (b) that the signatures were copied with the knowledge or consent of both the signatories or one of them; (c) that the signatures were copied by or with the knowledge or consent of the controlling mind of the plaintiffs, whoever he may be at the material time.
 
 The court therefore granted unconditional leave to defend because “the circumstances are such that the defendants ought, in the interest of justice be given time and with it the opportunity to investigate further the fraud by whatever means that are available to them, including a trial, to determine for themselves whether they are liable as bankers” (at \[17\]).
 
@@ -571,7 +571,7 @@ The court therefore granted unconditional leave to defend because “the circums
 
 140    The Defendant then submitted that expert evidence would be required to determine the market value of the cargo at the time and place of delivery. I do not agree. A similar argument was raised in _He-Ro Chemicals Ltd v Jeuro Container Transport (HK) Ltd_ \[1993\] 2 HKC 368, where Kaplan J held (at \[25\]):
 
-Finally, Mr Reyes submitted that even if I was against him, I should only order judgment for damages to be assessed because there is no evidence as to the value of the goods at the date of conversion. There is only the invoice value a little time before. I reject this argument as the defendants have not said a word on quantum, and if the market in zinc oxide had in fact fallen between the date of the contract and the date of misdelivery, I would expect them to file evidence on this point. The invoice value of the goods is, in my judgment, as good an indication of the value of the goods at the time of misdelivery as a court could reasonably expect.
+> Finally, Mr Reyes submitted that even if I was against him, I should only order judgment for damages to be assessed because there is no evidence as to the value of the goods at the date of conversion. There is only the invoice value a little time before. I reject this argument as the defendants have not said a word on quantum, and if the market in zinc oxide had in fact fallen between the date of the contract and the date of misdelivery, I would expect them to file evidence on this point. The invoice value of the goods is, in my judgment, as good an indication of the value of the goods at the time of misdelivery as a court could reasonably expect.
 
 141    In the present case, there are two relevant indications of the value of the goods. In the sale contract between Aavanti and Ruchi dated 4 April 2016, the price of the palm oil was agreed at USD 776.50 per metric ton.[^56] In the sale contract between FGV and Aavanti dated 5 April 2016, the agreed price was USD 745.50 per metric ton.[^57] Since the place of delivery was Ruchi’s storage facilities at New Mangalore, India,[^58] the price in the Aavanti-Ruchi contract is probably the more relevant and accurate indicia of the value of the goods at the place of delivery. However, OCBC is only claiming based on the (lower) price in the FGV-Aavanti contract, as the loan given by OCBC to Aavanti was for the amount which FGV had invoiced Aavanti. The Defendant has provided no evidence that there was any significant drop in the market price of the palm oil during the three weeks between the conclusion of the sale contracts and the discharge of the palm oil at New Mangalore.
 

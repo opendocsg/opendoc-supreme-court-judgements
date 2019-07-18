@@ -35,145 +35,145 @@ Contracts – Remedies – Damages – Claim for wasted expenditure
 
 6       For ease of reference, I reproduce below the more pertinent clauses in the Licence Agreement:
 
-**7**.     **THE CHARGES**
+> **7**.     **THE CHARGES**
 
-7.1    Customer agrees to pay to Patsystems the Charges as set out or calculated in accordance with the Purchase Order. Patsystems will invoice such Charges upon signature by both Parties of the relevant Purchase Order and Customer shall pay such Charges within 30 days such signature, unless otherwise stated in the Purchase Order or invoice.
+> 7.1    Customer agrees to pay to Patsystems the Charges as set out or calculated in accordance with the Purchase Order. Patsystems will invoice such Charges upon signature by both Parties of the relevant Purchase Order and Customer shall pay such Charges within 30 days such signature, unless otherwise stated in the Purchase Order or invoice.
 
-7.2    If Customer does not pay the Charges on the due date for payment, Patsystems may notify Customer of the amount overdue and require its payment within the next fourteen (14) days. If Customer does not pay the outstanding amount notified within the fourteen (14)-day period, Patsystems may by 14 days’ notice to Customer forthwith suspend the Service or any part of it, or terminate this Agreement.
+> 7.2    If Customer does not pay the Charges on the due date for payment, Patsystems may notify Customer of the amount overdue and require its payment within the next fourteen (14) days. If Customer does not pay the outstanding amount notified within the fourteen (14)-day period, Patsystems may by 14 days’ notice to Customer forthwith suspend the Service or any part of it, or terminate this Agreement.
 
-7.3    In the event that Customer in good faith disputes any portion of the Charges contained in an Invoice, the Customer will pay the undisputed portion of the invoice (provided such portion is independent and not co-dependent on the part of the Invoice disputed) on the due date in full and the Customer shall within 14 days’ from the date of receipt of the Invoice, send a notice of dispute to Patsystems setting out the reasons for the disputed amount shall set out the amount in dispute, the reason for such dispute and supporting evidence (“**Notice of Dispute**”). Pending the resolution of the disputed amount, there is suspension of payment for the Invoice in respect of the bona fide disputed amount. The Parties shall negotiate in good faith in an attempt to resolve the dispute, provided that if the dispute cannot be resolved within sixty (60) days of the date of the Invoice, matter shall be referred to for dispute resolution in accordance with the dispute resolution procedure set forth at Clause 18. If Customer does not submit Notice of Dispute within the stipulated period of 14 days’ from the date of receipt of the Invoice, Customer waives all rights to dispute the Invoice., nothing in this clause shall prevent or restrict Patsystems from instituting legal proceedings provided that Patsystems shall have complied with the mode of dispute resolution at set out in **Clauses 18** and **19**.
+> 7.3    In the event that Customer in good faith disputes any portion of the Charges contained in an Invoice, the Customer will pay the undisputed portion of the invoice (provided such portion is independent and not co-dependent on the part of the Invoice disputed) on the due date in full and the Customer shall within 14 days’ from the date of receipt of the Invoice, send a notice of dispute to Patsystems setting out the reasons for the disputed amount shall set out the amount in dispute, the reason for such dispute and supporting evidence (“**Notice of Dispute**”). Pending the resolution of the disputed amount, there is suspension of payment for the Invoice in respect of the bona fide disputed amount. The Parties shall negotiate in good faith in an attempt to resolve the dispute, provided that if the dispute cannot be resolved within sixty (60) days of the date of the Invoice, matter shall be referred to for dispute resolution in accordance with the dispute resolution procedure set forth at Clause 18. If Customer does not submit Notice of Dispute within the stipulated period of 14 days’ from the date of receipt of the Invoice, Customer waives all rights to dispute the Invoice., nothing in this clause shall prevent or restrict Patsystems from instituting legal proceedings provided that Patsystems shall have complied with the mode of dispute resolution at set out in **Clauses 18** and **19**.
 
-7.4    Customer shall pay to Patsystems interest on any overdue sum at the rate of four (4) per cent per annum over the base rate SIBOR in respect of the period between the due date for payment any undisputed portion and the date on which Patsystems receives the overdue amount. The Charges are exclusive of value added tax or any other sales or local tax duty or similar charge which shall be payable by Customer additionally. Provided always that no interest is payable on any overdue sum in the case of suspension of payment for disputed amounts and undisputed amounts (that are not independent from the disputed amounts) in accordance with Clause 7.3, if the delay in payment was caused by an error or omission from Patsystems.
+> 7.4    Customer shall pay to Patsystems interest on any overdue sum at the rate of four (4) per cent per annum over the base rate SIBOR in respect of the period between the due date for payment any undisputed portion and the date on which Patsystems receives the overdue amount. The Charges are exclusive of value added tax or any other sales or local tax duty or similar charge which shall be payable by Customer additionally. Provided always that no interest is payable on any overdue sum in the case of suspension of payment for disputed amounts and undisputed amounts (that are not independent from the disputed amounts) in accordance with Clause 7.3, if the delay in payment was caused by an error or omission from Patsystems.
 
-…
+> …
 
-**10**.     **WARRANTIES**
+> **10**.     **WARRANTIES**
 
-10.1  Patsystems warrants that the Software will comply with the Specifications set out in the Project Plan at the date of Acceptance and operate on the media on which they are supplied immediately on installation subject to their having been installed on the Equipment. Customer’s sole remedy in the event of the Software not so operating satisfactorily will be (at the option of Customer) either the supply and installation on the Equipment of replacement versions of the Software or the refund of any unused sums already paid by Customer to Patsystems on a pro rata basis.
+> 10.1  Patsystems warrants that the Software will comply with the Specifications set out in the Project Plan at the date of Acceptance and operate on the media on which they are supplied immediately on installation subject to their having been installed on the Equipment. Customer’s sole remedy in the event of the Software not so operating satisfactorily will be (at the option of Customer) either the supply and installation on the Equipment of replacement versions of the Software or the refund of any unused sums already paid by Customer to Patsystems on a pro rata basis.
 
-10.2  Patsystems warrants that either it is the legal and beneficial owner of the Software or an Authorised Licensee thereof with full right to licence such Software to Customer as provided in this Agreement. Patsystems further warrants that to the best of its knowledge and belief the Software does not infringe the intellectual property infringement rights of any third party. As far as Patsystems is aware, there are no third party intellectual property infringement claims brought against Patsystems in respect of the software.
+> 10.2  Patsystems warrants that either it is the legal and beneficial owner of the Software or an Authorised Licensee thereof with full right to licence such Software to Customer as provided in this Agreement. Patsystems further warrants that to the best of its knowledge and belief the Software does not infringe the intellectual property infringement rights of any third party. As far as Patsystems is aware, there are no third party intellectual property infringement claims brought against Patsystems in respect of the software.
 
-10.3  The limited express warranties set forth in this clause 10 are made to Customer exclusively and are in lieu of all other warranties and all conditions, warranties or other terms concerning the Software and System which might otherwise be implied into this Agreement or any collateral contract (whether by statute or otherwise) are hereby expressly excluded
+> 10.3  The limited express warranties set forth in this clause 10 are made to Customer exclusively and are in lieu of all other warranties and all conditions, warranties or other terms concerning the Software and System which might otherwise be implied into this Agreement or any collateral contract (whether by statute or otherwise) are hereby expressly excluded
 
-10.3  Patsystems warrants that it has used its reasonable effort to scan the Software using up to date anti-virus software to check that the Software does not, upon delivery to Customer, contain any commonly known virus, worm or other code designed to disable, damage the Software.
+> 10.3  Patsystems warrants that it has used its reasonable effort to scan the Software using up to date anti-virus software to check that the Software does not, upon delivery to Customer, contain any commonly known virus, worm or other code designed to disable, damage the Software.
 
-**10.4**      **PATSYSTEMS AND PATSYSTEMS PARTIES MAKE NO OTHER WARRANTIES WHATSOEVER, EXPRESS OR IMPLIED, WITH REGARD TO ANY PRODUCTS AND SERVICES PROVIDED UNDER THIS AGREEMENT, AND/OR THE SOFTWARE, IN WHOLE OR IN PART.**
+> **10.4**      **PATSYSTEMS AND PATSYSTEMS PARTIES MAKE NO OTHER WARRANTIES WHATSOEVER, EXPRESS OR IMPLIED, WITH REGARD TO ANY PRODUCTS AND SERVICES PROVIDED UNDER THIS AGREEMENT, AND/OR THE SOFTWARE, IN WHOLE OR IN PART.**
 
-**10.4.1**      **WITHOUT LIMITING THE FOREGOING, PATSYSTEMS AND PATSYSTEMS PARTIES EXPLICITLY DISCLAIMS:**
+> **10.4.1**      **WITHOUT LIMITING THE FOREGOING, PATSYSTEMS AND PATSYSTEMS PARTIES EXPLICITLY DISCLAIMS:**
 
-**10.4.2**      **ALL WARRANTIES OF SUITABILITY AND OF FITNESS FOR A PARTICULAR PURPOSE;**
+> **10.4.2**      **ALL WARRANTIES OF SUITABILITY AND OF FITNESS FOR A PARTICULAR PURPOSE;**
 
-**10.4.3**      **THAT THE SOFTWARE OR SYSTEM, IN WHOLE OR IN PART, WILL BE ERROR FREE OR WILL OPERATE WITHOUT INTERRUPTION;**
+> **10.4.3**      **THAT THE SOFTWARE OR SYSTEM, IN WHOLE OR IN PART, WILL BE ERROR FREE OR WILL OPERATE WITHOUT INTERRUPTION;**
 
-**10.4.4**      **THAT THE SOFTWARE WILL BE COMPATIBLE WITH ANY HARDWARE OR SOFTWARE OTHER THAN THE EQUIPMENT.**
+> **10.4.4**      **THAT THE SOFTWARE WILL BE COMPATIBLE WITH ANY HARDWARE OR SOFTWARE OTHER THAN THE EQUIPMENT.**
 
-…
+> …
 
-**16**.     **ENTIRE AGREEMENT**
+> **16**.     **ENTIRE AGREEMENT**
 
-16.1  This Agreement supersedes all prior agreements arrangements and understandings (whether express or implied, written or oral) between the Parties in relation to the subject matter of this Agreement and constitutes the entire agreement between the Parties to the exclusion of all other terms conditions and warranties express or implied, written or oral.
+> 16.1  This Agreement supersedes all prior agreements arrangements and understandings (whether express or implied, written or oral) between the Parties in relation to the subject matter of this Agreement and constitutes the entire agreement between the Parties to the exclusion of all other terms conditions and warranties express or implied, written or oral.
 
-…
+> …
 
-**22**.     **GENERAL PROVISIONS**
+> **22**.     **GENERAL PROVISIONS**
 
-22.1   Variation Proposed modifications or amendments to this Agreement shall be enforceable only if they are in writing in accordance with the change order and are signed by Authorised representatives of both Parties.
+> 22.1   Variation Proposed modifications or amendments to this Agreement shall be enforceable only if they are in writing in accordance with the change order and are signed by Authorised representatives of both Parties.
 
-22.2   No Waiver No term or provision of this Agreement shall be deemed waived and no breach excused unless such waiver or consent is in writing and signed by the Party claimed to have so waived or consented. No omission or delay on the part of any Party in exercising any right, power or privilege under this Agreement shall operate as a waiver by it of any right to exercise it in future or of any other of its rights under this Agreement.
+> 22.2   No Waiver No term or provision of this Agreement shall be deemed waived and no breach excused unless such waiver or consent is in writing and signed by the Party claimed to have so waived or consented. No omission or delay on the part of any Party in exercising any right, power or privilege under this Agreement shall operate as a waiver by it of any right to exercise it in future or of any other of its rights under this Agreement.
 
-…
+> …
 
-**Schedule 3: Project Plan**
+> **Schedule 3: Project Plan**
 
-**Acceptance Criteria – on a component by component basis**
+> **Acceptance Criteria – on a component by component basis**
 
-(a)    The Customer agree to commence the Acceptance Testing (which shall be no later than 3 days from the date of completion of the installation of Software by Supplier) (“Ready for Acceptance Testing Date”); The Acceptance Criteria and data shall be as such as is reasonably required to show that the System complies with the Documentation. The Supplier shall provide the Customer with reasonable assistance to prepare such user acceptance criteria and test data at the Customer’s request. The Customer shall have 45 Business Days to test the Software for compliance with the Documentation.
+> (a)    The Customer agree to commence the Acceptance Testing (which shall be no later than 3 days from the date of completion of the installation of Software by Supplier) (“Ready for Acceptance Testing Date”); The Acceptance Criteria and data shall be as such as is reasonably required to show that the System complies with the Documentation. The Supplier shall provide the Customer with reasonable assistance to prepare such user acceptance criteria and test data at the Customer’s request. The Customer shall have 45 Business Days to test the Software for compliance with the Documentation.
 
-(b)    The Customer shall confirm acceptance by issuing written notice of acceptance. If there is non-compliance, the Customer shall issue notice of non-compliance setting out the non compliance with the Documentation. If no written notice of acceptance or notice of non-compliance is issued by Customer within 45 Business Days after Software’s installation, or if the Software is used in a live environment then the Software shall be deemed to have been accepted or upon 30th November 2009 (which ever the earlier).(“Deemed Acceptance”)
+> (b)    The Customer shall confirm acceptance by issuing written notice of acceptance. If there is non-compliance, the Customer shall issue notice of non-compliance setting out the non compliance with the Documentation. If no written notice of acceptance or notice of non-compliance is issued by Customer within 45 Business Days after Software’s installation, or if the Software is used in a live environment then the Software shall be deemed to have been accepted or upon 30th November 2009 (which ever the earlier).(“Deemed Acceptance”)
 
-(c)    In the event that, within 45 Business Days after the Software’s installation, Customer sends a written notice of non-compliance to Supplier, identifying particular Defects in the Software, Supplier will use reasonable efforts to correct the Detects properly specified in the rejection notice without any charges. When it believes that it has made the necessary corrections, Supplier will resubmit the Software to the Customer and the provisions above shall be reapplied for acceptance in accordance with the above.
+> (c)    In the event that, within 45 Business Days after the Software’s installation, Customer sends a written notice of non-compliance to Supplier, identifying particular Defects in the Software, Supplier will use reasonable efforts to correct the Detects properly specified in the rejection notice without any charges. When it believes that it has made the necessary corrections, Supplier will resubmit the Software to the Customer and the provisions above shall be reapplied for acceptance in accordance with the above.
 
-(d)    If Supplier fails to secure acceptance in accordance with the above within 3 months following Customer’s first receipt of the Software, Customer shall have the option to (i) allow Supplier to continue to attempt to resolve the problem related to the Defect, or (ii) at any time accept the Software ‘as is’ or (iii) reject Software with at least 14 days’ written notice in which the Customer shall be entitled to a pro-rated refund of all payments made to Supplier, If the Customer does not elect any of the above or puts the Software into use then the Software shall be deemed to be accepted.
+> (d)    If Supplier fails to secure acceptance in accordance with the above within 3 months following Customer’s first receipt of the Software, Customer shall have the option to (i) allow Supplier to continue to attempt to resolve the problem related to the Defect, or (ii) at any time accept the Software ‘as is’ or (iii) reject Software with at least 14 days’ written notice in which the Customer shall be entitled to a pro-rated refund of all payments made to Supplier, If the Customer does not elect any of the above or puts the Software into use then the Software shall be deemed to be accepted.
 
-…
+> …
 
-**Schedule 5: Support and Maintenance Services**
+> **Schedule 5: Support and Maintenance Services**
 
-**2.1**      **Purpose**
+> **2.1**      **Purpose**
 
-The purpose of this document is to define the support and maintenance services (“Services”) to be provided by Patsystems to the Customer pursuant to the Agreement and in accordance with the terms set out below. To the extent that there is any inconsistency between this schedule and the Agreement, the terms of the Agreement shall prevail.
+> The purpose of this document is to define the support and maintenance services (“Services”) to be provided by Patsystems to the Customer pursuant to the Agreement and in accordance with the terms set out below. To the extent that there is any inconsistency between this schedule and the Agreement, the terms of the Agreement shall prevail.
 
-…
+> …
 
-**2.2**      **Overview**
+> **2.2**      **Overview**
 
-Patsystems aim is to provide systems that meet business needs, are reliable, available and well supported. Central to the achievement of this aim is effective service management by Patsystems in conjunction with our Customer.
+> Patsystems aim is to provide systems that meet business needs, are reliable, available and well supported. Central to the achievement of this aim is effective service management by Patsystems in conjunction with our Customer.
 
-The information contained in this documentation is for guidance. The Customer is ultimately responsible for providing the appropriate level of service to its own end users.
+> The information contained in this documentation is for guidance. The Customer is ultimately responsible for providing the appropriate level of service to its own end users.
 
-\[emphasis in original in bold\]
+> \[emphasis in original in bold\]
 
 7       A copy of the Addendum of 1 May 2010 is found at pp 74 to 77 of Mr Oliviero’s AEIC. The Addendum was stated to be incorporated into and to form part of the Licence Agreement; and in the event of any conflict between its terms and those of the Licence Agreement, the former were to prevail.[^6] In gist, the Addendum made a number of additional provisions in relation to the payment of S&M fees by the Defendant. In particular, it put in place a process whereby the two parties would conduct six-monthly reviews of the software system provided by the Plaintiff to the Defendant to ensure that the system was meeting “business needs, … reliable and well-supported”. The process put in place by the Addendum prescribed _inter alia_ the manner in which the Defendant would give the Plaintiff notice of non-compliance and how it would be entitled to seek a refund of the S&M charges payable under the Addendum subsequent to such notification of non-compliance.
 
 8       I reproduce below the more pertinent clauses in the Addendum:
 
-**5**.     **The Charges**
+> **5**.     **The Charges**
 
-All charges are exclusive of GST (to be paid by the Customer). The following charges shall be applied in USD to the installations at all locations.
+> All charges are exclusive of GST (to be paid by the Customer). The following charges shall be applied in USD to the installations at all locations.
 
-**II. System Support and Maintenance Annual Fee’s**
+> **II. System Support and Maintenance Annual Fee’s**
 
-Matching Engine System support yearly fee **USD $ 150,000 per year**
+> Matching Engine System support yearly fee **USD $ 150,000 per year**
 
-E-Broker Core System and Front-End fee **USD $75,000 per year**
+> E-Broker Core System and Front-End fee **USD $75,000 per year**
 
-**For the period, 1st January 2010 through to 31st December 2010, Customer will be billed:**
+> **For the period, 1st January 2010 through to 31st December 2010, Customer will be billed:**
 
-$150,000 for Matching Engine System support
+> $150,000 for Matching Engine System support
 
-$75,000 for E-Broker Core System and Front-End support
+> $75,000 for E-Broker Core System and Front-End support
 
-This will be payable in two instalments:
+> This will be payable in two instalments:
 
-1st June 2010:    $112,500
+> 1st June 2010:    $112,500
 
-1st December 2010:    $112,500
+> 1st December 2010:    $112,500
 
-**For the period, 1st January 2011 through to 31st May 2011, Patsystems has agreed to waiver all support fees and therefore no support fees will be payable by the customer for the above support and maintenance of the Matching Engine and E-Broker systems**
+> **For the period, 1st January 2011 through to 31st May 2011, Patsystems has agreed to waiver all support fees and therefore no support fees will be payable by the customer for the above support and maintenance of the Matching Engine and E-Broker systems**
 
-**For the period, 1st June 2011 through to 31st December 2011, Customer will be billed:**
+> **For the period, 1st June 2011 through to 31st December 2011, Customer will be billed:**
 
-$75,000 for Matching Engine System support
+> $75,000 for Matching Engine System support
 
-$37,500 for E-Broker Core System and Front-End support
+> $37,500 for E-Broker Core System and Front-End support
 
-This will be payable in one instalment:
+> This will be payable in one instalment:
 
-1st June 2011:    $112,500
+> 1st June 2011:    $112,500
 
-**From 1st January 2012:**
+> **From 1st January 2012:**
 
-All system Support and Maintenance costs shall be chargeable annually in advance from the 1st January 2012 and payable each year thereafter on the same date for as long as this agreement remains in place.
+> All system Support and Maintenance costs shall be chargeable annually in advance from the 1st January 2012 and payable each year thereafter on the same date for as long as this agreement remains in place.
 
-**SCHEDULE 5 – SUPPORT AND MAINTENANCE SERVICES**
+> **SCHEDULE 5 – SUPPORT AND MAINTENANCE SERVICES**
 
-**Clause 2.2**
+> **Clause 2.2**
 
-First paragraph, third line, the word “annually” shall be replaced with “every (6) six months” and shall read as follows:-
+> First paragraph, third line, the word “annually” shall be replaced with “every (6) six months” and shall read as follows:-
 
-This document will remain in effect until replaced with an undated version which must be agreed by both Parties in writing. It will be reviewed regularly for accuracy and completeness. It is intended that the first review will take place 6 months after issue, with subsequent reviews taking place every six (6) months after this date. The review shall be conducted in accordance to Review Criteria in this Addendum.
+> This document will remain in effect until replaced with an undated version which must be agreed by both Parties in writing. It will be reviewed regularly for accuracy and completeness. It is intended that the first review will take place 6 months after issue, with subsequent reviews taking place every six (6) months after this date. The review shall be conducted in accordance to Review Criteria in this Addendum.
 
-**REVIEW CRITERIA**
+> **REVIEW CRITERIA**
 
-(1)    Both BKDI and PPL agree to conduct a review every six (6) months starting 1st January 2011, 1st July 2011, 1st January 2012 and 1st July 2012, review shall be conducted no later than 30 days from the stipulated dates. The review shall be such as is reasonably required to show that the System complies with PPL objectives of providing a system that meet business needs, are reliable and well supported.
+> (1)    Both BKDI and PPL agree to conduct a review every six (6) months starting 1st January 2011, 1st July 2011, 1st January 2012 and 1st July 2012, review shall be conducted no later than 30 days from the stipulated dates. The review shall be such as is reasonably required to show that the System complies with PPL objectives of providing a system that meet business needs, are reliable and well supported.
 
-(2)    BKDI shall confirm acceptance of BKDI’s review by issuing written notice of acceptance. If there is non-compliance, BKDI shall issue notice of non-compliance. If no written notice of acceptance or notice of non-compliance is issued by BKDI within 30 business days after the stipulated review dates above then the System shall be deemed to have been accepted.
+> (2)    BKDI shall confirm acceptance of BKDI’s review by issuing written notice of acceptance. If there is non-compliance, BKDI shall issue notice of non-compliance. If no written notice of acceptance or notice of non-compliance is issued by BKDI within 30 business days after the stipulated review dates above then the System shall be deemed to have been accepted.
 
-(3)    In the event that, within 30 Business Days after the review, BKDI sends a written notice of non-compliance to PPL, identifying particular Defects in the System, PPL will use reasonable efforts to correct the Defects properly specified in the rejection notice without any charges. When it believes that it has made the necessary corrections, BKDI shall review again and the provisions above shall be reapplied for acceptance in accordance with the above.
+> (3)    In the event that, within 30 Business Days after the review, BKDI sends a written notice of non-compliance to PPL, identifying particular Defects in the System, PPL will use reasonable efforts to correct the Defects properly specified in the rejection notice without any charges. When it believes that it has made the necessary corrections, BKDI shall review again and the provisions above shall be reapplied for acceptance in accordance with the above.
 
-(4)    If PPL fails to secure acceptance in accordance with the above within one (1) month following BKD’s review, BKDI shall have the option to (i) allow PPL to continue to attempt to resolve the problem related to the Defect, or (ii) at any time accept the review ‘as is’ or (iii) with at least 14 days’ written notice, BKDI shall be entitled to a refund and/or discount of the Charges payable under this Addendum.
+> (4)    If PPL fails to secure acceptance in accordance with the above within one (1) month following BKD’s review, BKDI shall have the option to (i) allow PPL to continue to attempt to resolve the problem related to the Defect, or (ii) at any time accept the review ‘as is’ or (iii) with at least 14 days’ written notice, BKDI shall be entitled to a refund and/or discount of the Charges payable under this Addendum.
 
-The review shall be conducted in accordance with the guidelines of Schedule 5 – Support and Maintenance Services
+> The review shall be conducted in accordance with the guidelines of Schedule 5 – Support and Maintenance Services
 
 ## Summary of the parties’ cases
 
@@ -183,87 +183,87 @@ The review shall be conducted in accordance with the guidelines of Schedule 5 �
 
 11     The Defendant’s case, on the other hand, was that subsequent to the signing of the Licence Agreement and the Addendum, the parties had agreed in their email correspondence on legally binding contractual variations. The Defendant claimed that the basis for the first such contractual variation – which the Defendant termed “the Arrangement” – was set out in an email sent by the Plaintiff’s then Regional Director of Asia-Pacific, one Barry White (“Mr White”) on 30 May 2011.[^9] According to the Defence and Counter-claim filed by the Defendant, the terms of the Arrangement were as follows:[^10]
 
-(a)     that the Plaintiff would replace the Defendant’s existing software system with a new system called the Global Trading Administration (“GTA”), “subject to \[the Defendant’s\] comfort and confidence that the GTA would indeed resolve the issues faced by the Defendant”, and that the GTA would be offered to the Defendant “for test purposes over the course of the next three months, i.e. until the end of August 2011”;
+> (a)     that the Plaintiff would replace the Defendant’s existing software system with a new system called the Global Trading Administration (“GTA”), “subject to \[the Defendant’s\] comfort and confidence that the GTA would indeed resolve the issues faced by the Defendant”, and that the GTA would be offered to the Defendant “for test purposes over the course of the next three months, i.e. until the end of August 2011”;
 
-(b)     that “\[i\]n exchange”, the Defendant would pay the S&M fees of US$112,500 then outstanding for the S&M period of 30 June 2010 to 31 December 2010; and
+> (b)     that “\[i\]n exchange”, the Defendant would pay the S&M fees of US$112,500 then outstanding for the S&M period of 30 June 2010 to 31 December 2010; and
 
-(c)     that the Defendant “would withhold the payments for the S&M fees until the point that the GTA was implemented, and/or the Defendant signed off on the documents accepting the GTA”.
+> (c)     that the Defendant “would withhold the payments for the S&M fees until the point that the GTA was implemented, and/or the Defendant signed off on the documents accepting the GTA”.
 
 12     The Defendant claimed[^11] that the parties subsequently renegotiated the terms of the Arrangement and that a second contractual variation followed, the terms of which were to be found in Mr White’s email of 28 March 2012.[^12] These, according to the Defence and Counter-claim, were as follows:
 
-(a)     that the Defendant would pay the Plaintiff the annual S&M fee of US$75,000 for the E-Broker Core System and Front-End; and
+> (a)     that the Defendant would pay the Plaintiff the annual S&M fee of US$75,000 for the E-Broker Core System and Front-End; and
 
-(b)     that the Defendant “was entitled to withhold” the annual S&M fee of US$150,000 for the Matching Engine Support “until the GTA was implemented”.
+> (b)     that the Defendant “was entitled to withhold” the annual S&M fee of US$150,000 for the Matching Engine Support “until the GTA was implemented”.
 
 13     For ease of reference, I reproduce below the contents of Mr White’s emails of 30 May 2011 and 28 March 2012.
 
-**Email from Barry White sent on 30 May 2011 at 11.19am**
+> **Email from Barry White sent on 30 May 2011 at 11.19am**
 
-_Hi Arwadi_,
+> _Hi Arwadi_,
 
-_Thank you for your time the other day to discuss the S&M payments etc.. As mentioned its slightly hard for me to have part of this payment held back, mainly because the due date for payment was Dec 1st 2010 and after six months of non payment becomes a problem on the bad debtor books for the auditors to balance.. as beyond 6 months tends to be the cut of date for aged debt before moving into this stage on the books. I do however have a better idea based on your comments below and refers to the next installment which is due on the 1st June 2011 which is part of the Addendum 1 agreement attached._
+> _Thank you for your time the other day to discuss the S&M payments etc.. As mentioned its slightly hard for me to have part of this payment held back, mainly because the due date for payment was Dec 1st 2010 and after six months of non payment becomes a problem on the bad debtor books for the auditors to balance.. as beyond 6 months tends to be the cut of date for aged debt before moving into this stage on the books. I do however have a better idea based on your comments below and refers to the next installment which is due on the 1st June 2011 which is part of the Addendum 1 agreement attached._
 
-_In respect of the attached addendum I would propose the following:_
+> _In respect of the attached addendum I would propose the following:_
 
-_1_.     _ICDX to pay the full $112,500 for the S&M period of June 30th 2010 till December 31st 2010 I_ \[sic\] _which case would close off the 2010 books for Patsystems etc.._
+> _1_.     _ICDX to pay the full $112,500 for the S&M period of June 30th 2010 till December 31st 2010 I_ \[sic\] _which case would close off the 2010 books for Patsystems etc.._
 
-_2_.     _Patsystems to offer ICDX the offering of holding the $112,500 S&M payment which is due June 1st 2011 and caters for the S&M until the 31st December 2011_
+> _2_.     _Patsystems to offer ICDX the offering of holding the $112,500 S&M payment which is due June 1st 2011 and caters for the S&M until the 31st December 2011_
 
-_3_.     _Patsystems to only request the payment for the $112,500 at the point where ICDX signoff on the GT PME system. Which shall be offered in the coming weeks_
+> _3_.     _Patsystems to only request the payment for the $112,500 at the point where ICDX signoff on the GT PME system. Which shall be offered in the coming weeks_
 
-_4_.     _Patsystems to offer their New installed in-house GT system to ICDX for test purposes over the course of the next 3 months until the end of August 2011_
+> _4_.     _Patsystems to offer their New installed in-house GT system to ICDX for test purposes over the course of the next 3 months until the end of August 2011_
 
-_5_.     _Patsystems to work to a plan with ICDX to have a GT system installed on ICDX hardware, to at least have a system in house for low impact testing, due to hardware restrictions_
+> _5_.     _Patsystems to work to a plan with ICDX to have a GT system installed on ICDX hardware, to at least have a system in house for low impact testing, due to hardware restrictions_
 
-_Can you please let me know if this would work for ICDX, as I think it’s a reasonable plan moving forward and will endeavor that we all work to making the GT system a reality plan for ICDX given the enhancements and offering that will solve many features ICDX requires for their business moving forward._
+> _Can you please let me know if this would work for ICDX, as I think it’s a reasonable plan moving forward and will endeavor that we all work to making the GT system a reality plan for ICDX given the enhancements and offering that will solve many features ICDX requires for their business moving forward._
 
-_I have answered the individual questions below to help on answering all questions_
+> _I have answered the individual questions below to help on answering all questions_
 
-_We are very thankful for your offer and we look forward to move on. However, our shareholders have a few points to consider as well. Some of the points are:_
+> _We are very thankful for your offer and we look forward to move on. However, our shareholders have a few points to consider as well. Some of the points are:_
 
-_1_.     _GT is a new platform and we don’t have a chance to have a feel of it._
+> _1_.     _GT is a new platform and we don’t have a chance to have a feel of it._
 
-_A: We shall offer access to the GT system as soon as the Australian service is running which shall be in 2 weeks time, in the meantime access to the Singapore GT system will be given to start some training on this platform. Please note that the systems will be shared environments using segregation_
+> _A: We shall offer access to the GT system as soon as the Australian service is running which shall be in 2 weeks time, in the meantime access to the Singapore GT system will be given to start some training on this platform. Please note that the systems will be shared environments using segregation_
 
-_2_.     _What if GT doesn’t solve our current problem._
+> _2_.     _What if GT doesn’t solve our current problem._
 
-_A: The GT has been built to solve the current issues of the Circuit Breakers being able to change mid session etc.. The GT system shares a database with the PME, so there is no chance that information in the PME and GT Core can be different, I think any issues that you do have will be resolved here. I shall have someone run over the current list of issues rasied_ \[sic\] _to make sure these are covered._
+> _A: The GT has been built to solve the current issues of the Circuit Breakers being able to change mid session etc.. The GT system shares a database with the PME, so there is no chance that information in the PME and GT Core can be different, I think any issues that you do have will be resolved here. I shall have someone run over the current list of issues rasied_ \[sic\] _to make sure these are covered._
 
-_3_.     _What if we would go through the same experience with the current platform._
+> _3_.     _What if we would go through the same experience with the current platform._
 
-_A:_      _I hope none of this will be the case and if any of it is, you will not sign off on the UAT and hold back the money. I cant guarantee that nothing will ever go wrong here, as we are in the age of technology and therefore things can go wrong either it be hardware or software, I do think our system has a good stability around it and has been built with a dual core aspect for durability. The greatest of Exchanges as you would have seen in the past 12 months have crashed a great deal, So I think it’s hard to say it’s full proof but do feel this will solve many problems that have been experienced due to separate OMS and Matching databases._
+> _A:_      _I hope none of this will be the case and if any of it is, you will not sign off on the UAT and hold back the money. I cant guarantee that nothing will ever go wrong here, as we are in the age of technology and therefore things can go wrong either it be hardware or software, I do think our system has a good stability around it and has been built with a dual core aspect for durability. The greatest of Exchanges as you would have seen in the past 12 months have crashed a great deal, So I think it’s hard to say it’s full proof but do feel this will solve many problems that have been experienced due to separate OMS and Matching databases._
 
-_We have had many internal meetings and tried to come with resolution for Pats and ICDX. We came out with some proposal as follows:_
+> _We have had many internal meetings and tried to come with resolution for Pats and ICDX. We came out with some proposal as follows:_
 
-_1_.     _We agree to accept your offer to upgrade to GT_
+> _1_.     _We agree to accept your offer to upgrade to GT_
 
-_A:_      _We shall offer the Singapore/Sydney systems until we find a comfortable level for the ICDX test system to be upgraded for low impact testing_
+> _A:_      _We shall offer the Singapore/Sydney systems until we find a comfortable level for the ICDX test system to be upgraded for low impact testing_
 
-_2_.     _Until we are comfortable and have confident with GT, we would temporarily hold $75,000 yearly from the annual S&M fee._
+> _2_.     _Until we are comfortable and have confident with GT, we would temporarily hold $75,000 yearly from the annual S&M fee._
 
-_A:_      _As per my offering above from points 1 to 5 this shall supersede from the withholding in this point 2_
+> _A:_      _As per my offering above from points 1 to 5 this shall supersede from the withholding in this point 2_
 
-_3_.     _The accumulated $75,000 would be fully paid to Pats, after we sign acceptance for GT._
+> _3_.     _The accumulated $75,000 would be fully paid to Pats, after we sign acceptance for GT._
 
-_A:_      _this shall now become $112,500 which shall be paid to Pats after ICDX sign acceptance for GT_
+> _A:_      _this shall now become $112,500 which shall be paid to Pats after ICDX sign acceptance for GT_
 
-_I hope these points are acceptable and I look forward to working with ICDX to build further trust and functionality on the system to give you customers the greatest offering. Just as an FYI your new GT system will have a great deal of enhanced Risk functionality along with a true 24hr platform which runs over 6 days a week, which shall be the first for South East Asia.. give that GL, TT or CQG do not offer true 24hr/6 trading on their systems for the Overseas markets._
+> _I hope these points are acceptable and I look forward to working with ICDX to build further trust and functionality on the system to give you customers the greatest offering. Just as an FYI your new GT system will have a great deal of enhanced Risk functionality along with a true 24hr platform which runs over 6 days a week, which shall be the first for South East Asia.. give that GL, TT or CQG do not offer true 24hr/6 trading on their systems for the Overseas markets._
 
-_Please let me know your thoughts on this. I have also received your email on the Phillip Market Maker and shall address this for ICDX._
+> _Please let me know your thoughts on this. I have also received your email on the Phillip Market Maker and shall address this for ICDX._
 
-\[emphasis in original in grey\]
+> \[emphasis in original in grey\]
 
-**Email from Barry White sent on 28 March 2012 at 2.23pm**
+> **Email from Barry White sent on 28 March 2012 at 2.23pm**
 
-_Hi Arwadi_,
+> _Hi Arwadi_,
 
-_Thank you for your time yesterday to talk over the system and how we can move forward with everything. As mentioned we are now at a stage where we need to work through an agreement with the outstanding Support & Maintenance mainly because the build up of this value with be 225,000 USD as of June 30th .. which is quite a large amount running into the remainder of the year. And will be something of a value which will concern our parent company as we look to work closely with ICDX for further growth at discount installations etc.._
+> _Thank you for your time yesterday to talk over the system and how we can move forward with everything. As mentioned we are now at a stage where we need to work through an agreement with the outstanding Support & Maintenance mainly because the build up of this value with be 225,000 USD as of June 30th .. which is quite a large amount running into the remainder of the year. And will be something of a value which will concern our parent company as we look to work closely with ICDX for further growth at discount installations etc.._
 
-_So in light of this, Could you please discuss internally on my compromise of ICDX paying the outstanding amounts of the OMS (E-Broker Core System) which is 75,000 USD from the 1st July 2011 to the 30th June 2012.. there will still be a 150,000 USD payment for the S&M on the Matching Engine Support that ICDX will hold (which is for the same period) .. until we move the platforms onto the GT system, but this will allow for me to continue with other initiative like the X-link PALN projects etc.._
+> _So in light of this, Could you please discuss internally on my compromise of ICDX paying the outstanding amounts of the OMS (E-Broker Core System) which is 75,000 USD from the 1st July 2011 to the 30th June 2012.. there will still be a 150,000 USD payment for the S&M on the Matching Engine Support that ICDX will hold (which is for the same period) .. until we move the platforms onto the GT system, but this will allow for me to continue with other initiative like the X-link PALN projects etc.._
 
-_As also mentioned the GT system has been tested for the Back Office JV2 and also the physical delivery and is at a point where we are ready to introduce the system to ICDX as a short term test, before looking at this being the replacement of the existing VMS system you have and the move from your existing Data Centre which is planned for July 2012._
+> _As also mentioned the GT system has been tested for the Back Office JV2 and also the physical delivery and is at a point where we are ready to introduce the system to ICDX as a short term test, before looking at this being the replacement of the existing VMS system you have and the move from your existing Data Centre which is planned for July 2012._
 
-_please let me know how you go with your discussions, but I think this is a very fair play from Patsystems with these outstanding amounts and feel it will allow for goodwill to be passed between our businesses as we look to grow together in Indonesia._
+> _please let me know how you go with your discussions, but I think this is a very fair play from Patsystems with these outstanding amounts and feel it will allow for goodwill to be passed between our businesses as we look to grow together in Indonesia._
 
 14     As to the Defendant’s counter-claim, as noted at the start of these written grounds, the Defendant pleaded breaches by the Plaintiff of “the terms, whether express or implied, of the \[Licence\] Agreement and Addendum”,[^13] in respect of which it sought the refund of the entire licence fee or, alternatively, damages. The Defendant did not plead any specific implied terms in the Defence and Counter-claim. Instead, it referred to clause 10.1 of the Licence Agreement, clause 2.2 of Schedule 5 of the Licence Agreement, and the Review Criteria set out in the Addendum.[^14]
 
@@ -281,59 +281,59 @@ _please let me know how you go with your discussions, but I think this is a very
 
 20     Mr Oliviero also testified that from what he could see, the “offers” made by Mr White to the Defendant – such as the “offer” of the GTA system – were “commercial concessions” which the Plaintiff was not contractually obliged to make, and which Mr White made because he “was trying to have a positive experience” for “a new client”.[^25] It was pointed out to Mr Oliviero that the bulk of the contested invoices were issued from June 2013 onwards and that following Mr White’s email of 30 May 2011, the Plaintiff had not in fact issued invoices to the Defendant for S&M payments in 2011 and 2012 (leaving aside the invoice of 28 March 2012[^26] which formed one of the contested invoices). In response to defence counsel suggesting that this showed the Plaintiff to be “abiding by the agreement that \[Mr White\] had struck with the Defendant in May 2011” to let the Defendant withhold “annualised S&M fees”, Mr Oliviero initially stated that he thought it suggested the Plaintiff “was effectively working to implement that agreement”.[^27] However, in re-examination, he clarified that in using the term “agreement”, what he had been referring to was “the discussion between \[Mr White\] and \[the Defendant\]”:[^28]
 
-I was referring to the discussion between Barry \[Mr White\] and ICDX \[the Defendant\] on the revised payment structure and so I think my expectation would be that, until the discussion are ongoing, the company would have not issued specific invoices but, as we’ve already discussed, I don’t believe a final agreement was ever reached … \[T\]here was continuous emails going back and forth around what would be the payment structure that ICDX wanted, Barry going back with alternative or with revised pricing and effectively Barry and ICDX trying to reach or having a discussion around what agreement they wanted to reach and how they wanted to change the contract, yeah.
+> I was referring to the discussion between Barry \[Mr White\] and ICDX \[the Defendant\] on the revised payment structure and so I think my expectation would be that, until the discussion are ongoing, the company would have not issued specific invoices but, as we’ve already discussed, I don’t believe a final agreement was ever reached … \[T\]here was continuous emails going back and forth around what would be the payment structure that ICDX wanted, Barry going back with alternative or with revised pricing and effectively Barry and ICDX trying to reach or having a discussion around what agreement they wanted to reach and how they wanted to change the contract, yeah.
 
 21     Mr Oliviero also testified that following Mr White’s briefing to him in May 2012 regarding the Defendant’s account, he did not hear from Mr White again until 28 August 2012, when the latter forwarded to him an email of the same date from the Defendant’s Mr Setiabudi.[^29] The key contents of Mr Setiabudi’s email to Mr White were as follows:
 
-**Email from Mr Setiabudi to Mr White on 28 August 2012 at 6.23pm**
+> **Email from Mr Setiabudi to Mr White on 28 August 2012 at 6.23pm**
 
-_Dear Barry_,
+> _Dear Barry_,
 
-_Following up our meeting in Singapore, we would like to establish a common ground so that both of us would see the same picture as our contract is coming to conclusion in September._
+> _Following up our meeting in Singapore, we would like to establish a common ground so that both of us would see the same picture as our contract is coming to conclusion in September._
 
-_We apologize for the late reply because we have to wait for the shareholders’ periodical meeting, and Patsystems was among the agenda to be discussed._
+> _We apologize for the late reply because we have to wait for the shareholders’ periodical meeting, and Patsystems was among the agenda to be discussed._
 
-_As the results of the meeting, the followings are our points of views with the explanation behind them:_
+> _As the results of the meeting, the followings are our points of views with the explanation behind them:_
 
-_1_.     _We bought the systems as a whole from front up to clearing modules._
+> _1_.     _We bought the systems as a whole from front up to clearing modules._
 
-_2_.     _However, since the very beginning, we can only utilize the OMS (front end) up to its potential. Thus, we have agreed that ICDX should pay only the Support and Maintenance (S & M) of the OMS only, which is USD 75,000 annually._
+> _2_.     _However, since the very beginning, we can only utilize the OMS (front end) up to its potential. Thus, we have agreed that ICDX should pay only the Support and Maintenance (S & M) of the OMS only, which is USD 75,000 annually._
 
-_3_.     _In addition, we also were promised to get upgraded to GT systems which should fix a lot of the shortfalls of the current version._
+> _3_.     _In addition, we also were promised to get upgraded to GT systems which should fix a lot of the shortfalls of the current version._
 
-_4_.     _Looking at the Schedule of the Addendum No. 1 to The License Agreement, the S & M periods are implied as follows:_
+> _4_.     _Looking at the Schedule of the Addendum No. 1 to The License Agreement, the S & M periods are implied as follows:_
 
-_Period Year 1: 1st January 2010 through to 31st December 2010_
+> _Period Year 1: 1st January 2010 through to 31st December 2010_
 
-_Period Year 2: 1st June 2011 through to 31st May 2012_
+> _Period Year 2: 1st June 2011 through to 31st May 2012_
 
-_Period Year 3: 1st June 2012 through to 31st May 2013_
+> _Period Year 3: 1st June 2012 through to 31st May 2013_
 
-_5_.     _Thus, each Period, we have to pay USD 75,000, and that comes to a total of USD 225,000._
+> _5_.     _Thus, each Period, we have to pay USD 75,000, and that comes to a total of USD 225,000._
 
-_6_.     _We made two S & M payments on 9th July 2010 of USD 112,500 and on 4th July 2011 of USD 112,500. The total payment was USD 225,000._
+> _6_.     _We made two S & M payments on 9th July 2010 of USD 112,500 and on 4th July 2011 of USD 112,500. The total payment was USD 225,000._
 
-_7_.     _As you can see, we have paid off the S & M charges up to the end of Period Year 3, which is through to 31st May 2013._
+> _7_.     _As you can see, we have paid off the S & M charges up to the end of Period Year 3, which is through to 31st May 2013._
 
-_8_.     _Since the GT systems launch has been delayed, the above agreement should stand._
+> _8_.     _Since the GT systems launch has been delayed, the above agreement should stand._
 
-_In summary, those points are the basis ground that we believe is fair and mutual. We present our views truly based on good faith and good relationship that we have so far. We would love to continue our relationship with Patsystems to support ICDX trading platform for now and the future. As a result, benefits for both parties can be manifested._
+> _In summary, those points are the basis ground that we believe is fair and mutual. We present our views truly based on good faith and good relationship that we have so far. We would love to continue our relationship with Patsystems to support ICDX trading platform for now and the future. As a result, benefits for both parties can be manifested._
 
 22     According to Mr Oliviero, he understood Mr Setiabudi to be proposing in this email “that: (1) only US$ 75,000 was payable annually for the S&M fees for the OMS; (2) the previous amounts of US$112,500 paid on 9 July 2010 and US $112,500 paid on 4 July 2011 would be recognised as payment for these S&M fees up to 31 May 2013; and (3) no other amount would be payable for S&M fees since the GTA system launch was delayed”. In forwarding Mr Setiabudi’s email to Mr Oliviero (as well as Mr Oliviero’s colleague David Groggin), Mr White stated that it was for their information and to let them “have visibility on this”.[^30] Mr White also added:
 
-_I have been trying to see how we can reach an agreement for part payment on the system, since the GT debacle. I think this is unacceptable … I shall be addressing this over the next couple of days, as there’s quite a lot for me to discuss with them on the matter especially the fact they are using the waive periods as non part of their costs period._
+> _I have been trying to see how we can reach an agreement for part payment on the system, since the GT debacle. I think this is unacceptable … I shall be addressing this over the next couple of days, as there’s quite a lot for me to discuss with them on the matter especially the fact they are using the waive periods as non part of their costs period._
 
 23     On 30 August 2012, Mr White wrote to Mr Oliviero about Mr Setiabudi’s email of 28 August 2012, making inter alia the following comments:[^31]
 
-_… I think to start with, the details below on the payment are correct in the aspect they have paid a total of $225,000. We had the original agreement based on an S&M of $225,000 per annum which was 150,000 USD for the matching/clearing PME and 75,000 USD for the OMS part of the system._
+> _… I think to start with, the details below on the payment are correct in the aspect they have paid a total of $225,000. We had the original agreement based on an S&M of $225,000 per annum which was 150,000 USD for the matching/clearing PME and 75,000 USD for the OMS part of the system._
 
-_They exchange went live in November 2009 as a soft launch with a official launch in March 2010, due to first launch being what I would call a UAT period given there was no real directional trading happening it was deemed that the system was still running through the processes with Patsystems not charging for the S&M over this period. when the exchange did finally launch we agreed that the S&M would be starting from July 2010 with all previous support being waived as part of the process.. when we got to the end of 2010, due to making the books look better in Pats for the YE 2010 we had a switch round where ICDX paid for two period within 2010 and had a free period over Jan to July 2011 .. at which stage the normal fees would be charged.. (addendum 1) we had a number of issues in-between which resulted in a letter from their legal on Non-Compliance. which at that stage now placed us into another issue of them holding the Jul to Dec 2010 payment back, yet we had were to recognize this in the 2010 YE.._
+> _They exchange went live in November 2009 as a soft launch with a official launch in March 2010, due to first launch being what I would call a UAT period given there was no real directional trading happening it was deemed that the system was still running through the processes with Patsystems not charging for the S&M over this period. when the exchange did finally launch we agreed that the S&M would be starting from July 2010 with all previous support being waived as part of the process.. when we got to the end of 2010, due to making the books look better in Pats for the YE 2010 we had a switch round where ICDX paid for two period within 2010 and had a free period over Jan to July 2011 .. at which stage the normal fees would be charged.. (addendum 1) we had a number of issues in-between which resulted in a letter from their legal on Non-Compliance. which at that stage now placed us into another issue of them holding the Jul to Dec 2010 payment back, yet we had were to recognize this in the 2010 YE.._
 
-_We got to a point where through further negotiations in early July 2011 we agreed on the payment for the $112,500 to be paid and there would be no further payments for S&M until they were provided a working GT system.. which was agreed with the Exec Management at Pats.._ **_please note this meant Payment would only be HELD back not waived_**
+> _We got to a point where through further negotiations in early July 2011 we agreed on the payment for the $112,500 to be paid and there would be no further payments for S&M until they were provided a working GT system.. which was agreed with the Exec Management at Pats.._ **_please note this meant Payment would only be HELD back not waived_**
 
-_We got to a point in March 2012 where we thought we were able to now deliver the GT at which point we all agreed with ICDX on this matter and asked for a “good will” payment of 75K which was part payment for the outstanding amounts.. as you know a couple of weeks later the whole GT was pulled back leaving me and the team very embarrassed first off.. and left with the issue below of June 11 to June 12 and now into this next half year.. of the H2 2012_
+> _We got to a point in March 2012 where we thought we were able to now deliver the GT at which point we all agreed with ICDX on this matter and asked for a “good will” payment of 75K which was part payment for the outstanding amounts.. as you know a couple of weeks later the whole GT was pulled back leaving me and the team very embarrassed first off.. and left with the issue below of June 11 to June 12 and now into this next half year.. of the H2 2012_
 
-\[emphasis in original in bold underline\]
+> \[emphasis in original in bold underline\]
 
 24     When asked by Mr Oliviero to clarify what the next steps were and what he required, Mr White replied that it would be best to find out “whether the GT PME will be available for” the Defendant “sometime in the future”; that there had been “a number of ups and downs with the offering”; and that he would be able to make a suggestion once he knew what they could “achieve on the GT PME”.[^32]
 
@@ -343,7 +343,7 @@ _We got to a point in March 2012 where we thought we were able to now deliver th
 
 27     In the course of conducting this review, a number of points became clear to Mr Oliviero.[^38] In particular, he noted that the software system which was the subject of the perpetual licence purchased by the Defendant was an “out of the box” software system. This was crucial because it meant that the onus would be “on the customer to ensure that the software was appropriate for its business needs”: “the Plaintiff did not warrant that its software was fit for any particular purpose (such disclaimer being part of the \[Licence\] Agreement)”; and the UAT period provided for in the Licence Agreement was “the customer’s opportunity to ensure that the software it \[was\] purchasing \[was\] suitable for its business requirements”. This, according to Mr Oliviero, was:
 
-… an important term to software companies such as the Plaintiff because no “out of the box” software system will necessarily meet all of the functionality that a customer might expect. This is especially the case for complex financial software such as that provided by the Plaintiff which would be expected to work not only with the customer’s own internal systems (which are themselves complex) but also with third party systems such as those of customers and markets.
+> … an important term to software companies such as the Plaintiff because no “out of the box” software system will necessarily meet all of the functionality that a customer might expect. This is especially the case for complex financial software such as that provided by the Plaintiff which would be expected to work not only with the customer’s own internal systems (which are themselves complex) but also with third party systems such as those of customers and markets.
 
 28     In this case, Mr Oliviero noted that the Defendant had signed off on the UAT Acceptance on 29 November 2009 expressly confirming acceptance of the software. In addition, whilst the Defendant had served one notice of non-compliance under the Addendum on 21 January 2011, it had not followed up with any further notices as provided for under the review criteria set out in the Addendum to request a refund of the S&M charges payable. In the circumstances, there was no contractual basis for the Defendant to withhold the payment of S&M fees, especially when it was continuing to request support and maintenance for the issues it had raised.[^39]
 
@@ -353,13 +353,13 @@ _We got to a point in March 2012 where we thought we were able to now deliver th
 
 31     The Defendant did not respond to Mr Oliviero’s email, nor did it make any payment by 10 July 2013. On 11 July 2013, Mr Oliviero wrote to the Defendant stating that as the overdue invoices totalling US$657,332.90 remained unpaid, the Plaintiff “may suspend” its services to the Defendant if payment was not made within 14 days.[^46] On 22 July 2013, he received the following letter in response from Mr Widjaja:[^47]
 
-Referring to the Letter dated July 11, 2013 in respect of ‘Suspension of Service’ sent by \[the Plaintiff\] to us, we hereby inform you that in regard to the matter conveyed in the letter which principally stated the existence of outstanding bill in the amount of USD 657,332.90… (“Invoice”) over the transaction as set forth in the Software Licence and Support Agreement dated September 9, 2009 (“Agreement”), the reason of the unpaid Invoice is the constant damages to the software referred to the Agreement, which until recently have not been repaired and well maintained.
+> Referring to the Letter dated July 11, 2013 in respect of ‘Suspension of Service’ sent by \[the Plaintiff\] to us, we hereby inform you that in regard to the matter conveyed in the letter which principally stated the existence of outstanding bill in the amount of USD 657,332.90… (“Invoice”) over the transaction as set forth in the Software Licence and Support Agreement dated September 9, 2009 (“Agreement”), the reason of the unpaid Invoice is the constant damages to the software referred to the Agreement, which until recently have not been repaired and well maintained.
 
-Furthermore, we hereby show our good will to settle the Invoice provided that \[the Plaintiff\] shall fulfill all the obligations as referred in the Agreement and make the improvements and periodic maintenance on the software referred to in the Agreement.
+> Furthermore, we hereby show our good will to settle the Invoice provided that \[the Plaintiff\] shall fulfill all the obligations as referred in the Agreement and make the improvements and periodic maintenance on the software referred to in the Agreement.
 
 32     Mr Oliviero did not understand Mr Widjaja’s allegation about “constant damages to the software”: as far as he was concerned, at the January 2013 meeting the Defendant had raised 10 issues with the software; and in its June 2013 slides, the Plaintiff had explained in detail how each issue could be resolved – but no steps had been taken by the Defendant.[^48] On 11 September 2013, some weeks after a tele-conversation with Mr Widjaja, Mr Oliviero received from the Defendant’s Mr Sangeroki a list of issues which the latter said had “not \[been\] captured yet in \[their\] previous discussion”.[^49] Mr Sangeroki ended the email by stating:
 
-_The underlying issue here is actually the GT system. We were promised a replacement system called GT, and all issue would not be problem anymore on GT. That was why ICDX kept go on even there is some bugs on our current system, because we put a lot of hope on GT. And it is not coming._
+> _The underlying issue here is actually the GT system. We were promised a replacement system called GT, and all issue would not be problem anymore on GT. That was why ICDX kept go on even there is some bugs on our current system, because we put a lot of hope on GT. And it is not coming._
 
 33     On reviewing Mr Sangeroki’s list of issues, Mr Oliviero realised that it was “almost a completely new list of issues”. He became concerned that the Defendant “was just putting forth a never-ending list of issues ... as justification for withholding payment”; and that the Plaintiff would find itself in a “lose-lose situation” if it continued trying to resolve these alleged issues while receiving no payment for its support and maintenance services. Accordingly, on 4 October 2013, the Plaintiff notified the Defendant that it would be suspending its services with effect from 19 October 2013 pursuant to clause 7.2 of the Licence Agreement, in view of the latter’s failure to pay its overdue charges (by then totalling US$657,441).[^50]
 
@@ -383,93 +383,93 @@ _The underlying issue here is actually the GT system. We were promised a replace
 
 42     Nevertheless, Mr Widjaja claimed that the Defendant continued to encounter errors in the Plaintiff’s software. In the period between January 2010 and July 2010, 15 issues emerged across the Front Office, Back Office Clearing and Exchange Systems which “greatly hampered the Defendant’s ability to provide the necessary trading services to its customers as bargained for under the \[Licence\] Agreement”.[^66] According to Mr Widjaja, the Defendant expressed its frustration in various emails to the Plaintiff, but found the latter unable to “adequately remedy existing issues or prevent new issues from arising”.[^67] In his opinion:
 
-\[T\]he Plaintiff had given a software system to the Defendant which was simply not workable. To put it simply, the Defendant was not getting what it had paid for.
+> \[T\]he Plaintiff had given a software system to the Defendant which was simply not workable. To put it simply, the Defendant was not getting what it had paid for.
 
-In particular, in respect of the J-Clear Installation and Licensing, J-Vision Report Configuration to Banking Systems, and the J-Clear Report Development for government regulated reports (collectively referred to as the “Back Office Systems”), as well as the Matching Engine System, the Plaintiff had failed, refused and/or neglected to provide systems which were in a serviceable and/or usable condition.
+> In particular, in respect of the J-Clear Installation and Licensing, J-Vision Report Configuration to Banking Systems, and the J-Clear Report Development for government regulated reports (collectively referred to as the “Back Office Systems”), as well as the Matching Engine System, the Plaintiff had failed, refused and/or neglected to provide systems which were in a serviceable and/or usable condition.
 
 43     The Defendant was aware that under clause 7.3 of the Licence Agreement, it “was to provide a Notice of Dispute in respect of any invoice it wished to dispute”.[^68] Mr Widjaja said that the Defendant had not issued any such Notice of Dispute because it “desired to preserve the goodwill between the two parties, and trusted the Plaintiff to make good on its promises in the \[Licence\] Agreement and the Addendum”. He claimed, however, that it was in light of the Defendant’s “ongoing problems with the software” that the Plaintiff made an offer in February 2011 “to replace the entire software with a new one” known as the Global Trading Administration (“GTA”) which was intended to resolve the issues troubling the Defendant in respect of the current software”.[^69] At this juncture, however, the Defendant was apparently uncertain as to whether the GTA system would “be the answer for all \[its\] platform problems”. This concern was expressed by Mr Setiabudi in an email he sent to Mr White on 23 May 2011.[^70] In this email Mr Setiabudi set out the following proposals:
 
-_We have had many internal meetings and tried to come with resolution for Pats \[the Plaintiff\] and ICDX \[the Defendant\]. We came out with some proposal as follows:_
+> _We have had many internal meetings and tried to come with resolution for Pats \[the Plaintiff\] and ICDX \[the Defendant\]. We came out with some proposal as follows:_
 
-_1_.     _We agree to accept your offer to upgrade to GT._
+> _1_.     _We agree to accept your offer to upgrade to GT._
 
-_2_.     _Until we are comfortable and have confident with GT, we would temporarily hold $75,000 yearly from the annual S&M fee._
+> _2_.     _Until we are comfortable and have confident with GT, we would temporarily hold $75,000 yearly from the annual S&M fee._
 
-_3_.     _The accumulated $75,000 would be fully paid to Pats, after we sign the acceptance for GT._
+> _3_.     _The accumulated $75,000 would be fully paid to Pats, after we sign the acceptance for GT._
 
 44     Mr Widjaja claimed that Mr White’s email of 30 May 2011 (see \[13\] above) was a “counter-proposal” to the Defendant which the latter accepted. To recap, the five points of Mr White’s “proposal” of 30 May 2011 were as follows:
 
-_1_.     _ICDX to pay the full $112,500 for the S&M period of June 30th 2010 till December 31st 2010 I which case would close off the 2010 books for Patsystems etc.._
+> _1_.     _ICDX to pay the full $112,500 for the S&M period of June 30th 2010 till December 31st 2010 I which case would close off the 2010 books for Patsystems etc.._
 
-_2_.     _Patsystems to offer ICDX the offering of holding the $112,500 S&M payment which is due June 1st 2011 and caters for the S&M until the 31st December 2011_
+> _2_.     _Patsystems to offer ICDX the offering of holding the $112,500 S&M payment which is due June 1st 2011 and caters for the S&M until the 31st December 2011_
 
-_3_.     _Patsystems to only request the payment for the $112,500 at the point where ICDX signoff on the GT PME system. Which shall be offered in the coming weeks_
+> _3_.     _Patsystems to only request the payment for the $112,500 at the point where ICDX signoff on the GT PME system. Which shall be offered in the coming weeks_
 
-_4_.     _Patsystems to offer their New installed in-house GT system to ICDX for test purposes over the course of the next 3 months until the end of August 2011_
+> _4_.     _Patsystems to offer their New installed in-house GT system to ICDX for test purposes over the course of the next 3 months until the end of August 2011_
 
-_5_.     _Patsystems to work to a plan with ICDX to have a GT system installed on ICDX hardware, to at least have a system in house for low impact testing, due to hardware restrictions_
+> _5_.     _Patsystems to work to a plan with ICDX to have a GT system installed on ICDX hardware, to at least have a system in house for low impact testing, due to hardware restrictions_
 
-\[emphasis in original in grey\]
+> \[emphasis in original in grey\]
 
 45     In Mr Widjaja’s words, the Defendant’s agreement to Mr White’s email of 30 May 2011 “had the effect of modifying, in writing, the respective obligations of both parties”.[^71] His evidence was that this contractual modification – which the Defendant referred to as “the Arrangement” – contained the following terms:[^72]
 
-(a)    The present software would be replaced by the GTA, subject to the Defendant’s comfort and confidence that the GTA would indeed resolve the issues it faced.
+> (a)    The present software would be replaced by the GTA, subject to the Defendant’s comfort and confidence that the GTA would indeed resolve the issues it faced.
 
-(b)    The GTA was to be offered to the Defendant for testing purposes between May 2011 and August 2011.
+> (b)    The GTA was to be offered to the Defendant for testing purposes between May 2011 and August 2011.
 
-(c)    The Defendant agreed to pay the hitherto outstanding S&M fees, i.e. the sum of US$ 112,500 for the &M period of 30 June 2010 to 31 December 2010; and
+> (c)    The Defendant agreed to pay the hitherto outstanding S&M fees, i.e. the sum of US$ 112,500 for the &M period of 30 June 2010 to 31 December 2010; and
 
-(d)    The Defendant would withhold the payment for future S&M fees until the GTA was implemented, and/or the Defendant signed off on the documents accepting the GTA.
+> (d)    The Defendant would withhold the payment for future S&M fees until the GTA was implemented, and/or the Defendant signed off on the documents accepting the GTA.
 
 46     Indeed, Mr Widjaja’s evidence was that “\[t\]hrough the Arrangement, the Plaintiff had essentially invited the Defendant to hold off on the legal rights it might otherwise have had as a result of the defective software system, in exchange for the Plaintiff’s promise that it would similarly compromise on its entitlement to S&M fees”.[^73] In particular, he testified that the Plaintiff’s “proposal” to provide the GTA system was “an absolutely critical aspect of the Arrangement” because the Defendant “placed great weight on the Plaintiff’s promise that the GTA system would resolve” the problems it had encountered in the existing software.[^74]
 
 47     By end-2011, however, the Defendant had not yet received the GTA system in replacement of its existing software.[^75] In the meantime, it continued to experience “instability” in using existing software.[^76] In addition, Mr Widjaja claimed that he observed that following the ION group’s acquisition of the Plaintiff in February 2012, the Plaintiff “was experiencing difficulty with keeping to the Arrangement”. Specifically, concern was expressed about the S&M fees due from – and not paid – by the Defendant, which by then had accumulated to US$225,000. This concern apparently led Mr White to seek to renegotiate the Arrangement with the Defendant and resulted in “a new compromise” (referred to by the Defendant as “the Revised Arrangement”). The Defendant’s case was that the basis for this “new compromise” was to be found in the following passages in Mr White’s email to Mr Setiabudi on 28 March 2012:
 
-_So in light of this, Could you please discuss internally on my compromise of ICDX paying the outstanding amounts of the OMS (E-Broker Core System) which is 75,000 USD from the 1st July 2011 to the 30th June 2012.. there will still be a 150,000 USD payment for the S&M on the Matching Engine Support that ICDX will hold (which is for the same period) .. until we move the platforms onto the GT system, but this will allow for me to continue with other initiative like the X-link PALN projects etc.._
+> _So in light of this, Could you please discuss internally on my compromise of ICDX paying the outstanding amounts of the OMS (E-Broker Core System) which is 75,000 USD from the 1st July 2011 to the 30th June 2012.. there will still be a 150,000 USD payment for the S&M on the Matching Engine Support that ICDX will hold (which is for the same period) .. until we move the platforms onto the GT system, but this will allow for me to continue with other initiative like the X-link PALN projects etc.._
 
-_As also mentioned the GT system has been tested for the Back Office JV2 and also the physical delivery and is at a point where we are ready to introduce the system to ICDX as a short term test, before looking at this being the replacement of the existing VMS system you have and the move from your existing Data Centre which is planned for July 2012._
+> _As also mentioned the GT system has been tested for the Back Office JV2 and also the physical delivery and is at a point where we are ready to introduce the system to ICDX as a short term test, before looking at this being the replacement of the existing VMS system you have and the move from your existing Data Centre which is planned for July 2012._
 
-_please let me know how you go with your discussions, but I think this is a very fair play from Patsystems with these outstanding amounts and feel it will allow for goodwill to be passed between our businesses as we look to grow together in Indonesia._
+> _please let me know how you go with your discussions, but I think this is a very fair play from Patsystems with these outstanding amounts and feel it will allow for goodwill to be passed between our businesses as we look to grow together in Indonesia._
 
 48     It should be noted that although the Defendant’s case was that it accepted the “fresh” proposals in Mr White’s email, the only email response on record from the Defendant – following a reminder by Mr White – was a brief email from Mr Setiabudi on 17 April 2012 stating as follows:[^77]
 
-_Hi Barry_
+> _Hi Barry_
 
-_I managed to talk to the BOD. In principle, we would like to work in a mutual relationship. It as to be win win relationship. However, we also would like to have you come to Jakarta to talk about detail plan for the future. Please let us know your schedule._
+> _I managed to talk to the BOD. In principle, we would like to work in a mutual relationship. It as to be win win relationship. However, we also would like to have you come to Jakarta to talk about detail plan for the future. Please let us know your schedule._
 
 49     In its closing submissions, the Defendant has acknowledged that “the documentary record of any acceptance \[of Mr White’s email of 28 March 2012\] seems scarce”.[^78] Nevertheless, in his AEIC, Mr Widjaja asserted that this email of 28 March 2012 again modified the parties’ contractual rights and obligations by putting in place the following “fresh” contractual arrangement:[^79]
 
-(a)    The Defendant would pay the Plaintiff the amounts of S&M on the E-Broker Core System and Front End for the period from 1 July 2011 to 30 June 2012, i.e. the annual fee of US$ 75,000; and
+> (a)    The Defendant would pay the Plaintiff the amounts of S&M on the E-Broker Core System and Front End for the period from 1 July 2011 to 30 June 2012, i.e. the annual fee of US$ 75,000; and
 
-(b)    The Defendant was entitled to withhold the amounts of S&M on the Matching Engine Support for the period of 1 July 2011 to 30 June 2012 until the GTA was implemented, i.e. the annual fee of US$ 150,000.
+> (b)    The Defendant was entitled to withhold the amounts of S&M on the Matching Engine Support for the period of 1 July 2011 to 30 June 2012 until the GTA was implemented, i.e. the annual fee of US$ 150,000.
 
-(c)    The Plaintiff would roll out the GTA gradually, beginning first as a short term test, with a view to overhauling the existing system by July 2012.
+> (c)    The Plaintiff would roll out the GTA gradually, beginning first as a short term test, with a view to overhauling the existing system by July 2012.
 
 50     In early May 2012, there was some email correspondence between the Plaintiff and the Defendant about UAT of the GTA system.[^80] On 5 June 2012, however, Brian Ko (the Plaintiff’s technical relationship manager) requested the Defendant to “suspend \[its\] UAT testing in \[the\] GT Test environment for the time being”, as he understood from his “management team” that “the GT roll out project \[was\] presently on hold”.[^81] There was apparently no immediate reply from the Defendant to this update from Brian Ko, but on 28 August 2012, Mr Setiabudi sent an email to Mr White (see \[21\] above). To recap, Mr Setiabudi listed 8 points which he said formed the basis of what the Defendant believed to be “fair and mutual”:
 
-_… the followings are our points of views with the explanation behind them:_
+> _… the followings are our points of views with the explanation behind them:_
 
-_1_.     _We bought the systems as a whole from front up to clearing modules._
+> _1_.     _We bought the systems as a whole from front up to clearing modules._
 
-_2_.     _However, since the very beginning, we can only utilize the OMS (front end) up to its potential. Thus, we have agreed that ICDX should pay only the Support and Maintenance (S & M) of the OMS only, which is USD 75,000 annually._
+> _2_.     _However, since the very beginning, we can only utilize the OMS (front end) up to its potential. Thus, we have agreed that ICDX should pay only the Support and Maintenance (S & M) of the OMS only, which is USD 75,000 annually._
 
-_3_.     _In addition, we also were promised to get upgraded to GT systems which should fix a lot of the shortfalls of the current version._
+> _3_.     _In addition, we also were promised to get upgraded to GT systems which should fix a lot of the shortfalls of the current version._
 
-_4_.     _Looking at the Schedule of the Addendum No. 1 to the License Agreement, the S & M periods are implied as follows:_
+> _4_.     _Looking at the Schedule of the Addendum No. 1 to the License Agreement, the S & M periods are implied as follows:_
 
-_Period Year 1: 1st January 2010 through to 31st December 2010_
+> _Period Year 1: 1st January 2010 through to 31st December 2010_
 
-_Period Year 2: 1st June 2011 through to 31st May 2012_
+> _Period Year 2: 1st June 2011 through to 31st May 2012_
 
-_Period Year 3: 1st June 2012 through to 31st May 2013_
+> _Period Year 3: 1st June 2012 through to 31st May 2013_
 
-_5_.     _Thus, each Period, we have to pay USD 75,000, and that comes to a total of USD 225,000._
+> _5_.     _Thus, each Period, we have to pay USD 75,000, and that comes to a total of USD 225,000._
 
-_6_.     _We made two S & M payments on 9th July 2010 of USD 112,500 and on 4th July 2011 of USD 112,500. The total payment was USD 225,000._
+> _6_.     _We made two S & M payments on 9th July 2010 of USD 112,500 and on 4th July 2011 of USD 112,500. The total payment was USD 225,000._
 
-_7_.     _As you can see, we have paid off the S & M charges up to the end of Period Year 3, which is through to 31st May 2013._
+> _7_.     _As you can see, we have paid off the S & M charges up to the end of Period Year 3, which is through to 31st May 2013._
 
-_8_.     _Since the GT systems launch has been delayed, the above agreement should stand._
+> _8_.     _Since the GT systems launch has been delayed, the above agreement should stand._
 
 51     As seen earlier, Mr White’s reply to Mr Setiabudi on 30 August 2012 was that he would come back after discussing the matter with his management. In his AEIC, Mr Widjaja claimed that this email reply showed that Mr White was still “committed to the Revised Arrangement”. In cross-examination, however, he conceded that he was not sure what Mr White was “trying to say” and described the reply as “in limbo”.[^82] Mr Widjaja further testified that after Mr White’s departure from the Plaintiff in November 2012, it became apparent to him that the Plaintiff “intended to abandon both” the Arrangement and the Revised Arrangement.[^83]
 
@@ -495,7 +495,7 @@ _8_.     _Since the GT systems launch has been delayed, the above agreement 
 
 61     According to Mr Sangeroki, throughout the history of the Defendant’s usage of the Plaintiff’s software, 171 incident reports had been logged with the Plaintiff on the problems encountered with the software.[^115] These 171 incident reports included incident reports logged after the issuance of the Plaintiff’s Notice of Suspension of Service on 4 October 2013. Mr Sangeroki contended that these 171 incident reports were “not exhaustive” because the Defendant did not log an incident report each time an issue arose. He also referred to various emails exchanged with the Plaintiff which he said illustrated the issues that the Defendant had with the software.[^116] In his opinion:[^117]
 
-\[T\]he Front Office System had the occasional issues but we were willing to resolve them as and when they arose. However, the Matching Engine System … was so wrought with problems practically on a daily basis that I do not think what was promised was delivered. The Back Office System was the worst of all, as it could not even fulfil the functions it was meant to perform. I felt as if the Plaintiff had used the Defendant as guinea pigs insofar as the PME and Back Office System was concerned … \[N\]o other exchange had been using this system when the Plaintiff offered it to us.
+> \[T\]he Front Office System had the occasional issues but we were willing to resolve them as and when they arose. However, the Matching Engine System … was so wrought with problems practically on a daily basis that I do not think what was promised was delivered. The Back Office System was the worst of all, as it could not even fulfil the functions it was meant to perform. I felt as if the Plaintiff had used the Defendant as guinea pigs insofar as the PME and Back Office System was concerned … \[N\]o other exchange had been using this system when the Plaintiff offered it to us.
 
 62     Mr Sangeroki said that eventually the Defendant resolved some of their more major issues by “using third-party vendors to step in and fulfil the functions that the Plaintiff’s software simply could not”.[^118]
 
@@ -517,25 +517,25 @@ _8_.     _Since the GT systems launch has been delayed, the above agreement 
 
 68     I will deal first with the Arrangement. To recap: the Defendant’s case, as explained in Mr Widjaja’s AEIC, was that the Arrangement represented a binding agreement which was reached by the defendant’s acceptance of the following terms offered in Mr White’s email of 30 May 2011:[^124]
 
-_1_.     _ICDX to pay the full $112,500 for the S&M period of June 30th 2010 till December 31st 2010 I_ \[sic\] _which case would close off the 2010 books for Patsystems etc.._
+> _1_.     _ICDX to pay the full $112,500 for the S&M period of June 30th 2010 till December 31st 2010 I_ \[sic\] _which case would close off the 2010 books for Patsystems etc.._
 
-_2_.     _Patsystems to offer ICDX the offering of holding the $112,500 S&M payment which is due June 1st 2011 and caters for the S&M until the 31st December 2011_
+> _2_.     _Patsystems to offer ICDX the offering of holding the $112,500 S&M payment which is due June 1st 2011 and caters for the S&M until the 31st December 2011_
 
-_3_.     _Patsystems to only request the payment for the $112,500 at the point where ICDX signoff on the GT PME system. Which shall be offered in the coming weeks_
+> _3_.     _Patsystems to only request the payment for the $112,500 at the point where ICDX signoff on the GT PME system. Which shall be offered in the coming weeks_
 
-_4_.     _Patsystems to offer their New installed in-house GT system to ICDX for test purposes over the course of the next 3 months until the end of August 2011_
+> _4_.     _Patsystems to offer their New installed in-house GT system to ICDX for test purposes over the course of the next 3 months until the end of August 2011_
 
-_5_.     _Patsystems to work to a plan with ICDX to have a GT system installed on ICDX hardware, to at least have a system in house for low impact testing, due to hardware restrictions_\[emphasis in original in grey\]
+> _5_.     _Patsystems to work to a plan with ICDX to have a GT system installed on ICDX hardware, to at least have a system in house for low impact testing, due to hardware restrictions_\[emphasis in original in grey\]
 
 69     It should be noted that Mr Widjaja described Mr White’s email of 30 May 2011 as a “counter-proposal” to Mr Setiabudi’s email of 23 May 2011, which had contained the Defendant’s own “proposal” with regard to the GTA system and the payment of S&M fees.[^125] Mr Widjaja specifically stated in his AEIC that it was Mr White’s “counter-proposal” of 30 May 2011 which the Defendant “eventually accepted”. In cross-examination, Mr Widjaja confirmed that it was the Defendant’s case that the terms of the Arrangement were encapsulated in Mr White’s 30 May 2011 email.[^126] There was no suggestion at any time that the Arrangement contained terms other than those set out in the 30 May 2011 email, as reproduced above.
 
 70     By way of further recap, it should also be noted that the Defendant pleaded in its Defence and Counter-claim that the binding agreement represented by the Arrangement was as follows:[^127]
 
-(a)     The Defendant agreed for its present platform / software to be replaced to the GTA, subject to its comfort and confidence that the GTA would indeed resolve the issues faced by the Defendant. The GTA was to be offered to the Defendant for test purposes over the course of the next three months, i.e. until the end of August 2011;
+> (a)     The Defendant agreed for its present platform / software to be replaced to the GTA, subject to its comfort and confidence that the GTA would indeed resolve the issues faced by the Defendant. The GTA was to be offered to the Defendant for test purposes over the course of the next three months, i.e. until the end of August 2011;
 
-(b)     In exchange, the Defendant agreed to pay the S&M fees which remained hitherto outstanding, i.e. the sum of US$ 112,500 for the S&M period of 30 June 2010 to 31 December 2010;
+> (b)     In exchange, the Defendant agreed to pay the S&M fees which remained hitherto outstanding, i.e. the sum of US$ 112,500 for the S&M period of 30 June 2010 to 31 December 2010;
 
-(c)     The Defendant would withhold the payments for the S&M fees until the point that the GTA was implemented, and/or the Defendant signed off on the documents accepting the GTA.
+> (c)     The Defendant would withhold the payments for the S&M fees until the point that the GTA was implemented, and/or the Defendant signed off on the documents accepting the GTA.
 
 71     According to the Defendant’s case, there were two key elements to the contractual variation encapsulated in the Arrangement: that the Defendant’s existing software system would be replaced by the GTA system; and that after settling the S&M charge of US$112,500 for the period 30 June 2010 to 31 December 2010, the Defendant would be entitled to withhold all further S&M payments until it accepted the GTA system in replacement of its existing software. Having reviewed Mr White’s 30 May 2011 email, however, it was simply not possible in my view to find that it provided the basis for a contractual variation with these terms.
 
@@ -543,29 +543,29 @@ _5_.     _Patsystems to work to a plan with ICDX to have a GT system install
 
 73     Indeed, the fact that Mr White had no intention of “offering” to let the Defendant withhold any other S&M charge may be seen in his response in the same email to Mr Setiabudi’s suggestion in the latter’s 23 May 2011 email that the Defendant should “temporarily hold $75,000 yearly from the annual S&M fee” until it felt “comfortable and … confident with GT”.[^130] In his 30 May 2011 email, Mr White’s specific response to this suggestion by Mr Setiabudi – which followed the five items of his own proposal – was emphatically in the negative:[^131]
 
-_I have answered the individual questions below to help on answering all questions_
+> _I have answered the individual questions below to help on answering all questions_
 
-_…_
+> _…_
 
-_2_.     _Until we are comfortable and have confident with GT, we would temporarily hold $75,000 yearly from the annual S&M fee._
+> _2_.     _Until we are comfortable and have confident with GT, we would temporarily hold $75,000 yearly from the annual S&M fee._
 
-_A:_      **_As per my offering above from points 1 to 5 this shall supersede from the withholding in this point 2_**
+> _A:_      **_As per my offering above from points 1 to 5 this shall supersede from the withholding in this point 2_**
 
-\[emphasis in original in grey; emphasis added in bold underline\]
+> \[emphasis in original in grey; emphasis added in bold underline\]
 
 74     Even assuming for the sake of argument that Mr White’s 30 May 2011 email could be construed as having promised to let the Defendant withhold all S&M payments post-31 December 2010 until it accepted the GTA system, the Defendant would need to have provided consideration for such a promise when they accepted it, in order to have a legally binding agreement. On the evidence available, I agreed with the Plaintiff that no valid consideration was provided. In its closing submissions, the Defendant argued that:[^132]
 
-…\[W\]ith the issuance of the Non-Compliance \[Notice of 21 January 2011\], it was plausible, and may have well been imminent, that the Defendant would have applied for a refund or discount of the S&M fees under the Addendum … As such, the Plaintiff benefited from the Arrangement in avoiding the Defendant from ever applying for such refund or discount. At the same time, the Defendant benefited from not being required to pay for the S&M fees until and unless the GTA was implemented.
+> …\[W\]ith the issuance of the Non-Compliance \[Notice of 21 January 2011\], it was plausible, and may have well been imminent, that the Defendant would have applied for a refund or discount of the S&M fees under the Addendum … As such, the Plaintiff benefited from the Arrangement in avoiding the Defendant from ever applying for such refund or discount. At the same time, the Defendant benefited from not being required to pay for the S&M fees until and unless the GTA was implemented.
 
-… \[T\]he consideration may also be seen from the perspective that the Defendant released the Plaintiff from any prospect of it having to refund or discount the S&M fees paid in exchange for the Plaintiff releasing the Defendant from paying future S&M fees, until and unless the GTA system were \[_sic_\] implemented.
+> … \[T\]he consideration may also be seen from the perspective that the Defendant released the Plaintiff from any prospect of it having to refund or discount the S&M fees paid in exchange for the Plaintiff releasing the Defendant from paying future S&M fees, until and unless the GTA system were \[_sic_\] implemented.
 
 75     I did not find the above argument viable. Even if one were to assume that the Defendant had consciously taken a decision to forbear from following up its Non-Compliance Notice with any request for a refund or discount of S&M charge, there was no evidence of any request – express or implied – by the Plaintiff that it should so forebear. This, in my view, was fatal to the Defendant’s assertion of sufficient consideration. In this connection, regard should be had to the decision of the English Court of Appeal in _Combe v Combe_ <span class="citation">\[1951\] 2 KB 215</span> (“_Combe_”). This was a case involving a couple undergoing a divorce. Between the date of decree nisi and decree absolute on the petition for divorce, the husband promised his wife to allow her £100 a year free of tax. The wife forbore to apply to the Divorce Court for maintenance, but not on any request by the husband, express or implied, that she should so forbear. The husband did not pay to his wife the payments he had promised, and she brought an action in the King’s Bench Division on his promise to make those payments to her. The English CA allowed the husband’s appeal against the decision by the court below to allow the wife’s claim, holding that there was no consideration from the wife for the husband’s promise. In his judgement, Denning LJ stated (at 221):
 
-I cannot find any evidence of any intention by the husband that the wife should forbear from applying to the court for maintenance, or, in other words, any request by the husband, express or implied, that the wife should so forbear. He left her to apply if she wished to do so. She did not do so … _Her forbearance was not intended by him, nor was it done at his request. It was therefore no consideration._ \[emphasis added\]
+> I cannot find any evidence of any intention by the husband that the wife should forbear from applying to the court for maintenance, or, in other words, any request by the husband, express or implied, that the wife should so forbear. He left her to apply if she wished to do so. She did not do so … _Her forbearance was not intended by him, nor was it done at his request. It was therefore no consideration._ \[emphasis added\]
 
 76      _Combe_ has been endorsed by our own CA in _Gay Choon Ing v Loh Sze Ti Terence Peter and another appeal_ <span class="citation">\[2009\] 2 SLR(R) 332</span> (“_Gay Choon Ing_”),[^133] where Andrew Phang JA – in delivering the judgement of the CA – held (at \[82\]):
 
-\[T\]he element of request is necessary in order to establish a link between the parties concerned. So, for example, if the promisee chooses, of his or her own volition (and without more), to confer a benefit on the promisor, this will not constitute sufficient consideration in the eyes of the law. Likewise, if the promisee chooses, of his or her own volition, to incur a detriment, then (as the leading English Court of Appeal decision of _Combe v Combe_ \[1951\] 1 KB 214 (“_Combe_”) clearly illustrates, that would not constitute sufficient consideration in the eyes of the law. In _Combe_, the plaintiff wife failed in an action against her ex-husband for a promise made by him to pay her maintenance as the court held that the fact that she had voluntarily refrained from claiming maintenance against him in a court of law did not constitute sufficient consideration because it was done entirely at her behest, with no request whatsoever coming from her ex-husband. ...
+> \[T\]he element of request is necessary in order to establish a link between the parties concerned. So, for example, if the promisee chooses, of his or her own volition (and without more), to confer a benefit on the promisor, this will not constitute sufficient consideration in the eyes of the law. Likewise, if the promisee chooses, of his or her own volition, to incur a detriment, then (as the leading English Court of Appeal decision of _Combe v Combe_ \[1951\] 1 KB 214 (“_Combe_”) clearly illustrates, that would not constitute sufficient consideration in the eyes of the law. In _Combe_, the plaintiff wife failed in an action against her ex-husband for a promise made by him to pay her maintenance as the court held that the fact that she had voluntarily refrained from claiming maintenance against him in a court of law did not constitute sufficient consideration because it was done entirely at her behest, with no request whatsoever coming from her ex-husband. ...
 
 77     In respect of the other alleged element of the Arrangement, namely, that the Defendant’s existing software system would be replaced by the GTA system, I also did not find it possible to construe Mr White’s email of 30 May 2011 as having made any such promise. Whilst item 3 of the five-point proposal in the said email did refer to the Defendant signing off on the GTA system “\[w\]hich shall be offered in the coming weeks”, item 4 made it clear that the GTA system was to be offered to the Defendant “for test purposes over the course of the next 3 months until the end of August 2011”; and item 5 went on to state that the Plaintiff would “work to a plan with \[the Defendant\] to have a GT system installed on \[the Defendant’s\] hardware to at least have a system in house for low impact testing, due to hardware restrictions”. Mr White also stated that the Plaintiff would “endeavour that \[they\] all work to making the GT system a reality plan for \[the Defendant\] given the enhancements and offering that will solve many features \[the Defendant\] requires for their business moving forward”.[^134] Having regard to these express statements, it was clear that the 30 May 2011 email could not have provided the basis for a legally binding agreement whereby the Plaintiff undertook the obligation of replacing the Defendant’s existing software system with the GTA system.
 
@@ -573,29 +573,29 @@ I cannot find any evidence of any intention by the husband that the wife should 
 
 79     In re-examination, Mr Widjaja sought to backtrack from his concessions in cross-examination: he claimed that Mr White’s 30 May 2011 email had given the Defendant a “high dose of assurance” by addressing the concerns expressed in Mr Setiabudi’s 23 May 2011 email; and that in the circumstances, the Defendant had been “led to believe” that they were entering into an “agreement” which would provide an amicable solution for moving forward.[^136] A review of the responses given by Mr White vis-à-vis Mr Setiabudi’s concerns showed, however, that Mr White’s references to the provision of the GTA system to the Defendant were all in the context of a proposal for the Defendant to test the system; there was no representation at any point that the Plaintiff was binding itself to replace the Defendant’s existing system with the GTA system. In particular, in response to Mr Setiabudi’s statement (_per_ his 23 May 2011 email) that the Defendant “agree\[d\] to accept \[the Plaintiff’s\] offer to upgrade to GT”,[^137] Mr White’s response – couched in rather circumspect terms – was:
 
-We shall offer the Singapore / Sydney systems until we find a comfortable level for \[the Defendant’s\] test system to be upgraded for low impact testing.
+> We shall offer the Singapore / Sydney systems until we find a comfortable level for \[the Defendant’s\] test system to be upgraded for low impact testing.
 
 80     Furthermore, it should be noted that the Defendant did not dispute that whilst negotiating parties might enter into a binding agreement even when a few issues remained to be agreed, there would be no binding obligation unless all the material terms of the contract were agreed on: see for example _Grossner Jens v Raffles Holdings Ltd_ <span class="citation">\[2004\] 1 SLR(R) 202</span> (“_Grossner Jens_”).[^138] In _Grossner Jens_, the plaintiff had offered to broker the private sale of Swissotel Holding GA (“Swissotel”) to the defendants. The plaintiff sought 1% of the transaction price as broker’s commission on successful acquisition of Swissotel by the defendants. The defendants did not accept these proposed terms of remuneration and sought to cap the commission. For this purpose, they requested the plaintiff for information on the scope of his services and on the indicative price for Swissotel – which queries the plaintiff did not reply. Subsequently, after the defendants acquired Swissotel through a competitive bidding exercise in which they appointed Morgan Guarantee to act for them, the plaintiff demanded his commission from the defendants, claiming that he had brokered the deal. His claim was dismissed by the High Court, which held that the parties had failed to agree on crucial terms such as the plaintiff’s remuneration and the scope of his brokerage services; and that accordingly, there was no binding brokerage contract between the parties. In his judgement, Justice Tan Lee Meng held that:
 
-Depending on circumstances, negotiating parties may enter into a binding contract even though there are a few terms which have yet to be agreed upon. This was recently reiterated by the Court of Appeal in _The Rainbow Spring_ <span class="citation">\[2003\] 3 SLR(R) 362</span>. _However, the position is very different where important terms have not been agreed upon_ for as Maugham LJ put it in _Foley v Classique Coaches_ <span class="citation">\[1934\] 2 KB 1</span> at 13, “_unless all the material terms of the contract are agreed there is no binding obligation_”. In the present case, the parties did not reach agreement on crucial terms such as the remuneration for JG \[the plaintiff\] if he succeeds in brokering the sale of Swissotel to Raffles and the scope of the services to be rendered by JG. \[emphasis added\]
+> Depending on circumstances, negotiating parties may enter into a binding contract even though there are a few terms which have yet to be agreed upon. This was recently reiterated by the Court of Appeal in _The Rainbow Spring_ <span class="citation">\[2003\] 3 SLR(R) 362</span>. _However, the position is very different where important terms have not been agreed upon_ for as Maugham LJ put it in _Foley v Classique Coaches_ <span class="citation">\[1934\] 2 KB 1</span> at 13, “_unless all the material terms of the contract are agreed there is no binding obligation_”. In the present case, the parties did not reach agreement on crucial terms such as the remuneration for JG \[the plaintiff\] if he succeeds in brokering the sale of Swissotel to Raffles and the scope of the services to be rendered by JG. \[emphasis added\]
 
 81     In _G. Scammell & Nephew, Ltd v HC & JG Ouston_ <span class="citation">\[1941\] AC 251</span> (“_G. Scammell_”), the respondents agreed to purchase from the appellants a new motor van, but stipulated that “this order is given on the understanding that the balance of purchase price can be had on hire-purchase terms over a period of two years”. Before any hire-purchase agreement was entered into, the appellants refused to proceed further, whereupon the respondents sued for damages for breach of contract to “supply” the van. The respondents’ claim was upheld by the first-instance judge and by the English CA. On the appellants appealing to the House of Lords, the appeal was allowed. The House of Lords held that the clause as to hire-purchase terms was so vague that no precise meaning could be attributed to it, and that consequently no enforceable contract had been reached between the parties. Viscount Maugham noted (at 256–257) that not only was it unclear what the words “hire-purchase terms” meant in the present case, “nothing \[had been\] said (except as to the two years period) as to the terms of the hire-purchase agreement, for instance, as to the interest payable, and as to the rights of the letter whoever he may be in the event of default by the respondents in payment of the instalment at the due dates”; nor was there any evidence to suggest that there were any well-known “usual terms” in such a contract. These, he concluded, were “very serious difficulties”, which made it “impossible to conclude that a binding agreement \[had\] been established by the respondents”. Agreeing with him, Lord Wright stated (at 268–269):
 
-There are in my opinion two grounds on which the court ought to hold that there was never a contract. The first is that the language used was so obscure and so incapable of any definite or precise meaning that the court is unable to attribute to the parties any particular contractual intention.
+> There are in my opinion two grounds on which the court ought to hold that there was never a contract. The first is that the language used was so obscure and so incapable of any definite or precise meaning that the court is unable to attribute to the parties any particular contractual intention.
 
-…
+> …
 
-\[T\]he other reason, which is that the parties never in intention nor even in appearance reached an agreement, is a still sounder reason against enforcing the claim. In truth, in my opinion, their agreement was inchoate and never got beyond negotiations. They did, indeed, accept the position that there should be some form of hire-purchase agreement, but they never went on to complete their agreement by settling between them what the terms of the hire-purchase agreement were to be. The furthest point they reached was an understanding or agreement to agree upon hire-purchase terms. But as Lord Dunedin said in _May & Butcher v The King_, reported in a note to _Foley v Classique Coaches Ltd_, “_To be a good contract there must be a concluded bargain and a concluded contract is one which settles everything that is necessary to be settled and leaves nothing to be settled by agreement between the parties. Of course it may leave something which has still to be determined but then that determination must be a determination which does not depend upon the agreement between the parties_”.
+> \[T\]he other reason, which is that the parties never in intention nor even in appearance reached an agreement, is a still sounder reason against enforcing the claim. In truth, in my opinion, their agreement was inchoate and never got beyond negotiations. They did, indeed, accept the position that there should be some form of hire-purchase agreement, but they never went on to complete their agreement by settling between them what the terms of the hire-purchase agreement were to be. The furthest point they reached was an understanding or agreement to agree upon hire-purchase terms. But as Lord Dunedin said in _May & Butcher v The King_, reported in a note to _Foley v Classique Coaches Ltd_, “_To be a good contract there must be a concluded bargain and a concluded contract is one which settles everything that is necessary to be settled and leaves nothing to be settled by agreement between the parties. Of course it may leave something which has still to be determined but then that determination must be a determination which does not depend upon the agreement between the parties_”.
 
-\[emphasis added\]
+> \[emphasis added\]
 
 82     In _May & Butcher v The King_ <span class="citation">\[1934\] 2 KB 17</span> (“_May & Butcher_”), one of the two cases referenced by Lord Wright above, the appellants were general contractors who claimed that they had entered into a binding agreement with the Disposals and Liquidation Commission for the purchase by the appellants of tentage which might become available in the United Kingdom (“UK”). In respect of payment for the tentage, the alleged agreement provided that the “price or prices to be paid, and the date or dates on which payment is to be made by the purchasers to the Commission for such old tentage shall be agreed upon from time to time between the Commission and the purchasers as the quantities of the said old tentage becomes available for disposal, and are offered to the purchasers by the Commission”. The appellants appealed to the House of Lords after the court at first instance and the CA had rejected their claim. In dismissing the appeal, the House of Lords held that there was no concluded contract between the parties. As Lord Buckmaster put it (at 20):
 
-It has long been a well recognised principle of contract law that an agreement between two parties to enter into an agreement in which some critical part of the contract matter is left undetermined is no contract at all.
+> It has long been a well recognised principle of contract law that an agreement between two parties to enter into an agreement in which some critical part of the contract matter is left undetermined is no contract at all.
 
 83     Viscount Dunedin (whose judgment was cited by Lord Wright in _G. Scammell_), further noted (at 21) that:
 
-As a matter of the general law of contract all the essentials have to be settled. What are the essentials may vary according to the particular contract under consideration. We are here dealing with sale, and undoubtedly price is one of the essentials of sale, and if it is left still to be agreed between the parties, then there is no contract.
+> As a matter of the general law of contract all the essentials have to be settled. What are the essentials may vary according to the particular contract under consideration. We are here dealing with sale, and undoubtedly price is one of the essentials of sale, and if it is left still to be agreed between the parties, then there is no contract.
 
 84     Although in _Foley v Classique Coaches Ltd_ \[1934\] KB 1 (“_Foley_”) the English CA distinguished _May & Butcher_, it is important to note the grounds on which they distinguished that case. In _Foley_, the plaintiff had agreed to sell and the defendants to buy a piece of land, adjoining other land belonging to the plaintiff, which the defendants intended to use for their business as motor coach proprietors. The sale of the land was made subject to the defendants entering into another agreement to purchase from the plaintiff all the petrol required for their business (“the second agreement”). The second agreement stipulated that the defendants would purchase petrol from the plaintiff “at a price to be agreed by the parties in writing and from time to time”; further, that the defendants would purchase no petrol from any other person so long as the plaintiff was able to supply them with quantified sufficient to satisfy their daily requirement”. The second agreement also provided that if any dispute or difference should arise on the subject matter of construction of the agreement, “the same shall be submitted to arbitration”. The land was duly conveyed to the defendants who – for more than three years thereafter – obtained their petrol from the plaintiffs.
 
@@ -609,19 +609,19 @@ As a matter of the general law of contract all the essentials have to be settled
 
 88     As for the Revised Arrangement, to recap – the Defendant’s case was that this was a binding agreement concluded via its acceptance of the “compromise” offered in Mr White’s email of 28 March 2012.[^143] The terms of the Revised Arrangement, as pleaded, were that:
 
-(a)     the Defendant was to pay the Plaintiff the amounts of S&M on the E-Broker Core System and Front End, i.e. the annual fee of US$75,000; and
+> (a)     the Defendant was to pay the Plaintiff the amounts of S&M on the E-Broker Core System and Front End, i.e. the annual fee of US$75,000; and
 
-(b)     the Defendant was entitled to withhold the amounts of S&M on the Matching Engine Support until the GTA was implemented, i.e. the annual fee of US$150,000.
+> (b)     the Defendant was entitled to withhold the amounts of S&M on the Matching Engine Support until the GTA was implemented, i.e. the annual fee of US$150,000.
 
 89     As pleaded, the Revised Arrangement was substantively different from the Arrangement. The Arrangement allegedly provided for the Defendant to withhold all S&M payments post-31 December 2010 until its acceptance of the GTA system. In contrast, the Revised Arrangement allegedly provided for the Defendant to pay annually the S&M charge of US$75,000 applicable to the E-Broker Core System and Front End, while withholding the annual S&M charges of US$150,000 applicable to the Matching Engine Support until the delivery of the GTA system.
 
 90     As with the Arrangement, however, a review of Mr White’s email showed that it could not have provided the basis for a legally binding Revised Agreement with the terms as pleaded. The “compromise” that Mr White actually put forward in his email on 28 March 2012 was as follows:
 
-_Could you please discuss internally on my compromise of_ **_ICDX paying the outstanding amounts of the OMS (E-Broker Core System) which is 75,000 USD from the 1st July 2011 to the 30th June 2012.. there will still be a 150,000 USD payment for the S&M on the Matching Engine Support that ICDX will hold (which is for the same period) .. until we move the platforms onto the GT system_** _, but this will allow for me to continue with other initiative like the X-link PALN projects etc.._
+> _Could you please discuss internally on my compromise of_ **_ICDX paying the outstanding amounts of the OMS (E-Broker Core System) which is 75,000 USD from the 1st July 2011 to the 30th June 2012.. there will still be a 150,000 USD payment for the S&M on the Matching Engine Support that ICDX will hold (which is for the same period) .. until we move the platforms onto the GT system_** _, but this will allow for me to continue with other initiative like the X-link PALN projects etc.._
 
-_As also mentioned the GT system has been tested for the Back Office JV2 and also the physical delivery and is at a point where_ **_we are ready to introduce the system to ICDX as a short term test, before looking at this being the replacement of the existing VMS system you have and the move from your existing Data Centre_** _which is planned for July 2012._
+> _As also mentioned the GT system has been tested for the Back Office JV2 and also the physical delivery and is at a point where_ **_we are ready to introduce the system to ICDX as a short term test, before looking at this being the replacement of the existing VMS system you have and the move from your existing Data Centre_** _which is planned for July 2012._
 
-\[emphasis added in bold underline\]
+> \[emphasis added in bold underline\]
 
 91     From the above, it was evident that insofar as Mr White spoke of the Defendant withholding any S&M payment, he was referring in clear and specific terms to the S&M charge of US$150,000 payable for the Matching Engine Support for the period 1 July 2011 to 30 June 2012. Moreover, as with the Arrangement, given Mr White’s stated concern with the “build up” of a “large amount” of unpaid S&M charges and with his parent company’s attitude towards such a situation, it was unbelievable that if the parties had indeed varied their contract to let the Defendant withhold all S&M charges payable for the Matching Engine Support until it received the GTA, this should not have been expressly articulated in Mr White’s email.
 
@@ -629,19 +629,19 @@ _As also mentioned the GT system has been tested for the Back Office JV2 and als
 
 93     Tellingly, in its Closing Submissions, the Defendant sought to resile from the terms it had pleaded in respect of the Revised Arrangement. It contended in its Closing Submissions that in the Revised Arrangement:
 
-… not much was changed from the terms of the Arrangement, only that:
+> … not much was changed from the terms of the Arrangement, only that:
 
-(1)    The Defendant would pay the Plaintiff, as a compromise, the amounts of S&M on the E-Broker Core System and Front End **_for the period from 1 July 2011 to 30 June 2012, i.e. the annual fee of US$75,000_**; and
+>> (1)    The Defendant would pay the Plaintiff, as a compromise, the amounts of S&M on the E-Broker Core System and Front End **_for the period from 1 July 2011 to 30 June 2012, i.e. the annual fee of US$75,000_**; and
 
-(2)    The Plaintiff would roll out the GTA gradually, beginning first as a short term test, **_with a view to overhauling the existing system by July 2012, i.e. within four (4) months of Mr White’s 28 March 2012 email_**.
+>> (2)    The Plaintiff would roll out the GTA gradually, beginning first as a short term test, **_with a view to overhauling the existing system by July 2012, i.e. within four (4) months of Mr White’s 28 March 2012 email_**.
 
-\[emphasis added in bold italics\]
+> \[emphasis added in bold italics\]
 
 94     From the Closing Submissions, it appeared that the Defendant was arguing that the Revised Arrangement simply provided for the Defendant to pay the outstanding S&M charge for the E-Broker Core System and Front End for the period 1 July 2011 to 30 June 2012 (i.e. a sum of US$75,000), whilst requiring the Plaintiff to roll out the GTA with a view to overhauling the Defendant’s existing system by July 2012. The necessary implication was that the Revised Arrangement left unchanged the terms of the Arrangement which allegedly allowed the Defendant to withhold _all S&M payments_ until its acceptance of the GTA.
 
 95     I was unable to accept this submission. The terms of the Revised Arrangement as described in the Defendant’s Closing Submissions were not at all the terms pleaded in \[19\] of the Defence and Counter-claim, which had stated that the Revised Arrangement provided for the Defendant to _pay annually the S&M charge of US$75,000 applicable to the E-Broker Core System and Front End, while withholding the annual S&M charges of US$150,000 applicable to the Matching Engine Support until the delivery of the GTA system_. Nor was it ever pleaded in the Defence and Counter-claim that the GTA system would be rolled out with a view to overhauling the Defendant’s existing system by July 2012, i.e. within four months of Mr White’s 28 March 2012 email. Indeed, in this respect, nothing in the 28 March 2012 email remotely suggested that the GTA system would be rolled out with a view to overhauling the Defendant’s existing system by July 2012; the mention in that email of July 2012 was in reference to the date of the Defendant’s intended move from its existing Data Centre, and could not by any stretch of the imagination be read as the promised deadline for the replacement of the Defendant’s existing system with the GTA:
 
-_… the GT system has been tested for the Back Office JV2 and also the physical delivery and is at a point where we are ready to introduce the system to ICDX as a short term test, before looking at this being the replacement of the existing VMS system you have and_ **_the move from your existing Data Centre which is planned for July 2012_**. \[emphasis added in bold underline\]
+> _… the GT system has been tested for the Back Office JV2 and also the physical delivery and is at a point where we are ready to introduce the system to ICDX as a short term test, before looking at this being the replacement of the existing VMS system you have and_ **_the move from your existing Data Centre which is planned for July 2012_**. \[emphasis added in bold underline\]
 
 96     In any event, as stated earlier, the supposed deadline of July 2012 was not pleaded as a term of the Revised Arrangement, and our courts have consistently held that “parties are strictly bound by their pleadings and the court may not decide on issues not raised therein”: _Bumi Geo Engineering Pte Ltd v Civil Tech Pte Ltd_ <span class="citation">\[2015\] 5 SLR 1322</span> (“_Bumi Geo_”) at \[48\].[^145]
 
@@ -651,33 +651,33 @@ _… the GT system has been tested for the Back Office JV2 and also the physical
 
 98     In contending that the parties had reached a binding agreement in the Arrangement and/or the Revised Arrangement to vary their contractual rights and obligations, the Defendant placed considerable emphasis on two internal emails sent by Mr White to Mr Oliviero. The Defendant argued that the words used by Mr White in these internal emails showed that he viewed the parties as having reached a binding agreement vis-à-vis the Arrangement and/or the Revised Arrangement. It pointed out, for example, that in his email to Mr Oliviero on 30 August 2012, Mr White had stated the following:[^146]
 
-_… We had the original agreement based on an S&M of $225,000 per annum which was 150,000 USD for the matching / clearing PME and 75,000 USD for the OMS part of the system._
+> _… We had the original agreement based on an S&M of $225,000 per annum which was 150,000 USD for the matching / clearing PME and 75,000 USD for the OMS part of the system._
 
-_… \[W\]hen the exchange did finally launch we agreed that the S&M would be starting from July 2010 with all previous support being waived as part of the process.. when we got to the end of 2010, due to making the books look better in Pats for the YE 2010 we had a switch round where ICDX paid for two period within 2010 and had a free period over Jan to July 2011.. at which stage the normal fees would be charged. (addendum 1) we had a number of issues in-between which resulted in a letter from their legal on Non-Compliance. which at that stage now placed us into another issue of them holding the Jul to Dec 2010 payment back, yet we had were to recognise this in the 2010 YE.._
+> _… \[W\]hen the exchange did finally launch we agreed that the S&M would be starting from July 2010 with all previous support being waived as part of the process.. when we got to the end of 2010, due to making the books look better in Pats for the YE 2010 we had a switch round where ICDX paid for two period within 2010 and had a free period over Jan to July 2011.. at which stage the normal fees would be charged. (addendum 1) we had a number of issues in-between which resulted in a letter from their legal on Non-Compliance. which at that stage now placed us into another issue of them holding the Jul to Dec 2010 payment back, yet we had were to recognise this in the 2010 YE.._
 
-_We got to a point where through further negotiations in early July 2011 we agreed on the payment for the $112,500 to be paid and there would be no further payments for S&M until they were provided a working GT system.. which was agreed with the Exec Management at Pats.._ **_please note this meant Payment would only be HELD back not waived._**
+> _We got to a point where through further negotiations in early July 2011 we agreed on the payment for the $112,500 to be paid and there would be no further payments for S&M until they were provided a working GT system.. which was agreed with the Exec Management at Pats.._ **_please note this meant Payment would only be HELD back not waived._**
 
-_We got to a point in March 2012 when we thought we were able to now deliver the GT at which point we all agreed with ICDX on this matter and asked for a “good will” payment of 75K which was part payment for the outstanding amounts.. as you know a couple of weeks later the whole GT was pulled back leaving me and the team very embarrassed first off.. and left with the issue below of June 11 to June 12 and now into this next half year.. of the H2 2012._
+> _We got to a point in March 2012 when we thought we were able to now deliver the GT at which point we all agreed with ICDX on this matter and asked for a “good will” payment of 75K which was part payment for the outstanding amounts.. as you know a couple of weeks later the whole GT was pulled back leaving me and the team very embarrassed first off.. and left with the issue below of June 11 to June 12 and now into this next half year.. of the H2 2012._
 
-\[emphasis in original in bold underline\]
+> \[emphasis in original in bold underline\]
 
 99     I make the following observations in respect of the Defendant’s reliance on Mr White’s internal emails (or more accurately, on references in his email to “agreement” between the parties). Firstly, it was not disputed that Mr White – and indeed, the other protagonists in this dispute – were not legally trained. Mr White’s use of expressions such as “agreement” and “agree” must in my view be treated with some circumspection, instead of it being immediately assumed that by such expressions he was referring to a legally binding contract. As Viscount Maugham cautioned in _G. Scammell_ (at pp 254–255), “laymen unassisted by persons with a legal training are not always accustomed to use words or phrases with a precise or definite meaning”. That our courts have taken a similarly circumspect approach to the use by laymen of apparent legal terms may be seen in _Benzline Auto Pte Ltd v Supercars Lorinser Pte Ltd and another_ <span class="citation">\[2018\] 1 SLR 239</span> (“_Benzline_”).[^147] In that case, one of the issues in contention was the legal status of a payment of $300,000 made by the respondents Supercars to the appellant Benzline. At trial, Benzline’s key witness Mr Ng had given testimony in which he had apparently conceded that the respondent Supercars’ First Purchase Order was “placed on the condition that Supercars would be sub-dealer” and that Supercars’ $300,000 deposit was “a pre-contract deposit on the basis that the parties were going to sign a sub-dealer contract”. On appeal, the CA acknowledged that Mr Ng’s testimony had been “frankly disastrous” – but held that his testimony “must be interpreted bearing in mind his lack of legal training” (at \[66\]):
 
-What a layperson describes as a “condition” or “basis” may not be that in law. In the present case, it is equally plausible that, when read in context, Mr Ng’s answers reflect only that the parties _expected_ or _assumed_ that the Exclusive Sub Dealership Agreement would be entered into, and not necessarily that this expectation / assumption was communicated and formed the legal basis for the transfer.
+> What a layperson describes as a “condition” or “basis” may not be that in law. In the present case, it is equally plausible that, when read in context, Mr Ng’s answers reflect only that the parties _expected_ or _assumed_ that the Exclusive Sub Dealership Agreement would be entered into, and not necessarily that this expectation / assumption was communicated and formed the legal basis for the transfer.
 
 100    In the same vein, Mr White’s use of expressions such as “agreement” and “agree” in his internal emails did not in my view automatically signify that he was affirming the existence of a binding agreement for the Defendant to withhold all S&M payments until its acceptance of the GTA. In fact, a review of other internal email correspondence indicated quite the opposite. Thus, for example, in his email of 22 May 2012[^148] to Mr Oliviero (and another colleague), Mr White had started by stating that the Defendant had experienced “many issues with the workings of the old VMS PME” and that:
 
-_… Due to the many issues encountered it was agreed in 2011 that ICDX would hold back the S&M annualised payments until they received the GT platform, which at that point in time we were expecting to be available in H2 2012. the prerequisite for this agreement was for ICDX to pay their outstanding 6 month S&M, which at the time was refusing to pay due to the build up of issues that had taken place and the Notice of Non-Compliance … to Pats for the issues they had faced without any real solution to the issues._
+> _… Due to the many issues encountered it was agreed in 2011 that ICDX would hold back the S&M annualised payments until they received the GT platform, which at that point in time we were expecting to be available in H2 2012. the prerequisite for this agreement was for ICDX to pay their outstanding 6 month S&M, which at the time was refusing to pay due to the build up of issues that had taken place and the Notice of Non-Compliance … to Pats for the issues they had faced without any real solution to the issues._
 
 101    According to the Defendant, it was revealing that in this email, Mr White again used the expressions “agreed” and “agreement” in referring to the Defendant’s withholding of S&M payments, and that he did not use the expression “goodwill gesture” to refer to these arrangements even though he used that expression to refer to his suggestion of a 50% discount on the Defendant’s S&M fees. Crucially, however, what the Defendant omitted to point out was that in the same email, in presenting his suggestion of a 50% discount to Mr Oliviero, Mr White described that suggestion and the then existing arrangements as follows:[^149]
 
-**_Goodwill Gesture_**
+> **_Goodwill Gesture_**
 
-_I would like to offer ICDX a S&M reduction of 50% of_ **_the 225,000 USD which they are contracted to at present_** _, which would mean they would be paying $112,500 until we get them to move onto GT PME and get to a live state.. I’m not sure on how they will react, given the time they have waited and the fact that they have had to adopt a new back office system for the PME after the J-Clear (J-Vision) product wasn’t able to handle certain report or contracts with more than 2 decimals._
+> _I would like to offer ICDX a S&M reduction of 50% of_ **_the 225,000 USD which they are contracted to at present_** _, which would mean they would be paying $112,500 until we get them to move onto GT PME and get to a live state.. I’m not sure on how they will react, given the time they have waited and the fact that they have had to adopt a new back office system for the PME after the J-Clear (J-Vision) product wasn’t able to handle certain report or contracts with more than 2 decimals._
 
-_I’m not one for offering such goodwill normally, but given the trouble and time this has been a hanging issue.. I think it’s important we try to compromise with ICDX. They also have the licence for PALN Penyaluran Amanat Luar Negeri trading from Indonesia and have Phillips trading via their screens into central Singapore locations… So if anything I wish to keep this relationship going due to the changes which will continue to take place at this account with the company and family of ICDX being such high profile people in Indonesia._
+> _I’m not one for offering such goodwill normally, but given the trouble and time this has been a hanging issue.. I think it’s important we try to compromise with ICDX. They also have the licence for PALN Penyaluran Amanat Luar Negeri trading from Indonesia and have Phillips trading via their screens into central Singapore locations… So if anything I wish to keep this relationship going due to the changes which will continue to take place at this account with the company and family of ICDX being such high profile people in Indonesia._
 
-\[emphasis added in bold italics\]
+> \[emphasis added in bold italics\]
 
 102    I found the above passage extremely telling for the following reasons. Firstly, Mr White clearly stated that what the Defendant was “contracted to at present” was the payment of S&M charges of US$225,000 annually. This was precisely the annual S&M amount the Defendant were obliged to pay pursuant to the Licence Agreement and the Addendum. Mr White did not refer to any binding agreement in the interim having varied this obligation such that the Defendant was entitled to withhold all S&M payments post-31 December 2010 till its acceptance of the GTA (_per_ the Arrangement), or such that the Defendant was obliged to pay only the annual S&M charges for the E-Broker Core System and Front End (US$75,000 annually) whilst withholding the S&M charges for the Matching Engine Support (US$150,000 annually) till the delivery of the GTA (_per_ the Revised Agreement).
 
@@ -689,7 +689,7 @@ _I’m not one for offering such goodwill normally, but given the trouble and ti
 
 105    I did not think that this fact in itself was of much assistance to the Defendant. Looking at the relevant email correspondence, it was clear that between May 2011 and August 2012, Mr White was attempting to find a payment solution that would on the one hand appease the Defendant, given its grouses about the Plaintiff’s software, and on the other hand, be acceptable to the Plaintiff’s parent company. These twin concerns were articulated in his 28 March 2012 email, where he expressly stated:
 
-_… we are now at a stage where we need to work through an agreement with the outstanding Support & Maintenance mainly because the build up of this value with be 225,000 USD as of June 30th .. which is quite a large amount running into the remainder of the year. And will be something of a value which will concern our parent company as we look to work closely with ICDX for further growth at discount installations etc.._
+> _… we are now at a stage where we need to work through an agreement with the outstanding Support & Maintenance mainly because the build up of this value with be 225,000 USD as of June 30th .. which is quite a large amount running into the remainder of the year. And will be something of a value which will concern our parent company as we look to work closely with ICDX for further growth at discount installations etc.._
 
 106    As Mr Oliviero put it, parties were essentially “going back and forth around what would be the payment structure that ICDX \[the Defendant\] wanted, Barry going back with alternative or with revised pricing and effectively Barry and ICDX trying to reach or having a discussion around what agreement they wanted to reach and how they wanted to change the contract”.[^150] It should also be remembered that Mr White left the Plaintiff’s employment in end-October / early November 2012 without ever giving a substantive reply to Mr Setiabudi’s email of 28 August 2012 (in which the latter had made certain proposals for how _past_ S&M payments were to be treated); that Mr Oliviero then met with Mr Widjaja in January 2013 in an attempt to “find an amicable resolution in what was a long outstanding dispute in terms of non-payment and open support issues”; and that following the January 2013 meeting, the Plaintiff spent several months reviewing the list of software issues raised by the Defendant and documenting what it understood the contractual position between the parties to be.[^151] In these circumstances, the absence of any invoices issued by the Plaintiff was not surprising and did not necessarily suggest that parties had concluded a binding agreement to let the Defendant withhold all S&M payments until delivery of the GTA.
 
@@ -713,17 +713,17 @@ _… we are now at a stage where we need to work through an agreement with the o
 
 113    I next considered the Defendant’s argument of promissory estoppel. This was pleaded in \[28\] of the Defence and Counter-claim as follows:
 
-\[A\]s a result of the ongoing correspondence between the Plaintiff and the Defendant between 28 March 2012 and 19 August 2014, the Arrangement and the Revised Arrangement, the Plaintiff is estopped from relying on the non-issuance of any Notice of Dispute as indication that the Defendant accepted and/or waived all rights to dispute, each of the Invoices.
+> \[A\]s a result of the ongoing correspondence between the Plaintiff and the Defendant between 28 March 2012 and 19 August 2014, the Arrangement and the Revised Arrangement, the Plaintiff is estopped from relying on the non-issuance of any Notice of Dispute as indication that the Defendant accepted and/or waived all rights to dispute, each of the Invoices.
 
 114    The Defendant argued that even if the Arrangement and/or the Revised Arrangement were found not to be binding contractual variations, “\[i\]n making the Arrangement and later the Revised Arrangement … the Plaintiff clearly unequivocally promised to forbear on insisting upon any legal entitlement it had to future S&M payments, until and unless the Defendant was provided and implemented the GTA system”.[^161]
 
 115    As to the legal principles applicable, it was not disputed that _per_ the CA’s judgement in _Audi Construction Pte Ltd v Kian Hiap Construction Pte Ltd_ <span class="citation">\[2018\] 1 SLR 317</span> (“_Audi Construction_”) at \[57\],[^162] the Defendant had the burden of proving the following if it wished to establish the alleged promissory estoppel:
 
-(a)     the Plaintiff had made an unequivocal representation to the Defendant that it would not insist on its legal rights to all future S&M payments until the provision of the GTA system to the Defendant;
+> (a)     the Plaintiff had made an unequivocal representation to the Defendant that it would not insist on its legal rights to all future S&M payments until the provision of the GTA system to the Defendant;
 
-(b)     the Defendant had relied on the representation by the Plaintiff, resulting in a change of position; and
+> (b)     the Defendant had relied on the representation by the Plaintiff, resulting in a change of position; and
 
-(c)     it would be inequitable for the Plaintiff now to enforce its legal rights to payment of its invoices.
+> (c)     it would be inequitable for the Plaintiff now to enforce its legal rights to payment of its invoices.
 
 116    In arguing that the Plaintiff had made an unequivocal representation that it would not insist on its legal rights to all future S&M payments until the provision of the GTA system to the Defendant, the Defendant relied primarily on the text of Mr White’s emails of 30 May 2011[^163] and 28 March 2012.[^164] The Defendant contended that “\[t\]he plain text of Mr White’s email \[of 30 May 2011\] … in particular, the terms encapsulated at items 2 and 3 – \[were\] sufficient, by itself, to evince a promise on the part of the Plaintiff to allow the Defendant to withhold S&M payments, until the Defendant signed off on the GTA system”;[^165] further, that the 28 March 2012 email was “in substance, a reiteration of the Arrangement” that “only reinforced the same”.[^166]
 
@@ -731,33 +731,33 @@ _… we are now at a stage where we need to work through an agreement with the o
 
 118    In respect of the 30 May 2011 email, the Defendant sought to rely on a sentence in Mr White’s response to Mr Setiabudi’s query (in the latter’s 23 May 2011 email) as to what would happen if the Defendant “_would go through the same experience with the current platform_”. Mr White, in responding, had stated _inter alia_:
 
-_I hope none of this will be the case and if any of it is, you will not sign off on the UAT and hold back the money._
+> _I hope none of this will be the case and if any of it is, you will not sign off on the UAT and hold back the money._
 
 119    The Defendant sought to place great emphasis on the sentence “you will not sign off on the UAT and _hold back the money_” was clearly a reference to the Plaintiff’s promise in the same email that the Defendant would be allowed “to withhold S&M payments until \[it\] signed off on the GTA system”. It submitted that items 3 and 4 of the 30 May 2011 email showed parties had “expected that _the GTA system would have been tested and implemented onto the Defendant’s system over the next three (3) months_”:[^167]
 
-Accordingly, it was fully envisioned that the Defendant would have, by some point, signed off on the acceptance of the GTA system. However, as it turned out, the GTA not only failed to be tested meaningfully or implemented during this time frame, it never was delivered at all. Accordingly, in line with Mr White’s representation that the Defendant would not sign off the UAT and ‘_hold back the money_’, it is only logical that all further S&M fees that would have otherwise been due would be, in such circumstances, similarly held back. Were it otherwise, the entire Arrangement would have virtually no meaning, since the very premise of the Arrangement was to enable the Defendant to obtain a replacement for the defective software …
+> Accordingly, it was fully envisioned that the Defendant would have, by some point, signed off on the acceptance of the GTA system. However, as it turned out, the GTA not only failed to be tested meaningfully or implemented during this time frame, it never was delivered at all. Accordingly, in line with Mr White’s representation that the Defendant would not sign off the UAT and ‘_hold back the money_’, it is only logical that all further S&M fees that would have otherwise been due would be, in such circumstances, similarly held back. Were it otherwise, the entire Arrangement would have virtually no meaning, since the very premise of the Arrangement was to enable the Defendant to obtain a replacement for the defective software …
 
 120    In other words, what the Defendant was saying was that this one sentence should be construed as a representation by Mr White that in the event the Defendant’s software was not replaced with the GTA within 3 months from 30 May 2011, the Defendant would be entitled to withhold all further S&M payments until the replacement occurred. To put such a construction on Mr White’s statement, however, would have required that I put aside basic canons of linguistics and logic, and engage instead in hazy speculation. In the first place, the reference to the timeline of “the next 3 months” was clearly a reference to the time period in which Mr White was expecting to be able to let the Defendant test the GTA system. This was clear from item 4 of his email, in which he expressly stated:[^168]
 
-_4_.     _Patsystems to offer their New installed in-house GT system to ICDX for test purposes over the course of the next 3 months until the end of August 2011_
+> _4_.     _Patsystems to offer their New installed in-house GT system to ICDX for test purposes over the course of the next 3 months until the end of August 2011_
 
-\[emphasis in original in grey\]
+> \[emphasis in original in grey\]
 
 121    In this connection, I found the approach of the CA in _Cupid Jewels Pte Ltd v Orchard Central Pte Ltd and another appeal_ <span class="citation">\[2014\] 2 SLR 156</span> (“_Cupid Jewels_”) to be helpful in elucidating the degree of certainty and clarity required in the representation alleged to form the basis of a promissory estoppel. In _Cupid Jewels_, the appellant Cupid Jewels was a tenant of the respondent Orchard Central. Cupid Jewels fell into rental arrears from August 2009, but it was only in May 2010 that the parties began negotiations for rental review. On 2 June 2010 Orchard Central sent a letter to Cupid Jewels offering a number of rebates on its base rent on an _ex gratia_ basis. Cupid Jewels did not accept the offer in this 2 June 2010, and talks between the parties continued without any agreement being reached. On 13 July 2010, Cupid Jewels sent an email requesting that the payment of rental arrears commence in August 2010 in 24 monthly instalments. On 27 July 2010 Orchard Central replied via email stating:
 
-We have reviewed your request comprehensively and regret that we are unable to agree to your request of payment of your outstanding arrears in 24 months. We have reviewed, and request that all the arrears be paid _by 31 December 2010_.
+> We have reviewed your request comprehensively and regret that we are unable to agree to your request of payment of your outstanding arrears in 24 months. We have reviewed, and request that all the arrears be paid _by 31 December 2010_.
 
-_We look forward to your instalment plans, afterwhich, we can move our discussion forward._
+> _We look forward to your instalment plans, afterwhich, we can move our discussion forward._
 
-\[emphasis added\]
+> \[emphasis added\]
 
 122    Cupid Jewels acknowledged the above email on 29 July 2010 and notified Orchard Central that it would revert after meeting with its owners who were then outstation. Between 29 July 2010 and 5 August 2010, parties continued to correspond about matters such as the provision of audited sales receipts. However, on 6 August 2010, Orchard Central filed an _ex parte_ application in the High Court for a Writ of Distress in respect of Cupid Jewel’s outstanding rental arrears for the period August 2009 and 2010 (by then a total sum of $891,507.99). The application was granted, and the sheriff proceeded to seize the goods found on the tenanted premises. Cupid Jewel’s application for release of the distrained goods was dismissed by the High Court Judge, whose decision was upheld by the CA. The Judge found that Orchard Central had made a clear representation in its 27 July 2010 email that it would not enforce its legal rights under the lease agreement at least before the negotiations on payment of arrears had broken off – although he found that Cupid Jewels had failed to prove the elements of detriment and reliance. On appeal, however, the CA disagreed with the Judge’s finding on the element of representation. On an examination of the communications between the parties, the CA held (at \[39\] and \[41\]) that:
 
-… there was in fact _no_ clear and unequivocal representation by Orchard Central that it would not enforce its legal rights under the Lease Agreement. While the parties were certainly negotiating over the rental rebates and repayment arrangements, there was nothing in the correspondence between the parties that evinced a representation that was sufficiently of the character necessary to invoke the equitable doctrine of promissory estoppel. On appeal, Cupid Jewels sought to characterise the 27 July 2010 Email as an offer for all arrears to be paid by 31 December 2010, and that this offer was still open at the time of Orchard Central’s application for the Writ of Distress. We disagreed with such a characterisation. The 27 July 2010 Email was simply too uncertain to be an offer and was, at best, a mere invitation to treat. Even if this email was an offer (which we did not find), the fact remained that there was no clear and unequivocal representation by Orchard Central _that it would not enforce its legal rights_.
+> … there was in fact _no_ clear and unequivocal representation by Orchard Central that it would not enforce its legal rights under the Lease Agreement. While the parties were certainly negotiating over the rental rebates and repayment arrangements, there was nothing in the correspondence between the parties that evinced a representation that was sufficiently of the character necessary to invoke the equitable doctrine of promissory estoppel. On appeal, Cupid Jewels sought to characterise the 27 July 2010 Email as an offer for all arrears to be paid by 31 December 2010, and that this offer was still open at the time of Orchard Central’s application for the Writ of Distress. We disagreed with such a characterisation. The 27 July 2010 Email was simply too uncertain to be an offer and was, at best, a mere invitation to treat. Even if this email was an offer (which we did not find), the fact remained that there was no clear and unequivocal representation by Orchard Central _that it would not enforce its legal rights_.
 
-… Ultimately, that Cupid Jewels was under a (false) sense of security arising from Orchard Central’s initial forbearance and that Cupid Jewels conducted itself according to that self-perceived assurance did not detract from the fact that … _no representation giving rise to a promissory estoppel was ever made_.
+> … Ultimately, that Cupid Jewels was under a (false) sense of security arising from Orchard Central’s initial forbearance and that Cupid Jewels conducted itself according to that self-perceived assurance did not detract from the fact that … _no representation giving rise to a promissory estoppel was ever made_.
 
-\[emphasis in original\]
+> \[emphasis in original\]
 
 123    Applying a similar approach to the communications between the parties in the present case, there was nothing in the 30 May 2011 email which could remotely be construed as a promise to let the Defendant withhold all S&M payments until such time as the replacement of its existing system with the GTA. In fact, in respect of items 2 and 3 of the email (which the Defendant relied on “in particular”), item 2 referred unequivocally to the withholding of “_the $112,500 S&M payment which is due June 1st 2011 and caters for the S&M until the 31st December 2011_”; and item 3 stated clearly that the Plaintiff would “only request _the payment for the $112,500_ at the point where \[the Defendant\] signoff on the GT PME system”. It followed as a matter of logical construction that in talking about “the money” to be held back, Mr White was referring to the US$112,000 for the period 1 June 2011 to 31 December 2011 described in item 2 of the email. Given that Mr White had taken pains to spell out in item 2 the precise S&M period for which he was offering to let the Defendant withhold payment, it was unbelievable that if he had been intent on representing that the Defendant could withhold all further S&M payments till delivery of the GTA, he should have refrained from saying so in equally specific and unambiguous terms.
 
@@ -775,23 +775,23 @@ _We look forward to your instalment plans, afterwhich, we can move our discussio
 
 128    I was taken aback by the above arguments, firstly, because the Defendant did not at any point plead in its Defendant and Counter-claim that clause 10.1 of the Licence Agreement should be construed as giving rise to a binding obligation on the Plaintiff’s part to “provide the Defendant with a software system that was _reasonably workable_”. Nor was it pleaded in the alternative that the Plaintiff was subject to an implied contractual term obliging it to “provide the Defendant with a software system that was _reasonably workable_”. The Defendants also did not plead any of the extrinsic evidence sought to be relied on in its proposed construction of the parties’ contractual rights and obligations. This omission to plead these matters and the absence of any explanation for such omission were – with respect – baffling, given that they formed a vital part of the Defendant’s case – indeed, the very lynchpin of its Counter-claim. Our courts have consistently held that “parties are strictly bound by their pleadings and the court may not decide on issues not raised therein”: see \[48\] of _Bumi Geo_.[^176] Moreover, having cited _Sembcorp Marine Ltd v PPL Holdings Pte Ltd & anor_ <span class="citation">\[2013\] 4 SLR 193</span> (“_Sembcorp Marine_”)[^177] in its Closing Submissions,[^178] the Defendant could not be unaware of the principles laid down by the CA in that case In _Sembcorp Marine_, the CA had endorsed the adoption in _Zurich Insurance_ of a contextual approach to contractual construction which permitted recourse to extrinsic evidence of the external context of a contract in aid of its construction. At the same time, the CA cautioned that “the broad language associated with the contextual approach \[was\] susceptible to being misunderstood and misapplied”, and that it was “not a licence to admit all manner of extrinsic evidence”. The CA then set out what it called “requirements of civil procedure” for parties proposing a contextual approach to the construction of a contract or the implication of contractual terms (at \[73\]):
 
-\[A\]lthough the contextual approach is most frequently engaged in the context of interpretation, this is not to say that the contextual approach is irrelevant when it comes to other aspects of construction such as implication or rectification. Indeed, it is trite that the courts must have regard to the context at the time of contracting when considering the issue of implication. Therefore, to buttress the evidentiary qualifications to the contextual approach to the construction of a contract, the imposition of four requirements of civil procedure are … timely and essential:
+> \[A\]lthough the contextual approach is most frequently engaged in the context of interpretation, this is not to say that the contextual approach is irrelevant when it comes to other aspects of construction such as implication or rectification. Indeed, it is trite that the courts must have regard to the context at the time of contracting when considering the issue of implication. Therefore, to buttress the evidentiary qualifications to the contextual approach to the construction of a contract, the imposition of four requirements of civil procedure are … timely and essential:
 
-(a)    first, parties who contend that the factual matrix is relevant to the construction of the contract must plead with specificity each fact of the factual matrix that they wish to rely on in support of their construction of the contract;
+>> (a)    first, parties who contend that the factual matrix is relevant to the construction of the contract must plead with specificity each fact of the factual matrix that they wish to rely on in support of their construction of the contract;
 
-(b)    second, the factual circumstances in which the facts in (a) were known to both or all of the relevant parties must also be pleaded with sufficient particularity;
+>> (b)    second, the factual circumstances in which the facts in (a) were known to both or all of the relevant parties must also be pleaded with sufficient particularity;
 
-(c)    third, parties should in their pleadings specify the effect which such facts will have on their contended construction; and
+>> (c)    third, parties should in their pleadings specify the effect which such facts will have on their contended construction; and
 
-(d)    fourth, the obligations of parties to disclose evidence would be limited by the extent to which the evidence are relevant to the facts pleaded in (a) and (b).
+>> (d)    fourth, the obligations of parties to disclose evidence would be limited by the extent to which the evidence are relevant to the facts pleaded in (a) and (b).
 
 129    In _Yap Son On v Ding Pei Zhen_ <span class="citation">\[2017\] 1 SLR 219</span> (“_Yap Son On”_),[^179] the CA reiterated the importance of the pleading requirements established in _Sembcorp Marine_, noting that it embodied “‘a cards-up approach’ towards commercial litigation”, and brought about critical benefits including procedural fairness and substantive justice. The CA further held (at \[51\]) that:
 
-… it is not enough for a party to allude, in a vague and general manner, to the result which it seeks to reach. Instead, as stated in _Sembcorp Marine_ … each fact in the factual matrix, the circumstances under which it was known to both parties and, crucially, the _effect that such facts would have on the intended construction_ must all be pleaded with specificity. \[emphasis in original\]
+> … it is not enough for a party to allude, in a vague and general manner, to the result which it seeks to reach. Instead, as stated in _Sembcorp Marine_ … each fact in the factual matrix, the circumstances under which it was known to both parties and, crucially, the _effect that such facts would have on the intended construction_ must all be pleaded with specificity. \[emphasis in original\]
 
 130    Although the Defendant sought to include in Mr Widjaja’s AEIC[^180] details of the extrinsic facts relied on for its proposed construction of clause 10.1 of the Licence Agreement, this did not cure its breach of the pleading requirements set out in _Sembcorp Marine_. In _Yap Son On_, the CA firmly rejected the respondent’s argument that its failure to observe the pleading requirements was remedied by its having set out the necessary details in its witnesses’ AEICs (at \[52\]):
 
-We also reject the Respondent’s argument that it was enough for these details to have been set out in the AEICs. This runs contrary to the settled principle of law that defects in pleadings cannot be cured by averments in affidavits …
+> We also reject the Respondent’s argument that it was enough for these details to have been set out in the AEICs. This runs contrary to the settled principle of law that defects in pleadings cannot be cured by averments in affidavits …
 
 131    The Defendant’s failure to plead the Plaintiff’s alleged contractual obligation to provide “a software system that was _reasonably workable_” was plainly prejudicial to the Plaintiff. I should point out that there was no mention of the Defendant’s new “case” even in the Opening Statement filed by the Defendant’s counsel. In relation to the Defendant’s counter-claim, whilst there was a brief reference in the Opening Statement to “business common sense” requiring “that the software system be, at the very least, sufficiently workable”, this was not elaborated upon: the Defendant simply proceeded to cite clause 10.1 of the Licence Agreement read with clause 2.2 to Schedule 5 and the Review Criteria in the Addendum, without revealing its new “case” that clause 10.1 – properly construed – imposed an obligation to provide a “reasonably workable system”. The Opening Statement also made no mention at all of the Defendant’s reliance – in the alternative – on an _implied_ contractual term to the same effect. It was apparent that the Plaintiff was completely thrown off-guard when the Defendant eventually put forward these claims in its Closing Submissions: nothing in the Plaintiff’s Closing Submissions dealt with this issue, and the Plaintiff had to then scramble to deal with it in its Reply Closing Submissions.
 
@@ -799,31 +799,31 @@ We also reject the Respondent’s argument that it was enough for these details 
 
 133    In any event, I would stress that even if I were to disregard the Defendant’s breach of the pleading requirements, its proposed construction of clause 10.1 of the Licence Agreement simply could not be sustained. To recap, the text of clause 10.1 read as follows:[^181]
 
-Patsystems warrants that the Software will comply with the Specifications set out in the Project Plan at the date of Acceptance and operate on the media on which they are supplied immediately on installation subject to their having been installed on the Equipment. Customer’s sole remedy **in the event of the Software not so operating satisfactorily** will be (at the option of Customer) either the supply and installation on the Equipment of replacement versions of the Software or **the refund of any unused sums already paid by Customer to Patsystems on a pro rata basis**.
+> Patsystems warrants that the Software will comply with the Specifications set out in the Project Plan at the date of Acceptance and operate on the media on which they are supplied immediately on installation subject to their having been installed on the Equipment. Customer’s sole remedy **in the event of the Software not so operating satisfactorily** will be (at the option of Customer) either the supply and installation on the Equipment of replacement versions of the Software or **the refund of any unused sums already paid by Customer to Patsystems on a pro rata basis**.
 
-\[emphasis added by the Defendant in bold underline\]
+> \[emphasis added by the Defendant in bold underline\]
 
 134    The Defendant sought to direct my attention to the highlighted portions of the above text, arguing that although the word “satisfactorily” was not defined in the Licence Agreement, “guidance \[could\] be taken from the well-established canons of contractual interpretation at law”,[^182] and that given the “plain meaning” given in the Oxford Dictionary to this word (“in a way that fulfils expectations or needs; acceptably”)[^183]:
 
-… the term “satisfactorily” within Clause 10.1 of the Agreement obliged the Plaintiff to provide a software system that would be reasonably workable. The software need not have been flawless, but it would, at minimum, have to be sufficiently defect-free such that the Defendant’s customers could conduct their trades with reasonable efficiency.
+> … the term “satisfactorily” within Clause 10.1 of the Agreement obliged the Plaintiff to provide a software system that would be reasonably workable. The software need not have been flawless, but it would, at minimum, have to be sufficiently defect-free such that the Defendant’s customers could conduct their trades with reasonable efficiency.
 
 135    I rejected the above arguments. With respect, it would have required blatantly ignoring all the other words in clause 10.1 which gave context to the use of the word “satisfactorily”. From the first sentence of clause 10.1, it was clear beyond doubt that what the Plaintiff (referred to as “Patsystems”) was warrantying was that its software would, firstly, “comply with the Specifications set out in the Project Plan at the date of Acceptance”, and secondly, “operate on the media on which they are supplied immediately on installation subject to their having been installed on the Equipment”. The second sentence of clause 10.1 then proceeded to spell out what the Defendant’s remedy (as the “Customer”) would be “in the event of the software _not so operating satisfactorily_”. The specific use of the word “so” was important, as it clearly signalled that the issue of whether the software operated “satisfactorily” – and therefore whether the Defendant was entitled to the remedy provided – must be determined with reference to the warranty stated in the first sentence: that is, the software would not be considered to be operating “satisfactorily” if it failed to “comply with the Specifications set out in the Project Plan at the date of Acceptance” or to “operate on the media on which they are supplied immediately on installation subject to their having been installed on the Equipment”. Any construction of the word “satisfactorily” that overlooked the word “so” placed before it – and that ignored the first sentence of clause 10.1 – would do deliberate violence to the clear language of the clause.
 
 136    The Defendant’s proposed construction of clause 10.1 also ignored the express exclusions stated in clause 10.4. In particular, it ignored the fact that clause 10.4 expressly stated that the Plaintiff disclaimed any warranties that its software would be suitable and fit for any particular purpose, or that it would be error free or operate without interruption in whole or in part:
 
-10.4  PATSYSTEMS AND PATSYSTEMS PARTIES MAKE NO OTHER WARRANTIES WHATSOEVER, EXPRESS OR IMPLIED, WITH REGARD TO ANY PRODUCTS AND SERVICES PROVIDED UNDER THIS AGREEMENT, AND/OR THE SOFTWARE, IN WHOLE OR IN PART.
+> 10.4  PATSYSTEMS AND PATSYSTEMS PARTIES MAKE NO OTHER WARRANTIES WHATSOEVER, EXPRESS OR IMPLIED, WITH REGARD TO ANY PRODUCTS AND SERVICES PROVIDED UNDER THIS AGREEMENT, AND/OR THE SOFTWARE, IN WHOLE OR IN PART.
 
-10.4.1    WITHOUT LIMITING THE FOREGOING, PATSYSTEMS AND PATSYSTEMS PARTIES EXPLICITLY DISCLAIMS:
+> 10.4.1    WITHOUT LIMITING THE FOREGOING, PATSYSTEMS AND PATSYSTEMS PARTIES EXPLICITLY DISCLAIMS:
 
-10.4.2    ALL WARRANTIES OF SUITABILITY AND OF FITNESS FOR A PARTICULAR PURPOSE;
+> 10.4.2    ALL WARRANTIES OF SUITABILITY AND OF FITNESS FOR A PARTICULAR PURPOSE;
 
-10.4.3    THAT THE SOFTWARE OR SYSTEM, IN WHOLE OR IN PART, WILL BE ERROR FREE OR WILL OPERATE WITHOUT INTERRUPTION;
+> 10.4.3    THAT THE SOFTWARE OR SYSTEM, IN WHOLE OR IN PART, WILL BE ERROR FREE OR WILL OPERATE WITHOUT INTERRUPTION;
 
-10.4.4    THAT THE SOFTWARE WILL BE COMPATIBLE WITH ANY HARDWARE OR SOFTWARE OTHER THAN THE EQUIPMENT.
+> 10.4.4    THAT THE SOFTWARE WILL BE COMPATIBLE WITH ANY HARDWARE OR SOFTWARE OTHER THAN THE EQUIPMENT.
 
 137    The Defendant’s additional reliance on clause 2.2 of Schedule 5 to the Licence Agreement and on the Review Criteria stipulated in the Addendum did not assist its argument that clause 10.1 imposed on the Plaintiff an obligation to provide a “reasonably workable” system. In respect of clause 2.2 of Schedule 5, the Defendant attempted to rely on the first sentence under the sub-heading “Overview”, which stated that the Plaintiff’s “aim” was to “provide systems that meet business needs, are reliable, available and well supported”.[^184] What the Defendant failed to highlight, however, was that Schedule 5 was concerned specifically with defining the _Support and Maintenance Services_ to be provided by the Plaintiff. This was clear from the cover page of Schedule 5,[^185] and from the preamble in clause 2.1 of the schedule which stated (under the sub-heading “Purpose”):
 
-The purpose of this document is to define the support and maintenance services (“Services”) to be provided by Patsystems to the Customer pursuant to the Agreement and in accordance with the terms set out below.
+> The purpose of this document is to define the support and maintenance services (“Services”) to be provided by Patsystems to the Customer pursuant to the Agreement and in accordance with the terms set out below.
 
 138    In other words, the contents of Schedule 5 were focused on defining the Plaintiff’s support and maintenance obligations. Nothing in clause 2.2 or elsewhere in Schedule 5 suggested that clause 2.2 was intended to touch on the Plaintiff’s warranties in the main Licence Agreement vis-à-vis its software. Moreover, the statement in clause 2.2 that the Plaintiff aimed to provide systems that met “business needs”, were “reliable, available and well supported” did not appear to me to be anything more than a very general statement – the sort one might colloquially characterise as a vague “motherhood statement”, incapable in itself of imposing on the Plaintiff any specific binding obligation, and certainly incapable of modifying or redefining the specific warranty provided in the first sentence of clause 10.1 of the Licence Agreement. Indeed, it was expressly stated in clause 2.1 of Schedule 5 that “\[t\]o the extent that there is any inconsistency between this schedule and the \[Licence\] Agreement, the terms of the \[Licence\] Agreement shall prevail”.[^186]
 
@@ -859,7 +859,7 @@ The purpose of this document is to define the support and maintenance services (
 
 152    That such a claim for the contract sum as “wasted expenditure” following from a defendant’s contractual breach may look “superficially similar” to a claim for the same sum on the ground of total failure of consideration was acknowledged by the High Court in _PT Panosonic Gobel Indonesia v Stratech Systems Ltd_ <span class="citation">\[2010\] 3 SLR 1017</span> (“_PT Panosonic_”).[^200] The High Court also made it clear that despite the “superficial” similarity, there were “material differences” between the two, “such that making the former claim is not to be considered a backdoor means of getting around not having properly pleaded the latter”. The court expressly approbated (at \[6\]) the following observations by the registrar below:
 
-The former claim \[i.e. the claim for the contractual price as a reliance loss\] is premised on the argument that in reliance on the defendant’s promise, the plaintiff has made an expenditure (i.e. the payment of the contract price) which has been _wasted_, but the latter claim \[i.e. the claim for the same contractual sum based on total failure of consideration\] is founded on an entirely separate argument that the defendant has been _unjustly enriched_ because of his total non-performance of the contract… \[I\]t is open to a plaintiff to choose between making one or the other claim. \[emphasis in original\]
+> The former claim \[i.e. the claim for the contractual price as a reliance loss\] is premised on the argument that in reliance on the defendant’s promise, the plaintiff has made an expenditure (i.e. the payment of the contract price) which has been _wasted_, but the latter claim \[i.e. the claim for the same contractual sum based on total failure of consideration\] is founded on an entirely separate argument that the defendant has been _unjustly enriched_ because of his total non-performance of the contract… \[I\]t is open to a plaintiff to choose between making one or the other claim. \[emphasis in original\]
 
 153    The High Court also pointed out that these observations were in accord with the court’s decision in the main action between the same parties in Suit No 34 of 2007, _PT Panasonic Gobel Indonesia v Stratech Systems Ltd_ <span class="citation">\[2009\] 1 SLR(R) 470</span>. In Suit No 34 of 2007, the plaintiff (PT Panasonic) had pleaded breach by the defendant (Stratech) of the Services Agreement signed between them, and had claimed damages on two alternative bases: firstly, on the basis that it had been induced to enter into the Services Agreement with the defendant by certain misrepresentations made by the defendant before the conclusion of the agreement; secondly, that the defendant had breached its obligations under the agreement (a) in failing to complete the provision, customisation and implementation of the information management system that it was supposed to provide to the plaintiff; (b) in failing to ensure that the said system met the specifications in the Services Agreement; and (c) by breaching clause 3.1 of the Services Agreement. These pleadings notwithstanding, the plaintiff also sought to put forward _in its closing submissions_ the alternative argument that the defendant’s failure to implement and deliver the said information management system amounted to a total failure of consideration entitling it to seek repayment of all monies paid under the Services Agreement. When the defendant objected that the plaintiff had not pleaded a claim of total failure of consideration, the plaintiff argued that it had pleaded all the facts necessary to establish such a claim, and that the consequences of establishing they the evidence adduced was a legal consequence that did not need to be pleaded. Judith Prakash J (as she then was) found the defendant’s objection to the belated argument of total failure of consideration to be well-founded (at \[87\]). She noted that the plaintiff had failed to plead a claim for refund of payments on the basis of total failure of consideration; that if it had pleaded this as its main or alternative relief, the defendant would have been able to test the basis for such claim in cross-examination, discovery exercises and submissions; that the defendant had been deprived of these opportunities since no leading to that effect was made; and that it was too late for the plaintiff to raise the argument in closing submissions.
 
@@ -881,7 +881,7 @@ The former claim \[i.e. the claim for the contractual price as a reliance loss\]
 
 161    I rejected the above argument for the following reasons. Firstly, the Acceptance Criteria under the Licence Agreement was clearly spelt out in Schedule 3 to the agreement:[^209] in brief, the Defendant had 45 business days to test the software for compliance with the contract specifications (“the Documentation”), following which it could either raise defects in the software to the Plaintiff via a notice of non-compliance or confirm acceptance. It was not disputed that the Defendant issued the written UAT Acceptance on 29 November 2009.[^210] It was also not disputed that even if no written UAT Acceptance had been issued, the Acceptance Criteria provided in Schedule 3 of the Licence Agreement expressly stipulated that:
 
-… \[i\]f no written notice of acceptance or notice of non-compliance is issued by Customer within 45 Business Days after Software’s installation, or if the Software is used in a live environment then the Software shall be deemed to have been accepted or upon 30th November 2009 (which ever the earlier).(“Deemed Acceptance”)
+> … \[i\]f no written notice of acceptance or notice of non-compliance is issued by Customer within 45 Business Days after Software’s installation, or if the Software is used in a live environment then the Software shall be deemed to have been accepted or upon 30th November 2009 (which ever the earlier).(“Deemed Acceptance”)
 
 162    It was not disputed in this case that the Defendant’s exchange went live with a soft launch in November 2009 and that it was officially launched in March 2010.[^211] In the circumstances, it could scarcely be doubted that by March 2010 at the very latest, the software was being used “in a live environment”.
 

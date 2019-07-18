@@ -43,9 +43,9 @@ Employment Law – Work Injury Compensation Act – Employer’s liability f
 
 12     An employee’s entitlement to compensation for workplace injury is founded on s 3(1) of the Work Injury Compensation Act (Cap 354, 2009 Rev Ed) (“WICA”), which provides:
 
-**Employer’s liability for compensation**
+> **Employer’s liability for compensation**
 
-3.—(1)    If in any employment personal injury by _accident arising out of and in the course of the employment_ is caused to an employee, his employer shall be liable to pay compensation in accordance with the provisions of this Act. \[emphasis added\]
+> 3.—(1)    If in any employment personal injury by _accident arising out of and in the course of the employment_ is caused to an employee, his employer shall be liable to pay compensation in accordance with the provisions of this Act. \[emphasis added\]
 
 13     The key dispute before the Assistant Commissioner was whether the Deceased’s injury had arisen “out of and in the course of his employment”.
 
@@ -57,13 +57,13 @@ Employment Law – Work Injury Compensation Act – Employer’s liability f
 
 16     Before considering the substantive issues proper, the preliminary issue is whether there is a substantial question of law raised in the present case. In this respect, s 29(2A) WICA stipulates that
 
-No appeal shall lie against any order \[of the Commissioner\] unless a _substantial question of law_ is involved in the appeal and the amount in dispute is not less than $1,000. \[emphasis added\]
+> No appeal shall lie against any order \[of the Commissioner\] unless a _substantial question of law_ is involved in the appeal and the amount in dispute is not less than $1,000. \[emphasis added\]
 
 Hence, an appeal against the Assistant Commissioner’s decision must be based on “a substantial question of law” and the amount in dispute must not be less than $1,000. The latter requirement is not disputed in this case, as the assessed amount payable to the claimants far exceeds $1,000 (see \[9\] above).
 
 17     As for the substantial question of law, the courts have described the following as constituting errors of law (_Karuppiah Ravichandran v GDS Engineering Pte Ltd_ <span class="citation">\[2009\] 3 SLR(R) 1028</span> (“_Karuppiah_”) at \[13\], also cited in _Pang Chew Kim v Wartsila Singapore Pte Ltd_ <span class="citation">\[2012\] 1 SLR 15</span> (“_Pang Chew Kim_”) at \[20\]):
 
-Errors of law include misinterpretation of a statute or any other legal document or a rule of common law; asking oneself and answering the wrong question, taking irrelevant considerations into account or _failing to take relevant considerations into account_ when purporting to apply the law to the facts; admitting inadmissible evidence or _rejecting admissible and relevant evidence_; exercising a discretion on the basis of incorrect legal principles; giving reasons which disclose faulty legal reasoning or which are inadequate to fulfil an express duty to give reasons, and _misdirecting oneself as to the burden of proof_. \[emphasis added\]
+> Errors of law include misinterpretation of a statute or any other legal document or a rule of common law; asking oneself and answering the wrong question, taking irrelevant considerations into account or _failing to take relevant considerations into account_ when purporting to apply the law to the facts; admitting inadmissible evidence or _rejecting admissible and relevant evidence_; exercising a discretion on the basis of incorrect legal principles; giving reasons which disclose faulty legal reasoning or which are inadequate to fulfil an express duty to give reasons, and _misdirecting oneself as to the burden of proof_. \[emphasis added\]
 
 18     In addition, “a factual finding which was such that ‘no person acting judicially and properly instructed as to the relevant law could have come to the determination upon appeal’ amount\[s\] to a misconception or error in point of law” (_Pang Chew Kim_ at \[20\]). These must be “findings that no person would have come to if he had applied the law properly. It does not mean that every manifestly wrong finding of fact amounts to an error of law” (_Karuppiah_ at \[16\]).
 
@@ -87,11 +87,11 @@ Errors of law include misinterpretation of a statute or any other legal document
 
 27     Turning to the substantive dispute, the present claim is based on s 3(1) WICA. In _NTUC Income Insurance Co-operative Ltd and another v Next of kin of Narayasamy s/o Ramasamy, deceased_ \[2006\] 4 SLR(R) (“_NTUC Income_”) at \[20\], Sundaresh Menon JC (“Menon JC”) (as he then was) stipulated three requirements for triggering an employer’s liability to pay compensation:
 
-(a)     the workman has suffered a personal injury (the “first requirement”);
+> (a)     the workman has suffered a personal injury (the “first requirement”);
 
-(b)     the injury has been caused by an accident (the “second requirement”); and
+> (b)     the injury has been caused by an accident (the “second requirement”); and
 
-(c)     the accident arose out of and in the course of his employment (the “third requirement”).
+> (c)     the accident arose out of and in the course of his employment (the “third requirement”).
 
 28     It is not disputed that the Deceased, who succumbed to a heart attack,[^29] suffered a personal injury in the form of his death. The first requirement is thus satisfied.
 
@@ -103,11 +103,11 @@ Errors of law include misinterpretation of a statute or any other legal document
 
 31     In _NTUC Income_ at \[24\], Menon JC observed that an accident “would include an _internal medical condition that caused an unexpected injury_ while the worker was carrying out his work” \[emphasis added\]. Two observations can be made about this passage.
 
-(a)     First, “in assessing whether an event is an accident within the meaning of the Act, it is material to consider this from the _point of view of the workman_ and not from the point of view of one with actual knowledge of the circumstances including any pre-existing medical conditions” \[emphasis added\] (_NTUC Income_ at \[30\]).
+> (a)     First, “in assessing whether an event is an accident within the meaning of the Act, it is material to consider this from the _point of view of the workman_ and not from the point of view of one with actual knowledge of the circumstances including any pre-existing medical conditions” \[emphasis added\] (_NTUC Income_ at \[30\]).
 
-(b)     Secondly, while Menon JC’s observation included the phrase “while the worker was carrying out his work”, I do not think this is an additional requirement for an incident to constitute an accident for the purposes of s 3(1) WICA. As Menon JC noted in the same decision, even “rupturing an aneurism when tightening a nut with a spanner may be regarded as an accident” (_Clover Clayton & Co, Limited v Hughes_ <span class="citation">\[1910\] AC 242</span> at 245–246, per Lord Loreburn LC; cited with approval in _NTUC Income_ at \[23\]). Similarly, in _Pang Chew Kim_, where it was shown that the workman’s death (_ie_, the injury) was, on a balance of probabilities, caused by cardiac arrest (_ie_, the accident that stemmed from an internal medical condition), Tay Yong Kwang J (as he then was) had no hesitation in finding that the workman’s death was caused by an accident within the meaning of s 3(1) WICA (see _Pang Chew Kim_ at \[25\]). Hence, that “the worker was carrying out his work” is _not_ an essential element for an incident to constitute an accident (see the second requirement). Instead, whether the worker was carrying out his work at the time of his accident falls properly to be considered at the third stage, where the query turns to whether the accident arose _out of_ and _in the course_ of the workman’s employment (see the third requirement).
+> (b)     Secondly, while Menon JC’s observation included the phrase “while the worker was carrying out his work”, I do not think this is an additional requirement for an incident to constitute an accident for the purposes of s 3(1) WICA. As Menon JC noted in the same decision, even “rupturing an aneurism when tightening a nut with a spanner may be regarded as an accident” (_Clover Clayton & Co, Limited v Hughes_ <span class="citation">\[1910\] AC 242</span> at 245–246, per Lord Loreburn LC; cited with approval in _NTUC Income_ at \[23\]). Similarly, in _Pang Chew Kim_, where it was shown that the workman’s death (_ie_, the injury) was, on a balance of probabilities, caused by cardiac arrest (_ie_, the accident that stemmed from an internal medical condition), Tay Yong Kwang J (as he then was) had no hesitation in finding that the workman’s death was caused by an accident within the meaning of s 3(1) WICA (see _Pang Chew Kim_ at \[25\]). Hence, that “the worker was carrying out his work” is _not_ an essential element for an incident to constitute an accident (see the second requirement). Instead, whether the worker was carrying out his work at the time of his accident falls properly to be considered at the third stage, where the query turns to whether the accident arose _out of_ and _in the course_ of the workman’s employment (see the third requirement).
 
-This reading is consistent with the ordinary meaning of “accident”. The Oxford English Dictionary defines an accident as an unfortunate incident that happens unexpectedly and unintentionally, typically resulting in damage or injury. An accident is basically an unexpected mishap that happens by chance and is unintentional in nature. It is irrelevant in this regard whether the person was carrying out any work at the time when the incident occurred.
+> This reading is consistent with the ordinary meaning of “accident”. The Oxford English Dictionary defines an accident as an unfortunate incident that happens unexpectedly and unintentionally, typically resulting in damage or injury. An accident is basically an unexpected mishap that happens by chance and is unintentional in nature. It is irrelevant in this regard whether the person was carrying out any work at the time when the incident occurred.
 
 32     In this case, the Deceased suffered from “severe coronary heart disease” (the “internal medical condition”), which meant that “even low level exertion” could trigger a heart attack.[^31] On the day in question, the Deceased met with an unfortunate accident in the form of a heart attack, which eventually led to his unexpected (from the point of view of the workman) death (_ie_, the personal injury). Clearly, no foul play was involved in this case. Hence the Deceased’s injury was caused by an accident, thus satisfying the second requirement.
 
@@ -117,9 +117,9 @@ This reading is consistent with the ordinary meaning of “accident”. The Oxfo
 
 34     There are two aspects to the third requirement of s 3(1) WICA:
 
-(a)     the accident must arise _in the course of_ the workman’s employment (the “first aspect”); and
+> (a)     the accident must arise _in the course of_ the workman’s employment (the “first aspect”); and
 
-(b)     the accident must arise _out of_ the workman’s employment (the “second aspect”).
+> (b)     the accident must arise _out of_ the workman’s employment (the “second aspect”).
 
 #### The accident arose in the course of the Deceased’s employment
 
@@ -133,13 +133,13 @@ This reading is consistent with the ordinary meaning of “accident”. The Oxfo
 
 38     To rebut this presumption, the burden is on the employer, rather than the claimants, to furnish evidence to prove that the Deceased’s internal medical condition was the _sole cause_ of his heart attack that led to his death. As Scott LJ noted in _Wilson v Chatterton_ <span class="citation">\[1946\] 1 KB 360</span> (“_Wilson_”) at 366 (cited with approval in _NTUC Income_ at \[39\]):
 
-It is only if the accidental injury has no causal connexion with the employment at all that it can be said not to arise out of it, though it may occur in the course of it. It is for that reason that the employer cannot escape liability by showing that some factor such as a disease is a predisposing or even contributing cause of the injury; _he must show that it is the sole cause_, as has been said frequently in decided cases. \[emphasis added\]
+> It is only if the accidental injury has no causal connexion with the employment at all that it can be said not to arise out of it, though it may occur in the course of it. It is for that reason that the employer cannot escape liability by showing that some factor such as a disease is a predisposing or even contributing cause of the injury; _he must show that it is the sole cause_, as has been said frequently in decided cases. \[emphasis added\]
 
 39     That the underlying condition must have been the _sole cause_ is evident from the facts of _Wilson_. There, the workman, who had a predisposition to fits, had a fit, fell face down in water, and subsequently drowned. Despite his predisposition to the fits, the employer was held liable for the workman’s drowning.
 
 40     The point is similarly captured in the following passage of Chagla CJ’s decision in _Laxmibai v Chairman & Trustees, Bombay Post Trust_ AIR (41) 1954 Bom 180 at 183 (cited with approval in _NTUC Income_ at \[43\]):
 
-\[W\]here we have a case where death is due _solely_ to a disease from which the workman is suffering and _his employment has not been in any way a contributory cause_, and if death is brought about by what might be called mere wear and tear, then it may be said that the death did not arise _out of_ the employment of the workman. But where the death is due to _a strain_ caused while the workman is _doing the work of his employer_, and if it is established that _that strain, however ordinary, accelerated the death or aggravated the condition of the workman_, then the death could be said to have resulted _out of_ the employment of the deceased. \[emphasis added\]
+> \[W\]here we have a case where death is due _solely_ to a disease from which the workman is suffering and _his employment has not been in any way a contributory cause_, and if death is brought about by what might be called mere wear and tear, then it may be said that the death did not arise _out of_ the employment of the workman. But where the death is due to _a strain_ caused while the workman is _doing the work of his employer_, and if it is established that _that strain, however ordinary, accelerated the death or aggravated the condition of the workman_, then the death could be said to have resulted _out of_ the employment of the deceased. \[emphasis added\]
 
 41     Having reviewed the evidence, I find that the s 3(6) WICA presumption is not rebutted. As will be explained, there is insufficient evidence to show that the Deceased’s heart condition was the _sole_ cause of his death. Accordingly, I reverse the Assistant Commissioner’s decision, and hold that the claimants are entitled to the assessed sum pursuant to s 3(1) WICA.
 
@@ -151,11 +151,11 @@ It is only if the accidental injury has no causal connexion with the employment 
 
 44     Nonetheless, he concluded that the employer and the insurer had successfully rebutted the presumption:
 
-I could not find the Deceased’s demise could, ever in any stretch of imagination, be said to have arisen out of and in the course of his employment, from the facts before me. Just because the Deceased died at his workplace due to a heart attack, it can’t be said to be work-related _short of evidence to show as such_. Even if the _Claimants’ solicitor could show_ the Deceased was indeed working, the events that transpired immediately leading to his death must be strenuous enough on the facts to trigger the said heart attack.[^34] \[emphasis added\]
+> I could not find the Deceased’s demise could, ever in any stretch of imagination, be said to have arisen out of and in the course of his employment, from the facts before me. Just because the Deceased died at his workplace due to a heart attack, it can’t be said to be work-related _short of evidence to show as such_. Even if the _Claimants’ solicitor could show_ the Deceased was indeed working, the events that transpired immediately leading to his death must be strenuous enough on the facts to trigger the said heart attack.[^34] \[emphasis added\]
 
 45     The quoted passage reveals that while the Assistant Commissioner was cognisant of the s 3(6) WICA presumption which he said was applicable, he did not consider that the burden laid on the employers to furnish evidence to show that the Deceased’s heart condition was the _sole cause_ of his demise. Instead, he stipulated that the burden laid on the claimants to furnish evidence that there were work-related events strenuous enough to trigger the Deceased’s heart attack. This fundamental misunderstanding that the burden laid on the claimants, rather than the employer, is a substantial error of law on the part of the Assistant Commissioner and is best seen in the conclusion of his decision as follows:[^35]
 
-Accordingly, on the balance of probabilities, I find that there is an absence of a triggering event connected to the Deceased’s employment in this case. The _Claimant has thus failed to establish the causal link between the heart attack_ and the Deceased’s employment. I therefore dismiss the claim. \[emphasis added\]
+> Accordingly, on the balance of probabilities, I find that there is an absence of a triggering event connected to the Deceased’s employment in this case. The _Claimant has thus failed to establish the causal link between the heart attack_ and the Deceased’s employment. I therefore dismiss the claim. \[emphasis added\]
 
 ##### (2)   The evidence does not show that the heart condition was the sole cause of the Deceased’s death
 
@@ -173,89 +173,89 @@ Accordingly, on the balance of probabilities, I find that there is an absence of
 
 51     The Assistant Commissioner’s finding is however directly contradicted by the evidence. First, the accident report submitted by the employer on 21 June 2017, just two days after the accident, states that the Deceased was working for his employer and helping out the bin delivery team at the time when he collapsed due to the heart attack, which eventually led to his death:[^39]
 
-\[The Deceased\] _is helping out_ the bin delivery team when he collapsed at around 930am. He was joking with the crew _while at work_ when he suddenly collapsed… Samsudin, Munusamy, Marof were the witnesses. \[emphasis added\]
+> \[The Deceased\] _is helping out_ the bin delivery team when he collapsed at around 930am. He was joking with the crew _while at work_ when he suddenly collapsed… Samsudin, Munusamy, Marof were the witnesses. \[emphasis added\]
 
 52     The words “is helping out” and “while at work” connote that the Deceased was in the process of removing the wheels from the fourth bin, even though he did not succeed in removing any one of them prior to his collapse and subsequent demise.[^40] The accident report therefore strongly suggests that the Deceased must have been exerting himself at the material time before the onset of his heart attack.
 
 53     This is corroborated by the evidence of the trio, who all testified that the Deceased was working on removing the wheels of the fourth bin. [^41] While the trio had their backs facing the Deceased at the material time when he collapsed,[^42] this does not mean that they had not earlier seen him work on the fourth bin. I note that all the upturned bins were about chest height. Accordingly, the vision of the trio would not be obstructed should any of the trio simply turn their heads to look at the Deceased who would have been standing next to the fourth bin if he was removing its wheels. In any event, reading the trio’s evidence in the appropriate context, their evidence was that they had seen the Deceased start on removing the wheels of the fourth bin _before_ subsequently turning their backs on him to continue on removing the wheels of the bins which they were working on. As a result, they did not see the Deceased’s actual collapse which occurred after they had turned their backs on him. The trio only turned around to see what had happened to the Deceased when they realised that the conversation with the Deceased had come to an abrupt stop:
 
-Examination in chief of Shamsudin[^43]
+> Examination in chief of Shamsudin[^43]
 
-Q:What did you _see_ \[the Deceased\] do?
+> Q:What did you _see_ \[the Deceased\] do?
 
-A: _He did the same thing, opening the screws_.
+> A: _He did the same thing, opening the screws_.
 
-Q:How many bins?
+> Q:How many bins?
 
-A:4 bins.
+> A:4 bins.
 
-…
+> …
 
-Q:When \[the Deceased\] came, what did he do?
+> Q:When \[the Deceased\] came, what did he do?
 
-A:He took the remaining bin.
+> A:He took the remaining bin.
 
-Q:Can you sketch out the location of the 4 bins?
+> Q:Can you sketch out the location of the 4 bins?
 
-Witness drew a sketch of the positions of each member, their bins and the direction of the wheels of the bin. \[Assistant Commissioner\] noted that \[the Deceased\] was positioned at the back, with the overturned bins facing him and behind the three coworkers and their bins.
+> Witness drew a sketch of the positions of each member, their bins and the direction of the wheels of the bin. \[Assistant Commissioner\] noted that \[the Deceased\] was positioned at the back, with the overturned bins facing him and behind the three coworkers and their bins.
 
-A:He came to volunteer, laughing with Maarof \[_sic_\].
+> A:He came to volunteer, laughing with Maarof \[_sic_\].
 
-Q:Did you see what was \[the Deceased\] doing?
+> Q:Did you see what was \[the Deceased\] doing?
 
-A:I heard them but I was facing the other way.
+> A:I heard them but I was facing the other way.
 
-Q:In front of you?
+> Q:In front of you?
 
-A: _Behind me_, he was laughing, joking and suddenly \[the Deceased\] stopped, when I looked back, I saw him collapsing by the side of the bin.
+> A: _Behind me_, he was laughing, joking and suddenly \[the Deceased\] stopped, when I looked back, I saw him collapsing by the side of the bin.
 
-…
+> …
 
-Examination in chief of Marof[^44]
+> Examination in chief of Marof[^44]
 
-Q:Did you _see_ \[the Deceased\] in the morning?
+> Q:Did you _see_ \[the Deceased\] in the morning?
 
-A:He was the spare driver. He came and _started to dismantle_ the bins. He was trying to help, I presume.
+> A:He was the spare driver. He came and _started to dismantle_ the bins. He was trying to help, I presume.
 
-…
+> …
 
-Q:Do you _know_ what \[the Deceased\] was doing when he arrived?
+> Q:Do you _know_ what \[the Deceased\] was doing when he arrived?
 
-A: _Dismantling wheels and opening the screws_.
+> A: _Dismantling wheels and opening the screws_.
 
-…
+> …
 
-Q:In which direction was \[the Deceased\] facing?
+> Q:In which direction was \[the Deceased\] facing?
 
-A:He was at the back, away from us. We were all facing to the front.
+> A:He was at the back, away from us. We were all facing to the front.
 
-Q:Was \[the Deceased\] in front or behind?
+> Q:Was \[the Deceased\] in front or behind?
 
-A:He was _behind us. We can’t see him_.
+> A:He was _behind us. We can’t see him_.
 
-Q:All on one bin each?
+> Q:All on one bin each?
 
-A:Each person one bin.
+> A:Each person one bin.
 
-Q:What happened next?
+> Q:What happened next?
 
-A:We were all looking in front, _we did not notice he had collapsed behind us_.
+> A:We were all looking in front, _we did not notice he had collapsed behind us_.
 
-…
+> …
 
-Examination in chief of Munusamy[^45]
+> Examination in chief of Munusamy[^45]
 
-Q:What did \[the Deceased\] do?
+> Q:What did \[the Deceased\] do?
 
-A:When we were talking, \[the Deceased\] and Maarof were talking about Hari Raya. I didn’t see them, suddenly the conversation stopped and when _I turned around_, I saw him collapsing so I had to catch him.
+> A:When we were talking, \[the Deceased\] and Maarof were talking about Hari Raya. I didn’t see them, suddenly the conversation stopped and when _I turned around_, I saw him collapsing so I had to catch him.
 
-…
+> …
 
-Q:What \[was the Deceased\] doing _just before_ he collapsed?
+> Q:What \[was the Deceased\] doing _just before_ he collapsed?
 
-A:He was _using the T-spanner also_.
+> A:He was _using the T-spanner also_.
 
-\[emphasis added\]
+> \[emphasis added\]
 
 54     As such, rather than there being no evidence, the accident report and the unrebutted evidence of the trio show that the Deceased had in fact been at work in removing the wheels of the fourth bin at some point of time _prior_ to his collapse. That the Deceased had not succeeded in or finished removing any of the wheels of the fourth bin[^46] does not disprove the point that he had been working on removing the wheels shortly before he collapsed. This is particularly as Marof, for example, had only managed to dismantle one wheel when the Deceased collapsed.[^47] It is therefore not out of the ordinary that no wheels had been removed by the Deceased prior to his sudden collapse.
 
@@ -277,13 +277,13 @@ A:He was _using the T-spanner also_.
 
 62     In summary, the medical evidence was thus as follows:
 
-(a)     First, the Deceased’s heart attack could be caused solely by his heart condition when the Deceased was resting and doing no physical work such as working on the wheels of the bin prior to his collapse;
+> (a)     First, the Deceased’s heart attack could be caused solely by his heart condition when the Deceased was resting and doing no physical work such as working on the wheels of the bin prior to his collapse;
 
-(b)     Secondly, the Deceased’s heart attack could have been triggered by a slight exertion, which would include the strain of him working on the wheels of the bin prior to his collapse.
+> (b)     Secondly, the Deceased’s heart attack could have been triggered by a slight exertion, which would include the strain of him working on the wheels of the bin prior to his collapse.
 
 63     That the Deceased’s heart attack _could_ have been caused solely by his heart condition while the Deceased was at rest is insufficient to rebut the s 3(6) WICA presumption. As Menon JC concluded in _NTUC Income_ (at \[46\]), after reviewing the authorities:
 
-… It also _does not matter that the workman had a pre-existing medical condition such that the injury could have happened at any time, even in his sleep_. What is material is that something in fact transpired in the course of his work which made the injury occur when it did. \[emphasis added\]
+> … It also _does not matter that the workman had a pre-existing medical condition such that the injury could have happened at any time, even in his sleep_. What is material is that something in fact transpired in the course of his work which made the injury occur when it did. \[emphasis added\]
 
 64     Both doctors did not testify that if the Deceased had been removing the wheels of the bin, it remains improbable that the exertion and strain of doing so would have triggered the heart attack. If so, the employer would have succeeded in rebutting the presumption and the employer would have proved on a balance of probabilities that, notwithstanding the Deceased’s act of removing the wheels of the bin, the Deceased’s heart condition was the sole cause of the accident and the accident did not therefore arise out of his employment. Without such testimony on the doctors’ part, it is mere speculation that the Deceased’s death was caused _solely_ by his heart condition.
 

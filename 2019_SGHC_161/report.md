@@ -35,7 +35,7 @@ Evidence – Expert Evidence
 
 6       In acquitting Ilechukwu, I accepted his defence that he had come to Singapore on business and that he did not know that the Black Luggage contained drugs. I found that Ilechukwu had rebutted the presumption of knowledge of the nature of the drugs under s 18(2) of the MDA and stated at \[70\] of _HC (Acquittal)_:
 
-On the evidence that I have before me, I found that Ilechukwu had rebutted the presumption of knowledge under s 18(2) of the MDA. The drugs were so well hidden that he could not have known about it unless he was told of it. His behaviour throughout, except at the time of arrest, had been consistent with a person who had no inkling of the presence of drugs in the Black Luggage. His explanation for his lies at the time of arrest was not unreasonable given the situation he found himself, including the fact that he was in a foreign land for the first time and unfamiliar with its laws and customs.
+> On the evidence that I have before me, I found that Ilechukwu had rebutted the presumption of knowledge under s 18(2) of the MDA. The drugs were so well hidden that he could not have known about it unless he was told of it. His behaviour throughout, except at the time of arrest, had been consistent with a person who had no inkling of the presence of drugs in the Black Luggage. His explanation for his lies at the time of arrest was not unreasonable given the situation he found himself, including the fact that he was in a foreign land for the first time and unfamiliar with its laws and customs.
 
 ### The CA conviction decision
 
@@ -43,11 +43,11 @@ On the evidence that I have before me, I found that Ilechukwu had rebutted the p
 
 8       The primary reason for the Court of Appeal’s decision to convict Ilechukwu was the lies and omissions he made in his statements to the Central Narcotics Bureau (“CNB”). The Court of Appeal found that there was no innocent explanation for those lies. The Court of Appeal stated at \[61\] and \[88\] of _CA (Conviction)_:
 
-61    \[Ilechukwu’s\] excuses for the lies were wholly unsatisfactory and unbelievable. It is clear to us that he had deliberately lied to distance himself from the drugs in the Black Luggage, the existence of which he knew. Quite simply, there is no acceptable explanation for the lies save for his realisation of his guilt. To suggest that \[Ilechukwu\] was justified to lie as a defensive move would be to turn reason and logic on its head.
+> 61    \[Ilechukwu’s\] excuses for the lies were wholly unsatisfactory and unbelievable. It is clear to us that he had deliberately lied to distance himself from the drugs in the Black Luggage, the existence of which he knew. Quite simply, there is no acceptable explanation for the lies save for his realisation of his guilt. To suggest that \[Ilechukwu\] was justified to lie as a defensive move would be to turn reason and logic on its head.
 
-…
+> …
 
-88    What tipped the scales are the numerous lies and omissions made by \[Ilechukwu\] in his statements, for which there is no innocent explanation. … The lies were told by \[Ilechukwu\] obviously to distance himself from the Black Luggage and the Drugs concealed therein.
+> 88    What tipped the scales are the numerous lies and omissions made by \[Ilechukwu\] in his statements, for which there is no innocent explanation. … The lies were told by \[Ilechukwu\] obviously to distance himself from the Black Luggage and the Drugs concealed therein.
 
 ### CA/CM 4/2017 – the first criminal motion
 
@@ -55,7 +55,7 @@ On the evidence that I have before me, I found that Ilechukwu had rebutted the p
 
 10     The Prosecution requested Dr Jaydip Sarkar (“Dr Sarkar”), then of the Institute of Mental Health (“IMH”), to provide a report on Ilechukwu. In his report, dated 6 March 2017, (“First Sarkar Report”), Dr Sarkar diagnosed Ilechukwu with post-traumatic stress disorder (“PTSD”) which arose as a result of a childhood trauma. Dr Sarkar opined that it was likely that PTSD prompted Ilechukwu to utter falsehoods in his statements to the CNB to save his life. Dr Sarkar opined at para 88 that: [^5]
 
-\[Ilechukwu\] was suffering from a recognized mental disorder (PTSD with dissociative symptoms) at the time that his statements were taken by investigating officers. In my opinion presence of this disorder is likely to have led to an overestimation of \[the\] threat to his life which could have prompted him to utter unsophisticated and blatant falsehoods in order to save his life as outlined in paragraph 48.
+> \[Ilechukwu\] was suffering from a recognized mental disorder (PTSD with dissociative symptoms) at the time that his statements were taken by investigating officers. In my opinion presence of this disorder is likely to have led to an overestimation of \[the\] threat to his life which could have prompted him to utter unsophisticated and blatant falsehoods in order to save his life as outlined in paragraph 48.
 
 11     Relying on the First Sarkar Report as fresh evidence of his innocence, Ilechukwu filed Criminal Motion No 4 of 2017 (“CA/CM 4/2017”) on 5 April 2017 requesting the Court of Appeal to rehear Criminal Appeal No 10 of 2014, _ie_, the Prosecution’s appeal against the acquittal of Ilechukwu.
 
@@ -63,21 +63,21 @@ On the evidence that I have before me, I found that Ilechukwu had rebutted the p
 
 13     The Court of Appeal then remitted the matter to me to receive evidence from Dr Sarkar in relation to the First Sarkar Report as well as such other evidence on matters arising from the report. Specifically, the Court of Appeal directed at \[50\]–\[51\] of _CA (Criminal Motion 1)_:
 
-50    We therefore allow the Present Motion in part and order a review of this court’s decision in CA (Conviction) (\[7\] _supra_) because of the unique turn of events in this case, which make it a “truly exceptional” case of the kind envisaged by this court in _Kho Jabing_ (\[1\] _supra_) at \[65\]. In so ordering, we are not making a finding that \[Ilechukwu\] does indeed suffer from PTSD or that he was affected by it when he made his statements to the CNB. We are likewise not implying that he is innocent. His guilt or innocence is a matter to be determined at the subsequent review of our decision in _CA (Conviction)_. As indicated at \[48\] above, we are of the view that the proper course of action at the present stage is to remit the matter to the Judge for him to receive evidence from Dr Sarkar in relation to \[Dr Sarkar’s 6 March 2017 report\] as well as such other evidence on matters arising from this report as the Judge may allow either party to adduce. The Judge is then to make findings on:
+> 50    We therefore allow the Present Motion in part and order a review of this court’s decision in CA (Conviction) (\[7\] _supra_) because of the unique turn of events in this case, which make it a “truly exceptional” case of the kind envisaged by this court in _Kho Jabing_ (\[1\] _supra_) at \[65\]. In so ordering, we are not making a finding that \[Ilechukwu\] does indeed suffer from PTSD or that he was affected by it when he made his statements to the CNB. We are likewise not implying that he is innocent. His guilt or innocence is a matter to be determined at the subsequent review of our decision in _CA (Conviction)_. As indicated at \[48\] above, we are of the view that the proper course of action at the present stage is to remit the matter to the Judge for him to receive evidence from Dr Sarkar in relation to \[Dr Sarkar’s 6 March 2017 report\] as well as such other evidence on matters arising from this report as the Judge may allow either party to adduce. The Judge is then to make findings on:
 
-(a)    whether \[Ilechukwu\] was suffering from PTSD;
+>> (a)    whether \[Ilechukwu\] was suffering from PTSD;
 
-(b)    the typical effects of PTSD on a sufferer;
+>> (b)    the typical effects of PTSD on a sufferer;
 
-(c)    if \[Ilechukwu\] was indeed suffering from PTSD:
+>> (c)    if \[Ilechukwu\] was indeed suffering from PTSD:
 
-(i)    the period of time during which PTSD affected him;
+>>> (i)    the period of time during which PTSD affected him;
 
-(ii)   the effects of PTSD on him during that period; and
+>>> (ii)   the effects of PTSD on him during that period; and
 
-(iii)   the extent to which PTSD affected him when he gave his statements to the CNB.
+>>> (iii)   the extent to which PTSD affected him when he gave his statements to the CNB.
 
-51    After the Judge has made his findings on the issues stated above, there shall be a further hearing where this court will review its decision in _CA (Conviction)_. At that hearing, the parties are to address us on the correctness of the Judge’s findings on the aforesaid issues and their implications on our decision in _CA (Conviction)_.
+> 51    After the Judge has made his findings on the issues stated above, there shall be a further hearing where this court will review its decision in _CA (Conviction)_. At that hearing, the parties are to address us on the correctness of the Judge’s findings on the aforesaid issues and their implications on our decision in _CA (Conviction)_.
 
 ### CA/CM 22/2018 – the second criminal motion
 
@@ -87,27 +87,27 @@ On the evidence that I have before me, I found that Ilechukwu had rebutted the p
 
 16     CA/CM 22/2018 was heard on 23 January 2019 and allowed in part. The Court of Appeal added a further para (d) to the order it made in _CA (Criminal Motion 1)_. The eventual order for determination by the High Court is as follows (with the addition italicised) (“Terms of Reference”):
 
-(a)     whether \[Ilechukwu\] was suffering from PTSD;
+> (a)     whether \[Ilechukwu\] was suffering from PTSD;
 
-(b)     the typical effects of PTSD on a sufferer;
+> (b)     the typical effects of PTSD on a sufferer;
 
-(c)     if \[Ilechukwu\] was indeed suffering from PTSD:
+> (c)     if \[Ilechukwu\] was indeed suffering from PTSD:
 
-(i)       the period of time during which PTSD affected him;
+>> (i)       the period of time during which PTSD affected him;
 
-(ii)       the effects of PTSD on him during that period; and
+>> (ii)       the effects of PTSD on him during that period; and
 
-(iii)       the extent to which PTSD affected him when he gave his statements to the CNB.
+>> (iii)       the extent to which PTSD affected him when he gave his statements to the CNB.
 
-(d)      _if Ilechukwu was not suffering from PTSD, whether Ilechukwu was suffering from post-traumatic stress symptoms (“PTSS”). If he was suffering from PTSS:_
+> (d)      _if Ilechukwu was not suffering from PTSD, whether Ilechukwu was suffering from post-traumatic stress symptoms (“PTSS”). If he was suffering from PTSS:_
 
-(i)        _the precise symptoms should be identified;_
+>> (i)        _the precise symptoms should be identified;_
 
-(ii)        _the period of time during which PTSS affected him;_
+>> (ii)        _the period of time during which PTSS affected him;_
 
-(iii)        _the effects of PTSS on him during that period; and_
+>> (iii)        _the effects of PTSS on him during that period; and_
 
-(iv)        _the extent to which PTSS affected him when he gave his statement\[s\] to the CNB_
+>> (iv)        _the extent to which PTSS affected him when he gave his statement\[s\] to the CNB_
 
 ## The hearing
 
@@ -139,21 +139,21 @@ On the evidence that I have before me, I found that Ilechukwu had rebutted the p
 
 27     The Defence’s case was that:[^23]
 
-(a)     Ilechukwu suffered from Post-Traumatic Stress Disorder (“PTSD”) as a result of the Wukari massacre in 1990.
+> (a)     Ilechukwu suffered from Post-Traumatic Stress Disorder (“PTSD”) as a result of the Wukari massacre in 1990.
 
-(b)     Ilechukwu’s PTSD was triggered upon his arrest on 14 November 2011.
+> (b)     Ilechukwu’s PTSD was triggered upon his arrest on 14 November 2011.
 
-(c)     The triggering of his PTSD caused Ilechukwu to overestimate the threat to his life, which in turn caused him to lie in his statements.
+> (c)     The triggering of his PTSD caused Ilechukwu to overestimate the threat to his life, which in turn caused him to lie in his statements.
 
 28     In the alternative, the Defence submitted that even if a formal diagnosis of PTSD was not made out, Ilechukwu was traumatised by the Wukari massacre and had since suffered PTSS. The Defence further submitted that PTSS were triggered upon his arrest. It claimed that the PTSS caused Ilechukwu to “overestimate the threat to his life” when he provided statements to the CNB, causing him to lie.[^24]
 
 29     It is also helpful to briefly set out the broad positions adopted by the three Defence experts in the Remitted Hearing and in their written reports:
 
-(a)     Dr Sarkar assessed Ilechukwu to be suffering from PTSD using the Post-Traumatic Stress Inventory (PSS-I) diagnostic. He said that Ilechukwu “met criteria for a life-time diagnosis of post-traumatic stress \[dis\]order although he does not have symptoms of the full disorder currently”.[^25] In his written report, Dr Sarkar also stated that Ilechukwu’s PTSD was triggered again after his arrest when he became aware of the death sentence.[^26]
+> (a)     Dr Sarkar assessed Ilechukwu to be suffering from PTSD using the Post-Traumatic Stress Inventory (PSS-I) diagnostic. He said that Ilechukwu “met criteria for a life-time diagnosis of post-traumatic stress \[dis\]order although he does not have symptoms of the full disorder currently”.[^25] In his written report, Dr Sarkar also stated that Ilechukwu’s PTSD was triggered again after his arrest when he became aware of the death sentence.[^26]
 
-(b)     Dr Ung assessed Ilechukwu to be suffering from PTSD using the CAPS-5 diagnostic. According to him, Ilechukwu’s PTSD had resolved itself to “sub-threshold levels” and he was not suffering from active PTSD at the time of his commission of the offence.[^27] Dr Ung also said that Ilechukwu being told that he may face the death penalty resulted in a recurrence of PTSD.[^28]
+> (b)     Dr Ung assessed Ilechukwu to be suffering from PTSD using the CAPS-5 diagnostic. According to him, Ilechukwu’s PTSD had resolved itself to “sub-threshold levels” and he was not suffering from active PTSD at the time of his commission of the offence.[^27] Dr Ung also said that Ilechukwu being told that he may face the death penalty resulted in a recurrence of PTSD.[^28]
 
-(c)     Dr Winslow assessed Ilechukwu to be suffering from lifelong PTSD, and that his PTSD symptoms were “triggered and worsened” when he was told he would be facing the death penalty when he was arrested.[^29] Dr Winslow added that at the time of the clinical interview, Ilechukwu was suffering from “significant PTSD symptomology”. [^30]
+> (c)     Dr Winslow assessed Ilechukwu to be suffering from lifelong PTSD, and that his PTSD symptoms were “triggered and worsened” when he was told he would be facing the death penalty when he was arrested.[^29] Dr Winslow added that at the time of the clinical interview, Ilechukwu was suffering from “significant PTSD symptomology”. [^30]
 
 ### The Prosecution’s Case
 
@@ -167,11 +167,11 @@ On the evidence that I have before me, I found that Ilechukwu had rebutted the p
 
 33     The issues to be determined are as follows:
 
-(a)     Whether Ilechukwu was suffering from PTSD before his arrest in 2011 as a result of the Wukari massacre.
+> (a)     Whether Ilechukwu was suffering from PTSD before his arrest in 2011 as a result of the Wukari massacre.
 
-(b)     Whether Ilechukwu suffered a fresh episode of PTSD in 2011 after his arrest.
+> (b)     Whether Ilechukwu suffered a fresh episode of PTSD in 2011 after his arrest.
 
-(c)     In the alternative, even if Ilechukwu was not suffering from PTSD, whether he was suffering from PTSS.
+> (c)     In the alternative, even if Ilechukwu was not suffering from PTSD, whether he was suffering from PTSS.
 
 34     I will first consider whether Ilechukwu was suffering from PTSD before his arrest in 2011 before determining whether he suffered from PTSD upon or after the 2011 arrest.
 
@@ -181,15 +181,15 @@ On the evidence that I have before me, I found that Ilechukwu had rebutted the p
 
 35     Both the Prosecution and the Defence raised points of general application, in particular those in relation to:
 
-(a)     The diagnostic tools used to assess PTSD.
+> (a)     The diagnostic tools used to assess PTSD.
 
-(b)     The nature of PTSD as a mental illness, specifically whether it was a “lifelong” or “episodic”.
+> (b)     The nature of PTSD as a mental illness, specifically whether it was a “lifelong” or “episodic”.
 
-(c)     The reliability of Ilechukwu’s accounts to the various experts.
+> (c)     The reliability of Ilechukwu’s accounts to the various experts.
 
-(d)     The Defence’s approach of linking the various PTSD criteria to the expert evidence.
+> (d)     The Defence’s approach of linking the various PTSD criteria to the expert evidence.
 
-(e)     The objectivity and reliability of the expert witnesses.
+> (e)     The objectivity and reliability of the expert witnesses.
 
 #### Diagnostic criteria
 
@@ -199,15 +199,15 @@ On the evidence that I have before me, I found that Ilechukwu had rebutted the p
 
 38     The Defence cited the following excerpt, _inter alia_, of the DSM-5 in support of the importance of “clinical judgment” in arriving at a diagnosis:[^35]
 
-Diagnostic criteria are offered as guidelines for making diagnoses, and their use should be informed by clinical judgment. Text descriptions, including introductory sections of each diagnostic chapter, can help support diagnosis (e.g., providing differential diagnoses; describing the criteria more fully under “Diagnostic Features”).
+> Diagnostic criteria are offered as guidelines for making diagnoses, and their use should be informed by clinical judgment. Text descriptions, including introductory sections of each diagnostic chapter, can help support diagnosis (e.g., providing differential diagnoses; describing the criteria more fully under “Diagnostic Features”).
 
-Following the assessment of diagnostic criteria, clinicians should consider the application of disorder subtypes and/or specifiers as appropriate. Severity and course specifiers should be applied to denote the individual’s current presentation, but only when the full criteria are met. When full criteria are not met, clinicians should consider whether criteria for an “other specified” or “unspecified” designation…On the basis of the clinical interview, text descriptions, criteria, and clinical judgment, a final diagnosis is made.
+> Following the assessment of diagnostic criteria, clinicians should consider the application of disorder subtypes and/or specifiers as appropriate. Severity and course specifiers should be applied to denote the individual’s current presentation, but only when the full criteria are met. When full criteria are not met, clinicians should consider whether criteria for an “other specified” or “unspecified” designation…On the basis of the clinical interview, text descriptions, criteria, and clinical judgment, a final diagnosis is made.
 
 39     I do not think that this meant that the use of “clinical judgment” should replace the DSM-5 PTSD Criteria. All that the above seemed to say was that:
 
-(a)     The use of diagnostic criteria should be informed by clinical judgment, _ie_, the expert should use his or her clinical judgment in determining whether a particular diagnostic criterion was satisfied; and
+> (a)     The use of diagnostic criteria should be informed by clinical judgment, _ie_, the expert should use his or her clinical judgment in determining whether a particular diagnostic criterion was satisfied; and
 
-(b)     An unspecified diagnosis may be given to a patient, and this was a conclusion to be informed by clinical judgment.
+> (b)     An unspecified diagnosis may be given to a patient, and this was a conclusion to be informed by clinical judgment.
 
 40     Thus, all the DSM-5 PTSD Criteria must be satisfied to reach a positive diagnosis of PTSD. In assessing whether each criterion was satisfied, the expert was expected to exercise “clinical judgment” in arriving at their opinion and not by mechanically checking off each DSM-5 PTSD Criteria.
 
@@ -215,137 +215,137 @@ Following the assessment of diagnostic criteria, clinicians should consider the 
 
 42     A positive diagnosis of PTSD is made in adults where all of the following eight diagnostic criteria are present. It is helpful to list this out in full:[^37]
 
-**A**      **Exposure to actual or threatened death, serious injury, or sexual violence in one (or more) of the following ways:**
+> **A**      **Exposure to actual or threatened death, serious injury, or sexual violence in one (or more) of the following ways:**
 
-1    Directing witnessing the traumatic event(s).
+> 1    Directing witnessing the traumatic event(s).
 
-2    Witnessing, in person, the event(s) as it occurred to others.
+> 2    Witnessing, in person, the event(s) as it occurred to others.
 
-3    Learning that the traumatic event(s) occurred to a close family member or close friend. In cases of actual or threatened death of a family member or friend, the event(s) must have been violent or accidental.
+> 3    Learning that the traumatic event(s) occurred to a close family member or close friend. In cases of actual or threatened death of a family member or friend, the event(s) must have been violent or accidental.
 
-4    Experiencing repeated or extreme exposure to aversive details of the traumatic event(s) (_e.g._, first responders collecting human remains; police officers repeatedly exposed to details of child abuse).
+> 4    Experiencing repeated or extreme exposure to aversive details of the traumatic event(s) (_e.g._, first responders collecting human remains; police officers repeatedly exposed to details of child abuse).
 
-_Note:_ Criterion A4 does not apply to exposure through electronic media, television, movies, or pictures, unless this exposure is work related.
+> _Note:_ Criterion A4 does not apply to exposure through electronic media, television, movies, or pictures, unless this exposure is work related.
 
-**B**      **Presence of one (or more) of the following intrusion symptoms associated with the traumatic event(s), beginning after the traumatic event(s) occurred:**
+> **B**      **Presence of one (or more) of the following intrusion symptoms associated with the traumatic event(s), beginning after the traumatic event(s) occurred:**
 
-1    Recurrent, involuntary, and intrusive distressing memories of the traumatic event(s).
+> 1    Recurrent, involuntary, and intrusive distressing memories of the traumatic event(s).
 
-_Note:_ In children older than 6 years, repetitive play may occur in which themes or aspects of the traumatic event(s) are expressed.
+> _Note:_ In children older than 6 years, repetitive play may occur in which themes or aspects of the traumatic event(s) are expressed.
 
-2    Recurrent distressing dreams in which the content and/or affect of the dream are related to the traumatic event(s).
+> 2    Recurrent distressing dreams in which the content and/or affect of the dream are related to the traumatic event(s).
 
-_Note:_ In children, there may be frightening dreams without recognisable content.
+> _Note:_ In children, there may be frightening dreams without recognisable content.
 
-3    Dissociative reactions (_e.g._, flashbacks) in which the individual feels or acts as if the traumatic event(s) were recurring. (Such reactions may occur on a continuum, with the most extreme expression being a complete loss of awareness of present surroundings.)
+> 3    Dissociative reactions (_e.g._, flashbacks) in which the individual feels or acts as if the traumatic event(s) were recurring. (Such reactions may occur on a continuum, with the most extreme expression being a complete loss of awareness of present surroundings.)
 
-_Note:_ In children, trauma-specific reenactment may occur in play.
+> _Note:_ In children, trauma-specific reenactment may occur in play.
 
-4    Intense or prolonged psychological distress at exposure to internal or external cues that symbolize or resemble an aspect of the traumatic event(s).
+> 4    Intense or prolonged psychological distress at exposure to internal or external cues that symbolize or resemble an aspect of the traumatic event(s).
 
-5    Marked physiological reactions to internal or external cues that symbolize or resemble an aspect of the traumatic event(s).
+> 5    Marked physiological reactions to internal or external cues that symbolize or resemble an aspect of the traumatic event(s).
 
-**C**      **Persistent avoidance of stimuli associated with the traumatic event(s), beginning after the traumatic event(s) occurred, as evidenced by one or both of the following:**
+> **C**      **Persistent avoidance of stimuli associated with the traumatic event(s), beginning after the traumatic event(s) occurred, as evidenced by one or both of the following:**
 
-1    Avoidance of or efforts to avoid distressing memories, thoughts, or feelings about or closely associated with the traumatic event(s).
+> 1    Avoidance of or efforts to avoid distressing memories, thoughts, or feelings about or closely associated with the traumatic event(s).
 
-2    Avoidance of or efforts to avoid external reminders (people, places, conversations, activities, objects, situations) that arouse distressing memories, thoughts, or feelings about or closely associated with the traumatic event(s).
+> 2    Avoidance of or efforts to avoid external reminders (people, places, conversations, activities, objects, situations) that arouse distressing memories, thoughts, or feelings about or closely associated with the traumatic event(s).
 
-**D**      **Negative alterations in cognitions or mood associated with the traumatic event(s), beginning or worsening after the traumatic event(s) occurred, as evidence by two (or more) of the following:**
+> **D**      **Negative alterations in cognitions or mood associated with the traumatic event(s), beginning or worsening after the traumatic event(s) occurred, as evidence by two (or more) of the following:**
 
-1    Inability to remember an important aspect of the traumatic event(s) (typically due to dissociative amnesia and not to other factors such as head injury, alcohol, or drugs).
+> 1    Inability to remember an important aspect of the traumatic event(s) (typically due to dissociative amnesia and not to other factors such as head injury, alcohol, or drugs).
 
-2    Persistent and exaggerated negative beliefs or expectations about oneself, others, or the world (_e.g._, “I am bad,” “No one can be trusted,” The world is completely dangerous,” “My whole nervous system is permanently ruined”).
+> 2    Persistent and exaggerated negative beliefs or expectations about oneself, others, or the world (_e.g._, “I am bad,” “No one can be trusted,” The world is completely dangerous,” “My whole nervous system is permanently ruined”).
 
-3    Persistent, distorted cognitions about the cause or consequences of the traumatic event(s) that lead the individual to blame himself/herself or others.
+> 3    Persistent, distorted cognitions about the cause or consequences of the traumatic event(s) that lead the individual to blame himself/herself or others.
 
-4    Persistent negative emotional state (_e.g._, fear, horror, anger, guilt, or shame).
+> 4    Persistent negative emotional state (_e.g._, fear, horror, anger, guilt, or shame).
 
-5    Markedly diminished interest or participation in significant activities.
+> 5    Markedly diminished interest or participation in significant activities.
 
-6    Feelings of detachment or estrangement from others.
+> 6    Feelings of detachment or estrangement from others.
 
-7    Persistent inability to experience positive emotions (_e.g._, inability to experience happiness, satisfaction, or loving feelings).
+> 7    Persistent inability to experience positive emotions (_e.g._, inability to experience happiness, satisfaction, or loving feelings).
 
-**E**      **Marked alterations in arousal or reactivity associated with the traumatic event(s), beginning or worsening after the traumatic event(s) occurred, as evidence by two (or more) of the following:**
+> **E**      **Marked alterations in arousal or reactivity associated with the traumatic event(s), beginning or worsening after the traumatic event(s) occurred, as evidence by two (or more) of the following:**
 
-1    Irritable behaviour and angry outbursts (with little or no provocation) typically expressed as verbal or physical aggression towards people or objects.
+> 1    Irritable behaviour and angry outbursts (with little or no provocation) typically expressed as verbal or physical aggression towards people or objects.
 
-2    Reckless or self-destructive behavior.
+> 2    Reckless or self-destructive behavior.
 
-3    Hypervigilence.
+> 3    Hypervigilence.
 
-4    Exaggerated startle response.
+> 4    Exaggerated startle response.
 
-5    Problems with concentration.
+> 5    Problems with concentration.
 
-6    Sleep disturbance (_e.g._, difficulty falling or staying asleep or restless sleep).
+> 6    Sleep disturbance (_e.g._, difficulty falling or staying asleep or restless sleep).
 
-**F**      **Duration of the disturbance (Criteria B, C, D, and E) is more than 1 month.**
+> **F**      **Duration of the disturbance (Criteria B, C, D, and E) is more than 1 month.**
 
-**G**      **The disturbance causes clinically significant distress or impairment in social, occupational, or other important areas of functioning.**
+> **G**      **The disturbance causes clinically significant distress or impairment in social, occupational, or other important areas of functioning.**
 
-**H**      **The disturbance is not attributable to the physiological effects of a substance (** **_e.g._**, **medication or alcohol) or another medical condition.**
+> **H**      **The disturbance is not attributable to the physiological effects of a substance (** **_e.g._**, **medication or alcohol) or another medical condition.**
 
 43     The DSM-5 PTSD Criteria (Childhood) is reproduced below:
 
-**A**      **In children 6 years and younger, exposure to actual or threatened death, serious injury, or sexual violence in one (or more) of the following ways:**
+> **A**      **In children 6 years and younger, exposure to actual or threatened death, serious injury, or sexual violence in one (or more) of the following ways:**
 
-1    Directing witnessing the traumatic event(s).
+> 1    Directing witnessing the traumatic event(s).
 
-2    Witnessing, in person, the event(s) as it occurred to others, especially primary care-givers. _Note:_ Witnessing does not include events that are witnessed only in electronic media, television, movies, or pictures.
+> 2    Witnessing, in person, the event(s) as it occurred to others, especially primary care-givers. _Note:_ Witnessing does not include events that are witnessed only in electronic media, television, movies, or pictures.
 
-3    Learning that the traumatic event(s) occurred to a parents or caregiving figure.
+> 3    Learning that the traumatic event(s) occurred to a parents or caregiving figure.
 
-**B**      **Presence of one (or more) of the following intrusion symptoms associated with the traumatic event(s), beginning after the traumatic event(s) occurred:**
+> **B**      **Presence of one (or more) of the following intrusion symptoms associated with the traumatic event(s), beginning after the traumatic event(s) occurred:**
 
-1    Recurrent, involuntary, and intrusive memories of the traumatic event(s). _Note:_ Spontaneous and intrusive memories may not necessarily appear distressing and may be expressed as play reenactment.
+> 1    Recurrent, involuntary, and intrusive memories of the traumatic event(s). _Note:_ Spontaneous and intrusive memories may not necessarily appear distressing and may be expressed as play reenactment.
 
-2    Recurrent distressing dreams in which the content and/or affect of the dream are related to the traumatic event(s). _Note:_ It may not be possible to ascertain that the frightening content is related to the traumatic event.
+> 2    Recurrent distressing dreams in which the content and/or affect of the dream are related to the traumatic event(s). _Note:_ It may not be possible to ascertain that the frightening content is related to the traumatic event.
 
-3    Dissociative reactions (_e.g._, flashbacks) in which the child feels or acts as if the traumatic event(s) were recurring. (Such reactions may occur on a continuum, with the most extreme expression being a complete loss of awareness of present surroundings). Such trauma specific reenactment may occur in play.
+> 3    Dissociative reactions (_e.g._, flashbacks) in which the child feels or acts as if the traumatic event(s) were recurring. (Such reactions may occur on a continuum, with the most extreme expression being a complete loss of awareness of present surroundings). Such trauma specific reenactment may occur in play.
 
-4    Intense or prolonged psychological distress at exposure to internal or external cues that symbolize or resemble an aspect of the traumatic event(s).
+> 4    Intense or prolonged psychological distress at exposure to internal or external cues that symbolize or resemble an aspect of the traumatic event(s).
 
-5    Marked physiological reactions to reminders of the traumatic event(s).
+> 5    Marked physiological reactions to reminders of the traumatic event(s).
 
-**C**      **One (or more) of the following symptoms, representing either persistent avoidance of stimuli associated with the traumatic event(s) or negative alterations in cognitions and mood associated with the traumatic event(s), must be present, beginning after the event(s) or worsening after the event(s):**
+> **C**      **One (or more) of the following symptoms, representing either persistent avoidance of stimuli associated with the traumatic event(s) or negative alterations in cognitions and mood associated with the traumatic event(s), must be present, beginning after the event(s) or worsening after the event(s):**
 
-Persistent Avoidance of Stimuli
+> Persistent Avoidance of Stimuli
 
-1    Avoidance of or efforts to avoid activities, places, or physical reminders that arouse recollections of the traumatic event(s).
+> 1    Avoidance of or efforts to avoid activities, places, or physical reminders that arouse recollections of the traumatic event(s).
 
-2    Avoidance of or efforts to avoid people, conversations, or interpersonal situations that arouse recollections of the traumatic event(s).
+> 2    Avoidance of or efforts to avoid people, conversations, or interpersonal situations that arouse recollections of the traumatic event(s).
 
-Negative Alterations in Cognitions
+> Negative Alterations in Cognitions
 
-3    Substantially increased frequency of negative emotional states (_e.g_, fear, guilt, sadness, shame, confusion).
+> 3    Substantially increased frequency of negative emotional states (_e.g_, fear, guilt, sadness, shame, confusion).
 
-4    Markedly diminished interest or participation in significant activities, including constriction of play.
+> 4    Markedly diminished interest or participation in significant activities, including constriction of play.
 
-5    Socially withdrawn behaviour.
+> 5    Socially withdrawn behaviour.
 
-6    Persistent reduction in expression of positive emotions.
+> 6    Persistent reduction in expression of positive emotions.
 
-**D**      **Alterations in arousal and reactivity associated with the traumatic event(s), beginning or worsening after the traumatic event(s) occurred, as evidenced by two (or more) of the following:**
+> **D**      **Alterations in arousal and reactivity associated with the traumatic event(s), beginning or worsening after the traumatic event(s) occurred, as evidenced by two (or more) of the following:**
 
-1    Irritable behaviour and angry outbursts (with little or no provocation) typically expressed as verbal or physical aggression toward people or objects (including extreme temper tantrums).
+> 1    Irritable behaviour and angry outbursts (with little or no provocation) typically expressed as verbal or physical aggression toward people or objects (including extreme temper tantrums).
 
-2    Hypervigilance.
+> 2    Hypervigilance.
 
-3    Exaggerated startle response.
+> 3    Exaggerated startle response.
 
-4    Problems with concentration.
+> 4    Problems with concentration.
 
-5    Sleep disturbance (_e.g._, difficulty falling or staying asleep or restless sleep).
+> 5    Sleep disturbance (_e.g._, difficulty falling or staying asleep or restless sleep).
 
-**E**      **The duration of the disturbance is more than 1 month.**
+> **E**      **The duration of the disturbance is more than 1 month.**
 
-**F**      **The disturbance causes clinically significant distress or impairment in relationships with parents, siblings, peers, or other caregivers or with school behaviour.**
+> **F**      **The disturbance causes clinically significant distress or impairment in relationships with parents, siblings, peers, or other caregivers or with school behaviour.**
 
-**G**      **The disturbance is not attributable to the physiological effects of a substance (** **_e.g._**, **medication or alcohol) or another medical condition.**
+> **G**      **The disturbance is not attributable to the physiological effects of a substance (** **_e.g._**, **medication or alcohol) or another medical condition.**
 
-\[emphasis added\]
+> \[emphasis added\]
 
 44     As can be seen above, the symptoms of “persistent avoidance of stimuli” and “negative alterations in cognition” fall solely under Criterion C of the DSM-5 PTSD Criteria (Childhood) whereas they fall under both Criterion C and D of the DSM-5 PTSD Criteria when diagnosing adults.
 
@@ -373,23 +373,23 @@ Negative Alterations in Cognitions
 
 54     I also do not find Ilechukwu to be “malingering” his PTSD symptoms. This was for the following reasons:
 
-(a)     All four experts agreed that Ilechukwu was below average intelligence.[^43] I did not think it likely that Ilechukwu was capable of “malingering” his symptoms to sustain a positive PTSD diagnosis under the DSM-5 PTSD Criteria. In view of his background and intelligence level, I find it unlikely that he had the capability to do this.
+> (a)     All four experts agreed that Ilechukwu was below average intelligence.[^43] I did not think it likely that Ilechukwu was capable of “malingering” his symptoms to sustain a positive PTSD diagnosis under the DSM-5 PTSD Criteria. In view of his background and intelligence level, I find it unlikely that he had the capability to do this.
 
-(b)     I also accept Dr Ung’s view that, given Ilechukwu’s background, a PTSD diagnosis was not something Ilechukwu would be familiar with.[^44]
+> (b)     I also accept Dr Ung’s view that, given Ilechukwu’s background, a PTSD diagnosis was not something Ilechukwu would be familiar with.[^44]
 
-(c)     I find the theory that Ilechukwu to be “malingering” his PTSD symptoms inconsistent with the overall evidence. For instance, Ilechukwu had stated to Dr Ung that he had no past psychiatric history[^45] and to Dr Sarkar that he had no personal or family history of mental disorder. Ilechukwu could have easily played this up if he had intended to lie about his symptoms. The fact that he had not mentioned this aspect of his past showed that he was in fact reluctant to disclose it.
+> (c)     I find the theory that Ilechukwu to be “malingering” his PTSD symptoms inconsistent with the overall evidence. For instance, Ilechukwu had stated to Dr Ung that he had no past psychiatric history[^45] and to Dr Sarkar that he had no personal or family history of mental disorder. Ilechukwu could have easily played this up if he had intended to lie about his symptoms. The fact that he had not mentioned this aspect of his past showed that he was in fact reluctant to disclose it.
 
-(d)     Indeed, Dr Sarkar was engaged by the Prosecution at the time he determined Ilechukwu to be suffering from PTSD. Dr Sarkar testified that this was the first diagnosis he had made in a prisoner facing capital punishment despite having examined over 100 prisoners during his six years as Consultant in IMH.[^46] If Ilechukwu was indeed “malingering”, it is my view that Dr Sarkar would have observed and noted it.
+> (d)     Indeed, Dr Sarkar was engaged by the Prosecution at the time he determined Ilechukwu to be suffering from PTSD. Dr Sarkar testified that this was the first diagnosis he had made in a prisoner facing capital punishment despite having examined over 100 prisoners during his six years as Consultant in IMH.[^46] If Ilechukwu was indeed “malingering”, it is my view that Dr Sarkar would have observed and noted it.
 
 #### Defence’s approach to diagnostic criterion
 
 55     The Prosecution raised three objections to the Defence’s approach of analysing whether the DSM-5 PTSD Criteria were met:[^47]
 
-(a)     First, the Defence used symptoms that were allegedly suffered by Ilechukwu across a 21-year timeframe to make out a diagnosis of PTSD (in relation to the Wukari massacre).
+> (a)     First, the Defence used symptoms that were allegedly suffered by Ilechukwu across a 21-year timeframe to make out a diagnosis of PTSD (in relation to the Wukari massacre).
 
-(b)     Secondly, the Defence correlated its experts’ comments on Ilechukwu to the various DSM-5 PTSD Criteria, even when such correlation was not part of their evidence.
+> (b)     Secondly, the Defence correlated its experts’ comments on Ilechukwu to the various DSM-5 PTSD Criteria, even when such correlation was not part of their evidence.
 
-(c)     Thirdly, the Defence pieced together the evidence of different experts on symptoms to separately derive its own “composite” of the requisite criteria for a PTSD diagnosis.
+> (c)     Thirdly, the Defence pieced together the evidence of different experts on symptoms to separately derive its own “composite” of the requisite criteria for a PTSD diagnosis.
 
 56     As regards the first objection, I agree with the Prosecution that whatever symptoms experienced by Ilechukwu should be “attributable” or “associated” with the traumatic event.[^48] Symptoms which cannot be attributed to the traumatic episode should not be used by the Defence to diagnose Ilechukwu with PTSD. Logically, the symptoms must be experienced after the traumatic event.[^49] I agree that symptoms suffered because of the Wukari massacre should not be used to diagnose Ilechukwu with PTSD arising out of the 2011 arrest, and vice-versa.
 
@@ -409,17 +409,17 @@ Negative Alterations in Cognitions
 
 62     Criterion A is restated below for convenience:
 
-A    Exposure to actual or threatened death, serious injury, or sexual violence in one (or more) of the following ways:
+> A    Exposure to actual or threatened death, serious injury, or sexual violence in one (or more) of the following ways:
 
-1    Directing witnessing the traumatic event(s).
+> 1    Directing witnessing the traumatic event(s).
 
-2    Witnessing, in person, the event(s) as it occurred to others.
+> 2    Witnessing, in person, the event(s) as it occurred to others.
 
-3    Learning that the traumatic event(s) occurred to a close family member or close friend. In cases of actual or threatened death of a family member or friend, the event(s) must have been violent or accidental.
+> 3    Learning that the traumatic event(s) occurred to a close family member or close friend. In cases of actual or threatened death of a family member or friend, the event(s) must have been violent or accidental.
 
-4    Experiencing repeated or extreme exposure to aversive details of the traumatic event(s) (_e.g._, first responders collecting human remains; police officers repeatedly exposed to details of child abuse).
+> 4    Experiencing repeated or extreme exposure to aversive details of the traumatic event(s) (_e.g._, first responders collecting human remains; police officers repeatedly exposed to details of child abuse).
 
-_Note:_ Criterion A4 does not apply to exposure through electronic media, television, movies, or pictures, unless this exposure is work related.
+> _Note:_ Criterion A4 does not apply to exposure through electronic media, television, movies, or pictures, unless this exposure is work related.
 
 63     The Prosecution did not challenge the existence of the Wukari massacre,[^50] but also did not admit to Ilechukwu’s version of events.[^51] The Prosecution’s expert nevertheless agreed that Criterion A was satisfied.
 
@@ -433,13 +433,13 @@ _Note:_ Criterion A4 does not apply to exposure through electronic media, televi
 
 66     Criterion C is reproduced here:
 
-**C**      **Persistent avoidance of stimuli associated with the traumatic event(s), beginning after the traumatic event(s) occurred, as evidenced by one or both of the following:**
+> **C**      **Persistent avoidance of stimuli associated with the traumatic event(s), beginning after the traumatic event(s) occurred, as evidenced by one or both of the following:**
 
-1    Avoidance of or efforts to avoid distressing memories, thoughts, or feelings about or closely associated with the traumatic event(s).
+> 1    Avoidance of or efforts to avoid distressing memories, thoughts, or feelings about or closely associated with the traumatic event(s).
 
-2    Avoidance of or efforts to avoid external reminders (people, places, conversations, activities, objects, situations) that arouse distressing memories, thoughts, or feelings about or closely associated with the traumatic event(s).
+> 2    Avoidance of or efforts to avoid external reminders (people, places, conversations, activities, objects, situations) that arouse distressing memories, thoughts, or feelings about or closely associated with the traumatic event(s).
 
-\[emphasis added\]
+> \[emphasis added\]
 
 67     The Prosecution’s expert, and the Defence’s expert, Dr Sarkar adopted very different positions on whether Ilechukwu exhibited the symptom of “persistent avoidance” in relation to the Wukari massacre.
 
@@ -455,11 +455,11 @@ _Note:_ Criterion A4 does not apply to exposure through electronic media, televi
 
 73     I do not accept Dr Cheok’s opinion that Ilechukwu did not display “persistent avoidance” in light of the evidence presented. There are numerous examples that Ilechukwu avoided “Hausas”, “Muslims”, and “Wukari”, the site of the massacre:
 
-(a)     Ilechukwu never again returned to Wukari in North Nigeria.[^61]
+> (a)     Ilechukwu never again returned to Wukari in North Nigeria.[^61]
 
-(b)     Ilechukwu said to Dr Sarkar that “every time I heard of death and killing, don’t feel like associating with Hausas, no Hausa friend”.[^62]
+> (b)     Ilechukwu said to Dr Sarkar that “every time I heard of death and killing, don’t feel like associating with Hausas, no Hausa friend”.[^62]
 
-(c)     Ilechukwu also told Dr Cheok that he “avoids Wukari”.
+> (c)     Ilechukwu also told Dr Cheok that he “avoids Wukari”.
 
 74     I also see no reason why Ilechukwu would lie about avoiding “Hausas” or “Muslims” in general. I also note that all the experts agreed that Ilechukwu’s IQ is “below average”.[^63] I find it implausible for Ilechukwu to have embellished his account with the view of satisfying Criterion C. I also find the evidence of Ilechukwu’s failure to mention the Wukari massacre from the years 2011 to 2016 (to Dr Sarkar) to anyone from CNB or the Prisons to be consistent with the Defence’s theory that Ilechukwu suffered from “persistent avoidance” of stimuli relating to the Wukari massacre.
 
@@ -471,23 +471,23 @@ _Note:_ Criterion A4 does not apply to exposure through electronic media, televi
 
 77     Criterion D of the DSM-5 PTSD Criteria is reproduced here:
 
-**D**      **Negative alterations in cognitions or mood associated with the traumatic event(s), beginning or worsening after the traumatic event(s) occurred, as evidence by two (or more) of the following:**
+> **D**      **Negative alterations in cognitions or mood associated with the traumatic event(s), beginning or worsening after the traumatic event(s) occurred, as evidence by two (or more) of the following:**
 
-1    Inability to remember an important aspect of the traumatic event(s) (typically due to dissociative amnesia and not to other factors such as head injury, alcohol, or drugs).
+> 1    Inability to remember an important aspect of the traumatic event(s) (typically due to dissociative amnesia and not to other factors such as head injury, alcohol, or drugs).
 
-2    Persistent and exaggerated negative beliefs or expectations about oneself, others, or the world (_e.g._, “I am bad,” “No one can be trusted,” The world is completely dangerous,” “My whole nervous system is permanently ruined”).
+> 2    Persistent and exaggerated negative beliefs or expectations about oneself, others, or the world (_e.g._, “I am bad,” “No one can be trusted,” The world is completely dangerous,” “My whole nervous system is permanently ruined”).
 
-3    Persistent, distorted cognitions about the cause or consequences of the traumatic event(s) that lead the individual to blame himself/herself or others.
+> 3    Persistent, distorted cognitions about the cause or consequences of the traumatic event(s) that lead the individual to blame himself/herself or others.
 
-4    Persistent negative emotional state (_e.g._, fear, horror, anger, guilt, or shame).
+> 4    Persistent negative emotional state (_e.g._, fear, horror, anger, guilt, or shame).
 
-5    Markedly diminished interest or participation in significant activities.
+> 5    Markedly diminished interest or participation in significant activities.
 
-6    Feelings of detachment or estrangement from others.
+> 6    Feelings of detachment or estrangement from others.
 
-7    Persistent inability to experience positive emotions (_e.g._, inability to experience happiness, satisfaction, or loving feelings).
+> 7    Persistent inability to experience positive emotions (_e.g._, inability to experience happiness, satisfaction, or loving feelings).
 
-\[emphasis added\]
+> \[emphasis added\]
 
 78     Both Dr Ung and Dr Sarkar provided evidence that at least two of the sub-criterion were satisfied. I will deal with the evidence of each Defence expert in turn.
 
@@ -503,15 +503,15 @@ _Note:_ Criterion A4 does not apply to exposure through electronic media, televi
 
 82     Dr Ung stated that the following criteria were satisfied:
 
-(a)     D2 as Ilechukwu displayed strong negative feelings about the world, stating “the world is not okay…I don’t know how to explain”.[^69]
+> (a)     D2 as Ilechukwu displayed strong negative feelings about the world, stating “the world is not okay…I don’t know how to explain”.[^69]
 
-(b)     D4 as Ilechukwu felt “pronounced” feelings of anger and sadness more than 50% of the time.[^70]
+> (b)     D4 as Ilechukwu felt “pronounced” feelings of anger and sadness more than 50% of the time.[^70]
 
-(c)     D5 as Ilechukwu became less interested in socialising and stopped exercising for a long time.[^71]
+> (c)     D5 as Ilechukwu became less interested in socialising and stopped exercising for a long time.[^71]
 
-(d)     D6 as Ilechukwu felt estranged from his family.[^72]
+> (d)     D6 as Ilechukwu felt estranged from his family.[^72]
 
-(e)     D7 as Ilechukwu could not feel happy after the Wukari massacre.[^73]
+> (e)     D7 as Ilechukwu could not feel happy after the Wukari massacre.[^73]
 
 83     Dr Ung’s opinion that Ilechukwu suffered from D2 was based on an interview with Ilechukwu in a clinical setting. I accepted his clinical assessment that Ilechukwu suffered from “persistent negative thoughts or expectations” after the Wukari massacre based on the recorded statements from Ilechukwu that “The world is not OK”, “the world is not the same again”, “what happened made everything different”, “people may not be trustworthy”, and “my life is full of pain and suffering”.[^74] I also accept Dr Ung’s opinion that Ilechukwu suffered from D4 for the same reason.
 
@@ -523,35 +523,35 @@ _Note:_ Criterion A4 does not apply to exposure through electronic media, televi
 
 86     Criterion E of the DSM-5 PTSD Criteria states as follows:
 
-**E**      **Marked alterations in arousal or reactivity associated with the traumatic event(s), beginning or worsening after the traumatic event(s) occurred, as evidence by two (or more) of the following:**
+> **E**      **Marked alterations in arousal or reactivity associated with the traumatic event(s), beginning or worsening after the traumatic event(s) occurred, as evidence by two (or more) of the following:**
 
-1    Irritable behaviour and angry outbursts (with little or no provocation) typically expressed as verbal or physical aggression towards people or objects.
+> 1    Irritable behaviour and angry outbursts (with little or no provocation) typically expressed as verbal or physical aggression towards people or objects.
 
-2    Reckless or self-destructive behavior.
+> 2    Reckless or self-destructive behavior.
 
-3    Hypervigilence.
+> 3    Hypervigilence.
 
-4    Exaggerated startle response.
+> 4    Exaggerated startle response.
 
-5    Problems with concentration.
+> 5    Problems with concentration.
 
-6    Sleep disturbance (_e.g._, difficulty falling or staying asleep or restless sleep).
+> 6    Sleep disturbance (_e.g._, difficulty falling or staying asleep or restless sleep).
 
-\[emphasis added\]
+> \[emphasis added\]
 
 87     These are the views of the experts:
 
-(a)     Dr Sarkar recorded Ilechukwu as being “forgetful since childhood”.[^76] The Defence interpreted this as satisfying Criterion E5.[^77]
+> (a)     Dr Sarkar recorded Ilechukwu as being “forgetful since childhood”.[^76] The Defence interpreted this as satisfying Criterion E5.[^77]
 
-(b)     Dr Ung recorded Criterion E3, E4, E5, and E6 as present.
+> (b)     Dr Ung recorded Criterion E3, E4, E5, and E6 as present.
 
-(c)     Dr Winslow recorded Criterion E5 and E6 as present.
+> (c)     Dr Winslow recorded Criterion E5 and E6 as present.
 
-(d)     Dr Cheok recorded all six aspects of Criterion E to be absent.
+> (d)     Dr Cheok recorded all six aspects of Criterion E to be absent.
 
 88     I first deal with Criterion E5. Dr Sarkar recorded in his report the following statements made by Ilechukwu:[^78]
 
-I am not intelligent. When I was another school I was very good at sports. Study is not so good. The only thing I like is sport. Reading is hard for me. Mathematics, I struggle. From primary school on, I have reading problem. Writing is also a problem. Many mistakes with spelling. Mathematics I struggle unless it is a simple one.
+> I am not intelligent. When I was another school I was very good at sports. Study is not so good. The only thing I like is sport. Reading is hard for me. Mathematics, I struggle. From primary school on, I have reading problem. Writing is also a problem. Many mistakes with spelling. Mathematics I struggle unless it is a simple one.
 
 89     Dr Sarkar also stated in the Remitted Hearing that “\[Ilechukwu\] has cognitive deficits which are in the realm of attention, concentration …”[^79] but without explicitly linking this to Criterion E5.
 
@@ -559,13 +559,13 @@ I am not intelligent. When I was another school I was very good at sports. Study
 
 91     Dr Ung rated Criterion E5 as “severe/markedly elevated”. Dr Ung disagreed with Dr Cheok that whatever “poor concentration” Ilechukwu suffered from was due to “hunger and poverty” in the Remitted Hearing, stating:[^81]
 
-…I mean if we were to attribute his poor concentration, which was the thing I was most struck with when I first see him – in fact he had to repeat the same year three times which is what made me wonder what was going on – that just to me he wouldn’t be able pursue his interests in sports if he truly you know he was so malnourished and hungry. You know, he just won’t have the energy.
+> …I mean if we were to attribute his poor concentration, which was the thing I was most struck with when I first see him – in fact he had to repeat the same year three times which is what made me wonder what was going on – that just to me he wouldn’t be able pursue his interests in sports if he truly you know he was so malnourished and hungry. You know, he just won’t have the energy.
 
 92     I find it more likely than not that Ilechukwu’s “poor concentration” was due to the Wukari massacre than any “hunger or poverty” that Ilechukwu might have suffered when he was young. The following are my reasons:
 
-(a)     Ilechukwu’s failure to “study” appeared prolonged and consistent. He admitted that he was poor at reading, writing and mathematics since primary school. This appeared to me more consistent with an intrinsic mental inability to “concentrate”, rather than one which fluctuated depending on whether he was hungry.
+> (a)     Ilechukwu’s failure to “study” appeared prolonged and consistent. He admitted that he was poor at reading, writing and mathematics since primary school. This appeared to me more consistent with an intrinsic mental inability to “concentrate”, rather than one which fluctuated depending on whether he was hungry.
 
-(b)     I also find Dr Cheok’s explanation that Ilechukwu’s “poor concentration” was due to “hunger and poverty” to be inconsistent with Ilechukwu’s preference for sport.
+> (b)     I also find Dr Cheok’s explanation that Ilechukwu’s “poor concentration” was due to “hunger and poverty” to be inconsistent with Ilechukwu’s preference for sport.
 
 93     Thus, I find, on balance, that Criterion E5 is satisfied.
 
@@ -585,15 +585,15 @@ I am not intelligent. When I was another school I was very good at sports. Study
 
 100    The Defence based its contention that the DSM-5 PTSD Criteria does not require PTSD symptoms to be present daily for a month on the full scoring rubric in the CAPS-5 Form.[^91] The full scoring rubric is reproduced here:
 
-**0**      **Absent:** The respondent denied the problem or the respondent’s report doesn’t fit the DSM-5 symptom criterion.
+> **0**      **Absent:** The respondent denied the problem or the respondent’s report doesn’t fit the DSM-5 symptom criterion.
 
-**1**      **Mild / subthreshold**: The respondent described a problem that is consistent with the symptom criterion but isn’t severe enough to be considered clinically significant. The problem doesn’t’ satisfy the DSM-5 symptom criterion and thus doesn’t count towards a PTSD diagnosis.
+> **1**      **Mild / subthreshold**: The respondent described a problem that is consistent with the symptom criterion but isn’t severe enough to be considered clinically significant. The problem doesn’t’ satisfy the DSM-5 symptom criterion and thus doesn’t count towards a PTSD diagnosis.
 
-**2**      **Moderate / threshold**: The respondent described a clinically significant problem. The problem satisfies the DSM-5 symptom criterion and thus counts towards a PTSD diagnosis. The problem would be target for intervention. This rating requires a minimum frequency of 2 X month or some of the time (20 - 30 %) PLUS a minimum intensity of Clearly Present.
+> **2**      **Moderate / threshold**: The respondent described a clinically significant problem. The problem satisfies the DSM-5 symptom criterion and thus counts towards a PTSD diagnosis. The problem would be target for intervention. This rating requires a minimum frequency of 2 X month or some of the time (20 - 30 %) PLUS a minimum intensity of Clearly Present.
 
-**3**      **Severe / markedly elevated:** The respondent described a problem that is well above threshold. The problem is difficult to manage and at times overwhelming, and would be a prominent target for intervention. This rating requires a minimum frequency of 2 X week or much of the time (50 - 60%) PLUS a minimum intensity of Pronounced.
+> **3**      **Severe / markedly elevated:** The respondent described a problem that is well above threshold. The problem is difficult to manage and at times overwhelming, and would be a prominent target for intervention. This rating requires a minimum frequency of 2 X week or much of the time (50 - 60%) PLUS a minimum intensity of Pronounced.
 
-**4**      **Extreme / incapacitating**: The respondent described a dramatic symptom, far above threshold. The problem is pervasive, unmanageable, and overwhelming, and would be a high-priority target for intervention.
+> **4**      **Extreme / incapacitating**: The respondent described a dramatic symptom, far above threshold. The problem is pervasive, unmanageable, and overwhelming, and would be a high-priority target for intervention.
 
 101    Based on the full scoring rubric and referring in particular to the “moderate/threshold” rating, the Defence submitted that a “minimum frequency of 2X month or some of the time (20 – 30%) PLUS a minimum intensity of Clearly Present” is sufficient to cross the threshold.[^92] Although it is not clear that the CAPS-5 Form alone shows that the symptoms need not be present daily, it is, nevertheless, one of the diagnostic tools used to assess for the symptoms under the DSM-5 PTSD Criteria.
 
@@ -615,7 +615,7 @@ I am not intelligent. When I was another school I was very good at sports. Study
 
 109    Dr Sarkar cited the following as further evidence that Ilechukwu suffered from “clinically significant distress”:
 
-I am surprised to hear that \[Ilechukwu\] does not meet this criteria \[from Dr Cheok\] as Dr Cheok’s report is full of descriptions of how stressed he has been throughout his lifetime, with these flashbacks, nightmares, etc, right from his school days. If that is not distress, what is?
+> I am surprised to hear that \[Ilechukwu\] does not meet this criteria \[from Dr Cheok\] as Dr Cheok’s report is full of descriptions of how stressed he has been throughout his lifetime, with these flashbacks, nightmares, etc, right from his school days. If that is not distress, what is?
 
 110    I agree with Dr Sarkar that there was sufficient evidence to show that Criterion G was satisfied. I therefore find that Criterion G is satisfied on a balance of probabilities.
 
@@ -627,21 +627,21 @@ I am surprised to hear that \[Ilechukwu\] does not meet this criteria \[from Dr 
 
 112    I summarise my findings on the various DSM-5 PTSD Criteria:
 
-(a)     Criterion A: There was no dispute between the Prosecution and the Defence that this was satisfied.
+> (a)     Criterion A: There was no dispute between the Prosecution and the Defence that this was satisfied.
 
-(b)     Criterion B: There was no dispute between the Prosecution and the Defence that this was satisfied.
+> (b)     Criterion B: There was no dispute between the Prosecution and the Defence that this was satisfied.
 
-(c)     Criterion C: I find that this was satisfied.
+> (c)     Criterion C: I find that this was satisfied.
 
-(d)     Criterion D: I find that this was satisfied.
+> (d)     Criterion D: I find that this was satisfied.
 
-(e)     Criterion E: I find that this was satisfied.
+> (e)     Criterion E: I find that this was satisfied.
 
-(f)     Criterion F: I find that this was satisfied.
+> (f)     Criterion F: I find that this was satisfied.
 
-(g)     Criterion G: I find that this was satisfied.
+> (g)     Criterion G: I find that this was satisfied.
 
-(h)     Criterion H: There was no dispute between the Prosecution and the Defence that this was satisfied.
+> (h)     Criterion H: There was no dispute between the Prosecution and the Defence that this was satisfied.
 
 113    Accordingly, all eight criteria of DSM-5 PTSD Criteria are satisfied and a clinical diagnosis that Ilechukwu was suffering from PTSD subsequent to the Wukari incident is made out.
 
@@ -653,14 +653,32 @@ I am surprised to hear that \[Ilechukwu\] does not meet this criteria \[from Dr 
 
 116    Dr Cheok agreed that there is a “possibility” of the “sensitisation effect” if Ilechukwu suffered from a PTSD episode in childhood:[^101]
 
-<table align="left" cellpadding="0" cellspacing="0" class="Judg-2" frame="none" pgwide="1"><colgroup><col width="22.5%"> <col width="77.5%"> </colgroup><tbody><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Court:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">But, Dr Cheok, do I understand you to say that you would agree that if there was a PTSD episode at five years old then the events could – not saying will but could constitute trauma because of the sensitisation effect that the defence experts have talked about?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Dr Cheok:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">I think there is a possibility. Yes, there is a possibility.</p></td></tr></tbody></table>
+>   
+| 
+
+Court:
+
+ | 
+
+But, Dr Cheok, do I understand you to say that you would agree that if there was a PTSD episode at five years old then the events could – not saying will but could constitute trauma because of the sensitisation effect that the defence experts have talked about?
+
+ |
+| 
+
+Dr Cheok:
+
+ | 
+
+I think there is a possibility. Yes, there is a possibility.
+
+ |
 
   
   
 
 117    Dr Cheok also stated:[^102]
 
-It follows that PTSD – a previous episode of PTSD, I agree that it puts him at higher risk of further episode of PTSD. That is I think undisputed.
+> It follows that PTSD – a previous episode of PTSD, I agree that it puts him at higher risk of further episode of PTSD. That is I think undisputed.
 
 118    Thus, there is a consensus among the experts that an earlier episode of PTSD places Ilechukwu at a higher risk of subsequent PTSD.
 
@@ -672,9 +690,9 @@ It follows that PTSD – a previous episode of PTSD, I agree that it puts him at
 
 121    In relation to Criterion A, the Defence submitted that there were two significant periods for the court to consider:
 
-(a)     At or around the time the Pocketbook statement was recorded (at or around the time of the arrest).
+> (a)     At or around the time the Pocketbook statement was recorded (at or around the time of the arrest).
 
-(b)     At or around the time the Cautioned Statement was recorded (when he was informed of the death penalty).
+> (b)     At or around the time the Cautioned Statement was recorded (when he was informed of the death penalty).
 
 #### At or around the time of the arrest
 
@@ -686,15 +704,15 @@ It follows that PTSD – a previous episode of PTSD, I agree that it puts him at
 
 125    Dr Winslow also said in his report, under the heading “the period of time during which \[Ilechukwu\] suffered from PTSD”:[^106]
 
-\[Ilechukwu\] has suffered from lifelong PTSD. His PTSD symptoms were triggered and worsened when he was told that **he would be facing the death penalty when he was arrested**.
+> \[Ilechukwu\] has suffered from lifelong PTSD. His PTSD symptoms were triggered and worsened when he was told that **he would be facing the death penalty when he was arrested**.
 
-\[emphasis added\]
+> \[emphasis added\]
 
 126    However, Ilechukwu later admitted in the Remitted Hearing that he was not told that he would be facing the death penalty when he was arrested:[^107]
 
-Q.And at the time that this statement was recorded on 14 November 2011 afternoon, no police officer had told you about the death penalty; correct?
+> Q.And at the time that this statement was recorded on 14 November 2011 afternoon, no police officer had told you about the death penalty; correct?
 
-A.Yes, your Honour. Yes.
+> A.Yes, your Honour. Yes.
 
 127    Accordingly, I could not attach any weight to Dr Winslow’s suggestion that Criterion A was satisfied when Ilechukwu was arrested and told that he would be facing the death penalty.
 
@@ -714,11 +732,11 @@ A.Yes, your Honour. Yes.
 
 133    The Defence submitted that there were three relevant periods for consideration during which Ilechukwu had suffered from PTSS:[^110]
 
-(a)     During the recording of the Pocketbook Statement when Ilechukwu was suffering from intense psychological distress.
+> (a)     During the recording of the Pocketbook Statement when Ilechukwu was suffering from intense psychological distress.
 
-(b)     During the recording of the Cautioned Statement, when Ilechukwu was suffering from intense psychological distress, dissociative symptoms, persistent negative emotions, and concentration problems.
+> (b)     During the recording of the Cautioned Statement, when Ilechukwu was suffering from intense psychological distress, dissociative symptoms, persistent negative emotions, and concentration problems.
 
-(c)     During his week-long remand in Cantonment, when the Long Statements were recorded from Ilechukwu while he was suffering from intense and prolonged psychological distress, dissociative symptoms, persistent negative emotions, and sleep disturbances.
+> (c)     During his week-long remand in Cantonment, when the Long Statements were recorded from Ilechukwu while he was suffering from intense and prolonged psychological distress, dissociative symptoms, persistent negative emotions, and sleep disturbances.
 
 134    I address each of the relevant periods of time in turn.
 
@@ -726,11 +744,11 @@ A.Yes, your Honour. Yes.
 
 135    Dr Sarkar did not explicitly identify the precise DSM-5 PTSD Criteria manifested by Ilechukwu at the time of the recording of the Pocketbook Statement. Instead, Dr Sarkar described the symptoms in more general terms:[^111]
 
-Because of his experience he views the world in black and white, us and them; good and bad kind of way. People who attack and assault him during the arrest in his mind are the enemies. They are symbolically similar to what he experienced as a child and what he saw and read during the course of his formative years and life about the strife in Nigeria…the way he perceives it; it was like war. Everyone should fear. Fear, here, there, everybody. In his mind this is a war.
+> Because of his experience he views the world in black and white, us and them; good and bad kind of way. People who attack and assault him during the arrest in his mind are the enemies. They are symbolically similar to what he experienced as a child and what he saw and read during the course of his formative years and life about the strife in Nigeria…the way he perceives it; it was like war. Everyone should fear. Fear, here, there, everybody. In his mind this is a war.
 
 136    Dr Sarkar also added that Ilechukwu experienced:[^112]
 
-A sensitive stimulus – in this case people barging through the door, getting him on the floor, turning him around, tying his back and that sort of thing, he is made a captive. This is within the first 24 hours of his arrival in a new country, for the first time in his life. For him this is similar, emotionally similar, symbolically similar to what he has experienced, what he has seen happen not just at five-year old but at several points during his adult life…
+> A sensitive stimulus – in this case people barging through the door, getting him on the floor, turning him around, tying his back and that sort of thing, he is made a captive. This is within the first 24 hours of his arrival in a new country, for the first time in his life. For him this is similar, emotionally similar, symbolically similar to what he has experienced, what he has seen happen not just at five-year old but at several points during his adult life…
 
 137    Although Dr Sarkar did not explicitly tie his analysis to a specific DSM-5 PTSD Criterion, the Defence submitted that Dr Sarkar’s analysis showed that Ilechukwu suffered from Criterion B4 of the DSM-5 PTSD Criteria, which is “intense or prolonged psychological distress at exposure to internal or external cues that symbolize or resemble an aspect of the traumatic event(s)”.
 
@@ -740,31 +758,31 @@ A sensitive stimulus – in this case people barging through the door, getting h
 
 140    The Defence relied on the following excerpt of Ilechukwu’s testimony from the earlier trial[^113]:
 
-A.Before they – I was arrested. Before next day, I was still asleep – I was still inside the room when the police come. I was – there was a knock in my room.
+> A.Before they – I was arrested. Before next day, I was still asleep – I was still inside the room when the police come. I was – there was a knock in my room.
 
-Q.Yes
+> Q.Yes
 
-A.I come – I come out. I was advised – say we are – first. I was – there was a call stay: “Dear customer, do you need any Nokia or any phone?”. I said: “No, I’m okay. I’m – I’m not getting for anything; I’m okay”. So suddenly, er, I was – they come up, er, and knocked my door. Okay, I opened. All s- guys – I meet a lot of guys. They come inside, erm, grabbed me, I just – I just come because I don’t know what is happening. As they come, they just controlled me like that, the way they want. They pushed me on the bed. They handcuffed me. They put belt. That was like – like it – there is a war. That like everybody, one should fear – fear here, everywhere, everyone is scattering, everyone is checking. I was like – I was ner-nervous what is happening.
+> A.I come – I come out. I was advised – say we are – first. I was – there was a call stay: “Dear customer, do you need any Nokia or any phone?”. I said: “No, I’m okay. I’m – I’m not getting for anything; I’m okay”. So suddenly, er, I was – they come up, er, and knocked my door. Okay, I opened. All s- guys – I meet a lot of guys. They come inside, erm, grabbed me, I just – I just come because I don’t know what is happening. As they come, they just controlled me like that, the way they want. They pushed me on the bed. They handcuffed me. They put belt. That was like – like it – there is a war. That like everybody, one should fear – fear here, everywhere, everyone is scattering, everyone is checking. I was like – I was ner-nervous what is happening.
 
 141    The Defence also relied on the following part of Ilechukwu’s testimony:[^114]
 
-A.Yes. I was in a Hotel 81 when the CNB come inside. I was still sleeping when the reception called me and they said they asked do you care for food? I say no, I am okay. Suddenly just a knock come at the door. I open the door, there is a lot of guys just rush into the room, like a war. I was like how many guys. Many guys they push me towards the bed. I just I don’t know what to do, I just give myself to them. They handcuffed me. They just put me on the bed. They ran everywhere, searched everywhere until they finished then before that they take me out.
+> A.Yes. I was in a Hotel 81 when the CNB come inside. I was still sleeping when the reception called me and they said they asked do you care for food? I say no, I am okay. Suddenly just a knock come at the door. I open the door, there is a lot of guys just rush into the room, like a war. I was like how many guys. Many guys they push me towards the bed. I just I don’t know what to do, I just give myself to them. They handcuffed me. They just put me on the bed. They ran everywhere, searched everywhere until they finished then before that they take me out.
 
-Q.How did you feel?
+> Q.How did you feel?
 
-A.I was scared.
+> A.I was scared.
 
 142    The Prosecution did not provide any other reasons why Criterion B4 was not satisfied, other than submitting that it was a symptom not backed by expert opinion.
 
 143    The following matters are also relevant in deciding whether Dr Sarkar’s opinion should be accepted:
 
-(a)     The evidence of ASP Edmund Lim (PW25) (“Lim”) and Senior SS Mohammad Abdillah (PW19) (“Abdillah”), who were part of the arresting party which arrested Ilechukwu at 11.14am on 14 November 2011.[^115] Both Lim and Abdillah stated that they did not observe anything unusual about Ilechukwu’s appearance, manner or behaviour at the time of the arrest.[^116]
+> (a)     The evidence of ASP Edmund Lim (PW25) (“Lim”) and Senior SS Mohammad Abdillah (PW19) (“Abdillah”), who were part of the arresting party which arrested Ilechukwu at 11.14am on 14 November 2011.[^115] Both Lim and Abdillah stated that they did not observe anything unusual about Ilechukwu’s appearance, manner or behaviour at the time of the arrest.[^116]
 
-(b)     However, Lim stated during the Remitted Hearing that he “\[had\] no independent recollection of the arrest” outside of what was stated in the “ops diary”.[^117]
+> (b)     However, Lim stated during the Remitted Hearing that he “\[had\] no independent recollection of the arrest” outside of what was stated in the “ops diary”.[^117]
 
-(c)     Abdillah also stated that he could not remember what Ilechukwu was doing when he reached Hotel 81 on 14 November 2011 (as part of the arresting party).[^118]
+> (c)     Abdillah also stated that he could not remember what Ilechukwu was doing when he reached Hotel 81 on 14 November 2011 (as part of the arresting party).[^118]
 
-(d)     The Prosecution’s evidence was that Ilechukwu refused to have his lunch on 14 November 2011 at 1.48pm.[^119]
+> (d)     The Prosecution’s evidence was that Ilechukwu refused to have his lunch on 14 November 2011 at 1.48pm.[^119]
 
 144    I did not find the Prosecution’s witnesses to be helpful in shedding light on the circumstances of the arrest and the recording of the Pocketbook Statement. It was clear that they did not have specific recollection of the events that took place on the morning of 14 November 2011 and were relying on what was recorded in the Investigation Diary.
 
@@ -780,13 +798,13 @@ A.I was scared.
 
 149    The Defence submitted that Ilechukwu suffered from the following symptoms during the recording of the Cautioned Statement:
 
-(a)     Criterion B3: Dissociative reactions;
+> (a)     Criterion B3: Dissociative reactions;
 
-(b)     Criterion B4: Intense and prolonged psychological distress;
+> (b)     Criterion B4: Intense and prolonged psychological distress;
 
-(c)     Criterion D4: Persistent negative emotional state (_ie_, fear); and
+> (c)     Criterion D4: Persistent negative emotional state (_ie_, fear); and
 
-(d)     Criterion E5: Problems with concentration.
+> (d)     Criterion E5: Problems with concentration.
 
 #### B3: Dissociative reactions
 
@@ -794,25 +812,25 @@ A.I was scared.
 
 151    Dr Sarkar clarified “dissociative symptoms” to mean the following:[^123]
 
-Dissociation or dissociative symptoms imply short time-limited lapses in memories. That could be one manifestation. Another is experiencing symptoms such as being outside of one’s body and looking in on oneself as though there are two parts to oneself, one that is observing the other part. And it also implies forgetting some critical parts of the traumatic experience.
+> Dissociation or dissociative symptoms imply short time-limited lapses in memories. That could be one manifestation. Another is experiencing symptoms such as being outside of one’s body and looking in on oneself as though there are two parts to oneself, one that is observing the other part. And it also implies forgetting some critical parts of the traumatic experience.
 
-So there are three, broadly speaking, manifestations of dissociation, that you forget certain things over a short period of time about circumscribed incident about the trauma, you experience yourself from outside and you have, as I said, memory impairment about a critical part of the trauma.
+> So there are three, broadly speaking, manifestations of dissociation, that you forget certain things over a short period of time about circumscribed incident about the trauma, you experience yourself from outside and you have, as I said, memory impairment about a critical part of the trauma.
 
 152    Dr Sarkar elaborated on what these “dissociative symptoms” are (although this appeared to have been done in the context of Criterion D1):[^124]
 
-…And finally an inability to remember an important aspect of the traumatic events typically due to dissociation and not other factors such as head injury, alcohol or drugs. I would submit to the court that his inability to associate the bag, the black luggage bag with two packets of drugs that were concealed within and his inability to associate Hamidah the co-accused with Maria, the person as she represented herself to him, represents this inability to remember. And immediately after arrest and the caution statement thereafter, I would submit is a manifestation of a dissociative phenomenon where he is so focused on protecting himself and getting retraumatised about his memory of the past…
+> …And finally an inability to remember an important aspect of the traumatic events typically due to dissociation and not other factors such as head injury, alcohol or drugs. I would submit to the court that his inability to associate the bag, the black luggage bag with two packets of drugs that were concealed within and his inability to associate Hamidah the co-accused with Maria, the person as she represented herself to him, represents this inability to remember. And immediately after arrest and the caution statement thereafter, I would submit is a manifestation of a dissociative phenomenon where he is so focused on protecting himself and getting retraumatised about his memory of the past…
 
-…So that he is not paying attention to any of the other things that were put to him and his answers in the first contemporary statements are very brief, monosyllabic almost, and even in the caution statement when he discovers through the interpreter that there is a death penalty, so it just reaffirms his belief that he had.
+> …So that he is not paying attention to any of the other things that were put to him and his answers in the first contemporary statements are very brief, monosyllabic almost, and even in the caution statement when he discovers through the interpreter that there is a death penalty, so it just reaffirms his belief that he had.
 
-So that is an inability to remember.
+> So that is an inability to remember.
 
 153    From the above, Dr Sarkar appeared to base his conclusion on Criterion B3 on the following matters:
 
-(a)     Ilechukwu’s inability to associate the Black Luggage with the two packets of drugs.
+> (a)     Ilechukwu’s inability to associate the Black Luggage with the two packets of drugs.
 
-(b)     Ilechukwu’s inability to associate Hamidah as the person who represented herself to him.
+> (b)     Ilechukwu’s inability to associate Hamidah as the person who represented herself to him.
 
-(c)     The first contemporary statements made to the CNB which were very brief and monosyllabic.
+> (c)     The first contemporary statements made to the CNB which were very brief and monosyllabic.
 
 154    The Prosecution’s reasons for rejecting the existence of Criterion B3 was that there was no expert evidence linking Ilechukwu’s statements to Criterion B3 of the DSM-5 PTSD Criteria.[^125] I do not agree with this reason because, as discussed above at \[152\] and \[154\], Dr Sarkar had linked Ilechukwu’s statements to his conclusion that there were “dissociative symptoms”. Even though he might have made this observation in the context of Criterion D1, it is clear that they also speak to Criterion B3. I therefore find that there was evidence that Ilechukwu had suffered from Criterion B3 during this period.
 
@@ -822,9 +840,9 @@ So that is an inability to remember.
 
 156    The Prosecution disputed that Ilechukwu suffered from “intense and prolonged psychological distress” (Criterion B4) at the time when the Cautioned Statement was taken. Their reasons were as follows:[^127]
 
-(a)     There was no expert evidence linking these statements by Ilechukwu to Criterion B4 in the DSM-5 PTSD Criteria.
+> (a)     There was no expert evidence linking these statements by Ilechukwu to Criterion B4 in the DSM-5 PTSD Criteria.
 
-(b)     It was not stated that Criterion B4 was experienced during the recording of the Cautioned Statement.
+> (b)     It was not stated that Criterion B4 was experienced during the recording of the Cautioned Statement.
 
 157    On the first reason, there was expert evidence linking Ilechukwu’s statements (in the clinical interview) to Criterion B4. Dr Ung did provide evidence that Criterion B4 was satisfied because Ilechukwu experienced daily distress for a few months, and these were symptoms recorded by Dr Ung as having been experienced by Ilechukwu under the heading “after charge”.
 
@@ -846,55 +864,55 @@ So that is an inability to remember.
 
 163    In relation to the Long Statements that were recorded during Ilechukwu’s period of remand in Cantonment, the Defence submitted that Ilechukwu was suffering from the following PTSS:
 
-(a)     Criterion B3: Dissociative reactions.
+> (a)     Criterion B3: Dissociative reactions.
 
-(b)     Criterion B4: Intense and prolonged psychological distress.
+> (b)     Criterion B4: Intense and prolonged psychological distress.
 
-(c)     Criterion D2: Persistent and negative beliefs about others (_ie_, the Investigating Officer cannot be trusted).
+> (c)     Criterion D2: Persistent and negative beliefs about others (_ie_, the Investigating Officer cannot be trusted).
 
-(d)     Criterion D4: Persistent negative emotional state.
+> (d)     Criterion D4: Persistent negative emotional state.
 
-(e)     Criterion E6: Sleep disturbance.
+> (e)     Criterion E6: Sleep disturbance.
 
 164    The Defence relied on Dr Sarkar’s opinion in the Remitted Hearing as well as the observations recorded in his report as the basis for its submissions. In the Remitted Hearing, Dr Sarkar was of the view that Ilechukwu suffered from “intense paranoia” and “fear” of the Investigating Officer:[^129]
 
-The first day, the first couple of hours in the evening when the cautioned statement was taken, it was a different motivation to lie, and the long statement seven days later there was a very different motivation which was very specific to the investigating officer and Ilechukwu**_’s perception of the investigating officer actually playing him and setting him in a kind of conspiratorial game where the conclusion had been waged right from the outset that he would be killed and the IO was just amassing evidence to justify the killing_**, and he believed that he was not told the truth at the beginning, because he said “The IO did not explain to me how the baggage and the drugs were linked” and so on and so forth, so because he believed that the IO had not been honest and upfront with him, he said he would not be honest and upfront with him. This is in his 2014 testimony.
+> The first day, the first couple of hours in the evening when the cautioned statement was taken, it was a different motivation to lie, and the long statement seven days later there was a very different motivation which was very specific to the investigating officer and Ilechukwu**_’s perception of the investigating officer actually playing him and setting him in a kind of conspiratorial game where the conclusion had been waged right from the outset that he would be killed and the IO was just amassing evidence to justify the killing_**, and he believed that he was not told the truth at the beginning, because he said “The IO did not explain to me how the baggage and the drugs were linked” and so on and so forth, so because he believed that the IO had not been honest and upfront with him, he said he would not be honest and upfront with him. This is in his 2014 testimony.
 
-And some of the reasons that he gives almost borders, as I said earlier, not so much psychosis but certainly paranoid. You have used the word heightened suspiciousness about the IO in your judgment. I think that people who have PTSD or any anxiety disorder, **_what we are talking about is fear. A heightened level of fear. Whether we call it post-traumatic stress or psychological denial or normal stress, whatever it is, intense fear of what is going to happen_**. The suspicion that he had towards the IO in particular borders on sort of paranoia a bit more than normal suspicion than he would have.
+> And some of the reasons that he gives almost borders, as I said earlier, not so much psychosis but certainly paranoid. You have used the word heightened suspiciousness about the IO in your judgment. I think that people who have PTSD or any anxiety disorder, **_what we are talking about is fear. A heightened level of fear. Whether we call it post-traumatic stress or psychological denial or normal stress, whatever it is, intense fear of what is going to happen_**. The suspicion that he had towards the IO in particular borders on sort of paranoia a bit more than normal suspicion than he would have.
 
-\[emphasis added\]
+> \[emphasis added\]
 
 165    I accept that Dr Sarkar was referring to Criterion D2 and D4 in the above excerpt.
 
 166    In its submissions, the Defence also relied on the following observations recorded in Dr Sarkar’s report:[^130]
 
-(a)     Ilechukwu saw his life leaving him.
+> (a)     Ilechukwu saw his life leaving him.
 
-(b)     Ilechukwu was colder than he had ever been before in his life.
+> (b)     Ilechukwu was colder than he had ever been before in his life.
 
-(c)     Ilechukwu could not think.
+> (c)     Ilechukwu could not think.
 
-(d)     Ilechukwu could not sleep.
+> (d)     Ilechukwu could not sleep.
 
-(e)     Ilechukwu felt _egwu_, or intense fear.
+> (e)     Ilechukwu felt _egwu_, or intense fear.
 
-(f)     Ilechukwu felt inhuman.
+> (f)     Ilechukwu felt inhuman.
 
 167    It is necessary to closely examine Dr Sarkar’s observations in order to determine whether they truly support the Defence’s submissions. I reproduce the relevant excerpts from Dr Sarkar’s report in their entirety:
 
-43.    When asked what he meant by the term ‘lost’ he said ‘I was very frightened. I was in shock. Even the CNB officers who saw me outside after this asked what is wrong and said I should trust the legal system as Singapore has a very fair system of justice.’ He said he felt really weak, and was very hungry, his last meal being over a day and half earlier. He said he just ‘lie down on floor’.
+> 43.    When asked what he meant by the term ‘lost’ he said ‘I was very frightened. I was in shock. Even the CNB officers who saw me outside after this asked what is wrong and said I should trust the legal system as Singapore has a very fair system of justice.’ He said he felt really weak, and was very hungry, his last meal being over a day and half earlier. He said he just ‘lie down on floor’.
 
-44.    He said over the following few days he could not think ‘like a human’, which he clarified meant he could not think logically. He said ‘For seven days they kept me. It was so cold. I have never shivered so much in my life. I lie on the floor and saw my life leaving me. I was dying’. When asked what he meant by it, he said he felt he was out of his body looking at himself lying on the floor and feeling that his ‘life was leaving me’.
+> 44.    He said over the following few days he could not think ‘like a human’, which he clarified meant he could not think logically. He said ‘For seven days they kept me. It was so cold. I have never shivered so much in my life. I lie on the floor and saw my life leaving me. I was dying’. When asked what he meant by it, he said he felt he was out of his body looking at himself lying on the floor and feeling that his ‘life was leaving me’.
 
-45.    He said during the next few days the only contact he had with the outside world was ‘when they came to do spot-checks and to ask me to sign if I did not want to eat. I did not eat much at all’, he said…They say the temperature is fixed. They could not give me blankets when I asked.
+> 45.    He said during the next few days the only contact he had with the outside world was ‘when they came to do spot-checks and to ask me to sign if I did not want to eat. I did not eat much at all’, he said…They say the temperature is fixed. They could not give me blankets when I asked.
 
-46.    He said food, drinks and toilet breaks were provided and denied any coercion on part of interrogators. He claimed that he was in shock, had no appetite, and could not sleep because of the cold and ‘Awu’ (an Igbo word that the interpreter said means intense fear). He described himself to be ‘not feeling like a human’.
+> 46.    He said food, drinks and toilet breaks were provided and denied any coercion on part of interrogators. He claimed that he was in shock, had no appetite, and could not sleep because of the cold and ‘Awu’ (an Igbo word that the interpreter said means intense fear). He described himself to be ‘not feeling like a human’.
 
-48.    He said for a week before he made the long statements he ruminated about death and dying. He claimed that the ‘main officer’ who was interrogating him had said ‘You are lying. You will hang’ and was convinced his life was in immediate danger. He said that he therefore ‘lied a lot’ as he did not wish to die …
+> 48.    He said for a week before he made the long statements he ruminated about death and dying. He claimed that the ‘main officer’ who was interrogating him had said ‘You are lying. You will hang’ and was convinced his life was in immediate danger. He said that he therefore ‘lied a lot’ as he did not wish to die …
 
-49.    …I could not link black luggage and Maria with 2 packets of drugs and Hamida. My mind could not think.
+> 49.    …I could not link black luggage and Maria with 2 packets of drugs and Hamida. My mind could not think.
 
-51.    Whilst describing this period in custody, he often had a dazed staring look, eyes fixed to a point on the wall, with no blinking, and occasional tears streaming down, shallow breath which rapid and audible. He sat transfixed and gently kept shaking his head. Then he sobbed loudly.
+> 51.    Whilst describing this period in custody, he often had a dazed staring look, eyes fixed to a point on the wall, with no blinking, and occasional tears streaming down, shallow breath which rapid and audible. He sat transfixed and gently kept shaking his head. Then he sobbed loudly.
 
 168    From the above, I accept that Dr Sarkar was suggesting that Ilechukwu was suffering from Criterion B4, D2 and D4 symptoms at the time when the Long Statements were recorded during his remand despite the fact that the observations were not explicitly linked to these symptoms.
 
@@ -902,17 +920,17 @@ And some of the reasons that he gives almost borders, as I said earlier, not so 
 
 170    The Defence cited Ilechukwu’s testimony at trial in CC 32 of 2014 as further supporting Dr Sarkar’s opinion. Ilechukwu stated the following in the trial of 2014:[^131]
 
-(a)     That he felt like “dying there” when he was in Cantonment for one week.
+> (a)     That he felt like “dying there” when he was in Cantonment for one week.
 
-(b)     That he saw his “life going out from my hand”.
+> (b)     That he saw his “life going out from my hand”.
 
-(c)     That he was “like dying” because his body was “blocked already”.
+> (c)     That he was “like dying” because his body was “blocked already”.
 
-(d)     That the IO “don’t want to tell me exactly…how this drug have a part to play with me”.
+> (d)     That the IO “don’t want to tell me exactly…how this drug have a part to play with me”.
 
-(e)     That the IO “don’t want me to know – to know the truth because he only lay his foundation on lies”.
+> (e)     That the IO “don’t want me to know – to know the truth because he only lay his foundation on lies”.
 
-(f)     That he had “no knowledge of what \[the IO was\] saying, I only follow him what I know about it, I say, “Yes, I know this”” and “I would say ‘no’ to him because my life is in danger”.
+> (f)     That he had “no knowledge of what \[the IO was\] saying, I only follow him what I know about it, I say, “Yes, I know this”” and “I would say ‘no’ to him because my life is in danger”.
 
 171    The Prosecution disputed that Ilechukwu suffered from Criterion D2, D4 or B4 symptoms.
 
@@ -926,11 +944,11 @@ And some of the reasons that he gives almost borders, as I said earlier, not so 
 
 174    I did not agree with the Prosecution that Dr Sarkar’s evidence showed unequivocally that he believed that Ilechukwu alleged paranoia stemmed solely from Ilechukwu’s supposed abnormal personality. During the Remitted Hearing, Dr Sarkar also referred to Ilechukwu’s paranoia in the context of Criterion D3 (distorted cognition):[^134]
 
-Another criteria is persistent distorted cognition, so thinking about the cause or consequences of the traumatic event that led to the individual to blame himself or others. Now, we know from his Wukari incident that he has persistently blamed the Hausas and Muslims and kept his distance from them apart from when he has to do business with them. These are all sort of impersonal relationships that is necessary and as a tradesman you cannot avoid engaging in that kind of thing.
+> Another criteria is persistent distorted cognition, so thinking about the cause or consequences of the traumatic event that led to the individual to blame himself or others. Now, we know from his Wukari incident that he has persistently blamed the Hausas and Muslims and kept his distance from them apart from when he has to do business with them. These are all sort of impersonal relationships that is necessary and as a tradesman you cannot avoid engaging in that kind of thing.
 
-**Which also know from his arrest in 2011 that his view of the investigating officer Mr Deng is extremely negative and I will provide evidence during the course of these proceedings to show that his fear and dislike for this gentleman borders on almost the delusional. He is so paranoid about what the investigating officer represented to him during the entire process of interrogation. That is** **distorted cognition** **.**
+> **Which also know from his arrest in 2011 that his view of the investigating officer Mr Deng is extremely negative and I will provide evidence during the course of these proceedings to show that his fear and dislike for this gentleman borders on almost the delusional. He is so paranoid about what the investigating officer represented to him during the entire process of interrogation. That is** **distorted cognition** **.**
 
-\[emphasis added\]
+> \[emphasis added\]
 
 175    Accordingly, I find that there was evidence to support a finding that Ilechukwu was suffering from the Criterion D2 symptom of “persistent and negative belief about others” when he was remanded in Cantonment.
 
@@ -950,29 +968,29 @@ Another criteria is persistent distorted cognition, so thinking about the cause 
 
 181    The Defence particularised the effects of the PTSS on Ilechukwu during the different periods of time:[^138]
 
-(a)     During the recording of the Pocketbook Statement, Ilechukwu was suffering from intense psychological distress which caused him to adopt an overly defensive posture and lie to deny everything that was not in his possession.
+> (a)     During the recording of the Pocketbook Statement, Ilechukwu was suffering from intense psychological distress which caused him to adopt an overly defensive posture and lie to deny everything that was not in his possession.
 
-(b)     During the recording of the Cautioned Statement, Ilechukwu’s PTSS similarly caused him to adopt an overly defensive posture and lie to deny everything that was not in his possession.
+> (b)     During the recording of the Cautioned Statement, Ilechukwu’s PTSS similarly caused him to adopt an overly defensive posture and lie to deny everything that was not in his possession.
 
-(c)     During the recording of the Long Statements, Ilechukwu’s PTSS caused him to develop a persistent paranoia of the Investigating Officer which, in turn, caused him to consciously choose to maintain his previous lies in a misguided attempt to “outwit” the system and save himself.
+> (c)     During the recording of the Long Statements, Ilechukwu’s PTSS caused him to develop a persistent paranoia of the Investigating Officer which, in turn, caused him to consciously choose to maintain his previous lies in a misguided attempt to “outwit” the system and save himself.
 
 182    From the foregoing, I am satisfied that there is sufficient evidence to support a finding that Ilechukwu was suffering from “intense psychological distress” (Criterion B4) during the recording of the Pocketbook Statement, “dissociative reactions” (Criterion B3) when the Cautioned Statement was recorded; and “intense psychological distress” (Criterion B4), “persistent and negative beliefs about others” (Criterion D2) and a “persistent negative emotional state” (Criterion D4) symptoms during the period of his remand in Cantonment. The further findings I have to make are:
 
-(a)     Whether the symptoms “intense psychological distress” caused him to adopt an overly defensive posture, and in turn lie when the Pocketbook Statement was recorded.
+> (a)     Whether the symptoms “intense psychological distress” caused him to adopt an overly defensive posture, and in turn lie when the Pocketbook Statement was recorded.
 
-(b)     Whether the “dissociation symptoms” caused him to adopt an overly defensive posture during the recording of the Cautioned Statement and lie to deny everything that was not in his possession.
+> (b)     Whether the “dissociation symptoms” caused him to adopt an overly defensive posture during the recording of the Cautioned Statement and lie to deny everything that was not in his possession.
 
-(c)     Whether “intense psychological distress”, “persistent and negative beliefs” and a “persistent negative emotional state” caused him to develop persistent paranoia of the Investigating Officer which in turn caused him to consciously maintain his previous lies when the Long Statements were recorded.
+> (c)     Whether “intense psychological distress”, “persistent and negative beliefs” and a “persistent negative emotional state” caused him to develop persistent paranoia of the Investigating Officer which in turn caused him to consciously maintain his previous lies when the Long Statements were recorded.
 
 183    The Prosecution raised the following objections against the Defence’s position that whatever PTSS suffered by Ilechukwu caused him to adopt an overly defensive posture:[^139]
 
-(a)     The Defence did not state how the PTSS led to the conscious decision of Ilechukwu to take an “overly defensive course”.
+> (a)     The Defence did not state how the PTSS led to the conscious decision of Ilechukwu to take an “overly defensive course”.
 
-(b)     It is not the position of any of the Defence experts that these PTSS had such a connection with Ilechukwu’s lies to the CNB.
+> (b)     It is not the position of any of the Defence experts that these PTSS had such a connection with Ilechukwu’s lies to the CNB.
 
-(c)     The Defence’s case that Ilechukwu had lied out of “fear and stress” in order to save himself, _etc_. had already been rejected by the Court of Appeal. In this light, it had been stated by the CA that “\[t\]o suggest that the \[Ilechukwu\] was justified to lie as a defensive move would be to turn reason and logic on its head” (_CA (Conviction)_ at \[61\]).
+> (c)     The Defence’s case that Ilechukwu had lied out of “fear and stress” in order to save himself, _etc_. had already been rejected by the Court of Appeal. In this light, it had been stated by the CA that “\[t\]o suggest that the \[Ilechukwu\] was justified to lie as a defensive move would be to turn reason and logic on its head” (_CA (Conviction)_ at \[61\]).
 
-(d)     The Defence’s case, at its heart, is simply that fear and stress caused Ilechukwu to choose to lie in order to save himself. It is unclear why such fear and stress should be considered “PTSS”, as opposed to normal human reactions to the situation in question.
+> (d)     The Defence’s case, at its heart, is simply that fear and stress caused Ilechukwu to choose to lie in order to save himself. It is unclear why such fear and stress should be considered “PTSS”, as opposed to normal human reactions to the situation in question.
 
 184    First, I do not find it fatal to the Defence’s case that the Defence experts had not stated how _exactly_ the PTSS led to Ilechukwu adopting an “overly defensive course”. Secondly, I disagree that it was not the position of any of the expert witnesses’ that these PTSS had such a connection with the lies to the CNB. Dr Sarkar was the expert who provided the connection between the PTSS suffered and Ilechukwu adopting an “overly defensive course”. Thirdly, I disagree with the Prosecution’s characterisation of the issue of Ilechukwu’s lies having already been rejected by the Court of Appeal. The point of the present proceedings is to hear new evidence and decide whether Ilechukwu’s PTSS could furnish an explanation – one backed by expert evidence – as to why he told lies. Lastly, I disagree with the Prosecution’s submission that it is simply “fear and stress” which caused Ilechukwu to choose to lie in order to save himself. The Defence’s case is based on _recognisable_ psychiatric symptoms, as contained in the DSM-5 PTSD Criteria, which caused Ilechukwu’s mind to act in certain ways, which in turn caused him to lie. From the perspective of a layman, it is understandable why one could characterise some of the PTSS symptoms, for _eg_, “intense psychological distress” and “persistent negative emotional state”, as akin to ordinary human reactions of “fear and stress”. However, I am of the view that the experts would have been capable of distinguishing ordinary human reactions of “fear and stress” from a diagnosis of specific PTSS. This is what the experts in these proceedings are tasked to do.
 
@@ -984,13 +1002,13 @@ Another criteria is persistent distorted cognition, so thinking about the cause 
 
 187    The Pocketbook Statement reads as follows:[^140]
 
-Q.When you arrive at airport in Singapore, how many luggage did you bring?
+> Q.When you arrive at airport in Singapore, how many luggage did you bring?
 
-A:One.
+> A:One.
 
-Q:Is that the luggage? (Recorder’s note: accused was pointed to a black bag on the floor in the room)
+> Q:Is that the luggage? (Recorder’s note: accused was pointed to a black bag on the floor in the room)
 
-A:Yes.
+> A:Yes.
 
 188    In my view, the Defence had failed to spell out with sufficient clarity how the “intense psychological distress” experienced by Ilechukwu at the time of the recording of the Pocketbook Statement caused him to overestimate the threat to his life, which in turn caused him to lie. In light of this, I am not prepared to make this finding. Flowing from this, I also make no finding on whether the “intense psychological distress” suffered by Ilechukwu indirectly caused him to lie.
 
@@ -1000,7 +1018,7 @@ A:Yes.
 
 190    The effects that “dissociation” had on Ilechukwu were stated by Dr Sarkar in the following manner:[^141]
 
-…I would submit to the court that his inability to associate the bag, the black luggage bag with two packets of drugs that were concealed within and his inability to associate Hamidah the co-accused with Maria, the person as she represented herself to him, represents this inability to remember. And immediately after arrest and the caution statement thereafter, I would submit is a manifestation of a dissociative phenomenon where he is so focused on protecting himself and getting retraumatised about his memory of the past …
+> …I would submit to the court that his inability to associate the bag, the black luggage bag with two packets of drugs that were concealed within and his inability to associate Hamidah the co-accused with Maria, the person as she represented herself to him, represents this inability to remember. And immediately after arrest and the caution statement thereafter, I would submit is a manifestation of a dissociative phenomenon where he is so focused on protecting himself and getting retraumatised about his memory of the past …
 
 191    Thus, the primary effect of “dissociation”, as stated by Dr Sarkar, is an “inability to remember” and a “focus on protecting” oneself and “\[avoiding\] getting re-traumatised about” past traumatic memories.
 
@@ -1012,23 +1030,23 @@ A:Yes.
 
 194    I have made findings that Ilechukwu suffered from “intense psychological distress”, “persistent and negative belief about others” and a “persistent negative emotional state” during the recording of the Long Statements (see above at \[163\] – \[178\]). The issue is whether these specified PTSS caused him to develop “persistent paranoia” of the Investigating Officer which in turn caused him to consciously maintain his previous lies. The following excerpts from Dr Sarkar’s testimony reveal in greater detail the nature of the “persistent paranoia” that Ilechukwu had towards the Investigating Officer:[^142]
 
-So his entire paranoia focuses on Investigating Officer Deng rather than the whole group of CNB officers who arrested him, because he also had said to me, and I see that in his testimony as well, that there are other officers who approached him during his arrest and questioned why did he look so fearful after the charge was read out to him…
+> So his entire paranoia focuses on Investigating Officer Deng rather than the whole group of CNB officers who arrested him, because he also had said to me, and I see that in his testimony as well, that there are other officers who approached him during his arrest and questioned why did he look so fearful after the charge was read out to him…
 
-… and the long statement seven days later there was a very different motivation which was very specific to the investigating officer and \[Ilechukwu’s\] perception of the investigating officer actually playing him and setting him up in a kind of conspiratorial game where the conclusion had been waged right from the outset that he would be killed and the IO was just amassing evidence to justify the killing, and he believed that he was not told the truth at the beginning, because he said “The IO did not explain to me how the baggage and the drugs were linked” and so on and so forth, so because he believed that the IO had not been honest and upfront with him, he said he would not be honest and upfront with him. This is in his 2014 testimony.
+> … and the long statement seven days later there was a very different motivation which was very specific to the investigating officer and \[Ilechukwu’s\] perception of the investigating officer actually playing him and setting him up in a kind of conspiratorial game where the conclusion had been waged right from the outset that he would be killed and the IO was just amassing evidence to justify the killing, and he believed that he was not told the truth at the beginning, because he said “The IO did not explain to me how the baggage and the drugs were linked” and so on and so forth, so because he believed that the IO had not been honest and upfront with him, he said he would not be honest and upfront with him. This is in his 2014 testimony.
 
-And some of the reasons that he gives almost borders, as I said earlier, not so much psychosis but certainly paranoid…
+> And some of the reasons that he gives almost borders, as I said earlier, not so much psychosis but certainly paranoid…
 
-The suspicion that he had towards the IO in particular borders on sort of paranoia a bit more than normal suspicion that he would have.
+> The suspicion that he had towards the IO in particular borders on sort of paranoia a bit more than normal suspicion that he would have.
 
 195    From the above excerpt, Dr Sarkar appeared to be establishing the following:
 
-(a)     The Investigating Officer was “playing him” and “setting him up in a kind of conspiratorial game” where he was “amassing evidence to justify the killing”.
+> (a)     The Investigating Officer was “playing him” and “setting him up in a kind of conspiratorial game” where he was “amassing evidence to justify the killing”.
 
-(b)     The Investigating Officer did not explain how the Black Luggage and the drugs were linked.
+> (b)     The Investigating Officer did not explain how the Black Luggage and the drugs were linked.
 
-(c)     Some of the reasons provided by Ilechukwu on why he failed to be honest with the Investigating Officer borders on paranoia.
+> (c)     Some of the reasons provided by Ilechukwu on why he failed to be honest with the Investigating Officer borders on paranoia.
 
-(d)     The suspicion that Ilechukwu had towards the Investigating Officer was more than normal.
+> (d)     The suspicion that Ilechukwu had towards the Investigating Officer was more than normal.
 
 196    In my view, the above effects are justifiably linked to the criterion of a “persistent and negative belief about others”.
 
@@ -1036,9 +1054,9 @@ The suspicion that he had towards the IO in particular borders on sort of parano
 
 198    Having examined excerpts of Ilechukwu’s testimony in the 2014 trial, I agree with Dr Sarkar that there was some evidence which showed that Ilechukwu’s displayed “persistent paranoia” towards the Investigating Officer. For instance, Ilechukwu stated the following in the 2014 trial:[^143]
 
-Sir, if you are in my position, have been abandoned in a courtroom, you have nobody who care about you, what you can only – only thing you can hear is, “Your life is in danger, your life is going to be take away from you. Er, er, indeed you see that this is now playing. They are desperate to take away your life because someone who is – is not who is – didn’t care about your life – just is one shot, put you inside a courtroom, abandon you for one week” Make you like if – like ice-fish, you know. You think you 100% grab him, love him and tell him your heart, because he never come to know the truth. **If he come to know the truth, definitely he have to tell you the truth and he will never give you a torture for what you know; he didn’t know anything about it. He already tortured you for 1 week; he tortured my life, he tortured my brain, he tortured me in hunger, he tortured me every angle of my way, then he never even want me to know what – what – what – what again you wanted me to tell him.**
+> Sir, if you are in my position, have been abandoned in a courtroom, you have nobody who care about you, what you can only – only thing you can hear is, “Your life is in danger, your life is going to be take away from you. Er, er, indeed you see that this is now playing. They are desperate to take away your life because someone who is – is not who is – didn’t care about your life – just is one shot, put you inside a courtroom, abandon you for one week” Make you like if – like ice-fish, you know. You think you 100% grab him, love him and tell him your heart, because he never come to know the truth. **If he come to know the truth, definitely he have to tell you the truth and he will never give you a torture for what you know; he didn’t know anything about it. He already tortured you for 1 week; he tortured my life, he tortured my brain, he tortured me in hunger, he tortured me every angle of my way, then he never even want me to know what – what – what – what again you wanted me to tell him.**
 
-\[emphasis added\]
+> \[emphasis added\]
 
 199    I therefore agree with the Defence’s submission that Ilechukwu’s “persistent and negative belief about others” caused him to display a “persistent paranoia” towards the Investigating Officer. As no submission was made on how this “persistent paranoia” caused Ilechukwu to consciously maintain his previous lies, I make no finding on this point.
 
@@ -1054,15 +1072,15 @@ Sir, if you are in my position, have been abandoned in a courtroom, you have nob
 
 202    There is no substantial dispute on this issue. The typical effects of PTSD on a sufferer mirror the diagnostic features in the DSM-5 PTSD Criteria.[^144] The typical adult suffering from PTSD therefore manifests, for more than one month, the following effects or symptoms:
 
-(a)     One or more of the intrusion symptoms listed in Criterion B.
+> (a)     One or more of the intrusion symptoms listed in Criterion B.
 
-(b)     One or both of the avoidance symptoms listed in Criterion C.
+> (b)     One or both of the avoidance symptoms listed in Criterion C.
 
-(c)     Two or more of the negative alterations in cognitions and mood symptoms listed in Criterion D.
+> (c)     Two or more of the negative alterations in cognitions and mood symptoms listed in Criterion D.
 
-(d)     Two or more of the marked alterations in arousal and reactivity symptoms listed in Criterion E.
+> (d)     Two or more of the marked alterations in arousal and reactivity symptoms listed in Criterion E.
 
-(e)     Clinically significant distress or impairment in social, occupation, or other important areas of functioning.
+> (e)     Clinically significant distress or impairment in social, occupation, or other important areas of functioning.
 
 203    The full list of these symptoms are reproduced above at \[42\].
 

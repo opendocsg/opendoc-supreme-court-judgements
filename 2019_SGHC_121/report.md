@@ -67,15 +67,15 @@ Trusts – Accessory liability – Dishonest assistance
 
 21     Talks continued between Ms Chen and the first defendant. Eventually, the first defendant set out the terms of his proposal for a 50% stake in the plaintiff in an email to Ms Chen dated 4 December 2009:[^30]
 
-Personally, I will be the 50% shareholder together with you holding the rest of the registered shares in Innovative Corporation Pte Ltd.
+> Personally, I will be the 50% shareholder together with you holding the rest of the registered shares in Innovative Corporation Pte Ltd.
 
-Clydesbuilt Group will jointly with your Tianjin(Heping) undertake the construction and sucessful \[_sic_\] completion of the project.
+> Clydesbuilt Group will jointly with your Tianjin(Heping) undertake the construction and sucessful \[_sic_\] completion of the project.
 
-In other words, we(including you and me and our respective Singapore companies and staff will jointly develop, construct, supervise, finance, including banking facilities, complying with all Govt. requirements, marketing for sales and the project etc till the successful completionof \[_sic_\] the proposed development.)
+> In other words, we(including you and me and our respective Singapore companies and staff will jointly develop, construct, supervise, finance, including banking facilities, complying with all Govt. requirements, marketing for sales and the project etc till the successful completionof \[_sic_\] the proposed development.)
 
-ie. Making sure A-Z of the project is Professional executed to the satisfaction of all parties concerned…. including the end purchasers and ensuring “tip top” quality too.
+> ie. Making sure A-Z of the project is Professional executed to the satisfaction of all parties concerned…. including the end purchasers and ensuring “tip top” quality too.
 
-\[emphasis in original\]
+> \[emphasis in original\]
 
 22     Ms Chen agreed to his proposal. She believed that he would a “valuable partner”.[^31] Things then moved quickly. The first defendant advised that the plaintiff sign a more comprehensive agreement than the Joint Venture Agreement and instructed his lawyer, Ms Maria Anne Ng (“Ms Ng”), to assist with the documentation.[^32] Ms Ng sent a revised draft of the Joint Venture Agreement (“revised JVA”) to the first defendant and Ms Chen.[^33] Ms Ng also prepared a letter of authority for THC to expressly authorise the first defendant to deal with the plaintiff as a “joint venture partner” on a 50% basis.[^34] This was executed by Mr Chen Xin on behalf of THC.
 
@@ -113,13 +113,13 @@ ie. Making sure A-Z of the project is Professional executed to the satisfaction 
 
 38     On 7 October 2010, the defendants, Clydesbuilt Investment Pte Ltd (in which the first defendant held 95% of its shareholding) and FYTA entered into a joint venture agreement.[^59] In summary, the arrangement between the parties was as follows.
 
-(a)     The second defendant had a paid-up share capital of S$1 million, which was provided by its sole shareholder, Clydesbuilt Investment Pte Ltd. Representatives of FYTA were issued 1,000,000 preference shares at a par value of S$0.01 each, totalling the amount of S$10,000.
+> (a)     The second defendant had a paid-up share capital of S$1 million, which was provided by its sole shareholder, Clydesbuilt Investment Pte Ltd. Representatives of FYTA were issued 1,000,000 preference shares at a par value of S$0.01 each, totalling the amount of S$10,000.
 
-(b)     At the time of its incorporation, the first defendant and his brother were appointed to the board of directors of the second defendant. On 20 October 2010, four more directors were appointed – the first defendant’s sister, and three representatives from FYTA, including Mr Chan and Mr Leow.
+> (b)     At the time of its incorporation, the first defendant and his brother were appointed to the board of directors of the second defendant. On 20 October 2010, four more directors were appointed – the first defendant’s sister, and three representatives from FYTA, including Mr Chan and Mr Leow.
 
-(c)     FYTA was entitled to 25 of the 82 residential units that would be built, while Clydesbuilt Investment Pte Ltd was entitled to 57 units.
+> (c)     FYTA was entitled to 25 of the 82 residential units that would be built, while Clydesbuilt Investment Pte Ltd was entitled to 57 units.
 
-(d)     On 20 October 2010, pursuant to a sale and purchase agreement, the second defendant acquired from the trustees of FYTA the land on which the residential units would be built. The purchase price was S$70 million, and it would be paid by setting off against FYTA’s share of the development costs for the Project.
+> (d)     On 20 October 2010, pursuant to a sale and purchase agreement, the second defendant acquired from the trustees of FYTA the land on which the residential units would be built. The purchase price was S$70 million, and it would be paid by setting off against FYTA’s share of the development costs for the Project.
 
 39     The Project was completed sometime in 2014. Subsequently, a dispute arose between the parties to this joint venture. Legal proceedings were commenced by FYTA in 2017 against the two defendants and Clydesbuilt Investment Pte Ltd but were then later withdrawn. There was presumably some form of settlement reached.
 
@@ -161,17 +161,17 @@ ie. Making sure A-Z of the project is Professional executed to the satisfaction 
 
 55     The plaintiff’s claims for breaches of fiduciary duties, inducement of breach of contract, breach of the profit-sharing agreement, and accessory liability on the part of the second defendant, as well as the defences raised, throw up a number of issues to be decided, namely:
 
-(a)     when the first defendant resigned as a director of the plaintiff;
+> (a)     when the first defendant resigned as a director of the plaintiff;
 
-(b)     whether the first defendant breached his fiduciary duties as a director to the plaintiff;
+> (b)     whether the first defendant breached his fiduciary duties as a director to the plaintiff;
 
-(c)     whether there was a binding contract between the plaintiff and FYTA in relation to the development of the Project, and whether the first defendant had induced FYTA to breach this contract;
+> (c)     whether there was a binding contract between the plaintiff and FYTA in relation to the development of the Project, and whether the first defendant had induced FYTA to breach this contract;
 
-(d)     whether the plaintiff has proven that the existence of the profit-sharing agreement;
+> (d)     whether the plaintiff has proven that the existence of the profit-sharing agreement;
 
-(e)     whether there was knowing receipt of the plaintiff’s property and/or dishonest assistance by the second defendant; and
+> (e)     whether there was knowing receipt of the plaintiff’s property and/or dishonest assistance by the second defendant; and
 
-(f)     the appropriate remedies against the defendants if any of the plaintiff’s claims are made out.
+> (f)     the appropriate remedies against the defendants if any of the plaintiff’s claims are made out.
 
 56     The issues at (a) to (d) relate the plaintiff’s claims against the first defendant, while (e) relates to the second defendant. I will deal with these issues in turn.
 
@@ -189,11 +189,11 @@ ie. Making sure A-Z of the project is Professional executed to the satisfaction 
 
 62     It also bears mentioning that the first defendant’s account of when he resigned has varied throughout the proceedings:
 
-(a)     His solicitor’s letter dated 3 January 2013 stated that the first defendant tendered his resignation in August 2010.[^96]
+> (a)     His solicitor’s letter dated 3 January 2013 stated that the first defendant tendered his resignation in August 2010.[^96]
 
-(b)     In his defence dated 19 May 2016, the pleaded case was that the first defendant resigned “sometime in or around late March or early April 2010”.[^97]
+> (b)     In his defence dated 19 May 2016, the pleaded case was that the first defendant resigned “sometime in or around late March or early April 2010”.[^97]
 
-(c)     During cross-examination, he said that the date of resignation “should be early March”.[^98]
+> (c)     During cross-examination, he said that the date of resignation “should be early March”.[^98]
 
 63     These discrepancies raise doubts as to his credibility. On the one hand, Ms Chen was able to recall, with some detail, the circumstances in which the first defendant signed his resignation letter in August 2010.[^99] Her evidence was that she did not meet the first defendant at his house over coffee or tea, which is where and how they would usually meet to discuss things. Instead, she was sitting in her car while the first defendant signed the letter on the bonnet of her car. On the other hand, however, when pressed about the details concerning his letter of resignation, the first defendant claimed that his memory was “not so good”.[^100]
 
@@ -217,11 +217,11 @@ ie. Making sure A-Z of the project is Professional executed to the satisfaction 
 
 72     I turn now to whether there was a breach of these duties. A director is not allowed to obtain for himself any property or business advantage which “properly belongs to his company or for which it has been negotiating” (Tan Cheng Han _et al_, _Walter Woon on Company Law_ (Sweet & Maxwell Ltd, 3rd Ed, 2009) (“_Walter Woon_”) at \[8.58\]). This duty is a confluence of the rules that a director must not place himself in a position where his personal interests would conflict with his duty to the company and that a director must not abuse his position to make an unauthorised profit. This fiduciary obligation of loyalty is an inflexible one that persists even after the director’s resignation. A former director would be in breach of his duties to a company in respect of his resigning to procure a corporate opportunity of the company, if three conditions are satisfied, as explained by the Supreme Court of Canada in the oft-cited _Canadian Aero Service Ltd v O’Malley_ (1973) 40 DLR (3d) 371 at 382 (“_Canadian Aero Service_”):
 
-(a)     first, there must be a “maturing business opportunity”;
+> (a)     first, there must be a “maturing business opportunity”;
 
-(b)     secondly, the company must have been “actively pursuing” that opportunity; and
+> (b)     secondly, the company must have been “actively pursuing” that opportunity; and
 
-(c)     thirdly, the director’s resignation may “fairly be said to have been prompted or influenced by a wish to acquire for himself” that opportunity.
+> (c)     thirdly, the director’s resignation may “fairly be said to have been prompted or influenced by a wish to acquire for himself” that opportunity.
 
 The conditions laid in _Canadian Aero Service_ have been accepted in a number of English and local decisions, including by the Court of Appeal in _Tokuhon (Pte) Ltd v Seow Kang Hong and others_ <span class="citation">\[2003\] 4 SLR(R) 414</span> at \[50\] and by Judith Prakash J, as she then was, in _Personal Automation Mart Pte Ltd v Tan Swe Sang_ <span class="citation">\[2000\] SGHC 55</span> at \[56\].
 
@@ -265,9 +265,9 @@ The conditions laid in _Canadian Aero Service_ have been accepted in a number of
 
 89     Comparatively, it is clear that the first defendant’s resignation was driven by his desire to acquire the Project as one can see from his answers during cross-examination, for example:[^111]
 
-Q:… you wanted to resign because you knew that as a director of Innovative you shouldn’t be bidding for the project with Clydesbuilt?
+> Q:… you wanted to resign because you knew that as a director of Innovative you shouldn’t be bidding for the project with Clydesbuilt?
 
-A:Correct, because that’s what you call fiduciary duty, and also conflict of interest…
+> A:Correct, because that’s what you call fiduciary duty, and also conflict of interest…
 
 90     Not only is the motivation for the first defendant’s resignation clear, it is also quite apparent from the evidence of the defendants’ own witnesses that the first defendant was already actively pursuing the Project for himself by late February 2010, even before he resigned as a director of the plaintiff. Mr Leow gave evidence, which I accept, that the first defendant called him barely two days after the lunch on 24 February 2010 to declare his interest to bid for the role as developer of the Project.[^112] Following quickly from that, the first defendant volunteered his attendance at the URA meeting with Mr Leow on 2 March 2010 to assist in getting the PP for the Project extended by another six months. The evidence of the first defendant’s architect, Mr Ho, another witness called by the defendants, was that the first defendant was effectively being presented to the URA as the new developer for the Project. Hence, there can be little doubt that the first defendant’s plan of action to take over this business opportunity was already being executed even before he attempted to resign, on his own evidence, in early March 2010.
 
@@ -305,11 +305,11 @@ A:Correct, because that’s what you call fiduciary duty, and also conflict of i
 
 105    The elements for establishing this tort are as follows (_Tribune Investment Trust Inc v Soosan Trading Co Ltd_ <span class="citation">\[2000\] 2 SLR(R) 407</span> at \[17\]):
 
-(a)     the procurer must have acted with the requisite knowledge of the existence of the contract;
+> (a)     the procurer must have acted with the requisite knowledge of the existence of the contract;
 
-(b)     the procurer had the intention, determined objectively, to interfere with the performance of the contract; and
+> (b)     the procurer had the intention, determined objectively, to interfere with the performance of the contract; and
 
-(c)     the contract in question must be shown to be a valid one.
+> (c)     the contract in question must be shown to be a valid one.
 
 106    I should add at this juncture that the first defendant’s liability for breach of his fiduciary duties as a director of the plaintiff is not contingent on the legal enforceability of any contract between FYTA and the plaintiff. It is clear that the requirement that the plaintiff must have lost a maturing business opportunity does not require the plaintiff to show that it had a legally enforceable agreement for it to become the developer for the Project. It is enough that the plaintiff was negotiating a maturing business opportunity (_Canadian Aero Service_ at 382).
 
@@ -343,21 +343,21 @@ A:Correct, because that’s what you call fiduciary duty, and also conflict of i
 
 119    A claim for knowing receipt concerns the liability of a person who has received assets, which is subject to a trust, with the requisite level of awareness or knowledge that the assets in question are trust assets. Such a person would be a constructive trustee of the assets he has received and would be under a duty to immediately restore the assets to the beneficiary. The well-known requirements of knowing receipt are threefold and were set out by the Court of Appeal in _George Raymond Zage III and another v Ho Chi Kwong and another_ <span class="citation">\[2010\] 2 SLR 589</span> at \[23\] (“_George Raymond Zage III_”):
 
-(a)     there is a disposal of the plaintiff’s assets in breach of fiduciary duty;
+> (a)     there is a disposal of the plaintiff’s assets in breach of fiduciary duty;
 
-(b)     there is beneficial receipt by the defendant of assets which are traceable as representing the assets of the plaintiff; and
+> (b)     there is beneficial receipt by the defendant of assets which are traceable as representing the assets of the plaintiff; and
 
-(c)     there is knowledge that the assets received are traceable to a breach of fiduciary duty and this state of knowledge makes it unconscionable for the defendant to retain the benefit of the receipt (endorsing the test in _Bank of Credit and Commerce International (Overseas) Ltd v Akindele_ \[2001\] Ch 437).
+> (c)     there is knowledge that the assets received are traceable to a breach of fiduciary duty and this state of knowledge makes it unconscionable for the defendant to retain the benefit of the receipt (endorsing the test in _Bank of Credit and Commerce International (Overseas) Ltd v Akindele_ \[2001\] Ch 437).
 
 120    I first deal with the question of whether there has been a disposal of the plaintiff’s assets in breach of fiduciary duty. In this regard, it has been held by Lawrence Collins J in _CMS Dolphin Ltd v Simonet_ \[2001\] 2 BCLC 704 at \[96\]) (“_CMS Dolphin_”) that:
 
-In my judgment the underlying basis of the liability of a director who exploits after his resignation a maturing business opportunity of the company is that _the opportunity is to be treated as if it were property of the company in relation to which the director had fiduciary duties. By seeking to exploit the opportunity after resignation he is appropriating for himself that property._ He is just as accountable as a trustee who retires without properly accounting for trust property. In the case of a director he becomes a constructive trustee of the fruits of his abuse of the company’s property, which he has acquired in circumstances where he knowingly had a conflict of interest, and exploited it by resigning from the company. \[emphasis added\]
+> In my judgment the underlying basis of the liability of a director who exploits after his resignation a maturing business opportunity of the company is that _the opportunity is to be treated as if it were property of the company in relation to which the director had fiduciary duties. By seeking to exploit the opportunity after resignation he is appropriating for himself that property._ He is just as accountable as a trustee who retires without properly accounting for trust property. In the case of a director he becomes a constructive trustee of the fruits of his abuse of the company’s property, which he has acquired in circumstances where he knowingly had a conflict of interest, and exploited it by resigning from the company. \[emphasis added\]
 
 121    The principle set out above in _CMS Dolphin_ has been endorsed by Woo Bih Li J in _Swiss Butchery Pte Ltd v Huber Ernst and others and another suit_ <span class="citation">\[2010\] 3 SLR 813</span> at \[11\] (“_Swiss Butchery Pte Ltd_”). There can be no doubt as to the correctness of this principle insofar as it describes the basis of why the errant director is liable to account for trust assets. The question, though, is whether the passage from _CMS Dolphin_ quoted above goes so far as to decide that maturing business opportunities _are the company’s assets_ to determine if there is accessory liability in knowing receipt.
 
 122    The issue of whether maturing business opportunities would be regarded as trust assets for the purposes of knowing receipt was considered by Lewison J in _Ultraframe (UK) Ltd v Fielding & others_ \[2005\] EWHC 1638 (Ch) (“_Ultraframe_”). The judge there found that a corporate opportunity “is to be treated as the property of the company (in the sense of an intangible asset) and hence is treated for this purpose as trust property” (at \[1355(iii)\]). At \[1491\] of _Ultraframe_, the judge stated:
 
-In _Satnam Investments Ltd v Dunlop Heywood_ \[1999\] 3 All ER 652 the Court of Appeal were prepared to assume that confidential information could count as trust property. Thus in the ‘corporate opportunity’ cases, a director who diverts a corporate opportunity away from the company and towards himself holds any resulting chose in action (e.g. a contract enabling him to exploit that opportunity) on trust for the company, provided that there is a sufficient nexus between the property acquired and the breach of duty. It is possible that the corporate opportunity itself may be regarded as trust property, in the sense of being an intangible asset of the company. Even then, there may be difficulties in tracing the information or opportunity into the resulting chose in action for the purposes of a proprietary remedy.
+> In _Satnam Investments Ltd v Dunlop Heywood_ \[1999\] 3 All ER 652 the Court of Appeal were prepared to assume that confidential information could count as trust property. Thus in the ‘corporate opportunity’ cases, a director who diverts a corporate opportunity away from the company and towards himself holds any resulting chose in action (e.g. a contract enabling him to exploit that opportunity) on trust for the company, provided that there is a sufficient nexus between the property acquired and the breach of duty. It is possible that the corporate opportunity itself may be regarded as trust property, in the sense of being an intangible asset of the company. Even then, there may be difficulties in tracing the information or opportunity into the resulting chose in action for the purposes of a proprietary remedy.
 
 123    Based on the principles set out above, in my judgment, although it was uncertain whether FYTA would ever appoint the plaintiff to be the developer of the Project, I am prepared to accept that this business opportunity was an asset of the plaintiff. The fact that there was no binding contract between the plaintiff and FYTA in relation to the development of the Project does not detract from this conclusion. The first defendant had fiduciary duties in respect of this opportunity. There was a disposal of this asset of the plaintiff’s in that the first defendant had appropriated the opportunity and tendered for the Project for himself, in breach of his fiduciary duty. He thus held the fruits of the appropriation of this asset on constructive trust for the plaintiff.
 
@@ -377,13 +377,13 @@ In _Satnam Investments Ltd v Dunlop Heywood_ \[1999\] 3 All ER 652 the Court of 
 
 130    I first considered whether there could have been any assistance by the second defendant. The first defendant successfully tendered for the Project, in breach of his director’s duties, in May 2010. However, the second defendant was only incorporated after the successful tender. What assistance then could the second defendant have rendered to the first defendant in the breach of his duties? This was addressed by Lord Millett in _Twinsectra Ltd v Yardley and others_ \[2002\] 2 All ER 377 at \[107\] where he set out the scope of liability under dishonest assistance:
 
-The cause of action is concerned with attributing liability for misdirected funds. Liability is not restricted to the person whose breach of trust or fiduciary duty caused their original diversion. His liability is strict. Nor is it limited to those who assist him in the original breach. It extends to everyone who consciously assists in the _continuing diversion_ of the money. \[emphasis added\]
+> The cause of action is concerned with attributing liability for misdirected funds. Liability is not restricted to the person whose breach of trust or fiduciary duty caused their original diversion. His liability is strict. Nor is it limited to those who assist him in the original breach. It extends to everyone who consciously assists in the _continuing diversion_ of the money. \[emphasis added\]
 
 131    I find that it is immaterial that the opportunity to participate as developer of the Project had already been lost by the plaintiff before the time of the second defendant’s incorporation. The fact remains that the second defendant assisted the first defendant in his breach of trust by subsequently carrying out the development of the Project, which was for the benefit of, amongst others, the first defendant. Put another way, it is with the second defendant’s assistance that the first defendant is able to enjoy the fruits of his appropriation of the plaintiff’s asset.
 
 132    Secondly, to show dishonesty, one would require a finding that the second defendant had (_George Raymond Zage III_ at \[22\]):
 
-such knowledge of the irregular shortcomings of the transaction that ordinary honest people would consider it to be a breach of standards of honest conduct if he failed to adequately query them.
+> such knowledge of the irregular shortcomings of the transaction that ordinary honest people would consider it to be a breach of standards of honest conduct if he failed to adequately query them.
 
 133    Besides incorporating the company, the first defendant was also one of the second defendant’s directors. Other directors included his brother and his daughter.[^134] The plaintiff had pleaded that the first defendant was the controlling mind and will of the second defendant.[^135] This was admitted by defendants in their defence.[^136] In the circumstances, it is appropriate that his knowledge of his breach of director’s duties and the consequences therein be imputed to the second defendant. I thus find that the second defendant clearly would have possessed actual knowledge of matters that made it dishonest for it to enter into the agreement in October 2010 with, amongst others, FYTA to develop the Project.
 
@@ -397,13 +397,13 @@ such knowledge of the irregular shortcomings of the transaction that ordinary ho
 
 137    In this regard, the observations of Belinda Ang Saw Ean J in _Dayco Products Singapore Pte Ltd (in liquidation) v Ong Cheng Aik_ <span class="citation">\[2004\] 4 SLR(R) 318</span> are apposite. After finding the defendant there had breached his fiduciary duty as a director by acting in conflict of interest, the judge went on to state at \[34\]:
 
-The liability to account arises from the fiduciary’s breach of duty. Having improperly profited or gained from his position, the defendant has to account to the plaintiff for the profits or gains he has obtained. It is no defence that the plaintiff was unlikely or unable to make the profits for which an account is to be taken. It also does not depend upon detriment to the plaintiff. Gibbs J in _Consul Development Pty Limited v DPC Estates Pty Limited_ (1975) 132 CLR 373 at 394 stated:
+> The liability to account arises from the fiduciary’s breach of duty. Having improperly profited or gained from his position, the defendant has to account to the plaintiff for the profits or gains he has obtained. It is no defence that the plaintiff was unlikely or unable to make the profits for which an account is to be taken. It also does not depend upon detriment to the plaintiff. Gibbs J in _Consul Development Pty Limited v DPC Estates Pty Limited_ (1975) 132 CLR 373 at 394 stated:
 
-Where the rule applies, the liability of the person in a fiduciary position does not depend on the fact that the person to whom the duty is owed has suffered an injury or loss.
+>> Where the rule applies, the liability of the person in a fiduciary position does not depend on the fact that the person to whom the duty is owed has suffered an injury or loss.
 
 138    For completeness, I make an observation on the plaintiff’s claim for a 50% share of the profit made by the first defendant as mentioned in its closing submissions. It seems to me that the plaintiff would be entitled to an account for _all_ the profits made by the first defendant in relation to the development of the Project. The purpose of a disgorgement of profits is not to compensate the plaintiff but to ensure that the fiduciary does not profit from his breach of duty (_United Pan-Europe Communications NV v Deutsche Bank AG_ \[2000\] 2 BCLC 461 at \[46\] – \[47\]). Relief by way of an account of profits “is measured by the gain made by the wrongdoer irrespective of whether the claimant has suffered a corresponding loss” (_Snell’s Equity_ at \[20-039\]). The fact that the plaintiff might receive an unexpected windfall is therefore immaterial. This was accepted by the Court of Appeal in _Mona Computer Systems (S) Pte Ltd v Singaravelu Murugan_ <span class="citation">\[2014\] 1 SLR 847</span> at \[17\] where Chao Hick Tin JA, as he then was, stated:
 
-… \[T\]he fiduciary should not be allowed to retain any of the profit derived from his breach of duty. A deduction for what the company would have had to pay the defendant had he dutifully secured the benefits for the company is out of place given the gains-based basis for disgorgement.
+> … \[T\]he fiduciary should not be allowed to retain any of the profit derived from his breach of duty. A deduction for what the company would have had to pay the defendant had he dutifully secured the benefits for the company is out of place given the gains-based basis for disgorgement.
 
 Applying this reasoning, the fact that the plaintiff would have shared half of its profits with the first defendant if it had successfully acquired the Project has no bearing on the relief claimable.
 
@@ -411,7 +411,7 @@ Applying this reasoning, the fact that the plaintiff would have shared half of i
 
 140    Given that I have made this order for an account of profits against the second defendant, I do not have to consider the vexed question of whether the account of profits by the first defendant should also encompass the profits of the second defendant. In _CMS Dolphin_, Lawrence Collins J had no trouble finding that the errant director was required to account for the profit made by the corporate vehicle that had been set up by him to exploit the business opportunity. It was stated at \[104\] of the judgment:
 
-Nor in my judgment does it make a difference whether the business is taken up by the corporate vehicle directly, or is first taken up by the directors and then transferred to a company. _Imperial Mercantile Credit Association v Coleman_ and _Cook v Deeks_ show that a director who places the benefit of the business opportunities in a partnership or a company will be liable for the whole profit, and also make it clear that a director who is the active agent in a breach of fiduciary duty cannot evade responsibility by transferring the benefit to others. I do not consider that the liability of the directors in _Cook v Deeks_ would have been in any way different if they had procured their new company to enter into the contract directly, rather than (as they did) enter into it themselves and then transfer the benefit of the contract to a new company.
+> Nor in my judgment does it make a difference whether the business is taken up by the corporate vehicle directly, or is first taken up by the directors and then transferred to a company. _Imperial Mercantile Credit Association v Coleman_ and _Cook v Deeks_ show that a director who places the benefit of the business opportunities in a partnership or a company will be liable for the whole profit, and also make it clear that a director who is the active agent in a breach of fiduciary duty cannot evade responsibility by transferring the benefit to others. I do not consider that the liability of the directors in _Cook v Deeks_ would have been in any way different if they had procured their new company to enter into the contract directly, rather than (as they did) enter into it themselves and then transfer the benefit of the contract to a new company.
 
 However, this portion of the judgment in _CMS Dolphin_ has been doubted in later decisions in England, such as in _Ultraframe_ at \[1550\] – \[1576\], where Lewison J appeared to prefer the orthodox view that a fiduciary should only be liable to account for his own gains, and not that of a third party company in which the fiduciary owns shares, save where it can be shown that the company is the alter ego of the fiduciary, where it might then be appropriate to pierce the corporate veil. Since parties have not made any submissions on this point, I will say no more about it.
 

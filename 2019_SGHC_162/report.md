@@ -21,7 +21,7 @@ Criminal Law – Statutory offences – Misuse of Drugs Act
 
 4       Mutaleb faced the different charge of abetment by conspiracy to import drugs into Singapore, under s 7 read with s 12 of the MDA and punishable under ss 33(1) or 33B of the MDA. The charge read as follows:
 
-That you … between 10 September 2015 and 11 September 2015, in Singapore, did abet by engaging in a conspiracy with one Mohd Zaini bin Zainutdin (FIN: \[xxx\]), one Mohd Noor Bin Ismail (FIN: \[xxx\]), one male known as “Apoi”, and others, to do a certain thing, _to wit_, to import into Singapore a Class A controlled drug listed in the First Schedule to the Misuse of Drugs Act (Cap 185, 2008 Rev Ed) (“MDA”), and in pursuance of that conspiracy and in order to the doing of that thing, on 11 September 2015 at about 10.54am at Tuas Checkpoint, Singapore, the said Mohd Zaini bin Zainutdin and Mohd Noor Bin Ismail did import into Singapore **not less than twelve (12) bundles containing 5,520.4 grams of granular/powdery substance which was analysed and found to contain not less than 212.57 grams of diamorphine**, without any authorisation under the MDA or the Regulations made thereunder, and you have thereby committed an offence under Section 7 read with Section 12 of the MDA, punishable under Section 33(1) of the MDA, or you may alternatively be liable to be punished under Section 33B of the MDA. \[emphasis in original\]
+> That you … between 10 September 2015 and 11 September 2015, in Singapore, did abet by engaging in a conspiracy with one Mohd Zaini bin Zainutdin (FIN: \[xxx\]), one Mohd Noor Bin Ismail (FIN: \[xxx\]), one male known as “Apoi”, and others, to do a certain thing, _to wit_, to import into Singapore a Class A controlled drug listed in the First Schedule to the Misuse of Drugs Act (Cap 185, 2008 Rev Ed) (“MDA”), and in pursuance of that conspiracy and in order to the doing of that thing, on 11 September 2015 at about 10.54am at Tuas Checkpoint, Singapore, the said Mohd Zaini bin Zainutdin and Mohd Noor Bin Ismail did import into Singapore **not less than twelve (12) bundles containing 5,520.4 grams of granular/powdery substance which was analysed and found to contain not less than 212.57 grams of diamorphine**, without any authorisation under the MDA or the Regulations made thereunder, and you have thereby committed an offence under Section 7 read with Section 12 of the MDA, punishable under Section 33(1) of the MDA, or you may alternatively be liable to be punished under Section 33B of the MDA. \[emphasis in original\]
 
 I convicted him of the charge after trial. As his actions were not limited to the transportation of drugs, he did not qualify for the alternative sentencing regime under s 33B of the MDA. I thus imposed the mandatory sentence of death on him.
 
@@ -65,21 +65,21 @@ I convicted him of the charge after trial. As his actions were not limited to th
 
 17     Section 12 of the MDA reads:
 
-Any person who abets the commission of or who attempts or does any act preparatory to, or in furtherance of, the commission of any offence under this Act shall be guilty of that offence and shall be liable on conviction to the punishment provided for that offence.
+> Any person who abets the commission of or who attempts or does any act preparatory to, or in furtherance of, the commission of any offence under this Act shall be guilty of that offence and shall be liable on conviction to the punishment provided for that offence.
 
 18     Abetment is not otherwise defined in the MDA. But the general understanding is that s 12 of the MDA imports the definition under the Penal Code. Section 2 of the Interpretation Act (Cap 1, 2002 Rev Ed) provides that, unless expressly specified, the word “abet” has the same meaning as in the Penal Code: see also _Govindarajulu Murali and another v Public Prosecutor_ <span class="citation">\[1994\] 2 SLR(R) 398</span> at \[43\] and \[44\].
 
 19     Section 107 of the Penal Code defines abetment. The subsection invoked was that of abetment by conspiracy, as defined in s 107(_b_):
 
-A person abets the doing of a thing who … engages with one or more other person or persons in any conspiracy for the doing of that thing, if an act or illegal omission takes place in pursuance of that conspiracy, and in order to the doing of that thing; …
+> A person abets the doing of a thing who … engages with one or more other person or persons in any conspiracy for the doing of that thing, if an act or illegal omission takes place in pursuance of that conspiracy, and in order to the doing of that thing; …
 
 20     Making out abetment of conspiracy required the Prosecution to prove the following (_Chai Chien Wei Kelvin v Public Prosecutor_ <span class="citation">\[1998\] 3 SLR(R) 619</span> (“_Kelvin Chai_”) at \[76\]):
 
-(a)     the person abetting must engage, with one or more other persons in a conspiracy;
+> (a)     the person abetting must engage, with one or more other persons in a conspiracy;
 
-(b)     the conspiracy must be for the doing of the thing abetted; and
+> (b)     the conspiracy must be for the doing of the thing abetted; and
 
-(c)     an act or illegal omission must take place in pursuance of the conspiracy in order to the doing of that thing.
+> (c)     an act or illegal omission must take place in pursuance of the conspiracy in order to the doing of that thing.
 
 Unlike criminal conspiracy, abetment by conspiracy requires some further act to be done pursuant to the conspiracy. There is, however, no need for the actual offence to be committed: _Chua Kian Kok v Public Prosecutor_ <span class="citation">\[1999\] 1 SLR(R) 826</span> (“_Chua Kian Kok_”) at \[51\]. I note that the definition of the elements set out in _Chua Kian Kok_ at \[48\] differed slightly from that in _Kelvin Chai_, but I did not consider the differences material.
 
@@ -97,11 +97,11 @@ Unlike criminal conspiracy, abetment by conspiracy requires some further act to 
 
 25     The specific evidence which the Prosecution relied upon was in the form of:
 
-(a)     a conversation between Mutaleb and Apoi about the delivery of drugs to Mutaleb, which Zaini overheard;
+> (a)     a conversation between Mutaleb and Apoi about the delivery of drugs to Mutaleb, which Zaini overheard;
 
-(b)     Mutaleb’s knowledge that Zaini was coming into Singapore to deliver drugs to him, as established by telephone records showing communications between them and the contents thereof; and
+> (b)     Mutaleb’s knowledge that Zaini was coming into Singapore to deliver drugs to him, as established by telephone records showing communications between them and the contents thereof; and
 
-(c)     the fact that at the time of his arrest, Mutaleb possessed a sum of money that closely matched the amount he was alleged to have agreed to pay Zaini for the drugs.
+> (c)     the fact that at the time of his arrest, Mutaleb possessed a sum of money that closely matched the amount he was alleged to have agreed to pay Zaini for the drugs.
 
 26     Before considering the circumstantial evidence in turn, I deal with the Defence’s arguments relating to the charge against Mutaleb, as framed by the Prosecution.
 
@@ -127,15 +127,15 @@ Unlike criminal conspiracy, abetment by conspiracy requires some further act to 
 
 34     This telephone call allegedly took place on 10 September 2015, when Zaini, Noor and Apoi were packing drugs for importation into Singapore. Zaini had largely heard what Apoi said but not what Mutaleb said. The Prosecution contended that Zaini was nevertheless clear in his statements that Mutaleb (whom he referred to as “Rafi”) was at the other end of the line, as he could recognise his voice. What was said in para 21 of the 19 September statement was:[^19]
 
-Later that night \[on 10 September 2015\], at about 9 plus at night, I was sitting next to Apoi when Apoi received a call on his phone. It was a Singapore number. Apoi picked up and addressed the person on the phone as ‘Abang.’ There is only one person who \[_sic_\] Apoi calls Abang from Singapore, and that is the old man that stays at Chai Chee. I also know him as Rafi. I know this man because I have delivered drugs to him with Erry and have brought him to Malaysia before. I am now shown a photo of a man in a yellow t-shirt. \[Zaini is shown a photograph of Mutaleb.\] This is Rafi, and the guy Apoi calls ‘Abang’. … I also recognised Rafi’s voice over the phone. I heard Apoi telling Rafi that the things will be delivered tomorrow morning, but did not say what time or anything about money. While he was still on the line with Rafi, Apoi turned to me and told me ‘Zaini, tomorrow around 7plus okay?’ I said okay. …
+> Later that night \[on 10 September 2015\], at about 9 plus at night, I was sitting next to Apoi when Apoi received a call on his phone. It was a Singapore number. Apoi picked up and addressed the person on the phone as ‘Abang.’ There is only one person who \[_sic_\] Apoi calls Abang from Singapore, and that is the old man that stays at Chai Chee. I also know him as Rafi. I know this man because I have delivered drugs to him with Erry and have brought him to Malaysia before. I am now shown a photo of a man in a yellow t-shirt. \[Zaini is shown a photograph of Mutaleb.\] This is Rafi, and the guy Apoi calls ‘Abang’. … I also recognised Rafi’s voice over the phone. I heard Apoi telling Rafi that the things will be delivered tomorrow morning, but did not say what time or anything about money. While he was still on the line with Rafi, Apoi turned to me and told me ‘Zaini, tomorrow around 7plus okay?’ I said okay. …
 
 To my mind, Zaini’s description was definitive that Mutaleb was at the other end of the telephone call with Apoi; he identified Mutaleb as “Abang” and also implicated him as being the recipient of the bundles of drugs that were to be delivered on 11 September 2015.
 
 35     Zaini confirmed this description as accurate in the 21 September statement.[^20] At paras 33 and 34 of this statement, he added:
 
-… Apoi received a call on his phone. … As I stated in paragraph 21 of my \[19 September\] statement, it was Rafi that called. Apoi picked up and addressed the person on the phone as ‘Abang.’ There is only one person who \[_sic_\] Apoi calls Abang from Singapore, and that is the old man that stays at Chai Chee. I also know him as Rafi. I know this man because I have delivered both heroin and ice to him and have even brought him into Johor before. …
+> … Apoi received a call on his phone. … As I stated in paragraph 21 of my \[19 September\] statement, it was Rafi that called. Apoi picked up and addressed the person on the phone as ‘Abang.’ There is only one person who \[_sic_\] Apoi calls Abang from Singapore, and that is the old man that stays at Chai Chee. I also know him as Rafi. I know this man because I have delivered both heroin and ice to him and have even brought him into Johor before. …
 
-Everything about paragraph 21 was true except for the timing of the call from Rafi. Apoi put the call from Rafi on loudspeaker so I could hear everything. Apoi was the one who called Rafi. Apoi then said the consignment will confirm be sent tomorrow \[_sic_\]. Rafi then said ‘Didn’t I already send an SMS to Zaini? There is some trouble here.’ Apoi then said the ‘things’ have already been taken, and cannot be returned. When he said ‘things’, he meant drug bundles. Rafi then asked ‘How much?’ Apoi replied ‘More than 10.’ Rafi then asked ‘How much more than 10?’ Apoi replied ‘About 12.’ Rafi said ‘I might not have enough money.’ Apoi said ‘Whatever you have, just give first.’ … I didn’t hear him mention the exact time \[of the delivery\]. But it was understood that we would reach around 7 or 8 plus in the morning instead. After this, they started discussing about money. …
+> Everything about paragraph 21 was true except for the timing of the call from Rafi. Apoi put the call from Rafi on loudspeaker so I could hear everything. Apoi was the one who called Rafi. Apoi then said the consignment will confirm be sent tomorrow \[_sic_\]. Rafi then said ‘Didn’t I already send an SMS to Zaini? There is some trouble here.’ Apoi then said the ‘things’ have already been taken, and cannot be returned. When he said ‘things’, he meant drug bundles. Rafi then asked ‘How much?’ Apoi replied ‘More than 10.’ Rafi then asked ‘How much more than 10?’ Apoi replied ‘About 12.’ Rafi said ‘I might not have enough money.’ Apoi said ‘Whatever you have, just give first.’ … I didn’t hear him mention the exact time \[of the delivery\]. But it was understood that we would reach around 7 or 8 plus in the morning instead. After this, they started discussing about money. …
 
 Zaini maintained in the 21 September statement that he was supposed to deliver the drugs to Mutaleb at Chai Chee: Apoi had told him to go directly to the location in Chai Chee where he had previously delivered drugs. There, Zaini was to call Mutaleb, who was supposed to meet him.[^21]
 
@@ -147,21 +147,487 @@ Zaini maintained in the 21 September statement that he was supposed to deliver t
 
 38     After Zaini was arrested on 11 September 2015, CNB officers monitored his mobile phone for incoming calls and recorded calls between Zaini and Apoi. It was submitted by the Defence that Zaini’s evidence at trial was that he asked Apoi to meet him in these calls, and that Apoi ultimately did not do so.[^24] Eventually, SSSgt Ika Zahary bin Kasmari (“SSSgt Ika”), who was recording Zaini’s telephone conversations at the time, instructed Zaini to make an outgoing call to Mutaleb.[^25] Three calls were made to Mutaleb in total.[^26] At one point in the first telephone call, the following exchange transpired, as translated from Malay into English:[^27]
 
-<table align="left" cellpadding="0" cellspacing="0" class="Judg-2" frame="none" pgwide="1"><colgroup><col width="25.44%"> <col width="74.56%"> </colgroup><tbody><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Mutaleb:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Who is that?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Zaini:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Who is this? Zaini, Zaini.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Mutaleb:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Oh Zaini. … Hey, where are you?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Zaini:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">I’m here at the casino.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Mutaleb:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Ah? At the casino, … Oh Allah, I thought you were here or what. I went back home straight yesterday, I haven’t slept, my friend said oh my gosh.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Zaini:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Is it? Now waiting for Apoi.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Mutaleb:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Hah?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Zaini:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Been here waiting for Apoi then he didn’t come you know.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Mutaleb:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Apoi?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">…</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">&nbsp;</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Mutaleb:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Which Apoi?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Zaini:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Apoi, Apoi , Apoi</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Mutaleb:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Aah</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Zaini:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Ok now Apoi didn’t come.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Mutaleb:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">What is it?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Zaini:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Are we going to meet Apoi straight away now or what?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Mutaleb:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Zai, didn’t you say the other day that my waiting is complete, right?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Zaini:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Yes, ok</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Mutaleb:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Today morning can’t make it, what about tomorrow morning then?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Zaini:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Now how?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Mutaleb:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Hah?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Zaini:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Now can?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Mutaleb:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Now?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Zaini:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Yes</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">…</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">&nbsp;</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Mutaleb:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Where are you now?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Zaini:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">I’m here at the casino.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">…</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">&nbsp;</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Mutaleb:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Ok ok ok I’ll wait for you now, [h]ow many are there altogether?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">…</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">&nbsp;</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Zaini:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">There are thirteen, right?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Mutaleb:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Thirteen?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Zaini:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Ha</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Mutaleb:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Ok you go and eat at the same place the other day. Now I come, I will go up, when I reach there, I will call, ok.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Zaini:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Ok, (inaudible) ok ok.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Mutaleb:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">I’ll pass you the full amount. I don’t want to owe any money, that will be troublesome.</p></td></tr></tbody></table>
+>   
+| 
+
+Mutaleb:
+
+ | 
+
+Who is that?
+
+ |
+| 
+
+Zaini:
+
+ | 
+
+Who is this? Zaini, Zaini.
+
+ |
+| 
+
+Mutaleb:
+
+ | 
+
+Oh Zaini. … Hey, where are you?
+
+ |
+| 
+
+Zaini:
+
+ | 
+
+I’m here at the casino.
+
+ |
+| 
+
+Mutaleb:
+
+ | 
+
+Ah? At the casino, … Oh Allah, I thought you were here or what. I went back home straight yesterday, I haven’t slept, my friend said oh my gosh.
+
+ |
+| 
+
+Zaini:
+
+ | 
+
+Is it? Now waiting for Apoi.
+
+ |
+| 
+
+Mutaleb:
+
+ | 
+
+Hah?
+
+ |
+| 
+
+Zaini:
+
+ | 
+
+Been here waiting for Apoi then he didn’t come you know.
+
+ |
+| 
+
+Mutaleb:
+
+ | 
+
+Apoi?
+
+ |
+| 
+
+…
+
+ | 
+
+ |
+| 
+
+Mutaleb:
+
+ | 
+
+Which Apoi?
+
+ |
+| 
+
+Zaini:
+
+ | 
+
+Apoi, Apoi , Apoi
+
+ |
+| 
+
+Mutaleb:
+
+ | 
+
+Aah
+
+ |
+| 
+
+Zaini:
+
+ | 
+
+Ok now Apoi didn’t come.
+
+ |
+| 
+
+Mutaleb:
+
+ | 
+
+What is it?
+
+ |
+| 
+
+Zaini:
+
+ | 
+
+Are we going to meet Apoi straight away now or what?
+
+ |
+| 
+
+Mutaleb:
+
+ | 
+
+Zai, didn’t you say the other day that my waiting is complete, right?
+
+ |
+| 
+
+Zaini:
+
+ | 
+
+Yes, ok
+
+ |
+| 
+
+Mutaleb:
+
+ | 
+
+Today morning can’t make it, what about tomorrow morning then?
+
+ |
+| 
+
+Zaini:
+
+ | 
+
+Now how?
+
+ |
+| 
+
+Mutaleb:
+
+ | 
+
+Hah?
+
+ |
+| 
+
+Zaini:
+
+ | 
+
+Now can?
+
+ |
+| 
+
+Mutaleb:
+
+ | 
+
+Now?
+
+ |
+| 
+
+Zaini:
+
+ | 
+
+Yes
+
+ |
+| 
+
+…
+
+ | 
+
+ |
+| 
+
+Mutaleb:
+
+ | 
+
+Where are you now?
+
+ |
+| 
+
+Zaini:
+
+ | 
+
+I’m here at the casino.
+
+ |
+| 
+
+…
+
+ | 
+
+ |
+| 
+
+Mutaleb:
+
+ | 
+
+Ok ok ok I’ll wait for you now, \[h\]ow many are there altogether?
+
+ |
+| 
+
+…
+
+ | 
+
+ |
+| 
+
+Zaini:
+
+ | 
+
+There are thirteen, right?
+
+ |
+| 
+
+Mutaleb:
+
+ | 
+
+Thirteen?
+
+ |
+| 
+
+Zaini:
+
+ | 
+
+Ha
+
+ |
+| 
+
+Mutaleb:
+
+ | 
+
+Ok you go and eat at the same place the other day. Now I come, I will go up, when I reach there, I will call, ok.
+
+ |
+| 
+
+Zaini:
+
+ | 
+
+Ok, (inaudible) ok ok.
+
+ |
+| 
+
+Mutaleb:
+
+ | 
+
+I’ll pass you the full amount. I don’t want to owe any money, that will be troublesome.
+
+ |
 
   
   
 
 39     SSSgt Ika then asked Zaini where the drug delivery was to take place, and Zaini informed him that it was to be at the car park at Blk 2 Chai Chee Road. According to Zaini’s 15 and 21 September statements, he knew where the delivery location was to be as he had previously delivered drugs to Mutaleb at the same location.[^28] Two CNB officers drove Zaini’s car to the delivery location to meet Mutaleb, posing as Zaini and Noor.[^29] When they arrived at the car park, Zaini called Mutaleb a second time, informing him that he had arrived:[^30]
 
-<table align="left" cellpadding="0" cellspacing="0" class="Judg-2" frame="none" pgwide="1"><colgroup><col width="22.5%"> <col width="77.5%"> </colgroup><tbody><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Mutaleb:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">… Zai, where are you?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Zaini:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">At the carpark, carpark.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">…</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">&nbsp;</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Mutaleb:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Have you reached or not?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">…</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">&nbsp;</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Zaini:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">I’ve arrived.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Mutaleb:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Ok, give me around fifteen minutes I’ll be there.</p></td></tr></tbody></table>
+>   
+| 
+
+Mutaleb:
+
+ | 
+
+… Zai, where are you?
+
+ |
+| 
+
+Zaini:
+
+ | 
+
+At the carpark, carpark.
+
+ |
+| 
+
+…
+
+ | 
+
+ |
+| 
+
+Mutaleb:
+
+ | 
+
+Have you reached or not?
+
+ |
+| 
+
+…
+
+ | 
+
+ |
+| 
+
+Zaini:
+
+ | 
+
+I’ve arrived.
+
+ |
+| 
+
+Mutaleb:
+
+ | 
+
+Ok, give me around fifteen minutes I’ll be there.
+
+ |
 
   
   
 
 40     Mutaleb then reiterated in the third and final telephone call that he would pay $39,000 in full, as he did not want to pay Zaini in instalments. This call was made at around 9.36pm, after Mutaleb failed to arrive at the car park:[^31]
 
-<table align="left" cellpadding="0" cellspacing="0" class="Judg-2" frame="none" pgwide="1"><colgroup><col width="28.06%"> <col width="71.94%"> </colgroup><tbody><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Mutaleb:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Hey, yours don’t bring up here. … Tomorrow morning, tomorrow send it back, can?</p></td></tr><tr><td align="left" class="" colspan="2" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">[Continued conversation, with some inaudible portions]</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Mutaleb:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">… [R]ight now I’m at, you know, Chai Chee Avenue. I’ll go up first, I’ll meet you, collect all the stuff, come down in a while, so that’s all. How many are there, is it thirteen?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">…</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">&nbsp;</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Zaini:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Yes, yes.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Mutaleb:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Ok thirteen. The cost I will pay a total of thirty nine thousand.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Zaini:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Ah</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Mutaleb:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">I think I will pay in full, I don’t want to pay in installment [<em>sic</em>] ah Zai, it would be troublesome.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">…</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">&nbsp;</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Mutaleb:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Can or not Zai?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Zaini:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Can, can, can</p></td></tr></tbody></table>
+>   
+| 
+
+Mutaleb:
+
+ | 
+
+Hey, yours don’t bring up here. … Tomorrow morning, tomorrow send it back, can?
+
+ |
+| 
+
+\[Continued conversation, with some inaudible portions\]
+
+ |
+| 
+
+Mutaleb:
+
+ | 
+
+… \[R\]ight now I’m at, you know, Chai Chee Avenue. I’ll go up first, I’ll meet you, collect all the stuff, come down in a while, so that’s all. How many are there, is it thirteen?
+
+ |
+| 
+
+…
+
+ | 
+
+ |
+| 
+
+Zaini:
+
+ | 
+
+Yes, yes.
+
+ |
+| 
+
+Mutaleb:
+
+ | 
+
+Ok thirteen. The cost I will pay a total of thirty nine thousand.
+
+ |
+| 
+
+Zaini:
+
+ | 
+
+Ah
+
+ |
+| 
+
+Mutaleb:
+
+ | 
+
+I think I will pay in full, I don’t want to pay in installment \[_sic_\] ah Zai, it would be troublesome.
+
+ |
+| 
+
+…
+
+ | 
+
+ |
+| 
+
+Mutaleb:
+
+ | 
+
+Can or not Zai?
+
+ |
+| 
+
+Zaini:
+
+ | 
+
+Can, can, can
+
+ |
 
   
   
@@ -174,9 +640,9 @@ Zaini maintained in the 21 September statement that he was supposed to deliver t
 
 43     This issue was not raised at the time when the statements were first admitted at trial. In any event, as argued by the Prosecution,[^33] any reference that might have been made by the CNB officers to the alternative sentencing regime would not have rendered these statements inadmissible. Explanation 2(_aa_) to s 258 of the CPC provides that an otherwise-admissible statement is not rendered inadmissible because it was made after the mandatory death penalty notification was given:
 
-_Explanation 2_ — If a statement is otherwise admissible, it will not be rendered inadmissible merely because it was made in any of the following circumstances:
+> _Explanation 2_ — If a statement is otherwise admissible, it will not be rendered inadmissible merely because it was made in any of the following circumstances:
 
-(_aa_)   where the accused is informed in writing by a person in authority of the circumstances in section 33B of the Misuse of Drugs Act (Cap. 185) under which life imprisonment may be imposed in lieu of death;
+>> (_aa_)   where the accused is informed in writing by a person in authority of the circumstances in section 33B of the Misuse of Drugs Act (Cap. 185) under which life imprisonment may be imposed in lieu of death;
 
 44     As it was, no ancillary hearing was held as I was satisfied that no question of admissibility arose. Zaini’s allegations that he had been asked to “cooperate” did not affect the voluntariness of his statements, but rather raised the possibility that he had been incentivised to give evidence that would implicate Mutaleb in order to obtain a certificate of substantive assistance.
 
@@ -184,7 +650,7 @@ _Explanation 2_ — If a statement is otherwise admissible, it will not be rende
 
 46     I first considered the law relating to the use of Zaini’s statements as against Mutaleb. Such use was governed by s 258(5) of the CPC and informed by the law in relation to s 30 of the Evidence Act (Cap 97, 1990 Rev Ed), which was _in pari materia_ with s 258(5) of the CPC: _Ramesh a/l Perumal v Public Prosecutor and another appeal_ <span class="citation">\[2019\] 1 SLR 1003</span> (“_Ramesh a/l Perumal_”) at \[62\]. Although s 258(5) has been amended with effect from 31 October 2018, the amended provision did not apply in the present case as investigations had begun before 31 October 2018: Criminal Justice Reform (Saving and Transitional Provisions) (No. 2) Regulations 2018 (GN No S 728/2018) reg 4(2). Section 258(5) of the CPC, as applied in this case, provided as follows:
 
-When more persons than one are being tried jointly for the same offence, and a confession made by one of such persons affecting himself and some other of such persons is proved, the court may take into consideration the confession as against the other person as well as against the person who makes the confession.
+> When more persons than one are being tried jointly for the same offence, and a confession made by one of such persons affecting himself and some other of such persons is proved, the court may take into consideration the confession as against the other person as well as against the person who makes the confession.
 
 47     In considering the confession by a co-accused person being tried jointly, the assessment of the weight to be given to the statements against another co-accused person will need to take into account the various circumstances of the recording of the statement and the charge. Of relevance would be the statement-maker’s state of mind and the incentive he might have in giving evidence against the other co-accused person. Where it is alleged that the statement-maker had a motive to frame the co-accused person, this must be proved as a fact: _Norasharee bin Gous v Public Prosecutor and another appeal and another matter_ <span class="citation">\[2017\] 1 SLR 820</span> (“_Norasharee_”) at \[59\].
 
@@ -210,13 +676,13 @@ When more persons than one are being tried jointly for the same offence, and a c
 
 55     The Defence argued that Zaini’s evidence was inconsistent on whether the drugs were to be delivered to Mutaleb.[^47]
 
-(a)     In his first contemporaneous statement dated 11 September 2015, Zaini explained that after he entered Singapore, his instructions were to wait at the Marina Bay Sands for further instructions from Apoi, who was to meet him at the casino.[^48]
+> (a)     In his first contemporaneous statement dated 11 September 2015, Zaini explained that after he entered Singapore, his instructions were to wait at the Marina Bay Sands for further instructions from Apoi, who was to meet him at the casino.[^48]
 
-(b)     In his 19 September statement, he said that Apoi’s instructions to him were to call him for further instructions after he reached the car park at the Marina Bay Sands.[^49]
+> (b)     In his 19 September statement, he said that Apoi’s instructions to him were to call him for further instructions after he reached the car park at the Marina Bay Sands.[^49]
 
-(c)     In his 21 September statement, he stated that his instructions had been to proceed directly to Chai Chee to deliver the drugs to Mutaleb.[^50]
+> (c)     In his 21 September statement, he stated that his instructions had been to proceed directly to Chai Chee to deliver the drugs to Mutaleb.[^50]
 
-(d)     At trial, he reverted to his initial position: upon arriving in Singapore, he was to wait for Apoi’s call; it was only then that Apoi would specify who was to receive the drugs. He elaborated that he had no instructions to deliver drugs to Mutaleb; he only named Mutaleb as the intended recipient of the drugs because he felt compelled to cooperate with the CNB.[^51]
+> (d)     At trial, he reverted to his initial position: upon arriving in Singapore, he was to wait for Apoi’s call; it was only then that Apoi would specify who was to receive the drugs. He elaborated that he had no instructions to deliver drugs to Mutaleb; he only named Mutaleb as the intended recipient of the drugs because he felt compelled to cooperate with the CNB.[^51]
 
 56     The Prosecution argued that Zaini’s evidence in his statements should be preferred as the statements were consistent and supported by the objective evidence, including the CNB-recorded telephone calls between Zaini and Mutaleb that pointed towards a prior arrangement to deliver drugs to Mutaleb and Mutaleb’s possession of $38,600 at the time of his arrest. Zaini’s oral testimony could not be safely relied upon due to his vacillations; under cross-examination, he accepted that Mutaleb was initially supposed to receive 12 bundles of drugs, but then said that he did not know who was to ultimately receive the drugs as the final delivery was for 14 bundles instead of the agreed-upon 12.[^52]
 
@@ -224,9 +690,9 @@ When more persons than one are being tried jointly for the same offence, and a c
 
 58     The Defence also argued that there was support for Zaini’s final version of events, namely, that Apoi had not told him to deliver to the drugs to Mutaleb, that Mutaleb was not the intended recipient of the drugs, and that Mutaleb was only named as the recipient because Zaini was under pressure by the CNB to cooperate, particularly after Apoi did not show up in Singapore as intended. Two arguments were made:[^53]
 
-(a)     First, none of the CNB officers could give satisfactory evidence that explained how Mutaleb was identified as the recipient of the drugs. On 11 September 2015, SSSgt Ika showed Zaini a copy of Mutaleb’s photograph after Zaini described the recipient of the drugs to be one “Boy Amy” living at Chai Chee Road.[^54] Although SSSgt Ika gave evidence that the Immigration and Checkpoints Authority (“ICA”) ascertained Mutaleb to be “Boy Amy”, he could not recall exactly how this information was conveyed to him.[^55]
+> (a)     First, none of the CNB officers could give satisfactory evidence that explained how Mutaleb was identified as the recipient of the drugs. On 11 September 2015, SSSgt Ika showed Zaini a copy of Mutaleb’s photograph after Zaini described the recipient of the drugs to be one “Boy Amy” living at Chai Chee Road.[^54] Although SSSgt Ika gave evidence that the Immigration and Checkpoints Authority (“ICA”) ascertained Mutaleb to be “Boy Amy”, he could not recall exactly how this information was conveyed to him.[^55]
 
-(b)     Second, Mutaleb was never specifically named in the CNB-recorded calls between Apoi and Zaini. The evidence of one of the CNB officers, SSgt Muhammad Nuur bin Rahmat, was that he had heard Zaini being instructed over the telephone to “wait for further call”, with no mention of Mutaleb.[^56]
+> (b)     Second, Mutaleb was never specifically named in the CNB-recorded calls between Apoi and Zaini. The evidence of one of the CNB officers, SSgt Muhammad Nuur bin Rahmat, was that he had heard Zaini being instructed over the telephone to “wait for further call”, with no mention of Mutaleb.[^56]
 
 59     This latter piece of evidence was insufficient to assist Mutaleb, as any failure to name Mutaleb was entirely ambiguous as to whether he was the recipient. As for the Defence’s argument that there was insufficient evidence that Mutaleb was the recipient of the drugs, this had to be weighed against the other evidence that implicated Mutaleb, as will be elaborated on below.
 
@@ -236,11 +702,11 @@ When more persons than one are being tried jointly for the same offence, and a c
 
 61     I weighed the Defence’s arguments against Zaini’s positive and consistent identification of Mutaleb as “Abang”, as demonstrated by the following:
 
-(a)     In his 11 September contemporaneous statement, which was taken after his arrest, Zaini was shown Mutaleb’s photograph and identified him as “Abang”, “Bro Amy” and “Boy Amy”.[^61]
+> (a)     In his 11 September contemporaneous statement, which was taken after his arrest, Zaini was shown Mutaleb’s photograph and identified him as “Abang”, “Bro Amy” and “Boy Amy”.[^61]
 
-(b)     In his 19 and 21 September statements, he substantiated that “Abang” was known to him as one “Rafi” who lived at Chai Chee. His evidence in this regard was maintained at trial, where he referred to Mutaleb as “Abang” and “Rafi” interchangeably.[^62]
+> (b)     In his 19 and 21 September statements, he substantiated that “Abang” was known to him as one “Rafi” who lived at Chai Chee. His evidence in this regard was maintained at trial, where he referred to Mutaleb as “Abang” and “Rafi” interchangeably.[^62]
 
-(c)     Finally, despite Zaini’s misidentification of Z-HP3 as the mobile phone used in the overheard call, Zaini’s oral testimony was otherwise externally consistent with the forensic records. The records showed that Mutaleb’s number was saved as “My Bro” in Z-HP2, and that a call from Z-HP2 was made to this number on 10 September 2015 at 10.37pm.[^63]
+> (c)     Finally, despite Zaini’s misidentification of Z-HP3 as the mobile phone used in the overheard call, Zaini’s oral testimony was otherwise externally consistent with the forensic records. The records showed that Mutaleb’s number was saved as “My Bro” in Z-HP2, and that a call from Z-HP2 was made to this number on 10 September 2015 at 10.37pm.[^63]
 
 Given the strength of Zaini’s identification of Mutaleb in his statements and testimony, I could not see that there was any doubt concerning Zaini’s evidence on this score. Furthermore, while the term “abang” does mean “brother” and could be used to refer to various individuals, I was satisfied that this term referred to Mutaleb in the context of Zaini’s evidence. There was nothing at all in Zaini’s evidence that left open any ambiguity.
 
@@ -256,9 +722,9 @@ Given the strength of Zaini’s identification of Mutaleb in his statements and 
 
 65     Second, the telephone and text message records showed a considerable amount of communications between Zaini and Mutaleb.
 
-(a)     On 10 September 2015, Mutaleb sent Zaini a text at 11.23am, seeming to warn Zaini against coming to Singapore: “Bro this is Mah if possible this week you don’t come to r”.[^66] Mutaleb explained under cross-examination that “Mah” referred to him, and that the message served as “advice from a friend” to warn Zaini not to come to Singapore.[^67]
+> (a)     On 10 September 2015, Mutaleb sent Zaini a text at 11.23am, seeming to warn Zaini against coming to Singapore: “Bro this is Mah if possible this week you don’t come to r”.[^66] Mutaleb explained under cross-examination that “Mah” referred to him, and that the message served as “advice from a friend” to warn Zaini not to come to Singapore.[^67]
 
-(b)     Later that night, Mutaleb sent another message to Zaini at 10.36pm, asking that Zaini “call \[him\] now”.[^68] A minute later, Mutaleb received a call from Z-HP2 (as described above at \[37\] and \[51\]).[^69] The Prosecution put to Mutaleb that this telephone call was the one between Apoi and Mutaleb that Zaini allegedly overheard. Mutaleb disagreed, claiming instead that the conversation was between him and Zaini, and that he wanted Zaini to call him so that he could warn Zaini that he should be careful entering Singapore the next day as 11 September was a polling day. This meant that “security might be tight at the Causeway”, and Zaini might be affected as he was going to the casino. Mutaleb further explained that he was worried that Zaini might “bring some illegal stuff into Singapore”.[^70]
+> (b)     Later that night, Mutaleb sent another message to Zaini at 10.36pm, asking that Zaini “call \[him\] now”.[^68] A minute later, Mutaleb received a call from Z-HP2 (as described above at \[37\] and \[51\]).[^69] The Prosecution put to Mutaleb that this telephone call was the one between Apoi and Mutaleb that Zaini allegedly overheard. Mutaleb disagreed, claiming instead that the conversation was between him and Zaini, and that he wanted Zaini to call him so that he could warn Zaini that he should be careful entering Singapore the next day as 11 September was a polling day. This meant that “security might be tight at the Causeway”, and Zaini might be affected as he was going to the casino. Mutaleb further explained that he was worried that Zaini might “bring some illegal stuff into Singapore”.[^70]
 
 66     The Prosecution argued that Mutaleb’s 11.23am text message was clearly intended to warn Zaini against delivering drugs to him. Zaini also understood this to be Mutaleb’s intention, and in his 21 September statement (excerpted above at \[35\]), he further recounted that Mutaleb had told Apoi over the telephone that he had earlier sent a message to Zaini to ask him not to come to Singapore. Apoi had responded to say that the delivery had to proceed as the drugs could not be returned.[^71]
 
@@ -299,15 +765,15 @@ Given the strength of Zaini’s identification of Mutaleb in his statements and 
 
 79     In Mutaleb’s statement recorded under s 22 of the CPC on 17 September 2015, _ie_, P207, he stated that he had collected “heroin balls” from Zaini on two previous occasions. He also mentioned details that were consistent with Zaini’s 19 and 21 September statements and the objective evidence:[^81]
 
-(a)     On 10 September 2015, he was given an assignment from one “Alex” to collect five “balls” of heroin that were coming in from Johor. He went to sleep “early” as he knew he would have to meet Zaini the next day to collect the “consignment”.
+> (a)     On 10 September 2015, he was given an assignment from one “Alex” to collect five “balls” of heroin that were coming in from Johor. He went to sleep “early” as he knew he would have to meet Zaini the next day to collect the “consignment”.
 
-(b)     On 11 September 2015, at about 9am, “Ramesh”, the “money courier”, passed Mutaleb “a black bag with money inside”. Mutaleb assumed that this was the $35,000 “for payment for the cosignment \[_sic_\]”. Mutaleb then proceeded to wait “a very long time” for Zaini’s call and became concerned as Zaini had “taken too long” to call.
+> (b)     On 11 September 2015, at about 9am, “Ramesh”, the “money courier”, passed Mutaleb “a black bag with money inside”. Mutaleb assumed that this was the $35,000 “for payment for the cosignment \[_sic_\]”. Mutaleb then proceeded to wait “a very long time” for Zaini’s call and became concerned as Zaini had “taken too long” to call.
 
-(c)     Zaini eventually called Mutaleb to inform him that he was at “the casino at Marina Bay”. Mutaleb’s explanation of this call was consistent with the transcript excerpted above at \[38\] and Zaini’s account that the initial arrangement was to deliver fewer than 13 units of drugs:
+> (c)     Zaini eventually called Mutaleb to inform him that he was at “the casino at Marina Bay”. Mutaleb’s explanation of this call was consistent with the transcript excerpted above at \[38\] and Zaini’s account that the initial arrangement was to deliver fewer than 13 units of drugs:
 
-… I asked him how many he had, and he replied 13. When I asked how many he had, I was referring to how many balls of heroin he had. When he said 13, I was shocked. I did not expect to receive so many balls. But because I was given the money already, I just agreed to receive them. I wasn’t sure what the arrangement was between Alex and the Malaysian side. Alex only told me to receive 5 balls.
+>> … I asked him how many he had, and he replied 13. When I asked how many he had, I was referring to how many balls of heroin he had. When he said 13, I was shocked. I did not expect to receive so many balls. But because I was given the money already, I just agreed to receive them. I wasn’t sure what the arrangement was between Alex and the Malaysian side. Alex only told me to receive 5 balls.
 
-(d)     Mutaleb also accurately recalled the numbers on the licence plate of Zaini’s car and that it was a red car, and identified Zaini and his car from photographs that were shown to him.
+> (d)     Mutaleb also accurately recalled the numbers on the licence plate of Zaini’s car and that it was a red car, and identified Zaini and his car from photographs that were shown to him.
 
 The Defence challenged the admissibility of P207 on the basis that Mutaleb refused to sign it after it was recorded, as he claimed that “he made up the story and \[it was\] not the truth”. The Defence submitted that this noncompliance with s 22(3)(_d_) of the CPC rendered P207 inadmissible. I did not find that Mutaleb’s failure to append a signature to P207 affected its admissibility. Section 22 of the CPC must be read subject to s 258, and the clear wording of s 258(1) of the CPC and Explanation 1 to s 258 indicates that questions of admissibility arise only where the voluntariness of the statement is affected, _eg_, where the making of a statement was obtained by way of a threat, inducement or promise. In this case, the omission of Mutaleb’s signature did not affect P207’s admissibility, and no ancillary hearing was required.[^82]
 
@@ -347,17 +813,17 @@ The Defence challenged the admissibility of P207 on the basis that Mutaleb refus
 
 89     The inferences that I drew from the evidence were:
 
-(a)     Mutaleb and Zaini were known to each other, both having stated in their statements that Zaini had previously delivered drugs to Mutaleb.
+> (a)     Mutaleb and Zaini were known to each other, both having stated in their statements that Zaini had previously delivered drugs to Mutaleb.
 
-(b)     Zaini and Noor entered Singapore on 11 September 2015 with the intention of delivering at least 12 packets of drugs.
+> (b)     Zaini and Noor entered Singapore on 11 September 2015 with the intention of delivering at least 12 packets of drugs.
 
-(c)     Mutaleb knew that Zaini was coming into Singapore for illegal purposes, as borne out by their text messages.
+> (c)     Mutaleb knew that Zaini was coming into Singapore for illegal purposes, as borne out by their text messages.
 
-(d)     When Zaini called Mutaleb on 11 September, Mutaleb broached the issue of the delivery, asking Zaini, unprompted, about how many bundles were to be delivered; Zaini replied “thirteen”, and Mutaleb confirmed that he would pay $39,000 in exchange.
+> (d)     When Zaini called Mutaleb on 11 September, Mutaleb broached the issue of the delivery, asking Zaini, unprompted, about how many bundles were to be delivered; Zaini replied “thirteen”, and Mutaleb confirmed that he would pay $39,000 in exchange.
 
-(e)     Mutaleb intended to meet Zaini at the Chai Chee car park even though neither party specified in their telephone call where their exact meeting location was to be. Mutaleb had $1,600 on his person when he arrived at the car park, and had $37,000 stored in bundles in a haversack and a pair of pants in his flat.
+> (e)     Mutaleb intended to meet Zaini at the Chai Chee car park even though neither party specified in their telephone call where their exact meeting location was to be. Mutaleb had $1,600 on his person when he arrived at the car park, and had $37,000 stored in bundles in a haversack and a pair of pants in his flat.
 
-(f)     The drug in question was diamorphine.
+> (f)     The drug in question was diamorphine.
 
 From the above, the conclusion that followed was that Mutaleb was party to an agreement or arrangement for at least 12 bundles of drugs to be brought into Singapore to be transferred to him, in return for payment. The drugs were imported into Singapore pursuant to the conspiracy. The elements of the charge against him were thus fulfilled.
 

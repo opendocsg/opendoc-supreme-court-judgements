@@ -19,7 +19,7 @@ Insolvency Law – Bankruptcy – Statutory demand
 
 4       In spite of that, the husband filed an affidavit in support of the defendant’s claims, on 21 February 2019 stating that although they live together, they are living separate lives, and that as their daughter was getting married soon, they try to remain civil to each other. Referring to the photographs of what appears to be a happy couple and family, the husband explained that:
 
-The \[defendant\] and I are only together in the photographs to show the world at large that we are a happy family. However, the truth is that we have contemplated going our separate ways for quite some time but appear together as a façade.
+> The \[defendant\] and I are only together in the photographs to show the world at large that we are a happy family. However, the truth is that we have contemplated going our separate ways for quite some time but appear together as a façade.
 
 5       The husband acknowledged the debt but claimed that “the debt was incurred by me without the knowledge of the \[defendant\]”. He also claimed that the cheques of DJ Hira were in his possession and were used by him without the defendant’s knowledge and that as soon as she found out about this case, she “immediately removed my mandate \[to operate the cheque account\]”.
 

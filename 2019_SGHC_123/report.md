@@ -37,7 +37,7 @@ Employment Law – Application for Adjournment
 
 12     Mr Fadli raised another point, that the Applicant had not complied with s 29(3) of the Act, which provides as follows:
 
-(3)    Notwithstanding any appeal under this section, the employer shall deposit with the Commissioner the amount of compensation ordered by the Commissioner under section 25A, 25B, 25C or 25D within 21 days from the date of the Commissioner’s decision, and the deposit shall be held by the Commissioner pending the outcome of the appeal.
+> (3)    Notwithstanding any appeal under this section, the employer shall deposit with the Commissioner the amount of compensation ordered by the Commissioner under section 25A, 25B, 25C or 25D within 21 days from the date of the Commissioner’s decision, and the deposit shall be held by the Commissioner pending the outcome of the appeal.
 
 13     This provision requires the Applicant to deposit with the Commissioner the sum of $81,220 awarded by the AC within 21 days of the award, _ie_ by 13 July 2018. Up until the day of the hearing of the appeal, the Applicant had not deposited a single cent.
 

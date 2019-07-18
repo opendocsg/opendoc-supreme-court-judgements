@@ -81,33 +81,33 @@ Family Law – Maintenance – Child – Due proof of neglect or refusal
 
 28     Section 69(2) and (4) of the WC provides:
 
-(2)    The court may, on due proof that a parent has neglected or refused to provide reasonable maintenance for his child who is unable to maintain himself, order that parent to pay a monthly allowance or a lump sum for the maintenance of that child.
+> (2)    The court may, on due proof that a parent has neglected or refused to provide reasonable maintenance for his child who is unable to maintain himself, order that parent to pay a monthly allowance or a lump sum for the maintenance of that child.
 
-…
+> …
 
-(4)    The court, when ordering maintenance for a wife, an incapacitated husband or a child under this section, shall have regard to all the circumstances of the case including the following matters:
+> (4)    The court, when ordering maintenance for a wife, an incapacitated husband or a child under this section, shall have regard to all the circumstances of the case including the following matters:
 
-(a)    the financial needs of the wife, incapacitated husband or child;
+>> (a)    the financial needs of the wife, incapacitated husband or child;
 
-(b)    the income, earning capacity (if any), property and other financial resources of the wife, incapacitated husband or child;
+>> (b)    the income, earning capacity (if any), property and other financial resources of the wife, incapacitated husband or child;
 
-(c)    any physical or mental disability of the wife, incapacitated husband or child;
+>> (c)    any physical or mental disability of the wife, incapacitated husband or child;
 
-(d)    the age of each party to the marriage and the duration of the marriage;
+>> (d)    the age of each party to the marriage and the duration of the marriage;
 
-(e)    the contributions made by each of the parties to the marriage to the welfare of the family, including any contribution made by looking after the home or caring for the family;
+>> (e)    the contributions made by each of the parties to the marriage to the welfare of the family, including any contribution made by looking after the home or caring for the family;
 
-(f)    the standard of living enjoyed —
+>> (f)    the standard of living enjoyed —
 
-(i)    by the wife before her husband neglected or refused to provide reasonable maintenance for her;
+>>> (i)    by the wife before her husband neglected or refused to provide reasonable maintenance for her;
 
-(ii)   by the incapacitated husband before his wife neglected or refused to provide reasonable maintenance for him; or
+>>> (ii)   by the incapacitated husband before his wife neglected or refused to provide reasonable maintenance for him; or
 
-(iii)   by the child before a parent neglected or refused to provide reasonable maintenance for the child;
+>>> (iii)   by the child before a parent neglected or refused to provide reasonable maintenance for the child;
 
-(g)    in the case of a child, the manner in which he was being, and in which the parties to the marriage expected him to be, educated or trained; and
+>> (g)    in the case of a child, the manner in which he was being, and in which the parties to the marriage expected him to be, educated or trained; and
 
-(h)    the conduct of each of the parties to the marriage, if the conduct is such that it would in the opinion of the court be inequitable to disregard it.
+>> (h)    the conduct of each of the parties to the marriage, if the conduct is such that it would in the opinion of the court be inequitable to disregard it.
 
 29     The Mother argued that the Father ought to bear 100% of the child’s reasonable expenses as well as the Mother’s share of accommodation expenses. The Father argued that he had not neglected or refused to provide reasonable maintenance for the child. The burden of proof is on the party claiming maintenance to provide proof that the other party has neglected or refused to provide reasonable maintenance. To determine whether that burden has been met, it is first necessary to determine what “reasonable maintenance for his child” is on the facts of the case. After determining what the quantum of reasonable maintenance is, the next step is to determine whether the Father had indeed provided, or had neglected or refused to provide, such reasonable maintenance. I will discuss the issues below in two main sections: first, what is reasonable maintenance in the present case and second, whether there was neglect or refusal to provide reasonable maintenance.
 
@@ -183,11 +183,11 @@ Family Law – Maintenance – Child – Due proof of neglect or refusal
 
 56     After their return, the Father alleged that the Mother still failed to inform him of the child’s expenses. On 21 September 2017, the Father wrote to the Mother’s counsel stating the following:
 
-As your client has provided no details regarding \[the child’s\] expenses, either in \[Japan\] or in Singapore (other than the belated and incomplete information provided through her affidavits), I can only say that the $7,500 payment (as with all previous payments made by me under protest), is intended to cover maintenance payments for \[the child\] that I am legally obliged to make under Singapore law.
+> As your client has provided no details regarding \[the child’s\] expenses, either in \[Japan\] or in Singapore (other than the belated and incomplete information provided through her affidavits), I can only say that the $7,500 payment (as with all previous payments made by me under protest), is intended to cover maintenance payments for \[the child\] that I am legally obliged to make under Singapore law.
 
-…
+> …
 
-I am, of course, unable to provide any proposal on maintenance in the absence of complete details regarding \[the child’s\] expenses and up to date information regarding the income of your client.
+> I am, of course, unable to provide any proposal on maintenance in the absence of complete details regarding \[the child’s\] expenses and up to date information regarding the income of your client.
 
 57     The Mother’s counsel responded later that same day stating, “We will take our client’s instructions on the same, and revert shortly.” The Father submitted that there was no response after this, and indeed there is no evidence that the Mother’s solicitors “reverted”. Instead, on 14 October 2017, the Mother filed the present maintenance application.
 
@@ -230,9 +230,9 @@ I am, of course, unable to provide any proposal on maintenance in the absence of
 
 71     At \[56\] of his grounds of decision, the DJ appeared to have some doubts over whether the Father had neglected to provide reasonable maintenance. However, he concluded that he still had the power to make the maintenance order as it was in the best interests of the child:
 
-… \[G\]iven the specific circumstances of this case including the fact that parties are often squabbling about their respective financial contributions towards supporting the child, that the parents are of different foreign nationalities and often travel back to their home countries, that the child was born out of a previous relationship where the parties were never married to each other and the father has now moved on and married a different spouse, I was of the view that _it is \[in\] the best interest of the child_ for a maintenance order to be made so that the situation and their respective financial obligations towards the child is clarified once and for all between the parties.
+> … \[G\]iven the specific circumstances of this case including the fact that parties are often squabbling about their respective financial contributions towards supporting the child, that the parents are of different foreign nationalities and often travel back to their home countries, that the child was born out of a previous relationship where the parties were never married to each other and the father has now moved on and married a different spouse, I was of the view that _it is \[in\] the best interest of the child_ for a maintenance order to be made so that the situation and their respective financial obligations towards the child is clarified once and for all between the parties.
 
-\[emphasis added\]
+> \[emphasis added\]
 
 72     There is no doubt that the welfare of the child is the paramount consideration in proceedings involving children and this principle ought to override any other consideration (see _BNS v BNT_ <span class="citation">\[2015\] 3 SLR 973</span> at \[19\]). However, it does not override the statutorily prescribed jurisdiction of the court. The legal threshold serves as a safeguard against unnecessary intervention by the court in family matters. One does not simply walk into the court to seek an order for any matter that is alleged to be in the best interests of the child; the court’s jurisdiction and powers are prescribed by the law.
 

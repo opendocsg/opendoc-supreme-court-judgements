@@ -19,11 +19,11 @@ Statutory Interpretation – Construction of statute
 
 2       We consider two questions in this judgment (pursuant to this Court having reframed these questions for the purpose of the present proceedings on 26 June 2018). The first, which we shall refer to as “Question 1”, reads in full as follows:
 
-Can a secondary offender like the applicant, who does not himself commit the offence from which the proceeds were originally derived but launders the proceeds of another person’s crime, be properly charged under s 47(1) instead of 47(2) of the CDSA? If not, how would the outcome be affected if the applicant were to be convicted under s 47(2) instead?
+> Can a secondary offender like the applicant, who does not himself commit the offence from which the proceeds were originally derived but launders the proceeds of another person’s crime, be properly charged under s 47(1) instead of 47(2) of the CDSA? If not, how would the outcome be affected if the applicant were to be convicted under s 47(2) instead?
 
 3       If the answer to Question 1 is that the applicant can be charged under s 47(1) of the CDSA, the second question, which we shall refer to as “Question 2”, is as follows:
 
-If the answer to Question 1 is that the applicant can be charged under s 47(1) of the CDSA, do “his benefits from criminal conduct” under s 47(1) refer to the entire proceeds from the criminal conduct or the actual reward or advantage gained by him (if any)?
+> If the answer to Question 1 is that the applicant can be charged under s 47(1) of the CDSA, do “his benefits from criminal conduct” under s 47(1) refer to the entire proceeds from the criminal conduct or the actual reward or advantage gained by him (if any)?
 
 4       We reserved judgment after hearing oral arguments. Having considered the issues, we answer Question 1 in **_the negative_** and acquit the applicant of the CDSA charges for the reasons that follow.
 
@@ -39,15 +39,15 @@ If the answer to Question 1 is that the applicant can be charged under s 47(1)
 
 9       The applicant then dealt with this S$520,590 according to Laura’s instructions. He withdrew and transferred various sums of money on five different occasions in the following manner:
 
-(a)     On 16 May 2013, the applicant handed S$200,000 in cash to one “Mary Natha”.
+> (a)     On 16 May 2013, the applicant handed S$200,000 in cash to one “Mary Natha”.
 
-(b)     On the same day, he handed another S$250,000 in cash to Mary Natha.
+> (b)     On the same day, he handed another S$250,000 in cash to Mary Natha.
 
-(c)     On 17 May 2013, he handed yet another S$43,000 in cash to Mary Natha.
+> (c)     On 17 May 2013, he handed yet another S$43,000 in cash to Mary Natha.
 
-(d)     On 18 May 2013, he transferred S$5,300 to a Malaysian bank account held by one “Kevin Christy Fredy Tony Christy”.
+> (d)     On 18 May 2013, he transferred S$5,300 to a Malaysian bank account held by one “Kevin Christy Fredy Tony Christy”.
 
-(e)     Finally, on 27 May 2013, he transferred S$4,200 to a Singapore bank account held by one “Jeffry Tafsir bin Zulkifli”.
+> (e)     Finally, on 27 May 2013, he transferred S$4,200 to a Singapore bank account held by one “Jeffry Tafsir bin Zulkifli”.
 
 The transfers listed above later became the subject matter of the five CDSA charges.
 
@@ -61,17 +61,17 @@ The transfers listed above later became the subject matter of the five CDSA cha
 
 13     The District Judge convicted the applicant on all charges. On the s 411 PC charge, the District Judge found that the charge was made out based on the following findings:
 
-(a)     The S$520,590 was stolen property (see _Public Prosecutor v Osborn Yap Chen Hsiang_ <span class="citation">\[2017\] SGDC 220</span> (“District Court GD”) at \[83\]).
+> (a)     The S$520,590 was stolen property (see _Public Prosecutor v Osborn Yap Chen Hsiang_ <span class="citation">\[2017\] SGDC 220</span> (“District Court GD”) at \[83\]).
 
-(b)     While the applicant did not have actual knowledge that the property was stolen, he had reason to believe that it was. There were red flags in Laura’s behaviour – she gave incredible reasons as to why she needed the applicant to receive the money, why the sum of money changed and why she did not want to document the transaction. These should have made the applicant suspicious as he was well-versed in basic commercial transactions; however, he either did not ask or was easily satisfied by Laura’s explanations (District Court GD at \[89\]–\[108\], \[111\]).
+> (b)     While the applicant did not have actual knowledge that the property was stolen, he had reason to believe that it was. There were red flags in Laura’s behaviour – she gave incredible reasons as to why she needed the applicant to receive the money, why the sum of money changed and why she did not want to document the transaction. These should have made the applicant suspicious as he was well-versed in basic commercial transactions; however, he either did not ask or was easily satisfied by Laura’s explanations (District Court GD at \[89\]–\[108\], \[111\]).
 
-(c)     The applicant had “dishonestly” received this stolen property since he “would have caused both wrongful gain to Laura as well as wrongful loss to the owner of the property” by receiving the property. This was the definition of dishonesty under s 24 of the PC. The District Judge noted that, in coming to this conclusion, both the Prosecution and Defence agreed that s 411 read with s 24 of the PC meant that the applicant could have had an intention to cause wrongful gain or loss (_ie_, be dishonest) even if he did not have actual knowledge that the goods were stolen, but only had reason to believe that they were (District Court GD at \[86\]–\[87\]).
+> (c)     The applicant had “dishonestly” received this stolen property since he “would have caused both wrongful gain to Laura as well as wrongful loss to the owner of the property” by receiving the property. This was the definition of dishonesty under s 24 of the PC. The District Judge noted that, in coming to this conclusion, both the Prosecution and Defence agreed that s 411 read with s 24 of the PC meant that the applicant could have had an intention to cause wrongful gain or loss (_ie_, be dishonest) even if he did not have actual knowledge that the goods were stolen, but only had reason to believe that they were (District Court GD at \[86\]–\[87\]).
 
 14     The District Judge also convicted the applicant on the five CDSA charges. He found, in this regard, as follows:
 
-(a)     The _actus reus_ of transferring or removing from jurisdiction stolen property was satisfied once the applicant had been found guilty of the s 411 charge (District Court GD at \[113\]–\[115\]).
+> (a)     The _actus reus_ of transferring or removing from jurisdiction stolen property was satisfied once the applicant had been found guilty of the s 411 charge (District Court GD at \[113\]–\[115\]).
 
-(b)     The _mens rea_ was also satisfied because “the objective _mens rea_ \[of having reason to believe under the s 411 charge\] would colour all his subsequent actions in transferring or removing from jurisdiction the money” (District Court GD at \[117\]).
+> (b)     The _mens rea_ was also satisfied because “the objective _mens rea_ \[of having reason to believe under the s 411 charge\] would colour all his subsequent actions in transferring or removing from jurisdiction the money” (District Court GD at \[117\]).
 
 15     The District Judge “accordingly also found the \[applicant\] guilty” of the CDSA charges (District Court GD at \[118\]). He then added that it was “helpful to highlight” several red flags that the applicant should have taken note of (District Court GD at \[119\]–\[120\]). These included Laura failing to give good reasons or even providing documentation when she asked the applicant to withdraw the money. Laura also repeatedly broke her promise to meet the applicant.
 
@@ -83,23 +83,23 @@ The transfers listed above later became the subject matter of the five CDSA cha
 
 18     The relevant offences were committed in May 2013, **_prior to_** the _2014 amendments_ to the CDSA. Sections 47(1) and (2) of the CDSA, however, were _not_ affected by these amendments. These provisions read as follows:
 
-47.—(1)    Any person who —
+> 47.—(1)    Any person who —
 
-(_a_)    conceals or disguises any property which is, or in whole or in part, directly or indirectly, represents, his benefits from criminal conduct;
+>> (_a_)    conceals or disguises any property which is, or in whole or in part, directly or indirectly, represents, his benefits from criminal conduct;
 
-(_b_)    converts or transfers that property or removes it from the jurisdiction; or
+>> (_b_)    converts or transfers that property or removes it from the jurisdiction; or
 
-(_c_)    acquires, possesses or uses that property,
+>> (_c_)    acquires, possesses or uses that property,
 
-shall be guilty of an offence.
+> shall be guilty of an offence.
 
-(2)    Any person who, knowing or having reasonable grounds to believe that any property is, or in whole or in part, directly or indirectly, represents, another person’s benefits from criminal conduct —
+> (2)    Any person who, knowing or having reasonable grounds to believe that any property is, or in whole or in part, directly or indirectly, represents, another person’s benefits from criminal conduct —
 
-(_a_)    conceals or disguises that property; or
+>> (_a_)    conceals or disguises that property; or
 
-(_b_)    converts or transfers that property or removes it from the jurisdiction,
+>> (_b_)    converts or transfers that property or removes it from the jurisdiction,
 
-shall be guilty of an offence.
+> shall be guilty of an offence.
 
 19     The phrase “criminal conduct” referred to in ss 47(1) and (2) of the CDSA is defined in s 2(1) of the same Act as “doing or being concerned in” any act constituting a “serious offence” or “foreign serious offence”. A “serious offence” includes any of the offences specified in the Second Schedule to the CDSA, and this includes the offence of dishonestly receiving stolen property under s 411 of the PC (see s 2(1) of the CDSA). A “foreign serious offence” is presently defined as “an offence (other than a foreign drug dealing offence) against the law of a foreign country or part thereof that consists of or includes conduct which, if the conduct had occurred in Singapore, would have constituted a serious offence” (see s 2(1) of the CDSA).
 
@@ -107,89 +107,89 @@ shall be guilty of an offence.
 
 21     Section 43 of the DT(CB)A, the predecessor provision of s 47 of the CDSA, provided as follows:
 
-**Concealing or transferring benefits of drug trafficking**
+> **Concealing or transferring benefits of drug trafficking**
 
-**43.**—(1)    Any person who —
+> **43.**—(1)    Any person who —
 
-(_a_)    conceals or disguises any property which is, or in whole or in part, directly or indirectly, represents, his benefits of drug trafficking; or
+>> (_a_)    conceals or disguises any property which is, or in whole or in part, directly or indirectly, represents, his benefits of drug trafficking; or
 
-(_b_)    converts or transfers that property or removes it from the jurisdiction,
+>> (_b_)    converts or transfers that property or removes it from the jurisdiction,
 
-for the purpose of avoiding prosecution for a drug trafficking offence or the making or enforcement in his case of a confiscation order shall be guilty of an offence.
+> for the purpose of avoiding prosecution for a drug trafficking offence or the making or enforcement in his case of a confiscation order shall be guilty of an offence.
 
-(2)    Any person who, _knowing_ that any property is, or in whole or in part, directly or indirectly, represents, another person’s benefits of drug trafficking —
+> (2)    Any person who, _knowing_ that any property is, or in whole or in part, directly or indirectly, represents, another person’s benefits of drug trafficking —
 
-(_a_)    conceals or disguises that property; or
+>> (_a_)    conceals or disguises that property; or
 
-(_b_)    converts or transfers that property or removes it from the jurisdiction,
+>> (_b_)    converts or transfers that property or removes it from the jurisdiction,
 
-for the purpose of assisting any person to avoid prosecution for a drug trafficking offence or the making or enforcement of a confiscation order shall be guilty of an offence.
+> for the purpose of assisting any person to avoid prosecution for a drug trafficking offence or the making or enforcement of a confiscation order shall be guilty of an offence.
 
-(3)    Any person who, knowing that any property is, or in whole or in part directly or indirectly represents, another person’s benefits of drug trafficking, acquires that property for no, or inadequate consideration shall be guilty of an offence.
+> (3)    Any person who, knowing that any property is, or in whole or in part directly or indirectly represents, another person’s benefits of drug trafficking, acquires that property for no, or inadequate consideration shall be guilty of an offence.
 
-…
+> …
 
-\[emphasis added in italics\]
+> \[emphasis added in italics\]
 
 22     It is apparent from these provisions that the DT(CB)A criminalised the laundering of benefits from drug trafficking _only_. This was considered unsatisfactory because as capital flows became increasingly international and Singapore expanded its role as a financial centre, drug trafficking was no longer the primary source of funds for money laundering. Instead, other serious offences became sources of illegal wealth entering legitimate financial channels. This led to an international trend of criminalising the laundering not only of the proceeds of drug trafficking but also the proceeds of other serious crimes. Further, investigative efforts into money-laundering offences had often been hindered by the need to satisfy the courts that the suspect concerned had benefited from the proceeds of drug trafficking, which could be difficult to do when the proceeds were mixed with those of other predicate offences: see _Singapore Parliamentary Debates, Official Report_ (6 July 1999) vol 70 at cols 1731–1733, _per_ Mr Wong Kan Seng, Minister for Home Affairs.
 
 23     As a result, the DT(CB)A was amended in 1999 via the Drug Trafficking (Confiscation of Benefits) (Amendment) Act (Act 25 of 1999). Amongst other amendments, the DT(CB)A was extended to cover serious crimes in addition to drug trafficking. A new s 43A (which mirrored s 43 of the DT(CB)A) relating to the laundering of benefits of criminal conduct was added. A new Second Schedule was also inserted to specify a list of serious crimes to be included in the Act. The DT(CB)A was _renamed_ the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act, and the Corruption (Confiscation of Benefits) Act (Cap 65A, 1990 Ed) was repealed. Section 43A of the newly-renamed CDSA (“1999 CDSA”) itself read as follows:
 
-**Concealing or transferring benefits of criminal conduct**
+> **Concealing or transferring benefits of criminal conduct**
 
-**43A.**—(1)    Any person who —
+> **43A.**—(1)    Any person who —
 
-(_a_)    conceals or disguises any property which is, or in whole or in part, directly or indirectly, represents, his benefits from criminal conduct; or
+>> (_a_)    conceals or disguises any property which is, or in whole or in part, directly or indirectly, represents, his benefits from criminal conduct; or
 
-(_b_)    converts or transfers that property or removes it from the jurisdiction,
+>> (_b_)    converts or transfers that property or removes it from the jurisdiction,
 
-shall be guilty of an offence.
+> shall be guilty of an offence.
 
-(2)    Any person who, _knowing or having reasonable grounds to believe_ that any property is, or in whole or in part, directly or indirectly, represents, another person’s benefits from criminal conduct —
+> (2)    Any person who, _knowing or having reasonable grounds to believe_ that any property is, or in whole or in part, directly or indirectly, represents, another person’s benefits from criminal conduct —
 
-(_a_)    conceals or disguises that property; or
+>> (_a_)    conceals or disguises that property; or
 
-(_b_)    converts or transfers that property or removes it from the jurisdiction,
+>> (_b_)    converts or transfers that property or removes it from the jurisdiction,
 
-for the purpose of assisting any person to avoid prosecution for a serious offence or a foreign serious offence or the making or enforcement of a confiscation order shall be guilty of an offence.
+> for the purpose of assisting any person to avoid prosecution for a serious offence or a foreign serious offence or the making or enforcement of a confiscation order shall be guilty of an offence.
 
-(3)    Any person who, knowing or having reasonable grounds to believe that any property is, or in whole or in part, directly or indirectly, represents, another person’s benefits from criminal conduct, acquires that property for no or inadequate consideration, shall be guilty of an offence.
+> (3)    Any person who, knowing or having reasonable grounds to believe that any property is, or in whole or in part, directly or indirectly, represents, another person’s benefits from criminal conduct, acquires that property for no or inadequate consideration, shall be guilty of an offence.
 
-…
+> …
 
-\[emphasis added in italics\]
+> \[emphasis added in italics\]
 
 24     Further, the _mens rea_ requirement for the _secondary_ money-laundering offences (_ie_, pursuant to ss 43(2) and (3) as well as 43A(2) and (3) of the 1999 CDSA, the predecessor provisions of what are presently ss 47(2) and (3) of the CDSA) were **_amended_** to that of “knowing or having reasonable grounds to believe” that the proceeds were derived from another person’s benefits from drug trafficking or criminal conduct. The Prosecution thus no longer needed to prove “actual knowledge’ of the relevant facts. This amendment enabled Singapore to combat money laundering and deprive criminals of their ill-gotten gains more effectively, and brought Singapore’s laws in line with those of other countries: see _Singapore Parliamentary Debates, Official Reports_ (6 July 1999) vol 70 at col 1734, _per_ Mr Wong Kan Seng, Minister for Home Affairs. With this amendment, s 43(1) of the 1999 CDSA now read as follows (for the _pre_\-amendment version, see above at \[21\]):
 
-**Concealing or transferring benefits of drug trafficking**
+> **Concealing or transferring benefits of drug trafficking**
 
-**43.**—(1)    Any person who —
+> **43.**—(1)    Any person who —
 
-(_a_)    conceals or disguises any property which is, or in whole or in part, directly or indirectly, represents, his benefits of drug trafficking; or
+>> (_a_)    conceals or disguises any property which is, or in whole or in part, directly or indirectly, represents, his benefits of drug trafficking; or
 
-(_b_)    converts or transfers that property or removes it from the jurisdiction,
+>> (_b_)    converts or transfers that property or removes it from the jurisdiction,
 
-shall be guilty of an offence.
+> shall be guilty of an offence.
 
-(2)    Any person who, _knowing or having reasonable grounds to believe_ that any property is, or in whole or in part, directly or indirectly, represents, another person’s benefits of drug trafficking —
+> (2)    Any person who, _knowing or having reasonable grounds to believe_ that any property is, or in whole or in part, directly or indirectly, represents, another person’s benefits of drug trafficking —
 
-(_a_)    conceals or disguises that property; or
+>> (_a_)    conceals or disguises that property; or
 
-(_b_)    converts or transfers that property or removes it from the jurisdiction,
+>> (_b_)    converts or transfers that property or removes it from the jurisdiction,
 
-for the purpose of assisting any person to avoid prosecution for a drug trafficking offence or a foreign drug trafficking offence or the making or enforcement of a confiscation order shall be guilty of an offence.
+> for the purpose of assisting any person to avoid prosecution for a drug trafficking offence or a foreign drug trafficking offence or the making or enforcement of a confiscation order shall be guilty of an offence.
 
-(3)    Any person who, _knowing or having reasonable grounds to believe_ that any property is, or in whole or in part directly or indirectly represents, another person’s benefits of drug trafficking, acquires that property for no, or inadequate consideration shall be guilty of an offence.
+> (3)    Any person who, _knowing or having reasonable grounds to believe_ that any property is, or in whole or in part directly or indirectly represents, another person’s benefits of drug trafficking, acquires that property for no, or inadequate consideration shall be guilty of an offence.
 
-…
+> …
 
-\[emphasis added in italics\]
+> \[emphasis added in italics\]
 
 25     It should be noted that the provision for **_primary_** laundering (_ie_, ss 43(1) and 43A(1) (reproduced above at \[24\] and \[23\], respectively), the predecessor provisions of s 47(1) of the CDSA) remained (and still remain) **_silent_** on the _mens rea_ requirement.
 
 26     The CDSA was **_further amended_** in **_2014_**. An amendment which (as will become apparent below) is **_highly pertinent_** to this reference is the definition of “foreign serious offence”. **_Prior to_** 2014, this was defined as follows:
 
-an offence (other than a foreign drug trafficking offence) against the laws of, or of a part of, a foreign country **_stated in a certificate_** purporting to be issued by or on behalf of the government of that country and the act or omission constituting the offence or the equivalent act or omission would, if it had occurred in Singapore, have constituted a serious offence. \[emphasis added in bold italics\]
+> an offence (other than a foreign drug trafficking offence) against the laws of, or of a part of, a foreign country **_stated in a certificate_** purporting to be issued by or on behalf of the government of that country and the act or omission constituting the offence or the equivalent act or omission would, if it had occurred in Singapore, have constituted a serious offence. \[emphasis added in bold italics\]
 
 27     However (and notwithstanding the definition hitherto existing and as reproduced in the preceding paragraph), Parliament recognised that were serious difficulties in obtaining foreign certificates as it was not an internationally established practice to issue such certificates. The CDSA was therefore **_amended in 2014 to permit a wider range of evidence to be adduced to prove the foreign law which gives rise to the predicate offence_**: see _Singapore Parliamentary Debates_, _Official Report_ (7 July 2014) vol 92, _per_ Mr S Iswaran, Second Minister for Home Affairs. _However_, it bears noting – for the purposes of the present proceedings – that these amendments were **_not yet in force_** when the offences that were the subject of the present proceedings were committed, and that they are therefore **_not applicable_** here. In other words, the definition of “foreign serious offence” applicable to the present matter is that which has been set out in the preceding paragraph (_viz_, in relation to the legal position **_prior to_** the 2014 amendment to the CDSA).
 
@@ -209,19 +209,19 @@ an offence (other than a foreign drug trafficking offence) against the laws of, 
 
 31     To recapitulate, the key question before this Court is whether a **_secondary_** offender such as the applicant, who does _not himself_ commit the offence from which the proceeds were originally derived but launders the proceeds of another person’s crime instead, can be properly charged under s 47(1) instead of s 47(2). As this is a question of statutory interpretation, it would be useful to recall the guidelines which this Court laid down in _Tan Cheng Bock v Attorney-General_ <span class="citation">\[2017\] 2 SLR 850</span> (“_Tan Cheng Bock_”) at \[37\]:
 
-(a)     First, ascertain the possible interpretations of the provision, having regard not just to the text of the provision but also to the context of that provision within the written law as a whole.
+> (a)     First, ascertain the possible interpretations of the provision, having regard not just to the text of the provision but also to the context of that provision within the written law as a whole.
 
-(b)     Second, ascertain the legislative purpose or object of the statute.
+> (b)     Second, ascertain the legislative purpose or object of the statute.
 
-(c)     Third, compare the possible interpretations of the text against the purposes or objects of the statute.
+> (c)     Third, compare the possible interpretations of the text against the purposes or objects of the statute.
 
 32     At the first step, the exhortation to interpret the provision with regard to the context of that provision within the written law as a whole is crucial. In this regard, it is trite that “Parliament shuns tautology and does not legislate in vain; the court should therefore endeavour to give significance to every word in an enactment”: see _Tan Cheng Bock_ at \[38\]; see also the decision of this Court in _JD Ltd v Comptroller of Income Tax_ <span class="citation">\[2006\] 1 SLR 484</span> at \[43\].
 
 33     We examine – and, indeed, contextualise – the parties’ submissions with these principles in mind. The parties’ respective positions are as follows:
 
-(a)     Section 47(1) applies **_only_** to primary offenders (the **_applicant’s_** position).
+> (a)     Section 47(1) applies **_only_** to primary offenders (the **_applicant’s_** position).
 
-(b)     Section 47(1) applies to **_both_** primary and secondary offenders, **_provided that_** the secondary offender is convicted of the s 411 PC offence (the **_respondent’s_** position).
+> (b)     Section 47(1) applies to **_both_** primary and secondary offenders, **_provided that_** the secondary offender is convicted of the s 411 PC offence (the **_respondent’s_** position).
 
 34     The respondent accepts, in its skeletal arguments and at the hearing before us, that s 47**_(1)_** is targeted at **_primary_** offenders while s 47**_(2)_** is targeted at **_secondary_** offenders. We agree. This is plain from the fact that s 47**_(1)_** refers to “**_his_** \[_ie_, the accused’s\] benefits from criminal conduct”, while s 47**_(2)_** refers to “**_another person’s_** benefits from criminal conduct”. Indeed, we had reached the same conclusion in _WBL Corp Ltd v Lew Chee Fai Kevin and another appeal_ <span class="citation">\[2012\] 2 SLR 978</span> at \[39\].
 
@@ -229,21 +229,21 @@ an offence (other than a foreign drug trafficking offence) against the laws of, 
 
 36     The respondent nevertheless submits that that the overlap between ss 47(1) and (2) is – contrary to the view we have expressed in the preceding paragraph – not fatal to its case, because it is not uncommon for the same set of facts to fall within more than one offence-creating provision. It highlights that this is envisaged by s 135 of the Criminal Procedure Code (Cap 68, 2012 Rev Ed), which states as follows:
 
-**Trial of offences within 2 or more definitions**
+> **Trial of offences within 2 or more definitions**
 
-**135**.    If the alleged acts constitute an offence falling within 2 or more separate definitions of any law by which offences are defined or punished, then the person accused of them may be charged with and tried at one trial for each of those offences.
+> **135**.    If the alleged acts constitute an offence falling within 2 or more separate definitions of any law by which offences are defined or punished, then the person accused of them may be charged with and tried at one trial for each of those offences.
 
 _Illustrations_
 
-The separate charges referred to in _illustrations_ (_a_) to (_d_) below respectively may be tried at one trial.
+> The separate charges referred to in _illustrations_ (_a_) to (_d_) below respectively may be tried at one trial.
 
-(_a_)     _A_ wrongfully strikes _B_ with a cane. _A_ may be separately charged with offences under sections 352 and 323 of the Penal Code (Cap. 224).
+>> (_a_)     _A_ wrongfully strikes _B_ with a cane. _A_ may be separately charged with offences under sections 352 and 323 of the Penal Code (Cap. 224).
 
-(_b_)    Several stolen sacks of rice are passed to _A_ and _B_, who know they are stolen property, so they can conceal them. _A_ and _B_ then voluntarily help each other to conceal the sacks at the bottom of a grain pit. _A_ and _B_ may be separately charged with offences under sections 411 and 414 of the Penal Code.
+>> (_b_)    Several stolen sacks of rice are passed to _A_ and _B_, who know they are stolen property, so they can conceal them. _A_ and _B_ then voluntarily help each other to conceal the sacks at the bottom of a grain pit. _A_ and _B_ may be separately charged with offences under sections 411 and 414 of the Penal Code.
 
-(_c_)     _A_ exposes her child with the knowledge that by doing so she is likely to cause its death. The child dies as a result. _A_ may be separately charged with offences under sections 317 and 304 of the Penal Code.
+>> (_c_)     _A_ exposes her child with the knowledge that by doing so she is likely to cause its death. The child dies as a result. _A_ may be separately charged with offences under sections 317 and 304 of the Penal Code.
 
-(_d_)     _A_ dishonestly uses a forged document as evidence to convict _B_, a public servant, of an offence under section 167 of the Penal Code. _A_ may be separately charged with offences under sections 471 (read with section 466) and 196 of the Penal Code.
+>> (_d_)     _A_ dishonestly uses a forged document as evidence to convict _B_, a public servant, of an offence under section 167 of the Penal Code. _A_ may be separately charged with offences under sections 471 (read with section 466) and 196 of the Penal Code.
 
 37     The respondent is correct in pointing out that there are many overlapping offences in the PC. However, this is because the PC contains many similar offences of differing gravity as well as correspondingly different sentences. For example, a person who kills another by breaking the other person’s neck may be charged with murder, causing grievous hurt, or using criminal force. However, no one can seriously suggest that any of these offences is redundant because the applicable sentences for those offences are different; different charges may be brought depending on the severity of the offending as embodied in the precise facts and circumstances of the case itself. This is **_unlike_** the situation we are faced with here. The offences in ss 47(1) and 47(2) have the same sentencing range: see s 47(6) of the CDSA. If a secondary offender such as the applicant could be charged under s 47(1), it is difficult to see why s 47(2) would not be redundant.
 
@@ -261,17 +261,17 @@ The separate charges referred to in _illustrations_ (_a_) to (_d_) below respect
 
 44     The appellant in that case took instructions from one “Mike”. Following those instructions, she met Aloysious on various occasions and remitted the moneys that she had received from him (_ie_, Aloysious). The appellant was charged and convicted under s 44(1)(_a_) of the CDSA, which, at the material time, provided as follows (_Ang Jeanette_ at \[22\]):
 
-**Assisting another to retain benefits from criminal conduct**
+> **Assisting another to retain benefits from criminal conduct**
 
-**44.**—(1)    Subject to subsection (3), a person who enters into or is otherwise concerned in an arrangement, knowing or having reasonable grounds to believe that, by the arrangement—
+> **44.**—(1)    Subject to subsection (3), a person who enters into or is otherwise concerned in an arrangement, knowing or having reasonable grounds to believe that, by the arrangement—
 
-(_a_)    the retention or control by or on behalf of another (referred to in this section as that other person) of _that other person’s benefits of criminal conduct_ is facilitated (whether by concealment, removal from jurisdiction, transfer to nominees or otherwise); or
+>> (_a_)    the retention or control by or on behalf of another (referred to in this section as that other person) of _that other person’s benefits of criminal conduct_ is facilitated (whether by concealment, removal from jurisdiction, transfer to nominees or otherwise); or
 
-…
+> …
 
-and knowing or having reasonable grounds to believe that that other person is a person who engages in or has engaged in criminal conduct or has benefited from criminal conduct shall be guilty of an offence.
+> and knowing or having reasonable grounds to believe that that other person is a person who engages in or has engaged in criminal conduct or has benefited from criminal conduct shall be guilty of an offence.
 
-\[emphasis added\]
+> \[emphasis added\]
 
 45     Thus, the Prosecution had to prove the existence of “the other person’s benefits of criminal conduct”. However, there was a local intermediary in _Ang Jeanette_: Aloysious had received stolen moneys in his bank accounts. The High Court found (at \[69\]) that Aloysious had dishonestly received those moneys. Thus, the s 44(1)(_a_) charges were made out against the appellant because she had dealt with _Aloysious’s_ benefits of criminal conduct (_ie_, his s 411 PC offence). Unlike the present case, the Prosecution in _Ang Jeanette_ did not seek to turn the appellant from a secondary offender to a primary offender by charging her with a s 411 PC offence. Thus, _Ang Jeanette_ does not assist the respondent.
 
@@ -281,17 +281,17 @@ and knowing or having reasonable grounds to believe that that other person is a 
 
 47     The follow-up question within Question 1 is “how would the outcome be affected if the applicant were to be convicted under s 47(2) instead?”. This presupposes that the applicant can be charged under s 47(2) instead. While we recognise that the parties were not expressly asked to consider whether the applicant could, as a matter of law, be convicted of the s 47(2) offence, both parties had addressed this question in their written submissions and were given a further opportunity to elaborate upon their arguments on this particular issue at the hearing before us. To recapitulate, s 47(2) (also reproduced above at \[18\]) states as follows:
 
-(2)    Any person who, knowing or having reasonable grounds to believe that any property is, or in whole or in part, directly or indirectly, represents, another person’s benefits from criminal conduct —
+> (2)    Any person who, knowing or having reasonable grounds to believe that any property is, or in whole or in part, directly or indirectly, represents, another person’s benefits from criminal conduct —
 
-(_a_)    conceals or disguises that property; or
+>> (_a_)    conceals or disguises that property; or
 
-(_b_)    converts or transfers that property or removes it from the jurisdiction,
+>> (_b_)    converts or transfers that property or removes it from the jurisdiction,
 
-shall be guilty of an offence.
+> shall be guilty of an offence.
 
 48     As stated above, the applicant committed his offences in May 2013, **_before_** the 2014 amendments to the CDSA came into force. Since the primary offence in this case took place in Bermuda, the respondent had two options to prove that “criminal conduct” had taken place in Bermuda. First, it could adduce evidence to show that an act constituting one or another of the offences listed in the Second Schedule had been committed, provided that the offence is defined in the statute criminalising that act as having been committed when committed in a place outside Singapore: see _Ang Jeanette_ at \[59\]. The respondent does not rely on this option. Second, the respondent could prove that a “foreign serious offence” had taken place; that term was defined at the material time as follows:
 
-an offence (other than a foreign drug trafficking offence) against the laws of, or of a part of, a foreign country **_stated in a certificate_** purporting to be issued by or on behalf of the government of that country and the act or omission constituting the offence or the equivalent act or omission would, if it had occurred in Singapore, have constituted a serious offence. \[emphasis added in bold italics\]
+> an offence (other than a foreign drug trafficking offence) against the laws of, or of a part of, a foreign country **_stated in a certificate_** purporting to be issued by or on behalf of the government of that country and the act or omission constituting the offence or the equivalent act or omission would, if it had occurred in Singapore, have constituted a serious offence. \[emphasis added in bold italics\]
 
 49     It is not disputed that no foreign certificate was tendered in the present case. And while the applicant had accepted, in the Statement of Agreed Facts, that a fraudulent transfer was made from a HSBC Bermuda account to his DBS account as a result of deception, the applicant did not expressly accept that the said conduct amounted to a “foreign serious offence”. It bears emphasis that the respondent does not simply have to prove that an offence amounting to a crime under the laws of a foreign country had taken place in that country – it also has to prove that that offence constituted a “serious” offence under the laws of that country. Since no foreign certificate had been tendered, it appears to us that the respondent had failed to do so.
 
@@ -307,7 +307,7 @@ an offence (other than a foreign drug trafficking offence) against the laws of, 
 
 55     The respondent’s reliance on _Ang Jeanette_ in relation to this point is also without merit. The facts of this case have been set out briefly above at \[43\]–\[44\]. The respondent highlights the following paragraph in the judgment:
 
-69    … Thus, a compelling inference, given all the facts adduced by the Prosecution, would be that the moneys were dishonestly received into the Singapore bank accounts in question, including those opened under Aloysious’s name. Dishonest receipt of stolen property is an offence under s 411(1) of the Penal Code, and is also included in the Second Schedule of the CDSA. Therefore, even without producing a foreign certificate, the Prosecution has adduced evidence that give rise to a logical inference that conduct constituting a serious offence under the Second Schedule has taken place and that the moneys handled by the Appellant represented the benefits of such criminal conduct. **_In addition, the Prosecution’s evidence also established that Michael had been engaged in, or had benefited from, criminal conduct_**. \[emphasis added in bold italics\]
+> 69    … Thus, a compelling inference, given all the facts adduced by the Prosecution, would be that the moneys were dishonestly received into the Singapore bank accounts in question, including those opened under Aloysious’s name. Dishonest receipt of stolen property is an offence under s 411(1) of the Penal Code, and is also included in the Second Schedule of the CDSA. Therefore, even without producing a foreign certificate, the Prosecution has adduced evidence that give rise to a logical inference that conduct constituting a serious offence under the Second Schedule has taken place and that the moneys handled by the Appellant represented the benefits of such criminal conduct. **_In addition, the Prosecution’s evidence also established that Michael had been engaged in, or had benefited from, criminal conduct_**. \[emphasis added in bold italics\]
 
 56     The respondent relies heavily on the High Court’s finding in _Ang Jeanette_ that Michael had benefited from criminal conduct. It submits that Michael’s criminal conduct had been concerned in Aloysious’s 411 PC offence. Accordingly, the moneys represented Michael’s “benefits” from criminal conduct, presumably because the moneys were ultimately transferred by the appellant for Michael’s benefit. However, there is nothing in the judgment which suggests that the Court took the view that Michael’s criminal conduct had been concerned in Aloysious’s s 411 PC offence. Indeed, the High Court had accepted the evidence of a Special Agent with the US Federal Bureau of Investigation (who had testified at the trial before the District Court) that Michael was involved in a bank scam in the US: see \[43\] above. We recognise, as the respondent points out, that no foreign certificate was tendered in _Ang Jeanette_. Thus, the High Court could not have concluded that Michael had engaged in “criminal conduct” on the basis of his involvement in a foreign scam. Nevertheless, as we have pointed out above, it was not necessary for the Court to find that Michael was involved in a foreign serious offence because the Court had found that Aloysious had dishonestly received stolen moneys, and since the appellant had received those moneys from Aloysious, she had dealt with the benefits of Aloysious’s criminal conduct within the meaning of s 44(1)(_a_): see \[45\] above.
 

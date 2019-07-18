@@ -35,13 +35,13 @@ Arbitration – Award – Recourse against award – Setting aside – P
 
 6       To facilitate the projects, the six agreements were subsequently incorporated into a master agreement dated 27 January 2014 (“the Master Agreement”). The Master Agreement includes the following governing law and dispute resolution clause which provides for the governing law to be Sri Lankan law but for disputes to be settled by arbitration in Singapore in accordance with the rules of the Singapore International Arbitration Centre (“SIAC”):
 
-**8**.     **GOVERNING LAW AND DISPUTE RESOLUTION**
+> **8**.     **GOVERNING LAW AND DISPUTE RESOLUTION**
 
-This Agreement shall be governed and construed in accordance with the laws of the Sri Lanka.
+> This Agreement shall be governed and construed in accordance with the laws of the Sri Lanka.
 
-The parties will first use their best endeavours to resolve, through mutual consultation between themselves without involving any third party or parties, any dispute, difference or question arising between the parties in connection with or in relation to the agreement. In the event that any dispute, difference or question, which has arisen in connection with or in relation to the agreement, cannot be, resolved amicably as stated above, then such dispute, difference or question shall be referred to arbitration. _The proceedings of the arbitration shall be conducted in the English language in accordance with the Rules of the Singapore International Arbitration Centre (SIAC). The place of arbitration shall be Singapore._ The Arbitral Tribunal shall be composed of three arbitrators, out of which one arbitrator shall be appointed by RALL, and one by AGMS, and the two arbitrators so appointed shall appoint a third arbitrator who shall act as the chairman of the tribunal.
+> The parties will first use their best endeavours to resolve, through mutual consultation between themselves without involving any third party or parties, any dispute, difference or question arising between the parties in connection with or in relation to the agreement. In the event that any dispute, difference or question, which has arisen in connection with or in relation to the agreement, cannot be, resolved amicably as stated above, then such dispute, difference or question shall be referred to arbitration. _The proceedings of the arbitration shall be conducted in the English language in accordance with the Rules of the Singapore International Arbitration Centre (SIAC). The place of arbitration shall be Singapore._ The Arbitral Tribunal shall be composed of three arbitrators, out of which one arbitrator shall be appointed by RALL, and one by AGMS, and the two arbitrators so appointed shall appoint a third arbitrator who shall act as the chairman of the tribunal.
 
-\[emphasis added\]
+> \[emphasis added\]
 
 7       About a year later, at the Sri Lankan presidential elections held on 8 January 2015, the incumbent president was defeated. On or about 28 January 2015, the then directors of RALL, who had been appointed by the previous government, resigned from its board. A new board of directors was appointed by the new government on or about 7 April 2015. The new government then launched investigations into alleged instances of bribery, corruption and abuse of power that had occurred during the previous regime. The investigations also looked into the dealings between AGMS and RALL.
 
@@ -75,9 +75,9 @@ The parties will first use their best endeavours to resolve, through mutual cons
 
 20     On 12 November 2015, RALL’s attorney wrote to the SIAC, copying AGMS, stating that AGMS had “already agreed to withdraw the … matter”, and thus requesting the Tribunal to “lay by the proceedings of the Arbitration”. He informed the SIAC that a “copy of the agreement signed by the Claimant and Respondent \[would\] be sent by Registered post … shortly”. The attorney also forwarded a letter from RALL which stated, _inter alia_:
 
-02.    It is kindly informed that we have reached a settlement with the Claimant as per the written agreement dated 20th October 2015 made by and between \[RALL and AGMS\] with regard to the dispute that led the Claimant to commence the arbitration proceedings against us.
+> 02.    It is kindly informed that we have reached a settlement with the Claimant as per the written agreement dated 20th October 2015 made by and between \[RALL and AGMS\] with regard to the dispute that led the Claimant to commence the arbitration proceedings against us.
 
-03.    In the above circumstances, we kindly inform you that it is no longer required to proceed with the above matter.
+> 03.    In the above circumstances, we kindly inform you that it is no longer required to proceed with the above matter.
 
 21     The settlement is encapsulated in a memorandum of understanding (“MOU”) dated 20 October 2015 signed by the parties. The pertinent clauses of the MOU are set out at \[87\] and \[88\] below. Basically, the MOU provided for AGMS to pay certain sums to RALL, for RALL to waive part of one of its claims against AGMS and for each party to withdraw the arbitration/legal proceedings it had commenced against the other.
 
@@ -105,11 +105,11 @@ The parties will first use their best endeavours to resolve, through mutual cons
 
 31     In the High Court, RALL contended that:
 
-(a)     The Award should be set aside pursuant to Art 34(2)(_a_)(iii) because it deals with a dispute not falling within the terms of the submission to arbitration or contains decisions on matters beyond the scope of the submission to arbitration (“the jurisdictional challenge”). The core of RALL’s argument was that the MOU had terminated the reference to arbitration.
+> (a)     The Award should be set aside pursuant to Art 34(2)(_a_)(iii) because it deals with a dispute not falling within the terms of the submission to arbitration or contains decisions on matters beyond the scope of the submission to arbitration (“the jurisdictional challenge”). The core of RALL’s argument was that the MOU had terminated the reference to arbitration.
 
-(b)     The Award should be set aside pursuant to Art 34(2)(_a_)(ii) because RALL was not given proper notice of the arbitral proceedings or was unable to present its case, in that certain pieces of correspondence and documents were not copied to it. In particular, the notes of evidence of the substantive hearing on 21 June 2016 were not sent to it. RALL argued that this also breached the rules of natural justice in the making of the Award under s 24(_b_).
+> (b)     The Award should be set aside pursuant to Art 34(2)(_a_)(ii) because RALL was not given proper notice of the arbitral proceedings or was unable to present its case, in that certain pieces of correspondence and documents were not copied to it. In particular, the notes of evidence of the substantive hearing on 21 June 2016 were not sent to it. RALL argued that this also breached the rules of natural justice in the making of the Award under s 24(_b_).
 
-(c)     The Award should be set aside pursuant to Art 34(2)(_b_)(ii) as being in conflict with the public policy of Singapore, or under s 24(_a_) because it was induced or affected by fraud or corruption (“the public policy challenge”). RALL’s main argument was that the Master Agreement was procured by bribes given by AGMS’ chairman, Mr Senadhipathi, to RALL’s then chairman, Mr Fernando.
+> (c)     The Award should be set aside pursuant to Art 34(2)(_b_)(ii) as being in conflict with the public policy of Singapore, or under s 24(_a_) because it was induced or affected by fraud or corruption (“the public policy challenge”). RALL’s main argument was that the Master Agreement was procured by bribes given by AGMS’ chairman, Mr Senadhipathi, to RALL’s then chairman, Mr Fernando.
 
 32     The Judge dismissed RALL’s application to set aside the Award, and set out his reasons in _Rakna Arakshaka Lanka Ltd v Avant Garde Maritime Services (Private) Limited_ <span class="citation">\[2018\] SGHC 78</span> (“the GD”). On the jurisdictional challenge, the Judge held that the Order was a ruling on jurisdiction as a preliminary issue. Thus, s 10(3) and Art 16(3) were applicable, and RALL had to challenge the Order within 30 days of receiving notice of the ruling. The Judge noted that a party’s failure to challenge a tribunal’s ruling on jurisdiction as a preliminary issue has a preclusive effect in that such party cannot thereafter bring a jurisdictional challenge in subsequent setting aside proceedings in the seat court (GD at \[56\]–\[63\]). He then decided that the preclusive effect of s 10(3) and Art 16(3) applied equally to a party that had stayed away from the arbitral proceedings. All the considerations of finality, certainty, practicality, costs, preventing dilatory tactics and settling the position at an early stage at the seat where the arbitral tribunal has chosen to decide jurisdiction as a preliminary issue militated against allowing a respondent to reserve its objections to the last minute and indulge in tactics which would result in immense delays and costs. RALL’s jurisdictional challenge at the seat in blatant disregard of Art 16 amounted to an abuse of process (GD at \[65\]–\[74\]).
 
@@ -125,11 +125,11 @@ The parties will first use their best endeavours to resolve, through mutual cons
 
 37     On the jurisdictional challenge pursuant to Art 34(2)(_a_)(iii), RALL argues that it is not precluded from raising the challenge in the setting aside stage.
 
-(a)     First, it submits that the Order is not a preliminary ruling on jurisdiction, so Art 16(3) and s 10(3) do not apply. The Tribunal did not rule on its jurisdiction but only directed the parties to continue with the proceedings.
+> (a)     First, it submits that the Order is not a preliminary ruling on jurisdiction, so Art 16(3) and s 10(3) do not apply. The Tribunal did not rule on its jurisdiction but only directed the parties to continue with the proceedings.
 
-(b)     Second, even assuming that the Order is a preliminary ruling, RALL submits that it is not precluded from challenging the Award under Art 34. RALL relies the observation by GP Selvam J in _Tan Poh Leng Stanley v Tang Boon Jek Jeffrey_ <span class="citation">\[2000\] 3 SLR(R) 847</span> (“_Tan Poh Leng_”) that the right to request the High Court for a decision on jurisdiction after the tribunal has ruled on jurisdiction as a preliminary issue is only a request that does not bar a challenge by an applicant to set aside the award on the ground of lack of jurisdiction.
+> (b)     Second, even assuming that the Order is a preliminary ruling, RALL submits that it is not precluded from challenging the Award under Art 34. RALL relies the observation by GP Selvam J in _Tan Poh Leng Stanley v Tang Boon Jek Jeffrey_ <span class="citation">\[2000\] 3 SLR(R) 847</span> (“_Tan Poh Leng_”) that the right to request the High Court for a decision on jurisdiction after the tribunal has ruled on jurisdiction as a preliminary issue is only a request that does not bar a challenge by an applicant to set aside the award on the ground of lack of jurisdiction.
 
-(c)     Third, RALL argues that even if preclusion applies, it does not apply to a party that has not participated in the arbitral proceedings, and RALL is such a party.
+> (c)     Third, RALL argues that even if preclusion applies, it does not apply to a party that has not participated in the arbitral proceedings, and RALL is such a party.
 
 38     RALL submits that the existence of a tribunal’s jurisdiction is a matter that is subject to _de novo_ review by the court. In this regard, it avers that the mandate of the Tribunal ended with the MOU, because the MOU contains the parties’ agreement that the arbitration was to be put to an end. Reiterating the Dissent, RALL argues that cl 5 of the MOU stipulated that AGMS was obliged to formally withdraw the arbitration, and the MOU was not repudiated or terminated at any time. There is no evidence that RALL failed to maintain the continuity of the Master Agreement – the Master Agreement and the agreements therein, as listed in the MOU, still continue to run.
 
@@ -149,17 +149,17 @@ The parties will first use their best endeavours to resolve, through mutual cons
 
 46     On the basis of the matters raised by the parties, the issues we have to decide are:
 
-(a)     Whether the Award should be set aside on the basis of the jurisdictional challenge. This involves the following sub-issues:
+> (a)     Whether the Award should be set aside on the basis of the jurisdictional challenge. This involves the following sub-issues:
 
-(i)       Whether the Order was a ruling on jurisdiction that fell within s 10(3) and Art 16(3);
+>> (i)       Whether the Order was a ruling on jurisdiction that fell within s 10(3) and Art 16(3);
 
-(ii)       If so, whether the aforesaid provisions apply to a party that did not participate in the arbitration so that RALL, having failed to utilise the court supervisory mechanism in those provisions, is precluded from bringing a challenge to the Tribunal’s jurisdiction in the setting aside proceeding;
+>> (ii)       If so, whether the aforesaid provisions apply to a party that did not participate in the arbitration so that RALL, having failed to utilise the court supervisory mechanism in those provisions, is precluded from bringing a challenge to the Tribunal’s jurisdiction in the setting aside proceeding;
 
-(iii)       Which limb of Art 34(2) applies to an application to set aside an award on the basis of lack of jurisdiction; and
+>> (iii)       Which limb of Art 34(2) applies to an application to set aside an award on the basis of lack of jurisdiction; and
 
-(iv)       If RALL is not precluded from bringing the jurisdiction ground of challenge, whether the Tribunal had jurisdiction (which involves a consideration of the effect of the MOU); and
+>> (iv)       If RALL is not precluded from bringing the jurisdiction ground of challenge, whether the Tribunal had jurisdiction (which involves a consideration of the effect of the MOU); and
 
-(b)     Whether the Award should be set aside on the ground of public policy pursuant to s 24(_a_) or Art 34(2)(_b_)(ii).
+> (b)     Whether the Award should be set aside on the ground of public policy pursuant to s 24(_a_) or Art 34(2)(_b_)(ii).
 
 ### The jurisdictional challenge
 
@@ -169,33 +169,33 @@ The parties will first use their best endeavours to resolve, through mutual cons
 
 48     First, Art 16 of the Model Law provides:
 
-**Article 16. Competence of arbitral tribunal to rule on its jurisdiction**
+> **Article 16. Competence of arbitral tribunal to rule on its jurisdiction**
 
-(1)    The arbitral tribunal may rule on its own jurisdiction, including any objections to the existence or validity of the arbitration agreement. …
+> (1)    The arbitral tribunal may rule on its own jurisdiction, including any objections to the existence or validity of the arbitration agreement. …
 
-(2)     _A plea that the arbitral tribunal does not have jurisdiction shall be raised not later than the submission of the statement of defence_. A party is not precluded from raising such a plea by the fact that he has appointed, or participated in the appointment of, an arbitrator. A plea that the arbitral tribunal is exceeding the scope of its authority shall be raised as soon as the matter alleged to be beyond the scope of its authority is raised during the arbitral proceedings. The arbitral tribunal may, in either case, admit a later plea if it considers the delay justified.
+> (2)     _A plea that the arbitral tribunal does not have jurisdiction shall be raised not later than the submission of the statement of defence_. A party is not precluded from raising such a plea by the fact that he has appointed, or participated in the appointment of, an arbitrator. A plea that the arbitral tribunal is exceeding the scope of its authority shall be raised as soon as the matter alleged to be beyond the scope of its authority is raised during the arbitral proceedings. The arbitral tribunal may, in either case, admit a later plea if it considers the delay justified.
 
-(3)    The arbitral tribunal may rule on a plea referred to in paragraph (2) of this Article either as a preliminary question or in an award on the merits. _If the arbitral tribunal rules as a preliminary question that it has jurisdiction, any party may request, within thirty days after having received notice of that ruling, the court specified in Article 6 to decide the matter_, which decision shall be subject to no appeal; while such a request is pending, the arbitral tribunal may continue the arbitral proceedings and make an award.
+> (3)    The arbitral tribunal may rule on a plea referred to in paragraph (2) of this Article either as a preliminary question or in an award on the merits. _If the arbitral tribunal rules as a preliminary question that it has jurisdiction, any party may request, within thirty days after having received notice of that ruling, the court specified in Article 6 to decide the matter_, which decision shall be subject to no appeal; while such a request is pending, the arbitral tribunal may continue the arbitral proceedings and make an award.
 
-\[emphasis added\]
+> \[emphasis added\]
 
 49     Secondly, the IAA in order to implement Art 16 provides by s 10:
 
-**Appeal on ruling of jurisdiction**
+> **Appeal on ruling of jurisdiction**
 
-**10.** – (1)    This section shall have effect notwithstanding Article 16(3) of the Model Law.
+> **10.** – (1)    This section shall have effect notwithstanding Article 16(3) of the Model Law.
 
-(2)    An arbitral tribunal may rule on a plea that it has no jurisdiction at any stage of the arbitral proceedings.
+> (2)    An arbitral tribunal may rule on a plea that it has no jurisdiction at any stage of the arbitral proceedings.
 
-(3)    If the arbitral tribunal rules –
+> (3)    If the arbitral tribunal rules –
 
-(_a_)    on a plea as a preliminary question that it has jurisdiction; or
+>> (_a_)    on a plea as a preliminary question that it has jurisdiction; or
 
-(_b_)    on a plea at any stage of the arbitral proceedings that it has no jurisdiction,
+>> (_b_)    on a plea at any stage of the arbitral proceedings that it has no jurisdiction,
 
-any party may, within 30 days after having received notice of that ruling, apply to the High Court to decide the matter.
+> any party may, within 30 days after having received notice of that ruling, apply to the High Court to decide the matter.
 
-…
+> …
 
 50     The drafters of the Model Law inserted Art 16 to reflect the important principle of _Kompetenz–Kompetenz_ (which had sometimes been controverted), that initially it is for the arbitral tribunal to determine whether it has jurisdiction _albeit_ that such determination is subject to court supervision. Paragraph 2 of Art 16 was formulated to deal with challenges to the tribunal’s jurisdiction and was aimed, in particular, at ensuring that any such objections were raised without delay. Hence, the provision that such a challenge has to be made at the latest by the submission of the statement of defence. The tribunal is given the discretion to decide whether to deal with the challenge on a preliminary basis or to deal with it in the course of the final award. If the first method is adopted and the tribunal issues a preliminary ruling that it has jurisdiction, the defendant may then appeal to the relevant court within 30 days. Once again, the timeline has been imposed in order to expedite resolution of the question and of the arbitration generally (see United Nations Commission on International Trade, _Analytical Commentary on Draft Text of a Model Law on International Commercial Arbitration_ (A/CN.9/264, 25 March 1985) at p 41) (the “_Analytical Commentary_”).
 
@@ -225,11 +225,11 @@ any party may, within 30 days after having received notice of that ruling, apply
 
 61     To answer this question, we turn first to the _Analytical Commentary_ as it reveals the views of the drafters of the Model Law. In relation to Art 16(2) and the effect of a failure to raise a plea of no jurisdiction within the specified time-limit, it states (at p 39):
 
-8.    The model law does not state whether a party’s failure to raise his objections within the time-limit set by article 16(2) has effect at the post-award stage. The pertinent observation of the Working Group was that a party who failed to raise the plea as required under article 16(2) should be precluded from raising such objections not only during the later stages of the arbitral proceedings but also in other contexts, in particular, in setting aside proceedings or enforcement proceedings, subject to certain limits such as public policy, including those relating to arbitrability.
+> 8.    The model law does not state whether a party’s failure to raise his objections within the time-limit set by article 16(2) has effect at the post-award stage. The pertinent observation of the Working Group was that a party who failed to raise the plea as required under article 16(2) should be precluded from raising such objections not only during the later stages of the arbitral proceedings but also in other contexts, in particular, in setting aside proceedings or enforcement proceedings, subject to certain limits such as public policy, including those relating to arbitrability.
 
 62     Then the _Analytical Commentary_ goes on to give the views of the Secretariat itself as to the preclusive effect of such failure:
 
-9.    It is submitted that this observation accords with the purpose underlying paragraph (2) and might appropriately be expressed in the model law. It would mean, in practical terms, that any objection, for example, to the validity of the arbitration agreement may not later be invoked as a ground for setting aside under article 34(2)(_a_)(i) or for requesting, under article 36(1)(_a_)(i), refusal of recognition or enforcement of an award (made under this Law); _these provisions on grounds for setting aside or refusing recognition or enforcement would remain applicable and of practical relevance to those cases_ where a party raised the plea in time but without success or _where a party did not participate in the arbitration, at least not submit a statement or take part in hearings on the substance of the dispute._ \[emphasis added\]
+> 9.    It is submitted that this observation accords with the purpose underlying paragraph (2) and might appropriately be expressed in the model law. It would mean, in practical terms, that any objection, for example, to the validity of the arbitration agreement may not later be invoked as a ground for setting aside under article 34(2)(_a_)(i) or for requesting, under article 36(1)(_a_)(i), refusal of recognition or enforcement of an award (made under this Law); _these provisions on grounds for setting aside or refusing recognition or enforcement would remain applicable and of practical relevance to those cases_ where a party raised the plea in time but without success or _where a party did not participate in the arbitration, at least not submit a statement or take part in hearings on the substance of the dispute._ \[emphasis added\]
 
 63     The second part of the paragraph (emphasised in italics above) goes further than the Working Group did and reflects the Secretariat’s view that a party who has not participated in the arbitration at all may still object to jurisdiction at the setting aside stage. The Secretariat therefore recognised that a different regime should apply to a non-participating party. At the time of this commentary, the 30-day time period for application to court was not included in the draft version of Art 16(3) which was probably why the Secretariat was also able at that time to say that a party that had raised the plea in time without success could also bring up the matter again in a setting aside application. In any case, the submission that the time limit in Art 16(2) would not have a preclusive effect on a non-participating party must, logically, apply also to non-observance of the time limit in Art 16(3) by such a party.
 
@@ -241,7 +241,7 @@ any party may, within 30 days after having received notice of that ruling, apply
 
 67     It is also pertinent that the Judge who heard the _Astro Nusantara_ case at first instance (_Astro Nusantara International BV and others v PT Ayunda Prima Mitra and others_ <span class="citation">\[2013\] 1 SLR 636</span>) expressed a different opinion on the effect of Art 16(3). She said at \[133\]:
 
-If a party chooses the second option of challenge by choosing to _leave the arbitral regime in protest_ and should the tribunal rule against it on the merits, that party, as the losing party, is entitled within the time stipulated in Art 34 to set aside the award under any of the grounds in Art 34. … One way in which a party may challenge the jurisdiction of a tribunal is simply to step out of the arbitral regime and boycott the proceedings altogether. _If this course of action is chosen (and this course is not without risk), then the rules for appeal which would apply to parties within the arbitral regime would no longer apply to the boycotting party. Arguably, the boycotting party would then be able to apply to set aside the award under Art 34(2)(a)(i) on jurisdictional grounds_. The jurisdictional award would not be final _vis-à-vis_ the boycotting party, and the opposing party would have ample notice of this from the boycotting party’s absolute refusal to participate. This possibility is hinted at in UNCITRAL Commentary (A/CN 9/264) on Art 16(2) at para 9. \[emphasis added\]
+> If a party chooses the second option of challenge by choosing to _leave the arbitral regime in protest_ and should the tribunal rule against it on the merits, that party, as the losing party, is entitled within the time stipulated in Art 34 to set aside the award under any of the grounds in Art 34. … One way in which a party may challenge the jurisdiction of a tribunal is simply to step out of the arbitral regime and boycott the proceedings altogether. _If this course of action is chosen (and this course is not without risk), then the rules for appeal which would apply to parties within the arbitral regime would no longer apply to the boycotting party. Arguably, the boycotting party would then be able to apply to set aside the award under Art 34(2)(a)(i) on jurisdictional grounds_. The jurisdictional award would not be final _vis-à-vis_ the boycotting party, and the opposing party would have ample notice of this from the boycotting party’s absolute refusal to participate. This possibility is hinted at in UNCITRAL Commentary (A/CN 9/264) on Art 16(2) at para 9. \[emphasis added\]
 
 68     This permissive interpretation of Art 16(3) as only one remedy available to the parties, which does not preclude them from challenging the arbitral tribunal’s jurisdictional decision at a later stage, has also been explained by this Court in _Astro Nusantara_. Along the lines of _Tan Poh Leng_, this Court stated (at \[119\]) that the words “may request” pointed to Art 16(3) providing parties with an additional option rather than confining them to a particular course of action. However, no great weight is placed on the wording of the provision. In any event, the Court clarified (at \[130\]) that in setting aside proceedings it would be “surprised” if a party retained the right to bring an application to set aside the final award on the merits under Art 34 on the jurisdictional ground it could have relied on to base a challenge under Art 16(3). With reference to the present case, that clarification is _obiter_ in two ways: first, in that this Court was not there dealing with an Art 34 challenge; and secondly, in that it was not dealing with the situation of a party who had not participated in the arbitration at all.
 
@@ -277,7 +277,7 @@ If a party chooses the second option of challenge by choosing to _leave the arbi
 
 83     The first limb of Art 34(2)(_a_)(iii) which RALL has cited is: “the award deals with a dispute not contemplated by or not falling within the terms of the submission to arbitration”. In our view, this limb does not apply. This is because cl 8 of the Master Agreement states, _inter alia_:
 
-In the event that any dispute, difference or question, which has arisen in connection with or in relation to the agreement, cannot be, resolved amicably as stated above, then such dispute, difference or question shall be referred to arbitration.
+> In the event that any dispute, difference or question, which has arisen in connection with or in relation to the agreement, cannot be, resolved amicably as stated above, then such dispute, difference or question shall be referred to arbitration.
 
 There was no doubt that the dispute which AGMS submitted to arbitration arose out of the Master Agreement. Before us, RALL did not contend otherwise though it had made such an objection initially to the SIAC (see \[17\] above).
 
@@ -287,41 +287,41 @@ There was no doubt that the dispute which AGMS submitted to arbitration arose ou
 
 85     The Judge held that the MOU did not terminate the Tribunal’s mandate (GD at \[51\] and \[73\]). RALL has cited the case of _Chimimport plc v G D’Alesio SAS_ \[1994\] CLC 459 (“_Chimimport_”) in support of its argument that the agreement to arbitrate the dispute must have been mutually withdrawn by the entry into the MOU. In _Chimimport_, it was held that an arbitration in London had been terminated by a settlement agreement and the arbitrator had no jurisdiction to continue to act. The Judge, however, was not persuaded to apply _Chimimport_ because he considered that there were material differences between the wording of the relevant clause in _Chimimport_ and cl 5 of the MOU. He said (GD at \[45\]–\[46\]):
 
-45.    … The _Chimimport_ clause provided:
+> 45.    … The _Chimimport_ clause provided:
 
-5.     _By signing this agreement_ the parties settle their differences, cease the \[arbitration\] case in London and will have no claims whatsoever towards one another, nor towards seller of the goods, charterers respectively. … \[emphasis added\]
+>> 5.     _By signing this agreement_ the parties settle their differences, cease the \[arbitration\] case in London and will have no claims whatsoever towards one another, nor towards seller of the goods, charterers respectively. … \[emphasis added\]
 
-46.    Whereas the effect of the clause in _Chimimport_ was to automatically terminate the arbitration upon the signing of the agreement, the effect of Clause 5 in the present case (see \[44\] above) was only to _oblige_ AGMS to withdraw its claim in the arbitration; a point that counsel for RALL quite rightly conceded. This meant that _until_ AGMS took the step of withdrawing the arbitration claim (and it was undisputed that AGMS took no such step), the arbitral proceedings remained live and the Tribunal’s mandate never came to an end. AGMS argued that it was no longer obliged to take that step as RALL had failed to ensure the continuity of the Master Agreement. Hence their original claims still remained.
+> 46.    Whereas the effect of the clause in _Chimimport_ was to automatically terminate the arbitration upon the signing of the agreement, the effect of Clause 5 in the present case (see \[44\] above) was only to _oblige_ AGMS to withdraw its claim in the arbitration; a point that counsel for RALL quite rightly conceded. This meant that _until_ AGMS took the step of withdrawing the arbitration claim (and it was undisputed that AGMS took no such step), the arbitral proceedings remained live and the Tribunal’s mandate never came to an end. AGMS argued that it was no longer obliged to take that step as RALL had failed to ensure the continuity of the Master Agreement. Hence their original claims still remained.
 
-\[emphasis in original\]
+> \[emphasis in original\]
 
 86     We disagree with this portion of the Judge’s analysis. We take a different view of the effect of the MOU. To explain this, a short review of the MOU may be helpful.
 
 87     The MOU starts with a description of the parties, RALL being referred to as the “First Party” and AGMS being referred to as the “Second Party”. It then proceeds to state as follows:
 
-_It is observed that the aforesaid parties_ by the Agreement No: 322 entered into on March 19, 2012, Agreement No: 323 entered into on March 21, 2012, Agreement No: 36 entered into on December 15, 2012, Agreement No: 333 entered into on April 25, 2013, Agreement No: 339 A entered into on August 01, 2013, Agreement No:  348 A entered into on September 25, 2013 and the Agreement entered into on January 27, 2014 and in addition to the aforesaid agreements if they had signed any other agreements prior to 9th January 2015 including such agreements, _have agreed to carry out and conduct the below–mentioned projects_ – \[Italics added for ease of comprehension\]
+> _It is observed that the aforesaid parties_ by the Agreement No: 322 entered into on March 19, 2012, Agreement No: 323 entered into on March 21, 2012, Agreement No: 36 entered into on December 15, 2012, Agreement No: 333 entered into on April 25, 2013, Agreement No: 339 A entered into on August 01, 2013, Agreement No:  348 A entered into on September 25, 2013 and the Agreement entered into on January 27, 2014 and in addition to the aforesaid agreements if they had signed any other agreements prior to 9th January 2015 including such agreements, _have agreed to carry out and conduct the below–mentioned projects_ – \[Italics added for ease of comprehension\]
 
 That portion is followed by a listing of those projects including the Galle Floating Armoury Project. The MOU then goes on:
 
-Furthermore, it is also observed that the parties have by the aforesaid agreements agreed to carry out and conduct the following projects in the future:
+> Furthermore, it is also observed that the parties have by the aforesaid agreements agreed to carry out and conduct the following projects in the future:
 
-a.    …
+>> a.    …
 
-b.    …
+>> b.    …
 
-_The aforesaid parties are bound by the respective agreements to operate the aforementioned projects and whilst the aforesaid agreements are still in force_ the said parties hereby agree to enter into this new agreement on October 20, 2015 thereby mutually agreeing to abide by the terms and conditions described hereunder. Furthermore, this agreement is limited in scope to the relevant monetary transactions specified therein.
+> _The aforesaid parties are bound by the respective agreements to operate the aforementioned projects and whilst the aforesaid agreements are still in force_ the said parties hereby agree to enter into this new agreement on October 20, 2015 thereby mutually agreeing to abide by the terms and conditions described hereunder. Furthermore, this agreement is limited in scope to the relevant monetary transactions specified therein.
 
-\[emphasis added\]
+> \[emphasis added\]
 
 88     Seven terms and conditions, numbered from 01 to 07, follow. The first three conditions provide for AGMS to pay certain sums of money to RALL and for RALL to waive payment of a sum in excess of Sri Lankan Rupees 255 million and the fourth provides for the instalment payment of certain specified arrears by AGMS to RALL. The sixth and seventh conditions also deal with payment matters. The fifth condition, however, relates to the arbitration proceedings. It states:
 
-05.     _The said second party shall withdraw the arbitration claim_ No: 70 of 2015 already filed by the said second party against the said first party in the International Arbitration Centre in Singapore and the said first party shall take action to terminate proceedings in relation to the letter of demand sent by the said first party to the said second party claiming Rupees Five hundred million (Rs. 500,000,000.00) on grounds of damage caused to reputation and monetary loss suffered as a result of the arbitration claim so filed and terminate the legal proceedings initiated against the said second party. \[emphasis added\]
+> 05.     _The said second party shall withdraw the arbitration claim_ No: 70 of 2015 already filed by the said second party against the said first party in the International Arbitration Centre in Singapore and the said first party shall take action to terminate proceedings in relation to the letter of demand sent by the said first party to the said second party claiming Rupees Five hundred million (Rs. 500,000,000.00) on grounds of damage caused to reputation and monetary loss suffered as a result of the arbitration claim so filed and terminate the legal proceedings initiated against the said second party. \[emphasis added\]
 
 89     From the above, it can be seen that the effect of the MOU as expressed in the clause immediately before the recitation of the terms and conditions was as follows:
 
-(a)     There was first a contractual declaration that both parties are bound by the agreements they had entered into. This was the MOU’s principal value to AGMS because much of the rest of that contract stipulates payment obligations for AGMS to perform.
+> (a)     There was first a contractual declaration that both parties are bound by the agreements they had entered into. This was the MOU’s principal value to AGMS because much of the rest of that contract stipulates payment obligations for AGMS to perform.
 
-(b)     There was then a statement that in effect the obligations under the previous agreements would continue to be valid and would not be affected by the MOU, save as specifically provided in the MOU in respect of the specific monetary transactions.
+> (b)     There was then a statement that in effect the obligations under the previous agreements would continue to be valid and would not be affected by the MOU, save as specifically provided in the MOU in respect of the specific monetary transactions.
 
 90     In our view, the words “whilst the aforesaid agreements are still in force” do not, as AGMS contends, signify that there was a separate obligation on RALL to keep the agreements alive. That would make no sense as there was already a declaration in the opening words that the “the aforesaid parties are bound by their respective agreements to operate the aforementioned projects …”. Hence, the clause read as a whole records the validity and subsistence of the prior agreements, and then goes on in effect to say that whereas those agreements were and remained valid, they would be affected by the terms of the MOU only to the extent of the transactions provided therein. Consistent with this, the MOU only provided for obligations on AGMS to pay and terminate the arbitration and for RALL in turn to terminate the law suit it had commenced claiming damages from AGMS.
 
@@ -333,15 +333,15 @@ _The aforesaid parties are bound by the respective agreements to operate the afo
 
 94     The stand taken by AGMS therefore was that it had been released from its obligations under the MOU and was entitled to have the arbitration proceedings continue. This was the argument that the Tribunal accepted by a majority, resulting in the Order. The minority arbitrator, however, rejected that position. It is worth quoting the Dissent in some detail. He said:
 
-21    In my view, the media reports, even if true, had no effect on the validity of the Settlement Agreement which AGMS had partially performed by making two payments to RALL (see \[19\] above). The reported event occurred (if it did) more than 20 days after the date of the Settlement Agreement. Up to today, there is no evidence that RALL has done anything to obstruct or prevent AGMS from carrying on the various projects under the Master Agreement. Neither is there any evidence that RALL has repudiated or done anything with a view to repudiating the Settlement Agreement to justify AGMS from refusing to withdraw its claim against RALL in this Arbitration under \[condition 05\] of the Settlement Agreement.
+> 21    In my view, the media reports, even if true, had no effect on the validity of the Settlement Agreement which AGMS had partially performed by making two payments to RALL (see \[19\] above). The reported event occurred (if it did) more than 20 days after the date of the Settlement Agreement. Up to today, there is no evidence that RALL has done anything to obstruct or prevent AGMS from carrying on the various projects under the Master Agreement. Neither is there any evidence that RALL has repudiated or done anything with a view to repudiating the Settlement Agreement to justify AGMS from refusing to withdraw its claim against RALL in this Arbitration under \[condition 05\] of the Settlement Agreement.
 
-22    With respect to the second event, the Sri Lankan Navy took possession of the weapons and accessories kept on board “MV MAHANUWARA on the alleged \[_sic_\] that the weapons were illegally kept in the floating armoury as they did not belong to AGMS’s customers. Whether or not the Sri Lankan Navy’s action was lawful or otherwise does not affect the subsistence of the Settlement Agreement. AGMS has its own civil remedies against the Sri Lankan Navy if its action were unlawful or wrongful.
+> 22    With respect to the second event, the Sri Lankan Navy took possession of the weapons and accessories kept on board “MV MAHANUWARA on the alleged \[_sic_\] that the weapons were illegally kept in the floating armoury as they did not belong to AGMS’s customers. Whether or not the Sri Lankan Navy’s action was lawful or otherwise does not affect the subsistence of the Settlement Agreement. AGMS has its own civil remedies against the Sri Lankan Navy if its action were unlawful or wrongful.
 
-23    Accordingly, AGMS’s obligation under \[condition 05\] of the Settlement Agreement to withdraw the claim in this Arbitration against RALL subsists as it is not affected by these two events.
+> 23    Accordingly, AGMS’s obligation under \[condition 05\] of the Settlement Agreement to withdraw the claim in this Arbitration against RALL subsists as it is not affected by these two events.
 
-…
+> …
 
-25    AGMS has argued that \[the recital\] states that the parties have agreed to resolve _solely_ the dispute regarding the monies AGMS owes to RALL, implying that its claim for breach of Clause 3.1 of the Settlement Agreement \[_sic_\] has not been settled. However, under \[condition 05\], AGMS has expressly agreed to withdraw the claim preferred against RALL in this Arbitration as a result of the settlement of the amount claimed by RALL against AGMS (which involved a waiver of 50% of its claim by RALL and the payment of the settled sum by instalments). The effect of AGMS’s agreement to withdraw its claim in the Arbitration is that there is no longer any dispute before the Tribunal to arbitrate.
+> 25    AGMS has argued that \[the recital\] states that the parties have agreed to resolve _solely_ the dispute regarding the monies AGMS owes to RALL, implying that its claim for breach of Clause 3.1 of the Settlement Agreement \[_sic_\] has not been settled. However, under \[condition 05\], AGMS has expressly agreed to withdraw the claim preferred against RALL in this Arbitration as a result of the settlement of the amount claimed by RALL against AGMS (which involved a waiver of 50% of its claim by RALL and the payment of the settled sum by instalments). The effect of AGMS’s agreement to withdraw its claim in the Arbitration is that there is no longer any dispute before the Tribunal to arbitrate.
 
 95     We agree entirely with the reasoning of the minority arbitrator. We should add that we accept RALL’s contention that it is a legally separate entity from the government of Sri Lanka which acts independently from RALL and is not controlled by RALL. Accordingly, actions taken by the Sri Lankan government or any of its agencies cannot be attributed to RALL. As was pointed out by the minority arbitrator, there was no evidence before the Tribunal that RALL itself had done anything to repudiate the MOU. In our view, however, even if RALL had breached the MOU, such breach would give rise to a separate claim against RALL but would not revive the settled dispute. This Court has endorsed the principle that a settlement agreement which has been entered into for good consideration has three effects. First, it puts an end to the proceedings which would thereby be spent and exhausted. Secondly, it precludes the parties from taking any further steps in the action, except where they have provided in the settlement agreement for liberty to apply in the same action for the purpose of enforcing the agreed terms (a provision that the MOU does not contain). Thirdly, it supersedes the original cause of action altogether (see _Turf Club Auto Emporium Pte Ltd and others v Yeo Boong Hua and others_ <span class="citation">\[2017\] 2 SLR 12</span> at \[152\]).
 

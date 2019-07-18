@@ -49,15 +49,15 @@ Trusts – Breach of trust – Remedies
 
 11     While living in Singapore, Mr Yang and Mdm Sun opened bank accounts together in Citibank, UOB and POSB. These accounts were in their joint names and they were both signatories for the accounts. The joint accounts that are relevant to these proceedings are:
 
-(a)     POSB Passbook Joint Savings Account No. 081-XXXXX-9 (the “POSB joint account”);
+> (a)     POSB Passbook Joint Savings Account No. 081-XXXXX-9 (the “POSB joint account”);
 
-(b)     UOB Joint Current Account No. 357-XXX-XXX-8 (the “UOB joint account”);
+> (b)     UOB Joint Current Account No. 357-XXX-XXX-8 (the “UOB joint account”);
 
-(c)     UOB Joint Bank Account No. 126-XXXXXX-1 (the “UOB time deposit account”);
+> (c)     UOB Joint Bank Account No. 126-XXXXXX-1 (the “UOB time deposit account”);
 
-(d)     Citibank Joint SGD Maxisave (Base) Account No. 0-XXXXXX-028 (the “Citibank joint account”); and
+> (d)     Citibank Joint SGD Maxisave (Base) Account No. 0-XXXXXX-028 (the “Citibank joint account”); and
 
-(e)     Citibank Fixed Time Deposit Account No. 0000010XXXXXXX000030 (the “Citibank time deposit account”).
+> (e)     Citibank Fixed Time Deposit Account No. 0000010XXXXXXX000030 (the “Citibank time deposit account”).
 
 At the time of Mr Yang’s death in May 2012, the UOB time deposit account was no longer open. The defendant’s acts in relation to the moneys in these joint accounts at UOB, Citibank and POSB are the subject of these proceedings, as will be explained below.
 
@@ -71,9 +71,9 @@ At the time of Mr Yang’s death in May 2012, the UOB time deposit account was n
 
 16     In addition to the joint accounts, the couple also held personal bank accounts in Taiwan and joint bank accounts in the US. This is relevant because Mdm Sun’s savings from the time she worked in Taiwan were remitted to Singapore in two tranches from her Taiwanese bank accounts to the UOB time deposit account[^24]:
 
-(a)     a sum of US$261,000 on or about 15 October 2007;[^25] and
+> (a)     a sum of US$261,000 on or about 15 October 2007;[^25] and
 
-(b)     a sum of US$157,000 on or about 19 November 2007.[^26]
+> (b)     a sum of US$157,000 on or about 19 November 2007.[^26]
 
 17     These transfers were overseen by Ms Hsu Chih-Chi (“Ms Hsu”). Ms Hsu was the personal assistant of Mdm Sun’s brother-in-law in Taiwan, one Mr Fan. She was instructed by Mr Yang and Mdm Sun to remit the moneys from Mdm Sun’s Cathay United bank accounts (Account No. 020-50-XXXXXX-8 and 201-50-XXXXXX-4).[^27] Ms Hsu had also earlier remitted a sum of US$12,070 from Mdm Sun’s account on or about 20 June 2007.[^28] This was on the instructions of Mr Fan. Ms Hsu was informed that Mr Yang and Mdm Sun had previously made an investment in Mr Fan’s company and he was now returning that sum to them first by payment into one of Mdm Sun’s Cathay United bank accounts, and then to the UOB time deposit account.[^29]
 
@@ -81,7 +81,7 @@ At the time of Mr Yang’s death in May 2012, the UOB time deposit account was n
 
 18     On 29 November 2007, at the age of 90, Mr Yang made a will (“the Will”) which appointed the defendant as the sole executor of his estate.[^30] In the Will, Mr Yang set aside a sum of S$300,000 for the maintenance of Mdm Sun:
 
-2.    I give to my Trustee a sum of **Singapore Dollars Three Hundred Thousand (S$300,000.00)** to hold the same in trust for the care and maintenance of my wife **MRS YANG CHUN nee SUN HUI-MIN** … during her lifetime and thereafter the balance of such sum, if any, to my Trustee absolutely. \[emphasis in original\]
+> 2.    I give to my Trustee a sum of **Singapore Dollars Three Hundred Thousand (S$300,000.00)** to hold the same in trust for the care and maintenance of my wife **MRS YANG CHUN nee SUN HUI-MIN** … during her lifetime and thereafter the balance of such sum, if any, to my Trustee absolutely. \[emphasis in original\]
 
 He bequeathed the remainder of his assets to be distributed amongst the defendant and the defendant’s two siblings. Mr Yang did not specifically refer to the joint accounts in the Will. Mr Sun and other members of Mdm Sun’s family were not included as beneficiaries.
 
@@ -91,13 +91,13 @@ He bequeathed the remainder of his assets to be distributed amongst the defendan
 
 20     Less than four and a half years after the making of the Will, Mr Yang passed away on 15 May 2012.[^33] Seven days later, on 22 May 2012, the defendant carried out the following transactions in relation to the joint accounts at UOB and Citibank:[^34]
 
-(a)     he transferred S$247,000 from the UOB joint account to his personal UOB Account No. 208-XXX-XXX-8[^35];
+> (a)     he transferred S$247,000 from the UOB joint account to his personal UOB Account No. 208-XXX-XXX-8[^35];
 
-(b)     he transferred S$68,000 from the Citibank joint account to his personal Citibank Account No. 0011XXXX15[^36];
+> (b)     he transferred S$68,000 from the Citibank joint account to his personal Citibank Account No. 0011XXXX15[^36];
 
-(c)     he prematurely terminated the Citibank time deposit account of S$200,000 which would have otherwise matured on 30 July 2012 and deposited this sum into the Citibank joint account;[^37] and
+> (c)     he prematurely terminated the Citibank time deposit account of S$200,000 which would have otherwise matured on 30 July 2012 and deposited this sum into the Citibank joint account;[^37] and
 
-(d)     he transferred S$200,000 from the Citibank joint account to his personal Citibank Account No. 0011XXXX15.[^38]
+> (d)     he transferred S$200,000 from the Citibank joint account to his personal Citibank Account No. 0011XXXX15.[^38]
 
 In total, a sum of at least S$515,000 was moved from the joint accounts to the defendant’s personal accounts, which were held with his wife. It is not in dispute that the defendant did not obtain Mdm Sun’s consent to the said withdrawals. In fact, both parties are in agreement that the defendant could not have obtained Mdm Sun’s consent because she lacked mental capacity at the time of Mr Yang’s death.[^39]
 
@@ -123,15 +123,15 @@ In total, a sum of at least S$515,000 was moved from the joint accounts to the d
 
 29     In those proceedings, the District Judge made several important findings as to Mdm Sun’s mental capacity and the validity of Mr Sun’s LPA (see _TEB v TEC_ <span class="citation">\[2015\] SGFC 54</span> (“_TEB_”))[^54]:
 
-(a)     A person’s mental capacity could fluctuate and a finding that they lacked capacity at one point in time did not mean that they lacked capacity at all times and in regard to all issues. This is a fact recognised by the Mental Capacity Act (Cap 177A, 2010 Rev Ed) (“MCA”) (at \[38\] and \[251\]).
+> (a)     A person’s mental capacity could fluctuate and a finding that they lacked capacity at one point in time did not mean that they lacked capacity at all times and in regard to all issues. This is a fact recognised by the Mental Capacity Act (Cap 177A, 2010 Rev Ed) (“MCA”) (at \[38\] and \[251\]).
 
-(b)     There was a strong likelihood that the medication prescribed by Dr Lee to Mdm Sun had, “at one or more points in time, caused \[Mdm Sun\] to appear to lack (or have reduced) mental capacity as opposed to actually lacking mental capacity” (at \[238\]).
+> (b)     There was a strong likelihood that the medication prescribed by Dr Lee to Mdm Sun had, “at one or more points in time, caused \[Mdm Sun\] to appear to lack (or have reduced) mental capacity as opposed to actually lacking mental capacity” (at \[238\]).
 
-(c)     The appearance of a lack of capacity was also likely to have been caused by Mdm Sun’s other untreated medical conditions which included hypertension, hyponatremia, renal impairment and Parkinson’s disease (at \[239\] - \[243\]).
+> (c)     The appearance of a lack of capacity was also likely to have been caused by Mdm Sun’s other untreated medical conditions which included hypertension, hyponatremia, renal impairment and Parkinson’s disease (at \[239\] - \[243\]).
 
-(d)     That being said, there was evidence (_ie_, the videos of Mdm Sun) which suggested that there had been a degree of impairment in Mdm Sun’s cognitive ability (at \[249\]). However, the defendant had failed to prove that Mdm Sun had _definitely_ lacked capacity _at the time of the LPA’s execution_, particularly in light of the assumption of capacity under s 3(2) of the MCA (at \[263\]).
+> (d)     That being said, there was evidence (_ie_, the videos of Mdm Sun) which suggested that there had been a degree of impairment in Mdm Sun’s cognitive ability (at \[249\]). However, the defendant had failed to prove that Mdm Sun had _definitely_ lacked capacity _at the time of the LPA’s execution_, particularly in light of the assumption of capacity under s 3(2) of the MCA (at \[263\]).
 
-(e)     The defendant had also failed to demonstrate that Mr Sun had behaved in a way detrimental to Mdm Sun’s interests (at \[300\], \[329\]).
+> (e)     The defendant had also failed to demonstrate that Mr Sun had behaved in a way detrimental to Mdm Sun’s interests (at \[300\], \[329\]).
 
 Accordingly, the District Judge dismissed the defendant’s application and the LPA was not revoked. The defendant’s appeal against this decision was dismissed by the High Court.
 
@@ -143,9 +143,9 @@ Accordingly, the District Judge dismissed the defendant’s application and the 
 
 32     On 23 July 2013, Lai Siu Chiu J made, _inter alia_, the following interim orders (see _Mrs Yang Chun nee Sun Hui Min v Yang Chia Yin_ <span class="citation">\[2014\] 1 SLR 1</span> (“_Mrs Yang Chun_”) at \[3\])[^56]:
 
-(a)     the defendant was to pay Mdm Sun’s solicitors S$100,000 to defray her future medical expenses and reimburse Mr Sun the sum of S$52,202.53 that had already been incurred by him by the time of the hearing; and
+> (a)     the defendant was to pay Mdm Sun’s solicitors S$100,000 to defray her future medical expenses and reimburse Mr Sun the sum of S$52,202.53 that had already been incurred by him by the time of the hearing; and
 
-(b)     the defendant was to lodge with the SLA the instrument of transmission upon death to transfer Mr Yang’s share in the Tomlinson Property to himself and Mdm Sun as joint tenants.
+> (b)     the defendant was to lodge with the SLA the instrument of transmission upon death to transfer Mr Yang’s share in the Tomlinson Property to himself and Mdm Sun as joint tenants.
 
 33     In so doing, Lai J made several findings which are of note for these proceedings. She found that Dr Lee had abrogated his duties as a medical doctor by taking instructions from the defendant on Mdm Sun’s care (_Mrs Yang Chun_ at \[30\]). This view was shared by the District Judge in _TEB_ who expressed concerns that Dr Lee had written prescriptions for Mdm Sun without even seeing her (at \[105\] and \[108\]). Lai J also found that Mdm Sun’s condition showed a marked improvement as a result of the treatment of Dr Chew. Mr Sun was not motivated by self-interest in arranging for Mdm Sun’s medical treatment (_Mrs Yang Chun_ at \[32\]). In contrast, the defendant had failed to discharge his duties as executor of Mr Yang’s estate. The Will “did not confer on the defendant a carte blanche to care for \[Mdm Sun\] as he deemed fit” (_Mrs Yang Chun_ at \[33\]). Lastly, Lai J found that more appropriate steps could have and should have been taken to improve Mdm Sun’s physical and mental well-being (_Mrs Yang Chun_ at \[34\]).
 
@@ -203,7 +203,7 @@ Accordingly, the District Judge dismissed the defendant’s application and the 
 
 55     This leaves the presumption of resulting trust. The presumption of resulting trust operates where there has been a transfer of property to the survivor for which they have not provided the whole of the consideration (_Lau Siew Kim v Yeo Guan Chye Terrence and another_ <span class="citation">\[2008\] 2 SLR(R) 108</span> (“_Lau Siew Kim_”) at \[35\] citing Robert Chambers, _Resulting Trusts_ (Clarendon Press, Oxford, 1997) at p 32) and there is no evidence before the court which “adequately reveals the true intention of the transferor” (_Su Emmanuel v Emmanuel Priya Ethel Anne and another_ <span class="citation">\[2016\] 3 SLR 1222</span> at \[79\]). The deceased’s lack of intention to benefit the survivor is inferred. Lord Browne-Wilkinson provided an illustration of the presumption’s operation in _Westdeutche Landesbank Girozentrale v Islington London Borough Council_ <span class="citation">\[1996\] AC 669</span> (“_Westdeutche_”) at 708. The judge observed that:
 
-… where A makes a voluntary payment to B or pays (wholly or in part) for the purchase of property which is vested either in B alone or in the joint names of A and B, there is a presumption that A did not intend to make a gift to B: the money or property is held on trust for A (if he is the sole provider of the money) or in the case of a joint purchase by A and B in shares proportionate to their contributions.
+> … where A makes a voluntary payment to B or pays (wholly or in part) for the purchase of property which is vested either in B alone or in the joint names of A and B, there is a presumption that A did not intend to make a gift to B: the money or property is held on trust for A (if he is the sole provider of the money) or in the case of a joint purchase by A and B in shares proportionate to their contributions.
 
 Where the presumption of resulting trust arises, the burden of proof shifts such that “the \[deceased\] is presumed to have intended to retain the beneficial ownership” of the property (per Abella J in _Pecore v Pecore_ (2007) 279 DLR (4th) 513 (“_Pecore_”) at \[81\]). Consequently, if this presumption is not displaced, the survivors hold the property on trust for the deceased’s estate.
 
@@ -219,9 +219,9 @@ Where the presumption of resulting trust arises, the burden of proof shifts such
 
 61     In considering what individual circumstances courts should take into account, the Court expanded on the dicta in _Low Gim Siah and others v Low Geok Khim and another_ <span class="citation">\[2007\] 1 SLR(R) 795</span> (“_Low Gim Siah_”), where Chan Sek Keong CJ considered what effect the degree of the recipient’s financial independence would have on the strength of the presumption of advancement (at \[43\]–\[44\]). The Court of Appeal in _Lau Siew Kim_ determined that financial independence was a relevant factor but was just one of several to consider. It endorsed a fact-sensitive inquiry, taking into consideration _all_ the circumstances of the case. There were two key elements to consider in guiding this inquiry (at \[78\]):
 
-(a)     A court should first look at the nature of the relationship between the parties (_eg_, the obligation that one party has to another).
+> (a)     A court should first look at the nature of the relationship between the parties (_eg_, the obligation that one party has to another).
 
-(b)     Secondly, the court should consider the state of the relationship (_eg_, whether the parties were in a close or distant relationship).
+> (b)     Secondly, the court should consider the state of the relationship (_eg_, whether the parties were in a close or distant relationship).
 
 62     The decision in _Lau Siew Kim_ itself is a good illustration of this approach. The case concerned a dispute over the estate of the deceased, Yeo. He had been thrice married and died intestate as a result of the statutory revocation of his will by his third marriage. Yeo’s two sons from his first marriage then sought to claim an interest in his estate via intestacy, arguing that there was a resulting trust in their favour. His widow asserted that the properties in dispute had been held on the basis of a joint tenancy and therefore passed to her on the basis of survivorship.
 
@@ -229,15 +229,15 @@ Where the presumption of resulting trust arises, the burden of proof shifts such
 
 64     To summarise, in determining whether the right of survivorship should operate in favour of a surviving joint-tenant, the court should adopt the following stages of analysis:
 
-(a)     consider if the facts give rise to a presumption of resulting trust;
+> (a)     consider if the facts give rise to a presumption of resulting trust;
 
-(b)     if the presumption of resulting trust applies, determine its strength based on the individual factual matrix of the case;
+> (b)     if the presumption of resulting trust applies, determine its strength based on the individual factual matrix of the case;
 
-(c)     consider if the presumption of advancement is applicable;
+> (c)     consider if the presumption of advancement is applicable;
 
-(d)     if the presumption of advancement applies, determine its strength based on the _nature_ and _state_ of the parties’ relationship; and
+> (d)     if the presumption of advancement applies, determine its strength based on the _nature_ and _state_ of the parties’ relationship; and
 
-(e)     based on the weight of the evidence, determine if the presumption of advancement has been successfully rebutted.
+> (e)     based on the weight of the evidence, determine if the presumption of advancement has been successfully rebutted.
 
 If the challenging party succeeds in defeating the presumption of advancement, then the original presumption of resulting trust will operate. Conversely, if they fail, the presumption of advancement will displace the presumption of resulting trust and the right of survivorship shall take effect.
 
@@ -267,21 +267,21 @@ If the challenging party succeeds in defeating the presumption of advancement, t
 
 76     Besides the inferred intentions of Mr Yang, Mr Sun also put forward documentary evidence as to the terms and conditions of DBS (who owns POSB) and UOB which indicated that the moneys in the joint accounts would devolve to Mdm Sun upon her husband’s death. This strengthens the presumption of advancement. This fact was communicated to the defendant, in his capacity as the executor of Mr Yang’s estate, by way of letters from the banks after they were informed of Mr Yang’s death. In its letter dated 24 August 2012, DBS provided the balance amount in the POSB joint account as of 15 May 2012. It also went on to state as follows:[^85]
 
-Please note that for joint account(s), the surviving operator(s) is/are entitled to claim the available funds in the account(s).
+> Please note that for joint account(s), the surviving operator(s) is/are entitled to claim the available funds in the account(s).
 
 77     In its letter dated 20 July 2012, UOB provided the balance amount in the UOB joint account as of 15 May 2012 and included a similar statement:[^86]
 
-For joint account(s), the Bank will release monies in the joint account to all the surviving joint account holder(s), in the absence of any notice of severance of joint ownership of the deposits and adverse claims on the deposits by any third party.
+> For joint account(s), the Bank will release monies in the joint account to all the surviving joint account holder(s), in the absence of any notice of severance of joint ownership of the deposits and adverse claims on the deposits by any third party.
 
 78     No similar letter was provided in respect of the Citibank joint accounts. However, after the trial, Mr Sun procured an email from Citibank dated 11 February 2019 that the 2010 Terms and Conditions, Citibank Global Consumer Banking Singapore (the “Citibank Terms and Conditions”) were applicable to the couple’s Citibank joint accounts.[^87] It was contended by Mr Sun that these Citibank Terms and Conditions were incorporated via Citibank’s account opening forms. However, the actual account opening forms signed by Mr Yang and Mdm Sun were not produced in evidence. Instead, Mr Sun relied on the relevant clauses in an account opening form current as at 2012, which are reproduced below:[^88]
 
-1.    I/We confirm that I/we have read the Citibank Singapore Global Consumer Bank Terms and Conditions and agree to be bound by the same and by any other terms and conditions of Citibank applicable from time to time …
+> 1.    I/We confirm that I/we have read the Citibank Singapore Global Consumer Bank Terms and Conditions and agree to be bound by the same and by any other terms and conditions of Citibank applicable from time to time …
 
-2.    I/We agree that the provisions in this Customer Confirmation and Declaration be deemed to be fully effective in relation to all and any Account(s) … now existing or hereafter opened by me/us with Citibank of any type, category and whether opened in single or joint names or in trust and the provisions herein shall be deemed to be repeated in in any account opening form and/or terms and conditions governing any Account(s) now existing or hereafter opened by …
+> 2.    I/We agree that the provisions in this Customer Confirmation and Declaration be deemed to be fully effective in relation to all and any Account(s) … now existing or hereafter opened by me/us with Citibank of any type, category and whether opened in single or joint names or in trust and the provisions herein shall be deemed to be repeated in in any account opening form and/or terms and conditions governing any Account(s) now existing or hereafter opened by …
 
 79     Clause 9.4(a) of the Citibank Terms and Conditions states[^89]:
 
-If any one of the Joint Account(s) holders dies, you \[Citibank\] shall forthwith be entitled to close the Joint Account(s), and the credit balance in the Joint Account(s) and any securities held by you in the Joint Account(s) shall be transferred to a new account(s) to be opened by you in the name(s) of the survivors…
+> If any one of the Joint Account(s) holders dies, you \[Citibank\] shall forthwith be entitled to close the Joint Account(s), and the credit balance in the Joint Account(s) and any securities held by you in the Joint Account(s) shall be transferred to a new account(s) to be opened by you in the name(s) of the survivors…
 
 80     In his reply submissions, the defendant did not make any submissions about the admissibility of Citibank’s email of 11 February 2019. The defendant also did not make any submissions about the applicability of clause 9.4(a). Given that the defendant, as the lawful representative of Mr Yang’s estate, would be in a position to confirm the position with Citibank, and he has not expressed a contrary view as to what is the applicable clause in question, I am prepared to accept that clause 9.4(a) was probably applicable to Mr Yang’s and Mdm Sun’s joint accounts.
 
@@ -345,7 +345,7 @@ If any one of the Joint Account(s) holders dies, you \[Citibank\] shall forthwit
 
 107    An alternative justification put forward was that Mr Yang and Mdm Sun had granted him the mandate over some of the joint accounts and it was on this basis that he could use the moneys to care for Mdm Sun. However, given that Mr Yang had passed away and it is common ground between the parties that Mdm Sun was mentally incapacitated at the time of Mr Yang’s death, there is no basis for the defendant to rely on the mandates that had been given for him to operate the joint accounts. It is a well-established principle that any authority given by way of a power of attorney or a mandate to operate bank accounts on behalf of the donor, save in the case of a lasting power of attorney, is revoked as a matter of law once the donor ceases to have mental capacity. “If the donor ceases to have the capacity to do the acts for which a power of attorney delegates authority, that power comes to an end” (Shindler and Sherry, _Aldridge: Powers of Attorney_ (Sweet & Maxwell, 11th Ed, 2016) at \[7-06\]). Also, as stated by the authors of _Bowstead & Reynolds on Agency_ (Sweet & Maxwell, 19th Ed, 2010) at \[10-015\] and \[10-020\]:
 
-The actual authority of an agent, whether conferred by deed or not and whether expressed to be irrevocable or not, is determined by the death or supervening mental incapacity of either the principal or the agent … There is fairly clear authority that the agent’s actual authority determines where the principal becomes mentally incapable…
+> The actual authority of an agent, whether conferred by deed or not and whether expressed to be irrevocable or not, is determined by the death or supervening mental incapacity of either the principal or the agent … There is fairly clear authority that the agent’s actual authority determines where the principal becomes mentally incapable…
 
 108    Hence, any authority granted by Mdm Sun would have come to an end by the time of Mr Yang’s passing in May 2012, at the very latest, since parties are in agreement that Mdm Sun lacked mental capacity at that time. It follows that the defendant would not have had the authority to act on her behalf to withdraw any moneys from the joint bank accounts or expend those sums without her consent. It is not open to the defendant to argue that _because_ Mdm Sun’s mental state had begun to deteriorate, he was entitled to make decisions and/or expenditures on her behalf.[^115] This would be to ignore the scope of his authority to act.
 
@@ -377,13 +377,13 @@ The actual authority of an agent, whether conferred by deed or not and whether e
 
 119    In the alternative to its claim for breach of trust, Mr Sun claims that the defendant is liable in unjust enrichment. He is required to account for the joint account moneys having been unjustly enriched by his wrongful conversion, misappropriation and/or retention of the funds. The elements of a claim in unjust enrichment were set out by the Court of Appeal in _Skandinaviska Enskilda Banken AB (Publ), Singapore Branch v Asia Pacific Breweries (Singapore) Pte Ltd and another and another appeal_ <span class="citation">\[2011\] 3 SLR 540</span> at \[110\]:
 
-(a)     the defendant must have received a benefit (_ie_, he was enriched);
+> (a)     the defendant must have received a benefit (_ie_, he was enriched);
 
-(b)     the enrichment was at the claimant’s expense;
+> (b)     the enrichment was at the claimant’s expense;
 
-(c)     it is unjust to allow the defendant to retain the enrichment; and
+> (c)     it is unjust to allow the defendant to retain the enrichment; and
 
-(d)     there are no defences available to the defendant.
+> (d)     there are no defences available to the defendant.
 
 120    Having found that the defendant is constructive trustee over the amounts withdrawn from the joint accounts and is thus liable to account for and return these amounts, there is no need for me to deal with the claim for unjust enrichment in any detail, save to say that it is quite clear that the defendant has been unjustly enriched by his receipt of moneys belonging to Mdm Sun, and he is bound to restore the moneys to Mdm Sun’s estate.
 

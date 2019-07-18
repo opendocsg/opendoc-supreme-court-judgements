@@ -29,11 +29,11 @@ Criminal Procedure and Sentencing – Criminal Motion
 
 6       On 11 and 17 April 2019, the Applicant wrote two letters to the court where he sought to:
 
-(a)     vacate the hearing and have it re-fixed to a date in July 2019;
+> (a)     vacate the hearing and have it re-fixed to a date in July 2019;
 
-(b)     inform the court that he would not be submitting his skeletal submissions by the prescribed time; and
+> (b)     inform the court that he would not be submitting his skeletal submissions by the prescribed time; and
 
-(c)     register his reservations about the _coram_ constituted to hear this application.
+> (c)     register his reservations about the _coram_ constituted to hear this application.
 
 7       We declined to re-fix the hearing date and invited him to raise his concerns at the hearing. Having heard his arguments, we are satisfied that there is no basis for his requests.
 

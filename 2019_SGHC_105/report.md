@@ -27,23 +27,23 @@ Criminal law – General exceptions – Mistake of fact
 
 2       Ridhwan, the first accused, is a Singaporean male facing three charges:
 
-(a)     One charge of sexual assault by penetration under s 376(2)(_a_) of the Penal Code (Cap 224, 2008 Rev Ed) (“PC”), punishable under s 376(3) of the PC, for penetrating the Complainant’s anus with his finger without her consent, in the living room of the Room, sometime on the morning of 26 January 2014 (“the 1st Charge”).
+> (a)     One charge of sexual assault by penetration under s 376(2)(_a_) of the Penal Code (Cap 224, 2008 Rev Ed) (“PC”), punishable under s 376(3) of the PC, for penetrating the Complainant’s anus with his finger without her consent, in the living room of the Room, sometime on the morning of 26 January 2014 (“the 1st Charge”).
 
-(b)     One charge of rape under s 375(1)(_a_), punishable under s 375(2) of the PC, for penetrating the Complainant’s vagina with his penis without her consent, in the living room of the Room, sometime in the morning of 26 January 2014 (“the 2nd Charge”).
+> (b)     One charge of rape under s 375(1)(_a_), punishable under s 375(2) of the PC, for penetrating the Complainant’s vagina with his penis without her consent, in the living room of the Room, sometime in the morning of 26 January 2014 (“the 2nd Charge”).
 
-(c)     One charge of using criminal force with intent to outrage the modesty of the Complainant punishable under s 354(1) of the PC, for sucking her nipples, in the living room of the Room, sometime in the morning of 26 January 2014 (“the 3rd Charge”).
+> (c)     One charge of using criminal force with intent to outrage the modesty of the Complainant punishable under s 354(1) of the PC, for sucking her nipples, in the living room of the Room, sometime in the morning of 26 January 2014 (“the 3rd Charge”).
 
 3       Faris, the second accused, is a Singaporean male facing two charges:
 
-(a)     One charge of rape under s 375(1)(_a_), punishable under s 375(2) of the PC, for inserting his penis into the Complainant’s vagina without her consent, in the bathroom of the Room, sometime in the morning of 26 January 2014 (“the 4th Charge”).
+> (a)     One charge of rape under s 375(1)(_a_), punishable under s 375(2) of the PC, for inserting his penis into the Complainant’s vagina without her consent, in the bathroom of the Room, sometime in the morning of 26 January 2014 (“the 4th Charge”).
 
-(b)     One charge of sexual assault by penetration under s 376(2)(_a_), punishable under s 376(3) of the PC, for penetrating the Complainant’s vagina with his finger without her consent, in the living room of the Room, sometime in the morning of 26 January 2014 (“the 5th Charge”).
+> (b)     One charge of sexual assault by penetration under s 376(2)(_a_), punishable under s 376(3) of the PC, for penetrating the Complainant’s vagina with his finger without her consent, in the living room of the Room, sometime in the morning of 26 January 2014 (“the 5th Charge”).
 
 4       Asep, the third accused, is also a Singaporean male, and he faces the following two charges:
 
-(a)     One charge of sexual assault by penetration under s 376(1)(_a_), punishable under s 376(3) of the PC, for penetrating the Complainant’s mouth with his penis without her consent, in the bathroom of the Room, sometime in the morning of 26 January 2014 (“the 6th Charge”).
+> (a)     One charge of sexual assault by penetration under s 376(1)(_a_), punishable under s 376(3) of the PC, for penetrating the Complainant’s mouth with his penis without her consent, in the bathroom of the Room, sometime in the morning of 26 January 2014 (“the 6th Charge”).
 
-(b)     One charge of attempted rape under s 375(1)(_a_), punishable under s 375(2) read with s 511 of the PC, for attempting to insert his penis into the Complainant’s vagina without her consent, in the bathroom of the Room, sometime in the morning of 26 January 2014 (“the 7th Charge”).
+> (b)     One charge of attempted rape under s 375(1)(_a_), punishable under s 375(2) read with s 511 of the PC, for attempting to insert his penis into the Complainant’s vagina without her consent, in the bathroom of the Room, sometime in the morning of 26 January 2014 (“the 7th Charge”).
 
 5       In relation to a majority of these charges, the accused persons did not dispute that the relevant sexual activity had occurred between each of them and the Complainant, but argued that such activity had been consensual. Therefore, two of the main issues in contention are whether the Complainant had the capacity to give consent at the material time of the offences, and if so, whether she did in fact give such consent.
 
@@ -103,9 +103,9 @@ Criminal law – General exceptions – Mistake of fact
 
 28     The Prosecution relied on two statements given by Faris to the police:
 
-(a)     The first was recorded by Inspector Thermizi Tho (as he then was) (“ISP Tho”) on 30 January 2014 from about 12.45am to 2.05am pursuant to s 33 of the Criminal Procedure Code (Cap 68, 2012 Rev Ed) (“CPC”) (“Faris’ 1st Statement”).
+> (a)     The first was recorded by Inspector Thermizi Tho (as he then was) (“ISP Tho”) on 30 January 2014 from about 12.45am to 2.05am pursuant to s 33 of the Criminal Procedure Code (Cap 68, 2012 Rev Ed) (“CPC”) (“Faris’ 1st Statement”).
 
-(b)     The second was recorded by then-Assistant Superintendent Arun Guruswamy (“ASP Guruswamy”) on 16 October 2014 from about 6.50pm to 9.00pm pursuant to s 22 of the CPC (“Faris’ 2nd Statement”).
+> (b)     The second was recorded by then-Assistant Superintendent Arun Guruswamy (“ASP Guruswamy”) on 16 October 2014 from about 6.50pm to 9.00pm pursuant to s 22 of the CPC (“Faris’ 2nd Statement”).
 
 29     At trial, Faris challenged the admissibility of both of these police statements. An ancillary hearing was thus held, which I will discuss later.
 
@@ -113,9 +113,9 @@ Criminal law – General exceptions – Mistake of fact
 
 30     Asep gave four statements to the police. The Prosecution relied on two of his statements:
 
-(a)     The first was recorded by Assistant Superintendent Mohamed Razif (“ASP Razif”) on 30 January 2014 from around 12.28am to 2.00am pursuant to s 22 of the CPC (“Asep’s 1st Statement”).
+> (a)     The first was recorded by Assistant Superintendent Mohamed Razif (“ASP Razif”) on 30 January 2014 from around 12.28am to 2.00am pursuant to s 22 of the CPC (“Asep’s 1st Statement”).
 
-(b)     The second was recorded by ASP Guruswamy on 16 October 2014 from about 9.11pm to 11.15pm also pursuant to s 22 of the CPC (“Asep’s 2nd Statement”).
+> (b)     The second was recorded by ASP Guruswamy on 16 October 2014 from about 9.11pm to 11.15pm also pursuant to s 22 of the CPC (“Asep’s 2nd Statement”).
 
 31     Asep challenged the admissibility of his 2nd Statement. I will discuss the relevant ancillary hearing later.
 
@@ -123,11 +123,11 @@ Criminal law – General exceptions – Mistake of fact
 
 32     Ridhwan gave four statements to the police. The Prosecution relied on three of his statements:
 
-(a)     The first was recorded by Assistant Superintendent Amos Tang (“ASP Tang”) on 30 January 2014 from about 12.04am to 1.03am pursuant to s 22 of the CPC (“Ridhwan’s 1st Statement”).
+> (a)     The first was recorded by Assistant Superintendent Amos Tang (“ASP Tang”) on 30 January 2014 from about 12.04am to 1.03am pursuant to s 22 of the CPC (“Ridhwan’s 1st Statement”).
 
-(b)     The second was recorded by Senior Investigation Officer Suzana Sajari (“SIO Sajari”) on 3 February 2014 from about 11.30am to 1.50pm pursuant to s 22 of the CPC (“Ridhwan’s 2nd Statement”).
+> (b)     The second was recorded by Senior Investigation Officer Suzana Sajari (“SIO Sajari”) on 3 February 2014 from about 11.30am to 1.50pm pursuant to s 22 of the CPC (“Ridhwan’s 2nd Statement”).
 
-(c)     The third was recorded by ASP Guruswamy on 5 February 2014 from about 12.00pm to 2.20pm pursuant to s 22 of the CPC (“Ridhwan’s 3rd Statement”).
+> (c)     The third was recorded by ASP Guruswamy on 5 February 2014 from about 12.00pm to 2.20pm pursuant to s 22 of the CPC (“Ridhwan’s 3rd Statement”).
 
 33     Ridhwan did _not_ challenge the admissibility of any of his police statements.
 
@@ -137,9 +137,9 @@ Criminal law – General exceptions – Mistake of fact
 
 35     The Prosecution relied on the opinion of Dr Guo Song (“Dr Guo”), a senior consultant psychiatrist from the Institute of Mental Health (“IMH”). Dr Guo produced two written reports and supplemented them with oral testimony in court. The two reports were:
 
-(a)     The first dated 22 October 2015, comprising 11 pages in total. This report should be read together with (i) a two-page errata,[^61] and (ii) several articles which Dr Guo referred to in the report and subsequently produced at trial. I shall refer to these documents collectively as “Dr Guo’s 1st Report”.
+> (a)     The first dated 22 October 2015, comprising 11 pages in total. This report should be read together with (i) a two-page errata,[^61] and (ii) several articles which Dr Guo referred to in the report and subsequently produced at trial. I shall refer to these documents collectively as “Dr Guo’s 1st Report”.
 
-(b)     The second dated 12 July 2016 (“Dr Guo’s 2nd Report”), comprising two pages, was supplementary to Dr Guo’s 1st Report.
+> (b)     The second dated 12 July 2016 (“Dr Guo’s 2nd Report”), comprising two pages, was supplementary to Dr Guo’s 1st Report.
 
 36     The three accused persons relied on the expert opinion of Dr Munidasa Winslow (“Dr Winslow”) of Promises Healthcare Pte Ltd. Dr Winslow produced one report of six pages dated 13 September 2016 (“Dr Winslow’s Report”) and supplemented it with oral testimony.
 
@@ -155,15 +155,15 @@ Criminal law – General exceptions – Mistake of fact
 
 41     In my view, the court had the power to order, and should in the present case order, a joint trial in respect of the three accused persons, including Asep and Faris, under ss 143(_b_) and/or (_c_) of the CPC. The relevant parts of ss 143(_b_) and (_c_) of the CPC read as follows:
 
-**Persons who may be charged and tried jointly**
+> **Persons who may be charged and tried jointly**
 
-143.  The following persons may be charged and tried together or separately:
+> 143.  The following persons may be charged and tried together or separately:
 
-…
+>> …
 
-(_b_)    persons accused of different offences committed in the same transaction;
+>> (_b_)    persons accused of different offences committed in the same transaction;
 
-(_c_)    persons accused of 2 or more offences which form or are a part of a series of offences of the same or a similar character;
+>> (_c_)    persons accused of 2 or more offences which form or are a part of a series of offences of the same or a similar character;
 
 42     In relation to the court’s power to order a joint trial, s 143(_b_) of the CPC permits joint trials to be conducted for persons accused of “different offences committed in the same transaction”. In _Tse Po Chung Nathan and another v Public Prosecutor_ <span class="citation">\[1993\] 1 SLR(R) 308</span> (“_Nathan Tse_”), the Court of Criminal Appeal held that “the real and substantial test for determining whether several offences are connected together so as to form the same transaction depends upon whether they are so related to one another in point of purpose, or cause and effect, or as principal and subsidiary acts as to constitute one continuous action” (at \[30\]; affirmed in _Sharom bin Ahmad and another v Public Prosecutor_ <span class="citation">\[2000\] 2 SLR(R) 541</span> at \[26\]). While unity in purpose or design is the main inquiry, other relevant factors include proximity in time and place and continuity in action (_Nathan Tse_ at \[31\]). It is not necessary that all of four factors be present for the incidents to form part of the same transaction (_Nathan Tse_ at \[31\]).
 
@@ -171,31 +171,31 @@ Criminal law – General exceptions – Mistake of fact
 
 44     In this regard, I also considered the High Court decision in _Lim Chuan Huat and another v Public Prosecutor_ <span class="citation">\[2002\] 1 SLR(R) 1</span> (“_Lim Chuan Huat_”) to be analogous and persuasive. That case concerned the court’s power to order a joint trial under the predecessor provision to s 143(_b_) in the Criminal Procedure Code (Cap 68, 1985 Rev Ed). There, the wife-employer who had assaulted a domestic helper on one day, and the husband-employer who had assaulted the same helper the day after, were jointly tried even though the offences were in some sense separate and there was no allegation of conspiracy. The court reasoned as follows:
 
-31    Based on the foregoing, I found that the facts of the present case supported the trial judge’s decision to allow the appellants to be tried together. Not only was there an identity of purpose in the separate acts of the appellants, but there was unity of place and proximity of time. Furthermore, common sense dictates that given the facts of this particular case, viz the victim was the sole employee of both the appellants and the offences took place in the intimate setting of a household over a consecutive period of two days, it is not against the interest of justice for the appellants to be jointly tried. …
+> 31    Based on the foregoing, I found that the facts of the present case supported the trial judge’s decision to allow the appellants to be tried together. Not only was there an identity of purpose in the separate acts of the appellants, but there was unity of place and proximity of time. Furthermore, common sense dictates that given the facts of this particular case, viz the victim was the sole employee of both the appellants and the offences took place in the intimate setting of a household over a consecutive period of two days, it is not against the interest of justice for the appellants to be jointly tried. …
 
 45     In any event, even if the alleged offences were not so proximate as to constitute the same transaction under s 143(_b_) of the CPC, they would fall within s 143(_c_) of the CPC which permits joint trials to be held for persons accused of “2 of more offences which form or are a part of a series of offences of the same or a similar character”. In my view, the present charges constituted a series of offences which shared a close physical, temporal, and circumstantial nexus. The charges also related to offences of the same or a similar character, _ie_, sexual offences of varying severity committed against the same complainant. Similar reasoning was adopted in _Public Prosecutor v Muhammad Rahmatullah Maniam bin Abdullah and another_ <span class="citation">\[1999\] SGHC 252</span> (“_Rahmatullah_”) which considered the predecessor provision to s 143(_c_) of the CPC. There, the High Court held that two accused persons who had sexually assaulted the same victim on the same morning and at around the same place could be jointly tried, even though they had committed the offences without the knowledge or involvement of the other person (_Rahmatullah_ at \[25\]), and even though there “was no indication of any common purpose or unity of purpose” (_Rahmatullah_ at \[26\]), based on the following reasoning:
 
-31    As the offences in the present case are alleged to be committed against the same person during the same morning and were committed at or on the way to the same flat, I was satisfied that there was a sufficient nexus between the offences for them to be regarded as a series of offences of the same or similar character.
+> 31    As the offences in the present case are alleged to be committed against the same person during the same morning and were committed at or on the way to the same flat, I was satisfied that there was a sufficient nexus between the offences for them to be regarded as a series of offences of the same or similar character.
 
 46     As for the appropriate exercise of discretion in this case, I was of the view that the following factors supported the ordering of a joint trial:
 
-(a)     I agreed with the Prosecution that given the close proximity in time and place of the alleged offences, and the significant overlap in witnesses and evidence against each of the accused persons, it was in the public interest for the court to conduct a holistic examination of the entire sequence of events that transpired in the early morning of 26 January 2014 rather than to attempt to segregate and confine the evidence to very specific and isolated instances in that morning. This would be done subject to the caveat that a confession by any of the accused persons would not be used against another accused person since the accused persons were not charged for the same offence, thereby precluding s 258(5) of the CPC from being satisfied.
+> (a)     I agreed with the Prosecution that given the close proximity in time and place of the alleged offences, and the significant overlap in witnesses and evidence against each of the accused persons, it was in the public interest for the court to conduct a holistic examination of the entire sequence of events that transpired in the early morning of 26 January 2014 rather than to attempt to segregate and confine the evidence to very specific and isolated instances in that morning. This would be done subject to the caveat that a confession by any of the accused persons would not be used against another accused person since the accused persons were not charged for the same offence, thereby precluding s 258(5) of the CPC from being satisfied.
 
-(b)     If a joint trial had not been ordered, common witnesses for the trial for each accused person would have to attend separate trials to testify repeatedly about the same background facts as well as the condition of the Complainant at different points in time. This would apply to the witnesses for both the Prosecution and the Defence, including the expert witnesses who would have to repeat their evidence at each trial. This would cause unnecessary delay and expense, and there would likely also be discrepancies in the minute details which might distract the court from the material facts.
+> (b)     If a joint trial had not been ordered, common witnesses for the trial for each accused person would have to attend separate trials to testify repeatedly about the same background facts as well as the condition of the Complainant at different points in time. This would apply to the witnesses for both the Prosecution and the Defence, including the expert witnesses who would have to repeat their evidence at each trial. This would cause unnecessary delay and expense, and there would likely also be discrepancies in the minute details which might distract the court from the material facts.
 
-(c)     Importantly, the Complainant would have to repeat much of her evidence more than once. Whether or not the Complainant was telling the truth, it would be unjust to require her to attend court and repeat most of her evidence for the trial of each accused person, with the difference being the evidence for the occasion when each offence was allegedly committed.
+> (c)     Importantly, the Complainant would have to repeat much of her evidence more than once. Whether or not the Complainant was telling the truth, it would be unjust to require her to attend court and repeat most of her evidence for the trial of each accused person, with the difference being the evidence for the occasion when each offence was allegedly committed.
 
 47     Having addressed the provisions on joint trial under s 143 of the CPC, I turn now to Asep’s argument about prejudice under s 258(5) of the CPC. The version of s 258(5) applicable at the material time stated as follows:
 
-(5)    When more persons than one are being tried jointly for the same offence, and a confession made by one of such persons affecting himself and some other of such persons is proved, the court may take into consideration the confession as against the other person as well as against the person who makes the confession.
+> (5)    When more persons than one are being tried jointly for the same offence, and a confession made by one of such persons affecting himself and some other of such persons is proved, the court may take into consideration the confession as against the other person as well as against the person who makes the confession.
 
-Explanation — “Offence” as used in this section includes the abetment of or attempt to commit the offence.
+> Explanation — “Offence” as used in this section includes the abetment of or attempt to commit the offence.
 
 _Illustrations_
 
-(_a_)     _A_ and _B_ are jointly tried for the murder of _C_. It is proved that _A_ said “_B_ and I murdered _C_”. The court may consider the effect of this confession as against _B_.
+> (_a_)     _A_ and _B_ are jointly tried for the murder of _C_. It is proved that _A_ said “_B_ and I murdered _C_”. The court may consider the effect of this confession as against _B_.
 
-(_b_)     _A_ is on trial for the murder of _C_. There is evidence to show that _C_ was murdered by _A_ and _B_ and that _B_ said “_A_ and I murdered _C_”. This statement may not be taken into consideration by the court against _A_ as _B_ is not being jointly tried.
+> (_b_)     _A_ is on trial for the murder of _C_. There is evidence to show that _C_ was murdered by _A_ and _B_ and that _B_ said “_A_ and I murdered _C_”. This statement may not be taken into consideration by the court against _A_ as _B_ is not being jointly tried.
 
 Section 258(5) has since been amended but the amendments do not affect the present case.
 
@@ -209,21 +209,21 @@ Section 258(5) has since been amended but the amendments do not affect the pres
 
 50     The law on the admissibility of police statements was largely undisputed in the present case. The basic and fundamental principle is that a statement must have been given voluntarily to the police by the accused before it may be admitted in trial. This principle is codified in s 258(3) of the CPC, the material parts of which read as follows:
 
-(3)    The court shall refuse to admit the statement of an accused or allow it to be used in the manner referred to in subsection (1) if the making of the statement appears to the court to have been caused by any inducement, threat or promise having reference to the charge against the accused, proceeding from a person in authority and sufficient, in the opinion of the court, to give the accused grounds which would appear to him reasonable for supposing that by making the statement he would gain any advantage or avoid any evil of a temporal nature in reference to the proceedings against him.
+> (3)    The court shall refuse to admit the statement of an accused or allow it to be used in the manner referred to in subsection (1) if the making of the statement appears to the court to have been caused by any inducement, threat or promise having reference to the charge against the accused, proceeding from a person in authority and sufficient, in the opinion of the court, to give the accused grounds which would appear to him reasonable for supposing that by making the statement he would gain any advantage or avoid any evil of a temporal nature in reference to the proceedings against him.
 
-_Explanation 1._ — If a statement is obtained from an accused by a person in authority who had acted in such a manner that his acts tend to sap and have in fact sapped the free will of the maker of the statement, and the court is of the opinion that such acts gave the accused grounds which would appear to the accused reasonable for supposing that by making the statement, he would gain any advantage or avoid any evil of a temporal nature in reference to the proceedings against him, such acts will amount to a threat, an inducement or a promise, as the case may be, which will render the statement inadmissible.
+> _Explanation 1._ — If a statement is obtained from an accused by a person in authority who had acted in such a manner that his acts tend to sap and have in fact sapped the free will of the maker of the statement, and the court is of the opinion that such acts gave the accused grounds which would appear to the accused reasonable for supposing that by making the statement, he would gain any advantage or avoid any evil of a temporal nature in reference to the proceedings against him, such acts will amount to a threat, an inducement or a promise, as the case may be, which will render the statement inadmissible.
 
-_Explanation 2._ — If a statement is otherwise admissible, it will not be rendered inadmissible merely because it was made in any of the following circumstances:
+> _Explanation 2._ — If a statement is otherwise admissible, it will not be rendered inadmissible merely because it was made in any of the following circumstances:
 
-…
+>> …
 
-(_e_)    where the recording officer or the interpreter of an accused’s statement recorded under section 22 or 23 did not fully comply with that section; or
+>> (_e_)    where the recording officer or the interpreter of an accused’s statement recorded under section 22 or 23 did not fully comply with that section; or
 
-…
+>> …
 
 51     The Prosecution bears the burden of proving beyond a reasonable doubt that the statements it seeks to admit were made voluntarily. In _Chai Chien Wei Kelvin v Public Prosecutor_ <span class="citation">\[1998\] 3 SLR(R) 619</span>, the Court of Appeal explained the content of the test of voluntariness in the following terms at \[53\] (see also _Lim Thian Lai v Public Prosecutor_ <span class="citation">\[2006\] 1 SLR(R) 319</span> at \[14\]):
 
-The test of voluntariness is applied in a manner which is partly objective and partly subjective. The objective limb is satisfied if there is a threat, inducement or promise, and the subjective limb when the threat, inducement or promise operates on the mind of the particular accused through hope of escape or fear of punishment connected with the charge.
+> The test of voluntariness is applied in a manner which is partly objective and partly subjective. The objective limb is satisfied if there is a threat, inducement or promise, and the subjective limb when the threat, inducement or promise operates on the mind of the particular accused through hope of escape or fear of punishment connected with the charge.
 
 52     Although the main text of s 258(3) of the CPC mentions only “threat, inducement or promise”, it is well accepted that other forms of oppressive conduct tending to or in fact sapping the will of the accused may also negate the voluntariness of a statement. In _Tey Tsun Hang v Public Prosecutor_ <span class="citation">\[2014\] 2 SLR 1189</span> (“_Tey Tsun Hang_”), the High Court explained at \[88\] that, under the present version of the CPC, oppression is rationalised within the framework of threat, inducements or promise, since Explanation 1 to s 258(3) states that if “a person in authority who had acted in such a manner that his acts tend to sap and have in fact sapped the free will of the maker of the statement … such acts _will amount_ to a threat, inducement or promise” \[emphasis in original\]. This stands in contrast with the former approach where oppression was a distinct ground for a finding of involuntariness (_Tey Tsun Hang_ at \[88\]). Despite this conceptual shift, however, the substantive law on oppression remains the same: “The litmus test for oppression is whether the investigation was, by its nature, duration or other attendant circumstances, such as to affect the accused’s mind and will such that he speaks when he otherwise would have remained silent” (_Tey Tsun Hang_ at \[113\]). I would add that the same standard applies even where the allegation is not that the accused would have remained silent, but that he would have given a different version of the statement, had he not been oppressed.
 
@@ -235,33 +235,33 @@ The test of voluntariness is applied in a manner which is partly objective and p
 
 54     I begin with the content and formalities of Faris’ 1st Statement. This statement was, on its face, recorded by ISP Tho at the PCC on 30 January 2014 from about 12.45am to 2.05am (see \[28(a)\] above). It was recorded in the English language and contained 14 paragraphs of prose over 5 pages:
 
-(a)     Paragraphs 1 to 7 introduced Faris, his particulars, and the background to Elmi’s birthday party at the Duxton Hotel from 25 to 26 January 2014.
+> (a)     Paragraphs 1 to 7 introduced Faris, his particulars, and the background to Elmi’s birthday party at the Duxton Hotel from 25 to 26 January 2014.
 
-(b)     Paragraph 8 stated that at the party, Faris drank “quite a lot and… felt tipsy subsequently”. He did not pay attention to how much the others were drinking, but thought that “we all drank about the same amount” because they would refill their empty cups at the same time. Save for three individuals who did not drink, the rest of the attendees “were all tipsy”. Faris also noticed the Complainant “had been vomiting. She even vomited on the bed.” (It was not disputed that “drinking” in this context referred to the consumption of alcohol.)
+> (b)     Paragraph 8 stated that at the party, Faris drank “quite a lot and… felt tipsy subsequently”. He did not pay attention to how much the others were drinking, but thought that “we all drank about the same amount” because they would refill their empty cups at the same time. Save for three individuals who did not drink, the rest of the attendees “were all tipsy”. Faris also noticed the Complainant “had been vomiting. She even vomited on the bed.” (It was not disputed that “drinking” in this context referred to the consumption of alcohol.)
 
-(c)     Paragraph 9 stated that the attendees decided to go to Zouk at about midnight, but observed the following of the Complainant’s condition at that time:
+> (c)     Paragraph 9 stated that the attendees decided to go to Zouk at about midnight, but observed the following of the Complainant’s condition at that time:
 
-… \[the Complainant\] was very drunk. We were drinking at the living room and she can’t even walk properly to the toilet at the 2nd floor. Someone helped her to get up to the toilet and she vomited inside and on the bed. … As \[the Complainant\] was very drunk, she cannot go Zouk. “Hazly” and “Fadly” then stayed back with her while the rest of us went to Zouk.
+>> … \[the Complainant\] was very drunk. We were drinking at the living room and she can’t even walk properly to the toilet at the 2nd floor. Someone helped her to get up to the toilet and she vomited inside and on the bed. … As \[the Complainant\] was very drunk, she cannot go Zouk. “Hazly” and “Fadly” then stayed back with her while the rest of us went to Zouk.
 
-(d)     Paragraphs 9 and 10 recorded certain events which occurred at Zouk. In essence, Faris consumed more alcohol there and returned to Duxton Hotel with Ridhwan soon after Asep left Zouk. When Faris and Ridhwan entered the Room, Faris noticed Hazly and Fadly watching television in the living room, while the Complainant was inside the bathroom. Faris heard the Complainant vomiting and went to take a look, whereupon he “saw her in the bathtub”. Faris then went back to the living room and slept on the living room floor.
+> (d)     Paragraphs 9 and 10 recorded certain events which occurred at Zouk. In essence, Faris consumed more alcohol there and returned to Duxton Hotel with Ridhwan soon after Asep left Zouk. When Faris and Ridhwan entered the Room, Faris noticed Hazly and Fadly watching television in the living room, while the Complainant was inside the bathroom. Faris heard the Complainant vomiting and went to take a look, whereupon he “saw her in the bathtub”. Faris then went back to the living room and slept on the living room floor.
 
-(e)     The last part of paragraph 11 through to paragraph 14 of the statement are material as they were challenged as inaccurate by Faris, and they will be relied on in the analysis of the charges below (see \[156\]). They read as follows:
+> (e)     The last part of paragraph 11 through to paragraph 14 of the statement are material as they were challenged as inaccurate by Faris, and they will be relied on in the analysis of the charges below (see \[156\]). They read as follows:
 
-11    … I took out my shirt and lay on the living room floor. I subsequently fell asleep.
+>> 11    … I took out my shirt and lay on the living room floor. I subsequently fell asleep.
 
-12    When I woke up, I realised the sky was bright and \[the Complainant\] was on my left. She was also lying down but her eyes were opened. Her body was turning to my side and facing me. On her left was \[Ridhwan\] and he was lying down and I could not see his face. On my right was a chair. The blanket was covering the 3 of us and I wanted to get up to drink some water. I then lifted up the blanket and I saw \[the Complainant\] was half naked. She was wearing a round neck t-shirt with length slightly above her belly button. She was also wearing a black and white short skirt. Somehow, her skirt was lifted up to her waist and I could see that she was not wearing any panties. I put the blanket down but I was already aroused. I then moved closer to her and I lay my head on her right upper arm and I put my right hand under the blanket and I used my fingers to touch her vagina. I used my fingers to rub her vagina at her “G” spot. The “G” spot was outside at the top of the vagina. I cannot remember which finger or fingers I used. I rubbed for a while and she pushed my hand away and I stopped. While I was rubbing her vagina, she looked at my \[_sic_\] blankly.
+>> 12    When I woke up, I realised the sky was bright and \[the Complainant\] was on my left. She was also lying down but her eyes were opened. Her body was turning to my side and facing me. On her left was \[Ridhwan\] and he was lying down and I could not see his face. On my right was a chair. The blanket was covering the 3 of us and I wanted to get up to drink some water. I then lifted up the blanket and I saw \[the Complainant\] was half naked. She was wearing a round neck t-shirt with length slightly above her belly button. She was also wearing a black and white short skirt. Somehow, her skirt was lifted up to her waist and I could see that she was not wearing any panties. I put the blanket down but I was already aroused. I then moved closer to her and I lay my head on her right upper arm and I put my right hand under the blanket and I used my fingers to touch her vagina. I used my fingers to rub her vagina at her “G” spot. The “G” spot was outside at the top of the vagina. I cannot remember which finger or fingers I used. I rubbed for a while and she pushed my hand away and I stopped. While I was rubbing her vagina, she looked at my \[_sic_\] blankly.
 
-13    After she pushed away my hand and I stopped, I got up to get some water. I then went back to lie beside her again but I turned my body towards the right and faced away from her. At that time, \[Ridhwan\] was still lying beside her. A while later, I fell asleep again. When I woke up again, it was around 10 am plus or 11 am. The rest of them also started to wake up or already woke up. We then started to go off.
+>> 13    After she pushed away my hand and I stopped, I got up to get some water. I then went back to lie beside her again but I turned my body towards the right and faced away from her. At that time, \[Ridhwan\] was still lying beside her. A while later, I fell asleep again. When I woke up again, it was around 10 am plus or 11 am. The rest of them also started to wake up or already woke up. We then started to go off.
 
-14    I only rubbed \[the Complainant’s\] vagina. I did not insert my finger inside her vagina. I did not put my penis inside her vagina. I don’t know whether \[Ridhwan\] did anything to her but he was lying beside her. I regretted what I had done.
+>> 14    I only rubbed \[the Complainant’s\] vagina. I did not insert my finger inside her vagina. I did not put my penis inside her vagina. I don’t know whether \[Ridhwan\] did anything to her but he was lying beside her. I regretted what I had done.
 
 55     Faris signed at least once at the bottom of each page of the statement. The final part of the statement was a paragraph which recorded, amongst other things, that ISP Tho had informed Faris prior to statement-taking that Faris may make any amendment to the statement. It also recorded that ISP Tho “did not offer any threat, inducement promise to \[Faris\] either before or during the recording of the statement. \[Faris\] gave the statement voluntarily”. This paragraph was followed by the signatures of both Faris and ISP Tho.
 
 56     Faris raised two main arguments as to why his 1st Statement was not admissible.
 
-(a)     First, he contended that the statement had been given as a result of oppression. Specifically, he said that he had agreed to the inclusion of the last part of paragraph 11 until paragraph 14 of the statement, even though they were not true, because of pressure from SIO Sajari who was also present at the time of statement-taking together with ISP Tho (_ie_, from 12.45am to 2.05am).[^65] According to Faris, SIO Sajari made “suggestions” to him about what had happened, and Faris felt compelled to agree because SIO Sajari “kept shouting” at him, and he “d\[id\] not know what to do” and “just had to give her what she wanted”.[^66] He also alleged that SIO Sajari had shouted “You think this is funny”, told him that rape was a capital matter (which Faris understood to mean “a big case” that involved a long term of imprisonment[^67]), and asked him to take off his t-shirt and squat for “quite a long time” with his hands placed behind his head and neck, until he had “pins and needles”.[^68] During this time, apart from asking a few introductory questions, ISP Tho was “just typing”.[^69]
+> (a)     First, he contended that the statement had been given as a result of oppression. Specifically, he said that he had agreed to the inclusion of the last part of paragraph 11 until paragraph 14 of the statement, even though they were not true, because of pressure from SIO Sajari who was also present at the time of statement-taking together with ISP Tho (_ie_, from 12.45am to 2.05am).[^65] According to Faris, SIO Sajari made “suggestions” to him about what had happened, and Faris felt compelled to agree because SIO Sajari “kept shouting” at him, and he “d\[id\] not know what to do” and “just had to give her what she wanted”.[^66] He also alleged that SIO Sajari had shouted “You think this is funny”, told him that rape was a capital matter (which Faris understood to mean “a big case” that involved a long term of imprisonment[^67]), and asked him to take off his t-shirt and squat for “quite a long time” with his hands placed behind his head and neck, until he had “pins and needles”.[^68] During this time, apart from asking a few introductory questions, ISP Tho was “just typing”.[^69]
 
-(b)     Second, Faris alleged that there had been several procedural breaches during the statement-taking process. It was not clear if he meant that these breaches in themselves negated the admissibility of the statement, or that they, coupled with the oppressive acts of the police, led to the recording of an untrue and inaccurate account in the statement.[^70]
+> (b)     Second, Faris alleged that there had been several procedural breaches during the statement-taking process. It was not clear if he meant that these breaches in themselves negated the admissibility of the statement, or that they, coupled with the oppressive acts of the police, led to the recording of an untrue and inaccurate account in the statement.[^70]
 
 57     The Prosecution’s case was that Faris’ 1st Statement was voluntarily given and procedurally proper. In relation to the allegations against SIO Sajari, its version was that SIO Sajari had not even been present at the taking of Faris’ 1st Statement. Instead, during the material period, she was elsewhere occupied with the handling of Ridhwan and his statements, and ISP Tho was the only person taking Faris’ statement. Thus, Faris’ allegations against SIO Sajari could only have been untruths belatedly contrived in a bid to escape liability. As for the alleged procedural irregularities, the Prosecution submitted that ISP Tho had complied with the requisite procedures.
 
@@ -269,25 +269,104 @@ The test of voluntariness is applied in a manner which is partly objective and p
 
 59     First, there was consistent and corroborated evidence that SIO Sajari was not present throughout the period when Faris’ 1st Statement was taken.
 
-(a)     ISP Tho’s evidence was that on 29 January 2014 at around 11.35pm, he and two other officers placed Faris under arrest when Faris reported to the Serious Sexual Crimes Branch (“SSCB”) at the PCC. Faris was then escorted to an interview room in SSCB, where ISP Tho alone interviewed him from around 12.45am to 2.05am on 30 January 2014. This was consistent with the fact that only ISP Tho’s name was reflected on Faris’ 1st Statement. Thereafter, at around 2.15am, ISP Tho and ASP Guruswamy escorted Faris to the lock-up at the PCC.
+> (a)     ISP Tho’s evidence was that on 29 January 2014 at around 11.35pm, he and two other officers placed Faris under arrest when Faris reported to the Serious Sexual Crimes Branch (“SSCB”) at the PCC. Faris was then escorted to an interview room in SSCB, where ISP Tho alone interviewed him from around 12.45am to 2.05am on 30 January 2014. This was consistent with the fact that only ISP Tho’s name was reflected on Faris’ 1st Statement. Thereafter, at around 2.15am, ISP Tho and ASP Guruswamy escorted Faris to the lock-up at the PCC.
 
-(b)     Deputy Superintendent Amos Tang Lai Hee (“DSP Tang”) gave evidence that between 12.04am and 1.03am on 30 January 2014, he interviewed Ridhwan and took a statement from him.[^71] DSP Tang’s usual practice was to hand the statement over to the lead investigation officer (“IO”) once he finished recording it,[^72] and the lead IO in this case was SIO Sajari. While DSP Tang was referring to his usual practice and candidly said that he could not recall what had actually occurred in this case,[^73] the Prosecution submitted that there was no reason for him to depart from this practice on 30 January 2014.[^74] I agreed that some weight should be placed on DSP Tang’s usual practice, particularly in the light of SIO Sajari’s role as the lead IO and the fact that she was the person who had instructed DSP Tang to take the relevant statement from Ridhwan in the first place.[^75] I add that 1.03am, which was around the time DSP Tang handed the statement over to SIO Sajari, was sometime _after_ the commencement of the recording of Faris’ 1st Statement.
+> (b)     Deputy Superintendent Amos Tang Lai Hee (“DSP Tang”) gave evidence that between 12.04am and 1.03am on 30 January 2014, he interviewed Ridhwan and took a statement from him.[^71] DSP Tang’s usual practice was to hand the statement over to the lead investigation officer (“IO”) once he finished recording it,[^72] and the lead IO in this case was SIO Sajari. While DSP Tang was referring to his usual practice and candidly said that he could not recall what had actually occurred in this case,[^73] the Prosecution submitted that there was no reason for him to depart from this practice on 30 January 2014.[^74] I agreed that some weight should be placed on DSP Tang’s usual practice, particularly in the light of SIO Sajari’s role as the lead IO and the fact that she was the person who had instructed DSP Tang to take the relevant statement from Ridhwan in the first place.[^75] I add that 1.03am, which was around the time DSP Tang handed the statement over to SIO Sajari, was sometime _after_ the commencement of the recording of Faris’ 1st Statement.
 
-(c)     SIO Sajari similarly testified that she received Ridhwan’s statement from DSP Tang at slightly after 1.03am.[^76] Between then and 2.00am, she was reading it and using it to prepare the form for Ridhwan’s type-written cautioned statement for use with him later.[^77] At around 2.00am, SIO Sajari and DSP Tang escorted Ridhwan from SSCB to the lock-up for a medical examination, and then at around 2.15am, she commenced recording Ridhwan’s cautioned statement using the form that she had earlier prepared.[^78] In my view, the timeline was credible. SIO Sajari’s account that she had escorted Ridhwan to his medical examination at around 2.00am was also corroborated by DSP Tang.[^79] (I should add that Ridhwan’s cautioned statement was in relation to a charge under s 376(1)(_a_) of the PC for penile-anal penetration,[^80] which appeared not to have been pursued as it was not a charge before this court.)
+> (c)     SIO Sajari similarly testified that she received Ridhwan’s statement from DSP Tang at slightly after 1.03am.[^76] Between then and 2.00am, she was reading it and using it to prepare the form for Ridhwan’s type-written cautioned statement for use with him later.[^77] At around 2.00am, SIO Sajari and DSP Tang escorted Ridhwan from SSCB to the lock-up for a medical examination, and then at around 2.15am, she commenced recording Ridhwan’s cautioned statement using the form that she had earlier prepared.[^78] In my view, the timeline was credible. SIO Sajari’s account that she had escorted Ridhwan to his medical examination at around 2.00am was also corroborated by DSP Tang.[^79] (I should add that Ridhwan’s cautioned statement was in relation to a charge under s 376(1)(_a_) of the PC for penile-anal penetration,[^80] which appeared not to have been pursued as it was not a charge before this court.)
 
 60     While it would have been better if there had been objective contemporaneous evidence of SIO Sajari’s whereabouts, I accepted her explanation that she had disposed her field book and other confidential documents when she left the police force and was told in 2016 that she would not be required as a witness in this case.[^81] Indeed, it was apparently Faris’ counsel who had told the Prosecution in 2016 that SIO Sajari would not be required as a witness, in reliance on which SIO Sajari disposed of her field book and documents when the Prosecution conveyed the same to her.[^82] Faris’ counsel said she took this position because the Prosecution had initially said that it was not relying on his 1st Statement. On the other hand, the Prosecution said that they had not intended to rely on Faris’ 1st Statement until he took a certain position. Thus, when the parties’ cases morphed later, SIO Sajari’s oral testimony was again needed, but the field book and documents could no longer be retrieved. This was unfortunate but I did not consider it to suggest anything untoward on the part of SIO Sajari. Neither did Faris suggest that SIO Sajari had given a false reason for disposing her field book and other confidential documents.
 
 61     Second, and in contrast, there was a material inconsistency in Faris’ own account of when SIO Sajari had been present at the statement-taking.
 
-(a)     Initially, during the cross-examination of SIO Sajari in the ancillary hearing, Faris asserted through his counsel that SIO Sajari had been present with him and ISP Tho from 11.45pm on 29 January 2014 to about 2.00am on 30 January 2014.[^83] This time period would include both the pre-interview conversation between Faris and the officers (11.45pm to 12.45am), and the entire duration of the statement-taking proper (12.45am to 2.05am).
+> (a)     Initially, during the cross-examination of SIO Sajari in the ancillary hearing, Faris asserted through his counsel that SIO Sajari had been present with him and ISP Tho from 11.45pm on 29 January 2014 to about 2.00am on 30 January 2014.[^83] This time period would include both the pre-interview conversation between Faris and the officers (11.45pm to 12.45am), and the entire duration of the statement-taking proper (12.45am to 2.05am).
 
-(b)     Subsequently, however, after the evidence of the Prosecution had been given, Faris testified in cross-examination that only ISP Tho was with him during the pre-interview stage, and that SIO Sajari had entered the room “halfway when recording the statement”.[^84] When pressed on when exactly SIO Sajari had entered the room, he said that he could not remember, even though he stressed that it was before paragraph 12 of his 1st Statement was taken.[^85] He accepted that this was a change from the position that his counsel had taken when she cross-examined SIO Sajari.[^86]
+> (b)     Subsequently, however, after the evidence of the Prosecution had been given, Faris testified in cross-examination that only ISP Tho was with him during the pre-interview stage, and that SIO Sajari had entered the room “halfway when recording the statement”.[^84] When pressed on when exactly SIO Sajari had entered the room, he said that he could not remember, even though he stressed that it was before paragraph 12 of his 1st Statement was taken.[^85] He accepted that this was a change from the position that his counsel had taken when she cross-examined SIO Sajari.[^86]
 
 62     In my view, this inconsistency raised doubts about the accuracy and veracity of Faris’ account. The Defence sought to play this down by stressing that Faris had been consistent in maintaining that SIO Sajari was present at least during the latter half of the interview,[^87] but this did not inspire confidence. It seemed that he had tailored his evidence to try and meet the evidence that the Prosecution had adduced. In fact, Faris’ evidence suggested further inconsistencies with other parts of his statement, for instance, that ISP Tho had played only a passive role and was “just typing” during the interview.[^88] Surely ISP Tho would have taken on a more active role had he been the only officer present during the first half of the interview.
 
 63     Third, the parts of the statement which, according to Faris, were suggested by SIO Sajari aggressively and agreed to by him in fear included _exculpatory_ content. In particular, paragraph 14 of Faris’ 1st Statement stated specifically “I did _not_ insert my finger inside her vagina” and thereafter “I did _not_ put my penis inside her vagina” \[emphases added\]. Yet, Faris insisted in attributing the contents of the entire paragraph to SIO Sajari:[^89]
 
-<table align="left" cellpadding="0" cellspacing="0" class="Judg-2" frame="none" pgwide="1"><colgroup><col width="39.0290129756524%"> <col width="60.9709870243476%"> </colgroup><tbody><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Q [from Faris’ counsel]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">… Faris, is there anything else in the rest of your statement that was recorded inaccurately from you?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">A</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">The whole paragraph 14.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Q</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Okay, the whole paragraph is inaccurately recorded?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">A</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Yes.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Q</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Okay, so can you tell us what happened during the recording of paragraph 14?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">A</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">As usual, she shouted at me. She asked me, “So you just rub [the Complainant’s] vagina?” I just agreed. Everything that is stated here, she asked me and I just agreed. …</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">…</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">&nbsp;</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Q</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">… Okay, Faris, can you clarify? Okay, you said that this paragraph is inaccurately recorded but now you’re telling us that this is actually what you did agree with [SIO Sajari].</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">A</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Yes. This is what I--- this is not what I said. This is what she said and I just agreed.</p></td></tr></tbody></table>
+>   
+| 
+
+Q \[from Faris’ counsel\]:
+
+ | 
+
+… Faris, is there anything else in the rest of your statement that was recorded inaccurately from you?
+
+ |
+| 
+
+A
+
+ | 
+
+The whole paragraph 14.
+
+ |
+| 
+
+Q
+
+ | 
+
+Okay, the whole paragraph is inaccurately recorded?
+
+ |
+| 
+
+A
+
+ | 
+
+Yes.
+
+ |
+| 
+
+Q
+
+ | 
+
+Okay, so can you tell us what happened during the recording of paragraph 14?
+
+ |
+| 
+
+A
+
+ | 
+
+As usual, she shouted at me. She asked me, “So you just rub \[the Complainant’s\] vagina?” I just agreed. Everything that is stated here, she asked me and I just agreed. …
+
+ |
+| 
+
+…
+
+ | 
+
+ |
+| 
+
+Q
+
+ | 
+
+… Okay, Faris, can you clarify? Okay, you said that this paragraph is inaccurately recorded but now you’re telling us that this is actually what you did agree with \[SIO Sajari\].
+
+ |
+| 
+
+A
+
+ | 
+
+Yes. This is what I--- this is not what I said. This is what she said and I just agreed.
+
+ |
 
   
   
@@ -308,55 +387,55 @@ The test of voluntariness is applied in a manner which is partly objective and p
 
 71     Finally, turning to the procedural irregularities alleged, Faris raised the following complaints in relation to his 1st Statement:[^103]
 
-(a)     He was not expressly asked the language that he wished to give his statement in. If given a choice, he would have preferred to give his statement in Malay rather than English, even though he had not expressed such a preference at the time of statement-taking.
+> (a)     He was not expressly asked the language that he wished to give his statement in. If given a choice, he would have preferred to give his statement in Malay rather than English, even though he had not expressed such a preference at the time of statement-taking.
 
-(b)     His statement was not read back or explained to him, nor was he given the chance to read it. In fact, the first time Faris read this statement was when his first lawyer gave it to him at a much later date.
+> (b)     His statement was not read back or explained to him, nor was he given the chance to read it. In fact, the first time Faris read this statement was when his first lawyer gave it to him at a much later date.
 
-(c)     He was not informed that he could make edits to the statement. He was also not asked if he would like to edit the statement when his 2nd Statement was taken.[^104]
+> (c)     He was not informed that he could make edits to the statement. He was also not asked if he would like to edit the statement when his 2nd Statement was taken.[^104]
 
-(d)     He was not asked to confirm if the statement was true and correct. Even though he had signed every page of the statement, he did so only because he “was just told to sign”.[^105] He was not given the option of not signing his statement at all.
+> (d)     He was not asked to confirm if the statement was true and correct. Even though he had signed every page of the statement, he did so only because he “was just told to sign”.[^105] He was not given the option of not signing his statement at all.
 
 72     Faris’ 1st Statement was taken under s 22 of the CPC, the material part of which reads as follows:
 
-**Power to examine witnesses**
+> **Power to examine witnesses**
 
-22.—  …
+> 22.—  …
 
-…
+> …
 
-(3)    A statement made by any person examined under this section must —
+> (3)    A statement made by any person examined under this section must —
 
-(_a_)    be in writing;
+>> (_a_)    be in writing;
 
-(_b_)    be read over to him;
+>> (_b_)    be read over to him;
 
-(_c_)    if he does not understand English, be interpreted for him in a language that he understands; and
+>> (_c_)    if he does not understand English, be interpreted for him in a language that he understands; and
 
-(_d_)    be signed by him.
+>> (_d_)    be signed by him.
 
 (There have since been amendments to s 22 of the CPC, but those amendments were introduced after the ancillary hearing.)
 
 73     I should highlight at the outset that not every procedural breach, even if of a requirement expressly stated in s 22 of the CPC, would render a statement inadmissible if it is otherwise admissible. Explanation 2 to s 258(3) of the CPC states:
 
-_Explanation 2._ — If a statement is otherwise admissible, it will not be rendered inadmissible merely because it was made in any of the following circumstances:
+> _Explanation 2._ — If a statement is otherwise admissible, it will not be rendered inadmissible merely because it was made in any of the following circumstances:
 
-…
+>> …
 
-(_e_)    where the recording officer or the interpreter of an accused’s statement recorded under section 22 or 23 did not fully comply with that section. …
+>> (_e_)    where the recording officer or the interpreter of an accused’s statement recorded under section 22 or 23 did not fully comply with that section. …
 
 74     Faris relied on the following paragraph of the Court of Appeal’s decision in _Muhammad bin Kadar v Public Prosecutor_ <span class="citation">\[2011\] 3 SLR 1205</span> (“_Kadar_”) at \[62\]:
 
-Statements taken in deliberate or reckless non-compliance… in relation to procedural requirements will generally require more cogent explanation from the Prosecution to discharge its burden, as compared to where the irregularities are merely careless or arising from some pressing operational necessity. This would be because the _bona fides_ of a recording police officer who deliberately breaches the requirements or knowingly disregards them would necessarily be more questionable. Further, such conduct should not be encouraged. The court should be wary of accepting any explanation by way of ignorance of the correct procedures…
+> Statements taken in deliberate or reckless non-compliance… in relation to procedural requirements will generally require more cogent explanation from the Prosecution to discharge its burden, as compared to where the irregularities are merely careless or arising from some pressing operational necessity. This would be because the _bona fides_ of a recording police officer who deliberately breaches the requirements or knowingly disregards them would necessarily be more questionable. Further, such conduct should not be encouraged. The court should be wary of accepting any explanation by way of ignorance of the correct procedures…
 
 75     However, this did not support a broad proposition that every procedural irregularity or non-compliance would render a statement inadmissible. In the present case, it is not disputed that _Kadar_ stood for the existence of a common law discretion to exclude a statement even if voluntarily taken. The test in deciding whether to exercise such a discretion is whether the prejudicial effect of the statement exceeds its probative value (_Kadar_ at \[55\]). This test, while perhaps easy to state, is not so easy to apply. Where the prosecution seeks to rely on a statement, there is bound to be some probative value in it; and where the defence seeks to challenge the admissibility of a statement, it is most likely the case that admitting the statement will lead to some prejudice to the defence’s case. But the central inquiry underlying this discretionary power is the court’s fundamental concern with the _reliability_ of the police statement. Therefore, the twin factors of “probative value” and “prejudicial effect” must be assessed with this broader question of reliability in mind. This much is clear on a closer reading of _Kadar_, where the Court of Appeal repeatedly stressed the need for the court to be satisfied of the reliability of a statement, including at \[55\] that “where prejudicial effect exceeds the probative value, _the very reliability of the statement sought to be admitted is questionable_” \[emphasis added\]. Viewed in this light, it will become apparent that Faris’ procedural complaints did not materially impinge on the reliability of either of his statements.
 
 76     Furthermore, as I mentioned (at \[56(b)\]), it was not clear if Faris’ argument was that the procedural breaches in themselves rendered his statement inadmissible, or that they facilitated the recording of an inadmissible statement taken together with the allegedly oppressive acts by SIO Sajari. It appeared that Faris was arguing the latter, since the thrust of his allegation was not so much about inadvertent inaccuracy but rather that he was coerced into signing on the 1st Statement. If so, then his argument must fail as I have rejected his account of the alleged oppression. Even if the argument was of pure procedural irregularity, I was of the view that there was no material irregularity in respect of Faris’ 1st Statement for the following reasons.
 
-(a)     First, in relation to the language in which the statement should be taken, s 22(3)(_c_) of the CPC clearly states that interpretation must be provided “if the person does not understand English”. But it was not the Defence’s case that Faris _did not understand_ English at the time he gave the statement. Rather, the Defence’s case was that Faris would _prefer_ to give his evidence in the Malay language (see \[71(a)\] above).[^106] Indeed, having observed and heard Faris in court, it was clear to me that Faris could understand and speak simple English. At various points when giving evidence, Faris would slip into English despite the presence of a court interpreter for the Malay language. Faris’ own testimony was that if he could not understand what was said to him in English, he would have clarified or asked for a Malay interpreter at the time his statement was recorded,[^107] which he did not. It was also not his case that he had expressed his preference for the Malay language but that ISP Tho had rejected the request. To the contrary, ISP Tho’s evidence was that he had asked Faris which language he preferred to converse in prior to the recording of the statement, and that Faris had indicated English.[^108] During her oral submissions, counsel for Faris accepted that s 22(3)(_c_) of the CPC did not require the statement-taker to positively ask the accused which language he wanted to give his statement in.[^109] Although she suggested that this might be an internal guideline for the police,[^110] this was speculative and not put to the Prosecution witnesses.
+> (a)     First, in relation to the language in which the statement should be taken, s 22(3)(_c_) of the CPC clearly states that interpretation must be provided “if the person does not understand English”. But it was not the Defence’s case that Faris _did not understand_ English at the time he gave the statement. Rather, the Defence’s case was that Faris would _prefer_ to give his evidence in the Malay language (see \[71(a)\] above).[^106] Indeed, having observed and heard Faris in court, it was clear to me that Faris could understand and speak simple English. At various points when giving evidence, Faris would slip into English despite the presence of a court interpreter for the Malay language. Faris’ own testimony was that if he could not understand what was said to him in English, he would have clarified or asked for a Malay interpreter at the time his statement was recorded,[^107] which he did not. It was also not his case that he had expressed his preference for the Malay language but that ISP Tho had rejected the request. To the contrary, ISP Tho’s evidence was that he had asked Faris which language he preferred to converse in prior to the recording of the statement, and that Faris had indicated English.[^108] During her oral submissions, counsel for Faris accepted that s 22(3)(_c_) of the CPC did not require the statement-taker to positively ask the accused which language he wanted to give his statement in.[^109] Although she suggested that this might be an internal guideline for the police,[^110] this was speculative and not put to the Prosecution witnesses.
 
-(b)     As for the reading back of the statement, s 22(3)(_b_) requires that a police statement be “read over” to the accused person, even though an explanation is not expressly required. On the evidence, I preferred ISP Tho’s version that he had read over the statement to Faris after it was recorded. This account was largely unshaken in court, and it accorded with the paragraph at the end of the statement, where it was stated at two instances that “my statement was read and explained to me”.[^111] Faris had signed immediately below this paragraph. In any event, Faris agreed that he was given the chance to and had in fact made amendments to his 1st Statement in his 2nd Statement. In this light, the reliability of the 1st Statement read together with his 2nd Statement is not compromised, and I did not consider that the prejudicial effect of admitting the 1st Statement would be greater than its probative value.
+> (b)     As for the reading back of the statement, s 22(3)(_b_) requires that a police statement be “read over” to the accused person, even though an explanation is not expressly required. On the evidence, I preferred ISP Tho’s version that he had read over the statement to Faris after it was recorded. This account was largely unshaken in court, and it accorded with the paragraph at the end of the statement, where it was stated at two instances that “my statement was read and explained to me”.[^111] Faris had signed immediately below this paragraph. In any event, Faris agreed that he was given the chance to and had in fact made amendments to his 1st Statement in his 2nd Statement. In this light, the reliability of the 1st Statement read together with his 2nd Statement is not compromised, and I did not consider that the prejudicial effect of admitting the 1st Statement would be greater than its probative value.
 
-(c)     As for the alleged irregularities highlighted at \[71(c)\] and \[71(d)\] above, for similar reasons, I was of the view that Faris had been given the opportunity to amend his statement and to confirm its truth and accuracy. In any event, such omissions did not relate to any statutory procedural obligation under the CPC. Faris accepted this,[^112] but sought to argue that they nevertheless weighed against the accuracy and hence admissibility of Faris’ 1st Statement. I was not persuaded since in any event, as I mentioned, Faris was given the chance to and had in fact made amendments to his 1st Statement when he gave his 2nd Statement.
+> (c)     As for the alleged irregularities highlighted at \[71(c)\] and \[71(d)\] above, for similar reasons, I was of the view that Faris had been given the opportunity to amend his statement and to confirm its truth and accuracy. In any event, such omissions did not relate to any statutory procedural obligation under the CPC. Faris accepted this,[^112] but sought to argue that they nevertheless weighed against the accuracy and hence admissibility of Faris’ 1st Statement. I was not persuaded since in any event, as I mentioned, Faris was given the chance to and had in fact made amendments to his 1st Statement when he gave his 2nd Statement.
 
 77     For the foregoing reasons, I held that Faris’ 1st Statement was admissible in evidence.
 
@@ -366,57 +445,57 @@ Statements taken in deliberate or reckless non-compliance… in relation to proc
 
 79     Faris’ 2nd Statement was 5 pages long and recorded in question-and-answer format. There were a total of 29 sets of questions and answers, of which the following points are material:
 
-(a)     Faris indicated that he wanted to add the following facts to paragraph 11 of his 1st Statement (Questions 1 and 2):
+> (a)     Faris indicated that he wanted to add the following facts to paragraph 11 of his 1st Statement (Questions 1 and 2):
 
-When I went into the toilet on the second floor of the hotel room, I saw \[the Complainant\] seated inside the bath tub. I went to urinate first at the toilet bowl. I saw that \[the Complainant\] was drunk. She was already vomiting when we had left the hotel earlier to Zouk. \[The Complainant\] got out of the bathtub and knocked herself out against the door. This caused the door to be slightly closed. She then stood near the door and was just standing there. I then walked towards her and she fell on me as she could not stand on her own. She then put her hands on my shoulder to support herself. She subsequently leaned back on the door and this caused the door to close. Her face was near my neck. I then lifted up her skirt and I realised that she was not wearing any panties. I opened my pants and underwear and pulled it down to my ankle level. I then started “fucking” her”.
+>> When I went into the toilet on the second floor of the hotel room, I saw \[the Complainant\] seated inside the bath tub. I went to urinate first at the toilet bowl. I saw that \[the Complainant\] was drunk. She was already vomiting when we had left the hotel earlier to Zouk. \[The Complainant\] got out of the bathtub and knocked herself out against the door. This caused the door to be slightly closed. She then stood near the door and was just standing there. I then walked towards her and she fell on me as she could not stand on her own. She then put her hands on my shoulder to support herself. She subsequently leaned back on the door and this caused the door to close. Her face was near my neck. I then lifted up her skirt and I realised that she was not wearing any panties. I opened my pants and underwear and pulled it down to my ankle level. I then started “fucking” her”.
 
-He explained that he had not mentioned this in his 1st Statement because he was “scared to admit to my mistake” and that he decided to “come clean” now because he was “feeling scared as to when the truth will come out.” (Questions 3 and 4).
+> He explained that he had not mentioned this in his 1st Statement because he was “scared to admit to my mistake” and that he decided to “come clean” now because he was “feeling scared as to when the truth will come out.” (Questions 3 and 4).
 
-(b)     Several clarificatory questions then followed. First, Faris clarified that by “fucking”, he meant that he had penile-vaginal intercourse with the Complainant (Question 6). As for the issue of consent, Faris provided the following answers:
+> (b)     Several clarificatory questions then followed. First, Faris clarified that by “fucking”, he meant that he had penile-vaginal intercourse with the Complainant (Question 6). As for the issue of consent, Faris provided the following answers:
 
-**Q9:** **Did you ask \[the Complainant\] whether you can have sex with \[her\]?**
+>> **Q9:** **Did you ask \[the Complainant\] whether you can have sex with \[her\]?**
 
-A9:When she leaned on the toilet door and the toilet door closed, I asked her whether I could have sex with her.
+>> A9:When she leaned on the toilet door and the toilet door closed, I asked her whether I could have sex with her.
 
-**Q10:** **Did she give you a reply when you asked her whether you can have sex with her?**
+>> **Q10:** **Did she give you a reply when you asked her whether you can have sex with her?**
 
-A10:She did not reply. Her eyes were halfway closed and she still appeared drunk.
+>> A10:She did not reply. Her eyes were halfway closed and she still appeared drunk.
 
-**Q11:** **If she did not say yes to you having sex with her, why did you still proceed to have sex with her?**
+>> **Q11:** **If she did not say yes to you having sex with her, why did you still proceed to have sex with her?**
 
-A11:I don’t know. I was just feeling horny and wanted to have sex.
+>> A11:I don’t know. I was just feeling horny and wanted to have sex.
 
-(c)     Faris also stated the following observations regarding the condition of the Complainant at the material time:
+> (c)     Faris also stated the following observations regarding the condition of the Complainant at the material time:
 
-**Q18:** **When you were having sex with \[the Complainant\] in the toilet, did she look you in the eye?**
+>> **Q18:** **When you were having sex with \[the Complainant\] in the toilet, did she look you in the eye?**
 
-A18:She wasn’t. Like I mentioned, her face was just bowed down near my shoulder.
+>> A18:She wasn’t. Like I mentioned, her face was just bowed down near my shoulder.
 
-**Q19:** **Was \[the Complainant\] vomiting when you went up to the toilet?**
+>> **Q19:** **Was \[the Complainant\] vomiting when you went up to the toilet?**
 
-A19:I think she stopped vomiting already. But I saw some vomit on the side of the bathtub.
+>> A19:I think she stopped vomiting already. But I saw some vomit on the side of the bathtub.
 
-**Q20:** **Was \[the Complainant\] in a condition to walk properly or stand up properly?**
+>> **Q20:** **Was \[the Complainant\] in a condition to walk properly or stand up properly?**
 
-A20:I cannot remember really. But I know that she looked drunk and when she walked towards the door, she knocked herself against the door.
+>> A20:I cannot remember really. But I know that she looked drunk and when she walked towards the door, she knocked herself against the door.
 
-**Q21:** **If \[the Complainant\] still looked drunk to you, do you think it would have been possible for \[her\] to have given consent to having sex with you?**
+>> **Q21:** **If \[the Complainant\] still looked drunk to you, do you think it would have been possible for \[her\] to have given consent to having sex with you?**
 
-A21:No.
+>> A21:No.
 
-**Q22:** **If she could not have given consent to you, why did you still proceed to have sex with her?**
+>> **Q22:** **If she could not have given consent to you, why did you still proceed to have sex with her?**
 
-A22:I don’t know.
+>> A22:I don’t know.
 
 80     At the outset, I should mention that several areas of contention raised by Faris had no clear bearing on the voluntariness of his 2nd Statement. They may be summarised as follows:
 
-(a)     There was a dispute over the order in which ASP Guruswamy had made certain phone calls in the morning of 16 October 2014 when arranging for Faris to have his statement recorded later in the day. According to ASP Guruswamy, he had made four calls at around 10.35am. His field book, which he said he had updated immediately after making all the calls,[^113] showed an entry at 10.35am for Faris’ father, his mother, him, and his then girlfriend in that order.[^114] On the other hand, Faris’ version was that ASP Guruswamy had called only him slightly after 12pm and no one else. Faris submitted that ASP Guruswamy must be lying as it made no sense that he was not recorded as the first person to whom a call was made in his field book. However, ASP Guruswamy explained that he had recorded the entry after making _all_ the calls, and thus could not confirm that the order in the field book was the actual sequence in which the calls were made.[^115] He also accepted that he could have called Faris first.[^116] It did not seem to me obvious that ASP Guruswamy would have known that the sequence in which he recorded the calls would later be contested. There was also no evidence from Faris’ mother, father, or then-girlfriend. In any event, the relevance of this dispute was not clear. Even if Faris’ version was taken at face value, it only meant that this entry in ASP Guruswamy’s field book was not entirely accurate.[^117] But it did not mean that any other evidence of ASP Guruswamy was unreliable or that Faris’ 2nd Statement was involuntary. Faris’ counsel did not elaborate why Faris’ argument in this regard was material.
+> (a)     There was a dispute over the order in which ASP Guruswamy had made certain phone calls in the morning of 16 October 2014 when arranging for Faris to have his statement recorded later in the day. According to ASP Guruswamy, he had made four calls at around 10.35am. His field book, which he said he had updated immediately after making all the calls,[^113] showed an entry at 10.35am for Faris’ father, his mother, him, and his then girlfriend in that order.[^114] On the other hand, Faris’ version was that ASP Guruswamy had called only him slightly after 12pm and no one else. Faris submitted that ASP Guruswamy must be lying as it made no sense that he was not recorded as the first person to whom a call was made in his field book. However, ASP Guruswamy explained that he had recorded the entry after making _all_ the calls, and thus could not confirm that the order in the field book was the actual sequence in which the calls were made.[^115] He also accepted that he could have called Faris first.[^116] It did not seem to me obvious that ASP Guruswamy would have known that the sequence in which he recorded the calls would later be contested. There was also no evidence from Faris’ mother, father, or then-girlfriend. In any event, the relevance of this dispute was not clear. Even if Faris’ version was taken at face value, it only meant that this entry in ASP Guruswamy’s field book was not entirely accurate.[^117] But it did not mean that any other evidence of ASP Guruswamy was unreliable or that Faris’ 2nd Statement was involuntary. Faris’ counsel did not elaborate why Faris’ argument in this regard was material.
 
-(b)     There was also a dispute about the circumstances in which police officers had picked up Faris to escort him back to the PCC for the statement to be taken. Much of this was also irrelevant, such as whether Faris was sitting with his then-girlfriend alone, or with a group of friends at that time. In so far as the escorting officers had apparently made certain threatening statements to Faris, I will consider those later separately (see \[82\]).
+> (b)     There was also a dispute about the circumstances in which police officers had picked up Faris to escort him back to the PCC for the statement to be taken. Much of this was also irrelevant, such as whether Faris was sitting with his then-girlfriend alone, or with a group of friends at that time. In so far as the escorting officers had apparently made certain threatening statements to Faris, I will consider those later separately (see \[82\]).
 
-(c)     According to Faris, he arrived at the PCC at around 2.00pm. However, before his 2nd Statement was taken, DSP Burhanudeen Bin Haji Hussainar (“DSP Burhanudeen”) brought Faris into his office and had a 4-hour long[^118] conversation with him about the alleged offences. During this time, DSP Burhanudeen was said to have handed Faris a dildo and asked him to demonstrate how he had sex with the Complainant. According to Faris, ISP Tho entered the office midway through this conversation, and when DSP Burhanudeen referred to the dildo and asked Faris “Big enough or not?”, both the police officers laughed.[^119] DSP Burhanudeen and ISP Tho denied that this had occurred. DSP Burhanudeen testified that he did not bring Faris into his office and had instead waited with him at a sofa area a short distance from his office.[^120] He claimed that he was only with Faris for 25 minutes and so, while there was a short conversation about the alleged offences, there could not have been the extensive interview (including the use of a dildo as a prop) as Faris alleged. This was corroborated by an entry in DSP Burhanudeen’s field book which showed that Faris and he had arrived at the PCC at 5.50pm and that he had handed Faris over to ASP Guruswamy at 6.15pm.[^121] In so far as Faris could give a broad description of DSP Burhanudeen’s office layout, DSP Burhanudeen explained that there was a “huge window” in his office and that his door was always open. Thus, Faris could have seen his office without actually entering it.[^122] In my view, DSP Burhanudeen’s field book posed a significant obstacle to Faris’ claims. There was no suggestion that the entry was incorrect or fabricated. In any case, the relevance of this dispute was again questionable. Faris’ point was merely that the use of a dildo made him feel “shy” and “ashamed”.[^123] But he did not say that this incident had caused him to give his 2nd Statement involuntarily or to make any false allegation in the statement. Even taking his account at face value, that did not amount to oppression sapping his will and negating the voluntariness of the 2nd Statement.
+> (c)     According to Faris, he arrived at the PCC at around 2.00pm. However, before his 2nd Statement was taken, DSP Burhanudeen Bin Haji Hussainar (“DSP Burhanudeen”) brought Faris into his office and had a 4-hour long[^118] conversation with him about the alleged offences. During this time, DSP Burhanudeen was said to have handed Faris a dildo and asked him to demonstrate how he had sex with the Complainant. According to Faris, ISP Tho entered the office midway through this conversation, and when DSP Burhanudeen referred to the dildo and asked Faris “Big enough or not?”, both the police officers laughed.[^119] DSP Burhanudeen and ISP Tho denied that this had occurred. DSP Burhanudeen testified that he did not bring Faris into his office and had instead waited with him at a sofa area a short distance from his office.[^120] He claimed that he was only with Faris for 25 minutes and so, while there was a short conversation about the alleged offences, there could not have been the extensive interview (including the use of a dildo as a prop) as Faris alleged. This was corroborated by an entry in DSP Burhanudeen’s field book which showed that Faris and he had arrived at the PCC at 5.50pm and that he had handed Faris over to ASP Guruswamy at 6.15pm.[^121] In so far as Faris could give a broad description of DSP Burhanudeen’s office layout, DSP Burhanudeen explained that there was a “huge window” in his office and that his door was always open. Thus, Faris could have seen his office without actually entering it.[^122] In my view, DSP Burhanudeen’s field book posed a significant obstacle to Faris’ claims. There was no suggestion that the entry was incorrect or fabricated. In any case, the relevance of this dispute was again questionable. Faris’ point was merely that the use of a dildo made him feel “shy” and “ashamed”.[^123] But he did not say that this incident had caused him to give his 2nd Statement involuntarily or to make any false allegation in the statement. Even taking his account at face value, that did not amount to oppression sapping his will and negating the voluntariness of the 2nd Statement.
 
-(d)     Faris testified that after his 2nd Statement was taken, he told DSP Burhanudeen that he had no money or ez-link card to go home and DSP Burhanudeen gave him some coins. DSP Burhanudeen testified, however, that he had left office at around 8.32pm that evening and was at home by the time Faris’ statement-taking ended. Again, these timings were corroborated by his field book. In any case, Faris accepted that this incident did not have any bearing on the 2nd Statement or its voluntariness.[^124]
+> (d)     Faris testified that after his 2nd Statement was taken, he told DSP Burhanudeen that he had no money or ez-link card to go home and DSP Burhanudeen gave him some coins. DSP Burhanudeen testified, however, that he had left office at around 8.32pm that evening and was at home by the time Faris’ statement-taking ended. Again, these timings were corroborated by his field book. In any case, Faris accepted that this incident did not have any bearing on the 2nd Statement or its voluntariness.[^124]
 
 81     In so far as the foregoing areas of dispute were concerned, I agreed with the Prosecution[^125] that they were not material to the issue of voluntariness of Faris’ 2nd Statement. There were, however, two contentions which warranted closer consideration.
 
@@ -428,21 +507,21 @@ A22:I don’t know.
 
 85     The second contention was Faris’ claim that ASP Guruswamy did not accurately record in the 2nd Statement what Faris had told him. Instead, the officer had allegedly consistently denied Faris’ account and recorded a different version from what Faris had said. For example:[^130]
 
-(a)     At Question 2, Faris claimed to have said that the Complainant got out of the bathtub _on her own_, and that _she_ had unbuttoned and unzipped his pants. However, ASP Guruswamy did not record these italicised nuances accurately in the 2nd Statement (see \[79(a)\] above).
+> (a)     At Question 2, Faris claimed to have said that the Complainant got out of the bathtub _on her own_, and that _she_ had unbuttoned and unzipped his pants. However, ASP Guruswamy did not record these italicised nuances accurately in the 2nd Statement (see \[79(a)\] above).
 
-(b)     At Question 5, Faris claimed to have stated that he could not sleep properly because he had lied in his 1st Statement, but ASP Guruswamy instead recorded that Faris “cannot \[_sic_\] sleep properly since this case started”.
+> (b)     At Question 5, Faris claimed to have stated that he could not sleep properly because he had lied in his 1st Statement, but ASP Guruswamy instead recorded that Faris “cannot \[_sic_\] sleep properly since this case started”.
 
-(c)     At Question 21, Faris claimed not to have said “no”, and had instead told ASP Guruswamy that the girl looked high and that she had started it. ASP Guruswamy had failed to include this in the statement.
+> (c)     At Question 21, Faris claimed not to have said “no”, and had instead told ASP Guruswamy that the girl looked high and that she had started it. ASP Guruswamy had failed to include this in the statement.
 
 86     I did not accept this contention for three main reasons. First, as the Prosecution pointed out, the 2nd Statement was taken in a question-and-answer format, and several questions flowed from the preceding answer. It would thus not have made sense if the answers were not recorded accurately. For instance, Questions 4 and 5 flowed as follows:
 
-Q4:What were you scared of?
+> Q4:What were you scared of?
 
-A4:I was scared to admit to my mistake.
+> A4:I was scared to admit to my mistake.
 
-Q5:If you were scared of admitting to your mistake, what made you decide now to tell me the truth?
+> Q5:If you were scared of admitting to your mistake, what made you decide now to tell me the truth?
 
-A5:I cannot sleep properly ever since this case started. When I report for bail, I was always feeling scared as to when the truth will come out. That is why I decided to come clean on what I did.
+> A5:I cannot sleep properly ever since this case started. When I report for bail, I was always feeling scared as to when the truth will come out. That is why I decided to come clean on what I did.
 
 87     Question 5 started with “If you were scared of admitting to your mistake”, which was the exact answer in Answer 4. But Faris claimed in examination-in-chief that, in relation to Question 4: “I did say that I was scared. But I was---I also told him that I was scared that the girl would tell the police a different story.”[^131] When pressed in cross-examination on how the reference to “mistake” could appear in Question 5 if that had not been provided in Answer 4, Faris insisted that he had never used the word “mistake” and that he thought that the questions were unrelated.[^132]
 
@@ -456,11 +535,11 @@ A5:I cannot sleep properly ever since this case started. When I report for bail,
 
 92     Turning to the issue of procedural breaches, Faris made the following allegations in relation to his 2nd Statement which significantly overlapped with those he made in relation to the 1st Statement (see \[71\] above). Again, it was not entirely clear whether his argument was that these breaches in themselves negated the admissibility of his 2nd Statement, or that they, taken together with the allegedly oppressive conduct negated such admissibility. However, neither argument succeeded as I had rejected his account of the allegedly oppressive acts and, in any case, I did not agree that there had been any material procedural breach:[^139]
 
-(a)     As was the case with his 1st Statement, Faris said that he was not asked which language he wished to give his 2nd Statement in. If he had been given a choice, he would have indicated a preference for Malay. For reasons as I stated above (see \[76(a)\]), I did not consider this a breach of s 22(3)(_c_) of the CPC. As I explained, the question was not one of preference but one of whether he could not understand English. It was Faris’ own evidence that he could understand simple English and that if he did not understand he would have sought clarification or an interpreter. Faris also said that he believed ASP Guruswamy would have arranged for a Malay interpreter if he had asked for one.[^140] In any case, it was recorded on ASP Guruswamy’s field diary that “\[b\]efore recording \[the 2nd Statement\], \[ASP Guruswamy\] double checked with \[Faris\] if he is comfortable in giving his statement in English and whether or not he requires a Malay interpreter”.[^141] Nothing before me cast doubt on the accuracy or reliability of this entry.
+> (a)     As was the case with his 1st Statement, Faris said that he was not asked which language he wished to give his 2nd Statement in. If he had been given a choice, he would have indicated a preference for Malay. For reasons as I stated above (see \[76(a)\]), I did not consider this a breach of s 22(3)(_c_) of the CPC. As I explained, the question was not one of preference but one of whether he could not understand English. It was Faris’ own evidence that he could understand simple English and that if he did not understand he would have sought clarification or an interpreter. Faris also said that he believed ASP Guruswamy would have arranged for a Malay interpreter if he had asked for one.[^140] In any case, it was recorded on ASP Guruswamy’s field diary that “\[b\]efore recording \[the 2nd Statement\], \[ASP Guruswamy\] double checked with \[Faris\] if he is comfortable in giving his statement in English and whether or not he requires a Malay interpreter”.[^141] Nothing before me cast doubt on the accuracy or reliability of this entry.
 
-(b)     Faris claimed that after the statement was recorded, it was not read back or explained to him. He was also not given a chance to read or amend his statement, or informed that he had the option of doing so. As I explained above (see \[76(b)\] above), the only statutory duty was for the statement to be “read over” to the accused after it was taken. In the present case, there was evidence that the statement was read over to him: (a) in the statement itself, a handwritten paragraph close to the end stated that “The statement was read over to me in English by \[ASP Guruswamy\]” and Faris’ signature was appended both above and below this paragraph; and (b) in ASP Guruswamy’s contemporaneous field diary it was recorded that “I read over the statement to Faris and he also read through it and made one amendment to his statement”.[^142] I did not think the reliability of these could be rebutted by Faris’ belated complaints. Faris submitted that the statement could not have been read over to him because there remained obvious mistakes such as a reference to “first floor of the toilet” when that clearly meant the “first floor of the Room”.[^143] I did not think such an inference, or any other conclusion of unreliability, could be drawn from the mere existence of typographical errors which did not appear material.
+> (b)     Faris claimed that after the statement was recorded, it was not read back or explained to him. He was also not given a chance to read or amend his statement, or informed that he had the option of doing so. As I explained above (see \[76(b)\] above), the only statutory duty was for the statement to be “read over” to the accused after it was taken. In the present case, there was evidence that the statement was read over to him: (a) in the statement itself, a handwritten paragraph close to the end stated that “The statement was read over to me in English by \[ASP Guruswamy\]” and Faris’ signature was appended both above and below this paragraph; and (b) in ASP Guruswamy’s contemporaneous field diary it was recorded that “I read over the statement to Faris and he also read through it and made one amendment to his statement”.[^142] I did not think the reliability of these could be rebutted by Faris’ belated complaints. Faris submitted that the statement could not have been read over to him because there remained obvious mistakes such as a reference to “first floor of the toilet” when that clearly meant the “first floor of the Room”.[^143] I did not think such an inference, or any other conclusion of unreliability, could be drawn from the mere existence of typographical errors which did not appear material.
 
-(c)     Faris also complained that he had not been expressly given an option of not signing his statement. In my view, there is no basis for this requirement in the CPC, or indeed in common sense.
+> (c)     Faris also complained that he had not been expressly given an option of not signing his statement. In my view, there is no basis for this requirement in the CPC, or indeed in common sense.
 
 93     For the above reasons, I concluded that Faris’ 2nd Statement was admissible in evidence.
 
@@ -468,59 +547,59 @@ A5:I cannot sleep properly ever since this case started. When I report for bail,
 
 94     Asep challenged the admissibility of his 2nd Statement only. This was taken by ASP Guruswamy on 16 October 2014 from about 9.11pm to 11.15pm. Two grounds of challenge were raised:[^144]
 
-(a)     that the statement was given under oppressive conditions and was therefore not voluntary; and/or
+> (a)     that the statement was given under oppressive conditions and was therefore not voluntary; and/or
 
-(b)     that procedural irregularities in the course of statement-taking rendered the prejudicial effect of the statement greater than its probative value.[^145]
+> (b)     that procedural irregularities in the course of statement-taking rendered the prejudicial effect of the statement greater than its probative value.[^145]
 
 95     Asep’s 2nd Statement was recorded in the English language and contained responses to a total of 37 questions over six pages. The material parts included:[^146]
 
-(a)     Asep indicated that he wished to make certain amendments to his 1st Statement (Questions 1 to 4). In his 1st Statement, he had denied having any sexual activity with the Complainant. In this 2nd Statement, he admitted that, after Faris left the bathroom, he went into the bathroom and received fellatio from the Complainant, as well as attempted to have penile-vaginal intercourse with her. However, in his 2nd Statement, his portrayal of the facts suggested that the Complainant was able to give consent and had in fact given consent to the sexual acts.
+> (a)     Asep indicated that he wished to make certain amendments to his 1st Statement (Questions 1 to 4). In his 1st Statement, he had denied having any sexual activity with the Complainant. In this 2nd Statement, he admitted that, after Faris left the bathroom, he went into the bathroom and received fellatio from the Complainant, as well as attempted to have penile-vaginal intercourse with her. However, in his 2nd Statement, his portrayal of the facts suggested that the Complainant was able to give consent and had in fact given consent to the sexual acts.
 
-(b)     Asep also made observations as to the condition of the Complainant at and around the time of the alleged offences:
+> (b)     Asep also made observations as to the condition of the Complainant at and around the time of the alleged offences:
 
-Q10:The first time you went inside the toilet before Faris returned to the hotel, which part of the toilet was \[the Complainant\] in?
+>> Q10:The first time you went inside the toilet before Faris returned to the hotel, which part of the toilet was \[the Complainant\] in?
 
-A10:She was in the bathtub.
+>> A10:She was in the bathtub.
 
-Q11:What was she doing?
+>> Q11:What was she doing?
 
-A11:She was at the bathtub vomiting and there was vomit all over the bathtub.
+>> A11:She was at the bathtub vomiting and there was vomit all over the bathtub.
 
-Q12:How would you describe her condition?
+>> Q12:How would you describe her condition?
 
-A12:She was drunk and she seemed to be sleepy state.
+>> A12:She was drunk and she seemed to be sleepy state.
 
-Q13:When Faris went into the toilet subsequently, do you think \[the Complainant\] was in a state to have sex with anyone or have given consent to have sex?
+>> Q13:When Faris went into the toilet subsequently, do you think \[the Complainant\] was in a state to have sex with anyone or have given consent to have sex?
 
-A13:I don’t think so.
+>> A13:I don’t think so.
 
-Q14:Can you explain your reasons on why you don’t think \[the Complainant\] was in a state where she could have had sex or could not have given consent to sex?
+>> Q14:Can you explain your reasons on why you don’t think \[the Complainant\] was in a state where she could have had sex or could not have given consent to sex?
 
-A14:It is because when I saw her earlier in the toilet, she was drunk and she seemed tired.
+>> A14:It is because when I saw her earlier in the toilet, she was drunk and she seemed tired.
 
-Q15:Do you think she was in a state to have had sex or given consent to you when you went inside the toilet after Faris?
+>> Q15:Do you think she was in a state to have had sex or given consent to you when you went inside the toilet after Faris?
 
-A15:Yes I think so.
+>> A15:Yes I think so.
 
-…
+>> …
 
-Q32:You mentioned in your first statement in your answer to question 10 that the last time you saw \[the Complainant\], she was very drunk in the bathtub and she was vomiting. Is this correct?
+>> Q32:You mentioned in your first statement in your answer to question 10 that the last time you saw \[the Complainant\], she was very drunk in the bathtub and she was vomiting. Is this correct?
 
-A32:Yes it is correct.
+>> A32:Yes it is correct.
 
-Q33:If she was very drunk in the bathtub and she was vomiting the last time you saw her, could she have consented to have sucked your dick?
+>> Q33:If she was very drunk in the bathtub and she was vomiting the last time you saw her, could she have consented to have sucked your dick?
 
-A33:Yes she could have.
+>> A33:Yes she could have.
 
 96     Asep’s argument concerning oppression was founded on his account of four sets of events, all on the day of 16 October 2014, which may broadly be summarised as follows:[^147]
 
-(a)      _The Call Allegation_: Asep alleged that at about 6pm, he received a call from ASP Guruswamy who informed him that his case was closed and that he was required to sign some documents.[^148] ASP Guruswamy then informed Asep that he would be coming down to Asep’s residence. Fifteen minutes later, Asep went to the void deck below his residence.[^149] Asep alleged that he then received a call from an unknown number, later ascertained to belong to ASP Lee, directing him to walk to the car park.[^150] He expected to meet ASP Guruswamy but was surprised when he was instead met by three unknown police officers – ASP Lee, Inspector Thinagaran Krishnasamy (“Insp Thinagaran”) and Senior Staff Sergeant Lim Kar Wui (“SSS Lim”).[^151]
+> (a)      _The Call Allegation_: Asep alleged that at about 6pm, he received a call from ASP Guruswamy who informed him that his case was closed and that he was required to sign some documents.[^148] ASP Guruswamy then informed Asep that he would be coming down to Asep’s residence. Fifteen minutes later, Asep went to the void deck below his residence.[^149] Asep alleged that he then received a call from an unknown number, later ascertained to belong to ASP Lee, directing him to walk to the car park.[^150] He expected to meet ASP Guruswamy but was surprised when he was instead met by three unknown police officers – ASP Lee, Inspector Thinagaran Krishnasamy (“Insp Thinagaran”) and Senior Staff Sergeant Lim Kar Wui (“SSS Lim”).[^151]
 
-(b)      _The Assault and Threat Allegations_: In the car, Insp Thinagaran was seated in the front passenger seat, ASP Lee was seated in the right rear passenger seat, and Asep was seated in the left rear passenger seat.[^152] Asep alleged that on the way to the PCC, ASP Lee asked him to tell him the truth about the case. ASP Lee then hit him on the chest with his left elbow. ASP Lee also allegedly told him “Your case is very small. \[ASP Guruswamy\] handles kidnappers and murderers. You think you want to lie to me? No point lying to me.”[^153]
+> (b)      _The Assault and Threat Allegations_: In the car, Insp Thinagaran was seated in the front passenger seat, ASP Lee was seated in the right rear passenger seat, and Asep was seated in the left rear passenger seat.[^152] Asep alleged that on the way to the PCC, ASP Lee asked him to tell him the truth about the case. ASP Lee then hit him on the chest with his left elbow. ASP Lee also allegedly told him “Your case is very small. \[ASP Guruswamy\] handles kidnappers and murderers. You think you want to lie to me? No point lying to me.”[^153]
 
-(c)      _The Pre-Interview Allegation_: On arriving at the PCC, Asep was put into a room with DSP Burhanudeen. Asep alleged that he was alone with DSP Burhanudeen, who then took out a dildo and threw it on top of the table. DSP Burhanudeen then asked Asep to “demonstrate how \[Asep\] had sex with the girl” before demonstrating a “doggy position” with the dildo.[^154] Asep told him what had transpired between him and the Complainant while they were in the bathroom. At this point, ASP Chris Lee opened the door and informed, “Sir, the special room is ready” to which DSP Burhanudeen replied, “It’s okay, Asep is ready to tell the truth. Get ASP Guruswamy to take down his statement”.[^155]
+> (c)      _The Pre-Interview Allegation_: On arriving at the PCC, Asep was put into a room with DSP Burhanudeen. Asep alleged that he was alone with DSP Burhanudeen, who then took out a dildo and threw it on top of the table. DSP Burhanudeen then asked Asep to “demonstrate how \[Asep\] had sex with the girl” before demonstrating a “doggy position” with the dildo.[^154] Asep told him what had transpired between him and the Complainant while they were in the bathroom. At this point, ASP Chris Lee opened the door and informed, “Sir, the special room is ready” to which DSP Burhanudeen replied, “It’s okay, Asep is ready to tell the truth. Get ASP Guruswamy to take down his statement”.[^155]
 
-(d)      _The Interview Allegation_: After being brought out of DSP Burhanudeen’s office, Asep alleged that he saw Insp Thinagaran and ASP Lee showing each other videos on their phones.[^156] He was then brought to ASP Guruswamy’s cubicle for the recording of his statement.[^157] During the recording, ASP Guruswamy asked Asep leading questions in an aggressive manner which made him so fearful that he could only agree with ASP Guruswamy’s suggestions.[^158]
+> (d)      _The Interview Allegation_: After being brought out of DSP Burhanudeen’s office, Asep alleged that he saw Insp Thinagaran and ASP Lee showing each other videos on their phones.[^156] He was then brought to ASP Guruswamy’s cubicle for the recording of his statement.[^157] During the recording, ASP Guruswamy asked Asep leading questions in an aggressive manner which made him so fearful that he could only agree with ASP Guruswamy’s suggestions.[^158]
 
 97     The Prosecution’s case was, in essence, that Asep’s allegations were fabrications and that, in any event, there was objectively no oppression.
 
@@ -530,37 +609,37 @@ A33:Yes she could have.
 
 100    Weighing the evidence of Asep against that of the Prosecution’s witnesses, I was of the view that the Assault and Threat Allegations were a self-serving fabrication by Asep for four main reasons.
 
-(a)     First, Asep urged me not to accept ASP Lee’s account as ASP Lee was allegedly “agitated” when questioned on these allegations in cross-examination and was also folding his arms tightly and “turning red”.[^164] This was said to indicate a “guilty mind” on ASP Lee’s part.[^165] I did not agree that there was any conduct or demeanour on ASP Lee’s part in court that was out of the ordinary or suggestive of guilt.
+> (a)     First, Asep urged me not to accept ASP Lee’s account as ASP Lee was allegedly “agitated” when questioned on these allegations in cross-examination and was also folding his arms tightly and “turning red”.[^164] This was said to indicate a “guilty mind” on ASP Lee’s part.[^165] I did not agree that there was any conduct or demeanour on ASP Lee’s part in court that was out of the ordinary or suggestive of guilt.
 
-(b)     Second, it was also argued that Asep had nothing to gain by claiming that he was assaulted by ASP Lee.[^166] I disagreed. Asep’s statement was incriminating and its rejection would have dealt a blow to the Prosecution’s case.
+> (b)     Second, it was also argued that Asep had nothing to gain by claiming that he was assaulted by ASP Lee.[^166] I disagreed. Asep’s statement was incriminating and its rejection would have dealt a blow to the Prosecution’s case.
 
-(c)     Third, I was urged to accept that the testimony of Asep’s fiancée, Ms Nurul Syafiqah Binte Sahlan (“Nurul”), corroborated Asep’s account. Asep produced phone records of a call he made to Nurul at 11.23pm on 16 October 2014, a short time after he had given his 2nd Statement.[^167] Nurul’s evidence was that Asep had told her about the alleged police misconduct in this phone call. According to her, Asep was crying and contemplating suicide because the police did not believe him, but she was able to convince him not to do so. Nurul further testified that she met with Asep the next day where he detailed some of the abuses he suffered at the hands of the police, including how he had been elbowed in the chest.[^168] However, I did not place much weight on the evidence of Nurul, given the following factors:
+> (c)     Third, I was urged to accept that the testimony of Asep’s fiancée, Ms Nurul Syafiqah Binte Sahlan (“Nurul”), corroborated Asep’s account. Asep produced phone records of a call he made to Nurul at 11.23pm on 16 October 2014, a short time after he had given his 2nd Statement.[^167] Nurul’s evidence was that Asep had told her about the alleged police misconduct in this phone call. According to her, Asep was crying and contemplating suicide because the police did not believe him, but she was able to convince him not to do so. Nurul further testified that she met with Asep the next day where he detailed some of the abuses he suffered at the hands of the police, including how he had been elbowed in the chest.[^168] However, I did not place much weight on the evidence of Nurul, given the following factors:
 
-(i)       One, Nurul was not an entirely independent witness as she was Asep’s fiancée.
+>> (i)       One, Nurul was not an entirely independent witness as she was Asep’s fiancée.
 
-(ii)       Two, when confronted by the Prosecution with phone logs showing that her call with Asep had lasted only ten minutes, Nurul said that she was busy at that time and had to instead resort to texting Asep.[^169] However, she was unable to provide any explanation as to what had cropped up to stop the conversation. I found it hard to believe that, being on the phone with her boyfriend who had just told her that he was contemplating suicide, something so urgent came up that it required her to cut their conversation short.[^170] Furthermore, Nurul also did not elaborate on why she did not call Asep back but instead had to text him. Even then, no text messages were produced to establish that Nurul and Asep did in fact have such a text conversation.
+>> (ii)       Two, when confronted by the Prosecution with phone logs showing that her call with Asep had lasted only ten minutes, Nurul said that she was busy at that time and had to instead resort to texting Asep.[^169] However, she was unable to provide any explanation as to what had cropped up to stop the conversation. I found it hard to believe that, being on the phone with her boyfriend who had just told her that he was contemplating suicide, something so urgent came up that it required her to cut their conversation short.[^170] Furthermore, Nurul also did not elaborate on why she did not call Asep back but instead had to text him. Even then, no text messages were produced to establish that Nurul and Asep did in fact have such a text conversation.
 
-(iii)       Three, Asep’s testimony also differed from Nurul’s in material aspects.[^171] Asep testified that Nurul was on the phone throughout his journey home,[^172] while Nurul said that the call lasted only ten minutes. Asep also testified that he had told Nurul “everything” about the improper recording of the statement,[^173] while Nurul stated that he had only complained that the police “didn’t want to believe him”.[^174] These material discrepancies cast further doubt on both Asep’s and Nurul’s accounts.
+>> (iii)       Three, Asep’s testimony also differed from Nurul’s in material aspects.[^171] Asep testified that Nurul was on the phone throughout his journey home,[^172] while Nurul said that the call lasted only ten minutes. Asep also testified that he had told Nurul “everything” about the improper recording of the statement,[^173] while Nurul stated that he had only complained that the police “didn’t want to believe him”.[^174] These material discrepancies cast further doubt on both Asep’s and Nurul’s accounts.
 
-(d)     Fourth, I also found it implausible that, having suffered such egregious abuse at the hands of the police, Asep did not see it fit to inform anyone else apart from Nurul or make a complaint until, belatedly, the time for his challenge of the admissibility of his 2nd Statement.[^175] While Asep said that he had informed his mother about the alleged assault, he notably did not elect to call her as a witness.[^176]
+> (d)     Fourth, I also found it implausible that, having suffered such egregious abuse at the hands of the police, Asep did not see it fit to inform anyone else apart from Nurul or make a complaint until, belatedly, the time for his challenge of the admissibility of his 2nd Statement.[^175] While Asep said that he had informed his mother about the alleged assault, he notably did not elect to call her as a witness.[^176]
 
 101    I now address the remaining allegations:
 
-(a)     First, with regard to the Call Allegation, I did not see how even if Asep was surprised to have been picked up by three “unknown police officers”, or that he was initially told that his case was “closed” before later being asked to record a further statement, could be considered oppression capable of sapping his will. While Asep was insinuating that these events affected him, he did not actually say that they rendered his statement involuntary. Neither did Asep elaborate as to why this sapped his will.
+> (a)     First, with regard to the Call Allegation, I did not see how even if Asep was surprised to have been picked up by three “unknown police officers”, or that he was initially told that his case was “closed” before later being asked to record a further statement, could be considered oppression capable of sapping his will. While Asep was insinuating that these events affected him, he did not actually say that they rendered his statement involuntary. Neither did Asep elaborate as to why this sapped his will.
 
-(b)     Second, with regard to the Pre-Interview Allegation, I did not believe Asep’s account. DSP Burhanudeen testified that he interviewed Asep in his office between 7.53pm and 8.20pm and that the door to his office was open at all times.[^177] During this interview, Asep recounted that the Complainant had performed oral sex on him consensually and did not discuss any other details.[^178] DSP Burhanudeen denied that he had utilised a dildo at any point during the interview. DSP Burhanudeen and ASP Lee also testified that the latter did not interrupt the interview to inform the former that the “special room” was ready.[^179] Further, it was not put to ASP Lee and Insp Thinagaran that the Pre-Interview Allegation was true even though they were both in a position to have heard or seen the alleged acts, having both testified that the door to DSP Burhanudeen’s office was open at all times and that they were seated outside the office during the interview.[^180] In any case, I failed to see how DSP Burhanudeen’s alleged use of the dildo, or ASP Lee’s supposed vague references to a “special room”, had sapped Asep’s will with regard to his 2nd Statement which was recorded by ASP Guruswamy without either of them being present. Again, Asep did not actually say that this incident had sapped his will. Nor did he elaborate as to why it had rendered his statement involuntary.
+> (b)     Second, with regard to the Pre-Interview Allegation, I did not believe Asep’s account. DSP Burhanudeen testified that he interviewed Asep in his office between 7.53pm and 8.20pm and that the door to his office was open at all times.[^177] During this interview, Asep recounted that the Complainant had performed oral sex on him consensually and did not discuss any other details.[^178] DSP Burhanudeen denied that he had utilised a dildo at any point during the interview. DSP Burhanudeen and ASP Lee also testified that the latter did not interrupt the interview to inform the former that the “special room” was ready.[^179] Further, it was not put to ASP Lee and Insp Thinagaran that the Pre-Interview Allegation was true even though they were both in a position to have heard or seen the alleged acts, having both testified that the door to DSP Burhanudeen’s office was open at all times and that they were seated outside the office during the interview.[^180] In any case, I failed to see how DSP Burhanudeen’s alleged use of the dildo, or ASP Lee’s supposed vague references to a “special room”, had sapped Asep’s will with regard to his 2nd Statement which was recorded by ASP Guruswamy without either of them being present. Again, Asep did not actually say that this incident had sapped his will. Nor did he elaborate as to why it had rendered his statement involuntary.
 
-(c)     Finally, with regard to the Interview Allegation, the only allegation made against ASP Guruswamy was that he had asked Asep leading questions in an aggressive manner. ASP Guruswamy denied this allegation, which was short on elaboration. Hence, I did not believe the Interview Allegation.
+> (c)     Finally, with regard to the Interview Allegation, the only allegation made against ASP Guruswamy was that he had asked Asep leading questions in an aggressive manner. ASP Guruswamy denied this allegation, which was short on elaboration. Hence, I did not believe the Interview Allegation.
 
 102    Asep also alleged the following procedural irregularities in the recording of his 2nd Statement:
 
-(a)     ASP Guruswamy did not read over the statement to him as is required by s 22 of the CPC.[^181]
+> (a)     ASP Guruswamy did not read over the statement to him as is required by s 22 of the CPC.[^181]
 
-(b)     ASP Guruswamy did not get Asep to countersign against a handwritten amendment made to the written statement.[^182]
+> (b)     ASP Guruswamy did not get Asep to countersign against a handwritten amendment made to the written statement.[^182]
 
-(c)     ASP Guruswamy had added the handwritten paragraph at the end of the 2nd Statement, which acknowledged that the statement was accurately recorded without any threat, inducement or promise, at a later date as it was not present at the time when Asep signed the statement.[^183]
+> (c)     ASP Guruswamy had added the handwritten paragraph at the end of the 2nd Statement, which acknowledged that the statement was accurately recorded without any threat, inducement or promise, at a later date as it was not present at the time when Asep signed the statement.[^183]
 
-(d)     ASP Guruswamy did not allow Asep to make amendments to his statement but had rather fabricated portions of his statement and pressured him to sign it.[^184]
+> (d)     ASP Guruswamy did not allow Asep to make amendments to his statement but had rather fabricated portions of his statement and pressured him to sign it.[^184]
 
 103    So far as Asep’s allegations of procedural irregularities were concerned, I was of the view that they were either untrue and/or they did not render the prejudicial effect of the statements greater than its probative value. I have reproduced s 22 of the CPC, pursuant to which Asep’s 2nd Statement was taken, at \[72\] above.
 
@@ -568,9 +647,9 @@ A33:Yes she could have.
 
 105    Second, while ASP Guruswamy omitted to get Asep to countersign against an amendment to Answer 2 of the statement, this irregularity did not have the effect of making the statement’s prejudicial effect outweigh its probative value.
 
-(a)     There is no express provision in the CPC requiring an accused person to countersign against every amendment although this would be the sensible approach to take.
+> (a)     There is no express provision in the CPC requiring an accused person to countersign against every amendment although this would be the sensible approach to take.
 
-(b)     In any event, as I stated above at \[75\], a statement’s prejudicial effect would exceed its probative value where there were genuine concerns as to its reliability. Statements taken in deliberate or reckless non-compliance of procedural requirements without a reasonable explanation would fall within this category and be excluded (see _Kadar_ at \[61\]-\[62\]). However, this was not the case here. The only procedural irregularity pertained to the fact that Asep had not countersigned against an amendment which he did not disavow. Further, the amended answer, that the Complainant “held \[Asep’s\] dick and put \[_sic_\] in her mouth”, appeared favourable to Asep as it implied that the Complainant had consensually performed fellatio on Asep, while the original answer, that Asep “put \[his\] dick into \[the complainant’s\] mouth”, suggested that he could have done so against the Complainant’s will. In any case, Asep did not suggest that the amended answer was less favourable to him. ASP Guruswamy conceded that the omission to get Asep to countersign against the amendment was an oversight on his part.[^190] In my view, ASP Guruswamy’s explanation was credible, and the oversight certainly did not amount to a “blatant disregard of the procedure” such as to warrant an exclusion of the statement.[^191]
+> (b)     In any event, as I stated above at \[75\], a statement’s prejudicial effect would exceed its probative value where there were genuine concerns as to its reliability. Statements taken in deliberate or reckless non-compliance of procedural requirements without a reasonable explanation would fall within this category and be excluded (see _Kadar_ at \[61\]-\[62\]). However, this was not the case here. The only procedural irregularity pertained to the fact that Asep had not countersigned against an amendment which he did not disavow. Further, the amended answer, that the Complainant “held \[Asep’s\] dick and put \[_sic_\] in her mouth”, appeared favourable to Asep as it implied that the Complainant had consensually performed fellatio on Asep, while the original answer, that Asep “put \[his\] dick into \[the complainant’s\] mouth”, suggested that he could have done so against the Complainant’s will. In any case, Asep did not suggest that the amended answer was less favourable to him. ASP Guruswamy conceded that the omission to get Asep to countersign against the amendment was an oversight on his part.[^190] In my view, ASP Guruswamy’s explanation was credible, and the oversight certainly did not amount to a “blatant disregard of the procedure” such as to warrant an exclusion of the statement.[^191]
 
 106    Third, I did not accept Asep’s evidence that the handwritten paragraph at the end of the statement was only added by ASP Guruswamy at a later date. A perusal of Asep’s statement shows that he had signed twice on the final page of the statement, once after his answer to the final question posed to him and before the handwritten paragraph, and once again at the bottom of the handwritten paragraph. If Asep’s version is to believed, this would mean that when ASP Guruswamy had asked Asep to sign twice on the final page, there was a significant gap between the signatures in which ASP Guruswamy would later fill with the handwritten paragraph.[^192] This seemed unlikely. More importantly, this allegation was not put to ASP Guruswamy during cross-examination and it only arose subsequently during Asep’s examination-in-chief. In any event, the handwritten paragraph stated that the statement was recorded accurately without any threat, inducement or promise. Even if it was inserted belatedly, it had no material bearing on the issue of the voluntariness of Asep’s 2nd Statement if the statement was otherwise voluntarily given.
 
@@ -590,9 +669,9 @@ A33:Yes she could have.
 
 111    In all criminal cases, the burden lies on the Prosecution to prove the elements of the charge beyond a reasonable doubt. In particular, in cases where a conviction turns solely on the bare words of the complainant, the complainant’s testimony must be weighed against that of the accused, and the court should not convict unless it finds on a close scrutiny that the evidence of the complainant is unusually convincing. As the Court of Appeal explained in _AOF v Public Prosecutor_ <span class="citation">\[2012\] 3 SLR 34</span> (“_AOF_”) at \[111\]:
 
-It is well-established that in a case _where no other evidence is available_, a complainant’s testimony can constitute proof beyond reasonable doubt… but only when it is so ‘unusually convincing’ as to overcome any doubts that might arise from the lack of corroboration…
+> It is well-established that in a case _where no other evidence is available_, a complainant’s testimony can constitute proof beyond reasonable doubt… but only when it is so ‘unusually convincing’ as to overcome any doubts that might arise from the lack of corroboration…
 
-\[emphasis added\]
+> \[emphasis added\]
 
 112    The “unusually convincing” standard is a cognitive aid and does not change the ultimate standard of proof required of the Prosecution (_XP v Public Prosecutor_ <span class="citation">\[2008\] 4 SLR(R) 686</span> at \[31\]; _Haliffie bin Mamat v Public Prosecutor and other appeals_ <span class="citation">\[2016\] 5 SLR 636</span> at \[29\]). If the complainant’s evidence is not unusually convincing, a conviction based solely on his or her bare words would be unsafe unless there is adequate corroboration of his or her testimony (_AOF_ at \[173\]).
 
@@ -610,29 +689,29 @@ It is well-established that in a case _where no other evidence is available_, a 
 
 118    Turning more specifically to the question of consent, the material provision is s 90(_b_) of the PC, which provides as follows:
 
-**Consent given under fear or misconception, by person of unsound mind, etc., and by child**
+> **Consent given under fear or misconception, by person of unsound mind, etc., and by child**
 
-90.    A consent is not such a consent as is intended by any section of this Code —
+> 90.    A consent is not such a consent as is intended by any section of this Code —
 
-…
+>> …
 
-(_b_)    if the consent is given by a person who, from unsoundness of mind, mental incapacity, intoxication, or the influence of any drug or other substance, is unable to understand the nature and consequence of that to which he gives his consent; or
+>> (_b_)    if the consent is given by a person who, from unsoundness of mind, mental incapacity, intoxication, or the influence of any drug or other substance, is unable to understand the nature and consequence of that to which he gives his consent; or
 
-…
+>> …
 
 119    As can be seen, the statute defines consent in the negative: intoxication can _negate_ consent if the person is “unable to understand the nature and consequence to which he gives his consent”. In _Pram Nair v Public Prosecutor_ <span class="citation">\[2017\] 2 SLR 1015</span> (“_Pram Nair_”) at \[96\], the Court of Appeal laid down the following principles on the construction and application of s 90(_b_):
 
-We would identify the following as the relevant general principles:
+> We would identify the following as the relevant general principles:
 
-(a)    Under s 90(_b_), a person who is unable to understand the nature and consequence of that to which that person has allegedly given his consent has no capacity to consent.
+>> (a)    Under s 90(_b_), a person who is unable to understand the nature and consequence of that to which that person has allegedly given his consent has no capacity to consent.
 
-(b)    The fact that a complainant has drunk a substantial amount of alcohol, appears disinhibited, or behaves differently than usual, does not indicate lack of capacity to consent. Consent to sexual activity, even when made while intoxicated, is still consent as long as there is a voluntary and conscious acceptance of what is being done.
+>> (b)    The fact that a complainant has drunk a substantial amount of alcohol, appears disinhibited, or behaves differently than usual, does not indicate lack of capacity to consent. Consent to sexual activity, even when made while intoxicated, is still consent as long as there is a voluntary and conscious acceptance of what is being done.
 
-(c)    A complainant who is unconscious obviously has no capacity to consent. But a complainant may have crossed the line into incapacity well before becoming unconscious, and whether that is the case is evidently a fact-sensitive inquiry.
+>> (c)    A complainant who is unconscious obviously has no capacity to consent. But a complainant may have crossed the line into incapacity well before becoming unconscious, and whether that is the case is evidently a fact-sensitive inquiry.
 
-(d)    Capacity to consent requires the capacity to make decisions or choices. A person, though having limited awareness of what is happening, may have such impaired understanding or knowledge as to lack the ability to make any decisions, much less the particular decision whether to have sexual intercourse or engage in any sexual act.
+>> (d)    Capacity to consent requires the capacity to make decisions or choices. A person, though having limited awareness of what is happening, may have such impaired understanding or knowledge as to lack the ability to make any decisions, much less the particular decision whether to have sexual intercourse or engage in any sexual act.
 
-(e)    In our view, expert evidence – such as that showing the complainant’s blood alcohol level – may assist the court in determining whether the complainant had the capacity to consent. 
+>> (e)    In our view, expert evidence – such as that showing the complainant’s blood alcohol level – may assist the court in determining whether the complainant had the capacity to consent. 
 
 120    A landmark decision on the issue of consent in sexual offences is _Ong Mingwee v Public Prosecutor_ <span class="citation">\[2013\] 1 SLR 1217</span> (“_Ong Mingwee_”). Here, one important issue was whether the victim was so intoxicated that she could not have given her consent for sexual intercourse with the accused. The High Court analysed the surrounding circumstances and found that the victim was able to provide such consent even though she was intoxicated at the material time. Relevant facts included her “deliberate and considered” decision to enter a taxi with the accused outside the club prior to the alleged offence (at \[28\]), and the passage of time between her consumption of alcohol and the alleged offence which meant that she “would have started to sober up” (at \[28\]).
 
@@ -640,27 +719,27 @@ We would identify the following as the relevant general principles:
 
 121    Section 79 of the PC provides for the general exception of defence as to mistake of fact, and it provides as follows (omitting the illustrations):
 
-**Act done by a person justified, or by mistake of fact believing himself justified by law**
+> **Act done by a person justified, or by mistake of fact believing himself justified by law**
 
-79.    Nothing is an offence which is done by any person who is justified by law, or who by reason of a mistake of fact and not by reason of a mistake of law in good faith believes himself to be justified by law, in doing it.
+> 79.    Nothing is an offence which is done by any person who is justified by law, or who by reason of a mistake of fact and not by reason of a mistake of law in good faith believes himself to be justified by law, in doing it.
 
 122    To establish this defence, the accused person bears the burden of showing, on a balance of probabilities, that “by reason of a mistake of fact… in good faith” he believed himself to be justified by law to engage in the relevant sexual activity with the complainant (see _Public Prosecutor v Teo Eng Chan and others_ <span class="citation">\[1987\] SLR(R) 567</span> at \[26\]; _Pram Nair_ at \[110\]). This provision is supplemented by the following:
 
-(a)     In the present case, the justification by law refers to the consent of the Complainant to engage in that sexual activity with the relevant accused.
+> (a)     In the present case, the justification by law refers to the consent of the Complainant to engage in that sexual activity with the relevant accused.
 
-(b)     The concept of “good faith” is defined in s 52 of the PC in a negative formulation:
+> (b)     The concept of “good faith” is defined in s 52 of the PC in a negative formulation:
 
-Nothing is said to be done or believed in good faith which is done or believed without due care and attention.
+>> Nothing is said to be done or believed in good faith which is done or believed without due care and attention.
 
-(c)     Under s 26 of the PC, a person has “reason to believe” a thing “if he has sufficient cause to believe that thing, but not otherwise”.
+> (c)     Under s 26 of the PC, a person has “reason to believe” a thing “if he has sufficient cause to believe that thing, but not otherwise”.
 
 123    Therefore, for the defence of mistake of fact as to consent to succeed, it appears that the Defence must show on a balance of probabilities that:[^197]
 
-(a)     there was sufficient cause for the relevant accused person to believe that the Complainant consented;
+> (a)     there was sufficient cause for the relevant accused person to believe that the Complainant consented;
 
-(b)     the accused had exercised due care and attention; and
+> (b)     the accused had exercised due care and attention; and
 
-(c)     the accused’s belief was in good faith.
+> (c)     the accused’s belief was in good faith.
 
 124    It may be that these are overlapping inquiries, but it appears that they are nevertheless conceptually distinct requirements in law.
 
@@ -670,27 +749,27 @@ Nothing is said to be done or believed in good faith which is done or believed w
 
 126    I start first with the 4th Charge under s 375(1)(_a_) of the PC, which is that against Faris for rape (_ie_, penile-vaginal penetration) of the Complainant in the bathroom on the second floor of the Room sometime in the morning of 26 January 2014 (see \[3(a)\] above). The relevant provision reads as follows:
 
-**Rape**
+> **Rape**
 
-375.—(1)    Any man who penetrates the vagina of a woman with his penis —
+> 375.—(1)    Any man who penetrates the vagina of a woman with his penis —
 
-(_a_)    without her consent; or
+>> (_a_)    without her consent; or
 
-(_b_)    with or without her consent, when she is under 14 years of age,
+>> (_b_)    with or without her consent, when she is under 14 years of age,
 
-shall be guilty of an offence.
+> shall be guilty of an offence.
 
-(2)    Subject to subsection (3), a man who is guilty of an offence under this section shall be punished with imprisonment for a term which may extend to 20 years, and shall also be liable to fine or to caning.
+> (2)    Subject to subsection (3), a man who is guilty of an offence under this section shall be punished with imprisonment for a term which may extend to 20 years, and shall also be liable to fine or to caning.
 
 127    In essence, the Prosecution’s case was that the Complainant was severely intoxicated at the material time and therefore could not have, and did not in fact, consent to sexual intercourse with Faris.
 
 128    Faris did not dispute that sexual intercourse had occurred in the bathroom, but his evidence was that the Complainant had actively initiated and participated in the sexual activity with him. His evidence in court is summarised below at \[154\]. The defence was that the Complainant was at the material time of the alleged offences merely suffering from anterograde amnesia (also referred to as a “blackout”), wherein she lost her ability to record memories of events but did not lose consciousness or the ability to consent. Therefore, even though she could not remember as such, the Complainant had in fact consented to sexual intercourse and/or had conducted herself in a manner that led Faris to believe that she had consented to sexual intercourse.[^198] A comprehensive definition of anterograde amnesia, which is consistent with the undisputed explanation of the condition by Dr Guo in the present case,[^199] was set out in the following terms in _Public Prosecutor v Azuar Bin Ahamad_ <span class="citation">\[2014\] SGHC 149</span>:
 
-\[15\]  Anterograde amnesia is a state in which a person is unable to form new memories. Events are not recorded to memory, and a person in this state will have no recollection of anything that happens to her. She may even engage in activity and have no idea afterwards that she had done anything at all. …
+> \[15\]  Anterograde amnesia is a state in which a person is unable to form new memories. Events are not recorded to memory, and a person in this state will have no recollection of anything that happens to her. She may even engage in activity and have no idea afterwards that she had done anything at all. …
 
-…
+> …
 
-\[17\]  It must be highlighted that a person under these effects is not necessarily unconscious. There is a spectrum of sedation that stretches from minimal sedation to general anaesthesia. Anterograde amnesia can be induced at the stage of conscious sedation (or moderate sedation). In that stage, the person retains a purposeful response to verbal or tactile simulation, and yet has no recollection of those conscious responses made. …
+> \[17\]  It must be highlighted that a person under these effects is not necessarily unconscious. There is a spectrum of sedation that stretches from minimal sedation to general anaesthesia. Anterograde amnesia can be induced at the stage of conscious sedation (or moderate sedation). In that stage, the person retains a purposeful response to verbal or tactile simulation, and yet has no recollection of those conscious responses made. …
 
 129    Accordingly, the main issues in dispute are (a) whether the Complainant had the capacity to consent to sexual intercourse at the material time; (b) if so, whether she in fact consented to such intercourse; and (c) whether Faris could rely on the defence of mistake of fact.
 
@@ -702,130 +781,238 @@ shall be guilty of an offence.
 
 131    The Prosecution’s expert was Dr Guo, who was the Senior Consultant Psychiatrist and Head of Research in the Department of Addiction Medicine at the IMH and had been working with IMH’s Department of Addiction Medicine for more than 13 years.[^200] He had also specialised in the area of addiction medicine for more than 20 years.[^201]. As I mentioned, he produced two written reports and supplemented them by oral testimony in court. In his 1st Report, he stated as follows, amongst other things:
 
-(a)     In relation to the Complainant’s blood alcohol concentration (“BAC”) levels on the morning of 26 January 2014:
+> (a)     In relation to the Complainant’s blood alcohol concentration (“BAC”) levels on the morning of 26 January 2014:
 
-(i)       The Complainant’s BAC level immediately after alcohol consumption, given approximations of the amount of alcohol she had consumed, the premise that she was consuming alcohol on an empty stomach in a relatively short period, and that she had no history of tolerance to its effects, was as follows:[^202]
+>> (i)       The Complainant’s BAC level immediately after alcohol consumption, given approximations of the amount of alcohol she had consumed, the premise that she was consuming alcohol on an empty stomach in a relatively short period, and that she had no history of tolerance to its effects, was as follows:[^202]
 
-BAC = (alcohol consumption by weight) / \[body weight x 54%\]
+>>> BAC = (alcohol consumption by weight) / \[body weight x 54%\]
 
-\= (60ml x 3 x 40%) / (53kg x 54%)
+>>> \= (60ml x 3 x 40%) / (53kg x 54%)
 
-\= 251.6mg%
+>>> \= 251.6mg%
 
-(ii)       Given her gender and weight as at 28 January 2014, and the average alcohol clearance rate of 120mg/kg/hr, the Complainant’s hourly reduction of BAC was estimated using the following formula:[^203]
+>> (ii)       Given her gender and weight as at 28 January 2014, and the average alcohol clearance rate of 120mg/kg/hr, the Complainant’s hourly reduction of BAC was estimated using the following formula:[^203]
 
-BAC clearance per hour = (120mg/kg/hr x bodyweight) / (bodyweight x 54%)
+>>> BAC clearance per hour = (120mg/kg/hr x bodyweight) / (bodyweight x 54%)
 
-\= (120mg/kg/hr x 53kg) / (53kg x 54%)
+>>> \= (120mg/kg/hr x 53kg) / (53kg x 54%)
 
-\= 22mg% per hour
+>>> \= 22mg% per hour
 
-(iii)       On the basis that the Complainant would take 30 minutes to reach her peak BAC level, her peak BAC level would be:[^204]
+>> (iii)       On the basis that the Complainant would take 30 minutes to reach her peak BAC level, her peak BAC level would be:[^204]
 
-251.6mg% - 22mg% = 229.657mg%
+>>> 251.6mg% - 22mg% = 229.657mg%
 
-(iv)       Based on this, Dr Guo calculated the Complainant’s BAC levels at different hourly intervals to be as follows:[^205]
+>> (iv)       Based on this, Dr Guo calculated the Complainant’s BAC levels at different hourly intervals to be as follows:[^205]
 
 <table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="65.6084656084656%"> <col width="34.3915343915344%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p class="Table-Heading-Center">Time (on 26 January 2014)</p></td><td align="left" class="b" rowspan="1" valign="top"><p class="Table-Heading-Center">BAC (mg%)</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">At 1am</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="right" class="Table-Para-1">229.57</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">At 2am</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="right" class="Table-Para-1">207.57</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">At 3am</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="right" class="Table-Para-1">185.57</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">At 4am</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="right" class="Table-Para-1">163.57</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">At 5am</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="right" class="Table-Para-1">141.57</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">At 6am</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="right" class="Table-Para-1">119.57</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">At 7am</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="right" class="Table-Para-1">97.57</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">At 8am</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="right" class="Table-Para-1">75.57</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">At 9am</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="right" class="Table-Para-1">53.57</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">At 10am</p></td><td align="left" class="" rowspan="1" valign="top"><p align="right" class="Table-Para-1">31.57</p></td></tr></tbody></table>
 
   
   
 
-(b)     Dr Guo also arrived at the following conclusions regarding the Complainant’s mental state based on his calculations of her estimated BAC levels as well as her account of events:
+> (b)     Dr Guo also arrived at the following conclusions regarding the Complainant’s mental state based on his calculations of her estimated BAC levels as well as her account of events:
 
-(i)       The Complainant could have been in the disinhibition phase when her BAC levels were increasing during the early phase of alcohol intoxication (_ie_, between 1am and 2am on 26 January 2014). This would have contributed to her “euphoria, impaired judgment and feelings of confidence and assertiveness, talkativeness as well as increased risk-taking behaviour with strangers”. She could also have been experiencing impaired motor functions which could have resulted in unsteadiness in gait. It was also possible that the Complainant experienced a “blackout” when she was at the peak of her intoxication with her BAC levels between 229.57mg% and 185.57mg% (_ie_, between 1am and 2am on 26 January 2014).[^206] According to Dr Guo, it was possible that the Complainant could have consented to sex under the euphoric and disinhibiting effects of alcohol during this period. It was also likely that she might have had very poor memory of her actions due to a “blackout” during this period that possibly resulted from her BAC levels increasing rapidly.[^207]
+>> (i)       The Complainant could have been in the disinhibition phase when her BAC levels were increasing during the early phase of alcohol intoxication (_ie_, between 1am and 2am on 26 January 2014). This would have contributed to her “euphoria, impaired judgment and feelings of confidence and assertiveness, talkativeness as well as increased risk-taking behaviour with strangers”. She could also have been experiencing impaired motor functions which could have resulted in unsteadiness in gait. It was also possible that the Complainant experienced a “blackout” when she was at the peak of her intoxication with her BAC levels between 229.57mg% and 185.57mg% (_ie_, between 1am and 2am on 26 January 2014).[^206] According to Dr Guo, it was possible that the Complainant could have consented to sex under the euphoric and disinhibiting effects of alcohol during this period. It was also likely that she might have had very poor memory of her actions due to a “blackout” during this period that possibly resulted from her BAC levels increasing rapidly.[^207]
 
-(ii)       Between 3am and 5am, the Complainant would still have been intoxicated with alcohol and was likely to have been in a state of heavy sedation, despite her BAC levels dropping continuously (from 185.57mg% to 119.57mg%).[^208] At this stage, it was unlikely that the Complainant could have consented to sex as she would have been in a heavily sedated state due to her intoxication.[^209]
+>> (ii)       Between 3am and 5am, the Complainant would still have been intoxicated with alcohol and was likely to have been in a state of heavy sedation, despite her BAC levels dropping continuously (from 185.57mg% to 119.57mg%).[^208] At this stage, it was unlikely that the Complainant could have consented to sex as she would have been in a heavily sedated state due to her intoxication.[^209]
 
-(iii)       Between 6am and 9am on 26 January 2014, the Complainant would have been in the early recovery stage from her alcohol intoxication and “it is possible that the effects of intoxication should have been gradually wearing off at this period of time”. She might be partially aware of her actions and surroundings. Nevertheless, it was also a possibility that “the sedative effects of alcohol influenc\[ed\] her thoughts and behaviour and contribut\[ed\] to poor judgment of her actions”.[^210]
+>> (iii)       Between 6am and 9am on 26 January 2014, the Complainant would have been in the early recovery stage from her alcohol intoxication and “it is possible that the effects of intoxication should have been gradually wearing off at this period of time”. She might be partially aware of her actions and surroundings. Nevertheless, it was also a possibility that “the sedative effects of alcohol influenc\[ed\] her thoughts and behaviour and contribut\[ed\] to poor judgment of her actions”.[^210]
 
 132    In Dr Guo’s 2nd Report, he responded to certain questions raised in relation specifically to anterograde amnesia. Of relevance is his answer in response to a question on the effect of alcohol intoxication on memory:
 
-People in alcohol induced en-bloc amnesia (blackout) would experience anterograde amnesia in which they would not be able to remember what they have done after the start of the blackout though they can perform complex actions as per normal during the episode of blackout. However, people in alcohol induced fragmentary blackout would be able to remember a part of the activities they have performed during the blackout.
+> People in alcohol induced en-bloc amnesia (blackout) would experience anterograde amnesia in which they would not be able to remember what they have done after the start of the blackout though they can perform complex actions as per normal during the episode of blackout. However, people in alcohol induced fragmentary blackout would be able to remember a part of the activities they have performed during the blackout.
 
 133    In court, Dr Guo elaborated on his reports and the general stages of the effects of intoxication on an individual. In relation to the alleged offences committed in the bathroom, Dr Guo maintained that the Complainant was in a state of “heavy sedation” at that time, and that it would have been impossible for her to:
 
-(a)     take another’s penis and put it in her own mouth,[^211]
+> (a)     take another’s penis and put it in her own mouth,[^211]
 
-(b)     kneel on the floor,[^212]
+> (b)     kneel on the floor,[^212]
 
-(c)     lick or suck another’s penis consciously,[^213]
+> (c)     lick or suck another’s penis consciously,[^213]
 
-(d)     maintain a doggy position (_ie_, with the female standing in front facing forward, and male standing right behind her),[^214] or
+> (d)     maintain a doggy position (_ie_, with the female standing in front facing forward, and male standing right behind her),[^214] or
 
-(e)     stand with one leg up on the edge of a bathtub and the other on the floor.[^215]
+> (e)     stand with one leg up on the edge of a bathtub and the other on the floor.[^215]
 
 134    In Dr Guo’s view, a sedated person would be unable to perform all these actions as they required fine coordination and strength of the muscles.[^216]
 
 135    Dr Winslow was the Defence’s expert. At the time of trial, he was a Senior Consultant Psychiatrist with Winslow Clinic, and an Adjunct Associate Professor with the Yong Loo Lin School of Medicine at the National University of Singapore. The relevant parts of Dr Winslow’s report stated as follows:
 
-**How Dr. Guo concluded that the average proportion of body water available for alcohol distribution is 54% for females?**
+> **How Dr. Guo concluded that the average proportion of body water available for alcohol distribution is 54% for females?**
 
-4.    This is the commonly accepted average proportion of body water available for alcohol distribution in females held by medical professionals.
+> 4.    This is the commonly accepted average proportion of body water available for alcohol distribution in females held by medical professionals.
 
-**Why alcohol clearance rate is 120mg/kg/hr?**
+> **Why alcohol clearance rate is 120mg/kg/hr?**
 
-5.    The most commonly accepted rates of blood alcohol metabolization (alcohol clearance) are 0.015% for novice drinkers (15mg per hour), 0.018% for social drinkers (18mg per hour), 0.02% for regular or frequent drinkers (20mg per hour), and o.025% for heavy drinkers or alcoholics (25mg per hour) (Miller, 2010 pp170). I believe that the estimates in Dr. Guo Song’s report are valid.
+> 5.    The most commonly accepted rates of blood alcohol metabolization (alcohol clearance) are 0.015% for novice drinkers (15mg per hour), 0.018% for social drinkers (18mg per hour), 0.02% for regular or frequent drinkers (20mg per hour), and o.025% for heavy drinkers or alcoholics (25mg per hour) (Miller, 2010 pp170). I believe that the estimates in Dr. Guo Song’s report are valid.
 
-**Whether this clearance rate is linear, if not, what models or systems are there to demonstrate that it is not?**
+> **Whether this clearance rate is linear, if not, what models or systems are there to demonstrate that it is not?**
 
-6.    It is widely accepted that the clearance rate is linear. It is possible for this rate to be affected by factors such as interfering substances, food and liver disturbances/abnormalities.
+> 6.    It is widely accepted that the clearance rate is linear. It is possible for this rate to be affected by factors such as interfering substances, food and liver disturbances/abnormalities.
 
-**Would this clearance rate be affected by the victim throwing up? When she throws up, does that mean she’s throwing up some of the consumed alcohol, and therefore the effect of alcohol intoxication would be less pronounced?**
+> **Would this clearance rate be affected by the victim throwing up? When she throws up, does that mean she’s throwing up some of the consumed alcohol, and therefore the effect of alcohol intoxication would be less pronounced?**
 
-7.    If a person vomits, it is possible that all of the alcohol ingested is not absorbed into the body. This is the body’s mechanism to protect itself against alcohol poisoning.
+> 7.    If a person vomits, it is possible that all of the alcohol ingested is not absorbed into the body. This is the body’s mechanism to protect itself against alcohol poisoning.
 
-**What was the victim’s likely rate of increase of BAC until it peaked?**
+> **What was the victim’s likely rate of increase of BAC until it peaked?**
 
-8.    An individual’s rate of increase in BAC until peak is difficult to know and can only be based on estimates. The victim’s peak BAC has already been calculated in Dr. Guo Song’s medical report and appears to be accurate.
+> 8.    An individual’s rate of increase in BAC until peak is difficult to know and can only be based on estimates. The victim’s peak BAC has already been calculated in Dr. Guo Song’s medical report and appears to be accurate.
 
-**Would a rapid rise in the victim’s BAC more likely cause her to suffer a blackout?**
+> **Would a rapid rise in the victim’s BAC more likely cause her to suffer a blackout?**
 
-9.    Impaired consciousness (‘blackout’) can occur from blood alcohol concentration of 0.25-0.4 grams/100mL and above (Dubowski, 1997), independent of the rate of consumption.
+> 9.    Impaired consciousness (‘blackout’) can occur from blood alcohol concentration of 0.25-0.4 grams/100mL and above (Dubowski, 1997), independent of the rate of consumption.
 
-**From the victim’s account of her past alcohol consumption and blackout at her 18th birthday, would it be likely that she also suffered a blackout on 26 January 2014?**
+> **From the victim’s account of her past alcohol consumption and blackout at her 18th birthday, would it be likely that she also suffered a blackout on 26 January 2014?**
 
-10.    The likelihood of blackout is based on the level of blood alcohol concentration. As mentioned, impaired consciousness can occur from blood alcohol concentration of 0.25-0.4 grams/100mL and above. In addition, if an individual has a history of blackouts, they may be more likely to have a blackout in future with similar drinking patterns.
+> 10.    The likelihood of blackout is based on the level of blood alcohol concentration. As mentioned, impaired consciousness can occur from blood alcohol concentration of 0.25-0.4 grams/100mL and above. In addition, if an individual has a history of blackouts, they may be more likely to have a blackout in future with similar drinking patterns.
 
-**What are the physical symptoms of intoxication and whether such symptoms vary according to level of intoxication?**
+> **What are the physical symptoms of intoxication and whether such symptoms vary according to level of intoxication?**
 
-11.    Clinical signs and symptoms of alcohol intoxication based on level of intoxication can be found in Table 1, \[Annex\] A.
+> 11.    Clinical signs and symptoms of alcohol intoxication based on level of intoxication can be found in Table 1, \[Annex\] A.
 
-**When a person is faced with events she cannot understand is it natural for her to create memories of what happened (i.e. confabulations)?**
+> **When a person is faced with events she cannot understand is it natural for her to create memories of what happened (i.e. confabulations)?**
 
-12.    At certain levels where memory is fragmentary, it is possible for people to confabulate or make up for the gaps in memory with events that may or may not be true.
+> 12.    At certain levels where memory is fragmentary, it is possible for people to confabulate or make up for the gaps in memory with events that may or may not be true.
 
 136    In court, Dr Winslow made the following observations regarding the Complainant’s condition:
 
-(a)     Dr Winslow stated that the Complainant’s behaviour before the Group had left the Room for Zouk was consistent with her being in a state of alcohol-induced anterograde amnesia.[^217] Dr Winslow also stated that the Complainant was probably in the pre-stuporous stages where her BAC level was rising, and she was probably functioning at a very high BAC level at this point in time.[^218]
+> (a)     Dr Winslow stated that the Complainant’s behaviour before the Group had left the Room for Zouk was consistent with her being in a state of alcohol-induced anterograde amnesia.[^217] Dr Winslow also stated that the Complainant was probably in the pre-stuporous stages where her BAC level was rising, and she was probably functioning at a very high BAC level at this point in time.[^218]
 
-(b)     The Complainant would have been sedated to the point of unconsciousness when Elmi first returned to the Room to retrieve Izzati’s IC (see \[12\] above). This conclusion was based on Elmi's testimony that he saw the Complainant passed out on the floor and was unresponsive despite being tapped on her arms and having her name called.[^219]
+> (b)     The Complainant would have been sedated to the point of unconsciousness when Elmi first returned to the Room to retrieve Izzati’s IC (see \[12\] above). This conclusion was based on Elmi's testimony that he saw the Complainant passed out on the floor and was unresponsive despite being tapped on her arms and having her name called.[^219]
 
-(c)     Dr Winslow thought that it was quite possible for the Complainant to have been sedated or sleepy between 3am to 6am on 26 January 2014, not purely due to alcohol intoxication but as a result of inadequate rest over the preceding 24 hours.[^220] Dr Winslow testified that the word “sedation” meant a state where a person feels sleepy, has difficulty staying awake, or is both physically and mentally inactive.[^221] He agreed that there are different degrees of sedation. While a person may not necessarily feel sleepy or sedated when her BAC level is decreasing, there is nevertheless a correlation between one’s BAC level and the level of sedation.[^222]
+> (c)     Dr Winslow thought that it was quite possible for the Complainant to have been sedated or sleepy between 3am to 6am on 26 January 2014, not purely due to alcohol intoxication but as a result of inadequate rest over the preceding 24 hours.[^220] Dr Winslow testified that the word “sedation” meant a state where a person feels sleepy, has difficulty staying awake, or is both physically and mentally inactive.[^221] He agreed that there are different degrees of sedation. While a person may not necessarily feel sleepy or sedated when her BAC level is decreasing, there is nevertheless a correlation between one’s BAC level and the level of sedation.[^222]
 
-(d)     He disagreed with Dr Guo on the question of whether a heavily sedated person could perform complex actions. Dr Winslow’s view was that a heavily sedated person could perform complex actions so long as her BAC level was not extremely high (_ie_, over 200mg/100ml).[^223] Specifically, he also stated that a heavily sedated person could:
+> (d)     He disagreed with Dr Guo on the question of whether a heavily sedated person could perform complex actions. Dr Winslow’s view was that a heavily sedated person could perform complex actions so long as her BAC level was not extremely high (_ie_, over 200mg/100ml).[^223] Specifically, he also stated that a heavily sedated person could:
 
-(i)       use her hand to take another person’s penis and place it into her own mouth,[^224]
+>> (i)       use her hand to take another person’s penis and place it into her own mouth,[^224]
 
-(ii)       kneel down on the floor,[^225]
+>> (ii)       kneel down on the floor,[^225]
 
-(iii)       lick another person’s penis consciously,[^226]
+>> (iii)       lick another person’s penis consciously,[^226]
 
-(iv)       position herself in front of another person in a “doggy position”,[^227]
+>> (iv)       position herself in front of another person in a “doggy position”,[^227]
 
-(v)       walk down the stairs with assistance,[^228] and
+>> (v)       walk down the stairs with assistance,[^228] and
 
-(vi)       respond to strong stimuli such as loud voices.[^229]
+>> (vi)       respond to strong stimuli such as loud voices.[^229]
 
-(e)     When presented with Faris’ version of what took place in the bathroom, Dr Winslow agreed that that Complainant’s behaviour as described was consistent with the Complainant being in a state of alcohol-induced anterograde amnesia .[^230] Thus, Dr Winslow opined that the Complainant was likely to have been able to express an intention to continue or discontinue any sexual activities that she found herself participating in between 4am to 6am on 26 January 2014.[^231]
+> (e)     When presented with Faris’ version of what took place in the bathroom, Dr Winslow agreed that that Complainant’s behaviour as described was consistent with the Complainant being in a state of alcohol-induced anterograde amnesia .[^230] Thus, Dr Winslow opined that the Complainant was likely to have been able to express an intention to continue or discontinue any sexual activities that she found herself participating in between 4am to 6am on 26 January 2014.[^231]
 
-(f)     However, Dr Winslow also accepted that if the Complainant behaved as Faris and Asep had described in their police statements (which I will elaborate on below), she would most likely have been floating in and out of a stuporous alcoholic state. In such a state, the Complainant’s motor skills would have been impaired,[^232] and it would have been difficult for her to perform complex coordinated movements of her limbs, or to have sex while standing with one leg on the ground and the other on the water closet and changing positions thereafter.[^233]
+> (f)     However, Dr Winslow also accepted that if the Complainant behaved as Faris and Asep had described in their police statements (which I will elaborate on below), she would most likely have been floating in and out of a stuporous alcoholic state. In such a state, the Complainant’s motor skills would have been impaired,[^232] and it would have been difficult for her to perform complex coordinated movements of her limbs, or to have sex while standing with one leg on the ground and the other on the water closet and changing positions thereafter.[^233]
 
 137    Faris submitted that Dr Guo was an unreliable witness whose evidence was both internally and externally inconsistent.[^234] In my view, the purported inconsistencies in Dr Guo’s evidence were not real or material. For instance, Faris highlighted that Dr Guo had opined that the Complainant could not have performed complex actions, but later under cross-examination agreed that a person in a “blackout” (_ie_, with anterograde amnesia) could have gotten out of a bathtub.[^235]
 
 138    However, on closer examination, there is no inconsistency here since the former opinion was specific to the Complainant, while the later observation was premised on a generic individual who was suffering anterograde amnesia. In fact, it was clear from Dr Guo’s testimony that if an individual had suffered more than mere anterograde amnesia, there would have been psychomotor limitations:
 
-<table align="left" cellpadding="0" cellspacing="0" class="Judg-2" frame="none" pgwide="1"><colgroup><col width="14.2294795159644%"> <col width="85.7705204840356%"> </colgroup><tbody><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Q</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">My question was that if a person was going through a blackout---</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">A</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Yah.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Q</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">---could that person get out of the bathtub?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">A</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Yah.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Q</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Yes.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">A</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Yah. In the blackout that person may not be so severe sedated.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Court:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">I see.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">A</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Means that the---the---the movement is not severely impacted by the alcohol. So---if so, the person can still do that. But that the---also possible that the person was under the severe intoxication. In this case, the person won’t be able to do that. So that’s why my answer is that---</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Court:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">If the blackout is caused by severe intoxication or if the blackout amounts to severe intoxication?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">A</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">If the blackout---in addition to blackout, that the person also severely intoxicated that---that the person won’t be able to do that.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Q</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Okay. So, Dr Guo, if I may clarify. You are saying that if a person is going through a blackout but is also severely intoxicated, then there are some things that a person cannot do.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">A</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Yes.</p></td></tr></tbody></table>
+>   
+| 
+
+Q
+
+ | 
+
+My question was that if a person was going through a blackout---
+
+ |
+| 
+
+A
+
+ | 
+
+Yah.
+
+ |
+| 
+
+Q
+
+ | 
+
+\---could that person get out of the bathtub?
+
+ |
+| 
+
+A
+
+ | 
+
+Yah.
+
+ |
+| 
+
+Q
+
+ | 
+
+Yes.
+
+ |
+| 
+
+A
+
+ | 
+
+Yah. In the blackout that person may not be so severe sedated.
+
+ |
+| 
+
+Court:
+
+ | 
+
+I see.
+
+ |
+| 
+
+A
+
+ | 
+
+Means that the---the---the movement is not severely impacted by the alcohol. So---if so, the person can still do that. But that the---also possible that the person was under the severe intoxication. In this case, the person won’t be able to do that. So that’s why my answer is that---
+
+ |
+| 
+
+Court:
+
+ | 
+
+If the blackout is caused by severe intoxication or if the blackout amounts to severe intoxication?
+
+ |
+| 
+
+A
+
+ | 
+
+If the blackout---in addition to blackout, that the person also severely intoxicated that---that the person won’t be able to do that.
+
+ |
+| 
+
+Q
+
+ | 
+
+Okay. So, Dr Guo, if I may clarify. You are saying that if a person is going through a blackout but is also severely intoxicated, then there are some things that a person cannot do.
+
+ |
+| 
+
+A
+
+ | 
+
+Yes.
+
+ |
 
   
   
@@ -836,21 +1023,21 @@ People in alcohol induced en-bloc amnesia (blackout) would experience anterograd
 
 141    First, these BAC calculations are predicated on estimations of how much alcohol the Complainant had consumed. However, in this case, reliable evidence of that fact cannot be found. Rather, most of the witnesses gave vague and inconsistent estimations:
 
-(a)     The Complainant testified that she did not drink anything before going to the Room on the material day.[^236] After reaching the Room, she drank roughly three to four 1/2-full cups of an unknown liquor mixed with an unknown soft drink,[^237] before drinking another four ¾-full cups of vodka mixed with Red Bull.[^238] She did not know the proportion of alcohol mixed into these drinks.[^239] Nor could she remember the type of alcohol and the soft drink mixed for the first three to four cups she had consumed.[^240]
+> (a)     The Complainant testified that she did not drink anything before going to the Room on the material day.[^236] After reaching the Room, she drank roughly three to four 1/2-full cups of an unknown liquor mixed with an unknown soft drink,[^237] before drinking another four ¾-full cups of vodka mixed with Red Bull.[^238] She did not know the proportion of alcohol mixed into these drinks.[^239] Nor could she remember the type of alcohol and the soft drink mixed for the first three to four cups she had consumed.[^240]
 
-(b)     Izzati testified that the Complainant started drinking immediately upon arrival at the Room.[^241] In her recollection, the Complainant’s cup was filled about three to four times.[^242] She did not remember what was poured into the cup,[^243] but she remembered that at that time a bottle of Jagermeister and vodka were opened because they were left on the ground.[^244] She also recalled that the soft drink mixers available that day were green tea and Red Bull.[^245]
+> (b)     Izzati testified that the Complainant started drinking immediately upon arrival at the Room.[^241] In her recollection, the Complainant’s cup was filled about three to four times.[^242] She did not remember what was poured into the cup,[^243] but she remembered that at that time a bottle of Jagermeister and vodka were opened because they were left on the ground.[^244] She also recalled that the soft drink mixers available that day were green tea and Red Bull.[^245]
 
-(c)     Elmi recalled that the Complainant had drunk not more than three cups of alcohol mixed with soft drinks at the Room,[^246] but admitted that this was just an assumption and that he did not know how many cups she had actually drunk.[^247] Nor could he remember the type or the amount of alcohol in each cup.[^248]
+> (c)     Elmi recalled that the Complainant had drunk not more than three cups of alcohol mixed with soft drinks at the Room,[^246] but admitted that this was just an assumption and that he did not know how many cups she had actually drunk.[^247] Nor could he remember the type or the amount of alcohol in each cup.[^248]
 
-(d)     Affandi testified that he was not sure how many cups of alcohol the Complainant had consumed.[^249] He did however, recall Fadly pouring Chivas for the Complainant.[^250]
+> (d)     Affandi testified that he was not sure how many cups of alcohol the Complainant had consumed.[^249] He did however, recall Fadly pouring Chivas for the Complainant.[^250]
 
-(e)     Fadly could only remember that he had poured cups of drinks for the Complainant that morning.[^251] He could not remember how many cups he had poured or how much alcohol was in each cup.[^252]
+> (e)     Fadly could only remember that he had poured cups of drinks for the Complainant that morning.[^251] He could not remember how many cups he had poured or how much alcohol was in each cup.[^252]
 
-(f)     Faris initially testified that the Complainant had drunk “around… three cups only”.[^253] However, during cross-examination he admitted that this was only a guess,[^254] and that he had arrived at that number by assuming that the Complainant had consumed the same number of cups as he did.[^255] He also admitted that he was not really paying attention to the Complainant during that period because he was talking to other attendees at the party.[^256]
+> (f)     Faris initially testified that the Complainant had drunk “around… three cups only”.[^253] However, during cross-examination he admitted that this was only a guess,[^254] and that he had arrived at that number by assuming that the Complainant had consumed the same number of cups as he did.[^255] He also admitted that he was not really paying attention to the Complainant during that period because he was talking to other attendees at the party.[^256]
 
-(g)     Asep only gave evidence that the Complainant was drinking,[^257] but did not say how much she drank. He testified that apart from noticing the Complainant drinking and talking to Fadly, he did not really pay much attention to her.[^258]
+> (g)     Asep only gave evidence that the Complainant was drinking,[^257] but did not say how much she drank. He testified that apart from noticing the Complainant drinking and talking to Fadly, he did not really pay much attention to her.[^258]
 
-(h)     In Ridhwan’s 1st Statement, he stated that everyone except Izzati consumed alcohol, and that Elmi “drank a little bit only, while the rest drinks quite a lot”.[^259]
+> (h)     In Ridhwan’s 1st Statement, he stated that everyone except Izzati consumed alcohol, and that Elmi “drank a little bit only, while the rest drinks quite a lot”.[^259]
 
 142    Second, the experts agreed that whether the Complainant was incapable of giving consent, or merely in a state of anterograde amnesia and able to give consent, depended on the underlying factual premise. For instance, when asked, Dr Guo accepted that _if_ Ridhwan’s version as to the facts was to be believed, then the Complainant would have been in a much milder state of intoxication and would have been able to perform the acts indicated above at \[136(d)\]. Similarly, Dr Winslow accepted that if it was true that the Complainant was unable to open her eyes and could not resist sleeping, she would not have been in a state of mere anterograde amnesia and could not have behaved in the manner the accused persons claimed. In the circumstances, it would beg the question to rely on expert opinion premised on a factual state that is both the premise and the conclusion to be determined.
 
@@ -866,11 +1053,11 @@ People in alcohol induced en-bloc amnesia (blackout) would experience anterograd
 
 147    The Complainant did not remember much about what had happened in the morning of 26 January 2014. Her last memory of what happened before the Group left for Zouk was of her sitting on the sofa, and her next memory was that she was in the bathroom.[^264] She could not recall when the Group decided to go to Zouk,[^265] when the Group actually left for Zouk,[^266] whether she vomited on the first floor before they left,[^267] or how she ended up in the bathroom.[^268] She testified she was “not 100% awake” and kept falling asleep.[^269] As regards what happened in the bathroom, she only had a few flashes of memory, though she could not tell whether these flashes happened in sequence:[^270]
 
-(a)     First, she recalled that at some point she felt like vomiting while standing in front of the sink,[^271] with Asep standing beside her at that point,[^272] and someone knocking on the door.[^273]
+> (a)     First, she recalled that at some point she felt like vomiting while standing in front of the sink,[^271] with Asep standing beside her at that point,[^272] and someone knocking on the door.[^273]
 
-(b)     Second, she recalled being kissed by an unidentified male on the lips while standing up in the bathroom.[^274] She felt uncomfortable but could not do anything about it because she was too drunk and could not balance herself.[^275]
+> (b)     Second, she recalled being kissed by an unidentified male on the lips while standing up in the bathroom.[^274] She felt uncomfortable but could not do anything about it because she was too drunk and could not balance herself.[^275]
 
-(c)     Third, she remembered that at another point, she found herself lying down on her back on the bathroom floor beside the water closet,[^276] and that a man with a circular tattoo on his left arm and who was not wearing any pants,[^277] was standing “in front of her”.[^278] She did not see the face of this man, but she subsequently identified him as Faris as she recognised his tattoo.[^279]
+> (c)     Third, she remembered that at another point, she found herself lying down on her back on the bathroom floor beside the water closet,[^276] and that a man with a circular tattoo on his left arm and who was not wearing any pants,[^277] was standing “in front of her”.[^278] She did not see the face of this man, but she subsequently identified him as Faris as she recognised his tattoo.[^279]
 
 148    Faris submitted that the Complainant’s evidence was not reliable and might have been a result of “confusion due to memory loss”. Therefore, it did not meet the threshold of “unusually convincing” evidence.[^280]
 
@@ -888,13 +1075,13 @@ People in alcohol induced en-bloc amnesia (blackout) would experience anterograd
 
 154    As alluded to above, Faris’s account of events in court was vastly different from the Complainant’s, and it portrayed the Complainant as an initiator and active participant in sexual intercourse with him. The material parts of Faris’ testimony in court may be summarised as follows:
 
-(a)     When he entered the bathroom after returning from Zouk, he saw the Complainant sitting inside the bathtub with her top on but her skirt rolled up around her waist.[^286] He also saw a bit of vomit at the side of the bathtub,[^287] and thought that she was not wearing any underwear.[^288] During examination-in-chief, he testified that “she was looking at me”,[^289] but later in cross-examination, he stated that her head was “resting on the wall” and her eyes were “halfway closed”.[^290]
+> (a)     When he entered the bathroom after returning from Zouk, he saw the Complainant sitting inside the bathtub with her top on but her skirt rolled up around her waist.[^286] He also saw a bit of vomit at the side of the bathtub,[^287] and thought that she was not wearing any underwear.[^288] During examination-in-chief, he testified that “she was looking at me”,[^289] but later in cross-examination, he stated that her head was “resting on the wall” and her eyes were “halfway closed”.[^290]
 
-(b)     Faris then told the Complainant in Malay that he was going to pee (“aku nak kenching”), and proceeded to do so. Thereafter, when he was washing his hands at the sink, the Complainant “stood up normally and got out of the bathtub” on her own.[^291] She did so in one movement without stumbling, even though she had to step over the edge of the bathtub.[^292] She apparently stood in front of the sink, next to Faris, and was not wearing any bottoms. She then leaned on him, causing him to fall back a little which in turn caused the bathroom door to close. Faris asked her “Are you for real” (“kau betul ketal betul ni?”) in Malay in response to which she unbuttoned and unzipped his pants, and then pulled down his pants and underwear to his knee-level. In doing so, she had to “use some effort” and “bend down a little”.[^293] She then raised her right leg onto the water closet.[^294] In Faris’ view, this series of conduct amounted to consent to sexual intercourse with him.[^295]
+> (b)     Faris then told the Complainant in Malay that he was going to pee (“aku nak kenching”), and proceeded to do so. Thereafter, when he was washing his hands at the sink, the Complainant “stood up normally and got out of the bathtub” on her own.[^291] She did so in one movement without stumbling, even though she had to step over the edge of the bathtub.[^292] She apparently stood in front of the sink, next to Faris, and was not wearing any bottoms. She then leaned on him, causing him to fall back a little which in turn caused the bathroom door to close. Faris asked her “Are you for real” (“kau betul ketal betul ni?”) in Malay in response to which she unbuttoned and unzipped his pants, and then pulled down his pants and underwear to his knee-level. In doing so, she had to “use some effort” and “bend down a little”.[^293] She then raised her right leg onto the water closet.[^294] In Faris’ view, this series of conduct amounted to consent to sexual intercourse with him.[^295]
 
-(c)     Faris and the Complainant then had penile-vaginal intercourse in three different positions. First, for “a few minutes”, the Complainant’s right leg was on the water closet.[^296] During this time, the Complainant’s head switched from the left to the right side of Faris’ head “a few times”.[^297] Second, after Faris and the Complainant “switched places”, the Complainant’s back was to the bathroom door, with her left leg on the water closet, while Faris faced the door.[^298] The third position was with the Complainant’s back to the sink and Faris standing in front of her.[^299] To reach this third position, Faris had pulled his penis out of the Complainant’s vagina and “then \[the Complainant\] walk\[ed\] towards the sink and lean against the sink, and \[Faris\] followed her”.[^300] Throughout the entire session, apart from the initial question “\[a\]re you for real?” which Faris asked, there was no conversation between the parties, and the Complainant was apparently moaning in pleasure.[^301]
+> (c)     Faris and the Complainant then had penile-vaginal intercourse in three different positions. First, for “a few minutes”, the Complainant’s right leg was on the water closet.[^296] During this time, the Complainant’s head switched from the left to the right side of Faris’ head “a few times”.[^297] Second, after Faris and the Complainant “switched places”, the Complainant’s back was to the bathroom door, with her left leg on the water closet, while Faris faced the door.[^298] The third position was with the Complainant’s back to the sink and Faris standing in front of her.[^299] To reach this third position, Faris had pulled his penis out of the Complainant’s vagina and “then \[the Complainant\] walk\[ed\] towards the sink and lean against the sink, and \[Faris\] followed her”.[^300] Throughout the entire session, apart from the initial question “\[a\]re you for real?” which Faris asked, there was no conversation between the parties, and the Complainant was apparently moaning in pleasure.[^301]
 
-(d)     Thereafter, Faris ejaculated into the water closet. He then told the Complainant “I go out first, okay?” in Malay (“aku keluar dulu, okay”), exited the bathroom alone, and went to the first floor of the Room, while the Complainant remained in the bathroom.[^302] At the time of his exit, she was “standing at the spot where she got out from the bathtub”.[^303]
+> (d)     Thereafter, Faris ejaculated into the water closet. He then told the Complainant “I go out first, okay?” in Malay (“aku keluar dulu, okay”), exited the bathroom alone, and went to the first floor of the Room, while the Complainant remained in the bathroom.[^302] At the time of his exit, she was “standing at the spot where she got out from the bathtub”.[^303]
 
 155    In my view, Faris’ account in court is not credible for reasons to which I will now turn.
 
@@ -904,45 +1091,45 @@ People in alcohol induced en-bloc amnesia (blackout) would experience anterograd
 
 157    In his 1st Statement, Faris stated that, at the time he returned from Zouk to the Room, the Complainant was in the bathtub in the bathroom and was vomiting:[^304]
 
-11    \[Ridhwan\] and I arrived back at the hotel and we met ‘Asep’ at the hotel lobby and we went up together. I cannot remember what time we arrived back at the hotel. I remember one of us knocked on the room door and it opened. I don’t know who opened the door. After I entered the room, I noticed ‘Hazly’ and ‘Fadly’ were watching TV at the living room. As for \[the Complainant\], she was still inside the toilet. I heard her vomiting at the toilet and I went up to take a look and I saw her in the bathtub. I went back down to the living room, I took out my shirt and lay on the living room floor. I subsequently fell asleep.
+> 11    \[Ridhwan\] and I arrived back at the hotel and we met ‘Asep’ at the hotel lobby and we went up together. I cannot remember what time we arrived back at the hotel. I remember one of us knocked on the room door and it opened. I don’t know who opened the door. After I entered the room, I noticed ‘Hazly’ and ‘Fadly’ were watching TV at the living room. As for \[the Complainant\], she was still inside the toilet. I heard her vomiting at the toilet and I went up to take a look and I saw her in the bathtub. I went back down to the living room, I took out my shirt and lay on the living room floor. I subsequently fell asleep.
 
 158    In his 2nd Statement, Faris sought to amend paragraph 11 of his 1st Statement, but even with the amendments, his position was that the Complainant was severely intoxicated. Indeed, he specifically confirmed that the Complainant was _not_ in a position to have given consent. The salient parts of the 2nd Statement are reproduced below:
 
-**Q2:** **What are the facts that you would like to amend in paragraph 11 \[of your 1st Statement\]?**
+> **Q2:** **What are the facts that you would like to amend in paragraph 11 \[of your 1st Statement\]?**
 
-Ans:When I went into the toilet on the second floor of the hotel room, I saw \[the Complainant\] seated inside the bath tub. I went to urinate first at the toilet bowl. I saw that \[the Complainant\] was drunk. She was already vomiting when we had left the hotel earlier to Zouk. \[The Complainant\] got out of the bathtub and knocked herself against the door. This caused the door to be slightly closed. She then stood near the door and was just standing there. I then walked towards her and she fell on me as she could not stand on her own. She then put her hands on my shoulder to support herself. She subsequently leaned back on the door and this caused the door to close. Her face was near my neck. I then lifted up her skirt and 1 realized that she was not wearing any panties. I opened my pants and underwear and pulled it down to my ankle level. I then started "fucking" her. When I was about to shoot out my sperm, I took out my penis from her vagina and shot my semen on the toilet bowl. I then put on my pants and underwear and went out of the toilet. \[The Complainant\] went to seat on the toilet bowl after I left the toilet. When I came out of the toilet, I immediately went down to the first floor of the toilet. I saw Asep there. Asep asked me where is \[the Complainant\], I told him that she was still inside the toilet. Asep then went up to the toilet. I knew Asep was going to have sex with her.
+> Ans:When I went into the toilet on the second floor of the hotel room, I saw \[the Complainant\] seated inside the bath tub. I went to urinate first at the toilet bowl. I saw that \[the Complainant\] was drunk. She was already vomiting when we had left the hotel earlier to Zouk. \[The Complainant\] got out of the bathtub and knocked herself against the door. This caused the door to be slightly closed. She then stood near the door and was just standing there. I then walked towards her and she fell on me as she could not stand on her own. She then put her hands on my shoulder to support herself. She subsequently leaned back on the door and this caused the door to close. Her face was near my neck. I then lifted up her skirt and 1 realized that she was not wearing any panties. I opened my pants and underwear and pulled it down to my ankle level. I then started "fucking" her. When I was about to shoot out my sperm, I took out my penis from her vagina and shot my semen on the toilet bowl. I then put on my pants and underwear and went out of the toilet. \[The Complainant\] went to seat on the toilet bowl after I left the toilet. When I came out of the toilet, I immediately went down to the first floor of the toilet. I saw Asep there. Asep asked me where is \[the Complainant\], I told him that she was still inside the toilet. Asep then went up to the toilet. I knew Asep was going to have sex with her.
 
-…
+> …
 
-**Q8:** **What was \[the Complainant\] doing when you were putting your penis into her vagina?**
+> **Q8:** **What was \[the Complainant\] doing when you were putting your penis into her vagina?**
 
-Ans:Her head was just bowed down on my shoulder. She did not talk or say anything.
+> Ans:Her head was just bowed down on my shoulder. She did not talk or say anything.
 
-**Q9:** **Did you ask her whether you can have sex with \[the Complainant\]?**
+> **Q9:** **Did you ask her whether you can have sex with \[the Complainant\]?**
 
-Ans:When she leaned on the toilet door and the toilet door closed, I asked her whether I could have sex with her.
+> Ans:When she leaned on the toilet door and the toilet door closed, I asked her whether I could have sex with her.
 
-**Ql0:** **Did she give you a reply when you asked her whether you can have sex with her?**
+> **Ql0:** **Did she give you a reply when you asked her whether you can have sex with her?**
 
-Ans:She did not reply. Her eyes were halfway closed and she still appeared drunk.
+> Ans:She did not reply. Her eyes were halfway closed and she still appeared drunk.
 
-**Q11:** **If she did not say yes to you having sex with her, why did you still proceed to have sex with her?**
+> **Q11:** **If she did not say yes to you having sex with her, why did you still proceed to have sex with her?**
 
-Ans:I don't know. I was just feeling horny and wanted to have sex.
+> Ans:I don't know. I was just feeling horny and wanted to have sex.
 
-…
+> …
 
-**Q20:** **Was \[the Complainant\] in a condition to walk properly or stand up properly?**
+> **Q20:** **Was \[the Complainant\] in a condition to walk properly or stand up properly?**
 
-Ans:I cannot really remember. But I know that she looked drunk and when she walked towards the door, she knocked herself against the door.
+> Ans:I cannot really remember. But I know that she looked drunk and when she walked towards the door, she knocked herself against the door.
 
-**Q21:** **If \[the Complainant\] still looked drunk to you, do you think it would have been possible for \[the Complainant\] to have given consent to having sex with you?**
+> **Q21:** **If \[the Complainant\] still looked drunk to you, do you think it would have been possible for \[the Complainant\] to have given consent to having sex with you?**
 
-Ans:No.
+> Ans:No.
 
-**Q22:** **If she could not have given consent to you, why did you still proceed to have sex with her?**
+> **Q22:** **If she could not have given consent to you, why did you still proceed to have sex with her?**
 
-Ans:I don't know.
+> Ans:I don't know.
 
 159    There were three references to “drunk” in the above-quotation from Faris’ 2nd Statement. In my view, this accurately reflects the degree of the Complainant’s intoxication at the material time from Faris’ point of view. To the extent that the Defence argues that little weight should be placed on the contents of these statements because of irregularities in the statement-taking process and/or oppression, I do not accept this submission as I have found in the ancillary hearing that there was no basis to the allegations made (see \[53\]-\[93\] above). In so far as Faris appeared to suggest that his references to “drunk” meant merely that the Complainant was “high” which apparently referred to a lesser degree of intoxication, I also do not accept this because, as Faris himself explained in court, “drunk” refers to when one does not know his or her surrounding, “high” means one knows his surrounding but is simply “a bit tipsy”, and one cannot be high and drunk at the same time.[^305] Furthermore, the word “drunk” was used in the text of Question 21, and so it would have been plainly obvious to Faris if that was not the term that he had used or intended.
 
@@ -954,11 +1141,11 @@ Ans:I don't know.
 
 162    The material aspects of the witnesses’ evidence may be summarised as follows:
 
-(a)     Elmi’s testimony was that he left Zouk at around 5.00am and upon his return to the Room, either he or Izzati wanted to use the bathroom but were unable to do so because it was occupied.[^307] Elmi went to investigate further and saw the bathroom door partially opened.[^308] Upon pushing the door open further, he saw the Complainant standing on her own in front of the sink with Asep about a shoulder width behind or beside her.[^309] Both were facing the sink.[^310] Through the reflection in the mirror, Elmi also saw the Complainant’s breasts exposed as well as a topless Asep.[^311] To him, the Complainant “looked drunk” at that time.[^312] However, he was unable to see much else because Asep quickly pushed the door shut.[^313] About a minute later, Asep emerged from the bathroom alone.[^314] After realising that the Complainant remained in the bathroom for “a quite few minutes” after Asep had emerged,[^315] Elmi asked Fadly to go up to the second floor to bring her out as he believed that she was “drunk”.[^316] Elmi did not see what the Complainant was doing in the bathroom during the few minutes she was in there alone,[^317] but when Fadly brought the Complainant out of the bathroom, Elmi again formed the view that she “looked drunk”.[^318] In examination-in-chief, Elmi explained that by “drunk”, he meant that she was “unconscious”.[^319] Under cross-examination, he reiterated that the Complainant appeared “weak and drunk”[^320] and that this did not merely mean that “she needed support to walk”, even though he did not know for a fact whether she was aware of her surroundings at that time.[^321] According to Elmi, Fadly had supported the Complainant out of the bathroom with his right arm on her shoulder and her left arm around his neck.[^322] He could not recall if the Complainant was being dragged along by Fadly, or if she was walking with some assistance from him.[^323] Fadly then helped her down the spiral staircase to the first floor,[^324] though Elmi did not watch them go all the way down the stairs.[^325]
+> (a)     Elmi’s testimony was that he left Zouk at around 5.00am and upon his return to the Room, either he or Izzati wanted to use the bathroom but were unable to do so because it was occupied.[^307] Elmi went to investigate further and saw the bathroom door partially opened.[^308] Upon pushing the door open further, he saw the Complainant standing on her own in front of the sink with Asep about a shoulder width behind or beside her.[^309] Both were facing the sink.[^310] Through the reflection in the mirror, Elmi also saw the Complainant’s breasts exposed as well as a topless Asep.[^311] To him, the Complainant “looked drunk” at that time.[^312] However, he was unable to see much else because Asep quickly pushed the door shut.[^313] About a minute later, Asep emerged from the bathroom alone.[^314] After realising that the Complainant remained in the bathroom for “a quite few minutes” after Asep had emerged,[^315] Elmi asked Fadly to go up to the second floor to bring her out as he believed that she was “drunk”.[^316] Elmi did not see what the Complainant was doing in the bathroom during the few minutes she was in there alone,[^317] but when Fadly brought the Complainant out of the bathroom, Elmi again formed the view that she “looked drunk”.[^318] In examination-in-chief, Elmi explained that by “drunk”, he meant that she was “unconscious”.[^319] Under cross-examination, he reiterated that the Complainant appeared “weak and drunk”[^320] and that this did not merely mean that “she needed support to walk”, even though he did not know for a fact whether she was aware of her surroundings at that time.[^321] According to Elmi, Fadly had supported the Complainant out of the bathroom with his right arm on her shoulder and her left arm around his neck.[^322] He could not recall if the Complainant was being dragged along by Fadly, or if she was walking with some assistance from him.[^323] Fadly then helped her down the spiral staircase to the first floor,[^324] though Elmi did not watch them go all the way down the stairs.[^325]
 
-(b)     According to Izzati, she could not remember whether it was her or Elmi who pushed the bathroom door open, but she remembered Asep saying that he was peeing.[^326] The bathroom lights were switched off at that time and the bathroom looked dark.[^327] As a result, Izzati could not see what was going on inside.[^328] Izzati also said that the lights on the second floor outside the bathroom were switched on during this time.[^329] Asep emerged from the bathroom after about five minutes and went down to the first floor.[^330] When Izzati entered the bathroom, she saw the Complainant inside and asked Elmi to inform his friends to “help her out”.[^331] She did not remember where the Complainant was located inside the bathroom,[^332] and why she had to get Elmi to ask his friends to help the Complainant out.[^333] Izzati testified that she saw Fadly helping the Complainant down to the first floor,[^334] although she did not notice how he had done so[^335] or how the Complainant looked at this point in time,[^336] except that she was fully clothed.[^337]
+> (b)     According to Izzati, she could not remember whether it was her or Elmi who pushed the bathroom door open, but she remembered Asep saying that he was peeing.[^326] The bathroom lights were switched off at that time and the bathroom looked dark.[^327] As a result, Izzati could not see what was going on inside.[^328] Izzati also said that the lights on the second floor outside the bathroom were switched on during this time.[^329] Asep emerged from the bathroom after about five minutes and went down to the first floor.[^330] When Izzati entered the bathroom, she saw the Complainant inside and asked Elmi to inform his friends to “help her out”.[^331] She did not remember where the Complainant was located inside the bathroom,[^332] and why she had to get Elmi to ask his friends to help the Complainant out.[^333] Izzati testified that she saw Fadly helping the Complainant down to the first floor,[^334] although she did not notice how he had done so[^335] or how the Complainant looked at this point in time,[^336] except that she was fully clothed.[^337]
 
-(c)     Fadly recalled that, after Elmi, Izzati and another attendee returned from Zouk, the Complainant had to be supported down from the second floor to the first floor as she was “too drunk to come down unsupported”.[^338] However, he did not remember who had supported her or how exactly she was supported,[^339] though he did remember that the Complainant was supported by a person who was standing right beside her,[^340] and that she was “weak and drunk” at this point.[^341]
+> (c)     Fadly recalled that, after Elmi, Izzati and another attendee returned from Zouk, the Complainant had to be supported down from the second floor to the first floor as she was “too drunk to come down unsupported”.[^338] However, he did not remember who had supported her or how exactly she was supported,[^339] though he did remember that the Complainant was supported by a person who was standing right beside her,[^340] and that she was “weak and drunk” at this point.[^341]
 
 163    In my view, the evidence of Elmi, Izzati, and Fadly clearly contradicted Faris’ evidence as to what had occurred in the bathroom. Elmi and Fadly testified that the Complainant was severely intoxicated when she was helped out of the bathroom. They used words such as “unconscious”, “drunk” and “weak” to describe her condition. They also stated that the Complainant was so intoxicated that she needed to be helped by someone else to come out of the bathroom and to the first floor of the Room. In particular, I found Elmi’s evidence to be largely detailed and salient, save in relation to one point, where he agreed with a question posed to him that the Complainant was “standing on her own” in the bathroom next to the countertop of the sink.[^342] It was not entirely clear whether he meant that there was some distance between her and any other person around her, or that she was sufficiently sober as to be exerting her own strength to keep upright. Izzati could not remember the details about the Complainant’s state at that time, but confirmed that she had told Elmi to ask his friends to help the Complainant out of the bathroom a few minutes after Asep emerged. In my view, it would have been odd for her to do so had she been of the view that the Complainant was capable of getting out of the bathroom herself. Given the condition of the Complainant as described by the witnesses, I do not believe that the Complainant had, as Faris claimed in court, stepped out of the bathtub on her own, propositioned sex with him by, amongst other things, pulling down and unzipping his pants and underwear, and thereafter engaged actively in sexual intercourse with him in three different positions.
 
@@ -976,45 +1163,45 @@ Ans:I don't know.
 
 167    The 6th and 7th Charges were brought against Asep for, respectively (see \[4(a)\] and \[4(b)\] above):
 
-(a)     sexual assault by penetration under s 376(1)(_a_), punishable under s 376(3) of the PC, for penetrating the Complainant’s mouth with his penis without her consent, in the bathroom of the Room; and
+> (a)     sexual assault by penetration under s 376(1)(_a_), punishable under s 376(3) of the PC, for penetrating the Complainant’s mouth with his penis without her consent, in the bathroom of the Room; and
 
-(b)     attempted rape under s 375(1)(_a_), punishable under s 375(2) read with s 511 of the PC, for attempting to insert his penis into the Complainant’s vagina without her consent, in the bathroom of the Room.
+> (b)     attempted rape under s 375(1)(_a_), punishable under s 375(2) read with s 511 of the PC, for attempting to insert his penis into the Complainant’s vagina without her consent, in the bathroom of the Room.
 
 168    I have reproduced the provision on rape above at \[126\]. Section 511 of the PC provides for the law on criminal attempts and it reads as follows (omitting the illustrations):
 
-**Punishment for attempting to commit offences**
+> **Punishment for attempting to commit offences**
 
-511.—(1)    Subject to subsection (2), whoever attempts to commit an offence punishable by this Code or by any other written law with imprisonment or fine or with a combination of such punishments, or attempts to cause such an offence to be committed, and in such attempt does any act towards the commission of the offence, shall, where no express provision is made by this Code or by such other written law, as the case may be, for the punishment of such attempt, be punished with such punishment as is provided for the offence.
+> 511.—(1)    Subject to subsection (2), whoever attempts to commit an offence punishable by this Code or by any other written law with imprisonment or fine or with a combination of such punishments, or attempts to cause such an offence to be committed, and in such attempt does any act towards the commission of the offence, shall, where no express provision is made by this Code or by such other written law, as the case may be, for the punishment of such attempt, be punished with such punishment as is provided for the offence.
 
-(2)    The longest term of imprisonment that may be imposed under subsection (1) shall not exceed —
+> (2)    The longest term of imprisonment that may be imposed under subsection (1) shall not exceed —
 
-(_a_)    15 years where such attempt is in relation to an offence punishable with imprisonment for life; or
+>> (_a_)    15 years where such attempt is in relation to an offence punishable with imprisonment for life; or
 
-(_b_)    one-half of the longest term provided for the offence in any other case.
+>> (_b_)    one-half of the longest term provided for the offence in any other case.
 
 169    As for sexual assault by penetration, the relevant provision in the PC reads as follows:
 
-**Sexual assault by penetration**
+> **Sexual assault by penetration**
 
-376.—(1)    Any man (A) who —
+> 376.—(1)    Any man (A) who —
 
-(_a_)    penetrates, with A’s penis, the anus or mouth of another person (B); or
+>> (_a_)    penetrates, with A’s penis, the anus or mouth of another person (B); or
 
-(_b_)    causes another man (B) to penetrate, with B’s penis, the anus or mouth of A,
+>> (_b_)    causes another man (B) to penetrate, with B’s penis, the anus or mouth of A,
 
-shall be guilty of an offence if B did not consent to the penetration.
+> shall be guilty of an offence if B did not consent to the penetration.
 
-(2)    Any person (A) who —
+> (2)    Any person (A) who —
 
-(_a_)    sexually penetrates, with a part of A’s body (other than A’s penis) or anything else, the vagina or anus, as the case may be, of another person (B);
+>> (_a_)    sexually penetrates, with a part of A’s body (other than A’s penis) or anything else, the vagina or anus, as the case may be, of another person (B);
 
-(_b_)    causes a man (B) to penetrate, with B’s penis, the vagina, anus or mouth, as the case may be, of another person (C); or
+>> (_b_)    causes a man (B) to penetrate, with B’s penis, the vagina, anus or mouth, as the case may be, of another person (C); or
 
-(_c_)    causes another person (B), to sexually penetrate, with a part of B’s body (other than B’s penis) or anything else, the vagina or anus, as the case may be, of any person including A or B,
+>> (_c_)    causes another person (B), to sexually penetrate, with a part of B’s body (other than B’s penis) or anything else, the vagina or anus, as the case may be, of any person including A or B,
 
-shall be guilty of an offence if B did not consent to the penetration.
+> shall be guilty of an offence if B did not consent to the penetration.
 
-(3)    Subject to subsection (4), a person who is guilty of an offence under this section shall be punished with imprisonment for a term which may extend to 20 years, and shall also be liable to fine or to caning.
+> (3)    Subject to subsection (4), a person who is guilty of an offence under this section shall be punished with imprisonment for a term which may extend to 20 years, and shall also be liable to fine or to caning.
 
 170    As with Faris, Asep did not dispute the fact that the relevant sexual activity had occurred, but rather claimed that they had been consensual. Therefore, the main issues in dispute are (a) whether the Complainant had the capacity to consent to sexual intercourse at the material time; (b) if so, whether she in fact consented to such intercourse; and (c) whether Asep could rely on the defence of mistake of fact.
 
@@ -1030,15 +1217,15 @@ shall be guilty of an offence if B did not consent to the penetration.
 
 173    As against the Complainant’s evidence, Asep’s account in court presented a very different picture of what happened in the bathroom between him and the Complainant, and a very different picture of what the Complainant was able to do at the material time. In essence, like Faris, Asep’s defence was that the Complainant had consented to the sexual acts constituting the 6th and 7th Charge. The consent was evidenced by the Complainant allegedly nodding her head in response to Asep’s questions on whether she wanted to have certain sexual activity. The Complainant also allegedly actively participated in the sexual activity and actively moved around in the bathroom, including unilaterally lifting her leg up onto the bathtub, to facilitate certain sexual acts with Asep. Asep’s account in court may be summarised as follows:
 
-(a)     When Asep entered the bathroom, he saw the Complainant standing just outside the bathtub adjusting her top.[^344] He then asked her if he could use the bathroom, and she nodded in response. This was the first time he had spoken to her.[^345]
+> (a)     When Asep entered the bathroom, he saw the Complainant standing just outside the bathtub adjusting her top.[^344] He then asked her if he could use the bathroom, and she nodded in response. This was the first time he had spoken to her.[^345]
 
-(b)     Asep proceeded to wash his hands after passing urine in the Complainant’s presence. As he was doing so, he noticed the Complainant looking at him and he asked her if she wanted to fellate him.[^346] She nodded her head in response and approached him, while he removed his pants and underwear.[^347] She then took his penis and put it into her mouth.[^348]
+> (b)     Asep proceeded to wash his hands after passing urine in the Complainant’s presence. As he was doing so, he noticed the Complainant looking at him and he asked her if she wanted to fellate him.[^346] She nodded her head in response and approached him, while he removed his pants and underwear.[^347] She then took his penis and put it into her mouth.[^348]
 
-(c)     About two minutes later, Asep asked her if she wanted to “have the doggy position”. The Complainant stood up, turned around, bent forward, and lifted her skirt. He then tried to penetrate her vagina with his penis from behind but failed as he lost his erection.[^349]
+> (c)     About two minutes later, Asep asked her if she wanted to “have the doggy position”. The Complainant stood up, turned around, bent forward, and lifted her skirt. He then tried to penetrate her vagina with his penis from behind but failed as he lost his erection.[^349]
 
-(d)     Subsequently, Asep asked the Complainant if she wanted him to lick her vagina. She nodded her head, moved to the area near the bathtub, and placed her right leg onto the bathtub. As he was about to kneel down in front of her, Elmi opened the door. Asep quickly pushed the door shut and pulled up his pants while the Complainant pulled down her skirt.[^350] She also started gagging (_ie_, sounding like she wanted to vomit), and she made her way to the basin and turned on the tap. Asep asked if she was fine, and she nodded her head.[^351]
+> (d)     Subsequently, Asep asked the Complainant if she wanted him to lick her vagina. She nodded her head, moved to the area near the bathtub, and placed her right leg onto the bathtub. As he was about to kneel down in front of her, Elmi opened the door. Asep quickly pushed the door shut and pulled up his pants while the Complainant pulled down her skirt.[^350] She also started gagging (_ie_, sounding like she wanted to vomit), and she made her way to the basin and turned on the tap. Asep asked if she was fine, and she nodded her head.[^351]
 
-(e)     Asep then exited the bathroom and made his way down to the first floor of the Room before falling asleep there.[^352]
+> (e)     Asep then exited the bathroom and made his way down to the first floor of the Room before falling asleep there.[^352]
 
 174    In my view, Asep’s account in court is not credible as it materially contradicts several other pieces of evidence, including his own statements to the police to which I now turn.
 
@@ -1046,31 +1233,31 @@ shall be guilty of an offence if B did not consent to the penetration.
 
 175    The relevant parts of Asep’s police statements may be summarised as follows:
 
-(a)     In his 1st Statement, Asep stated that he went up to the bathroom on the second floor after returning to the hotel from Zouk. When he entered the bathroom, he saw the Complainant lying in the bathtub, with some vomit inside the bathtub.[^353] She also sounded like she was still vomiting.[^354] He could not remember what she was wearing at that point.[^355] Thereafter, Asep washed his face and exited the bathroom.[^356]
+> (a)     In his 1st Statement, Asep stated that he went up to the bathroom on the second floor after returning to the hotel from Zouk. When he entered the bathroom, he saw the Complainant lying in the bathtub, with some vomit inside the bathtub.[^353] She also sounded like she was still vomiting.[^354] He could not remember what she was wearing at that point.[^355] Thereafter, Asep washed his face and exited the bathroom.[^356]
 
-(b)     In his 1st Statement, Asep did not admit to any sexual activity with the Complainant. He explained in his 2nd Statement that this was because he was afraid that it was an offence for the Complainant to perform fellatio on him (see Questions and Answers 4 and 5). However, what is material is that he did record in his 1st Statement his observation of the Complainant being “very drunk” when he returned from Zouk:
+> (b)     In his 1st Statement, Asep did not admit to any sexual activity with the Complainant. He explained in his 2nd Statement that this was because he was afraid that it was an offence for the Complainant to perform fellatio on him (see Questions and Answers 4 and 5). However, what is material is that he did record in his 1st Statement his observation of the Complainant being “very drunk” when he returned from Zouk:
 
-12    When I went to the toilet, I saw \[the Complainant\] lying in the bath tub and she was vomiting. There was some vomit in the bathtub. I could still hear her gagging like she was still vomiting. I then washed my face and went back out.
+>> 12    When I went to the toilet, I saw \[the Complainant\] lying in the bath tub and she was vomiting. There was some vomit in the bathtub. I could still hear her gagging like she was still vomiting. I then washed my face and went back out.
 
-…
+>> …
 
-**Q10** **Did you see anyone near the girl when you woke up in the morning?**
+>> **Q10** **Did you see anyone near the girl when you woke up in the morning?**
 
-AnsShe was at the left side of the \[R\]oom near the door. No one was around her. Come to think of it, I am also not sure how she got to the first floor because the last that I saw her, she was very drunk in the bathtub and she was vomiting.
+>> AnsShe was at the left side of the \[R\]oom near the door. No one was around her. Come to think of it, I am also not sure how she got to the first floor because the last that I saw her, she was very drunk in the bathtub and she was vomiting.
 
-**Q11** **You saw a girl in the bathtub who was drunk. Did it cross your mind that you could take advantage of that situation with her?**
+>> **Q11** **You saw a girl in the bathtub who was drunk. Did it cross your mind that you could take advantage of that situation with her?**
 
-AnsNo because she vomited all over herself and it was disgusting.
+>> AnsNo because she vomited all over herself and it was disgusting.
 
-…
+>> …
 
-(c)     In his 2nd Statement, Asep maintained that he saw the Complainant lying and vomiting in the bathtub when he first entered the bathroom after returning from Zouk,[^357] but he changed his version of what happened thereafter. He stated that about half an hour after he exited the bathroom, Faris returned to the Room from Zouk and went up to the bathroom immediately before spending at least half an hour inside with the Complainant.[^358] After Faris exited the bathroom, Asep entered the bathroom for the second time, and he saw the Complainant adjusting her top.[^359] He deduced that Faris had sex with her but did not think that she was in a condition to have sex with Faris or to consent to doing so, as she was drunk and seemed tired when he last saw her in the bathroom.[^360] Nevertheless, Asep asked if the Complainant could fellate him. Asep did not know whether she said anything in response but thought that she had nodded her head. He then removed his pants, and she knelt down before holding his penis and putting it into her mouth.[^361] About a minute or two later, Asep helped the Complainant up and turned her around so that she would be in a “doggy position”. He then tried to penetrate her vagina with his penis, but was unable to do so as he had lost his erection. Asep then asked the Complainant if he could lick her vagina. She appeared to have nodded her head, but Elmi suddenly opened the bathroom door as he was about to kneel down to do so. This took Asep by surprise, and he reacted by closing the door and putting on his pants before leaving the bathroom, while the Complainant adjusted her skirt.[^362] Asep claimed that the Complainant _was in a state to consent to sex at the time when sexual activity transpired between them_, despite the initial condition in which he found her in when he first entered the bathroom.[^363]
+> (c)     In his 2nd Statement, Asep maintained that he saw the Complainant lying and vomiting in the bathtub when he first entered the bathroom after returning from Zouk,[^357] but he changed his version of what happened thereafter. He stated that about half an hour after he exited the bathroom, Faris returned to the Room from Zouk and went up to the bathroom immediately before spending at least half an hour inside with the Complainant.[^358] After Faris exited the bathroom, Asep entered the bathroom for the second time, and he saw the Complainant adjusting her top.[^359] He deduced that Faris had sex with her but did not think that she was in a condition to have sex with Faris or to consent to doing so, as she was drunk and seemed tired when he last saw her in the bathroom.[^360] Nevertheless, Asep asked if the Complainant could fellate him. Asep did not know whether she said anything in response but thought that she had nodded her head. He then removed his pants, and she knelt down before holding his penis and putting it into her mouth.[^361] About a minute or two later, Asep helped the Complainant up and turned her around so that she would be in a “doggy position”. He then tried to penetrate her vagina with his penis, but was unable to do so as he had lost his erection. Asep then asked the Complainant if he could lick her vagina. She appeared to have nodded her head, but Elmi suddenly opened the bathroom door as he was about to kneel down to do so. This took Asep by surprise, and he reacted by closing the door and putting on his pants before leaving the bathroom, while the Complainant adjusted her skirt.[^362] Asep claimed that the Complainant _was in a state to consent to sex at the time when sexual activity transpired between them_, despite the initial condition in which he found her in when he first entered the bathroom.[^363]
 
 176    In my view, Asep’s 1st and 2nd Statements are consistent in depicting the Complainant’s severe state of intoxication which negated her ability to give consent. In both statements, Asep had repeatedly and consistently described the Complainant as “drunk”. In particular, in his 2nd Statement, Asep described the extent of her intoxication as follows:
 
-(a)      _Before_ Asep had any sexual activity with the Complainant, Faris had entered the bathroom and at that time, Asep was of the view that the Complainant was not “in a state to have sex with anyone or have given consent to have sex” (Question and Answer 13 of Asep’s 2nd Statement).
+> (a)      _Before_ Asep had any sexual activity with the Complainant, Faris had entered the bathroom and at that time, Asep was of the view that the Complainant was not “in a state to have sex with anyone or have given consent to have sex” (Question and Answer 13 of Asep’s 2nd Statement).
 
-(b)      _After_ Asep had sexual activity with the Complainant, the Complainant was so intoxicated that Asep stated that someone needed to carry the Complainant out of the bathroom and down to the living room (Question and Answer 16 of Asep’s 2nd Statement).
+> (b)      _After_ Asep had sexual activity with the Complainant, the Complainant was so intoxicated that Asep stated that someone needed to carry the Complainant out of the bathroom and down to the living room (Question and Answer 16 of Asep’s 2nd Statement).
 
 177    Yet, Asep insisted in court that _when_ he had sexual activity with the Complainant, the Complainant was capable of consenting and had in fact consented to sexual activity with him. In my view, it is simply incredible that the Complainant would be in a severely intoxicated state both before and after sexual activity with Asep, but yet regained sobriety only for the material period while Asep was in the bathroom with her. In that context, in so far as Asep claimed in his 2nd Statement that the Complainant could have and did in fact consent, I find that this was simply a self-serving attempt to escape criminal liability and should be given no weight. Instead, Asep’s description of the Complainant as being “drunk” and “very drunk” in the other parts of his police statement are truthful observations of the Complainant’s condition.
 
@@ -1082,11 +1269,11 @@ AnsNo because she vomited all over herself and it was disgusting.
 
 179    In closing submissions, the Defence relied on contact between Asep and the Complainant after police investigations had commenced to support Asep’s case that the Complainant’s testimony was not reliable. Three specific instances of contact were relied on:
 
-(a)     Asep allegedly spoke with the Complainant on the phone using the phone of a mutual friend sometime after his 1st Statement was recorded on 30 January 2014. During this conversation, Asep asked the Complainant why he was involved in the police investigations.[^364]
+> (a)     Asep allegedly spoke with the Complainant on the phone using the phone of a mutual friend sometime after his 1st Statement was recorded on 30 January 2014. During this conversation, Asep asked the Complainant why he was involved in the police investigations.[^364]
 
-(b)     Asep also met the Complainant several months later at a shopping mall with a group of friends sometime before the recording of his 2nd Statement.[^365] There, he again asked the Complainant why he was involved in the investigations, and the Complainant allegedly told him that he was “not like the rest of them because she knows that it was consented \[_sic_\]”.[^366]
+> (b)     Asep also met the Complainant several months later at a shopping mall with a group of friends sometime before the recording of his 2nd Statement.[^365] There, he again asked the Complainant why he was involved in the investigations, and the Complainant allegedly told him that he was “not like the rest of them because she knows that it was consented \[_sic_\]”.[^366]
 
-(c)     Finally, Asep and the Complainant exchanged text messages between 12 November 2014 and 21 January 2015 during which the Complainant suggested meeting up with him and it was said that she appeared friendly towards Asep.[^367]
+> (c)     Finally, Asep and the Complainant exchanged text messages between 12 November 2014 and 21 January 2015 during which the Complainant suggested meeting up with him and it was said that she appeared friendly towards Asep.[^367]
 
 180    Asep’s argument was that the Complainant’s willingness to communicate and even meet with a person whom she suspected could have sexually violated her “is totally irrational” and not consistent with her account of trauma arising from the alleged sexual assault.[^368]
 
@@ -1094,23 +1281,23 @@ AnsNo because she vomited all over herself and it was disgusting.
 
 182    First, it is questionable whether Asep’s account of the contact between him and the Complainant after the time of the alleged offences on 26 January 2014 was accurate or complete.
 
-(a)     On the alleged phone call which occurred sometime after 30 January 2014, the Complainant was not cross-examined and no objective evidence was produced to corroborate Asep’s claim about the existence of such a call.
+> (a)     On the alleged phone call which occurred sometime after 30 January 2014, the Complainant was not cross-examined and no objective evidence was produced to corroborate Asep’s claim about the existence of such a call.
 
-(b)     As regards the meeting at a shopping mall, the Complainant’s testimony was that Asep had joined the group for dinner and that she was not sure that the conversation Asep alleged had in fact transpired.[^369] Asep was similarly unable to produce any evidence to support his bare assertion that the Complainant had told him then that she consented to the sexual activity with him, nor did any other witness before me testify to such effect.
+> (b)     As regards the meeting at a shopping mall, the Complainant’s testimony was that Asep had joined the group for dinner and that she was not sure that the conversation Asep alleged had in fact transpired.[^369] Asep was similarly unable to produce any evidence to support his bare assertion that the Complainant had told him then that she consented to the sexual activity with him, nor did any other witness before me testify to such effect.
 
-(c)     As for the text messages between Asep and the Complainant, they were produced midway through the trial and the Complainant was not cross-examined on them or given an opportunity to explain these messages. Also, Asep only managed to produce screenshots of the messages and admitted that he had selectively deleted several messages.[^370]
+> (c)     As for the text messages between Asep and the Complainant, they were produced midway through the trial and the Complainant was not cross-examined on them or given an opportunity to explain these messages. Also, Asep only managed to produce screenshots of the messages and admitted that he had selectively deleted several messages.[^370]
 
 183    Second, and in any event, I do not consider that much could be made out of the Complainant’s alleged post-offence interaction with Asep. Three points should be made in this regard.
 
-(a)     One, while it is true that in one of the Complainant’s earlier text message to her friend later in the morning of the alleged offences, she might have mentioned Asep by description as the one who was wearing spectacles and stated that she believed that he was one of the perpetrators, it was clear from the collective of her messages that she was not herself certain as to what had actually happened at the Duxton Hotel.
+> (a)     One, while it is true that in one of the Complainant’s earlier text message to her friend later in the morning of the alleged offences, she might have mentioned Asep by description as the one who was wearing spectacles and stated that she believed that he was one of the perpetrators, it was clear from the collective of her messages that she was not herself certain as to what had actually happened at the Duxton Hotel.
 
-(b)     Two, it also seems to me that the Complainant was not clear in her own mind as to how to interact with Asep thereafter, if at all. Indeed, based on Asep’s evidence, it was not the Complainant who sought to make contact with Asep in the first two interactions but the other way round.
+> (b)     Two, it also seems to me that the Complainant was not clear in her own mind as to how to interact with Asep thereafter, if at all. Indeed, based on Asep’s evidence, it was not the Complainant who sought to make contact with Asep in the first two interactions but the other way round.
 
-(c)     Three, it appears to me that the Complainant is a simple person who was more comfortable relying on her friends than her family members. In fact, the first persons the Complainant contacted later in the morning of the alleged offences, when she suspected that she had been sexually assaulted, were her friends, and she did not want to inform her parents about the matter. When she made a police report, she was also accompanied by a friend and not any family member. It appeared that she did not have the benefit of much parental guidance after the date of the alleged offences.
+> (c)     Three, it appears to me that the Complainant is a simple person who was more comfortable relying on her friends than her family members. In fact, the first persons the Complainant contacted later in the morning of the alleged offences, when she suspected that she had been sexually assaulted, were her friends, and she did not want to inform her parents about the matter. When she made a police report, she was also accompanied by a friend and not any family member. It appeared that she did not have the benefit of much parental guidance after the date of the alleged offences.
 
 184    Third, I am mindful of the risks and inaccuracy of accepting the underlying premise of Asep’s submission that there should be a single mould of how a victim of sexual abuse should act. As Abdullah JC (as he then was) observed in _PP v BLV_ at \[154\]:
 
-154    I have discomfort with the notion that there is an archetypal victim of sexual abuse, or that there is any standard as to how a victim of sexual abuse should or should not have aspects of his or her life visibly affected by the abuse.
+> 154    I have discomfort with the notion that there is an archetypal victim of sexual abuse, or that there is any standard as to how a victim of sexual abuse should or should not have aspects of his or her life visibly affected by the abuse.
 
 #### Conclusion on the 6th and 7th Charges
 
@@ -1126,29 +1313,29 @@ AnsNo because she vomited all over herself and it was disgusting.
 
 188    The 1st, 2nd, and 3rd Charges against Ridhwan are for the following offences respectively, all of which allegedly occurred sometime later in the morning of 26 January 2014 in the living room of the Room (see \[2\] above):
 
-(a)     Sexual assault by penetration under s 376(2)(_a_) of the PC, punishable under s 376(3) of the PC, for penetrating the Complainant’s anus with his finger without her consent.
+> (a)     Sexual assault by penetration under s 376(2)(_a_) of the PC, punishable under s 376(3) of the PC, for penetrating the Complainant’s anus with his finger without her consent.
 
-(b)     Rape under s 375(1)(_a_), punishable under s 375(2) of the PC, for inserting his penis into the Complainant’s vagina without her consent.
+> (b)     Rape under s 375(1)(_a_), punishable under s 375(2) of the PC, for inserting his penis into the Complainant’s vagina without her consent.
 
-(c)     Using criminal force with intent to outrage the modesty of the Complainant punishable under s 354(1) of the PC, for sucking her nipples.
+> (c)     Using criminal force with intent to outrage the modesty of the Complainant punishable under s 354(1) of the PC, for sucking her nipples.
 
 189    The relevant provisions for sexual assault and rape have been reproduced above at \[169\] and \[126\] respectively. In relation to outrage of modesty under s 354(1) of the PC, the provision reads as follows:
 
-**Assault or use of criminal force to a person with intent to outrage modesty**
+> **Assault or use of criminal force to a person with intent to outrage modesty**
 
-354.—(1)    Whoever assaults or uses criminal force to any person, intending to outrage or knowing it to be likely that he will thereby outrage the modesty of that person, shall be punished with imprisonment for a term which may extend to 2 years, or with fine, or with caning, or with any combination of such punishments.
+> 354.—(1)    Whoever assaults or uses criminal force to any person, intending to outrage or knowing it to be likely that he will thereby outrage the modesty of that person, shall be punished with imprisonment for a term which may extend to 2 years, or with fine, or with caning, or with any combination of such punishments.
 
 190    The Prosecution submitted that all three charges against Ridhwan are established as the Complainant was so intoxicated at the material time that she lacked the capacity to consent to the relevant sexual acts with Ridhwan, or, in the alternative, that she did not in fact consent to such acts. The Prosecution based its submissions primarily on the following pieces of evidence:
 
-(a)     evidence of the Prosecution’s expert witness;
+> (a)     evidence of the Prosecution’s expert witness;
 
-(b)     the Complainant’s testimony;
+> (b)     the Complainant’s testimony;
 
-(c)     other witnesses’ observations of the Complainant’s condition when she was brought down to the living room;
+> (c)     other witnesses’ observations of the Complainant’s condition when she was brought down to the living room;
 
-(d)     Ridhwan’s statements to the police; and
+> (d)     Ridhwan’s statements to the police; and
 
-(e)     Ridhwan’s actions after the alleged offences.
+> (e)     Ridhwan’s actions after the alleged offences.
 
 191    Ridhwan’s defence in relation to all three charges was that, at the material time, the Complainant had the capacity to consent and did in fact consent to the relevant sexual acts with him. He suggested that the Complainant may have consented to the relevant sexual acts while suffering from anterograde amnesia such that she simply could not remember having done so.[^372] Further, specifically in relation to the 1st Charge, he argued that he had intended to digitally penetrate the Complainant’s vagina and only penetrated her anus by accident because they were underneath a blanket.[^373] On that premise, he submitted that he did not have the requisite _mens rea_ for the 1st Charge, and some suggestion was also made that the defence of accident under s 80 of the PC applied in his favour.
 
@@ -1156,41 +1343,41 @@ AnsNo because she vomited all over herself and it was disgusting.
 
 193    Before I turn to the analysis proper, I make two observations about the chronology of events.
 
-(a)     First, the exact time at which the sexual acts between Ridhwan and the Complainant took place was disputed. The Prosecution’s version was that they had taken place between 5.04am and 7.16am, the latter being the time of sunrise on 26 January 2014. Ridhwan’s position was that it happened between 7.16am and 9.54am, _ie_, after sunrise on 26 January 2014. For reasons which I will discuss below, I do not consider that the precise timing of the sexual encounter between Ridhwan and the Complainant is material. I add that the same time period covers the alleged offence underlying the 5th Charge against Faris.
+> (a)     First, the exact time at which the sexual acts between Ridhwan and the Complainant took place was disputed. The Prosecution’s version was that they had taken place between 5.04am and 7.16am, the latter being the time of sunrise on 26 January 2014. Ridhwan’s position was that it happened between 7.16am and 9.54am, _ie_, after sunrise on 26 January 2014. For reasons which I will discuss below, I do not consider that the precise timing of the sexual encounter between Ridhwan and the Complainant is material. I add that the same time period covers the alleged offence underlying the 5th Charge against Faris.
 
-(b)     Second, as the charges against Ridhwan concern acts in the living room which occurred sometime after the alleged offences in the bathroom, my findings above on the Complainant’s incapacity to consent to sexual acts in the bathroom do not necessarily extend to the present charges, even though they may nevertheless be relevant.
+> (b)     Second, as the charges against Ridhwan concern acts in the living room which occurred sometime after the alleged offences in the bathroom, my findings above on the Complainant’s incapacity to consent to sexual acts in the bathroom do not necessarily extend to the present charges, even though they may nevertheless be relevant.
 
 #### Consent
 
 194    In the present case, apart from the expert reports and the accounts of the Complainant and Ridhwan (including his police statements), there is less objective evidence as to the Complainant’s condition at the time of the sexual acts in the living room. Rather, the Complainant’s condition has to be inferred from evidence about other proximate points in time, which include:
 
-(a)     other witnesses’ observations of the Complainant’s condition when she was brought from the bathroom to the living room (which was _prior to_ the events constituting the living room charges) and in the morning before she left the Duxton Hotel (which was _after_ the events constituting the living room charges),
+> (a)     other witnesses’ observations of the Complainant’s condition when she was brought from the bathroom to the living room (which was _prior to_ the events constituting the living room charges) and in the morning before she left the Duxton Hotel (which was _after_ the events constituting the living room charges),
 
-(b)     CCTV footage of the Complainant leaving the Duxton Hotel at around 10am on 26 January 2016, and
+> (b)     CCTV footage of the Complainant leaving the Duxton Hotel at around 10am on 26 January 2016, and
 
-(c)     the post-offence conduct of the Complainant and Ridhwan after they left the Duxton Hotel.
+> (c)     the post-offence conduct of the Complainant and Ridhwan after they left the Duxton Hotel.
 
 195    In assessing such evidence, I reiterate the following principle which the Court of Appeal identified as salient to the determination of capacity to consent in _Pram Nair_ at \[96\] (see full quotation at \[119\] above):
 
-(d)    Capacity to consent requires the capacity to make decisions or choices. _A person, though having limited awareness of what is happening, may have such impaired understanding or knowledge as to lack the ability to make any decisions, much less the particular decision whether to have sexual intercourse or engage in any sexual act._
+> (d)    Capacity to consent requires the capacity to make decisions or choices. _A person, though having limited awareness of what is happening, may have such impaired understanding or knowledge as to lack the ability to make any decisions, much less the particular decision whether to have sexual intercourse or engage in any sexual act._
 
-\[emphasis added\]
+> \[emphasis added\]
 
 ##### (1)   Expert opinions
 
 196    The contents of Dr Guo’s 1st Report and 2nd Report have been discussed above at \[131\]-\[132\]. To reiterate briefly, Dr Guo estimated the Complainant’s BAC level to be between 141.57mg% and 53.57mg% from 5am to 9am on 26 January 2014. At this time, the Complainant “would have been in an early recovery stage from the \[alcohol\] intoxication” and it was “possible that she would have been still sedated and her judgment of her actions…still somewhat impaired”.[^374] Dr Guo concluded as follows:[^375]
 
-During the early hours in the morning \[6AM and 9AM\], based on her estimated BAC, it is possible that the effects of intoxication should have been gradually wearing off at this period of time. Despite being sedated, she might be partially aware of her actions and surroundings during this period but one could still not fully rule out the possibility of the sedative effects of alcohol influencing her thoughts and behaviour and contributing to the poor judgment of her actions.
+> During the early hours in the morning \[6AM and 9AM\], based on her estimated BAC, it is possible that the effects of intoxication should have been gradually wearing off at this period of time. Despite being sedated, she might be partially aware of her actions and surroundings during this period but one could still not fully rule out the possibility of the sedative effects of alcohol influencing her thoughts and behaviour and contributing to the poor judgment of her actions.
 
 197    In court, Dr Guo explained that his reference to “poor judgment” on the part of the Complainant meant that she “may still \[_sic_\] unable to fully understand the purpose of the… stimulation and what kind of response she should take \[_sic_\].”[^376] Dr Guo went on to opine that given the Complainant’s sedated state, it would have been almost impossible to do certain acts which Ridhwan alleged that she did (see \[227\] below):
 
-(a)     bend her knees and use her hands to push her panties down to her feet;[^377]
+> (a)     bend her knees and use her hands to push her panties down to her feet;[^377]
 
-(b)     engage in voluntary sexual intercourse;[^378]
+> (b)     engage in voluntary sexual intercourse;[^378]
 
-(c)     guide another’s penis with her hand towards her vagina;[^379] or
+> (c)     guide another’s penis with her hand towards her vagina;[^379] or
 
-(d)     pull the waist of another towards her.[^380]
+> (d)     pull the waist of another towards her.[^380]
 
 198    Dr Guo also gave evidence that the Complainant could not have been suffering from anterograde amnesia at the time she woke up as anterograde amnesia would end once a person fell asleep.[^381] Against this, Dr Winslow’s evidence was that the Complainant could still have been suffering from anterograde amnesia after waking up.[^382]
 
@@ -1210,21 +1397,21 @@ During the early hours in the morning \[6AM and 9AM\], based on her estimated BA
 
 205    The Complainant’s account was that while she only remembered flashes of the events that transpired in the living room as she kept falling asleep. She had a vague idea of what was happening around her during the alleged sexual assault and tried to indicate that she did not consent, but she was too weak to resist.[^393] In particular, the Complainant testified that:
 
-(a)     It was dark in the Room when she woke up.[^394] She was lying between Faris on her right and Ridhwan on her left, with her panties removed.[^395] The three of them were sharing a blanket.[^396] The Complainant felt someone “fingering” her vagina and concluded it was Faris as he was facing her and staring at her.[^397] The Complainant was aware of what Faris was allegedly doing and was able to attempt to push his hand away, although she was not able to exert much strength in doing so and eventually fell asleep.[^398]
+> (a)     It was dark in the Room when she woke up.[^394] She was lying between Faris on her right and Ridhwan on her left, with her panties removed.[^395] The three of them were sharing a blanket.[^396] The Complainant felt someone “fingering” her vagina and concluded it was Faris as he was facing her and staring at her.[^397] The Complainant was aware of what Faris was allegedly doing and was able to attempt to push his hand away, although she was not able to exert much strength in doing so and eventually fell asleep.[^398]
 
-(b)     The Complainant was then awakened by a feeling of pain in her anus. She suspected that it was a penis which was being inserted into her anus and that Ridhwan was responsible as she was facing Faris and Ridhwan was behind her.[^399] The Complainant testified that she shook her head to demonstrate her unwillingness to partake in the alleged sexual activity.[^400] She then remembered Ridhwan being on top of her while he was inserting his penis into her vagina.[^401] Ridhwan also sucked her nipples.[^402]
+> (b)     The Complainant was then awakened by a feeling of pain in her anus. She suspected that it was a penis which was being inserted into her anus and that Ridhwan was responsible as she was facing Faris and Ridhwan was behind her.[^399] The Complainant testified that she shook her head to demonstrate her unwillingness to partake in the alleged sexual activity.[^400] She then remembered Ridhwan being on top of her while he was inserting his penis into her vagina.[^401] Ridhwan also sucked her nipples.[^402]
 
-(c)     The Complainant’s next memory was of overhearing a conversation in the living room between Ridhwan and Faris where the former said “I pity her” in Malay and the latter agreed.[^403] She pretended to continue to sleep before she felt Faris’ head on her “tummy”.[^404] Eventually, the Complainant pulled up her panties and went to the bathroom on the second floor.[^405] She subsequently left the Duxton Hotel with Fadly and Hazly.[^406]
+> (c)     The Complainant’s next memory was of overhearing a conversation in the living room between Ridhwan and Faris where the former said “I pity her” in Malay and the latter agreed.[^403] She pretended to continue to sleep before she felt Faris’ head on her “tummy”.[^404] Eventually, the Complainant pulled up her panties and went to the bathroom on the second floor.[^405] She subsequently left the Duxton Hotel with Fadly and Hazly.[^406]
 
 206    Ridhwan submitted that there were material inconsistencies in the Complainant’s testimony:[^407]
 
-(a)     The Complainant was uncertain as to the precise sequence of sexual acts with Ridhwan. During her examination-in-chief, she testified that Ridhwan first inserted his penis into her anus and then climbed on top of her to have sexual intercourse. At some point, Ridhwan also sucked her nipples.[^408] However, under cross-examination, she said that she was unsure whether the sexual intercourse or anal penetration came first.[^409]
+> (a)     The Complainant was uncertain as to the precise sequence of sexual acts with Ridhwan. During her examination-in-chief, she testified that Ridhwan first inserted his penis into her anus and then climbed on top of her to have sexual intercourse. At some point, Ridhwan also sucked her nipples.[^408] However, under cross-examination, she said that she was unsure whether the sexual intercourse or anal penetration came first.[^409]
 
-(b)     The Complainant could not give evidence on the details such as how her body was positioned when Ridhwan was sucking her nipples and how long she felt the pain in the anus last for.
+> (b)     The Complainant could not give evidence on the details such as how her body was positioned when Ridhwan was sucking her nipples and how long she felt the pain in the anus last for.
 
-(c)     The Complainant was unable to recall whether she had put on her panties before or after she allegedly heard Ridhwan say “I pity her” in Malay.
+> (c)     The Complainant was unable to recall whether she had put on her panties before or after she allegedly heard Ridhwan say “I pity her” in Malay.
 
-(d)     The Complainant gave evidence that Faris had laid his head on her “tummy”, but admitted under cross-examination that she could not definitively confirm this.
+> (d)     The Complainant gave evidence that Faris had laid his head on her “tummy”, but admitted under cross-examination that she could not definitively confirm this.
 
 207    I agree with Ridhwan that the Complainant’s evidence was not entirely satisfactory as she was uncertain as to and/or unable to recall the material details of the assault such as whether the digital-anal penetration or sexual intercourse took place first.[^410]
 
@@ -1248,23 +1435,23 @@ During the early hours in the morning \[6AM and 9AM\], based on her estimated BA
 
 217    Dr Rauff’s medical report dated 25 July 2014 stated that the Complainant “was calm… looked well and her mental state was normal”. The report recorded the following information which the Complainant provided at the medical examination on 28 January 2014:[^423]
 
-(a)     The Complainant could not remember how much alcohol she drank but knew that after a few drinks she “got drunk and passed out”.
+> (a)     The Complainant could not remember how much alcohol she drank but knew that after a few drinks she “got drunk and passed out”.
 
-(b)     The Complainant could not recall what happened after she passed out except that there were people touching her “below” which she believed was Faris and another male.
+> (b)     The Complainant could not recall what happened after she passed out except that there were people touching her “below” which she believed was Faris and another male.
 
-(c)     There was digital-vaginal penetration and digital-anal penetration by Faris.
+> (c)     There was digital-vaginal penetration and digital-anal penetration by Faris.
 
-(d)     There was penile-vaginal and penile-anal penetration by another unknown assailant, but the Complainant could not confirm if ejaculation had occurred.
+> (d)     There was penile-vaginal and penile-anal penetration by another unknown assailant, but the Complainant could not confirm if ejaculation had occurred.
 
-(e)     The Complainant woke up at around 8am on 26 January 2014 with her underwear taken off and two men sleeping beside her.
+> (e)     The Complainant woke up at around 8am on 26 January 2014 with her underwear taken off and two men sleeping beside her.
 
 218    According to Dr Cai’s medical report and clinical notes dated 7 May 2014,[^424] the Complainant had told him that:
 
-(a)     She vaguely remembered being in the bathroom vomiting while accompanied by one or two of Fadly’s friends and lying on the floor just beside the water closet.
+> (a)     She vaguely remembered being in the bathroom vomiting while accompanied by one or two of Fadly’s friends and lying on the floor just beside the water closet.
 
-(b)     A male person inserted his penis into her anus and had sexual intercourse with her “front and back”, and also hugged and kissed her.
+> (b)     A male person inserted his penis into her anus and had sexual intercourse with her “front and back”, and also hugged and kissed her.
 
-(c)     Faris “finger\[ed\]” her private parts.
+> (c)     Faris “finger\[ed\]” her private parts.
 
 219    Dr Cai also opined that the Complainant demonstrated signs and symptoms suggestive of post-traumatic stress disorder.[^425]
 
@@ -1286,15 +1473,15 @@ During the early hours in the morning \[6AM and 9AM\], based on her estimated BA
 
 227    I begin with Ridhwan’s account of the relevant events in court, which may be summarised as follows:
 
-(a)     When the Complainant was brought down to the living room after the events in the bathroom, she was able to do so unassisted with Fadly standing behind her to catch her if she was about to fall.[^430]
+> (a)     When the Complainant was brought down to the living room after the events in the bathroom, she was able to do so unassisted with Fadly standing behind her to catch her if she was about to fall.[^430]
 
-(b)     In the living room, Ridhwan slept next to the Complainant and shared the same pillow and blanket with her.[^431]
+> (b)     In the living room, Ridhwan slept next to the Complainant and shared the same pillow and blanket with her.[^431]
 
-(c)     When Ridhwan woke up, he noticed through the window that it was already broad daylight.[^432] At this time, the Complainant, who was originally facing Faris, turned around to face Ridhwan.[^433] The Complainant then put her right arm around Ridhwan’s neck and “smirked” at him. Ridhwan looked at the Complainant in the eye and leaned forward to kiss her. The Complainant reciprocated.[^434] Ridhwan then pulled down the Complainant’s brassiere and sucked her nipples before proceeding to digitally penetrate the Complainant’s vagina with his left middle finger.[^435] During this time, the Complainant was moaning with pleasure.
+> (c)     When Ridhwan woke up, he noticed through the window that it was already broad daylight.[^432] At this time, the Complainant, who was originally facing Faris, turned around to face Ridhwan.[^433] The Complainant then put her right arm around Ridhwan’s neck and “smirked” at him. Ridhwan looked at the Complainant in the eye and leaned forward to kiss her. The Complainant reciprocated.[^434] Ridhwan then pulled down the Complainant’s brassiere and sucked her nipples before proceeding to digitally penetrate the Complainant’s vagina with his left middle finger.[^435] During this time, the Complainant was moaning with pleasure.
 
-(d)     Ridhwan followed by pulling down the Complainant’s panties to her knees and unzipping his own pants. The Complainant removed her panties completely on her own. This took place while both Ridhwan and the Complainant were still under the blanket.[^436] Ridhwan then digitally penetrated the Complainant’s vagina once again with his left middle finger before trying to insert his penis into her vagina but was unable to do so because he was facing the Complainant and the position was “too awkward”.[^437] Ridhwan pushed the Complainant’s right shoulder and she turned around. He tried to digitally penetrate the Complainant’s vagina but accidentally penetrated her anus.[^438]
+> (d)     Ridhwan followed by pulling down the Complainant’s panties to her knees and unzipping his own pants. The Complainant removed her panties completely on her own. This took place while both Ridhwan and the Complainant were still under the blanket.[^436] Ridhwan then digitally penetrated the Complainant’s vagina once again with his left middle finger before trying to insert his penis into her vagina but was unable to do so because he was facing the Complainant and the position was “too awkward”.[^437] Ridhwan pushed the Complainant’s right shoulder and she turned around. He tried to digitally penetrate the Complainant’s vagina but accidentally penetrated her anus.[^438]
 
-(e)     Ridhwan then tried to insert his penis into the Complainant’s vagina but was still unable to do so.[^439] He pulled the Complainant’s left shoulder so that she once again faced him. Ridhwan once again tried to insert his penis into the Complainant’s vagina but failed. He only managed to insert his penis into the Complainant’s vagina when the Complainant pulled his waist towards her, following which he pushed the Complainant’s right shoulder and climbed on top of her. The Complainant then guided his penis into her vagina with her hands.[^440]
+> (e)     Ridhwan then tried to insert his penis into the Complainant’s vagina but was still unable to do so.[^439] He pulled the Complainant’s left shoulder so that she once again faced him. Ridhwan once again tried to insert his penis into the Complainant’s vagina but failed. He only managed to insert his penis into the Complainant’s vagina when the Complainant pulled his waist towards her, following which he pushed the Complainant’s right shoulder and climbed on top of her. The Complainant then guided his penis into her vagina with her hands.[^440]
 
 228    Ridhwan’s evidence was that the sexual intercourse with the Complainant lasted about five minutes with Ridhwan failing to ejaculate.[^441] In total, the entire sexual encounter lasted about 15 to 20 minutes. Ridhwan then laid down beside the Complainant while she put on her panties.[^442]
 
@@ -1308,71 +1495,71 @@ During the early hours in the morning \[6AM and 9AM\], based on her estimated BA
 
 232    In all three statements provided by Ridhwan, he recorded observations of the Complainant’s state of intoxication. In his 1st Statement, Ridhwan mentioned that the Complainant “was drunk”, “unsteady”, and had to be carried by her arms up to the bathroom before the Group proceeded to Zouk.[^445] There were also multiple references to the Complainant being “drunken” and “knock\[ed\] out”:
 
-9    I returned to the hotel at around 5.30am… When I reached the hotel room… I felt the urge to pee. I then went up to the toilet and heard a vomiting voice. I push the door ajar and… saw the same girl who got drunk earlier vomiting… The guy that came with the _drunken girl_ did not come back to the hotel after Zouk.
+> 9    I returned to the hotel at around 5.30am… When I reached the hotel room… I felt the urge to pee. I then went up to the toilet and heard a vomiting voice. I push the door ajar and… saw the same girl who got drunk earlier vomiting… The guy that came with the _drunken girl_ did not come back to the hotel after Zouk.
 
-…
+> …
 
-11    \[A\]round 11.30am or 12 noon we all decided to go home. Faris, Asep and I left first. Elmi, her girlfriend, the two guys, that _drunkard girl_ was still inside the hotel room when the three of us left.
+> 11    \[A\]round 11.30am or 12 noon we all decided to go home. Faris, Asep and I left first. Elmi, her girlfriend, the two guys, that _drunkard girl_ was still inside the hotel room when the three of us left.
 
-…
+> …
 
-**Q14:** **Among the group are you able to tell who is the lousiest drinker?**
+> **Q14:** **Among the group are you able to tell who is the lousiest drinker?**
 
-Ans:That _drunkard girl_. Only she _knocks out_ and vomited.
+> Ans:That _drunkard girl_. Only she _knocks out_ and vomited.
 
-\[emphasis added in italics\]
+> \[emphasis added in italics\]
 
 233    Similar references are also found in Ridhwan’s 2nd Statement:
 
-**Q1:** **Can you identify the girl in this photograph (Herein refers: Victim)?**
+> **Q1:** **Can you identify the girl in this photograph (Herein refers: Victim)?**
 
-Ans:Yes, she is the _drunkard girl_ at the hotel…
+> Ans:Yes, she is the _drunkard girl_ at the hotel…
 
-…
+> …
 
 234    It is notable that the 2nd Statement contained an explicit denial of various sexual acts with the Complainant as opposed to an omission to mention them:
 
-**Q51:** **Did the drunkard girl slept between Farish\[sic\] and you in the hotel room that early morning?**
+> **Q51:** **Did the drunkard girl slept between Farish\[sic\] and you in the hotel room that early morning?**
 
-Ans:No
+> Ans:No
 
-…
+> …
 
-**Q54:** **What do you have to say to the drunkard girl’s calm \[** **_sic_** **\] that you had inserted your penis into her anus from behind and after that you had inserted your penis into her vagina?**
+> **Q54:** **What do you have to say to the drunkard girl’s calm \[** **_sic_** **\] that you had inserted your penis into her anus from behind and after that you had inserted your penis into her vagina?**
 
-Ans:I did not do that
+> Ans:I did not do that
 
-**Q55:** **Did you kiss the drunkard girl’s lip during those times?**
+> **Q55:** **Did you kiss the drunkard girl’s lip during those times?**
 
-Ans:No
+> Ans:No
 
-**Q56:** **Did you suck the drunkard girl’s nipples that morning?**
+> **Q56:** **Did you suck the drunkard girl’s nipples that morning?**
 
-Ans:No
+> Ans:No
 
-**Q57:** **What do you have to say that the drunkard girl claimed that you had kissed her on the lips and sucked her nipples that morning in the living room?**
+> **Q57:** **What do you have to say that the drunkard girl claimed that you had kissed her on the lips and sucked her nipples that morning in the living room?**
 
-Ans:I did not do that.
+> Ans:I did not do that.
 
 235    Yet at trial, Ridhwan accepted that he did engage in the sexual acts in question with the Complainant.
 
 236    In his 2nd Statement, Ridhwan also commented on the Complainant’s condition when she was brought down to the living room from the bathroom:
 
-**Q38:** **What happened to the drunkard girl after she was in the toilet with the two unknown male guys after 10 minutes?**
+> **Q38:** **What happened to the drunkard girl after she was in the toilet with the two unknown male guys after 10 minutes?**
 
-Ans:They brought her down by guiding her by her arms. She appeared to be conscious and aware of her surroundings. I cannot remember where the two guys put girl after that. As for me, I just had some food, smoked and watched TV. At that time, I was with Acep, Farish \[_sic_\], the two unknown guys and the drunkard girl.
+> Ans:They brought her down by guiding her by her arms. She appeared to be conscious and aware of her surroundings. I cannot remember where the two guys put girl after that. As for me, I just had some food, smoked and watched TV. At that time, I was with Acep, Farish \[_sic_\], the two unknown guys and the drunkard girl.
 
 237    Although this statement mentioned that the Complainant “appeared to be conscious and aware of her surroundings”, it also mentioned that the two unknown male guys brought her down and that he could not remember where the two guys put her after that. It suggested that she still needed help to be brought to some place in the living room.
 
 238    Tellingly, in his 3rd Statement, Ridhwan said that the Complainant had to be brought down from the second floor to the first floor and “put… to lie down” at the entrance of the Room:
 
-**Q26:** **When did the drunkard girl come down?**
+> **Q26:** **When did the drunkard girl come down?**
 
-Ans:I know _someone brought the girl down_ and _put her to lie down_ near the hotel entrance door \[emphasis added\]. I am not sure when exactly but it was before I went to sleep beside her.
+> Ans:I know _someone brought the girl down_ and _put her to lie down_ near the hotel entrance door \[emphasis added\]. I am not sure when exactly but it was before I went to sleep beside her.
 
 239    In my view, Ridhwan was not truthful at trial about the extent of the Complainant’s intoxication when she was subsequently brought down to the living room from the second floor. In his testimony in court, Ridhwan sought to portray the Complainant as being able to walk down the spiral staircase unassisted. In cross-examination, Ridhwan elaborated:[^446]
 
-She went downstairs on her own and Fadly was behind her. She was---he was not holding to her. He was getting ready to catch her in case she fell---in case she fall and she’s---in case she’s unsteady…
+> She went downstairs on her own and Fadly was behind her. She was---he was not holding to her. He was getting ready to catch her in case she fell---in case she fall and she’s---in case she’s unsteady…
 
 240    However, this account is contradicted by Ridhwan’s 2nd and 3rd Statements. In both these statements, he mentioned that she was brought to a spot by others. The 3rd Statement was even more telling where he said “I know someone brought the girl down and put her to lie down near the hotel entrance door”.[^447] The words here are important because it meant that the Complainant was so sedated that someone had to help to bring her down and also to place her in a lying position in the living room near the door of the Room. It must be borne in mind that according to Ridhwan, he had stated the truth in the 3rd Statement because he wanted to tell the truth after his first two statements.[^448] Therefore, he would have been even more careful about what he was saying in the 3rd Statement.
 
@@ -1404,7 +1591,7 @@ She went downstairs on her own and Fadly was behind her. She was---he was not ho
 
 251    The fact that an accused person has lied may in certain limited circumstances amount to corroboration because it indicates a consciousness of guilt (_Public Prosecutor v Yeo Choon Poh_ <span class="citation">\[1993\] 3 SLR(R) 302</span>, citing _R v Lucas (Ruth)_ <span class="citation">\[1981\] QB 720</span> (“_Lucas_”)). The requirements for such corroboration were set out in _Lucas_ at 724F:
 
-To be capable of amounting to corroboration the lie told out of court must first of all be deliberate. Secondly it must relate to a material issue. Thirdly the motive for the lie must be a realisation of guilt and a fear of the truth… Fourthly the statement must be clearly shown to be a lie by… admission or by \[independent\] evidence…
+> To be capable of amounting to corroboration the lie told out of court must first of all be deliberate. Secondly it must relate to a material issue. Thirdly the motive for the lie must be a realisation of guilt and a fear of the truth… Fourthly the statement must be clearly shown to be a lie by… admission or by \[independent\] evidence…
 
 252    On the facts, I have no hesitation in concluding that Ridhwan’s multiple lies satisfied the test in _Lucas_ and are capable of corroborating the Complainant’s testimony against him. Ridhwan lied in relation to at least two material issues. First, in relation to whether there was sexual contact between the Complainant and him, Ridhwan had denied any form of sexual contact in both his 1st and 2nd Statements. Second, on the Complainant’s condition when she was brought down to the living room from the bathroom, I have found that he had clearly lied in his testimony in court when that evidence is compared with his police statements and the evidence of other witnesses. These lies were clearly deliberate and related to an important fact in issue, namely, whether the Complainant had the capacity to consent to the sexual acts with him.
 
@@ -1442,7 +1629,7 @@ To be capable of amounting to corroboration the lie told out of court must first
 
 265    It is not entirely clear if the defence of accident under s 80 of the PC is being relied on by Ridhwan, but for completeness, I would add in any event that this defence is not made out on the facts. For ease of reference, s 80 of the PC is set out as follows:
 
-80.    Nothing is an offence which is done by accident or misfortune, and without criminal intention or knowledge, in the doing of a lawful act in a lawful manner, by lawful means, and with proper care and caution.
+> 80.    Nothing is an offence which is done by accident or misfortune, and without criminal intention or knowledge, in the doing of a lawful act in a lawful manner, by lawful means, and with proper care and caution.
 
 266    Given the fact that Ridhwan had digitally penetrated the Complainant’s anus without her consent on multiple instances, and my finding that he had done so with the requisite intention to digitally penetrate her anus, there is no basis to find that the defence of accident has been proven on a balance of probabilities.
 
@@ -1460,11 +1647,11 @@ To be capable of amounting to corroboration the lie told out of court must first
 
 271    The main issues before the Court are therefore as follows:
 
-(a)     whether Faris had digitally penetrated the Complainant’s vagina;
+> (a)     whether Faris had digitally penetrated the Complainant’s vagina;
 
-(b)     whether the Complainant was capable of consenting to digital-vaginal penetration by Faris; and
+> (b)     whether the Complainant was capable of consenting to digital-vaginal penetration by Faris; and
 
-(c)     if the Complainant was capable of giving such consent, whether she did in fact consent to digital-vaginal penetration by Faris.
+> (c)     if the Complainant was capable of giving such consent, whether she did in fact consent to digital-vaginal penetration by Faris.
 
 272    Similar to my analysis above, I am of the view that this is not a charge where the unusually convincing standard applies. The Prosecution does not base its case solely on the testimony of the Complainant (see \[111\]-\[117\] above; _AOF_ at \[111\]). Expert opinion and both the 1st and 2nd Statements of Faris were relied upon to corroborate the Complainant’s version of events.
 
@@ -1486,17 +1673,17 @@ To be capable of amounting to corroboration the lie told out of court must first
 
 277    In so far as his court testimony was concerned, Faris denied having touched the Complainant’s vagina in the living room on the morning of 26 January 2014 at all.[^488]
 
-QSo Mr Faris, you have told the Court that once you came back from Zouk and after you came out from the toilet, you had no interest in the girl’s vagina. What I mean is this, after you came out of the toilet, even though you slept beside the girl in the living room, you did not touch her vagina at all, is that your evidence?
+> QSo Mr Faris, you have told the Court that once you came back from Zouk and after you came out from the toilet, you had no interest in the girl’s vagina. What I mean is this, after you came out of the toilet, even though you slept beside the girl in the living room, you did not touch her vagina at all, is that your evidence?
 
-AAfter I went out of the toilet?
+> AAfter I went out of the toilet?
 
-QYes.
+> QYes.
 
-AYes, Your Honour.
+> AYes, Your Honour.
 
-QSo your evidence is that after you came out of the toilet, you did not touch her vagina at all?
+> QSo your evidence is that after you came out of the toilet, you did not touch her vagina at all?
 
-AYes, Your Honour.
+> AYes, Your Honour.
 
 278    Faris’ testimony in court, however, was significantly different from the account that he had given in his 1st and 2nd Statements. In his 1st Statement, he admitted to “rubbing” the Complainant’s vagina and stopping only when the Complainant pushed his hand away.[^489] Faris also mentioned that the Complainant “looked at \[him\] blankly”.[^490] To a limited extent, this was consistent with the testimony of the Complainant that she and Faris were looking at each other (see \[274\] above). In his 2nd Statement, Faris also maintained that he had “rubbed” the Complainant’s vagina.[^491] This was so even though the 2nd Statement was taken some nine months after the 1st Statement, and it afforded him the opportunity to put things straight had he not been truthful in his 1st Statement.
 
@@ -1506,9 +1693,9 @@ AYes, Your Honour.
 
 280    However, the fact that the accused person’s testimony in court is rejected does not necessarily mean that the Prosecution’s burden of proof on the existing charge is hence satisfied. In particular, two issues about the evidence troubled me:
 
-(a)     First, it is not clear that it was in fact Faris and not Ridhwan who had digitally penetrated the Complainant’s vagina. In this regard, the Complainant’s evidence as to the identity of the perpetrator was weak. Further, Ridhwan’s evidence was also that he had intended to digitally penetrate the Complainant’s vagina at around the same period of time. While Ridhwan’s intention is not mutually exclusive with misconduct on Faris’ part, it does raise a question as to whether this could have been a case of mistaken identity.
+> (a)     First, it is not clear that it was in fact Faris and not Ridhwan who had digitally penetrated the Complainant’s vagina. In this regard, the Complainant’s evidence as to the identity of the perpetrator was weak. Further, Ridhwan’s evidence was also that he had intended to digitally penetrate the Complainant’s vagina at around the same period of time. While Ridhwan’s intention is not mutually exclusive with misconduct on Faris’ part, it does raise a question as to whether this could have been a case of mistaken identity.
 
-(b)     Second, it is not clear as to what in fact had transpired between Faris and the Complainant. In this regard, even if we take Faris’ police statements as the true version of his account, those statements only went as far as admitting to “rubbing” on the outside of the Complainant’s vagina. He did not say that he had _penetrated_ the Complainant’s vagina. On the Complainant’s account, there is also the possibility that she was conflating the possible types of contact. The Complainant’s description of the sexual act in court was inconsistent, with varying descriptions of Faris’ fingers being “\[inserted\] _on_ \[her\] vagina”[^492] and “\[inserted\] _into_ \[her\] vagina”[^493] \[emphases added\]. The fact that the Complainant used the word “on” on several occasions to describe the sexual contact raised a material doubt as to the satisfaction of the charge, which was for digital-vaginal _penetration_.
+> (b)     Second, it is not clear as to what in fact had transpired between Faris and the Complainant. In this regard, even if we take Faris’ police statements as the true version of his account, those statements only went as far as admitting to “rubbing” on the outside of the Complainant’s vagina. He did not say that he had _penetrated_ the Complainant’s vagina. On the Complainant’s account, there is also the possibility that she was conflating the possible types of contact. The Complainant’s description of the sexual act in court was inconsistent, with varying descriptions of Faris’ fingers being “\[inserted\] _on_ \[her\] vagina”[^492] and “\[inserted\] _into_ \[her\] vagina”[^493] \[emphases added\]. The fact that the Complainant used the word “on” on several occasions to describe the sexual contact raised a material doubt as to the satisfaction of the charge, which was for digital-vaginal _penetration_.
 
 281    To my mind, the two areas of material uncertainty render it unsafe to convict Faris on the 5th Charge. Neither the Prosecution nor the Defence had raised the possibility of a conviction on an alternative charge, and it is unsafe in the circumstances to say that no prejudice would result to Faris if he were convicted on a charge of outrage of modesty instead.
 
@@ -1516,11 +1703,11 @@ AYes, Your Honour.
 
 282    For the foregoing reasons:
 
-(a)     I convict Ridhwan on the 1st, 2nd, and 3rd Charges.
+> (a)     I convict Ridhwan on the 1st, 2nd, and 3rd Charges.
 
-(b)     I convict Faris on the 4th Charge and acquit him on the 5th Charge.
+> (b)     I convict Faris on the 4th Charge and acquit him on the 5th Charge.
 
-(c)     I convict Asep on the 6th and 7th Charges.
+> (c)     I convict Asep on the 6th and 7th Charges.
 
 283    I will hear parties on the issue of sentence.
 

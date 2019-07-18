@@ -56,23 +56,23 @@ Tort – Negligence – Duty of care
 
 10     In the following months, Pan opened both discretionary and advisory accounts with DB in the names of the Plaintiffs. A total of five accounts were opened (including the Accounts as mentioned at \[1\] above). Juan became the Relationship Manager for all five accounts.[^10] The five accounts opened were:
 
-(a)     an advisory account in Fields’ name opened on or around 20 December 2006;[^11]
+> (a)     an advisory account in Fields’ name opened on or around 20 December 2006;[^11]
 
-(b)     an advisory account in Zillion’s name opened on or around 22 March 2007,[^12] and the linked FX GEM account in Zillion’s name opened on 24 May 2007;[^13] and
+> (b)     an advisory account in Zillion’s name opened on or around 22 March 2007,[^12] and the linked FX GEM account in Zillion’s name opened on 24 May 2007;[^13] and
 
-(c)     two discretionary accounts in Zillion’s name opened on 22 March 2007.[^14]
+> (c)     two discretionary accounts in Zillion’s name opened on 22 March 2007.[^14]
 
 11     Although the Plaintiffs had pleaded that their claims were in relation to all five accounts,[^15] Pan agreed during cross-examination that the Plaintiffs’ claims were in fact in relation to only three of these accounts: the advisory accounts and the linked FX GEM account, which are those listed at \[10(a)\] and \[10(b)\] above.[^16] As mentioned at \[1\] above, these three accounts will be referred to as “the Accounts”. The Plaintiffs’ claims were not in relation to the two discretionary accounts listed at \[10(c)\] above.
 
 12     When opening the Accounts, the Plaintiffs executed, _inter alia_, the following contractual documents:[^17]
 
-(a)     Service Agreement: executed by Zillion on 22 March 2007 and by Fields on 20 December 2006;[^18]
+> (a)     Service Agreement: executed by Zillion on 22 March 2007 and by Fields on 20 December 2006;[^18]
 
-(b)     Risk Disclosure Statement: executed by Zillion on 22 March 2007 and by Fields on 20 December 2006;[^19]
+> (b)     Risk Disclosure Statement: executed by Zillion on 22 March 2007 and by Fields on 20 December 2006;[^19]
 
-(c)     DB Master Agreement for Foreign Exchange Transactions and Derivatives Transactions (“Master Agreement”): executed by Zillion on 26 February 2008;[^20] and
+> (c)     DB Master Agreement for Foreign Exchange Transactions and Derivatives Transactions (“Master Agreement”): executed by Zillion on 26 February 2008;[^20] and
 
-(d)     Risk Disclosure Statement (Foreign Exchange and Derivative Transactions) (“Risk Disclosure Statement (FX)”): executed by Zillion on 26 February 2008.[^21]
+> (d)     Risk Disclosure Statement (Foreign Exchange and Derivative Transactions) (“Risk Disclosure Statement (FX)”): executed by Zillion on 26 February 2008.[^21]
 
 13     As I mentioned at \[2\] above, I observe that in advancing their respective cases in their pleadings and submissions to this court, the parties generally did not draw a distinction between the Plaintiffs, or between the Accounts, should there be any distinction to draw. This lack of precision is odd, considering how some of the contractual documents were executed by Zillion only and not by Fields, like the Master Agreement and the Risk Disclosure Statement (FX). By way of another example, the three margin call letters which will be discussed later were also addressed to Zillion and not to Fields. However, since the parties chose to advance their cases as described, I will proceed on the basis that the arguments advanced by the Plaintiffs and by DB respectively applied to the Plaintiffs and the Accounts without distinction. Accordingly, I will proceed on the basis that the contractual documents and all other matters in question also applied to the Plaintiffs and the Accounts without distinction.
 
@@ -88,19 +88,19 @@ Tort – Negligence – Duty of care
 
 18     For example, Yim’s unchallenged description of Pan as set out in Yim’s affidavit of evidence-in-chief (“AEIC”) at paras 26–27 was as follows:
 
-26.    Indeed, at the meetings I attended, Mr Pan frequently emphasised that he did not require us to remind him of his potential exposures and that he had enough money to enter into the investments/trades that he wished to. If the Bank were not prepared to enter into the investments/trades, he would find another bank to do so. He was aware of the risks and exposures but he felt that he had enough money to ride out any market adversities.
+> 26.    Indeed, at the meetings I attended, Mr Pan frequently emphasised that he did not require us to remind him of his potential exposures and that he had enough money to enter into the investments/trades that he wished to. If the Bank were not prepared to enter into the investments/trades, he would find another bank to do so. He was aware of the risks and exposures but he felt that he had enough money to ride out any market adversities.
 
-27.    Another constant characteristic of our meetings was that whenever the Bank presented our views to Mr Pan, he did not accept them unquestioningly. _He had a very sharp and critical mind_ and would often challenge our views, and _debated with us_. For instance, if we were of the view that a particular country’s interest rates would be cut, he would ask us to justify our view and challenge our assumptions or inferences. Mr Pan would also _compare_ our investment ideas with that of his other private bankers (e.g., from Citibank or JPMorgan). _I often found the discussions with Mr Pan intellectually challenging and stimulating._ Mr Pan was savvy about the financial markets. For instance, he had insightful views about the debt situation in the U.S., the growth of China and the performance of commodities. Mr Pan’s challenges were one of the main reasons why our meetings would take such a long time.
+> 27.    Another constant characteristic of our meetings was that whenever the Bank presented our views to Mr Pan, he did not accept them unquestioningly. _He had a very sharp and critical mind_ and would often challenge our views, and _debated with us_. For instance, if we were of the view that a particular country’s interest rates would be cut, he would ask us to justify our view and challenge our assumptions or inferences. Mr Pan would also _compare_ our investment ideas with that of his other private bankers (e.g., from Citibank or JPMorgan). _I often found the discussions with Mr Pan intellectually challenging and stimulating._ Mr Pan was savvy about the financial markets. For instance, he had insightful views about the debt situation in the U.S., the growth of China and the performance of commodities. Mr Pan’s challenges were one of the main reasons why our meetings would take such a long time.
 
-\[emphasis added\]
+> \[emphasis added\]
 
 19     In terms of the documentation at the material time, Juan filled in, on behalf of DB, the “Client Acceptance & Profile Report” (“CAPR”) for Pan twice.[^31] The two CAPRs were completed internally within DB, without obtaining “confirmation” from Pan as to their contents.[^32] The details concerning the two CAPRs are as follows:
 
-(a)     Initially in the CAPR dated 26 January 2007,[^33] Pan’s objective for investable assets was described as “Balanced”.[^34] This meant that he was an investor who was “prepared to accept risk of infrequent and modest losses”, and was “\[s\]eeking total return both from income and capital appreciation”.[^35]
+> (a)     Initially in the CAPR dated 26 January 2007,[^33] Pan’s objective for investable assets was described as “Balanced”.[^34] This meant that he was an investor who was “prepared to accept risk of infrequent and modest losses”, and was “\[s\]eeking total return both from income and capital appreciation”.[^35]
 
-(b)     However, in the CAPR dated 24 April 2008,[^36] Pan’s risk profile was no longer described as “Balanced” but described as “Growth (higher risk/ possible higher return)” instead.[^37] This meant that he was an investor who was “prepared to accept risk of market-like losses in line with those of the equity markets and who intend\[ed\] to meet the possibility of significant short-term fluctuations by long-term investments”, and was “\[s\]eeking total return mainly via capital appreciation”, where “\[l\]iquidity \[was\] of no primary concern”.[^38]
+> (b)     However, in the CAPR dated 24 April 2008,[^36] Pan’s risk profile was no longer described as “Balanced” but described as “Growth (higher risk/ possible higher return)” instead.[^37] This meant that he was an investor who was “prepared to accept risk of market-like losses in line with those of the equity markets and who intend\[ed\] to meet the possibility of significant short-term fluctuations by long-term investments”, and was “\[s\]eeking total return mainly via capital appreciation”, where “\[l\]iquidity \[was\] of no primary concern”.[^38]
 
-(c)     Pan’s risk profile was never described in either of the two CAPRs as “Conservative (lower risk/ lower return)”, which was the third and remaining descriptor, and would have meant that he was a “\[r\]isk-averse investor who \[sought\] not to incur risk or losses”, and was “\[s\]eeking stability and liquidity through current income and/ or modest return on capital”.[^39]
+> (c)     Pan’s risk profile was never described in either of the two CAPRs as “Conservative (lower risk/ lower return)”, which was the third and remaining descriptor, and would have meant that he was a “\[r\]isk-averse investor who \[sought\] not to incur risk or losses”, and was “\[s\]eeking stability and liquidity through current income and/ or modest return on capital”.[^39]
 
 20     A Risk Profile Questionnaire dated 19 August 2008 was also completed in respect of Pan (“Questionnaire”),[^40] which Sze believed Juan completed on behalf of DB.[^41] The Questionnaire was also completed internally within DB, without obtaining “confirmation” from Pan as to its contents.[^42] The Questionnaire stated that Pan’s risk rating was “5”, which “indicated an aggressive risk profile and \[that\] the client was seeking capital growth”.[^43]
 
@@ -154,15 +154,15 @@ Tort – Negligence – Duty of care
 
 44     At the 31 July 2008 Meeting, DB also recommended Pan to purchase various financial products, including “the Trumpet”.[^85] Thereafter, the Plaintiffs entered into, _inter alia_, the following transactions on 31 July 2008 (“31 July 2008 Transactions”), which the Plaintiffs pleaded generated the following financial consequences subsequently:[^86]
 
-(a)     the Trumpet: alleged loss of US$12,493,100;
+> (a)     the Trumpet: alleged loss of US$12,493,100;
 
-(b)     Australian dollar (“AUD”)/US dollar (“USD”) accumulator (_ie_, to accumulate AUD at a certain strike price in USD[^87]): alleged loss of US$15.7m;
+> (b)     Australian dollar (“AUD”)/US dollar (“USD”) accumulator (_ie_, to accumulate AUD at a certain strike price in USD[^87]): alleged loss of US$15.7m;
 
-(c)     gold/USD accumulator: alleged loss of US$3.05m;
+> (c)     gold/USD accumulator: alleged loss of US$3.05m;
 
-(d)     Credit Derivative Transactions (Citigroup Inc): profit of US$327,932.98 (agreed between the parties); and
+> (d)     Credit Derivative Transactions (Citigroup Inc): profit of US$327,932.98 (agreed between the parties); and
 
-(e)     Renewal Opportunity Notes (otherwise known as ‘renewable opportunity certificates with accrual notes’ (“ROCAs”)) linked to uranium companies Cameco Corporation and USEC Inc: alleged loss of US$646,500.
+> (e)     Renewal Opportunity Notes (otherwise known as ‘renewable opportunity certificates with accrual notes’ (“ROCAs”)) linked to uranium companies Cameco Corporation and USEC Inc: alleged loss of US$646,500.
 
 45     I will briefly provide some description of the financial products mentioned at \[44(a)\] to \[44(c)\] and \[44(e)\] above which allegedly resulted in losses for the Plaintiffs.
 
@@ -196,17 +196,17 @@ Tort – Negligence – Duty of care
 
 57     The internal DB e-mail stated:
 
-…
+> …
 
-In view of aggregate shortfall in excess of USD 19mio \[_sic_\], with the decision from senior management, Margin Call Letter (see attached) is now issued to the subject client. …
+> In view of aggregate shortfall in excess of USD 19mio \[_sic_\], with the decision from senior management, Margin Call Letter (see attached) is now issued to the subject client. …
 
-…
+> …
 
-**Appreciate your continued effort in rectifying the position and let us know the rectification by Monday 06 Oct 08.** …
+> **Appreciate your continued effort in rectifying the position and let us know the rectification by Monday 06 Oct 08.** …
 
-…
+> …
 
-\[emphasis in original\]
+> \[emphasis in original\]
 
 58     The attachment was a margin call letter DB had written, addressed to Zillion and dated 3 October 2008 (“3 October 2008 Margin Call Letter”). It was in relation to Zillion’s advisory account. The 3 October 2008 Margin Call Letter stated that there was a current shortfall of US$8,950,765.73 between the collateral value and the total exposure, and accordingly, DB requested that Zillion take immediate steps to restore the shortfall by 6 October 2008, by either providing additional security or reducing the total exposure. As with the 17 September 2008 Margin Call Letter (see \[54\] above), DB added that during the interim period when the shortfall was outstanding, it reserved its rights under the contracts, including the right to liquidate any part or the whole of the collateral without prior notice and the right to terminate the facility. This letter was signed by Chiu and Samantha Leung.
 
@@ -242,13 +242,13 @@ In view of aggregate shortfall in excess of USD 19mio \[_sic_\], with the decis
 
 70     The Plaintiffs had four main heads of claim against DB, namely that:
 
-(a)     DB breached an implied term of the contracts with the Plaintiffs which obliged DB to provide regular updates on the state of the Accounts and the transactions thereunder;
+> (a)     DB breached an implied term of the contracts with the Plaintiffs which obliged DB to provide regular updates on the state of the Accounts and the transactions thereunder;
 
-(b)     DB breached a tortious duty of care it owed to the Plaintiffs to take reasonable care and skill;
+> (b)     DB breached a tortious duty of care it owed to the Plaintiffs to take reasonable care and skill;
 
-(c)     DB was liable to the Plaintiffs for misrepresentation under s 2(1) of the Misrepresentation Act (Cap 390, 1994 Rev Ed) and for negligent misrepresentation when DB made the US$50m profit representation and the US$19.26m FX profit representation; and
+> (c)     DB was liable to the Plaintiffs for misrepresentation under s 2(1) of the Misrepresentation Act (Cap 390, 1994 Rev Ed) and for negligent misrepresentation when DB made the US$50m profit representation and the US$19.26m FX profit representation; and
 
-(d)     DB breached the contracts with the Plaintiffs by unilaterally closing out certain positions under the Accounts through the 13 October 2008 Transactions.
+> (d)     DB breached the contracts with the Plaintiffs by unilaterally closing out certain positions under the Accounts through the 13 October 2008 Transactions.
 
 71     In so far as DB relied on contract terms in its defence, the Plaintiffs relied on ss 2 and 3 of the Unfair Contract Terms Act (Cap 396, 1994 Rev Ed) (“UCTA”) and pleaded that any contract term that sought to, amongst other things, exclude or restrict DB’s liability for breach of contract or for negligence was unenforceable because it did not satisfy the requirement of reasonableness.[^127]
 
@@ -264,9 +264,9 @@ In view of aggregate shortfall in excess of USD 19mio \[_sic_\], with the decis
 
 75     The Plaintiffs pleaded that it was an implied term of the contracts between them and DB that DB must provide regular updates on the state of the Accounts and the transactions thereunder:
 
-(a)     including providing information on the total assets, total liabilities, net assets/liabilities, outstanding notional values, collateral value, total exposure, mark-to-market value and notional value (“Specific Details”);[^129] and
+> (a)     including providing information on the total assets, total liabilities, net assets/liabilities, outstanding notional values, collateral value, total exposure, mark-to-market value and notional value (“Specific Details”);[^129] and
 
-(b)     providing these updates _daily_.[^130]
+> (b)     providing these updates _daily_.[^130]
 
 I will refer to the pleaded implied term as “the Alleged Implied Term”.
 
@@ -282,11 +282,11 @@ I will refer to the pleaded implied term as “the Alleged Implied Term”.
 
 80     As the Court of Appeal stated in _Sembcorp Marine Ltd v PPL Holdings Pte Ltd and another and another appeal_ <span class="citation">\[2013\] 4 SLR 193</span> (“_Sembcorp Marine_”), the process of implying a term in a contract is “best understood as an exercise in giving effect to the parties’ _presumed_ intentions” (at \[93\]) \[emphasis in original\]. The three-step process to be used for implying a term in a contract is as follows (see _Sembcorp Marine_ at \[101\]):
 
-(a)     first, a gap in the contract must have arisen because both parties did not contemplate the gap – a term will not be implied where one party had expressly contemplated the gap (see _CAA Technologies Pte Ltd v Newcon Builders Pte Ltd_ <span class="citation">\[2017\] 2 SLR 940</span> at \[75\]);
+> (a)     first, a gap in the contract must have arisen because both parties did not contemplate the gap – a term will not be implied where one party had expressly contemplated the gap (see _CAA Technologies Pte Ltd v Newcon Builders Pte Ltd_ <span class="citation">\[2017\] 2 SLR 940</span> at \[75\]);
 
-(b)     second, it must be necessary in the business or commercial sense to imply a term in order to give the contract efficiency – _ie_, the proposed term must be necessary for business efficacy; and
+> (b)     second, it must be necessary in the business or commercial sense to imply a term in order to give the contract efficiency – _ie_, the proposed term must be necessary for business efficacy; and
 
-(c)     third, the proposed term must be one which the parties, having regard to the need for business efficacy, would have responded “Oh, of course!” had the proposed term been put to them at the time of the contract – _ie_, the proposed term must pass the officious bystander test.
+> (c)     third, the proposed term must be one which the parties, having regard to the need for business efficacy, would have responded “Oh, of course!” had the proposed term been put to them at the time of the contract – _ie_, the proposed term must pass the officious bystander test.
 
 #### Whether there was a gap in the contracts that the parties did not contemplate
 
@@ -296,13 +296,13 @@ I will refer to the pleaded implied term as “the Alleged Implied Term”.
 
 83     On the other hand, the contractual documents stipulated that DB was not required to provide some of the Specific Details to the Plaintiffs unless the Plaintiffs requested them.[^143] For instance, DB was not required to inform the Plaintiffs of “any potential _losses_ which may arise because of changes in market quotations” (under cl 6 of “Our responsibilities” in the Service Agreement) \[emphasis added\].[^144] DB was also not required to inform the Plaintiffs of the mark-to-market valuation of a derivative transaction, where the “Pricing risks in relation to Over-the-Counter financial derivative transactions” sections in both the Risk Disclosure Statement and the Risk Disclosure Statement (FX) (the documents were mentioned respectively at \[12(b)\] and \[12(d)\] above) stated:[^145]
 
-Pricing risks in relation to Over-the-Counter financial derivative transactions
+> Pricing risks in relation to Over-the-Counter financial derivative transactions
 
-…
+> …
 
-You should not regard our provision of a _mark-to-market_ valuation or price _at your request_ as an offer to enter into or terminate the relevant OTC \[over-the-counter\] financial derivative Transaction at that value or price, unless we have indicated it is firm or binding. …
+> You should not regard our provision of a _mark-to-market_ valuation or price _at your request_ as an offer to enter into or terminate the relevant OTC \[over-the-counter\] financial derivative Transaction at that value or price, unless we have indicated it is firm or binding. …
 
-\[emphasis added\]
+> \[emphasis added\]
 
 84     I do not accept the Plaintiffs’ submission that just because the contractual documents were based on DB’s standard form contracts and were not negotiated between the parties, this meant that the parties did not and could not have contemplated the issue as to whether DB was to provide the Specific Details.[^146]
 
@@ -326,55 +326,55 @@ You should not regard our provision of a _mark-to-market_ valuation or price _at
 
 93     I set out the relevant contract terms to which the parties referred. The “Credit, banking and foreign exchange facilities” section in the Service Agreement stated:
 
-_Credit, banking and foreign exchange facilities_
+> _Credit, banking and foreign exchange facilities_
 
-…
+> …
 
-3.    We have the right to determine the total value of collateral we consider acceptable (‘_Collateral Value_’).
+> 3.    We have the right to determine the total value of collateral we consider acceptable (‘_Collateral Value_’).
 
-4.    We may assign a lower Collateral Value to collateral denominated in currencies different from the currencies of our exposure to you to take into account our currency exchange rate risk.
+> 4.    We may assign a lower Collateral Value to collateral denominated in currencies different from the currencies of our exposure to you to take into account our currency exchange rate risk.
 
-5.     _The Collateral Value must not be less than 100% of the Total Exposure_ (as defined below) at any time.
+> 5.     _The Collateral Value must not be less than 100% of the Total Exposure_ (as defined below) at any time.
 
-‘Total Exposure’ is an amount equal to _the sum of your Liabilities_ under the Facilities at any time. If the Facilities we provide to you include a Foreign Exchange Facility, the ‘Total Exposure’ will, in addition to the amount described above, include an amount equal to _the sum of_:
+> ‘Total Exposure’ is an amount equal to _the sum of your Liabilities_ under the Facilities at any time. If the Facilities we provide to you include a Foreign Exchange Facility, the ‘Total Exposure’ will, in addition to the amount described above, include an amount equal to _the sum of_:
 
-(i)     _the Mark-to-Market Value_ (as defined below) under each foreign exchange contract (‘Contract’), whether or not due, for which you are in the loss
+>> (i)     _the Mark-to-Market Value_ (as defined below) under each foreign exchange contract (‘Contract’), whether or not due, for which you are in the loss
 
-(ii)   the Applicable Percentage as we may specify of the _Notional Value_ (as defined below) of all Contracts, whether or not due
+>> (ii)   the Applicable Percentage as we may specify of the _Notional Value_ (as defined below) of all Contracts, whether or not due
 
-(iii)   any other amount due and payable by you to us from time to time.
+>> (iii)   any other amount due and payable by you to us from time to time.
 
-‘Mark-to-Market Value’ means the amount as we may determine of your loss or gain, whether realised or unrealised, under each Contract.
+> ‘Mark-to-Market Value’ means the amount as we may determine of your loss or gain, whether realised or unrealised, under each Contract.
 
-‘Notional Value’ means either the amount payable by you to us, or us to you, under a forward contract as we may determine.
+> ‘Notional Value’ means either the amount payable by you to us, or us to you, under a forward contract as we may determine.
 
-6.     _If, at any time, the Collateral Value is less than 100% of the Total Exposure, we may exercise our Rights on Termination._ We may (but need not) allow you time to restore the Collateral Value to more than 100% of the Total Exposure.
+> 6.     _If, at any time, the Collateral Value is less than 100% of the Total Exposure, we may exercise our Rights on Termination._ We may (but need not) allow you time to restore the Collateral Value to more than 100% of the Total Exposure.
 
-\[emphasis added\]
+> \[emphasis added\]
 
 94     The “Margin requirements” section in the Risk Disclosure Statement stated:
 
-Margin requirements
+> Margin requirements
 
-For Transactions on a margin basis:
+> For Transactions on a margin basis:
 
-1.     _You must provide us with initial margin cover_ before entering into a Transaction. We may determine the required amount of initial margin at our discretion. The amount of margin required varies with each type of transaction. We may change the margin required at any time and from time to time at our discretion, even after you have entered into the Transaction.
+>> 1.     _You must provide us with initial margin cover_ before entering into a Transaction. We may determine the required amount of initial margin at our discretion. The amount of margin required varies with each type of transaction. We may change the margin required at any time and from time to time at our discretion, even after you have entered into the Transaction.
 
-2.    You must provide us with the margin cover by pledging, assigning or charging assets acceptable to us (‘Collateral’). We will value the Collateral according to our prevailing practices from time to time.
+>> 2.    You must provide us with the margin cover by pledging, assigning or charging assets acceptable to us (‘Collateral’). We will value the Collateral according to our prevailing practices from time to time.
 
-3.    The margin cover may fall below the amount we require because of various reasons (such as book losses arising from mark-to-market valuation of outstanding Transactions, losses arising from closed-out Transactions, or a fall in the value of the Collateral).
+>> 3.    The margin cover may fall below the amount we require because of various reasons (such as book losses arising from mark-to-market valuation of outstanding Transactions, losses arising from closed-out Transactions, or a fall in the value of the Collateral).
 
-4.     _If we determine that the margin cover is inadequate at any time_, we may take action such as:
+>> 4.     _If we determine that the margin cover is inadequate at any time_, we may take action such as:
 
-(a)    asking you to provide additional Collateral (such amount may be substantial and may exceed your initial margin)
+>>> (a)    asking you to provide additional Collateral (such amount may be substantial and may exceed your initial margin)
 
-(b)    realising all or part of the Collateral as we think necessary to satisfy your Liabilities without notice
+>>> (b)    realising all or part of the Collateral as we think necessary to satisfy your Liabilities without notice
 
-(c)     _closing out, liquidating, setting off, realising or otherwise dealing with any or all outstanding Transactions as we think fit._ You are responsible for any shortfall if the Transactions are liquidated at a loss and the loss is more than the total margin deposited.
+>>> (c)     _closing out, liquidating, setting off, realising or otherwise dealing with any or all outstanding Transactions as we think fit._ You are responsible for any shortfall if the Transactions are liquidated at a loss and the loss is more than the total margin deposited.
 
-…
+>> …
 
-\[emphasis added\]
+> \[emphasis added\]
 
 I add that similar contract terms to these were also found in the “Margin requirements” section in the Risk Disclosure Statement (FX).[^160]
 
@@ -384,21 +384,21 @@ I add that similar contract terms to these were also found in the “Margin requ
 
 97     To ensure that the Plaintiffs met the collateral and margin requirements, DB did not necessarily have to update the Plaintiffs with the Specific Details. In this regard, I refer to another contract term relied on by DB, cl 2.6 of the Master Agreement, which was located under the “Obligations” section.[^161] It stated:[^162]
 
-**2**.     **OBLIGATIONS**
+> **2**.     **OBLIGATIONS**
 
-…
+> …
 
-2.6    The Bank shall at its absolute discretion prescribe the amount of margin or collateral that the Counterparty or any Credit Support Provider must provide to the Bank in order to secure the Counterparty’s obligations to the Bank under the Transactions, and may from time to time amend or add to such margin or collateral requirements. _Such margin or collateral requirements may be notified by the Bank to the Counterparty in writing or verbally._ If the Bank shall for any reason deem that there is _insufficient collateral_ held pursuant to the terms of the Credit Support Documents that is available to satisfy the Counterparty’s present or future obligations under this Agreement or the Counterparty’s present or future obligations under any other agreement or arrangement between the Counterparty and the Bank, the Counterparty shall within _one business day’s notice_ thereof deliver additional collateral of a type acceptable to the Bank in its sole discretion … in an amount as may be required by the Bank. … The Bank may at its sole discretion apportion and/or allocate the collateral provided by the Counterparty amongst the Transactions to be secured and may request for additional collateral from the Counterparty if the Bank shall for any reason deem that there is insufficient collateral to secure a specific Transaction notwithstanding that the amount of the collateral securing the other Transactions is in excess of the obligations of the Counterparty to the Bank under those Transactions. For the avoidance of doubt, _if the Counterparty fails to deliver such additional collateral, such failure shall constitute an Event of Default_ in respect of the Counterparty pursuant to Clause 5 below and the Bank may proceed to terminate some or all of the Transactions at its discretion pursuant to Clause 5 without further notice to the Counterparty other than the notice of termination to be provided under Clause 5.4.
+> 2.6    The Bank shall at its absolute discretion prescribe the amount of margin or collateral that the Counterparty or any Credit Support Provider must provide to the Bank in order to secure the Counterparty’s obligations to the Bank under the Transactions, and may from time to time amend or add to such margin or collateral requirements. _Such margin or collateral requirements may be notified by the Bank to the Counterparty in writing or verbally._ If the Bank shall for any reason deem that there is _insufficient collateral_ held pursuant to the terms of the Credit Support Documents that is available to satisfy the Counterparty’s present or future obligations under this Agreement or the Counterparty’s present or future obligations under any other agreement or arrangement between the Counterparty and the Bank, the Counterparty shall within _one business day’s notice_ thereof deliver additional collateral of a type acceptable to the Bank in its sole discretion … in an amount as may be required by the Bank. … The Bank may at its sole discretion apportion and/or allocate the collateral provided by the Counterparty amongst the Transactions to be secured and may request for additional collateral from the Counterparty if the Bank shall for any reason deem that there is insufficient collateral to secure a specific Transaction notwithstanding that the amount of the collateral securing the other Transactions is in excess of the obligations of the Counterparty to the Bank under those Transactions. For the avoidance of doubt, _if the Counterparty fails to deliver such additional collateral, such failure shall constitute an Event of Default_ in respect of the Counterparty pursuant to Clause 5 below and the Bank may proceed to terminate some or all of the Transactions at its discretion pursuant to Clause 5 without further notice to the Counterparty other than the notice of termination to be provided under Clause 5.4.
 
-…
+> …
 
-\[emphasis added\]
+> \[emphasis added\]
 
 98     Clause 2.6 of the Master Agreement stated that DB would notify the Plaintiffs of the collateral and margin requirements, and when there was insufficient collateral, DB would give the Plaintiffs “one business day’s notice” to deliver additional collateral. Such a clause meant that for the Plaintiffs to maintain a higher collateral value than the total exposure and to maintain the required margin cover, DB did not have to update the Plaintiffs with the Specific Details; DB could simply notify the Plaintiffs of the collateral and margin requirements they had to fulfil.
 
 99     I also observe that cl 2.7 of the Master Agreement, in a related context, stated:[^163]
 
-2.7    The Bank may at its absolute discretion impose a facility limit, position limit, ceiling limit, credit limit or any other trading limit (the ‘Prescribed Limits’) and/or ratios including close-out ratios and margin maintenance ratios (the ‘Ratios’) on the Transactions entered into by the Counterparty pursuant to this Agreement, and may at its discretion amend such limits and/or ratios from time to time. Any Prescribed Limits and/or Ratios may be notified … by the Bank to the Counterparty in writing or verbally. … _It shall be the Counterparty's responsibility to monitor its Transactions and to ensure that its Transactions … do not \[(i)\] exceed the Prescribed Limits and/or (ii) reach or breach any of the Ratios, as the case may be._ For the avoidance of doubt, if the Bank determines that the Counterparty's Transactions have (i) exceeded any of the Prescribed Limits, and/or (ii) reach or breach \[_sic_\] any of the Ratios, as the case may be, this shall constitute an Event of Default in respect of the Counterparty pursuant to Clause 5 below and the Bank may proceed to terminate any or all of the Transactions at its discretion pursuant to Clause 5 without further notice to the Counterparty other than the notice of termination to be provided under Clause 5.4. \[original emphasis omitted; emphasis added in italics\]
+> 2.7    The Bank may at its absolute discretion impose a facility limit, position limit, ceiling limit, credit limit or any other trading limit (the ‘Prescribed Limits’) and/or ratios including close-out ratios and margin maintenance ratios (the ‘Ratios’) on the Transactions entered into by the Counterparty pursuant to this Agreement, and may at its discretion amend such limits and/or ratios from time to time. Any Prescribed Limits and/or Ratios may be notified … by the Bank to the Counterparty in writing or verbally. … _It shall be the Counterparty's responsibility to monitor its Transactions and to ensure that its Transactions … do not \[(i)\] exceed the Prescribed Limits and/or (ii) reach or breach any of the Ratios, as the case may be._ For the avoidance of doubt, if the Bank determines that the Counterparty's Transactions have (i) exceeded any of the Prescribed Limits, and/or (ii) reach or breach \[_sic_\] any of the Ratios, as the case may be, this shall constitute an Event of Default in respect of the Counterparty pursuant to Clause 5 below and the Bank may proceed to terminate any or all of the Transactions at its discretion pursuant to Clause 5 without further notice to the Counterparty other than the notice of termination to be provided under Clause 5.4. \[original emphasis omitted; emphasis added in italics\]
 
 100    In my view, it was the Plaintiffs’ responsibility to monitor the Accounts and ensure, amongst other things, that trading limits (the “Prescribed Limits”) were not exceeded and the close-out ratios not reached. Hence, while DB’s regular updates to the Plaintiffs with the Specific Details might assist them in monitoring for themselves whether there was sufficient collateral in the Accounts, it was not DB’s responsibility to provide such updates of its own accord. Accordingly, there was no necessity to provide such regular updates for business efficacy for the contracts between the Plaintiffs and DB.
 
@@ -408,7 +408,82 @@ I add that similar contract terms to these were also found in the “Margin requ
 
 103    Chang also knew how to do some form of calculation of the mark-to-market loss and demonstrated this understanding to DB’s employees.[^165] Chang could also calculate profits of transactions, and she conveyed this to DB’s employees in a telephone conversation on 2 June 2008 at or around 2.49pm. I referred to this conversation at \[32\] above. The English translation of the relevant transcript stated:[^166]
 
-<table align="left" cellpadding="0" cellspacing="0" class="Judg-2" frame="none" pgwide="1"><colgroup><col width="29.58%"> <col width="70.42%"> </colgroup><tbody><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">…</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">&nbsp;</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">[Chang]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">… I can even tell you if you ask me how much 1203 is making us?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">[Juan]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Wow, amazing! So…</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">[Chang]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">So, do you want to pay me to calculate it so you all don’t have to do it?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">[Juan]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">We want to calculate for you.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">[Chang]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Yes, please go ahead. Then, I can check if you have done it correctly. …</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">…</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">&nbsp;</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">[Chang]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Don’t forget my background is in finance! I am in charge of the account.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">…</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">&nbsp;</p></td></tr></tbody></table>
+>   
+| 
+
+…
+
+ | 
+
+ |
+| 
+
+\[Chang\]:
+
+ | 
+
+… I can even tell you if you ask me how much 1203 is making us?
+
+ |
+| 
+
+\[Juan\]:
+
+ | 
+
+Wow, amazing! So…
+
+ |
+| 
+
+\[Chang\]:
+
+ | 
+
+So, do you want to pay me to calculate it so you all don’t have to do it?
+
+ |
+| 
+
+\[Juan\]:
+
+ | 
+
+We want to calculate for you.
+
+ |
+| 
+
+\[Chang\]:
+
+ | 
+
+Yes, please go ahead. Then, I can check if you have done it correctly. …
+
+ |
+| 
+
+…
+
+ | 
+
+ |
+| 
+
+\[Chang\]:
+
+ | 
+
+Don’t forget my background is in finance! I am in charge of the account.
+
+ |
+| 
+
+…
+
+ | 
+
+ |
 
   
   
@@ -421,7 +496,7 @@ I add that similar contract terms to these were also found in the “Margin requ
 
 107    Indeed, it appeared that the Plaintiffs preferred to do calculations in relation to their portfolio on their own apart from DB. As Pan deposed in his AEIC, he said to Juan during a telephone conversation on 3 January 2008:[^169]
 
-Your bank also has a number of methods of calculation. So, it is better for us to calculate ourselves. Otherwise, my head will be chopped up by you\[.\]
+> Your bank also has a number of methods of calculation. So, it is better for us to calculate ourselves. Otherwise, my head will be chopped up by you\[.\]
 
 At trial, DB’s counsel cross-examined Pan on this statement, asking him whether he was referring to the calculations for the collateral required for his transactions under the Accounts.[^170] While Pan denied that he was referring to such calculations, he was unable to tell the court what the calculations were for if not for the collateral required. I add that even though Pan did not clarify what calculations he was referring to, the point is that the Plaintiffs were doing their own calculations because they believed that DB had its own way of doing its calculations. In other words, the Plaintiffs knew they had to protect their own interests.
 
@@ -449,9 +524,9 @@ At trial, DB’s counsel cross-examined Pan on this statement, asking him whethe
 
 115    The Plaintiffs pleaded that by DB’s conduct and/or representations, it had assumed a duty of care in tort towards the Plaintiffs to exercise reasonable care and skill in providing advice to them as a reasonably competent and prudent financial adviser and/or banker would.[^177] The Plaintiffs also submitted that the standard of care was to be determined by reference to the steps that a reasonable and competent bank ought to have taken.[^178] In this regard, the Plaintiffs pleaded that DB breached its duty of care and pleaded 12 heads of breaches.[^179] In the Plaintiffs’ closing submissions, they grouped these breaches into two main categories:[^180]
 
-(a)     the failure to manage the Accounts, to advise the Plaintiffs in accordance with their objective of wealth preservation, and to protect their wealth from depreciation; and
+> (a)     the failure to manage the Accounts, to advise the Plaintiffs in accordance with their objective of wealth preservation, and to protect their wealth from depreciation; and
 
-(b)     the failure in relation to risk management.
+> (b)     the failure in relation to risk management.
 
 116    The Plaintiffs pleaded that DB’s conduct and actions resulted in enormous profit margins for DB, but extensive losses for the Plaintiffs.[^181] They claimed all loss suffered as a result of DB’s negligence and/or breaches of its duty of care.[^182] The Plaintiffs further pleaded that DB’s breaches of duty amounted to gross negligence.[^183]
 
@@ -483,15 +558,15 @@ At trial, DB’s counsel cross-examined Pan on this statement, asking him whethe
 
 126    The Court of Appeal has also recently expounded on the proximity requirement in _NTUC Foodfare Co-operative Ltd v SIA Engineering Co Ltd and another_ <span class="citation">\[2018\] 2 SLR 588</span> (“_NTUC Foodfare_”). I summarise the applicable principles therein:
 
-(a)     Proximity includes physical, circumstantial and causal proximity, and incorporates the twin criteria of voluntary assumption of responsibility by the defendant and reliance by the plaintiff (see _NTUC Foodfare_ at \[40(a)\]).
+> (a)     Proximity includes physical, circumstantial and causal proximity, and incorporates the twin criteria of voluntary assumption of responsibility by the defendant and reliance by the plaintiff (see _NTUC Foodfare_ at \[40(a)\]).
 
-(b)     Other proximity factors include (see _NTUC Foodfare_ at \[40(b)\]):
+> (b)     Other proximity factors include (see _NTUC Foodfare_ at \[40(b)\]):
 
-(i)       the defendant’s knowledge in relation to the plaintiff of the risk of harm, or of reliance by the plaintiff, or of the vulnerability of the plaintiff; and
+>> (i)       the defendant’s knowledge in relation to the plaintiff of the risk of harm, or of reliance by the plaintiff, or of the vulnerability of the plaintiff; and
 
-(ii)       the defendant’s control over the situation giving rise to the risk of harm and the plaintiff’s corresponding vulnerability.
+>> (ii)       the defendant’s control over the situation giving rise to the risk of harm and the plaintiff’s corresponding vulnerability.
 
-(c)     In cases of pure economic loss, there may be sufficient legal proximity between the parties even if the defendant does not voluntarily assume responsibility to the plaintiff and the plaintiff does not specifically rely on the defendant not to cause it loss (see _NTUC Foodfare_ at \[41\]).
+> (c)     In cases of pure economic loss, there may be sufficient legal proximity between the parties even if the defendant does not voluntarily assume responsibility to the plaintiff and the plaintiff does not specifically rely on the defendant not to cause it loss (see _NTUC Foodfare_ at \[41\]).
 
 127    The contractual matrix is also a factor to be considered when determining the question of legal proximity between the parties, and this includes circumstances showing that the defendant never undertook any relevant responsibility in its contract or that the defendant qualified it or even disclaimed it (see _Chang Tse Wen_ at \[37\]). An express disclaimer of responsibility can prevent a duty of care from arising in tort, by negating the proximity sought to be established by the concept of an “assumption of responsibility”, but such a disclaimer will be subject to the UCTA if it takes the form of a contractual exclusion clause (see _Go Dante Yap v Bank Austria Creditanstalt AG_ <span class="citation">\[2011\] 4 SLR 559</span> at \[38\]). For the time being, along with addressing this claim for negligence first on the premise that there was no contract term which excluded or restricted DB’s liability (see \[118\] above), I will proceed on the assumption that there was no disclaimer or qualification of responsibility in the contracts between the parties.
 
@@ -499,11 +574,11 @@ At trial, DB’s counsel cross-examined Pan on this statement, asking him whethe
 
 129    I consider the type of advice DB gave the Plaintiffs on wealth management in relation to the Accounts. This included:
 
-(a)     DB’s almost daily telephone discussions with Chang and/or Pan to discuss investment ideas and pricing quotes and to provide updates on the Accounts (see \[15\] above);[^200]
+> (a)     DB’s almost daily telephone discussions with Chang and/or Pan to discuss investment ideas and pricing quotes and to provide updates on the Accounts (see \[15\] above);[^200]
 
-(b)     DB’s monthly meetings with Pan, in which Juan would review the Plaintiffs’ portfolio and the different product specialists would update on the state of the Plaintiffs’ investments in the respective products;[^201] and
+> (b)     DB’s monthly meetings with Pan, in which Juan would review the Plaintiffs’ portfolio and the different product specialists would update on the state of the Plaintiffs’ investments in the respective products;[^201] and
 
-(c)     DB’s responses to Pan’s requests for advice on what he should do with the Plaintiffs’ portfolio.[^202]
+> (c)     DB’s responses to Pan’s requests for advice on what he should do with the Plaintiffs’ portfolio.[^202]
 
 130    In so far as DB argued that it had given recommendations to the Plaintiffs in response to what Pan himself wanted,[^203] this does not assist DB because it instead affirmed that DB was advising the Plaintiffs in relation to the Accounts.
 
@@ -529,9 +604,9 @@ At trial, DB’s counsel cross-examined Pan on this statement, asking him whethe
 
 139    I turn to consider the two categories of breaches which the Plaintiffs, in their closing submissions, alleged DB committed (see \[115\] above):
 
-(a)     the failure to manage the Accounts, to advise the Plaintiffs in accordance with their objective of wealth preservation, and to protect their wealth from depreciation; and
+> (a)     the failure to manage the Accounts, to advise the Plaintiffs in accordance with their objective of wealth preservation, and to protect their wealth from depreciation; and
 
-(b)     the failure in relation to risk management.
+> (b)     the failure in relation to risk management.
 
 As mentioned, the Plaintiffs had pleaded 12 heads of breaches which they grouped into these two categories. The first of the 12 heads of breaches is that at \[139(a)\] above. The remaining 11 heads of breaches were grouped under that at \[139(b)\] above.
 
@@ -539,21 +614,21 @@ As mentioned, the Plaintiffs had pleaded 12 heads of breaches which they grouped
 
 141    Second, as DB submitted, one difficulty with the Plaintiffs’ claim for negligence was Pan’s own evidence at the trial.[^205] I reproduce the relevant portion of Pan’s cross-examination:[^206]
 
-\[Q\].Mr Pan, you said in an earlier answer that you never said the bank’s advice was no good. You confirmed to his Honour, the judge, that you have no complaint about the advice given by the bank to you in relation to the investments you made.
+> \[Q\].Mr Pan, you said in an earlier answer that you never said the bank’s advice was no good. You confirmed to his Honour, the judge, that you have no complaint about the advice given by the bank to you in relation to the investments you made.
 
-A.What I want to say is that _the bank kept telling me lies_. _It is not a matter of whether their advice is good or no good._ The bank should never tell their clients something that is untrue.
+> A.What I want to say is that _the bank kept telling me lies_. _It is not a matter of whether their advice is good or no good._ The bank should never tell their clients something that is untrue.
 
-\[emphasis added\]
+> \[emphasis added\]
 
 In fact, Pan maintained the same position during his re-examination, as follows:[^207]
 
-A.I think Mr Yeo had interpreted it as I never said that the bank’s advice was no good. But _I would not comment on whether they are good or no good._ …
+> A.I think Mr Yeo had interpreted it as I never said that the bank’s advice was no good. But _I would not comment on whether they are good or no good._ …
 
-…
+> …
 
-A. _The main thing is they cheated me._
+> A. _The main thing is they cheated me._
 
-\[emphasis added\]
+> \[emphasis added\]
 
 142    Although the Plaintiffs submitted that DB had taken Pan’s evidence out of context,[^208] I do not agree. Pan’s evidence and position at the trial seemed to contradict the Plaintiffs’ case that DB breached its duty of care to them when giving them advice on wealth management in relation to the Accounts. Pan appeared not to take issue with the advice that DB gave, but was complaining instead that DB “lie\[d\]” to him. It would thus seem that Pan was not complaining that DB was negligent in giving advice, but instead that DB told certain “lies” or made certain misrepresentations. It was not clear what these “lies” were about. Nevertheless, despite Pan’s evidence suggesting that he was not complaining about DB’s negligence in giving advice, I will consider the two categories of breaches of duty which the Plaintiffs alleged DB had committed since the Plaintiffs were still pursuing them.
 
@@ -565,33 +640,33 @@ A. _The main thing is they cheated me._
 
 144    The remaining 11 heads of breaches the Plaintiffs pleaded were grouped under the category of “the failure in relation to risk management” (see \[139(b)\] above) in their closing submissions. I elaborate on what these 11 heads of breaches pertained to:
 
-(a)     as regards the financial products (like accumulators):[^209]
+> (a)     as regards the financial products (like accumulators):[^209]
 
-(i)       failing to advise the Plaintiffs of their nature and the risks associated with them; and
+>> (i)       failing to advise the Plaintiffs of their nature and the risks associated with them; and
 
-(ii)       recommending the Plaintiffs to purchase them when they allowed DB to unfairly earn/charge higher prices, margins, fees and/or commissions to DB’s benefit and to the Plaintiffs’ detriment;
+>> (ii)       recommending the Plaintiffs to purchase them when they allowed DB to unfairly earn/charge higher prices, margins, fees and/or commissions to DB’s benefit and to the Plaintiffs’ detriment;
 
-(b)     as regards the exposure and margin issues:[^210]
+> (b)     as regards the exposure and margin issues:[^210]
 
-(i)       over-exposing the Accounts when recommending the Plaintiffs to purchase financial products to the extent that their total exposure was in excess of the value of their assets with DB;
+>> (i)       over-exposing the Accounts when recommending the Plaintiffs to purchase financial products to the extent that their total exposure was in excess of the value of their assets with DB;
 
-(ii)       failing to warn the Plaintiffs that their total exposure was in excess of the value of their assets and the consequences thereof; and
+>> (ii)       failing to warn the Plaintiffs that their total exposure was in excess of the value of their assets and the consequences thereof; and
 
-(iii)       failing to inform the Plaintiffs that they were transacting on leverage and/or margin, and the extent of leverage and/or margin utilised;
+>> (iii)       failing to inform the Plaintiffs that they were transacting on leverage and/or margin, and the extent of leverage and/or margin utilised;
 
-(c)     generally:[^211]
+> (c)     generally:[^211]
 
-(i)       failing to provide the Plaintiffs with regular updates of all transactions under the Accounts;
+>> (i)       failing to provide the Plaintiffs with regular updates of all transactions under the Accounts;
 
-(ii)       failing to provide the Plaintiffs regular updates with the Specific Details;
+>> (ii)       failing to provide the Plaintiffs regular updates with the Specific Details;
 
-(iii)       failing to provide the Plaintiffs with monitoring and reviews of the Accounts and to actively manage their portfolio to manage risk to meet their investment objectives;
+>> (iii)       failing to provide the Plaintiffs with monitoring and reviews of the Accounts and to actively manage their portfolio to manage risk to meet their investment objectives;
 
-(iv)       failing to properly and clearly inform the Plaintiffs of the problems in the Accounts; and
+>> (iv)       failing to properly and clearly inform the Plaintiffs of the problems in the Accounts; and
 
-(v)       failing to provide the Plaintiffs with proper and adequate advice to deal with the problems in the Accounts bearing in mind their objective to preserve wealth and protect it from depreciation; and
+>> (v)       failing to provide the Plaintiffs with proper and adequate advice to deal with the problems in the Accounts bearing in mind their objective to preserve wealth and protect it from depreciation; and
 
-(d)     unilaterally increasing the Plaintiffs’ credit limit to US$600m without their consent and/or knowledge.[^212]
+> (d)     unilaterally increasing the Plaintiffs’ credit limit to US$600m without their consent and/or knowledge.[^212]
 
 145    The Plaintiffs’ general claim was that if they had known that their portfolio was carrying so much risk, they would not have entered into so many transactions with DB.[^213]
 
@@ -627,7 +702,46 @@ A. _The main thing is they cheated me._
 
 161    On 17 September 2008, there was a telephone conversation at or around 10.11pm involving Pan and Juan, where the English translation of the transcript for this conversation recorded Juan as saying:[^228]
 
-<table align="left" cellpadding="0" cellspacing="0" class="Judg-2" frame="none" pgwide="1"><colgroup><col width="34.2%"> <col width="65.8%"> </colgroup><tbody><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">…</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">&nbsp;</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">[Juan]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Okay. Mr.&nbsp;Pan, with the recent situation in the market, I want to tell you that we, at Deutsche Bank, definitely do not have any excuses. Okay. <em>We really definitely have no excuses in getting your portfolio into the state that it is in today.</em> Okay. But, we want to say that <em>whatever money is lost this time</em>, okay, we will, in the future, definitely earn back the money with planning.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">…</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">&nbsp;</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">[Juan]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">… Mr.&nbsp;Pan, I must admit to you that, actually, whether you are looking at the FX or stock market, I believe that the majority of our judgements were accurate. <em>But what we completely did not do was to do a consideration of your risks.</em> …</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">[emphasis added]</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">&nbsp;</p></td></tr></tbody></table>
+>   
+| 
+
+…
+
+ | 
+
+ |
+| 
+
+\[Juan\]:
+
+ | 
+
+Okay. Mr. Pan, with the recent situation in the market, I want to tell you that we, at Deutsche Bank, definitely do not have any excuses. Okay. _We really definitely have no excuses in getting your portfolio into the state that it is in today._ Okay. But, we want to say that _whatever money is lost this time_, okay, we will, in the future, definitely earn back the money with planning.
+
+ |
+| 
+
+…
+
+ | 
+
+ |
+| 
+
+\[Juan\]:
+
+ | 
+
+… Mr. Pan, I must admit to you that, actually, whether you are looking at the FX or stock market, I believe that the majority of our judgements were accurate. _But what we completely did not do was to do a consideration of your risks._ …
+
+ |
+| 
+
+\[emphasis added\]
+
+ | 
+
+ |
 
   
   
@@ -662,9 +776,9 @@ A. _The main thing is they cheated me._
 
 172    The Plaintiffs pleaded that DB made the following two representations, which were false and on which they relied when entering into the 31 July 2008 Transactions:[^241]
 
-(a)     the US$50m profit representation, which was made to Pan by Juan on 30 July 2008 and at the 31 July 2008 Meeting (see \[39\] and \[41\] above); and
+> (a)     the US$50m profit representation, which was made to Pan by Juan on 30 July 2008 and at the 31 July 2008 Meeting (see \[39\] and \[41\] above); and
 
-(b)     the US$19.26m FX profit representation, which was made to Pan by Kwok at the 31 July 2008 Meeting (see \[42\] above).
+> (b)     the US$19.26m FX profit representation, which was made to Pan by Kwok at the 31 July 2008 Meeting (see \[42\] above).
 
 173    The Plaintiffs’ misrepresentation claim rested on two bases. First, the Plaintiffs submitted that DB was liable to them for misrepresentation under s 2(1) of the Misrepresentation Act.[^242] Second, the Plaintiffs pleaded that further and/or in the alternative, DB was liable to them for negligent misrepresentation, where DB owed the Plaintiffs a duty of care in tort to take reasonable care that the two representations were accurate, and it breached this duty of care.[^243]
 
@@ -684,21 +798,21 @@ A. _The main thing is they cheated me._
 
 180    Section 2(1) of the Misrepresentation Act states:
 
-**Damages for misrepresentation**
+> **Damages for misrepresentation**
 
-**2.**—(1)    Where a person has entered into a contract after a misrepresentation has been made to him by another party thereto and as a result thereof he has suffered loss, then, if the person making the misrepresentation would be liable to damages in respect thereof had the misrepresentation been made fraudulently, that person shall be so liable notwithstanding that the misrepresentation was not made fraudulently, unless he proves that he had reasonable ground to believe and did believe up to the time the contract was made that the facts represented were true.
+> **2.**—(1)    Where a person has entered into a contract after a misrepresentation has been made to him by another party thereto and as a result thereof he has suffered loss, then, if the person making the misrepresentation would be liable to damages in respect thereof had the misrepresentation been made fraudulently, that person shall be so liable notwithstanding that the misrepresentation was not made fraudulently, unless he proves that he had reasonable ground to believe and did believe up to the time the contract was made that the facts represented were true.
 
-…
+> …
 
 181    Briefly, for DB to be liable to the Plaintiffs for misrepresentation under s 2(1) of the Misrepresentation Act or for negligent misrepresentation, the Plaintiffs needed to prove that:
 
-(a)     DB (via its employees) made the US$50m profit representation and the US$19.26m FX profit representation to the Plaintiffs (via Pan);
+> (a)     DB (via its employees) made the US$50m profit representation and the US$19.26m FX profit representation to the Plaintiffs (via Pan);
 
-(b)     both representations were false;
+> (b)     both representations were false;
 
-(c)     both representations induced the Plaintiffs to enter into the 31 July 2008 Transactions; and
+> (c)     both representations induced the Plaintiffs to enter into the 31 July 2008 Transactions; and
 
-(d)     as a result thereof the Plaintiffs suffered loss.
+> (d)     as a result thereof the Plaintiffs suffered loss.
 
 #### Whether DB made the two representations
 
@@ -714,7 +828,39 @@ A. _The main thing is they cheated me._
 
 187    As mentioned at \[41\] above, Pan deposed in his AEIC that when Juan repeated the US$50m profit representation to him at the 31 July 2008 Meeting, he “recall\[ed\] exclaiming loudly that this was the best piece of news that \[he\] had heard in a while”. However, Pan did not ask DB how this substantial profit was made, or even discuss this representation with Chang at the very least. Instead, Chang did not hear or know of the US$50m profit representation on 31 July 2008 even though she attended the same meeting. She deposed in her AEIC that she received a call during the meeting and was walking out of the meeting room when “\[she\] heard Mr Pan saying quite loudly that he had just heard the best piece of news that he had heard in a while”.[^255] Her evidence was that the earliest point at which she learnt that the Plaintiffs had earned a profit of US$50m was during the telephone conversation on 17 September 2008 at or around 10.11pm involving her, Pan and Juan.[^256] It was recorded in the English translation of the transcript for this conversation as follows:[^257]
 
-<table align="left" cellpadding="0" cellspacing="0" class="Judg-2" frame="none" pgwide="1"><colgroup><col width="27.26%"> <col width="72.74%"> </colgroup><tbody><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">…</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">&nbsp;</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">[Pan]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">… whatever it was, if you [Juan] have told me at that time, 1 or 2 months ago when I have earned 50 million, to immediately cash it out, of course, it is too (inaudible) to talk about this now.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">[Juan]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Yep.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">…</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">&nbsp;</p></td></tr></tbody></table>
+>   
+| 
+
+…
+
+ | 
+
+ |
+| 
+
+\[Pan\]:
+
+ | 
+
+… whatever it was, if you \[Juan\] have told me at that time, 1 or 2 months ago when I have earned 50 million, to immediately cash it out, of course, it is too (inaudible) to talk about this now.
+
+ |
+| 
+
+\[Juan\]:
+
+ | 
+
+Yep.
+
+ |
+| 
+
+…
+
+ | 
+
+ |
 
   
   
@@ -737,19 +883,19 @@ I will discuss this telephone conversation with the other telephone conversation
 
 195    Section 116 and its illustration (_g_) of the Evidence Act state:
 
-**Court may presume existence of certain fact**
+> **Court may presume existence of certain fact**
 
-**116**.    The court may presume the existence of any fact which it thinks likely to have happened, regard being had to the common course of natural events, human conduct, and public and private business, in their relation to the facts of the particular case.
+> **116**.    The court may presume the existence of any fact which it thinks likely to have happened, regard being had to the common course of natural events, human conduct, and public and private business, in their relation to the facts of the particular case.
 
 _Illustrations_
 
-The court may presume —
+> The court may presume —
 
-…
+>> …
 
-(_g_)    that evidence which could be and is not produced would if produced be unfavourable to the person who withholds it;
+>> (_g_)    that evidence which could be and is not produced would if produced be unfavourable to the person who withholds it;
 
-…
+>> …
 
 196    In _Koh Bee Choo v Choo Chai Huah_ <span class="citation">\[2007\] SGCA 21</span>, it was stated that for a court to draw an adverse inference, there must first be some substratum of evidence establishing a _prima facie_ case against the person against whom the inference is to be drawn, and that person must have some particular access to the information he is said to be hiding (at \[28\]). It was also stated that the court’s ability to draw an adverse inference does not and cannot displace a party’s legal burden of proof (at \[28\]).
 
@@ -759,27 +905,27 @@ The court may presume —
 
 199    Moreover, I find that in cross-examining Yim, the Plaintiffs’ counsel had only asked him on Juan’s role as a Relationship Manager and the following as to her absence in these proceedings:[^271]
 
-Q.Why did Deutsche Bank not call Melanie Juan as a witness in this suit?
+> Q.Why did Deutsche Bank not call Melanie Juan as a witness in this suit?
 
-A.We did. We asked her to do so.
+> A.We did. We asked her to do so.
 
-Q.Is it a written request?
+> Q.Is it a written request?
 
-A.I believe it was a written request to -- by our lawyers and I also met up with her personally to ask her.
+> A.I believe it was a written request to -- by our lawyers and I also met up with her personally to ask her.
 
-Q.But she did not agree to come?
+> Q.But she did not agree to come?
 
-A.She declined to come.
+> A.She declined to come.
 
-Q.Why did she decline to come?
+> Q.Why did she decline to come?
 
-A.She said she was afraid to come to court.
+> A.She said she was afraid to come to court.
 
-Q.Let’s move on to Mr Kwok. No, before that, did she explain why she’s afraid to come to court?
+> Q.Let’s move on to Mr Kwok. No, before that, did she explain why she’s afraid to come to court?
 
-A.She said two things. She’s currently working in another institution. She was afraid what this may happen and she was afraid of Mr Pan.
+> A.She said two things. She’s currently working in another institution. She was afraid what this may happen and she was afraid of Mr Pan.
 
-Q.Let’s move on to Mr Terry Kwok. …
+> Q.Let’s move on to Mr Terry Kwok. …
 
 Cross-examination of Yim on this point was also general in that the Plaintiffs’ counsel did not suggest that DB had deliberately avoided calling Juan to give evidence as DB knew that her evidence would be adverse to it.
 
@@ -817,13 +963,13 @@ Cross-examination of Yim on this point was also general in that the Plaintiffs�
 
 214    As for the various transactions the Plaintiffs entered into on 31 July 2008 (see \[44\] above):
 
-(a)     The Trumpet: Where the Trumpet was five separate strangles which operated independently of each other, DB submitted that Pan had entered into a gold strangle earlier in July 2008 before 31 July 2008.[^282] DB submitted that the Trumpet was just another case of Pan executing the same investment strategy, albeit with a different asset (AUD) instead of gold.[^283]
+> (a)     The Trumpet: Where the Trumpet was five separate strangles which operated independently of each other, DB submitted that Pan had entered into a gold strangle earlier in July 2008 before 31 July 2008.[^282] DB submitted that the Trumpet was just another case of Pan executing the same investment strategy, albeit with a different asset (AUD) instead of gold.[^283]
 
-(b)     AUD and gold accumulators: DB submitted that 31 July 2008 was not the first time Pan bought AUD and gold accumulators under the Accounts,[^284] although I note the Plaintiffs’ submission that 31 July 2008 was the first time Pan bought an AUD accumulator since DB cautioned him of an overconcentration in AUD on 7 April 2008.[^285] DB also submitted that Pan held long positions in AUD and gold accumulators with other banks both before and after 31 July 2008, including in August 2008.[^286]
+> (b)     AUD and gold accumulators: DB submitted that 31 July 2008 was not the first time Pan bought AUD and gold accumulators under the Accounts,[^284] although I note the Plaintiffs’ submission that 31 July 2008 was the first time Pan bought an AUD accumulator since DB cautioned him of an overconcentration in AUD on 7 April 2008.[^285] DB also submitted that Pan held long positions in AUD and gold accumulators with other banks both before and after 31 July 2008, including in August 2008.[^286]
 
-(c)     Credit Derivative Transactions: The Plaintiffs submitted that 31 July 2008 was the first time Pan entered into the Credit Derivative Transactions under the Accounts.[^287] However, the Credit Derivative Transactions had generated a profit, _ie_, no loss was suffered (see \[44(d)\] above).
+> (c)     Credit Derivative Transactions: The Plaintiffs submitted that 31 July 2008 was the first time Pan entered into the Credit Derivative Transactions under the Accounts.[^287] However, the Credit Derivative Transactions had generated a profit, _ie_, no loss was suffered (see \[44(d)\] above).
 
-(d)     ROCAs linked to uranium companies: DB submitted that Pan had invested in such ROCAs before 31 July 2008.[^288] DB also submitted that in a telephone conversation involving Pan and Juan on 11 July 2008, Pan had specifically instructed Juan to look into how he could gain exposure to uranium companies.[^289]
+> (d)     ROCAs linked to uranium companies: DB submitted that Pan had invested in such ROCAs before 31 July 2008.[^288] DB also submitted that in a telephone conversation involving Pan and Juan on 11 July 2008, Pan had specifically instructed Juan to look into how he could gain exposure to uranium companies.[^289]
 
 215    In my view, it is irrelevant whether the Plaintiffs had previously entered into transactions of a similar nature with DB or with other banks before 31 July 2008. The Plaintiffs’ point was that they had entered into the 31 July 2008 Transactions not because they were unaware of the nature of the transactions (although this too was disputed in respect of the Trumpet[^290]), but that they entered into them because of the US$50m profit representation.
 
@@ -867,7 +1013,279 @@ Cross-examination of Yim on this point was also general in that the Plaintiffs�
 
 230    The parties essentially disputed as to whether Pan had given such authorisation in a telephone conversation on 13 October 2008 at or around 1.59pm involving Pan and Sze (see \[67\] above). The duration of the conversation was just over three minutes, and the conversation was conducted in Mandarin and Cantonese, interspersed with some English words. I set out at length the relevant portions of the English translation of the transcript for this conversation, and I have underlined the words which were spoken in English during the conversation:[^302]
 
-<table align="left" cellpadding="0" cellspacing="0" class="Judg-2" frame="none" pgwide="1"><colgroup><col width="25.16%"> <col width="74.84%"> </colgroup><tbody><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">…</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">&nbsp;</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">[Sze]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Er, Mr Pan, good afternoon, how are you?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">…</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">&nbsp;</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">[Pan]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">---I don’t wish you guys to give us any more <u>margin call</u>. You guys think how (you) want to come out, <em>we come and make a final decision</em>, don’t every day what should come out didn’t come out; what should be done is not done.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">[Sze]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">(I) know.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">[Pan]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Then again I don’t have any money to use. Everyday it seems I have <u>margin call</u> again.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">[Sze]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1"><u>Okay</u>.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">[Pan]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Is that alright?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">[Sze]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Okay.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">[Pan]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">At the very least, like you tell me, eh, you guys---(inaudible) like we originally have about more than 300 million, isn’t it? 360 million, then now you say it’s only left with 140 million. Is that correct?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">[Sze]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Er---</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">[Pan]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">This is not untrue, isn’t that right?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">[Sze]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Er---</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">[Pan]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Then now you want <u>margin call</u> again. So, you are still left with how much now? Then we have---have this figure. <em>You guys as a </em><em><u>team </u></em><em>come and take charge of it.</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">[Sze]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Ah.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">[Pan]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Don’t everyday come---come and tell me at the last minute. I also don’t know what should be done.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">[Sze]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">So, Mr&nbsp;Pan, since you say we will---<em>our </em><em><u>team </u></em><em>will discuss about it again, the things that need to be close out will be close out</em>---</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">[Pan]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">That’s right.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">[Sze]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">---and not everyday drag on---drag on.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">[Pan]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">That’s right, that’s right. Everyday keep dragging---dragging on, until the head aches.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">…</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">&nbsp;</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">[Pan]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">… Everyday telling me, telephoning me to say you have <u>margin call</u> now.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">…</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">&nbsp;</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">[Sze]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">There is something else, Mr&nbsp;Pan, because I---I don’t know if <u>Melanie</u> [Juan] has given you a figure because up till last Friday we---because the market is still dropping, so now it’s only about 70 million plus.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">…</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">&nbsp;</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">[Sze]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Okay, we will calculate it again and at the same time, <em>we will determine what we will close out now, that is, which position to close out.</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">[Pan]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Correct.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">…</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">&nbsp;</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">[Sze]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Okay, (I) know. We will---<em>we will get in touch with you by phone in about two hours’ time</em>, okay?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">[Pan]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Okay. …</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">…</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">&nbsp;</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">[emphasis added]</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">&nbsp;</p></td></tr></tbody></table>
+>   
+| 
+
+…
+
+ | 
+
+ |
+| 
+
+\[Sze\]:
+
+ | 
+
+Er, Mr Pan, good afternoon, how are you?
+
+ |
+| 
+
+…
+
+ | 
+
+ |
+| 
+
+\[Pan\]:
+
+ | 
+
+\---I don’t wish you guys to give us any more margin call. You guys think how (you) want to come out, _we come and make a final decision_, don’t every day what should come out didn’t come out; what should be done is not done.
+
+ |
+| 
+
+\[Sze\]:
+
+ | 
+
+(I) know.
+
+ |
+| 
+
+\[Pan\]:
+
+ | 
+
+Then again I don’t have any money to use. Everyday it seems I have margin call again.
+
+ |
+| 
+
+\[Sze\]:
+
+ | 
+
+Okay.
+
+ |
+| 
+
+\[Pan\]:
+
+ | 
+
+Is that alright?
+
+ |
+| 
+
+\[Sze\]:
+
+ | 
+
+Okay.
+
+ |
+| 
+
+\[Pan\]:
+
+ | 
+
+At the very least, like you tell me, eh, you guys---(inaudible) like we originally have about more than 300 million, isn’t it? 360 million, then now you say it’s only left with 140 million. Is that correct?
+
+ |
+| 
+
+\[Sze\]:
+
+ | 
+
+Er---
+
+ |
+| 
+
+\[Pan\]:
+
+ | 
+
+This is not untrue, isn’t that right?
+
+ |
+| 
+
+\[Sze\]:
+
+ | 
+
+Er---
+
+ |
+| 
+
+\[Pan\]:
+
+ | 
+
+Then now you want margin call again. So, you are still left with how much now? Then we have---have this figure. _You guys as a_ _team_ _come and take charge of it._
+
+ |
+| 
+
+\[Sze\]:
+
+ | 
+
+Ah.
+
+ |
+| 
+
+\[Pan\]:
+
+ | 
+
+Don’t everyday come---come and tell me at the last minute. I also don’t know what should be done.
+
+ |
+| 
+
+\[Sze\]:
+
+ | 
+
+So, Mr Pan, since you say we will---_our_ _team_ _will discuss about it again, the things that need to be close out will be close out_\---
+
+ |
+| 
+
+\[Pan\]:
+
+ | 
+
+That’s right.
+
+ |
+| 
+
+\[Sze\]:
+
+ | 
+
+\---and not everyday drag on---drag on.
+
+ |
+| 
+
+\[Pan\]:
+
+ | 
+
+That’s right, that’s right. Everyday keep dragging---dragging on, until the head aches.
+
+ |
+| 
+
+…
+
+ | 
+
+ |
+| 
+
+\[Pan\]:
+
+ | 
+
+… Everyday telling me, telephoning me to say you have margin call now.
+
+ |
+| 
+
+…
+
+ | 
+
+ |
+| 
+
+\[Sze\]:
+
+ | 
+
+There is something else, Mr Pan, because I---I don’t know if Melanie \[Juan\] has given you a figure because up till last Friday we---because the market is still dropping, so now it’s only about 70 million plus.
+
+ |
+| 
+
+…
+
+ | 
+
+ |
+| 
+
+\[Sze\]:
+
+ | 
+
+Okay, we will calculate it again and at the same time, _we will determine what we will close out now, that is, which position to close out._
+
+ |
+| 
+
+\[Pan\]:
+
+ | 
+
+Correct.
+
+ |
+| 
+
+…
+
+ | 
+
+ |
+| 
+
+\[Sze\]:
+
+ | 
+
+Okay, (I) know. We will---_we will get in touch with you by phone in about two hours’ time_, okay?
+
+ |
+| 
+
+\[Pan\]:
+
+ | 
+
+Okay. …
+
+ |
+| 
+
+…
+
+ | 
+
+ |
+| 
+
+\[emphasis added\]
+
+ | 
+
+ |
 
   
   
@@ -890,7 +1308,7 @@ Cross-examination of Yim on this point was also general in that the Plaintiffs�
 
 238    I reproduce the relevant portion of cl 2.6 of the Master Agreement (which was earlier set out at \[97\] above):[^310]
 
-2.6    … Such margin or collateral requirements may be notified by the Bank to the Counterparty _in writing or verbally_. If the Bank shall for any reason deem that there is insufficient collateral held … _the Counterparty shall within one business day’s notice thereof deliver additional collateral of a type acceptable to the Bank_ in its sole discretion … in an amount as may be required by the Bank. … For the avoidance of doubt, _if the Counterparty fails to deliver such additional collateral, such failure shall constitute an Event of Default_ in respect of the Counterparty pursuant to Clause 5 below and _the Bank may proceed to terminate some or all of the Transactions at its discretion pursuant to Clause 5 without further notice to the Counterparty_ other than the notice of termination to be provided under Clause 5.4. \[emphasis added\]
+> 2.6    … Such margin or collateral requirements may be notified by the Bank to the Counterparty _in writing or verbally_. If the Bank shall for any reason deem that there is insufficient collateral held … _the Counterparty shall within one business day’s notice thereof deliver additional collateral of a type acceptable to the Bank_ in its sole discretion … in an amount as may be required by the Bank. … For the avoidance of doubt, _if the Counterparty fails to deliver such additional collateral, such failure shall constitute an Event of Default_ in respect of the Counterparty pursuant to Clause 5 below and _the Bank may proceed to terminate some or all of the Transactions at its discretion pursuant to Clause 5 without further notice to the Counterparty_ other than the notice of termination to be provided under Clause 5.4. \[emphasis added\]
 
 239    The requisite notice under cl 2.6 was one business day for the Plaintiffs to deliver additional collateral to DB, and this notice to deliver additional collateral was otherwise known as a “margin call”. The parties did not seem to dispute that DB could make a margin call “in writing or verbally”.[^311]
 
@@ -922,7 +1340,7 @@ Cross-examination of Yim on this point was also general in that the Plaintiffs�
 
 251    On the concept of ostensible authority, the Court of Appeal in _Tribune Investment Trust Inc v Soosan Trading Co Ltd_ <span class="citation">\[2000\] 2 SLR(R) 407</span> at \[48\] cited with approval Lord Keith of Kinkel’s explanation in _Armagas Ltd v Mundogas SA (The “Ocean Frost”)_ \[1986\] 2 Lloyd’s Rep 109 at 112 as follows:
 
-… Ostensible authority comes about where the principal, by words or _conduct_, has _represented_ that the agent has the requisite actual authority, and the party dealing with the agent has entered into a contract with him _in reliance on that representation_. The principle in these circumstances is _estoppel_ from denying that actual authority existed. In the commonly encountered case, the ostensible authority is general in character, arising when the principal has _placed the agent in a position which in the outside world_ is generally regarded as carrying authority to enter into transactions of the kind in question. Ostensible general authority may also arise where the agent has had _a course of dealing with a particular contractor and the principal has acquiesced_ in this course of dealing and honoured transactions arising out of it. … \[emphasis added\]
+> … Ostensible authority comes about where the principal, by words or _conduct_, has _represented_ that the agent has the requisite actual authority, and the party dealing with the agent has entered into a contract with him _in reliance on that representation_. The principle in these circumstances is _estoppel_ from denying that actual authority existed. In the commonly encountered case, the ostensible authority is general in character, arising when the principal has _placed the agent in a position which in the outside world_ is generally regarded as carrying authority to enter into transactions of the kind in question. Ostensible general authority may also arise where the agent has had _a course of dealing with a particular contractor and the principal has acquiesced_ in this course of dealing and honoured transactions arising out of it. … \[emphasis added\]
 
 The Court of Appeal in _Guy Neale and others v Ku De Ta SG Pte Ltd_ <span class="citation">\[2015\] 4 SLR 283</span> (“_Guy Neale_”) stated that the question of apparent authority is a question of mixed fact and law, and it is thus important to “analyse the facts to ascertain what exactly the alleged representation is” (at \[98\]).
 
@@ -930,43 +1348,43 @@ The Court of Appeal in _Guy Neale and others v Ku De Ta SG Pte Ltd_ <span class=
 
 253    Yim gave evidence as to how DB was to issue a margin call to Pan. I set out Yim’s evidence during cross-examination:[^329]
 
-Q.Were you the one who instructed Ms Juan to send the letter via email?
+> Q.Were you the one who instructed Ms Juan to send the letter via email?
 
-A.No. The -- the instruction was for the RM \[Relationship Manager\] _to send the margin call letters to the clients_.
+> A.No. The -- the instruction was for the RM \[Relationship Manager\] _to send the margin call letters to the clients_.
 
-Q. _So it wasn’t your instruction as well for Ms Juan to actually send the margin call letter to Grace Chang?_
+> Q. _So it wasn’t your instruction as well for Ms Juan to actually send the margin call letter to Grace Chang?_
 
-A. _Not that I was aware of._
+> A. _Not that I was aware of._
 
-Q.So that was a decision which Ms Melanie Juan made herself?
+> Q.So that was a decision which Ms Melanie Juan made herself?
 
-A.I don’t know.
+> A.I don’t know.
 
-Q.Would you agree with me, and I think you probably would given your evidence earlier, that the 3 October margin call letter should have been sent to Mr Pan?
+> Q.Would you agree with me, and I think you probably would given your evidence earlier, that the 3 October margin call letter should have been sent to Mr Pan?
 
-A. _I would agree that that would have followed up to send to Mr Pan_, but I think margin calls are verbal as well as letter. But, yes, if you ask me in hindsight would I have copied -- would we better copy everyone else, the answer is yes.
+> A. _I would agree that that would have followed up to send to Mr Pan_, but I think margin calls are verbal as well as letter. But, yes, if you ask me in hindsight would I have copied -- would we better copy everyone else, the answer is yes.
 
-Q.You referred to verbal communications.
+> Q.You referred to verbal communications.
 
-A.Yes.
+> A.Yes.
 
-Q.I’m going to suggest to you that even if Deutsche Bank wanted to make a verbal margin call, that should have been done to Mr Pan directly. Would you agree with me?
+> Q.I’m going to suggest to you that even if Deutsche Bank wanted to make a verbal margin call, that should have been done to Mr Pan directly. Would you agree with me?
 
-A. _I would agree with you that Mr Pan needed to know that was his case._
+> A. _I would agree with you that Mr Pan needed to know that was his case._
 
-Q.Yes, _because he’s the authorised person under the plaintiffs’ account_, right, Mr Yim?
+> Q.Yes, _because he’s the authorised person under the plaintiffs’ account_, right, Mr Yim?
 
-A. _Yes, he is._
+> A. _Yes, he is._
 
-Q. _Ms Grace Chang_, I think we have gone through this yesterday, _does not have any authority under the accounts_, right, Mr Yim?
+> Q. _Ms Grace Chang_, I think we have gone through this yesterday, _does not have any authority under the accounts_, right, Mr Yim?
 
-A. _That is the understanding you have shown me._
+> A. _That is the understanding you have shown me._
 
-Q. _I don’t believe that Mr Pan had given the bank any express authorisation to send the 3 October 2008 margin call letter to Ms Chang_, right, Mr Yim?
+> Q. _I don’t believe that Mr Pan had given the bank any express authorisation to send the 3 October 2008 margin call letter to Ms Chang_, right, Mr Yim?
 
-A. _That is correct_ although Grace has been -- was involved all the way, but you are right from that perspective there was -- _not that I know of from an explicit written letter_.
+> A. _That is correct_ although Grace has been -- was involved all the way, but you are right from that perspective there was -- _not that I know of from an explicit written letter_.
 
-\[emphasis added\]
+> \[emphasis added\]
 
 Yim testified that Pan was the authorised person named under the Accounts and Yim did not dispute that, as such, Chang did not have any authority under the Accounts. However, this did not answer the question as to whether or not Chang had _ostensible_ authority to receive a margin call from DB on behalf of the Plaintiffs.
 
@@ -982,7 +1400,16 @@ Yim testified that Pan was the authorised person named under the Accounts and Yi
 
 259    During cross-examination, Tsang raised two telephone conversations that took place on 4 October 2008 between him, Juan and Chang at or around 11.04pm and 11.37pm respectively,[^334] to show that they were discussing how to tell Pan at the 6 October 2008 Meeting about the issue of a margin call.[^335] Of note is what Juan said during the telephone conversation at or around 11.37pm, as recorded in the English translation of the relevant transcript (the words which were spoken in English are underlined):[^336]
 
-<table align="left" cellpadding="0" cellspacing="0" class="Judg-2" frame="none" pgwide="1"><colgroup><col width="25.16%"> <col width="74.84%"> </colgroup><tbody><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">[Juan]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">… <u>Grace</u>, I---I feel that I will still tell him, that is, ‘Mr&nbsp;Pan,’ I still want to tell him about ‘the pressure of this <u>margin call</u>,’ and also ‘your---your <u>liabilities</u> are like this.’ I feel that I will definitely---I will definitely mention (it) …</p></td></tr></tbody></table>
+>   
+| 
+
+\[Juan\]:
+
+ | 
+
+… Grace, I---I feel that I will still tell him, that is, ‘Mr Pan,’ I still want to tell him about ‘the pressure of this margin call,’ and also ‘your---your liabilities are like this.’ I feel that I will definitely---I will definitely mention (it) …
+
+ |
 
   
   
@@ -1005,37 +1432,37 @@ Yim testified that Pan was the authorised person named under the Accounts and Yi
 
 267    Sze was the only employee of DB who gave more detailed evidence in relation to the 6 October 2008 Margin Call Letter. I set out Sze’s evidence during cross-examination:[^340]
 
-A.… But the point was, before going into the door -- okay, glass door of that meeting, I told Ms Juan, ‘We need to -- you need to present physically the letter to Mr Pan.’ Because in the meeting, _Dennis \[Chiu\] was there_. He -- _he came from credit risk management department._ In this meeting, _he was the policeman to make sure that we do that._ So I have this very clear memory.
+> A.… But the point was, before going into the door -- okay, glass door of that meeting, I told Ms Juan, ‘We need to -- you need to present physically the letter to Mr Pan.’ Because in the meeting, _Dennis \[Chiu\] was there_. He -- _he came from credit risk management department._ In this meeting, _he was the policeman to make sure that we do that._ So I have this very clear memory.
 
-Q.Your evidence is you told Ms Juan before you entered the glass door to give that letter?
+> Q.Your evidence is you told Ms Juan before you entered the glass door to give that letter?
 
-A.To remind her.
+> A.To remind her.
 
-…
+> …
 
-Q.But did you see her physically give the letter to Mr Pan during the meeting?
+> Q.But did you see her physically give the letter to Mr Pan during the meeting?
 
-A.I do not recall. But it should happen like that.
+> A.I do not recall. But it should happen like that.
 
-Q.Mr Sze, I'm just asking – it’s either you do not recall or it happened. So is it you do not recall or did you really see Ms Juan give that letter to Mr Pan?
+> Q.Mr Sze, I'm just asking – it’s either you do not recall or it happened. So is it you do not recall or did you really see Ms Juan give that letter to Mr Pan?
 
-A.I do not recall it happened.
+> A.I do not recall it happened.
 
-…
+> …
 
-Q.So do you want to change your evidence at paragraph 52 \[of your AEIC\] when you say ‘at the meeting, Melanie \[Juan\] provided Mr Pan with the 6 October 2008 margin call letter’?
+> Q.So do you want to change your evidence at paragraph 52 \[of your AEIC\] when you say ‘at the meeting, Melanie \[Juan\] provided Mr Pan with the 6 October 2008 margin call letter’?
 
-A.I would say I would change -- I believe Melanie provided.
+> A.I would say I would change -- I believe Melanie provided.
 
-Q.So it’s:
+> Q.So it’s:
 
-‘_I believe Melanie provided Mr Pan with the 6 October 2008 margin call letter._’
+>> ‘_I believe Melanie provided Mr Pan with the 6 October 2008 margin call letter._’
 
-Right?
+>> Right?
 
-A.Yes.
+> A.Yes.
 
-\[emphasis added\]
+> \[emphasis added\]
 
 268    The Plaintiffs submitted that if the fact that Juan had to present the 6 October 2008 Margin Call Letter to Pan at the meeting was weighing on Sze’s mind, he must have taken note and would have remembered if Juan physically gave a copy of the letter to Pan.[^341]
 
@@ -1049,14 +1476,228 @@ A.Yes.
 
 273    On 8 October 2008, there was a telephone conversation at or around 7.52pm between Chang and Juan.[^345] The duration of the conversation was over 17 minutes, and the conversation was conducted in Mandarin, interspersed with some English words. I reproduce a portion of the English translation of the transcript for this conversation, and have underlined the words which were spoken in English during the conversation:[^346]
 
-<table align="left" cellpadding="0" cellspacing="0" class="Judg-2" frame="none" pgwide="1"><colgroup><col width="29.58%"> <col width="70.42%"> </colgroup><tbody><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">…</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">&nbsp;</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">[Juan]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">But, <u>Grace</u>, frankly speaking, it has already reached this situation already, actually---actually <em>the bank</em> it will---it <em>will really close out everything</em>.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">[Chang]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Will everything what?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">[Juan]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Will close out all the positions.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">[Chang]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Will close out all the positions?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">[Juan]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Mm, because <em>the </em><em><u>margin call</u></em>, the <u>shortfall</u>, the feeling is it is endless.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">[Chang]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Correct.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">…</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">&nbsp;</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">[emphasis added]</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">&nbsp;</p></td></tr></tbody></table>
+>   
+| 
+
+…
+
+ | 
+
+ |
+| 
+
+\[Juan\]:
+
+ | 
+
+But, Grace, frankly speaking, it has already reached this situation already, actually---actually _the bank_ it will---it _will really close out everything_.
+
+ |
+| 
+
+\[Chang\]:
+
+ | 
+
+Will everything what?
+
+ |
+| 
+
+\[Juan\]:
+
+ | 
+
+Will close out all the positions.
+
+ |
+| 
+
+\[Chang\]:
+
+ | 
+
+Will close out all the positions?
+
+ |
+| 
+
+\[Juan\]:
+
+ | 
+
+Mm, because _the_ _margin call_, the shortfall, the feeling is it is endless.
+
+ |
+| 
+
+\[Chang\]:
+
+ | 
+
+Correct.
+
+ |
+| 
+
+…
+
+ | 
+
+ |
+| 
+
+\[emphasis added\]
+
+ | 
+
+ |
 
   
   
 
 274    On 9 October 2008, there was a telephone conversation at or around 11.27am between Chang, Juan, Sze and another DB employee.[^347] The duration of the conversation was over 12 minutes, and the conversation was conducted in Mandarin, interspersed with some English words. I reproduce a portion of the English translation of the transcript for this conversation, and have underlined the words which were spoken in English during the conversation:[^348]
 
-<table align="left" cellpadding="0" cellspacing="0" class="Judg-2" frame="none" pgwide="1"><colgroup><col width="34.2%"> <col width="65.8%"> </colgroup><tbody><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">…</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">&nbsp;</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">[Juan]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Er, <u>Grace</u>, actually <em>we want to close out</em> at the same time is also to protect Mr&nbsp;Pan’s asset, but at the same time <em>is also because of </em><em><u>margin call</u></em>.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">[Chang]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">I always felt---</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">[Juan]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1"><u>Okay</u>---so I say cannot---we cannot keep telling Mr&nbsp;Pan that it’s because of <u>margin call</u> then we have to do in this way, but actually this is---it is equivalent to we---</p></td></tr><tr><td align="left" class="" colspan="2" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">(Speakers speaking simultaneously)</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">[Chang]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Correct, it is not wrong, I know, I know your (plural) <u>margin call</u>, but Mr&nbsp;Pan always felt that <u>margin call</u> has been brought up a long time ago. Within a period of time you can do it also, you don’t have to wait until the last day <u>margin call</u> when it must be done then do it.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">[Juan]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Mm.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">…</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">&nbsp;</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">[Sze]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">… <u>Grace</u>, I---I know Mr&nbsp;Pan is very angry with this <u>margin call</u> problem.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">[Chang]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Ah.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">[Sze]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">But today our <u>margin call</u> (inaudible) is very serious.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">…</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">&nbsp;</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">[Chang]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">You must face this problem.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">[Sze]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">---all of us have pressure, <u>management</u> asked us to tell Mr&nbsp;Pan if he could <em>close out</em> the <u>accumulator</u> first.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">[Chang]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Mm.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">…</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">&nbsp;</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">[emphasis added]</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">&nbsp;</p></td></tr></tbody></table>
+>   
+| 
+
+…
+
+ | 
+
+ |
+| 
+
+\[Juan\]:
+
+ | 
+
+Er, Grace, actually _we want to close out_ at the same time is also to protect Mr Pan’s asset, but at the same time _is also because of_ _margin call_.
+
+ |
+| 
+
+\[Chang\]:
+
+ | 
+
+I always felt---
+
+ |
+| 
+
+\[Juan\]:
+
+ | 
+
+Okay\---so I say cannot---we cannot keep telling Mr Pan that it’s because of margin call then we have to do in this way, but actually this is---it is equivalent to we---
+
+ |
+| 
+
+(Speakers speaking simultaneously)
+
+ |
+| 
+
+\[Chang\]:
+
+ | 
+
+Correct, it is not wrong, I know, I know your (plural) margin call, but Mr Pan always felt that margin call has been brought up a long time ago. Within a period of time you can do it also, you don’t have to wait until the last day margin call when it must be done then do it.
+
+ |
+| 
+
+\[Juan\]:
+
+ | 
+
+Mm.
+
+ |
+| 
+
+…
+
+ | 
+
+ |
+| 
+
+\[Sze\]:
+
+ | 
+
+… Grace, I---I know Mr Pan is very angry with this margin call problem.
+
+ |
+| 
+
+\[Chang\]:
+
+ | 
+
+Ah.
+
+ |
+| 
+
+\[Sze\]:
+
+ | 
+
+But today our margin call (inaudible) is very serious.
+
+ |
+| 
+
+…
+
+ | 
+
+ |
+| 
+
+\[Chang\]:
+
+ | 
+
+You must face this problem.
+
+ |
+| 
+
+\[Sze\]:
+
+ | 
+
+\---all of us have pressure, management asked us to tell Mr Pan if he could _close out_ the accumulator first.
+
+ |
+| 
+
+\[Chang\]:
+
+ | 
+
+Mm.
+
+ |
+| 
+
+…
+
+ | 
+
+ |
+| 
+
+\[emphasis added\]
+
+ | 
+
+ |
 
   
   
@@ -1065,19 +1706,19 @@ A.Yes.
 
 276    I then consider again the telephone conversation on 13 October 2008 at or around 1.59pm involving Pan and Sze, which was set out at \[230\] above. As DB submitted, Pan had used the words “margin call” in English at four points during the telephone conversation (which was conducted mainly in Mandarin and Cantonese), as follows:[^349]
 
-(a)     “I don’t wish you guys to give us any more margin call. You guys think how (you) want to come out, we come and make a final decision …”
+> (a)     “I don’t wish you guys to give us any more margin call. You guys think how (you) want to come out, we come and make a final decision …”
 
-(b)     “Then again I don’t have any money to use. Everyday it seems I have margin call again.”
+> (b)     “Then again I don’t have any money to use. Everyday it seems I have margin call again.”
 
-(c)     “Then now you want margin call again.”
+> (c)     “Then now you want margin call again.”
 
-(d)     “Everyday telling me, telephoning me to say you have margin call now.”
+> (d)     “Everyday telling me, telephoning me to say you have margin call now.”
 
 I reproduce also two of Sze’s replies during this conversation:
 
-(a)     “… our team will discuss about it again, the things that need to be _close out_ will be close out …” \[emphasis added\].
+> (a)     “… our team will discuss about it again, the things that need to be _close out_ will be close out …” \[emphasis added\].
 
-(b)     “… we will determine what we will _close out_ now, that is, which position to close out” \[emphasis added\].
+> (b)     “… we will determine what we will _close out_ now, that is, which position to close out” \[emphasis added\].
 
 277    With respect to this telephone conversation, Pan testified that he understood “margin calls” to mean “insufficient assets”,[^350] and Chang testified that she and Pan understood a “margin call” to mean that the Plaintiffs were “short of money”.[^351] The Plaintiffs submitted that Pan could not have been using “margin call” in the “formal sense”, because it was not even DB’s case that it made margin calls in the formal sense every day, but only that there was a collateral shortfall every day from 3 October 2008 to 13 October 2008.[^352]
 

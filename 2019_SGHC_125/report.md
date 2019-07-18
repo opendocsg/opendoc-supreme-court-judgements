@@ -25,25 +25,25 @@ Trusts – Trustees – Duties – Duty to let trust property
 
 4       In early 2012, the parties’ relationship took a turn for the worse. It was during this time that the DOT was executed and signed by the both of them on 17 April 2012. I set out the material terms of the DOT below:[^1]
 
-THIS DECLARATION OF TRUST is made \[17 April 2012\] by \[Richard\] (hereinafter called “the Trustee”).
+> THIS DECLARATION OF TRUST is made \[17 April 2012\] by \[Richard\] (hereinafter called “the Trustee”).
 
-WHEREAS:-
+> WHEREAS:-
 
-(1)    This declaration is supplemental to the purchase of the properties known as \[the Wajek Property\] and \[the Ampang Property\] (hereinafter collectively called “the Properties”)
+>> (1)    This declaration is supplemental to the purchase of the properties known as \[the Wajek Property\] and \[the Ampang Property\] (hereinafter collectively called “the Properties”)
 
-(2)    The Trustee **hereby declare** \[_sic_\] that the purchase prices of the Properties said to have been paid by the Trustee … were in fact provided by \[Jocelyn\] (hereinafter called “the Beneficiary”) and the Properties **has been held** \[_sic_\] by the Trustee as trustee for the Beneficiary as the Trustee hereby acknowledges.
+>> (2)    The Trustee **hereby declare** \[_sic_\] that the purchase prices of the Properties said to have been paid by the Trustee … were in fact provided by \[Jocelyn\] (hereinafter called “the Beneficiary”) and the Properties **has been held** \[_sic_\] by the Trustee as trustee for the Beneficiary as the Trustee hereby acknowledges.
 
-NOW THIS DEED WITNESSETH that the Trustee **hereby declares that he holds** the Properties in trust for the Beneficiary absolutely and **hereby agree** \[_sic_\] that he will at the request and cost of the Beneficiary transfer the Properties to the Beneficiary or to such person or persons at such time and in such manner or otherwise deal with the same as the Beneficiary shall direct or appoint.
+> NOW THIS DEED WITNESSETH that the Trustee **hereby declares that he holds** the Properties in trust for the Beneficiary absolutely and **hereby agree** \[_sic_\] that he will at the request and cost of the Beneficiary transfer the Properties to the Beneficiary or to such person or persons at such time and in such manner or otherwise deal with the same as the Beneficiary shall direct or appoint.
 
-The Trustee and the Beneficiary hereby covenant with each other as follows:
+> The Trustee and the Beneficiary hereby covenant with each other as follows:
 
-(a)    all income, rental and/or investment derived from the Properties shall be deposited in the joint bank account which the Trustee and the Beneficiary have with a Bank;
+>> (a)    all income, rental and/or investment derived from the Properties shall be deposited in the joint bank account which the Trustee and the Beneficiary have with a Bank;
 
-(b)    to pay or contribute all due proportion of all rates taxes premiums of insurance and other outgoings payable in respect of the Properties and all other expenses as may be paid for by the Beneficiary from the joint bank account;
+>> (b)    to pay or contribute all due proportion of all rates taxes premiums of insurance and other outgoings payable in respect of the Properties and all other expenses as may be paid for by the Beneficiary from the joint bank account;
 
-(c)    to keep indemnified each other from all actions claims and demands incurred or to be incurred by such last mentioned party by reason for any default on the part of the covenanting party in performing his/her obligations under this clause …
+>> (c)    to keep indemnified each other from all actions claims and demands incurred or to be incurred by such last mentioned party by reason for any default on the part of the covenanting party in performing his/her obligations under this clause …
 
-\[emphasis added in bold\]
+> \[emphasis added in bold\]
 
 5       In August 2013, Richard filed for divorce (“the First Divorce Proceedings”) but this was withdrawn. He again filed for divorce in 2016 but this was also withdrawn. Richard filed the final divorce proceedings in 2017 leading to interim judgment being granted in May 2017, with the ancillary matters pending to be heard after this suit.
 
@@ -71,9 +71,9 @@ The Trustee and the Beneficiary hereby covenant with each other as follows:
 
 14     The main issues for consideration are as follows:
 
-(a)     whether the DOT was vitiated by duress or illegality due to contravention of the RPA; and
+> (a)     whether the DOT was vitiated by duress or illegality due to contravention of the RPA; and
 
-(b)     if the DOT is valid and enforceable, whether Jocelyn can succeed in her claims for lost rental in respect of the Properties, and diminution in value due to the aborted sale of the Ampang Property.
+> (b)     if the DOT is valid and enforceable, whether Jocelyn can succeed in her claims for lost rental in respect of the Properties, and diminution in value due to the aborted sale of the Ampang Property.
 
 ## Preliminary issue – Application for hearing _in camera_
 
@@ -121,7 +121,7 @@ The Trustee and the Beneficiary hereby covenant with each other as follows:
 
 33     Further, as explained by the Court of Appeal in _Fong Wai Lyn Carolyn v Kao Chai-Chau Linda and others_ <span class="citation">\[2017\] 4 SLR 1018</span> (“_Carolyn Fong_”) at \[51\], a recital in a deed can only assist in the construction of the substantive terms of the deed. It cannot override or control the operation of the substantive terms where such terms are clear and unambiguous. The Court of Appeal also cited with approval _Ex parte Dawes; In re Moon_ <span class="citation">(1886) 17 QBD 275</span> at 286:
 
-Now there are three rules applicable to the construction of such an instrument. If the recitals are clear and the operative part is ambiguous, the recitals govern the construction. If the recitals are ambiguous, and the operative part is clear, the operative part must prevail. If both the recitals and the operative part are clear, but they are inconsistent with each other, the operative part is to be preferred.
+> Now there are three rules applicable to the construction of such an instrument. If the recitals are clear and the operative part is ambiguous, the recitals govern the construction. If the recitals are ambiguous, and the operative part is clear, the operative part must prevail. If both the recitals and the operative part are clear, but they are inconsistent with each other, the operative part is to be preferred.
 
 ### Whether the DOT created a fresh trust or merely evidenced an existing trust
 
@@ -135,17 +135,17 @@ Now there are three rules applicable to the construction of such an instrument. 
 
 38     Second, that Jocelyn had taken contradictory positions in her earlier affidavits is not fatal to her case. To take three examples of her inconsistency:[^40]
 
-(a)     At paragraph \[308\] of her affidavit of 26 June 2015 filed in the First Divorce Proceedings (“June 2015 Affidavit”), she stated that:
+> (a)     At paragraph \[308\] of her affidavit of 26 June 2015 filed in the First Divorce Proceedings (“June 2015 Affidavit”), she stated that:
 
-… Richard has alleged that these properties are matrimonial properties. This is entirely untrue. I am the sole beneficiary of both properties and Richard holds both properties on trust for me.
+>> … Richard has alleged that these properties are matrimonial properties. This is entirely untrue. I am the sole beneficiary of both properties and Richard holds both properties on trust for me.
 
-(b)     At paragraph \[485\] of the June 2015 Affidavit, she stated that:
+> (b)     At paragraph \[485\] of the June 2015 Affidavit, she stated that:
 
-… Richard knew I had wanted a trust deed drawn up to clarify the legal and beneficial ownership of the Ampang and Wajek Properties.
+>> … Richard knew I had wanted a trust deed drawn up to clarify the legal and beneficial ownership of the Ampang and Wajek Properties.
 
-(c)     At paragraph 7 of Jocelyn’s affidavit of 10 November 2016 (“November 2016 Affidavit”) filed in support of OS No 1248 of 2016 (which was eventually converted to the present action), she stated that:
+> (c)     At paragraph 7 of Jocelyn’s affidavit of 10 November 2016 (“November 2016 Affidavit”) filed in support of OS No 1248 of 2016 (which was eventually converted to the present action), she stated that:
 
-From the inception of the purchase, it was intended that \[the Properties\] were to belong solely to \[Jocelyn\]. For that reason, the title deeds to the property are in the custody of \[Jocelyn\]. Renovations on \[the Properties\] were also paid entirely by \[Jocelyn\].
+>> From the inception of the purchase, it was intended that \[the Properties\] were to belong solely to \[Jocelyn\]. For that reason, the title deeds to the property are in the custody of \[Jocelyn\]. Renovations on \[the Properties\] were also paid entirely by \[Jocelyn\].
 
 39     Jocelyn could not offer a coherent explanation for the above when cross-examined. In relation to \[38(a)\] above, she equivocated and then stated that the properties “are still always matrimonial properties in the sense that, you know, whatever we had was always to be together”.[^41] In relation to \[38(b)\] above, when asked what there was to be clarified (given that the DOT was clear in terms of whom the Properties belonged to) Jocelyn’s response was that the clarification was regarding how the Properties were to be given to the children and not kept by Richard for himself, even whilst accepting the proposition that it would not be a “true gift” to Richard if he could not do anything he wanted with it.[^42] In relation to \[38(c)\] above, whilst accepting that she did make this statement, Jocelyn claimed that she did not know what “inception” meant and had merely glanced through the affidavit when she signed it.[^43]
 
@@ -183,7 +183,7 @@ From the inception of the purchase, it was intended that \[the Properties\] were
 
 54     In _Lewin on Trusts_ (Sweet & Maxwell, 19th Ed, 2015) at para \[1-040\], the learner authors stated thus:
 
-There are two potential explanations why a trustee holding property for a beneficiary absolutely entitled might have no duties other than a duty to transfer the property to the beneficiary or as he directs. The first explanation is that the position of such a trustee is so supine, being a mere repository, that he need do nothing whatever, save to effect the transfer. The other position is that, pending transfer, he has powers and hence with it, responsibility, of his own, and the exercise of the powers is up to him, not the beneficiary. The second explanation, to the extent that this is correct, militates against the view that a trustee for a beneficiary absolutely entitled has a passive role.
+> There are two potential explanations why a trustee holding property for a beneficiary absolutely entitled might have no duties other than a duty to transfer the property to the beneficiary or as he directs. The first explanation is that the position of such a trustee is so supine, being a mere repository, that he need do nothing whatever, save to effect the transfer. The other position is that, pending transfer, he has powers and hence with it, responsibility, of his own, and the exercise of the powers is up to him, not the beneficiary. The second explanation, to the extent that this is correct, militates against the view that a trustee for a beneficiary absolutely entitled has a passive role.
 
 The learned authors further stated that “\[a\] trustee holding land on trust for an absolute beneficiary is not a mere cypher and has the powers of a beneficial owner in relation to the land. His role is therefore an active one”.
 

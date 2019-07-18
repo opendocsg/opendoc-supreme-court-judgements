@@ -47,13 +47,13 @@ Contract – Breach
 
 12     As summarised in the trial court judgment, the SSSA and the CBSA provided for a joint venture structure under which WPL was to provide funding on the following bases:
 
-(a)     WPL would subscribe for one ordinary share in DyStar at the price of S$10;
+> (a)     WPL would subscribe for one ordinary share in DyStar at the price of S$10;
 
-(b)     WPL would also subscribe to a €22m zero-coupon bond issued by DyStar (“the Convertible Bond”) which could be converted into ordinary shares of DyStar;
+> (b)     WPL would also subscribe to a €22m zero-coupon bond issued by DyStar (“the Convertible Bond”) which could be converted into ordinary shares of DyStar;
 
-(c)     the Convertible Bond would have a maturity period of five years and seven days during which the debt owed to WPL could be converted to equity at any time;
+> (c)     the Convertible Bond would have a maturity period of five years and seven days during which the debt owed to WPL could be converted to equity at any time;
 
-(d)     WPL would be entitled to convert all or part of the principal amount outstanding under the Convertible Bond at S$10 per DyStar share. Any part of the outstanding principal amount not converted into shares would be redeemed by DyStar.
+> (d)     WPL would be entitled to convert all or part of the principal amount outstanding under the Convertible Bond at S$10 per DyStar share. Any part of the outstanding principal amount not converted into shares would be redeemed by DyStar.
 
 WPL’s investment of €22m was largely in the form of debt convertible to equity under the CBSA. On the conversion it would become a majority shareholder and Kiri would be relegated to the position of a minority shareholder in DyStar. That fact pointed up the importance of the provisions of the SSSA relating to the management of DyStar and explained Manish’s concern, expressed at the time, that Kiri’s interests as a minority shareholder should be adequately protected.
 
@@ -61,31 +61,31 @@ WPL’s investment of €22m was largely in the form of debt convertible to equi
 
 14     Important elements of the SSSA were:
 
-(a)     The DyStar Board would appoint a chief executive officer nominated by WPL (cl 7.3).
+> (a)     The DyStar Board would appoint a chief executive officer nominated by WPL (cl 7.3).
 
-(b)     Overall control and management of DyStar affairs would be vested in the Board (cl 9.1).
+> (b)     Overall control and management of DyStar affairs would be vested in the Board (cl 9.1).
 
-(c)     The Board would consist of five directors, three appointed by WPL and two appointed by Kiri (cll 9.3 and 9.4).
+> (c)     The Board would consist of five directors, three appointed by WPL and two appointed by Kiri (cll 9.3 and 9.4).
 
-(d)     The chairman was to be a director appointed by WPL. The chairman would have a second or casting vote in the event of an equality of votes (cll 9.8 and 9.9).
+> (d)     The chairman was to be a director appointed by WPL. The chairman would have a second or casting vote in the event of an equality of votes (cll 9.8 and 9.9).
 
-(e)     A quorum of the DyStar Board would be two directors appointed by WPL (cl 9.10).
+> (e)     A quorum of the DyStar Board would be two directors appointed by WPL (cl 9.10).
 
-(f)     The prior approval of all directors appointed by WPL (the “Longsheng Directors”) was required before the Board could pass any resolution approving the following matters:
+> (f)     The prior approval of all directors appointed by WPL (the “Longsheng Directors”) was required before the Board could pass any resolution approving the following matters:
 
-(i)       to permit any member of the Group to incur indebtedness in excess of S$200,000 in the aggregate or increase the total amount of its borrowings or indebtedness to more than S$1m (cl 9.14(b));
+>> (i)       to permit any member of the Group to incur indebtedness in excess of S$200,000 in the aggregate or increase the total amount of its borrowings or indebtedness to more than S$1m (cl 9.14(b));
 
-(ii)       to permit any member of the Group to make any loan or advance or give any credit (other than normal trade credit) in excess of S$200,000 to any person (cl 9.14(c)); and
+>> (ii)       to permit any member of the Group to make any loan or advance or give any credit (other than normal trade credit) in excess of S$200,000 to any person (cl 9.14(c)); and
 
-(iii)       to establish, cancel or vary the terms of any pension, retirement schemes, profit-sharing, share option, profit-related, bonus or incentive by any member of the Group (cl 9.14(l)).
+>> (iii)       to establish, cancel or vary the terms of any pension, retirement schemes, profit-sharing, share option, profit-related, bonus or incentive by any member of the Group (cl 9.14(l)).
 
-(g)     Certain other matters designated “Shareholder Reserved Matters” required prior approval of WPL including whether to declare or make any dividend or other distribution in cash (cl 10.5(e)).
+> (g)     Certain other matters designated “Shareholder Reserved Matters” required prior approval of WPL including whether to declare or make any dividend or other distribution in cash (cl 10.5(e)).
 
 15     The acquisition of the DyStar Group was effected on 4 February 2010. Directors were appointed to the DyStar Board by WPL at Longsheng’s request on 1 February 2010. They were Ruan, Chang Sheng (“Chang”) and a Longsheng employee Xiang Zhifeng (“Xiang”). Chang and Xiang later resigned and were replaced by Xu Yalin (“Xu”) and Yao Jian Fang (“Yao”), also appointed at the behest of Longsheng. Ruan, Xu and Yao are referred to collectively as the “Longsheng Directors” of DyStar. Longsheng controlled the DyStar Board through them. The Kiri-appointed directors of DyStar were Manish and Mukherjee Amitava (“Amit”). They are referred to collectively as the “Kiri Directors”. Amit was not a director of Kiri. Amit was appointed to the Board at its first meeting on 5 March 2010.
 
 16     On the day before the first meeting, Manish had a discussion with Ruan about the need to protect Kiri’s minority rights if WPL were to convert debt to equity under the Convertible Bond. The trial court said at \[26\] of the Judgment:
 
-Ruan assured Manish that Kiri would be treated fairly and that there was no urgency to amend the SSSA and CBSA as they would not be strictly enforced.
+> Ruan assured Manish that Kiri would be treated fairly and that there was no urgency to amend the SSSA and CBSA as they would not be strictly enforced.
 
 That should be read as a reference to Manish’s evidence, for at \[124\] the trial court said that it did not accept Kiri’s contention that Longsheng, through Ruan, had given an assurance that it would _not_ strictly apply the SSSA and CBSA.
 
@@ -119,17 +119,17 @@ That should be read as a reference to Manish’s evidence, for at \[124\] the tr
 
 28     Transactions and events said by Kiri to constitute a sustained course of commercially unfair conduct amounting to oppression of it as a minority shareholder comprised the following:
 
-(a)     DyStar’s entry, in 2014 and 2015, into loan transactions with Longsheng and Longsheng-related entities contrary to DyStar’s commercial interests (Related Party Loans, the Cash-pooling Agreement and the Longsheng Financing Concept Complaints).
+> (a)     DyStar’s entry, in 2014 and 2015, into loan transactions with Longsheng and Longsheng-related entities contrary to DyStar’s commercial interests (Related Party Loans, the Cash-pooling Agreement and the Longsheng Financing Concept Complaints).
 
-(b)     The gratuitous payment by DyStar at the end of 2014 of a US$2m bonus to Ruan (the Special Incentive Payment Complaint).
+> (b)     The gratuitous payment by DyStar at the end of 2014 of a US$2m bonus to Ruan (the Special Incentive Payment Complaint).
 
-(c)     The temporary assignment by DyStar of a valuable dye patent to Longsheng and its subsequent failure to prevent Longsheng from retaining and exploiting the patent contrary to the terms of the assignment (the Patent Assignment Complaint).
+> (c)     The temporary assignment by DyStar of a valuable dye patent to Longsheng and its subsequent failure to prevent Longsheng from retaining and exploiting the patent contrary to the terms of the assignment (the Patent Assignment Complaint).
 
-(d)     The gratuitous payment by DyStar of service fees to Longsheng for services rendered in 2015 and the provision made for payment to Longsheng for services rendered in 2016 (the Longsheng Service Fees Complaint).
+> (d)     The gratuitous payment by DyStar of service fees to Longsheng for services rendered in 2015 and the provision made for payment to Longsheng for services rendered in 2016 (the Longsheng Service Fees Complaint).
 
-(e)     The denial to Kiri of benefits from its investment in DyStar and, specifically, the refusal in January 2015 to declare a dividend (the No Dividend Complaint).
+> (e)     The denial to Kiri of benefits from its investment in DyStar and, specifically, the refusal in January 2015 to declare a dividend (the No Dividend Complaint).
 
-(f)     The exclusion of Kiri and Kiri Directors from meaningful participation in the management of DyStar’s business (the Management Participation Complaint).
+> (f)     The exclusion of Kiri and Kiri Directors from meaningful participation in the management of DyStar’s business (the Management Participation Complaint).
 
 ## The Proceedings
 
@@ -145,11 +145,11 @@ That should be read as a reference to Manish’s evidence, for at \[124\] the tr
 
 32     Section 216 of the Companies Act is entitled “Personal remedies in cases of oppression or injustice” and relevantly provides:
 
-**216.**—(1)    Any member or holder of a debenture of a company or, in the case of a declared company under Part IX, the Minister may apply to the Court for an order under this section on the ground —
+> **216.**—(1)    Any member or holder of a debenture of a company or, in the case of a declared company under Part IX, the Minister may apply to the Court for an order under this section on the ground —
 
-(_a_)    that the affairs of the company are being conducted or the powers of the directors are being exercised in a manner oppressive to one or more of the members or holders of debentures including himself or in disregard of his or their interests as members, shareholders or holders of debentures of the company; or
+>> (_a_)    that the affairs of the company are being conducted or the powers of the directors are being exercised in a manner oppressive to one or more of the members or holders of debentures including himself or in disregard of his or their interests as members, shareholders or holders of debentures of the company; or
 
-(_b_)    that some act of the company has been done or is threatened or that some resolution of the members, holders of debentures or any class of them has been passed or is proposed which unfairly discriminates against or is otherwise prejudicial to one or more of the members or holders of debentures (including himself).
+>> (_b_)    that some act of the company has been done or is threatened or that some resolution of the members, holders of debentures or any class of them has been passed or is proposed which unfairly discriminates against or is otherwise prejudicial to one or more of the members or holders of debentures (including himself).
 
 Section 216(2) sets out a range of orders that the Court may make where it is of the opinion that either of the grounds in s 216(1) is established. They include an order which provides for the purchase of the shares of the company by other members or by the company itself (see s 216(2)(_d_)). It also includes an order that the company be wound up (see s 216(2)(_f_)). Sections 216(3)–(7) are not material for present purposes.
 
@@ -157,33 +157,33 @@ Section 216(2) sets out a range of orders that the Court may make where it is of
 
 34     The Court of Appeal observed that the application of s 216 has increased in scope and prevalence beyond the instances of minority oppression mentioned in the Cohen Committee Report. However, the essence of the claim for relief remains the same (at \[87\]). The Court of Appeal invoked as a modern statement of the nature of such a claim Lord Hoffmann’s judgment in _O’Neill and another v Phillips and others_ <span class="citation">\[1999\] 1 WLR 1092</span> when he said of s 459 of the Companies Act 1985 (c 6) (UK) (at 1098–1099):
 
-In the case of section 459, the background has the following two features. First, a company is an association of persons for an economic purpose, usually entered into with legal advice and some degree of formality. The terms of the association are contained in the articles of association and sometimes in collateral agreements between the shareholders. Thus the manner in which the affairs of the company may be conducted is closely regulated by rules to which the shareholders have agreed. Secondly, company law has developed seamlessly from the law of partnership, which was treated by equity, like the Roman societas, as a contract of good faith. One of the traditional roles of equity, as a separate jurisdiction, was to restrain the exercise of strict legal rights in certain relationships in which it considered that this would be contrary to good faith. These principles have, with appropriate modification, been carried over into company law.
+> In the case of section 459, the background has the following two features. First, a company is an association of persons for an economic purpose, usually entered into with legal advice and some degree of formality. The terms of the association are contained in the articles of association and sometimes in collateral agreements between the shareholders. Thus the manner in which the affairs of the company may be conducted is closely regulated by rules to which the shareholders have agreed. Secondly, company law has developed seamlessly from the law of partnership, which was treated by equity, like the Roman societas, as a contract of good faith. One of the traditional roles of equity, as a separate jurisdiction, was to restrain the exercise of strict legal rights in certain relationships in which it considered that this would be contrary to good faith. These principles have, with appropriate modification, been carried over into company law.
 
-The first of these two features leads to the conclusion that a member of a company will not ordinarily be entitled to complain of unfairness unless there has been some breach of the terms on which he agreed that the affairs of the company should be conducted. But the second leads to the conclusion that there will be cases in which equitable considerations make it unfair for those conducting the affairs of the company to rely upon their strict legal powers. Thus unfairness may consist in a breach of the rules or in using the rules in a manner which equity would regard as contrary to good faith.
+> The first of these two features leads to the conclusion that a member of a company will not ordinarily be entitled to complain of unfairness unless there has been some breach of the terms on which he agreed that the affairs of the company should be conducted. But the second leads to the conclusion that there will be cases in which equitable considerations make it unfair for those conducting the affairs of the company to rely upon their strict legal powers. Thus unfairness may consist in a breach of the rules or in using the rules in a manner which equity would regard as contrary to good faith.
 
 35     The Court of Appeal took from Lord Hoffmann’s judgment the proposition that the essence of a claim for relief on the ground of oppressive or unfairly prejudicial conduct lies in upholding the commercial agreement between the shareholders of the company irrespective of whether it is to be found in the formal constitutional documents of the company, in less formal shareholders’ agreements or, in the case of quasi-partnerships, in the legitimate expectations of the shareholders. Section 216 was seen as concerned with protecting the commercial expectations of the parties to the relevant association. Its private dimension brought it within the scope of arbitrability (at \[88\]).
 
 36     In an earlier and frequently cited judgment _Over and Over Ltd v Bonvests Holdings Ltd and another_ <span class="citation">\[2010\] 2 SLR 776</span> (“_Over and Over Ltd_”), the Court also discussed the law on minority oppression. The following propositions can be extracted from that discussion:
 
-(a)     Section 216 provides for four limbs under which relief may be granted – oppression, disregard of a member’s interest, unfair discrimination and prejudicial conduct (at \[70\]).
+> (a)     Section 216 provides for four limbs under which relief may be granted – oppression, disregard of a member’s interest, unfair discrimination and prejudicial conduct (at \[70\]).
 
-(b)     The four limbs are not to be applied disjunctively but as aspects of a common element of unfairness (at \[70\]).
+> (b)     The four limbs are not to be applied disjunctively but as aspects of a common element of unfairness (at \[70\]).
 
-(c)     The section is concerned with behaviour on the part of the majority shareholders or the controllers of a company that departs from the standards of fair play amongst commercial parties (at \[71\]).
+> (c)     The section is concerned with behaviour on the part of the majority shareholders or the controllers of a company that departs from the standards of fair play amongst commercial parties (at \[71\]).
 
-(d)     The purpose of the four grounds considered as a compound ground is to identify conduct which offends the standards of commercial fairness and is deserving of intervention by the courts (at \[71\]).
+> (d)     The purpose of the four grounds considered as a compound ground is to identify conduct which offends the standards of commercial fairness and is deserving of intervention by the courts (at \[71\]).
 
-(e)     A course of conduct or a single act can amount to oppression (at \[74\]).
+> (e)     A course of conduct or a single act can amount to oppression (at \[74\]).
 
-(f)     The court, in deciding whether to grant relief under s 216 must take into account the legal rights and legitimate expectations of members. These are enshrined in the company’s constitution in the majority of cases (at \[78\]).
+> (f)     The court, in deciding whether to grant relief under s 216 must take into account the legal rights and legitimate expectations of members. These are enshrined in the company’s constitution in the majority of cases (at \[78\]).
 
-(g)     Commercial fairness is the touchstone by which the court determines whether to grant relief under s 216 of the Companies Act. It involves – “a visible departure from the standards of fair dealing and a violation of the conditions of fair play which a shareholder is entitled to expect” (at \[77\] and \[81\]).
+> (g)     Commercial fairness is the touchstone by which the court determines whether to grant relief under s 216 of the Companies Act. It involves – “a visible departure from the standards of fair dealing and a violation of the conditions of fair play which a shareholder is entitled to expect” (at \[77\] and \[81\]).
 
-(h)     There is a common theme in the application of s 216 and the just and equitable ground for the winding up of a company (at \[82\]).
+> (h)     There is a common theme in the application of s 216 and the just and equitable ground for the winding up of a company (at \[82\]).
 
-(i)     Where a company has the characteristics of a quasi-partnership and its shareholders have agreed to associate on the basis of mutual trust and confidence, the courts will insist upon a higher standard of corporate governance that must be observed by the majority shareholders _vis-à-vis_ the minority shareholders (at \[80\]).
+> (i)     Where a company has the characteristics of a quasi-partnership and its shareholders have agreed to associate on the basis of mutual trust and confidence, the courts will insist upon a higher standard of corporate governance that must be observed by the majority shareholders _vis-à-vis_ the minority shareholders (at \[80\]).
 
-(j)     Informal understandings and assumptions may be taken into account in determining whether a minority has been unfairly treated (at \[84\]).
+> (j)     Informal understandings and assumptions may be taken into account in determining whether a minority has been unfairly treated (at \[84\]).
 
 37     The trial court set out the relevant principles in its judgment with reference to the decision in _Over and Over Ltd_. It added at \[113\] that what is fair is contextual — and that the standard of fairness applicable in a given case will differ according to the nature of the company and the relationships of the shareholders among themselves — citing _Lim Kok Wah and others v Lim Boh Yong and others and other matters_ <span class="citation">\[2015\] 5 SLR 307</span> at \[102\]. It might be more accurate, however, to say the standard of fairness is always the same but its content varies according to context, analogous to the way in which there is one standard of natural justice or procedural fairness which differs in content according to context.
 
@@ -195,19 +195,19 @@ The first of these two features leads to the conclusion that a member of a compa
 
 40     Section 18A of the Supreme Court Judicature Act (Cap 322, 2007 Rev Ed) (“SCJA”) provides “\[t\]here shall be a division of the High Court known as the Singapore International Commercial Court”. The jurisdiction of the SICC is set out in s 18D of the SCJA, which provides:
 
-**18D**.    The Singapore International Commercial Court shall have jurisdiction to hear and try any action that satisfies all of the following conditions:
+> **18D**.    The Singapore International Commercial Court shall have jurisdiction to hear and try any action that satisfies all of the following conditions:
 
-(_a_)    the action is international and commercial in nature;
+>> (_a_)    the action is international and commercial in nature;
 
-(_b_)    the action is one that the High Court may hear and try in its original civil jurisdiction;
+>> (_b_)    the action is one that the High Court may hear and try in its original civil jurisdiction;
 
-(_c_)    the action satisfies such other conditions as the Rules of Court may prescribe.
+>> (_c_)    the action satisfies such other conditions as the Rules of Court may prescribe.
 
 41     The proceedings which are the subject of the present appeals were commenced in the High Court and transferred to the SICC pursuant to s 18J(2) of the SCJA. The SICC, as a division of the High Court, exercises original jurisdiction although cases before the Court may be heard before a single judge or three judges. In this case three judges sat.
 
 42     Appeals from the SICC lie to the Court of Appeal in the exercise of its general civil appellate jurisdiction conferred by s 29A of the SCJA in relation to appeals from judgments or orders of the High Court in any civil cause or matter. Section 29(4) of the SCJA provides that:
 
-An International Judge of the Supreme Court may, if the Chief Justice so requires, sit in the Court of Appeal in an appeal from any judgment or order of the Singapore International Commercial Court.
+> An International Judge of the Supreme Court may, if the Chief Justice so requires, sit in the Court of Appeal in an appeal from any judgment or order of the Singapore International Commercial Court.
 
 The Court of Appeal in these appeals comprised Justice Prakash of the Court of Appeal and two International Judges of the SICC.
 
@@ -215,7 +215,7 @@ The Court of Appeal in these appeals comprised Justice Prakash of the Court of A
 
 44     In an appeal by way of rehearing the Court of Appeal is empowered to “give any judgment and make any order which ought to have been given or made” (O 57 r 13(3) of the Rules of Court). It is generally necessary for the appellant to show error on the part of the trial court. As was said in the High Court of Australia in _Coal and Allied Operations Pty Ltd v Australian Industrial Relations Commission_ (2000) 203 CLR 194 (“_Coal and Allied Operations_”) at \[14\] per Gleeson CJ, Gaudron and Hayne JJ:
 
-Ordinarily, if there has been no further evidence admitted and if there has been no relevant change in the law, a court or tribunal entertaining an appeal by way of rehearing can exercise its appellate powers only if satisfied that there was error on the part of the primary decision-maker. That is because statutory provisions conferring appellate powers, even in the case of an appeal by way of rehearing, are construed on the basis that, unless there is something to indicate otherwise, the power is to be exercised for the correction of error. However, the conferral of a right of appeal by way of a hearing de novo is construed as a proceeding in which the appellate body is required to exercise its powers whether or not there was error at first instance. \[Footnotes omitted\]
+> Ordinarily, if there has been no further evidence admitted and if there has been no relevant change in the law, a court or tribunal entertaining an appeal by way of rehearing can exercise its appellate powers only if satisfied that there was error on the part of the primary decision-maker. That is because statutory provisions conferring appellate powers, even in the case of an appeal by way of rehearing, are construed on the basis that, unless there is something to indicate otherwise, the power is to be exercised for the correction of error. However, the conferral of a right of appeal by way of a hearing de novo is construed as a proceeding in which the appellate body is required to exercise its powers whether or not there was error at first instance. \[Footnotes omitted\]
 
 45     The Court of Appeal, in finding facts, will be reluctant to interfere with findings of primary facts by the trial court dependent upon the oral testimony of witnesses at trial. The Court of Appeal lacks the advantage of the trial court which has seen and heard the witnesses – _Seah Ting Soon (trading as Sing Meng Co Wooden Cases Factory) v Indonesian Tractors Co Pte Ltd_ <span class="citation">\[2001\] 1 SLR(R) 53</span> at \[22\]. That advantage does not apply to inferences based upon findings of primary fact. There, subject to one qualification, the Court of Appeal is in as good a position as the trial court to draw inferences. The qualification is, that despite the fact that the full record of proceedings and exhibits are before the Court of Appeal it is not, and cannot be, immersed in the minutiae of the trial nor share the same detailed awareness of the evidence as the trial court.
 
@@ -223,13 +223,13 @@ Ordinarily, if there has been no further evidence admitted and if there has been
 
 47     Where the trial court is to apply an evaluative norm, in this case “commercial unfairness”, the nature of the judgment required of it cannot be distinguished from that of a court exercising a discretion. An example is found in the decision of the High Court of Australia in _Norbis v Norbis_ (1986) 161 CLR 513, which concerned the application of the statutory criterion “just and equitable” to the division of matrimonial property in s 79 of the Family Law Act 1975 (Cth). In a joint judgment, Mason and Deane JJ observed (at 518):
 
-“Discretion” signifies a number of different legal concepts … Here the order is discretionary because it depends on the application of a very general standard — what is “just and equitable” — which calls for an overall assessment in the light of the factors mentioned in s 79(4), each of which in turn calls for an assessment of circumstances. Because these assessments call for value judgments in respect of which there is room for reasonable differences of opinion, no particular opinion being uniquely right, the making of the order involves the exercise of a judicial discretion. The contrast is with an order the making of which is dictated by the application of a fixed rule to the facts on which its operation depends.
+> “Discretion” signifies a number of different legal concepts … Here the order is discretionary because it depends on the application of a very general standard — what is “just and equitable” — which calls for an overall assessment in the light of the factors mentioned in s 79(4), each of which in turn calls for an assessment of circumstances. Because these assessments call for value judgments in respect of which there is room for reasonable differences of opinion, no particular opinion being uniquely right, the making of the order involves the exercise of a judicial discretion. The contrast is with an order the making of which is dictated by the application of a fixed rule to the facts on which its operation depends.
 
 See also at 533 per Wilson and Dawson JJ.
 
 48     In _Coal and Allied Operations_, mentioned earlier, there was a helpful discussion of the concept of “discretion” in the context of an appeal by way of rehearing from an award made by a member of the Industrial Relations Commission to a Full Bench of the Australian Industrial Relations Commission. Three Justices of the Court observed at \[19\]:
 
-“Discretion” is a notion that “signifies a number of different legal concepts”. In general terms, it refers to a decision-making process in which “no one \[consideration\] and no combination of \[considerations\] is necessarily determinative of the result”. Rather, the decision-maker is allowed some latitude as to the choice of the decision to be made.
+> “Discretion” is a notion that “signifies a number of different legal concepts”. In general terms, it refers to a decision-making process in which “no one \[consideration\] and no combination of \[considerations\] is necessarily determinative of the result”. Rather, the decision-maker is allowed some latitude as to the choice of the decision to be made.
 
 Where the decision answers that description and involves a degree of subjectivity it can be described in a broad sense as “discretionary”.
 
@@ -252,13 +252,13 @@ Where the decision answers that description and involves a degree of subjectivit
 
 53     Senda relied upon what it called “\[f\]our important \[aspects of the\] factual context”:
 
-(a)     Given the scale of the DyStar Group a large part of management and operational decisions was left to the senior management team, an arrangement with which Kiri happily acquiesced between 2010 and 2015.
+> (a)     Given the scale of the DyStar Group a large part of management and operational decisions was left to the senior management team, an arrangement with which Kiri happily acquiesced between 2010 and 2015.
 
-(b)     The independent senior management team predated the advent of Kiri and Longsheng into the DyStar Group. Their decisions could not, without more, be attributed to the shareholders or Board members.
+> (b)     The independent senior management team predated the advent of Kiri and Longsheng into the DyStar Group. Their decisions could not, without more, be attributed to the shareholders or Board members.
 
-(c)     The significant disparity in the contribution and support from both sets of shareholders.
+> (c)     The significant disparity in the contribution and support from both sets of shareholders.
 
-(d)     The relationship of the shareholders was regulated by a comprehensive set of written documents, _ie_, the SSSA and the CBSA read with the Memorandum and Articles of Association.
+> (d)     The relationship of the shareholders was regulated by a comprehensive set of written documents, _ie_, the SSSA and the CBSA read with the Memorandum and Articles of Association.
 
 Senda’s counsel put the “independent management” argument front and centre in his oral submissions on the appeal. Given the effective control of management by Senda and the Longsheng Directors, it had, with respect, an air of unreality about it. Not surprisingly, it appears to have been little exposed before the trial court and is not mentioned in its judgment.
 
@@ -288,13 +288,13 @@ Senda’s counsel put the “independent management” argument front and centre
 
 65     Senda in its written case on appeal made the following points:
 
-(a)     The loans from Longsheng-related entities which carried 6.6% interest were in the process of being repaid and were fully repaid in June 2014. The Related Party Loans had only been put in place in January and March 2014.
+> (a)     The loans from Longsheng-related entities which carried 6.6% interest were in the process of being repaid and were fully repaid in June 2014. The Related Party Loans had only been put in place in January and March 2014.
 
-(b)     The consolidated financial statements of DyStar show that from 2013 to 2015, DyStar’s net finance cost was at its lowest in 2014.
+> (b)     The consolidated financial statements of DyStar show that from 2013 to 2015, DyStar’s net finance cost was at its lowest in 2014.
 
-(c)     On Viktor’s evidence, the pool of available cash could not be used to repay external bank loans because of repayment restrictions on those loans. The available cash was in US dollars and could not immediately be used to repay the loans from Longsheng-related entities (which were in RMB) due to foreign currency controls.
+> (c)     On Viktor’s evidence, the pool of available cash could not be used to repay external bank loans because of repayment restrictions on those loans. The available cash was in US dollars and could not immediately be used to repay the loans from Longsheng-related entities (which were in RMB) due to foreign currency controls.
 
-(d)     The trial court overlooked the fact that the outgoing and incoming loans were from/to different entities in the DyStar Group and denominated in different currencies. A table making the point was set out in the Joint Appellants’ Case:
+> (d)     The trial court overlooked the fact that the outgoing and incoming loans were from/to different entities in the DyStar Group and denominated in different currencies. A table making the point was set out in the Joint Appellants’ Case:
 
 <table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="29.1296107304272%"> <col width="23.99766729844%"> <col width="20.3236623414492%"> <col width="26.5490596296836%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p class="Table-Heading-Center">Borrowing Entity</p></td><td align="left" class="br" rowspan="1" valign="top"><p class="Table-Heading-Center">Interest Rates</p></td><td align="left" class="br" rowspan="1" valign="top"><p class="Table-Heading-Center">Currency</p></td><td align="left" class="b" rowspan="1" valign="top"><p class="Table-Heading-Center">Amount (USD)</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DyStar Wuxi</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">6.600%</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><u>RMB</u></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="right" class="Table-Para-1">0</p></td></tr><tr><td align="left" class="br" rowspan="2" valign="top"><p align="justify" class="Table-Para-1">DyStar Nanjing</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">6.600%</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><u>RMB</u></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="right" class="Table-Para-1">0</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">6.600%</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><u>RMB</u></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="right" class="Table-Para-1">7,178,531</p></td></tr><tr><td align="left" class="br" rowspan="3" valign="top"><p align="justify" class="Table-Para-1">DyStar Shanghai</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">6.600%</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><u>RMB</u></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="right" class="Table-Para-1">1,287,629</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">6.600%</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><u>RMB</u></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="right" class="Table-Para-1">965,722</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">6.600%</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><u>RMB</u></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="right" class="Table-Para-1">3,058,119</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p class="Table-Heading-Center">Lending Entity</p></td><td align="left" class="br" rowspan="1" valign="top"><p class="Table-Heading-Center">Interest Rates</p></td><td align="left" class="br" rowspan="1" valign="top"><p class="Table-Heading-Center">Currency</p></td><td align="left" class="b" rowspan="1" valign="top"><p class="Table-Heading-Center">Amount (USD)</p></td></tr><tr><td align="left" class="br" rowspan="2" valign="top"><p align="justify" class="Table-Para-1">DyStar Global</p><p align="justify" class="Table-Para-1">Holdings</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3.27735%</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">USD</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="right" class="Table-Para-1">2,000,000</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3.27735%</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">USD</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="right" class="Table-Para-1">3,000,000</p></td></tr><tr><td align="left" class="br" rowspan="2" valign="top"><p align="justify" class="Table-Para-1">DyStar Shanghai</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3.3747%</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">USD</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="right" class="Table-Para-1">20,000,000</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3.3747%</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">USD</p></td><td align="left" class="" rowspan="1" valign="top"><p align="right" class="Table-Para-1">8,500,000</p></td></tr></tbody></table>
 
@@ -315,7 +315,7 @@ Senda’s counsel put the “independent management” argument front and centre
 
 71     The arrangement provided that DSPL and DST would pool their surplus funds and provide loans to DyStar-related entities, including Longsheng-related entities. The Longsheng-related entities received the lion’s share of loans. By March 2015 DST had lent US$36.3m to a Longsheng-related entity at an interest rate of 3.6% under the agreement. Neither the Kiri Directors nor the DyStar Board was informed specifically of the Cash-pooling Agreement until the April 2015 DyStar Board meeting. The trial court made an obvious point, at \[60\] of the Judgment:
 
-Clearly, it may legitimately be asked whether the Borrowing Conditions were being deliberately circumvented through the Cash-pooling Agreement.
+> Clearly, it may legitimately be asked whether the Borrowing Conditions were being deliberately circumvented through the Cash-pooling Agreement.
 
 Amit sought a copy of the Cash-pooling Agreement in October 2015 and received a Chinese language version on 5 November. Eight months after the Cash-pooling Agreement had been entered into, on 11 March 2016, following repeated requests, he received an English language version. The loans under the agreement were fully repaid by 20 September 2016.
 
@@ -353,13 +353,13 @@ Amit sought a copy of the Cash-pooling Agreement in October 2015 and received a 
 
 86     On appeal, Senda contended that the payment of Ruan’s Special Incentive was a _bona fide_ commercial decision. The proposal was first raised by Harry Dobrowolski, who was the CEO at the time. Senda pointed to evidence that the position taken by Kiri on 21 October 2014 was, not only that priority should be given to dividends, but alternatively:
 
-Another option was for all the other directors to be paid a nominal amount, and for Ruan and Manish to be paid more as they had done the significant work.
+> Another option was for all the other directors to be paid a nominal amount, and for Ruan and Manish to be paid more as they had done the significant work.
 
 There was evidence, evidently denied by Kiri, of a further telephone call between Xu and Manish of 21 November 2014 in which Manish confirmed that the Kiri Directors would support the Special Incentive. It was allegedly on that basis that the draft Board resolution was sent to Manish for signature. He did not sign it because he had changed his mind. That evidence was disputed by Kiri in its submissions and it attracted no finding by the trial court.
 
 87     Senda also relied upon the Memorandum and Articles of Association of DyStar which provided in Article 98 that:[^8]
 
-Any director who is appointed to any executive office or serves on any committee or who otherwise performs or renders services, which in the opinion of the Directors are outside his ordinary duties as a Director, may, subject to Section 169 of the Act, be paid such extra remuneration as the Directors may determine.
+> Any director who is appointed to any executive office or serves on any committee or who otherwise performs or renders services, which in the opinion of the Directors are outside his ordinary duties as a Director, may, subject to Section 169 of the Act, be paid such extra remuneration as the Directors may determine.
 
 Kiri argued that it was apparent from the Special Incentive Plan, read with the minutes of the DyStar Board meeting, that Ruan’s alleged contributions for which he was receiving the Special Incentive Payment, related to the provision of strategic thinking and direction for DyStar. That, however, was the responsibility of the entire DyStar Board. His contributions were not over and above his duty as a director of DyStar. Senda made the point that the only reason that Ruan’s extraordinary services had not been elaborated upon in detail at the trial was that it was never part of Kiri’s pleaded case that the Special Incentive Payment was excessive.
 
@@ -425,13 +425,13 @@ Kiri argued that it was apparent from the Special Incentive Plan, read with the 
 
 116    Senda called in aid the following factors:
 
-(a)     Regardless of the trial court’s finding on whether an understanding existed with Kiri, the Longsheng Directors genuinely believed it did.
+> (a)     Regardless of the trial court’s finding on whether an understanding existed with Kiri, the Longsheng Directors genuinely believed it did.
 
-(b)     Longsheng had procured a legal opinion on its entitlement to the Longsheng fees from Dr Tang Hang Wu, a draft of which was provided to the Longsheng Directors before they decided to approve the payment. Dr Tang’s opinion was that even if Longsheng had been mistaken as to the existence of a prior understanding, it might still be entitled to charge for the services retrospectively. This was not a particularly weighty factor in support of Senda’s position.
+> (b)     Longsheng had procured a legal opinion on its entitlement to the Longsheng fees from Dr Tang Hang Wu, a draft of which was provided to the Longsheng Directors before they decided to approve the payment. Dr Tang’s opinion was that even if Longsheng had been mistaken as to the existence of a prior understanding, it might still be entitled to charge for the services retrospectively. This was not a particularly weighty factor in support of Senda’s position.
 
-(c)     The Longsheng Directors did in fact consider the importance of maintaining the relationship with and support from Longsheng which would be critical in times of crisis in the future. Given Longsheng’s majority holding in DyStar this submission had an air of unreality about it despite Senda’s argument that such an eventuality was not inconceivable.
+> (c)     The Longsheng Directors did in fact consider the importance of maintaining the relationship with and support from Longsheng which would be critical in times of crisis in the future. Given Longsheng’s majority holding in DyStar this submission had an air of unreality about it despite Senda’s argument that such an eventuality was not inconceivable.
 
-(d)     Senda relied upon what it described as the extensive and lengthy process which had been undertaken to procure independent verification of the 2015 Longsheng fees. It was irrelevant in this respect whether the E&Y reports were triggered by Kiri’s objections and its application for an injunction.
+> (d)     Senda relied upon what it described as the extensive and lengthy process which had been undertaken to procure independent verification of the 2015 Longsheng fees. It was irrelevant in this respect whether the E&Y reports were triggered by Kiri’s objections and its application for an injunction.
 
 117    Senda submitted that it is not the role of the court to act as an arbiter of management decisions by the Directors unless there is evidence of their voting power being exercised for an improper purpose or in bad faith. There was insufficient evidence to conclude that the Longsheng Directors were not acting in good faith.
 
@@ -447,7 +447,7 @@ Kiri argued that it was apparent from the Special Incentive Plan, read with the 
 
 122    The trial court held that the refusal to declare a dividend was not made in good faith nor on purely commercial grounds. In so holding it accepted that the decision whether or not to declare a dividend is a commercial one, citing _Cost Engineers (SEA) Pte Ltd and another v Chan Siew Lun_ <span class="citation">\[2016\] 1 SLR 137</span>. In that case, Steven Chong J (as he then was) observed that (at \[20\]):
 
-… the decision to declare dividends is a commercial decision of the company which the courts are reluctant to interfere with _unless bad faith or improper purposes are demonstrated …_ \[emphasis added\]
+> … the decision to declare dividends is a commercial decision of the company which the courts are reluctant to interfere with _unless bad faith or improper purposes are demonstrated …_ \[emphasis added\]
 
 123    The trial court held that there was “an improper motivation in denying Kiri the benefits of its shareholding in DyStar, while simultaneously permitting Senda unilaterally to extract benefits from DyStar” (Judgment at \[246\]). When set against the background of events such as the Special Incentive Payment, the Cash-pooling Agreement and the Related Party Loans, it was difficult to see how the refusal to declare a dividend could have been made in good faith.
 
@@ -465,7 +465,7 @@ Kiri argued that it was apparent from the Special Incentive Plan, read with the 
 
 130    Viktor, as the CFO of DyStar, was unable to explain what its working capital needs were. Kiri referred to evidence at trial in which Viktor was directed to the financial statements as at 31 December 2015 showing an improvement in cash flow for the whole year. Asked where the court could find this sudden surge for working capital needs in the 2015 cash flow statement, Viktor responded:
 
-Your Honour, you are right. The financing needs for 2015 were considered to be higher than what actually happened. Also, 2015 turned out to be a very profitable year. And you can see that on the same page, on 333, the working capital and the net cash flow from operations has improved significantly.
+> Your Honour, you are right. The financing needs for 2015 were considered to be higher than what actually happened. Also, 2015 turned out to be a very profitable year. And you can see that on the same page, on 333, the working capital and the net cash flow from operations has improved significantly.
 
 He agreed with the proposition put to him by the trial court that the concern expressed at the start of 2015 by Mr Luo about the “huge working capital” needs did not materialise. Kiri pointed out that none of the witnesses and, in particular, Viktor, gave evidence on the matters relied upon by Senda in this aspect of the appeal.
 
@@ -489,13 +489,13 @@ He agreed with the proposition put to him by the trial court that the concern ex
 
 138    Senda submitted that even if there was oppression as found by the trial court, the buy-out order was unnecessary and a less intrusive order was appropriate. Senda argued that the oppressive conduct found by the trial court consisted for the most part of one-off events. The prejudicial effects of any conduct could readily be reversed and Kiri compensated for any diminution in the value of its shareholding. Orders proposed by Senda included:
 
-(a)     that prior approval be sought for particular transactions and/or decisions by DyStar;
+> (a)     that prior approval be sought for particular transactions and/or decisions by DyStar;
 
-(b)     DyStar to provide Kiri with particular information and/or documents;
+> (b)     DyStar to provide Kiri with particular information and/or documents;
 
-(c)     that related party transactions be varied or cancelled; and
+> (c)     that related party transactions be varied or cancelled; and
 
-(d)     DyStar to make such payment of dividends to Kiri as is appropriate.
+> (d)     DyStar to make such payment of dividends to Kiri as is appropriate.
 
 139    Senda argued that, contrary to the conclusion of the trial court “that there is no residual goodwill or trust left between the parties”, they had continued to manage the company in accordance with the SSSA. Kiri continued to supply raw materials to the DyStar Group. That argument would have been more persuasive if Kiri were not seeking to maintain the buy-out order on this appeal. It asserted, in its written case, that “this is clearly a case where there is no residual goodwill or trust left between the parties”. It rejected the contention that the parties continue to manage the company in accordance with the SSSA. It may also be noted that although the trial court’s judgment related to a series of individual events and transactions, they were sufficiently connected in kind by the underlying disregard for Kiri’s interests to be characterised as a course of oppressive conduct in relation to Kiri.
 
@@ -511,15 +511,15 @@ He agreed with the proposition put to him by the trial court that the concern ex
 
 143    The counterclaim in Suit 4 and the claim in Suit 3 involve alleged breaches of parts of cl 15 of the SSSA by Kiri. The relevant parts of the clause provide:[^10]
 
-**15**.     **NON-COMPETITION**
+> **15**.     **NON-COMPETITION**
 
-15.1  Each of the Promoters and KIPL undertakes to and with the Company and the Subscriber that for as long as it/he or its/his nominee owns any Shares and for a period of 12 months thereafter (the “Period”), it/he will not, and will procure that (in the case of KDC or KIPL) none of its Related Companies or (in the case of MPL or PAK) none of the companies or entities in which he has any interest shall:
+> 15.1  Each of the Promoters and KIPL undertakes to and with the Company and the Subscriber that for as long as it/he or its/his nominee owns any Shares and for a period of 12 months thereafter (the “Period”), it/he will not, and will procure that (in the case of KDC or KIPL) none of its Related Companies or (in the case of MPL or PAK) none of the companies or entities in which he has any interest shall:
 
-(a)    in any country or place where any member of the Group carries on business either on its/his own account or in conjunction with or on behalf of any person, carry on or be engaged, concerned or interested directly or indirectly whether as shareholder, director, employee, partner, agent or otherwise in carrying on any business substantially similar to or competing with the business carried on by any member of the Group then (save for existing businesses carried on by it/him prior to the date of this Agreement or as a holder of not more than 5% of the issued shares or debentures of any company listed, or dealt in, on any recognised stock exchange);
+>> (a)    in any country or place where any member of the Group carries on business either on its/his own account or in conjunction with or on behalf of any person, carry on or be engaged, concerned or interested directly or indirectly whether as shareholder, director, employee, partner, agent or otherwise in carrying on any business substantially similar to or competing with the business carried on by any member of the Group then (save for existing businesses carried on by it/him prior to the date of this Agreement or as a holder of not more than 5% of the issued shares or debentures of any company listed, or dealt in, on any recognised stock exchange);
 
-(b)    either on its/his own account or in conjunction with or on behalf of any other person, solicit or entice away or attempt to solicit or entice away from any member of the Group the custom of any person who is or has at any time during the Period been a customer, client, identified prospective customer or client, agent or correspondent of any member of the Group or in the habit of dealing with any member of the Group;
+>> (b)    either on its/his own account or in conjunction with or on behalf of any other person, solicit or entice away or attempt to solicit or entice away from any member of the Group the custom of any person who is or has at any time during the Period been a customer, client, identified prospective customer or client, agent or correspondent of any member of the Group or in the habit of dealing with any member of the Group;
 
-…
+>> …
 
 Subparagraphs (c) and (d) are not material for present purposes.
 
@@ -535,9 +535,9 @@ Subparagraphs (c) and (d) are not material for present purposes.
 
 149    These appeals relate to the trial court’s dismissal of claims in respect of Kiri’s offer and/or sale of reactive dyes to four of DyStar’s customers:
 
-(a)     Hayleys and Brandix in Sri Lanka;
+> (a)     Hayleys and Brandix in Sri Lanka;
 
-(b)     Soryu and Maeda in Japan.
+> (b)     Soryu and Maeda in Japan.
 
 The further definition and description of those entities does not appear from the Judgment or the parties’ submissions.
 
@@ -565,13 +565,13 @@ The further definition and description of those entities does not appear from th
 
 160    After admitting in evidence that Hayleys and Haycolour, as Kiri’s distributor, had indeed supplied Kiri’s products to Brandix in Sri Lanka, Manish went on to say in his evidence:
 
-As mentioned previously, Kiri is not aware of the identities of the customers which its distributors supply Kiri’s product to.
+> As mentioned previously, Kiri is not aware of the identities of the customers which its distributors supply Kiri’s product to.
 
 Kiri used this evidence to support an argument that, absent its awareness of who was supplied by its distributors, no inference should be drawn from its non-disclosure of documents in relation to business dealings with Brandix. Further, it was simply not practicable for Kiri to ask its distributors for the identity of the parties to whom they were supplying. Kiri argued that the emails relied upon by the appellants were bereft of particulars and that the trial court was correct to find that there was insufficient evidence.
 
 161    In its written case, DyStar drew attention to evidence by Manish in cross-examination. It was put to him that Kiri’s Kirazol product range was comparable to DyStar’s Remazol range. Manish acknowledged that Remazol was DyStar’s product. Asked if the comparable product for Kiri was Kirazol, he said:[^11]
 
-RGB. Kiri doesn’t sell RGB. All Kiri products are Kirazol, all products of DyStar is Remazol, but where is RGB? We never sold RGB to them …
+> RGB. Kiri doesn’t sell RGB. All Kiri products are Kirazol, all products of DyStar is Remazol, but where is RGB? We never sold RGB to them …
 
 That rather evasive answer, together with his response to the internal emails complaining of Kiri’s activities with respect to Brandix, suggested that Kiri was selling products under the general description Kirazol which included products competitive with DyStar’s to a DyStar customer which was not a pre-existing customer of Kiri.
 
@@ -581,9 +581,9 @@ That rather evasive answer, together with his response to the internal emails co
 
 163    The breaches alleged in Japan consisted of:
 
-(a)     Kiri sending by email a product list to a customer of DyStar Japan, referred to as Soryu;
+> (a)     Kiri sending by email a product list to a customer of DyStar Japan, referred to as Soryu;
 
-(b)     a representative of Kiri speaking to a representative of Maeda, another customer of DyStar Japan.
+> (b)     a representative of Kiri speaking to a representative of Maeda, another customer of DyStar Japan.
 
 DyStar Japan is a subsidiary of DyStar.
 
@@ -603,21 +603,21 @@ DyStar Japan is a subsidiary of DyStar.
 
 168    Orders should be made to the following effect:
 
-(a)     Senda’s appeal in CA 122 in respect of Kiri’s claim in Suit 4 be dismissed with costs, to be taxed if not agreed.
+> (a)     Senda’s appeal in CA 122 in respect of Kiri’s claim in Suit 4 be dismissed with costs, to be taxed if not agreed.
 
-(b)     Senda’s appeal in CA 122 in respect of Senda’s counterclaim in Suit 4 is allowed.
+> (b)     Senda’s appeal in CA 122 in respect of Senda’s counterclaim in Suit 4 is allowed.
 
-(c)     DyStar’s appeal in CA 126 is allowed.
+> (c)     DyStar’s appeal in CA 126 is allowed.
 
-(d)     Judgment below be varied so that it reads:
+> (d)     Judgment below be varied so that it reads:
 
-(i)       Interlocutory judgment for DyStar in Suit 3 and Senda in Suit 4 against Kiri and Manish with damages to be assessed for breaches of clauses 15.1(a) and (b) of the Share Subscription and Shareholders Agreement dated 31 July 2010 in respect of FOTL as identified in \[322\] and \[342\] of the Judgment and in respect of Hayleys and Brandix as identified in paragraphs \[156\] and \[162\] of this judgment.
+>> (i)       Interlocutory judgment for DyStar in Suit 3 and Senda in Suit 4 against Kiri and Manish with damages to be assessed for breaches of clauses 15.1(a) and (b) of the Share Subscription and Shareholders Agreement dated 31 July 2010 in respect of FOTL as identified in \[322\] and \[342\] of the Judgment and in respect of Hayleys and Brandix as identified in paragraphs \[156\] and \[162\] of this judgment.
 
-(ii)       A declaration that Kiri and Manish have breached clause 15 of the Share Subscription and Shareholders Agreement by approaches to Soryu and Maeda as identified in paragraphs \[163\] to \[165\] of this judgment.
+>> (ii)       A declaration that Kiri and Manish have breached clause 15 of the Share Subscription and Shareholders Agreement by approaches to Soryu and Maeda as identified in paragraphs \[163\] to \[165\] of this judgment.
 
-(e)     Kiri and Manish are to pay the costs of the appeal in CA 122 on the counterclaim in Suit 4 and the appeal in CA 126, taxed as one set of costs, if not agreed.
+> (e)     Kiri and Manish are to pay the costs of the appeal in CA 122 on the counterclaim in Suit 4 and the appeal in CA 126, taxed as one set of costs, if not agreed.
 
-(f)     The issue of the adjustments, if any, to be made in respect of the costs below for the counterclaim in Suit 4 and the claim in Suit 3 is adjourned to be dealt with in Civil Appeal No 23 of 2019 together with the costs’ issue raised in that appeal.
+> (f)     The issue of the adjustments, if any, to be made in respect of the costs below for the counterclaim in Suit 4 and the claim in Suit 3 is adjourned to be dealt with in Civil Appeal No 23 of 2019 together with the costs’ issue raised in that appeal.
 
 * * *
 

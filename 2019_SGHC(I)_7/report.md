@@ -73,41 +73,41 @@ Tort – Defamation – Publication
 
 23     On 12 April 2014 two meetings took place. At one meeting attended by Ms Ong, Ms Suparman, Ms Wang and Mr Shport, it was recorded that the following was agreed:
 
-1.    \[Mr Shport\] has a cost of 120,000SGD for Xpanse PM work in China. It will be a personal loan from \[Ms Wang\] and \[Ms Suparman\] and \[Ms Ong\]. \[Ms Wang\] will pay RMB equal to 60,000SGD to \[Mr Shport\] in China, and \[Ms Ong\]/\[Ms Suparman\] will write a check for additional 60,000SGD to \[Mr Shport\] in Singapore.
+> 1.    \[Mr Shport\] has a cost of 120,000SGD for Xpanse PM work in China. It will be a personal loan from \[Ms Wang\] and \[Ms Suparman\] and \[Ms Ong\]. \[Ms Wang\] will pay RMB equal to 60,000SGD to \[Mr Shport\] in China, and \[Ms Ong\]/\[Ms Suparman\] will write a check for additional 60,000SGD to \[Mr Shport\] in Singapore.
 
-2.    \[Ms Ong\] will prepare the lending note for \[Mr Shport\] to sign, in which all parties agree that if project successful, this loan will be deducted from premium attributed to \[Mr Shport\] directly. If project fail and there has no premium, \[Mr Shport\] is responsible to payback \[Ms Wang\], \[Ms Suparman\] and \[Ms Ong\].
+> 2.    \[Ms Ong\] will prepare the lending note for \[Mr Shport\] to sign, in which all parties agree that if project successful, this loan will be deducted from premium attributed to \[Mr Shport\] directly. If project fail and there has no premium, \[Mr Shport\] is responsible to payback \[Ms Wang\], \[Ms Suparman\] and \[Ms Ong\].
 
-3.    \[Mr Shport\]: Salary 750,000RMB annually, \[Ms Wang\] will work out a plan with HR for best cash result. Starting date May 8th, 2014
+> 3.    \[Mr Shport\]: Salary 750,000RMB annually, \[Ms Wang\] will work out a plan with HR for best cash result. Starting date May 8th, 2014
 
-4.    Bodi (KOP China} will be the assets management company for Winterland project
+> 4.    Bodi (KOP China} will be the assets management company for Winterland project
 
-5.    For any premium received for the winterland project, we will do the following allocation:
+> 5.    For any premium received for the winterland project, we will do the following allocation:
 
-a.    50% remain in KOP China (Bodi)
+>> a.    50% remain in KOP China (Bodi)
 
-b.    50% distributed based on contribution, details will negotiate late based on a fair base
+>> b.    50% distributed based on contribution, details will negotiate late based on a fair base
 
-i.    \[Bodi\] contribution
+>>> i.    \[Bodi\] contribution
 
-ii.    \[KOPSG\] contribution
+>>> ii.    \[KOPSG\] contribution
 
-iii.   \[Mr Shport\] contribution for original idea and early stage concept development.
+>>> iii.   \[Mr Shport\] contribution for original idea and early stage concept development.
 
 24     At the other meeting, attended by Ms Ong, Ms Suparman and Ms Wang, the following agreement was recorded:
 
-We agree the following:
+> We agree the following:
 
-1.    \[Ms Wang\] monthly salary 28000SGD, Mdm Hu 35000SGD, back dated to 2013 oct, start to pay (deduct what \[Ms Wang\] already receiving in Singapore) when we have cash
+> 1.    \[Ms Wang\] monthly salary 28000SGD, Mdm Hu 35000SGD, back dated to 2013 oct, start to pay (deduct what \[Ms Wang\] already receiving in Singapore) when we have cash
 
-2.    Arrangement of \[Ms Ong\]:
+> 2.    Arrangement of \[Ms Ong\]:
 
-a.    Salary of \[Ms Ong\] will be paid by \[KOPSG\], as a base for claim \[KOPSG’s\] contribution to the project later on
+>> a.    Salary of \[Ms Ong\] will be paid by \[KOPSG\], as a base for claim \[KOPSG’s\] contribution to the project later on
 
-b.    Apt rental will be paid by Singapore office for reason above. \[Ms Wang\] will prepare lease agreement for sign. Payment directly deposit in \[Ms Wang’s\] Singapore account
+>> b.    Apt rental will be paid by Singapore office for reason above. \[Ms Wang\] will prepare lease agreement for sign. Payment directly deposit in \[Ms Wang’s\] Singapore account
 
-c.    \[Bodi\] will provide a car for \[Ms Ong\] to use in China, it will be a Blue Cayenne S rent from \[Ms Wang\] personally.
+>> c.    \[Bodi\] will provide a car for \[Ms Ong\] to use in China, it will be a Blue Cayenne S rent from \[Ms Wang\] personally.
 
-d.    \[Bodi\] will hire a personal driver and a PA for \[Ms Ong\] to use in China.
+>> d.    \[Bodi\] will hire a personal driver and a PA for \[Ms Ong\] to use in China.
 
 25     In May 2014, Ms Ong, Ms Suparman and Ms Wang invited Mr Shport to become a shareholder of KOPHK. Following discussions, it was agreed that Mr Shport would invest the sum of US$1m in exchange for a 15% beneficial stake in KOPHK. On 16 May 2014, Mr Shport sent an email to Ms Wang, copying Ms Ong and Ms Suparman saying that he would make the US$1m remittance at the beginning of June 2014 and that the investment would “count for 15% in \[KOPHK\].”
 
@@ -121,21 +121,21 @@ d.    \[Bodi\] will hire a personal driver and a PA for \[Ms Ong\] to use in
 
 29     On 12 August 2014, an investment intention agreement was signed between West Hongqiao and KOP Limited (“the Investment Intention Agreement”) and in Annex 1 to that agreement there were changes in land specifications in terms of land use, the plot ratio and various other matters. In Annex 2 to the Investment Intention Agreement, dates were provided for West Hongqiao to coordinate with related government departments to “make efforts to realise the following schedule”:
 
-(a)     for Plot A (Lots 19-02, 19-05, 21-02 and 21-05\] the date for tender was the first ten days of December 2014 with land handover no later than the end of December 2015;
+> (a)     for Plot A (Lots 19-02, 19-05, 21-02 and 21-05\] the date for tender was the first ten days of December 2014 with land handover no later than the end of December 2015;
 
-(b)     for Plot B (Lot 20-02\] the date for tender was the first ten days of December 2014 with land handover no later than the end of June 2015, and;
+> (b)     for Plot B (Lot 20-02\] the date for tender was the first ten days of December 2014 with land handover no later than the end of June 2015, and;
 
-(c)     for Plot C (Lot 22-01\] the date for tender was the first ten days of November 2014 with land handover no later than the end of June 2015.
+> (c)     for Plot C (Lot 22-01\] the date for tender was the first ten days of November 2014 with land handover no later than the end of June 2015.
 
 30     On 1 September 2014, KOPHK appointed Alfred Enterprises Co Ltd (“Alfred Enterprises”) to act as a management consultant to set up “KOP” offices in Hong Kong and China, and to be responsible for the day-to-day operations management of KOP offices with effect from 1 October 2013. Alfred Enterprises is owned by Ms Wang’s husband.
 
 31     On 9 October 2014, KOPHK and the plaintiff entered into a service agreement under which the plaintiff was to provide services in China from 1 July 2013 to 31 December 2014 which included:
 
-2.1    To advice and submit all regulatory reporting required by the government and other authorities \[in China\];
+> 2.1    To advice and submit all regulatory reporting required by the government and other authorities \[in China\];
 
-2.2    To process application and ensure \[KOPHK\] obtains all licenses and permits required for its intended operations and business developments in \[China\];
+> 2.2    To process application and ensure \[KOPHK\] obtains all licenses and permits required for its intended operations and business developments in \[China\];
 
-2.3    To meet and negotiate with relevant authorities, government departments and officials on all fees applicable for the licenses and permits required by \[KOPHK\] for clause 2.2 above;…
+> 2.3    To meet and negotiate with relevant authorities, government departments and officials on all fees applicable for the licenses and permits required by \[KOPHK\] for clause 2.2 above;…
 
 32     On 15 December 2014, Mr Quek Toh Hwai (“Mr Quek”), a project director at Bodi, sent an internal email revising the timeline to reflect the actual land auction dates of the Qing Pu Land. For Plot C (Residential), the land tender was September 2017 with construction commencing in May 2018 and completing in September 2020. For Plots A and B, the land tender was October 2017 with construction commencing in June 2018, and completing in October 2020 for Plot B and completing in December 2021 for Plot A.
 
@@ -191,27 +191,27 @@ d.    \[Bodi\] will hire a personal driver and a PA for \[Ms Ong\] to use in
 
 54     In response to the above contentions, the KOP defendants say that the Joint Venture was terminated on 13 May 2015 due to the failure to acquire the Qing Pu Land on time and the breakdown of the working relationship between KOPSG, Mr Shport, Ms Wang and Mdm Hu. They say that the relationship broke down because of the following matters:
 
-(a)     Ms Wang’s misappropriation of Mr Shport’s capital contribution to the Joint Venture;
+> (a)     Ms Wang’s misappropriation of Mr Shport’s capital contribution to the Joint Venture;
 
-(b)     Ms Wang’s demand for upfront payment of her salary which the KOP defendants felt was unreasonable;
+> (b)     Ms Wang’s demand for upfront payment of her salary which the KOP defendants felt was unreasonable;
 
-(c)     Ms Wang and Mdm Hu’s failure to provide most of the “personal loans” they claim to have provided to KOPHK;
+> (c)     Ms Wang and Mdm Hu’s failure to provide most of the “personal loans” they claim to have provided to KOPHK;
 
-(d)     Ms Wang and Mdm Hu’s use of an informal accounting system known as the “Green Book”;
+> (d)     Ms Wang and Mdm Hu’s use of an informal accounting system known as the “Green Book”;
 
-(e)     The state of the Bodi accounts and the fact that Ms Wang and Mdm Hu had incurred a high amount of doubtful expenses with no tangible results;
+> (e)     The state of the Bodi accounts and the fact that Ms Wang and Mdm Hu had incurred a high amount of doubtful expenses with no tangible results;
 
-(f)     A final round of disputes triggered by Bodi’s request for more money;
+> (f)     A final round of disputes triggered by Bodi’s request for more money;
 
-(g)     Dispute over the US$2m consultancy fee to Ms Wang;
+> (g)     Dispute over the US$2m consultancy fee to Ms Wang;
 
-(h)     Concerns with Ms Wang’s “triple dipping” of the Joint Venture funds;
+> (h)     Concerns with Ms Wang’s “triple dipping” of the Joint Venture funds;
 
-(i)     Significant delay in acquiring the Qing Pu Land;
+> (i)     Significant delay in acquiring the Qing Pu Land;
 
-(j)     The decision not to proceed with the signing of a further agreement with West Hongqiao in May 2015;
+> (j)     The decision not to proceed with the signing of a further agreement with West Hongqiao in May 2015;
 
-(k)     Frequent clashes of personalities and lack of trust among the parties.
+> (k)     Frequent clashes of personalities and lack of trust among the parties.
 
 The correctness and relevance of the above factual allegations are discussed in greater detail at \[111\] below.
 
@@ -267,9 +267,9 @@ The correctness and relevance of the above factual allegations are discussed in 
 
 75     The plaintiff refers to the decision in _Pacific Recreation Pte Ltd v S Y Technology Inc and another appeal_ \[2008\] 2 SLR (R) 491 (“_Pacific Recreation_”) at \[36\] as stating the applicable test to determine the governing law of a relationship:
 
-In _Overseas Union Insurance Ltd v Turegum Insurance Co_ <span class="citation">\[2001\] 2 SLR(R) 285</span> (“OUI v Turegum Insurance”) at \[82\], it was pointed out that:
+> In _Overseas Union Insurance Ltd v Turegum Insurance Co_ <span class="citation">\[2001\] 2 SLR(R) 285</span> (“OUI v Turegum Insurance”) at \[82\], it was pointed out that:
 
-There are three stages in determining the governing law of a contract. The first stage is to examine the contract itself to determine whether it states expressly what the governing law should be. In the absence of an express provision one moves to the second stage which is to see whether the intention of the parties as to the governing law can be inferred from the circumstances. If this cannot be done, the third stage is to determine with which system of law the contract has its most close and real connection. That system would be taken, objectively, as the governing or proper law of the contract. See _Las Vegas Hilton Corp v Khoo Teng Hock Sunny_ <span class="citation">\[1996\] 2 SLR(R) 589</span> and _Dicey & Morris on The Conflict of Laws_ (11th Ed) at Rule 180.
+>> There are three stages in determining the governing law of a contract. The first stage is to examine the contract itself to determine whether it states expressly what the governing law should be. In the absence of an express provision one moves to the second stage which is to see whether the intention of the parties as to the governing law can be inferred from the circumstances. If this cannot be done, the third stage is to determine with which system of law the contract has its most close and real connection. That system would be taken, objectively, as the governing or proper law of the contract. See _Las Vegas Hilton Corp v Khoo Teng Hock Sunny_ <span class="citation">\[1996\] 2 SLR(R) 589</span> and _Dicey & Morris on The Conflict of Laws_ (11th Ed) at Rule 180.
 
 76     The plaintiff submits that the relationship between the parties must necessarily be governed by Singapore law and contends that this is clear from the intention of the parties, notwithstanding the absence of an express choice of governing law for the relationship. First, it says that in the agreement between KOPHK and the plaintiff in relation to the US$2m, and the salary agreement between KOPHK and Alfred Enterprises for Ms Wang’s salary, the parties expressly chose Singapore law as the governing law. Secondly, the plaintiff refers to the evidence of Ms Joey Ong who confirmed that for agreements involving the KOP Group, their preference is to use Singapore law as the governing law, and that the governing law would typically be Singapore law or Hong Kong law but never Chinese law.
 
@@ -279,17 +279,17 @@ There are three stages in determining the governing law of a contract. The first
 
 79     On the other hand, the KOP defendants submit that Chinese law is the governing law. Mr Shport, as necessary, appears to adopt the KOP defendants’ submissions on the issue of governing law. They refer to the Court of Appeal decision in _Rickshaw Investments Ltd and another v Nicolai Baron von Uexkull_ <span class="citation">\[2007\] 1 SLR(R) 377</span> (“_Rickshaw Investments”_) where in finding that claims for breach of fiduciary duty arose from an employment contract governed by German law, the Court of Appeal held that German law governed the alleged breaches of fiduciary duty (at \[81\]):
 
-…We would, however, accept the more _limited_ proposition to the effect that where equitable duties (here, in relation to both breach of fiduciary duty and breach of confidence) arise from a factual matrix where the legal foundation is premised on an independent established category such as contract or tort, the appropriate principle in so far as the choice of law is concerned ought to be centred on the established category concerned.
+> …We would, however, accept the more _limited_ proposition to the effect that where equitable duties (here, in relation to both breach of fiduciary duty and breach of confidence) arise from a factual matrix where the legal foundation is premised on an independent established category such as contract or tort, the appropriate principle in so far as the choice of law is concerned ought to be centred on the established category concerned.
 
 80     In the present case, the KOP defendants submit that their alleged breaches of fiduciary duties arose from the parties’ agreement to collaborate so that the governing law of the fiduciary obligations, if any, would be the governing law of the Joint Venture. The KOP defendants submit that the Joint Venture agreement went through several iterations:
 
-(a)     In May 2013, KOPSG (represented by Ms Ong and Ms Suparman) and Ms Wang entered into a Joint Venture to identify and develop real estate projects in China. The broad terms of the Joint Venture, which the parties orally agreed to at a meeting on 3 May 2013, were reflected in Ms Wang’s email dated 3 May 2013.
+> (a)     In May 2013, KOPSG (represented by Ms Ong and Ms Suparman) and Ms Wang entered into a Joint Venture to identify and develop real estate projects in China. The broad terms of the Joint Venture, which the parties orally agreed to at a meeting on 3 May 2013, were reflected in Ms Wang’s email dated 3 May 2013.
 
-(b)     In or around September 2013, KOPSG (represented by Ms Ong and Ms Suparman) and Ms Wang agreed to undertake Project Winterland in Qing Pu as part of the Joint Venture. The parties agreed that Ms Wang and Mdm Hu would be in charge of running the day-to-day affairs of the project and liaising with the Qing Pu government on land acquisition matters.
+> (b)     In or around September 2013, KOPSG (represented by Ms Ong and Ms Suparman) and Ms Wang agreed to undertake Project Winterland in Qing Pu as part of the Joint Venture. The parties agreed that Ms Wang and Mdm Hu would be in charge of running the day-to-day affairs of the project and liaising with the Qing Pu government on land acquisition matters.
 
-(c)     In June 2014, Mr Shport entered the Joint Venture, but only for the Project Winterland in Qing Pu portion of the Joint Venture.
+> (c)     In June 2014, Mr Shport entered the Joint Venture, but only for the Project Winterland in Qing Pu portion of the Joint Venture.
 
-(d)     In late 2014, KOPSG (represented by Ms Ong and Ms Suparman) and Ms Wang agreed to confine their dealings with each other to Project Winterland in Qing Pu only.
+> (d)     In late 2014, KOPSG (represented by Ms Ong and Ms Suparman) and Ms Wang agreed to confine their dealings with each other to Project Winterland in Qing Pu only.
 
 81     The KOP defendants submit that it is undisputed that there was no written agreement and consequently no express choice of law reflecting the terms of the Joint Venture and its various iterations. In those circumstances, the KOP defendants also refer to the decision in _Pacific Recreation_ at \[37\] where the Court of Appeal held that, where there is no express choice of law, the court would have to determine whether an intention of the parties to choose a governing law could be inferred. If the court was faced with a multiplicity of factors, each pointing to a different governing law, then the proper approach would be to move on to the third stage of the analysis, which was to determine the law with the closest and most real connection with the contract.
 
@@ -297,77 +297,77 @@ There are three stages in determining the governing law of a contract. The first
 
 83     Where the contract is an alleged oral agreement, the KOP defendants submit that the court may proceed straight to the third stage. They refer to the decision of Chao Hick Tin J (as he then was) in _Las Vegas Hilton Corp (trading as Las Vegas Hilton) v Khoo Teng Hock Sunny_ <span class="citation">\[1996\] 2 SLR(R) 589</span> (“_Las Vegas Hilton_”), where it was held at \[40\]:
 
-As we are here concerned with an alleged oral contract and bearing in mind the pertinent facts, I do not think it will be meaningful to go into an exercise to determine if any inference could be drawn as to the intention of the parties on the choice of law. What the parties discussed were only in broad terms. I think it will be more productive if I proceed directly to stage three to determine with which law has the transaction the closest and most real connection.
+> As we are here concerned with an alleged oral contract and bearing in mind the pertinent facts, I do not think it will be meaningful to go into an exercise to determine if any inference could be drawn as to the intention of the parties on the choice of law. What the parties discussed were only in broad terms. I think it will be more productive if I proceed directly to stage three to determine with which law has the transaction the closest and most real connection.
 
 84     In the same case at \[45\] it was held:
 
-To determine the question of “closest and most real connection” many factors may be taken into account, the main ones are – the place of contracting, the place of performance, the places of residence or business of the parties respectively; and the nature and subject matter of the contract: see _In re United Railways of the Havana and Regla Warehouses Ltd_ at 91 _per_ Jenkins LJ.
+> To determine the question of “closest and most real connection” many factors may be taken into account, the main ones are – the place of contracting, the place of performance, the places of residence or business of the parties respectively; and the nature and subject matter of the contract: see _In re United Railways of the Havana and Regla Warehouses Ltd_ at 91 _per_ Jenkins LJ.
 
 85     In that case, it was held that the proper law of the contract was the law of Nevada, even if the contract had been concluded in Singapore. In the absence of any choice expressed by the parties, the transaction had the closest and most real connection with Nevada because (a) the loans were given at Las Vegas and in US dollars; (b) the gambling was to be done at the plaintiff’s casino in Las Vegas; (c) the plaintiff was not carrying on any business, but only had a representative office, in Singapore; and (d) none of the parties were Singaporean. The only connection with Singapore was that the discussions were held at the liaison office in Singapore.
 
 86     The KOP defendants submit that, similarly in the present case, the parties merely discussed the broad terms of the Joint Venture and it would be more productive for this Court to proceed to the third stage to determine which law has the closest and most real connection to the transaction. They submit that the Joint Venture has the closest and most real connection with China in the light of the following factors:
 
-(a)     The initial subject matter of the Joint Venture was to identify, evaluate and develop real estate opportunities in China into commercially viable projects.
+> (a)     The initial subject matter of the Joint Venture was to identify, evaluate and develop real estate opportunities in China into commercially viable projects.
 
-(b)     The subsequent subject matter of the Joint Venture was the development of Project Winterland in Qing Pu.
+> (b)     The subsequent subject matter of the Joint Venture was the development of Project Winterland in Qing Pu.
 
-(c)     There was never any intention to carry on business in Singapore or Hong Kong. KOPHK was merely a holding company without employees.
+> (c)     There was never any intention to carry on business in Singapore or Hong Kong. KOPHK was merely a holding company without employees.
 
-(d)     The nationalities of the parties were a Chinese individual represented by Hong Kong company, a Singapore company, and a Russian individual.
+> (d)     The nationalities of the parties were a Chinese individual represented by Hong Kong company, a Singapore company, and a Russian individual.
 
-(e)     The places of contracting are unclear, being either Singapore or China.
+> (e)     The places of contracting are unclear, being either Singapore or China.
 
-(f)     The currencies of the transactions pursuant to the Joint Venture were US dollars, Singapore dollars, Hong Kong dollars and Chinese RMB.
+> (f)     The currencies of the transactions pursuant to the Joint Venture were US dollars, Singapore dollars, Hong Kong dollars and Chinese RMB.
 
 87     As there was no agreed jurisdiction for dispute resolution, the KOP defendants say that factors (a) to (c) would have a close connection with China and factors (d) to (f) are neutral as between Singapore or China. They therefore submit that the jurisdiction with the closest and most real connection is China.
 
 88     In reply, the plaintiff agrees that the legal basis to determine the governing law of the Joint Venture is as set out in _Pacific Recreation_. The plaintiff submits that, here, the second stage establishes the position. In the absence of an express provision, the question is whether the intention of the parties can be inferred from the circumstances. The plaintiff submits that it can be inferred from the circumstances that the intention of the parties was not to apply Chinese law and there is no need to move to the third stage, as the KOP defendants have sought to do. Even if the court were to move to the third stage to consider the closest and most real connection, it would still point towards Singapore or Hong Kong because:
 
-(a)     Ms Ong, Ms Suparman, Mr Shport and KOPSG were at all material times based in Singapore.
+> (a)     Ms Ong, Ms Suparman, Mr Shport and KOPSG were at all material times based in Singapore.
 
-(b)     The various contracts entered into between the parties to the Joint Venture have always provided for Singapore law as the governing law and have never chosen to apply Chinese law.
+> (b)     The various contracts entered into between the parties to the Joint Venture have always provided for Singapore law as the governing law and have never chosen to apply Chinese law.
 
-(c)     The dispute resolution clauses in the various contracts between the parties to the Joint Venture provide for Singapore as the venue for resolving disputes.
+> (c)     The dispute resolution clauses in the various contracts between the parties to the Joint Venture provide for Singapore as the venue for resolving disputes.
 
-(d)     The communication between the parties to the Joint Venture was always largely conducted in the English language.
+> (d)     The communication between the parties to the Joint Venture was always largely conducted in the English language.
 
 89     I first consider the way in which the Joint Venture was formed. There is no documentation setting out the terms of the Joint Venture itself but it arose from the following chronology of events and agreements:
 
-(a)     Ms Ong and Ms Suparman held the absolute majority in KOPSG by way of indirect interest because they held 92.55% of KOP Group Pte Ltd which in turn held 100% of KOPSG. KOPSG had been trying to break into the Chinese real property development market through their representative office in China.
+> (a)     Ms Ong and Ms Suparman held the absolute majority in KOPSG by way of indirect interest because they held 92.55% of KOP Group Pte Ltd which in turn held 100% of KOPSG. KOPSG had been trying to break into the Chinese real property development market through their representative office in China.
 
-(b)     In 2012, Mr Shport and Ms Ong and Ms Suparman of KOPSG considered constructing a large indoor winter theme park in Singapore based on the Winterland Concept as conceived by Mr Shport.
+> (b)     In 2012, Mr Shport and Ms Ong and Ms Suparman of KOPSG considered constructing a large indoor winter theme park in Singapore based on the Winterland Concept as conceived by Mr Shport.
 
-(c)     In late 2012, Ms Suparman introduced Ms Wang to Ms Ong.
+> (c)     In late 2012, Ms Suparman introduced Ms Wang to Ms Ong.
 
-(d)     In April 2013, there were a number of communications between Ms Suparman and Ms Wang, copied to Ms Ong, which appear to have arisen from a trip to Shanghai by Ms Suparman when she met Ms Wang.
+> (d)     In April 2013, there were a number of communications between Ms Suparman and Ms Wang, copied to Ms Ong, which appear to have arisen from a trip to Shanghai by Ms Suparman when she met Ms Wang.
 
-(e)     On 26 April 2013 Ms Wang wrote to Ms Suparman to say, among other things, that she was planning to fly to Singapore for about a week to work with and get to know Ms Ong and Ms Suparman more. She said: “Also we can talk in detail about how we can do a JV, terms and conditions, etc.” She then listed some preliminary discussion topics under the heading “About our JV, preliminary discussion topic list.” The topics included “Shares for China JV”, “Structure of China JV” and “Roles and responsibilities.”
+> (e)     On 26 April 2013 Ms Wang wrote to Ms Suparman to say, among other things, that she was planning to fly to Singapore for about a week to work with and get to know Ms Ong and Ms Suparman more. She said: “Also we can talk in detail about how we can do a JV, terms and conditions, etc.” She then listed some preliminary discussion topics under the heading “About our JV, preliminary discussion topic list.” The topics included “Shares for China JV”, “Structure of China JV” and “Roles and responsibilities.”
 
-(f)     Ms Ong and Ms Suparman visited Ms Wang and Mdm Hu in Shanghai in early May 2013 to discuss ideas for collaboration in real estate projects in China. After discussions, Ms Ong, Ms Suparman, Ms Wang and Mdm Hu orally agreed, at the meeting on 2 and/or 3 May 2013, on the structure of the Joint Venture between the parties with the object of identifying and developing real estate projects in China.
+> (f)     Ms Ong and Ms Suparman visited Ms Wang and Mdm Hu in Shanghai in early May 2013 to discuss ideas for collaboration in real estate projects in China. After discussions, Ms Ong, Ms Suparman, Ms Wang and Mdm Hu orally agreed, at the meeting on 2 and/or 3 May 2013, on the structure of the Joint Venture between the parties with the object of identifying and developing real estate projects in China.
 
-(g)     The broad terms of the Joint Venture were reflected in Ms Wang’s email dated 3 May 2013, which attached a proposed structure showing that the plaintiff (100% owned by Ms Wang) and KOPSG would form a joint venture company, KOPHK, to be set up in Hong Kong. This company would be 51% owned by KOPSG and 49% owned by the plaintiff. There would then be a wholly foreign-owned company owned by KOPHK, Bodi, set up in China.
+> (g)     The broad terms of the Joint Venture were reflected in Ms Wang’s email dated 3 May 2013, which attached a proposed structure showing that the plaintiff (100% owned by Ms Wang) and KOPSG would form a joint venture company, KOPHK, to be set up in Hong Kong. This company would be 51% owned by KOPSG and 49% owned by the plaintiff. There would then be a wholly foreign-owned company owned by KOPHK, Bodi, set up in China.
 
-(h)     As explained in the evidence of Ms Ong, one of the purposes of the Joint Venture was to identify real estate development opportunities in China, to incubate the business opportunities and to develop them to a stage whereby they would be commercially viable projects for implementation. The real estate development projects would then be developed by a development company and third party investors could take a stake in the development company through either the payment of a premium or payment of fees to the parties to the Joint Venture. The development company would pay the Joint Venture for the rights or opportunities to develop the project. Parties to the Joint Venture would then profit through the form of establishment fees. Parties to the Joint Venture could invest in the development company, manage the construction phase of the project and earn project management fees, or earn asset management fees by managing the asset post-completion. Parties to the Joint Venture could also become key investors in the project, if they chose to.
+> (h)     As explained in the evidence of Ms Ong, one of the purposes of the Joint Venture was to identify real estate development opportunities in China, to incubate the business opportunities and to develop them to a stage whereby they would be commercially viable projects for implementation. The real estate development projects would then be developed by a development company and third party investors could take a stake in the development company through either the payment of a premium or payment of fees to the parties to the Joint Venture. The development company would pay the Joint Venture for the rights or opportunities to develop the project. Parties to the Joint Venture would then profit through the form of establishment fees. Parties to the Joint Venture could invest in the development company, manage the construction phase of the project and earn project management fees, or earn asset management fees by managing the asset post-completion. Parties to the Joint Venture could also become key investors in the project, if they chose to.
 
-(i)     KOPHK was incorporated in Hong Kong on 3 June 2013 and Bodi was incorporated in China on 12 September 2013 (with KOPHK as its sole shareholder).
+> (i)     KOPHK was incorporated in Hong Kong on 3 June 2013 and Bodi was incorporated in China on 12 September 2013 (with KOPHK as its sole shareholder).
 
-(j)     In or around September 2013, Ms Wang came across the Winterland Concept during the course of her work at KOPSG. She and Ms Ong and Ms Suparman of KOPSG agreed to explore the possibility of implementing the Winterland Concept in China pursuant to the Joint Venture and subsequently identified Shanghai as a suitable location.
+> (j)     In or around September 2013, Ms Wang came across the Winterland Concept during the course of her work at KOPSG. She and Ms Ong and Ms Suparman of KOPSG agreed to explore the possibility of implementing the Winterland Concept in China pursuant to the Joint Venture and subsequently identified Shanghai as a suitable location.
 
-(k)     In October 2013, Ms Wang identified 3 adjacent plots of land in Qing Pu, Shanghai, which were considered to be suitable. The parties then embarked on Project Winterland in Qing Pu as part of the Joint Venture.
+> (k)     In October 2013, Ms Wang identified 3 adjacent plots of land in Qing Pu, Shanghai, which were considered to be suitable. The parties then embarked on Project Winterland in Qing Pu as part of the Joint Venture.
 
-(l)     The parties agreed that Ms Wang and Mdm Hu would be in charge of running the day-to-day affairs of the project and liaising with the Qing Pu government on land acquisition matters.
+> (l)     The parties agreed that Ms Wang and Mdm Hu would be in charge of running the day-to-day affairs of the project and liaising with the Qing Pu government on land acquisition matters.
 
-(m)     By an agreement dated 12 April 2014, Ms Wang and Mdm Hu were to be paid salaries amounting to a total of S$63,000 per month with effect from October 2013.
+> (m)     By an agreement dated 12 April 2014, Ms Wang and Mdm Hu were to be paid salaries amounting to a total of S$63,000 per month with effect from October 2013.
 
-(n)     In June 2014, Mr Shport paid US$1m to KOPHK as a sum related to the Project Winterland in Qing Pu. I shall deal below with the nature of this payment.
+> (n)     In June 2014, Mr Shport paid US$1m to KOPHK as a sum related to the Project Winterland in Qing Pu. I shall deal below with the nature of this payment.
 
-(o)     A further agreement dated 1 September 2014 was entered into between KOPHK and Alfred Enterprises for the payment of Ms Wang’s salary.
+> (o)     A further agreement dated 1 September 2014 was entered into between KOPHK and Alfred Enterprises for the payment of Ms Wang’s salary.
 
-(p)     An agreement dated 9 October 2014 for US$2m was signed in Singapore between KOPHK and the plaintiff.
+> (p)     An agreement dated 9 October 2014 for US$2m was signed in Singapore between KOPHK and the plaintiff.
 
-(q)     In 2014, the parties’ dealings under the Joint Venture narrowed to Project Winterland in Qing Pu only.
+> (q)     In 2014, the parties’ dealings under the Joint Venture narrowed to Project Winterland in Qing Pu only.
 
-(r)     The parties agreed on the contribution table for establishment fees for Project Winterland on or around 12 January 2015.
+> (r)     The parties agreed on the contribution table for establishment fees for Project Winterland on or around 12 January 2015.
 
 90     On balance I consider that Chinese law applies to the Joint Venture agreement. In applying the tests in _Pacific Recreation_, it is common ground that there was no express provision as to the governing law. I therefore start by considering whether, at the second stage, the intention of the parties as to the governing law can be inferred from the circumstances.
 
@@ -417,25 +417,25 @@ To determine the question of “closest and most real connection” many factors
 
 111    There are various matters which arise from the following allegations:
 
-(a)     that Ms Wang misappropriated Mr Shport’s capital contribution;
+> (a)     that Ms Wang misappropriated Mr Shport’s capital contribution;
 
-(b)     that Ms Wang and Mdm Hu did not provide the personal loans to KOPHK;
+> (b)     that Ms Wang and Mdm Hu did not provide the personal loans to KOPHK;
 
-(c)     the nature of the US$2m sum;
+> (c)     the nature of the US$2m sum;
 
-(d)     the contributions from Ms Wang and Mdm Hu;
+> (d)     the contributions from Ms Wang and Mdm Hu;
 
-(e)     the delay in acquiring the Qing Pu Land;
+> (e)     the delay in acquiring the Qing Pu Land;
 
-(f)     the state of Bodi’s accounts;
+> (f)     the state of Bodi’s accounts;
 
-(g)     the use of the Green Book system;
+> (g)     the use of the Green Book system;
 
-(h)     that the KOP defendants continued to be in communication with SLJZ after 27 January 2015;
+> (h)     that the KOP defendants continued to be in communication with SLJZ after 27 January 2015;
 
-(i)     that KOPSG intended to continue Project Winterland with someone else in Shanghai to the exclusion of the plaintiff;
+> (i)     that KOPSG intended to continue Project Winterland with someone else in Shanghai to the exclusion of the plaintiff;
 
-(j)     that Ms Ong’s email of 4 May 2015 was an act of bad faith.
+> (j)     that Ms Ong’s email of 4 May 2015 was an act of bad faith.
 
 112    I now consider these factual allegations in turn and set out my findings relating to these allegations where appropriate.
 
@@ -443,25 +443,25 @@ To determine the question of “closest and most real connection” many factors
 
 113    On 12 April 2014 Ms Wang, Ms Ong and Ms Suparman signed an agreement with the title “Company structure and contribution principle – \[Ms Wang\], \[Ms Ong\], \[Ms Suparman\]”. The following was agreed:
 
-1.    \[Ms Wang\] monthly salary 28000SGD, Mdm Hu 35000SGD, back dated to 2013 oct, start to pay (deduct what \[Ms Wang\] already receiving in Singapore) when we have cash.
+> 1.    \[Ms Wang\] monthly salary 28000SGD, Mdm Hu 35000SGD, back dated to 2013 oct, start to pay (deduct what \[Ms Wang\] already receiving in Singapore) when we have cash.
 
-2.    Arrangement of \[Ms Ong\]:
+> 2.    Arrangement of \[Ms Ong\]:
 
-a.    Salary of \[Ms Ong\] will be paid by \[KOPSG\], as a base for claim \[KOPSG’s\] contribution to the project later on. ….
+>> a.    Salary of \[Ms Ong\] will be paid by \[KOPSG\], as a base for claim \[KOPSG’s\] contribution to the project later on. ….
 
 114    Also on 12 April 2014 there was a separate agreement with the title “Company structure and contribution principle – \[Mr Shport\]”. There followed an agreement for a loan of S$120,000 to Mr Shport for work under the First Project Management Agreement, for a salary for Mr Shport starting on 8 May 2014 and stating that:
 
-5.    For any premium received for the winterland project, we will do the following allocation:
+> 5.    For any premium received for the winterland project, we will do the following allocation:
 
-a.    50% remain in KOP China (Bodi)
+>> a.    50% remain in KOP China (Bodi)
 
-b.    50% distributed based on contribution, details will negotiate late based on a fair base
+>> b.    50% distributed based on contribution, details will negotiate late based on a fair base
 
-i.    \[Bodi\] contribution
+>>> i.    \[Bodi\] contribution
 
-ii.    \[KOPSG\] contribution
+>>> ii.    \[KOPSG\] contribution
 
-iii.   \[Mr Shport\] contribution for original idea and early stage concept development.
+>>> iii.   \[Mr Shport\] contribution for original idea and early stage concept development.
 
 115    Mr Shport says in his evidence that prior to the termination of the First Project Management Agreement, Ms Wang, Ms Suparman and Ms Ong had asked him if he wanted to become a shareholder in KOPHK. He says that in or around May 2014, following further discussions on how Project Winterland in Qing Pu should proceed, it was agreed that he would invest US$1m in exchange for a 15% “beneficial stake” in KOPHK, together with KOPSG and the plaintiff. He says that it was clear to all parties that his contribution of US$1m was an investment in KOPHK.
 
@@ -479,29 +479,29 @@ iii.   \[Mr Shport\] contribution for original idea and early stage concept d
 
 122    Although Ms Ong says she was livid and shocked, her response on 4 September 2014 showed disapproval but no signs of that reaction. She wrote as follows:
 
-Hi!
+> Hi!
 
-I have realised that Dmitry’s funds have been paid to your personal account and they have gone to pay your personal salary and expense. We have always maintained that your salary was going to be back paid when we have a project. Similarly, KOP have not received any work done towards the project and will not do so until we have income from a project. This payment to your personal account is highly improper and serious matter. Hence, please transfer all the funds received to the Company immediately and then any matters pertaining to your claims are to be settled after a face to face meeting as it requires approval.
+> I have realised that Dmitry’s funds have been paid to your personal account and they have gone to pay your personal salary and expense. We have always maintained that your salary was going to be back paid when we have a project. Similarly, KOP have not received any work done towards the project and will not do so until we have income from a project. This payment to your personal account is highly improper and serious matter. Hence, please transfer all the funds received to the Company immediately and then any matters pertaining to your claims are to be settled after a face to face meeting as it requires approval.
 
 123    In reply, Ms Wang wrote on 4 September 2014 to summarise the functions that she and Mdm Hu performed and their suggested salary. She referred to functions for “KOP China office” and for “Winterland project (Bodi)”. She suggested a combined salary of S$33,000 per month for herself and Mdm Hu, starting in October 2013.
 
 124    There was then an email exchange between Ms Wang and Ms Ong on 15 September 2014. In response to Ms Ong’s question about Mr Shport’s US$1m, Ms Wang said:
 
-Dmitry give 1M in Jul, yes, but that needs to be paid back to me first, as before his money comes in, all spending is from my personal pocket. We not only take zero salary, but also support office spending, to colliers, KPF, ECADI, etc. Those expenses are all reflected in the monthly financial report, according to the approved budget.
+> Dmitry give 1M in Jul, yes, but that needs to be paid back to me first, as before his money comes in, all spending is from my personal pocket. We not only take zero salary, but also support office spending, to colliers, KPF, ECADI, etc. Those expenses are all reflected in the monthly financial report, according to the approved budget.
 
 125    In a later email Ms Wang said:
 
-Total lending to company and untaken salary add up to total of 1.08M USD.
+> Total lending to company and untaken salary add up to total of 1.08M USD.
 
-After Dmitriy IM injection, I took back 890k, this including Hu and my salary as agreed and other lendings. But after your confirmation, I can put back partially of the salary. Company still owes me 190k USD. Which I need to take back after your funding injection.
+> After Dmitriy IM injection, I took back 890k, this including Hu and my salary as agreed and other lendings. But after your confirmation, I can put back partially of the salary. Company still owes me 190k USD. Which I need to take back after your funding injection.
 
 She confirmed in her oral evidence that the figure should have been US$710,000 not US$890,000. As an explanation of the figure of US$1.08m, Ms Wang also provided a calculation (Exhibit P-2) which showed that there was salary due to her and Mdm Hu of US$572,233, and a “Not paid loan due to Mdm Hu” of US$500,000, making a total of US$1,072,233.
 
 126    Ms Ong then sent an email on 16 September 2014 saying:
 
-The agreement was that your salary is paid after the company has cashflow and since Oct. But so far both sides are still pumping in money and we have no cash or income.
+> The agreement was that your salary is paid after the company has cashflow and since Oct. But so far both sides are still pumping in money and we have no cash or income.
 
-The paid up to date from our side I believe is more than USD1m. which means your matching equivalent should be around the same.
+> The paid up to date from our side I believe is more than USD1m. which means your matching equivalent should be around the same.
 
 127    Ms Wang replied almost immediately to say: “We agreed I start salary on Oct, 2013, but take the salary when we have cash in acct (This cash means your injection of funding, not for cash flow. We made it very clear at the time.)” Later that day, Ms Ong responded, saying that the issue related to the definition of “cash” in the 12 April 2014 agreement. Ms Ong said: “I do not believe either you or us are trying to short change the other” and concluded by commenting that she hoped “the above clarifies our Position.”
 
@@ -563,25 +563,25 @@ The paid up to date from our side I believe is more than USD1m. which means your
 
 153    At that meeting, according to the report produced by Ms Wang, the project received a positive response. In the email which Ms Wang sent to Ms Ong and Ms Suparman after the meeting she said:
 
-1)    The land likely will work. A few small things need to address in planning, but should be able to get it done
+> 1)    The land likely will work. A few small things need to address in planning, but should be able to get it done
 
-…
+> …
 
-4)    Time, from now, 5 month govt say can get the land ready for us. (Planning change and demolition completed.)
+> 4)    Time, from now, 5 month govt say can get the land ready for us. (Planning change and demolition completed.)
 
 154    On 25 November 2013 the West Hongqiao Framework Agreement was entered into between West Hongqiao and KOPSG under which West Hongqiao agreed to provide necessary assistance to KOPSG for its investment in Project Winterland in Qing Pu. West Hongqiao is a state-owned enterprise, which acted as the Qing Pu government’s agent in coordinating the various government departments to negotiate and resettle the existing occupants.
 
 155    On 29 November 2013 Ms Wang produced a presentation setting out the steps needed for Project Winterland prior to August 2014. In terms of the land acquisition she set out a programme which started with the signing of the West Hongqiao Framework Agreement on 22 November 2013 and proceeded with the following steps:
 
-(a)     Submission of modification in planning parameters by 15 February 2014.
+> (a)     Submission of modification in planning parameters by 15 February 2014.
 
-(b)     Approval of those modifications by 15 May 2014.
+> (b)     Approval of those modifications by 15 May 2014.
 
-(c)     Submission of a bid for tender of the Qing Pu Land by 30 May 2014.
+> (c)     Submission of a bid for tender of the Qing Pu Land by 30 May 2014.
 
-(d)     Auction of the Qing Pu Land by 15 June 2014.
+> (d)     Auction of the Qing Pu Land by 15 June 2014.
 
-(e)     Start of construction/ground-breaking by August 2014.
+> (e)     Start of construction/ground-breaking by August 2014.
 
 156    The modification in the planning parameters for the Qing Pu Land involved changing the height limit from 80m to 100m, changing the plot ratio from 2 and 1.6 to an average of 2.5 and the removal of the Hui Ding Road and re-routing of the Pan Long River, both of which passed through the Qing Pu Land. The removal of the Hui Ding Road and the re-routing of the Pan Long River were expressed by Ms Wang as “deal breakers” in her presentation, failing which Project Winterland in Qing Pu would be unlikely to proceed.
 
@@ -591,21 +591,21 @@ The paid up to date from our side I believe is more than USD1m. which means your
 
 159    On 12 August 2014, KOPHK signed the Investment Intention Agreement which was more detailed than the West Hongqiao Framework Agreement and set out the parties’ duties and obligations in more detail. It provided, among other things that:
 
-\[West Hongqiao\] shall be responsible for coordinating with competent governmental departments to promote the land planning guideline change for the Lots 19-02, 19-05, 21-02, 21-05 and 20-02, and make efforts to complete it before September 30, 2014.
+> \[West Hongqiao\] shall be responsible for coordinating with competent governmental departments to promote the land planning guideline change for the Lots 19-02, 19-05, 21-02, 21-05 and 20-02, and make efforts to complete it before September 30, 2014.
 
-…
+> …
 
-\[West Hongqiao\] shall be responsible for coordinating with competent governmental departments to package six Lots “19-02, 19-05, 21-02, 21-05, 20-02 and 22-01” and transfer them in the form of “compound transfer by land tender with designated construction conditions”.
+> \[West Hongqiao\] shall be responsible for coordinating with competent governmental departments to package six Lots “19-02, 19-05, 21-02, 21-05, 20-02 and 22-01” and transfer them in the form of “compound transfer by land tender with designated construction conditions”.
 
 160    Attached to the Investment Intention Agreement was a “Relocation and Transfer Announcement Schedule”. The Investment Intention Agreement provided that, if the lots were not announced by the agreed deadline in the Relocation and Transfer Announcement Schedule, “the time of announcement and land handover will be extended and determined by \[West Hongqiao\] and \[KOPHK\] through consultation.”
 
 161    That Relocation and Transfer Announcement Schedule provided that West Hongqiao “shall coordinate with related governmental departments including relocation and make efforts to realize the following schedule”. The Relocation and Transfer Announcement Schedule showed various dates for each plot but overall for all plots that:
 
-(a)     “Sign the relocation compensation agreement and cancel the registration of land ownership certificate” would happen before the end of October 2014;
+> (a)     “Sign the relocation compensation agreement and cancel the registration of land ownership certificate” would happen before the end of October 2014;
 
-(b)     “Release the transfer announcement” would happen in the first ten days of December 2014; and
+> (b)     “Release the transfer announcement” would happen in the first ten days of December 2014; and
 
-(c)     “Hand over the land” for Plots B and C would happen no later than end of June 2015 and for Plot A would happen no later than end of December 2015. These dates of June 2015 and December 2015 were much later than the initial target to commence construction in August 2014.
+> (c)     “Hand over the land” for Plots B and C would happen no later than end of June 2015 and for Plot A would happen no later than end of December 2015. These dates of June 2015 and December 2015 were much later than the initial target to commence construction in August 2014.
 
 162    In or around September 2014, the Qing Pu government revised the target date for the tender of Plot C to the first quarter of 2015 but this target date could not be confirmed, because no relocation agreement had been reached with Shanghai Jahwa United Co., Ltd (“Jahwa”), which had a factory located on Plot C at this time. As recorded at a meeting on 29 September 2014, if the land was tendered in the first quarter of 2015, the likely presale date will be the third quarter of 2017 and Mr Quek was asked to explore alternative construction methods to shorten the time required up to presale.
 
@@ -613,13 +613,13 @@ The paid up to date from our side I believe is more than USD1m. which means your
 
 164    In addition, on 23 December 2014, a meeting was held with the government officials at which the following timings on planning guideline change, land title cancellation and land tender were stated:
 
-1.    After Xujing Town completed the signing of resettlement compensation agreement, the Qingpu Planning and Land Bureau would commence planning change, estimated to take about 6 months.
+> 1.    After Xujing Town completed the signing of resettlement compensation agreement, the Qingpu Planning and Land Bureau would commence planning change, estimated to take about 6 months.
 
-2.    Upon signing of the resettlement compensation agreements, Qingpu Planning and Land Bureau to commence the cancelation of land titles of \[Jahwa\], StatsChippac and the other eight companies, and to complete this work in 2 months. Xujing Town should cooperate with the land cancelation and land clearance work as agreed in the meeting dated 18th December, 2014.
+> 2.    Upon signing of the resettlement compensation agreements, Qingpu Planning and Land Bureau to commence the cancelation of land titles of \[Jahwa\], StatsChippac and the other eight companies, and to complete this work in 2 months. Xujing Town should cooperate with the land cancelation and land clearance work as agreed in the meeting dated 18th December, 2014.
 
-3.    Upon completion of 1 and 2 above, Qingpu Land Reserve Centre should commence preliminary preparation works related Plot A and B land tender.
+> 3.    Upon completion of 1 and 2 above, Qingpu Land Reserve Centre should commence preliminary preparation works related Plot A and B land tender.
 
-4.    Upon legal acquisition of the land, KOP would ensure that the project construction progresses as plan.
+> 4.    Upon legal acquisition of the land, KOP would ensure that the project construction progresses as plan.
 
 165    These dates represented a further delay in the process of land acquisition. Meanwhile, the Qing Pu District Planning and Land Bureau (“Qing Pu Planning Bureau”), faced difficulties in changing the planning parameters in relation to the public road, Hui Ding Road. This road cut across Plot A which was the intended location for the ski slope and a hotel adjacent to the ski slope. Although discussions had been taking place since April 2014, the Shanghai City Planning and Land Bureau (“Shanghai Planning Bureau”) was firmly against removing the road.
 
@@ -669,19 +669,19 @@ The paid up to date from our side I believe is more than USD1m. which means your
 
 186    Upon her return, she then sent an email to Ms Wang and Mdm Hu on 29 August 2014, copied to Ms Ong and Ms Suparman, in which she said:
 
-Ref the review of Green Book during my recent visit, below is a summary of my understanding and findings:
+> Ref the review of Green Book during my recent visit, below is a summary of my understanding and findings:
 
-1.    The commencement of recording \[of the Green Book\] starts Oct 2013 and \[Ms Ong\] has cleared up to Dec 2013.
+>> 1.    The commencement of recording \[of the Green Book\] starts Oct 2013 and \[Ms Ong\] has cleared up to Dec 2013.
 
-2.    I have checked relevant records from Jan 2014 till July 2014.
+>> 2.    I have checked relevant records from Jan 2014 till July 2014.
 
-3.    Most expenses listed in the Green Book comes with receipt except entertainment and gifts.
+>> 3.    Most expenses listed in the Green Book comes with receipt except entertainment and gifts.
 
-4.    I have confirmed with Mdm Hu that the cash balance with her now is RMB708,153.70.
+>> 4.    I have confirmed with Mdm Hu that the cash balance with her now is RMB708,153.70.
 
-As we have agreed, with immediate effect, pls pay all expenses from this pool of RMB708,153.70 which should last for a good 8 to 10 months.
+> As we have agreed, with immediate effect, pls pay all expenses from this pool of RMB708,153.70 which should last for a good 8 to 10 months.
 
-Nearer 8th months from now, i.e. around Feb/Mar 2015, let’s review Green Book again…
+> Nearer 8th months from now, i.e. around Feb/Mar 2015, let’s review Green Book again…
 
 187    There is a dispute as to whether Ms Ong had cleared the Green Book up to December 2013. Ms Joey Ong says that this was what she was told by Ms Wang and Mdm Hu but Ms Ong denies that she cleared the Green Book up to December 2013. It seems unlikely that this comment in the email above would be wrong and I consider that some discussion about the Green Book must have taken place in December 2013 which Ms Wang and Mdm Hu thought cleared the Green Book up to December 2013. It is also clear that Ms Ong and Ms Joey Ong discussed the review carried out in Shanghai and it is likely that she read the email copied to her. She raised no concerns about the statement that she had “cleared up to Dec 2013” as she would have been expected to do if that was incorrect.
 
@@ -709,31 +709,31 @@ Nearer 8th months from now, i.e. around Feb/Mar 2015, let’s review Green Book 
 
 197    The plaintiff refers to the following events involving the KOP defendants and SLJZ which, in addition to the 27 January 2015 meeting, the plaintiff says are undisputed:
 
-(a)     First, the plaintiff refers to a meeting between Ms Ong and Ms Suparman with Mr Lee in Shanghai on 13 March 2015.
+> (a)     First, the plaintiff refers to a meeting between Ms Ong and Ms Suparman with Mr Lee in Shanghai on 13 March 2015.
 
-(b)     Secondly, Ms Ong and Ms Suparman met Chairman Yang on 14 May 2015 in Singapore in the morning and over lunch. The meeting was arranged in advance by Mr Lee on 26 April 2015. Ms Ong and Ms Suparman were in discussion with Chairman Yang on the possible relocation of Project Winterland to Lin Gang/Qian Tan. At the conclusion of the meeting on 14 May 2015, the understanding was that arrangements would be made for Ms Ong and Ms Suparman to meet with Chairman Yang again the following week when they were in Shanghai.
+> (b)     Secondly, Ms Ong and Ms Suparman met Chairman Yang on 14 May 2015 in Singapore in the morning and over lunch. The meeting was arranged in advance by Mr Lee on 26 April 2015. Ms Ong and Ms Suparman were in discussion with Chairman Yang on the possible relocation of Project Winterland to Lin Gang/Qian Tan. At the conclusion of the meeting on 14 May 2015, the understanding was that arrangements would be made for Ms Ong and Ms Suparman to meet with Chairman Yang again the following week when they were in Shanghai.
 
-(c)     Thirdly, arrangements were made on 15 May 2015 for Ms Ong and Ms Suparman to meet with Chairman Yang in Shanghai on 19 May 2015. Ms Ong and Ms Suparman then met with Chairman Yang in Shanghai on 19 May 2015 together with Mr Quek. At this meeting, the parties had more advanced discussions on the relocation of Project Winterland to Lin Gang.
+> (c)     Thirdly, arrangements were made on 15 May 2015 for Ms Ong and Ms Suparman to meet with Chairman Yang in Shanghai on 19 May 2015. Ms Ong and Ms Suparman then met with Chairman Yang in Shanghai on 19 May 2015 together with Mr Quek. At this meeting, the parties had more advanced discussions on the relocation of Project Winterland to Lin Gang.
 
-(d)     Fourthly, on the next day, 20 May 2015, Mr Quek received an email from SLJZ with an enclosure of a computer-aided design (“CAD”) drawing of the Lin Gang site.
+> (d)     Fourthly, on the next day, 20 May 2015, Mr Quek received an email from SLJZ with an enclosure of a computer-aided design (“CAD”) drawing of the Lin Gang site.
 
-(e)     Fifthly, on 20 May 2015, a comment on KOP Limited was made on a share investor forum, stating that “location has been settled…heard its fairly close to shanghai disneyland”.
+> (e)     Fifthly, on 20 May 2015, a comment on KOP Limited was made on a share investor forum, stating that “location has been settled…heard its fairly close to shanghai disneyland”.
 
-(f)     Sixthly, on 20 May 2015, Mr Quek, in his WeChat message to Ms Ong, stated that he had “just discussed with \[Mr Shport\] on presentation financial” for the Project in Lin Gang.
+> (f)     Sixthly, on 20 May 2015, Mr Quek, in his WeChat message to Ms Ong, stated that he had “just discussed with \[Mr Shport\] on presentation financial” for the Project in Lin Gang.
 
-(g)     On 20 May 2015, Mr Quek, in his WeChat message to Ms Ong stated:
+> (g)     On 20 May 2015, Mr Quek, in his WeChat message to Ms Ong stated:
 
-Hi Chih Ching the assistant of Wu Xiaoke asking us to prepare the following information for them by this Friday for him to report to city
+>> Hi Chih Ching the assistant of Wu Xiaoke asking us to prepare the following information for them by this Friday for him to report to city
 
-1.    Winterland promotional video DVD
+>> 1.    Winterland promotional video DVD
 
-2.    Detailed plans for Beidao Cultural Performance Center
+>> 2.    Detailed plans for Beidao Cultural Performance Center
 
-3.    Minimum size of Winterland for their finding the right plot
+>> 3.    Minimum size of Winterland for their finding the right plot
 
-They want item 3 by tomorrow. The rest by Friday. When asked if Wu will need the visitors n financial figures for this meeting with city, her answer was optional, good to have if we can provide else in no hurry. We have the model done and once you OK we can send to them tomorrow. We always have 1. For item 2 we need to discuss.
+>> They want item 3 by tomorrow. The rest by Friday. When asked if Wu will need the visitors n financial figures for this meeting with city, her answer was optional, good to have if we can provide else in no hurry. We have the model done and once you OK we can send to them tomorrow. We always have 1. For item 2 we need to discuss.
 
-(h)     On 20 May 2015, Mr Quek received a further email from SLJZ with a link to download some documents. According to Mr Quek, the email correspondence with SLJZ came about after the 19 May 2015 meeting.
+> (h)     On 20 May 2015, Mr Quek received a further email from SLJZ with a link to download some documents. According to Mr Quek, the email correspondence with SLJZ came about after the 19 May 2015 meeting.
 
 198    Further, the plaintiff submits that the evidence of Driver Ying, who was the personal driver of Ms Ong and Ms Suparman, is that he had been driving Ms Ong and Ms Suparman to Qian Tan Command Centre to meet with SLJZ since 27 January 2015. After the initial meeting, Ms Ong in her email response (dated 28 January 2015) to Mr Lee confirmed that she would visit Chairman Yang the next time she visited Shanghai in response to Chairman Yang’s invitation. The plaintiff says that this corroborates Driver Ying’s evidence that after the initial meeting, he continued to drive Ms Ong and Ms Suparman to Qian Tan Command Centre.
 
@@ -745,9 +745,9 @@ They want item 3 by tomorrow. The rest by Friday. When asked if Wu will need the
 
 202    The plaintiff also places reliance on Ms Suparman’s email dated 25 May 2015 which was copied to Mr Quek and Ms Joey Ong:
 
-As you know, the partnership between \[Ms Wang\]/\[Mdm Hu\] and \[KOPSG\] has ended. Pls do not give nor provide ANY information from your side to anyone other than Quek and the relevant people in charge whom you’ve been working with from \[KOPSG\]. If in doubt, please check with me or Quek.
+> As you know, the partnership between \[Ms Wang\]/\[Mdm Hu\] and \[KOPSG\] has ended. Pls do not give nor provide ANY information from your side to anyone other than Quek and the relevant people in charge whom you’ve been working with from \[KOPSG\]. If in doubt, please check with me or Quek.
 
-Quek, as spoken pls speak to other staff on this, including Driver Ying.
+> Quek, as spoken pls speak to other staff on this, including Driver Ying.
 
 When cross-examined as to what confidential or sensitive information about Bodi that Driver Ying could possibly have, Ms Suparman replied: “Everything to do with our – where we go, our security. Everything.” The plaintiff contends that there was no reason for Ms Suparman to have sent the email instructions to Mr Quek and to specifically single out Driver Ying for Mr Quek to speak to, unless Driver Ying had knowledge of the trips to meet with SLJZ after 27 January 2015 and Ms Suparman wanted to pre-empt his disclosure of this sensitive information.
 
@@ -779,11 +779,11 @@ When cross-examined as to what confidential or sensitive information about Bodi 
 
 216    Accordingly, the plaintiff submits that KOPSG had already reached an informal, unwritten and bilateral decision to collaborate with SLJZ, to the exclusion of the plaintiff before the termination of the Joint Venture, and there were several interactions prior to that. The plaintiff contends that the KOP defendants’ continued communication with SLJZ after 27 January 2015 was further corroborated by the following events in March 2015:
 
-(a)     First, the KOP Group confirmed to IE Singapore in Ms Joey Ong’s email dated 23 September 2015 that they had been looking for an alternative piece of land to undertake Project Winterland in March 2015, which would coincide with discussions that they were having with SLJZ during the material time.
+> (a)     First, the KOP Group confirmed to IE Singapore in Ms Joey Ong’s email dated 23 September 2015 that they had been looking for an alternative piece of land to undertake Project Winterland in March 2015, which would coincide with discussions that they were having with SLJZ during the material time.
 
-(b)     Secondly, the plaintiff says that there was communication between KOPSG and Mr Lee, as shown by Ms Jenny Liu’s email to Mr Lee dated 12 March 2015 and the appointment fixed for Mr Lee to meet Ms Ong and Ms Suparman on 13 March 2015. The evidence of Mr Lee and Ms Ong that there was no meeting between them cannot be believed, because Ms Suparman confirmed that the meeting happened on 13 March 2015.
+> (b)     Secondly, the plaintiff says that there was communication between KOPSG and Mr Lee, as shown by Ms Jenny Liu’s email to Mr Lee dated 12 March 2015 and the appointment fixed for Mr Lee to meet Ms Ong and Ms Suparman on 13 March 2015. The evidence of Mr Lee and Ms Ong that there was no meeting between them cannot be believed, because Ms Suparman confirmed that the meeting happened on 13 March 2015.
 
-(c)     At around the same time, Ms Joey Ong, by her email dated 28 March 2015 to Ms Wang, asked for a copy of the report on the ski resorts in China (which was part of an early-stage feasibility analysis for Project Winterland in China done by Bodi). When pressed as to the reason for her request, Ms Joey Ong claimed that she could not remember but suggested that this request may have been made for the purposes of reporting to the board of KOPSG or KOP Limited. The plaintiff says that it is strange that Ms Ong would require such a report since she confirmed that “Ms Wang would be primarily the person in charge of dealing with the project with the assistance of the staff employed by Bodi and KOPSG.” The plaintiff submits that there was no reason to provide an early-stage feasibility study report to the board when the analysis has already been done and Ms Ong had already signed agreements with Qing Pu government to implement Project Winterland in Qing Pu. The only inference, it submits, is that the report was needed for the purpose of showing it to third parties or other interested investors concerning the viability of Project Winterland in China.
+> (c)     At around the same time, Ms Joey Ong, by her email dated 28 March 2015 to Ms Wang, asked for a copy of the report on the ski resorts in China (which was part of an early-stage feasibility analysis for Project Winterland in China done by Bodi). When pressed as to the reason for her request, Ms Joey Ong claimed that she could not remember but suggested that this request may have been made for the purposes of reporting to the board of KOPSG or KOP Limited. The plaintiff says that it is strange that Ms Ong would require such a report since she confirmed that “Ms Wang would be primarily the person in charge of dealing with the project with the assistance of the staff employed by Bodi and KOPSG.” The plaintiff submits that there was no reason to provide an early-stage feasibility study report to the board when the analysis has already been done and Ms Ong had already signed agreements with Qing Pu government to implement Project Winterland in Qing Pu. The only inference, it submits, is that the report was needed for the purpose of showing it to third parties or other interested investors concerning the viability of Project Winterland in China.
 
 ##### The KOP defendants’ case
 
@@ -839,13 +839,13 @@ When cross-examined as to what confidential or sensitive information about Bodi 
 
 241    I do not accept Driver Ying’s evidence, particularly in the face of the evidence of Ms Ong, Ms Suparman, Mr Jason Geng and Mr Quek, who allegedly took part in the visits, denying that they did in fact visit the SLJZ offices:
 
-(a)     Ms Ong said that, after the meeting with Chairman Yang in January 2015, she did not communicate with Chairman Yang, SLJZ or Mr Lee (whether orally or in writing) until April 2015 when arrangements were made for Chairman Yang’s visit to Singapore.
+> (a)     Ms Ong said that, after the meeting with Chairman Yang in January 2015, she did not communicate with Chairman Yang, SLJZ or Mr Lee (whether orally or in writing) until April 2015 when arrangements were made for Chairman Yang’s visit to Singapore.
 
-(b)     Ms Suparman said that she first met Chairman Yang in January 2015 and that the next time she met him was in Singapore in May 2015.
+> (b)     Ms Suparman said that she first met Chairman Yang in January 2015 and that the next time she met him was in Singapore in May 2015.
 
-(c)     Mr Jason Geng said that he did not make any trip to the Qian Tan Command Centre from February to May 2015. He said that he met representatives of SLJZ for the first time on 26 May 2015 at the offices of SLJZ at Jinxiu Road, Shanghai, and not at the Qian Tan Command Centre.
+> (c)     Mr Jason Geng said that he did not make any trip to the Qian Tan Command Centre from February to May 2015. He said that he met representatives of SLJZ for the first time on 26 May 2015 at the offices of SLJZ at Jinxiu Road, Shanghai, and not at the Qian Tan Command Centre.
 
-(d)     Mr Quek said that on about 18 May 2015, Ms Ong called him to ask if he could attend a meeting in Shanghai with SLJZ the following day. He said that at the meeting on 19 May 2015, he met Chairman Yang, Wu Xiao Ke and Grace of SLJZ for the first time. He said he did not make any trip to the Qian Tan Command Centre from February to April 2015.
+> (d)     Mr Quek said that on about 18 May 2015, Ms Ong called him to ask if he could attend a meeting in Shanghai with SLJZ the following day. He said that at the meeting on 19 May 2015, he met Chairman Yang, Wu Xiao Ke and Grace of SLJZ for the first time. He said he did not make any trip to the Qian Tan Command Centre from February to April 2015.
 
 242    The plaintiff relies on Ms Suparman’s email of 25 May 2015 asking Mr Quek to speak to Driver Ying in the context of not providing information and says that this information would be about the drives made to SLJZ. This reads too much into that email which was merely to ensure that Driver Ying was included in the general email about not providing information. The plaintiff also places some reliance on certain references to dates in March 2015 (see above at \[216\]). There were three matters relied on: arrangements for a meeting on 13 March 2015 between Ms Ong and Mr Lee, a request for a report on ski resorts in China made by Ms Joey Ong on 28 March 2015 and a reference by Ms Joey Ong in September 2015 to the fact they had been looking for an alternative piece of land in March 2015.
 
@@ -867,7 +867,7 @@ When cross-examined as to what confidential or sensitive information about Bodi 
 
 250    Thirdly, the plaintiff says that Ms Ong has always held the view that she could not “bring myself to do this project without \[Mr Shport\]”. Even after the Termination Agreement, the plaintiff says that Mr Shport continued to retain his 15% stake in Project Winterland which was by then in Lin Gang. The plaintiff refers to the email of 4 May 2015 which was sent on Mr Shport’s behalf and stated:
 
-We have discussed with Dmitriy and over the past long weekend we decided after long consideration that the only way to go forward is to restore the trust…
+> We have discussed with Dmitriy and over the past long weekend we decided after long consideration that the only way to go forward is to restore the trust…
 
 251    The plaintiff says that it was clear to Mr Shport that by April or May 2015, the relationship between the parties was souring, culminating in the signing of the Termination Agreement. The plaintiff submits that, contrary to Mr Shport’s evidence, whether before 13 May 2015 or between 13 May 2015 and 20 May 2015, he must have asked Ms Ong or Ms Suparman about what life after the termination of the Joint Venture would be like.
 
@@ -905,41 +905,41 @@ We have discussed with Dmitriy and over the past long weekend we decided after l
 
 267    Ms Wang sent another email early on 10 April 2015 with an update on the project status and then followed it up with a further email to Ms Suparman and Ms Ong with the heading “my feelings” in which she said:
 
-I am so glad we had today's talk. I am especially touched when \[Ms Ong\] told me that: "I am trying to avoid communication since I want to maintain the relationship." I am doing the same but I did not say it out. It really touched my heart!
+> I am so glad we had today's talk. I am especially touched when \[Ms Ong\] told me that: "I am trying to avoid communication since I want to maintain the relationship." I am doing the same but I did not say it out. It really touched my heart!
 
-For the past 2 months, I was really struggling and stressed. I hope to have a communication but worry it will make things worse. Just like the road issue with planning bureau. So I tried to hide and not speak up. This result in more mis- understanding and hard feelings. I apologize!
+> For the past 2 months, I was really struggling and stressed. I hope to have a communication but worry it will make things worse. Just like the road issue with planning bureau. So I tried to hide and not speak up. This result in more mis- understanding and hard feelings. I apologize!
 
-I feel there are many things we start to feel bad in fact is nothing **if we understand each other's position through proper communication** ...
+> I feel there are many things we start to feel bad in fact is nothing **if we understand each other's position through proper communication** ...
 
-I also realized there are **"trust" issue between us**. No doubt, people like \[Ms Ong\] yourself and \[Ms Suparman\] is rare to see in today's world... But no matter what, we were new to each other, even with \[Ms Suparman\], we did not see each other for over 10 years almost. It takes time and hardship to build the trust and can be destroyed by a very small piece of mis-presented information. For Xiao Shi's salary, for the usage of my personal car, for not reimburse of CC's coffee, for whoever told you I am always not in office... However, I can touch my heart and say I believe my conduct is fair and probably more favourable to company. But from your perspective, may not be. From fragile pieces of information you would not be able to tell. Today, I understand why, again, it is **lack of clear communication**... It could be I did something and you think it is not proper. Then talk directly to me and listen what I have got in mind. And feel free to say no need. Otherwise, **when small things accumulate, it will indeed hurt our relationship. And I will do the same**.
+> I also realized there are **"trust" issue between us**. No doubt, people like \[Ms Ong\] yourself and \[Ms Suparman\] is rare to see in today's world... But no matter what, we were new to each other, even with \[Ms Suparman\], we did not see each other for over 10 years almost. It takes time and hardship to build the trust and can be destroyed by a very small piece of mis-presented information. For Xiao Shi's salary, for the usage of my personal car, for not reimburse of CC's coffee, for whoever told you I am always not in office... However, I can touch my heart and say I believe my conduct is fair and probably more favourable to company. But from your perspective, may not be. From fragile pieces of information you would not be able to tell. Today, I understand why, again, it is **lack of clear communication**... It could be I did something and you think it is not proper. Then talk directly to me and listen what I have got in mind. And feel free to say no need. Otherwise, **when small things accumulate, it will indeed hurt our relationship. And I will do the same**.
 
-Also, I think we **need to have proper documentation of our agreement in the future**. It seems there are many mis­understanding from what we have agreed…. Or even just we don't have time to really sit down and get it done. Then we start to argue what you meant and what I meant, which never has any approve. And we again feel bad. Therefore, to avoid this, I suggest we dedicate enough time for ourselves and have agreement properly documented, so we can always refer back. You know my English, my English cannot compare with yours at all. But most case, I was the one doing meeting minutes, etc. I hope to have your help to polish my writing in documentation so we can be more clear and no mis-understanding in the future.
+> Also, I think we **need to have proper documentation of our agreement in the future**. It seems there are many mis­understanding from what we have agreed…. Or even just we don't have time to really sit down and get it done. Then we start to argue what you meant and what I meant, which never has any approve. And we again feel bad. Therefore, to avoid this, I suggest we dedicate enough time for ourselves and have agreement properly documented, so we can always refer back. You know my English, my English cannot compare with yours at all. But most case, I was the one doing meeting minutes, etc. I hope to have your help to polish my writing in documentation so we can be more clear and no mis-understanding in the future.
 
-…
+> …
 
-I understand \[Ms Ong\] say: it is so tired to have to always thinking what to say to Xuan and not hurt her sensitive heart... This part I already overcome. Feel free to through things at me. **But, lets keep communication. It is more important than anything else**.
+> I understand \[Ms Ong\] say: it is so tired to have to always thinking what to say to Xuan and not hurt her sensitive heart... This part I already overcome. Feel free to through things at me. **But, lets keep communication. It is more important than anything else**.
 
-I hope I made myself clear and hope to have your understanding.
+> I hope I made myself clear and hope to have your understanding.
 
-\[emphasis in original\]
+> \[emphasis in original\]
 
 268    Ms Ong responded to Ms Wang by an email dated 14 April 2015 and said:
 
-In business and in running a Company, it is difficult enough to have to deal with matters with outside parties and the business itself, yet we constantly have to talk about your feelings. You are very sensitive and you want appreciation. When a job is accomplished, appreciation is granted, but not every step of the way. Otherwise, we appreciate today for you saying the right thing today and tomorrow we have to take back the appreciation because the same is no longer good for the situation, for example. Isn't it tiring? Can you imagine if we also expect the same?
+> In business and in running a Company, it is difficult enough to have to deal with matters with outside parties and the business itself, yet we constantly have to talk about your feelings. You are very sensitive and you want appreciation. When a job is accomplished, appreciation is granted, but not every step of the way. Otherwise, we appreciate today for you saying the right thing today and tomorrow we have to take back the appreciation because the same is no longer good for the situation, for example. Isn't it tiring? Can you imagine if we also expect the same?
 
-Since we all agree that we should be direct and professional. Here it goes.
+> Since we all agree that we should be direct and professional. Here it goes.
 
-The point is this, you have submitted the budgets, they were not approved. Even if they were approved, you have met the expenses but not the income (revenue). In the real life scenario, when a CEO has all expenses and no income as projected, they will look for other sources, and CEO is supposed to set the direction and run the business including delivery of the results. So in your case, where you run so deep in red, naturally either the CEO gets fired or resigns ...
+> The point is this, you have submitted the budgets, they were not approved. Even if they were approved, you have met the expenses but not the income (revenue). In the real life scenario, when a CEO has all expenses and no income as projected, they will look for other sources, and CEO is supposed to set the direction and run the business including delivery of the results. So in your case, where you run so deep in red, naturally either the CEO gets fired or resigns ...
 
-KOP Singapore has invested about S$3.75+M and Dmitry S$1M plus your initial $500k in total about $5M. You also claimed to have invested 2M. The Company only started Sept 2013. And you managed to spend almost all the money within 1.5 years. Even if fees were at $2m and entertainment is 2M, you still managed to burn 3M in a mere 15 months. (Not to mention another 2M in Cocoa Colony.)
+> KOP Singapore has invested about S$3.75+M and Dmitry S$1M plus your initial $500k in total about $5M. You also claimed to have invested 2M. The Company only started Sept 2013. And you managed to spend almost all the money within 1.5 years. Even if fees were at $2m and entertainment is 2M, you still managed to burn 3M in a mere 15 months. (Not to mention another 2M in Cocoa Colony.)
 
-Most of the monies traced back to invoices etc, so the account beautifully accounted for. We have more drivers than we need because of QingPu. And you "loan" the cars free of charge to the Company but guess who are using them? All the entertainment expenses are paid by the Company yet in the end you want a good share of the establishment fee for doing exactly what the entertainment was for, plus salary. So if its not triple dipping, I don't know what else to call it. However, we still agreed to pay you a salary, the share of the fees that you wanted, plus for the entertainment. May I ask then who I should claim credit from for my generosity?
+> Most of the monies traced back to invoices etc, so the account beautifully accounted for. We have more drivers than we need because of QingPu. And you "loan" the cars free of charge to the Company but guess who are using them? All the entertainment expenses are paid by the Company yet in the end you want a good share of the establishment fee for doing exactly what the entertainment was for, plus salary. So if its not triple dipping, I don't know what else to call it. However, we still agreed to pay you a salary, the share of the fees that you wanted, plus for the entertainment. May I ask then who I should claim credit from for my generosity?
 
-…
+> …
 
-Being good at one's work means they deliver what they promised. So how are you good at your work when all the representation you have made to us about the land and land acquisition timing and perimeters have not been fulfilled? In the end, things are still done as things should be, the timing and building compromises are as they should be under the law. All the over promises doesn't matter? And you will say, "China is like that" ...
+> Being good at one's work means they deliver what they promised. So how are you good at your work when all the representation you have made to us about the land and land acquisition timing and perimeters have not been fulfilled? In the end, things are still done as things should be, the timing and building compromises are as they should be under the law. All the over promises doesn't matter? And you will say, "China is like that" ...
 
-Yet, we have not made any accusations until now. You think about it yourself and then you tell me, if the tables were turned. Only you know the truth. What is the right thing? I am not going to say anymore and leave to your conscience, I am just going to do what I need to do if you were an employee and not a friend.
+> Yet, we have not made any accusations until now. You think about it yourself and then you tell me, if the tables were turned. Only you know the truth. What is the right thing? I am not going to say anymore and leave to your conscience, I am just going to do what I need to do if you were an employee and not a friend.
 
 269    Ms Wang responded to this email on 18 April 2015 dealing with the matters set out in Ms Ong’s email, including the allegation that she was triple dipping.
 
@@ -959,45 +959,45 @@ Yet, we have not made any accusations until now. You think about it yourself and
 
 277    These email exchanges culminated in an email from Ms Joey Ong to Ms Jessica Zhang on 24 April 2015 in which she set out a list of “doubtful expenses”. She summarised the position as follows:
 
-From the above, the expenses in question for KOP HK is HKD212,965.18 and KOP Shanghai is RMB3.5M. Looking at P&L for the period, the burn rate is a total SGD7M (i.e. HKD23.2M + RMB12.86M).
+> From the above, the expenses in question for KOP HK is HKD212,965.18 and KOP Shanghai is RMB3.5M. Looking at P&L for the period, the burn rate is a total SGD7M (i.e. HKD23.2M + RMB12.86M).
 
-It is hard for us to justify to our board to further fund the companies until such time we hear from you your justification for incurring such expenses.
+> It is hard for us to justify to our board to further fund the companies until such time we hear from you your justification for incurring such expenses.
 
-Thus, we urge you to provide these info to us asap.
+> Thus, we urge you to provide these info to us asap.
 
-In the meantime, pls look to Wang Xuan to fund the expenses first since she manages the day to day operations of the companies and is also the approval party for these expenses which until justified should not have been paid.
+> In the meantime, pls look to Wang Xuan to fund the expenses first since she manages the day to day operations of the companies and is also the approval party for these expenses which until justified should not have been paid.
 
 278    There were then further email exchanges up to 27 April 2015 between Ms Joey Ong, Ms Wang and Ms Ong in which they disagreed about which party should pay further contributions to Bodi, with Ms Wang saying that it was for KOPSG to put in more funds and Ms Ong saying that the doubtful expenses had to be justified before any further contributions would be made.
 
 279    On 4 May 2015, Ms Joey Ong emailed Ms Ong with the results of her review of the accounts and informed that based on that review, she had identified “doubtful expenses” which amounted to around S$1.05m in total. This sum consisted of:
 
-(a)     S$920,464.87 in entertainment, travel, meeting and other miscellaneous expenses. These were expenses that, according to Ms Jessica Zhang, potentially involved staff claims which could have been false expenses to generate income for the Green Book. Ms Joey Ong considered that these expenses were doubtful and/or questionable and should be investigated further; and
+> (a)     S$920,464.87 in entertainment, travel, meeting and other miscellaneous expenses. These were expenses that, according to Ms Jessica Zhang, potentially involved staff claims which could have been false expenses to generate income for the Green Book. Ms Joey Ong considered that these expenses were doubtful and/or questionable and should be investigated further; and
 
-(b)     S$130,933.45 in doubtful motor vehicle-related expenses.
+> (b)     S$130,933.45 in doubtful motor vehicle-related expenses.
 
 280    Ms Ong then sent the 4 May 2015 email to Ms Wang, copied to Mr Shport and Ms Suparman, in which she said under the heading “our collective thoughts on settlement”:
 
-I refer to the various correspondence, conversations as well as your recent meetings with \[Mr Shport\] to resolve the 2 M issue as well as the monies spent purportedly on entertainment which amounted to S$920K and cost for 4 vehicles at S$130k also meant for entertainment…
+> I refer to the various correspondence, conversations as well as your recent meetings with \[Mr Shport\] to resolve the 2 M issue as well as the monies spent purportedly on entertainment which amounted to S$920K and cost for 4 vehicles at S$130k also meant for entertainment…
 
-I will not go into dwelling into the details but get straight into the point.
+> I will not go into dwelling into the details but get straight into the point.
 
-When we started the business, both sides have good faith that things would be done properly and there were a lot of trust. However, at this point, it has become a big issue. And this is mainly due to the said exorbitant amount that has been spent. You keep saying its been approved but it has not, at least not the amounts which to be spent. The fact is that if these amount were reasonable, we would have accepted them. Imagine the company is only 15 months old, and entertainment alone is 1.05m and more! This is grossly overspending and is therefore unacceptable even by China standards! (We have many friends and associates who do business in China and they don’t spend like that!) Because of this gross overspending we have lost trust in your and \[Mdm Hu’s\] management and thus in this partnership. Leny and I have been very disturbed about this for a while and team members sent to verify your numbers and evidence have voiced their concerns to us and were all also not willing to sign off.
+> When we started the business, both sides have good faith that things would be done properly and there were a lot of trust. However, at this point, it has become a big issue. And this is mainly due to the said exorbitant amount that has been spent. You keep saying its been approved but it has not, at least not the amounts which to be spent. The fact is that if these amount were reasonable, we would have accepted them. Imagine the company is only 15 months old, and entertainment alone is 1.05m and more! This is grossly overspending and is therefore unacceptable even by China standards! (We have many friends and associates who do business in China and they don’t spend like that!) Because of this gross overspending we have lost trust in your and \[Mdm Hu’s\] management and thus in this partnership. Leny and I have been very disturbed about this for a while and team members sent to verify your numbers and evidence have voiced their concerns to us and were all also not willing to sign off.
 
-Dmitry has also similarly voiced his concerns. We have discussed with Dmitry and over the past long weekend we decided after long consideration that the only way to go forward is to restore the trust, like last time, but it is easier said than done, so we thought of a more practical way. We can’t accept the S$2M “fee” and S$1.05m. We will not be able to accept nor explain our way through our board on this type of gross expenditure on entertainment, and on top of it give you a lion share for the Fees. We will need you to put back half the amount of S$3.05m and we move forward from here. Because even if you show us “evidence” there is no way of verifying if the same was really spent for the company. With this settlement, none of us need to talk about fault.
+> Dmitry has also similarly voiced his concerns. We have discussed with Dmitry and over the past long weekend we decided after long consideration that the only way to go forward is to restore the trust, like last time, but it is easier said than done, so we thought of a more practical way. We can’t accept the S$2M “fee” and S$1.05m. We will not be able to accept nor explain our way through our board on this type of gross expenditure on entertainment, and on top of it give you a lion share for the Fees. We will need you to put back half the amount of S$3.05m and we move forward from here. Because even if you show us “evidence” there is no way of verifying if the same was really spent for the company. With this settlement, none of us need to talk about fault.
 
-Otherwise we really do not see how to proceed with this partnership and therefore this Winterland project. We recognise that part of the reason for Winterland was because of you and \[Mdm Hu’s\] effort so we will not proceed with the project on our own without you, and we don’t want to seem to take advantage of you, so we’d rather not do this project. You know that we’ve made many announcements on this project and therefore the impact on KOPL plus the explanation we have to do is going to be difficult for us, but we’d rather end it here than to go on and suffer in the long run, it’s bad for us and bad for you too.
+> Otherwise we really do not see how to proceed with this partnership and therefore this Winterland project. We recognise that part of the reason for Winterland was because of you and \[Mdm Hu’s\] effort so we will not proceed with the project on our own without you, and we don’t want to seem to take advantage of you, so we’d rather not do this project. You know that we’ve made many announcements on this project and therefore the impact on KOPL plus the explanation we have to do is going to be difficult for us, but we’d rather end it here than to go on and suffer in the long run, it’s bad for us and bad for you too.
 
-Qingpu has reverted on the draft agreement which is not acceptable to us. So we can use this as an excuse to cancel the signing.
+> Qingpu has reverted on the draft agreement which is not acceptable to us. So we can use this as an excuse to cancel the signing.
 
-Please let me know by tomorrow if you can, given the short time span we have so that we can engage Qingpu and IE Singapore in the right way according to which your decision is taken. If you can’t make the decision by then, then I suggest we just not go ahead with the signing so that you don’t feel pressured.
+> Please let me know by tomorrow if you can, given the short time span we have so that we can engage Qingpu and IE Singapore in the right way according to which your decision is taken. If you can’t make the decision by then, then I suggest we just not go ahead with the signing so that you don’t feel pressured.
 
 281    Ms Wang replied to this email on 5 May 2015. She first dealt with various matters which had been raised about the finances. She then continued:
 
-I am afraid I cannot agree with you on your suggestion. Even if it means we have to call off the project. I understand your pain, I am also a shareholder of KOP Limited. I probably face more as I am in china, in Shanghai and all those govt officials are friends of my mum. But I cannot agree to a blame I have never done. I cannot accept a mis-presented facts again my integrity. What I have done are agreed by you or your team. Unless you prove otherwise.
+> I am afraid I cannot agree with you on your suggestion. Even if it means we have to call off the project. I understand your pain, I am also a shareholder of KOP Limited. I probably face more as I am in china, in Shanghai and all those govt officials are friends of my mum. But I cannot agree to a blame I have never done. I cannot accept a mis-presented facts again my integrity. What I have done are agreed by you or your team. Unless you prove otherwise.
 
-I still wish to have a talk face to face to give the facts and evidences, regardless we do this project or not. And if we don't, the most immediate thing is to call off the planning bureau approval. If u decide not to sign agreement and I will follow the act.
+> I still wish to have a talk face to face to give the facts and evidences, regardless we do this project or not. And if we don't, the most immediate thing is to call off the planning bureau approval. If u decide not to sign agreement and I will follow the act.
 
-Again, let's all talk based on facts and value our own words and promises. Otherwise, it is really no point to continue. And even if we continue, the project will fail by a team with no trust.
+> Again, let's all talk based on facts and value our own words and promises. Otherwise, it is really no point to continue. And even if we continue, the project will fail by a team with no trust.
 
 282    Ms Ong says that she was upset that Ms Wang wanted KOPSG to provide more funds as she thought it highly suspicious that US$3.5m had been spent so quickly and she instructed Ms Joey Ong to look into the accounts. In her evidence Ms Ong said that the amount of “S$3.05m” which she stated in the 4 May 2015 email was an error in computation. She had intended to refer to the US$2m in management fees and S$1.05m in doubtful expenses.
 
@@ -1132,113 +1132,113 @@ Summary of position on expenses
 
 Agreement
 
-On May 12th 5pm and 13th 3pm of 2015, all shareholders of KOP China (Bodi) and KOPP HK had meetings regarding current company and project situation. Attendees are \[Ms Ong\], \[Ms Suparman\], \[Ms Wang\], \[Mr Shport\]. Summarized below:
+> On May 12th 5pm and 13th 3pm of 2015, all shareholders of KOP China (Bodi) and KOPP HK had meetings regarding current company and project situation. Attendees are \[Ms Ong\], \[Ms Suparman\], \[Ms Wang\], \[Mr Shport\]. Summarized below:
 
-1)    \[Ms Ong\] believe that till today, there is no progress of the project at all. Govt like to over-promise. She has question on govt's current promise on land tendering time of end of 2015, which required to treat the land as "clean" land with factory buildings still on top. She also worried about the financial cost we need to carry from the tendering to the time the land is delivered.
+> 1)    \[Ms Ong\] believe that till today, there is no progress of the project at all. Govt like to over-promise. She has question on govt's current promise on land tendering time of end of 2015, which required to treat the land as "clean" land with factory buildings still on top. She also worried about the financial cost we need to carry from the tendering to the time the land is delivered.
 
-2)    \[Ms Wang\] believe China company has made many accomplishment. The factory relocation agreement was successfully signed with significant higher than market compensation paid by govt. Most planning parameters was modified based on our needs, including but not limited to re-route the river, increase height limit from 80 to 100 meter, balance green zone outside of the land, increase plot ration from 2 to 2.4, change land usage from office to commercial, etc. \[Ms Wang\] understand \[Ms Ong's\] concern and agree it is a potential risk. However \[Ms Wang\] believe given the current evidence: relocation agreement signed, property title handed in by \[Jahwa\] for cancelation, and Shin Chiptech also agreed to hand in title (per district mayor Xia), it is likely to tender the land as clean land. The potential risk compare to land price raise and other political/policy changes, we should still acquire the land as soon as possible.
+> 2)    \[Ms Wang\] believe China company has made many accomplishment. The factory relocation agreement was successfully signed with significant higher than market compensation paid by govt. Most planning parameters was modified based on our needs, including but not limited to re-route the river, increase height limit from 80 to 100 meter, balance green zone outside of the land, increase plot ration from 2 to 2.4, change land usage from office to commercial, etc. \[Ms Wang\] understand \[Ms Ong's\] concern and agree it is a potential risk. However \[Ms Wang\] believe given the current evidence: relocation agreement signed, property title handed in by \[Jahwa\] for cancelation, and Shin Chiptech also agreed to hand in title (per district mayor Xia), it is likely to tender the land as clean land. The potential risk compare to land price raise and other political/policy changes, we should still acquire the land as soon as possible.
 
-3)    \[Ms Ong\] also questioned the china office spending and approval authority. Below is her view
+> 3)    \[Ms Ong\] also questioned the china office spending and approval authority. Below is her view
 
-a.    Account is unclearly, difficult to check and audit. It was badly managed. Approval process does not involve all shareholders, and was done locally.
+>> a.    Account is unclearly, difficult to check and audit. It was badly managed. Approval process does not involve all shareholders, and was done locally.
 
-b.    Since there is ambiguity of some spending, Ms Ong suggested to have compromise and only agree to half of the spending that is unclear.
+>> b.    Since there is ambiguity of some spending, Ms Ong suggested to have compromise and only agree to half of the spending that is unclear.
 
-c.    If we did not realize the top line of the company, we should also cut the budget.
+>> c.    If we did not realize the top line of the company, we should also cut the budget.
 
-4)    \[Ms Wang’s\] view:
+> 4)    \[Ms Wang’s\] view:
 
-a.    2M USD contract was prepared and arranged by \[Ms Ong\]. This contract has a specific service time defined (ending Dec 31st, 2014) and additional budget suggested. No requirement in this contract state that expenses related to this service contract should be revealed and clarified.
+>> a.    2M USD contract was prepared and arranged by \[Ms Ong\]. This contract has a specific service time defined (ending Dec 31st, 2014) and additional budget suggested. No requirement in this contract state that expenses related to this service contract should be revealed and clarified.
 
-b.    Company spending including car and entertainment were in 2014 and 2015 budget. Although we never heard a confirmation on "this budget is approved", however 1) when we requested "approved" budget, Lily, the CFO of KOPP provided us her consolidated budget which is based our submitted budget; 2) monthly finance reports with every cash accounts was submitted to KOPP for review, if any questions, it should be raised earlier. 3) China has standard account system regulated by Chinese law. And we have been very cooperative and open all accounts and book for check. And answered all questions being asked recently.
+>> b.    Company spending including car and entertainment were in 2014 and 2015 budget. Although we never heard a confirmation on "this budget is approved", however 1) when we requested "approved" budget, Lily, the CFO of KOPP provided us her consolidated budget which is based our submitted budget; 2) monthly finance reports with every cash accounts was submitted to KOPP for review, if any questions, it should be raised earlier. 3) China has standard account system regulated by Chinese law. And we have been very cooperative and open all accounts and book for check. And answered all questions being asked recently.
 
-c.    When \[Mr Shport\] come in on April 2014 as new shareholder, his evaluation is based on lM USD for 15% share. That is total project budget (not yearly budget) agreed by all shareholders. And, account all investment and shareholder advance/contract, by proportion, KOPP is the one short of funding. (currently all investment/ Advance/loan: KOPP 2.066M, Bachmeer (xuan) 2.554M, Dmitriy lM. We are short of 1.0SM USD, in which 0.82M should be from KOPP.)
+>> c.    When \[Mr Shport\] come in on April 2014 as new shareholder, his evaluation is based on lM USD for 15% share. That is total project budget (not yearly budget) agreed by all shareholders. And, account all investment and shareholder advance/contract, by proportion, KOPP is the one short of funding. (currently all investment/ Advance/loan: KOPP 2.066M, Bachmeer (xuan) 2.554M, Dmitriy lM. We are short of 1.0SM USD, in which 0.82M should be from KOPP.)
 
-d.    All approval of spending if within budget, it is China CEO's authority to approve. We have established finance approval process which compliance to China accounting rules and regulation. For anything outside of planned budget such as design fee, we seek all shareholders' agreement for approval.
+>> d.    All approval of spending if within budget, it is China CEO's authority to approve. We have established finance approval process which compliance to China accounting rules and regulation. For anything outside of planned budget such as design fee, we seek all shareholders' agreement for approval.
 
-e.    China company has passed the internal audition for period ending March 31, 2014, and passed govt official auditing for year 2013, 2014 and 2015.
+>> e.    China company has passed the internal audition for period ending March 31, 2014, and passed govt official auditing for year 2013, 2014 and 2015.
 
-f.    As a real estate development company, it is by nature big in and big out. There is no ready product to sell thus unrealistic to expect topline. The original topline was expected from proceed of plot Band C. And plot C was ready to tender by end of 2014, and \[Ms Ong\] decided not to take it as it is not "clean land", which was known from beginning.
+>> f.    As a real estate development company, it is by nature big in and big out. There is no ready product to sell thus unrealistic to expect topline. The original topline was expected from proceed of plot Band C. And plot C was ready to tender by end of 2014, and \[Ms Ong\] decided not to take it as it is not "clean land", which was known from beginning.
 
-5)    As shareholders, we agree the next steps as following:
+> 5)    As shareholders, we agree the next steps as following:
 
-a.    Will terminate all staff as of May 14th, 2015. China company (Bodi) will need to keep Jessica Zhang for 2-3 months to close down the company.
+>> a.    Will terminate all staff as of May 14th, 2015. China company (Bodi) will need to keep Jessica Zhang for 2-3 months to close down the company.
 
-b.    For any staff KOPP would like to keep, for example, Jenny Liu, from May 15th, 2015, all salary and benefit of Jenny Liu will be paid by KOPP directly. KOPP may set up a new company and take over the staff. Bodi therefore will not be responsible for any penalty payment for the termination of the staff's contract.
+>> b.    For any staff KOPP would like to keep, for example, Jenny Liu, from May 15th, 2015, all salary and benefit of Jenny Liu will be paid by KOPP directly. KOPP may set up a new company and take over the staff. Bodi therefore will not be responsible for any penalty payment for the termination of the staff's contract.
 
-c.    Will terminate the office lease of unit 906 as of May 15th, 2015.
+>> c.    Will terminate the office lease of unit 906 as of May 15th, 2015.
 
-d.    Will sell company assets, a black business van and a few computers ASAP.
+>> d.    Will sell company assets, a black business van and a few computers ASAP.
 
-e.    Current cash balance of the company is roughly 270k RMB and 60K HKD. If the fund is not sufficient to cover the company closing, all shareholder need to top up based on their proportion.
+>> e.    Current cash balance of the company is roughly 270k RMB and 60K HKD. If the fund is not sufficient to cover the company closing, all shareholder need to top up based on their proportion.
 
-f.    Mdm Hu will have to inform her related parties on decision of the project. \[Ms Ong\] will prepare a timeline by next week for us to follow the communication.
+>> f.    Mdm Hu will have to inform her related parties on decision of the project. \[Ms Ong\] will prepare a timeline by next week for us to follow the communication.
 
-g.    In any case, any shareholders continuously utilize existing materials of Winterland project Shanghai, including but not limited to presentation, video, designs, etc. the shareholder should pay the other shareholders the associated design expenses.
+>> g.    In any case, any shareholders continuously utilize existing materials of Winterland project Shanghai, including but not limited to presentation, video, designs, etc. the shareholder should pay the other shareholders the associated design expenses.
 
-h.    In any case, any shareholder utilize the current targeted plot in Qingpu, Shanghai and yield proceeds, including but not limited to agent fees, establishment fee, etc, all the other shareholders are entitle to share the proceeds based on ending shareholder contribution proportion. Namely KOPP 2.066M, Bachmeer (xuan) 2.554M, Dmitriy 1M in %.
+>> h.    In any case, any shareholder utilize the current targeted plot in Qingpu, Shanghai and yield proceeds, including but not limited to agent fees, establishment fee, etc, all the other shareholders are entitle to share the proceeds based on ending shareholder contribution proportion. Namely KOPP 2.066M, Bachmeer (xuan) 2.554M, Dmitriy 1M in %.
 
-i.    Will terminate China KOP (Bodi) and KOPP HK followed by govt required procedures.
+>> i.    Will terminate China KOP (Bodi) and KOPP HK followed by govt required procedures.
 
-j.    KOPP will terminate the employment contract with Xuan. Last day of work will be May 15th• KOPP HK will terminate the service contract with Alfred as soon as Bodi and KOPP HK is terminated. Xuan will be managing company closing matters locally. We will follow the employment/ service contracts for terms and condition for termination.
+>> j.    KOPP will terminate the employment contract with Xuan. Last day of work will be May 15th• KOPP HK will terminate the service contract with Alfred as soon as Bodi and KOPP HK is terminated. Xuan will be managing company closing matters locally. We will follow the employment/ service contracts for terms and condition for termination.
 
-We as shareholders, acknowledge to above statements and all agree on next steps.
+> We as shareholders, acknowledge to above statements and all agree on next steps.
 
 333    That same evening, Ms Ong sent an email to Ms Joey Ong, copied to Ms Wang, Ms Suparman and Mr Shport, in which she said:
 
-We had a discussion with \[Ms Wang\] today and the decision is to terminate the partnership. She will send us a to do list and we will revert as to who we keep and we let go.
+> We had a discussion with \[Ms Wang\] today and the decision is to terminate the partnership. She will send us a to do list and we will revert as to who we keep and we let go.
 
-So we will wait for her list.
+> So we will wait for her list.
 
-Meanwhile we are supposed to register a KOP China. So please proceed to do that. According to \[Ms Wang\] it will take 15 days.
+> Meanwhile we are supposed to register a KOP China. So please proceed to do that. According to \[Ms Wang\] it will take 15 days.
 
 334    Later that evening, Ms Ong responded to Ms Wang’s email of 13 May 2015 to say:
 
-Will discuss with Dmitry as well and revert.
+> Will discuss with Dmitry as well and revert.
 
-Meanwhile your KOPP contract as agreed previously was up to month of April so we already doing the termination on Singapore side. So there is no longer that 8000 payment.
+> Meanwhile your KOPP contract as agreed previously was up to month of April so we already doing the termination on Singapore side. So there is no longer that 8000 payment.
 
-Joey told me you are still taking salary from BoDi in China as at April accounts.
+> Joey told me you are still taking salary from BoDi in China as at April accounts.
 
 335    On 14 May 2015, Mr Shport responded to Ms Wang’s email of 13 May 2015 to say:
 
-I am not sure whether the Agreement in attachment is proposal or shareholders meeting summary. Provided that it is second in my view that is not exactly how I would recollect it.
+> I am not sure whether the Agreement in attachment is proposal or shareholders meeting summary. Provided that it is second in my view that is not exactly how I would recollect it.
 
-If to come to the main points and omit argument:
+> If to come to the main points and omit argument:
 
-On 12th There was discussions over expenditure and doubtful spending which resulted in compromise was offered to \[Ms Wang\].
+> On 12th There was discussions over expenditure and doubtful spending which resulted in compromise was offered to \[Ms Wang\].
 
-On 13th the meeting started over feasibility of the project in Shanghai and few options of future procedure was offered and result was that the project was found feasible. After that \[Ms Wang\] came with a counter proposal on the day before compromise. In due course other shareholders came back with yet another proposal (compromise) which was declined by \[Ms Wang\]. Which came to suggestion to terminate partnership. Subject of procedure was touched but not confirmed. No discussion was on what will happen if some of shareholders continue to pursue the project, however the possibility of that was mentioned.
+> On 13th the meeting started over feasibility of the project in Shanghai and few options of future procedure was offered and result was that the project was found feasible. After that \[Ms Wang\] came with a counter proposal on the day before compromise. In due course other shareholders came back with yet another proposal (compromise) which was declined by \[Ms Wang\]. Which came to suggestion to terminate partnership. Subject of procedure was touched but not confirmed. No discussion was on what will happen if some of shareholders continue to pursue the project, however the possibility of that was mentioned.
 
 336    Ms Wang responded to Mr Shport on 14 May 2015 to say:
 
-I like your statement, Dmitriy, can add that in.
+> I like your statement, Dmitriy, can add that in.
 
-And we did talked about what will happen if you remember. I asked if possible we sell ABC to potential buyer. And \[Ms Ong\] said she does not want to be in the circus. Then I suggested if in any case we can sell, we still share the proceeds if any. She also mentioned she will do her project with you separately as far as not in this land in Qingpu, I should not have an issue. I think it will be really hard to define IP rights of the project if we go sell the concept in a different plot. So I suggested only the share of the production expenses of design, video, etc. and no future claims of ownership of the project. But if it is in this specific plot, share of proceeds should remain.
+> And we did talked about what will happen if you remember. I asked if possible we sell ABC to potential buyer. And \[Ms Ong\] said she does not want to be in the circus. Then I suggested if in any case we can sell, we still share the proceeds if any. She also mentioned she will do her project with you separately as far as not in this land in Qingpu, I should not have an issue. I think it will be really hard to define IP rights of the project if we go sell the concept in a different plot. So I suggested only the share of the production expenses of design, video, etc. and no future claims of ownership of the project. But if it is in this specific plot, share of proceeds should remain.
 
-Also, I want to go a bit more detail in next step but \[Ms Ong\] want me to put down in writing. So, I have this proposal. Feel free to comment.
+> Also, I want to go a bit more detail in next step but \[Ms Ong\] want me to put down in writing. So, I have this proposal. Feel free to comment.
 
 337    Further email exchanges took place between Ms Wong and Ms Ong on 14 May 2015. They included:
 
-(a)    Ms Wang saying: “As you said no need to argue any more. Let's wrap up. More important than packing, we need to all agree and sign off on next steps. Understand about the account thing, no worry. Just think we need to finalize everything before taking any action.”
+> (a)    Ms Wang saying: “As you said no need to argue any more. Let's wrap up. More important than packing, we need to all agree and sign off on next steps. Understand about the account thing, no worry. Just think we need to finalize everything before taking any action.”
 
-(b)    Ms Ong then replied: “Just to clarify currently all the staff and office are for Winterland so when you said outside of Winterland it is not necessarily correct but it doesn't deprive you of your fees in the establishment had the project go on. So I just want this to be clear for Dmitry”.
+> (b)    Ms Ong then replied: “Just to clarify currently all the staff and office are for Winterland so when you said outside of Winterland it is not necessarily correct but it doesn't deprive you of your fees in the establishment had the project go on. So I just want this to be clear for Dmitry”.
 
-(c)    Ms Wang responded: “Thank you for the clarification on salary and fees. Its good to have your confirmation that I am still entitle to the fees if the project goes on.”
+> (c)    Ms Wang responded: “Thank you for the clarification on salary and fees. Its good to have your confirmation that I am still entitle to the fees if the project goes on.”
 
-(d)    Ms Ong replied: “I don't want to be misquoted. I meant had we gone on with the Winterland project in \[Qing Pu\]. Not that if it's somewhere else. So if say Winterland went on in \[Qing Pu\] you will be entitled to the Execution part establishment fee and not excluded nor double dip just because U got salary for this part”.
+> (d)    Ms Ong replied: “I don't want to be misquoted. I meant had we gone on with the Winterland project in \[Qing Pu\]. Not that if it's somewhere else. So if say Winterland went on in \[Qing Pu\] you will be entitled to the Execution part establishment fee and not excluded nor double dip just because U got salary for this part”.
 
 338    On 15 May 2015, Ms Ong sent an email to Ms Jessica Zhang and another person in Bodi’s office in Shanghai, copied to Ms Wang, in which she said that no money was to be paid out of the company accounts and that all instructions or approvals given by Ms Wang and Mdm Hu were to be verified and approved by her, Ms Suparman and Mr Shport.
 
 339    On 16 May 2015 Ms Wang wrote a long email to Ms Ong. In that email she set out a number of points on financial matters but then said:
 
-I also suspect, why you are doing this to me now. Based on the evaluation we gave to Dmitriy, we have not finish our project budget. In fact, I feel I have done a good job in cash control, the leftover budget is good enough to support us till Oct 2016, even using your planned land tendering schedule of July 2016. I suspected that you want to kick me out of the partnership after you have establish certain connection and status in Shanghai to max your benefit. Since the missing funding are mainly from your side per current agreement, if you kick me out and fund yourself, you max future benefit, if I compromise and fund, you save money but maintain same share of profit. So no matter which option I choose, you are the winner. This is a very ill assumption which I don't want to believe. But just like you cannot trust me, I also cannot stop to suspect.
+> I also suspect, why you are doing this to me now. Based on the evaluation we gave to Dmitriy, we have not finish our project budget. In fact, I feel I have done a good job in cash control, the leftover budget is good enough to support us till Oct 2016, even using your planned land tendering schedule of July 2016. I suspected that you want to kick me out of the partnership after you have establish certain connection and status in Shanghai to max your benefit. Since the missing funding are mainly from your side per current agreement, if you kick me out and fund yourself, you max future benefit, if I compromise and fund, you save money but maintain same share of profit. So no matter which option I choose, you are the winner. This is a very ill assumption which I don't want to believe. But just like you cannot trust me, I also cannot stop to suspect.
 
-…
+> …
 
-I willing to take a compromise that showed my intention to maintain the partnership and believe in this project. But when you bring up the counter-offer, you won't let me explain my thoughts, you say ''this is the last time I am asking you..." It is like ''take it or leave it!" That is very harsh for me to accept. If I do, I am not me. That's like through my ego on the floor and step on it. Again makes me feel you in fact don't want me to accept the offer but the only purpose is to drive me out. Do you calculated how much that means? There is only 80k USD difference between my offer and your counter-offer. It is your attitude make me decide not to accept.
+> I willing to take a compromise that showed my intention to maintain the partnership and believe in this project. But when you bring up the counter-offer, you won't let me explain my thoughts, you say ''this is the last time I am asking you..." It is like ''take it or leave it!" That is very harsh for me to accept. If I do, I am not me. That's like through my ego on the floor and step on it. Again makes me feel you in fact don't want me to accept the offer but the only purpose is to drive me out. Do you calculated how much that means? There is only 80k USD difference between my offer and your counter-offer. It is your attitude make me decide not to accept.
 
-Anyway, those are not important now. I am writing only to hope that maybe by understanding my thinking, you can be less emotional and less stressful. I think it is meaningless to judge who is right and who is wrong. But it is important to have an open mind for other's opinion. Now we have an agreement and let's focus on execution. That saves energy for all of us and maybe a while later we can still sit down and have dinner together.
+> Anyway, those are not important now. I am writing only to hope that maybe by understanding my thinking, you can be less emotional and less stressful. I think it is meaningless to judge who is right and who is wrong. But it is important to have an open mind for other's opinion. Now we have an agreement and let's focus on execution. That saves energy for all of us and maybe a while later we can still sit down and have dinner together.
 
 340    On 19 May there were further exchanges. Ms Wang referred to a meeting the following day “to discuss and finalize next steps together. Including decisions on staff. Pls do NOT go to HR or Finance directly to tell them what to do. We need to decide together.” Ms Joey Ong said that Ms Ong had agreed some actions on terminating the employment of Bodi employees. This led to further exchanges and arguments about the way in which decisions were being taken by Ms Ong.
 
@@ -1266,39 +1266,39 @@ Anyway, those are not important now. I am writing only to hope that maybe by und
 
 351    The terms of the Termination Agreement which was signed on 20 May 2015 were as follows:
 
-Agreement
+> Agreement
 
-We Shareholders of KOPP HK and Bodi hold a meeting on May 20th, 2015 in Shanghai, and agreed the following:
+> We Shareholders of KOPP HK and Bodi hold a meeting on May 20th, 2015 in Shanghai, and agreed the following:
 
-1.    We agree to terminate Bodi effective immediately. Xuan will be responsible to handle the company termination procedure.
+> 1.    We agree to terminate Bodi effective immediately. Xuan will be responsible to handle the company termination procedure.
 
-2.    Ms Ong and Xuan will study the implications on tax and other issues on KOPP HK. If agreed later on, Xuan will transfer shares of KOPP HK to KOPP Singapore at $1.
+> 2.    Ms Ong and Xuan will study the implications on tax and other issues on KOPP HK. If agreed later on, Xuan will transfer shares of KOPP HK to KOPP Singapore at $1.
 
-3.    KOPP Singapore will set up a new company in China by themselves.
+> 3.    KOPP Singapore will set up a new company in China by themselves.
 
-4.    For staff:
+> 4.    For staff:
 
-a.    There are 5 staffs will be transferred to the new company set up by KOPP Singapore. They are: Quek, Jenny, Jason, Jessica, Ying. Bodi will be responsible for salary payment of them until May 31st, 2015. Starting June 15t, 2015, **all** expenses of the above 5 staffs will be paid by the new company.
+>> a.    There are 5 staffs will be transferred to the new company set up by KOPP Singapore. They are: Quek, Jenny, Jason, Jessica, Ying. Bodi will be responsible for salary payment of them until May 31st, 2015. Starting June 15t, 2015, **all** expenses of the above 5 staffs will be paid by the new company.
 
-b.    We will terminate contract with Han Yong as of May 15th, and will negotiate with him to pay him 2 month salary notice in lien. Xuan will negotiate with him.
+>> b.    We will terminate contract with Han Yong as of May 15th, and will negotiate with him to pay him 2 month salary notice in lien. Xuan will negotiate with him.
 
-5.    We will terminate the office lease of unit 906 as of May 22nd, 2015. Wang Xuan will negotiate with landlord to give up all security deposit, which is sufficient to cover current unpaid rental expenses.
+> 5.    We will terminate the office lease of unit 906 as of May 22nd, 2015. Wang Xuan will negotiate with landlord to give up all security deposit, which is sufficient to cover current unpaid rental expenses.
 
-6.    Cocoa Colony will take over the following assets:
+> 6.    Cocoa Colony will take over the following assets:
 
-i.    The black Benz business van, price at 240k RMB for the car and 98275 for the plate. For plate price prefer to the April price quotation on Business plate (http://sh.auto.sina.com.cn/bdxw/2014-04-22/353-27382.html) Any tax and fees associated with it will be paid half and half by Bodi and Cocoa Colony.
+>> i.    The black Benz business van, price at 240k RMB for the car and 98275 for the plate. For plate price prefer to the April price quotation on Business plate (http://sh.auto.sina.com.cn/bdxw/2014-04-22/353-27382.html) Any tax and fees associated with it will be paid half and half by Bodi and Cocoa Colony.
 
-ii.    Full set furniture in Ms Ong's old office, original purchase price is 56525 RMB, depreciation up to date is 8950, net value is **47575 RMB.** Xuan will negotiate with Cocoa Colony on re-sell value.
+>> ii.    Full set furniture in Ms Ong's old office, original purchase price is 56525 RMB, depreciation up to date is 8950, net value is **47575 RMB.** Xuan will negotiate with Cocoa Colony on re-sell value.
 
-7.    The rest assets, such as a few computers, cub seats, and furniture in Wang Xuan and mdm Hu's old office will be removed from current office and put in storage. Wang Xuan will try to sell them.
+> 7.    The rest assets, such as a few computers, cub seats, and furniture in Wang Xuan and mdm Hu's old office will be removed from current office and put in storage. Wang Xuan will try to sell them.
 
-8.    If any of the shareholders proceed in the Project or any project on this specific Qing Pu Land, then, the shareholder agrees that it shall account to the other shareholders the contribution made by the parties to the project. All shareholders shall negotiate in good faith.
+> 8.    If any of the shareholders proceed in the Project or any project on this specific Qing Pu Land, then, the shareholder agrees that it shall account to the other shareholders the contribution made by the parties to the project. All shareholders shall negotiate in good faith.
 
-9.    If any shareholder choose to utilize the current materials already developed, including but not limited to logo design, building concept design, video, etc, this shareholder who utilizes it will need to reimburse the fees paid to third party for developing this specific materials.
+> 9.    If any shareholder choose to utilize the current materials already developed, including but not limited to logo design, building concept design, video, etc, this shareholder who utilizes it will need to reimburse the fees paid to third party for developing this specific materials.
 
-10.    Dmitriy has a personal loan to Wang Xuan (300k RMB), Leny and \[Ms Ong\] each (150K RMB). The loan is directly related to the Winterland expenses as project management expenses. The shareholders agreed that above expenses shall be claimed by Xpanse Pte Ltd (project manager company) should Winterland project continue in Qing Pu and we receive some proceed/ establishment fee. If the project did not happen in Qing Pu, Dmitriy will send the 300k RMB invoice to the new company KOPP Singapore has set up; and Wang Xuan in this case agree to write off the 300k RMB personal loan from Dmitriy.
+> 10.    Dmitriy has a personal loan to Wang Xuan (300k RMB), Leny and \[Ms Ong\] each (150K RMB). The loan is directly related to the Winterland expenses as project management expenses. The shareholders agreed that above expenses shall be claimed by Xpanse Pte Ltd (project manager company) should Winterland project continue in Qing Pu and we receive some proceed/ establishment fee. If the project did not happen in Qing Pu, Dmitriy will send the 300k RMB invoice to the new company KOPP Singapore has set up; and Wang Xuan in this case agree to write off the 300k RMB personal loan from Dmitriy.
 
-We as shareholders, acknowledge to above statements and all agree on next steps.
+> We as shareholders, acknowledge to above statements and all agree on next steps.
 
 352    The Termination Agreement was signed by KOPSG, the plaintiff and Mr Shport.
 
@@ -1344,15 +1344,15 @@ We as shareholders, acknowledge to above statements and all agree on next steps.
 
 370    Further, the KOP defendants say that the parties acted on this agreement by giving effect to it in the following manners:
 
-(a)     On 13 May 2015, Ms Ong instructed Ms Joey Ong to enquire about the procedure and time required to incorporate a new company in Shanghai which Ms Joey Ong did on the same evening. This new subsidiary of KOPSG in Shanghai was intended to take over some of Bodi’s employees, as agreed on 13 May 2015 and consistent with item 5(b) of Ms Wang’s minutes.
+> (a)     On 13 May 2015, Ms Ong instructed Ms Joey Ong to enquire about the procedure and time required to incorporate a new company in Shanghai which Ms Joey Ong did on the same evening. This new subsidiary of KOPSG in Shanghai was intended to take over some of Bodi’s employees, as agreed on 13 May 2015 and consistent with item 5(b) of Ms Wang’s minutes.
 
-(b)     On 14 May 2015, Ms Ong made enquiries about the disposal of Bodi’s assets and, subsequently, KOPSG purchased computers and furniture from Bodi at an agreed price, consistent with item 5(d) of Ms Wang’s minutes.
+> (b)     On 14 May 2015, Ms Ong made enquiries about the disposal of Bodi’s assets and, subsequently, KOPSG purchased computers and furniture from Bodi at an agreed price, consistent with item 5(d) of Ms Wang’s minutes.
 
-(c)     On 15 May 2015, Ms Wang made various proposals by email on how Bodi’s employees should be dealt with, such as whether their employment was to be terminated or whether they were to be transferred to Cocoa Colony, consistent with items 5(a) and (b) of Ms Wang’s minutes.
+> (c)     On 15 May 2015, Ms Wang made various proposals by email on how Bodi’s employees should be dealt with, such as whether their employment was to be terminated or whether they were to be transferred to Cocoa Colony, consistent with items 5(a) and (b) of Ms Wang’s minutes.
 
-(d)     On 18 May 2015, KOPSG terminated Ms Wang’s employment as Director of Business Development, consistent with item 5(j) of Ms Wang’s minutes.
+> (d)     On 18 May 2015, KOPSG terminated Ms Wang’s employment as Director of Business Development, consistent with item 5(j) of Ms Wang’s minutes.
 
-(e)     On 19 May 2015, Ms Wang, Mr Shport, Ms Suparman and Ms Ong arranged to meet the Qing Pu government officials, including Chinese Communist Party Secretary Ms Zhao Hui Qin, and District Mayor Xia Ke Jia to inform them that they were not proceeding with Project Winterland in Qing Pu on the current plot of land, consistent with item 5(f) of Ms Wang’s minutes.
+> (e)     On 19 May 2015, Ms Wang, Mr Shport, Ms Suparman and Ms Ong arranged to meet the Qing Pu government officials, including Chinese Communist Party Secretary Ms Zhao Hui Qin, and District Mayor Xia Ke Jia to inform them that they were not proceeding with Project Winterland in Qing Pu on the current plot of land, consistent with item 5(f) of Ms Wang’s minutes.
 
 371    In the light of the above, the KOP defendants submit that the parties had agreed to terminate the Joint Venture on 13 May 2015. They also had a broad agreement on the follow-up action to be taken and the parties took steps to give effect to that agreement. This was also consistent with Mr Shport’s evidence that the parties had reached an agreement on 13 May 2015 and that the signing of the Termination Agreement on 20 May 2015 was more a formality.
 
@@ -1380,17 +1380,17 @@ We as shareholders, acknowledge to above statements and all agree on next steps.
 
 381    The plaintiff refers to the correspondence and submits that a number of matters led to a strong inference that the emails sent by Ms Ong were part of a course of conduct by which the KOP defendants and Mr Shport sought to engineer the termination of the Joint Venture so as to usurp Project Winterland and carry it out to the exclusion of the plaintiff. The plaintiff says, amongst other things, that:
 
-(a)     KOPSG always needed a local partner and there was no report to the board or public announcement by KOPSG which would have been needed had they not intended to pursue Project Winterland. There is therefore an inference that KOPSG intended to continue Project Winterland to the exclusion of the plaintiff, with someone else in Shanghai.
+> (a)     KOPSG always needed a local partner and there was no report to the board or public announcement by KOPSG which would have been needed had they not intended to pursue Project Winterland. There is therefore an inference that KOPSG intended to continue Project Winterland to the exclusion of the plaintiff, with someone else in Shanghai.
 
-(b)     The KOP defendants continued to have communications with SLJZ after January 2015.
+> (b)     The KOP defendants continued to have communications with SLJZ after January 2015.
 
-(c)     Ms Ong’s email of 4 May 2015 had no foundation and therefore the inference should be drawn that it was written to engineer a dispute and the termination.
+> (c)     Ms Ong’s email of 4 May 2015 had no foundation and therefore the inference should be drawn that it was written to engineer a dispute and the termination.
 
-(d)     The question of the delay in acquiring the Qing Pu Land was not raised as a reason for the dispute between the parties at the time.
+> (d)     The question of the delay in acquiring the Qing Pu Land was not raised as a reason for the dispute between the parties at the time.
 
-(e)     Many of the matters relied on by the KOP defendants in relation to Ms Wang and/or Mdm Hu are matters which were inconsequential by May 2015.
+> (e)     Many of the matters relied on by the KOP defendants in relation to Ms Wang and/or Mdm Hu are matters which were inconsequential by May 2015.
 
-(f)     The “doubtful expenses” did not justify the demands made by Ms Ong to Ms Wang in terms of making a contribution to the running costs of Bodi.
+> (f)     The “doubtful expenses” did not justify the demands made by Ms Ong to Ms Wang in terms of making a contribution to the running costs of Bodi.
 
 382    The KOP defendants submit that the disagreements leading to the agreement to terminate the Joint Venture were genuine and not part of any conspiratorial scheme engineered by them. They say that this is further supported by the fact that the parties continued to have disputes and disagreements even after 13 May 2015. On 14 May 2015, there was a disagreement between Ms Ong and Ms Wang about the allocation of rooms to Cocoa Colony and then on 16 and 17 May 2015, there was a heated exchange between Ms Wang on the one hand, and Mr Shport and Ms Ong on the other hand. They also refer to the fact that Ms Joey Ong continued to audit Bodi’s accounts after the Joint Venture was terminated, and would not have done so if the termination of the Joint Venture had been engineered and carefully planned, as Ms Wang claims.
 
@@ -1484,7 +1484,7 @@ We as shareholders, acknowledge to above statements and all agree on next steps.
 
 421    Clause 8 of the Termination Agreement provides:
 
-If any of the shareholders proceed in the Project or any project on this specific QP Land, then the shareholder agrees that it shall account to the other shareholders the contribution made by the parties to the project. All shareholders shall negotiate in good faith.
+> If any of the shareholders proceed in the Project or any project on this specific QP Land, then the shareholder agrees that it shall account to the other shareholders the contribution made by the parties to the project. All shareholders shall negotiate in good faith.
 
 422    I consider that the reference to “the Project” was a reference to Project Winterland and the use of the capital “P” emphasises that it is Project Winterland on the Qing Pu Land. In any event, the phrase “the Project or any project on this specific QP Land”, in my judgment, has to be construed as a whole and the reference to “the Project or any project” is most naturally to be construed in terms of both “the Project” and “any project” being connected to and described by “on this specific QP Land”. If it had been intended to mean “Project Winterland on any land or any project on this specific QP Land” then it would need to have said that to make it clear that a distinction, in terms of the land, was to be made.
 
@@ -1504,21 +1504,21 @@ If any of the shareholders proceed in the Project or any project on this specifi
 
 429    Clause 9 of the Termination Agreement provides:
 
-If any shareholder choose to utilize the current materials already developed, including but not limited to logo design, building concept design, video, etc. this shareholder who utilizes it will need to reimburse the fees paid to third party for developing this specific materials.
+> If any shareholder choose to utilize the current materials already developed, including but not limited to logo design, building concept design, video, etc. this shareholder who utilizes it will need to reimburse the fees paid to third party for developing this specific materials.
 
 430    The plaintiff submits that all the intellectual property rights over the design of Project Winterland belonged to the Joint Venture, and therefore, the defendants should be made to account for the same if they use the current materials already developed. The plaintiff also submits that it does not matter who paid for them since KOPSG was only making payment on behalf of Bodi and all the funds received from IE Singapore should be repaid to Bodi.
 
 431    The plaintiff refers to the evidence and submits that:
 
-(a)     the presentation materials on the Project in Lin Gang in May 2015 were taken from Project Winterland in Qing Pu;
+> (a)     the presentation materials on the Project in Lin Gang in May 2015 were taken from Project Winterland in Qing Pu;
 
-(b)     the KOP defendants were using the numbers for Project Winterland in Qing Pu for the purposes of the Project in Lin Gang as set out in Mr Quek’s email on November 2015;
+> (b)     the KOP defendants were using the numbers for Project Winterland in Qing Pu for the purposes of the Project in Lin Gang as set out in Mr Quek’s email on November 2015;
 
-(c)     the letter to ask SLJZ for concept fees dated 4 December 2015 showed elements that were entirely from the Project Winterland in Qing Pu;
+> (c)     the letter to ask SLJZ for concept fees dated 4 December 2015 showed elements that were entirely from the Project Winterland in Qing Pu;
 
-(d)     Ms Ong was recorded as having instructed the employees of KOPSG to use the same concept as Project Winterland in Qing Pu; and
+> (d)     Ms Ong was recorded as having instructed the employees of KOPSG to use the same concept as Project Winterland in Qing Pu; and
 
-(e)     the KOP defendants had used materials produced for Project Winterland in Qing Pu as guiding documents for the Project in Lin Gang.
+> (e)     the KOP defendants had used materials produced for Project Winterland in Qing Pu as guiding documents for the Project in Lin Gang.
 
 432    The KOP defendants and Ms Shport submit that any claim under Clause 9 of the Termination Agreement should fail. They submit that the claim now made is not found in paragraph 57 of the statement of claim and, in any event, it must fail on the facts.
 
@@ -1536,19 +1536,19 @@ If any shareholder choose to utilize the current materials already developed, in
 
 439    I have reviewed the evidence of Mr Shport and Mr Quek and it is evident that there has not been any substantial use of the “the current materials already developed, including but not limited to logo design, building concept design, video, etc.” As set out in the evidence, the Project in Lin Gang was a radical overhaul resulting in completely new designs. In particular:
 
-(a)     The Lin Gang Land was located on a relatively new and undeveloped area of Shanghai which the Lin Gang government was then looking to develop, as compared to the Qing Pu Land. Additional consultants therefore had to be engaged to conduct much more in-depth feasibility studies.
+> (a)     The Lin Gang Land was located on a relatively new and undeveloped area of Shanghai which the Lin Gang government was then looking to develop, as compared to the Qing Pu Land. Additional consultants therefore had to be engaged to conduct much more in-depth feasibility studies.
 
-(b)     Project Winterland in Qing Pu had dedicated a large area of the integrated winter resort to various amusement park rides, whereas the Project in Lin Gang did not include these amusement park rides.
+> (b)     Project Winterland in Qing Pu had dedicated a large area of the integrated winter resort to various amusement park rides, whereas the Project in Lin Gang did not include these amusement park rides.
 
-(c)     The ski slope for Project Winterland in Qing Pu was multi-angled whereas the ski slope for the Project in Lin Gang is spiralled. The reason for this is, _inter alia_, the Qing Pu Land was longer in length and could accommodate a straight-lined ski slope, whereas the Lin Gang Land could not.
+> (c)     The ski slope for Project Winterland in Qing Pu was multi-angled whereas the ski slope for the Project in Lin Gang is spiralled. The reason for this is, _inter alia_, the Qing Pu Land was longer in length and could accommodate a straight-lined ski slope, whereas the Lin Gang Land could not.
 
-(d)     The alpine village for Project Winterland in Qing Pu was flat and on one level, whereas the alpine village for the Project in Lin Gang had multiple levels.
+> (d)     The alpine village for Project Winterland in Qing Pu was flat and on one level, whereas the alpine village for the Project in Lin Gang had multiple levels.
 
-(e)     The Qing Pu Land was larger in size than the Lin Gang Land and was located in a developed area of Shanghai with a sizeable population, and so Project Winterland in Qing Pu had allocated more space to retail and theatres than the Project in Lin Gang.
+> (e)     The Qing Pu Land was larger in size than the Lin Gang Land and was located in a developed area of Shanghai with a sizeable population, and so Project Winterland in Qing Pu had allocated more space to retail and theatres than the Project in Lin Gang.
 
-(f)     The difference in the planning parameters of the Qing Pu Land and the Lin Gang Land had meant that, _inter alia_, the ski slopes had to be redesigned to suit the specific parameters of the Lin Gang Land, including the lower height limit of the Lin Gang Land.
+> (f)     The difference in the planning parameters of the Qing Pu Land and the Lin Gang Land had meant that, _inter alia_, the ski slopes had to be redesigned to suit the specific parameters of the Lin Gang Land, including the lower height limit of the Lin Gang Land.
 
-(g)     Project Winterland in Qing Pu included a large indoor dry themed park that is located underneath the ski slope whereas the Project in Lin Gang had no dry themed park but two water themed parks instead, with designs that are completely different due to the different operational requirements.
+> (g)     Project Winterland in Qing Pu included a large indoor dry themed park that is located underneath the ski slope whereas the Project in Lin Gang had no dry themed park but two water themed parks instead, with designs that are completely different due to the different operational requirements.
 
 440    On that basis, I do not consider that this is a case where any substantial use was or could have been made of the materials developed for Project Winterland in Qing Pu.
 
@@ -1576,13 +1576,13 @@ If any shareholder choose to utilize the current materials already developed, in
 
 450    They submit that the letters contained, _inter alia_, the following defamatory assertions:
 
-(a)     that the KOP defendants committed “out and out robbery of \[Bodi’s\] intellectual property rights” and were “being contemptuous of the laws of China (and) deceiving the government”;
+> (a)     that the KOP defendants committed “out and out robbery of \[Bodi’s\] intellectual property rights” and were “being contemptuous of the laws of China (and) deceiving the government”;
 
-(b)     that Ms Ong “deceived” Bodi, the Qing Pu district government and the “various relevant quarters” by holding private talks with SLJZ behind Bodi’s back to move the Project Winterland in Qing Pu to Lin Gang;
+> (b)     that Ms Ong “deceived” Bodi, the Qing Pu district government and the “various relevant quarters” by holding private talks with SLJZ behind Bodi’s back to move the Project Winterland in Qing Pu to Lin Gang;
 
-(c)     that in May 2015, the KOP defendants “unilaterally announced the discontinuation of \[Project Winterland in Qing Pu\]”; and
+> (c)     that in May 2015, the KOP defendants “unilaterally announced the discontinuation of \[Project Winterland in Qing Pu\]”; and
 
-(d)     that Ms Ong’s actions in “break\[ing\] the law” and “misappropriating” Bodi’s intellectual property rights in “broad daylight” were “sufficient to show the moral degeneracy of \[Ms Ong’s\] personal nature”.
+> (d)     that Ms Ong’s actions in “break\[ing\] the law” and “misappropriating” Bodi’s intellectual property rights in “broad daylight” were “sufficient to show the moral degeneracy of \[Ms Ong’s\] personal nature”.
 
 451    It is contended that, as a result of the letters being sent, Ms Ong suffered serious injury to her professional reputation, embarrassment, distress and hurt to her feelings. Further, it is contended that KOPSG and Ms Ong also had to spend time, effort and money to explain matters to the various recipients of the letters. In addition, KOPSG and Ms Ong contend that they lost various business opportunities as a result of the letters.
 
@@ -1604,13 +1604,13 @@ If any shareholder choose to utilize the current materials already developed, in
 
 460    In relation to Chinese law, in the joint statement of the Chinese Law Experts they agreed that there were four elements of defamation under Chinese law:
 
-(a)     Illegal actions: the defendant committed illegal actions by publicly defaming the plaintiff;
+> (a)     Illegal actions: the defendant committed illegal actions by publicly defaming the plaintiff;
 
-(b)     Damage: the plaintiff’s reputation as conceived by others must have been damaged;
+> (b)     Damage: the plaintiff’s reputation as conceived by others must have been damaged;
 
-(c)     Causation: there is causation between the defendant’s illegal defamatory actions and the consequence of the plaintiff’s reputation being damaged;
+> (c)     Causation: there is causation between the defendant’s illegal defamatory actions and the consequence of the plaintiff’s reputation being damaged;
 
-(d)     Intention: the defendant must have intentionally sought to damage the plaintiff’s reputation when it committed the actions.
+> (d)     Intention: the defendant must have intentionally sought to damage the plaintiff’s reputation when it committed the actions.
 
 461    Based on Mr Zhang’s evidence, Ms Ong and KOPSG submit that the four elements have been established in this case. They say that the information in the letters is untrue and therefore constitutes an “illegal practice”; that the letters were sent intentionally even though Mdm Hu knew that the accusations contained in the letters were untrue; and that there was damage caused because the letters lowered the estimation of Ms Ong and KOPSG in the eyes of the recipients of the letters. They refer to the fact that SLJZ and SHCD sent a letter to KOPSG demanding an explanation for the matters stated in the letters. Ms Ong and KOPSG also say that they lost business opportunities as a result of the defamatory letters.
 
@@ -1628,21 +1628,21 @@ If any shareholder choose to utilize the current materials already developed, in
 
 468    They say that, in the present case, it is undisputed that the four letters were published. As regards the requirement that the material must be defamatory, they refer to _Chan Cheng Wah Bernard v Koh Sin Chong Freddie_ <span class="citation">\[2012\] 1 SLR 506</span> (“_Chan Cheng Wah Bernard_”), where the Court of Appeal stated at \[18\] that the natural and ordinary meaning of a word is that which is conveyed to an ordinary reasonable person and so the test is an objective one. In the present case, they say that the four letters are defamatory in their natural and ordinary meanings, relying on the following statements in the letters:
 
-(a)     “Singapore KOP Group (KOP) disregarded the law, (and) wilfully infringed our Company’s intellectual property rights, such as trade secrets, copyright, et cetera, bringing discredit to the image of Singapore” – these were allegations that KOPSG had violated the law, had deliberately stolen Bodi’s trade secrets and infringed Bodi’s copyright and had tarnished the international reputation of Singapore.
+> (a)     “Singapore KOP Group (KOP) disregarded the law, (and) wilfully infringed our Company’s intellectual property rights, such as trade secrets, copyright, et cetera, bringing discredit to the image of Singapore” – these were allegations that KOPSG had violated the law, had deliberately stolen Bodi’s trade secrets and infringed Bodi’s copyright and had tarnished the international reputation of Singapore.
 
-(b)     “This is an out and out robbery of \[Bodi’s\] intellectual property rights, and what is more, it is being contemptuous of the laws of China (and) deceiving the government” – these were allegations that KOPSG had stolen Bodi’s intellectual property rights, had broken the laws of China and had deceived the Chinese government.
+> (b)     “This is an out and out robbery of \[Bodi’s\] intellectual property rights, and what is more, it is being contemptuous of the laws of China (and) deceiving the government” – these were allegations that KOPSG had stolen Bodi’s intellectual property rights, had broken the laws of China and had deceived the Chinese government.
 
-(c)     “… \[Ms Ong\], to cover up her aim of cooperating with \[SLJZ\] … had on the one hand delayed putting in the shareholder’s investment … on the other hand, behind \[Bodi’s\] back, held talks privately with \[SLJZ\]… Not only is she deceiving \[Bodi\], she is also deceiving the Qing Pu District government and the various relevant quarters” – these were allegations that Ms Ong deceived Bodi, the Qing Pu government and the “various relevant quarters”, that Ms Ong took various steps to conceal her aim of collaborating with SLJZ and that Ms Ong was deceitful.
+> (c)     “… \[Ms Ong\], to cover up her aim of cooperating with \[SLJZ\] … had on the one hand delayed putting in the shareholder’s investment … on the other hand, behind \[Bodi’s\] back, held talks privately with \[SLJZ\]… Not only is she deceiving \[Bodi\], she is also deceiving the Qing Pu District government and the various relevant quarters” – these were allegations that Ms Ong deceived Bodi, the Qing Pu government and the “various relevant quarters”, that Ms Ong took various steps to conceal her aim of collaborating with SLJZ and that Ms Ong was deceitful.
 
-(d)     “… \[Ms Ong\], has a lawyer’s background, yet she knowingly breaks the law, openly in broad daylight misappropriated \[Bodi’s\] intellectual property rights, which is sufficient to show the moral degeneracy of \[Ms Ong’s\] personal nature, and the dishonesty of the KOP Group” – these were allegations that Ms Ong knowingly broke the law, deliberately and flagrantly misappropriated Bodi’s intellectual property rights and that Ms Ong was a person of poor moral conduct and that KOPSG was dishonest.
+> (d)     “… \[Ms Ong\], has a lawyer’s background, yet she knowingly breaks the law, openly in broad daylight misappropriated \[Bodi’s\] intellectual property rights, which is sufficient to show the moral degeneracy of \[Ms Ong’s\] personal nature, and the dishonesty of the KOP Group” – these were allegations that Ms Ong knowingly broke the law, deliberately and flagrantly misappropriated Bodi’s intellectual property rights and that Ms Ong was a person of poor moral conduct and that KOPSG was dishonest.
 
-(e)     “During the development of the \[Project Winterland in Qing Pu\], \[KOPSG\] delayed the payment of its contribution for many times, which caused troubles in the operation of the project” – these were allegations that KOPSG deliberately delayed payment of its contribution to the Joint Venture, which resulted in problems for the Project Winterland in Qing Pu.
+> (e)     “During the development of the \[Project Winterland in Qing Pu\], \[KOPSG\] delayed the payment of its contribution for many times, which caused troubles in the operation of the project” – these were allegations that KOPSG deliberately delayed payment of its contribution to the Joint Venture, which resulted in problems for the Project Winterland in Qing Pu.
 
-(f)     “In the meantime, \[KOPSG\] took all means to obstruct the further progress of \[Project Winterland in Qing Pu\], causing Bodi to suspend the implementation of the project at the end of May 2015 in the end” – these were allegations that KOPSG deliberately obstructed the progress of the Project Winterland in Qing Pu.
+> (f)     “In the meantime, \[KOPSG\] took all means to obstruct the further progress of \[Project Winterland in Qing Pu\], causing Bodi to suspend the implementation of the project at the end of May 2015 in the end” – these were allegations that KOPSG deliberately obstructed the progress of the Project Winterland in Qing Pu.
 
-(g)     “After reaching a preliminary agreement with the other party, \[KOPSG\] intentionally obstructed the signing ceremony of the \[Project Winterland in Qing Pu\] and \[its\] further development. \[KOPSG’s\] action has violated the basic business ethics and reveals its dishonesty, which causes very bad and negative impact on the reputation of Singaporean companies” – these were allegations that KOPSG intentionally obstructed the signing ceremony of Project Winterland in Qing Pu, was dishonest and tarnished the international reputation of Singapore.
+> (g)     “After reaching a preliminary agreement with the other party, \[KOPSG\] intentionally obstructed the signing ceremony of the \[Project Winterland in Qing Pu\] and \[its\] further development. \[KOPSG’s\] action has violated the basic business ethics and reveals its dishonesty, which causes very bad and negative impact on the reputation of Singaporean companies” – these were allegations that KOPSG intentionally obstructed the signing ceremony of Project Winterland in Qing Pu, was dishonest and tarnished the international reputation of Singapore.
 
-(h)     “In May 2015, KOP Group unilaterally announced the discontinuation of the said project, directly causing the \[Project Winterland in Qing Pu\] developed by \[Bodi\] to stop and not move forward” – these were allegations that KOPSG breached its obligations causing the progress of Project Winterland in Qing Pu to come to a stop.
+> (h)     “In May 2015, KOP Group unilaterally announced the discontinuation of the said project, directly causing the \[Project Winterland in Qing Pu\] developed by \[Bodi\] to stop and not move forward” – these were allegations that KOPSG breached its obligations causing the progress of Project Winterland in Qing Pu to come to a stop.
 
 469    Ms Ong and KOPSG submit that Mdm Hu is personally responsible for the defamatory letters as she was the person who instructed Bodi’s lawyers and authorised the issuance of the letters. They say that she is not entitled to rely on the defence of qualified privilege because of malice on her part. They refer to the Court of Appeal decision in _Chan Cheng Wah Bernard_ at \[90\] where it was held that malice might be proven in two ways: the defendant’s knowledge of falsity, recklessness, or lack of belief in the defamatory statement; and, where the defendant had a genuine or honest belief in the truth of the defamatory statement, but his dominant motive was to injure the defendant or some other improper motive.
 
@@ -1688,17 +1688,17 @@ If any shareholder choose to utilize the current materials already developed, in
 
 489    The particular facts relied on are:
 
-(a)     that KOPSG had used information from Bodi and KOPHK at the press conferences in August and November, and on this basis Bodi’s lawyers came to the view that KOPSG had infringed on the rights of Bodi;
+> (a)     that KOPSG had used information from Bodi and KOPHK at the press conferences in August and November, and on this basis Bodi’s lawyers came to the view that KOPSG had infringed on the rights of Bodi;
 
-(b)     KOPSG had taken away all the materials belonging to Bodi without informing Ms Wang and/or Mdm Hu, as confirmed by Mr Quek and by Ms Jessica Zhang who told Mdm Hu that all of Bodi’s documents had been moved to SLJZ’s office;
+> (b)     KOPSG had taken away all the materials belonging to Bodi without informing Ms Wang and/or Mdm Hu, as confirmed by Mr Quek and by Ms Jessica Zhang who told Mdm Hu that all of Bodi’s documents had been moved to SLJZ’s office;
 
-(c)     KOPSG did not pay for the computers that they had taken for the Project in Lin Gang;
+> (c)     KOPSG did not pay for the computers that they had taken for the Project in Lin Gang;
 
-(d)     KOPSG had failed to put in the funds that they had promised to. It has been established that KOPSG had promised to inject up to US$2m into the Joint Venture via a meeting minutes dated 31 July 2014 and it was KOPSG that was short of funding;
+> (d)     KOPSG had failed to put in the funds that they had promised to. It has been established that KOPSG had promised to inject up to US$2m into the Joint Venture via a meeting minutes dated 31 July 2014 and it was KOPSG that was short of funding;
 
-(e)     Mdm Hu did not know why KOPSG wanted to terminate the Joint Venture and Bodi's lawyers came to the conclusion that KOPSG had unilaterally terminated the Joint Venture;
+> (e)     Mdm Hu did not know why KOPSG wanted to terminate the Joint Venture and Bodi's lawyers came to the conclusion that KOPSG had unilaterally terminated the Joint Venture;
 
-(f)     it was Mdm Hu's honest belief that KOPSG should come to them to discuss the use of Bodi's materials.
+> (f)     it was Mdm Hu's honest belief that KOPSG should come to them to discuss the use of Bodi's materials.
 
 490    For the above reasons, Ms Wang and Mdm Hu submit that they are entitled to the defence of justification under Singapore law and Chinese law and thus the counterclaim in defamation should be dismissed.
 
@@ -1714,13 +1714,13 @@ If any shareholder choose to utilize the current materials already developed, in
 
 494    In _Rickshaw Investments_ at \[53\] it was stated that:
 
-On a _general_ level, however, the principles which obtain with regard to the issue of the choice of law in tort in the Singapore context are clear. These are embodied in the "double actionability rule". Put simply, this rule states that in order for a tort to be actionable in Singapore, the alleged wrong must be actionable not only under the law of the forum (the _lex fori_) but also under the law of the place where the wrong was in fact committed (the _lex loci delicti_). In other words, both these limbs must be satisfied. \[emphasis in original\]
+> On a _general_ level, however, the principles which obtain with regard to the issue of the choice of law in tort in the Singapore context are clear. These are embodied in the "double actionability rule". Put simply, this rule states that in order for a tort to be actionable in Singapore, the alleged wrong must be actionable not only under the law of the forum (the _lex fori_) but also under the law of the place where the wrong was in fact committed (the _lex loci delicti_). In other words, both these limbs must be satisfied. \[emphasis in original\]
 
 495    The Court of Appeal in _Rickshaw Investments_ further considered the development of that rule in the English decisions of _Phillips v Eyre_ (1870) LR 6 QB 1 and _Boys v Chaplin_ <span class="citation">\[1971\] AC 356</span>, and observed that adding the requirement in relation to actionability in the _lex loci delicti_ was “even more needful today”. However, the Court of Appeal then went on to consider the more recent Privy Council decision in _Red Sea Insurance Co Ltd v Bouygues SA_ <span class="citation">\[1995\] 1 AC 190</span> (“_Red Sea Insurance_”). _Red Sea Insurance_ has been held to be the law in Singapore: see _Parno v SC Marine Pte Ltd_ <span class="citation">\[1999\] 3 SLR(R) 377</span> at \[36\]. _Red Sea Insurance_ established that the “double actionability rule” applies, but subject to the exception that, under certain circumstances, the tort might nevertheless be actionable in Singapore even though one of the limbs is not satisfied.
 
 496    In _Rickshaw Investments_ at \[57\] the Court of Appeal considered both the danger of having an exception to the double actionability rule and the necessity of having exceptions to avoid injustice and unfairness. It observed at \[57\]:
 
-…For example, if the parties and other connecting factors have nothing to do with the place where the tort was actually committed (_ie_, that that place merely happened to be fortuitous), then it would appear both just and fair to hold that the fact that the second limb of the "double actionability rule" (that the wrong also be actionable under the _lex loci delicti_) is not satisfied should not prejudice the plaintiffs claim. Indeed, what is sauce for the goose is sauce for the gander. Hence, by the same token, if the same scenario obtains, but in relation to the _lex fori_ instead, then it would also appear both just and fair to hold that the fact that the first limb of the "double actionability rule" (that the wrong also be actionable under the _lex fori_) is not satisfied should (equally) not prejudice the plaintiffs claim. Indeed, where the parties and other connecting factors have nothing to do with either the place where the action is brought (here, Singapore) and the place where the wrong was committed, a third possible law might govern the action concerned (as alluded to at the end of the preceding paragraph). The overriding consideration is that a just result be achieved.
+> …For example, if the parties and other connecting factors have nothing to do with the place where the tort was actually committed (_ie_, that that place merely happened to be fortuitous), then it would appear both just and fair to hold that the fact that the second limb of the "double actionability rule" (that the wrong also be actionable under the _lex loci delicti_) is not satisfied should not prejudice the plaintiffs claim. Indeed, what is sauce for the goose is sauce for the gander. Hence, by the same token, if the same scenario obtains, but in relation to the _lex fori_ instead, then it would also appear both just and fair to hold that the fact that the first limb of the "double actionability rule" (that the wrong also be actionable under the _lex fori_) is not satisfied should (equally) not prejudice the plaintiffs claim. Indeed, where the parties and other connecting factors have nothing to do with either the place where the action is brought (here, Singapore) and the place where the wrong was committed, a third possible law might govern the action concerned (as alluded to at the end of the preceding paragraph). The overriding consideration is that a just result be achieved.
 
 497    Whilst the double actionability rule is therefore the starting point, I must bear in mind the existence of exceptions which must be applied based on the facts in any particular case, to avoid unfairness and injustice. I therefore now consider the applicable test under Chinese law.
 
@@ -1730,19 +1730,19 @@ On a _general_ level, however, the principles which obtain with regard to the is
 
 499    Mr Bai and Mr Zhang agreed at section 7 of their joint statement that the elements of defamation under Chinese law include:
 
-(a)     Illegal actions: the defendant committed illegal actions by publicly defaming the plaintiff;
+> (a)     Illegal actions: the defendant committed illegal actions by publicly defaming the plaintiff;
 
-(b)     Damage: the plaintiff’s reputation as conceived by others must have been damaged;
+> (b)     Damage: the plaintiff’s reputation as conceived by others must have been damaged;
 
-(c)     Causation: there is causation between the defendant’s illegal defamatory actions and the consequence of the plaintiff’s reputation being damaged;
+> (c)     Causation: there is causation between the defendant’s illegal defamatory actions and the consequence of the plaintiff’s reputation being damaged;
 
-(d)     Intention: the defendant must have intentionally sought to damage the plaintiff’s reputation as stated above when it committed the actions.
+> (d)     Intention: the defendant must have intentionally sought to damage the plaintiff’s reputation as stated above when it committed the actions.
 
 500    In relation to the first element, illegal actions, Mr Bai considers that the illegal actions normally demonstrate the following two features:
 
-(a)     the infringing statement lacks factual basis; and
+> (a)     the infringing statement lacks factual basis; and
 
-(b)     the infringing statement is published to unspecified third parties.
+> (b)     the infringing statement is published to unspecified third parties.
 
 501    On the other hand, Mr Zhang considers that publicity does not require the spreading of the defamatory information to the general public, but it can be enough just for the information to be spread to certain persons. He says that the method of defamation could be through untrue statements or insulting words.
 
@@ -1776,25 +1776,25 @@ On a _general_ level, however, the principles which obtain with regard to the is
 
 516    The letter continued by saying that:
 
-In November 2015, Bodi, however, found that the design drawings, videos and other documents of the "Winterland" project were used at the press conference and during the development of the "Winterland Project in Lingang Area", which was developed jointly by \[SHCD\], \[SLJZ\] and \[KOPSG\]. Hence, it was very reasonable for Bodi to doubt that \[KOPSG\] submitted the relevant documents to \[SHCD\] and \[SLJZ\] for the development of the "Winterland Project in Lingang Area" after the "Winterland" project. For this reason, Bodi started reporting this condition to you, Shanghai Municipal Commission of Commerce, Mayor Yang Xiong of Shanghai Municipality, and other departments, and investigating the relevant matters.
+> In November 2015, Bodi, however, found that the design drawings, videos and other documents of the "Winterland" project were used at the press conference and during the development of the "Winterland Project in Lingang Area", which was developed jointly by \[SHCD\], \[SLJZ\] and \[KOPSG\]. Hence, it was very reasonable for Bodi to doubt that \[KOPSG\] submitted the relevant documents to \[SHCD\] and \[SLJZ\] for the development of the "Winterland Project in Lingang Area" after the "Winterland" project. For this reason, Bodi started reporting this condition to you, Shanghai Municipal Commission of Commerce, Mayor Yang Xiong of Shanghai Municipality, and other departments, and investigating the relevant matters.
 
-During the investigation, Bodi further believed that \[KOPSG\], without Bodi's knowledge or consent, transferred Bodi 's design drawings, videos and other copyrights to \[SHCD\] and \[SLJZ\]. Now, \[SHCD\] and \[SLJZ\] are using Bodi's copyrights.
+> During the investigation, Bodi further believed that \[KOPSG\], without Bodi's knowledge or consent, transferred Bodi 's design drawings, videos and other copyrights to \[SHCD\] and \[SLJZ\]. Now, \[SHCD\] and \[SLJZ\] are using Bodi's copyrights.
 
-During the process, Bodi heard \[KOPSG\] told you and the relevant departments of Shanghai Municipal Government that Bodi had been liquidated and dissolved, or made any similar statement to you.
+> During the process, Bodi heard \[KOPSG\] told you and the relevant departments of Shanghai Municipal Government that Bodi had been liquidated and dissolved, or made any similar statement to you.
 
-Bodi believes that you have no idea of \[KOPSG’s\] dishonest or illegal action. For this reason, Bodi entrusts me to report the following condition to you:
+> Bodi believes that you have no idea of \[KOPSG’s\] dishonest or illegal action. For this reason, Bodi entrusts me to report the following condition to you:
 
-**First**, Bodi has never deregistered, or conducted any deregistration according to the provisions of Chinese laws. Bodi is still a Chinese company that exists validly.
+> **First**, Bodi has never deregistered, or conducted any deregistration according to the provisions of Chinese laws. Bodi is still a Chinese company that exists validly.
 
-**Second**, Bodi is operating normally, and gradually improving its internal corporate management system, and strengthening the management of internal intellectual property rights and internal documents.
+> **Second**, Bodi is operating normally, and gradually improving its internal corporate management system, and strengthening the management of internal intellectual property rights and internal documents.
 
-**Third**, after Bodi's recent investigation, it is very reasonable for Bodi to suspect that \[KOPSG\] had already negotiated with any other party for the development of similar ice & snow entertainment project while it was assisting Bodi to develop the "Winterland" project. After reaching a preliminary agreement with the other party, \[KOPSG\] intentionally obstructed the signing ceremony of the "Winterland" project, and the further development of the "Winterland" project. \[KOPSG\]'s action has violated the basic business ethics and reveals its dishonesty, which causes very bad and negative impact on the reputation of Singaporean companies.
+> **Third**, after Bodi's recent investigation, it is very reasonable for Bodi to suspect that \[KOPSG\] had already negotiated with any other party for the development of similar ice & snow entertainment project while it was assisting Bodi to develop the "Winterland" project. After reaching a preliminary agreement with the other party, \[KOPSG\] intentionally obstructed the signing ceremony of the "Winterland" project, and the further development of the "Winterland" project. \[KOPSG\]'s action has violated the basic business ethics and reveals its dishonesty, which causes very bad and negative impact on the reputation of Singaporean companies.
 
-**Fourth**, Bodi also suspect that \[KOPSG\] is lying to the Singaporean Government. \[KOPSG\] might not report the actual condition about Bodi's role in the development of the "Winterland" project to the Singaporean Government and the MTI, but generally mentioned that \[KOPSG\] was developing an ice & snow entertainment project in Shanghai in its report to the Singaporean Government. \[KOPSG\] must not have reported to the Singaporean Government that Bodi's design drawings and videos were used by a third party illegally, and such illegal use was attributed to \[KOPSG\].
+> **Fourth**, Bodi also suspect that \[KOPSG\] is lying to the Singaporean Government. \[KOPSG\] might not report the actual condition about Bodi's role in the development of the "Winterland" project to the Singaporean Government and the MTI, but generally mentioned that \[KOPSG\] was developing an ice & snow entertainment project in Shanghai in its report to the Singaporean Government. \[KOPSG\] must not have reported to the Singaporean Government that Bodi's design drawings and videos were used by a third party illegally, and such illegal use was attributed to \[KOPSG\].
 
-Bodi hopes that you can check \[KOPSG’s\] actions of defrauding Bodi and infringing upon Bodi's intellectual property rights, and urge \[KOPSG\] to rectify its wrongdoings, and give a sincere apology to Bodi for its wrongdoings. Bodi looks forward that the Singaporean Government can create the most trustworthy business environment in the world, and will punish any dishonest Singaporean company with severity.
+> Bodi hopes that you can check \[KOPSG’s\] actions of defrauding Bodi and infringing upon Bodi's intellectual property rights, and urge \[KOPSG\] to rectify its wrongdoings, and give a sincere apology to Bodi for its wrongdoings. Bodi looks forward that the Singaporean Government can create the most trustworthy business environment in the world, and will punish any dishonest Singaporean company with severity.
 
-\[emphasis in original\]
+> \[emphasis in original\]
 
 517    That part of the letter again made allegations that KOPSG had used Bodi’s designs and passed them to SLJZ and SHCD, and that KOPSG had been negotiating with a third party during the period when it was carrying out Project Winterland in Qing Pu, both of which I have found to be untrue. It also alleges that KOPSG was dishonest in that context which, again, I consider to be untrue.
 
@@ -1856,33 +1856,33 @@ The incident on 24 December 2015
 
 542    For the reasons set out above:
 
-(a)     With regard to the relationship between the parties:
+> (a)     With regard to the relationship between the parties:
 
-(i)       The governing law of the relationship between the plaintiff, Mr Shport and KOPSG in relation to their shareholdings in KOPHK which owns Bodi was Chinese law.
+>> (i)       The governing law of the relationship between the plaintiff, Mr Shport and KOPSG in relation to their shareholdings in KOPHK which owns Bodi was Chinese law.
 
-(ii)       The legal nature of the relationship between the plaintiff and Mr Shport and KOPSG, was an agreement to perform the Joint Venture in collaborating to identify, evaluate and develop real estate opportunities in China into commercially viable projects through KOPHK and Bodi, with an obligation that they would act honestly and in good faith.
+>> (ii)       The legal nature of the relationship between the plaintiff and Mr Shport and KOPSG, was an agreement to perform the Joint Venture in collaborating to identify, evaluate and develop real estate opportunities in China into commercially viable projects through KOPHK and Bodi, with an obligation that they would act honestly and in good faith.
 
-(iii)       The plaintiff has not established the factual allegations pleaded at paragraphs 23 to 48 of the statement of claim and KOPSG and Mr Shport were not in breach of their duties as set out at paragraph 48 of the statement of claim.
+>> (iii)       The plaintiff has not established the factual allegations pleaded at paragraphs 23 to 48 of the statement of claim and KOPSG and Mr Shport were not in breach of their duties as set out at paragraph 48 of the statement of claim.
 
-(iv)       Ms Ong and Ms Suparman did not owe the plaintiff the same duties as set out at paragraph 47 of the statement of claim and were not in breach as set out in paragraph 50 of the statement of claim.
+>> (iv)       Ms Ong and Ms Suparman did not owe the plaintiff the same duties as set out at paragraph 47 of the statement of claim and were not in breach as set out in paragraph 50 of the statement of claim.
 
-(v)       The parties reached an agreement to terminate the Joint Venture on 13 May 2015. The salient term of the parties’ agreement was that the Joint Venture was terminated. The parties then subsequently entered into the Termination Agreement on 20 May 2015 setting out the agreed terms consequent on the agreement to terminate the Joint Venture.
+>> (v)       The parties reached an agreement to terminate the Joint Venture on 13 May 2015. The salient term of the parties’ agreement was that the Joint Venture was terminated. The parties then subsequently entered into the Termination Agreement on 20 May 2015 setting out the agreed terms consequent on the agreement to terminate the Joint Venture.
 
-(vi)       Ms Ong, Ms Suparman and KOPSG began discussions with SLJZ on 14 May 2015, and began discussions with SLJZ and SHCD to engage in a joint venture to implement the Project in Lin Gang on or after 20 May 2015. Mr Shport became involved in discussions on 25 May 2015. Such discussions and/or engagement did not amount to a breach of any duties and/or dishonest assistance and/or unlawful conspiracy as pleaded at paragraphs 48, 50, 51 and 55 of the statement of claim.
+>> (vi)       Ms Ong, Ms Suparman and KOPSG began discussions with SLJZ on 14 May 2015, and began discussions with SLJZ and SHCD to engage in a joint venture to implement the Project in Lin Gang on or after 20 May 2015. Mr Shport became involved in discussions on 25 May 2015. Such discussions and/or engagement did not amount to a breach of any duties and/or dishonest assistance and/or unlawful conspiracy as pleaded at paragraphs 48, 50, 51 and 55 of the statement of claim.
 
-(b)     The effect of the Termination Agreement:
+> (b)     The effect of the Termination Agreement:
 
-(i)       The Termination Agreement had legal effect.
+>> (i)       The Termination Agreement had legal effect.
 
-(ii)       None of Ms Ong, Ms Suparman, Mr Shport and/or KOPSG (individually and/or collectively) made any misrepresentations and/or non-disclosures, and/or caused any of the other defendants to make misrepresentations and/or non-disclosures to the plaintiff to induce the plaintiff to enter into the Termination Agreement.
+>> (ii)       None of Ms Ong, Ms Suparman, Mr Shport and/or KOPSG (individually and/or collectively) made any misrepresentations and/or non-disclosures, and/or caused any of the other defendants to make misrepresentations and/or non-disclosures to the plaintiff to induce the plaintiff to enter into the Termination Agreement.
 
-(iii)       The plaintiff therefore did not rely on and/or was not induced by any misrepresentations and/or non-disclosures to enter into the Termination Agreement.
+>> (iii)       The plaintiff therefore did not rely on and/or was not induced by any misrepresentations and/or non-disclosures to enter into the Termination Agreement.
 
-(iv)       Clause 8 of the Termination Agreement only applied if any of the shareholders proceeded with Project Winterland or any project on the specific Qing Pu Land and not if any of the shareholders proceeded with Project Winterland or a similar project on other land.
+>> (iv)       Clause 8 of the Termination Agreement only applied if any of the shareholders proceeded with Project Winterland or any project on the specific Qing Pu Land and not if any of the shareholders proceeded with Project Winterland or a similar project on other land.
 
-(v)       Clause 9 of the Termination Agreement applied if any shareholder chose to make substantial use of the materials already developed for Project Winterland in Qing Pu, including but not limited to logo design, building concept design, video, etc. In such circumstances the relevant shareholder who utilised that material would need to reimburse the fees paid to any third party for developing these specific materials.
+>> (v)       Clause 9 of the Termination Agreement applied if any shareholder chose to make substantial use of the materials already developed for Project Winterland in Qing Pu, including but not limited to logo design, building concept design, video, etc. In such circumstances the relevant shareholder who utilised that material would need to reimburse the fees paid to any third party for developing these specific materials.
 
-(vi)       Neither Mr Shport nor KOPSG are liable to account to the plaintiff for any profits made by them in carrying out the Project in Lin Gang or to reimburse any fees for the use of any materials pursuant to Clauses 8 and 9 of the Termination Agreement by reason of their undertaking of that project.
+>> (vi)       Neither Mr Shport nor KOPSG are liable to account to the plaintiff for any profits made by them in carrying out the Project in Lin Gang or to reimburse any fees for the use of any materials pursuant to Clauses 8 and 9 of the Termination Agreement by reason of their undertaking of that project.
 
 ### Conclusion on the counterclaim
 
@@ -1900,31 +1900,31 @@ The incident on 24 December 2015
 
 547    In determining which party is liable for costs, O 110 r 46(1) of the Rules of Court (Cap 322, R 5, 2014 Rev Ed) provides as follows:
 
-The unsuccessful party in any application or proceedings in the Court must pay the reasonable costs of the application or proceedings to the successful party, unless the Court orders otherwise.
+> The unsuccessful party in any application or proceedings in the Court must pay the reasonable costs of the application or proceedings to the successful party, unless the Court orders otherwise.
 
 548    O 110 r 46(3) also provides that:
 
-For the purposes of paragraphs (1) and (2), the court may, in particular —
+> For the purposes of paragraphs (1) and (2), the court may, in particular —
 
-(_a_)    apportion costs between the parties if the court determines that apportionment is reasonable, taking into account the circumstances of the case;
+>> (_a_)    apportion costs between the parties if the court determines that apportionment is reasonable, taking into account the circumstances of the case;
 
-(_b_)    take into account such circumstances as the court considers relevant, including the conduct of the case;
+>> (_b_)    take into account such circumstances as the court considers relevant, including the conduct of the case;
 
-…
+>> …
 
-(_d_)    order interest on costs; or
+>> (_d_)    order interest on costs; or
 
-(_e_)    make any ancillary order, including an order as to the time and manner of payment.
+>> (_e_)    make any ancillary order, including an order as to the time and manner of payment.
 
 549    In these proceedings I have cost submissions from the plaintiff, from the KOP defendants and from Mr Shport. They have provided me with costs schedules including submissions on costs and also with reply submissions.
 
 550    On the basis of the outcome of the claims, I consider that the appropriate cost orders would be:
 
-(a)     That the plaintiff should pay the KOP defendants their costs of dealing with the claims;
+> (a)     That the plaintiff should pay the KOP defendants their costs of dealing with the claims;
 
-(b)     That the plaintiff should pay Mr Shport his costs of the claims;
+> (b)     That the plaintiff should pay Mr Shport his costs of the claims;
 
-(c)     That Ms Ong and KOPSG should pay Ms Wang and Mdm Hu their costs of dealing with the defamation counterclaim and also the counterclaims which were abandoned.
+> (c)     That Ms Ong and KOPSG should pay Ms Wang and Mdm Hu their costs of dealing with the defamation counterclaim and also the counterclaims which were abandoned.
 
 551    On that basis I now proceed to assess the costs which should be paid in respect of those costs orders.
 
@@ -1932,49 +1932,49 @@ For the purposes of paragraphs (1) and (2), the court may, in particular —
 
 552    In relation to costs, the SICC Practice Directions contains the following additional guidance at para 152:
 
-(2)    In assessing costs, the Court:
+> (2)    In assessing costs, the Court:
 
-(a)    shall have regard to Order 110, Rule 46(1) of the Rules of Court, which provides that the reasonable costs of any application or proceeding in the SICC be borne by the unsuccessful party to that application or proceeding unless the Court orders otherwise; and
+>> (a)    shall have regard to Order 110, Rule 46(1) of the Rules of Court, which provides that the reasonable costs of any application or proceeding in the SICC be borne by the unsuccessful party to that application or proceeding unless the Court orders otherwise; and
 
-(b)    may, in particular, as set out in Order 110, Rule 46(1):
+>> (b)    may, in particular, as set out in Order 110, Rule 46(1):
 
-(i)    apportion costs between the parties if the Court determines that the apportionment is reasonable, taking into account the circumstances of the case;
+>>> (i)    apportion costs between the parties if the Court determines that the apportionment is reasonable, taking into account the circumstances of the case;
 
-(ii)   take into account such circumstances as the Court considers relevant, including the conduct of the case;
+>>> (ii)   take into account such circumstances as the Court considers relevant, including the conduct of the case;
 
-(iii)   order costs to be paid by counsel personally, or by a person who is not a party to the application or proceeding;
+>>> (iii)   order costs to be paid by counsel personally, or by a person who is not a party to the application or proceeding;
 
-(iv)   order interest on costs; or
+>>> (iv)   order interest on costs; or
 
-(v)    make any ancillary order, including the time and manner of payment.
+>>> (v)    make any ancillary order, including the time and manner of payment.
 
-(3)    In relation to sub-paragraph (2)(b)(ii) above, the circumstances which the Court may take into consideration in ordering reasonable costs of any application or proceeding under Order 110, Rule 46(1) of the Rules of Court include:
+> (3)    In relation to sub-paragraph (2)(b)(ii) above, the circumstances which the Court may take into consideration in ordering reasonable costs of any application or proceeding under Order 110, Rule 46(1) of the Rules of Court include:
 
-(a)    the conduct of all parties, including in particular –
+>> (a)    the conduct of all parties, including in particular –
 
-(i)    conduct before, as well as during the application or proceeding;
+>>> (i)    conduct before, as well as during the application or proceeding;
 
-(ii)   whether it was reasonable for a party to raise, pursue or contest a particular allegation or issue; and
+>>> (ii)   whether it was reasonable for a party to raise, pursue or contest a particular allegation or issue; and
 
-(iii)   the manner in which a party has pursued or contested a particular allegation or issue;
+>>> (iii)   the manner in which a party has pursued or contested a particular allegation or issue;
 
-(b)    the amount or value of any claim involved;
+>> (b)    the amount or value of any claim involved;
 
-(c)    the complexity or difficulty of the subject matter involved;
+>> (c)    the complexity or difficulty of the subject matter involved;
 
-(d)    the skill, expertise and specialised knowledge involved;
+>> (d)    the skill, expertise and specialised knowledge involved;
 
-(e)    the novelty of any questions raised;
+>> (e)    the novelty of any questions raised;
 
-(f)    the time and effort expended on the application or proceeding.
+>> (f)    the time and effort expended on the application or proceeding.
 
 553    In assessing costs in a case such as this where the case has been transferred from the High Court, the court has to take into account the following matters as set out in _CPIT Investments Ltd v Qilin World Capital Ltd and another_ <span class="citation">\[2018\] 4 SLR 38</span> at \[23\] to \[25\]:
 
-23    The costs regime under O 110 r 46 of the ROC is applicable to all proceedings in the SICC. Having said that, in cases which are transferred from the High Court to the SICC under O 110 r 12, the costs regime under O 59 would have applied whilst the case was proceeding in the High Court. Thus, in dealing with pre-transfer costs, the SICC is likely to take into account Appendix G in deciding what are reasonable costs under O 110 r 46.
+> 23    The costs regime under O 110 r 46 of the ROC is applicable to all proceedings in the SICC. Having said that, in cases which are transferred from the High Court to the SICC under O 110 r 12, the costs regime under O 59 would have applied whilst the case was proceeding in the High Court. Thus, in dealing with pre-transfer costs, the SICC is likely to take into account Appendix G in deciding what are reasonable costs under O 110 r 46.
 
-24    Of course, it remains open for the High Court or the SICC to make express orders that Appendix G continues to be relevant post-transfer….
+> 24    Of course, it remains open for the High Court or the SICC to make express orders that Appendix G continues to be relevant post-transfer….
 
-25    However, even absent an agreement by the parties or an order to that effect, although the SICC approach to costs will apply post-transfer, the SICC can, in exercising its discretion on costs, take into account all the circumstances of the case. In this regard, there is nothing to preclude the SICC from taking account of Appendix G even in assessing reasonable costs under O 110 r 46 in a case that was filed in the High Court and transferred to the SICC, unless the parties have agreed to disregard Appendix G altogether. This is in the light of the wording of O 110 r 46 and para 152 of the SICC Practice Directions, which make reference to “reasonable” costs, and the fact that costs are always in the discretion of the court. Of course, the weight to be given to Appendix G in assessing costs is highly dependent on the circumstances of each case.
+> 25    However, even absent an agreement by the parties or an order to that effect, although the SICC approach to costs will apply post-transfer, the SICC can, in exercising its discretion on costs, take into account all the circumstances of the case. In this regard, there is nothing to preclude the SICC from taking account of Appendix G even in assessing reasonable costs under O 110 r 46 in a case that was filed in the High Court and transferred to the SICC, unless the parties have agreed to disregard Appendix G altogether. This is in the light of the wording of O 110 r 46 and para 152 of the SICC Practice Directions, which make reference to “reasonable” costs, and the fact that costs are always in the discretion of the court. Of course, the weight to be given to Appendix G in assessing costs is highly dependent on the circumstances of each case.
 
 554    With those considerations in mind, I now turn to assess the costs in this particular case. As a starting point, it is helpful to review the costs which each party claims in these proceedings. The following is a summary of the costs and disbursements claimed by the parties in their costs schedules:
 
@@ -1987,51 +1987,51 @@ For the purposes of paragraphs (1) and (2), the court may, in particular —
 
 556    The KOP defendants submit that the following matters should be taken into account in dealing with their costs:
 
-(a)     There was an exceptionally large amount of documents disclosed and perused. In total, 27,108 documents were disclosed, of which 8,598 documents were disclosed by the plaintiff and 16,814 documents were disclosed by the KOPHK and Bodi. Despite excluding a large number of documents that were initially disclosed, the agreed bundle for trial comprised approximately 70 volumes.
+> (a)     There was an exceptionally large amount of documents disclosed and perused. In total, 27,108 documents were disclosed, of which 8,598 documents were disclosed by the plaintiff and 16,814 documents were disclosed by the KOPHK and Bodi. Despite excluding a large number of documents that were initially disclosed, the agreed bundle for trial comprised approximately 70 volumes.
 
-(b)     The case involved various complex issues of Singapore and Chinese law, including issues in the areas of equity, company law, conflict of laws, defamation and fiduciary duties under Chinese law.
+> (b)     The case involved various complex issues of Singapore and Chinese law, including issues in the areas of equity, company law, conflict of laws, defamation and fiduciary duties under Chinese law.
 
-(c)     The case involved various complex issues of fact, with a 12-day trial on issues of liability alone, involving some 14 witnesses and 23 AEICs in total, with the court sitting long hours.
+> (c)     The case involved various complex issues of fact, with a 12-day trial on issues of liability alone, involving some 14 witnesses and 23 AEICs in total, with the court sitting long hours.
 
-(d)     A high degree of specialised skill, knowledge and responsibility was required of the solicitors. The KOP defendants’ legal team comprised four lawyers, including one Senior Counsel. The plaintiff’s legal team was larger and comprised four lawyers and one trainee solicitor. The trial entailed difficult areas of cross-examination in order to ascertain facts that were not readily apparent from the contemporaneous documents. Had O 59 of the Rules of Court applied, there would have been an application for a certificate for three counsel.
+> (d)     A high degree of specialised skill, knowledge and responsibility was required of the solicitors. The KOP defendants’ legal team comprised four lawyers, including one Senior Counsel. The plaintiff’s legal team was larger and comprised four lawyers and one trainee solicitor. The trial entailed difficult areas of cross-examination in order to ascertain facts that were not readily apparent from the contemporaneous documents. Had O 59 of the Rules of Court applied, there would have been an application for a certificate for three counsel.
 
-(e)     The plaintiff’s conduct of the matter warranted a higher costs order as:
+> (e)     The plaintiff’s conduct of the matter warranted a higher costs order as:
 
-(i)       The plaintiff raised many issues that were, at best, of marginal relevance to its claim, with Ms Wang’s first AEIC being 3,242 pages with unnecessary detail.
+>> (i)       The plaintiff raised many issues that were, at best, of marginal relevance to its claim, with Ms Wang’s first AEIC being 3,242 pages with unnecessary detail.
 
-(ii)       Discovery took place after the case was transferred to the SICC and under O 110 r 14(1), parties were required to provide the documents on which they rely. On 30 June 2017, the plaintiff filed its list of documents containing 8,130 documents, many of which were completely irrelevant. The court subsequently directed the plaintiff to confine its initial list of documents to documents it intended to rely on, and the plaintiff then filed a revised list of documents containing 1,043 documents.
+>> (ii)       Discovery took place after the case was transferred to the SICC and under O 110 r 14(1), parties were required to provide the documents on which they rely. On 30 June 2017, the plaintiff filed its list of documents containing 8,130 documents, many of which were completely irrelevant. The court subsequently directed the plaintiff to confine its initial list of documents to documents it intended to rely on, and the plaintiff then filed a revised list of documents containing 1,043 documents.
 
-(f)     The plaintiff’s accounting expert Mr Kong’s testimony was of no relevance. Mr Kong was put forward as a witness of fact, but was not involved in matters at the material time. Until he gave evidence in court, it remained unclear whether he was giving evidence as a factual or expert witness. Even though the KOP defendants made it clear on several occasions before the trial that Mr Kong’s evidence would be of little relevance to addressing the heart of their concern at the material time (_ie_, finding out the nature of the expenses and whether the expenses were justified), the plaintiff nonetheless proceeded to call him as a witness. This necessitated the filing of a reply affidavit by the KOP defendants, and a further affidavit by Mr Kong. At trial, Mr Kong admitted that his evidence was of little relevance to addressing the KOP defendants’ concern at the material time.
+> (f)     The plaintiff’s accounting expert Mr Kong’s testimony was of no relevance. Mr Kong was put forward as a witness of fact, but was not involved in matters at the material time. Until he gave evidence in court, it remained unclear whether he was giving evidence as a factual or expert witness. Even though the KOP defendants made it clear on several occasions before the trial that Mr Kong’s evidence would be of little relevance to addressing the heart of their concern at the material time (_ie_, finding out the nature of the expenses and whether the expenses were justified), the plaintiff nonetheless proceeded to call him as a witness. This necessitated the filing of a reply affidavit by the KOP defendants, and a further affidavit by Mr Kong. At trial, Mr Kong admitted that his evidence was of little relevance to addressing the KOP defendants’ concern at the material time.
 
 557    The plaintiff responds to the points raised by the KOP defendants and submits that:
 
-(a)     In relation to the allegation that it raised issues that were of marginal relevance to its claim or produced irrelevant documents and evidence, the plaintiff submits that these were issues that were raised by the KOP defendants themselves:
+> (a)     In relation to the allegation that it raised issues that were of marginal relevance to its claim or produced irrelevant documents and evidence, the plaintiff submits that these were issues that were raised by the KOP defendants themselves:
 
-(i)       They alleged that Ms Wang and Mdm Hu had misrepresented their credentials and connections to the relevant authorities.
+>> (i)       They alleged that Ms Wang and Mdm Hu had misrepresented their credentials and connections to the relevant authorities.
 
-(ii)       They asserted that they were the ones who were instrumental in presenting Project Winterland to the Qing Pu government, and it was only through their efforts that they obtained the Qing Pu government’s support.
+>> (ii)       They asserted that they were the ones who were instrumental in presenting Project Winterland to the Qing Pu government, and it was only through their efforts that they obtained the Qing Pu government’s support.
 
-(iii)       They alleged that Ms Wang and Mdm Hu did not contribute significantly to the work relating to Project Winterland in Qing Pu; that it was Mr Shport and KOPSG who had worked closely with consultants on Project Winterland in Qing Pu to move the project forward; that Ms Wang and Mdm Hu failed to meaningfully engage the Qing Pu government and/or related parties on the timely handover of the Qing Pu Land; that instead it was IE Singapore, IE Shanghai, and KOPSG which had engaged the Qing Pu government and/or the occupants of the Qing Pu Land in discussions on the acquisition of the Qing Pu Land; and that Ms Wang and Mdm Hu’s role in the Qing Pu government’s decision to award Project Winterland in Qing Pu to KOPSG was insignificant.
+>> (iii)       They alleged that Ms Wang and Mdm Hu did not contribute significantly to the work relating to Project Winterland in Qing Pu; that it was Mr Shport and KOPSG who had worked closely with consultants on Project Winterland in Qing Pu to move the project forward; that Ms Wang and Mdm Hu failed to meaningfully engage the Qing Pu government and/or related parties on the timely handover of the Qing Pu Land; that instead it was IE Singapore, IE Shanghai, and KOPSG which had engaged the Qing Pu government and/or the occupants of the Qing Pu Land in discussions on the acquisition of the Qing Pu Land; and that Ms Wang and Mdm Hu’s role in the Qing Pu government’s decision to award Project Winterland in Qing Pu to KOPSG was insignificant.
 
-(iv)       The KOP defendants also brought various counterclaims against Ms Wang and Mdm Hu for (a) alleged misrepresentations with regards to their business connections; (b) the additional contribution to the Joint Venture in the sum of US$1m; (c) defamation; and (d) breach of duties owed to Bodi and/or the Joint Venture by way of a derivative action. The derivative action was withdrawn in the fourth amendment to their defence & counterclaim (at the eve of trial), and all the counterclaims but defamation were withdrawn at the close of trial (when most of the work had already been done).
+>> (iv)       The KOP defendants also brought various counterclaims against Ms Wang and Mdm Hu for (a) alleged misrepresentations with regards to their business connections; (b) the additional contribution to the Joint Venture in the sum of US$1m; (c) defamation; and (d) breach of duties owed to Bodi and/or the Joint Venture by way of a derivative action. The derivative action was withdrawn in the fourth amendment to their defence & counterclaim (at the eve of trial), and all the counterclaims but defamation were withdrawn at the close of trial (when most of the work had already been done).
 
-(v)       The result of all the above allegations made by the KOP defendants was that substantial documents and evidence in the form of AEICs had to be set out to disprove them (and to show the contributions made by Ms Wang and Mdm Hu to Project Winterland in Qing Pu). That the KOP defendants chose to abandon these issues raised by them in their pleadings (and thereafter did not address them in their AEICs and at trial), does not imply that these were not live issues that had to be dealt with.
+>> (v)       The result of all the above allegations made by the KOP defendants was that substantial documents and evidence in the form of AEICs had to be set out to disprove them (and to show the contributions made by Ms Wang and Mdm Hu to Project Winterland in Qing Pu). That the KOP defendants chose to abandon these issues raised by them in their pleadings (and thereafter did not address them in their AEICs and at trial), does not imply that these were not live issues that had to be dealt with.
 
-(vi)       The other set of documents disclosed by the plaintiff related to accounting/finance-related documents. The KOP defendants themselves had specifically demanded production of these prior to trial. At the outset, the KOP defendants asserted that these documents were “relevant and material” to proving their case on Ms Wang and Mdm Hu’s alleged “unsubstantiated expenses”. The KOP defendants also spent a significant time at trial cross-examining the witnesses on the details of these accounting documents.
+>> (vi)       The other set of documents disclosed by the plaintiff related to accounting/finance-related documents. The KOP defendants themselves had specifically demanded production of these prior to trial. At the outset, the KOP defendants asserted that these documents were “relevant and material” to proving their case on Ms Wang and Mdm Hu’s alleged “unsubstantiated expenses”. The KOP defendants also spent a significant time at trial cross-examining the witnesses on the details of these accounting documents.
 
-(b)     In relation to the KOP defendants’ contention that the plaintiff had disclosed irrelevant documents, the plaintiff submits that:
+> (b)     In relation to the KOP defendants’ contention that the plaintiff had disclosed irrelevant documents, the plaintiff submits that:
 
-(i)       While the plaintiff had disclosed about 8,130 documents initially in its list of documents, these documents were reduced by the plaintiff, after removing some duplicates and unreadable documents and focusing only on key documents on Project Winterland in Qing Pu. The total number of documents produced by the plaintiff in its initial list was thus reduced to 1,043 documents. This number is reasonable, given that the KOP defendants themselves disclosed more than 630 documents.
+>> (i)       While the plaintiff had disclosed about 8,130 documents initially in its list of documents, these documents were reduced by the plaintiff, after removing some duplicates and unreadable documents and focusing only on key documents on Project Winterland in Qing Pu. The total number of documents produced by the plaintiff in its initial list was thus reduced to 1,043 documents. This number is reasonable, given that the KOP defendants themselves disclosed more than 630 documents.
 
-(ii)       The KOP defendants had asked the plaintiff to reduce the number of documents disclosed early in the proceedings and the plaintiff had done so. Hence, there would have been no need for the defendants to spend time and costs to review the 8,130 documents when they had taken the position that duplicates and unreadable documents had to be reduced.
+>> (ii)       The KOP defendants had asked the plaintiff to reduce the number of documents disclosed early in the proceedings and the plaintiff had done so. Hence, there would have been no need for the defendants to spend time and costs to review the 8,130 documents when they had taken the position that duplicates and unreadable documents had to be reduced.
 
-(c)     In relation to the KOP defendants’ contention that Mr Kong's evidence was irrelevant, the plaintiff submits that:
+> (c)     In relation to the KOP defendants’ contention that Mr Kong's evidence was irrelevant, the plaintiff submits that:
 
-(i)       the KOP defendants themselves had relied on Mr Kong's evidence in their closing submissions. Thus, even on their case, Mr Kong’s evidence is not completely irrelevant. Further, they submit that with an accountant to arrange the documents, and to rationalise the accounts to show the movement of funds from the general ledger to the Green Book, it had provided significant assistance to the court with regards to how the accounts had been dealt with. This was something that Ms Joey Ong should have done but had refused to do.
+>> (i)       the KOP defendants themselves had relied on Mr Kong's evidence in their closing submissions. Thus, even on their case, Mr Kong’s evidence is not completely irrelevant. Further, they submit that with an accountant to arrange the documents, and to rationalise the accounts to show the movement of funds from the general ledger to the Green Book, it had provided significant assistance to the court with regards to how the accounts had been dealt with. This was something that Ms Joey Ong should have done but had refused to do.
 
-(ii)       Mr Kong's evidence provided context to how the accounts could have been resolved at the material time had KOPSG acted reasonably/properly to verify documents and match them to the general ledger.
+>> (ii)       Mr Kong's evidence provided context to how the accounts could have been resolved at the material time had KOPSG acted reasonably/properly to verify documents and match them to the general ledger.
 
-(d)     The plaintiff submits that the total costs should be further discounted by approximately 30% to 40% to take into account the KOP defendants’ abandonment of the above points, so as to reflect appropriate costs thrown away by the KOP defendants’ conduct.
+> (d)     The plaintiff submits that the total costs should be further discounted by approximately 30% to 40% to take into account the KOP defendants’ abandonment of the above points, so as to reflect appropriate costs thrown away by the KOP defendants’ conduct.
 
 558    I consider that the issues raised in this case leading up to the Termination Agreement on 20 May 2015 meant that much of the history of the relationship between the parties had to be reviewed. There was therefore a great deal of documentation. I agree that some of the evidence proved to be of marginal relevance but that was not a major issue. Mr Kong’s evidence provided some assistance but that was necessary because of the state of the accounting documentation.
 
@@ -2063,13 +2063,13 @@ For the purposes of paragraphs (1) and (2), the court may, in particular —
 
 566    Mr Shport has raised a number of points in relation to costs. He says that he is content to have his costs (inclusive of disbursements) fixed at a global sum of $210,000, which would effectively match the security for costs furnished by the plaintiff. In assessing costs, Mr Shport submits that I should take into account the following circumstances and conduct of the case:
 
-(a)     First, he submits that, in the course of the proceedings, significant work was undertaken on his defence, extensive requests for 90 further and better particulars, lists of documents, his AEIC, his opening statement and bundle of authorities; and his closing submissions and bundle of authorities.
+> (a)     First, he submits that, in the course of the proceedings, significant work was undertaken on his defence, extensive requests for 90 further and better particulars, lists of documents, his AEIC, his opening statement and bundle of authorities; and his closing submissions and bundle of authorities.
 
-(b)     Secondly, he says that the fact that $210,000 represents the amount that the plaintiff had agreed to provide as security for costs up to the end of the trial, is a clear indication that $210,000 represents a reasonable amount of costs. In any event, $210,000 is a more than reasonable sum for this suit which involved a 12-day trial with a total of 14 witnesses.
+> (b)     Secondly, he says that the fact that $210,000 represents the amount that the plaintiff had agreed to provide as security for costs up to the end of the trial, is a clear indication that $210,000 represents a reasonable amount of costs. In any event, $210,000 is a more than reasonable sum for this suit which involved a 12-day trial with a total of 14 witnesses.
 
-(c)     Thirdly, Mr Shport submits that the plaintiff’s conduct during the proceeding was oppressive, especially during the discovery process when the plaintiff produced many documents that were irrelevant and/or that it did not intend to rely on.
+> (c)     Thirdly, Mr Shport submits that the plaintiff’s conduct during the proceeding was oppressive, especially during the discovery process when the plaintiff produced many documents that were irrelevant and/or that it did not intend to rely on.
 
-(d)     Fourthly, Mr Shport says that on 8 February 2018, during the trial, he made an offer to settle which was not accepted by the plaintiff and, in any event, the plaintiff acted unreasonably in pursuing its claims against him.
+> (d)     Fourthly, Mr Shport says that on 8 February 2018, during the trial, he made an offer to settle which was not accepted by the plaintiff and, in any event, the plaintiff acted unreasonably in pursuing its claims against him.
 
 567    In response, the plaintiff says that the case against Mr Shport was very simple and straightforward and, on the evidence, it was not unreasonable in pursuing its claims against him. In any event, the plaintiff submits that Mr Shport’s participation in the trial and in the suit was limited. Most of the interlocutory fights and the disputes were between the KOP defendants and the plaintiff. Further, the plaintiff says that Mr Shport’s counsel spent a large amount of time on pleadings filed between the KOP defendants and the plaintiff which had, at best, tangential relevance to Mr Shport’s defence. The plaintiff therefore submits that there was an unnecessary overlap of work done in reviewing the pleadings between the KOP defendants and the plaintiff.
 
@@ -2095,9 +2095,9 @@ For the purposes of paragraphs (1) and (2), the court may, in particular —
 
 572    For the reasons set out above:
 
-(a)     the plaintiff shall pay the KOP defendants $‭904,917.88‬ (all-in) in respect of their costs of these proceedings; ‬‬‬‬‬‬‬‬and‬‬‬‬‬‬‬
+> (a)     the plaintiff shall pay the KOP defendants $‭904,917.88‬ (all-in) in respect of their costs of these proceedings; ‬‬‬‬‬‬‬‬and‬‬‬‬‬‬‬
 
-(b)     the plaintiff shall pay Mr Shport $210,000.00 (all-in) in respect of his costs of the proceedings.
+> (b)     the plaintiff shall pay Mr Shport $210,000.00 (all-in) in respect of his costs of the proceedings.
 
 ## APPENDIX A: LIST OF ISSUES
 
@@ -2121,17 +2121,17 @@ For the purposes of paragraphs (1) and (2), the court may, in particular —
 
 2.1    Whether the 20 May Agreement has no legal effect as alleged by the plaintiff at paragraph \[54\] of the SOC?
 
-a.     Did 1D, 2D, Mr Shport and/or 4D (individually and/or collectively) make any misrepresentations and/or non-disclosures, and or cause any of the other defendants to make misrepresentations and/or non-disclosures to the plaintiff to induce the plaintiff to enter into the 20 May Agreement?
+> a.     Did 1D, 2D, Mr Shport and/or 4D (individually and/or collectively) make any misrepresentations and/or non-disclosures, and or cause any of the other defendants to make misrepresentations and/or non-disclosures to the plaintiff to induce the plaintiff to enter into the 20 May Agreement?
 
-b.     Did the plaintiff rely on and/or was the plaintiff induced by such misrepresentations and/or non-disclosures to enter into the 20 May Agreement?
+> b.     Did the plaintiff rely on and/or was the plaintiff induced by such misrepresentations and/or non-disclosures to enter into the 20 May Agreement?
 
 2.2    If the 20 May Agreement has legal effect:
 
-a.     What is the parties’ intent in relation to Clause 8 of the 20 May Agreement which provides that “\[i\]f any of the shareholders proceed in the Project or any project on this specific Qing Pu Land, then, the shareholder agrees that it shall account to the other shareholders the contribution made by the parties to the project”?
+> a.     What is the parties’ intent in relation to Clause 8 of the 20 May Agreement which provides that “\[i\]f any of the shareholders proceed in the Project or any project on this specific Qing Pu Land, then, the shareholder agrees that it shall account to the other shareholders the contribution made by the parties to the project”?
 
-b.     What is the parties’ intent in relation to Clause 9 of the 20 May Agreement which provides that “\[i\]f any shareholder choose to utilize the current materials already developed, including but not limited to logo design, building concept design, video, etc, this shareholder who utilizes it will need to reimburse the fees paid to third party for developing this specific materials”?
+> b.     What is the parties’ intent in relation to Clause 9 of the 20 May Agreement which provides that “\[i\]f any shareholder choose to utilize the current materials already developed, including but not limited to logo design, building concept design, video, etc, this shareholder who utilizes it will need to reimburse the fees paid to third party for developing this specific materials”?
 
-c.     Are Mr Shport and 4D liable to account to the plaintiff for the profits made by them and for the alleged use of the proprietary information or documents pursuant to Clauses 8 and 9 of the 20 May Agreement by reason of their undertaking of the Lingang Project as alleged at paragraph \[57\] of the SOC?
+> c.     Are Mr Shport and 4D liable to account to the plaintiff for the profits made by them and for the alleged use of the proprietary information or documents pursuant to Clauses 8 and 9 of the 20 May Agreement by reason of their undertaking of the Lingang Project as alleged at paragraph \[57\] of the SOC?
 
 ## B.   THE DEFENDANTS’ DEFENCE AND/OR COUNTERCLAIMS
 
@@ -2139,11 +2139,11 @@ c.     Are Mr Shport and 4D liable to account to the plaintiff for the prof
 
 3.1    Are Wang and/or Hu liable in defamation?
 
-a.     Were the letters to IE Singapore, LJZ and Harbour City dated 25 December 2015 defamatory of the 1D and/or 4D?
+> a.     Were the letters to IE Singapore, LJZ and Harbour City dated 25 December 2015 defamatory of the 1D and/or 4D?
 
-b.     Does the defence of fair comment and/or justification apply to exonerate Wang and/or Hu?
+> b.     Does the defence of fair comment and/or justification apply to exonerate Wang and/or Hu?
 
-c.     Were the letters published maliciously such that it defeats the defence of fair comment?
+> c.     Were the letters published maliciously such that it defeats the defence of fair comment?
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23180-SSP.xml)

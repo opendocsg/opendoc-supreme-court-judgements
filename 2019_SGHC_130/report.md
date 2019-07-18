@@ -69,15 +69,15 @@ Building and Construction Law – Statutes and regulations – Building and 
 
 21     In this regard, section 10(1) SOPA provides as follows:
 
-**Payment claims**
+> **Payment claims**
 
-**10.**—(1)    A claimant may serve one payment claim _in respect of a progress payment_ on —
+> **10.**—(1)    A claimant may serve one payment claim _in respect of a progress payment_ on —
 
-(_a_)    one or more other persons who, under the contract concerned, is or may be liable to make the payment; or
+>> (_a_)    one or more other persons who, under the contract concerned, is or may be liable to make the payment; or
 
-(_b_)    such other person as specified in or identified in accordance with the terms of the contract for this purpose.
+>> (_b_)    such other person as specified in or identified in accordance with the terms of the contract for this purpose.
 
-\[emphasis added\]
+> \[emphasis added\]
 
 22     By stipulating that the payment claim must be “in respect of a progress payment”, s 10(1) SOPA seeks to limit the scope of any payment claim to claims for progress payments _only_. Hence, s 10(1) SOPA will be breached if, for example, the payment claim is _not_ in respect of a progress payment. Herein, a person is entitled to submit a progress payment if he has “carried out any construction work, or supplied any goods or services, under a contract” (s 5 SOPA), but not otherwise.
 
@@ -111,7 +111,7 @@ Building and Construction Law – Statutes and regulations – Building and 
 
 33     Tan J dismissed the plaintiff’s application to set aside the AD. In relation to the adjudicator’s decision to account for the bond proceeds, Tan J observed as follows (_SH Design_ at \[53\]):
 
-… the Adjudicator’s duty was to comprehensively determine the rights and obligations of the parties under the Subcontract, having regard to the Payment Claim and the Payment Response. Having assessed that the defendant was already liable to the plaintiff for the works done, … the Adjudicator was obligated to give credit for the Bond Proceeds …
+> … the Adjudicator’s duty was to comprehensively determine the rights and obligations of the parties under the Subcontract, having regard to the Payment Claim and the Payment Response. Having assessed that the defendant was already liable to the plaintiff for the works done, … the Adjudicator was obligated to give credit for the Bond Proceeds …
 
 34     This was necessary to “finalise the accounts between the parties” as the subcontract had been terminated on the same day as the call on the performance bond by the Owner (_SH Design_ at \[54\]). Accordingly, Tan J found that the adjudicator had not exceeded his jurisdiction by accounting for the bond proceeds.
 

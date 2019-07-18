@@ -29,49 +29,49 @@ Building and Construction Law – Timeline for lodging Adjudication Applicatio
 
 7       Clause 7.1(c)(i) read with Annexture Part A of the contract provided for payment claims to be made on the 20th day of each calendar month. The provision reads:[^7]
 
-**7.1**      **Payment Claim**
+> **7.1**      **Payment Claim**
 
-…
+> …
 
-c)    \[The defendant\] must give \[the plaintiff\] a payment claim on account of the Fee and all other amounts then payable by \[the Plaintiff\] to \[the Defendant\] under the Agreement:
+> c)    \[The defendant\] must give \[the plaintiff\] a payment claim on account of the Fee and all other amounts then payable by \[the Plaintiff\] to \[the Defendant\] under the Agreement:
 
-(i)    at the times stated in Annexture Part A, until completion of the Services or termination of the Agreement (whichever is earlier);
+>> (i)    at the times stated in Annexture Part A, until completion of the Services or termination of the Agreement (whichever is earlier);
 
-…
+> …
 
-**Annexture Part A**
+> **Annexture Part A**
 
-Payment Claim Date     **20th calendar day of each month**
+> Payment Claim Date     **20th calendar day of each month**
 
-(clause 7.1(c)(i))
+> (clause 7.1(c)(i))
 
-\[emphasis in original\]
+> \[emphasis in original\]
 
 8       If the 20th day was on a non-business day, the contract required the payment claim to be given on the preceding business day. This is found in cl 1.2 which provides as follows:[^8]
 
-**1.2**.     **Interpretation**
+> **1.2**.     **Interpretation**
 
-…
+> …
 
-d)    If any notice is to be given, or any other act, matter or thing is to be done on a specified day, and that day falls on a day which is not a Business Day, then it must be given or done on the preceding Business Day
+> d)    If any notice is to be given, or any other act, matter or thing is to be done on a specified day, and that day falls on a day which is not a Business Day, then it must be given or done on the preceding Business Day
 
 9       A “Business Day” is defined under cl 1.1 as follows:[^9]
 
-1.1.   **Business Day** means any day other than:
+> 1.1.   **Business Day** means any day other than:
 
-a)    a Saturday or Sunday;
+>> a)    a Saturday or Sunday;
 
-b)    a public holiday, special holiday or bank holiday in the place where the Site is located; or
+>> b)    a public holiday, special holiday or bank holiday in the place where the Site is located; or
 
-c)    27, 28, 29, 30 and 31 December.
+>> c)    27, 28, 29, 30 and 31 December.
 
 10     Thus, since the 20th of January 2019 was a Sunday, the plaintiff argued that the contract required that the payment claim be given on the preceding Business Day, _ie_, on 18 January 2019, a Friday.
 
 11     The contract also specified when a payment certificate (contractually deemed to be a payment response) was to be issued. Clause 7.2(a) states:[^10]
 
-**7.2**.     **Payment Certificate**
+> **7.2**.     **Payment Certificate**
 
-a)    After agreeing the payment claim amount and in any case within 21 days of receiving the payment claim duly submitted pursuant to clause 7.1, \[the Plaintiff\] must issue a progress payment to \[the Defendant\] …
+> a)    After agreeing the payment claim amount and in any case within 21 days of receiving the payment claim duly submitted pursuant to clause 7.1, \[the Plaintiff\] must issue a progress payment to \[the Defendant\] …
 
 12     The defendant disagreed with the plaintiff’s interpretation of the contractual terms and submitted that the operative date was the date on which PC29 was _dated_. In so arguing, it relied heavily on the Court of Appeal decision in _Audi Construction Pte Ltd v Kian Hiap Construction Pte Ltd_ <span class="citation">\[2018\] SGCA 4</span> (“_Audi Construction_”).
 
@@ -89,7 +89,7 @@ a)    After agreeing the payment claim amount and in any case within 21 days
 
 18     In the present case, the contract specifically provided for the situation where the date of service of the payment claim falls on a Sunday. In such a situation, the parties must comply with the contractual provisions as required by s 10(2)(a) of SOPA. _Audi Construction_ is therefore not applicable in the circumstances of the present case. Indeed, the Court of Appeal in _Audi Construction_ explicitly restricted its decision to the two factors set out in \[17\] above and stated as follows at \[28\]:
 
-We emphasise, however that our decision in this regard was made on the basis of the combination of the two facts set out at \[26\] above.
+> We emphasise, however that our decision in this regard was made on the basis of the combination of the two facts set out at \[26\] above.
 
 19     Given the above, I could not agree with the defendant that the date of the payment claim was the operative date because the provisions of the parties’ contract clearly provide for the date of service of the payment claim for January 2019 to be 18 January as 20 January fell on a Sunday. The plaintiff had served its payment claim on that day and time would run from that day. The plaintiff’s act of post-dating it cannot have any effect on the operative date of the payment claim.
 

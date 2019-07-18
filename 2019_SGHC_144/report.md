@@ -89,13 +89,13 @@ Trusts – Recipient liability
 
 29     The Deceased breached her fiduciary duties by:[^34]
 
-(a)     Inducing DS to sign cash cheques for the payment of duplicate invoices before encashing them and pocketing the moneys;[^35]
+> (a)     Inducing DS to sign cash cheques for the payment of duplicate invoices before encashing them and pocketing the moneys;[^35]
 
-(b)     Cashing some of the cheques for her own benefit instead of making payments to the plaintiff’s vendors;
+> (b)     Cashing some of the cheques for her own benefit instead of making payments to the plaintiff’s vendors;
 
-(c)     Inducing DS to sign further cash cheques to pay for invoices that had already been paid for by the cheques that the Deceased had cashed for her own benefit; and
+> (c)     Inducing DS to sign further cash cheques to pay for invoices that had already been paid for by the cheques that the Deceased had cashed for her own benefit; and
 
-(d)     Deliberately delaying some payments to the plaintiff’s vendors in order to buy time to induce DS to sign the cash cheques referenced above at \[(c)\].
+> (d)     Deliberately delaying some payments to the plaintiff’s vendors in order to buy time to induce DS to sign the cash cheques referenced above at \[(c)\].
 
 30     Through this, the Deceased was able to obtain the sum of S$1,633,875.20 from the plaintiff (see \[8\] above).
 
@@ -134,19 +134,19 @@ Trusts – Recipient liability
 
 45     To demonstrate D2’s lack of financial means to purchase the Rivervale Property, the plaintiff relied on:
 
-(a)     D2’s notices of assessment for the years 2004 to 2009;[^56]
+> (a)     D2’s notices of assessment for the years 2004 to 2009;[^56]
 
-(b)     D2’s default on a renovation loan of S$18,000 owed to OCBC on 26 May 2004, which was only repaid about four years later on 11 April 2008;[^57] and
+> (b)     D2’s default on a renovation loan of S$18,000 owed to OCBC on 26 May 2004, which was only repaid about four years later on 11 April 2008;[^57] and
 
-(c)     D2’s affidavit in a separate matter where she stated that her business was dormant in mid-2008 and that she was unable to pay for a van.[^58]
+> (c)     D2’s affidavit in a separate matter where she stated that her business was dormant in mid-2008 and that she was unable to pay for a van.[^58]
 
 46     The plaintiff relied on the following evidence to show that D2 lacked the financial means to purchase the 70 Bayshore Property:[^59]
 
-(a)     D2 only had S$4,519.17 in her personal bank account on 30 April 2010, some ten days before a sum of S$62,200 was due for the exercise of the option to purchase the property;
+> (a)     D2 only had S$4,519.17 in her personal bank account on 30 April 2010, some ten days before a sum of S$62,200 was due for the exercise of the option to purchase the property;
 
-(b)     A sum of S$62,200 was withdrawn from the Deceased’s bank account on 10 May 2010[^60] which D2 admitted was subsequently deposited into her bank account and used for the purchase of the 70 Bayshore Property;[^61] and
+> (b)     A sum of S$62,200 was withdrawn from the Deceased’s bank account on 10 May 2010[^60] which D2 admitted was subsequently deposited into her bank account and used for the purchase of the 70 Bayshore Property;[^61] and
 
-(c)     D2 was suddenly able to obtain S$223,435.75, which was deposited into her bank account on 28 June 2010 and used to complete the purchase of the 70 Bayshore Property on 2 July 2010.
+> (c)     D2 was suddenly able to obtain S$223,435.75, which was deposited into her bank account on 28 June 2010 and used to complete the purchase of the 70 Bayshore Property on 2 July 2010.
 
 47     The plaintiff also claimed that D2 held certain joint accounts with the Deceased into which the plaintiff’s moneys were deposited.[^62]
 
@@ -154,33 +154,33 @@ Trusts – Recipient liability
 
 49     The plaintiff also claimed that D2 knew or ought to have known that the Deceased’s contribution to the purchase of both the Rivervale Property and the 70 Bayshore Property was traceable to her breaches of fiduciary duties owed to the plaintiff for several reasons:[^63]
 
-(a)     D2 was extremely close to the Deceased;
+> (a)     D2 was extremely close to the Deceased;
 
-(b)     The plaintiff and D2’s companies shared an office for a number of years;
+> (b)     The plaintiff and D2’s companies shared an office for a number of years;
 
-(c)     D2 would have had sight of the Deceased’s income documents during the purchase of the various properties mentioned above at \[10\]; and
+> (c)     D2 would have had sight of the Deceased’s income documents during the purchase of the various properties mentioned above at \[10\]; and
 
-(d)     D2 had introduced the Deceased to DS and knew that the Deceased was earning a low salary.
+> (d)     D2 had introduced the Deceased to DS and knew that the Deceased was earning a low salary.
 
 50     There are two other issues in relation to the plaintiff’s pleadings which bear discussing. First, in the plaintiff’s pleadings, there was mention of a claim in unjust enrichment.[^64] I did not think that a cause of action in unjust enrichment was adequately pleaded. The statement of claim (amendment no 1) pleaded (at para 26):
 
-The Defendants are liable to account to the Plaintiff for the sum of SGG$1,741,812.03 as constructive trustee on the grounds of unjust enrichment.
+> The Defendants are liable to account to the Plaintiff for the sum of SGG$1,741,812.03 as constructive trustee on the grounds of unjust enrichment.
 
 51     The plaintiff’s claim simply asserted that the defendants were liable to it in unjust enrichment without identifying a particular recognised unjust factor or event which would give rise to a claim. As the Court of Appeal stated in _Wee Chiaw Sek Anna v Ng Li-Ann Genevieve (sole executrix of the estate of Ng Hock Seng, deceased) and another_ <span class="citation">\[2013\] 3 SLR 801</span> at \[134\]:
 
-It is important to reiterate that there is no freestanding claim in unjust enrichment on the abstract basis that it is “unjust” for the defendant to retain the benefit – _there must be a particular recognised unjust factor or event which gives rise to a claim_. The following observations by Prof Birks in a seminal article are, in this regard, apposite (see Peter Birks, “The English recognition of unjust enrichment” \[1991\] LMCLQ 473 (at 482)):
+> It is important to reiterate that there is no freestanding claim in unjust enrichment on the abstract basis that it is “unjust” for the defendant to retain the benefit – _there must be a particular recognised unjust factor or event which gives rise to a claim_. The following observations by Prof Birks in a seminal article are, in this regard, apposite (see Peter Birks, “The English recognition of unjust enrichment” \[1991\] LMCLQ 473 (at 482)):
 
-‘Unjust’ is the generalization of all the factors which the law recognizes as calling for restitution. Hence, at the lower level of generality _the plaintiff must put his finger on a specific ground for restitution, a circumstance recognized as rendering the defendant’s enrichment ‘unjust’ and therefore reversible_.
+>> ‘Unjust’ is the generalization of all the factors which the law recognizes as calling for restitution. Hence, at the lower level of generality _the plaintiff must put his finger on a specific ground for restitution, a circumstance recognized as rendering the defendant’s enrichment ‘unjust’ and therefore reversible_.
 
-\[emphasis added\]
+> \[emphasis added\]
 
 52     In my view, this failure was fatal to the plaintiff’s claims against D1 and D2 in unjust enrichment.
 
 53     Second, the plaintiff advanced arguments which were unpleaded and thus irrelevant for the purposes of the present proceedings:
 
-(a)     In its closing submissions, the plaintiff submitted that it ought to succeed in its claim against D1 even if DS was privy to the Deceased’s fraud. This was on the basis that the plaintiff was a separate legal entity from DS.[^65] However, its case before the closing submissions were made was based entirely on the premise that DS was unaware of the conduct of the Deceased. If its case had been on the basis that it would succeed even if DS was privy to the Deceased’s conduct, it would have been open to D1 to have pleaded and argued that the plaintiff is bound by the conduct and knowledge of DS.
+> (a)     In its closing submissions, the plaintiff submitted that it ought to succeed in its claim against D1 even if DS was privy to the Deceased’s fraud. This was on the basis that the plaintiff was a separate legal entity from DS.[^65] However, its case before the closing submissions were made was based entirely on the premise that DS was unaware of the conduct of the Deceased. If its case had been on the basis that it would succeed even if DS was privy to the Deceased’s conduct, it would have been open to D1 to have pleaded and argued that the plaintiff is bound by the conduct and knowledge of DS.
 
-(b)     There was also some suggestion that the plaintiff was entitled to succeed in its claim as Sarjit, the executor of the Deceased’s estate, admitted that the Deceased had an arrangement with DS whereby DS would be able to reclaim moneys obtained from the plaintiff whenever he wanted.[^66] However, again, the premise of the plaintiff’s claim was not pursuant to an agreement or arrangement between the Deceased and DS but rather that the Deceased had acted contrary to DS’s knowledge.
+> (b)     There was also some suggestion that the plaintiff was entitled to succeed in its claim as Sarjit, the executor of the Deceased’s estate, admitted that the Deceased had an arrangement with DS whereby DS would be able to reclaim moneys obtained from the plaintiff whenever he wanted.[^66] However, again, the premise of the plaintiff’s claim was not pursuant to an agreement or arrangement between the Deceased and DS but rather that the Deceased had acted contrary to DS’s knowledge.
 
 ### The case of each defendant
 
@@ -202,11 +202,11 @@ It is important to reiterate that there is no freestanding claim in unjust enric
 
 61     The following issues thus arose for my determination:
 
-(a)     Whether the plaintiff had made out its claim against D1 for the Deceased’s fraud;
+> (a)     Whether the plaintiff had made out its claim against D1 for the Deceased’s fraud;
 
-(b)     Whether any part of the plaintiff’s claim against D1 was time-barred under the LA; and
+> (b)     Whether any part of the plaintiff’s claim against D1 was time-barred under the LA; and
 
-(c)     Whether the plaintiff had made out its claim against D2 in knowing receipt.
+> (c)     Whether the plaintiff had made out its claim against D2 in knowing receipt.
 
 ## My decision
 
@@ -245,11 +245,11 @@ It is important to reiterate that there is no freestanding claim in unjust enric
 
 75     Second, DS failed to call several witnesses who would have been able to give important evidence on the main issue:
 
-(a)     In so far as DS identified Amarjit and Mukhtiar as two vendors who had not been paid (see \[34\] above), he did not call them as witnesses. This was understandable for the latter who had passed away.[^82] As for Amarjit, DS said he had contacted him on 8 September 2012 and Amarjit claimed he had not been paid for the last three to four months.[^83] Amarjit informed DS that he did not contact DS about the non-payment as the Deceased told Amarjit not to call DS on this, or she would not give Amarjit any more work.[^84] However, there was no other evidence that the Deceased was in a position to decide who to give work to. More importantly, DS did not call Amarjit as a witness to confirm his discussion with the Deceased.
+> (a)     In so far as DS identified Amarjit and Mukhtiar as two vendors who had not been paid (see \[34\] above), he did not call them as witnesses. This was understandable for the latter who had passed away.[^82] As for Amarjit, DS said he had contacted him on 8 September 2012 and Amarjit claimed he had not been paid for the last three to four months.[^83] Amarjit informed DS that he did not contact DS about the non-payment as the Deceased told Amarjit not to call DS on this, or she would not give Amarjit any more work.[^84] However, there was no other evidence that the Deceased was in a position to decide who to give work to. More importantly, DS did not call Amarjit as a witness to confirm his discussion with the Deceased.
 
-(b)     Similarly, the plaintiff failed to call any of the vendors whose invoices the Deceased allegedly used to carry out her fraud as a witness.[^85] DS testified that when the Deceased informed him that certain vendors wanted their invoices to be paid in cash (see \[37\] above), he had checked with these vendors before agreeing to sign the cash cheques.[^86] The Deceased was to encash these cash cheques and deposit the moneys obtained into the vendor’s bank account.[^87] The reason for this was that it would otherwise take one or two days for the vendor to withdraw the money if the cheque was deposited into the vendor’s bank account. The vendor did not want to wait for that interim period.[^88] Yet, on the other hand, DS was saying that there were vendors like Amarjit who did not complain directly to him even though they had not been paid for three to four months.[^89] In my view, it was unlikely that various vendors could not even wait for one or two days such that it became a practice for cash cheques to be issued by the plaintiff. The failure to call any of these vendors to give evidence as to the existence of this arrangement undermined DS’s credibility.
+> (b)     Similarly, the plaintiff failed to call any of the vendors whose invoices the Deceased allegedly used to carry out her fraud as a witness.[^85] DS testified that when the Deceased informed him that certain vendors wanted their invoices to be paid in cash (see \[37\] above), he had checked with these vendors before agreeing to sign the cash cheques.[^86] The Deceased was to encash these cash cheques and deposit the moneys obtained into the vendor’s bank account.[^87] The reason for this was that it would otherwise take one or two days for the vendor to withdraw the money if the cheque was deposited into the vendor’s bank account. The vendor did not want to wait for that interim period.[^88] Yet, on the other hand, DS was saying that there were vendors like Amarjit who did not complain directly to him even though they had not been paid for three to four months.[^89] In my view, it was unlikely that various vendors could not even wait for one or two days such that it became a practice for cash cheques to be issued by the plaintiff. The failure to call any of these vendors to give evidence as to the existence of this arrangement undermined DS’s credibility.
 
-(c)     DS also testified that the plaintiff’s accounts were prepared by Jabbar (see \[42\] above). In the light of the fact that the Deceased had allegedly hidden her fraud from DS by inflating the plaintiff’s “Survey Charges”, Jabbar would have been well placed to shed light on how the Deceased managed to hide the alleged fraud for so long. This was especially so given that the plaintiff’s profits before tax were reduced by upwards of 90% in some years (see \[67\] above). Yet, the plaintiff declined to call Jabbar as a witness. The plaintiff’s original explanation for not doing so was that D1 was calling Jabbar as a witness.[^90] However, after D1 informed the court that it was not calling Jabbar as a witness, the plaintiff still did not apply to court for leave to call Jabbar as a witness.[^91]
+> (c)     DS also testified that the plaintiff’s accounts were prepared by Jabbar (see \[42\] above). In the light of the fact that the Deceased had allegedly hidden her fraud from DS by inflating the plaintiff’s “Survey Charges”, Jabbar would have been well placed to shed light on how the Deceased managed to hide the alleged fraud for so long. This was especially so given that the plaintiff’s profits before tax were reduced by upwards of 90% in some years (see \[67\] above). Yet, the plaintiff declined to call Jabbar as a witness. The plaintiff’s original explanation for not doing so was that D1 was calling Jabbar as a witness.[^90] However, after D1 informed the court that it was not calling Jabbar as a witness, the plaintiff still did not apply to court for leave to call Jabbar as a witness.[^91]
 
 76     Finally, there was no good explanation as to why the plaintiff had delayed so long before commencing proceedings. According to DS, he needed evidence and wanted to wait for the criminal proceedings against the Deceased to be completed before commencing civil proceedings against her so as to have an easier time in establishing his claim.[^92] However, DS’s own evidence was that he had completed his investigations within five or six months after 2012 and was able to estimate the amount the plaintiff had been defrauded of (see \[35\] above).[^93] By this time, he had double checked the plaintiff’s payment vouchers with its bank statements and had further spoken with its vendors.[^94] If, as DS sought to portray, he was already able to establish that the Deceased had committed the fraud after he had done his own investigations, then there was no reason to wait for the prosecution to be completed. Furthermore, there was not even a letter of demand sent to the Deceased when she was alive.
 
@@ -259,15 +259,15 @@ It is important to reiterate that there is no freestanding claim in unjust enric
 
 79     D1 called a total of five witnesses who testified that DS was paying significant sums of money to the Deceased:
 
-(a)     Sarjit, the brother of the Deceased and the executor of her estate;
+> (a)     Sarjit, the brother of the Deceased and the executor of her estate;
 
-(b)     Uttam Singh s/o Bakhshish Singh (“Uttam”), a childhood friend of DS;
+> (b)     Uttam Singh s/o Bakhshish Singh (“Uttam”), a childhood friend of DS;
 
-(c)     Mr Peter John Jalal @ Muhammad Jalal (“Mr Jalal”), a friend of DS;
+> (c)     Mr Peter John Jalal @ Muhammad Jalal (“Mr Jalal”), a friend of DS;
 
-(d)     Abid Hussain Mir (“Mr Mir”), a businessman who delivered carpets and furniture to the Deceased’s 26 Bayshore Property; and
+> (d)     Abid Hussain Mir (“Mr Mir”), a businessman who delivered carpets and furniture to the Deceased’s 26 Bayshore Property; and
 
-(e)     Raj Kumar (“Mr Kumar”), an employee of D2.
+> (e)     Raj Kumar (“Mr Kumar”), an employee of D2.
 
 80     I will first deal with the evidence of Sarjit, Uttam and Mr Jalal. All three of them testified that they were aware that DS was paying significant sums to the Deceased and that he was doing so because he was having marital problems with his wife, Kathelene. DS did this because he was worried that Kathelene would file for divorce and wanted to keep her from being able to access his assets. In return for paying these moneys to the Deceased, DS would have a say as to how they were to be utilised.[^95]
 
@@ -299,13 +299,13 @@ It is important to reiterate that there is no freestanding claim in unjust enric
 
 94     Section 22 of the LA states:
 
-**Limitation of actions in respect of trust property**
+> **Limitation of actions in respect of trust property**
 
-**22.**—(1)    No period of limitation prescribed by this Act shall apply to an action by a beneficiary under a trust, being an action —
+> **22.**—(1)    No period of limitation prescribed by this Act shall apply to an action by a beneficiary under a trust, being an action —
 
-(_a_)    in respect of any fraud or fraudulent breach of trust to which the trustee was a party or privy; or
+>> (_a_)    in respect of any fraud or fraudulent breach of trust to which the trustee was a party or privy; or
 
-(_b_)    to recover from the trustee trust property or the proceeds thereof in the possession of the trustee, or previously received by the trustee and converted to his use.
+>> (_b_)    to recover from the trustee trust property or the proceeds thereof in the possession of the trustee, or previously received by the trustee and converted to his use.
 
 95     The plaintiff seemed to take the position that if the Deceased owed fiduciary duties to it, any breach of those fiduciary duties would bring the plaintiff within s 22(1) of the LA; its claim would thus not be subject to the usual time bar of six years. I would have been of the view that the plaintiff’s interpretation of s 22 of the LA was incorrect.
 
@@ -313,7 +313,7 @@ It is important to reiterate that there is no freestanding claim in unjust enric
 
 97     In _Yong Kheng Leong and another v Panweld Trading Pte Ltd_ <span class="citation">\[2013\] 1 SLR 173</span> (“_Yong Kheng Leong_”), the Court of Appeal at \[46\] differentiated between “Class 1” and “Class 2” constructive trusts:
 
-46    … If a person holds property in the position of a trustee (and there is no doubt that a director is regarded as a trustee over the company’s property…) and deals with that property in breach of that trust, he will be a Class 1 constructive trustee; whereas a wrongdoer who fraudulently acquires property over which he had never previously been impressed with any trust obligations, may, by virtue of his fraudulent conduct, be held liable in equity to account as if he were a constructive trustee… the latter is not a case of someone who had ever in reality been a trustee of that property; and it is only by virtue of equity’s reach that such a person is regarded as a Class 2 constructive trustee.
+> 46    … If a person holds property in the position of a trustee (and there is no doubt that a director is regarded as a trustee over the company’s property…) and deals with that property in breach of that trust, he will be a Class 1 constructive trustee; whereas a wrongdoer who fraudulently acquires property over which he had never previously been impressed with any trust obligations, may, by virtue of his fraudulent conduct, be held liable in equity to account as if he were a constructive trustee… the latter is not a case of someone who had ever in reality been a trustee of that property; and it is only by virtue of equity’s reach that such a person is regarded as a Class 2 constructive trustee.
 
 98     Only Class 1 constructive trusts potentially fall within the ambit of s 22(1) of the LA; Class 2 constructive trusts are subject to the usual time bar of six years (_Yong Kheng Leong_ at \[51\]).
 
@@ -327,17 +327,17 @@ It is important to reiterate that there is no freestanding claim in unjust enric
 
 103    Section 29(1) of the LA states:
 
-**Postponement of limitation period in case of fraud or mistake**
+> **Postponement of limitation period in case of fraud or mistake**
 
-**29.**—(1)    Where, in the case of any action for which a period of limitation is prescribed by this Act —
+> **29.**—(1)    Where, in the case of any action for which a period of limitation is prescribed by this Act —
 
-(_a_)    the action is based upon the fraud of the defendant or his agent or of any person through whom he claims or his agent;
+>> (_a_)    the action is based upon the fraud of the defendant or his agent or of any person through whom he claims or his agent;
 
-(_b_)    the right of action is concealed by the fraud of any such person as aforesaid; or
+>> (_b_)    the right of action is concealed by the fraud of any such person as aforesaid; or
 
-(_c_)    the action is for relief from the consequences of a mistake,
+>> (_c_)    the action is for relief from the consequences of a mistake,
 
-the period of limitation shall not begin to run until the plaintiff has discovered the fraud or the mistake, as the case may be, or could with reasonable diligence have discovered it.
+> the period of limitation shall not begin to run until the plaintiff has discovered the fraud or the mistake, as the case may be, or could with reasonable diligence have discovered it.
 
 104    As applied to the facts of this case, s 29(1) of the LA would prevent the period of limitation from beginning to run until the plaintiff had discovered the Deceased’s fraud, or could have with reasonable diligence have discovered it.
 
@@ -357,21 +357,21 @@ the period of limitation shall not begin to run until the plaintiff has discover
 
 111    The requirements for a claim in knowing receipt are set out in the Court of Appeal’s decision in _George Raymond Zage III and another v Ho Chi Kwong and another_ \[2012\] 2 SLR 589 at \[23\]:
 
-(a)     A disposal of the plaintiff’s assets in breach of fiduciary duty;
+> (a)     A disposal of the plaintiff’s assets in breach of fiduciary duty;
 
-(b)     The beneficial receipt by the defendant of assets which are traceable as representing the assets of the plaintiff; and
+> (b)     The beneficial receipt by the defendant of assets which are traceable as representing the assets of the plaintiff; and
 
-(c)     Knowledge on the part of the defendant that the assets received are traceable to a breach of fiduciary duty.
+> (c)     Knowledge on the part of the defendant that the assets received are traceable to a breach of fiduciary duty.
 
 112    While D2 conceded that a breach of the duty of fidelity owed by employees to their employer would be sufficient to found a claim in knowing receipt (and thus negate the need to find a breach of fiduciary duty),[^110] I did not need to make a finding on this point.
 
 113    The plaintiff’s claim against D1 was for fraud committed by the Deceased. If the plaintiff were to succeed in proving the Deceased’s fraud, a constructive trust would arise over the fraudulently obtained moneys. Lord Browne-Wilkinson observed in _Westdeutsche Landesbank Girozentrale v Islington London Borough Council_ <span class="citation">\[1996\] AC 669</span> at 716C:
 
-I agree that the stolen moneys are traceable in equity. But the proprietary interest which equity is enforcing in such circumstances arises under a constructive, not a resulting, trust. Although it is difficult to find clear authority for the proposition, when property is obtained by fraud equity imposes a constructive trust on the fraudulent recipient: the property is recoverable and traceable in equity.
+> I agree that the stolen moneys are traceable in equity. But the proprietary interest which equity is enforcing in such circumstances arises under a constructive, not a resulting, trust. Although it is difficult to find clear authority for the proposition, when property is obtained by fraud equity imposes a constructive trust on the fraudulent recipient: the property is recoverable and traceable in equity.
 
 114    While Lord Browne-Wilkinson’s reasoning has been questioned (see, _eg_, _Shalson v Russo_ \[2005\] 1 Ch. 281 at \[111\]), the proposition that a fraudster holds the proceeds of the fraud on constructive trust for the victim appears fairly well entrenched. _Snell’s Equity_ (John McGhee QC ed) (Sweet & Maxwell, 33rd Ed, 2015) comments at para 26-012:
 
-(**b**)     **Fraudulent taking.** A distinction must be drawn between fraud consisting in the outright taking of a person’s property, wholly without his consent, and a transaction induced by a fraudulent misrepresentation. In the first case, it has been said that a thief who steals the property of another holds it on constructive trust for the claimant. The thief’s possessory title is subject to the claimant’s equitable entitlement to have the property specifically restored to him so that he holds it as a constructive trustee…
+> (**b**)     **Fraudulent taking.** A distinction must be drawn between fraud consisting in the outright taking of a person’s property, wholly without his consent, and a transaction induced by a fraudulent misrepresentation. In the first case, it has been said that a thief who steals the property of another holds it on constructive trust for the claimant. The thief’s possessory title is subject to the claimant’s equitable entitlement to have the property specifically restored to him so that he holds it as a constructive trustee…
 
 115    I was of the view that, on the facts, a claim in knowing receipt could potentially have been made out against D2 if fraud on the part of D1 were proved and the knowledge requirement on the part of D2 satisfied.
 
@@ -431,9 +431,9 @@ I agree that the stolen moneys are traceable in equity. But the proprietary inte
 
 138    As mentioned above at \[46\], the plaintiff’s claim that the 70 Bayshore Property was purchased with its moneys was primarily based on D2 being financially weak. As I understood it, the plaintiff’s claim was that certain major cash deposits into D2’s bank account which were used to purchase the 70 Bayshore Property came from the Deceased.[^129] This would include:
 
-(a)     S$41,760 and S$62,200 on 10 May 2010; and
+> (a)     S$41,760 and S$62,200 on 10 May 2010; and
 
-(b)     S$233,250 on 28 June 2010.
+> (b)     S$233,250 on 28 June 2010.
 
 139    D2’s position was that only the deposit of S$62,200 came from the Deceased. Of this, S$22,600 was to repay D2 for a prior loan to help the Deceased purchase the 26 Bayshore property. This meant that the Deceased only contributed S$39,600 to the purchase of the 70 Bayshore Property. It should be noted that D2 only took this position in her supplementary AEIC filed on 18 January 2019, after the commencement of the trial and after D2 had to disclose certain bank statements to the plaintiff. In her initial AEIC, D2 did not mention the fact that the Deceased had contributed S$62,200 and merely stated instead that the moneys were paid from her own personal bank account.[^130]
 

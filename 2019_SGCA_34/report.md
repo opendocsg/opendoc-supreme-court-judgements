@@ -27,7 +27,7 @@ Insolvency Law – Bankruptcy – Voluntary arrangement
 
 6       On 20 February 2019, we dismissed Mr Aathar’s appeals. We now provide full grounds for our decisions. We pause to note that we find the Judge’s observations in her GD at \[53\] on the nature of voluntary arrangements to be apposite:
 
-… The object of a voluntary arrangement is to enable a debtor to stave off multiple lawsuits by offering creditors the assurance of earlier satisfaction. Where a good \[voluntary\] arrangement is struck, all involved benefit as debts may be repaid to the satisfaction of a majority of creditors holding three-quarters of the value of the debtor’s liabilities, obviating the longer process and higher costs of bankruptcy administration. …
+> … The object of a voluntary arrangement is to enable a debtor to stave off multiple lawsuits by offering creditors the assurance of earlier satisfaction. Where a good \[voluntary\] arrangement is struck, all involved benefit as debts may be repaid to the satisfaction of a majority of creditors holding three-quarters of the value of the debtor’s liabilities, obviating the longer process and higher costs of bankruptcy administration. …
 
 7       When a proposal for a voluntary arrangement is made, it is not an offer by the debtor to individual creditors, but an offer to all creditors as a class: see the English High Court decision of _Re a Debtor (No 2389 of 1989)_ <span class="citation">\[1991\] 2 WLR 578</span> (“_Re a Debtor (No 2389 of 1989)_”), as cited in David Mohyuddin _et al_, _Schaw Miller and Bailey: Personal Insolvency: Law and Practice_ (LexisNexis, 5th Ed, 2017) (“_Personal Insolvency_”) at para 6.9. Given the nature of a voluntary arrangement and its ability to bind dissenting creditors, the “essential element of a voluntary arrangement is … the decision of the creditors as ascertained by the approved process”: see _Personal Insolvency_ at para 6.5.
 
@@ -45,13 +45,13 @@ Insolvency Law – Bankruptcy – Voluntary arrangement
 
 13     The respondents in these appeals are some of Mr Aathar’s creditors:
 
-(a)     The respondent in the first appeal, Civil Appeal No 60 of 2018 (“CA 60”), is CIMB Securities (Singapore) Pte Ltd (“CIMB”).
+> (a)     The respondent in the first appeal, Civil Appeal No 60 of 2018 (“CA 60”), is CIMB Securities (Singapore) Pte Ltd (“CIMB”).
 
-(b)     The respondent in the second appeal, Civil Appeal No 61 of 2018 (“CA 61”), is Citibank Singapore Limited (“Citibank”).
+> (b)     The respondent in the second appeal, Civil Appeal No 61 of 2018 (“CA 61”), is Citibank Singapore Limited (“Citibank”).
 
-(c)     The respondent in the third appeal, CA 62, is OUELH.
+> (c)     The respondent in the third appeal, CA 62, is OUELH.
 
-(d)     The respondent in the fourth appeal, Civil Appeal No 63 of 2018 (“CA 63”), is KGI Securities (Singapore) Pte Ltd (formerly known as KGI Fraser Securities Pte Ltd) (“KGI”).
+> (d)     The respondent in the fourth appeal, Civil Appeal No 63 of 2018 (“CA 63”), is KGI Securities (Singapore) Pte Ltd (formerly known as KGI Fraser Securities Pte Ltd) (“KGI”).
 
 ### Mr Aathar’s first voluntary arrangement
 
@@ -117,15 +117,15 @@ Insolvency Law – Bankruptcy – Voluntary arrangement
 
 39     In the court below, the respondents applied under s 54(1) of the Act, which states as follows:
 
-**54.**—(1)    Any debtor, nominee or person entitled to vote at a creditors’ meeting summoned under section 50 may apply to the court for a review of the decision of the meeting on the ground that —
+> **54.**—(1)    Any debtor, nominee or person entitled to vote at a creditors’ meeting summoned under section 50 may apply to the court for a review of the decision of the meeting on the ground that —
 
-(_a_)    the voluntary arrangement approved by the meeting unfairly prejudices the interests of the debtor or any of the debtor’s creditors; or
+>> (_a_)    the voluntary arrangement approved by the meeting unfairly prejudices the interests of the debtor or any of the debtor’s creditors; or
 
-(_b_)    there has been **_some material irregularity_** at or in relation to the meeting.
+>> (_b_)    there has been **_some material irregularity_** at or in relation to the meeting.
 
-…
+> …
 
-\[emphasis added in bold italics\]
+> \[emphasis added in bold italics\]
 
 In particular, the respondents alleged there had been a material irregularity pursuant to s 54(1)(_b_) of the Act.
 
@@ -151,31 +151,31 @@ In particular, the respondents alleged there had been a material irregularity pu
 
 47     We return to Mr Goh’s principal argument, which was levelled against the Judge’s view on several aspects of r 84 of the Rules, _ie_, on whether an estimated minimum sum should have been set, whether such a minimum sum was _in fact_ set by the Nominee, and how the Litigation claims should have been dealt with under the “objected to” procedure. The material portions of r 84 read as follows:
 
-**84.—**(1)    Every creditor who has been given notice of the creditors’ meeting shall be entitled to vote at the meeting or any adjournment of it.
+> **84.—**(1)    Every creditor who has been given notice of the creditors’ meeting shall be entitled to vote at the meeting or any adjournment of it.
 
-…
+> …
 
-(3)    A creditor shall not vote in respect of —
+> (3)    A creditor shall not vote in respect of —
 
-(_a_)    a debt for an unliquidated amount; or
+>> (_a_)    a debt for an unliquidated amount; or
 
-(_b_)    any debt the value of which is not ascertained,
+>> (_b_)    any debt the value of which is not ascertained,
 
-unless the chairman agrees to put upon the debt an estimated minimum value for the purpose of entitlement to vote.
+> unless the chairman agrees to put upon the debt an estimated minimum value for the purpose of entitlement to vote.
 
-(4)    The chairman shall have the power to admit or reject a creditor’s claim for the purpose of his entitlement to vote, and such power shall be exercisable with respect to the whole or any part of the claim.
+> (4)    The chairman shall have the power to admit or reject a creditor’s claim for the purpose of his entitlement to vote, and such power shall be exercisable with respect to the whole or any part of the claim.
 
-(5)    The chairman’s decision on entitlement to vote shall be subject to appeal to the court by any creditor or by the debtor.
+> (5)    The chairman’s decision on entitlement to vote shall be subject to appeal to the court by any creditor or by the debtor.
 
-(6)    If the chairman is in doubt whether a claim should be admitted or rejected, he shall mark it as objected to and allow the creditor to vote, subject to his vote being subsequently declared invalid if the objection to the claim is sustained.
+> (6)    If the chairman is in doubt whether a claim should be admitted or rejected, he shall mark it as objected to and allow the creditor to vote, subject to his vote being subsequently declared invalid if the objection to the claim is sustained.
 
-(7)    If on an appeal the chairman’s decision is reversed or varied by the court or a creditor’s vote is declared invalid, the court may —
+> (7)    If on an appeal the chairman’s decision is reversed or varied by the court or a creditor’s vote is declared invalid, the court may —
 
-(_a_)    order another meeting to be summoned; or
+>> (_a_)    order another meeting to be summoned; or
 
-(_b_)    make such other order as it thinks just.
+>> (_b_)    make such other order as it thinks just.
 
-…
+> …
 
 48     How should the procedure under r 84 of the Rules be interpreted? In our view, r 84 is a comprehensive and sequential process for the determination and adjudication of claims in a creditors’ meeting. Once this is appreciated, Mr Goh’s objections to the Judge’s decision fall away. Let us elaborate.
 
@@ -199,7 +199,91 @@ unless the chairman agrees to put upon the debt an estimated minimum value for t
 
 57     We set out the relevant exchange:
 
-<table align="left" cellpadding="0" cellspacing="0" class="Judg-2" frame="none" pgwide="1"><colgroup><col width="36.8051603111364%"> <col width="63.1948396888636%"> </colgroup><tbody><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1"><b>IHC’s counsel:</b></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Sorry, one last question. For claims [that] are stated as “Unable to Determine”, are we voting for the full amount?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1"><b>Nominee:</b></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">“Unable to Determine” means nothing, zero.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1"><b>IHC’s counsel:</b></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Can I ask you to reconsider that? I think that may be wrong as a matter of procedure and law. In the case of <em>TT International</em>, I think there were a couple of situations where there is a contentious claim, and I think what the Court has said is that if the chairman has doubts as to whether the proof should be admitted or rejected, he should mark it as “objected to” and allow the creditor to vote subject to the vote being declared invalid in the event that the objection is being sustained. I think there should be steps to ascertain the claim.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1"><b>Nominee:</b></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">This is the problem. I cannot ascertain the claim at all. The ascertainment of the claim involved a factual determination and I just couldn’t make it because the affidavits were such that, factually, they go against each other. For example, how do I determine an oral agreement?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">…</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">&nbsp;</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1"><b>IHC’s counsel:</b></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Can I refer you to paragraph 102 of <em>TT International</em>? ... I think to the extent that the chairman wishes to reject it in full, I think we need to be given a written reason. And as I mentioned earlier, if you have any doubts as to whether it should be admitted or rejected, you should put it as “objected to” and allow the creditor to vote subject to the vote being declared invalid in the event that the objection is being sustained.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1"><b>Nominee:</b></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">I suppose it is correct. The law is the law. Where we are unable to take a position, I have to indicate that I am not able to take a position. I can’t admit or reject it because there is ongoing litigation. And that is not just the case with Low See Ching. There are other claims where there is ongoing litigation. In that case, I suppose in accordance to the procedure, we will allow the creditors to vote and we will see what happens later. …</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">…</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">&nbsp;</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1"><b>Nominee:</b></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">There are things that I haven’t rejected but I am unable to determine. For instance, for Low See Ching, I am unable to determine because the positions taken by debtor and creditor are completely opposite.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">…</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">&nbsp;</p></td></tr></tbody></table>
+>   
+| 
+
+**IHC’s counsel:**
+
+ | 
+
+Sorry, one last question. For claims \[that\] are stated as “Unable to Determine”, are we voting for the full amount?
+
+ |
+| 
+
+**Nominee:**
+
+ | 
+
+“Unable to Determine” means nothing, zero.
+
+ |
+| 
+
+**IHC’s counsel:**
+
+ | 
+
+Can I ask you to reconsider that? I think that may be wrong as a matter of procedure and law. In the case of _TT International_, I think there were a couple of situations where there is a contentious claim, and I think what the Court has said is that if the chairman has doubts as to whether the proof should be admitted or rejected, he should mark it as “objected to” and allow the creditor to vote subject to the vote being declared invalid in the event that the objection is being sustained. I think there should be steps to ascertain the claim.
+
+ |
+| 
+
+**Nominee:**
+
+ | 
+
+This is the problem. I cannot ascertain the claim at all. The ascertainment of the claim involved a factual determination and I just couldn’t make it because the affidavits were such that, factually, they go against each other. For example, how do I determine an oral agreement?
+
+ |
+| 
+
+…
+
+ | 
+
+ |
+| 
+
+**IHC’s counsel:**
+
+ | 
+
+Can I refer you to paragraph 102 of _TT International_? ... I think to the extent that the chairman wishes to reject it in full, I think we need to be given a written reason. And as I mentioned earlier, if you have any doubts as to whether it should be admitted or rejected, you should put it as “objected to” and allow the creditor to vote subject to the vote being declared invalid in the event that the objection is being sustained.
+
+ |
+| 
+
+**Nominee:**
+
+ | 
+
+I suppose it is correct. The law is the law. Where we are unable to take a position, I have to indicate that I am not able to take a position. I can’t admit or reject it because there is ongoing litigation. And that is not just the case with Low See Ching. There are other claims where there is ongoing litigation. In that case, I suppose in accordance to the procedure, we will allow the creditors to vote and we will see what happens later. …
+
+ |
+| 
+
+…
+
+ | 
+
+ |
+| 
+
+**Nominee:**
+
+ | 
+
+There are things that I haven’t rejected but I am unable to determine. For instance, for Low See Ching, I am unable to determine because the positions taken by debtor and creditor are completely opposite.
+
+ |
+| 
+
+…
+
+ | 
+
+ |
 
   
   
@@ -272,7 +356,7 @@ unless the chairman agrees to put upon the debt an estimated minimum value for t
 
 87     We are therefore somewhat surprised that several of these material irregularities could have occurred, since it was apparent that the Nominee was not oblivious to the necessity for such scrutiny. As he told the creditors at the first creditors’ meeting:
 
-You know the history of this matter. A proposal has been tried previously and a court order was made to set aside the nominee’s report. We don’t want to repeat the same mistakes, so we are proceeding with a great deal of caution.
+> You know the history of this matter. A proposal has been tried previously and a court order was made to set aside the nominee’s report. We don’t want to repeat the same mistakes, so we are proceeding with a great deal of caution.
 
 88     Before us, Mr Goh submitted that even if the Nominee had not exerted sufficient care and scrutiny, he had invited the respondents to inspect the supporting documents before voting. He added that the respondents were all represented by counsel during the creditors’ meetings and therefore could not be said to have been prejudiced.
 

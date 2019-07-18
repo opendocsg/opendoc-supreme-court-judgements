@@ -29,13 +29,13 @@ Criminal Procedure and Sentencing – Sentencing – Securities and Futures 
 
 5       Gold Insignia was a limited liability partnership which offered debentures, being a form of securities, without a prospectus to the investing public. The debentures were structured as “memberships”. In the course of its business, there were three versions of the memberships, with the following key terms:
 
-(a)     On purchase of a membership, an investor received a physical gold bar, worth about 70% of the membership fees. The gold bar remained the property of Gold Insignia, but the investor was to hold it on trust for Gold Insignia as collateral to secure his paid-up membership fees and the fixed pay-outs from Gold Insignia.
+> (a)     On purchase of a membership, an investor received a physical gold bar, worth about 70% of the membership fees. The gold bar remained the property of Gold Insignia, but the investor was to hold it on trust for Gold Insignia as collateral to secure his paid-up membership fees and the fixed pay-outs from Gold Insignia.
 
-(b)     The investor was to be given fixed pay-outs. The pay-out was fixed at 4.5% per quarter (18% per annum) under the first two versions of the membership, and 6% on a bi-annual basis (12% per annum) for the third version of the membership.
+> (b)     The investor was to be given fixed pay-outs. The pay-out was fixed at 4.5% per quarter (18% per annum) under the first two versions of the membership, and 6% on a bi-annual basis (12% per annum) for the third version of the membership.
 
-(c)     Each investor could terminate his membership by giving one month’s notice after a fixed non-terminable period. Upon termination, each investor was to return the gold bar to Gold Insignia, and the investor was entitled to a full refund of the original membership fee, or the prevailing market value of the membership, whichever was higher.
+> (c)     Each investor could terminate his membership by giving one month’s notice after a fixed non-terminable period. Upon termination, each investor was to return the gold bar to Gold Insignia, and the investor was entitled to a full refund of the original membership fee, or the prevailing market value of the membership, whichever was higher.
 
-(d)     If investors received a call-back notice from Gold Insignia, investors had two options – return the gold collateral to Gold Insignia and receive the prevailing market value of his membership, or sell the gold collateral to a third party.
+> (d)     If investors received a call-back notice from Gold Insignia, investors had two options – return the gold collateral to Gold Insignia and receive the prevailing market value of his membership, or sell the gold collateral to a third party.
 
 6       In other words, of the funds obtained from the investors, around 70% of the funds were held by the investors in the form of gold bar collaterals. As for the remaining 30% of the funds, around $200,000 was invested by Gold Insignia’s management committee, with the returns from the investments belonging to the partners of Gold Insignia. All the other monies were held by third party discretionary fund managers and brokerage firms for investment, without any input from Gold Insignia. The returns from these investments covered part of the operational costs of Gold Insignia, including the fixed pay-outs to the investors.
 
@@ -78,11 +78,11 @@ Criminal Procedure and Sentencing – Sentencing – Securities and Futures 
 
 18     For completeness, there were several facts which were raised in the Accused’s mitigation plea as follows:
 
-(a)     Gold Insignia had made verbal enquiries with several authorities, namely the MAS, International Enterprise Singapore, the Accounting and Corporate Regulatory Authority and the Singapore Police Force about the running of Gold Insignia’s business.[^1] Exhibits of follow-up emails of these enquiries showed that the authorities gave confirmations to the effect that limited liability partnerships could run membership programmes.[^2]
+> (a)     Gold Insignia had made verbal enquiries with several authorities, namely the MAS, International Enterprise Singapore, the Accounting and Corporate Regulatory Authority and the Singapore Police Force about the running of Gold Insignia’s business.[^1] Exhibits of follow-up emails of these enquiries showed that the authorities gave confirmations to the effect that limited liability partnerships could run membership programmes.[^2]
 
-(b)     The Gold Insignia membership application form had included the applicable terms and conditions. One example is cl 7.1 which states that “members are subjected to a potential financial loss risk of 50% to 65% should Gold Insignia be unable to fulfil \[its\] obligations”.[^3]
+> (b)     The Gold Insignia membership application form had included the applicable terms and conditions. One example is cl 7.1 which states that “members are subjected to a potential financial loss risk of 50% to 65% should Gold Insignia be unable to fulfil \[its\] obligations”.[^3]
 
-(c)     The Accused allegedly took steps to “mitigate the effects of” his offence, by sending out advisory letters to Gold Insignia members to keep them informed,[^4] appealing to the Commercial Affairs Department to use confiscated funds to refund the membership fee to new members who had their gold bars seized,[^5] and scheduling a “redemption exercise” for some members.[^6]
+> (c)     The Accused allegedly took steps to “mitigate the effects of” his offence, by sending out advisory letters to Gold Insignia members to keep them informed,[^4] appealing to the Commercial Affairs Department to use confiscated funds to refund the membership fee to new members who had their gold bars seized,[^5] and scheduling a “redemption exercise” for some members.[^6]
 
 ## The District Judge’s decision
 
@@ -98,9 +98,9 @@ Criminal Procedure and Sentencing – Sentencing – Securities and Futures 
 
 24     Regarding the applicable mitigating factors, the District Judge had regard to the following:
 
-(a)     the Accused pleaded guilty. While the charges were “neither seen as difficult for the Prosecution to prove nor one on which a substantial defence may be mounted”, “some credit” was still given to the Accused’s plea of guilt.
+> (a)     the Accused pleaded guilty. While the charges were “neither seen as difficult for the Prosecution to prove nor one on which a substantial defence may be mounted”, “some credit” was still given to the Accused’s plea of guilt.
 
-(b)     the Accused extended full co-operation to the investigative authorities. The Accused cooperated during the six-year investigation period by surrendering documents, gold bars and monies, thus demonstrating “a measure of remorse and a degree of sincerity to rectify an unintended wrongdoing”.
+> (b)     the Accused extended full co-operation to the investigative authorities. The Accused cooperated during the six-year investigation period by surrendering documents, gold bars and monies, thus demonstrating “a measure of remorse and a degree of sincerity to rectify an unintended wrongdoing”.
 
 25     One more aspect which the District Judge addressed was whether the effects of the lack of prospectus were mitigated. In this regard, the lower court considered that Gold Insignia did not “substantially me\[e\]t” the requirements of a prospectus through the information contained in the membership application forms, as the disclosed information still “\[lacked\] crucial details” (GD at \[32\]). The District Judge also considered that “the steps taken by Gold Insignia or the Accused to rectify the situation … to be at best, neutral” (GD at \[33\]).
 
@@ -129,65 +129,65 @@ Criminal Procedure and Sentencing – Sentencing – Securities and Futures 
 
 32     The charges in question are under s 331(3A) read with s 240(1) punishable under s 240(7) of the SFA. Section 240(1) requires an offer of securities to be made in or accompanied by a prospectus:
 
-**Requirement for prospectus and profile statement, where relevant**
+> **Requirement for prospectus and profile statement, where relevant**
 
-**240.**—(1)    No person shall make an offer of securities or securities-based derivatives contracts unless the offer —
+> **240.**—(1)    No person shall make an offer of securities or securities-based derivatives contracts unless the offer —
 
-(a)    is made in or accompanied by a prospectus in respect of the offer —
+>> (a)    is made in or accompanied by a prospectus in respect of the offer —
 
-(i)    that is prepared in accordance with section 243;
+>>> (i)    that is prepared in accordance with section 243;
 
-(ii)   a copy of which, being one that has been signed in accordance with subsection (4A), is lodged with the Authority; and
+>>> (ii)   a copy of which, being one that has been signed in accordance with subsection (4A), is lodged with the Authority; and
 
-(iii)   that is registered by the Authority; and
+>>> (iii)   that is registered by the Authority; and
 
-(b)    complies with such requirements as may be prescribed by the Authority.
+>> (b)    complies with such requirements as may be prescribed by the Authority.
 
-…
+>> …
 
 33     Section 239(1) SFA defines the term “securities” to include “debentures”. Further, while the case of _Levy v Abercorris Slate and Slab Company_ (1887) Ch D 260, at 264, was cited in the SOF for the definition of “debentures”, s 239(3) SFA in fact contains a deeming provision to the same effect:
 
-(3)    For the purposes of this Division —
+> (3)    For the purposes of this Division —
 
-…
+>> …
 
-(b)    any document that is issued or intended or required to be issued by an entity _acknowledging or evidencing or constituting an acknowledgment of the indebtedness of the entity in respect of any money that is or may be deposited with or lent to the entity_ in response to such an invitation shall be deemed to be a debenture.
+>> (b)    any document that is issued or intended or required to be issued by an entity _acknowledging or evidencing or constituting an acknowledgment of the indebtedness of the entity in respect of any money that is or may be deposited with or lent to the entity_ in response to such an invitation shall be deemed to be a debenture.
 
 34     Where the contravention of s 240(1) is committed by a limited liability partnership (which I shall refer to as the “primary offence”), s 331(3A) imposes criminal liability on the individual partner or manager of the offending limited liability partnership as follows:
 
-**Corporate offenders and unincorporated associations**
+> **Corporate offenders and unincorporated associations**
 
-**331.** …
+> **331.** …
 
-(3A)  Where an offence under this Act committed by a limited liability partnership is proved to have been committed with the _consent or connivance of, or to be attributable to any neglect on the part of_, a partner or manager of the limited liability partnership, the partner or manager (as the case may be) as well as the partnership shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+> (3A)  Where an offence under this Act committed by a limited liability partnership is proved to have been committed with the _consent or connivance of, or to be attributable to any neglect on the part of_, a partner or manager of the limited liability partnership, the partner or manager (as the case may be) as well as the partnership shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
 
-\[emphasis added\]
+> \[emphasis added\]
 
 35     It is clear from s 331(3A) that there are _three alternate limbs_ under which liability of a partner or manager – which I refer to as “secondary liability” – is established, being consent, connivance or negligence. In this regard, I find helpful guidance in _Abdul Ghani bin Tahir v Public Prosecutor_ <span class="citation">\[2017\] 4 SLR 1153</span> (“_Abdul Ghani_”), where the court discussed the meaning of these three limbs in the context of s 59(1) of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act (Cap 65A, 2000 Rev Ed) (“CDSA”).
 
 36     In _Abdul Ghani_, the accused, a non-executive director of the relevant company, was convicted of charges for the company’s transfer of stolen moneys being attributable to his _neglect_ as an officer of the company under s 47(1)(_b_) punishable under s 47(6)(_a_) read with s 59(1)(_b_) of the CDSA. However, the court’s judgment contained _dicta_ relevant to the present case:
 
-However, it must be emphasised that in relation to a secondary offender, s 59(1) of the CDSA contemplates **three distinct** **_mens rea_**, **_ie_****, “consent”, “connivance” as well as “neglect”**. While the difference in culpability between “neglect” and “consent or connivance” is obvious, there is also a fine difference in culpability between “consent” and “connivance” under English law – consent requires more explicit an agreement for the illegal conduct to take place. In _Huckerby v Elliot_ \[1970\] 1 All ER 189, … Ashworth J noted that a fellow director of the company had pleaded guilty to a charge under the “consent” limb. In this connection, he expressed his approval for the following remarks which had featured in the magistrate’s judgment from whose decision the appeal arose (at 194):
+> However, it must be emphasised that in relation to a secondary offender, s 59(1) of the CDSA contemplates **three distinct** **_mens rea_**, **_ie_****, “consent”, “connivance” as well as “neglect”**. While the difference in culpability between “neglect” and “consent or connivance” is obvious, there is also a fine difference in culpability between “consent” and “connivance” under English law – consent requires more explicit an agreement for the illegal conduct to take place. In _Huckerby v Elliot_ \[1970\] 1 All ER 189, … Ashworth J noted that a fellow director of the company had pleaded guilty to a charge under the “consent” limb. In this connection, he expressed his approval for the following remarks which had featured in the magistrate’s judgment from whose decision the appeal arose (at 194):
 
-It would seem that where a director consents to the commission of an offence by his company, he is **_well aware of what is going on and agrees to it_** … Where he connives at the offence committed by the company he is **_equally well aware of what is going on_** but his agreement is tacit, not actively encouraging what happens but letting it continue and saying nothing about it.
+>> It would seem that where a director consents to the commission of an offence by his company, he is **_well aware of what is going on and agrees to it_** … Where he connives at the offence committed by the company he is **_equally well aware of what is going on_** but his agreement is tacit, not actively encouraging what happens but letting it continue and saying nothing about it.
 
-In _Attorney-General’s Reference (No 1 of 1995)_ <span class="citation">\[1996\] 1 WLR 970</span>, … Lord Taylor of Gosforth CJ concluded that \[to prove “consent”,\] a director **_must be shown to have known the material facts that constituted the offence by the body corporate and to have agreed to its conduct of the business on the basis of those facts_** (at 981). Subsequently, Lord Hope in \[_R v Chargot Ltd (trading as Contract Services)_ and others <span class="citation">\[2009\] 1 WLR 1</span>\] … endorsed this test, adding that consent can be established by either inference or proof of an express agreement (at \[34\]).
+> In _Attorney-General’s Reference (No 1 of 1995)_ <span class="citation">\[1996\] 1 WLR 970</span>, … Lord Taylor of Gosforth CJ concluded that \[to prove “consent”,\] a director **_must be shown to have known the material facts that constituted the offence by the body corporate and to have agreed to its conduct of the business on the basis of those facts_** (at 981). Subsequently, Lord Hope in \[_R v Chargot Ltd (trading as Contract Services)_ and others <span class="citation">\[2009\] 1 WLR 1</span>\] … endorsed this test, adding that consent can be established by either inference or proof of an express agreement (at \[34\]).
 
-It is clear from the above that the English cases distinguish between “consent” and “connivance”. However, since this matter does not arise for conclusive determination before me, I shall leave the position in Singapore open until a further court gets the opportunity to examine the precise difference between these two _mens rea_ requirements.
+> It is clear from the above that the English cases distinguish between “consent” and “connivance”. However, since this matter does not arise for conclusive determination before me, I shall leave the position in Singapore open until a further court gets the opportunity to examine the precise difference between these two _mens rea_ requirements.
 
-\[emphasis added in bold italics\]
+> \[emphasis added in bold italics\]
 
 37     I turn to consider _Attorney General’s Reference (No. 1 of 1995)_ <span class="citation">\[1996\] 1 WLR 970</span> (“_Attorney General’s Reference (No. 1 of 1995)_”) in further detail, as it contains an exposition on the constituent requirement of “consent”. In that case, against the context of two directors jointly charged for consenting to their company taking deposits in the course of the company’s business without due licence from the Bank of England, the Attorney-General sought the opinion of the court on, _inter alia_¸ what _mens rea_ was required to be proved to show “consent”. In so doing, the Attorney-General framed its proposal for the requisite _mens rea_ in the following terms (at 975):
 
-(i)    It is necessary for the prosecution to prove: (1) that the company accepted a deposit in the course of carrying on a deposit-taking business and that the company was at that time in fact not authorised by the Bank of England to take deposits; (2) that the defendant was at that time a director of the company; (3) that the defendant knew that (a) the company accepted the deposit, and he consented to it doing so (b) in the course of carrying on a deposit-taking business (c) and the company had no authority from the Bank of England to take \[deposits\]. (ii) _It is sufficient for proof of knowle\[d\]ge of lack of authority that the defendant …, if asked the question, 'Has your company got the authority of the Bank of England,' to be able to say truthfully, 'No.' … The fact that the reason why the company had never applied for and thus never been granted such authority was that the director did not know the law impos\[ed\] the requirement does not in any way alter the matter of fact that his state of mind was that of knowing quite well that the company had no authority_.
+> (i)    It is necessary for the prosecution to prove: (1) that the company accepted a deposit in the course of carrying on a deposit-taking business and that the company was at that time in fact not authorised by the Bank of England to take deposits; (2) that the defendant was at that time a director of the company; (3) that the defendant knew that (a) the company accepted the deposit, and he consented to it doing so (b) in the course of carrying on a deposit-taking business (c) and the company had no authority from the Bank of England to take \[deposits\]. (ii) _It is sufficient for proof of knowle\[d\]ge of lack of authority that the defendant …, if asked the question, 'Has your company got the authority of the Bank of England,' to be able to say truthfully, 'No.' … The fact that the reason why the company had never applied for and thus never been granted such authority was that the director did not know the law impos\[ed\] the requirement does not in any way alter the matter of fact that his state of mind was that of knowing quite well that the company had no authority_.
 
-\[emphasis added\]
+> \[emphasis added\]
 
 38     The court agreed with the Attorney-General, being “satisfied that the correct approach is that suggested on behalf of the Attorney-General”, and held as follows (at 980):
 
-A director who _knows that acts which can only be performed by the company if it is licensed by the bank_, _are being performed when in fact no licence exists_ and who consents to that performance is guilty of the offence charged. The fact that he does not know it is an offence to perform them without a licence, i.e., ignorance of the law, is no defence.
+> A director who _knows that acts which can only be performed by the company if it is licensed by the bank_, _are being performed when in fact no licence exists_ and who consents to that performance is guilty of the offence charged. The fact that he does not know it is an offence to perform them without a licence, i.e., ignorance of the law, is no defence.
 
-\[emphasis added\]
+> \[emphasis added\]
 
 In other words, the court accepted in no uncertain terms that ignorance of the need for a licence was irrelevant. Such a requirement for knowledge of a need for a licence is tantamount to undermining the principle of _ignorantia juris non excusat_ (ignorance of the law excuses not).
 
@@ -199,11 +199,11 @@ In other words, the court accepted in no uncertain terms that ignorance of the n
 
 42     Based on the foregoing, to prove the present offence against a partner or manager of a limited liability partnership and establish his secondary liability, the following elements must be established:
 
-(a)     The primary offence of offering securities without a prospectus is committed by a limited liability partnership.
+> (a)     The primary offence of offering securities without a prospectus is committed by a limited liability partnership.
 
-(b)     In the commission of the primary offence, there is _either_ consent or connivance, _or_ neglect on the part of the partner or manager. As stated immediately above at \[41\], I am of the view that there are two states of _mens rea_ within the offence. Specifically, to prove “consent”, the offender _must be shown to have known the material facts that constituted the offence by the limited liability partnership_ and _agreed to its conduct of the business on the basis of those facts_. In the context of the present kind of secondary liability, adopting the language of _Attorney General’s Reference (No. 1 of 1995)_, this is a partner or manager who has knowledge that the relevant security is being offered by the limited liability partnership without the required prospectus, and who consents to that conduct.
+> (b)     In the commission of the primary offence, there is _either_ consent or connivance, _or_ neglect on the part of the partner or manager. As stated immediately above at \[41\], I am of the view that there are two states of _mens rea_ within the offence. Specifically, to prove “consent”, the offender _must be shown to have known the material facts that constituted the offence by the limited liability partnership_ and _agreed to its conduct of the business on the basis of those facts_. In the context of the present kind of secondary liability, adopting the language of _Attorney General’s Reference (No. 1 of 1995)_, this is a partner or manager who has knowledge that the relevant security is being offered by the limited liability partnership without the required prospectus, and who consents to that conduct.
 
-(c)     The _acts or omissions_ of the partner or manager in the commission of the primary offence, which demonstrate consent _or_ connivance _or_ neglect on his part. To reiterate what I said at \[41\] above, in terms of the _actus reus_ of the offence, there appears to be three distinct limbs.
+> (c)     The _acts or omissions_ of the partner or manager in the commission of the primary offence, which demonstrate consent _or_ connivance _or_ neglect on his part. To reiterate what I said at \[41\] above, in terms of the _actus reus_ of the offence, there appears to be three distinct limbs.
 
 43     For completeness, under s 240(7), a contravention of s 240(1) is deemed an offence, and the prescribed punishment for the said offence is a fine not exceeding $150,000 or imprisonment for a term not exceeding two years or both.
 
@@ -235,19 +235,19 @@ In other words, the court accepted in no uncertain terms that ignorance of the n
 
 54     Culpability, as a measure of an offender’s blameworthiness, includes these factors:
 
-(a)     Role of the offender. This entails consideration of whether the offender is charged under the consent, connivance or neglect limb of the offence. In this provision, the three limbs are set out in an order that reflects a decreasing level of culpability. Further, under this factor, the offender’s role in the entity, the nature and extent of the offending acts or omissions, should also be considered.
+> (a)     Role of the offender. This entails consideration of whether the offender is charged under the consent, connivance or neglect limb of the offence. In this provision, the three limbs are set out in an order that reflects a decreasing level of culpability. Further, under this factor, the offender’s role in the entity, the nature and extent of the offending acts or omissions, should also be considered.
 
-(b)     The offender’s mental state. This relates to whether the offence was committed with _either_ consent or connivance of, _or_ attributable to any neglect of the accused, and the extent of such consent, connivance or neglect. An offender charged with _either_ consent or connivance is more culpable than one charged with neglect. Here, I depart from the Prosecution’s analysis as set out at factor (b) in \[50\], and a more detailed discussion is at \[62\] below. Distinct from the _mens rea_ requirement of the offence, this factor encompasses consideration of whether there has been a knowing, deliberate or wilful contravention of the legal requirement which would be an aggravating factor. Ignorance of the legal requirement, however, is but a neutral factor.
+> (b)     The offender’s mental state. This relates to whether the offence was committed with _either_ consent or connivance of, _or_ attributable to any neglect of the accused, and the extent of such consent, connivance or neglect. An offender charged with _either_ consent or connivance is more culpable than one charged with neglect. Here, I depart from the Prosecution’s analysis as set out at factor (b) in \[50\], and a more detailed discussion is at \[62\] below. Distinct from the _mens rea_ requirement of the offence, this factor encompasses consideration of whether there has been a knowing, deliberate or wilful contravention of the legal requirement which would be an aggravating factor. Ignorance of the legal requirement, however, is but a neutral factor.
 
-(c)     Intention or motive of the offender, and benefits or gains made by the offender. This requires consideration of whether the offender intended to benefit from or is motivated by any financial or other gains, and whether he receives or reaps any benefits from the scheme.
+> (c)     Intention or motive of the offender, and benefits or gains made by the offender. This requires consideration of whether the offender intended to benefit from or is motivated by any financial or other gains, and whether he receives or reaps any benefits from the scheme.
 
-(d)     Steps taken to mitigate the effects of the offence. This accounts for any mitigation of the lack of a prospectus by making any disclosure concerning the securities offered.
+> (d)     Steps taken to mitigate the effects of the offence. This accounts for any mitigation of the lack of a prospectus by making any disclosure concerning the securities offered.
 
 55     The factors which constitute harm caused by the offending behaviour would include:
 
-(a)     Consequences of the conduct. This pertains to the actual and potential harm caused as a result of the offence(s), in other words, loss or risk occasioned as a result of the failure to issue the prospectus. It also involves a consideration of the scale of the operations, such as the number of investors to whom the securities were sold without a prospectus being issued and the total value of such securities sold. The sophistication of the operations is also pertinent.
+> (a)     Consequences of the conduct. This pertains to the actual and potential harm caused as a result of the offence(s), in other words, loss or risk occasioned as a result of the failure to issue the prospectus. It also involves a consideration of the scale of the operations, such as the number of investors to whom the securities were sold without a prospectus being issued and the total value of such securities sold. The sophistication of the operations is also pertinent.
 
-(b)     Materiality of the information not disclosed. Given the legislative object of the offence to address the information asymmetry of the offender and the investing public, it is important to consider the materiality – the relevance and importance – of the information which should have been disclosed to investors in the prospectus. The materiality of the information must be considered in the context of the nature of the securities offered. For instance, the riskier the investment, the more material the relevant information required to adequately inform investors’ choices would be.
+> (b)     Materiality of the information not disclosed. Given the legislative object of the offence to address the information asymmetry of the offender and the investing public, it is important to consider the materiality – the relevance and importance – of the information which should have been disclosed to investors in the prospectus. The materiality of the information must be considered in the context of the nature of the securities offered. For instance, the riskier the investment, the more material the relevant information required to adequately inform investors’ choices would be.
 
 ### Starting points
 
@@ -319,13 +319,13 @@ In other words, the court accepted in no uncertain terms that ignorance of the n
 
 81     In this regard, I note the substance of the various “advisory letters” sent to members to inform them of the situation as it developed (see \[18(c)\] above):
 
-(a)     Gold Insignia ceased making pay-outs to investors as early as 4 August 2011.[^31] This meant that investors who joined the membership programme later were at higher risk of losing the unsecured 30% of their membership fee, having had less time to recoup that amount back through the periodic fixed pay-outs.
+> (a)     Gold Insignia ceased making pay-outs to investors as early as 4 August 2011.[^31] This meant that investors who joined the membership programme later were at higher risk of losing the unsecured 30% of their membership fee, having had less time to recoup that amount back through the periodic fixed pay-outs.
 
-(b)     From August 2011 onwards, Gold Insignia only offered the third variation of the membership to new investors, entailing a 6% bi-annual pay-out (12% per annum) as compared to the previously-offered 4.5% quarterly pay-out (18% per annum). In this regard, I note that this pointed towards the unsustainability of the first two versions of the memberships, with the third version having a lower pay-out.[^32]
+> (b)     From August 2011 onwards, Gold Insignia only offered the third variation of the membership to new investors, entailing a 6% bi-annual pay-out (12% per annum) as compared to the previously-offered 4.5% quarterly pay-out (18% per annum). In this regard, I note that this pointed towards the unsustainability of the first two versions of the memberships, with the third version having a lower pay-out.[^32]
 
-(c)     In November 2011, Gold Insignia members who wished to terminate their membership were informed that “the \[Gold Insignia\] management may not be able to deal with all requests and return all monies immediately”.[^33] Members were also offered two options – (a) to sign a letter of release, which absolved Gold Insignia and the member from all future obligations, and keep the gold; or (b) to participate in a “recall / redemption exercise”, which would allow Gold Insignia “to deal directly with each customer to work out a suitable solution”, but “may take some time”.[^34]
+> (c)     In November 2011, Gold Insignia members who wished to terminate their membership were informed that “the \[Gold Insignia\] management may not be able to deal with all requests and return all monies immediately”.[^33] Members were also offered two options – (a) to sign a letter of release, which absolved Gold Insignia and the member from all future obligations, and keep the gold; or (b) to participate in a “recall / redemption exercise”, which would allow Gold Insignia “to deal directly with each customer to work out a suitable solution”, but “may take some time”.[^34]
 
-(d)     By 17 November 2011, members were instructed to sign a letter of release, which would enable them to keep their gold bars.[^35] If members did not sign the letter of release, they would effectively be unable to retain the gold bar.
+> (d)     By 17 November 2011, members were instructed to sign a letter of release, which would enable them to keep their gold bars.[^35] If members did not sign the letter of release, they would effectively be unable to retain the gold bar.
 
 82     As for the exact sums at risk of loss, the investors did not, as rightly pointed out by the Accused, stand to lose the entire sum of the membership fee. This is because each investor was returned a portion of their investment in the form of a gold bar worth 70% of their membership fee. However, out of the $29,970,000 paid to Gold Insignia in membership fees, I accept that 30% of that amount – about $8,991,000 – was exposed to risk. This was a substantial amount. The facts above at \[81\] go to show that there was a real risk of loss of such a sum, and not a mere speculative risk. Pay-outs had ceased to investors, liquidating their investments became more difficult, culminating in investors having to sign letters of release to retain the gold bar which represented 70% of their membership fee. Further, the last two points (stated at \[81(c)\]–\[81(d)\]) in particular reveal the Accused’s error in implying that investors who had purchased their memberships were not exposed to _any_ risk because they could obtain a full refund of their membership fee. The ability to do so was in fact hindered.
 
@@ -341,21 +341,21 @@ In other words, the court accepted in no uncertain terms that ignorance of the n
 
 86     On appeal, the Accused has challenged this in the following two aspects:
 
-(a)     The District Judge should not have found that the scheme was “unsustainable” in the absence of any expert evidence or admission by the Accused. Undue weight was also given to this finding.
+> (a)     The District Judge should not have found that the scheme was “unsustainable” in the absence of any expert evidence or admission by the Accused. Undue weight was also given to this finding.
 
-(b)     The District Judge should not have found that the scheme was “highly speculative”, as the memberships were not traded at wildly-varying prices, driven by the transactions of speculators.
+> (b)     The District Judge should not have found that the scheme was “highly speculative”, as the memberships were not traded at wildly-varying prices, driven by the transactions of speculators.
 
 87     While the degree of speculation involved was not directly addressed, the Prosecution submitted in response that the District Judge was entitled to find that the scheme was unsustainable, and that the issue was in any event conceded by the Accused.[^36] The Prosecution also characterised the Gold Insignia membership offerings as a “money circulation scheme” where funds from new investors were used to pay off old investors, the offering of which (without a prospectus) was “extremely misleading”.[^37]
 
 88     Addressing the factual challenges by the Accused, I first consider the facts relied on by the District Judge in making this finding, as referenced at \[20\] of the GD (footnote 10), which were as follows:
 
-(a)     After 70% of the membership fee was used to purchase the gold bar for each investor to hold on trust, only 30% was left to meet its financial obligations,[^38] which included:
+> (a)     After 70% of the membership fee was used to purchase the gold bar for each investor to hold on trust, only 30% was left to meet its financial obligations,[^38] which included:
 
-(i)       Payment of 4.5% per quarter (18% per annum) or 6% bi-annually (12% per annum), as the case may be, to the investors, on the entire amount invested by that investor;[^39] and
+>> (i)       Payment of 4.5% per quarter (18% per annum) or 6% bi-annually (12% per annum), as the case may be, to the investors, on the entire amount invested by that investor;[^39] and
 
-(ii)       Payment of 1.3% commission, on the full price of the membership, to each independent sales consultant, for every month that a member, to whom the consultant sold a membership, stayed in the scheme.[^40]
+>> (ii)       Payment of 1.3% commission, on the full price of the membership, to each independent sales consultant, for every month that a member, to whom the consultant sold a membership, stayed in the scheme.[^40]
 
-(b)     Gold Insignia generated monies by putting the 30% remainder less $200,000 with fund managers and brokerage firms.[^41] On these investments, Gold Insignia had no input in how this money was invested.[^42]
+> (b)     Gold Insignia generated monies by putting the 30% remainder less $200,000 with fund managers and brokerage firms.[^41] On these investments, Gold Insignia had no input in how this money was invested.[^42]
 
 89     The Prosecution argued that, based on just these two liabilities set out above at \[88(a)(i)\] and \[88(a)(ii)\], after a year of operations, Gold Insignia had to pay the investor approximately 18% (or 12%) in pay-outs, and about 15.6% in commissions. These liabilities amounted to 33.6% (or 27.6%, as the case may be) of the membership fees of each investor, which exceeded or would be close to exceeding the 30% which Gold Insignia retained. In other words, to meet its obligations, it had to generate 92% to 112% investment returns on the moneys it had retained. This does not even account for the operation costs of Gold Insignia, including the salaries of the Accused, Serene and Ray. Further, Gold Insignia did not engage in any innovative investment strategy in the investment of the membership fee. Instead, it sought to generate enough to meet its financial obligations through simply placing the funds with the fund managers and brokerage firms. Apart from this, Gold Insignia’s only significant source of funding was the membership fees of new investors. The sustainability of this scheme therefore was, as the Prosecution argued, “not only impossible, but highly suspect in its conception”.[^43]
 
@@ -383,13 +383,13 @@ In other words, the court accepted in no uncertain terms that ignorance of the n
 
 99     In this regard, the Prosecution has cited the authority of _Public Prosecutor v Choong Kian Haw_ <span class="citation">\[2002\] 2 SLR(R) 997</span> (“_Choong Kian Haw_”), at \[24\]:
 
-I stated my view that fines were, in general, _not a suitable means of punishment since bankrupts would typically lack the means to pay for the fines themselves_. If they had the funds to pay the fines, these monies should clearly be channelled instead to the unpaid creditors. _If they lacked the funds and a third party paid for them, the punitive effect of the punishments is diminished._ These concerns apply with equal force to the sentencing of bankrupts in general. They are not limited to offences committed under s 141(1)(a) \[of the Bankruptcy Act (Cap 20, 2000 Rev Ed\]. \[emphasis added\]
+> I stated my view that fines were, in general, _not a suitable means of punishment since bankrupts would typically lack the means to pay for the fines themselves_. If they had the funds to pay the fines, these monies should clearly be channelled instead to the unpaid creditors. _If they lacked the funds and a third party paid for them, the punitive effect of the punishments is diminished._ These concerns apply with equal force to the sentencing of bankrupts in general. They are not limited to offences committed under s 141(1)(a) \[of the Bankruptcy Act (Cap 20, 2000 Rev Ed\]. \[emphasis added\]
 
 100    Nevertheless, I note that the more recent case of _Tan Beng Chua v Public Prosecutor_ <span class="citation">\[2014\] 3 SLR 1274</span> states at \[14\]–\[15\]:
 
-With respect, _Choong Kian Haw_ should not be taken to have laid down a rigid and inflexible rule.
+> With respect, _Choong Kian Haw_ should not be taken to have laid down a rigid and inflexible rule.
 
-… it is pertinent to note that the underlying assumption in _Choong Kian Haw_ is that bankrupts do not have access to funds other than (a) donations from benevolent third parties; and/or (b) funds that are available for creditors. However, with respect, this assumption may not always hold true. Some bankrupts may have other legitimate sources of funds that may be used to pay a fine. These include CPF moneys that a member is entitled to withdraw upon reaching 55 years of age … and the sale proceeds of a Housing and Development Board flat … Hence, the general proposition in _Choong Kian Haw_ may have been misapplied somewhat to extend to every case irrespective of whether a bankrupt has legitimate sources of funds which are not available for distribution to creditors.
+> … it is pertinent to note that the underlying assumption in _Choong Kian Haw_ is that bankrupts do not have access to funds other than (a) donations from benevolent third parties; and/or (b) funds that are available for creditors. However, with respect, this assumption may not always hold true. Some bankrupts may have other legitimate sources of funds that may be used to pay a fine. These include CPF moneys that a member is entitled to withdraw upon reaching 55 years of age … and the sale proceeds of a Housing and Development Board flat … Hence, the general proposition in _Choong Kian Haw_ may have been misapplied somewhat to extend to every case irrespective of whether a bankrupt has legitimate sources of funds which are not available for distribution to creditors.
 
 101    As I had concluded on the facts before me that the custodial threshold is crossed, it is strictly not necessary for me to further address this issue of whether it would be more appropriate to impose fines or imprisonment for an adjudged bankrupt such as the Accused.
 

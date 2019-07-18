@@ -51,9 +51,9 @@ Building and Construction Law – Scope of works – Variation
 
 13     Next, I come to the concept of redundancy. Essentially this means providing back-up to the back-up, because an uninterrupted power supply is so critical to data centres. Data centres vary in terms of the level of redundancy provided. For instance:
 
-(a)     In an “N+1” configuration, “N” is the number of items of standby equipment (_eg_, generators or batteries combined with generators) required for emergency use when there is an interruption in electrical supply and “+1” represents an additional standby item of equipment for the redundancy capacity. If any of the “N” units fail, there is an additional unit to take its place. The “+1” is also useful when one of the “N” units have to be taken offline for maintenance or repairs.
+> (a)     In an “N+1” configuration, “N” is the number of items of standby equipment (_eg_, generators or batteries combined with generators) required for emergency use when there is an interruption in electrical supply and “+1” represents an additional standby item of equipment for the redundancy capacity. If any of the “N” units fail, there is an additional unit to take its place. The “+1” is also useful when one of the “N” units have to be taken offline for maintenance or repairs.
 
-(b)     In an “N+N” configuration, each generator is backed up by another generator, thereby ensuring that there is an equal number of backup generators available to take over the entire IT Load should all the main generators fail.[^17]
+> (b)     In an “N+N” configuration, each generator is backed up by another generator, thereby ensuring that there is an equal number of backup generators available to take over the entire IT Load should all the main generators fail.[^17]
 
 The higher the specifications, power requirements, capacity and reliability, the higher the capital expenditure to provide the same. A data centre operator would therefore have to make a commercial decision as to what segment of the market it would like to occupy, considering also the kind of customers in the market. If the market consisted mainly of tenants who required medium to lower-end specifications, then it would not make economic sense to incur the higher capital expenditure because such tenants would not be prepared to pay the higher rent that high-end customers would be prepared to.
 
@@ -61,9 +61,9 @@ The higher the specifications, power requirements, capacity and reliability, the
 
 15     Finally, brief mention should be made of two different kinds of cooling systems. IT equipment in a data centre generates a significant amount of heat and therefore requires adequate cooling to prevent overheating and failure.[^20] It may therefore be cooled by:
 
-(a)     A supply air system where the room will be divided into hot and cold aisles.[^21] Cold air from the CRACs will be pushed into the cold aisles through a pressurised floor void and then over the IT equipment. After the cold air passes over the IT equipment, it absorbs the IT equipment’s heat and turns into hot air. This hot air is then ejected into a hot aisle before being extracted from the aisle by the CRACs, which will cool the hot air before returning the cooled air into the cold aisles.[^22] Thus, mixing of the cold and hot air will be minimised and the suite’s temperature can be controlled by manipulating the temperature of the cold air.
+> (a)     A supply air system where the room will be divided into hot and cold aisles.[^21] Cold air from the CRACs will be pushed into the cold aisles through a pressurised floor void and then over the IT equipment. After the cold air passes over the IT equipment, it absorbs the IT equipment’s heat and turns into hot air. This hot air is then ejected into a hot aisle before being extracted from the aisle by the CRACs, which will cool the hot air before returning the cooled air into the cold aisles.[^22] Thus, mixing of the cold and hot air will be minimised and the suite’s temperature can be controlled by manipulating the temperature of the cold air.
 
-(b)     Alternatively, a return air system. This does not physically separate hot and cold air in the suites. Instead, the CRACs will supply overcooled air into the suite, with the aim of ensuring that the mixed air returning to the CRACs is maintained at a certain temperature.[^23]
+> (b)     Alternatively, a return air system. This does not physically separate hot and cold air in the suites. Instead, the CRACs will supply overcooled air into the suite, with the aim of ensuring that the mixed air returning to the CRACs is maintained at a certain temperature.[^23]
 
 16     Under Arup’s designs, the Extension’s cooling was to be provided by a combination of three 1,900 kW chillers and CRAC units in an “N+1” configuration.[^24] The chillers would provide the necessary cooling while the CRACs would be used to distribute the cool air to the IT equipment in the respective suites. The individual suites were to be cooled on a supply air system. On a return air basis the cooling capacity supplied would be much less.[^25]
 
@@ -73,85 +73,85 @@ The higher the specifications, power requirements, capacity and reliability, the
 
 18     The first is Arup’s eight-page Engineering Fee Proposal (omitting Appendix A Project Programme) dated 16 September 2008 (the “Fee Proposal”), and sent to GSS by email on 17 September 2008.[^26] This contained, _inter alia_, the following:
 
-**3**      **Scope of Works**
+> **3**      **Scope of Works**
 
-…
+> …
 
-The scope of the project is to provide five floors (L3 to L7) of new raised floor space each with 800m2 net lettable area @ **1** **_kw_****/m2 for a total** **_of_** **4,000m2** with an **_overall diversity of 0.9_**. New dedicated electrical plant comprising of Transformers, **Diesel Rotary UPS (DRUPS)** – located over the loading dock on new structural steel frame work similar to the existing gensets – will be provided. Similarly, a new **chilled water system** comprising of chillers, cooling towers, buffer tanks and associated pumps will be located on the roof of the new building.
+> The scope of the project is to provide five floors (L3 to L7) of new raised floor space each with 800m2 net lettable area @ **1** **_kw_****/m2 for a total** **_of_** **4,000m2** with an **_overall diversity of 0.9_**. New dedicated electrical plant comprising of Transformers, **Diesel Rotary UPS (DRUPS)** – located over the loading dock on new structural steel frame work similar to the existing gensets – will be provided. Similarly, a new **chilled water system** comprising of chillers, cooling towers, buffer tanks and associated pumps will be located on the roof of the new building.
 
-\[emphasis added\]
+> \[emphasis added\]
 
 19     The sub-paragraphs that followed from the above, set out in greater detail the scope of works. For ease of reference, I have ascribed roman numerals to these salient sub-paragraphs:[^27]
 
-\[(i)\] Develop, review and agree the design brief to reflect the needs of Global Switch. Designs shall be based on design criteria agreed with Global Switch to suit local conditions, regulations and any restrictions imposed by the building fabric, structure and infrastructure.
+> \[(i)\] Develop, review and agree the design brief to reflect the needs of Global Switch. Designs shall be based on design criteria agreed with Global Switch to suit local conditions, regulations and any restrictions imposed by the building fabric, structure and infrastructure.
 
-\[(ii)\]    Review as-built drawings and survey the site to verify site dimensions and establish the level of existing services, in particular that the incoming electricity supplies have sufficient capacity and redundancy to meet the needs of Global Switch in this facility.
+> \[(ii)\]    Review as-built drawings and survey the site to verify site dimensions and establish the level of existing services, in particular that the incoming electricity supplies have sufficient capacity and redundancy to meet the needs of Global Switch in this facility.
 
-…
+> …
 
-\[(iii)\]    Establish and agree electrical power density requirements for cabinet/racks, numbers and power consumption of cabinets/racks.
+> \[(iii)\]    Establish and agree electrical power density requirements for cabinet/racks, numbers and power consumption of cabinets/racks.
 
-\[(iv)\]    Establish electrical capacity and cooling load requirements based on power densities and agreed spare capacity for expansion.
+> \[(iv)\]    Establish electrical capacity and cooling load requirements based on power densities and agreed spare capacity for expansion.
 
-\[(v)\] Confirm the levels of redundancy required for electrical and mechanical plant and distribution systems (N+1).
+> \[(v)\] Confirm the levels of redundancy required for electrical and mechanical plant and distribution systems (N+1).
 
-\[(vi)\]    Agree the method of cooling (chilled water, cooling tower water, refrigerant). Agree DRUPS capacities and configurations.
+> \[(vi)\]    Agree the method of cooling (chilled water, cooling tower water, refrigerant). Agree DRUPS capacities and configurations.
 
-…
+> …
 
-\[(vii)\]    Develop space plans showing locations of main plant (transformers, DRUPS, cooling, etc) for approval.
+> \[(vii)\]    Develop space plans showing locations of main plant (transformers, DRUPS, cooling, etc) for approval.
 
-\[(viii)\]    Prepare and issue tender documents for long lead items (transformers, DRUPS, chiller, cooling towers, etc).
+> \[(viii)\]    Prepare and issue tender documents for long lead items (transformers, DRUPS, chiller, cooling towers, etc).
 
-…
+> …
 
-\[(ix)\]    Assist with project budget cost estimates for the QS
+> \[(ix)\]    Assist with project budget cost estimates for the QS
 
-…
+> …
 
-\[(x)\] Prepare single line diagrams for mechanical, plumbing and electrical services.
+> \[(x)\] Prepare single line diagrams for mechanical, plumbing and electrical services.
 
-…
+> …
 
-\[(xi)\]    Prepare detailed design drawings and specifications for bidding/tendering.
+> \[(xi)\]    Prepare detailed design drawings and specifications for bidding/tendering.
 
-…
+> …
 
-\[(xii)\]    Carry out Value Engineering process if necessary
+> \[(xii)\]    Carry out Value Engineering process if necessary
 
-\[(xiii)\]    Witness testing and commissioning.
+> \[(xiii)\]    Witness testing and commissioning.
 
 20     The second is GSS’s Purchase Order dated 17 September 2008 addressed to Arup. This laconically stated that it was for Mechanical & Electrical Professional Consultation for additional and alteration works and described six aspects under the heading “Items/Services/Goods Description”:[^28]
 
-(a)    Conceptual/preliminary Design
+> (a)    Conceptual/preliminary Design
 
-(b)    Design Development
+> (b)    Design Development
 
-(c)    Contract documentation
+> (c)    Contract documentation
 
-(d)    Bidding Negotiation
+> (d)    Bidding Negotiation
 
-(e)    Construction Phase
+> (e)    Construction Phase
 
-(f)    Testing and Commissioning
+> (f)    Testing and Commissioning
 
 At the bottom of the Purchase Order, there is the notation: “Supplier quotation to be attached with purchase order upon submission”. The Purchase Order stated the agreed fee of $595,000, which was also the lump sum fee stated in the Fee Proposal.[^29]
 
 21     Arup also contends that the Contract also incorporated the “ACEA Form Contract” pursuant to paragraph 8 of the Fee Proposal, which read:[^30]
 
-**8**      **Terms of Engagement**
+> **8**      **Terms of Engagement**
 
-The above fee is based on the terms and conditions on the attached ACEA Form Contract with monthly invoices and payments on receipt.
+> The above fee is based on the terms and conditions on the attached ACEA Form Contract with monthly invoices and payments on receipt.
 
 It is not disputed that no such form was attached to the Fee Proposal. GSS denies that it has been incorporated into the Contract.
 
 22     Besides Arup, as M&E consultant, GSS’s team of consultants for the Project were:
 
-(a)     A W P Pte Ltd (“AWP”), the Project architects;
+> (a)     A W P Pte Ltd (“AWP”), the Project architects;
 
-(b)     Babtie Asia Pte Ltd (“Babtie”), the Project structural engineers;
+> (b)     Babtie Asia Pte Ltd (“Babtie”), the Project structural engineers;
 
-(c)     Turner & Townsend Pte Ltd (“T&T”), the Project quantity surveyors and GSS’s costs consultants.
+> (c)     Turner & Townsend Pte Ltd (“T&T”), the Project quantity surveyors and GSS’s costs consultants.
 
 The construction works for the Extension were awarded to Gammon Pte Ltd (“Gammon”) as the main contractor. BurnsBridge Sweett Pte Ltd (“BurnsBridge”) was GSS’s Project manager and superintending officer for the Extension.
 
@@ -175,7 +175,7 @@ The construction works for the Extension were awarded to Gammon Pte Ltd (“Gamm
 
 31     In response to GSS’s query on 28 November 2008 as to how much power GSS could actually sell to customers in the Extension, excluding diversity, Arup replied by email on the same day, stating:[^44]
 
-Without diversity, this is 2 x 1750 kVA x 0.8 pf = 2,800 kW for the 4,000 m2 of the Expansion
+> Without diversity, this is 2 x 1750 kVA x 0.8 pf = 2,800 kW for the 4,000 m2 of the Expansion
 
 GSS’s enigmatic response was: “We may have to back up in excess of 2,800 kw with only 2 UPS units (1 being faulty) … In Sydney we only allow a diversity of .9 or 1.1 whichever way you look at it, you have me concerned”.[^45] Exactly what this meant will be examined later.
 
@@ -189,13 +189,13 @@ GSS’s enigmatic response was: “We may have to back up in excess of 2,800 kw 
 
 35     A significant event then occurred on 27 January 2009 when GSS sent Arup an attachment (prepared by T&T, London) entitled the “GS Global Business Change Programme” from its parent Global Switch, calling for a full and thorough review of all their seven data centres, including Singapore, and to maximise the usage of spare power capacity (“Global Switch Directive”). It required all Global Switch data centres to carry out technical reviews of their cooling and power capacities, both in terms of the data centre’s capacities and what they were contractually bound to supply to their tenants, to think out of the box to suggest ways in which they could re-distribute any spare power capacity within their data centres so as to maximise their revenues. The objective was to maximise the usage of any spare power capacity and Global Switch envisaged that it would result in:[^48]
 
-(a)     easy wins, with no or little capital investment;
+> (a)     easy wins, with no or little capital investment;
 
-(b)     basic infrastructure changes to re-divert spare capacity; and
+> (b)     basic infrastructure changes to re-divert spare capacity; and
 
-(c)     substantial plant/infrastructure change which can be justified with an accompanied business case.
+> (c)     substantial plant/infrastructure change which can be justified with an accompanied business case.
 
-Global Switch data centres were thus required to carry out a full and thorough review to see if each data centre was set up to effectively distribute all available power and cooling to client areas. Once these technical studies were completed and each data centre knew their position (_ie_, each data centre would know the power and cooling capacity it had, the contracted amount of power and cooling capacity to the tenants and the amount of power and cooling capacity their tenants actually used), a separate commercial study was to be undertaken in conjunction with these technical findings. Global Switch was looking to deliver credible outputs for each data centre by 1 April 2009. There was a request for data centres to look at the extension building in light of possible savings due to application of “power diversity initiatives”.[^49] Various email exchanges between GSS and Arup ensued.
+> Global Switch data centres were thus required to carry out a full and thorough review to see if each data centre was set up to effectively distribute all available power and cooling to client areas. Once these technical studies were completed and each data centre knew their position (_ie_, each data centre would know the power and cooling capacity it had, the contracted amount of power and cooling capacity to the tenants and the amount of power and cooling capacity their tenants actually used), a separate commercial study was to be undertaken in conjunction with these technical findings. Global Switch was looking to deliver credible outputs for each data centre by 1 April 2009. There was a request for data centres to look at the extension building in light of possible savings due to application of “power diversity initiatives”.[^49] Various email exchanges between GSS and Arup ensued.
 
 36     On 17 February 2009, GSS issued a “Stop Work Order” to Arup (the “Stop Work Order”). GSS accept that when this Stop Work Order was issued, GSS had not secured any tenants for the extension.[^50]
 
@@ -211,9 +211,9 @@ Global Switch data centres were thus required to carry out a full and thorough r
 
 41     Arup then proceeded to implement the Revised Design. This included the use of:
 
-(a)     thirty Power Distribution Units (“PDUs” or “PDU” as the case may be), where each PDU provided a “preferred” electrical feed from one of the three DRUPS units (the “Preferred Source”) and an “alternative” electrical feed from a group of SUPS units (the “Alternative Source”); and
+> (a)     thirty Power Distribution Units (“PDUs” or “PDU” as the case may be), where each PDU provided a “preferred” electrical feed from one of the three DRUPS units (the “Preferred Source”) and an “alternative” electrical feed from a group of SUPS units (the “Alternative Source”); and
 
-(b)     Static Transfer Switches (“STSs” or “STS” as the case may be), which controlled the Preferred Source and the Alternative Source to each PDU so that during a fault or maintenance of a single DRUPS unit, the STS would transfer the electrical load of a PDU from the DRUPS unit to the SUPS system.
+> (b)     Static Transfer Switches (“STSs” or “STS” as the case may be), which controlled the Preferred Source and the Alternative Source to each PDU so that during a fault or maintenance of a single DRUPS unit, the STS would transfer the electrical load of a PDU from the DRUPS unit to the SUPS system.
 
 42     Microsoft moved into the Extension in tranches. It first occupied L3–L4 in September 2010 in phase 1 (after testing and commissioning (“T&C”) was carried out from 14–15 August 2010) and L5–L7 in subsequent phases 2 to 4. The commencement dates for phases 2, 3 and 4 were 1 January 2011, 1 July 2011 and 1 January 2012 respectively.[^58]
 
@@ -245,15 +245,15 @@ Global Switch data centres were thus required to carry out a full and thorough r
 
 52     GSS claims that it was an express or implied term of the Contract that:
 
-(a)     Arup was to ensure adequate T&C of the electrical and mechanical systems;[^62] and
+> (a)     Arup was to ensure adequate T&C of the electrical and mechanical systems;[^62] and
 
-(b)     Arup was to establish the cooling load requirement for the Extension (“the Cooling Load Requirement”) and to design a chilled water system in an “N+1” configuration to support that requirement in a way that reflected the needs of GSS.[^63]
+> (b)     Arup was to establish the cooling load requirement for the Extension (“the Cooling Load Requirement”) and to design a chilled water system in an “N+1” configuration to support that requirement in a way that reflected the needs of GSS.[^63]
 
 53     GSS also pleads that the Contract contains the following implied terms:
 
-(a)     Arup was to carry out its duties under the Contract with a standard of care, skill and/or diligence of a competent M&E engineering consultant experienced in data centre design;[^64] and
+> (a)     Arup was to carry out its duties under the Contract with a standard of care, skill and/or diligence of a competent M&E engineering consultant experienced in data centre design;[^64] and
 
-(b)     Arup was to ensure that its designs would meet the operational needs of a data centre and be fit for GSS’s intended purposes which required, among other things, that the designs permitted effective management and maintenance to support the operation of a data centre.[^65]
+> (b)     Arup was to ensure that its designs would meet the operational needs of a data centre and be fit for GSS’s intended purposes which required, among other things, that the designs permitted effective management and maintenance to support the operation of a data centre.[^65]
 
 54     Additionally, GSS avers that Arup owed it a duty of care in tort “of like content and to like effect” as the alleged duty referred to in \[53(a)\] above.[^66]
 
@@ -271,11 +271,11 @@ Global Switch data centres were thus required to carry out a full and thorough r
 
 60     In relation to T&C, GSS claims that Arup breached its duty to ensure proper T&C in the following respects:[^71]
 
-(a)     Arup failed to test the Revised Design at full load.
+> (a)     Arup failed to test the Revised Design at full load.
 
-(b)     Arup failed to ensure that the coordination of the STSs, the SUPS units and the DRUPS units were sufficiently tested.
+> (b)     Arup failed to ensure that the coordination of the STSs, the SUPS units and the DRUPS units were sufficiently tested.
 
-(c)     Arup failed to adequately advise on test scenarios that should have been conducted and/or failed to ensure that they were conducted, these being: (i) an overload test whereby a 110% load is applied to the Revised Design; (ii) testing of transfer of electrical load from the Preferred Source to the Alternative Source and vice versa under various failure conditions; (iii) step load tests; (iv) a DRUPS bypass test; and (v) DRUPS operation without the control system and demonstration of load transfers between normal, emergency and bypass.
+> (c)     Arup failed to adequately advise on test scenarios that should have been conducted and/or failed to ensure that they were conducted, these being: (i) an overload test whereby a 110% load is applied to the Revised Design; (ii) testing of transfer of electrical load from the Preferred Source to the Alternative Source and vice versa under various failure conditions; (iii) step load tests; (iv) a DRUPS bypass test; and (v) DRUPS operation without the control system and demonstration of load transfers between normal, emergency and bypass.
 
 61     At this point I pause to note that while GSS’s pleaded case was that Arup failed to perform all the above tests, one of its expert witnesses conceded during cross-examination that several of these tests (testing at full load,[^72] the overload test,[^73] and testing of DRUPS operation without the control system[^74]) would not have detected the frequency intolerance problem that GSS alleges led to the May 2013 failures. He also admitted to being unsure if the step load test would have identified the frequency intolerance though it “probably would have”.[^75] I also note that not all the tests were addressed in cross-examination[^76] or picked up fully by counsel. In any event, GSS in its closing submissions addressed only one test (the DRUPS bypass test).[^77]
 
@@ -283,49 +283,49 @@ Global Switch data centres were thus required to carry out a full and thorough r
 
 63     In breach of the contract and/or duty owed to GSS:[^78]
 
-(a)     Arup wrongly determined that the Cooling Load Requirement for the Extension was 3,760 kW, whereas it was 4,400 kW (comprising a data centre heat load of 4,000 kW, and building and equipment heat load of 400 kW).
+> (a)     Arup wrongly determined that the Cooling Load Requirement for the Extension was 3,760 kW, whereas it was 4,400 kW (comprising a data centre heat load of 4,000 kW, and building and equipment heat load of 400 kW).
 
-(b)     Arup’s design consisted of three chillers which provided cooling power of 1900 kW each, _ie_, 3,800 kW in an “N+1” configuration (rather than 4,400 kW in an “N+1” configuration).
+> (b)     Arup’s design consisted of three chillers which provided cooling power of 1900 kW each, _ie_, 3,800 kW in an “N+1” configuration (rather than 4,400 kW in an “N+1” configuration).
 
 64     GSS also claims that Arup performed its services improperly and/or negligently, thus causing various defects and faults to arise.[^79] Notably, however, GSS eventually indicated in their closing submissions – after a not insignificant time was spent at trial on some issues and despite earlier invitations by Arup to drop such claims – that it was no longer pursuing their claims of about $566,000 in relation to the failure to: [^80]
 
-(a)     provide a reasonable means of access to the DRUPS units, the wasted costs and inadequacies of the cat ladder ($30,000);
+> (a)     provide a reasonable means of access to the DRUPS units, the wasted costs and inadequacies of the cat ladder ($30,000);
 
-(b)     provide automatic start-up and restart feature linked to the Building Management System (“BMS”) ($74,000);
+> (b)     provide automatic start-up and restart feature linked to the Building Management System (“BMS”) ($74,000);
 
-(c)     use motorised isolation valves for the three cooling tower ($90,000);
+> (c)     use motorised isolation valves for the three cooling tower ($90,000);
 
-(d)     provide for an alarm paging system for the Extension’s Energy Management System, as well as a failure to ensure a proper testing and commissioning of the same ($136,000);
+> (d)     provide for an alarm paging system for the Extension’s Energy Management System, as well as a failure to ensure a proper testing and commissioning of the same ($136,000);
 
-(e)     provide remote alarms for the BMS, a failure to properly configure the BMS’s paging system, as well as failure to ensure proper testing and commissioning of the same ($86,000); and
+> (e)     provide remote alarms for the BMS, a failure to properly configure the BMS’s paging system, as well as failure to ensure proper testing and commissioning of the same ($86,000); and
 
-(f)     provide an alternative power source for the lighting system ($140,000).
+> (f)     provide an alternative power source for the lighting system ($140,000).
 
-GSS only proceeds on the claim of about $324,806 in relation to the Powerpax Chillers, which were located on the roof of the Extension. The chillers experienced faults because condensation led to moisture forming within their control circuits. GSS claims that Arup breached its duties by failing to ensure that the chillers were located at a more suitable location, or to prevent the problems associated with condensation.
+> GSS only proceeds on the claim of about $324,806 in relation to the Powerpax Chillers, which were located on the roof of the Extension. The chillers experienced faults because condensation led to moisture forming within their control circuits. GSS claims that Arup breached its duties by failing to ensure that the chillers were located at a more suitable location, or to prevent the problems associated with condensation.
 
 65     GSS avers that Arup’s alleged breaches of its duties caused GSS to suffer the following losses and damage:[^81]
 
-(a)     the cost of implementing the Revised Design ($946,000) to remedy the inadequacies in Arup’s design of the DRUPS units which (still) resulted in a shortfall in the power supplied to the IT Load Requirement, _ie_, it was ineffective and did not remedy the shortfall;
+> (a)     the cost of implementing the Revised Design ($946,000) to remedy the inadequacies in Arup’s design of the DRUPS units which (still) resulted in a shortfall in the power supplied to the IT Load Requirement, _ie_, it was ineffective and did not remedy the shortfall;
 
-(b)     the additional cost of installing the fourth DRUPS unit, which GSS would not have incurred if Arup had “provided in its design for a fourth DRUPS unit at the material time” ($2,972,994.19);
+> (b)     the additional cost of installing the fourth DRUPS unit, which GSS would not have incurred if Arup had “provided in its design for a fourth DRUPS unit at the material time” ($2,972,994.19);
 
-(c)     lost business, rental and profits which GSS would have made if the 1,400 kW of power from the Existing Facility had not been utilised as part of the Revised Design, including:
+> (c)     lost business, rental and profits which GSS would have made if the 1,400 kW of power from the Existing Facility had not been utilised as part of the Revised Design, including:
 
-(i)       loss of profits amounting to $2,904,030 due to GSS’s inability to accommodate a customer’s request in July 2011 for an additional 220 kW of electrical power on L6 of the Existing Facility (the “Pacnet Opportunity”);
+>> (i)       loss of profits amounting to $2,904,030 due to GSS’s inability to accommodate a customer’s request in July 2011 for an additional 220 kW of electrical power on L6 of the Existing Facility (the “Pacnet Opportunity”);
 
-(ii)       loss of profits amounting to $13,497,612 when GSS was unable to accommodate a customer’s request in October 2012 for an additional 1,500 W of electrical power (the “Microsoft Opportunities”);
+>> (ii)       loss of profits amounting to $13,497,612 when GSS was unable to accommodate a customer’s request in October 2012 for an additional 1,500 W of electrical power (the “Microsoft Opportunities”);
 
-(d)     costs and expenses as a result of the failure of the Revised Design ($287,324.90);
+> (d)     costs and expenses as a result of the failure of the Revised Design ($287,324.90);
 
-(e)     costs and expenses of taking measures to remedy the failure of the Revised Design ($295,630.80 as at October 2014);
+> (e)     costs and expenses of taking measures to remedy the failure of the Revised Design ($295,630.80 as at October 2014);
 
-(f)     additional costs in relation to the provision of additional cooling power ($634,680.08);
+> (f)     additional costs in relation to the provision of additional cooling power ($634,680.08);
 
-(g)     additional costs in relation to obtaining additional SBP to support the Mechanical Load Requirement ($405,000);
+> (g)     additional costs in relation to obtaining additional SBP to support the Mechanical Load Requirement ($405,000);
 
-(h)     costs in relation to the chillers on the roof of the Extension ($324,806); and
+> (h)     costs in relation to the chillers on the roof of the Extension ($324,806); and
 
-(i)     costs of conducting further T&C ($1,000,000) for latent defects which have yet to emerge due to Arup’s failure to ensure adequate T&C of the M&E system.
+> (i)     costs of conducting further T&C ($1,000,000) for latent defects which have yet to emerge due to Arup’s failure to ensure adequate T&C of the M&E system.
 
 ### Arup’s defence and counterclaim
 
@@ -333,63 +333,63 @@ GSS only proceeds on the claim of about $324,806 in relation to the Powerpax Chi
 
 66     Arup begins its defence and counterclaim with two general claims about the Contract:[^82]
 
-(a)     First, the Contract included (the terms and conditions of) the ACEA Form Contract referred to in cl 8 of the Fee Proposal.
+> (a)     First, the Contract included (the terms and conditions of) the ACEA Form Contract referred to in cl 8 of the Fee Proposal.
 
-(b)     Secondly, the Contract “envisaged a process of \[Arup\] agreeing on the design brief with \[GSS\]”, on DRUPS capacities and configurations, electrical power density requirements and levels of redundancy required for electrical and mechanical plant and distribution systems (_ie_, “N+1”). This meant their designs should have been based on criteria agreed with GSS to suit local conditions, regulations and any restrictions imposed on the building fabric, structure and infrastructure.
+> (b)     Secondly, the Contract “envisaged a process of \[Arup\] agreeing on the design brief with \[GSS\]”, on DRUPS capacities and configurations, electrical power density requirements and levels of redundancy required for electrical and mechanical plant and distribution systems (_ie_, “N+1”). This meant their designs should have been based on criteria agreed with GSS to suit local conditions, regulations and any restrictions imposed on the building fabric, structure and infrastructure.
 
 67     Arup denies that it was obliged to design an electrical system comprising DRUPS units in an “N+1” configuration which delivered 4,000 kW of NBP for the IT Load Requirement. Arup avers the following:[^83]
 
-(a)     Applying a diversity factor of 0.9 to 4,000 kW yields the figure of 3,600 kW: “\[i\]ntroducing diversity reduces the power requirement”.
+> (a)     Applying a diversity factor of 0.9 to 4,000 kW yields the figure of 3,600 kW: “\[i\]ntroducing diversity reduces the power requirement”.
 
-(b)     As the development of the design progressed, GSS did not consider the original scope of work in the Fee Proposal to be technically or commercially feasible. First, GSS expressed that it had certain cost constraints, which only allowed it to acquire a maximum of three DRUPS units for the Extension.[^84] Secondly, the physical limitations of the site restricted the amount and size of equipment and systems that could be installed. In particular, GSS required the DRUPS units to be located above the existing loading dock on a new structural steel frame, which was only able to accommodate a maximum of three DRUPS units.[^85]
+> (b)     As the development of the design progressed, GSS did not consider the original scope of work in the Fee Proposal to be technically or commercially feasible. First, GSS expressed that it had certain cost constraints, which only allowed it to acquire a maximum of three DRUPS units for the Extension.[^84] Secondly, the physical limitations of the site restricted the amount and size of equipment and systems that could be installed. In particular, GSS required the DRUPS units to be located above the existing loading dock on a new structural steel frame, which was only able to accommodate a maximum of three DRUPS units.[^85]
 
-(c)     This led Arup to issue agreed tender documents for three DRUPS units to be installed in an “N+1” configuration, which reduced the NBP from 3,600 kW to 2,800 kW. GSS was aware of this. This constituted a variation to the Fee Proposal. In particular:
+> (c)     This led Arup to issue agreed tender documents for three DRUPS units to be installed in an “N+1” configuration, which reduced the NBP from 3,600 kW to 2,800 kW. GSS was aware of this. This constituted a variation to the Fee Proposal. In particular:
 
-(i)       The tender documents were “agreed” in that GSS issued the tender and then placed an order for the three DRUPS units.[^86]
+>> (i)       The tender documents were “agreed” in that GSS issued the tender and then placed an order for the three DRUPS units.[^86]
 
-(ii)       GSS was aware that the NBP was reduced to 2,800 kW by 28 November 2008 at the latest.[^87]
+>> (ii)       GSS was aware that the NBP was reduced to 2,800 kW by 28 November 2008 at the latest.[^87]
 
-(iii)       The three DRUPS units installed could only provide 2,800 kW of NBP in an “N+1” configuration. They were the largest capacity DRUPS unit available at the material time.[^88]
+>> (iii)       The three DRUPS units installed could only provide 2,800 kW of NBP in an “N+1” configuration. They were the largest capacity DRUPS unit available at the material time.[^88]
 
 68     Arup also denies the aforementioned obligations alleged by GSS:[^89]
 
-(a)     that it was obliged to design an electrical system comprising DRUPS units in an “N+1” configuration with sufficient SBP to support the Mechanical Load Requirement;
+> (a)     that it was obliged to design an electrical system comprising DRUPS units in an “N+1” configuration with sufficient SBP to support the Mechanical Load Requirement;
 
-(b)     that it was obliged to _ensure_ proper T&C: it claims that its obligation under the Contract was only to _witness_ T&C;
+> (b)     that it was obliged to _ensure_ proper T&C: it claims that its obligation under the Contract was only to _witness_ T&C;
 
-(c)     that it was obliged to establish the Cooling Load Requirement and to design a chilled water system in an “N+1” configuration to support that requirement;
+> (c)     that it was obliged to establish the Cooling Load Requirement and to design a chilled water system in an “N+1” configuration to support that requirement;
 
-(d)     that it had a contractual or tortious duty of care (and, in the alternative, that it owed any duty of care in tort to GSS where such duty is “wider than the \[Fee Proposal\]”); and
+> (d)     that it had a contractual or tortious duty of care (and, in the alternative, that it owed any duty of care in tort to GSS where such duty is “wider than the \[Fee Proposal\]”); and
 
-(e)     that it was obliged to ensure that the electrical and mechanical systems it designed supported the operation of a data centre and was fit for their intended purposes. Arup contends that the Extension was “designed to provide for an N+1 concurrently maintainable system, in line with a Tier III Uptime Data Centre classification”.
+> (e)     that it was obliged to ensure that the electrical and mechanical systems it designed supported the operation of a data centre and was fit for their intended purposes. Arup contends that the Extension was “designed to provide for an N+1 concurrently maintainable system, in line with a Tier III Uptime Data Centre classification”.
 
 #### The alleged breaches
 
 69     In relation to NBP and the Original Design, Arup denies that it breached its duties by failing to design an electrical system comprising DRUPS units to deliver 4,000 kW of uninterruptible and continuous power for the IT Load Requirement in an “N+1” configuration. Arup avers as follows:[^90]
 
-(a)     It was GSS who selected the three EuroDiesel DRUPS units that were installed (Arup had issued preliminary documents to GSS for review, before GSS finally issued the tender to the suppliers).[^91]
+> (a)     It was GSS who selected the three EuroDiesel DRUPS units that were installed (Arup had issued preliminary documents to GSS for review, before GSS finally issued the tender to the suppliers).[^91]
 
-(b)     Its design at the end of the preliminary design stage, in consultation with GSS, provided for an “N+1” configuration comprising of two DRUPS units and one additional DRUPS unit in redundancy, and this gave 2,800 kW NBP for the IT Load.
+> (b)     Its design at the end of the preliminary design stage, in consultation with GSS, provided for an “N+1” configuration comprising of two DRUPS units and one additional DRUPS unit in redundancy, and this gave 2,800 kW NBP for the IT Load.
 
-(c)     GSS did not agree to the installation of four DRUPS units (in that GSS never decided to install four DRUPS units at the material time or communicate such an intention to Arup).[^92] To the best of Arup’s knowledge, this was due to GSS’s cost constraints and/or the space constraints of the Extension, which were discussed during a site visit by various persons involved in the Project – including Mr David Guth (“Mr Guth”), Mr Gordon Paddy (“Mr Paddy”), Mr Mark O’Brien (“Mr O’Brien”) for GSS; and Mr Peter Adcock (“Mr Adcock”) and/or Mr Jeff Burleigh (“Mr Burleigh”) for Arup – to investigate the feasibility of installing a fourth DRUPS unit.[^93]
+> (c)     GSS did not agree to the installation of four DRUPS units (in that GSS never decided to install four DRUPS units at the material time or communicate such an intention to Arup).[^92] To the best of Arup’s knowledge, this was due to GSS’s cost constraints and/or the space constraints of the Extension, which were discussed during a site visit by various persons involved in the Project – including Mr David Guth (“Mr Guth”), Mr Gordon Paddy (“Mr Paddy”), Mr Mark O’Brien (“Mr O’Brien”) for GSS; and Mr Peter Adcock (“Mr Adcock”) and/or Mr Jeff Burleigh (“Mr Burleigh”) for Arup – to investigate the feasibility of installing a fourth DRUPS unit.[^93]
 
-(d)     GSS accepted Arup’s design in full knowledge that it supplied 2,800 kW of NBP in an “N+1” configuration when GSS issued the tender for three DRUPS units;
+> (d)     GSS accepted Arup’s design in full knowledge that it supplied 2,800 kW of NBP in an “N+1” configuration when GSS issued the tender for three DRUPS units;
 
-(e)     Arup informed GSS that the two DRUPS units with one additional DRUPS unit was only a temporary solution. This solution could last as long as the SUPS system in the Existing Facility remained under-loaded; a fourth DRUPS unit would need to be installed once the load on the SUPS system increased to the point that they no longer had the capacity to support the DRUPS units.[^94]
+> (e)     Arup informed GSS that the two DRUPS units with one additional DRUPS unit was only a temporary solution. This solution could last as long as the SUPS system in the Existing Facility remained under-loaded; a fourth DRUPS unit would need to be installed once the load on the SUPS system increased to the point that they no longer had the capacity to support the DRUPS units.[^94]
 
-(f)     GSS only informed Arup in March 2010 that it required the full IT Load capacity of 1 kW/m2 for the Extension’s 4,000m2. To the best of Arup’s knowledge, this was triggered when specific negotiations with a prospective customer, Microsoft, developed around March 2010. GSS asked Arup to review the maximum available power capacity and, to the best of Arup’s knowledge, leased the entire Extension to Microsoft at the full capacity of 4,000 kW without factoring in any diversity.
+> (f)     GSS only informed Arup in March 2010 that it required the full IT Load capacity of 1 kW/m2 for the Extension’s 4,000m2. To the best of Arup’s knowledge, this was triggered when specific negotiations with a prospective customer, Microsoft, developed around March 2010. GSS asked Arup to review the maximum available power capacity and, to the best of Arup’s knowledge, leased the entire Extension to Microsoft at the full capacity of 4,000 kW without factoring in any diversity.
 
 70     In relation to NBP and the Revised Design, Arup denies that it breached any of its duties. In particular, Arup avers as follows:[^95]
 
-(a)     GSS’s request for additional electrical power (which Arup met with the Revised Design) amounted to a variation from the Fee Proposal.
+> (a)     GSS’s request for additional electrical power (which Arup met with the Revised Design) amounted to a variation from the Fee Proposal.
 
-(b)     The Revised Design was an “N+1” concurrently maintainable system, in line with a Tier III Uptime Data Centre classification. GSS was aware of the limits of the Revised Design, including its inability to cater for a vector jump or frequency shift in the power supply.
+> (b)     The Revised Design was an “N+1” concurrently maintainable system, in line with a Tier III Uptime Data Centre classification. GSS was aware of the limits of the Revised Design, including its inability to cater for a vector jump or frequency shift in the power supply.
 
-(c)     GSS is experienced and knowledgeable about the requirements for the Extension and GSS has set up other facilities where GSS has installed DRUPS units.
+> (c)     GSS is experienced and knowledgeable about the requirements for the Extension and GSS has set up other facilities where GSS has installed DRUPS units.
 
-(d)     GSS accepted the Revised Design and knew full well that it utilised spare capacity from the SUPS units in the Existing Facility and consequently, GSS’s claims for loss of profits are baseless.
+> (d)     GSS accepted the Revised Design and knew full well that it utilised spare capacity from the SUPS units in the Existing Facility and consequently, GSS’s claims for loss of profits are baseless.
 
-(e)     Arup agrees that the electrical load was transferred to the SUPS units directly when the man power supply became unstable, however, the Revised Design was not defective. Instead, the STSs that were part of the Revised Design had an intolerance issue. GSS was familiar with the specifications of the STSs as similar STSs were installed in the Existing Facility. There were also previous power disturbances in the Extension before the incidents on 2 and 18 May 2013, which would have revealed to GSS that there was a need to investigate and re-calibrate the STSs.[^96]
+> (e)     Arup agrees that the electrical load was transferred to the SUPS units directly when the man power supply became unstable, however, the Revised Design was not defective. Instead, the STSs that were part of the Revised Design had an intolerance issue. GSS was familiar with the specifications of the STSs as similar STSs were installed in the Existing Facility. There were also previous power disturbances in the Extension before the incidents on 2 and 18 May 2013, which would have revealed to GSS that there was a need to investigate and re-calibrate the STSs.[^96]
 
 71     In relation to SBP, Arup denies that it failed to design an electrical system comprising of DRUPS units in an “N+1” configuration with sufficient SBP to support the Mechanical Load Requirement. Arup agrees that each of the EuroDiesel DRUPS units provided 600 kW of SBP, such that three DRUPS units provided 1,200 kW of SBP in an “N+1” configuration. However, Arup claims that this 1,200 kW was adequate to support the Mechanical Load Requirement; Arup denies that 1,500 kW was necessary for the Mechanical Load Requirement.[^97]
 
@@ -397,9 +397,9 @@ GSS only proceeds on the claim of about $324,806 in relation to the Powerpax Chi
 
 73     In relation to the Cooling Load Requirement, Arup denies that it failed to establish the Cooling Load Requirement and to design a chilled water system in an “N+1” configuration that sufficiently supported that requirement:[^99]
 
-(a)     The Cooling Load Requirement was 3,800 kW, not 4,400 kW (comprising 3,600 kW to cool the IT Load, _ie_, 4,000 kW with a diversity factor of 0.9 and 200 kW to cool the Mechanical Load).
+> (a)     The Cooling Load Requirement was 3,800 kW, not 4,400 kW (comprising 3,600 kW to cool the IT Load, _ie_, 4,000 kW with a diversity factor of 0.9 and 200 kW to cool the Mechanical Load).
 
-(b)     Arup’s design provided for three chillers with the capacity to provide 3,800 kW of cooling capacity in an “N+1” configuration.
+> (b)     Arup’s design provided for three chillers with the capacity to provide 3,800 kW of cooling capacity in an “N+1” configuration.
 
 74     Arup also denies that it breached its duties in designing for the chillers to be located on the roof of the Extension.[^100]
 
@@ -407,11 +407,11 @@ GSS only proceeds on the claim of about $324,806 in relation to the Powerpax Chi
 
 76     Arup also raises the following defences to GSS’s claims:[^102]
 
-(a)     GSS’s claims are time-barred under the Contract and constitute an abuse of process: the “ACEA Form Contract” stipulates a limitation period of three years from the completion of the services; Arup completed its services by late 2010 at the latest; and GSS commenced this suit on 28 October 2014, more than three years after late 2010.
+> (a)     GSS’s claims are time-barred under the Contract and constitute an abuse of process: the “ACEA Form Contract” stipulates a limitation period of three years from the completion of the services; Arup completed its services by late 2010 at the latest; and GSS commenced this suit on 28 October 2014, more than three years after late 2010.
 
-(b)     The ACEA Form Contract limits its liability in any event to the sum of A$300,000.[^103]
+> (b)     The ACEA Form Contract limits its liability in any event to the sum of A$300,000.[^103]
 
-(c)     Arup is not liable for any indirect, consequential or special losses, including loss of profit, loss of business opportunity and payment of liquidated damages under any other agreement.[^104]
+> (c)     Arup is not liable for any indirect, consequential or special losses, including loss of profit, loss of business opportunity and payment of liquidated damages under any other agreement.[^104]
 
 77     Arup makes a counterclaim for $184,362. This sum allegedly remains due and owing for works Arup did on GSS’s instructions, which Arup claims amounted to variations from the Proposals. Arup makes seven variation claims corresponding to seven invoices issued by Arup, all dated 23 May 2011.[^105]
 
@@ -419,53 +419,53 @@ GSS only proceeds on the claim of about $324,806 in relation to the Powerpax Chi
 
 79     I note for completeness that Arup also pleads that:[^106]
 
-(a)     GSS’s claims are time-barred under the Limitation Act (Cap 163, 1996 Rev Ed);
+> (a)     GSS’s claims are time-barred under the Limitation Act (Cap 163, 1996 Rev Ed);
 
-(b)     the dispute-resolution clause in the ACEA Form Contract require the parties to negotiate, and then attend mediation, and this action is thus in breach of contract and should be struck out; and
+> (b)     the dispute-resolution clause in the ACEA Form Contract require the parties to negotiate, and then attend mediation, and this action is thus in breach of contract and should be struck out; and
 
-(c)     GSS failed to mitigate the damage and/or loss it is claiming.
+> (c)     GSS failed to mitigate the damage and/or loss it is claiming.
 
-However, Arup did not pursue these defences in its closing submissions. I therefore say no more about them.
+> However, Arup did not pursue these defences in its closing submissions. I therefore say no more about them.
 
 ### GSS’s reply and defence to counterclaim
 
 80     GSS denies that the “ACEA Form Contract” was incorporated into and thus part of the Contract (see \[66(a)\] above). GSS claims that the parties did not intend to incorporate the “ACEA Form Contract” into the Contract:[^107]
 
-(a)     Clause 8 of the Fee Proposal refers to an “attached ACEA Form Contract”. No such document was attached to the Fee Proposal. Further, GSS did not receive any such document at all material times.
+> (a)     Clause 8 of the Fee Proposal refers to an “attached ACEA Form Contract”. No such document was attached to the Fee Proposal. Further, GSS did not receive any such document at all material times.
 
-(b)     Clause 8 of the Fee Proposal and the phrase “ACEA Form Contract” are ambiguous: cl 8 did not state which particular version or form of the ACEA Form Contract applied.
+> (b)     Clause 8 of the Fee Proposal and the phrase “ACEA Form Contract” are ambiguous: cl 8 did not state which particular version or form of the ACEA Form Contract applied.
 
 81     In the alternative, GSS avers that only the fee aspect of the Contract was based on the terms of the “ACEA Form Contract”, and all other aspects of the contract were not based on the “ACEA Form Contact” or its terms.
 
 82     In relation to Arup’s obligations concerning NBP, GSS avers as follows:[^108]
 
-(a)     Arup was required to provide for at least 4,000 kW of NBP. GSS did not instruct Arup to apply diversity to reduce the requirement to 3,600 kW, or instruct Arup to reduce the requirement to 2,800 kW. GSS did not agree to a variation of the requirement.
+> (a)     Arup was required to provide for at least 4,000 kW of NBP. GSS did not instruct Arup to apply diversity to reduce the requirement to 3,600 kW, or instruct Arup to reduce the requirement to 2,800 kW. GSS did not agree to a variation of the requirement.
 
-(b)     Although GSS does not deny issuing the tender documents, this was because Arup did not make clear to GSS that the three EuroDiesel DRUPS units could only provide 2,800 kW of NBP in an “N+1” configuration. GSS was not aware that Arup had “unilaterally reduced” the power requirement until around 23 February 2010.
+> (b)     Although GSS does not deny issuing the tender documents, this was because Arup did not make clear to GSS that the three EuroDiesel DRUPS units could only provide 2,800 kW of NBP in an “N+1” configuration. GSS was not aware that Arup had “unilaterally reduced” the power requirement until around 23 February 2010.
 
-(c)     Arup failed to advise GSS on alternative means of configuring the DRUPS system that would have satisfied the NBP requirement, including installing four EuroDiesel DRUPS units, using three DRUPS units from other suppliers, and altering the three EuroDiesel DRUPS units to increase their NBP. In this regard, GSS also avers that there was sufficient space in the Extension for a fourth DRUPS unit and in fact, GSS subsequently installed a fourth DRUPS unit in the Extension.
+> (c)     Arup failed to advise GSS on alternative means of configuring the DRUPS system that would have satisfied the NBP requirement, including installing four EuroDiesel DRUPS units, using three DRUPS units from other suppliers, and altering the three EuroDiesel DRUPS units to increase their NBP. In this regard, GSS also avers that there was sufficient space in the Extension for a fourth DRUPS unit and in fact, GSS subsequently installed a fourth DRUPS unit in the Extension.
 
-(d)     Even if the Contract required Arup to design an electrical system providing 3,600 kW of NBP in an “N+1” configuration, Arup still breached the Contract because Arup’s design could only provide NBP at 2,800 kW in an “N+1” configuration.[^109]
+> (d)     Even if the Contract required Arup to design an electrical system providing 3,600 kW of NBP in an “N+1” configuration, Arup still breached the Contract because Arup’s design could only provide NBP at 2,800 kW in an “N+1” configuration.[^109]
 
 83     In relation to Arup’s obligations concerning T&C, GSS contends that Arup’s obligation to witness T&C involved witnessing all of the stages of T&C and providing full and proper advice or recommendations to GSS regarding the adequacy and suitability of the T&C.[^110]
 
 84     In relation to Arup’s breaches concerning NBP and the Original Design, GSS avers as follows:[^111]
 
-(a)     Arup did not adequately advise GSS that the three EuroDiesel DRUPS units could only provide 2,800 kW of NBP in an “N+1” configuration. Consequently, GSS did not initially install four DRUPS units in the Extension.
+> (a)     Arup did not adequately advise GSS that the three EuroDiesel DRUPS units could only provide 2,800 kW of NBP in an “N+1” configuration. Consequently, GSS did not initially install four DRUPS units in the Extension.
 
-(b)     There was no variation of the Contract, because Arup was always obliged to provide 4,000 kW of NBP under the Contract.
+> (b)     There was no variation of the Contract, because Arup was always obliged to provide 4,000 kW of NBP under the Contract.
 
 85     In relation to Arup’s breaches concerning NBP and the Revised Design, GSS avers as follows:[^112]
 
-(a)     The Revised Design did not constitute a variation to the Contract – Arup was obliged to rectify the power shortfall of the Original Design and proposed the Revised Design to this end.
+> (a)     The Revised Design did not constitute a variation to the Contract – Arup was obliged to rectify the power shortfall of the Original Design and proposed the Revised Design to this end.
 
-(b)     GSS required the Revised Design to have “N+1” redundancy, be concurrently maintainable, and have a degree of fault tolerance.[^113] The Extension was designed to achieve a standard equivalent to Tier III of the Uptime Institute’s standards, with certain enhancements, though formal certification by the Uptime Institute was not necessary.[^114]
+> (b)     GSS required the Revised Design to have “N+1” redundancy, be concurrently maintainable, and have a degree of fault tolerance.[^113] The Extension was designed to achieve a standard equivalent to Tier III of the Uptime Institute’s standards, with certain enhancements, though formal certification by the Uptime Institute was not necessary.[^114]
 
-(c)     Arup failed to set out all the risk and limits of its Revised Design, and advise GSS adequately regarding such risks and limits.
+> (c)     Arup failed to set out all the risk and limits of its Revised Design, and advise GSS adequately regarding such risks and limits.
 
-(d)     GSS had no choice but to accept the Revised Design, because it had negotiated with Microsoft on the basis that the Extension was able to provide 4,000 kW of NBP, and there was no alternative solution in the timeframe available but the Revised Design.
+> (d)     GSS had no choice but to accept the Revised Design, because it had negotiated with Microsoft on the basis that the Extension was able to provide 4,000 kW of NBP, and there was no alternative solution in the timeframe available but the Revised Design.
 
-(e)     GSS was not aware that the STSs were not properly calibrated or configured until after the incidents on 2 May 2013 and 18 May 2013.
+> (e)     GSS was not aware that the STSs were not properly calibrated or configured until after the incidents on 2 May 2013 and 18 May 2013.
 
 86     In relation to Arup’s defences of time-bar and limitation of liability, GSS contends that the “ACEA Form Contract” or the relevant clauses therein were not incorporated into the Contract.[^115] In relation to the time-bar defence, GSS also contends that the time-bar clause is unreasonable and thus unenforceable and, in any event, GSS’s claims are not time-barred under that clause.
 
@@ -477,15 +477,15 @@ However, Arup did not pursue these defences in its closing submissions. I theref
 
 90     In relation to Arup’s counterclaims, GSS contends that:[^120]
 
-(a)     some of the works Arup is claiming for fell within the scope of the Contract;
+> (a)     some of the works Arup is claiming for fell within the scope of the Contract;
 
-(b)     some of the works were necessitated or arose out of Arup’s negligence and/or breach of the Contract;
+> (b)     some of the works were necessitated or arose out of Arup’s negligence and/or breach of the Contract;
 
-(c)     it is an express or implied term of the Contract that:
+> (c)     it is an express or implied term of the Contract that:
 
-(i)       Arup is not entitled to any additional fee if the scope of works was not significantly altered; and
+>> (i)       Arup is not entitled to any additional fee if the scope of works was not significantly altered; and
 
-(ii)       Arup is not entitled to any additional fee if the significant changes in the scope of work (if any) was not brought to GSS’s attention before any additional work was commenced upon.
+>> (ii)       Arup is not entitled to any additional fee if the significant changes in the scope of work (if any) was not brought to GSS’s attention before any additional work was commenced upon.
 
 91     GSS thus contends that Arup is not entitled to payment in respect of its counterclaims.**[^121]** Alternatively, even if GSS were liable to Arup for all or part of the sums claimed, GSS would seek to set off these sums against sums that it may be awarded for its own claims.**[^122]**
 
@@ -493,73 +493,73 @@ However, Arup did not pursue these defences in its closing submissions. I theref
 
 92     GSS called five witnesses of fact:
 
-(a)     Mr Peter Turvey (“Mr Turvey”), previously Managing Director of Global Switch Australia Pty Limited for 3½ years before joining GSS as Managing Director on 15 January 2011; “on technical matters and for the day-to-day operation of the data centre, \[he is\] advised by a small group of Global Switch managers in Singapore and from the Regional Headquarters in Sydney, who in turn are advised by a team of Original Equipment Manufacturers … and specialist consultants”. He has a degree in economics and politics and career qualifications in marketing and general management;[^123]
+> (a)     Mr Peter Turvey (“Mr Turvey”), previously Managing Director of Global Switch Australia Pty Limited for 3½ years before joining GSS as Managing Director on 15 January 2011; “on technical matters and for the day-to-day operation of the data centre, \[he is\] advised by a small group of Global Switch managers in Singapore and from the Regional Headquarters in Sydney, who in turn are advised by a team of Original Equipment Manufacturers … and specialist consultants”. He has a degree in economics and politics and career qualifications in marketing and general management;[^123]
 
-(b)     Mr Guth, who was, at the material time, from July 2007 to December 2010, GSS’s Property Development Manager (Asia Pacific) and is presently Regional Projects Director (Asia Pacific). He trained as a construction manager, holds a Bachelor of Building and Construction Management degree from the University of New South Wales and has more than ten years of experience in the field of property development. He joined GSS in July 2007 and it was at GSS that he was first exposed to the workings of a data centre; as Property Development Manager (Asia Pacific), he claims that he had a “very limited role in the design of the M&E system”;[^124]
+> (b)     Mr Guth, who was, at the material time, from July 2007 to December 2010, GSS’s Property Development Manager (Asia Pacific) and is presently Regional Projects Director (Asia Pacific). He trained as a construction manager, holds a Bachelor of Building and Construction Management degree from the University of New South Wales and has more than ten years of experience in the field of property development. He joined GSS in July 2007 and it was at GSS that he was first exposed to the workings of a data centre; as Property Development Manager (Asia Pacific), he claims that he had a “very limited role in the design of the M&E system”;[^124]
 
-(c)     Mr Paddy, currently the Data Centre Advisory Specialist of NEXTDC Limited, a publicly-listed company in Australia, who was at all material times GSS’s Technical Director (Asia Pacific) and whose role included managing external professional engineers engaged by GSS for various projects. He is an electrician by trade and manages professional engineers in his work; he “came up with design briefs which stated the requirements of the organisations \[he\] worked for and liaised with the professional engineers accordingly”,[^125] but he does not involve himself in the actual engineering designs and calculations. He has been involved in data centre development and has worked with numerous professional engineers;[^126]
+> (c)     Mr Paddy, currently the Data Centre Advisory Specialist of NEXTDC Limited, a publicly-listed company in Australia, who was at all material times GSS’s Technical Director (Asia Pacific) and whose role included managing external professional engineers engaged by GSS for various projects. He is an electrician by trade and manages professional engineers in his work; he “came up with design briefs which stated the requirements of the organisations \[he\] worked for and liaised with the professional engineers accordingly”,[^125] but he does not involve himself in the actual engineering designs and calculations. He has been involved in data centre development and has worked with numerous professional engineers;[^126]
 
-(d)     Mr Simon Jack Hamer (“Mr Hamer”), a Senior Engineer with GSS, who was originally seconded to GSS from the Swett Group on 20 May 2013 and joined GSS on 1 December 2013; he oversees the technical issues from the day-to-day operations and reports to the Regional Technical Director, Chris Heffernan who is based in Sydney, Australia. He completed an apprenticeship in control and instrumentation of critical systems and spent 31 years in designing, managing and troubleshooting engineering systems in various industries including water, oil and gas, road, rail and data centres; he first worked on data centres when he joined Commtech Asia Pte Ltd (around 2010, _ie_, 6 years from the date of his AEIC), as a Senior Commissioning Manager, where he was tasked with managing and executing the testing and commissioning of critical equipment used in data centres;[^127]
+> (d)     Mr Simon Jack Hamer (“Mr Hamer”), a Senior Engineer with GSS, who was originally seconded to GSS from the Swett Group on 20 May 2013 and joined GSS on 1 December 2013; he oversees the technical issues from the day-to-day operations and reports to the Regional Technical Director, Chris Heffernan who is based in Sydney, Australia. He completed an apprenticeship in control and instrumentation of critical systems and spent 31 years in designing, managing and troubleshooting engineering systems in various industries including water, oil and gas, road, rail and data centres; he first worked on data centres when he joined Commtech Asia Pte Ltd (around 2010, _ie_, 6 years from the date of his AEIC), as a Senior Commissioning Manager, where he was tasked with managing and executing the testing and commissioning of critical equipment used in data centres;[^127]
 
-(e)     Mr Lim Kian Khiam (“Mr Lim”), a Senior Cost Manager with T&T (GSS’s costs consultants for the Project). He was involved (amongst other projects for GSS), in the Project from about July 2008 right through to the installation of the fourth DRUPS unit;
+> (e)     Mr Lim Kian Khiam (“Mr Lim”), a Senior Cost Manager with T&T (GSS’s costs consultants for the Project). He was involved (amongst other projects for GSS), in the Project from about July 2008 right through to the installation of the fourth DRUPS unit;
 
 and three expert witnesses:
 
-(f)     Mr Edward Michael John Ansett (“Mr Ansett”), a technical expert. He is a Chartered Engineer, FEANI registered European Engineer, a Fellow of the Institution of Engineering and Technology who holds an honours degree in Electronics Engineering from the University of the West of England, UK. He states that he has worked as an electrical engineer in the construction industry and the past 19 years of his career has been focused on data centre consultant engineering; he states he has extensive knowledge and expertise in data centre power systems design, testing and failure analysis and has designed or had technical oversight of numerous data centre projects in Europe and Singapore;
+> (f)     Mr Edward Michael John Ansett (“Mr Ansett”), a technical expert. He is a Chartered Engineer, FEANI registered European Engineer, a Fellow of the Institution of Engineering and Technology who holds an honours degree in Electronics Engineering from the University of the West of England, UK. He states that he has worked as an electrical engineer in the construction industry and the past 19 years of his career has been focused on data centre consultant engineering; he states he has extensive knowledge and expertise in data centre power systems design, testing and failure analysis and has designed or had technical oversight of numerous data centre projects in Europe and Singapore;
 
-(g)     Mr Gavin Francis Moore (“Mr Moore”), a quantum expert. He is the regional director of Faithful + Gould Pte Ltd. He reviewed the documents in support of GSS’s quantum of their claims, collected and prepared the necessary cost data, collated the project information relevant to GSS’s quantum claims and put up a joint experts’ report with Mr Colin Wauchope Fox (“Mr Fox”); and
+> (g)     Mr Gavin Francis Moore (“Mr Moore”), a quantum expert. He is the regional director of Faithful + Gould Pte Ltd. He reviewed the documents in support of GSS’s quantum of their claims, collected and prepared the necessary cost data, collated the project information relevant to GSS’s quantum claims and put up a joint experts’ report with Mr Colin Wauchope Fox (“Mr Fox”); and
 
-(h)     Mr Fox, a quantum expert. He is a director of Tracey Brunstrom and Hammond Pty Ltd. He reviewed the various claims made by GSS, reviewed documents in support of GSS’s claims, and reviewed the cost data and project information relevant to the quantum claims and the costs incurred/to be incurred and whether they were reasonable in the circumstances.
+> (h)     Mr Fox, a quantum expert. He is a director of Tracey Brunstrom and Hammond Pty Ltd. He reviewed the various claims made by GSS, reviewed documents in support of GSS’s claims, and reviewed the cost data and project information relevant to the quantum claims and the costs incurred/to be incurred and whether they were reasonable in the circumstances.
 
 93     Arup called three witnesses of fact:
 
-(a)     Mr Adcock, a Chartered Professional Electrical Engineer in Australia, who holds a Master’s Degree in Building Services Engineering; a witness by subpoena who was employed by Arup from 2 November 2005 to 17 May 2012. He held the position of a Senior Associate from 1 December 2008 to 17 May 2012. He was based in Melbourne. He is currently Vice-President of Design and Construction, Asia Pacific in Digital Realty, responsible for overseeing design and construction of all Digital Realty’s projects in the Asia Pacific, including Singapore, Australia, Hong Kong and Japan;
+> (a)     Mr Adcock, a Chartered Professional Electrical Engineer in Australia, who holds a Master’s Degree in Building Services Engineering; a witness by subpoena who was employed by Arup from 2 November 2005 to 17 May 2012. He held the position of a Senior Associate from 1 December 2008 to 17 May 2012. He was based in Melbourne. He is currently Vice-President of Design and Construction, Asia Pacific in Digital Realty, responsible for overseeing design and construction of all Digital Realty’s projects in the Asia Pacific, including Singapore, Australia, Hong Kong and Japan;
 
-(b)     Mr Kenneth Ma (“Mr Ma”), a Chartered Professional Electrical Engineer, who holds a First Class Honours Bachelor degree in Building Services Engineering and a Master of Science in Environmental Engineering. He is member of the Institute of Engineers Australia, Chartered Institution of Building Services Engineers and Institution of Mechanical Engineers and American Society of Heating, Refrigerating and Air-Conditioning Engineers; he joined Arup in October 1990, transferred to Arup’s Sydney office in 1996 and is presently an Associate Mechanical Engineer responsible for designing a variety of types of buildings in Europe, Australia and Asia. Mr Ma was involved in various fit-out, replacement and upgrading works for GSS in its Existing Facility since 2003;
+> (b)     Mr Kenneth Ma (“Mr Ma”), a Chartered Professional Electrical Engineer, who holds a First Class Honours Bachelor degree in Building Services Engineering and a Master of Science in Environmental Engineering. He is member of the Institute of Engineers Australia, Chartered Institution of Building Services Engineers and Institution of Mechanical Engineers and American Society of Heating, Refrigerating and Air-Conditioning Engineers; he joined Arup in October 1990, transferred to Arup’s Sydney office in 1996 and is presently an Associate Mechanical Engineer responsible for designing a variety of types of buildings in Europe, Australia and Asia. Mr Ma was involved in various fit-out, replacement and upgrading works for GSS in its Existing Facility since 2003;
 
-(c)     Mr David Martin (“Mr Martin”), a Principal in Arup, presently holding the position of Regional Science and Industry Business Leader, leading the electrical engineering team in Arup’s Sydney office, who also manages a multi-disciplinary group that specialises in technology-based projects, including data centres; he joined Arup in September 2010 as an Associate, and became Arup’s technical point of contact for this project with GSS in April 2013;
+> (c)     Mr David Martin (“Mr Martin”), a Principal in Arup, presently holding the position of Regional Science and Industry Business Leader, leading the electrical engineering team in Arup’s Sydney office, who also manages a multi-disciplinary group that specialises in technology-based projects, including data centres; he joined Arup in September 2010 as an Associate, and became Arup’s technical point of contact for this project with GSS in April 2013;
 
 and three expert witnesses:
 
-(d)     Mr Rowan Peck (“Mr Peck”), a technical expert. He is a director of Mission Critical Systems Pty Ltd, a privately owned consulting company operating in Australia, who has over 25 years of experience as a consulting electrical engineer, specialising in power systems and critical facilities of data centres, their power and cooling systems; his experience also covers strategic planning, peer review, power quality, design, construction, and commissioning of mission critical space. Mr Peck is also an Uptime Institute Accredited Tier Designer;[^128]
+> (d)     Mr Rowan Peck (“Mr Peck”), a technical expert. He is a director of Mission Critical Systems Pty Ltd, a privately owned consulting company operating in Australia, who has over 25 years of experience as a consulting electrical engineer, specialising in power systems and critical facilities of data centres, their power and cooling systems; his experience also covers strategic planning, peer review, power quality, design, construction, and commissioning of mission critical space. Mr Peck is also an Uptime Institute Accredited Tier Designer;[^128]
 
-(e)     Mr Paul Skinner (“Mr Skinner”), a quantum expert. He is a director at Rider Levett Bucknall NSW Pty Ltd (“RLB”). He has extensive experience and expertise in quantity surveying; he has been involved in various cost management projects and is also an Associate Member of the Australian Institute of Quantity Surveyors;[^129] and
+> (e)     Mr Paul Skinner (“Mr Skinner”), a quantum expert. He is a director at Rider Levett Bucknall NSW Pty Ltd (“RLB”). He has extensive experience and expertise in quantity surveying; he has been involved in various cost management projects and is also an Associate Member of the Australian Institute of Quantity Surveyors;[^129] and
 
-(f)     Mr Greg Nowak (“Mr Nowak”), a quantum expert. He is a senior associate at RLB with extensive experience and expertise in cost-planning, controlling and contract services for major projects concerning building engineering installations; he is also a member of the Institute of Engineers Australia and AACE International.[^130]
+> (f)     Mr Greg Nowak (“Mr Nowak”), a quantum expert. He is a senior associate at RLB with extensive experience and expertise in cost-planning, controlling and contract services for major projects concerning building engineering installations; he is also a member of the Institute of Engineers Australia and AACE International.[^130]
 
 94     Generally, I found that the parties’ factual witnesses were by and large honest witnesses who tried to recall, to the best of their respective abilities, events that occurred many years ago (in 2008–2010). I will comment on their evidence individually at appropriate junctures and whether or not I accept their evidence on a point and the reasons for doing so, especially where their loyalties to their respective organisations overrode their objectivity and the objective evidence. However, I must mention my findings on three important witnesses, Mr Paddy, Mr Turvey, and Mr Adcock. I note that Mr Paddy and Mr Adcock, were no longer employed by GSS and Arup respectively by the time they deposed their AEICs and gave evidence on the stand. Both Mr Paddy and Mr Adcock were upfront about not being able to recall certain details due to the passage of time. Further, they were generally not hesitant to admit that their recollections might be wrong when they were shown documents which contradicted their versions of events. However:
 
-(a)     Mr Paddy sometimes took positions in his evidence that were indefensible. I therefore do not accept all that he says and I make reference to these instances in the sections below. Many of these instances unfortunately relate to fairly crucial points; to take just one example (and I must say there are more than one), he was forced to admit in going through document after document, that he saw the figures of NBP from the DRUPS units under consideration at 1,400 kW NBP per unit, right from end June 2008 into the first quarter of 2010. He was naturally inclined to say what he could that would protect GSS’s position.
+> (a)     Mr Paddy sometimes took positions in his evidence that were indefensible. I therefore do not accept all that he says and I make reference to these instances in the sections below. Many of these instances unfortunately relate to fairly crucial points; to take just one example (and I must say there are more than one), he was forced to admit in going through document after document, that he saw the figures of NBP from the DRUPS units under consideration at 1,400 kW NBP per unit, right from end June 2008 into the first quarter of 2010. He was naturally inclined to say what he could that would protect GSS’s position.
 
-(b)     Mr Turvey at times refused to accept that his evidence was contradicted by contemporaneous documents, for example, despite the emails within his own organisation showing the application of a diversity factor by multiplication, continued to insist it should be applied by division. For someone in his position and with his intelligence to do so considerably damages his credibility. I therefore found his evidence less reliable in quite a few respects.
+> (b)     Mr Turvey at times refused to accept that his evidence was contradicted by contemporaneous documents, for example, despite the emails within his own organisation showing the application of a diversity factor by multiplication, continued to insist it should be applied by division. For someone in his position and with his intelligence to do so considerably damages his credibility. I therefore found his evidence less reliable in quite a few respects.
 
 95     I derived assistance from the evidence of both technical experts (_ie_, Mr Ansett and Mr Peck). They were both willing and able to reach a consensus on various technical issues where they could. To varying degrees between them, they were also open to changing their views when shown to be wrong, admitting to mistakes in their calculations, or accepting qualifications to their theories. Where their evidence differed, I generally preferred the evidence of Mr Peck, whom I found more practical and whose evidence was backed up by close reasoning and a credible basis; he was also more objective and non-partisan, for example:
 
-(a)     accepting candidly that Arup providing 2,800 kW as against the figure of 3,600 kW was a “big difference”;[^131]
+> (a)     accepting candidly that Arup providing 2,800 kW as against the figure of 3,600 kW was a “big difference”;[^131]
 
-(b)     acknowledging that Arup “got the numbers wrong from time to time” and should have brought the fact that the DRUPS units could only provide 2,800 kW to GSS’s attention “more emphatically”;[^132] and
+> (b)     acknowledging that Arup “got the numbers wrong from time to time” and should have brought the fact that the DRUPS units could only provide 2,800 kW to GSS’s attention “more emphatically”;[^132] and
 
-(c)     openly accepting that the Piller DRUPS unit was indeed available and could have met the requirement of 3,600 kW NBP[^133] (although, as we shall see, the problem with the Piller DRUPS unit was that it did not have SBP and that would have required routing SBP from the Existing Facility).
+> (c)     openly accepting that the Piller DRUPS unit was indeed available and could have met the requirement of 3,600 kW NBP[^133] (although, as we shall see, the problem with the Piller DRUPS unit was that it did not have SBP and that would have required routing SBP from the Existing Facility).
 
 As we shall see, Mr Ansett on the other hand, was not quite as objective as an expert witness should be, straying at times into advocating for his clients, by:
 
-(d)     proffering, at times, theoretical evidence that was not necessarily backed by practice and when challenged, accepting that he had never tried a particular solution put forward by him;[^134]
+> (d)     proffering, at times, theoretical evidence that was not necessarily backed by practice and when challenged, accepting that he had never tried a particular solution put forward by him;[^134]
 
-(e)     showing partiality, for example, when giving evidence on the diversity factor, insisted that it is never applied to a data centre[^135] and if it was ever to be applied, it would be retrospectively, based on a track record of actual usage;[^136] even when he was showed clear evidence of GSS intention to apply a diversity factor, he gave a rather contrived explanation that they were merely “observing” a diversity factor and had no intention to actually apply it;[^137]
+> (e)     showing partiality, for example, when giving evidence on the diversity factor, insisted that it is never applied to a data centre[^135] and if it was ever to be applied, it would be retrospectively, based on a track record of actual usage;[^136] even when he was showed clear evidence of GSS intention to apply a diversity factor, he gave a rather contrived explanation that they were merely “observing” a diversity factor and had no intention to actually apply it;[^137]
 
-(f)     going beyond the question put to him (when Mr Paddy had referred to “1.1”), by volunteering the view that this showed a problem with Mr Paddy’s understanding of the diversity factor and suggesting that Arup had not adequately advised GSS;[^138] and
+> (f)     going beyond the question put to him (when Mr Paddy had referred to “1.1”), by volunteering the view that this showed a problem with Mr Paddy’s understanding of the diversity factor and suggesting that Arup had not adequately advised GSS;[^138] and
 
-(g)     ignoring the many emails between Arup and GSS which stated the NBP provided by the two DRUPS units as the “N” was 2,800 kW, and claiming that there was “a profound duty of care in this case for the consulting engineer to shout from the rooftop \[the fact that 3,600 kW could not be achieved\]”.[^139]
+> (g)     ignoring the many emails between Arup and GSS which stated the NBP provided by the two DRUPS units as the “N” was 2,800 kW, and claiming that there was “a profound duty of care in this case for the consulting engineer to shout from the rooftop \[the fact that 3,600 kW could not be achieved\]”.[^139]
 
 96     I should also briefly mention that I found the evidence of GSS’s quantum experts to be wanting in some regards. In particular, CTBH appears to have failed to verify various claims against the actual work that had to be done. For example:
 
-(a)     it had wrongly assumed that the fourth DRUPS unit could have been installed at the same location as the original three DRUPS units back in 2009 when the fourth DRUPS unit actually had to be placed in a different location;[^140]
+> (a)     it had wrongly assumed that the fourth DRUPS unit could have been installed at the same location as the original three DRUPS units back in 2009 when the fourth DRUPS unit actually had to be placed in a different location;[^140]
 
-(b)     it had misinterpreted the information provided by GSS as to the need for a new main switchboard,[^141] thereby certifying a quantum of cost that was higher than necessary;
+> (b)     it had misinterpreted the information provided by GSS as to the need for a new main switchboard,[^141] thereby certifying a quantum of cost that was higher than necessary;
 
-(c)     it had wrongly assumed that the manual isolation valves for the cooling towers had been wrongly designed by Arup, thereby attributing losses for that item to Arup;[^142] and
+> (c)     it had wrongly assumed that the manual isolation valves for the cooling towers had been wrongly designed by Arup, thereby attributing losses for that item to Arup;[^142] and
 
-(d)     it had wrongly benchmarked the cost of further piecemeal testing of the T&C of the entire Extension to the cost of T&C following a fit-out, which Mr Moore accepted was not a like for like comparison.[^143]
+> (d)     it had wrongly benchmarked the cost of further piecemeal testing of the T&C of the entire Extension to the cost of T&C following a fit-out, which Mr Moore accepted was not a like for like comparison.[^143]
 
 Nevertheless, these deficiencies made little difference to the eventual outcome of the case since almost all of GSS’s claims against Arup have been dismissed or withdrawn.
 
@@ -571,31 +571,31 @@ Nevertheless, these deficiencies made little difference to the eventual outcome 
 
 98     I first deal with Arup’s claim that the terms and conditions of the ACEA Form Contract were incorporated into the Contract and that on this basis:
 
-(a)     GSS’s claims are time-barred under clause 8(c) of the ACEA Form of Contract which stipulates a contractual time bar of three years from the completion of Arup’s services under the Contract. Arup alleges it had completed all the services it was engaged to do by 15 or 16 August 2010 and GSS had only issued its Writ on 28 October 2014;[^144] and
+> (a)     GSS’s claims are time-barred under clause 8(c) of the ACEA Form of Contract which stipulates a contractual time bar of three years from the completion of Arup’s services under the Contract. Arup alleges it had completed all the services it was engaged to do by 15 or 16 August 2010 and GSS had only issued its Writ on 28 October 2014;[^144] and
 
-(b)     Arup is entitled to claim a limitation of liability of A$300,000 to GSS’s claims.
+> (b)     Arup is entitled to claim a limitation of liability of A$300,000 to GSS’s claims.
 
 As noted above, Arup has dropped its claim that the dispute procedure in the ACEA Form was not adhered to.
 
 99     Clause 8 of the ACEA Short Form of Contract reads as follows:[^145]
 
-8    To the maximum extent permitted by law:
+> 8    To the maximum extent permitted by law:
 
-(a)    subject to paragraphs (b), (c) and (d) below, the Consultant’s liability to the Client arising out of or in connection with this Agreement (including the performance or non-performance of the Services), whether under the law of contract, in tort, in equity, under statute or otherwise, shall be limited in aggregate to the amount specified in the accompanying letter or $300,000, if no amount is stated in the letter.
+> (a)    subject to paragraphs (b), (c) and (d) below, the Consultant’s liability to the Client arising out of or in connection with this Agreement (including the performance or non-performance of the Services), whether under the law of contract, in tort, in equity, under statute or otherwise, shall be limited in aggregate to the amount specified in the accompanying letter or $300,000, if no amount is stated in the letter.
 
-(b)    the Consultant is not liable to the Client in respect of any indirect, consequential or special losses (including loss of profit, loss of business opportunity and payment of liquidated sums or damages under any other agreement);
+> (b)    the Consultant is not liable to the Client in respect of any indirect, consequential or special losses (including loss of profit, loss of business opportunity and payment of liquidated sums or damages under any other agreement);
 
-(c)    the Consultant shall be deemed to have been discharged from all liability in respect of the Services whether under contract, in tort, in equity, under statute or otherwise, at the expiration of the period specified in the accompanying letter, or if no date is specified, on the expiration of 3 years from the completion of the Services”
+> (c)    the Consultant shall be deemed to have been discharged from all liability in respect of the Services whether under contract, in tort, in equity, under statute or otherwise, at the expiration of the period specified in the accompanying letter, or if no date is specified, on the expiration of 3 years from the completion of the Services”
 
 100    Arup submits that it was the ACEA _Short_ Form of Contract that was incorporated into the Contract. Mr Adcock deposes in his AEIC that the word “Short” was inadvertently omitted from para 8 of the Fee Proposal.[^146] I note that in its Defence and Counterclaim, Arup pleads that its Fee Proposal was based on the terms and conditions of the “ACEA Form of Contract” and it constituted part of the contract between the parties. Arup also did not plead that the word “Short” was inadvertently omitted from para 8 of its Fee Proposal.
 
 101    Arup submits[^147] that while it had omitted to include the word “Short” in its Fee Proposal, it did specify the ACEA Short Form Contract in three previous proposals for work done at the Existing Facility, all of which contain the following clause:[^148]
 
-8    Terms of Engagement
+> 8    Terms of Engagement
 
-The above fee is based on the terms and conditions on the attached ACEA _Short_ Form Contract with monthly invoices … and payments on receipt.
+> The above fee is based on the terms and conditions on the attached ACEA _Short_ Form Contract with monthly invoices … and payments on receipt.
 
-\[emphasis added\]
+> \[emphasis added\]
 
 102    Mr Paddy admits that he had seen the above clause in three other GSS contracts with Arup for works at L4 and L7 of the Existing Facility and a contract for works at L7, Suite G1 of the Existing Facility.[^149] Mr Adcock also deposed in his AEIC that it was Arup’s standard practice to incorporate the ACEA Short Form of Contract as the terms of engagement of its fee proposals and other contractual documents.[^150] Thus, Arup submits that it was clear that parties intended to incorporate the ACEA Short Form of Contract.
 
@@ -625,9 +625,9 @@ The above fee is based on the terms and conditions on the attached ACEA _Short_ 
 
 114    GSS contends that Arup not only owes it an implied duty of care at law in contract (relying on _Go Dante Yap v Bank of Austria Creditanstalt AG_ <span class="citation">\[2011\] 4 SLR 559</span> (“_Go Dante Yap_”)), but also a duty of care in tort. The parties have pleaded and framed this in their Agreed Issues as:
 
-(a)     whether Arup owed GSS any concurrent duty of care in tort; and
+> (a)     whether Arup owed GSS any concurrent duty of care in tort; and
 
-(b)     if so, what was the scope of such duty?
+> (b)     if so, what was the scope of such duty?
 
 115    GSS submits that Arup has an implied duty of care in contract and a “co-extensive” duty in tort to carry out its express duties under the Contract with the standard of care, skill and diligence expected of a reasonably competent and skilled M&E consultant experienced in designing data centres as this was what Arup held itself out to be.[^153] While Arup denies in its Defence and Counterclaim that it owes a concurrent duty of care in tort,[^154] it did not pursue this point in its closing submissions. Notably, Arup accepts in its closing submissions that it owes Arup a duty in _contract_ to exercise reasonable care and skill which can be expected of an ordinarily competent M&E consultant.[^155] In Arup’s Defence and Counterclaim, it pleads in the alternative that it does not owe a duty of care which is wider than what was in the Fee Proposal.
 
@@ -649,11 +649,11 @@ The above fee is based on the terms and conditions on the attached ACEA _Short_ 
 
 123    First, the passage in _Keating_ focuses on the implied obligation of _contractors_, and is silent on whether this implied obligation extends to designers or M&E consultants. In this regard, I note that there is a general reluctance to extend that same implied obligation to professionals generally (see _George Hawkins v Chrysler (UK) and Burne Associates_ (1986) 38 BLR 36 (“_George Hawkins_”); _Platform Funding Ltd v Bank of Scotland plc (formerly Halifax plc)_ <span class="citation">\[2009\] QB 426</span> at \[16\]-\[19\], \[30\], and \[48\]). As the authors of _Jackson & Powell_ note (at para 9-124):
 
-There will be _no absolute answer_ as to whether one who _designs but does not supply an article or build a structure_ is under a duty to ensure that it is reasonably fit for its intended purpose, but such a duty will not be implied by law. It will therefore arise either on a true construction of the parties’ agreement or as an implication from the common intention of the parties. \[emphasis added\]
+> There will be _no absolute answer_ as to whether one who _designs but does not supply an article or build a structure_ is under a duty to ensure that it is reasonably fit for its intended purpose, but such a duty will not be implied by law. It will therefore arise either on a true construction of the parties’ agreement or as an implication from the common intention of the parties. \[emphasis added\]
 
 124    Secondly, the court in _Greaves & Co_ made clear that the implied obligation found to have arisen on the facts was an implied term in fact, and not in law. All three judges emphasised that they were not laying down any general principle applicable to all contracts between designers and their employers (_per_ Lord Denning at 1100; _per_ Browne LJ at 1102E–F; _per_ Geoffrey Lane LJ at 1103E–F). Indeed, _Greaves & Co_ has been read narrowly by a differently constituted Court of Appeal in the subsequent case of _George Hawkins_ (see _George Hawkins_ at 48–49). In particular, Dillon LJ at 53 observed that:
 
-The general position, as \[Fox LJ\] has shown by reference to \[_Greaves & Co_\] is that a professional man who is called to advise is bound, and impliedly undertakes, to use reasonable care and skill in advising, but is not responsible for providing a perfect result or a perfect building. _To establish a warranty that what he advises will be effective, something more is needed than his mere engagement as a professional man to advise_. \[emphasis added\]
+> The general position, as \[Fox LJ\] has shown by reference to \[_Greaves & Co_\] is that a professional man who is called to advise is bound, and impliedly undertakes, to use reasonable care and skill in advising, but is not responsible for providing a perfect result or a perfect building. _To establish a warranty that what he advises will be effective, something more is needed than his mere engagement as a professional man to advise_. \[emphasis added\]
 
 125    I therefore decline to find any implied term in law because the threshold for implying such a term is a high one, and neither party has addressed me sufficiently on this. Thus, the only available avenue open to GSS is to show that a fitness for purpose warranty should be implied into the contract in fact. However, it has also not addressed me on whether the test for implying a term in fact as set out in _Sembcorp_ (at \[101\]) is satisfied.
 
@@ -661,21 +661,21 @@ The general position, as \[Fox LJ\] has shown by reference to \[_Greaves & Co_\]
 
 127    While GSS has addressed the first question by identifying the purpose as use as a data centre, it has not dealt with the latter. One might fall back on the Fee Proposal, in that GSS would have wanted a data centre based on what was set out therein. But even that document is unclear on what standard applies. To illustrate, sections of the Fee Proposal provide as follows:[^167]
 
-Develop, review _and agree_ the design brief to reflect the needs of Global Switch. Designs shall be based on design criteria _agreed with Global Switch_ to suit local conditions …
+> Develop, review _and agree_ the design brief to reflect the needs of Global Switch. Designs shall be based on design criteria _agreed with Global Switch_ to suit local conditions …
 
-…
+> …
 
-_Agree the method of cooling_ (chilled water, cooling tower water, refrigerant). _Agree DRUPS capacities and configurations._
+> _Agree the method of cooling_ (chilled water, cooling tower water, refrigerant). _Agree DRUPS capacities and configurations._
 
-\[emphasis added\]
+> \[emphasis added\]
 
 128    Parties had set down certain matters in the Fee Proposal and claimed that those were to be agreed, but it remained vague what tier of data centre the Extension would be. The most that can be said is that:
 
-(a)     There was some discussion between the parties on this issue. See, _eg_, the email from Mr Adcock to Mr Paddy explaining the “fundamental Tier difference between the existing facility … which electrically is an enhanced Tier IV or 2N facility … and the extension which is a Tier III or N+1 facility”.[^168] Mr Adcock also mentioned that “clients always want Tier IV reliability, but are only prepared to pay for Tier II or III”, and that “no one is building Tier IV … data centres anymore and this is due to both cost and sustainability issues”. However, because the parties had not pleaded this discussion which constitutes extrinsic evidence, little weight can be given to it.
+> (a)     There was some discussion between the parties on this issue. See, _eg_, the email from Mr Adcock to Mr Paddy explaining the “fundamental Tier difference between the existing facility … which electrically is an enhanced Tier IV or 2N facility … and the extension which is a Tier III or N+1 facility”.[^168] Mr Adcock also mentioned that “clients always want Tier IV reliability, but are only prepared to pay for Tier II or III”, and that “no one is building Tier IV … data centres anymore and this is due to both cost and sustainability issues”. However, because the parties had not pleaded this discussion which constitutes extrinsic evidence, little weight can be given to it.
 
-(b)     Sometime in June 2010, T&T issued a report on Arup’s Revised Design stating clearly that ‘\[GSS’s\] requirement is for a concurrently maintainable system (e.g. complying with Tier III of Uptime Institute definition). \[GSS\] don \[_sic_\] not require the design to be concurrently maintainable _and fault tolerant_ … _the design is not required to survive a “second maintenance of fault event” or a “fault during a maintenance event”_’ \[emphasis in original omitted; emphasis added in italics\].[^169] Therefore, despite GSS’s assertion in its closing submissions that there is nowhere in the Contract that defines the data centre to be of a Tier III data centre,[^170] the fact of the matter is that T&T – GSS’s own consultants – were very clear that GSS was getting a Tier III-standard Extension. Indeed I note that in Mr Turvey’s affidavit he himself used the term “Tier 3 data centre”,[^171] in the context of alleging that the Revised Design failed to protect the IT Load from the circumstances that a Tier III data centre was designed to ride through.
+> (b)     Sometime in June 2010, T&T issued a report on Arup’s Revised Design stating clearly that ‘\[GSS’s\] requirement is for a concurrently maintainable system (e.g. complying with Tier III of Uptime Institute definition). \[GSS\] don \[_sic_\] not require the design to be concurrently maintainable _and fault tolerant_ … _the design is not required to survive a “second maintenance of fault event” or a “fault during a maintenance event”_’ \[emphasis in original omitted; emphasis added in italics\].[^169] Therefore, despite GSS’s assertion in its closing submissions that there is nowhere in the Contract that defines the data centre to be of a Tier III data centre,[^170] the fact of the matter is that T&T – GSS’s own consultants – were very clear that GSS was getting a Tier III-standard Extension. Indeed I note that in Mr Turvey’s affidavit he himself used the term “Tier 3 data centre”,[^171] in the context of alleging that the Revised Design failed to protect the IT Load from the circumstances that a Tier III data centre was designed to ride through.
 
-(c)     That formal labels were not always used does not change the substance of the matter. This is so notwithstanding Mr Turvey’s claim during cross-examination that “we don’t really think of ourselves in terms of the Uptime Institute’s classifications” and that it was a “convenient thing when we’re commercially talking to a customer because there tend to be certain standard expressions that a customer will understand quickly”.[^172] Such a view also finds support in GSS’s experience with customers such as Pacnet (discussed further beginning from \[383\] below), which were clear about the different levels of service they could obtain at particular price points.
+> (c)     That formal labels were not always used does not change the substance of the matter. This is so notwithstanding Mr Turvey’s claim during cross-examination that “we don’t really think of ourselves in terms of the Uptime Institute’s classifications” and that it was a “convenient thing when we’re commercially talking to a customer because there tend to be certain standard expressions that a customer will understand quickly”.[^172] Such a view also finds support in GSS’s experience with customers such as Pacnet (discussed further beginning from \[383\] below), which were clear about the different levels of service they could obtain at particular price points.
 
 If anything, I find that parties did understand that the Revised Design was to be concurrently maintainable but not fault tolerant – _ie_, that the Extension would be Tier III in substance though they may not have used those words exactly. Regardless, absent sufficient particularisation of the applicable standard, _on GSS’s pleaded case_ an implied term of fitness for purpose is too vague and ambiguous to succeed.
 
@@ -697,13 +697,13 @@ If anything, I find that parties did understand that the Revised Design was to b
 
 135    The following sub-paragraphs in the Fee Proposal tend to support Arup’s contention that the 4,000 kW was not a fixed contractual stipulation, in that it could be changed:
 
-(a)      _establish and agree_ electrical power density requirements for cabinet/racks, numbers and power consumption of cabinets/racks (at \[19(iii)\] above);
+> (a)      _establish and agree_ electrical power density requirements for cabinet/racks, numbers and power consumption of cabinets/racks (at \[19(iii)\] above);
 
-(b)      _establish_ electrical capacity and cooling load requirements based on power densities _and agreed_ spare capacity for expansion (at \[19(iv)\]);
+> (b)      _establish_ electrical capacity and cooling load requirements based on power densities _and agreed_ spare capacity for expansion (at \[19(iv)\]);
 
-(c)      _confirm_ the levels of redundancy required for electrical and mechanical plant and distribution systems (“N+1”) (at \[19(v)\]); and
+> (c)      _confirm_ the levels of redundancy required for electrical and mechanical plant and distribution systems (“N+1”) (at \[19(v)\]); and
 
-(d)      _agree_ the method of cooling (chilled water, cooling tower water, refrigerant). _Agree_ DRUPS capacities and configurations (at \[19(vi)\]).
+> (d)      _agree_ the method of cooling (chilled water, cooling tower water, refrigerant). _Agree_ DRUPS capacities and configurations (at \[19(vi)\]).
 
 136    Arup’s contention also rests on the words as set out in \[19(i)\]. Besides developing, reviewing and agreeing the design brief to reflect the needs of GSS, the Fee Proposal goes on to provide: “Designs shall be _based on design criteria_ **_agreed with \[GSS\]_** _to suit local conditions_, regulations and _any restrictions imposed by the building fabric, structure and infrastructure_” \[emphasis added in italics and bold italics\].
 
@@ -715,11 +715,11 @@ If anything, I find that parties did understand that the Revised Design was to b
 
 140    Before I leave this issue, I point out that Arup’s Defence and Counterclaim, refers to the 4,000 kW as a “power _requirement_” \[emphasis added\] and not a target:[^174]
 
-15.    The Plaintiff has misapplied the formulate to calculate power required when a diversity of 0.9 is applied to 4,000 kW. The correct formula is 4,000 kW x 0.9 = 3,600 kW. Introducing diversity _reduces the power requirement_. \[emphasis added\]
+> 15.    The Plaintiff has misapplied the formulate to calculate power required when a diversity of 0.9 is applied to 4,000 kW. The correct formula is 4,000 kW x 0.9 = 3,600 kW. Introducing diversity _reduces the power requirement_. \[emphasis added\]
 
 The use of the word “requirement” speaks for itself and is incompatible with a “target” which could shift. However, Arup also pleads in its Defence and Counterclaim that GSS _varied_ their proposal:[^175]
 
-19.    … the Defendant \[issued\] agreed tender documents for 3 DRUPS units to be installed in an N+1 configuration. _This configuration reduced the_ \[NBP\] _for the IT load from 3,600 kW as envisaged in the Proposal (see Paragraph 15 above) to 2,800 kW. The Plaintiff was aware of this. This constituted a variation from the Proposal._ \[emphasis added\]
+> 19.    … the Defendant \[issued\] agreed tender documents for 3 DRUPS units to be installed in an N+1 configuration. _This configuration reduced the_ \[NBP\] _for the IT load from 3,600 kW as envisaged in the Proposal (see Paragraph 15 above) to 2,800 kW. The Plaintiff was aware of this. This constituted a variation from the Proposal._ \[emphasis added\]
 
 141    Arup is therefore not precluded from trying to establish that for various reasons (just to take an example, space and cost constraints) it was limited by GSS to three DRUPS units, or that GSS agreed to lowering the NBP for the IT load from 4,000 kW (with diversity of 0.9).
 
@@ -731,57 +731,57 @@ The use of the word “requirement” speaks for itself and is incompatible with
 
 144    These two arguments must be rejected because:
 
-(a)     First, the Fee Proposal plainly uses the words “an overall diversity of 0.9”. These words have a meaning on their plain reading and in context and must be given effect. GSS’s claim that the diversity factor should not be taken into account in determining Arup’s obligation is essentially a submission that I should disregard the plain words of the Fee Proposal. Such an approach in the construction of a term is impermissible.
+> (a)     First, the Fee Proposal plainly uses the words “an overall diversity of 0.9”. These words have a meaning on their plain reading and in context and must be given effect. GSS’s claim that the diversity factor should not be taken into account in determining Arup’s obligation is essentially a submission that I should disregard the plain words of the Fee Proposal. Such an approach in the construction of a term is impermissible.
 
-(b)     Secondly, GSS did not plead that the diversity factor should not be applied in determining Arup’s contractual obligation regarding the NB Specification. It is important that GSS’s pleaded case is that the diversity factor should be applied not by multiplication but by division. GSS’s pleaded case in its Statement of Claim states:[^177]
+> (b)     Secondly, GSS did not plead that the diversity factor should not be applied in determining Arup’s contractual obligation regarding the NB Specification. It is important that GSS’s pleaded case is that the diversity factor should be applied not by multiplication but by division. GSS’s pleaded case in its Statement of Claim states:[^177]
 
-With regards to the phrase “overall diversity of 0.9” in the Agreement … the Plaintiff avers that **_when a 0.9 diversity is applied_** to the power requirement of 4,000 kW, **_at least 4,000 kW, and up to 4,444 kW (i.e. 4,000 kW ÷ 0.9 = 4,444 kW), must be provided_** by the power infrastructure … \[emphasis added\]
+>> With regards to the phrase “overall diversity of 0.9” in the Agreement … the Plaintiff avers that **_when a 0.9 diversity is applied_** to the power requirement of 4,000 kW, **_at least 4,000 kW, and up to 4,444 kW (i.e. 4,000 kW ÷ 0.9 = 4,444 kW), must be provided_** by the power infrastructure … \[emphasis added\]
 
-(c)     Thirdly, GSS did not refer to the extrinsic evidence that it relies on in its submissions in its pleadings. It is settled law that where a party seeks to rely on extrinsic evidence in support of its interpretation of a contract, that evidence must be pleaded: see _Sembcorp_ at \[73\] and _Yap Son On v Ding Pei Zhen_ <span class="citation">\[2017\] 1 SLR 219</span> at \[46\]. I cannot have regard to the evidence cited by GSS (or even Arup for that matter) in its closing submissions in interpreting the Contract.
+> (c)     Thirdly, GSS did not refer to the extrinsic evidence that it relies on in its submissions in its pleadings. It is settled law that where a party seeks to rely on extrinsic evidence in support of its interpretation of a contract, that evidence must be pleaded: see _Sembcorp_ at \[73\] and _Yap Son On v Ding Pei Zhen_ <span class="citation">\[2017\] 1 SLR 219</span> at \[46\]. I cannot have regard to the evidence cited by GSS (or even Arup for that matter) in its closing submissions in interpreting the Contract.
 
-(d)     Fourthly, apart from the preceding factor, extrinsic evidence is inadmissible to subtract from the terms of a written contract that embodies the entire agreement between the parties: see _Zurich Insurance (Singapore) Pte Ltd v B-Gold Interior Design & Construction Pte Ltd_ <span class="citation">\[2008\] 3 SLR(R) 1029</span> at \[132(b)\]. Thus, even if the extrinsic evidence which GSS relies on were pleaded, I could not rely on it for the purpose of ignoring the words “an overall diversity of 0.9” in the Fee Proposal, which is the effect of GSS’s arguments.
+> (d)     Fourthly, apart from the preceding factor, extrinsic evidence is inadmissible to subtract from the terms of a written contract that embodies the entire agreement between the parties: see _Zurich Insurance (Singapore) Pte Ltd v B-Gold Interior Design & Construction Pte Ltd_ <span class="citation">\[2008\] 3 SLR(R) 1029</span> at \[132(b)\]. Thus, even if the extrinsic evidence which GSS relies on were pleaded, I could not rely on it for the purpose of ignoring the words “an overall diversity of 0.9” in the Fee Proposal, which is the effect of GSS’s arguments.
 
-(e)     Fifthly, I reject GSS’s claim that it does not make sense to apply a diversity factor at the design stage. This was an opinion expressed by Mr Ansett who gave expert evidence that doing so was “unheard of” and would be “commercial suicide”.[^178] Mr Peck took a different view. I formed the view that Mr Ansett proffered this rather partisan opinion without convincing reasons because he could not explain away the phrase being clearly stated in the parties’ agreement or the numerous emails and references in GSS contemporaneous documents as to:
+> (e)     Fifthly, I reject GSS’s claim that it does not make sense to apply a diversity factor at the design stage. This was an opinion expressed by Mr Ansett who gave expert evidence that doing so was “unheard of” and would be “commercial suicide”.[^178] Mr Peck took a different view. I formed the view that Mr Ansett proffered this rather partisan opinion without convincing reasons because he could not explain away the phrase being clearly stated in the parties’ agreement or the numerous emails and references in GSS contemporaneous documents as to:
 
-(i)       the reason why a diversity factor was being applied; and
+>> (i)       the reason why a diversity factor was being applied; and
 
-(ii)       the application of the diversity factor by GSS in the manner advocated by Arup, _ie_, by multiplying the 4,000 kW by the diversity factor.
+>> (ii)       the application of the diversity factor by GSS in the manner advocated by Arup, _ie_, by multiplying the 4,000 kW by the diversity factor.
 
 145    I prefer Mr Peck’s view that diversity could be applied at the design stage, not only because it makes common and commercial sense but also because it is consistent with the many contemporaneous emails and documents, both from Arup as well as GSS, discussing its application in the manner pleaded by Arup. Mr Ansett appeared to be attempting to explain GSS’s position even though their pleaded case was _not_ that a diversity factor should not be applied at the design stage but that it meant that Arup’s design was required to provide 4,000 to 4,444 kW for the Extension. Mr Peck was more practical in giving evidence that diversity could be applied at the design stage; to do so was a “bet” that customers would not use the full amount of their contracted NBP, which data centre operators might take to defer expenditure and save costs.[^179] I accept Mr Peck’s opinion, and note that the cost-saving approach he outlined coheres with the view I have reached of GSS’s approach to the Project.
 
 146    I find that a diversity factor is applied because it is the experience of data centre operators that their tenants do not always take up all the contracted NBP for their leases. There are quite a number of emails and contemporaneous documents, especially those emanating from GSS and Global Switch, evidencing this. I need only pick up the following examples, one before the Fee Proposal and three that came after, to illustrate my finding. In my view, these emails are very telling in more ways than one because they are contemporaneous pieces of evidence of what GSS was thinking of at that time in relation to capital expenditure and the power they were willing to provide for the Extension.
 
-(a)     Mr Paddy’s email to Mr Adcock dated 29 August 2008[^180] where Mr Paddy had drafted a paper for internal use at GSS and Mr Paddy asked Mr Adcock to “add\[,\] take away or ammend \[_sic_\] this for me as you see fit if it needs it”:
+> (a)     Mr Paddy’s email to Mr Adcock dated 29 August 2008[^180] where Mr Paddy had drafted a paper for internal use at GSS and Mr Paddy asked Mr Adcock to “add\[,\] take away or ammend \[_sic_\] this for me as you see fit if it needs it”:
 
-The _application of a diversity factor_ to a large power and cooling system is a _legitimate way in which an installation can be viewed to gain maximum use of the infrastructure systems that have been designed and installed_ around it …
+>> The _application of a diversity factor_ to a large power and cooling system is a _legitimate way in which an installation can be viewed to gain maximum use of the infrastructure systems that have been designed and installed_ around it …
 
-It works on the principle that _all parts of the system will not be loaded to their theoretical maximum at any one time_. In the case of a data centre very simply put this equates to saying if our customer base requests 1000w/sqm as an average over the whole building then its extremely unlikely that they will all ever reach their maximum loading.
+>> It works on the principle that _all parts of the system will not be loaded to their theoretical maximum at any one time_. In the case of a data centre very simply put this equates to saying if our customer base requests 1000w/sqm as an average over the whole building then its extremely unlikely that they will all ever reach their maximum loading.
 
-Customers such as financial institutions design their installations very conservatively and generally _don’t reach more than 60 to 70% of their design capacity in some cases less_.
+>> Customers such as financial institutions design their installations very conservatively and generally _don’t reach more than 60 to 70% of their design capacity in some cases less_.
 
-In our case _the application of a .9 diversity factor effectively allows us to sell some additional capacity that is unlikely to be otherwise used._
+>> In our case _the application of a .9 diversity factor effectively allows us to sell some additional capacity that is unlikely to be otherwise used._
 
-It has to be recognise that there is a commercial risk in this, however a .9 factor is conservative and many installations have a lower factor. The bigger the overall system the more scope there is to apply factors lower than .9 however Sydney’s power system is effectively made up of a group of smaller systems and as such we would not recommend moving to lower factors. An extended Singapore site at Tai Seng Avenue wold also be a mix of systems and therefore a .9 factor is considered to be commercially acceptable.
+>> It has to be recognise that there is a commercial risk in this, however a .9 factor is conservative and many installations have a lower factor. The bigger the overall system the more scope there is to apply factors lower than .9 however Sydney’s power system is effectively made up of a group of smaller systems and as such we would not recommend moving to lower factors. An extended Singapore site at Tai Seng Avenue wold also be a mix of systems and therefore a .9 factor is considered to be commercially acceptable.
 
-\[emphasis added\]
+>> \[emphasis added\]
 
-Mr Adcock replied on the same day and agreed with Mr Paddy’s draft and additionally stated that he believed Mr Paddy was “being conservative (for banks, however the Googles & Microsoft MSN are another story and will use their full limit)”.[^181] Mr Adcock’s warning about different tenants like Google and Microsoft MSN was a relevant portent for what was to happen in 2010.
+> Mr Adcock replied on the same day and agreed with Mr Paddy’s draft and additionally stated that he believed Mr Paddy was “being conservative (for banks, however the Googles & Microsoft MSN are another story and will use their full limit)”.[^181] Mr Adcock’s warning about different tenants like Google and Microsoft MSN was a relevant portent for what was to happen in 2010.
 
-(b)     GSS’s Global Business Change Programme (which I have already referred to at \[35\]) which clearly mandated using up all unused power and the application of “power diversity initiatives”;
+> (b)     GSS’s Global Business Change Programme (which I have already referred to at \[35\]) which clearly mandated using up all unused power and the application of “power diversity initiatives”;
 
-(c)     A self-explanatory email dated 30 January 2009 from Mr O’Brien, Global Switch’s CEO Asia Pacific to Mr Paddy and Mr Guth:[^182]
+> (c)     A self-explanatory email dated 30 January 2009 from Mr O’Brien, Global Switch’s CEO Asia Pacific to Mr Paddy and Mr Guth:[^182]
 
-John has asked us to look at the extension build in light of possible savings due to the application of power diversity initiatives etc.
+>> John has asked us to look at the extension build in light of possible savings due to the application of power diversity initiatives etc.
 
-For example, is it possible to reduce the power build to provide 800W/sqm with an option of adding extra power at a later stage if required?
+>> For example, is it possible to reduce the power build to provide 800W/sqm with an option of adding extra power at a later stage if required?
 
-“John” here refers to Mr John Corcoran (“Mr Corcoran”), Executive Chairman of GSS’s parent company based in the United Kingdom.
+> “John” here refers to Mr John Corcoran (“Mr Corcoran”), Executive Chairman of GSS’s parent company based in the United Kingdom.
 
-(d)     This was the position that GSS took in a letter of demand to Arup dated 25 March 2013, where GSS’s solicitors stated that:[^183]
+> (d)     This was the position that GSS took in a letter of demand to Arup dated 25 March 2013, where GSS’s solicitors stated that:[^183]
 
-You were required by \[the Contract\] to deliver 1,000W/m2 of power to 4,000m2 of floor space (at a diversity factor of 0.9) using a DRUPS system in an N+1 configuration, thereby providing 3,600 kW of IT power.
+>> You were required by \[the Contract\] to deliver 1,000W/m2 of power to 4,000m2 of floor space (at a diversity factor of 0.9) using a DRUPS system in an N+1 configuration, thereby providing 3,600 kW of IT power.
 
-During cross-examination, Mr Turvey conceded that there was an inconsistency between the position taken in this letter, and Arup’s Statement of Claim.[^184] He also accepted that, at the time of the letter, he must have accepted that the diversity factor of 0.9 was to be applied when determining Arup’s obligations as to NBP under the Fee Proposal.[^185]
+> During cross-examination, Mr Turvey conceded that there was an inconsistency between the position taken in this letter, and Arup’s Statement of Claim.[^184] He also accepted that, at the time of the letter, he must have accepted that the diversity factor of 0.9 was to be applied when determining Arup’s obligations as to NBP under the Fee Proposal.[^185]
 
 147    It is also convenient at this juncture to refer to an email of Mr Adcock dated 11 February 2009 to Mr Paddy (and Arup’s engineers, Mr Burleigh, Mr Ma and Ms Debra Kelly (“Ms Kelly”)) which was an attempt to inform GSS of some facts in relation to Global Switch’s call for “power diversity initiatives”.[^186] Three things are of note. First, Mr Adcock stated that typically, banks who have up to seven IT platforms have an average load of 50 to 70% of their power contracted density (and GSS counted at least one bank in their Existing Facility). Secondly he warned that one must consider the peak loads of tenants like banks, at the end of the day, week or month. Thirdly, at the end of the day, the application of power diversity was not an engineering question but more of commercial management versus risk exercise.
 
@@ -795,31 +795,31 @@ During cross-examination, Mr Turvey conceded that there was an inconsistency be
 
 151    This is one of the central issues that lie at the heart of the disputes between the parties. It encapsulates the following agreed issue between the parties:
 
-(a)     whether the Contract was varied such that Arup was only required to design the electrical system to deliver 2,800 kW of uninterruptible and continuous power for the IT Load Requirement.
+> (a)     whether the Contract was varied such that Arup was only required to design the electrical system to deliver 2,800 kW of uninterruptible and continuous power for the IT Load Requirement.
 
-It also touches upon the more general agreed issue which has to be answered on multiple fronts:
+> It also touches upon the more general agreed issue which has to be answered on multiple fronts:
 
-(b)     What were Arup’s obligations to GSS under the Contract with respect to the IT Load Requirement?
+> (b)     What were Arup’s obligations to GSS under the Contract with respect to the IT Load Requirement?
 
 152    This issue also touches upon the following agreed factual issues. In relation to the requirements of the contract:
 
-(a)     whether GSS relied on the representations of technical matters by Arup regarding GSS’s business, the DRUPS system and other aspects of the Project in approving Arup’s design; and
+> (a)     whether GSS relied on the representations of technical matters by Arup regarding GSS’s business, the DRUPS system and other aspects of the Project in approving Arup’s design; and
 
-(b)     whether Arup’s design reflected the needs of GSS as set out in the Contract, whether varied or not.
+> (b)     whether Arup’s design reflected the needs of GSS as set out in the Contract, whether varied or not.
 
-In relation to the issuance of the tender documents:
+> In relation to the issuance of the tender documents:
 
-(c)     whether, on or around August to September 2008, GSS agreed that the original scope of work, as set out in the Fee Proposal, was technically not feasible as there was insufficient space for a fourth DRUPS unit to be located over the existing loading dock on a new structural steel frame;
+> (c)     whether, on or around August to September 2008, GSS agreed that the original scope of work, as set out in the Fee Proposal, was technically not feasible as there was insufficient space for a fourth DRUPS unit to be located over the existing loading dock on a new structural steel frame;
 
-(d)     whether on or around June to December 2008 GSS considered the original scope of work as set out in the Fee Proposal to be commercially not feasible due to its financial constraints in purchasing a fourth DRUPS unit;
+> (d)     whether on or around June to December 2008 GSS considered the original scope of work as set out in the Fee Proposal to be commercially not feasible due to its financial constraints in purchasing a fourth DRUPS unit;
 
-(e)     whether GSS was aware that the configuration proposed by the Defendant reduced the NBP for the IT load as envisaged in the Fee Proposal to 2,800 kW; and
+> (e)     whether GSS was aware that the configuration proposed by the Defendant reduced the NBP for the IT load as envisaged in the Fee Proposal to 2,800 kW; and
 
-(i)       If GSS was unaware, whether Arup caused the issuance of the tender documents for three EuroDiesel DRUPS units to be installed without taking the necessary steps to make it clear to GSS that the three EuroDiesel DRUPS units could only provide a NBP of 2,800 kW instead of at least 4,000 kW under the Contract;
+>> (i)       If GSS was unaware, whether Arup caused the issuance of the tender documents for three EuroDiesel DRUPS units to be installed without taking the necessary steps to make it clear to GSS that the three EuroDiesel DRUPS units could only provide a NBP of 2,800 kW instead of at least 4,000 kW under the Contract;
 
-(ii)       If GSS was aware, whether GSS agreed to proceed with Arup’s proposed configuration (_ie_, 2,800 kW of NBP) or whether GSS asked for Arup to adjust the proposed configuration so as to fulfil the IT Load Requirement of at least 4,000 kW under the Contract?
+>> (ii)       If GSS was aware, whether GSS agreed to proceed with Arup’s proposed configuration (_ie_, 2,800 kW of NBP) or whether GSS asked for Arup to adjust the proposed configuration so as to fulfil the IT Load Requirement of at least 4,000 kW under the Contract?
 
-(f)     whether, in 2008, there was a consensus reached between the parties that the two DRUPS units with one additional DRUPS unit in redundancy in an “N+1” configuration, _ie_, the Original Design, was only a temporary solution which could be upgraded in the future.
+> (f)     whether, in 2008, there was a consensus reached between the parties that the two DRUPS units with one additional DRUPS unit in redundancy in an “N+1” configuration, _ie_, the Original Design, was only a temporary solution which could be upgraded in the future.
 
 153    It also affects GSS’s case that due to Arup’s breach of contract and breach of duty, GSS was purportedly forced to accept the Revised Design.
 
@@ -827,11 +827,11 @@ In relation to the issuance of the tender documents:
 
 155    I start with three preliminary observations:
 
-(a)     First, Arup’s Mr Ma (and later, Mr Adcock from 2006) had been involved in various designs and fit-outs of the Existing Facility since October 2003 and were not unfamiliar with the Existing Facility or indeed GSS as a client.[^194]
+> (a)     First, Arup’s Mr Ma (and later, Mr Adcock from 2006) had been involved in various designs and fit-outs of the Existing Facility since October 2003 and were not unfamiliar with the Existing Facility or indeed GSS as a client.[^194]
 
-(b)     Secondly, when GSS was considering the Extension, the only available space was at the rear of the Existing Facility. As I have said before, the proposed Extension therefore comprised odd-shaped areas tucked into the rear of the existing building rising from L3 to L7 of about 800 m2 per floor.
+> (b)     Secondly, when GSS was considering the Extension, the only available space was at the rear of the Existing Facility. As I have said before, the proposed Extension therefore comprised odd-shaped areas tucked into the rear of the existing building rising from L3 to L7 of about 800 m2 per floor.
 
-(c)     Thirdly GSS started talking to their consultants about their expansion plans well before April 2008 and well before Arup’s formal Fee Proposal of 17 September 2008.
+> (c)     Thirdly GSS started talking to their consultants about their expansion plans well before April 2008 and well before Arup’s formal Fee Proposal of 17 September 2008.
 
 156    GSS must have internally carried out an assessment of their current occupancy (stated to be about 84% by the end of 2007 in an internal paper),[^195] the market for data centre space, their plans and envisaged a take-up rate from potential customers in the near future and conducted a cost and benefit analysis before embarking on the Project. There were discussions with T&T over costing and benefits, as well as feasibility discussions with Babtie and AWP; Arup does not appear to have been involved in these discussions (see \[158\]–\[159\] below). Arup appears to have separately prepared a set of slides for the Mechanical Services of the Extension in February 2008.[^196]
 
@@ -839,47 +839,47 @@ In relation to the issuance of the tender documents:
 
 158    On 28 April 2008, Mr Paddy sent Mr Adcock an email (copying others, including Mr Guth), headed “Global Switch Tai Seng Avenue Expansion”:[^197]
 
-Peter
+> Peter
 
-_Attached are the new plans for the extened \[sic\] areas that we are seriously planning for Tai Seng Ave._ In essence we have to power and cool these areas.
+> _Attached are the new plans for the extened \[sic\] areas that we are seriously planning for Tai Seng Ave._ In essence we have to power and cool these areas.
 
-_What I need_ **_to establish_** _is_ **_what extra power and cooling_** _I need to find and_ **_more importantly where I locate the equipment_** _._ With a structure being put up the full height of the building i see an opportunity to put additional weighty plant in this extened \[_sic_\] area. We should consider battery less UPS systems provided that our machines are online quickly enough to top up the units, which being MTU I am sure they can.
+> _What I need_ **_to establish_** _is_ **_what extra power and cooling_** _I need to find and_ **_more importantly where I locate the equipment_** _._ With a structure being put up the full height of the building i see an opportunity to put additional weighty plant in this extened \[_sic_\] area. We should consider battery less UPS systems provided that our machines are online quickly enough to top up the units, which being MTU I am sure they can.
 
-_We may need to find space for two extra generators_. With cooling we also need to be aware of any additional power requirements that will occur as a result.
+> _We may need to find space for two extra generators_. With cooling we also need to be aware of any additional power requirements that will occur as a result.
 
-We need to work quickly on this as we are being pressed to complete feasibility \[_sic_\] and get approval to proceed.
+> We need to work quickly on this as we are being pressed to complete feasibility \[_sic_\] and get approval to proceed.
 
-I have copied Jeff \[_a senior specialist at Arup_\] in on this as I am sure there will be things that you need him to look at for you.
+> I have copied Jeff \[_a senior specialist at Arup_\] in on this as I am sure there will be things that you need him to look at for you.
 
-Also I need to establish a scope for the enlivenment for level 4 and a cost.
+> Also I need to establish a scope for the enlivenment for level 4 and a cost.
 
-Please advice \[_sic_\] your fees for enlivement and suite design e.g. AT&T there are some other areas that are being looked at Jeff will no doubt brief you on these as he has been talking to Mark and Kelvin.
+> Please advice \[_sic_\] your fees for enlivement and suite design e.g. AT&T there are some other areas that are being looked at Jeff will no doubt brief you on these as he has been talking to Mark and Kelvin.
 
-\[emphasis added in italics and bold italics\]
+> \[emphasis added in italics and bold italics\]
 
 159    On 16 May 2008, Mr Paddy, as GSS’s then-Technical Director (Asia Pacific), and Mr Eddy Gudijanto (“Mr Gudijanto”), GSS’s Facility Manager of the Existing Facility, met with representatives from T&T to discuss various initial concepts for the Project for the purposes of initial cost estimations. One of these initial concepts included the following:[^198]
 
-Allow for 3 DRUPS x 2MW each carry x 6 ton each to be located at roof top.
+> Allow for 3 DRUPS x 2MW each carry x 6 ton each to be located at roof top.
 
 The contents of this discussion were documented in an email sent by T&T’s Jenny Yeng to John McGowan (“Mr McGowan)”, a structural engineer from Babtie, as well as Claudia Lee and Jeff Allan from AWP on 19 May 2008. The email was also copied to Mr Guth and other T&T representatives. T&T had been told that GSS’s M&E consultants would be Arup, but had yet to receive the relevant contact details as of that date. The email was forwarded to Mr Adcock by Mr Gudijanto three days later on 19 May 2008.[^199]
 
 160    At some point Mr Paddy also sent an undated design brief entitled “Tai Seng Extension” to Mr Adcock which stated some of GSS’s M&E requirements for the Project. Some of these requirements eventually found their way into Arup’s Fee Proposal for the Project. One of these requirements was for the use of DRUPS units in an “N+1” configuration. Relevantly, the following was stated in that document:[^200]
 
-Five levels of raised floor space with 800sqm per floor for a total of 4,000sqm _@ 1,000 W/sqm_;
+> Five levels of raised floor space with 800sqm per floor for a total of 4,000sqm _@ 1,000 W/sqm_;
 
-New dedicated electrical distribution system comprising Diesel Rotary UPS (DRUPS) _located over the existing loading dock on new structural steel frame_
+> New dedicated electrical distribution system comprising Diesel Rotary UPS (DRUPS) _located over the existing loading dock on new structural steel frame_
 
-…
+> …
 
-Switchboard and associated equipment
+> Switchboard and associated equipment
 
-New chilled water system ... _located on the roof_
+> New chilled water system ... _located on the roof_
 
-_…_
+> _…_
 
-_Overall design to provide an N+1 system._
+> _Overall design to provide an N+1 system._
 
-\[emphasis added\]
+> \[emphasis added\]
 
 161    This was a change of location of the DRUPS units from the roof to the second level above the current loading bay. There is evidence that at a relatively early stage, before the Fee Proposal, the location of the DRUPS units had already been chosen by the other consultants, in consultation with GSS; the DRUPS units would sit on a new structural steel frame, built above the loading bay and the chilled water system would be located on the roof. GSS wanted power at the Extension at 1,000 W/m2 and configured as “N+1”.
 
@@ -889,17 +889,17 @@ _Overall design to provide an N+1 system._
 
 164    I therefore pause here to note, and find, that from the above, at a fairly early stage, _ie_, up to the end June 2008, when the consultants and GSS were in preliminary discussions, a decision was made by them, and not Arup, that:
 
-(a)     three DRUPS units, each capable of 2 MW (or 2,000 kW) power, were envisaged for the NBP in the Extension (it should be noted that in an “N+1” configuration, two such DRUPS unit should be able to provide the 1 kW/m2 or 4,000 kW stipulated in the Fee Proposal, whether the 2,000 kW included both NBP and SBP was not explored by the parties at trial and whether there was a higher capacity DRUPS unit available is another matter which I deal with below);
+> (a)     three DRUPS units, each capable of 2 MW (or 2,000 kW) power, were envisaged for the NBP in the Extension (it should be noted that in an “N+1” configuration, two such DRUPS unit should be able to provide the 1 kW/m2 or 4,000 kW stipulated in the Fee Proposal, whether the 2,000 kW included both NBP and SBP was not explored by the parties at trial and whether there was a higher capacity DRUPS unit available is another matter which I deal with below);
 
-(b)     the position for the proposed DRUPS units was designated, _viz_, above the existing loading bay and on a new structural steel frame to be constructed and that space generally was tight;
+> (b)     the position for the proposed DRUPS units was designated, _viz_, above the existing loading bay and on a new structural steel frame to be constructed and that space generally was tight;
 
-(c)     locating DRUPS units above the existing HV Transformer bay, the only other potential location, was ruled out by Babtie and/or AWP because of the risk of the micro piling work affecting the HV substation equipment and the two main electrical power lines coming in from the electrical grid;
+> (c)     locating DRUPS units above the existing HV Transformer bay, the only other potential location, was ruled out by Babtie and/or AWP because of the risk of the micro piling work affecting the HV substation equipment and the two main electrical power lines coming in from the electrical grid;
 
-(d)     the planned NBP was 1,000 W/m2 (diversity was being discussed by GSS);
+> (d)     the planned NBP was 1,000 W/m2 (diversity was being discussed by GSS);
 
-(e)     the configuration would be “N+1”; and
+> (e)     the configuration would be “N+1”; and
 
-(f)     the new chillers and associated equipment were to be located on the roof.
+> (f)     the new chillers and associated equipment were to be located on the roof.
 
 165    In an email dated 27 June 2008,[^208] from Mr Adcock to Mr Paddy we can see a change from the references to 2 MW DRUPS unit to a 1,670 kVA DRUPS unit. This was part of an email chain where GSS had ordered 2 HV panels (unconnected to the current disputes), but found they only needed one HV panel. Mr Paddy then asked Mr Adcock whether they could use the extra HV panel in the Extension, rather than incur cancellation charges. Mr Adcock replied that they could if the Extension went ahead. Mr Adcock wrote: “we would require this to serve 2No of the 3No 1670 kVA DRUPS required. I’m not sure yet if another HV panel and transformer would be required for the 3rd DRUPS”.
 
@@ -907,15 +907,15 @@ _Overall design to provide an N+1 system._
 
 167    I have already referred to Mr Paddy’s email to Mr Adcock on 29 August 2008 which contained Mr Paddy’s draft note on the application of a diversity factor to the design of data centres for internal circulation (see \[146(a)\] above), and Mr Adcock’s response, which read:
 
-Gordon,
+> Gordon,
 
-I agree with your statement and actually believe that you are being conservative (for banks, _however, the Googles & Microsoft MSN are another story and will use their full limit_)
+> I agree with your statement and actually believe that you are being conservative (for banks, _however, the Googles & Microsoft MSN are another story and will use their full limit_)
 
-We have looked at site where there is a 0.9 diversity per floor and also 0.9 over several floors, i.e 0.9 x 0.9 = 0.8
+> We have looked at site where there is a 0.9 diversity per floor and also 0.9 over several floors, i.e 0.9 x 0.9 = 0.8
 
-This is were \[sic\] GS as a global player should be comparing data and optimising performance
+> This is were \[sic\] GS as a global player should be comparing data and optimising performance
 
-\[emphasis added\]
+> \[emphasis added\]
 
 168    On 3 September 2008, Mr Paddy forwarded a “High Level Estimate Cost Plan” on the Project prepared by T&T dated August 2008, to Mr Adcock[^210] which stated that one of their assumptions for the electrical installations was that three DRUPS units of 2 MW each would be located at the Extension’s second level.[^211] This shows T&T, and perhaps the other consultants, were working on one track with references to the original “2 MW DRUPS” but there was another separate and parallel conversation between Mr Adcock and Mr Paddy which referred to a 1,670 kVA DRUPS unit.
 
@@ -929,17 +929,17 @@ This is were \[sic\] GS as a global player should be comparing data and optimisi
 
 173    All these three submissions and communications thereon to Mr Paddy stated a NBP of 1,750 kVA/1,400 kW per DRUPS unit:
 
-(a)     EuroDiesel: EuroDiesel NO-BREAK KS®: 3 x 1,750/2500 kVA DUPS, 400 V, 50 Hz containerised units; critical load 1,750 kVA, Non-critical load 750 kVA and power factor of 0.8.[^224]
+> (a)     EuroDiesel: EuroDiesel NO-BREAK KS®: 3 x 1,750/2500 kVA DUPS, 400 V, 50 Hz containerised units; critical load 1,750 kVA, Non-critical load 750 kVA and power factor of 0.8.[^224]
 
-(b)     Piller: 3 x UNIBLOCK UBTD 1,750/780 rated at 1,750 kVA/1,400 kW critical bus, 780 kVA/624W short break bus, 415 V, 50 Hz and “pf 0.8”. [^225]
+> (b)     Piller: 3 x UNIBLOCK UBTD 1,750/780 rated at 1,750 kVA/1,400 kW critical bus, 780 kVA/624W short break bus, 415 V, 50 Hz and “pf 0.8”. [^225]
 
-(c)     On 26 September 2008, Jonathan Davis, managing director of Piller (Australia) sent Mr Paddy an email which stated: “I will be going back to Piller to reprice the DRUPS at 1,750 KVA NB/780 KVA SB as per the system at GS Sydney only in LV”.[^226]
+> (c)     On 26 September 2008, Jonathan Davis, managing director of Piller (Australia) sent Mr Paddy an email which stated: “I will be going back to Piller to reprice the DRUPS at 1,750 KVA NB/780 KVA SB as per the system at GS Sydney only in LV”.[^226]
 
-(d)     This was followed up by Piller in their 1 October 2008 Budgetary Quotation, to Mr Paddy, stating that they were pleased to revise their quotation: “3 UNIBLOCK UBTD 1,750/780. Dual output Diesel UPS, rated at 1,750 kVA/1,400 kW critical bus”.[^227]
+> (d)     This was followed up by Piller in their 1 October 2008 Budgetary Quotation, to Mr Paddy, stating that they were pleased to revise their quotation: “3 UNIBLOCK UBTD 1,750/780. Dual output Diesel UPS, rated at 1,750 kVA/1,400 kW critical bus”.[^227]
 
-(e)     Hitec: “To supply, deliver, install, test & commission the following item: … 3 sets 2.5 MVA dynamic UPS in Isolated Redundant Operation … 1750 KVA (No Break) +750 KVA (Short Break), 400 V, 50 Hz at p.f 0.8 lagging, 1500 rpm, capable for the supply of 1,750 KVA clean and uninterrupted UPS power & 750KVA emergency power at full load condition”.[^228] Again this was a quote for three DRUPS units in an “N+1” configuration delivering 2,800 kW of NBP.
+> (e)     Hitec: “To supply, deliver, install, test & commission the following item: … 3 sets 2.5 MVA dynamic UPS in Isolated Redundant Operation … 1750 KVA (No Break) +750 KVA (Short Break), 400 V, 50 Hz at p.f 0.8 lagging, 1500 rpm, capable for the supply of 1,750 KVA clean and uninterrupted UPS power & 750KVA emergency power at full load condition”.[^228] Again this was a quote for three DRUPS units in an “N+1” configuration delivering 2,800 kW of NBP.
 
-There were also other emails with attachments containing the above information. Mr Adcock did not say to Arup or to any of these suppliers that their DRUPS units were or appeared to be under-powered or unsuitable for GSS’s needs given the statements above on the NBP and SBP.
+> There were also other emails with attachments containing the above information. Mr Adcock did not say to Arup or to any of these suppliers that their DRUPS units were or appeared to be under-powered or unsuitable for GSS’s needs given the statements above on the NBP and SBP.
 
 174    I have little hesitation in rejecting Mr Paddy’s suggestion that Arup must have specified the types and capacities of DRUPS units to these suppliers thereby limiting their tenders to DRUPS units with insufficient capacity for the Extension or failing to obtain larger capacity DRUPS units. As dealt with below, I find that the three suppliers offered the largest suitable DRUPS units they had at that point in time. Further, when the capacity was found wanting, no one said there were higher capacity DRUPS units in the market. That would have been the most obvious solution. Also, if there were no constraints over cost or space, it would not make any sense for a consultant engineer in Arup’s position to _limit_ his design in relation to the capacity and number of DRUPS units to be deployed. I asked both experts if they could think of a reason why a consultant engineer in Arup’s position would simply not suggest a larger capacity machine or if that was not available, to use four DRUPS units instead. They both could think of none. I was not surprised at their answer. Arup had nothing to gain, but indeed everything to lose, by putting forward three DRUPS units in an “N+1” configuration that could not achieve 3,600 kW when the obvious solution was to obtain a higher capacity DRUPS unit or, if that was not available, to use four DRUPS units instead. Arup’s fee was a fixed sum and suggesting a larger capacity DRUPS unit or a fourth would not have affected their fee. The only adverse consequence would be on GSS who would incur a higher capital expenditure.
 
@@ -951,35 +951,157 @@ There were also other emails with attachments containing the above information. 
 
 178    Importantly, under cross-examination[^238] in relation to Piller’s budgetary quotation dated 1 October 2008,[^239] Mr Paddy admitted that he had a discussion with Piller and this clearly shows Mr Paddy’s involvement and knowledge of the DRUPS units being supplied by Piller:[^240]
 
-Q:So from at least the wording of this budgetary quotation you had a discussion with Piller, correct?
+> Q:So from at least the wording of this budgetary quotation you had a discussion with Piller, correct?
 
-A:Yes.
+> A:Yes.
 
-Q:You had a discussion with Piller after you had told Arup in the engineering fee proposal that the expectation was 3.6 MW in the extension, correct?
+> Q:You had a discussion with Piller after you had told Arup in the engineering fee proposal that the expectation was 3.6 MW in the extension, correct?
 
-A:With the 0.9 diversity, yes.
+> A:With the 0.9 diversity, yes.
 
-Q:Yes, so its 4,000 with 0.9 gives you 3.6 MW, correct?
+> Q:Yes, so its 4,000 with 0.9 gives you 3.6 MW, correct?
 
-A:Yes.
+> A:Yes.
 
-Q:This must have been after that because the date is 1 October 2008, correct?
+> Q:This must have been after that because the date is 1 October 2008, correct?
 
-A:Yes.
+> A:Yes.
 
-Q:So you would have conveyed these requirements to Piller Power Systems, correct?
+> Q:So you would have conveyed these requirements to Piller Power Systems, correct?
 
-A:Yes, that was --
+> A:Yes, that was --
 
-Q:Ie, you would have said “I need DRUPS, maybe three, because I am building an extension that needs 3.6 MW”, correct?
+> Q:Ie, you would have said “I need DRUPS, maybe three, because I am building an extension that needs 3.6 MW”, correct?
 
-A:Yes
+> A:Yes
 
-Mr Paddy was then taken through the Piller budgetary quotation and confirmed that it stated “1750 kVA/1,400 kW critical bus” which referred to the NBP and “780 kVA/624 kW short break bus” referred to the SBP and that the power factor applied was 0.8.
+> Mr Paddy was then taken through the Piller budgetary quotation and confirmed that it stated “1750 kVA/1,400 kW critical bus” which referred to the NBP and “780 kVA/624 kW short break bus” referred to the SBP and that the power factor applied was 0.8.
 
 179    Subsequent emails contained more data and technical specifications from the suppliers. Although these spreadsheets are in rather small print and comprise a number of pages, their format is very similar, if not identical. On the first page of each spreadsheet, under each of the three columns for the three suppliers, the second to sixth row typically contained the following:
 
-<table align="left" cellpadding="0" cellspacing="0" class="Judg-2" frame="none" pgwide="1"><colgroup><col width="51.18%"> <col width="14.34%"> <col width="20.46%"> <col width="14.02%"> </colgroup><tbody><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Piller</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">EuroDiesel</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Hitec</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Critical Load (No Break)</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1750</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1750</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1750</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Non Critical Load (Short Break)</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">750</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">750</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">750</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Output PF</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">0.8</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">0.8</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">0.8</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Critical Load (No Break)</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Rated Output</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1,400</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1,400</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1,400</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Non-Critical Load</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">(Short Break)</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">624</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">600</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">600</p></td></tr></tbody></table>
+>   
+| 
+
+ | 
+
+Piller
+
+ | 
+
+EuroDiesel
+
+ | 
+
+Hitec
+
+ |
+| 
+
+Critical Load (No Break)
+
+ | 
+
+1750
+
+ | 
+
+1750
+
+ | 
+
+1750
+
+ |
+| 
+
+Non Critical Load (Short Break)
+
+ | 
+
+750
+
+ | 
+
+750
+
+ | 
+
+750
+
+ |
+| 
+
+Output PF
+
+ | 
+
+0.8
+
+ | 
+
+0.8
+
+ | 
+
+0.8
+
+ |
+| 
+
+Critical Load (No Break)
+
+ | 
+
+ | 
+
+ | 
+
+ |
+| 
+
+Rated Output
+
+ | 
+
+1,400
+
+ | 
+
+1,400
+
+ | 
+
+1,400
+
+ |
+| 
+
+Non-Critical Load
+
+ | 
+
+ | 
+
+ | 
+
+ |
+| 
+
+(Short Break)
+
+ | 
+
+624
+
+ | 
+
+600
+
+ | 
+
+600
+
+ |
 
   
   
@@ -988,35 +1110,35 @@ I cannot see how Mr Paddy could have failed to notice these very important figu
 
 180    Under cross-examination, Mr Paddy said the following in relation to the comparison table sent on the 7 November 2008:[^241]
 
-Q:So a review of the table again will show you that the DRUPS could only provide -- sorry, _the rated no break capacity of the DRUPS, three DRUPS in an N+1 configuration could only provide 2,800 kW of power_, correct?
+> Q:So a review of the table again will show you that the DRUPS could only provide -- sorry, _the rated no break capacity of the DRUPS, three DRUPS in an N+1 configuration could only provide 2,800 kW of power_, correct?
 
-A:Yes
+> A:Yes
 
-Q:Did you review the table, Mr Paddy?
+> Q:Did you review the table, Mr Paddy?
 
-A:Probably not in detail, I’d have gone more to the summary.
+> A:Probably not in detail, I’d have gone more to the summary.
 
-Q:Well, the power is right on top, it’s the first line, did you see that?
+> Q:Well, the power is right on top, it’s the first line, did you see that?
 
-A: _I would have seen it_.
+> A: _I would have seen it_.
 
-\[emphasis added\]
+> \[emphasis added\]
 
 Mr Paddy was taken through the documents set out in the preceding paragraphs and each time he admitted he “would have seen” the numbers, _ie_, that the NBP was 1,400 kW per machine. After having made these admissions, he then tried to salvage his position by claiming, very unconvincingly I must say, that the documents did set out the figures referred to by counsel and that was why he agreed but he was speaking from his knowledge now and not from his knowledge at that point of time.[^242] I do not accept his evidence on this point. Someone in Mr Paddy’s position in 2008 would have known basic concepts like NBP, SBP and diversity as applied in data centres. His knowledge of such concepts in late August 2008 is clear from his first draft of an internal paper which he asked Mr Adcock to look over and amend if necessary (see \[146(a)\] above). From my observation of his evidence under cross-examination, there was no misunderstanding of the questions being put to him and his answers were clear and unequivocal. To take just one example already referred to above, Mr Paddy was taken through the Piller quotation and he accepted it was for 1,750 kVA or 1,400 kW and accepted it was not for 3,600 kW; he was then referred to an email from Piller to him informing him that they were going to seek a re-pricing, again he agreed. He was forced to acknowledge the following:[^243]
 
-Q:I’m just saying at that time when you saw these documents, you would have known what the rated no break was. That’s my only point. Is that fine, Mr Paddy?
+> Q:I’m just saying at that time when you saw these documents, you would have known what the rated no break was. That’s my only point. Is that fine, Mr Paddy?
 
-A:Yes.
+> A:Yes.
 
 Again, he later acknowledged this:[^244]
 
-Q:First, Mr Paddy, you had earlier admitted to me that when you saw the DRUPS comparison table, you also saw the output and the rated output of the machines, do you recall?
+> Q:First, Mr Paddy, you had earlier admitted to me that when you saw the DRUPS comparison table, you also saw the output and the rated output of the machines, do you recall?
 
-A:That’s correct. Yes.
+> A:That’s correct. Yes.
 
-Q:So you did see it, correct?
+> Q:So you did see it, correct?
 
-A:Yes.
+> A:Yes.
 
 He also agreed that he asked Arup to evaluate these two options but he never rejected the options as underpowered.[^245]
 
@@ -1026,108 +1148,135 @@ He also agreed that he asked Arup to evaluate these two options but he never rej
 
 183    On 28 November 2008, Mr O’Brien, GSS’s then Managing Director (and Mr Turvey’s predecessor) sent Mr Paddy an email about the power he could sell in “the facility” in an email.[^247] It appears there was a query from Mr Corcoran.[^248] Around that time there were also queries about the incoming power supplies (the two “A” and “B” feeds from the power mains coming off the power grid) to the whole facility.[^249] This was relayed to Mr Adcock who replied on the 28 November 2008 to Mr Paddy.[^250] His answer covered both the Existing Facility and the Extension, this included, _inter alia_, the following:
 
-(a)     the existing electricity from the two main “A” and “B” feeds (coming off the power grid) could adequately support both the Existing Facility and the Extension “at the agreed power densities (specifically 1000 kW/m2 for the expansion)”;
+> (a)     the existing electricity from the two main “A” and “B” feeds (coming off the power grid) could adequately support both the Existing Facility and the Extension “at the agreed power densities (specifically 1000 kW/m2 for the expansion)”;
 
-(b)     the limiting factor for the Existing Facility was the UPS capacity (due to structural limitations);
+> (b)     the limiting factor for the Existing Facility was the UPS capacity (due to structural limitations);
 
-(c)     the limiting factor for the Extension was the UPS capacity (due to space limitation, hence installing the largest DRUPS unit possible);
+> (c)     the limiting factor for the Extension was the UPS capacity (due to space limitation, hence installing the largest DRUPS unit possible);
 
-(d)     with the current Existing Facility UPS contractual allocations plus the Extension sold at 1 kW/m2 for 4,000m2 Arup expected the diversified total site power requirement to be ~ 14.3 MW;
+> (d)     with the current Existing Facility UPS contractual allocations plus the Extension sold at 1 kW/m2 for 4,000m2 Arup expected the diversified total site power requirement to be ~ 14.3 MW;
 
-(e)     there were two (A & B) ring mains supplies. Each A & B supply had capacity of 18 to 20 MW, therefore either could supply the total load whether diversified or undiversified; and
+> (e)     there were two (A & B) ring mains supplies. Each A & B supply had capacity of 18 to 20 MW, therefore either could supply the total load whether diversified or undiversified; and
 
-(f)     the reason why it was important to look at the total diversified load was that this determined the maximum power demand that GSS agreed to pay for, so it was not cost effective to have this too high, _ie_, exactly why Mr Gudijanto had GSS’s Professional Engineer progressively increasing this.
+> (f)     the reason why it was important to look at the total diversified load was that this determined the maximum power demand that GSS agreed to pay for, so it was not cost effective to have this too high, _ie_, exactly why Mr Gudijanto had GSS’s Professional Engineer progressively increasing this.
 
 Mr Adcock also explained the limitations of the Existing Facility’s “N+N” configuration with a SUPS unit having a lower Power Usage Effectiveness (“PUE”) and the Extension having a better PUE with its DRUPS units, chilled water system and its “N+1” configuration. Importantly Mr Adcock’s email also included a spreadsheet which set out, in two columns, the position in the Existing Facility and for the Extension, which despite stating the “agreed power density” at 1 kW/m2, clearly set out the following:[^251]
 
-<table align="left" cellpadding="0" cellspacing="0" class="Judg-2" frame="none" pgwide="1"><colgroup><col width="47.22%"> <col width="52.78%"> </colgroup><tbody><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DRUPS</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3 in N+1 configuration</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">No-Break (UPS)</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1750 kVA</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Short-Break (Gen)</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">750 kVA</p></td></tr></tbody></table>
+>   
+| 
+
+DRUPS
+
+ | 
+
+3 in N+1 configuration
+
+ |
+| 
+
+No-Break (UPS)
+
+ | 
+
+1750 kVA
+
+ |
+| 
+
+Short-Break (Gen)
+
+ | 
+
+750 kVA
+
+ |
 
   
   
 
 184    Mr Paddy sent this email on to Mr O’Brien stating it was self-explanatory. Mr O’Brien responded that it was not self-explanatory and asked to speak to Mr Paddy. In the event it resulted in Mr Paddy sending an email to Mr Adcock on 28 November 2008 stating:[^252]
 
-Forgetting diversity
+> Forgetting diversity
 
-Mark very simplay \[_sic_\] want to know how much tachnical \[_sic_\] power can he sell (and cool) for the facility.
+> Mark very simplay \[_sic_\] want to know how much tachnical \[_sic_\] power can he sell (and cool) for the facility.
 
-Then we will assess any commercial risk in using diversity.
+> Then we will assess any commercial risk in using diversity.
 
 185    Mr Adcock replied the same day:[^253]
 
-Without diversity, this is 2 x 1750kVA x 0.8pf = 2,800 kW for the 4,000m2 of the Expansion or 700/m2
+> Without diversity, this is 2 x 1750kVA x 0.8pf = 2,800 kW for the 4,000m2 of the Expansion or 700/m2
 
-With a 0.7 diversity 1000W/m2 over the 4000m2 would be achieved.
+> With a 0.7 diversity 1000W/m2 over the 4000m2 would be achieved.
 
-However, I’m not sure what has been sold on the different floors of the Existing building and the other variable is what is now the plan for upgrading the UPS power on L6 (as it converts from DC to AC power)?
+> However, I’m not sure what has been sold on the different floors of the Existing building and the other variable is what is now the plan for upgrading the UPS power on L6 (as it converts from DC to AC power)?
 
 186    Mr Adcock was cross-examined on this email on the basis that this was the first time he directly told Mr Paddy in writing that the DRUPS units could only provide 2,800 kW of power:[^254]
 
-Q:… This is the first time you told Mr Gordon Paddy that the DRUPS system can only provide 2,800 kW of power. Do you agree or disagree?
+> Q:… This is the first time you told Mr Gordon Paddy that the DRUPS system can only provide 2,800 kW of power. Do you agree or disagree?
 
-A:It's the first time I've seen it in writing, yes, like -- simplified like this.
+> A:It's the first time I've seen it in writing, yes, like -- simplified like this.
 
-Q:Let me just ask you again because I think this is what you are trying to say but correct me if I am wrong. You are saying that this is the first time you have told him directly about this particular issue in writing?
+> Q:Let me just ask you again because I think this is what you are trying to say but correct me if I am wrong. You are saying that this is the first time you have told him directly about this particular issue in writing?
 
-A:In a single sentence, yes.
+> A:In a single sentence, yes.
 
-Q:Let’s be clear about this. There is no other document whereby you had informed Gordon Paddy or Global Switch directly that the DRUPS can only provide 2,800 kW of power up until this particular point of time?
+> Q:Let’s be clear about this. There is no other document whereby you had informed Gordon Paddy or Global Switch directly that the DRUPS can only provide 2,800 kW of power up until this particular point of time?
 
-A:It was clear from those other spreadsheets about the capacity, but in a simplified version like this, no.
+> A:It was clear from those other spreadsheets about the capacity, but in a simplified version like this, no.
 
 While there was an attempt to gain some mileage of Mr Adcock’s answers to this line of cross-examination, I find that it is more than clear not only what those spreadsheets stated with respect to NBP and SBP, but more importantly the emails from the suppliers of the DRUPS manufacturers to Mr Paddy stated clearly what their respective DRUPS unit’s NBP and SBP capacities were. Mr Paddy also accepted, under cross-examination, that when he saw these documents, he knew what the NBP was. Mr Paddy was not re-examined on this point.
 
 187    Mr Paddy responded in an email on the same day:[^255]
 
-We **_may_** have to **_back up in excess of 2800kW_** with only 2 UPS units (1 being faulty).
+> We **_may_** have to **_back up in excess of 2800kW_** with only 2 UPS units (1 being faulty).
 
-Mark has rationalised this by simply saying exising \[_sic_\] facility 14+MW extension 4MW + cooling 2.4MW (PUE 1.6).
+> Mark has rationalised this by simply saying exising \[_sic_\] facility 14+MW extension 4MW + cooling 2.4MW (PUE 1.6).
 
-We are now exceeding 20MW.
+> We are now exceeding 20MW.
 
-In Sydney we only allow a diversity of .9 or 1.1 _whichever way you look at it_, **_you have me concerned._**
+> In Sydney we only allow a diversity of .9 or 1.1 _whichever way you look at it_, **_you have me concerned._**
 
-\[emphasis added in italics and bold italics\]
+> \[emphasis added in italics and bold italics\]
 
 188    In my view, Mr Paddy’s answer on this very important point, _viz_, the claim that this was the first time Arup told him about the NBP, was very telling:
 
-(a)     He did not, for example, protest that the 2,800 kW was well below the required power of 3,600 kW (4,000 kW with 0.9 diversity) or query why the NBP was only 2,800 kW or ask how the NBP had dropped to that level or indeed as Mr Chia, counsel for Arup, put it to him: “2,800 kW is not 3.6 which is what I want”.[^256] Instead, he said: “… you have me concerned”.
+> (a)     He did not, for example, protest that the 2,800 kW was well below the required power of 3,600 kW (4,000 kW with 0.9 diversity) or query why the NBP was only 2,800 kW or ask how the NBP had dropped to that level or indeed as Mr Chia, counsel for Arup, put it to him: “2,800 kW is not 3.6 which is what I want”.[^256] Instead, he said: “… you have me concerned”.
 
-(b)     He also stated “we **_may_** have to back up in excess of 2800 kW…” \[emphasis added\] which was a strange way of saying that this was significantly below what GSS required in the Extension. In plain English, I would have expected an expression like: “we **_now_** have back up in excess of 2,800 kW” or words to that effect. This can be contrasted to his second paragraph where Mr Paddy shows his concern over GSS requirements as being higher that the supply of 20 MW from the power mains, there he says: “We are **_now_** exceeding 20MW” \[emphasis added\].
+> (b)     He also stated “we **_may_** have to back up in excess of 2800 kW…” \[emphasis added\] which was a strange way of saying that this was significantly below what GSS required in the Extension. In plain English, I would have expected an expression like: “we **_now_** have back up in excess of 2,800 kW” or words to that effect. This can be contrasted to his second paragraph where Mr Paddy shows his concern over GSS requirements as being higher that the supply of 20 MW from the power mains, there he says: “We are **_now_** exceeding 20MW” \[emphasis added\].
 
 189    Significantly, there is also no evidence put forward as to what Mr Paddy did upon receiving Arup’s categorical answer of 2,800 kW NBP and what he reported back to Mr O’Brien’s query. This is important because Mr O’Brien wanted to know how much power he could sell in the Extension. Mr Paddy only stated in his AEIC at paragraph 45 that he “trusted that Arup would come up with the necessary solutions to meet Global Switch’s requirement”. Again he was cross-examined on this aspect and his entirely unconvincing answers speak for themselves:[^257]
 
-Q:… So you have the business guys turning to you as a technical director asking, “Mr Paddy, how much can I sell?” Because they want to go out and get customers for Global Switch, correct?
+> Q:… So you have the business guys turning to you as a technical director asking, “Mr Paddy, how much can I sell?” Because they want to go out and get customers for Global Switch, correct?
 
-A:Correct.
+> A:Correct.
 
-…
+> …
 
-Q:… You have now just been told by Mr Peter Adcock its 2,800 kW undiversified, yes, correct?
+> Q:… You have now just been told by Mr Peter Adcock its 2,800 kW undiversified, yes, correct?
 
-A:Yes.
+> A:Yes.
 
-Q:You were told this after Mr Mark O’Brien asked you how much power can I sell, correct?
+> Q:You were told this after Mr Mark O’Brien asked you how much power can I sell, correct?
 
-A:Yes, I believe so.
+> A:Yes, I believe so.
 
-Q:Did you tell Mr Mark O’Brien and the business people that currently on the design it’s only 2,800 kW?
+> Q:Did you tell Mr Mark O’Brien and the business people that currently on the design it’s only 2,800 kW?
 
-A: _I can’t recall_.
+> A: _I can’t recall_.
 
-Q:Is there any email where you told them that currently on of the design it’s only 2,800 kW?
+> Q:Is there any email where you told them that currently on of the design it’s only 2,800 kW?
 
-A: _I can’t recall that either_.
+> A: _I can’t recall that either_.
 
-Q:Your affidavit of evidence-in-chief does not say that you told Mr Mark O’Brien it was only 2,800 kW at that stage. Will that assist you?
+> Q:Your affidavit of evidence-in-chief does not say that you told Mr Mark O’Brien it was only 2,800 kW at that stage. Will that assist you?
 
-A: _If I didn’t say it in the affidavit, yes_.
+> A: _If I didn’t say it in the affidavit, yes_.
 
-Q:Can I suggest to you then that even after at this stage you were told of the limitations of the three DRUPS in an N+1 situation, you did not feedback that up to Mr Mark O’Brien or Mr David Guth even though this came as a result of a specific query from them. Do you agree?
+> Q:Can I suggest to you then that even after at this stage you were told of the limitations of the three DRUPS in an N+1 situation, you did not feedback that up to Mr Mark O’Brien or Mr David Guth even though this came as a result of a specific query from them. Do you agree?
 
-A:If there’s no email, that would be correct. I may have told them verbally. _But I can’t recall the circumstances way back then_.
+> A:If there’s no email, that would be correct. I may have told them verbally. _But I can’t recall the circumstances way back then_.
 
-\[emphasis added\]
+> \[emphasis added\]
 
 I do not accept Mr Paddy’s retreat into not being able to recall such an important discovery. If indeed there was such an unauthorised shortfall from the required NBP, I find it hard to believe that this did not immediately become a red flag issue as between GSS (especially their sales division), and Arup. The question of NBP was asked by the GSS Managing Director, who wanted to know how much power GSS could sell. If GSS thought this was 4,000 kW with a diversity of 0.9 and a reply came back at 2,800 kW, one would expect, at the very least, some discussions between GSS, Mr Paddy and Arup to ensue. There is surprisingly _no evidence_ put forward by GSS of Mr O’Brien’s reaction to what would have been alarming news.
 
@@ -1143,11 +1292,11 @@ I do not accept Mr Paddy’s retreat into not being able to recall such an impo
 
 195    On the 1 December 2008, Mr Adcock emailed Mr Paddy and stated that EuroDiesel DRUPS unit could operate at a power factor of +0.99 and that the power available at the Extension was 2 x 1,750 x 0.99 = 3,465 kW or 85% of the nominal 4,000 kW.[^271] Mr Adcock also states:
 
-Apologies if I **_did not originally explain_** the limitations behind this **_clearly enough_**, which are:
+> Apologies if I **_did not originally explain_** the limitations behind this **_clearly enough_**, which are:
 
-(i)     _the largest DRUPS units available (limited by the 3MW 20V cyl MTU engine_) and
+>> (i)     _the largest DRUPS units available (limited by the 3MW 20V cyl MTU engine_) and
 
-(ii)   the _remaining space available_ at the Tai Seng Ave site. \[emphasis added in italics and bold italics\]
+>> (ii)   the _remaining space available_ at the Tai Seng Ave site. \[emphasis added in italics and bold italics\]
 
 I find the tone of that email to be in keeping with Mr Adcock’s mild, rather than assertive, character as I have observed above (at \[190\]).
 
@@ -1155,35 +1304,35 @@ I find the tone of that email to be in keeping with Mr Adcock’s mild, rather 
 
 197    On 27 January 2009, the next significant event occurred when Global Switch sent their Global Switch Directive. Mr Paddy’s email dated 27 January 2009 to Mr Adcock started with the following:[^272]
 
-I believe I may have mentioned the _companies_ \[sic\] _desire to sell down the maximum power_.
+> I believe I may have mentioned the _companies_ \[sic\] _desire to sell down the maximum power_.
 
-Essentially I believe most of what the brief wants you and Les _have already worked on_.
+> Essentially I believe most of what the brief wants you and Les _have already worked on_.
 
-Can you advise what if anythiing \[sic\] else we need to do in order to comply with the brief.
+> Can you advise what if anythiing \[sic\] else we need to do in order to comply with the brief.
 
-\[emphasis added\]
+> \[emphasis added\]
 
 What this email says, especially in the first and second paragraphs, is plain and unambiguous. Its contents are also significant given my findings on why Mr Paddy varied the power requirement to 2,800 kW and GSS’s aversion to incurring capital expenditure unless there was a strong business case therefor. I have already referred to the Global Switch Directive in some detail at \[35\] and its consequence on this Project. To recapitulate, Global Switch:
 
-(a)     called for a thorough technical review of the power and cooling capacities of their data centres to think out of the box to suggest ways to re-distribute any _spare power capacity_ so as to _maximise revenues_; and
+> (a)     called for a thorough technical review of the power and cooling capacities of their data centres to think out of the box to suggest ways to re-distribute any _spare power capacity_ so as to _maximise revenues_; and
 
-(b)     required all their data centres to look at extension buildings in light of possible savings by the application of “power diversity initiatives”.
+> (b)     required all their data centres to look at extension buildings in light of possible savings by the application of “power diversity initiatives”.
 
 198    GSS asked Arup for their comments on the Global Switch directive and Arup responded in a long email dated 29 January 2009 from Mr Adcock to Mr Paddy.[^273] This email started with the following paragraph:
 
-The brief broadly _outlines what we have been doing_ at the GS-Singapore _under your direction_ at the site over the _past 12 to 18 mths_, i.e. maximise the available power and cooling within the space available. \[emphasis added\]
+> The brief broadly _outlines what we have been doing_ at the GS-Singapore _under your direction_ at the site over the _past 12 to 18 mths_, i.e. maximise the available power and cooling within the space available. \[emphasis added\]
 
 and went on to state, _inter alia_:
 
-The units selected are 3No 2.5MVA EuroDiesel in a N+1 configuration and _due to the site space constraints_ these will be containerised units located on a gantry over the loading dock. \[emphasis added\]
+> The units selected are 3No 2.5MVA EuroDiesel in a N+1 configuration and _due to the site space constraints_ these will be containerised units located on a gantry over the loading dock. \[emphasis added\]
 
 199    GSS never challenged this statement. Instead there is a very telling email from Mr O’Brien to Mr Paddy and Mr Guth dated 30 January 2009:[^274]
 
-John has asked for us to look at the extension build in light of possible savings due to the application of power diversity initiatives etc.
+> John has asked for us to look at the extension build in light of possible savings due to the application of power diversity initiatives etc.
 
-For example, _is it_ **_possible to reduce_** _the power build_ **to provide 800W/sqm** with an option of adding extra power at a later stage if required?
+> For example, _is it_ **_possible to reduce_** _the power build_ **to provide 800W/sqm** with an option of adding extra power at a later stage if required?
 
-\[emphasis in added in italics and bold italics\]
+> \[emphasis in added in italics and bold italics\]
 
 This was either the application of a larger diversity factor of 0.8 when addressing the “power build” of 1,000 W/m2 to prospective tenants or reducing the power they marketed to prospective tenants at 800W/m2 instead of 1,000W/m2 but with the ability to add additional NBP when it became a requirement by the tenant. It is clear that GSS was internally discussing the stipulated power and probably contemplating the latter. The suggestion of adding power at a later stage, when the demand for power from the tenants required it, was similar to GSS’s past strategy where it initially installed six generators when the Existing Facility was not fully occupied and had the option to add on generators in a “plug-and-play” model as and when more space was taken up by tenants (see \[12\]).[^275]
 
@@ -1191,35 +1340,35 @@ This was either the application of a larger diversity factor of 0.8 when address
 
 201    There was a further oral query raised by Mr Paddy on diversity at GSS on 10 February 2009. The relevant responses of Mr Adcock’s email on 11 February 2009 are as follows:[^278]
 
-Following-up on our conversation last night, we see the issue of diversity at the Global Switch Singapore site as:
+> Following-up on our conversation last night, we see the issue of diversity at the Global Switch Singapore site as:
 
-1.    Typically banks, who have upto seven IT platforms (and conservative consultants) have an average load of 50 to 70 % of their contracted power density i.e. 500W/m2 from 1000W/m2. _However, as there is often a higher peak load at times of end of day, week or month and it is this for what the design and installed plant capacity must be capable of supplying_. _Whereas tenants such as_ **_Microsoft_** _with only one or two IT platforms will load their equipment up to the limit and then want more_.
+>> 1.    Typically banks, who have upto seven IT platforms (and conservative consultants) have an average load of 50 to 70 % of their contracted power density i.e. 500W/m2 from 1000W/m2. _However, as there is often a higher peak load at times of end of day, week or month and it is this for what the design and installed plant capacity must be capable of supplying_. _Whereas tenants such as_ **_Microsoft_** _with only one or two IT platforms will load their equipment up to the limit and then want more_.
 
-2.    While tenants may be likely loaded now, _they have planned their areas upto_ \[sic\] _7 to 10 years and are within their right to add equipment at anytime_
+>> 2.    While tenants may be likely loaded now, _they have planned their areas upto_ \[sic\] _7 to 10 years and are within their right to add equipment at anytime_
 
-_3_.     _While there will also be diversity between tenants, again it is important to look at the peaks and not the average_. What we have done for the expansion is design for 100% load knowing that while the DRUPS can run at 110% it is better to have the load in the 80 to 90% range which is where we expect it to be once full occupied and this gives a good safety margin …
+>> _3_.     _While there will also be diversity between tenants, again it is important to look at the peaks and not the average_. What we have done for the expansion is design for 100% load knowing that while the DRUPS can run at 110% it is better to have the load in the 80 to 90% range which is where we expect it to be once full occupied and this gives a good safety margin …
 
-…
+>> …
 
-5.    With this being a relatively modern facility (initially built in 2001) the days of overdesign equipment are past.
+>> 5.    With this being a relatively modern facility (initially built in 2001) the days of overdesign equipment are past.
 
-…
+>> …
 
-7.    At the end of the day this is not an engineering question, but more of a commercial management v’s risk exercise. However, we would not be recommending it without detailed monitoring (minimum of monthly to establish the average and peaks – over 15min intervals – for individual tenants).
+>> 7.    At the end of the day this is not an engineering question, but more of a commercial management v’s risk exercise. However, we would not be recommending it without detailed monitoring (minimum of monthly to establish the average and peaks – over 15min intervals – for individual tenants).
 
-\[emphasis added in italics and bold italics\]
+> \[emphasis added in italics and bold italics\]
 
 202    In this email, Mr Adcock acknowledged that typically banks (of which GSS had at least one as its current tenant) who have up to seven IT platforms, have an average load of 50% to 70% of their contracted power density, but he cautioned that there often are higher peak loads at the end of the day or week or month. He presciently noted that tenants like Microsoft with only one or two IT platforms would load their equipment up to the limit and then want more. From this email, Mr Adcock was clearly advising caution against applying diversity without considering the kinds of tenants and the typical loads those tenants have; emphasising the importance of looking at peak usages and not averages; and cautioning against banking on running the DRUPS units at 110% and that tenants would have the right, given the usually long leases, to take up the contracted loads by adding equipment as time goes on.
 
 203    On 17 February 2009, just over two weeks after Global Switch’s directive, GSS issued the Stop Work Order. GSS couched it as awaiting “a certain trigger event” before commencing construction. This was envisaged to be September 2009.[^279] No doubt that trigger event meant GSS managing to secure a tenant. Under cross-examination, Mr Guth explained that this Stop Work Order was issued because at that time, GSS did not have a tenant (or any tenants) for the Extension:[^280]
 
-Q:… Can you explain to the court the reason why there was a halt in February 2009 for the project?
+> Q:… Can you explain to the court the reason why there was a halt in February 2009 for the project?
 
-A:The reason was at the time Global Switch didn’t have a customer. The company is generally risk averse to heavy investment without ensuring a return on the investment and, therefore, further discussions were being had with customers to ascertain the realism of it before investing in the project.
+> A:The reason was at the time Global Switch didn’t have a customer. The company is generally risk averse to heavy investment without ensuring a return on the investment and, therefore, further discussions were being had with customers to ascertain the realism of it before investing in the project.
 
-Q:It is only after some of those initial discussions start to bear fruit, or there is an indication of customer demand in around October 2009 that Global Switch re-engages the project, isn’t that correct?
+> Q:It is only after some of those initial discussions start to bear fruit, or there is an indication of customer demand in around October 2009 that Global Switch re-engages the project, isn’t that correct?
 
-A:That’s correct.
+> A:That’s correct.
 
 204    In addition to my findings of fact above, I find that as of 17 February 2009, GSS had agreed with Arup to install only three EuroDiesel No Break KS-5 1,750/2,500 kVA, 400 V, 50 Hz DRUPS units in the Extension. GSS, working within their limitations of space and cost constraints, were prepared to accept 1,400 kW of NBP and 600 kW of SBP per DRUPS unit in an “N+1” configuration. I accept the submissions of Arup that GSS constrained the space that was available to place the DRUPS units: that space could only accommodate three DRUPS units. GSS through their consultants ruled out the only other suitable place where another DRUPS unit could be located, _viz_, above the HV Transformer, as we shall see, the largest available and suitable DRUPS unit was capable of only delivering 1,400 kW NBP and 600 to 625 kW SBP. GSS through Mr Paddy knew about this and GSS had cost constraints in that it was risk averse to heavy investment without there being customer take-up. This was consistent with and borne out by the Global Switch Directive in January 2009 which requested for a thorough technical review of all spare capacity in their existing facilities, to innovatively re-distribute any spare power and cooling capacities to maximise revenues and to look at power diversity initiatives in all extension buildings. This is also borne out by Arup’s responses, set out at \[198\] and \[200\]–\[201\] above, when asked by GSS to respond to the Global Switch Directive for power diversity initiatives, using all spare power and not incurring any more capital expenditure in expansions without a business case.
 
@@ -1235,17 +1384,17 @@ A:That’s correct.
 
 209    It is important to note that Mr Paddy had also asked Mr Adcock to investigate whether GSS could rely on the Existing Facility’s spare power to satisfy the Extension’s NBP requirements.[^285] On 13 October 2009, Mr Adcock responded to this query in an email which, amongst other things, stated that:[^286]
 
-In response to _your question_ as to whether the DRUPS (and also chillers?) for the expansion could be initially deferred, _by using spare capacity in the existing building_ to supply the expansion, we have checked the present loads and report back as follows:
+> In response to _your question_ as to whether the DRUPS (and also chillers?) for the expansion could be initially deferred, _by using spare capacity in the existing building_ to supply the expansion, we have checked the present loads and report back as follows:
 
-The summary tab of the attached spreadsheet shows that there is presently _a_ **_total balance of 1,454kW of UPS power_** _(Available power minus Contracted power)_ over the existing UPS systems on Levels 2 to 7. _However, we do not recommend that the UPS systems be loaded to 100% of capacity as it is difficult to manage the phase balance - it is standard industry practice to limit the load to 90%_ (not that this would be an immediate concern as the maximum actual loads are only ~50% of the contracted value). This is at UPS level and we would need to check what spare circuit breakers and/or spaces are available on the UMSB's to access this power. As the UPS room locations in the existing building vary from floor to floor (done to distribute the high structural loadings from the batteries to different columns and footings) we would need to check access routes to the expansion.
+> The summary tab of the attached spreadsheet shows that there is presently _a_ **_total balance of 1,454kW of UPS power_** _(Available power minus Contracted power)_ over the existing UPS systems on Levels 2 to 7. _However, we do not recommend that the UPS systems be loaded to 100% of capacity as it is difficult to manage the phase balance - it is standard industry practice to limit the load to 90%_ (not that this would be an immediate concern as the maximum actual loads are only ~50% of the contracted value). This is at UPS level and we would need to check what spare circuit breakers and/or spaces are available on the UMSB's to access this power. As the UPS room locations in the existing building vary from floor to floor (done to distribute the high structural loadings from the batteries to different columns and footings) we would need to check access routes to the expansion.
 
-\[emphasis added in italics and bold italics\]
+> \[emphasis added in italics and bold italics\]
 
 210    Mr Guth’s AEIC also exhibits a “Status and Recommendation Report” issued by GSS on 4 November 2009 on the Project.[^287] This report sets out the recommendation to go ahead with the Project and the reasons therefor. There are two aspects of this document that bear pointing out in that they show the thinking behind GSS’s recommendation:
 
-(a)     First, under a section entitled “construction”, it was stated that “\[a\] major emphasis has been placed on how to minimise the day 1 capex as well as the overall facility budget”.[^288]
+> (a)     First, under a section entitled “construction”, it was stated that “\[a\] major emphasis has been placed on how to minimise the day 1 capex as well as the overall facility budget”.[^288]
 
-(b)     Secondly, the report’s conclusion included a recommendation to “proceed on the development under the current design with a view if required to defer certain items of the major plant and equipment to reduce the day 1 costs and only install these when required”.[^289]
+> (b)     Secondly, the report’s conclusion included a recommendation to “proceed on the development under the current design with a view if required to defer certain items of the major plant and equipment to reduce the day 1 costs and only install these when required”.[^289]
 
 211    During cross-examination, Mr Guth accepted that these statements were indicative of GSS’s desire to avoid incurring more capital expenditure than it needed to as GSS had no guaranteed tenants for the entire Extension then.[^290] This was obviously of concern whilst Microsoft had not yet signed on the dotted line.
 
@@ -1265,21 +1414,21 @@ The summary tab of the attached spreadsheet shows that there is presently _a_ **
 
 219    Having been informed of Microsoft’s requirements, Mr Paddy proceeded to ask Mr Adcock to investigate whether the Extension was able to deliver the 4,000 kW of NBP that Microsoft needed. This seems to have taken place during an undocumented exchange between the two men sometime before 23 February 2010.[^305] Thereafter, Mr Adcock sent an email to Mr Paddy informing him specifically that the total NBP capacity of Arup’s Original Design was 3,500 kW.[^306] Mr Paddy then sent an email to Mr Adcock:[^307]
 
-I am very dissappointed \[_sic_\] I have asked the question about capacity numerous times and our expectation has always been 4000sm at 1000w/sqm
+> I am very dissappointed \[_sic_\] I have asked the question about capacity numerous times and our expectation has always been 4000sm at 1000w/sqm
 
-We now are 500 KW down thats assuming the units undertake pf correction to get back to unity pf. Thus I doubt.
+> We now are 500 KW down thats assuming the units undertake pf correction to get back to unity pf. Thus I doubt.
 
-Please enlighten me as to how this has occured \[_sic_\]. Also ha \[_sic_\] an analysis been undertaken and have ED been asked if the units can deliver more no break at the expense of short break? How much shortbreak power do we need.
+> Please enlighten me as to how this has occured \[_sic_\]. Also ha \[_sic_\] an analysis been undertaken and have ED been asked if the units can deliver more no break at the expense of short break? How much shortbreak power do we need.
 
-Please get back to me ASAP.
+> Please get back to me ASAP.
 
 I find that Mr Paddy’s claim that he asked the question “about capacity numerous times” was not true. Mr Paddy does not mention either in his AEIC or in his oral evidence, when those “numerous times” he raised the question were. I have already referred to Mr Paddy’s only other response in writing on 28 November 2008, when he claims he was first told the NBP was 2,800 kW, at \[185\] and my views on his response are at \[188\]. There is no evidence that Mr Paddy complained verbally to Mr Adcock. Indeed, there is unlikely to be any given the number of emails passing between Mr Paddy and Mr Adcock and their contents, which give no hint of unhappiness or querying the shortfall or how it came about.
 
 220    Mr Paddy was asked this in cross-examination and his answer, unsurprisingly, evades the question:[^308]
 
-Q:I have shown you the entirety of the correspondence that at all times at the highest, Arup has assured you approximately just under 3,500 kW of power based on Arup’s belief that the Euro-Diesel machine could give unity power factor. Why is it here in this email that you say and suggest that you have asked the question about capacity numerous times and your expectation was 4,000 kW?
+> Q:I have shown you the entirety of the correspondence that at all times at the highest, Arup has assured you approximately just under 3,500 kW of power based on Arup’s belief that the Euro-Diesel machine could give unity power factor. Why is it here in this email that you say and suggest that you have asked the question about capacity numerous times and your expectation was 4,000 kW?
 
-A:Because that was my expectation at the time.
+> A:Because that was my expectation at the time.
 
 The next five pages of cross-examination in the transcript show Mr Paddy being driven to agree that Arup was only required to deliver 3,600 kW power; that he had forgotten, I must say most unconvincingly, about the application of 0.9 diversity; that Arup never indicated or stated or promised 4,000 kW and it was only after GSS’s business side informed him of Microsoft’s requirement of 4,000 kW that he checked with Arup; and that he got a shock when Arup replied that the NBP capacity was 3,500 kW, because he had forgotten that Arup was tasked to deliver only 3,600 kW.[^309]
 
@@ -1289,23 +1438,23 @@ The next five pages of cross-examination in the transcript show Mr Paddy being 
 
 223    Mr Paddy’s email at \[219\] thus represents the first time in writing that GSS was requesting that Arup’s design be capable of delivering 4,000 kW of NBP to the Extension. Indeed, Mr Paddy accepted that:
 
-(a)     as noted above, Arup had never indicated to GSS that it would produce a design capable of delivering 4,000 kW of NBP;[^310]
+> (a)     as noted above, Arup had never indicated to GSS that it would produce a design capable of delivering 4,000 kW of NBP;[^310]
 
-(b)     the Fee Proposal only required Arup to produce a design that could deliver 3,600 kW of NBP in an “N+1” configuration;[^311] and
+> (b)     the Fee Proposal only required Arup to produce a design that could deliver 3,600 kW of NBP in an “N+1” configuration;[^311] and
 
-(c)     the scope of Arup’s works had changed and it was to “put in an additional 400 kW” of NBP into the Extension.[^312]
+> (c)     the scope of Arup’s works had changed and it was to “put in an additional 400 kW” of NBP into the Extension.[^312]
 
 224    Mr Adcock responded to Mr Paddy’s email later that day, stating, _inter alia_, that the Extension’s space can still be sold at 1 kW/m2 because tenants are unlikely to occupy more than 85% of the space, coupled with the application of a 0.9 diversity factor.[^313] Mr Adcock confirmed that as requested he would write to EuroDiesel on increasing the no-break component. Mr Adcock also pointed out there was significant spare capacity in the Existing Facility which could be utilised, if required. Mr Adcock was cross-examined on this and admitted he was trying to ameliorate the situation by referring to the actual percentage of occupation of the Extension and the diversity factor.[^314]
 
 225    Mr Adcock wrote to EuroDiesel to ask whether the NBP output of the DRUPS units could be increased at the expense of SBP.[^315] EuroDiesel’s response was that:
 
-(a)     the 2,500 kVA is based on a power factor of 0.8 and the engine was capable of delivering 2,000 kW;
+> (a)     the 2,500 kVA is based on a power factor of 0.8 and the engine was capable of delivering 2,000 kW;
 
-(b)     the current balance was 1,400 kW NBP and 600 kW SBP;
+> (b)     the current balance was 1,400 kW NBP and 600 kW SBP;
 
-(c)     EuroDiesel would investigate the possibility to shift the balance to 1,500 kW (or more) NBP and 500 kW SBP;
+> (c)     EuroDiesel would investigate the possibility to shift the balance to 1,500 kW (or more) NBP and 500 kW SBP;
 
-(d)     but the total output of 2,000 kW would not change.[^316]
+> (d)     but the total output of 2,000 kW would not change.[^316]
 
 226    On 11 March 2010 Mr Guth emailed Mr Paddy and asked whether he has received a consolidated response from Arup; he stated “With Microsoft looking real for the entire space, this 4MW issue is important that we resolve adequately.”[^317] Mr Paddy sent Mr Adcock an email on 12 March 2010 asking for a “well rounded response to this issue after looking at alternate supply sources for the major \[mechanical\] loads”, and also to look at “what power factor the EuroDiesel units will correct the load to”.[^318]
 
@@ -1313,27 +1462,27 @@ The next five pages of cross-examination in the transcript show Mr Paddy being 
 
 228    I digress for a moment to note that there was a meeting between Mr Corcoran and Mr Adcock on 27 May 2010 where Mr Adcock was asked to provide further details on who from GSS had accepted Arup’s Original Design, and when this acceptance was communicated to Arup.[^321] Mr Adcock responded to this request by way of a letter on 31 May 2010, which stated:[^322]
 
-Attention: John Corcoran
+> Attention: John Corcoran
 
-**Global Switch Singapore – Expansion: Microsoft Lease Agreement & UPS Capacity**
+> **Global Switch Singapore – Expansion: Microsoft Lease Agreement & UPS Capacity**
 
-Further to our meeting on Thursday 27th May 2010 and your request that Arup check our records and provide details on when and who from Global Switch had accepted the current UPS capacity, we have prepared the following summary:
+> Further to our meeting on Thursday 27th May 2010 and your request that Arup check our records and provide details on when and who from Global Switch had accepted the current UPS capacity, we have prepared the following summary:
 
-The 3No DRUPS concept and limitation of 1,400 kW Critical Load (No Break) Rated Output per unit has been shown since:
+> The 3No DRUPS concept and limitation of 1,400 kW Critical Load (No Break) Rated Output per unit has been shown since:
 
-19 September 2008 - Documentation Transmittal (Prelim drgs for CM - RFP) to Joe Ng & Gordon Paddy
+> 19 September 2008 - Documentation Transmittal (Prelim drgs for CM - RFP) to Joe Ng & Gordon Paddy
 
-29 October 2008 – DRUPS Comparison Spreadsheet to Gordon Paddy
+> 29 October 2008 – DRUPS Comparison Spreadsheet to Gordon Paddy
 
-8 December 2008 – Documentation Transmittal (Tender set & addendums) David Guth & Gordon Paddy
+> 8 December 2008 – Documentation Transmittal (Tender set & addendums) David Guth & Gordon Paddy
 
-The above is in keeping with 30 January 2009 email received from Mark O’Brien (via Gordon Paddy) stating that: “_John has asked for us to look at the extension build in light of possible savings due to the application of power diversity initiatives etc. For example, is it possible to reduce the power build to provide 800W/sqm with an option of adding extra power at a later stage if required?”_
+> The above is in keeping with 30 January 2009 email received from Mark O’Brien (via Gordon Paddy) stating that: “_John has asked for us to look at the extension build in light of possible savings due to the application of power diversity initiatives etc. For example, is it possible to reduce the power build to provide 800W/sqm with an option of adding extra power at a later stage if required?”_
 
-From the “_As discussed we are satisfied where the project stands currently_...” in the 19 February 2009 – Project Status & Update letter from David Guth, Global Switch had accepted the current UPS capacity.
+> From the “_As discussed we are satisfied where the project stands currently_...” in the 19 February 2009 – Project Status & Update letter from David Guth, Global Switch had accepted the current UPS capacity.
 
-We trust that this clarifies this issue.
+> We trust that this clarifies this issue.
 
-\[emphasis in original\]
+> \[emphasis in original\]
 
 There is no evidence before me as to any reply by Mr Corcoran to Mr Adcock’s letter. What I do have is Mr Guth’s AEIC where he deposes that on his review of Mr Adcock’s letter (though he does not say when he reviewed the documents), he could not see any acceptance by GSS of the “current UPS capacity” in the documents cited by Mr Adcock.[^323] Mr Adcock does not dispute this. When he was taken through the various documents cited in the abovementioned email, he accepted that none of them indicated that the Extension’s NBP was 2,800 kW in an “N+1” configuration. However, this does not detract from the fact that Mr Paddy was aware, as demonstrated by my review of the numerous other documents set out above, that Arup’s Original Design was only capable of delivering 2,800 kW of NBP to the Extension.
 
@@ -1343,9 +1492,9 @@ There is no evidence before me as to any reply by Mr Corcoran to Mr Adcock’s
 
 230    GSS claims that, as of 2009, there were two other larger-capacity DRUPS units available that could have enabled GSS to meet its IT Load Requirement of 4,000 kW:[^324]
 
-(a)     Piller’s 2,500 kVA 2,000 kW NB DRUPS unit; and
+> (a)     Piller’s 2,500 kVA 2,000 kW NB DRUPS unit; and
 
-(b)     EuroDiesel’s 3,000 kVA **_2,000_** kW NB DRUPS unit.
+> (b)     EuroDiesel’s 3,000 kVA **_2,000_** kW NB DRUPS unit.
 
 231    Arup, in its closing submissions, directed its arguments towards Piller’s 2,500 kVA 2,000 kW NB DRUPS unit and EuroDiesel’s 3,000 kVA **_1,800_** kW NB DRUPS unit.[^325] This appears to be an error on Arup’s part. Arup cited Mr Ansett’s _first_ AEIC for EuroDiesel’s 3,000 kVA **_1,800_** kW NB DRUPS unit, but as Mr Ansett explained in his _second_ AEIC, EuroDiesel had increased the NB capacity of its DRUPS unit from 1,800 kW to 2,000 kW and reduced the DRUPS unit’s SB capacity from 600 kW to 400 kW.[^326] It is Ansett’s _second_ AEIC which identified the EuroDiesel 3,000 kVA **_2,000_** kW NB DRUPS unit as an available option, since he had earlier explained that the old model with 1,800 kW of NBP would only provide 3,600 kW of NBP in an “N+1” configuration.[^327] I will therefore analyse whether EuroDiesel’s 3,000 kVA **_2,000_** kW NB DRUPS unit (as opposed to its 1,800 kW NB DRUPS) existed in 2009 and was suitable for GSS’s purposes.
 
@@ -1369,11 +1518,11 @@ There is no evidence before me as to any reply by Mr Corcoran to Mr Adcock’s
 
 239    Mr Ho, counsel for GSS, contended that the very same article relied on by Mr Chia _also_ identifies another suitable alternative, this being EuroDiesel’s 2,500 kVA DRUPS which operates at 50 Hz. For context I reproduce the material portions of EuroDiesel’s November 2009 Press Release:[^342]
 
-The new 3000 kVA is designed for operation within regions around the world operating at 60Hz in stand-alone and parallel redundant configurations, _whilst a 2500 kVA version is also available for 50HZ applications_. \[emphasis added\]
+> The new 3000 kVA is designed for operation within regions around the world operating at 60Hz in stand-alone and parallel redundant configurations, _whilst a 2500 kVA version is also available for 50HZ applications_. \[emphasis added\]
 
 240    While Mr Ansett accepted that was no 3,000 kVA EuroDiesel unit that operated at 50 Hz,[^343] in relation to the italicised portions of EuroDiesel’s November 2009 Press Release, Mr Ansett testified that “what this does reveal is there was in existence a 2,000 kW no break machine in 2009” that was “the equivalent of the Piller \[DRUPS unit\]”.[^344] In support, Mr Ansett also relied on an undated EuroDiesel printout which stated that in 2009 there was the “\[l\]aunch of the new 2500kVA (50Hz) / 3000kVA (60Hz) NO-BREAK KS® Single Output Systems”.[^345] The upshot of Mr Ansett’s contention is that there remained two alterative DRUPS units in 2009, _ie_, Piller’s 2,500 kVA 2,000 kW NB DRUPS unit (which I have rejected at \[237\] above), and EuroDiesel’s 2,500 kVA 2,000 kW (50 Hz) NB DRUPS unit. Arup did not address the availability or otherwise of EuroDiesel’s 2,500 kVA 2,000 kW (50 Hz) NB DRUPS unit. Instead, it adduced a press release by EuroDiesel dated 4 March 2014 (“EuroDiesel’s March 2014 Press Release”) which stated that:[^346]
 
-… EURO-DIESEL launches the next generation of \[DRUPS\] systems; the NO-BREAK KS®7e. At up to _2750kVA/2200kW (50Hz)_ or 3000kVA/2400kW (60Hz) per unit: the NO-BREAK KS®7e is engineered specially for data centre applications … \[emphasis added\]
+> … EURO-DIESEL launches the next generation of \[DRUPS\] systems; the NO-BREAK KS®7e. At up to _2750kVA/2200kW (50Hz)_ or 3000kVA/2400kW (60Hz) per unit: the NO-BREAK KS®7e is engineered specially for data centre applications … \[emphasis added\]
 
 Arup relied on this to argue that it was only in March 2014 that EuroDiesel announced the manufacture of a suitable DRUPS unit that operated at 50 Hz.[^347]
 
@@ -1381,9 +1530,9 @@ Arup relied on this to argue that it was only in March 2014 that EuroDiesel anno
 
 242    Turning now to EuroDiesel’s 2,500 kVA 2,000 kW NB DRUPS (50 Hz) (referred to at \[240\] above), I find that GSS has not discharged the burden of showing that such a DRUPS unit existed. While Mr Marco Nijenhuis of EuroDiesel (“Mr Nijenhuis”) stated in an email to Mr Ansett that “\[i\]n 2009 we introduced the 2500 kVA”,[^348] this is hearsay evidence as neither party called Mr Nijenhuis to testify. I also note that Mr Nijenhaus gave contradictory answers to Mr Ansett and Mr Peck on the existence of EuroDiesel’s 3,000 kVA DRUPS unit:[^349]
 
-(a)     In response to Mr Ansett’s query “to confirm that EuroDiesel had an 3000kVA DRUPS with a 1800 kW No Break and 600kW Short Break capacity 2008”, Mr Nijenhaus replied that “_this is correct_ … \[EuroDiesel\] were able to do the total power of 3000 kVA (2400 kW) …” \[emphasis added\].[^350] When asked further that “the data below is for Singapore 50Hz”, Mr Nijenhaus replied in the _affirmative_.[^351]
+> (a)     In response to Mr Ansett’s query “to confirm that EuroDiesel had an 3000kVA DRUPS with a 1800 kW No Break and 600kW Short Break capacity 2008”, Mr Nijenhaus replied that “_this is correct_ … \[EuroDiesel\] were able to do the total power of 3000 kVA (2400 kW) …” \[emphasis added\].[^350] When asked further that “the data below is for Singapore 50Hz”, Mr Nijenhaus replied in the _affirmative_.[^351]
 
-(b)     However, in response to Mr Peck’s query whether EuroDiesel had “a 3000 kVA 50 Hz DRUPS”, Mr Nijenhaus answered that “Euro-Diesel _cannot_ provide 3000 kVA no-break power at 50 Hz” \[emphasis added\].[^352]
+> (b)     However, in response to Mr Peck’s query whether EuroDiesel had “a 3000 kVA 50 Hz DRUPS”, Mr Nijenhaus answered that “Euro-Diesel _cannot_ provide 3000 kVA no-break power at 50 Hz” \[emphasis added\].[^352]
 
 The above demonstrates how it is unsatisfactory to rely on Mr Nijenhaus’s emails without calling him as a witness. As the evidence on the existence of EuroDiesel’s 2,500 kVA 2,000 kW NB DRUPS unit is at best equivocal, I find that GSS has not discharged its burden of proof.
 
@@ -1401,57 +1550,57 @@ The above demonstrates how it is unsatisfactory to rely on Mr Nijenhaus’s ema
 
 247    It is noteworthy that Mr Paddy admitted in cross-examination that GSS had asked Arup to provide for more power when GSS found it needed 4,000 kW for the Microsoft lease; Mr Paddy also accepted that GSS had also asked Arup to incorporate the use of STSs in its Revised Design:[^356]
 
-Q: _So in early 2010, Global Switch now faces a shortfall of design -- let me rephrase that. In early 2010 Global Switch now has a problem. The extension appears to have been designed for only 3.6 MW but Microsoft requires it to be 4 MW, correct, Mr Paddy?_
+> Q: _So in early 2010, Global Switch now faces a shortfall of design -- let me rephrase that. In early 2010 Global Switch now has a problem. The extension appears to have been designed for only 3.6 MW but Microsoft requires it to be 4 MW, correct, Mr Paddy?_
 
-_A:_ _That would be correct._
+> _A:_ _That would be correct._
 
-Q:You, therefore, approached Arup in the later series of emails -- which I won't take you through because it's quite clear on their face what it says -- to fix that problem. Correct, Mr Paddy?
+> Q:You, therefore, approached Arup in the later series of emails -- which I won't take you through because it's quite clear on their face what it says -- to fix that problem. Correct, Mr Paddy?
 
-A:Yes, I'm sure I did.
+> A:Yes, I'm sure I did.
 
-_Q:_ _Basically you are telling Arup, "Scope has changed, I now need you to put in an additional 400 kW into the extension". Correct, Mr Paddy?_
+> _Q:_ _Basically you are telling Arup, "Scope has changed, I now need you to put in an additional 400 kW into the extension". Correct, Mr Paddy?_
 
-_A:_ _I certainly asked them to investigate it._
+> _A:_ _I certainly asked them to investigate it._
 
-…
+> …
 
-Q:…Let's go back to what Arup was asked to do in this period, second quarter 2010**.** _First, Arup was asked to increase the design load of the building by 400 kW, yes?_
+> Q:…Let's go back to what Arup was asked to do in this period, second quarter 2010**.** _First, Arup was asked to increase the design load of the building by 400 kW, yes?_
 
-_A:_ _I don't know that we -- we asked them to investigate it which -- the possibilities of it._
+> _A:_ _I don't know that we -- we asked them to investigate it which -- the possibilities of it._
 
-_Q:_ _Is there a difference?_
+> _Q:_ _Is there a difference?_
 
-_…_
+> _…_
 
-_A:_ _There is no difference._
+> _A:_ _There is no difference._
 
-_…_
+> _…_
 
-_Q:_ _So did you tell Arup to incorporate the use of STSs switches because there was a request from Microsoft?_
+> _Q:_ _So did you tell Arup to incorporate the use of STSs switches because there was a request from Microsoft?_
 
-_A:_ _I would have done._
+> _A:_ _I would have done._
 
-Q: **_So, again, looking at the issues at the time, Global Switch has asked Arup to do two things. One, increase the design load for the extension by 400 kW as well as incorporate STSs into the design. Correct, Mr Paddy?_**
+> Q: **_So, again, looking at the issues at the time, Global Switch has asked Arup to do two things. One, increase the design load for the extension by 400 kW as well as incorporate STSs into the design. Correct, Mr Paddy?_**
 
-A: **_That's correct._**
+> A: **_That's correct._**
 
-Q:Yes. Neither of these are within the scope of the original engineering fee proposal, correct, Mr Paddy?
+> Q:Yes. Neither of these are within the scope of the original engineering fee proposal, correct, Mr Paddy?
 
-A:No, but could I clarify my response on this one?
+> A:No, but could I clarify my response on this one?
 
-Q:Of course.
+> Q:Of course.
 
-A:Because there -- if you are incorporating STSs in a purely DRUPS system, it's very different to incorporate them to take power from another source. So there will be a difference in how they are incorporated.
+> A:Because there -- if you are incorporating STSs in a purely DRUPS system, it's very different to incorporate them to take power from another source. So there will be a difference in how they are incorporated.
 
-Q:I understand that eventually it was incorporated in a different way and what Microsoft perhaps might have envisioned. I understand that, Mr Paddy, and I understand your point on that. My point was slightly different. My point was what was your request of Arup at the time, March 2010? **_And you did request Arup to also incorporate the STSs as per Microsoft's request. Am I correct?_**
+> Q:I understand that eventually it was incorporated in a different way and what Microsoft perhaps might have envisioned. I understand that, Mr Paddy, and I understand your point on that. My point was slightly different. My point was what was your request of Arup at the time, March 2010? **_And you did request Arup to also incorporate the STSs as per Microsoft's request. Am I correct?_**
 
-A: **_Yes, I guess, yes._**
+> A: **_Yes, I guess, yes._**
 
-Q: **_Yes. This would have been a change from their original scope of works in the engineering fee proposal of September 2008, am I correct?_**
+> Q: **_Yes. This would have been a change from their original scope of works in the engineering fee proposal of September 2008, am I correct?_**
 
-A: **_Yes. That would be the case._**
+> A: **_Yes. That would be the case._**
 
-\[emphasis added in italics and bold italics\]
+> \[emphasis added in italics and bold italics\]
 
 248    It is unclear from the evidence precisely why Microsoft would have needed STSs. In its closing submissions Arup contends that it was asked to incorporate STSs to cater to Microsoft’s single-corded equipment,[^357] citing paragraphs 47 to 48 of Mr Guth’s AEIC. But those two paragraphs do not specifically state that Microsoft’s equipment was single-corded. Mr Guth was cross-examined on the same and only stated that the STSs were incorporated because Microsoft wanted them.[^358] But the point remains that GSS had wanted STSs to accommodate Microsoft’s requirements.
 
@@ -1461,87 +1610,87 @@ A: **_Yes. That would be the case._**
 
 251    On 29 April 2010 Mr Paddy sent Mr Adcock the following email:[^360]
 
-Peter
+> Peter
 
-We have a number of queries that need your urgent attention:-
+> We have a number of queries that need your urgent attention:-
 
-The _most urgent of these is the use or otherwise of static switches._ Based on your advice we did not include them _however we can see a number of issues arising if we do not have them, in terms of system resiliance_ \[_sic_\]. Particularly when we look at operational issues and failure scenarios compared to the existing facility where failures at a high level with static switches employed still protect both the A and B source, other than a downstream failure.
+> The _most urgent of these is the use or otherwise of static switches._ Based on your advice we did not include them _however we can see a number of issues arising if we do not have them, in terms of system resiliance_ \[_sic_\]. Particularly when we look at operational issues and failure scenarios compared to the existing facility where failures at a high level with static switches employed still protect both the A and B source, other than a downstream failure.
 
-This is now _causing us great concern_ and as such _we have to justify our position_ on this as to include them will _cost around $2m, I am not able to satisfactorily explain this apparent lack of resiliance_ \[_sic_\] other to myself and therefore not to senior management.
+> This is now _causing us great concern_ and as such _we have to justify our position_ on this as to include them will _cost around $2m, I am not able to satisfactorily explain this apparent lack of resiliance_ \[_sic_\] other to myself and therefore not to senior management.
 
-We Mark O,Brien, David and myself, will be calling you shortly to discuss this and resolution of suppying \[_sic_\] 1000w / sqm over the total 4000sqm.
+> We Mark O,Brien, David and myself, will be calling you shortly to discuss this and resolution of suppying \[_sic_\] 1000w / sqm over the total 4000sqm.
 
-\[emphasis added in italics\]
+> \[emphasis added in italics\]
 
 252    The language of this request and how Mr Paddy phrases his email is of some relevance. Mr Paddy states that he could see a number of issues arising in terms of systems resilience if there were no STSs. This is probably based either on Microsoft’s explanation of why it required STSs or Mr Paddy’s own experience or knowledge as the evidence shows Global Switch’s Sydney data centre used STSs. But he states he did not know how to explain and justify the need for them, as including them would involve an additional $2m in expenditure, so he asked for Mr Adcock’s assistance in drafting this justification. It is not disputed that incorporating STSs was a requirement of Microsoft,[^361] and there can be no doubt that this was a new request by GSS because Arup had stated in its draft Electrical Scheme Report dated 14 October 2008 that STSs were not going to be used in its Original Design.[^362] The real reason for GSS’s request was because Microsoft, who was by now looking to take up the whole of the Extension, required the incorporation of STSs.[^363] Instead, GSS asked Arup to incorporate the use of STSs in its new design[^364] and draft the justification for their own internal capital expenditure policies, not on the basis of a Microsoft (or tenant) requirement but because without STSs, a number of issues, in terms of system reliance, arose.
 
 253    There was a meeting on 27 May 2010 and following that Arup sent GSS two memoranda on its Revised Design. The first, entitled “Expansion: Increasing IT (UPS/NB) Power”, was sent on 31 May 2010 and mentions, _inter alia_, the following:
 
-(a)     The three EuroDiesel DRUPS units will run as the “N” to provide a maximum of 4,000 kW (_ie_, 1,333 kW each operating at 95% assuming no diversity) of NBP to the Extension, while the combined Static UPS supplies from the Existing Facility will provide the “+1” backup to the Extension’s DRUPS units.[^365]
+> (a)     The three EuroDiesel DRUPS units will run as the “N” to provide a maximum of 4,000 kW (_ie_, 1,333 kW each operating at 95% assuming no diversity) of NBP to the Extension, while the combined Static UPS supplies from the Existing Facility will provide the “+1” backup to the Extension’s DRUPS units.[^365]
 
-(b)     Arup confirmed there was available surplus power from the Existing Facility’s UPS system for the “+1” back-up in the Extension based on the latest results of March 2010 (set out in a spreadsheet).[^366]
+> (b)     Arup confirmed there was available surplus power from the Existing Facility’s UPS system for the “+1” back-up in the Extension based on the latest results of March 2010 (set out in a spreadsheet).[^366]
 
-(c)     The Extension was confirmed to be future-proofed as a fourth DRUPS unit could be installed and integrated into the Revised Design; the transfer of loads onto the fourth DRUPS unit would be no different to programmed maintenance on an “N+1” system.[^367]
+> (c)     The Extension was confirmed to be future-proofed as a fourth DRUPS unit could be installed and integrated into the Revised Design; the transfer of loads onto the fourth DRUPS unit would be no different to programmed maintenance on an “N+1” system.[^367]
 
-(d)     Under a summary of what the other possible options are and why they have been rejected, Arup stated:[^368]
+> (d)     Under a summary of what the other possible options are and why they have been rejected, Arup stated:[^368]
 
-AWP advised that the planning conditions (15m set back from the limit the KPE/Airport Rd side boundary) limit installing DRUPS units to being on a platform above the PowerGrid HV switchroom and this was evaluated at the start of the project and rejected as too high risk, i.e. this is the supply point for both the A & B 22kV supplies to the site.
+>> AWP advised that the planning conditions (15m set back from the limit the KPE/Airport Rd side boundary) limit installing DRUPS units to being on a platform above the PowerGrid HV switchroom and this was evaluated at the start of the project and rejected as too high risk, i.e. this is the supply point for both the A & B 22kV supplies to the site.
 
 There was no disagreement with the statement set out at (d) above.
 
 254    In its memorandum dated 11 June 2010,[^369] Arup stated that:
 
-(a)     All IT Load in the Extension would be supplied by the three DRUPS units. Based on the reliability details supplied, the mean time between the failure of each DRUPS unit is ten years, and it is likely that the IT Load would only need to be transferred onto the Existing Facility’s SUPS system during the maintenance of the DRUPS system.[^370]
+> (a)     All IT Load in the Extension would be supplied by the three DRUPS units. Based on the reliability details supplied, the mean time between the failure of each DRUPS unit is ten years, and it is likely that the IT Load would only need to be transferred onto the Existing Facility’s SUPS system during the maintenance of the DRUPS system.[^370]
 
-(b)     When a DRUPS unit is withdrawn for maintenance, the standard operating procedure would be for someone to manually transfer the STS from the Preferred Source (DRUPS) to the Alternative Source (SUPS).[^371]
+> (b)     When a DRUPS unit is withdrawn for maintenance, the standard operating procedure would be for someone to manually transfer the STS from the Preferred Source (DRUPS) to the Alternative Source (SUPS).[^371]
 
-(c)     Given the then-loads on the SUPS, there was sufficient available capacity to implement the Revised Design as there would be a buffer when the Extension’s load is transferred onto the SUPS. However, if and when the loads on the SUPS system grow, such that the power draw approaches the contracted power, then future proofing the Extension with a fourth DRUPS unit can be implemented – subject to an acceptable location (_ie_, in compliance with government planning requirements) and without unacceptable installation risk.[^372]
+> (c)     Given the then-loads on the SUPS, there was sufficient available capacity to implement the Revised Design as there would be a buffer when the Extension’s load is transferred onto the SUPS. However, if and when the loads on the SUPS system grow, such that the power draw approaches the contracted power, then future proofing the Extension with a fourth DRUPS unit can be implemented – subject to an acceptable location (_ie_, in compliance with government planning requirements) and without unacceptable installation risk.[^372]
 
-(d)     As earlier advised, there was insufficient spare flow in the existing condenser water system to enable increasing the contracted power above the 1 kW/m2 as it is presently balanced and this must also be carefully monitored as the loads grow.[^373]
+> (d)     As earlier advised, there was insufficient spare flow in the existing condenser water system to enable increasing the contracted power above the 1 kW/m2 as it is presently balanced and this must also be carefully monitored as the loads grow.[^373]
 
 255    T&T, GSS’s cost consultant for the Project, issued its report on Arup’s Revised Design on 14 June 2010, which it updated on 17 June 2010.[^374] This was a peer review on Arup’s Revised Design, and four points mentioned therein are relevant:
 
-(a)     First, it was specifically noted that GSS only required that the Extension’s M&E systems meet the Uptime Institute’s Tier III requirement of being concurrently maintainable. This meant that the Extension need not be concurrently maintainable _and_ fault tolerant simultaneously,[^375] which would have been a Tier IV requirement.
+> (a)     First, it was specifically noted that GSS only required that the Extension’s M&E systems meet the Uptime Institute’s Tier III requirement of being concurrently maintainable. This meant that the Extension need not be concurrently maintainable _and_ fault tolerant simultaneously,[^375] which would have been a Tier IV requirement.
 
-(b)     Secondly, T&T noted that existing tenants in general are operating at approximately 40% to 50% of their contracted maximum loads.
+> (b)     Secondly, T&T noted that existing tenants in general are operating at approximately 40% to 50% of their contracted maximum loads.
 
-(c)     Thirdly, T&T also noted that while Arup’s Revised Design was likely to be adequate for the medium term, further upgrades may be necessary when the loads on the Existing Facility’s SUPS system increase in the future.[^376] That was also the view of Arup – this was only a temporary solution until the power draws in the Existing Facility reached 80% of the contracted power, whereupon a fourth DRUPS unit would have to be installed.[^377] I accept the evidence of Mr Adcock on this point. I note he was not challenged on this in cross-examination, and his evidence in this regard was supported by contemporaneous memoranda.[^378] This also coincides with the views expressed by T&T.
+> (c)     Thirdly, T&T also noted that while Arup’s Revised Design was likely to be adequate for the medium term, further upgrades may be necessary when the loads on the Existing Facility’s SUPS system increase in the future.[^376] That was also the view of Arup – this was only a temporary solution until the power draws in the Existing Facility reached 80% of the contracted power, whereupon a fourth DRUPS unit would have to be installed.[^377] I accept the evidence of Mr Adcock on this point. I note he was not challenged on this in cross-examination, and his evidence in this regard was supported by contemporaneous memoranda.[^378] This also coincides with the views expressed by T&T.
 
-(d)     Fourthly, whilst agreeing with the Revised Design, T&T highlighted the risk of “second event” circumstances which could result in the entire suite’s load transferring from more than one DRUPS unit to the SUPS system in fault situations.[^379] From a memo created by T&T sometime after the issuance of its report on 14 June 2010, it appears that Mr Paddy concluded this was outside the scope of GSS’s requirements as GSS had required the system to be concurrently maintainable, and not concurrently maintainable and fault tolerant.[^380]
+> (d)     Fourthly, whilst agreeing with the Revised Design, T&T highlighted the risk of “second event” circumstances which could result in the entire suite’s load transferring from more than one DRUPS unit to the SUPS system in fault situations.[^379] From a memo created by T&T sometime after the issuance of its report on 14 June 2010, it appears that Mr Paddy concluded this was outside the scope of GSS’s requirements as GSS had required the system to be concurrently maintainable, and not concurrently maintainable and fault tolerant.[^380]
 
 256    Subsequently, Mr Guth and Mr Paddy prepared a draft Request for Approval for Capital Expenditure dated 17 June 2018, in respect of Arup’s Revised Design. I highlight three relevant points made in this draft Request for Approval:
 
-(a)     First, it was stated that Arup’s Revised Design was “a cost effective and feasible solution using the existing surplus capacity, which…cannot be used in the \[Existing Facility\] due to the cooling constraints”.[^381] It also added that the Revised Design was “the quickest solution given the lead time on a new DRUPS would be approximately 9 months”.[^382]
+> (a)     First, it was stated that Arup’s Revised Design was “a cost effective and feasible solution using the existing surplus capacity, which…cannot be used in the \[Existing Facility\] due to the cooling constraints”.[^381] It also added that the Revised Design was “the quickest solution given the lead time on a new DRUPS would be approximately 9 months”.[^382]
 
-(b)     Secondly, it was also stated that the installation of a fourth DRUPS unit was an option that could be completed at a later stage, if required. However, there were a number of issues associated with this option, including the cost of approximately $4.5 million, and the spatial constraints of the Tai Seng site. It was also noted that the only viable location for a fourth DRUPS unit was above the HV Transformer substation, and that “the amount of in ground services would make any new structure very difficult to construct”. Nevertheless, it was concluded that the installation of a fourth DRUPS unit was a viable option which could be instigated if the Revised Design proved to be unviable, or if there was a need for increased capacity in the future.[^383]
+> (b)     Secondly, it was also stated that the installation of a fourth DRUPS unit was an option that could be completed at a later stage, if required. However, there were a number of issues associated with this option, including the cost of approximately $4.5 million, and the spatial constraints of the Tai Seng site. It was also noted that the only viable location for a fourth DRUPS unit was above the HV Transformer substation, and that “the amount of in ground services would make any new structure very difficult to construct”. Nevertheless, it was concluded that the installation of a fourth DRUPS unit was a viable option which could be instigated if the Revised Design proved to be unviable, or if there was a need for increased capacity in the future.[^383]
 
-(c)     I also note that the “Background” to the draft Request for Approval was carefully worded to avoid categorically stating why the “required 1 kW/Sqm in an ‘N+1’ configuration” was not met:
+> (c)     I also note that the “Background” to the draft Request for Approval was carefully worded to avoid categorically stating why the “required 1 kW/Sqm in an ‘N+1’ configuration” was not met:
 
-It is evident now that these 3 DRUPS units, being 2.5MVA units of 1750 kVA No Break and 750 kVA Short Break supply are not enough to satisfy the IT power requirements for the entire space to be delivered at the required 1 kW/Sqm in an ‘N+1’ configuration. _Due to load factor limitations the total amount of IT power supported in an N+1 configuration would be 2,800 kW, approximately 1,200 kW short of the requirement._ Therefore a solution to provide the full 4MW of IT load is required. \[emphasis added\]
+>> It is evident now that these 3 DRUPS units, being 2.5MVA units of 1750 kVA No Break and 750 kVA Short Break supply are not enough to satisfy the IT power requirements for the entire space to be delivered at the required 1 kW/Sqm in an ‘N+1’ configuration. _Due to load factor limitations the total amount of IT power supported in an N+1 configuration would be 2,800 kW, approximately 1,200 kW short of the requirement._ Therefore a solution to provide the full 4MW of IT load is required. \[emphasis added\]
 
-It does not say that this was due to the M&E consultant’s mistake, although I further note that this draft contained the following comment immediately after the above-cited paragraph:
+> It does not say that this was due to the M&E consultant’s mistake, although I further note that this draft contained the following comment immediately after the above-cited paragraph:
 
-Need a description of why this oversight occurred. Will also need to detail what steps are being taken to recover costs.
+>> Need a description of why this oversight occurred. Will also need to detail what steps are being taken to recover costs.
 
 257    There is no final version of this draft or evidence as to whether it was sent out. On 28 June 2010 there was an email from Mr Guth to Mr Paddy requesting the latter to provide a short summary conclusion that Arup’s Revised Design was acceptable and should be implemented accordingly based on Arup’s memo and T&T’s Mr Christopher Wallace’s email of 25 June 2010 which appears to be a schedule programme leading to the Phase 1 Integrated Systems Testing (“IST”) for Mr Adcock’s comments.[^384]
 
 258    On 29 June 2010, Mr Paddy sends Mr Guth an email stating the following:[^385]
 
-After reviewing the ARUP summary of the design criteria for the proposed N+1 scenario and taking into account the reports from Chris Wallace of Turner and Townsend I would make the following comments.
+> After reviewing the ARUP summary of the design criteria for the proposed N+1 scenario and taking into account the reports from Chris Wallace of Turner and Townsend I would make the following comments.
 
-**_The design now incorporates the Static Switches and utilises reserve capacity from a number of battery static UPS systems from within the exising_** **\[sic\]** **_facility_**. Due to the constraints of the condenser water system capacity this reserve or spare UPS capacity cannot be used to increase the load densities in the existing building or suites.
+> **_The design now incorporates the Static Switches and utilises reserve capacity from a number of battery static UPS systems from within the exising_** **\[sic\]** **_facility_**. Due to the constraints of the condenser water system capacity this reserve or spare UPS capacity cannot be used to increase the load densities in the existing building or suites.
 
-_The system_ **_is fault tolerant_** _, the system is concurrently maintainable which makes it tier 3, it is not both which would be Tier 4._
+> _The system_ **_is fault tolerant_** _, the system is concurrently maintainable which makes it tier 3, it is not both which would be Tier 4._
 
-…
+> …
 
-With the proposed design _the extension will be Tier 3_. The solution is _cost effective and avoids the provision of a 4th DRUPs unit._
+> With the proposed design _the extension will be Tier 3_. The solution is _cost effective and avoids the provision of a 4th DRUPs unit._
 
-…
+> …
 
-I would recommend proceeding with final detail design and implementation of the proposed N+1 solution utilising the static battery systems as the +1 solution for the expansion area.
+> I would recommend proceeding with final detail design and implementation of the proposed N+1 solution utilising the static battery systems as the +1 solution for the expansion area.
 
-\[emphasis added in italics and bold italics\]
+> \[emphasis added in italics and bold italics\]
 
 259    I make two points regarding this email. First, it is apparent that Mr Paddy was warning that due to the constraints of the condenser water system capacity, this reserve or spare UPS capacity cannot be used to increase the load densities in the Existing Facility. This was a clear warning that if the tenant load increased (up to their contracted limits) or if tenants wanted to increase their load densities in the Existing Facility, it would not be possible.
 
@@ -1549,21 +1698,21 @@ I would recommend proceeding with final detail design and implementation of the 
 
 261    During cross-examination, Mr Paddy agreed that:
 
-(a)     Using the Existing Facility’s spare capacity as the “+1” redundancy in the Extension was cost effective because the cooling restrictions prevented the spare capacity from used in the Existing Facility at that time.[^393]
+> (a)     Using the Existing Facility’s spare capacity as the “+1” redundancy in the Extension was cost effective because the cooling restrictions prevented the spare capacity from used in the Existing Facility at that time.[^393]
 
-(b)     Tapping on the Existing Facility’s spare capacity would be consistent with the Global Switch Directive, which encouraged each data centre to identify spare capacities and generate revenue from them.[^394]
+> (b)     Tapping on the Existing Facility’s spare capacity would be consistent with the Global Switch Directive, which encouraged each data centre to identify spare capacities and generate revenue from them.[^394]
 
-(c)     Deferring the installation of a fourth DRUPS unit was consistent with the Global Switch Directive because it allows GSS to upgrade its facility if the need for additional power arises in the future.[^395]
+> (c)     Deferring the installation of a fourth DRUPS unit was consistent with the Global Switch Directive because it allows GSS to upgrade its facility if the need for additional power arises in the future.[^395]
 
 262    Arup subsequently obtained instructions from GSS to proceed with its Revised Design on 1 July 2010 in an email from Mr Guth to Mr Adcock.[^396] I find this Revised Design was caused by GSS requiring 4,000 kW NBP in the Extension and the installation of STSs, which was a requirement by Microsoft.[^397] The electrical and back-up systems, including the STSs, were thus laid out and constructed in the Extension with the “+1” element being drawn from the Existing Facility’s SUPS.
 
 263    To summarise my findings thus far:
 
-(a)     The Fee Proposal and Purchase Order originally provided for 4,000 kW of NBP as a fixed contractual requirement, with a diversity factor of 0.9 to be applied. This worked out to 3,600 kW of NBP. I therefore dismiss GSS’s claim that the Contract originally provided for “at least 4,000 kW, and up to 4,444 kW” of NBP.[^398]
+> (a)     The Fee Proposal and Purchase Order originally provided for 4,000 kW of NBP as a fixed contractual requirement, with a diversity factor of 0.9 to be applied. This worked out to 3,600 kW of NBP. I therefore dismiss GSS’s claim that the Contract originally provided for “at least 4,000 kW, and up to 4,444 kW” of NBP.[^398]
 
-(b)     The original requirement of 3,600 kW of NBP, after applying diversity, was subsequently varied to 2,800 kW, as a result of the constraints imposed by GSS. It is inconceivable that GSS did not know of, and by logical implication accept, this lower capacity (contrary to its assertion that it was “not aware” of this).[^399]
+> (b)     The original requirement of 3,600 kW of NBP, after applying diversity, was subsequently varied to 2,800 kW, as a result of the constraints imposed by GSS. It is inconceivable that GSS did not know of, and by logical implication accept, this lower capacity (contrary to its assertion that it was “not aware” of this).[^399]
 
-(c)     The Revised Design was caused by GSS’s need to accommodate the Microsoft tenancy. The Revised Design entailed a _second_ variation of the Contract to provide 4,000 kW of NBP and incorporate STSs. The incorporation of STSs was not something that Arup wanted or introduced of its own volition.
+> (c)     The Revised Design was caused by GSS’s need to accommodate the Microsoft tenancy. The Revised Design entailed a _second_ variation of the Contract to provide 4,000 kW of NBP and incorporate STSs. The incorporation of STSs was not something that Arup wanted or introduced of its own volition.
 
 264    The above disposes of GSS’s claim that Arup had a duty to (and failed to) warn of the alleged shortfall under the Original Design.[^400] GSS alleged that Arup had failed to inform GSS of the shortfall early enough for it to implement remedial measures, and claimed for (a) the increased costs of installing a fourth DRUPS unit which GSS would not otherwise have incurred,[^401] and (b) loss of the ability to tap on the Existing Facility’s SUPS system for the Pacnet Opportunity and the Microsoft Opportunities.[^402] Even if there had been a duty to warn (which I find it unnecessary to rule on given my ultimate conclusion here), that duty would not have been breached: I had found that Mr Paddy _actually knew_ of the variation to 2,800 kW and that GSS was the party who stipulated space and cost constraints. In fact, not only did Mr Paddy know of the variation he actually took part in the decision-making process – he was involved in discussions with, for instance, Piller as a DRUPS supplier (at \[178\]) and received technical specifications clearly stating the NBP of the available DRUPS that he admitted he “would have seen”. GSS also obtained opinions from Babtie and AWP (at \[27\] and \[139\]) ruling out the availability of space for a fourth DRUPS unit. In other words, GSS was not an uninformed party and the situation is far from that of a professional warning a lay client or laying out the options.
 
@@ -1573,9 +1722,9 @@ I would recommend proceeding with final detail design and implementation of the 
 
 266    I next consider the issue of what caused the May 2013 failures. This lays the groundwork for addressing the agreed issues of:
 
-(a)     whether the May 2013 failures were caused by deficiencies and/or defects in the Revised Design; and
+> (a)     whether the May 2013 failures were caused by deficiencies and/or defects in the Revised Design; and
 
-(b)     whether Arup’s failure to meet its obligations, if any, resulted in defects and/or faults arising in the Extension.
+> (b)     whether Arup’s failure to meet its obligations, if any, resulted in defects and/or faults arising in the Extension.
 
 267    It is undisputed that Arup’s Revised Design provided the Extension with uninterrupted power from the dates of handover to May 2013.[^404] On 2 May 2013, the STSs transferred two DRUPS units’ load onto the Existing Facility’s SUPS.[^405] On 18 May 2013, the STSs transferred three DRUPS units’ load to the SUPS.[^406] In each instance, the SUPS units (being designed only to handle the load of one DRUPS unit) overloaded.
 
@@ -1583,9 +1732,9 @@ I would recommend proceeding with final detail design and implementation of the 
 
 269    To understand what caused the STSs to transfer, it is first necessary to understand what happened on the power grid during that time. I find that there were power disruptions of significance in the power grid on 2 May 2013 and 18 May 2013. These are borne out by letters from SP Powergrid Ltd (as agents for SP Powerassets):
 
-(a)     On 2 May 2013, there was a voltage sag of 15.2% magnitude of 80 milliseconds, as recorded at the Kaki Bukit Station.[^407] I accept Mr Peck’s evidence that this was of significance because whilst two of the voltage waveforms were hardly affected, the third was by about 15%, the 15.2% being the average across all three voltage waveforms.[^408] I note the STS logs for this incident were missing. Mr Ho confirmed they could not be found.[^409]
+> (a)     On 2 May 2013, there was a voltage sag of 15.2% magnitude of 80 milliseconds, as recorded at the Kaki Bukit Station.[^407] I accept Mr Peck’s evidence that this was of significance because whilst two of the voltage waveforms were hardly affected, the third was by about 15%, the 15.2% being the average across all three voltage waveforms.[^408] I note the STS logs for this incident were missing. Mr Ho confirmed they could not be found.[^409]
 
-(b)     On 18 May 2013 there was a more severe power disruption. Due to a 230kV cable between the Seraya and Labrador power stations being damaged, a voltage dip of 52.9% of 120 milliseconds duration occurred and was recorded at the Kaki Bukit station.[^410]
+> (b)     On 18 May 2013 there was a more severe power disruption. Due to a 230kV cable between the Seraya and Labrador power stations being damaged, a voltage dip of 52.9% of 120 milliseconds duration occurred and was recorded at the Kaki Bukit station.[^410]
 
 270    These power disruptions were significant not only because of the magnitude of the _voltage dip_, but also because they involved additional and unusual[^411]_frequency disruptions_ known as “vector jumps”. There were no vector jumps involved in the earlier power disruptions to trigger any STS transfers in the Revised Design.[^412] A vector jump is an electrical anomaly where the frequency of the mains supply, which is normally at 50 Hz, changes almost instantaneously,[^413]_ie_, there is a momentary shift in phase of the supply waveshape.[^414] Graphically this can be envisioned as a sudden dip in the typical sinusoidal waveform (with regular rise, crest and descent) before its continues on its usual path, which also involves some displacement on the time-axis.
 
@@ -1593,13 +1742,13 @@ I would recommend proceeding with final detail design and implementation of the 
 
 272    Next, I consider the impact of the power disruptions on the DRUPS units and STSs. STSs “sense” and measure voltage, and use these measurements to work out projections for frequency.[^417] But in making these measurements the STSs only sample the voltage waveform in discrete intervals and _interpolate_, because they must be able to react quickly to perceived disruptions (Mr Ansett’s evidence was that it takes an STS roughly 1 millisecond to work out whether there is an issue[^418]). Because STSs arrive at their “decision” whether to switch from the Preferred Source to Alternative Source through sampling, it is conceivable that erroneous “judgments” are made – a deviation that would have normalised by the next waveform cycle might be interpreted by the STSs as a frequency anomaly (in the sense that it falls outside the STSs’ pre-set frequency parameters), which warrants switching from the Preferred Source to Alternative Source. In that sense, STSs are “dumb device\[s\]” that cannot respond to the type of power disturbance that involves vector jumps. I find that this is what happened:
 
-(a)     The DRUPS units are located upstream from the STSs in the Revised Design, meaning that power flows through (or from, depending on whether the DRUPS units have engaged) the DRUPS units before reaching the STSs.
+> (a)     The DRUPS units are located upstream from the STSs in the Revised Design, meaning that power flows through (or from, depending on whether the DRUPS units have engaged) the DRUPS units before reaching the STSs.
 
-(b)     During the May 2013 incidents, the DRUPS units interpreted the power disruptions as vector jumps,[^419] and would have engaged within 100 to 200 milliseconds to provide backup power.[^420]
+> (b)     During the May 2013 incidents, the DRUPS units interpreted the power disruptions as vector jumps,[^419] and would have engaged within 100 to 200 milliseconds to provide backup power.[^420]
 
-(c)     But the DRUPS units were unable to react in time because this process of engagement was cut off by the STSs, which reacted much faster than the DRUPS units. The STSs, through sampling and interpolation, interpreted the vector jump as a frequency disturbance in the DRUPS’s output supply (as stated, the STSs are downstream from the DRUPS units), when it was actually a disturbance _from the mains_. Because of the perceived problem with the Preferred Source (_ie_, DRUPS), the STSs engaged and switched to the Alternative Source (_ie_, SUPS).
+> (c)     But the DRUPS units were unable to react in time because this process of engagement was cut off by the STSs, which reacted much faster than the DRUPS units. The STSs, through sampling and interpolation, interpreted the vector jump as a frequency disturbance in the DRUPS’s output supply (as stated, the STSs are downstream from the DRUPS units), when it was actually a disturbance _from the mains_. Because of the perceived problem with the Preferred Source (_ie_, DRUPS), the STSs engaged and switched to the Alternative Source (_ie_, SUPS).
 
-(d)     This overloaded the SUPS units[^421] because more than one DRUPS unit’s load was transferred – the 2 May 2013 incident affected Feed B of the Extension’s mains supply, which was connected to DRUPS units Nos 2 and 3, while the 18 May 2013 incident involved both Feeds A and B of the Extension and therefore all three DRUPS units.[^422]
+> (d)     This overloaded the SUPS units[^421] because more than one DRUPS unit’s load was transferred – the 2 May 2013 incident affected Feed B of the Extension’s mains supply, which was connected to DRUPS units Nos 2 and 3, while the 18 May 2013 incident involved both Feeds A and B of the Extension and therefore all three DRUPS units.[^422]
 
 273    I therefore find that the STSs switched from the Preferred Source to the Alternative Source on 2 May 2013 and 18 May 2013 in response to the power disruptions in the main feeds, which involved vector jumps that the STSs interpreted as frequency disturbances in the DRUPS units’ output supply. For completeness I note Mr Ansett’s evidence, which Mr Peck did not disagree with, that frequency disruptions would not affect the IT Load.[^423]
 
@@ -1619,37 +1768,37 @@ I would recommend proceeding with final detail design and implementation of the 
 
 280    GSS pleaded that it was an express or alternatively an implied term of the Contract that Arup was obliged to ensure adequate T&C of the M&E system.[^433] It claims that Arup breached this duty and particularises what it alleges Arup should have done as follows:[^434]
 
-(a)     ensuring that the Revised Design was tested at full load in order to test the performance of the electrical system, which was to cater for a total electrical load of 4,000kW for all five floors – Arup failed to do so and its T&C design only provided testing of L3 and L4 at a load of 800 kW each;
+> (a)     ensuring that the Revised Design was tested at full load in order to test the performance of the electrical system, which was to cater for a total electrical load of 4,000kW for all five floors – Arup failed to do so and its T&C design only provided testing of L3 and L4 at a load of 800 kW each;
 
-(b)     ensuring that the coordination between the STSs, SUPS units and DRUPS units were sufficiently tested; and
+> (b)     ensuring that the coordination between the STSs, SUPS units and DRUPS units were sufficiently tested; and
 
-(c)     advising on the necessary test scenarios that should be conducted and/or failing to ensure that the necessary tests were duly conducted on the Revised Design of the DRUPS; GSS then further particularised some of the further tests that should have been done (see \[60\]–\[61\] above).
+> (c)     advising on the necessary test scenarios that should be conducted and/or failing to ensure that the necessary tests were duly conducted on the Revised Design of the DRUPS; GSS then further particularised some of the further tests that should have been done (see \[60\]–\[61\] above).
 
 I have already pointed out the requirements of a party pleading an implied term pursuant to _Sembcorp_. Needless to say this has not been complied with.
 
 281    In its closing submissions GSS crystallises the gravamen of its complaint as follows:
 
-(a)     Arup failed to advise and ensure the performance of essential tests for the successful coordination of the Revised Design, in particular, the bypass test. That test involves a manual bypass back to source on no load and repeating the test on full load, and was the one that Mr Hamer performed after the May 2013 failures. The test alerted Mr Hamer to an out-of-frequency condition that had occurred during the May 2013 failures, and how the STSs transferred due to the DRUPS. The bypass test would also have provided Arup with an additional opportunity to discover the frequency issue in the Revised Design. Both experts agreed that a reasonably competent consultant should have recommended the bypass test, and that this was part of the standard basic tests of the T&C procedure.[^435]
+> (a)     Arup failed to advise and ensure the performance of essential tests for the successful coordination of the Revised Design, in particular, the bypass test. That test involves a manual bypass back to source on no load and repeating the test on full load, and was the one that Mr Hamer performed after the May 2013 failures. The test alerted Mr Hamer to an out-of-frequency condition that had occurred during the May 2013 failures, and how the STSs transferred due to the DRUPS. The bypass test would also have provided Arup with an additional opportunity to discover the frequency issue in the Revised Design. Both experts agreed that a reasonably competent consultant should have recommended the bypass test, and that this was part of the standard basic tests of the T&C procedure.[^435]
 
-(b)     Arup failed to test the suitability of Global Switch’s Sydney data centre’s set-points (“the Sydney set-points”) for the STSs in the Extension. Arup had assumed that the Sydney set-points would allow the Revised Design to function as intended.[^436]
+> (b)     Arup failed to test the suitability of Global Switch’s Sydney data centre’s set-points (“the Sydney set-points”) for the STSs in the Extension. Arup had assumed that the Sydney set-points would allow the Revised Design to function as intended.[^436]
 
-(c)     The only tests performed by Arup were inadequate, these being:
+> (c)     The only tests performed by Arup were inadequate, these being:
 
-(i)       a factory acceptance test (“FAT”) of the DRUPS without the STS;
+>> (i)       a factory acceptance test (“FAT”) of the DRUPS without the STS;
 
-(ii)       a FAT for the STS at the factory’s default set-points without the DRUPS; and
+>> (ii)       a FAT for the STS at the factory’s default set-points without the DRUPS; and
 
-(iii)       a test of the STSs on L3 and L4 of the Extension on no load with the DRUPS after the Phase 1 Integrated Systems Test (“IST”) on the ground that the STSs had been tested on full load during their FAT. GSS alleges that this was inadequate because the L3 and L4 testing could not be done on no load just because the FAT was done on load, as the FAT was conducted on a passive load and without the STSs; it therefore did not go to testing the set-points. All the L3 and L4 testing on no load did was to prove that the STSs were wired up correctly. It was important to test the DRUPS and STSs connected on full load to test the appropriateness of the Revised Design.[^437]
+>> (iii)       a test of the STSs on L3 and L4 of the Extension on no load with the DRUPS after the Phase 1 Integrated Systems Test (“IST”) on the ground that the STSs had been tested on full load during their FAT. GSS alleges that this was inadequate because the L3 and L4 testing could not be done on no load just because the FAT was done on load, as the FAT was conducted on a passive load and without the STSs; it therefore did not go to testing the set-points. All the L3 and L4 testing on no load did was to prove that the STSs were wired up correctly. It was important to test the DRUPS and STSs connected on full load to test the appropriateness of the Revised Design.[^437]
 
-(d)     Arup omitted to include a transfer inhibit blocking system in the Revised Design which would have prevented the overloading of the SUPS, and instead knowingly failed to deal with the risk of multiple transfers on the SUPS. The transfer inhibit blocking system would not have prevented the May 2013 failures completely, but would have prevented further transfers of IT Load onto the SUPS units once the “+1” capacity was exhausted, so that at least the IT equipment connected to the remaining functioning DRUPS unit and SUPS units would have been protected.[^438]
+> (d)     Arup omitted to include a transfer inhibit blocking system in the Revised Design which would have prevented the overloading of the SUPS, and instead knowingly failed to deal with the risk of multiple transfers on the SUPS. The transfer inhibit blocking system would not have prevented the May 2013 failures completely, but would have prevented further transfers of IT Load onto the SUPS units once the “+1” capacity was exhausted, so that at least the IT equipment connected to the remaining functioning DRUPS unit and SUPS units would have been protected.[^438]
 
 282    Arup’s defence is that it was only obliged to _witness_ T&C and not to ensure adequate T&C of the M&E system.[^439] In its closing submissions, it elaborates that ensuring proper T&C is different from following up on T&C since the latter includes ensuring that all issues are resolved if the T&C shows something unsatisfactory.[^440] That would be the responsibility of the main contractor Gammon, or Commtech Asia (Singapore) Pte Ltd (“Commtech”), the independent T&C agent engaged by GSS.[^441] In any event it would be unreasonable to expect Arup to conduct testing specifically to identify frequency intolerance.[^442]
 
 283    In relation to the bypass test, Arup alleges that it had in fact recommended that the bypass test be carried out on the DRUPS units and STSs on full load. GSS was the one who opted not to proceed with carrying out this test because:
 
-(a)     in respect of Phase 1 of T&C, the tight timelines meant that IST was carried out before the STSs were installed; and
+> (a)     in respect of Phase 1 of T&C, the tight timelines meant that IST was carried out before the STSs were installed; and
 
-(b)     in relation to Phase 2 of T&C, GSS had decided against carrying out IST on L5 to L7 because it was concerned by costs and the risk to Microsoft (which had already moved in).[^443]
+> (b)     in relation to Phase 2 of T&C, GSS had decided against carrying out IST on L5 to L7 because it was concerned by costs and the risk to Microsoft (which had already moved in).[^443]
 
 Arup also alleges that following previous failures of the STSs in the Existing Facility, it had pointed out to GSS in February 2008 that the frequency settings should be adjusted.[^444]
 
@@ -1675,9 +1824,9 @@ Arup also alleges that following previous failures of the STSs in the Existing F
 
 292    The experts were agreed,[^462] and both parties accept, that if the bypass test had been conducted, the coordination problem would have been discovered.[^463] I find that the term “coordination problem” means the following:
 
-(a)     that the STSs, if not properly configured, have a propensity to mistake harmless voltage/frequency disruptions from the mains as a fault, thereby unnecessarily causing the DRUPS units to transfer to Alternative Source; and
+> (a)     that the STSs, if not properly configured, have a propensity to mistake harmless voltage/frequency disruptions from the mains as a fault, thereby unnecessarily causing the DRUPS units to transfer to Alternative Source; and
 
-(b)     that the STSs, if not properly configured, have a propensity to mistake the frequency deviation caused by the DRUPS units engaging as a fault, thereby unnecessarily causing them to transfer to the Alternative Source.
+> (b)     that the STSs, if not properly configured, have a propensity to mistake the frequency deviation caused by the DRUPS units engaging as a fault, thereby unnecessarily causing them to transfer to the Alternative Source.
 
 The bypass test involves manually forcing the DRUPS units to transfer from normal mode into bypass mode and back again under full electrical load. I find that transferring the DRUPS units from normal to bypass mode would generate a phase shift,[^464] which is sufficiently large and analogous for testing purposes to the phase angle jump that a vector jump entails (see \[270\] above),[^465] albeit that the actual events of May 2013 were “a lot messier” because they involved a voltage dip in addition to a vector jump in the mains supply.[^466] Therefore, while the _reason_ for the STSs initiating a transfer would differ for the May 2013 failures and the bypass test, the _result_ would be the same in that the STSs would identify a frequency anomaly and react by transferring from their Preferred Source to their Alternative Source. The bypass test would therefore have alerted Arup to the problem because the STSs are not meant to initiate a transfer under such conditions.[^467]
 
@@ -1701,65 +1850,65 @@ The bypass test involves manually forcing the DRUPS units to transfer from norma
 
 300    For completeness I outline the correspondence post-testing on 23 August 2010:
 
-(a)     On 23 August 2010, Mr Emery of TRADS emailed Mr Adcock and Mr Guth, among others, to indicate that all the STSs on L3 and L4 of the Extension were “in normal operation with no active alarms present”.[^485]
+> (a)     On 23 August 2010, Mr Emery of TRADS emailed Mr Adcock and Mr Guth, among others, to indicate that all the STSs on L3 and L4 of the Extension were “in normal operation with no active alarms present”.[^485]
 
-(b)     On 4 September 2010, Mr Adcock prepared a memorandum summarising the results of the T&C for Phase 1.[^486] It was stated in the memorandum that all 12 STSs on L3 and L4 of the Extension successfully completed the following tests:
+> (b)     On 4 September 2010, Mr Adcock prepared a memorandum summarising the results of the T&C for Phase 1.[^486] It was stated in the memorandum that all 12 STSs on L3 and L4 of the Extension successfully completed the following tests:
 
-Transfer from Source 1 to Source 2 (Source 1 input circuit breaker opened)\\
+>> Transfer from Source 1 to Source 2 (Source 1 input circuit breaker opened)\\
 
-Return from Source 2 to Source 1 (automatically after 5 sec delay)
+>> Return from Source 2 to Source 1 (automatically after 5 sec delay)
 
-Repeat of the above with Source 2 set as the preferred source.
+>> Repeat of the above with Source 2 set as the preferred source.
 
-The memorandum also stated that there was no further action needed with regard to the STSs.
+> The memorandum also stated that there was no further action needed with regard to the STSs.
 
 ##### Phase 2 of T&C
 
 301    The evidence establishes, and I so find, that the tests _proposed_ by Arup for Phase 2 included the bypass test, and that Arup _did advise_ GSS to conduct the bypass test on full load during Phase 2 of T&C:
 
-(a)     On 18 August 2010, just a few days after Phase 1 of the IST, Mr Adcock sent Mr Paddy and Mr Guth an email containing Arup’s proposed IST test scripts for Phase 2 of T&C for GSS’s review and comment before the scripts were issued to Gammon.[^487] Among other things, Mr Adcock stated that the following tests should be conducted with each DRUPS unit loaded at 100%:
+> (a)     On 18 August 2010, just a few days after Phase 1 of the IST, Mr Adcock sent Mr Paddy and Mr Guth an email containing Arup’s proposed IST test scripts for Phase 2 of T&C for GSS’s review and comment before the scripts were issued to Gammon.[^487] Among other things, Mr Adcock stated that the following tests should be conducted with each DRUPS unit loaded at 100%:
 
-Day 2:  Electrical (@ 100% load by using GS load bank for each DRUPS)
+>> Day 2:  Electrical (@ 100% load by using GS load bank for each DRUPS)
 
-i.    Transfer to & from DRUPS (diesel) to mains for NB load at MSB
+>>> i.    Transfer to & from DRUPS (diesel) to mains for NB load at MSB
 
-ii.    Transfer to & from DRUPS to bypass (direct mains) for NB Load at MSB
+>>> ii.    Transfer to & from DRUPS to bypass (direct mains) for NB Load at MSB
 
-iii.   Transfer to & from bypass for SB load at MSB
+>>> iii.   Transfer to & from bypass for SB load at MSB
 
-That same day, Mr Paddy replied to Mr Adcock’s email, stating that the test scripts looked fine to him, and asked for the latter’s estimate on the anticipated date of Phase 2 of T&C.[^488] Mr Adcock then forwarded the test scripts to representatives from Gammon, stating that the scripts have been approved by GSS.[^489] Both Mr Paddy and Mr Guth were copied in this email.
+> That same day, Mr Paddy replied to Mr Adcock’s email, stating that the test scripts looked fine to him, and asked for the latter’s estimate on the anticipated date of Phase 2 of T&C.[^488] Mr Adcock then forwarded the test scripts to representatives from Gammon, stating that the scripts have been approved by GSS.[^489] Both Mr Paddy and Mr Guth were copied in this email.
 
-(b)     On 3 September 2010, Mr Adcock wrote to Mr Guth stating that:[^490]
+> (b)     On 3 September 2010, Mr Adcock wrote to Mr Guth stating that:[^490]
 
-Arup’s Conclusion;
+>> Arup’s Conclusion;
 
-A 2nd IST is required prior to phase-2 handover, to ensure phase-2 (full load) system parameters are set, tested and operational.
+>> A 2nd IST is required prior to phase-2 handover, to ensure phase-2 (full load) system parameters are set, tested and operational.
 
-Mr Peck testified that the tests Mr Adcock was referring to included testing the DRUPS units at full load and turning them to bypass mode while it was connected to the SUPS units and STSs.[^491] Counsel for Arup submitted that this essentially referred to the bypass test,[^492] and I accept that view (notwithstanding that it did not form part of Mr Peck’s expert report) given that Mr Peck’s oral evidence was not challenged.
+> Mr Peck testified that the tests Mr Adcock was referring to included testing the DRUPS units at full load and turning them to bypass mode while it was connected to the SUPS units and STSs.[^491] Counsel for Arup submitted that this essentially referred to the bypass test,[^492] and I accept that view (notwithstanding that it did not form part of Mr Peck’s expert report) given that Mr Peck’s oral evidence was not challenged.
 
 302    However, I find that GSS declined to follow Arup’s recommendation because GSS considered it too risky to carry out the test with a live customer, namely Microsoft, already occupying L3 and L4. This is supported by the evidence:
 
-(a)     Because Microsoft had already moved into L3 and L4 of the Extension by the time Phase 2 of T&C was to be carried out, GSS was keen to ensure that any adverse impact arising from the T&C process would not affect Microsoft’s equipment. To this end, GSS requested that Arup assess and propose measures to isolate L3 and L4 of the Extension during Phase 2 of T&C. Arup circulated a draft memorandum dated 24 August 2010 (“Arup’s 24 August 2010 memo”) containing its proposed measures for GSS’s review.[^493] In paragraph 1 of the memorandum, Arup recommended that:
+> (a)     Because Microsoft had already moved into L3 and L4 of the Extension by the time Phase 2 of T&C was to be carried out, GSS was keen to ensure that any adverse impact arising from the T&C process would not affect Microsoft’s equipment. To this end, GSS requested that Arup assess and propose measures to isolate L3 and L4 of the Extension during Phase 2 of T&C. Arup circulated a draft memorandum dated 24 August 2010 (“Arup’s 24 August 2010 memo”) containing its proposed measures for GSS’s review.[^493] In paragraph 1 of the memorandum, Arup recommended that:
 
-1.    Following the successful completion of the testing and commissioning of the L3 & L4 STS units, it is now possible to transfer any Microsoft loads to the alternative source (i.e. existing Static UPS systems on L4 & L5) and this will provided totally \[_sic_\] isolation from the DRUPS testing. This does mean that the ‘+1’ redundancy will be unavailable for the duration of the testing.
+>> 1.    Following the successful completion of the testing and commissioning of the L3 & L4 STS units, it is now possible to transfer any Microsoft loads to the alternative source (i.e. existing Static UPS systems on L4 & L5) and this will provided totally \[_sic_\] isolation from the DRUPS testing. This does mean that the ‘+1’ redundancy will be unavailable for the duration of the testing.
 
-(b)     This elicited the following responses from the GSS team:
+> (b)     This elicited the following responses from the GSS team:
 
-(i)       Mr O’Brien stated that he had concerns over the lack of redundancy during testing as Arup had proposed transferring the entire IT Load of L3 and L4 to the SUPS units in the Existing Facility (_ie_, the backup source);[^494]
+>> (i)       Mr O’Brien stated that he had concerns over the lack of redundancy during testing as Arup had proposed transferring the entire IT Load of L3 and L4 to the SUPS units in the Existing Facility (_ie_, the backup source);[^494]
 
-(ii)       Mr Gudijanto also expressed some hesitation with transferring the entire IT Load of L3 and L4 onto the Existing Facility’s SUPS, and he took the position that the project team cannot take all three DRUPS units offline at the same time. He also stated that the system was not designed to have two DRUPS units offline simultaneously.[^495]
+>> (ii)       Mr Gudijanto also expressed some hesitation with transferring the entire IT Load of L3 and L4 onto the Existing Facility’s SUPS, and he took the position that the project team cannot take all three DRUPS units offline at the same time. He also stated that the system was not designed to have two DRUPS units offline simultaneously.[^495]
 
-(c)     These comments were forwarded to Mr Adcock, who was asked to respond to them in his revised draft memorandum.[^496] Arup eventually sent its revised memorandum to GSS on 30 August 2010 (“Arup’s 30 August 2010 memo”), which, among other things, amended paragraph 1 of Arup’s 24 August 2010 memo. Paragraph 1 of Arup’s 30 August 2010 memorandum stated that:
+> (c)     These comments were forwarded to Mr Adcock, who was asked to respond to them in his revised draft memorandum.[^496] Arup eventually sent its revised memorandum to GSS on 30 August 2010 (“Arup’s 30 August 2010 memo”), which, among other things, amended paragraph 1 of Arup’s 24 August 2010 memo. Paragraph 1 of Arup’s 30 August 2010 memorandum stated that:
 
-1.    Following the successful completion of the testing and commissioning of the L3 & L4 STS units, it is now possible to change the preferred source and transfer any Microsoft loads to the alternative source (i.e. existing Static UPS systems on L4 & L5) and this will provided totally \[_sic_\] isolation from the DRUPS testing. _However, the ‘+1’ redundancy will be maintained for the duration of the testing, i.e. if required, the load can return to DRUPS._ \[emphasis added\]
+>> 1.    Following the successful completion of the testing and commissioning of the L3 & L4 STS units, it is now possible to change the preferred source and transfer any Microsoft loads to the alternative source (i.e. existing Static UPS systems on L4 & L5) and this will provided totally \[_sic_\] isolation from the DRUPS testing. _However, the ‘+1’ redundancy will be maintained for the duration of the testing, i.e. if required, the load can return to DRUPS._ \[emphasis added\]
 
-(d)     Before the execution of Phase 2 of the T&C, Gammon had also raised a potential claim for the cost of a second IST as their contract with GSS only provided for one IST, which in Gammon’s view, was carried out in Phase 1.[^497] Arup responded to this by informing GSS that a second IST was required to ensure that “phase-2 (full load) system parameters are set, tested and operational”.[^498] Thus, Arup stated that Gammon needed to ensure that the Extension was operating under full load conditions during Phase 2 of T&C. However, Arup’s suggestion for a second IST was met with a warning from T&T that additional cost would have to be incurred.[^499]
+> (d)     Before the execution of Phase 2 of the T&C, Gammon had also raised a potential claim for the cost of a second IST as their contract with GSS only provided for one IST, which in Gammon’s view, was carried out in Phase 1.[^497] Arup responded to this by informing GSS that a second IST was required to ensure that “phase-2 (full load) system parameters are set, tested and operational”.[^498] Thus, Arup stated that Gammon needed to ensure that the Extension was operating under full load conditions during Phase 2 of T&C. However, Arup’s suggestion for a second IST was met with a warning from T&T that additional cost would have to be incurred.[^499]
 
-(e)     On 6 September 2010, Mr Guth clarified things by saying that “all that will happen is floor based testing & commissioning @ 100% loads to confirm that equipment performs as designed and required”. He also added that “\[t\]here is no IST so to speak, as it will not involve the same scenarios as phase 1 IST works did”.[^500]
+> (e)     On 6 September 2010, Mr Guth clarified things by saying that “all that will happen is floor based testing & commissioning @ 100% loads to confirm that equipment performs as designed and required”. He also added that “\[t\]here is no IST so to speak, as it will not involve the same scenarios as phase 1 IST works did”.[^500]
 
-(f)     Mr Guth accepted in cross-examination that GSS would not have undertaken Arup’s recommended course of action (_ie_, to conduct a bypass test on full load during Phase 2 of T&C) because of its desire to avoid any risk of damage to Microsoft, which was operating out of L3 and L4 by that time.[^501]
+> (f)     Mr Guth accepted in cross-examination that GSS would not have undertaken Arup’s recommended course of action (_ie_, to conduct a bypass test on full load during Phase 2 of T&C) because of its desire to avoid any risk of damage to Microsoft, which was operating out of L3 and L4 by that time.[^501]
 
-(g)     Phase 2 of T&C was eventually carried out sometime in or after September 2010. No significant faults were reported, and the entire Extension was eventually handed over to Microsoft by 1 January 2012 (see \[42\] above).
+> (g)     Phase 2 of T&C was eventually carried out sometime in or after September 2010. No significant faults were reported, and the entire Extension was eventually handed over to Microsoft by 1 January 2012 (see \[42\] above).
 
 303    Accordingly, it was GSS who declined to proceed with another IST, including the bypass test, for Phase 2 of T&C and I find that Arup did not breach its duty to ensure that the coordination between the STSs, DRUPS units and SUPS units were sufficiently tested. While a question might arise as to whether Arup should have warned GSS of the risks of not proceeding with the bypass test, I find that any warning would be (at the very least) implicit in the fact that Arup had emphasised that the test was necessary in the first place.
 
@@ -1771,13 +1920,13 @@ Mr Peck testified that the tests Mr Adcock was referring to included testing t
 
 306    While the pleadings were somewhat vague, the issues arising from the above appear to be:
 
-(a)     whether Arup should have known of or anticipated the STSs’ susceptibility to misidentifying the frequency shift that occurs when the DRUPS units are engaged (see \[292\] above) as a fault, and therefore switching from the Preferred Source to the Alternative Source;
+> (a)     whether Arup should have known of or anticipated the STSs’ susceptibility to misidentifying the frequency shift that occurs when the DRUPS units are engaged (see \[292\] above) as a fault, and therefore switching from the Preferred Source to the Alternative Source;
 
-(b)     whether Arup should have known of or anticipated the STSs’ susceptibility to misidentifying vector jumps in the mains as frequency disturbances in the DRUPS units’ output supply (as happened during the May 2013 failures – see \[273\] above) , and therefore switching from the Preferred Source to the Alternative Source;
+> (b)     whether Arup should have known of or anticipated the STSs’ susceptibility to misidentifying vector jumps in the mains as frequency disturbances in the DRUPS units’ output supply (as happened during the May 2013 failures – see \[273\] above) , and therefore switching from the Preferred Source to the Alternative Source;
 
-(c)     whether Arup should have known of or anticipated the risk of the STSs transferring more than one DRUPS unit’s load to the SUPS units; and
+> (c)     whether Arup should have known of or anticipated the risk of the STSs transferring more than one DRUPS unit’s load to the SUPS units; and
 
-(d)     if the answer to any of the above is yes, then what Arup should have done.
+> (d)     if the answer to any of the above is yes, then what Arup should have done.
 
 307    I preface the discussion with the observation that GSS’s reference to “N+1” redundancy in this context does not reflect the gravamen of its complaint,[^510] which is that regardless of the level of backup provided in the Revised Design, the fact remains that the STSs should not have transferred from the Preferred Source to Alternative Source in the circumstances identified. If they had not transferred, the SUPS units would not have been overloaded.
 
@@ -1789,25 +1938,25 @@ Mr Peck testified that the tests Mr Adcock was referring to included testing t
 
 310    In relation to \[306(c)\], I find that Arup did know of the risk of multiple transfers. First, Mr Adcock had accepted this proposition when it was put to him during cross examination:[^515]
 
-Q:Let me move on to a different point. Mr Adcock, I believe in respect of the revised design that you have provided to Global Switch, that you have actually identified that there is a risk of the load of more than one DRUPS transferring to the SUPS, yes?
+> Q:Let me move on to a different point. Mr Adcock, I believe in respect of the revised design that you have provided to Global Switch, that you have actually identified that there is a risk of the load of more than one DRUPS transferring to the SUPS, yes?
 
-A:Yes.
+> A:Yes.
 
 311    Second, the documents also show that Arup did in fact know of transfer inhibitors as a potential solution to the risk of multiple transfers in 2010:
 
-(a)     In a memorandum dated 11 June 2010, Mr Adcock had recommended the following:[^516]
+> (a)     In a memorandum dated 11 June 2010, Mr Adcock had recommended the following:[^516]
 
-Control wiring between each group of ASTS units – to lock out the other two from transferring after the first has transferred – will be provided, i.e. to protect from the extremely unlikely event of multiple DRUPS failures impacting on the Static UPS systems. Whether the alternative (+1) supply is from either the Static UPS system or a 4th DRUPS, this control wiring would be recommended.
+>> Control wiring between each group of ASTS units – to lock out the other two from transferring after the first has transferred – will be provided, i.e. to protect from the extremely unlikely event of multiple DRUPS failures impacting on the Static UPS systems. Whether the alternative (+1) supply is from either the Static UPS system or a 4th DRUPS, this control wiring would be recommended.
 
-(b)     On 30 July 2010, Mr Adcock had written to TRADS’s Mr Emery to enquire whether such a control wiring mechanism would have prevented more than one STS from transferring to their Alternative Source.[^517] Mr Emery had responded to say that he had to check with the STSs manufacturers (Cyberex) to confirm whether this was indeed the case.[^518]
+> (b)     On 30 July 2010, Mr Adcock had written to TRADS’s Mr Emery to enquire whether such a control wiring mechanism would have prevented more than one STS from transferring to their Alternative Source.[^517] Mr Emery had responded to say that he had to check with the STSs manufacturers (Cyberex) to confirm whether this was indeed the case.[^518]
 
 312    It appears that the question of multiple transfer inhibitors was raised but there was simply insufficient follow-up. On 6 August 2010, Mr Emery informed Mr Adcock that Cyberex was looking into the feature which the latter had referred to in his 30 July 2010 email, and that he was personally convinced that the feature was meant to stop the STSs from returning to their Preferred Source after a transfer, rather than to inhibit a transfer in the first place.[^519] Mr Adcock accepted that the control wiring was eventually not installed, nor was there any follow-up on a similar mechanism.[^520] That said, the lack of follow-up might possibly be attributable to Mr Emery’s initial answer and/or the tight timelines that Arup was under due to the knock-on effects of GSS’s contract with Microsoft. I therefore proceed on the basis that Arup knew of the risk of multiple transfers and the use of multiple transfer inhibitors as a potential solution. I will return to the question of what Arup could have done to prevent multiple transfers from occurring.
 
 313    Given my findings above on what Arup should reasonably have known, I proceed to examine what measures it should have taken (and if any usch measures were indeed available). The measures identified were:
 
-(a)     the proper configuration of the STSs’ setpoints, and the use of delay transfer timers, in relation to the issue at \[306(b)\] above (though I note these same solutions would have applied to the issue at \[306(a)\]); and
+> (a)     the proper configuration of the STSs’ setpoints, and the use of delay transfer timers, in relation to the issue at \[306(b)\] above (though I note these same solutions would have applied to the issue at \[306(a)\]); and
 
-(b)     the use of multiple transfer inhibitors, in relation to the issue at \[306(c)\] above.
+> (b)     the use of multiple transfer inhibitors, in relation to the issue at \[306(c)\] above.
 
 #### Whether Arup was under a duty to, and if so whether it failed to, properly configure the STS set-points such as to prevent the May 2013 failures
 
@@ -1831,15 +1980,15 @@ Control wiring between each group of ASTS units – to lock out the other two fr
 
 322    Apart from ensuring that the STSs were configured with the appropriate set-points, GSS also claims that Arup should have recommended or implemented transfer inhibitors in the Revised Design to ensure that the STSs would not:
 
-(a)     unnecessarily transfer the Extension’s load from the DRUPS units to the SUPS units during harmless transient frequency events; and/or
+> (a)     unnecessarily transfer the Extension’s load from the DRUPS units to the SUPS units during harmless transient frequency events; and/or
 
-(b)     transfer more than one DRUPS unit’s load onto the SUPS units (which I shall hereinafter refer to as “multiple transfers”).
+> (b)     transfer more than one DRUPS unit’s load onto the SUPS units (which I shall hereinafter refer to as “multiple transfers”).
 
 323    GSS has not, in its pleadings, specifically referred to the solution that Arup should have implemented to deal with these problems. Instead, it only makes a broad and vague allegation that the Revised Design “was defective and was not fit for its intended purpose because \[Arup\] failed and/or neglected to ensure that the DRUPS units and STS were properly coordinated”.[^534] At trial, however, GSS sought to propose various measures that Arup could have taken to deal with the issues mentioned at \[309\].[^535] In my view, it is entirely unsatisfactory for GSS to have simply alleged in its pleadings that Arup should have done something, without being specific about the measures that should have been taken. I note Arup’s objection that the transfer inhibit blocking mechanism solution was unpleaded.[^536] Having said that, it would have been open to Arup to pursue further and better particulars for this allegation or at least to invite GSS to provide particulars, failing which Arup would object to any positive case at trial based on particulars which could have been furnished. I also note these points were canvassed in the Joint Expert Report and the parties’ experts had an opportunity to reply at trial.[^537] I therefore proceed to consider whether Arup had breached its obligations by failing to recommend or implement the measures proposed by GSS. These measures fall into two categories:
 
-(a)     first, an 8-millisecond delay transfer timer, which would essentially force the STSs to ignore transient electrical events which do not last longer than a pre-defined duration;[^538]
+> (a)     first, an 8-millisecond delay transfer timer, which would essentially force the STSs to ignore transient electrical events which do not last longer than a pre-defined duration;[^538]
 
-(b)     secondly, two kinds of multiple transfer inhibitors namely a multiple transfer inhibitor that Mr Ansett proposed in his expert report which would prevent multiple transfers;[^539] or a control wiring of the type that Arup had enquired about in August 2010 which would prevent multiple transfers.[^540]
+> (b)     secondly, two kinds of multiple transfer inhibitors namely a multiple transfer inhibitor that Mr Ansett proposed in his expert report which would prevent multiple transfers;[^539] or a control wiring of the type that Arup had enquired about in August 2010 which would prevent multiple transfers.[^540]
 
 The distinction between a delay transfer timer and a multiple transfer inhibitor is this: a delay timer would prevent all STSs from switching from their Preferred Source to the Alternative Source for a pre-defined duration, while a multiple transfer inhibitor prevents more than one DRUPS unit’s load from being transferred onto the SUPS units (rather than preventing the STSs from switching to the Alternative Source from the start).
 
@@ -1851,9 +2000,9 @@ The distinction between a delay transfer timer and a multiple transfer inhibitor
 
 326    Two sub-issues arise:
 
-(a)     whether it is reasonable to expect Arup to have recommended or implemented such a delay transfer timer in 2010; and
+> (a)     whether it is reasonable to expect Arup to have recommended or implemented such a delay transfer timer in 2010; and
 
-(b)     whether such a measure would have prevented the May 2013 failures.
+> (b)     whether such a measure would have prevented the May 2013 failures.
 
 327    In my view, it was not reasonable for Arup to have been expected to recommend the use of a delay transfer timer in 2010. This is because Mr Peck very much doubted that it would have come into the mind of a reasonably competent electrical engineer to implement a time delay or frequency delay as a first solution, considering where the industry was at that time.[^545] He also added that an inhibit timer was not something available on STSs either back in 2010, or at the time of trial.[^546] I note that Mr Ansett initially testified that it was “electrical fundamentals” or “basic electrical engineering”.[^547] However, when I asked the technical experts about the answer that I would expect if 100 engineers were asked in 2008/2009 about delay timers on STSs, both experts agreed that most of these hypothetical 100 experts would not have thought of using transfer inhibitors.[^548]
 
@@ -1865,11 +2014,11 @@ The distinction between a delay transfer timer and a multiple transfer inhibitor
 
 331    I note that Mr Ansett did also put forward the belief that an 8-millisecond delay transfer timer would probably have been sufficient to prevent the May 2013 failures since the disruptions were recorded as “vector jumps”, which were almost instantaneous frequency events that lasted for less than 8 milliseconds.[^555] However, I reject this explanation on the basis that it is speculative for the following reasons:
 
-(a)     First, this is inconsistent with Mr Ansett’s own concession that he does not know for certain if an 8-millisecond delay transfer timer would have been sufficient to prevent the STSs from transferring their load in May 2013.[^556]
+> (a)     First, this is inconsistent with Mr Ansett’s own concession that he does not know for certain if an 8-millisecond delay transfer timer would have been sufficient to prevent the STSs from transferring their load in May 2013.[^556]
 
-(b)     Secondly, the sole basis for Mr Ansett’s opinion that the May 2013 disruptions lasted for less than 8 milliseconds is that the DRUPS units recorded the frequency disruption as a vector jump. However, and as Mr Peck has pointed out, the DRUPS units would only record the first event that passed through its system. Thus, it will not indicate whether there were subsequent frequency disruptions that occurred between the initial event and the 200 milliseconds the DRUPS units take to reset their logs.[^557] I note that Mr Ansett did not dispute this.[^558]
+> (b)     Secondly, the sole basis for Mr Ansett’s opinion that the May 2013 disruptions lasted for less than 8 milliseconds is that the DRUPS units recorded the frequency disruption as a vector jump. However, and as Mr Peck has pointed out, the DRUPS units would only record the first event that passed through its system. Thus, it will not indicate whether there were subsequent frequency disruptions that occurred between the initial event and the 200 milliseconds the DRUPS units take to reset their logs.[^557] I note that Mr Ansett did not dispute this.[^558]
 
-(c)     Thirdly, Mr Ansett equivocated at trial on how certain he was that an 8 millisecond delay transfer timer would have prevented the May 2013 failures. While initially claiming this was “would have” done so,[^559] he later stated it was “highly probable”[^560] or “with a high probability”,[^561] and subsequently that it was “possible” or “conceivable” that the 8 millisecond delay transfer time “likely would have” prevented the failures.[^562]
+> (c)     Thirdly, Mr Ansett equivocated at trial on how certain he was that an 8 millisecond delay transfer timer would have prevented the May 2013 failures. While initially claiming this was “would have” done so,[^559] he later stated it was “highly probable”[^560] or “with a high probability”,[^561] and subsequently that it was “possible” or “conceivable” that the 8 millisecond delay transfer time “likely would have” prevented the failures.[^562]
 
 For these reasons, I find that GSS has not shown that Arup had breached its obligations by failing to recommend or implement an 8 millisecond delay transfer timer. I find that the implementation of this delay transfer timer would not have prevented the May 2013 failures.
 
@@ -1879,11 +2028,11 @@ For these reasons, I find that GSS has not shown that Arup had breached its obli
 
 333    I now turn to analyse whether Arup should have implemented or recommended solutions to deal with the risk of multiple transfers. This raises the following three sub-issues:
 
-(a)     whether an M&E consultant in Arup’s position should have been aware of the problem of multiple transfers;
+> (a)     whether an M&E consultant in Arup’s position should have been aware of the problem of multiple transfers;
 
-(b)     whether Arup could have been reasonably expected to recommend or implement the potential solutions proposed by GSS; and
+> (b)     whether Arup could have been reasonably expected to recommend or implement the potential solutions proposed by GSS; and
 
-(c)     whether these solutions would have prevented the May 2013 failures.
+> (c)     whether these solutions would have prevented the May 2013 failures.
 
 Arup’s awareness of the risk of multiple transfers and potential solutions
 
@@ -1907,17 +2056,17 @@ The transfer inhibitor that Arup had discussed with TRADS in 2010
 
 341    To summarise my findings with regard to the coordination of the STSs, DRUPS units, and SUPS units:
 
-(a)     Arup was not in breach of its obligations to ensure that the coordination of the STSs, DRUPS units, and SUPS units was properly tested because it did recommend the bypass test to GSS, but GSS chose not to proceed with it.
+> (a)     Arup was not in breach of its obligations to ensure that the coordination of the STSs, DRUPS units, and SUPS units was properly tested because it did recommend the bypass test to GSS, but GSS chose not to proceed with it.
 
-(b)     Arup did not fail to properly configure the STS set-points. Even if it had proceeded on the basis that the Sydney set-points were suitable, any problems with those settings would have been discovered, but for GSS’s refusal to conduct the bypass test on full load during Phase 2 of T&C.
+> (b)     Arup did not fail to properly configure the STS set-points. Even if it had proceeded on the basis that the Sydney set-points were suitable, any problems with those settings would have been discovered, but for GSS’s refusal to conduct the bypass test on full load during Phase 2 of T&C.
 
-(c)     GSS’s proposed solutions regarding transfer inhibitors were either not feasible or unavailable at the material time.
+> (c)     GSS’s proposed solutions regarding transfer inhibitors were either not feasible or unavailable at the material time.
 
 The above suffices to dispose of the parties’ respective cases in this regard. I would however further observe that as a consequence of my finding on the cause of the May 2013 failures:
 
-(d)     Arup would not in any event have been able to configure the set-points such that the STSs ignored the voltage read as frequency deviations that occurred in May 2013, since the extent of the frequency deviations from the _mains_ (as opposed to those arising from the engagement of the DRUPS’s diesel engines) could not have been predicted in advance; and
+> (d)     Arup would not in any event have been able to configure the set-points such that the STSs ignored the voltage read as frequency deviations that occurred in May 2013, since the extent of the frequency deviations from the _mains_ (as opposed to those arising from the engagement of the DRUPS’s diesel engines) could not have been predicted in advance; and
 
-(e)     GSS cannot show that the implementation of an 8-millisecond delay transfer timer would have prevented the May 2013 failures since the duration of the May 2013 frequency disruptions was not (and could not have been) predicted.
+> (e)     GSS cannot show that the implementation of an 8-millisecond delay transfer timer would have prevented the May 2013 failures since the duration of the May 2013 frequency disruptions was not (and could not have been) predicted.
 
 ### Short Break Power
 
@@ -1953,15 +2102,15 @@ The above suffices to dispose of the parties’ respective cases in this regard.
 
 353    Secondly, and even if I were to allow GSS to proceed with this argument, I do not accept Mr Ansett’s evidence that Arup should have factored in a 10% buffer for the following reasons:
 
-(a)     This requirement for a 10% buffer is actually contradicted by Mr Ansett’s conclusions in his expert report, where he stated that the SBP shortfall is derived by simply subtracting the SBP capacity of Arup’s designs from the Extension’s Mechanical Load, without the need to take into account any buffer, as is obvious from the following passage:[^588]
+> (a)     This requirement for a 10% buffer is actually contradicted by Mr Ansett’s conclusions in his expert report, where he stated that the SBP shortfall is derived by simply subtracting the SBP capacity of Arup’s designs from the Extension’s Mechanical Load, without the need to take into account any buffer, as is obvious from the following passage:[^588]
 
-The amount of power that is actually required to support the mechanical equipment load based upon site measurement is approximately 1,500kW.
+>> The amount of power that is actually required to support the mechanical equipment load based upon site measurement is approximately 1,500kW.
 
-Each DRUPS unit has a short break capacity of 750kVA i.e. 600kW. Collectively the DRUPS are capable of providing only 1,200kW in N+1 configuration. _There is therefore a shortfall of 300kW DRUPS short break capacity._
+>> Each DRUPS unit has a short break capacity of 750kVA i.e. 600kW. Collectively the DRUPS are capable of providing only 1,200kW in N+1 configuration. _There is therefore a shortfall of 300kW DRUPS short break capacity._
 
-\[emphasis added\]
+>> \[emphasis added\]
 
-(b)     It is unclear whether Arup had factored in a 10% buffer when calculating the Extension’s Mechanical Load in the Green Mark Document, and Mr Ansett agreed that he did not know whether Arup might have done so.[^589]
+> (b)     It is unclear whether Arup had factored in a 10% buffer when calculating the Extension’s Mechanical Load in the Green Mark Document, and Mr Ansett agreed that he did not know whether Arup might have done so.[^589]
 
 354    I therefore find that Arup was not in breach of its duty of care in relation to providing the Extension with sufficient SBP.
 
@@ -1992,27 +2141,27 @@ Each DRUPS unit has a short break capacity of 750kVA i.e. 600kW. Collectively th
 
 362    Essentially, the experts differed on two points:
 
-(a)     whether the AHUs can be used to provide additional cooling for the Extension;[^598] and
+> (a)     whether the AHUs can be used to provide additional cooling for the Extension;[^598] and
 
-(b)     whether the chillers’ cooling capacity can be increased from 1,900 kW each to 2,120 kW each.[^599]
+> (b)     whether the chillers’ cooling capacity can be increased from 1,900 kW each to 2,120 kW each.[^599]
 
 363    According to Mr Ansett:
 
-(a)     Although the AHUs potentially can provide some cooling capacity, that potential cooling capacity cannot be relied upon when designing a cooling system because it is difficult to determine how much that cooling capacity actually is.[^600] Nevertheless, he was sure that the AHUs certainly could not deliver the 27 kW of cooling capacity that Mr Peck had suggested, although he also could not give an accurate estimate of the actual cooling capacity.[^601]
+> (a)     Although the AHUs potentially can provide some cooling capacity, that potential cooling capacity cannot be relied upon when designing a cooling system because it is difficult to determine how much that cooling capacity actually is.[^600] Nevertheless, he was sure that the AHUs certainly could not deliver the 27 kW of cooling capacity that Mr Peck had suggested, although he also could not give an accurate estimate of the actual cooling capacity.[^601]
 
-(b)     The chillers recommended by Arup were not proven to be capable of delivering 2,120 kW of cooling capacity each. Instead, they were only proven to be capable of delivering 1,898 kW of cooling capacity each during their FATs.[^602] He accepted that it is possible for the chillers to actually operate at 2,120 kW or somewhere “very close to that number” unless the manufacturer had lied about their capacity.[^603] He also accepted that the chillers were not tested at their full capacity.[^604] However, he had doubts over whether this could actually be achieved in this case because the chillers had only managed to achieve 1,898 kW of cooling capacity even when tested at 1,900 kW.[^605]
+> (b)     The chillers recommended by Arup were not proven to be capable of delivering 2,120 kW of cooling capacity each. Instead, they were only proven to be capable of delivering 1,898 kW of cooling capacity each during their FATs.[^602] He accepted that it is possible for the chillers to actually operate at 2,120 kW or somewhere “very close to that number” unless the manufacturer had lied about their capacity.[^603] He also accepted that the chillers were not tested at their full capacity.[^604] However, he had doubts over whether this could actually be achieved in this case because the chillers had only managed to achieve 1,898 kW of cooling capacity even when tested at 1,900 kW.[^605]
 
 364    According to Mr Peck:
 
-(a)     He accepted that the AHUs could not deliver as much cooling as he originally though they could. However, he still maintained his view that the AHUs could deliver _some_ cooling capacity,[^606] though he also agreed with Mr Ansett that it would be difficult to determine how much cooling capacity they could actually provide.[^607]
+> (a)     He accepted that the AHUs could not deliver as much cooling as he originally though they could. However, he still maintained his view that the AHUs could deliver _some_ cooling capacity,[^606] though he also agreed with Mr Ansett that it would be difficult to determine how much cooling capacity they could actually provide.[^607]
 
-(b)     The chillers that Arup had recommended were capable of delivering 2,120 kW of cooling capacity each as was stated in the manufacturer’s specifications.[^608]
+> (b)     The chillers that Arup had recommended were capable of delivering 2,120 kW of cooling capacity each as was stated in the manufacturer’s specifications.[^608]
 
 365    I do not accept that Arup had provided sufficient cooling capacity for the Extension because the chillers could potentially operate at up to 2,120 kW each:
 
-(a)     First, this potential increase in chiller capacity was not pleaded by Arup as a defence to GSS’s claim that the Extension’s cooling system did not provide sufficient cooling capacity, and I find that allowing Arup to advance this point at this late stage would cause prejudice to GSS because GSS would be deprived of the chance to adduce evidence to respond to this allegation properly.
+> (a)     First, this potential increase in chiller capacity was not pleaded by Arup as a defence to GSS’s claim that the Extension’s cooling system did not provide sufficient cooling capacity, and I find that allowing Arup to advance this point at this late stage would cause prejudice to GSS because GSS would be deprived of the chance to adduce evidence to respond to this allegation properly.
 
-(b)     Secondly, the potential increase was only theoretical, as Arup did not actually take the necessary steps to increase the chiller capacities. The necessary steps would include speaking to the manufacturers about making the chillers operate at 2,120 kW each,[^609] as well as commissioning them for the increased capacity.[^610] This meant that as far as the Extension’s cooling was concerned, the chillers could only operate at 1,900 kW unless it was proved otherwise.
+> (b)     Secondly, the potential increase was only theoretical, as Arup did not actually take the necessary steps to increase the chiller capacities. The necessary steps would include speaking to the manufacturers about making the chillers operate at 2,120 kW each,[^609] as well as commissioning them for the increased capacity.[^610] This meant that as far as the Extension’s cooling was concerned, the chillers could only operate at 1,900 kW unless it was proved otherwise.
 
 366    For completeness, I should state that I accept Mr Peck’s evidence that the chillers could be made to operate at an increased capacity as this was consistent with the manufacturer’s specifications. Indeed, even Mr Ansett agreed that such an increase was possible unless the manufacturer had misrepresented the equipment’s capacity. He also agreed that manufacturers tend to under-state the maximum capacities of their equipment.[^611] I will also state that I do not accept GSS’s argument that this potential increase cannot be realised as recommissioning the equipment would present very high risks to the Extension. As Mr Peck stated, there were ways to go about commissioning the equipment without presenting undue risks to the live equipment.[^612] Indeed, although Mr Peck accepted that there were risks involved, data centre operators still carry out this exercise regularly.[^613]
 
@@ -2040,19 +2189,19 @@ Each DRUPS unit has a short break capacity of 750kVA i.e. 600kW. Collectively th
 
 376    The following issues arise for determination:
 
-(a)     whether the chiller faults were caused by condensation; and
+> (a)     whether the chiller faults were caused by condensation; and
 
-(b)     whether the condensation was caused by Arup’s failure to ensure that the chillers were properly protected.
+> (b)     whether the condensation was caused by Arup’s failure to ensure that the chillers were properly protected.
 
 377    On the first issue, in his AEIC, Mr Hamer asserted that the chillers had suffered from multiple failures “due to the heat and humidity of their location”.[^634] However, Mr Hamer did not specifically show how the multiple failures he referred to were indeed caused by heat and humidity. He also accepted that these assertions were actually based on the vendor Powerpax’s assessment of the cause of the chillers’ failure, and were not his own.[^635] No one from Powerpax was called to give evidence.
 
 378    In its 2011 Engineering Assessment Report of the Existing Facility and the Extension prepared for GSS, AECOM Australia Pty Ltd (“AECOM”) noted that:[^636]
 
-The rooftop chiller plant consists of three (3) x1900kW containerised Powerpax chillers. These chillers are entirely dedicated to the Extension Building, and were installed in 2010. …
+> The rooftop chiller plant consists of three (3) x1900kW containerised Powerpax chillers. These chillers are entirely dedicated to the Extension Building, and were installed in 2010. …
 
-The proprietary containerised solution that has been adopted with these chillers utilises fully louvered “shipping containers”. The louvers selected, are not of a weatherproof design, and regularly allow the ingress of rainwater into the container. Of critical concern, is the fact that rainwater on occasion impacts and penetrates electrical circuits, switchboards, and the like. As a result, there is a degree of corrosion and general water damage evident on the control panel and its components. This is a potential point of failure, and at worst, a potential fire risk. …
+> The proprietary containerised solution that has been adopted with these chillers utilises fully louvered “shipping containers”. The louvers selected, are not of a weatherproof design, and regularly allow the ingress of rainwater into the container. Of critical concern, is the fact that rainwater on occasion impacts and penetrates electrical circuits, switchboards, and the like. As a result, there is a degree of corrosion and general water damage evident on the control panel and its components. This is a potential point of failure, and at worst, a potential fire risk. …
 
-There is evidence of early corrosion associated with a valve located between valve 68 and SCHWP3. This indicates a poor standard of insulation in that area, allowing excessive condensation to occur. Apart from the loss of energy at that point, this particular valve will be rendered inoperable within the short to medium term, and also could indicate a more generalised insulation problem with the installation (although it is noted that other such instances were not observed). …
+> There is evidence of early corrosion associated with a valve located between valve 68 and SCHWP3. This indicates a poor standard of insulation in that area, allowing excessive condensation to occur. Apart from the loss of energy at that point, this particular valve will be rendered inoperable within the short to medium term, and also could indicate a more generalised insulation problem with the installation (although it is noted that other such instances were not observed). …
 
 379    I note that valve 68 and SCHWP3 are not located in the chillers themselves, though they are located within the chiller enclosures.[^637]
 
@@ -2062,11 +2211,11 @@ There is evidence of early corrosion associated with a valve located between val
 
 382    As I mentioned above at \[364\], GSS’s pleaded case was that the chiller faults were caused by condensation and moisture forming _within the control circuits_ of the chillers. In my view, GSS has failed to discharge its burden of proving its pleaded case for the following reasons:
 
-(a)     The AECOM report does not specifically mention that the chillers’ control circuits were affected by moisture or condensation. While it does mention that rainwater did penetrate and impact the chillers’ electrical circuits on occasion, it did not state that this problem afflicted the chillers’ control circuits specifically.
+> (a)     The AECOM report does not specifically mention that the chillers’ control circuits were affected by moisture or condensation. While it does mention that rainwater did penetrate and impact the chillers’ electrical circuits on occasion, it did not state that this problem afflicted the chillers’ control circuits specifically.
 
-(b)     None of its factual witnesses were able to show any documents which indicated that the chillers’ control circuits were afflicted by moisture or condensation.
+> (b)     None of its factual witnesses were able to show any documents which indicated that the chillers’ control circuits were afflicted by moisture or condensation.
 
-(c)     Its own expert was unable to point to any evidence of condensation within the chillers’ control circuits.
+> (c)     Its own expert was unable to point to any evidence of condensation within the chillers’ control circuits.
 
 383    For these reasons, I dismiss GSS’s claims against Arup in this regard. As GSS has not been able to show that the chiller faults were caused by condensation, there is strictly no need for me to discuss the second issue identified above at \[366\].
 
@@ -2100,9 +2249,9 @@ There is evidence of early corrosion associated with a valve located between val
 
 395    Mr Turvey also agreed that at the time of Pacnet’s request for additional power, the Existing Facility was full from a spatial perspective.[^657] At some point, GSS was exploring the option of moving Pacnet into L7 of the Extension, though this plan was eventually dropped as GSS needed to reserve that space for Microsoft.[^658] Thus, GSS had no other option but to try and find additional power for Pacnet in the Existing Facility, and then try to redistribute that additional power within acceptable power densities.[^659] It is undisputed that GSS had to eventually obtain this power from pockets of uncontracted power from the Existing Facility’s SUPS system. Eventually, it settled on the following plan to obtain the additional power for Pacnet:[^660]
 
-(a)     conduct power-rebalancing works on L6 of the Existing Facility in order to obtain the additional 21 kW of power for Suite F4; and
+> (a)     conduct power-rebalancing works on L6 of the Existing Facility in order to obtain the additional 21 kW of power for Suite F4; and
 
-(b)     obtain 110 kW of power each from the SUPS units on L3 and L7 of the Existing Facility to obtain the additional 220 kW of power for Suite F3.
+> (b)     obtain 110 kW of power each from the SUPS units on L3 and L7 of the Existing Facility to obtain the additional 220 kW of power for Suite F3.
 
 396    According to Mr Turvey, the significant capital expenditure necessary to obtain the power from these various locations meant that GSS had to price the additional power at about S$10,000 per kW over a five-year term in order to ensure that it was financially viable for GSS. In his view, the capital expenditure needed for this opportunity would have been significantly lower if GSS had been able to cable the additional power from a single location in the Existing Facility. However, because available SUPS power had been diverted to the Extension, GSS would have had to cable it from various SUPS units scattered around the Existing Facility, which was expensive.[^661] For comparison, its competitor, Digital Realty, was willing to offer potential customers power at S$3,500 per kW at that time.[^662] However, the facts also show that GSS’s plan to redistribute power within the Existing Facility was expensive not only because of the cabling works, but for other reasons which had nothing to do with the implementation of the Revised Design.
 
@@ -2112,33 +2261,33 @@ There is evidence of early corrosion associated with a valve located between val
 
 399    On 14 September 2011, GSS sent Pacnet a letter containing two alternative offers:[^668]
 
-(a)     annual rent of S$4,686,500 over a five-year period if Pacnet signed for an additional 241 kW of power and extended its lease for the 225 kW that Pacnet had already contracted for (“GSS’s first offer”); or
+> (a)     annual rent of S$4,686,500 over a five-year period if Pacnet signed for an additional 241 kW of power and extended its lease for the 225 kW that Pacnet had already contracted for (“GSS’s first offer”); or
 
-(b)     alternatively, annual rent of S$3,442,448 over a ten-year period if Pacnet signed for an additional 221 kW of power and extended its lease for the 225 kW that Pacnet had already contracted for (“GSS’s second offer”).
+> (b)     alternatively, annual rent of S$3,442,448 over a ten-year period if Pacnet signed for an additional 221 kW of power and extended its lease for the 225 kW that Pacnet had already contracted for (“GSS’s second offer”).
 
 400    This was followed by an email from Mr Chris Heffernan to Pacnet on 25 September 2011 which set out a high-level breakdown of the works that were required to accommodate the additional power.[^669]
 
 401    Pacnet responded on 25 September 2011 stating:[^670]
 
-Hi Chris,
+> Hi Chris,
 
-Thanks for the brief explanation of the works required to provide both the 21 kW and 220 kW.
+> Thanks for the brief explanation of the works required to provide both the 21 kW and 220 kW.
 
-From reading through it would seem that in all honesty you are at the limits of your systems capacity and to provide a modest 21 kW will require quite a major upgrade.
+> From reading through it would seem that in all honesty you are at the limits of your systems capacity and to provide a modest 21 kW will require quite a major upgrade.
 
-To install the 220 kW will require considerable reworking.
+> To install the 220 kW will require considerable reworking.
 
-All in all the cost is some 14.1k/kW which is fairly excessive and is more than for a new build to a high Tier III standard.
+> All in all the cost is some 14.1k/kW which is fairly excessive and is more than for a new build to a high Tier III standard.
 
-We will have to review this internally before we can make any decision on what to do but realistically we would not have expected a cost of this level to furnish us with a relatively modest load.
+> We will have to review this internally before we can make any decision on what to do but realistically we would not have expected a cost of this level to furnish us with a relatively modest load.
 
-…
+> …
 
 402    On 20 October 2011, GSS sent yet another set of proposals to Pacnet. This time, the offers were for:[^671]
 
-(a)     annual rent of rent of S$3,387,500 over a ten-year period if GSS took up the additional 241 kW of power and extended its lease for the existing 225 kW (“GSS’s discounted second offer”); or
+> (a)     annual rent of rent of S$3,387,500 over a ten-year period if GSS took up the additional 241 kW of power and extended its lease for the existing 225 kW (“GSS’s discounted second offer”); or
 
-(b)     annual rent of S$3,267,000 over a 15-year period if GSS took up the additional 241 kW of power and extended its lease for the existing 225 kW (“GSS’s third offer”).
+> (b)     annual rent of S$3,267,000 over a 15-year period if GSS took up the additional 241 kW of power and extended its lease for the existing 225 kW (“GSS’s third offer”).
 
 403    These offers was not suitable for Pacnet, however, and on 15 November 2011, Pacnet finally informed GSS that it had elected not to contract with GSS for any additional power, but was content to merely extend its existing lease.[^672]
 
@@ -2150,11 +2299,11 @@ We will have to review this internally before we can make any decision on what t
 
 406    The issues are whether Arup’s breaches (on the assumption that I am wrong and so the Revised Design was, contrary to my findings, necessitated by Arup’s breaches of the Contract) caused GSS to be deprived of a chance to contract with Pacnet for additional power, and whether that chance was real and substantial as opposed to merely fanciful. The resolution of these issues turns on the following:
 
-(a)     Could GSS have accommodated Pacnet’s request for additional power to begin with (_ie_, even if the Revised Design had not been implemented)?
+> (a)     Could GSS have accommodated Pacnet’s request for additional power to begin with (_ie_, even if the Revised Design had not been implemented)?
 
-(b)     Did Pacnet reject GSS’s proposals because of the high price quoted by GSS?
+> (b)     Did Pacnet reject GSS’s proposals because of the high price quoted by GSS?
 
-(c)     If so, were Arup’s breaches the cause of the high capital expenditure?
+> (c)     If so, were Arup’s breaches the cause of the high capital expenditure?
 
 407    GSS must succeed on all three issues to prevail in its Pacnet claim. In my view, it has succeeded on the first and second issues but not the third.
 
@@ -2166,17 +2315,17 @@ We will have to review this internally before we can make any decision on what t
 
 409    The evidence establishes that Pacnet’s primary concern was with the price quoted by GSS for the additional power. This was made clear in Pacnet’s 25 September 2011 email to GSS, where Pacnet expressed obvious disappointment with the price it had been quoted:[^676]
 
-…
+> …
 
-From reading through it would seem that in all honesty you are at the limits of your systems capacity and to provide a modest 21 kW will require quite a major upgrade.
+> From reading through it would seem that in all honesty you are at the limits of your systems capacity and to provide a modest 21 kW will require quite a major upgrade.
 
-_To install the 220 kW will require considerable reworking._
+> _To install the 220 kW will require considerable reworking._
 
-_All in all the cost is some 14.1k/kW which is fairly excessive and is more than for a new build to a high Tier III standard._
+> _All in all the cost is some 14.1k/kW which is fairly excessive and is more than for a new build to a high Tier III standard._
 
-We will have to review this internally before we can make any decision on what to do but **_realistically we would not have expected a cost of this level to furnish us with a relatively modest load._**
+> We will have to review this internally before we can make any decision on what to do but **_realistically we would not have expected a cost of this level to furnish us with a relatively modest load._**
 
-\[emphasis added in italics and bold italics\]
+> \[emphasis added in italics and bold italics\]
 
 410    Though Pacnet also mentioned that GSS was “at the limits of \[its\] system capacity” and that its proposal would “require considerable reworking”, it is reasonable to conclude that Pacnet, a commercial entity, was primarily concerned about the price it would have to pay for their additional requirements. This is strongly suggested by the last paragraph, in which Pacnet mentioned that it would have to review GSS’s proposal internally but hinted that it was unlikely to accept because “\[it\] would not have expected a cost of this level to furnish \[it\] with a relatively modest load”.
 
@@ -2198,35 +2347,35 @@ We will have to review this internally before we can make any decision on what t
 
 417    Microsoft’s requirements then evolved over the next few months:
 
-(a)     On 23 August 2012, Microsoft stated that it required 500 kW by 1 April 2013, or 1 June 2013 if it was delivered to Microsoft’s existing space, with another 1,000 kW to be made available on a “right of first refusal” basis subsequently.[^686]
+> (a)     On 23 August 2012, Microsoft stated that it required 500 kW by 1 April 2013, or 1 June 2013 if it was delivered to Microsoft’s existing space, with another 1,000 kW to be made available on a “right of first refusal” basis subsequently.[^686]
 
-(b)     On 29 August 2012, Microsoft indicated that it would require 2,000 kW of additional power, with the first 1,000 kW to be delivered by February or March 2013, the next 500 kW to be delivered by May or June 2013, and the final 500 kW to be delivered by August or September 2013.[^687]
+> (b)     On 29 August 2012, Microsoft indicated that it would require 2,000 kW of additional power, with the first 1,000 kW to be delivered by February or March 2013, the next 500 kW to be delivered by May or June 2013, and the final 500 kW to be delivered by August or September 2013.[^687]
 
-(c)     On 3 September 2012, Microsoft indicated to GSS that it was agreeable to the arrangement that was communicated to GSS on 23 August 2012.[^688]
+> (c)     On 3 September 2012, Microsoft indicated to GSS that it was agreeable to the arrangement that was communicated to GSS on 23 August 2012.[^688]
 
-(d)     Around 21 September 2012, Microsoft indicated that it only needed an additional 800 kW of power from GSS.[^689]
+> (d)     Around 21 September 2012, Microsoft indicated that it only needed an additional 800 kW of power from GSS.[^689]
 
-(e)     On 17 October 2012, GSS received indication from Microsoft that it would be agreeable to accepting a proposal for 1,500 kW of additional power, with the first tranche of 600 kW to be delivered by 1 April 2013, a subsequent tranche of 300 kW to be delivered by 1 July 2013, and the last tranche of 600 kW to be delivered by 1 September 2013.[^690]
+> (e)     On 17 October 2012, GSS received indication from Microsoft that it would be agreeable to accepting a proposal for 1,500 kW of additional power, with the first tranche of 600 kW to be delivered by 1 April 2013, a subsequent tranche of 300 kW to be delivered by 1 July 2013, and the last tranche of 600 kW to be delivered by 1 September 2013.[^690]
 
-(f)     Around 30 November 2012, GSS received an indication that Microsoft was willing to accept a proposal for an additional 1,000 kW of power to be delivered in three tranches in April, July, and September 2013.[^691]
+> (f)     Around 30 November 2012, GSS received an indication that Microsoft was willing to accept a proposal for an additional 1,000 kW of power to be delivered in three tranches in April, July, and September 2013.[^691]
 
-(g)     Finally, on 5 December 2012, GSS was informed by Microsoft that its requirements for additional power had increased to 2,500 kW, with the first tranche of 1,000 kW to be delivered by 1 April 2013.[^692] Mr Turvey agreed that this requirement was beyond GSS’s capabilities, and there were no further negotiations between Microsoft and GSS thereafter.[^693]
+> (g)     Finally, on 5 December 2012, GSS was informed by Microsoft that its requirements for additional power had increased to 2,500 kW, with the first tranche of 1,000 kW to be delivered by 1 April 2013.[^692] Mr Turvey agreed that this requirement was beyond GSS’s capabilities, and there were no further negotiations between Microsoft and GSS thereafter.[^693]
 
 418    Internally, GSS was trying to put together a competitive offer for Microsoft’s request for the additional 1,500 kW of power (“the 1,500 kW Microsoft Opportunity”) after learning of Microsoft’s request in June 2012. Initial estimates of the capital expenditure required to meet this commitment was around $12 million. However, it subsequently turned out that the true expected capital expenditure for this project was between $17 million and $18 million.[^694] When informed of this increased estimate on 12 November 2012, Mr Corcoran gave the following reply:[^695]
 
-Chris and Peter,
+> Chris and Peter,
 
-I thought the estimate was S$12.7m (which is what we based our commercial negotiation on)? What are the differences. _I suspect this will kill the deal as it takes an extra year to repay the capex._ REW will rework the TCI numbers.
+> I thought the estimate was S$12.7m (which is what we based our commercial negotiation on)? What are the differences. _I suspect this will kill the deal as it takes an extra year to repay the capex._ REW will rework the TCI numbers.
 
-\[emphasis added\]
+> \[emphasis added\]
 
 419    When it was confirmed that the capital expenditure for the 1,500 kW Microsoft Opportunity was $18 million, Mr Corcoran replied to state:[^696]
 
-Gents,
+> Gents,
 
-_This clearly no longer works_. Any thoughts on how the budget can be reduced?
+> _This clearly no longer works_. Any thoughts on how the budget can be reduced?
 
-\[emphasis added\]
+> \[emphasis added\]
 
 420    In the email correspondence between the GSS staff, there was no indication why the expected capital expenditure was estimated to be so high. GSS also did not address me on the significance of this in their closing or reply submissions. More significantly for present purposes, it did not seek to attribute this deal-killing capital expenditure to Arup’s breaches.
 
@@ -2240,11 +2389,11 @@ _This clearly no longer works_. Any thoughts on how the budget can be reduced?
 
 424    Arup, on the other hand, denies that its Revised Design was the cause of GSS’s inability to secure the 1,500 kW Microsoft opportunity. Instead, it alleges that GSS was unable to do so because of:
 
-(a)     the high capital expenditure that GSS had to incur to secure the 1,500 kW Microsoft Opportunity;
+> (a)     the high capital expenditure that GSS had to incur to secure the 1,500 kW Microsoft Opportunity;
 
-(b)     GSS’s inability to meet the deadline for the latter two tranches due to the long lead time needed to order a fifth DRUPS unit; and
+> (b)     GSS’s inability to meet the deadline for the latter two tranches due to the long lead time needed to order a fifth DRUPS unit; and
 
-(c)     GSS’s inability to obtain additional cooling equipment in time.
+> (c)     GSS’s inability to obtain additional cooling equipment in time.
 
 425    In my judgment, GSS has not succeeded in showing that it would have had a chance of securing the 1,500 kW Microsoft Opportunity but for Arup’s breaches. This is because it has failed to show that it was Arup’s breaches which caused the expenditure for the proposal to become unsustainably high, which in turn caused GSS to pull the plug on this project. As mentioned above at \[411\]–\[412\], GSS only set about putting together a proposal for the 720 kW offer because it realised that the capital expenditure it would have had to incur for the 1,500 kW project was prohibitively high. As the party that bears the burden of proof, GSS has to show that this high capital expenditure was caused by Arup’s breaches. However, it has failed to adduce any evidence to show that this was the case. Indeed, GSS did not even seek to argue that this high capital expenditure was due to Arup’s breaches. It did not address this issue altogether in its closing submissions and reply submissions. Nor did Mr Turvey offer any evidence to show that it was Arup’s breaches which caused this project’s capital expenditure to become prohibitively high for GSS. I therefore find that GSS has failed to satisfy its burden of proof for loss of profits and/or loss of chance on this issue, and dismiss its claim.
 
@@ -2252,9 +2401,9 @@ _This clearly no longer works_. Any thoughts on how the budget can be reduced?
 
 427    In relation to additional cooling, an email from Mr Franc Coles (“Mr Coles”) of AECOM suggests that GSS could potentially have met the deadlines for the additional cooling equipment. According to that email, GSS’s existing cooling system had 600 kW of spare capacity at that point.[^703] This would have been enough to provide cooling for the initial 500 kW increase in power density for the first tranche in April 2013. While GSS would have had to order additional chillers and CRACs to deal with the subsequent two tranches of additional power,[^704] there would have been sufficient time for them to do so by July and September 2013. In the abovementioned email, Mr Coles estimated that installation and delivery of the chillers would have required a lead time of about 2.5 to 3 months and 4 to 5 months respectively,[^705] while installation and delivery of the CRACs would have required a lead time of about 5 to 7 weeks and 10 to 12 weeks respectively.[^706] Thus, if an order for the equipment was placed by the end of October 2012, the chillers could have been delivered by March 2013, and the CRACs two months earlier; both well before the July 2013 deadline. However, I make no definitive finding on this as this is unnecessary given my findings above (at \[415\]). I also note that when taken to these emails in cross-examination, Mr Turvey stated as follows:[^707]
 
-Q:… I pause here, we'll go on to power later. So what AECOM is basically telling Global Switch is that, “If we were to order for the cooling solution today, the earliest that we are going to look at for expected completion is going to be late April 2013 and at least in respect of the earlier requirement of Microsoft to have 500 kW by April 2013, there might be an issue because the cooling is only going to be finalised in late April 2013.”
+> Q:… I pause here, we'll go on to power later. So what AECOM is basically telling Global Switch is that, “If we were to order for the cooling solution today, the earliest that we are going to look at for expected completion is going to be late April 2013 and at least in respect of the earlier requirement of Microsoft to have 500 kW by April 2013, there might be an issue because the cooling is only going to be finalised in late April 2013.”
 
-A:That’s correct.
+> A:That’s correct.
 
 428    In relation to the fifth DRUPS unit, it is unclear whether GSS would have been able to place that order in time. As indicated by Mr Turvey, the estimated lead time for the delivery and installation of a DRUPS unit was about 10 to 12 months.[^708] While an order placed at the end of June 2012 might have allowed the DRUPS to be delivered by June 2013 at the latest, it is unclear if GSS could have placed such an order that quickly. I am unable to find, on balance, that GSS could have done so. Even before agreeing to Microsoft’s 1,500 kW requirements in June 2012, GSS’s practice indicates that it would have at least undertaken internal feasibility studies (considering that these are significant investments), and was also likely to have engaged third party consultants, such as AECOM, to advise it on its ability to meet Microsoft’s requirements. There is no clear indication of how long such studies and discussions would have taken. As the party which bears the burden of proof, GSS should have adduced evidence to show that it could have placed an order for the fifth DRUPS unit in time for it to be delivered by July 2013 even after undertaking the necessary preliminary enquiries. In my view, it has failed to discharge this burden as it has failed to adduce any evidence to this effect.
 
@@ -2270,23 +2419,23 @@ A:That’s correct.
 
 432    In summary, I deal with each of GSS’s claims in the order presented in the agreed list of issues. For the reasons set out above:
 
-(a)     I dismiss GSS’s claim for the cost of $946,000.00 in implementing the Revised Design to remedy the alleged inadequacies in Arup’s Original Design that GSS alleges results in a shortfall in the Extension’s NBP. There was no NBP shortfall given my finding that parties had varied the original specification downwards to 2,800 kW in the first instance. The Revised Design was also necessitated by the Microsoft tenancy that GSS itself wanted to secure.
+> (a)     I dismiss GSS’s claim for the cost of $946,000.00 in implementing the Revised Design to remedy the alleged inadequacies in Arup’s Original Design that GSS alleges results in a shortfall in the Extension’s NBP. There was no NBP shortfall given my finding that parties had varied the original specification downwards to 2,800 kW in the first instance. The Revised Design was also necessitated by the Microsoft tenancy that GSS itself wanted to secure.
 
-(b)     I dismiss GSS’s claim for the additional cost of $2,972,994.19 in relation to the subsequent installation of the fourth DRUPS unit, as a separate project. I have found that the installation of a fourth DRUPS unit had been ruled out at the material time because GSS was facing space and cost constraints (at \[204\]).
+> (b)     I dismiss GSS’s claim for the additional cost of $2,972,994.19 in relation to the subsequent installation of the fourth DRUPS unit, as a separate project. I have found that the installation of a fourth DRUPS unit had been ruled out at the material time because GSS was facing space and cost constraints (at \[204\]).
 
-(c)     I dismiss GSS’s claim for business/rental/profits, whether on a loss of profits or loss of chance analysis, for both the Pacnet Opportunity and the Microsoft Opportunities. Consequent upon my finding that there was _no_ shortfall in power supplied to the Extension but only a variation of the Contract, GSS has not made out its claim that it would have made these profits if only the spare capacity from the Existing Facility’s SUPS units had not been used to remedy the shortfall in power supplied to the Extension.[^711] Even if I leave this reason to one side, I have given my reasons for disallowing the claim above (at \[376\]–\[421\]).
+> (c)     I dismiss GSS’s claim for business/rental/profits, whether on a loss of profits or loss of chance analysis, for both the Pacnet Opportunity and the Microsoft Opportunities. Consequent upon my finding that there was _no_ shortfall in power supplied to the Extension but only a variation of the Contract, GSS has not made out its claim that it would have made these profits if only the spare capacity from the Existing Facility’s SUPS units had not been used to remedy the shortfall in power supplied to the Extension.[^711] Even if I leave this reason to one side, I have given my reasons for disallowing the claim above (at \[376\]–\[421\]).
 
-(d)     I dismiss GSS’s claim for costs and expenses amounting to $287,324.90, as at October 2014 and continuing, as a result of the failure of the Revised Design in May 2013.
+> (d)     I dismiss GSS’s claim for costs and expenses amounting to $287,324.90, as at October 2014 and continuing, as a result of the failure of the Revised Design in May 2013.
 
-(e)     I dismiss GSS’s claim for costs and expenses amounting to $295,630.80 for taking measures to remedy the failure of the Revised Design.
+> (e)     I dismiss GSS’s claim for costs and expenses amounting to $295,630.80 for taking measures to remedy the failure of the Revised Design.
 
-(f)     I allow GSS’s claim for additional costs for the provision of additional cooling to rectify Arup’s breaches, but find that GSS is only entitled to nominal damages of $1,000.
+> (f)     I allow GSS’s claim for additional costs for the provision of additional cooling to rectify Arup’s breaches, but find that GSS is only entitled to nominal damages of $1,000.
 
-(g)     I dismiss GSS’s claim for additional costs amounting to $405,000 to obtain additional SBP to support the Mechanical Load Requirement. Arup was not in breach of its duties in providing the SBP that it did.
+> (g)     I dismiss GSS’s claim for additional costs amounting to $405,000 to obtain additional SBP to support the Mechanical Load Requirement. Arup was not in breach of its duties in providing the SBP that it did.
 
-(h)     I dismiss GSS’s claims in relation to the chillers, these being $136,000 for the cost of sealing the louvers providing for water leakage detection for the fan control units and BMS monitoring for the three chiller units; $118,806 to repair the faults in the chiller units; and $24,000.00 in respect of the staff time expended to restart the chillers, stabilise the cooling system and conduct checks in the Extension for any faults, trips or temperature-related issues.
+> (h)     I dismiss GSS’s claims in relation to the chillers, these being $136,000 for the cost of sealing the louvers providing for water leakage detection for the fan control units and BMS monitoring for the three chiller units; $118,806 to repair the faults in the chiller units; and $24,000.00 in respect of the staff time expended to restart the chillers, stabilise the cooling system and conduct checks in the Extension for any faults, trips or temperature-related issues.
 
-(i)     I dismiss GSS’s claim for $1,000,000 to conduct further T&C of the M&E system for latent defects that have yet to emerge. GSS had alleged that this was necessitated by Arup’s breaches of its obligations to ensure proper T&C of the Extension.[^712] But I have found there to be no such breach; Arup had recommended the bypass test and, whether in relation to Phase 1 or Phase 2 T&C, any inadequacy in testing was attributable to instructions given or constraints imposed by GSS (such as the STSs not being available on the tight timeline, or Microsoft being a live customer). GSS’s claim under this head is also unmeritorious for other reasons. First, given its pleading that _further_ T&C had to be carried out to check for latent defects, it is surprising that GSS had not already done so by the time of trial. GSS would have been aware of such a need by 2014, after Mr Hamer conducted his various tests on the DRUPS and STSs.[^713] This would have given them at least two to three years to carry out such further T&C. While I acknowledge that T&C in a live environment requires more time than usual, a delay of such magnitude raises doubts as to whether this claim is a genuine one. Secondly, GSS has not even sought to particularise what these alleged latent defects would be, making its claim speculative.
+> (i)     I dismiss GSS’s claim for $1,000,000 to conduct further T&C of the M&E system for latent defects that have yet to emerge. GSS had alleged that this was necessitated by Arup’s breaches of its obligations to ensure proper T&C of the Extension.[^712] But I have found there to be no such breach; Arup had recommended the bypass test and, whether in relation to Phase 1 or Phase 2 T&C, any inadequacy in testing was attributable to instructions given or constraints imposed by GSS (such as the STSs not being available on the tight timeline, or Microsoft being a live customer). GSS’s claim under this head is also unmeritorious for other reasons. First, given its pleading that _further_ T&C had to be carried out to check for latent defects, it is surprising that GSS had not already done so by the time of trial. GSS would have been aware of such a need by 2014, after Mr Hamer conducted his various tests on the DRUPS and STSs.[^713] This would have given them at least two to three years to carry out such further T&C. While I acknowledge that T&C in a live environment requires more time than usual, a delay of such magnitude raises doubts as to whether this claim is a genuine one. Secondly, GSS has not even sought to particularise what these alleged latent defects would be, making its claim speculative.
 
 433    I dismiss GSS’s claim for further damages in addition to the foregoing. GSS has not established that Arup is under any additional duties.
 
@@ -2310,11 +2459,11 @@ A:That’s correct.
 
 439    According to Arup, this SCN for the sum of $18,832 reflects work done in respect of fit-out coordination requested by GSS whereby Arup was asked to:[^722]
 
-(a)     review, monitor, and assist the main contractor to produce a combined coordinated service layout, including review of Microsoft’s intended lease rack arrangements and lighting layout/circuiting;
+> (a)     review, monitor, and assist the main contractor to produce a combined coordinated service layout, including review of Microsoft’s intended lease rack arrangements and lighting layout/circuiting;
 
-(b)     ensure that all high level and low level coordination and mounting heights are in accordance with GSS’s and the Microsoft lease requirements; and
+> (b)     ensure that all high level and low level coordination and mounting heights are in accordance with GSS’s and the Microsoft lease requirements; and
 
-(c)     attend to the coordination and construction review of the coordinate M&E, fire, lighting, and security system layouts for May to September 2010, including T&C of fit-out services.
+> (c)     attend to the coordination and construction review of the coordinate M&E, fire, lighting, and security system layouts for May to September 2010, including T&C of fit-out services.
 
 As Arup was only the consultant in respect of M&E issues, these works fell outside its original scope of works.
 

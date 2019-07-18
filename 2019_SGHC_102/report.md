@@ -17,15 +17,15 @@ Professions – Medical profession and practice – Professional conduct
 
 2       The first principle underscores the critical role of the doctor in healing, as well as empathising with, his or her patients. As the Court in _Wong Him Choon_ put it (at \[1\]):
 
-It is an understatement of the highest order to state that doctors are part of the bedrock of our society. This is so not least because they care for people by helping to heal them, _regardless of_ their situation or station in life. And even in the direst of circumstances, for example, when physical death is at the patient’s doorstep, their kindness and assistance is no less (and may be even more) important. That is why all of us look up to doctors and respect them for the high calling that is rightfully theirs to claim. And that calling is of course embodied in the Hippocratic Oath. \[emphasis in original\]
+> It is an understatement of the highest order to state that doctors are part of the bedrock of our society. This is so not least because they care for people by helping to heal them, _regardless of_ their situation or station in life. And even in the direst of circumstances, for example, when physical death is at the patient’s doorstep, their kindness and assistance is no less (and may be even more) important. That is why all of us look up to doctors and respect them for the high calling that is rightfully theirs to claim. And that calling is of course embodied in the Hippocratic Oath. \[emphasis in original\]
 
 3       The second underscores the importance of _perspective_ in performing one’s role as a doctor. Again, as this Court observed in _Wong Him Choon_ (at \[4\]):
 
-This case also – as we shall also elaborate upon below – concerns the important issue of _perspective_. In particular, the doctor must also be cognisant of _the patient’s position and welfare_. And this entails placing himself or herself in the shoes of the patient, so to speak. In this regard, the following oft-cited advice from a father to his daughter in a famous novel ought to be noted (see Harper Lee, _To Kill A Mockingbird_ (William Heinemann Ltd, 1960; reprinted in the New Windmill Series, 1966) at p 35):
+> This case also – as we shall also elaborate upon below – concerns the important issue of _perspective_. In particular, the doctor must also be cognisant of _the patient’s position and welfare_. And this entails placing himself or herself in the shoes of the patient, so to speak. In this regard, the following oft-cited advice from a father to his daughter in a famous novel ought to be noted (see Harper Lee, _To Kill A Mockingbird_ (William Heinemann Ltd, 1960; reprinted in the New Windmill Series, 1966) at p 35):
 
-First of all, … if you can learn a simple trick, Scout, you’ll get along a lot better with all kinds of folks. You never really understand a person until you consider things from his point of view – … until you climb into his skin and walk around in it.
+>> First of all, … if you can learn a simple trick, Scout, you’ll get along a lot better with all kinds of folks. You never really understand a person until you consider things from his point of view – … until you climb into his skin and walk around in it.
 
-\[emphasis in original\]
+> \[emphasis in original\]
 
 4       As we shall see below, these two broad principles will be brought into sharp relief in the context of one of the present appeals – albeit not in their observance but (on the contrary) in their neglect.
 
@@ -71,9 +71,9 @@ First of all, … if you can learn a simple trick, Scout, you’ll get along a l
 
 21     For context as to how the charges were framed, this Court in _Low Cze Hong v Singapore Medical Council_ <span class="citation">\[2008\] 3 SLR(R) 612</span> (“_Low Cze Hong_”) accepted that the “professional misconduct” sanctioned under s 53(1)(_d_) of the MRA can be made out in at least two situations (at \[37\]):
 
-(a)     where there is an intentional, deliberate departure from standards observed or approved by members of the profession of good repute and competency (“the first limb”); or
+> (a)     where there is an intentional, deliberate departure from standards observed or approved by members of the profession of good repute and competency (“the first limb”); or
 
-(b)     where there has been such serious negligence that it objectively portrays an abuse of the privileges which accompany registration as a medical practitioner (“the second limb”).
+> (b)     where there has been such serious negligence that it objectively portrays an abuse of the privileges which accompany registration as a medical practitioner (“the second limb”).
 
 22     The Charges and Alternative Charges were based on exactly the same factual substratum, the difference being that the Charges were brought under the first limb, whereas the Alternative Charges were brought under the second limb.
 
@@ -81,27 +81,27 @@ First of all, … if you can learn a simple trick, Scout, you’ll get along a l
 
 1 st CHARGE
 
-That you DR KEVIN YIP MAN HING … on 8 July 2011, did fail to ensure that adequate sick leave was given to your patient, one Zhang Ru Lin (the “Patient”), in light of his condition and the nature of his occupation.
+> That you DR KEVIN YIP MAN HING … on 8 July 2011, did fail to ensure that adequate sick leave was given to your patient, one Zhang Ru Lin (the “Patient”), in light of his condition and the nature of his occupation.
 
 Particulars
 
-…
+>> …
 
-(g)    Given the nature of the Patient’s occupation, his condition on 8 July 2011 and the requisite post-operative management of the Patient after the Surgery, sick leave should have been given to the Patient upon his discharge, and it was inappropriate of you to certify the Patient as being fit for light duties from 9 July 2011 to 11 July 2011.
+>> (g)    Given the nature of the Patient’s occupation, his condition on 8 July 2011 and the requisite post-operative management of the Patient after the Surgery, sick leave should have been given to the Patient upon his discharge, and it was inappropriate of you to certify the Patient as being fit for light duties from 9 July 2011 to 11 July 2011.
 
-In relation to the facts alleged, you have been guilty of professional misconduct under Section 53(1)(d) of the Medical Registration Act (Cap. 174) in that your conduct demonstrated an intentional, deliberate departure from standards observed or approved by members of the profession of good repute and competency.
+> In relation to the facts alleged, you have been guilty of professional misconduct under Section 53(1)(d) of the Medical Registration Act (Cap. 174) in that your conduct demonstrated an intentional, deliberate departure from standards observed or approved by members of the profession of good repute and competency.
 
 ALTERNATIVE 1 st CHARGE
 
-That you DR KEVIN YIP MAN HING … on 8 July 2011, did fail to ensure that adequate sick leave was given to your patient, one Zhang Ru Lin (the “Patient”), in light of his condition and the nature of his occupation.
+> That you DR KEVIN YIP MAN HING … on 8 July 2011, did fail to ensure that adequate sick leave was given to your patient, one Zhang Ru Lin (the “Patient”), in light of his condition and the nature of his occupation.
 
 Particulars
 
-…
+>> …
 
-(g)    Given the nature of the Patient’s occupation, his condition on 8 July 2011 and the requisite post-operative management of the Patient after the Surgery, sick leave should have been given to the Patient upon his discharge, and it was inappropriate of you to certify the Patient as being fit for light duties from 9 July 2011 to 11 July 2011.
+>> (g)    Given the nature of the Patient’s occupation, his condition on 8 July 2011 and the requisite post-operative management of the Patient after the Surgery, sick leave should have been given to the Patient upon his discharge, and it was inappropriate of you to certify the Patient as being fit for light duties from 9 July 2011 to 11 July 2011.
 
-In relation to the facts alleged, you have been guilty of professional misconduct under Section 53(1)(d) of the Medical Registration Act (Cap. 174) in that your conduct demonstrated such serious negligence that it objectively portrays an abuse of the privileges which accompany registration as a medical practitioner.
+> In relation to the facts alleged, you have been guilty of professional misconduct under Section 53(1)(d) of the Medical Registration Act (Cap. 174) in that your conduct demonstrated such serious negligence that it objectively portrays an abuse of the privileges which accompany registration as a medical practitioner.
 
 ## The DT’s decision
 
@@ -113,45 +113,45 @@ In relation to the facts alleged, you have been guilty of professional misconduc
 
 26     The DT’s decision to convict Dr Yip followed an analysis of four issues (GD at \[23\]):
 
-(a)     In respect of the Charges:
+> (a)     In respect of the Charges:
 
-(i)       Whether it was the practice (“the first applicable standard”) among members of the medical profession of good standing and repute to certify a worker with the Patient’s injuries fit for light duty on the first post-operative day following clavicle surgery and conservative treatment of two to four rib fractures (“the first issue”).
+>> (i)       Whether it was the practice (“the first applicable standard”) among members of the medical profession of good standing and repute to certify a worker with the Patient’s injuries fit for light duty on the first post-operative day following clavicle surgery and conservative treatment of two to four rib fractures (“the first issue”).
 
-(ii)       Whether Dr Yip had intentionally and deliberately departed from the first applicable standard (“the second issue”).
+>> (ii)       Whether Dr Yip had intentionally and deliberately departed from the first applicable standard (“the second issue”).
 
-(iii)       Given that it was undisputed that Dr Yip had a duty to establish that there were adequate conditions for rest and rehabilitation (“the second applicable standard”), whether Dr Yip had departed from the second applicable standard, and if so, whether that departure had been intentional and deliberate (“the third issue”).
+>> (iii)       Given that it was undisputed that Dr Yip had a duty to establish that there were adequate conditions for rest and rehabilitation (“the second applicable standard”), whether Dr Yip had departed from the second applicable standard, and if so, whether that departure had been intentional and deliberate (“the third issue”).
 
-(b)     In respect of the Alternative Charges, whether there had been serious negligence on Dr Yip’s part, and whether such negligence objectively constituted an abuse of the privileges of being registered as a medical practitioner (“the fourth issue”).
+> (b)     In respect of the Alternative Charges, whether there had been serious negligence on Dr Yip’s part, and whether such negligence objectively constituted an abuse of the privileges of being registered as a medical practitioner (“the fourth issue”).
 
 27     In respect of the first issue, the DT found that it was not the practice among members of the medical profession of good standing and repute to certify a worker with the Patient’s injuries as fit for light duties on the first post-operative day (GD at \[68\]). In reaching this conclusion the DT made the following findings and observations:
 
-(a)     Dr Murphy’s evidence had been that for a person with the Patient’s injuries, six weeks of sick leave would have been appropriate, or at least a minimum of two weeks’ sick leave with reassessment thereafter (GD at \[29\]).
+> (a)     Dr Murphy’s evidence had been that for a person with the Patient’s injuries, six weeks of sick leave would have been appropriate, or at least a minimum of two weeks’ sick leave with reassessment thereafter (GD at \[29\]).
 
-(b)     Dr Tio’s evidence did not fully support Dr Yip’s position; despite advocating early mobilisation, he had accepted that, on the first post-operative day, there would have been pain over the clavicle and that light duties would have been “very difficult” for a few days (GD at \[27\]).
+> (b)     Dr Tio’s evidence did not fully support Dr Yip’s position; despite advocating early mobilisation, he had accepted that, on the first post-operative day, there would have been pain over the clavicle and that light duties would have been “very difficult” for a few days (GD at \[27\]).
 
-(c)     While the literature indicated that early mobilisation of the injured area was beneficial, that did not mean that the Patient should have received zero post-operative sick leave and certification to return to light duties immediately (GD at \[67\]). Dr Yip had been unable to point to any literature supporting giving _zero_ days of sick leave to a patient with _multiple_ fractures. The only medical literature that supported immediate return to sedentary work was to be found in the Prince Edward Island Guidelines (“the PEI Guidelines”) that suggested a range of zero days to four weeks for clavicle fractures **_or_** zero days to two weeks for rib fractures. _However_, given that the Patient had suffered _multiple_ fractures of both the clavicle and the ribs, it was not appropriate to apply the recovery timelines at the lowest end of the scale (GD at \[30\], \[34\] and \[41\]). The other medical literature referred to by Dr Yip as supporting a return to heavy duties on the first post-operative day concerned highly motivated patient populations (_eg_, athletes), who would have shorter recovery times than the Patient (GD at \[33\]).
+> (c)     While the literature indicated that early mobilisation of the injured area was beneficial, that did not mean that the Patient should have received zero post-operative sick leave and certification to return to light duties immediately (GD at \[67\]). Dr Yip had been unable to point to any literature supporting giving _zero_ days of sick leave to a patient with _multiple_ fractures. The only medical literature that supported immediate return to sedentary work was to be found in the Prince Edward Island Guidelines (“the PEI Guidelines”) that suggested a range of zero days to four weeks for clavicle fractures **_or_** zero days to two weeks for rib fractures. _However_, given that the Patient had suffered _multiple_ fractures of both the clavicle and the ribs, it was not appropriate to apply the recovery timelines at the lowest end of the scale (GD at \[30\], \[34\] and \[41\]). The other medical literature referred to by Dr Yip as supporting a return to heavy duties on the first post-operative day concerned highly motivated patient populations (_eg_, athletes), who would have shorter recovery times than the Patient (GD at \[33\]).
 
-(d)     While the Additional Reports generally affirmed early mobilisation and return to work, even those most favourable to Dr Yip were “not clear authoritative endorsements of giving no sick leave” or for certifying fitness to return to light duties from the first post-operative day (GD at \[53\] and \[55\]).
+> (d)     While the Additional Reports generally affirmed early mobilisation and return to work, even those most favourable to Dr Yip were “not clear authoritative endorsements of giving no sick leave” or for certifying fitness to return to light duties from the first post-operative day (GD at \[53\] and \[55\]).
 
-(e)     No weight was given to the survey commissioned by Dr Yip due to several flaws and errors in the conduct and design of the survey, the most “troubling” of which was that a question had been omitted from the final results (“the Omitted Question”), the responses to which were adverse to Dr Yip’s position (GD at \[61\] and \[64\]).
+> (e)     No weight was given to the survey commissioned by Dr Yip due to several flaws and errors in the conduct and design of the survey, the most “troubling” of which was that a question had been omitted from the final results (“the Omitted Question”), the responses to which were adverse to Dr Yip’s position (GD at \[61\] and \[64\]).
 
 28     In so far as the second issue was concerned, the DT found that Dr Yip’s departure from the first applicable standard had been intentional and deliberate (GD at \[74\]). The DT rejected Dr Yip’s attempt to justify such departure on medical grounds (_viz_, that he had assigned light duties to the patient to facilitate rehabilitation) and made the following findings:
 
-(a)     Dr Yip conceded that he would have given the Patient sick leave if there was no agreement on light duties or if light duties were unavailable (GD at \[70\]).
+> (a)     Dr Yip conceded that he would have given the Patient sick leave if there was no agreement on light duties or if light duties were unavailable (GD at \[70\]).
 
-(b)     Dr Yip’s attempt to justify giving the Patient light duties in the interest of the Patient’s welfare was without merit as:
+> (b)     Dr Yip’s attempt to justify giving the Patient light duties in the interest of the Patient’s welfare was without merit as:
 
-(i)       for someone in the Patient’s condition, the commute to and from the dormitory would have been painful (GD at \[72\]);
+>> (i)       for someone in the Patient’s condition, the commute to and from the dormitory would have been painful (GD at \[72\]);
 
-(ii)       light duties could not replace rehabilitation and mobilisation specifically directed at the injured area (GD at \[72\]); and
+>> (ii)       light duties could not replace rehabilitation and mobilisation specifically directed at the injured area (GD at \[72\]); and
 
-(iii)       there was no basis to suggest that the Patient needed supervision to carry out the necessary mobilisation (GD at \[73\]).
+>> (iii)       there was no basis to suggest that the Patient needed supervision to carry out the necessary mobilisation (GD at \[73\]).
 
 29     In respect of the second applicable standard, the DT observed that it was undisputed that Dr Yip had a duty to establish that there were adequate conditions for rest and rehabilitation. The third issue was therefore whether Dr Yip had intentionally and deliberately departed from this standard, and this turned to a significant degree on a single question of fact: whether or not Dr Yip had in fact discussed the existence and types of light duties with the Patient, and obtained the Patient’s agreement to try light duties (GD at \[75\]). The DT found that Dr Yip had failed to prove that fact on the balance of probabilities as (GD at \[95\]):
 
-(a)     the alleged discussion had not been mentioned in his Explanation to the Complaints Committee nor in any of his case notes; and
+> (a)     the alleged discussion had not been mentioned in his Explanation to the Complaints Committee nor in any of his case notes; and
 
-(b)     Mr Muthukannan did not persuasively corroborate Dr Yip’s account.
+> (b)     Mr Muthukannan did not persuasively corroborate Dr Yip’s account.
 
 The DT also found it “troubling” that Dr Yip claimed that he had not been aware that the Patient had not in fact worked _at all_ since the day of his accident until Mr Lin informed him of the same almost a year later; if, indeed, the light duties had been a part of Dr Yip’s treatment plan, it was strange that he did not discover during the first and second reviews that the Patient had not been doing any light duties (GD at \[92\] and \[95\]).
 
@@ -187,9 +187,9 @@ The DT also found it “troubling” that Dr Yip claimed that he had not been 
 
 41     In relation to the issue of whether Dr Yip had deliberately and intentionally departed from the second applicable standard requiring him to ascertain whether there were adequate conditions for rest and rehabilitation (_viz_, the third issue), Dr Yip contended that the DT’s finding that he had not discussed light duties with the Patient was wrong for the following two reasons:
 
-(a)     The DT had misread Dr Yip’s evidence as to his knowledge of the 2002 SMC Ethical Code and Guidelines (“the 2002 C&G”) on the documentation of discussions with patients on sick leave.
+> (a)     The DT had misread Dr Yip’s evidence as to his knowledge of the 2002 SMC Ethical Code and Guidelines (“the 2002 C&G”) on the documentation of discussions with patients on sick leave.
 
-(b)     The DT had wrongly excluded Mr Muthukannan’s direct evidence that Dr Yip did indeed discuss and obtain the Patient’s consent in relation to the question of light duties.
+> (b)     The DT had wrongly excluded Mr Muthukannan’s direct evidence that Dr Yip did indeed discuss and obtain the Patient’s consent in relation to the question of light duties.
 
 42     In relation to the issue of whether Dr Yip had been guilty of gross negligence under the second limb of _Low Cze Hong_ (_viz_, the fourth issue), Dr Yip argued that the mere fact that he had been ignorant of the Patient’s not having worked since the accident did not mean that the discussion had not taken place; the reason why he did not know was that he was not informed of that fact by either the Patient or Mr Lin during the two follow-up reviews on 11 and 18 July 2011.
 
@@ -211,13 +211,13 @@ The DT also found it “troubling” that Dr Yip claimed that he had not been 
 
 48     Section 55(11) of the MRA provides that the High Court shall accept as final and conclusive any finding of the DT relating to any issue of medical ethics or standards of professional conduct unless such finding is “unsafe, unreasonable or contrary to the evidence”. In this regard the High Court has repeatedly affirmed the test for intervention set out in _Low Cze Hong_ at \[39\]–\[40\], _viz_, that the High Court would have to make the following findings before it can intervene in the decision of a DT (_Wong Him Choon_ at \[39\]):
 
-(a)     there is something clearly wrong either:
+> (a)     there is something clearly wrong either:
 
-(i)       in the conduct of the disciplinary proceedings; and/or
+>> (i)       in the conduct of the disciplinary proceedings; and/or
 
-(ii)       in the legal principles applied; and/or
+>> (ii)       in the legal principles applied; and/or
 
-(b)     the findings of the DT are sufficiently out of tune with the evidence to indicate with reasonable certainty that the evidence has been misread.
+> (b)     the findings of the DT are sufficiently out of tune with the evidence to indicate with reasonable certainty that the evidence has been misread.
 
 49     The Court should be mindful that a DT has had the benefit of hearing oral evidence and is “a specialist tribunal with its own professional expertise and understands what the medical profession expects of its members”, and should therefore accord an appropriate degree of respect to a DT’s decision, though not an undue deference to the DT’s views such as to render its own powers nugatory (_Wong Him Choon_ at \[40\], citing _Ang Pek San Lawrence v Singapore Medical Council_ <span class="citation">\[2015\] 1 SLR 436</span> (“_Ang Pek San Lawrence_”) at \[33\]).
 
@@ -225,17 +225,17 @@ The DT also found it “troubling” that Dr Yip claimed that he had not been 
 
 50     As noted above (at \[21\]), the Charges and Alternative Charges were framed in terms of the two limbs set out in _Low Cze Hong_. The following must be proved to make out a charge under the first limb of _Low Cze Hong_ (_Wong Him Choon_ at \[49(a)\]):
 
-(a)     what the applicable standard of conduct was among members of the medical profession of good standing and repute in relation to the actions that the allegation of misconduct relates to;
+> (a)     what the applicable standard of conduct was among members of the medical profession of good standing and repute in relation to the actions that the allegation of misconduct relates to;
 
-(b)     if the applicable standard of conduct required the said doctor to do something and at what point in time such duty crystallised; and
+> (b)     if the applicable standard of conduct required the said doctor to do something and at what point in time such duty crystallised; and
 
-(c)     whether the said doctor’s conduct constituted a departure from the applicable standard of conduct, and if so, whether the departure was intentional and deliberate, in that the doctor was _conscious of the applicable standard_ when he decided to depart from the applicable standard (_Wong Him Choon_ at \[53\]).
+> (c)     whether the said doctor’s conduct constituted a departure from the applicable standard of conduct, and if so, whether the departure was intentional and deliberate, in that the doctor was _conscious of the applicable standard_ when he decided to depart from the applicable standard (_Wong Him Choon_ at \[53\]).
 
 51     In relation to the second limb of _Low Cze Hong_, the following must be proved to make out the charge (_Wong Him Choon_ at \[49(b)\]):
 
-(a)     whether there was serious negligence on the part of the doctor; and
+> (a)     whether there was serious negligence on the part of the doctor; and
 
-(b)     whether such negligence objectively constituted an abuse of the privileges of being registered as a medical practitioner.
+> (b)     whether such negligence objectively constituted an abuse of the privileges of being registered as a medical practitioner.
 
 ## Our decision on conviction
 
@@ -261,29 +261,29 @@ The DT also found it “troubling” that Dr Yip claimed that he had not been 
 
 58     Dr Yip also argued that the DT had misread Dr Tio’s evidence when it recorded that Dr Tio accepted that light duties would be “very difficult”. A quick perusal of the record of proceedings shows that Dr Tio did indeed accept that light duties would be “very difficult” for the first few days:
 
-Q:… And … would you expect a patient would just first post-op day after ORIF, to still have pain over the clavicle?
+> Q:… And … would you expect a patient would just first post-op day after ORIF, to still have pain over the clavicle?
 
-A:Yes, of course.
+> A:Yes, of course.
 
-…
+> …
 
-A:Yes. But then if compared with the pain before the operation …
+> A:Yes. But then if compared with the pain before the operation …
 
-…
+> …
 
-A:\-- it will be less than before the operation.
+> A:\-- it will be less than before the operation.
 
-…
+> …
 
-Q:… And I think you did mention just now that sometimes even light duties, it would be you have to explain to the patient that it would be very difficult for the first few days –
+> Q:… And I think you did mention just now that sometimes even light duties, it would be you have to explain to the patient that it would be very difficult for the first few days –
 
-A:Yes, definitely.
+> A:Yes, definitely.
 
-…
+> …
 
-Q:Okay, so it could be very painful but you tell him to bear with it?
+> Q:Okay, so it could be very painful but you tell him to bear with it?
 
-A:It could be painful, but not very painful.
+> A:It could be painful, but not very painful.
 
 59     While we accept that the main thrust of Dr Tio’s evidence was that it was appropriate to encourage the patient to push through and mobilise the injured area _despite_ the pain, we do not think the DT had erred in finding that Dr Tio’s evidence did not support Dr Yip’s position in the manner in which it was run (that it was appropriate to certify the Patient fit for light duties _immediately_) given Dr Tio’s _concessions_ that the pain would have been quite severe (to the point that there would have been pain when laughing and coughing) and that light duties would be “very difficult” at least for the first few days. In fact, these concessions lent credence to Dr Murphy’s opinion that there should be an “initial period of time” when the patient should be allowed to rest.
 
@@ -307,17 +307,17 @@ A:It could be painful, but not very painful.
 
 68     It will be recalled that Dr Yip had argued that he had not deliberately and intentionally departed from the first applicable standard because the DT had failed to apply its mind to the question as to whether he had been conscious of this standard and that, even it had, a finding of such consciousness was made contrary to the evidence (see \[40\] above). With respect, we find this argument disingenuous. In this regard, we would also endorse as well as apply the following observations from _Wong Him Choon_ (at \[81\]−\[82\]) to the present case as well:
 
-81    … We highlight, in any case, that pursuant to para 4.1.1.1 of the SMC’s Ethical Code and Ethical Guidelines (“the Code and Guidelines”), it would be incumbent on a doctor to ensure that he conducts an adequate assessment of his patient’s condition. The said paragraph provides as follows:
+> 81    … We highlight, in any case, that pursuant to para 4.1.1.1 of the SMC’s Ethical Code and Ethical Guidelines (“the Code and Guidelines”), it would be incumbent on a doctor to ensure that he conducts an adequate assessment of his patient’s condition. The said paragraph provides as follows:
 
-_A doctor is expected to have a sense of responsibility for his patients and to provide medical care only after an adequate assessment of a patient’s condition through good history taking and appropriate clinical examination._
+>> _A doctor is expected to have a sense of responsibility for his patients and to provide medical care only after an adequate assessment of a patient’s condition through good history taking and appropriate clinical examination._
 
-If treatment is suggested or offered to a patient without such personal evaluation, the doctor must satisfy himself that he has sufficient information available and that the patient’s best interest is being served. Such information could be transmitted by voice, electronic or other means by a referring doctor. Only in exceptional or emergency circumstances should a diagnosis or treatment be offered without personal contact and without the intermediation of a referring doctor.
+>> If treatment is suggested or offered to a patient without such personal evaluation, the doctor must satisfy himself that he has sufficient information available and that the patient’s best interest is being served. Such information could be transmitted by voice, electronic or other means by a referring doctor. Only in exceptional or emergency circumstances should a diagnosis or treatment be offered without personal contact and without the intermediation of a referring doctor.
 
-\[emphasis added\]
+>> \[emphasis added\]
 
-82    The Code and Guidelines represent “the fundamental tenets of conduct and behaviour expected of doctors practising in Singapore” and “the minimum standards required of all practitioners in the discharge of their professional duties and responsibilities in the context of practice in Singapore” (see para 1 of the Code and Guidelines). As the Code and Guidelines represent so fundamentally **_the most basic aspects of clinical practice_**, we emphasise that an errant practising doctor would be hard put to argue that he has no knowledge of matters which are covered by the said Code and Guidelines. On the contrary, there would be a strong presumption that he has knowledge of the matters contained therein. It would otherwise be all too convenient for an errant doctor to allege that he did not depart from the applicable standard intentionally on the basis that he did not know of the applicable standard at the relevant time. To the extent outlined, we would have additionally been prepared to find that Dr Wong knew of the applicable standard by virtue of it being broadly encapsulated in para 4.1.1.1 of the Code and Guidelines.
+> 82    The Code and Guidelines represent “the fundamental tenets of conduct and behaviour expected of doctors practising in Singapore” and “the minimum standards required of all practitioners in the discharge of their professional duties and responsibilities in the context of practice in Singapore” (see para 1 of the Code and Guidelines). As the Code and Guidelines represent so fundamentally **_the most basic aspects of clinical practice_**, we emphasise that an errant practising doctor would be hard put to argue that he has no knowledge of matters which are covered by the said Code and Guidelines. On the contrary, there would be a strong presumption that he has knowledge of the matters contained therein. It would otherwise be all too convenient for an errant doctor to allege that he did not depart from the applicable standard intentionally on the basis that he did not know of the applicable standard at the relevant time. To the extent outlined, we would have additionally been prepared to find that Dr Wong knew of the applicable standard by virtue of it being broadly encapsulated in para 4.1.1.1 of the Code and Guidelines.
 
-\[emphasis in original\]
+> \[emphasis in original\]
 
 Indeed, Dr Yip is, in fact, an extremely experienced orthopaedic surgeon of many years standing and the observations just quoted would apply in an _a fortiori_ manner to him.
 
@@ -327,55 +327,55 @@ Indeed, Dr Yip is, in fact, an extremely experienced orthopaedic surgeon of man
 
 70     The parties were agreed as to the content of the second applicable standard. Both Dr Yip and his experts readily accepted that it would be incumbent on the doctor to first ascertain that adequate conditions for rest and rehabilitation existed before certifying a patient fit for light duties. In other words, it was agreed that _sick leave_ would have to be given _if_ light duties were unavailable, or if no agreement had been reached with the Patient as to light duties.
 
-(a)     Dr Tio would have given the Patient about six to ten weeks’ sick leave if no light duties were available:
+> (a)     Dr Tio would have given the Patient about six to ten weeks’ sick leave if no light duties were available:
 
-A:Sick leave, because if you have no light duty, go back to your dormitory, please.
+>> A:Sick leave, because if you have no light duty, go back to your dormitory, please.
 
-…
+>> …
 
-Q:… So in that situation, if there is no light duty and we don’t know if the employer is prepared –
+>> Q:… So in that situation, if there is no light duty and we don’t know if the employer is prepared –
 
-A:If there is no light duty, no other question. Go back to your dormitory.
+>> A:If there is no light duty, no other question. Go back to your dormitory.
 
-(b)     Dr Chang agreed that it would be reasonable that the Patient would need about six weeks’ sick leave if no light duties were available:
+> (b)     Dr Chang agreed that it would be reasonable that the Patient would need about six weeks’ sick leave if no light duties were available:
 
-Q:… Dr Tio … said that, “Look, if there was actually no light duties available and no discussion with the patient, it would have been detrimental to send the patient back to work on a construction site, won’t you agree?
+>> Q:… Dr Tio … said that, “Look, if there was actually no light duties available and no discussion with the patient, it would have been detrimental to send the patient back to work on a construction site, won’t you agree?
 
-A:That would be correct.
+>> A:That would be correct.
 
-…
+>> …
 
-Q:… And for him, in that situation, he would have given six to ten weeks of medical leave …
+>> Q:… And for him, in that situation, he would have given six to ten weeks of medical leave …
 
-A:… I would see the workman regularly and give medical leave as and when required.
+>> A:… I would see the workman regularly and give medical leave as and when required.
 
-Q:… Dr Murphy also says I think at the first instance, he would give at least two weeks of medical leave and then ask the patient to come back to re-assess.
+>> Q:… Dr Murphy also says I think at the first instance, he would give at least two weeks of medical leave and then ask the patient to come back to re-assess.
 
-A:That would be reasonable.
+>> A:That would be reasonable.
 
-…
+>> …
 
-Q:… would it be fair to say that overall, this patient might need six weeks of medical leave … to go back to his construction work?
+>> Q:… would it be fair to say that overall, this patient might need six weeks of medical leave … to go back to his construction work?
 
-A:That would be a reasonable timing.
+>> A:That would be a reasonable timing.
 
-(c)     Dr Yip also agreed that he would have issued medical leave if the patient had not agreed to do light duties:
+> (c)     Dr Yip also agreed that he would have issued medical leave if the patient had not agreed to do light duties:
 
-Q:If the patient has said that he does not agree to do light duties, you would have issued medical leave?
+>> Q:If the patient has said that he does not agree to do light duties, you would have issued medical leave?
 
-A:Just like many of my patients.
+>> A:Just like many of my patients.
 
-…
+>> …
 
-Q:And how long would that medical leave be for?
+>> Q:And how long would that medical leave be for?
 
-A:I would issue until the next time I see them.
+>> A:I would issue until the next time I see them.
 
-…
+>> …
 
-Q:And on the 18th, if again he says he’s not doing light duties, you would issue until the 25th?
+>> Q:And on the 18th, if again he says he’s not doing light duties, you would issue until the 25th?
 
-A:That is correct.
+>> A:That is correct.
 
 71     As there was no dispute as to the applicability and content of the second standard, the only question was whether Dr Yip had intentionally and deliberately departed from it.
 
@@ -385,27 +385,27 @@ A:That is correct.
 
 74     On appeal, Dr Yip sought to explain the dearth of any contemporaneous record of the discussion on grounds that the 2002 C&G (which were the prevailing guidelines at the time) did not specifically require doctors to record discussions with patients on light duties; that requirement had only been inserted in the 2016 edition of the SMC Ethical Code and Ethical Guidelines. Ultimately, this submission does not take Dr Yip very far. Indeed, while the 2002 C&G did not have _specific_ guidelines on recording discussions regarding light duties, para 4.1.2 contains general guidance on the keeping of clinical notes, and requires that medical records be _of sufficient detail so that another doctor reading them would be able to take over the management of a case_:
 
-4.1.2 Medical records
+> 4.1.2 Medical records
 
-Medical records kept by doctors shall be clear, accurate, legible and shall be made at the time that a consultation takes place, or not long afterwards. _Medical records shall be of sufficient detail so that any other doctor reading them would be able to take over the management of a case._ All clinical details, investigation results, _discussion of treatment options_, informed consents and treatment by drugs or procedures should be documented.
+> Medical records kept by doctors shall be clear, accurate, legible and shall be made at the time that a consultation takes place, or not long afterwards. _Medical records shall be of sufficient detail so that any other doctor reading them would be able to take over the management of a case._ All clinical details, investigation results, _discussion of treatment options_, informed consents and treatment by drugs or procedures should be documented.
 
-\[emphasis added\]
+> \[emphasis added\]
 
 75     Importantly, Dr Yip’s own expert witness, Dr Chang, agreed that he would have recorded such a discussion with a patient and/or his employer on light duties:
 
-Q:… I think just now we said everything hinges on whether the light duties was discussed with the patient … So in that kind of situation, if you are going to give light duties instead, wouldn’t you then make sure that such a discussion and agreement is recorded?
+> Q:… I think just now we said everything hinges on whether the light duties was discussed with the patient … So in that kind of situation, if you are going to give light duties instead, wouldn’t you then make sure that such a discussion and agreement is recorded?
 
-A:I would.
+> A:I would.
 
-…
+> …
 
-Q:… \[Dr Yip\] says there was … about half an hour at least of the discussion, half to one, I think he said 3.00 to 4.00 pm, with the patient and with Mr Lin Sheng the boss.
+> Q:… \[Dr Yip\] says there was … about half an hour at least of the discussion, half to one, I think he said 3.00 to 4.00 pm, with the patient and with Mr Lin Sheng the boss.
 
-…
+> …
 
-Q:… was it surprising to you if there wasn’t even an entry for this 3.00 pm discussion, which allegedly lasted an hour, about such an important topic.
+> Q:… was it surprising to you if there wasn’t even an entry for this 3.00 pm discussion, which allegedly lasted an hour, about such an important topic.
 
-A:I mean I would normally make some note about it.
+> A:I mean I would normally make some note about it.
 
 76     In our view, the absence of _any_ contemporaneous notes corroborating Dr Yip’s account seriously undermines his assertion that he did indeed have that discussion. In _Singapore Medical Council v Mohd Syamsul Alam bin Ismail_ <span class="citation">\[2019\] SGHC 58</span> (“_Mohd Syamsul Alam_”), the doctor had been charged for, amongst other things, failure to perform an adequate clinical assessment of the patient. The doctor claimed, in his explanatory statement, that he had performed a physical examination of the patient, despite the fact that nothing of the sort was mentioned in the contemporaneous consultation note. The Court found it remarkable that the doctor was able to offer such a vivid recollection of the material events (_eg_, how he had positioned the patient to examine the perianal region, and the location and size of a lump found on the patient’s buttocks) in his explanation, prepared some _twenty_ months after the consultation in question, without the benefit of detailed consultation notes (_Mohd Syamsul Alam_ at \[7\]–\[8\]). The same point applies _a fortiori_ in the present case: Dr Yip’s first mention of the alleged discussion came not even in his Explanation, but only in his Witness Statement, prepared some _five years_ after the discussion had allegedly taken place. Yet, he claimed to be able, without the aid of any notes whatsoever, to recall intricate details of the alleged discussion such as the specific types of light duties available and the specific location at which workers would be sent to perform their light duties.
 
@@ -439,21 +439,21 @@ A:I mean I would normally make some note about it.
 
 87     In support of its contention that the sentence imposed was manifestly inadequate, the SMC advanced the following arguments:
 
-(a)     The DT had erred in taking the view that it was appropriate to sanction the professional misconduct of Dr Yip _as a whole_ without considering the adequate sentence for each charge. In so doing, the DT did not give a principled and transparent explanation as to how the aggregate term of ten months’ suspension was arrived at.
+> (a)     The DT had erred in taking the view that it was appropriate to sanction the professional misconduct of Dr Yip _as a whole_ without considering the adequate sentence for each charge. In so doing, the DT did not give a principled and transparent explanation as to how the aggregate term of ten months’ suspension was arrived at.
 
-(b)     The DT had failed to ensure parity of sentencing with the relevant sentencing precedents, chief amongst which was this Court’s decision in _Wong Him Choon_, with the result that the sentence imposed ought to be enhanced. Further, the DT ought to have accorded more weight to the aggravating factors in the present case. Compared to _Wong Him Choon_, Dr Yip’s behaviour in the management of the Patient was more egregious.
+> (b)     The DT had failed to ensure parity of sentencing with the relevant sentencing precedents, chief amongst which was this Court’s decision in _Wong Him Choon_, with the result that the sentence imposed ought to be enhanced. Further, the DT ought to have accorded more weight to the aggravating factors in the present case. Compared to _Wong Him Choon_, Dr Yip’s behaviour in the management of the Patient was more egregious.
 
-(c)     The DT had erred in awarding a blanket 50% discount to the sentence following its finding that there had been an inordinate delay in prosecuting proceedings. In any case, Dr Yip did not suffer any significant prejudice due to the delay in the proceedings.
+> (c)     The DT had erred in awarding a blanket 50% discount to the sentence following its finding that there had been an inordinate delay in prosecuting proceedings. In any case, Dr Yip did not suffer any significant prejudice due to the delay in the proceedings.
 
 ### Dr Yip’s submissions
 
 88     In his appeal, Dr Yip seeks a reduction of the sentence of suspension imposed on grounds that it is manifestly excessive. In support of this submission, Dr Yip relies on the following arguments:
 
-(a)     If individual sentences are to be imposed in respect of each of the charges, they should be made to run concurrently since the charges relate to a single transaction of alleged wrongdoing.
+> (a)     If individual sentences are to be imposed in respect of each of the charges, they should be made to run concurrently since the charges relate to a single transaction of alleged wrongdoing.
 
-(b)     Dr Yip also argued that the DT had failed to ensure parity of sentencing with the sentencing precedents, and argued that such an exercise would require a reduction of the aggregate suspension term. In this connection, the DT had wrongly identified the aggravating factors in the present case. Properly identified, there were fewer aggravating factors in the present case than in _Wong Him Choon_.
+> (b)     Dr Yip also argued that the DT had failed to ensure parity of sentencing with the sentencing precedents, and argued that such an exercise would require a reduction of the aggregate suspension term. In this connection, the DT had wrongly identified the aggravating factors in the present case. Properly identified, there were fewer aggravating factors in the present case than in _Wong Him Choon_.
 
-(c)     The DT correctly found that there had been an inordinate delay, and that a discount of the sentence was therefore warranted.
+> (c)     The DT correctly found that there had been an inordinate delay, and that a discount of the sentence was therefore warranted.
 
 ## Our decision on sentence
 
@@ -461,7 +461,7 @@ A:I mean I would normally make some note about it.
 
 89     Having convicted Dr Yip on all three of the Charges, the DT imposed an _aggregate_ sentence in respect of all three of the Charges instead of specifying the sentences for each individual charge, explaining as follows (GD at \[127\]):
 
-We noted that the three Charges that Dr Yip faced _were of similar nature and arose from three examinations that had taken place over a short period_. In the circumstances, the \[DT\] took the view that it was appropriate to sanction the professional misconduct of Dr Yip as a whole, instead of separately for each Charge. \[original emphasis in underlining; emphasis added in italics\]
+> We noted that the three Charges that Dr Yip faced _were of similar nature and arose from three examinations that had taken place over a short period_. In the circumstances, the \[DT\] took the view that it was appropriate to sanction the professional misconduct of Dr Yip as a whole, instead of separately for each Charge. \[original emphasis in underlining; emphasis added in italics\]
 
 90     When dealing with a defendant convicted of multiple charges, whilst it may not always be necessary for the sentencing court or tribunal to state explicitly what the individual sentence is for _each individual charge_ the defendant has been convicted of, this ought to have been done in the present case. It is, for example, not possible to know if the DT had considered ten months’ suspension to be appropriate for each charge, running them concurrently; or if some lower term of suspension per charge was appropriate, the ten-month suspension being an aggregate sum of the sentences running consecutively.
 
@@ -503,43 +503,43 @@ We noted that the three Charges that Dr Yip faced _were of similar nature and a
 
 105    The SMC argued that the public interest in safeguarding the health and safety of workers was engaged, and we agree. Indeed, foreign transient workers like the Patient may be considered vulnerable patients, not least because they will almost invariably have no kin with them here in Singapore and are consequently largely dependent on their employers (and the healthcare professionals engaged by their employers). We note that the Ministry of Manpower and the Ministry of Health have jointly issued no fewer than three circulars – first on 19 June 2013, again on 7 July 2014, and most recently on 16 September 2016 – reminding medical practitioners of the need to exercise good clinical assessment so that workers’ and their colleagues’ health and safety are not jeopardised. We reproduce an extract of that last mentioned circular here:
 
-1.    In 2013, MOH and MOM issued a circular \[footnote omitted\] to medical practitioners to remind them that the issuance of adequate medical leave should be based on good clinical assessment and be commensurate with the nature and severity of the worker’s injury, and that stern action would be taken against medical practitioners who did not do so.
+> 1.    In 2013, MOH and MOM issued a circular \[footnote omitted\] to medical practitioners to remind them that the issuance of adequate medical leave should be based on good clinical assessment and be commensurate with the nature and severity of the worker’s injury, and that stern action would be taken against medical practitioners who did not do so.
 
-2.    Subsequently, acting on continual feedback received that some employers were still attempting to pressurise medical practitioners to shorten the prescribed duration of medical sick leave, a reminder \[footnote omitted\] was issued to medical practitioners in 2014. It reminded medical practitioners to follow the recommended practice, and that potentially errant medical practitioners would be referred to Singapore Medical Council (SMC) for investigation.
+> 2.    Subsequently, acting on continual feedback received that some employers were still attempting to pressurise medical practitioners to shorten the prescribed duration of medical sick leave, a reminder \[footnote omitted\] was issued to medical practitioners in 2014. It reminded medical practitioners to follow the recommended practice, and that potentially errant medical practitioners would be referred to Singapore Medical Council (SMC) for investigation.
 
-3.    In May 2016, the Court of Three Judges allowed an appeal filed by the SMC against the decision of a Disciplinary Tribunal and convicted Dr Wong Him Choon (Dr Wong) of professional misconduct. Dr Wong was sentenced to 6 months suspension \[footnote omitted\]. SMC had earlier found that Dr Wong failed to exercise due care in the management of a patient by certifying insufficient medical leave and inappropriately certifying the patient fit for light duties.
+> 3.    In May 2016, the Court of Three Judges allowed an appeal filed by the SMC against the decision of a Disciplinary Tribunal and convicted Dr Wong Him Choon (Dr Wong) of professional misconduct. Dr Wong was sentenced to 6 months suspension \[footnote omitted\]. SMC had earlier found that Dr Wong failed to exercise due care in the management of a patient by certifying insufficient medical leave and inappropriately certifying the patient fit for light duties.
 
-4.    We urge all medical practitioners to take note of the importance of the applicable standards of conduct and recommended practice in managing patients as stated in the 2013 Circular (refer to the Annex) and reminder circular in 2014. Medical sick leave given should be based on good clinical assessment and be commensurate with the nature and severity of the workers’ injuries.
+> 4.    We urge all medical practitioners to take note of the importance of the applicable standards of conduct and recommended practice in managing patients as stated in the 2013 Circular (refer to the Annex) and reminder circular in 2014. Medical sick leave given should be based on good clinical assessment and be commensurate with the nature and severity of the workers’ injuries.
 
-…
+> …
 
 106    Lest a dry and arid technical (as well as literalist) argument be sought to be made that the circulars referred to in the preceding paragraph were issued after the events that are the subject of the present case had taken place, we would note that these circulars merely underscore what are _timeless_ principles of common humanity which apply in an _a fortiori_ manner to foreign transient workers such as the Patient – consistent with the overarching duty of a doctor which was described in the decision of this Court in _Lim Mey Lee Susan v Singapore Medical Council_ <span class="citation">\[2013\] 3 SLR 900</span> as follows (at \[39\]−\[41\]):
 
-39    Turning to _the medical profession_, the idea that the practice of medicine is, above all, a calling of the highest order is a historical cornerstone of the medical profession. It can be traced through the millennia – through countless doctors who have taken, in one form or another, a version of what has oft been hailed as one of the world’s first _ethical_ codes, the Hippocratic Oath (and see also, in this regard, the _general_ definition of a “profession” in the \[_Oxford English Dictionary_ (Clarendon Press, 2nd Ed, 1989)\] referred to above at \[30\]). In Singapore, this oath currently takes the form of the Singapore Medical Council Physician’s Pledge (presently found in the Second Schedule to, read with reg 16(2) of, the Medical Registration Regulations 2010 (S 733/2010)), which is taken by every doctor upon being admitted as a fully registered medical practitioner and which reads as follows:
+> 39    Turning to _the medical profession_, the idea that the practice of medicine is, above all, a calling of the highest order is a historical cornerstone of the medical profession. It can be traced through the millennia – through countless doctors who have taken, in one form or another, a version of what has oft been hailed as one of the world’s first _ethical_ codes, the Hippocratic Oath (and see also, in this regard, the _general_ definition of a “profession” in the \[_Oxford English Dictionary_ (Clarendon Press, 2nd Ed, 1989)\] referred to above at \[30\]). In Singapore, this oath currently takes the form of the Singapore Medical Council Physician’s Pledge (presently found in the Second Schedule to, read with reg 16(2) of, the Medical Registration Regulations 2010 (S 733/2010)), which is taken by every doctor upon being admitted as a fully registered medical practitioner and which reads as follows:
 
-I **_solemnly pledge to dedicate my life to the service of humanity_**; give due respect and gratitude to my teachers; **_practise my profession with conscience and dignity_**; **_make the health of my patient my first consideration_**; respect the secrets which are confided in me; **_uphold the honour and noble traditions of the medical profession_**; respect my colleagues as my professional brothers and sisters; not allow the considerations of race, religion, nationality or social standing to intervene between my duty and my patient; maintain due respect for human life; **_use my medical knowledge in accordance with the laws of humanity_**; comply with the provisions of the Singapore Medical Council’s Ethical Code and Ethical Guidelines; and constantly strive to add to my knowledge and skill.
+>> I **_solemnly pledge to dedicate my life to the service of humanity_**; give due respect and gratitude to my teachers; **_practise my profession with conscience and dignity_**; **_make the health of my patient my first consideration_**; respect the secrets which are confided in me; **_uphold the honour and noble traditions of the medical profession_**; respect my colleagues as my professional brothers and sisters; not allow the considerations of race, religion, nationality or social standing to intervene between my duty and my patient; maintain due respect for human life; **_use my medical knowledge in accordance with the laws of humanity_**; comply with the provisions of the Singapore Medical Council’s Ethical Code and Ethical Guidelines; and constantly strive to add to my knowledge and skill.
 
-I make these promises solemnly, freely and upon my honour.
+>> I make these promises solemnly, freely and upon my honour.
 
-\[emphasis added in bold italics\]
+>> \[emphasis added in bold italics\]
 
-40     This pledge is _even more explicit_ in its reference to _ethical_ obligations and values than the corresponding declaration taken by lawyers (pursuant to r 30 of, read with the First Schedule to, the Legal Profession (Admission) Rules (reproduced above at \[32\])). In our view, this pledge constitutes no mere rhetoric. Instead, it embodies – as the summary with regard to the _legal_ profession set out above (at \[38\]) underscores – a calling that seeks, amongst other obligations, to be _helpful to others in an important way_ (here, by curing the sick) and goes _beyond_ mere money-making and the advancement of self-serving interests.
+> 40     This pledge is _even more explicit_ in its reference to _ethical_ obligations and values than the corresponding declaration taken by lawyers (pursuant to r 30 of, read with the First Schedule to, the Legal Profession (Admission) Rules (reproduced above at \[32\])). In our view, this pledge constitutes no mere rhetoric. Instead, it embodies – as the summary with regard to the _legal_ profession set out above (at \[38\]) underscores – a calling that seeks, amongst other obligations, to be _helpful to others in an important way_ (here, by curing the sick) and goes _beyond_ mere money-making and the advancement of self-serving interests.
 
-41    Indeed, the proposition that the spirit of public service and the existence of _ethical_ obligations underpin all professional practice applies with equal (and, arguably, even greater) force to medical practitioners, whom we collectively entrust with our health, our well-being and, in certain instances, our lives. In this respect, the medical profession occupies a unique societal position of both great privilege and commensurate responsibility. In this regard, the following observations by the then Governor of the Straits Settlements, Sir John Anderson, in his speech on the occasion of the formal opening of the very first medical school in Singapore on 28 September 1905 are particularly apposite (published in _The Straits Times_ of 29 September 1905 (available at <http://newspapers.nl.sg/Digitised/ Article/straitstimes19050929-1.2.47.aspx> (accessed 24 June 2013)), also quoted (in part) in _Transforming Lives: NUS Celebrates 100 Years of University Education in Singapore_ (Singapore University Press Pte Ltd, 2005) at p 11):
+> 41    Indeed, the proposition that the spirit of public service and the existence of _ethical_ obligations underpin all professional practice applies with equal (and, arguably, even greater) force to medical practitioners, whom we collectively entrust with our health, our well-being and, in certain instances, our lives. In this respect, the medical profession occupies a unique societal position of both great privilege and commensurate responsibility. In this regard, the following observations by the then Governor of the Straits Settlements, Sir John Anderson, in his speech on the occasion of the formal opening of the very first medical school in Singapore on 28 September 1905 are particularly apposite (published in _The Straits Times_ of 29 September 1905 (available at <http://newspapers.nl.sg/Digitised/ Article/straitstimes19050929-1.2.47.aspx> (accessed 24 June 2013)), also quoted (in part) in _Transforming Lives: NUS Celebrates 100 Years of University Education in Singapore_ (Singapore University Press Pte Ltd, 2005) at p 11):
 
-… What I want you to remember is that the course of study you are about to enter upon is **_not merely_** _a course of study which is_ **_intended to enable you to earn a living_**, but … a passport to _membership of_ **_a very great profession_**_, a profession_**_in many instances_**_of_ **_unselfish devotion and splendid achievement_**_, a profession with very_ **_lofty ideals_** _and one which calls for_ **_all the best qualities_**_, mental_ **_and moral_**_, which a man can give_. It demands not only freshness and vigour of body, but steadiness and skill in hand and eye. _It wants infinite patience_ **_and keenest sympathy_**_, and to all these qualities there has to be added_ **_unfaltering courage_**_._… \[emphasis added in italics and bold italics\]
+>> … What I want you to remember is that the course of study you are about to enter upon is **_not merely_** _a course of study which is_ **_intended to enable you to earn a living_**, but … a passport to _membership of_ **_a very great profession_**_, a profession_**_in many instances_**_of_ **_unselfish devotion and splendid achievement_**_, a profession with very_ **_lofty ideals_** _and one which calls for_ **_all the best qualities_**_, mental_ **_and moral_**_, which a man can give_. It demands not only freshness and vigour of body, but steadiness and skill in hand and eye. _It wants infinite patience_ **_and keenest sympathy_**_, and to all these qualities there has to be added_ **_unfaltering courage_**_._… \[emphasis added in italics and bold italics\]
 
-As also articulated by this court in _Low Cze Hong v Singapore Medical Council_ <span class="citation">\[2008\] 3 SLR(R) 612</span> (“_Low Cze Hong_”) at \[36\]:
+> As also articulated by this court in _Low Cze Hong v Singapore Medical Council_ <span class="citation">\[2008\] 3 SLR(R) 612</span> (“_Low Cze Hong_”) at \[36\]:
 
-… The importance of maintaining the highest level of professionalism and ethical conduct has been duly acknowledged by the \[Singapore Medical Council\] in the Introduction section of the \[Singapore Medical Council\] Ethical Code (at p 1):
+>> … The importance of maintaining the highest level of professionalism and ethical conduct has been duly acknowledged by the \[Singapore Medical Council\] in the Introduction section of the \[Singapore Medical Council\] Ethical Code (at p 1):
 
-The medical profession has always been held in the highest esteem by the public, who look to their doctors for the relief of suffering and ailments. In modern medical practice, **_patients and society at large expect doctors to be responsible both to individual patients’ needs as well as to the needs of the larger community. Much trust is therefore endowed upon doctors to do their best by both._**_ This trust is contingent on the profession maintaining the highest standards of professional practice and conduct._
+>>> The medical profession has always been held in the highest esteem by the public, who look to their doctors for the relief of suffering and ailments. In modern medical practice, **_patients and society at large expect doctors to be responsible both to individual patients’ needs as well as to the needs of the larger community. Much trust is therefore endowed upon doctors to do their best by both._**_ This trust is contingent on the profession maintaining the highest standards of professional practice and conduct._
 
-…
+>> …
 
-\[High Court’s emphasis in _Low Cze Hong_ in italics; emphasis added in bold italics\]
+>> \[High Court’s emphasis in _Low Cze Hong_ in italics; emphasis added in bold italics\]
 
-\[emphasis in original\]
+> \[emphasis in original\]
 
 107    Taking into account the countervailing public interest considerations, we are of the view that the aggregate period of suspension should be reduced by one-third, giving an aggregate sentence of a period of suspension of eight months.
 

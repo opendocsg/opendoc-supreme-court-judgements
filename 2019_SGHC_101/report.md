@@ -33,11 +33,11 @@ Civil Procedure – Striking out of counterclaim
 
 8       Clause 4.5 of the OSIM SPA (“the Profit Swing Clause”) provided for the shareholding of Wellness and Paris to be diluted in favour of OSIM, or for the shareholding of OSIM to be diluted in favour of Wellness and Paris, depending on TWG Tea’s audited net profit- before-tax (“PBT”) for its financial year ending 31 March 2013 (“FY2013”). In brief, clause 4.5 was intended to operate as follows:
 
-(a)     for every S$1m that the PBT for FY2013 fell below S$17m, Wellness and Paris would together have to transfer 1% of TWG Tea shares to OSIM, up to a maximum of 10%, at a nominal price of S$1;
+> (a)     for every S$1m that the PBT for FY2013 fell below S$17m, Wellness and Paris would together have to transfer 1% of TWG Tea shares to OSIM, up to a maximum of 10%, at a nominal price of S$1;
 
-(b)     conversely, for every S$1m that the PBT for FY2013 exceeded S$27m, OSIM would have to transfer 1% of TWG Tea shares to Wellness and Paris, up to a maximum of 10%, at a nominal price of S$1; and
+> (b)     conversely, for every S$1m that the PBT for FY2013 exceeded S$27m, OSIM would have to transfer 1% of TWG Tea shares to Wellness and Paris, up to a maximum of 10%, at a nominal price of S$1; and
 
-(c)     if the PBT for FY2013 fell between S$17m and S$27m, there would be no adjustment.
+> (c)     if the PBT for FY2013 fell between S$17m and S$27m, there would be no adjustment.
 
 The Profit Swing Clause was based broadly on profit projections for TWG Tea that Manoj presented during negotiations with OSIM which led to the OSIM SPA.
 
@@ -59,15 +59,15 @@ The Profit Swing Clause was based broadly on profit projections for TWG Tea that
 
 15     On 10 January 2017, EQ Capital commenced a minority oppression action in Suit No 17 of 2017 (“S17/2017”) against Sunbreeze, Manoj and Kanchan in relation to the conduct of the affairs of Wellness. EQ Capital’s allegations included the following:
 
-(a)     Manoj and Kanchan caused Wellness not to convene any annual general meetings, annual audited accounts, prepare any annual audited accounts or lay such accounts before shareholders, send to EQ Capital any financial statements or auditors’ reports of Wellness, and file any annual returns.
+> (a)     Manoj and Kanchan caused Wellness not to convene any annual general meetings, annual audited accounts, prepare any annual audited accounts or lay such accounts before shareholders, send to EQ Capital any financial statements or auditors’ reports of Wellness, and file any annual returns.
 
-(b)     Manoj exposed Wellness to a dilution of its asset (_ie_, its shareholding in TWG Tea) by using profit projections for TWG Tea in his presentation to OSIM although he knew these projections were unreliable. The Profit Swing Clause (which was eventually triggered in favour of OSIM) was based on these projections. In S187/2014, I had found that the projections were unreliable and that Manoj knew this fact.
+> (b)     Manoj exposed Wellness to a dilution of its asset (_ie_, its shareholding in TWG Tea) by using profit projections for TWG Tea in his presentation to OSIM although he knew these projections were unreliable. The Profit Swing Clause (which was eventually triggered in favour of OSIM) was based on these projections. In S187/2014, I had found that the projections were unreliable and that Manoj knew this fact.
 
-(c)     After Manoj resigned as director of TWG Tea on 28 September 2012, Manoj and Kanchan, as directors of Wellness, chose not to exercise Wellness’ right under the SHA to appoint another person as director to the board of TWG Tea and thereby failed to protect Wellness’ interests in TWG Tea.
+> (c)     After Manoj resigned as director of TWG Tea on 28 September 2012, Manoj and Kanchan, as directors of Wellness, chose not to exercise Wellness’ right under the SHA to appoint another person as director to the board of TWG Tea and thereby failed to protect Wellness’ interests in TWG Tea.
 
-(d)     Sunbreeze and/or Manoj and/or Kanchan exposed Wellness to a further dilution by not subscribing to the Rights Issue and instead challenged the Rights Issue on grounds which Manoj and/or Kanchan did not have any _bona fide_ belief in. In S187/2014, I had found that the decision to have the Rights Issue had been made in good faith and for commercial reasons. Manoj had also testified in S187/2014 that Wellness could have raised the money to subscribe to the Rights Issue.
+> (d)     Sunbreeze and/or Manoj and/or Kanchan exposed Wellness to a further dilution by not subscribing to the Rights Issue and instead challenged the Rights Issue on grounds which Manoj and/or Kanchan did not have any _bona fide_ belief in. In S187/2014, I had found that the decision to have the Rights Issue had been made in good faith and for commercial reasons. Manoj had also testified in S187/2014 that Wellness could have raised the money to subscribe to the Rights Issue.
 
-(e)     Manoj and Kanchan caused Wellness to bring S187/2014 against OSIM, Paris and the directors of TWG Tea, and the appeal against the decision in S187/2014, thereby causing Wellness to incur legal fees and exposing Wellness to the costs order that was made against it in both S187/2014 and the appeal.
+> (e)     Manoj and Kanchan caused Wellness to bring S187/2014 against OSIM, Paris and the directors of TWG Tea, and the appeal against the decision in S187/2014, thereby causing Wellness to incur legal fees and exposing Wellness to the costs order that was made against it in both S187/2014 and the appeal.
 
 16     On 6 February 2017, the 3 Defendants commenced third party proceedings against Ron Sim in S17/2017 for indemnity or contribution in respect of EQ Capital’s claim against them. The basis for the third party proceedings was essentially the same as the allegations raised in the 3 Defendants’ defence. In summary, the 3 Defendants alleged that the matters which EQ Capital complained of in S17/2017 had been brought about by Ron Sim through OSIM and that it was an abuse of process for Ron Sim, having caused and/or benefited from those matters, to procure EQ Capital to commence S17/2017 in respect of the very same matters. On 5 May 2017, I struck out the third party claim. The appeal by the 3 Defendants has since been dismissed by the Court of Appeal: _Sunbreeze Group Investments Ltd and others v Sim Chye Hock Ron_ <span class="citation">\[2018\] 2 SLR 1242</span>.
 
@@ -75,19 +75,19 @@ The Profit Swing Clause was based broadly on profit projections for TWG Tea that
 
 17     Clause 6.1 of the SHA provided for a right of first refusal if any shareholder of TWG Tea wished to sell its shares. In summary, under cl 6.1:
 
-(a)     any shareholder of TWG Tea that wished to transfer its shares to a non-shareholder must first offer to sell its shares to the existing shareholder by issuing a transfer notice which had to contain certain prescribed information;
+> (a)     any shareholder of TWG Tea that wished to transfer its shares to a non-shareholder must first offer to sell its shares to the existing shareholder by issuing a transfer notice which had to contain certain prescribed information;
 
-(b)     the procedures set out in cl 6.1 would then apply; these included timelines for TWG Tea to inform the other shareholders of the transfer notice and for the other shareholders to apply for the shares offered in the transfer notice; and
+> (b)     the procedures set out in cl 6.1 would then apply; these included timelines for TWG Tea to inform the other shareholders of the transfer notice and for the other shareholders to apply for the shares offered in the transfer notice; and
 
-(c)     if the other shareholders do not exercise the right of first refusal, the shareholder that issued the transfer notice would be entitled to sell its shares to third parties within a period of three months, at any price not less than that offered in the transfer notice, and on terms not more favourable than those offered in the transfer notice.
+> (c)     if the other shareholders do not exercise the right of first refusal, the shareholder that issued the transfer notice would be entitled to sell its shares to third parties within a period of three months, at any price not less than that offered in the transfer notice, and on terms not more favourable than those offered in the transfer notice.
 
 18     By letter dated 24 October 2017, Wellness purported to issue a transfer notice pursuant to cl 6.1 of the SHA offering to sell its entire shareholding in TWG Tea to the other shareholders of TWG Tea, OSIM and/or Paris (“the 1st Transfer Notice”).[^0] Wellness stated in the 1st Transfer Notice that upon a successful sale of the shares to OSIM and Paris, Wellness would carry out a share buy-back of EQ Capital’s shares in Wellness at a price equivalent to EQ Capital’s indirect interest (through its shareholding in Wellness) in TWG Tea (“the Proposed Share Buy-Back”).
 
 19     On 8 November 2017, OSIM and Paris challenged the validity of the 1st Transfer Notice on the grounds that:
 
-(a)     the 1st Transfer Notice did not comply with the terms and/or prescribed process and/or timelines in the SHA; and
+> (a)     the 1st Transfer Notice did not comply with the terms and/or prescribed process and/or timelines in the SHA; and
 
-(b)     Wellness was not entitled to include the Proposed Share Buy-Back as a term of the 1st Transfer Notice.[^1]
+> (b)     Wellness was not entitled to include the Proposed Share Buy-Back as a term of the 1st Transfer Notice.[^1]
 
 20     By way of letter dated 13 November 2017, TWG Tea adopted the position taken by OSIM and Paris.[^2]
 
@@ -95,7 +95,7 @@ The Profit Swing Clause was based broadly on profit projections for TWG Tea that
 
 22     By way of letters dated 1 December 2017, OSIM and Paris pointed out that Wellness’ shareholding in TWG Tea was the whole or substantially the whole undertaking and/or property of Wellness, and the proposed sale would be invalid if it had not been approved by the shareholders of Wellness in a general meeting as required under s 160(1) of the Act.[^4] Section 160(1) states as follows:
 
-160(1)    Notwithstanding anything in a company’s constitution, the directors shall not carry into effect any proposals for disposing of the whole or substantially the whole of the company’s undertaking or property unless those proposals have been approved by the company in general meeting.
+> 160(1)    Notwithstanding anything in a company’s constitution, the directors shall not carry into effect any proposals for disposing of the whole or substantially the whole of the company’s undertaking or property unless those proposals have been approved by the company in general meeting.
 
 OSIM and Paris requested confirmation that shareholders’ approval had been obtained for the proposed sale and a copy of the shareholders’ resolution.
 
@@ -107,9 +107,9 @@ OSIM and Paris requested confirmation that shareholders’ approval had been obt
 
 26     In their counterclaim in the present action, the 3 Defendants alleged that
 
-(a)     Ron Sim and EQ Capital conspired to injure the 3 Defendants and/or conspired to abuse civil process; and
+> (a)     Ron Sim and EQ Capital conspired to injure the 3 Defendants and/or conspired to abuse civil process; and
 
-(b)     in furtherance of the conspiracy, Ron Sim commenced (through EQ Capital) and/or caused and or directed and/or assisted EQ Capital to commence this present action in bad faith and for a collateral and/or improper purpose.
+> (b)     in furtherance of the conspiracy, Ron Sim commenced (through EQ Capital) and/or caused and or directed and/or assisted EQ Capital to commence this present action in bad faith and for a collateral and/or improper purpose.
 
 27     The counterclaim repeated several paragraphs in the defence. Some of those paragraphs pleaded allegations in respect of S17/2017. However, it should be noted that the conspiracy pleaded in the counterclaim was in relation to the commencement of the _present action_ only.
 
@@ -123,15 +123,15 @@ OSIM and Paris requested confirmation that shareholders’ approval had been obt
 
 30     The counterclaim pleaded both conspiracy by lawful means as well as conspiracy by unlawful means. The law was not in dispute. To succeed in a claim for conspiracy by unlawful means, the following elements must be established:
 
-(a)     there was a combination of two or more persons to do certain acts;
+> (a)     there was a combination of two or more persons to do certain acts;
 
-(b)     the alleged conspirators had the intention to cause damage or injury to the plaintiff by those acts;
+> (b)     the alleged conspirators had the intention to cause damage or injury to the plaintiff by those acts;
 
-(c)     the acts were unlawful;
+> (c)     the acts were unlawful;
 
-(d)     the acts were performed in furtherance of the agreement; and
+> (d)     the acts were performed in furtherance of the agreement; and
 
-(e)     the plaintiff suffered loss as a result of the conspiracy.
+> (e)     the plaintiff suffered loss as a result of the conspiracy.
 
 See _EFT Holdings, Inc and another v Marinteknik Shipbuilders (S) Pte Ltd and another_ <span class="citation">\[2014\] 1 SLR 860</span> at \[112\].
 
@@ -139,11 +139,11 @@ See _EFT Holdings, Inc and another v Marinteknik Shipbuilders (S) Pte Ltd and an
 
 32     The 3 Defendants claimed that the conspiracy was to injure them by commencing the present action in bad faith and for a collateral and/or improper purpose. The bad faith and collateral and/or improper purposes were alleged to take the following forms:
 
-(a)     causing Manoj and Kanchan annoyance by pursuing a minority action against them despite them not being shareholders of Wellness;
+> (a)     causing Manoj and Kanchan annoyance by pursuing a minority action against them despite them not being shareholders of Wellness;
 
-(b)     obstructing Wellness from exiting TWG Tea on terms which were fair and in compliance with the SHA; and
+> (b)     obstructing Wellness from exiting TWG Tea on terms which were fair and in compliance with the SHA; and
 
-(c)     putting improper pressure on the 3 Defendants to sell Sunbreeze’s shares in Wellness and/or Wellness’ shares in TWG Tea to EQ Capital, Ron Sim, OSIM and/or Paris at a price below valuation.
+> (c)     putting improper pressure on the 3 Defendants to sell Sunbreeze’s shares in Wellness and/or Wellness’ shares in TWG Tea to EQ Capital, Ron Sim, OSIM and/or Paris at a price below valuation.
 
 #### Causing Manoj and Kanchan annoyance
 
@@ -165,9 +165,9 @@ See _EFT Holdings, Inc and another v Marinteknik Shipbuilders (S) Pte Ltd and an
 
 40     In fact, the evidence showed that even the dispute over the validity of Wellness’ transfer notice did not obstruct Wellness from seeking to sell its shares in TWG Tea:
 
-(a)     In its letters dated 19 December 2017 to OSIM, Paris and TWG Tea, Wellness took the position that it was entitled to sell its shares to third parties.[^8]
+> (a)     In its letters dated 19 December 2017 to OSIM, Paris and TWG Tea, Wellness took the position that it was entitled to sell its shares to third parties.[^8]
 
-(b)     In a letter sent on 25 January 2018 by Manoj to Dr Finian Tan (representing Vickers Private Equity and Vickers Venture, the other two shareholders of Wellness), Manoj took the position that as OSIM and Paris had not accepted the offer set out in the 2nd Transfer Notice, Wellness was at liberty to sell its shares in TWG Tea to any third party and that Wellness will be taking steps to do so.[^9]
+> (b)     In a letter sent on 25 January 2018 by Manoj to Dr Finian Tan (representing Vickers Private Equity and Vickers Venture, the other two shareholders of Wellness), Manoj took the position that as OSIM and Paris had not accepted the offer set out in the 2nd Transfer Notice, Wellness was at liberty to sell its shares in TWG Tea to any third party and that Wellness will be taking steps to do so.[^9]
 
 41     Whether cl 6.1 of the SHA had been triggered had a direct impact on whether Wellness was entitled to sell its shares to third parties. Yet, the dispute over this issue did not obstruct Wellness from trying to sell its shares to third parties. Wellness certainly did not consider itself so obstructed. The present action is even further removed from the dispute over cl 6.1 of the SHA. There was no reason to think that it could have obstructed Wellness in any way.
 

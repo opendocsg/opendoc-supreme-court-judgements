@@ -23,15 +23,15 @@ Damages – Assessment
 
 5       Although I have already set out the plaintiff’s various claims in the striking out judgment (see at \[8\]), it is necessary to reproduce them here. The plaintiff pleaded the following causes of action, _inter alia_, against the various defendants:
 
-(a)     Cubix Group owed fiduciary duties and duties of good faith and fidelity to the plaintiff. These included the obligation to use funds that were extended by the plaintiff to C&K for their intended purpose, a duty to act in the best interests of the plaintiff, and a duty not to defeat the intention and purpose of the joint venture. Cubix Group breached these duties by using and transferring funding, business, clientele, projects and staff that were intended for C&K to the AXXIS Companies. Cubix Group also breached its non-competition obligations under the JV Agreement.[^3]
+> (a)     Cubix Group owed fiduciary duties and duties of good faith and fidelity to the plaintiff. These included the obligation to use funds that were extended by the plaintiff to C&K for their intended purpose, a duty to act in the best interests of the plaintiff, and a duty not to defeat the intention and purpose of the joint venture. Cubix Group breached these duties by using and transferring funding, business, clientele, projects and staff that were intended for C&K to the AXXIS Companies. Cubix Group also breached its non-competition obligations under the JV Agreement.[^3]
 
-(b)     Ben and Bee personally breached their fiduciary duties and duties of good faith and fidelity which they owed to the plaintiff “as joint venture partners”. They breached those duties by using and diverting the funding, business, clientele, projects and staff that were intended for C&K towards the AXXIS Companies. Ben and Bee are also liable to account to the plaintiff for any profits derived from such breaches. The plaintiff also claims that Ben and Bee breached s 340 of the Companies Act (Cap 50, 2006 Rev Ed) by conducting the business of C&K with the intention to defraud the plaintiff as its “sole or main creditor”. The plaintiff also claimed against Ben and Bee in dishonest assistance.
+> (b)     Ben and Bee personally breached their fiduciary duties and duties of good faith and fidelity which they owed to the plaintiff “as joint venture partners”. They breached those duties by using and diverting the funding, business, clientele, projects and staff that were intended for C&K towards the AXXIS Companies. Ben and Bee are also liable to account to the plaintiff for any profits derived from such breaches. The plaintiff also claims that Ben and Bee breached s 340 of the Companies Act (Cap 50, 2006 Rev Ed) by conducting the business of C&K with the intention to defraud the plaintiff as its “sole or main creditor”. The plaintiff also claimed against Ben and Bee in dishonest assistance.
 
-(c)     Leading up to the entering of the JV Agreement, Cubix Group, Ben and Bee fraudulently or recklessly made representations to the plaintiff, including misrepresentations that Cubix Group would match any funding contributions that the plaintiff made to C&K, that any funding which the plaintiff contributed to C&K would be used for the business and expenses of C&K only, and that these contributions (which the plaintiff describes as “loans”) would be repayable by C&K on the plaintiff’s demand.
+> (c)     Leading up to the entering of the JV Agreement, Cubix Group, Ben and Bee fraudulently or recklessly made representations to the plaintiff, including misrepresentations that Cubix Group would match any funding contributions that the plaintiff made to C&K, that any funding which the plaintiff contributed to C&K would be used for the business and expenses of C&K only, and that these contributions (which the plaintiff describes as “loans”) would be repayable by C&K on the plaintiff’s demand.
 
-(d)     The AXXIS Companies are in knowing receipt of any profits or benefits derived from the wrongful use of C&K’s funding, and the transfer of any business, clientele, and/or staff of C&K. Further, the corporate veil of AXXIS Companies should be lifted and Ben and Bee should be made jointly and severally liable for all claims by the plaintiff.
+> (d)     The AXXIS Companies are in knowing receipt of any profits or benefits derived from the wrongful use of C&K’s funding, and the transfer of any business, clientele, and/or staff of C&K. Further, the corporate veil of AXXIS Companies should be lifted and Ben and Bee should be made jointly and severally liable for all claims by the plaintiff.
 
-(e)     The AXXIS Companies, Cubix Group, Ben and Bee are liable in conspiracy because they conspired together to defraud the plaintiff by causing the plaintiff to enter into the JV Agreement and to transfer the funding to C&K.
+> (e)     The AXXIS Companies, Cubix Group, Ben and Bee are liable in conspiracy because they conspired together to defraud the plaintiff by causing the plaintiff to enter into the JV Agreement and to transfer the funding to C&K.
 
 6       As interlocutory judgment has been entered into against Ben, Bee, Cubix Group and the AXXIS Companies, liability has been established for the causes of action set out above at \[5\]. The only issue which remains is the assessment of damages.
 
@@ -51,11 +51,11 @@ Damages – Assessment
 
 13     During the hearing on 19 and 20 March 2019, Mr Goh made the following submissions in relation to the quantum of damages owed to the plaintiff:
 
-(a)     The plaintiff provided no evidence that Ben and Bee beneficially received the loans and/or sums received (defined below at \[15\]).
+> (a)     The plaintiff provided no evidence that Ben and Bee beneficially received the loans and/or sums received (defined below at \[15\]).
 
-(b)     Not all the loans and sums received were made after the pleaded misrepresentations had been completely made to the plaintiff. Ben and Bee cannot be made liable for all of the loans and sums received under this cause of action.
+> (b)     Not all the loans and sums received were made after the pleaded misrepresentations had been completely made to the plaintiff. Ben and Bee cannot be made liable for all of the loans and sums received under this cause of action.
 
-(c)     The plaintiff has not provided evidence of its other heads of losses.
+> (c)     The plaintiff has not provided evidence of its other heads of losses.
 
 14     On the day of the closing oral submissions, Mr Goh also tendered a further set of submissions in relation to Ben and Bee. He contended that the plaintiff could not rely on the striking out judgment to overcome “gaps” in its pleadings and evidence, and the pleadings were insufficient to satisfy the plaintiff’s burden of proof in respect of the various heads of loss. I do not agree.
 
@@ -63,18 +63,224 @@ Damages – Assessment
 
 16     In its statement of claim, the plaintiff pleaded as follows:
 
-16.    Pursuant to or in anticipation of entering into the JV Agreement, \[the plaintiff\] transferred the following sums of money to C&K, being contributions to the operations and business of C&K and/or as loans for the operating expenses of C&K, repayable on demand, from 25 April 2007 to 28 January 2008:-
+> 16.    Pursuant to or in anticipation of entering into the JV Agreement, \[the plaintiff\] transferred the following sums of money to C&K, being contributions to the operations and business of C&K and/or as loans for the operating expenses of C&K, repayable on demand, from 25 April 2007 to 28 January 2008:-
 
-<table align="left" cellpadding="0" cellspacing="0" class="Judg-2" frame="none" pgwide="1"><colgroup><col width="12%"> <col width="34%"> <col width="54%"> </colgroup><tbody><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">(1)</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">25 April 2007</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">S$50,000</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">(2)</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">3 May 2007</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">S$37,950.00 (converted from US$25,000)</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">(3)</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">3 May 2007</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">US$25,000</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">(4)</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">1 June 2007</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">S$104,448.00 (converted from US$68,0000)</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">(5)</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">1 July 2007</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">S$68,850.00 (converted from US$45,000)</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">(6)</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">12 July 2007</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">S$30,040.00 (converted from US$20,000)</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">(7)</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">1 August 2007</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">US$68,000</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">(8)</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">3 September 2007</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">US$45,000</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">(9)</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">6 September 2007</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">US$50,000</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">(10)</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">26 September 2007</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">US$50,000</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">(11)</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">18 October 2007</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">US$50,000</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">(12)</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">24 October 2007</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">US$50,000</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">(13)</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">30 October 2007</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">US$50,000</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">(14)</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">16 January 2008</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">US$50,000</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">(15)</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">28 January 2008</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">US$20,000</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">&nbsp;</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Total</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1"><b><u>S$291,288.00 </u></b><u>and </u><b><u>US$458,000</u></b> …</p></td></tr></tbody></table>
+>   
+| 
+
+(1)
+
+ | 
+
+25 April 2007
+
+ | 
+
+S$50,000
+
+ |
+| 
+
+(2)
+
+ | 
+
+3 May 2007
+
+ | 
+
+S$37,950.00 (converted from US$25,000)
+
+ |
+| 
+
+(3)
+
+ | 
+
+3 May 2007
+
+ | 
+
+US$25,000
+
+ |
+| 
+
+(4)
+
+ | 
+
+1 June 2007
+
+ | 
+
+S$104,448.00 (converted from US$68,0000)
+
+ |
+| 
+
+(5)
+
+ | 
+
+1 July 2007
+
+ | 
+
+S$68,850.00 (converted from US$45,000)
+
+ |
+| 
+
+(6)
+
+ | 
+
+12 July 2007
+
+ | 
+
+S$30,040.00 (converted from US$20,000)
+
+ |
+| 
+
+(7)
+
+ | 
+
+1 August 2007
+
+ | 
+
+US$68,000
+
+ |
+| 
+
+(8)
+
+ | 
+
+3 September 2007
+
+ | 
+
+US$45,000
+
+ |
+| 
+
+(9)
+
+ | 
+
+6 September 2007
+
+ | 
+
+US$50,000
+
+ |
+| 
+
+(10)
+
+ | 
+
+26 September 2007
+
+ | 
+
+US$50,000
+
+ |
+| 
+
+(11)
+
+ | 
+
+18 October 2007
+
+ | 
+
+US$50,000
+
+ |
+| 
+
+(12)
+
+ | 
+
+24 October 2007
+
+ | 
+
+US$50,000
+
+ |
+| 
+
+(13)
+
+ | 
+
+30 October 2007
+
+ | 
+
+US$50,000
+
+ |
+| 
+
+(14)
+
+ | 
+
+16 January 2008
+
+ | 
+
+US$50,000
+
+ |
+| 
+
+(15)
+
+ | 
+
+28 January 2008
+
+ | 
+
+US$20,000
+
+ |
+| 
+
+ | 
+
+Total
+
+ | 
+
+**S$291,288.00** and **US$458,000** …
+
+ |
 
   
   
 
-…
+> …
 
-19C.  Further or alternatively, as a result of the matters set out in paragraphs 19A and 19B above, Benjamin Toh and/or Bee are liable to account to Grande for any and all profits and/or other benefits derived from or traceable to:- (i) the wrongful use or use of the Loans; and/or (ii) the transfer of the business, clientele and/or management staff and employees of C&K, and such profits and/or other benefits which include but are not limited to **the sums of US$270,000 received by the AXXIS Companies**, Benjamin Toh and/or Bee in the year of 2009 evidenced by an email dated 8 May 2010 from Benjamin Toh to the CAD’s Damian Low and/or **US$600,000 – US$700,000 received by the AXXIS Companies**, Benjamin Toh and/or Bee evidenced by an email dated 7 May 2010 from Joshua Pang to the CAD’s Damian Low (collectively, the “**Sums Received**”). Further or alternatively, Benjamin Toh and/or Bee have been unjustly enriched at the expense of Grande, and are liable to account to Grande for the same.
+> 19C.  Further or alternatively, as a result of the matters set out in paragraphs 19A and 19B above, Benjamin Toh and/or Bee are liable to account to Grande for any and all profits and/or other benefits derived from or traceable to:- (i) the wrongful use or use of the Loans; and/or (ii) the transfer of the business, clientele and/or management staff and employees of C&K, and such profits and/or other benefits which include but are not limited to **the sums of US$270,000 received by the AXXIS Companies**, Benjamin Toh and/or Bee in the year of 2009 evidenced by an email dated 8 May 2010 from Benjamin Toh to the CAD’s Damian Low and/or **US$600,000 – US$700,000 received by the AXXIS Companies**, Benjamin Toh and/or Bee evidenced by an email dated 7 May 2010 from Joshua Pang to the CAD’s Damian Low (collectively, the “**Sums Received**”). Further or alternatively, Benjamin Toh and/or Bee have been unjustly enriched at the expense of Grande, and are liable to account to Grande for the same.
 
-\[emphasis added\]
+> \[emphasis added\]
 
 17     I refer to the figures of S$291,288.00 and US$458,000 as the “Loan Sum” and the figures of US$270,000 and/or US$600,000 – US$700,000 as the “Sums Received”.
 

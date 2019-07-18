@@ -19,23 +19,23 @@ Civil Procedure – Summary judgment
 
 4       Mr Rajendran’s main point was that the Agreement between the plaintiff and the defendant was void for contravening s 76(1)(c) of the Bankruptcy Act (Cap 20, 2009 Rev Ed) (“BA”) which provides as follows:
 
-76 – (1)    On the making of a bankruptcy order —
+> 76 – (1)    On the making of a bankruptcy order —
 
-(a)    the property of the bankrupt shall —
+>> (a)    the property of the bankrupt shall —
 
-(i)    vest in the Official Assignee without any further conveyance, assignment or transfer; and
+>>> (i)    vest in the Official Assignee without any further conveyance, assignment or transfer; and
 
-(ii)   become divisible among his creditors;
+>>> (ii)   become divisible among his creditors;
 
-(b)    the Official Assignee shall be constituted receiver of the bankrupt’s property; and
+>> (b)    the Official Assignee shall be constituted receiver of the bankrupt’s property; and
 
-(c)    unless otherwise provided by this Act —
+>> (c)    unless otherwise provided by this Act —
 
-(i)    no creditor to whom the bankrupt is indebted in respect of any debt provable in bankruptcy shall have any remedy against the person or property of the bankrupt in respect of that debt; and
+>>> (i)    no creditor to whom the bankrupt is indebted in respect of any debt provable in bankruptcy shall have any remedy against the person or property of the bankrupt in respect of that debt; and
 
-(ii)   no action or proceedings shall be proceeded with or commenced against the bankrupt in respect of that debt,
+>>> (ii)   no action or proceedings shall be proceeded with or commenced against the bankrupt in respect of that debt,
 
-except by leave of the court and in accordance with such terms as the court may impose.
+>>> except by leave of the court and in accordance with such terms as the court may impose.
 
 Mr Rajendran submitted that once a person (like Mr Cheong) has been made a bankrupt no creditor (like the plaintiff) “shall have any remedy against the person or property of the bankrupt”. He submitted that after Mr Cheong’s bankruptcy, he is incapable of entering into any agreement that makes him indebted to anyone.
 

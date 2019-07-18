@@ -19,7 +19,7 @@ Insolvency Law – Bankruptcy – Statutory demand
 
 3       Pursuant to this judgment, the plaintiff issued the SD for the sum of $2,030,598.65.[^3] The SD was dated 17 December 2018.[^4] Two days later, on 19 December 2018, the plaintiff’s solicitors mailed a copy of the SD in a prepaid envelope by way of certificate of posting via Singapore Post Limited to the defendant’s last known business address.[^5] This was pursuant to cl 10 of a Credit Agreement between the plaintiff and the defendant (“cl 10”), which provided as follows:
 
-10    … \[The plaintiff\] may effect service of any legal process on the \[defendant\] by sending it by ordinary post from Singapore to, (i) \[the defendant’s\] last known address (being a post office box, or a place of residence or business, or otherwise) and/or, (ii) the address provided by the \[defendant\] above. Such process or documents shall be deemed validly served on the \[defendant\].[^6]
+> 10    … \[The plaintiff\] may effect service of any legal process on the \[defendant\] by sending it by ordinary post from Singapore to, (i) \[the defendant’s\] last known address (being a post office box, or a place of residence or business, or otherwise) and/or, (ii) the address provided by the \[defendant\] above. Such process or documents shall be deemed validly served on the \[defendant\].[^6]
 
 4       As it turned out, however, the SD was returned unclaimed to the plaintiff’s solicitors with the remark “\[n\]o such name/company”.[^7]
 
@@ -35,47 +35,47 @@ Insolvency Law – Bankruptcy – Statutory demand
 
 9       Section 61(1)(_c_) of the BA provides that one of the cumulative grounds of a bankruptcy application is that “the debtor is unable to pay the debt or each of the debts”. Section 62(_a_) of the BA then creates a rebuttable presumption in favour of s 61(1)(_c_) of the BA when, in a creditor’s bankruptcy application: (a) the debt is immediately payable; (b) the creditor has served on the debtor in the prescribed manner, a statutory demand; (c) at least 21 days have elapsed since the statutory demand was served; and (d) the debtor has neither complied with it nor applied to set it aside:
 
-**Presumption of inability to pay debts**
+> **Presumption of inability to pay debts**
 
-**62**.    For the purposes of a creditor’s bankruptcy application, a debtor shall, until he proves to the contrary, be presumed to be unable to pay any debt within the meaning of section 61(1)(_c_) if the debt is immediately payable and —
+> **62**.    For the purposes of a creditor’s bankruptcy application, a debtor shall, until he proves to the contrary, be presumed to be unable to pay any debt within the meaning of section 61(1)(_c_) if the debt is immediately payable and —
 
-(_a_) (i)    the applicant creditor to whom the debt is owed has served on him in the prescribed manner, a statutory demand;
+>> (_a_) (i)    the applicant creditor to whom the debt is owed has served on him in the prescribed manner, a statutory demand;
 
-(ii)   at least 21 days have elapsed since the statutory demand was served; and
+>> (ii)   at least 21 days have elapsed since the statutory demand was served; and
 
-(iii)   the debtor has neither complied with it nor applied to the court to set it aside;
+>> (iii)   the debtor has neither complied with it nor applied to the court to set it aside;
 
-…
+> …
 
 10     The “prescribed manner” of service referred to in 62(_a_)(i) of the BA is in turn set out in r 96 of the BR. Rule 96(2) of the BR contemplates personal service as the default modality of service. However, r 96(3) of the BR allows for substituted service when a creditor is not able to effect personal service:
 
-**Requirements as to service**
+> **Requirements as to service**
 
-**96.**—(1)    The creditor shall take all reasonable steps to bring the statutory demand to the debtor’s attention.
+> **96.**—(1)    The creditor shall take all reasonable steps to bring the statutory demand to the debtor’s attention.
 
-(2)    The creditor shall make reasonable attempts to effect personal service of the statutory demand.
+> (2)    The creditor shall make reasonable attempts to effect personal service of the statutory demand.
 
-(3)    Where the creditor is not able to effect personal service, the demand may be served by such other means as would be most effective in bringing the demand to the notice of the debtor.
+> (3)    Where the creditor is not able to effect personal service, the demand may be served by such other means as would be most effective in bringing the demand to the notice of the debtor.
 
-(4)    Substituted service under paragraph (3) may be effected in the following manner:
+> (4)    Substituted service under paragraph (3) may be effected in the following manner:
 
-(_a_)    by posting the statutory demand at the door or some other conspicuous part of the last known place of residence or business of the debtor or both;
+>> (_a_)    by posting the statutory demand at the door or some other conspicuous part of the last known place of residence or business of the debtor or both;
 
-(_b_)    by forwarding the statutory demand to the debtor by prepaid registered post to the last known place of residence, business or employment of the debtor;
+>> (_b_)    by forwarding the statutory demand to the debtor by prepaid registered post to the last known place of residence, business or employment of the debtor;
 
-(_c_)    where the creditor is unable to effect substituted service in accordance with sub-paragraph (_a_) or (_b_) by reason that he has no knowledge of the last known place of residence, business or employment of the debtor, by advertisement of the statutory demand in one or more local newspapers, in which case the time limited for compliance with the demand shall run from the date of the publication of the advertisement; or
+>> (_c_)    where the creditor is unable to effect substituted service in accordance with sub-paragraph (_a_) or (_b_) by reason that he has no knowledge of the last known place of residence, business or employment of the debtor, by advertisement of the statutory demand in one or more local newspapers, in which case the time limited for compliance with the demand shall run from the date of the publication of the advertisement; or
 
-(_d_)    such other mode which the court would have ordered in an application for substituted service of an originating summons in the circumstances.
+>> (_d_)    such other mode which the court would have ordered in an application for substituted service of an originating summons in the circumstances.
 
-…
+> …
 
-(6)    A creditor shall not resort to substituted service of a statutory demand on a debtor unless —
+> (6)    A creditor shall not resort to substituted service of a statutory demand on a debtor unless —
 
-(_a_)    the creditor has taken all such steps which would suffice to justify the court making an order for substituted service of a bankruptcy application; and
+>> (_a_)    the creditor has taken all such steps which would suffice to justify the court making an order for substituted service of a bankruptcy application; and
 
-(_b_)    the mode of substituted service would have been such that the court would have ordered in the circumstances.
+>> (_b_)    the mode of substituted service would have been such that the court would have ordered in the circumstances.
 
-…
+> …
 
 11     Notwithstanding the modalities of service set out in r 96 of the BR, it is settled law that parties can contractually agree on alternative modalities of service (_Rasmachayana_ at \[10\]–\[31\]). Accordingly, statutory demands may be served by: (a) personal service; (b) substituted service; and (c) contractually-agreed modalities of service.
 
@@ -83,9 +83,9 @@ Insolvency Law – Bankruptcy – Statutory demand
 
 12     There is no question that the plaintiff was entitled to effect service in the way that it did (see \[3\] and \[11\] above). There would therefore have been valid service of the SD _at, or at least shortly after, the time the SD was mailed_. The difficulty in the present case arises because the SD was _subsequently_ returned unclaimed (see \[4\] above). The central question that has to be answered is whether the SD was validly served in such circumstances. This depends on the answer to two subsidiary issues:
 
-(a)     first, whether, as a _general_ principle, a statutory demand can be validly served when it is returned unclaimed (the “General Issue”); and
+> (a)     first, whether, as a _general_ principle, a statutory demand can be validly served when it is returned unclaimed (the “General Issue”); and
 
-(b)     second, whether the parties’ agreement in this _specific_ case covers a situation where the statutory demand is returned unclaimed (the “Specific Issue”).
+> (b)     second, whether the parties’ agreement in this _specific_ case covers a situation where the statutory demand is returned unclaimed (the “Specific Issue”).
 
 13     If the General Issue is answered in the negative, that will be the end of the matter. The conclusion that must follow is that the SD was not validly served. However, if the General Issue is answered in the positive, it will still be necessary to consider the Specific Issue. It is only if the Specific Issue is similarly answered in the positive that the conclusion will follow that the SD was validly served.
 
@@ -103,7 +103,7 @@ Insolvency Law – Bankruptcy – Statutory demand
 
 18     As for _OCBC_, the defendant in that case (“M-Bhd”) had executed two deeds of guarantee which provided, among other things, that service of process in any legal action or proceedings in Singapore against M-Bhd shall be deemed to be good service on M-Bhd if served on its subsidiary (“M-Singapore”), which was named the process agent in Singapore for the purpose of receiving such process on behalf of M-Bhd. The writ was served on M-Singapore. At the time the writ was served, M-Singapore was under judicial management, and it was alleged that the judicial managers did not forward or notify M-Bhd of the writ. Judgment in default of appearance was entered against M-Bhd, and M-Bhd claimed that it came to know of the writ and the default judgment only subsequently. M-Bhd argued, among other things, that the service of the writ was irregular. The High Court rejected this contention. The relevant clause in the deeds of guarantee was cl 33(2), which is set out at \[40\] below. The High Court held (at \[14\]) that:
 
-… OCBC \[_ie_, the plaintiff in that case\] had complied with the requirements of cl 33(2) in that the writ had been delivered to M-Singapore. Once delivery has been effected, whether M-Singapore forwarded the writ to M-Bhd or not is not the concern of OCBC. That is a matter between M-Bhd and M-Singapore.
+> … OCBC \[_ie_, the plaintiff in that case\] had complied with the requirements of cl 33(2) in that the writ had been delivered to M-Singapore. Once delivery has been effected, whether M-Singapore forwarded the writ to M-Bhd or not is not the concern of OCBC. That is a matter between M-Bhd and M-Singapore.
 
 19     In my view, _OCBC_ is distinguishable from the present case in several respects. First, _OCBC_ concerned service of a writ. It did not involve a bankruptcy application. This is significant because service of bankruptcy processes is governed by an entirely different set of rules and procedures (_Rasmachayana_ at \[5\]–\[6\]). Second, M-Bhd ultimately came to know of the proceedings against it, even if this was (on M-Bhd’s case) only after default judgment had been entered. The present case stands in sharp contrast (see \[17\] above). Third, one can perhaps understand the High Court’s reluctance to find that service of the writ was irregular. M-Singapore was not only M-Bhd’s subsidiary, but also the beneficiary of the banking facilities which M-Bhd had guaranteed. Notwithstanding that the two were separate legal entities, one cannot help but notice some artificiality in the argument that service on M-Singapore was not sufficient. Fourth, M-Bhd had possible recourse against M-Singapore. As the High Court noted (at \[14\]; see \[18\] above), whether M-Singapore forwarded the writ to M-Bhd or not was “a matter between M-Bhd and M-Singapore”. No such possible recourse exists in the present case.
 
@@ -113,7 +113,7 @@ Insolvency Law – Bankruptcy – Statutory demand
 
 21     Precedent being silent on the General Issue, it becomes necessary to consider the General Issue from first principles. In this regard, the High Court in _Rasmachayana_ held (at \[20\]) that:
 
-The bankruptcy rules on service of process are mandatory in the sense that _there must be_ **_actual or deemed service_** _of the various processes_ but only directory in the sense that the indicated method of service has not been exclusively prescribed. … \[emphasis added in italics and bold italics\]
+> The bankruptcy rules on service of process are mandatory in the sense that _there must be_ **_actual or deemed service_** _of the various processes_ but only directory in the sense that the indicated method of service has not been exclusively prescribed. … \[emphasis added in italics and bold italics\]
 
 22     While the second part of the above passage deals with the issue of whether parties can contractually agree on alternative modalities of service, the first part is a statement of general principle. It cannot be seriously disputed that there can be no _actual_ service when a statutory demand is returned unclaimed. If there is any valid service at all, such service must necessarily be _deemed_ service. However, I am of the view that there cannot be deemed service of a statutory demand that is returned unclaimed.
 
@@ -130,23 +130,23 @@ The bankruptcy rules on service of process are mandatory in the sense that _ther
 
 26     Third, the service requirements in our bankruptcy regime are closely tied to the notion of notice. In the case of statutory demands, r 108(3)(_d_) of the BR provides as follows:
 
-(3)    Where the statutory demand _has been served_ other than by personal service, the affidavit shall —
+> (3)    Where the statutory demand _has been served_ other than by personal service, the affidavit shall —
 
-…
+>> …
 
-(_d_)    specify a date by which to the best of the knowledge, information and belief of the person making the affidavit, the demand _would have come to the debtor’s attention_.
+>> (_d_)    specify a date by which to the best of the knowledge, information and belief of the person making the affidavit, the demand _would have come to the debtor’s attention_.
 
-\[emphasis added\]
+> \[emphasis added\]
 
 27     In a similar vein, the High Court in _Rasmachayana_ drew a link between service and notice, holding (at \[21\]) that:
 
-The essence of the _service requirements_ under the \[Bankruptcy Rules (Cap 20, R 1, 2002 Rev Ed)\] is to ensure that the statutory demand, bankruptcy petition and other relevant processes are _brought to the personal attention of the debtor_ prior to the hearing of the petition. A bankruptcy order results in the transformation of the legal status of the debtor and ought not to be made unless the court is satisfied that the debtor _had actual or deemed notice of the proceedings_. This is a quintessential aspect of due process and natural justice. … \[original emphasis omitted; emphasis added in italics\]
+> The essence of the _service requirements_ under the \[Bankruptcy Rules (Cap 20, R 1, 2002 Rev Ed)\] is to ensure that the statutory demand, bankruptcy petition and other relevant processes are _brought to the personal attention of the debtor_ prior to the hearing of the petition. A bankruptcy order results in the transformation of the legal status of the debtor and ought not to be made unless the court is satisfied that the debtor _had actual or deemed notice of the proceedings_. This is a quintessential aspect of due process and natural justice. … \[original emphasis omitted; emphasis added in italics\]
 
 28     The fact that the service requirements in our bankruptcy regime are closely tied to the notion of notice is significant. If this is correct, then it cannot be said that there is deemed service of a statutory demand if the debtor has had no notice of the same (which would be the case where the statutory demand is returned unclaimed).
 
 29     Returning to r 108(3)(_d_) of the BR (see \[26\] above), this provision, in my view, leaves no room for a situation where the statutory demand is returned unclaimed. In such a situation, the person who makes the affidavit proving service of the statutory demand is simply unable to specify the relevant date because he knows that the statutory demand would _not_ come to the debtor’s attention. In fact, this is evident from Mr Choy’s Affidavit of Service of Statutory Demand under Section 62 of the Bankruptcy Act. In this affidavit, Mr Choy deposed as follows:
 
-… I verily believe that the \[SD\] _was served_ on the \[d\]efendant by 20 December 2018, that is, one working day after the \[p\]laintiff’s letter enclosing the \[SD\] was mailed. \[emphasis added\][^10]
+> … I verily believe that the \[SD\] _was served_ on the \[d\]efendant by 20 December 2018, that is, one working day after the \[p\]laintiff’s letter enclosing the \[SD\] was mailed. \[emphasis added\][^10]
 
 30     Presumably, this was meant to comply with r 108(3)(_d_) of the BR. However, the choice of words is telling. Mr Choy could only say when he believed the SD “was served”. He could not depose to when, to use the language of r 108(3)(_d_) of the BR, the SD “would have come” to the defendant’s attention. The SD having been returned unclaimed, Mr Choy knew for a fact that the SD would _not_ come to the defendant’s attention.
 
@@ -168,17 +168,17 @@ The essence of the _service requirements_ under the \[Bankruptcy Rules (Cap 20, 
 
 37     The parties’ agreement in this specific case can be found in cl 10, which I reproduce again for ease of reference:
 
-10    … \[The plaintiff\] may effect service of any legal process on the \[defendant\] by sending it by ordinary post from Singapore to, (i) \[the defendant’s\] last known address (being a post office box, or a place of residence or business, or otherwise) and/or, (ii) the address provided by the \[defendant\] above. Such process or documents shall be deemed validly served on the \[defendant\].[^11]
+> 10    … \[The plaintiff\] may effect service of any legal process on the \[defendant\] by sending it by ordinary post from Singapore to, (i) \[the defendant’s\] last known address (being a post office box, or a place of residence or business, or otherwise) and/or, (ii) the address provided by the \[defendant\] above. Such process or documents shall be deemed validly served on the \[defendant\].[^11]
 
 38     What is evident is that cl 10 does not expressly state that the “process or documents” shall be deemed validly served on the defendant _whether or not the “process or documents” are successfully delivered_, or something to similar effect. This contrasts the relevant clauses in both _Rasmachayana_ and _OCBC_.
 
 39     In _Rasmachayana_, the relevant clause read (see _Rasmachayana_ at \[8\]):
 
-The Borrower and each of the Personal Guarantors irrevocably appoint Forward Investment Pte Ltd (now of 3rd Storey, Crown Prince Hotel, 270 Orchard Road, Singapore 238857) to receive, for the Borrower or, as the case may be, \[the\] Personal Guarantor and on its or his behalf, service of process in any Proceedings in Singapore. Such service shall be deemed completed on delivery to the process agent (_whether or not it is forwarded to and received by the Borrower or the relevant Personal Guarantor_). \[emphasis added\]
+> The Borrower and each of the Personal Guarantors irrevocably appoint Forward Investment Pte Ltd (now of 3rd Storey, Crown Prince Hotel, 270 Orchard Road, Singapore 238857) to receive, for the Borrower or, as the case may be, \[the\] Personal Guarantor and on its or his behalf, service of process in any Proceedings in Singapore. Such service shall be deemed completed on delivery to the process agent (_whether or not it is forwarded to and received by the Borrower or the relevant Personal Guarantor_). \[emphasis added\]
 
 40     Similarly, in _OCBC_, the relevant clause read (see _OCBC_ at \[14\]):
 
-We irrevocably appoint Measurex Engineering Pte Ltd at its address in Singapore which at the date hereof is at 994 Bendemeer Road #05-03, Kallang Basin Industrial Estate, Singapore 339943, Singapore (the ‘process agent’) to receive, for us and on our behalf, service of process in any legal actions or proceedings in Singapore. Such service shall be deemed completed on delivery to the process agent (_whether or not it is forwarded to and received by us_) and we hereby authorise and declare that such service in the manner aforesaid shall be deemed to be good and effectual service of the writ or legal process or judgment on us. If for any reason the process agent ceases to be able to act as such or no longer has an address in Singapore, we irrevocably agree to appoint a substitute process agent acceptable to you, and to deliver to you a copy of the new process agent’s acceptance of that appointment, within 30 days. \[emphasis added\]
+> We irrevocably appoint Measurex Engineering Pte Ltd at its address in Singapore which at the date hereof is at 994 Bendemeer Road #05-03, Kallang Basin Industrial Estate, Singapore 339943, Singapore (the ‘process agent’) to receive, for us and on our behalf, service of process in any legal actions or proceedings in Singapore. Such service shall be deemed completed on delivery to the process agent (_whether or not it is forwarded to and received by us_) and we hereby authorise and declare that such service in the manner aforesaid shall be deemed to be good and effectual service of the writ or legal process or judgment on us. If for any reason the process agent ceases to be able to act as such or no longer has an address in Singapore, we irrevocably agree to appoint a substitute process agent acceptable to you, and to deliver to you a copy of the new process agent’s acceptance of that appointment, within 30 days. \[emphasis added\]
 
 41     In my view, cl 10 does not go so far as to cover a situation where the “process or documents” are returned unclaimed. In the usual course, items sent by ordinary post _are_ delivered. Thus, when the parties agreed in cl 10 for the plaintiff to effect service on the defendant by sending by ordinary post, the assumption must have been that the “process or documents” so sent by the plaintiff would be delivered to the defendant. If the parties had intended for cl 10 to also cover a case where delivery has not been successful (such as when the “process or documents” are returned unclaimed), this would have been expressly provided for.
 
@@ -192,15 +192,15 @@ We irrevocably appoint Measurex Engineering Pte Ltd at its address in Singapore 
 
 45     Rule 127 of the BR prescribes the circumstances where the Court shall dismiss a creditor’s bankruptcy application. These include: (a) where the creditor is not entitled to make the bankruptcy application by virtue of s 60, 61 or 62 of the BA; and (b) where, in a case where the application is based on a statutory demand, the creditor has not discharged the obligations imposed on him by r 96 of the BR:
 
-**Dismissal of bankruptcy application**
+> **Dismissal of bankruptcy application**
 
-**127**.    The court shall dismiss a creditor’s bankruptcy application where —
+> **127**.    The court shall dismiss a creditor’s bankruptcy application where —
 
-(_a_)    the applicant creditor is not entitled to make the bankruptcy application by virtue of section 60, 61 or 62 of the Act;
+>> (_a_)    the applicant creditor is not entitled to make the bankruptcy application by virtue of section 60, 61 or 62 of the Act;
 
-…
+>> …
 
-(_c_)    in a case where the application is based on a statutory demand, the applicant creditor has not discharged the obligations imposed on him by rule 96.
+>> (_c_)    in a case where the application is based on a statutory demand, the applicant creditor has not discharged the obligations imposed on him by rule 96.
 
 46     I deal first with r 127(_c_) of the BR. This provision refers to r 96 of the BR, which deals with the requirements as to service of a statutory demand. Rule 96 of the BR has been partly set out at \[10\] above, but it does not deal with contractually-agreed modalities of service. While an argument can be made that r 127(_c_) of the BR should nevertheless apply in the present case, it is not necessary to go so far because r 127(_a_) of the BR clearly applies in any event. Section 62(_a_) of the BA (which the plaintiff relies on (see \[5\] above)) only creates a rebuttable presumption in favour of s 61(1)(_c_) of the BA when, among other things, the creditor has served on the debtor in the prescribed manner, a statutory demand (see \[9\] above). Since the SD was not validly served, no such presumption is triggered. Section 61(1)(_c_) of the BA is not satisfied and the plaintiff is not entitled to make B 359.
 

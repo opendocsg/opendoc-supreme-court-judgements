@@ -43,17 +43,17 @@ Contempt of Court – Sentencing
 
 11     Next, the AG submitted that the court should also order Wham to publish a notice to apologise for his post, pursuant to s 12(3) of the Act.[^11] In the written submissions to the court, the AG annexed a draft notice for the apology. The AG argued that this order should be made subject to certain conditions, including that:[^12]
 
-(a)     Wham’s post be removed forthwith;
+> (a)     Wham’s post be removed forthwith;
 
-(b)     any and all republication of Wham’s post in whole or in part be removed;
+> (b)     any and all republication of Wham’s post in whole or in part be removed;
 
-(c)     the notice to apologise remain published for as long as Wham’s post was online;
+> (c)     the notice to apologise remain published for as long as Wham’s post was online;
 
-(d)     Wham accepted that his post wrongfully alleged that the Singapore courts lacked integrity and were not impartial;
+> (d)     Wham accepted that his post wrongfully alleged that the Singapore courts lacked integrity and were not impartial;
 
-(e)     Wham undertook not to republish his post or any part of it in any form or medium; and
+> (e)     Wham undertook not to republish his post or any part of it in any form or medium; and
 
-(f)     Wham undertook not to put up any posts, or do any other act, that amounted to contempt of court in future.
+> (f)     Wham undertook not to put up any posts, or do any other act, that amounted to contempt of court in future.
 
 The AG submitted that these conditions included the usual and natural expressions of an apology.[^13]
 
@@ -105,7 +105,7 @@ The AG submitted that these conditions included the usual and natural expression
 
 29     I reproduce the statement in Wham’s post:
 
-Malaysia’s judges are more independent than Singapore’s for cases with political implications. Will be interesting to see what happens to this challenge.
+> Malaysia’s judges are more independent than Singapore’s for cases with political implications. Will be interesting to see what happens to this challenge.
 
 #### Sentence
 
@@ -113,7 +113,7 @@ Malaysia’s judges are more independent than Singapore’s for cases with polit
 
 31     The sentencing guidelines for the offence of scandalising contempt were summarised by the Court of Appeal in _Shadrake Alan v Attorney-General_ <span class="citation">\[2011\] 3 SLR 778</span> at \[147\]:
 
-Some of the more common sentencing guidelines or factors in the context of contempt proceedings include the following: the culpability of the contemnor; the nature and gravity of the contempt (see, _eg_, \[_Attorney-General v Tan Liang Joo John and others_ <span class="citation">\[2009\] 2 SLR(R) 1132</span> (“_Tan Liang Joo John_”)\] at \[31\]); the seriousness of the occasion on which the contempt was committed (see, _eg_, _Tan Liang Joo John_ at \[31\]); the number of contemptuous statements made (see, _eg_, \[_Attorney-General v Zimmerman Fred and others_ \[1985-1986\] SLR(R) 476\] at \[51\] and \[_Attorney-General v Hertzberg Daniel and others_ <span class="citation">\[2009\] 1 SLR(R) 1103</span> (“_Hertzberg_”)\] at \[59\]); the type and extent of dissemination of the contemptuous statements; the importance of deterring would-be contemnors from following suit (see, _eg_, _Tan Liang Joo John_ at \[31\]); whether the contemnor is a repeat offender (see, _eg_, _Hertzberg_ at \[59\]); and whether or not the contemnor was remorseful (this particular factor being embodied paradigmatically in a sincere apology (see, _eg_, _Hertzberg_ at \[59\] and _Tan Liang Joo John_ at \[39\])). However, the categories of guidelines or factors are obviously not closed and much would depend, in the final analysis, on the precise facts and context concerned.
+> Some of the more common sentencing guidelines or factors in the context of contempt proceedings include the following: the culpability of the contemnor; the nature and gravity of the contempt (see, _eg_, \[_Attorney-General v Tan Liang Joo John and others_ <span class="citation">\[2009\] 2 SLR(R) 1132</span> (“_Tan Liang Joo John_”)\] at \[31\]); the seriousness of the occasion on which the contempt was committed (see, _eg_, _Tan Liang Joo John_ at \[31\]); the number of contemptuous statements made (see, _eg_, \[_Attorney-General v Zimmerman Fred and others_ \[1985-1986\] SLR(R) 476\] at \[51\] and \[_Attorney-General v Hertzberg Daniel and others_ <span class="citation">\[2009\] 1 SLR(R) 1103</span> (“_Hertzberg_”)\] at \[59\]); the type and extent of dissemination of the contemptuous statements; the importance of deterring would-be contemnors from following suit (see, _eg_, _Tan Liang Joo John_ at \[31\]); whether the contemnor is a repeat offender (see, _eg_, _Hertzberg_ at \[59\]); and whether or not the contemnor was remorseful (this particular factor being embodied paradigmatically in a sincere apology (see, _eg_, _Hertzberg_ at \[59\] and _Tan Liang Joo John_ at \[39\])). However, the categories of guidelines or factors are obviously not closed and much would depend, in the final analysis, on the precise facts and context concerned.
 
 32     I make two preliminary points. First, Wham might not have held himself out as a professional journalist, blogger, commentator or authoritative news source, but he did submit that he was a social activist (see _Wham Kwok Han Jolovan_ at \[83\]). It was not Wham’s case that he had, or would have had, little or no influence and reach through his Facebook profile.
 
@@ -135,19 +135,19 @@ Some of the more common sentencing guidelines or factors in the context of conte
 
 40     In addition to any punishment imposed under s 12(1) of the Act, the court may also make an order under s 12(3) that a contemnor publish a notice to apologise for his contemptuous publication. The relevant provisions in relation to an apology are ss 12(2) to 12(5) which state:
 
-**Punishment for contempt of court**
+> **Punishment for contempt of court**
 
-…
+> …
 
-(2)    In addition to any punishment imposed under subsection (1), where a person has committed contempt in relation to the proceedings before a court, the court may refuse to hear the person until the contempt is purged or the person submits to the order or direction of the court or an apology is made to the satisfaction of the court.
+> (2)    In addition to any punishment imposed under subsection (1), where a person has committed contempt in relation to the proceedings before a court, the court may refuse to hear the person until the contempt is purged or the person submits to the order or direction of the court or an apology is made to the satisfaction of the court.
 
-(3)    In addition to any punishment imposed under subsection (1), the court may, on its own motion or on application by the applicant in the contempt proceedings, make an order that the person who has committed contempt must publish such notice, and in such manner, as the court thinks necessary to apologise for the contemptuous publication.
+> (3)    In addition to any punishment imposed under subsection (1), the court may, on its own motion or on application by the applicant in the contempt proceedings, make an order that the person who has committed contempt must publish such notice, and in such manner, as the court thinks necessary to apologise for the contemptuous publication.
 
-(4)    An order under subsection (3) may be made subject to such exceptions or conditions (including the duration for which the notification must be made accessible to members of the public) as may be specified in the order.
+> (4)    An order under subsection (3) may be made subject to such exceptions or conditions (including the duration for which the notification must be made accessible to members of the public) as may be specified in the order.
 
-(5)    Despite subsection (1), the court may discharge the person who has committed contempt or remit the punishment or any part of it on his or her purging of the contempt, submission to the order or direction of the court or on apology being made to the satisfaction of the court.
+> (5)    Despite subsection (1), the court may discharge the person who has committed contempt or remit the punishment or any part of it on his or her purging of the contempt, submission to the order or direction of the court or on apology being made to the satisfaction of the court.
 
-…
+> …
 
 41     Where a contemnor refuses to purge his contempt, whether in refusing to apologise or in refusing to remove his contemptuous publication, a question may arise as to whether the court should make an order under s 12(3) for him to publish a notice to apologise. It is clear that the purpose of making such an order is not to extract a sincere apology from such a contemnor since if he were sincere about it, he need not be compelled to apologise. The question then is under what circumstances the court should make such an order.
 
@@ -163,7 +163,7 @@ Some of the more common sentencing guidelines or factors in the context of conte
 
 47     In _Re Ouellet (Nos 1 and 2)_ (1977) 72 DLR (3d) 95 at 100, Tremblay CJQ (in the Quebec Court of Appeal) was of the view that it was not useful to compel the contemnor in question to apologise. He said:
 
-As to the sentence, the order of probation includes the obligation by the appellant to present apologies. It is evident that if he does it, the appellant will not do it willingly. With respect to the contrary opinion, I am not at all convinced that it is useful to impose this obligation on the appellant. Forced apologies are humiliating for the person uttering them. Moreover, in the present case, they would not mean anything to persons concerned, except maybe to tickle their ego and they would not in any way better the administration of justice in Canada. Finally, if the appellant persisted in refusing to apologize, the Superior Court and, maybe the Court of Appeal, would have to devote to this case time which would be better employed for more important cases for the people of Canada. I would therefore strike out the order of probation forcing him to apologize.
+> As to the sentence, the order of probation includes the obligation by the appellant to present apologies. It is evident that if he does it, the appellant will not do it willingly. With respect to the contrary opinion, I am not at all convinced that it is useful to impose this obligation on the appellant. Forced apologies are humiliating for the person uttering them. Moreover, in the present case, they would not mean anything to persons concerned, except maybe to tickle their ego and they would not in any way better the administration of justice in Canada. Finally, if the appellant persisted in refusing to apologize, the Superior Court and, maybe the Court of Appeal, would have to devote to this case time which would be better employed for more important cases for the people of Canada. I would therefore strike out the order of probation forcing him to apologize.
 
 48     As there is no general rule that the court should order a contemnor to publish a notice to apologise for his contemptuous publication, the court will have to consider the facts of each case before deciding whether to make such an order.
 
@@ -177,15 +177,15 @@ As to the sentence, the order of probation includes the obligation by the appell
 
 52     It appears that the court has the power to order Wham to remove his post from his Facebook profile, although this power may not be explicitly stated in s 9(_d_) of the Act. Section 9(_d_) states:
 
-**Inherent power of court**
+> **Inherent power of court**
 
-**9**.    Nothing in this Act limits or affects the inherent powers of a court, including but not limited to —
+> **9**.    Nothing in this Act limits or affects the inherent powers of a court, including but not limited to —
 
-…
+>> …
 
-(_d_)    the power of the High Court or the Court of Appeal to issue an injunction including but not limited to an interim injunction to restrain a contempt of court; and
+>> (_d_)    the power of the High Court or the Court of Appeal to issue an injunction including but not limited to an interim injunction to restrain a contempt of court; and
 
-…
+>> …
 
 53     I am of the view that “an interim injunction to restrain a contempt of court” relates to a _prohibitory_ injunction, and not a _mandatory_ injunction. I have my doubts with the AG’s submission that an order for Wham to remove his post would be a prohibitory injunction. It seems to me that an order for Wham to remove his post would be a mandatory injunction.
 
@@ -273,7 +273,7 @@ As to the sentence, the order of probation includes the obligation by the appell
 
 87     I reproduce the statement in Tan’s post:
 
-By charging Jolovan for scandalising the judiciary, the AGC only confirms what he said was true.
+> By charging Jolovan for scandalising the judiciary, the AGC only confirms what he said was true.
 
 #### Sentence
 
@@ -299,23 +299,23 @@ By charging Jolovan for scandalising the judiciary, the AGC only confirms what h
 
 98     The relevant portions of Arts 45(1)(_e_) and 45(2) of the Constitution of the Republic of Singapore (1985 Rev Ed, 1999 Reprint) state:
 
-**Disqualifications for membership of Parliament**
+> **Disqualifications for membership of Parliament**
 
-**45.**—(1)    Subject to this Article, a person shall not be qualified to be a Member of Parliament who —
+> **45.**—(1)    Subject to this Article, a person shall not be qualified to be a Member of Parliament who —
 
-…
+>> …
 
-(_e_)    has been convicted of an offence by a court of law in Singapore or Malaysia and sentenced to **imprisonment for a term of not less than one year** or to **a fine of not less than $2,000** and has not received a free pardon:
+>> (_e_)    has been convicted of an offence by a court of law in Singapore or Malaysia and sentenced to **imprisonment for a term of not less than one year** or to **a fine of not less than $2,000** and has not received a free pardon:
 
-…
+>>> …
 
-…
+>> …
 
-(2)    The disqualification of a person under clause (1)(_d_) or (_e_) may be removed by the President and shall, if not so removed, cease at the end of 5 years beginning from … as the case may be, the date on which the person convicted as mentioned in clause (1)(_e_) was released from custody or the date on which the fine mentioned in clause (1)(_e_) was imposed on such person …
+> (2)    The disqualification of a person under clause (1)(_d_) or (_e_) may be removed by the President and shall, if not so removed, cease at the end of 5 years beginning from … as the case may be, the date on which the person convicted as mentioned in clause (1)(_e_) was released from custody or the date on which the fine mentioned in clause (1)(_e_) was imposed on such person …
 
-…
+> …
 
-\[emphasis added\]
+> \[emphasis added\]
 
 99     Tan submitted that if he were sentenced to a fine of not less than $2,000, pursuant to Art 45(1)(_e_), and if he did not receive a free pardon, he would not be qualified to be a Member of Parliament for a time period of up to five years (Art 45(2)). As he was of the view that a sentence of a fine would not be less than $2,000 in his case, Tan thus argued that the appropriate sentence for him should be a custodial term of a few days.
 
@@ -323,13 +323,13 @@ By charging Jolovan for scandalising the judiciary, the AGC only confirms what h
 
 101    I turn to consider the High Court case of _Stansilas Fabian Kester_ (\[85\] _supra_). I find the reasoning of Sundaresh Menon CJ in _Stansilas Fabian Kester_ helpful, and I reproduce his analysis at \[110\]–\[111\]:
 
-110    The second argument is that an offender should not receive _punishment of a certain type_ or above a certain degree because he will lose his job or face disciplinary proceedings otherwise. The argument is that the imposition of _a certain type_ or degree _of punishment_ will lead to _hardship or compromise the offender’s future in some way_ and that _this additional hardship_ may and indeed should be taken into account by the sentencing court. However, _this will not often bring the offender very far._ Prof Ashworth accounts for the general lack of persuasiveness of such arguments in the following lucid fashion (\[Andrew Ashworth, _Sentencing and Criminal Justice_ (Cambridge University Press, 6th Ed, 2015)\] at p 194):
+> 110    The second argument is that an offender should not receive _punishment of a certain type_ or above a certain degree because he will lose his job or face disciplinary proceedings otherwise. The argument is that the imposition of _a certain type_ or degree _of punishment_ will lead to _hardship or compromise the offender’s future in some way_ and that _this additional hardship_ may and indeed should be taken into account by the sentencing court. However, _this will not often bring the offender very far._ Prof Ashworth accounts for the general lack of persuasiveness of such arguments in the following lucid fashion (\[Andrew Ashworth, _Sentencing and Criminal Justice_ (Cambridge University Press, 6th Ed, 2015)\] at p 194):
 
-Is there any merit in this source of mitigation \[_ie_, the effect of the crime on the offender’s career\]? _Once courts begin to adjust sentences for collateral consequences_, is this not a step towards the idea of wider social accounting which was rejected above? In many cases one can argue that these collateral consequences are a concomitant of the professional responsibility which the offender undertook, and therefore that they should not lead to a reduction in sentence because _the offender surely knew the implications_. Moreover, there is a discrimination argument here too. If collateral consequences were accepted as a regular mitigating factor, this would operate in favour of members of the professional classes and against ‘common thieves’ who would either be unemployed or working in jobs where a criminal record is no barrier. It would surely be wrong to support a principle which institutionalized discrimination between employed and unemployed offenders.
+>> Is there any merit in this source of mitigation \[_ie_, the effect of the crime on the offender’s career\]? _Once courts begin to adjust sentences for collateral consequences_, is this not a step towards the idea of wider social accounting which was rejected above? In many cases one can argue that these collateral consequences are a concomitant of the professional responsibility which the offender undertook, and therefore that they should not lead to a reduction in sentence because _the offender surely knew the implications_. Moreover, there is a discrimination argument here too. If collateral consequences were accepted as a regular mitigating factor, this would operate in favour of members of the professional classes and against ‘common thieves’ who would either be unemployed or working in jobs where a criminal record is no barrier. It would surely be wrong to support a principle which institutionalized discrimination between employed and unemployed offenders.
 
-111    Whichever way one looks at it, _I do not regard it as relevant to sentencing._ **_A person who breaches the criminal law can expect to face the consequences that follow under the criminal law._** Whether or not such an offender has already or may as a result suffer _other professional or contractual consequences_ should not be relevant to the sentencing court.
+> 111    Whichever way one looks at it, _I do not regard it as relevant to sentencing._ **_A person who breaches the criminal law can expect to face the consequences that follow under the criminal law._** Whether or not such an offender has already or may as a result suffer _other professional or contractual consequences_ should not be relevant to the sentencing court.
 
-\[emphasis added in italics and bold italics\]
+> \[emphasis added in italics and bold italics\]
 
 102    Menon CJ’s analysis as set out above is applicable to sentencing in general. He dealt with the general argument that “imposition of _a certain type_ or degree _of punishment_ will lead to hardship or compromise the offender’s future in some way” \[emphasis added\]. Menon CJ’s analysis will also apply to Tan’s situation.
 
@@ -347,17 +347,17 @@ Is there any merit in this source of mitigation \[_ie_, the effect of the crime 
 
 109    In the High Court case of _Low Meng Chay_, the appellant filed two magistrate’s appeals against sentences imposed upon him for being manifestly excessive. The appellant had been sentenced for multiple offences under s 73 of the Trade Marks Act (Cap 332, 1985 Rev Ed) and under s 73 of the Trade Marks Act (Cap 332, 1992 Rev Ed) (which, amongst other things, amended the penalties attached to contraventions of s 73). Before the magistrates, the appellant had been sentenced to:
 
-(a)     in relation to the first magistrate’s appeal, fines amounting to $24,000 (with 24 months’ imprisonment in default) and 32 months’ imprisonment; and
+> (a)     in relation to the first magistrate’s appeal, fines amounting to $24,000 (with 24 months’ imprisonment in default) and 32 months’ imprisonment; and
 
-(b)     in relation to the second magistrate’s appeal, fines amounting to $66,600 (with 32 months and 23 days’ imprisonment in default).
+> (b)     in relation to the second magistrate’s appeal, fines amounting to $66,600 (with 32 months and 23 days’ imprisonment in default).
 
 The appellant was unable to pay the fines which amounted to $90,600, and therefore faced imprisonment for an aggregate period of seven years, four months and 23 days.
 
 110    On appeal, Yong Pung How CJ was of the view that in all the circumstances, this aggregate period was manifestly excessive, when s 73 (as amended) only provided for imprisonment for a term not exceeding five years (_Low Meng Chay_ at \[8\]). Yong CJ was of the view that to give effect to all the default sentences would offend the totality principle and thus considered what the proper sentence should be (_Low Meng Chay_ at \[12\]). It was against this backdrop that Yong CJ stated: “\[w\]hen it is unambiguously clear that a defendant cannot pay a fine … the fine should not be imposed even though the court would have preferred to impose a fine rather than a short term of imprisonment” (_Low Meng Chay_ at \[13\]). Consequently, Yong CJ allowed both the appellant’s appeals and sentenced him to:
 
-(a)     in relation to the first magistrate’s appeal, a total of 12 months’ imprisonment; and
+> (a)     in relation to the first magistrate’s appeal, a total of 12 months’ imprisonment; and
 
-(b)     in relation to the second magistrate’s appeal, a total of 21 months’ imprisonment.
+> (b)     in relation to the second magistrate’s appeal, a total of 21 months’ imprisonment.
 
 Accordingly, this meant that the appellant was sentenced to imprisonment for an aggregate period of two years and nine months.
 
