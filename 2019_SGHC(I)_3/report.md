@@ -1,5 +1,5 @@
 <style>.footnotes::before { content: "Footnotes:"; }</style>
-# B2C2 Ltd _v_ Quoine Pte Ltd  
+# B2C2 Ltd _v_ Quoine Pte Ltd
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Suit No 7 of 2017</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">14 March 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Singapore International Commercial Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Simon Thorley IJ</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Danny Ong, Sheila Ng and Jason Teo (Rajah &amp; Tann Singapore LLP) for the plaintiff; Paul Ong, Ivan Lim and Marrissa Karuna (Allen &amp; Gledhill LLP) for the defendant.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">B2C2 Ltd — Quoine Pte Ltd</td></tr></tbody></table>
 
@@ -29,7 +29,7 @@ Trusts – Breach of trust
 
 7       The writ was issued in the Singapore High Court on 18 May 2017, the Statement of Claim was served on that day and the Defence on 16 June 2017. With the agreement of the parties, the action was transferred to the Singapore International Commercial Court on 24 August 2017 and came on for trial before me on 21 November 2018.
 
-8       There was an application for Summary Judgment under Order 14 of the Rules of Court (Cap 322, R 5, 2014 Rev Ed). I dismissed this application in a judgment delivered on 27 December 2017: see _B2C2 v Quoine Pte Ltd_ . Since then there has been further disclosure coupled with affidavit evidence and expert reports. As such, the actual facts of the case as detailed below are somewhat different from the facts as they appeared to be as at the time of that summary judgment application.
+8       There was an application for Summary Judgment under Order 14 of the Rules of Court (Cap 322, R 5, 2014 Rev Ed). I dismissed this application in a judgment delivered on 27 December 2017: see _B2C2 v Quoine Pte Ltd_ <span class="citation">\[2018\] 4 SLR 1</span>. Since then there has been further disclosure coupled with affidavit evidence and expert reports. As such, the actual facts of the case as detailed below are somewhat different from the facts as they appeared to be as at the time of that summary judgment application.
 
 ### Currency trading
 
@@ -41,33 +41,33 @@ Trusts – Breach of trust
 
 12     Whilst there are a number of ways in which an order can be placed on a platform, there are two types of orders that are material in this dispute:
 
-(a)      _A market order_: This is an order which is to be executed immediately at the best available current market place. The buyer or seller (as the case may be) indicates what they wish to trade and the platform automatically identifies the best available trade in the opposite direction. At the time of order placement, the trader will not know precisely what the exchange rate will be, only that it will be the best available price offered on the Platform at the time by a trader seeking to trade in the opposite direction.
+> (a)      _A market order_: This is an order which is to be executed immediately at the best available current market place. The buyer or seller (as the case may be) indicates what they wish to trade and the platform automatically identifies the best available trade in the opposite direction. At the time of order placement, the trader will not know precisely what the exchange rate will be, only that it will be the best available price offered on the Platform at the time by a trader seeking to trade in the opposite direction.
 
-(b)      _A limit order_: This gives the trader greater control over the prices of a given trade but does not enable him to know when it will be executed. A limit order sets either the maximum price at which he is willing to buy or the minimum price at which he is willing to sell. If and when that price is reached, his order will be fulfilled. Market makers trade exclusively in limit orders.
+> (b)      _A limit order_: This gives the trader greater control over the prices of a given trade but does not enable him to know when it will be executed. A limit order sets either the maximum price at which he is willing to buy or the minimum price at which he is willing to sell. If and when that price is reached, his order will be fulfilled. Market makers trade exclusively in limit orders.
 
 13     As Mr Maxime Boonen (“Mr Boonen”), a director of B2C2, explained in his affidavit of evidence-in-chief (“AEIC”), B2C2 acted as a market maker on the Platform in the following manner:[^2]
 
-12    As with other exchange platforms on which B2C2 conducts market making, the entire trading process is automated 24/7 through its algorithmic trading software (“**Trading Software**”), which I helped to develop as B2C2’s co-founder. Human traders are almost never involved in the trading process. Human involvement is in almost all cases limited to tasks like monitoring, IT maintenance and adjusting the parameters of the Trading Software from time to time. In April 2017, the only human traders at the time were the two founders of B2C2, including myself, and we would only monitor the trades during business hours i.e. 8 am to 6 pm Greenwich Mean Time (“**GMT**”)).
+> 12    As with other exchange platforms on which B2C2 conducts market making, the entire trading process is automated 24/7 through its algorithmic trading software (“**Trading Software**”), which I helped to develop as B2C2’s co-founder. Human traders are almost never involved in the trading process. Human involvement is in almost all cases limited to tasks like monitoring, IT maintenance and adjusting the parameters of the Trading Software from time to time. In April 2017, the only human traders at the time were the two founders of B2C2, including myself, and we would only monitor the trades during business hours i.e. 8 am to 6 pm Greenwich Mean Time (“**GMT**”)).
 
-13    As a market maker, B2C2 endeavours to quote limit orders in both directions, continuously if possible, and generate income by capturing a bid-ask spread. The process of placing a limit order on the Platform can be briefly summarised as follows:
+> 13    As a market maker, B2C2 endeavours to quote limit orders in both directions, continuously if possible, and generate income by capturing a bid-ask spread. The process of placing a limit order on the Platform can be briefly summarised as follows:
 
-13.1   The Trading Software requests market data from Quoine’s API. In particular, the Trading Software requests, in respect of a given product, the Platform’s current order book, B2C2’s account balances with the Platform, and any current live orders B2C2 may have on the Platform.
+>> 13.1   The Trading Software requests market data from Quoine’s API. In particular, the Trading Software requests, in respect of a given product, the Platform’s current order book, B2C2’s account balances with the Platform, and any current live orders B2C2 may have on the Platform.
 
-13.2   The Trading Software determines what orders ought to be placed (and the price, size, and side), if any, based on the aforementioned data as well as other factors. The price is determined based on price formulation strategy that seeks to improve on the available prices at the top of the order book by a small amount, subject to a minimum bid-ask spread.
+>> 13.2   The Trading Software determines what orders ought to be placed (and the price, size, and side), if any, based on the aforementioned data as well as other factors. The price is determined based on price formulation strategy that seeks to improve on the available prices at the top of the order book by a small amount, subject to a minimum bid-ask spread.
 
-13.3   The Trading Software submits the orders via authenticated API messages, through which instructions to cancel or amend orders, and to retrieve the status of orders or trades and balances for each asset, can be sent to the Platform.
+>> 13.3   The Trading Software submits the orders via authenticated API messages, through which instructions to cancel or amend orders, and to retrieve the status of orders or trades and balances for each asset, can be sent to the Platform.
 
-14    Unless a specific market making contract exists between the market maker and the Platform (which was not the case between B2C2 and Quoine), a market maker is considered like any other user of the Platform and its orders are therefore not treated any differently than other users’ orders. After an order is submitted by the Trading Software, on condition that it is not first rejected by the Platform (for example, if the user’s balance is too low), it is inserted into the Platform’s order book at the relevant price level and either (i) immediately matched with the best asks (i.e. orders to sell) (in the case of a buy order) or the best bids (i.e. orders to buy) (in the case of a sell order) up to the price quoted in the order, or (ii) left standing in the order book if it does not immediately match against an opposite order, until it is cancelled or matched with another order at a later time. When an order is filled, a completed trade arises and the relevant virtual currency ‘bought’ will be deposited by Quoine into the Account, whilst the relevant currency ‘sold’ will be deducted from the Account. The prevailing balance maintained under the Account is reflected on the user interface of the Platform, and **immediately updated** upon completion of a trade.
+> 14    Unless a specific market making contract exists between the market maker and the Platform (which was not the case between B2C2 and Quoine), a market maker is considered like any other user of the Platform and its orders are therefore not treated any differently than other users’ orders. After an order is submitted by the Trading Software, on condition that it is not first rejected by the Platform (for example, if the user’s balance is too low), it is inserted into the Platform’s order book at the relevant price level and either (i) immediately matched with the best asks (i.e. orders to sell) (in the case of a buy order) or the best bids (i.e. orders to buy) (in the case of a sell order) up to the price quoted in the order, or (ii) left standing in the order book if it does not immediately match against an opposite order, until it is cancelled or matched with another order at a later time. When an order is filled, a completed trade arises and the relevant virtual currency ‘bought’ will be deposited by Quoine into the Account, whilst the relevant currency ‘sold’ will be deducted from the Account. The prevailing balance maintained under the Account is reflected on the user interface of the Platform, and **immediately updated** upon completion of a trade.
 
-\[emphasis in bold in original\]
+> \[emphasis in bold in original\]
 
 ### The Platform
 
 14     Quoine was cofounded by Mr Lozada together with Mr Mike Kayamori in 2014. It operates platforms in Japan and in Singapore. The Platform functions in the following way:[^3]
 
-The Platform uses order books to record orders from buyers and sellers for each pair of currencies being traded on the Platform. An order book is essentially an electronic ledger containing all orders to buy or sell a virtual currency in exchange for another currency. The available buy and sell orders in the order book are displayed on the right hand side of the Trading Dashboard: all available buy orders are shown in the “Buys” section and all available sell orders are shown in the “Sells” section of the Trading Dashboard.
+> The Platform uses order books to record orders from buyers and sellers for each pair of currencies being traded on the Platform. An order book is essentially an electronic ledger containing all orders to buy or sell a virtual currency in exchange for another currency. The available buy and sell orders in the order book are displayed on the right hand side of the Trading Dashboard: all available buy orders are shown in the “Buys” section and all available sell orders are shown in the “Sells” section of the Trading Dashboard.
 
-At the centre of the Trading Dashboard is a price chart which is designed to assist a trader in determining the best fair market price at which to buy or sell a particular currency for another currency. This price chart displays real-time pricing data for the relevant currency pair based on the (i) the real-time prices of completed trades for the currency pair executed on the Platform; and (ii) the real-time prices of completed trades for the currency pair executed on several other major cryptocurrency exchanges …
+> At the centre of the Trading Dashboard is a price chart which is designed to assist a trader in determining the best fair market price at which to buy or sell a particular currency for another currency. This price chart displays real-time pricing data for the relevant currency pair based on the (i) the real-time prices of completed trades for the currency pair executed on the Platform; and (ii) the real-time prices of completed trades for the currency pair executed on several other major cryptocurrency exchanges …
 
 15     At the relevant time, Quoine offered three types of trading: spot trading (where trades are settled instantly), margin trading (which allows trading with borrowed funds) and futures trading (which involves both the buyer and seller agreeing to sell at a future date at a given price). Quoine no longer offers futures trading.
 
@@ -77,11 +77,11 @@ At the centre of the Trading Dashboard is a price chart which is designed to ass
 
 18     Quoine also acts on the Platform as a market maker “to provide liquidity and depth to the order books, minimise volatility in the marketplace and ensure that there is a continuous two-sided market on the Platform”.[^4] It did so using what is known as a Quoter Program in the following manner:
 
-Such orders were generated and placed on the Platform by Quoine’s quoter software program, which was responsible for retrieving external market price information which the program would then use to create new orders for market making purposes. As of April 2017, the quoter program retrieved such external price information from the following external cryptocurrency exchanges: (i) Bitfinex; (ii) Bitstamp; (iii) bitFlyer; and (iv) itBit.
+> Such orders were generated and placed on the Platform by Quoine’s quoter software program, which was responsible for retrieving external market price information which the program would then use to create new orders for market making purposes. As of April 2017, the quoter program retrieved such external price information from the following external cryptocurrency exchanges: (i) Bitfinex; (ii) Bitstamp; (iii) bitFlyer; and (iv) itBit.
 
 ## The relationship between Quoine and B2C2
 
-19     B2C2 was set up by Mr Boonen and a Mr Molendini. Mr Boonen was responsible for creating the vast majority of the algorithmic trading software which I accept is the life blood of B2C2’s business and therefore highly confidential. It has been necessary during the course of this action for steps to be taken to seek to ensure the maintenance of that confidentiality whilst also ensuring a fair and open trial. The way in which this was done and the reasons therefor are set out in an earlier judgment in this action: _B2C2 Ltd v Quoine Pte Ltd_ .
+19     B2C2 was set up by Mr Boonen and a Mr Molendini. Mr Boonen was responsible for creating the vast majority of the algorithmic trading software which I accept is the life blood of B2C2’s business and therefore highly confidential. It has been necessary during the course of this action for steps to be taken to seek to ensure the maintenance of that confidentiality whilst also ensuring a fair and open trial. The way in which this was done and the reasons therefor are set out in an earlier judgment in this action: _B2C2 Ltd v Quoine Pte Ltd_ <span class="citation">\[2018\] 4 SLR 67</span>.
 
 20     B2C2 opened an account on the Platform on 28 June 2015. This was done electronically online by Mr Boonen and Mr Boonen was asked to confirm that B2C2 accepted Quoine’s Terms and Conditions which Mr Boonen did.
 
@@ -93,43 +93,43 @@ Such orders were generated and placed on the Platform by Quoine’s quoter softw
 
 23     A great deal turns on the terms of the Agreement and its relationship with other documents that were on the website at the date of the incident. It is therefore included in full as Annex 1 to this judgment. The most important provisions are as follows:
 
-TERMS AND CONDITIONS
+> TERMS AND CONDITIONS
 
-This Agreement (the "Agreement"), effective upon the date of electronic acceptance (the "Effective Date"), pertains to the use of Quoine (the "Platform"), an Internet application fully owned by Quoine Pte. Ltd. (The "Company"), a Singapore based corporation with registration number 201414068E. This agreement is entered into by and between Quoine Pte.Ltd., and the user of Quoine ("User" or "Member") (each herein referred to individually as a "Party", or collectively as the "Parties"). In consideration of the covenants and conditions contained herein, the Parties hereby agree to the following terms and conditions:
+> This Agreement (the "Agreement"), effective upon the date of electronic acceptance (the "Effective Date"), pertains to the use of Quoine (the "Platform"), an Internet application fully owned by Quoine Pte. Ltd. (The "Company"), a Singapore based corporation with registration number 201414068E. This agreement is entered into by and between Quoine Pte.Ltd., and the user of Quoine ("User" or "Member") (each herein referred to individually as a "Party", or collectively as the "Parties"). In consideration of the covenants and conditions contained herein, the Parties hereby agree to the following terms and conditions:
 
-General Terms
+> General Terms
 
-Quoine is a platform that provides services that allow the exchange of virtual currencies such as Bitcoin for fiat currencies. If you wish register \[_sic_\], engage in transactions on Quoine (The Platform), please fully read and understand the terms and conditions that follow.
+> Quoine is a platform that provides services that allow the exchange of virtual currencies such as Bitcoin for fiat currencies. If you wish register \[_sic_\], engage in transactions on Quoine (The Platform), please fully read and understand the terms and conditions that follow.
 
-This is a legal agreement (“Agreement”) between you and Quoine Pte. Ltd., which will apply to you regarding any and all services offered by or acquired (the “Services”) through the Platform.
+> This is a legal agreement (“Agreement”) between you and Quoine Pte. Ltd., which will apply to you regarding any and all services offered by or acquired (the “Services”) through the Platform.
 
-This Agreement sets forth the terms and conditions governing the access and use of the Platform. This Agreement may be changed at any time by the Company. It is the responsibility of the User to keep himself/herself updated with the current version of the Agreement. Users and Members waive any claim regarding this issue. This Agreement may only be amended with the express consent of the Company. Unless otherwise explicitly stated, the Terms will continue to apply even after termination of your membership to the Platform. If any provision of this Agreement is held invalid, the remainder of this Agreement shall continue in full force and effect.
+> This Agreement sets forth the terms and conditions governing the access and use of the Platform. This Agreement may be changed at any time by the Company. It is the responsibility of the User to keep himself/herself updated with the current version of the Agreement. Users and Members waive any claim regarding this issue. This Agreement may only be amended with the express consent of the Company. Unless otherwise explicitly stated, the Terms will continue to apply even after termination of your membership to the Platform. If any provision of this Agreement is held invalid, the remainder of this Agreement shall continue in full force and effect.
 
-Legal Jurisdiction
+> Legal Jurisdiction
 
-You expressly agree that any claim or dispute arising from your use of our website and/or our services will be governed by the laws of Singapore without regard to the conflict of law provisions thereof. You further agree that any such claims or disputes shall be resolved in Singapore courts, and you agree to be subject to the personal jurisdiction in, and the exclusive venue of, such courts and waive any objection to such jurisdiction and venue for the purpose of litigating any such claim or dispute.
+> You expressly agree that any claim or dispute arising from your use of our website and/or our services will be governed by the laws of Singapore without regard to the conflict of law provisions thereof. You further agree that any such claims or disputes shall be resolved in Singapore courts, and you agree to be subject to the personal jurisdiction in, and the exclusive venue of, such courts and waive any objection to such jurisdiction and venue for the purpose of litigating any such claim or dispute.
 
-…
+> …
 
-Trading & Order Execution
+> Trading & Order Execution
 
-Only registered users or Members are allowed to buy, sell and use the services provided by the Platform. The exchange functions of The Platform will fill in orders at the best possible available market price. Note that as markets move continuously, the prices displayed on user interfaces, on our web app or on mobile apps are in no way guaranteed. The Platform, however, has been designed to allow members to fill at best possible prices and in a timely manner. Nevertheless the Company will not be liable under any circumstances for the consequences of any delay in order filling or failure to deliver or perform.
+> Only registered users or Members are allowed to buy, sell and use the services provided by the Platform. The exchange functions of The Platform will fill in orders at the best possible available market price. Note that as markets move continuously, the prices displayed on user interfaces, on our web app or on mobile apps are in no way guaranteed. The Platform, however, has been designed to allow members to fill at best possible prices and in a timely manner. Nevertheless the Company will not be liable under any circumstances for the consequences of any delay in order filling or failure to deliver or perform.
 
-Furthermore, once an order is filled, you are notified via the Platform and such an action is irreversible.
+> Furthermore, once an order is filled, you are notified via the Platform and such an action is irreversible.
 
-…
+> …
 
-Representations and Warranties
+> Representations and Warranties
 
-As a Member or User, you agree to the following:
+> As a Member or User, you agree to the following:
 
-…
+> …
 
-h.
+> h.
 
-… You agree that the Company reserves the right to change any of the terms, rights, obligations, privileges or institute new charges for access to or continued use of services at any time, with or without providing notice of such change. You are responsible for reviewing the information and terms of usage as may be posted from time to time. Continued use of the services or non-termination of your membership after changes are posted or emailed constitutes your acceptance or deemed acceptance of the terms as modified.
+> … You agree that the Company reserves the right to change any of the terms, rights, obligations, privileges or institute new charges for access to or continued use of services at any time, with or without providing notice of such change. You are responsible for reviewing the information and terms of usage as may be posted from time to time. Continued use of the services or non-termination of your membership after changes are posted or emailed constitutes your acceptance or deemed acceptance of the terms as modified.
 
-\[emphasis added\]
+> \[emphasis added\]
 
 24     Additionally, Quoine asserts that a Risk Disclosure Statement was uploaded onto the website on 22 March 2017. Whilst this was not admitted by B2C2, it was not seriously challenged and I accept the evidence demonstrating that it was. This document figures in one of Quoine’s proposed defences and, again, it is necessary to see the passages relied upon in context so this document forms Annex 2 to this Judgment. I shall revert to it later.
 
@@ -185,15 +185,15 @@ h.
 
 47     The paragraphs in question were paragraph 28 of Mr Lozada’s first AEIC and paragraphs 9 and 10 of Mr Tseung’s AEIC. These state:
 
-\[From Mr Lozada’s AEIC\]
+> \[From Mr Lozada’s AEIC\]
 
-28    In the circumstances, I believe that Quoine acted properly in cancelling the Erroneous Trades and was entitled to do so with the view to maintaining a fair and orderly marketplace. Indeed, I consider it to be common practice for trading exchanges to deal with clearly erroneous transactions by cancelling them if it is in the best interests of the marketplace to do so. The major stock exchanges in the world, such as the Singapore Stock Exchange (“**SGX-ST**”), Nasdaq, the New York Stock Exchange (“**NYSE**”) and the London Stock Exchange (“**LSE**”), have the ability to cancel or reverse erroneous transactions. Similarly, several of the major cryptocurrency exchanges, including Coinbase, Kraken, Gemini and Poloniex, have the ability to reverse or cancel transactions which are clearly erroneous and/or for other reasons at their own discretion. In this connection, annexed hereto and collectively marked as “**MAGL-38**” are copies of the following documents: (a) the relevant rules of the SGX-ST; (b) the relevant rules of Nasdaq; (c) Rule 128 of the NYSE’s Exchange Rules; (d) the relevant trading rules of the LSE; (e) Coinbase’s User Agreement (see Clause 7.1); (f) Kraken’s Terms of Service (see Clause 5.3); (g) Gemini’s User Agreement (see the section entitled “_Clearly Erroneous Transaction Policy_”); and (h) Poloniex’s Terms of Use (see Clause 16).
+> 28    In the circumstances, I believe that Quoine acted properly in cancelling the Erroneous Trades and was entitled to do so with the view to maintaining a fair and orderly marketplace. Indeed, I consider it to be common practice for trading exchanges to deal with clearly erroneous transactions by cancelling them if it is in the best interests of the marketplace to do so. The major stock exchanges in the world, such as the Singapore Stock Exchange (“**SGX-ST**”), Nasdaq, the New York Stock Exchange (“**NYSE**”) and the London Stock Exchange (“**LSE**”), have the ability to cancel or reverse erroneous transactions. Similarly, several of the major cryptocurrency exchanges, including Coinbase, Kraken, Gemini and Poloniex, have the ability to reverse or cancel transactions which are clearly erroneous and/or for other reasons at their own discretion. In this connection, annexed hereto and collectively marked as “**MAGL-38**” are copies of the following documents: (a) the relevant rules of the SGX-ST; (b) the relevant rules of Nasdaq; (c) Rule 128 of the NYSE’s Exchange Rules; (d) the relevant trading rules of the LSE; (e) Coinbase’s User Agreement (see Clause 7.1); (f) Kraken’s Terms of Service (see Clause 5.3); (g) Gemini’s User Agreement (see the section entitled “_Clearly Erroneous Transaction Policy_”); and (h) Poloniex’s Terms of Use (see Clause 16).
 
-\[From Mr Tseung’s AEIC\]
+> \[From Mr Tseung’s AEIC\]
 
-9    It is also relevant to mention that, based on my experience as a trader, it is regular practice for trading exchanges to cancel clearly erroneous trades, including trades that result from a human error or computer malfunction (such as the Erroneous Trades in the present case). The major stock exchanges of the world (for example, the Singapore Stock Exchange and New York Stock Exchange) and several major cryptocurrency exchanges that I know of (for example, Coinbase and Kraken) operate on the basis of rules or policies which allow for the cancellation of clearly erroneous transactions. Indeed, it is important that trading exchanges be allowed to cancel clearly erroneous trades as such trades could have a very disruptive or negative impact on the marketplace.
+> 9    It is also relevant to mention that, based on my experience as a trader, it is regular practice for trading exchanges to cancel clearly erroneous trades, including trades that result from a human error or computer malfunction (such as the Erroneous Trades in the present case). The major stock exchanges of the world (for example, the Singapore Stock Exchange and New York Stock Exchange) and several major cryptocurrency exchanges that I know of (for example, Coinbase and Kraken) operate on the basis of rules or policies which allow for the cancellation of clearly erroneous transactions. Indeed, it is important that trading exchanges be allowed to cancel clearly erroneous trades as such trades could have a very disruptive or negative impact on the marketplace.
 
-10    Finally, I would venture to say that, assuming that B2C2’s Orders were placed by B2C2’s algorithmic trading systems, it is possible that B2C2 had programmed its trading systems to place such abnormally priced orders in the event that there is a bug or glitch on the trading platform which could result in such abnormal orders being executed. In particular, B2C2 could have programmed its systems to place orders with abnormally high prices (which would never have been executed under normal market conditions) upon detecting an abnormal situation of low or zero liquidity on the trading platform. This may explain why B2C2’s Orders were placed at the ridiculously high price of 9.99999 BTC or 10 BTC for 1 ETH when there were no other sell orders on the ETH/BTC order book as a result of a system glitch. Based on my experience in the field of algorithmic trading, it is quite possible to program a trading system to take advantage of a system glitch or abnormal market conditions in this manner.
+> 10    Finally, I would venture to say that, assuming that B2C2’s Orders were placed by B2C2’s algorithmic trading systems, it is possible that B2C2 had programmed its trading systems to place such abnormally priced orders in the event that there is a bug or glitch on the trading platform which could result in such abnormal orders being executed. In particular, B2C2 could have programmed its systems to place orders with abnormally high prices (which would never have been executed under normal market conditions) upon detecting an abnormal situation of low or zero liquidity on the trading platform. This may explain why B2C2’s Orders were placed at the ridiculously high price of 9.99999 BTC or 10 BTC for 1 ETH when there were no other sell orders on the ETH/BTC order book as a result of a system glitch. Based on my experience in the field of algorithmic trading, it is quite possible to program a trading system to take advantage of a system glitch or abnormal market conditions in this manner.
 
 48     It is convenient to deal with paragraph 28 of Mr Lozada’s first AEIC and paragraph 9 of Mr Tseung’s AEIC together.
 
@@ -213,31 +213,31 @@ h.
 
 56     The specific issues were drafted by the parties and settled by the Court. They were as follows:
 
-In placing each of the “Orders” as defined in paragraph 5 of the Statement of Claim on Quoine’s platform on 19 April 2017 at the limit price of either 9.99999 BTC or 10 BTC for 1 ETH:
+> In placing each of the “Orders” as defined in paragraph 5 of the Statement of Claim on Quoine’s platform on 19 April 2017 at the limit price of either 9.99999 BTC or 10 BTC for 1 ETH:
 
-General Issue
+> General Issue
 
-1\. What trading instructions, parameters, criteria, and strategies were used, and what factors were taken into account and relied upon, by B2C2’s automated and algorithmic trading system or software (the “**Trading Software**”). In particular, how did the Trading Software determine the limit price of either 9.99999 BTC or 10 BTC for 1 ETH for each of the Orders.
+> 1\. What trading instructions, parameters, criteria, and strategies were used, and what factors were taken into account and relied upon, by B2C2’s automated and algorithmic trading system or software (the “**Trading Software**”). In particular, how did the Trading Software determine the limit price of either 9.99999 BTC or 10 BTC for 1 ETH for each of the Orders.
 
-Specific Issues falling within the General Issue
+> Specific Issues falling within the General Issue
 
-2\. Was the Trading Software able to determine and did it determine in placing each of these Orders that:
+> 2\. Was the Trading Software able to determine and did it determine in placing each of these Orders that:
 
-A.    There was a situation of low and/or zero liquidity on the Platform;
+>> A.    There was a situation of low and/or zero liquidity on the Platform;
 
-B.    The placement of the Orders would or might cause the Platform to recalculate the open leveraged positions of the Defendant’s customers, based on the quoted prices of the Orders.
+>> B.    The placement of the Orders would or might cause the Platform to recalculate the open leveraged positions of the Defendant’s customers, based on the quoted prices of the Orders.
 
-C.    Such recalculation would or might lead to and result in:
+>> C.    Such recalculation would or might lead to and result in:
 
-i.    The Platform force-closing such customers’ open short positions;
+>>> i.    The Platform force-closing such customers’ open short positions;
 
-ii.    The Platform effecting such force- closure by executing forced stop orders on such customers’ open short positions; and
+>>> ii.    The Platform effecting such force- closure by executing forced stop orders on such customers’ open short positions; and
 
-iii.   The Platform matching such forced stop orders with the Orders.
+>>> iii.   The Platform matching such forced stop orders with the Orders.
 
-iv.    The Platform was affected by the technical glitch referred to in Paragraph 13 of the Defence (Amendment No. 3).
+>>> iv.    The Platform was affected by the technical glitch referred to in Paragraph 13 of the Defence (Amendment No. 3).
 
-If so, how and to what extent, if any, were any of the above factors instrumental in determining the limit price for the Orders.
+> If so, how and to what extent, if any, were any of the above factors instrumental in determining the limit price for the Orders.
 
 57     It was directed that the expert reports should be prepared sequentially which resulted in the first report of Mr Atkinson being sworn on 28 August 2018 and Mr Kapoor’s in reply being sworn on 5 November 2018. Mr Atkinson’s report addresses the issues but Mr Kapoor’s report went somewhat further and sought to give expert evidence on two other matters. First, he concluded on the basis of his review of the B2C2’s computer programs that the “deep quotes” set by the algorithm (_ie_, the price of 10 BTC to 1 ETH) were not merely a defensive measure (of which more below) but constituted what are known as “stub quotes”, a practice which Mr Kapoor opined constituted impermissible market manipulation which was contrary to some regulatory requirements. Secondly, he reviewed the Platform’s software and the Quoter Program and gave evidence on how the Platform calculated the position of margin traders and expressed the view that if the Quoter Program had been working properly there would not have been a margin call.
 
@@ -267,13 +267,13 @@ If so, how and to what extent, if any, were any of the above factors instrumenta
 
 69     I propose to consider the facts under the following headings:
 
-(a)     The Quoter Program;
+> (a)     The Quoter Program;
 
-(b)     The Platform and the Margin Calls;
+> (b)     The Platform and the Margin Calls;
 
-(c)     The B2C2 Trading Software; and
+> (c)     The B2C2 Trading Software; and
 
-(d)     The mindset of Mr Boonen.
+> (d)     The mindset of Mr Boonen.
 
 70     Many of the facts are either common ground or not in dispute. In so far as any matter was the subject of dispute, I have reached an assessment on the basis of the balance of probabilities.
 
@@ -293,12 +293,9 @@ If so, how and to what extent, if any, were any of the above factors instrumenta
 
 <table align="left" cellpadding="0" cellspacing="0" class="Judg-2" frame="none" pgwide="1"><colgroup><col width="20.62%"> <col width="79.38%"> </colgroup><tbody><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">A:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">In this case, what happened is the system, because of poor design -- and I will acknowledge that -- was matching a forced-closed order resulting from a margin trade with a spot order placed by the plaintiff. So there were two different types of orders.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">&nbsp;</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Under normal circumstances, if the prices are within the norm, they would have been matched properly, but in this case, because it's forced-closed, the system just forced the transfer of non-existing assets into the plaintiff's account which resulted in a negative balance in the other account, in a positive balance of non-existent Bitcoin in the plaintiff’s account.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Q:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Thank you, Mr Lozada. As at April 2017, on the 19th, the system had matched B2C2's orders with the forced-closed orders as designed; correct?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">A:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">What do you mean, "as designed"? You mean as intended or –</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Q:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Yes, as designed.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">A:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Can I explain something here?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Court:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Please.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">A:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">So when you build -- these are really complex platforms, by the way, really complex systems, highly sophisticated. A lot of things can go wrong. It is very difficult to -- and that's why we have bugs in systems, you know, computers crash. Sometimes it's very difficult to foresee all the different things that could happen.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">&nbsp;</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Normally what would you have is you have markets that are only margin or only spot. In this case we have margin and a spot happening within the same market.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">&nbsp;</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">The system matched the forced close with the plaintiff's order, but that was -- the balance transfer was a result of an oversight. It shouldn't have happened. When the other party doesn't have enough balance, it doesn't make any sense to do the transfer to the other party. That was an oversight on the system. It was a bug, it was an architectural flaw. It was designed to do that, and it was a flaw on the system.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Q:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Sorry, are you telling the court that the fact that the system was designed to match, even though a forced-closed customer had insufficient assets, was a bug in the system?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">A:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">It was a flaw in the system, yes.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Q:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">But it wasn't a bug?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">A:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">It was not necessarily a bug. It was an oversight in the design of the system. So you design a system, you build specifications, this is what is going to happen. Then a programmer takes it and programmes it. If a designer, for some reason, forgets, or by oversight doesn't account for all these issues, then it will happen. So it's not necessarily a bug, it's more system design issue.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">Q:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">You would then agree with me that as design, leaving aside the oversight, the B2C2's orders were correctly matched with the forced-closed orders?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">A:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="QuoteList-Table-1">As designed, yes.</p></td></tr></tbody></table>
 
-  
-  
-
 76     Mr Tseung, who in the event was not cross-examined on his AEIC, gave evidence that at the relevant time the balance on Pulsar’s account on 19 April contained only 13.5256945100 BTC yet the Platform debited Pulsar’s account with over 3000 BTC. He stated as follows:[^10]
 
-The Platform should have been programmed to check whether the available BTC balances under Pulsar’s Account were sufficient before placing any orders to sell BTC under Pulsar’s Account and before proceeding to match such orders with any corresponding orders. This is how trading platforms are usually programmed to operate i.e., the platforms are configured to check whether a user’s balance is sufficient before placing any orders and proceeding to match any orders on behalf of the user. The Platform should not have placed the Force Closure Orders or matched the Force Closure Orders with B2C2’s Orders given that Pulsar’s Account did not have sufficient BTC to fulfil B2C2’s Orders.
+> The Platform should have been programmed to check whether the available BTC balances under Pulsar’s Account were sufficient before placing any orders to sell BTC under Pulsar’s Account and before proceeding to match such orders with any corresponding orders. This is how trading platforms are usually programmed to operate i.e., the platforms are configured to check whether a user’s balance is sufficient before placing any orders and proceeding to match any orders on behalf of the user. The Platform should not have placed the Force Closure Orders or matched the Force Closure Orders with B2C2’s Orders given that Pulsar’s Account did not have sufficient BTC to fulfil B2C2’s Orders.
 
 77     This evidence reflects the admission by Mr Lozada that the Platform should have had such a feature but did not. Had there been such a feature, the Platform would have traded only the 13.5256945100 BTC in Pulsar’s account, leaving any outstanding deficit on Pulsar’s account due to the lender, in this case Quoine, to be recovered outwith the operation of the Platform.
 
@@ -318,7 +315,7 @@ The Platform should have been programmed to check whether the available BTC bala
 
 84     Mr Atkinson described this in paragraph 54 of his first report:
 
-By guaranteeing at least two price levels are available on both the bid and ask side of the Plaintiffs Trading Software's internal representation of the book before running the logic in Step 5, this means that there is always a front\_bid/front\_ask and next\_bid/next\_ask in the list of bids/asks. If the deep prices were not there, and there was an attempt to access two ask levels when the book contained no ask levels, this would cause an exception. Without these synthetic price levels, the PureQuote strategy would not be able to produce prices on either the bid or ask side of the book. In this regard, the PureQuote strategy produces both bid and ask prices at the same time and the existence of both bid and ask prices is relied upon by subsequent strategies in the pipeline, meaning that, in order to produce a bid price, the Trading Software also needed to produce an ask price. By the addition of the deep prices, the strategy needed no extra checking and also was guaranteed to produce an output. The addition of the deep prices simplifies the implementation of Step 5, but also all strategies that come after the PureQuote strategy in the market maker pipeline, in that these strategies can assume that a quote will always be produced by the PureQuote strategy. In software terms, this kind of programming is an example of a defensive programming technique. Wikipedia defines defensive programming as 'a form of defensive design intended to ensure the continuing function of a piece of software under unforeseen circumstances'. These pre-set synthetic deep price levels are to be distinguished from the prices of the Orders placed, which were generated by the PureQuote strategy.
+> By guaranteeing at least two price levels are available on both the bid and ask side of the Plaintiffs Trading Software's internal representation of the book before running the logic in Step 5, this means that there is always a front\_bid/front\_ask and next\_bid/next\_ask in the list of bids/asks. If the deep prices were not there, and there was an attempt to access two ask levels when the book contained no ask levels, this would cause an exception. Without these synthetic price levels, the PureQuote strategy would not be able to produce prices on either the bid or ask side of the book. In this regard, the PureQuote strategy produces both bid and ask prices at the same time and the existence of both bid and ask prices is relied upon by subsequent strategies in the pipeline, meaning that, in order to produce a bid price, the Trading Software also needed to produce an ask price. By the addition of the deep prices, the strategy needed no extra checking and also was guaranteed to produce an output. The addition of the deep prices simplifies the implementation of Step 5, but also all strategies that come after the PureQuote strategy in the market maker pipeline, in that these strategies can assume that a quote will always be produced by the PureQuote strategy. In software terms, this kind of programming is an example of a defensive programming technique. Wikipedia defines defensive programming as 'a form of defensive design intended to ensure the continuing function of a piece of software under unforeseen circumstances'. These pre-set synthetic deep price levels are to be distinguished from the prices of the Orders placed, which were generated by the PureQuote strategy.
 
 85     These prices have to be chosen in a manner such that on the Ask side it is sufficiently large that the prospect of a trade at that level is both unlikely and, if it occurs, will adequately protect B2C2 against the risk of any adverse consequences of such a trade. Conversely, the chosen price on the Bid side needs to be low. As at 19 April 2017, these prices were, respectively, for the Ask side 10 BTC/ETH and for the Bid side 0.00001 BTC/ETH. As Mr Boonen put it, “the prices had to be sufficiently advantageous so that B2C2 would not regret it if orders place at or near those price levels were filled”.[^12] In cross-examination, he said that it was his “role as a trader to try to find numbers that make sense in a situation of very \[_sic_\] uncertainty as to the future”.[^13]
 
@@ -332,7 +329,7 @@ By guaranteeing at least two price levels are available on both the bid and ask 
 
 90     Mr Boonen accepted that this could have been done and that it had not been. He however drew attention to the fact that there was a provision whereby the code does not send out orders that exceed a certain USD amount. In cross-examination, he said:[^18]
 
-My understanding of your first question is that we could have the same type of check on the smallest quantity as on the maximum quantity. I just spent some time explaining that the nature of the checks -- and really I would say that the smallest quantity check is indeed a check – but on the maximum side, it's not a check, per se. One gets to a maximum constrained by construction of the way the code is designed. So those are not exactly the same things, but by construction the code does not send out orders that exceed a certain dollar value, and this is important, as determined by our own internal calculation of the value of the order. And that calculation does not take into account the price of the order. It takes into account our global benchmark, our global dollar benchmark for Ethereum which we compute internally, and does not come from the market, because we do not want to use the market where we are going to send the order as the benchmark of the price for the purpose of that check.
+> My understanding of your first question is that we could have the same type of check on the smallest quantity as on the maximum quantity. I just spent some time explaining that the nature of the checks -- and really I would say that the smallest quantity check is indeed a check – but on the maximum side, it's not a check, per se. One gets to a maximum constrained by construction of the way the code is designed. So those are not exactly the same things, but by construction the code does not send out orders that exceed a certain dollar value, and this is important, as determined by our own internal calculation of the value of the order. And that calculation does not take into account the price of the order. It takes into account our global benchmark, our global dollar benchmark for Ethereum which we compute internally, and does not come from the market, because we do not want to use the market where we are going to send the order as the benchmark of the price for the purpose of that check.
 
 91     It can thus be seen that the software does not take into account the actual price of the order (_ie_, 10 BTC for 1 ETH). What it does is to have regard only to the quantity of the order in terms of ETH and multiply that by the internal benchmark for the USD value of ETH which at that time was USD50. If the sum of those two numbers exceeded a set value, then the order would not be placed. Hence the maximum figure did not relate to the value of the order but only the quantity and thus served to ensure that an order for sale of ETH did not exceed a certain quantity. There were, Mr Boonen said, very serious risk management reasons for this, a statement which was not challenged.[^19]
 
@@ -374,7 +371,7 @@ My understanding of your first question is that we could have the same type of c
 
 109    The second aspect is pleaded in Particular (f) which reads as follows:
 
-The Orders were placed because the Plaintiff had programmed its algorithmic trading software to place limit orders on the ask side of the ETH/BTC order book at the irrational prices of 9.999995 or 9.99999 BTC for 1 ETH when the order book was ‘thin’ and/or empty. The Plaintiff did so with the intention and/or objective and/or purpose of taking advantage of and/or exploiting an abnormal situation of low and/or zero liquidity on the Platform which could allow such orders to be executed at such irrational prices.
+> The Orders were placed because the Plaintiff had programmed its algorithmic trading software to place limit orders on the ask side of the ETH/BTC order book at the irrational prices of 9.999995 or 9.99999 BTC for 1 ETH when the order book was ‘thin’ and/or empty. The Plaintiff did so with the intention and/or objective and/or purpose of taking advantage of and/or exploiting an abnormal situation of low and/or zero liquidity on the Platform which could allow such orders to be executed at such irrational prices.
 
 110    This is a clear allegation that Mr Boonen included the 10:1 ratio when writing the program with the knowledge not only that it would lead to orders being placed on the Platform at that level in cases of low liquidity but also with the knowledge that there were circumstances in which such orders might be met. Quoine amplified upon this in its written opening submissions. The suggestion that the placing of the deep prices was strictly the result of an innocuous defensive programming strategy was said to be highly artificial and strained. It was also suggested that the Plaintiff was being opportunistic in seeking to take advantage of forced and/or erroneous liquidations by programming its trading software to place orders at the deep prices which were not bona fide. Mr Atkinson’s analysis, it was said, was overly simplistic and failed to take into account the overall manner in which the code had evolved over time. Reliance was placed on the evidence of Mr Kapoor to support an allegation that Mr Boonen had put thought into what the trading software should do if the ETC/BTH order book became empty and that he had placed the 10:1 ratio into the code with the intention of triggering and thereafter benefitting from such forced or erroneous liquidations.[^30]
 
@@ -384,9 +381,9 @@ The Orders were placed because the Plaintiff had programmed its algorithmic trad
 
 113    Early in his cross-examination, when considering the extent to which the deep prices were present to cover the risks of illiquidity Mr Boonen said this:[^33]
 
-Now, this check or this feature that we’re talking about, that price of 10, it’s not the sort of day-to-day measure, right. It is a circuit-breaker. It is when something very unusual happens. It’s when the unfathomable actually crystallises. I think it’s important to add that clarification.
+> Now, this check or this feature that we’re talking about, that price of 10, it’s not the sort of day-to-day measure, right. It is a circuit-breaker. It is when something very unusual happens. It’s when the unfathomable actually crystallises. I think it’s important to add that clarification.
 
-In its written closing, Quoine repeatedly referred to this passage as being an indication that Mr Boonen must have known that if the very unusual or unfathomable were to occur this was likely to be the result of a serious error or glitch.
+> In its written closing, Quoine repeatedly referred to this passage as being an indication that Mr Boonen must have known that if the very unusual or unfathomable were to occur this was likely to be the result of a serious error or glitch.
 
 114    Thereafter, Mr Boonen gave evidence that he was surprised when he first saw that the orders had been filled and that he considered the possibility that there was an error on the Platform or an error in the B2C2 system. Having checked that there were no apparent errors in either system he thought “Wow, there must have been something incredible happened \[_sic_\] in the market overnight”.[^34]
 
@@ -394,15 +391,15 @@ In its written closing, Quoine repeatedly referred to this passage as being an i
 
 116    Matters came to a head in this passage of cross-examination:[^36]
 
-I disagree. I could not even know that this situation would have occurred. If you had told me when I left my job at Goldman Sachs – and actually I remember I told my partner, my line manager, the guy I had to officially resign to, “I'm thinking that Bitcoin thing has some legs, I’m going to do it for maybe six months. Hopefully I can sell the company for $2 million". That's what I said, "$2 million", "then I'll come back". If you had told me at the time, "Max, your company is going to make tens of millions of dollars and you're going to be in a courtroom in Singapore in 2018", I would have thought that -- I would have re-evaluated my life's choices. So, no. My objective here, in setting that specific value at 10, was not that I was about to make obscene profit.
+> I disagree. I could not even know that this situation would have occurred. If you had told me when I left my job at Goldman Sachs – and actually I remember I told my partner, my line manager, the guy I had to officially resign to, “I'm thinking that Bitcoin thing has some legs, I’m going to do it for maybe six months. Hopefully I can sell the company for $2 million". That's what I said, "$2 million", "then I'll come back". If you had told me at the time, "Max, your company is going to make tens of millions of dollars and you're going to be in a courtroom in Singapore in 2018", I would have thought that -- I would have re-evaluated my life's choices. So, no. My objective here, in setting that specific value at 10, was not that I was about to make obscene profit.
 
 117    Mr Boonen was affronted at the suggestion that he had designed his software with the specific purpose of taking advantage of the errors of others and, in the result, he did become over-loquacious but the thrust of his answers was always to the effect that Quoine were seeking to read far too much into the insertion of the deep prices than was warranted. His position can be illustrated by two further extracts of the oral evidence he gave on the second day of his trial:[^37]
 
-You're saying that my mind was set to try to do something nefarious for seven little orders that you agree were unlikely to ever trade anyway, it was unlikely that such a situation would ever occur. But if I had done that, I would have missed out on tens of millions of dollars of profit for my firm, because that's what I was focused on. You know, if I'm spending all my time trying to find some work-around to try to take advantage of Quoine, a tiny platform that I -- I'm not sure in November 2014 they existed, maybe the company was created around that time, that makes absolutely no sense because it would have diverted so much focus away from all the other platforms, from all the other parts of the code. Frankly, that deep price stuff is minor.
+> You're saying that my mind was set to try to do something nefarious for seven little orders that you agree were unlikely to ever trade anyway, it was unlikely that such a situation would ever occur. But if I had done that, I would have missed out on tens of millions of dollars of profit for my firm, because that's what I was focused on. You know, if I'm spending all my time trying to find some work-around to try to take advantage of Quoine, a tiny platform that I -- I'm not sure in November 2014 they existed, maybe the company was created around that time, that makes absolutely no sense because it would have diverted so much focus away from all the other platforms, from all the other parts of the code. Frankly, that deep price stuff is minor.
 
-…
+> …
 
-And so I completely disagree. It makes no sense. It doesn't make any sense for me to have focused so much, with perfect foresight, on trying to take advantage of Quoine, when I did not need that at all. I did not need those trades. The reason I'm here is because I'm entitled to a profit. My profit has been illegally clawed back from me, and it simply is a big enough number that I have to be here.
+> And so I completely disagree. It makes no sense. It doesn't make any sense for me to have focused so much, with perfect foresight, on trying to take advantage of Quoine, when I did not need that at all. I did not need those trades. The reason I'm here is because I'm entitled to a profit. My profit has been illegally clawed back from me, and it simply is a big enough number that I have to be here.
 
 118    What then was his mindset? At the time the original program was written, ETH did not exist. In June 2016 when the 10:1 ratio was added, it was a fledgling currency and I accept Mr Boonen’s evidence that he regarded it as representing the most risk. I also accept that his primary concern when writing the program was to protect the integrity of the B2C2 trading system so as to minimise the risk of any unwarranted exposure.
 
@@ -432,11 +429,11 @@ And so I completely disagree. It makes no sense. It doesn't make any sense for m
 
 130    Resolution of this issue requires the Terms and Conditions of the Agreement to be interpreted. These make it plain that Quoine as the Platform operator is providing a service to the “Users and Members” (hereinafter “Members”) using the Platform. The first paragraph of the Section headed “Trading & Order Execution” reads:
 
-“Only registered users or Members are allowed to buy, sell and use the services provided by the platform. The exchange functions of the Platform will fill orders at the best possible available market price.”
+> “Only registered users or Members are allowed to buy, sell and use the services provided by the platform. The exchange functions of the Platform will fill orders at the best possible available market price.”
 
 And the third paragraph reads:
 
-“The Company and its affiliates assume no responsibility for any loss or damage incurred by members or users as a result of their use of the Platform … The Company provides its Users and Members with a service via which they can exchange, buy, sell and/or store certain virtual currencies …”
+> “The Company and its affiliates assume no responsibility for any loss or damage incurred by members or users as a result of their use of the Platform … The Company provides its Users and Members with a service via which they can exchange, buy, sell and/or store certain virtual currencies …”
 
 131    The remainder of the Terms and Conditions make it plain that Quoine is solely providing the Platform and that the parties are themselves responsible for determining whether and on what terms they shall place or fill orders. The actual contract of sale is therefore a contract directly between buyers and sellers whose rights _inter se_ are determined by the Terms and Conditions. In my judgment, therefore, Quoine’s approach is the correct one. The Members have agreed that they can use the Platform to buy and sell currencies using limit or market orders on the understanding that if the Platform matched two orders a contract would ensue between those Members. Each of the offers to buy and sell made by B2C2 and Quoine was made at large to all other users of the Platform. When the orders were matched the identities of the actual buyers and the sellers were ascertainable.
 
@@ -446,33 +443,33 @@ And the third paragraph reads:
 
 133    There are three main issues to be canvassed:
 
-(a)     First, the Plaintiff’s Claim. There are essentially two prongs to the claim: (1) Quoine’s breach of contract in reversing the trades; and (2) Quoine’s breach of trust in disposing of the Plaintiff’s assets.
+> (a)     First, the Plaintiff’s Claim. There are essentially two prongs to the claim: (1) Quoine’s breach of contract in reversing the trades; and (2) Quoine’s breach of trust in disposing of the Plaintiff’s assets.
 
-(b)     Second, the Defendant’s Defences. The Defendant raised a number of potential defences which, logically, I consider should be considered in the following order:
+> (b)     Second, the Defendant’s Defences. The Defendant raised a number of potential defences which, logically, I consider should be considered in the following order:
 
-(i)       It is entitled to reverse the trades on the basis of implied terms of the Agreement.
+>> (i)       It is entitled to reverse the trades on the basis of implied terms of the Agreement.
 
-(ii)       It is entitled to reverse the trades on the basis of an express term of the Agreement when read in conjunction with the Risk Disclosure Statement.
+>> (ii)       It is entitled to reverse the trades on the basis of an express term of the Agreement when read in conjunction with the Risk Disclosure Statement.
 
-(iii)       It is entitled to reverse the trades on the basis that the contacts between B2C2 and the Counterparties were void under the doctrine of unilateral mistake at common law.
+>> (iii)       It is entitled to reverse the trades on the basis that the contacts between B2C2 and the Counterparties were void under the doctrine of unilateral mistake at common law.
 
-(iv)       It is entitled to reverse the trades on the basis that those contracts were voidable under the doctrine of unilateral mistake in equity.
+>> (iv)       It is entitled to reverse the trades on the basis that those contracts were voidable under the doctrine of unilateral mistake in equity.
 
-(v)       It is entitled to reverse the trades on the basis that those contracts were void under the doctrine of mutual mistake at common law.
+>> (v)       It is entitled to reverse the trades on the basis that those contracts were void under the doctrine of mutual mistake at common law.
 
-(vi)       It is entitled to reverse the trades on the basis of unjust enrichment.
+>> (vi)       It is entitled to reverse the trades on the basis of unjust enrichment.
 
-(c)     Third, the relief to be ordered if Quoine is liable. In particular, If B2C2 is entitled to relief both in law for breach of contract and in equity for breach of trust, what relief is it entitled to?
+> (c)     Third, the relief to be ordered if Quoine is liable. In particular, If B2C2 is entitled to relief both in law for breach of contract and in equity for breach of trust, what relief is it entitled to?
 
 ### Bifurcation
 
 134    I do not have to address the issue of damages or monetary compensation in this judgment because the parties agreed that the proceedings would be bifurcated into findings on liability and damages, respectively. By a consent order dated 20 February 2018 it was ordered that:
 
-1.    There be a bifurcation of the trial in that the questions relating to the following issues be tried after the trial of this action in such manner as may be directed by the trial judge or by further order:
+> 1.    There be a bifurcation of the trial in that the questions relating to the following issues be tried after the trial of this action in such manner as may be directed by the trial judge or by further order:
 
-a.    the assessment of loss, damage, cost and/or expense, as prayed for in paragraph 13(4) of the Statement of Claim; and
+>> a.    the assessment of loss, damage, cost and/or expense, as prayed for in paragraph 13(4) of the Statement of Claim; and
 
-b.    the assessment of equitable compensation and/or damages, as prayed for in paragraph 13(5) of the Statement of Claim…
+>> b.    the assessment of equitable compensation and/or damages, as prayed for in paragraph 13(5) of the Statement of Claim…
 
 135    Accordingly, if B2C2’s claim succeeds in any respect, the amount of any monetary compensation will be determined at a later hearing. As indicated at the hearing, this will include resolution of an issue concerning an alleged limitation of liability pursuant to Clause (d) under Owner Responsibilities in the Agreement.
 
@@ -494,13 +491,13 @@ b.    the assessment of equitable compensation and/or damages, as prayed for
 
 141    So far as concerns the law, there was a measure of agreement between the parties. Both accepted that there were three certainties that had to be present for the creation of a trust, namely, certainty of intention, certainty of subject matter and certainty of objects.
 
-142    It is convenient to consider the second certainty, certainty of subject matter, first. Quoine was prepared to assume that cryptocurrencies may be treated as property that may be held on trust. I consider that it was right to do so. Cryptocurrencies are not legal tender in the sense of being a regulated currency issued by a government but do have the fundamental characteristic of intangible property as being an identifiable thing of value. Quoine drew my attention to the classic definition of a property right in the House of Lords decision of _National Provincial Bank v Ainsworth_ at 1248:
+142    It is convenient to consider the second certainty, certainty of subject matter, first. Quoine was prepared to assume that cryptocurrencies may be treated as property that may be held on trust. I consider that it was right to do so. Cryptocurrencies are not legal tender in the sense of being a regulated currency issued by a government but do have the fundamental characteristic of intangible property as being an identifiable thing of value. Quoine drew my attention to the classic definition of a property right in the House of Lords decision of _National Provincial Bank v Ainsworth_ <span class="citation">\[1965\] 1 AC 1175</span> at 1248:
 
-“it must be definable, identifiable by third parties, capable in its nature of assumption by third parties, and have some degree of permanence or stability”.
+> “it must be definable, identifiable by third parties, capable in its nature of assumption by third parties, and have some degree of permanence or stability”.
 
 Cryptocurrencies meet all these requirements. Whilst there may be some academic debate as to the precise nature of the property right, in the light of the fact that Quoine does not seek to dispute that they may be treated as property in a generic sense, I need not consider the question further.
 
-143    The third certainty, certainty of objects, requires that the intended beneficiaries have to be identifiable so that it is possible to ascertain those who have the standing to enforce the trustee’s duties under the trust: _Guy Neale v Nine Squares Pty Ltd_ (“_Guy Neale_”) at \[60\]. This requirement is met in the present case. The beneficiaries are identifiable from the individual accounts of each of the Members.
+143    The third certainty, certainty of objects, requires that the intended beneficiaries have to be identifiable so that it is possible to ascertain those who have the standing to enforce the trustee’s duties under the trust: _Guy Neale v Nine Squares Pty Ltd_ <span class="citation">\[2015\] 1 SLR 1097</span> (“_Guy Neale_”) at \[60\]. This requirement is met in the present case. The beneficiaries are identifiable from the individual accounts of each of the Members.
 
 144    The dispute arises on the first certainty, certainty of intention to create a trust. In ascertaining the requisite intention, it is not necessary for express words to that effect to be used. The Court must have regard to the conduct of the alleged settlor, the words used in any relevant documents and all the surrounding circumstances: _Guy Neale_ at \[52\]–\[58\].
 
@@ -516,35 +513,35 @@ Cryptocurrencies meet all these requirements. Whilst there may be some academic 
 
 148    In paragraph 152 of its written closing submissions, Quoine sought to rely on two implied terms:
 
-(a)     Quoine may reverse any trades which are executed at any abnormal rate or price as a result of any technical and/or system failure and/or error affecting the Platform;
+> (a)     Quoine may reverse any trades which are executed at any abnormal rate or price as a result of any technical and/or system failure and/or error affecting the Platform;
 
-(b)     Quoine may reverse any trades resulting from orders placed in breach of the terms of the 2014 Terms & Conditions, including any trades resulting from any orders which amounted to market manipulation and/or abuse and, therefore, an “_unauthorised use_” of the Platform.
+> (b)     Quoine may reverse any trades resulting from orders placed in breach of the terms of the 2014 Terms & Conditions, including any trades resulting from any orders which amounted to market manipulation and/or abuse and, therefore, an “_unauthorised use_” of the Platform.
 
-149    There was no dispute between the parties as to the legal approach. In particular, Quoine accepted that the applicable principles were laid down by the Court of Appeal in _Sembcorp Marine Ltd v PPL Holdings Pte Ltd_ . In paragraph 153 of its written closing submissions Quoine correctly summarised the position as follows:
+149    There was no dispute between the parties as to the legal approach. In particular, Quoine accepted that the applicable principles were laid down by the Court of Appeal in _Sembcorp Marine Ltd v PPL Holdings Pte Ltd_ <span class="citation">\[2013\] 4 SLR 193</span>. In paragraph 153 of its written closing submissions Quoine correctly summarised the position as follows:
 
-Based on _Sembcorp Marine_, the applicable principles are as follows:
+> Based on _Sembcorp Marine_, the applicable principles are as follows:
 
-(a)     First, the process of implication of terms is “_best understood as an exercise in giving effect to the parties’ presumed intentions_”. It is “_an exercise in filling the gaps in the contract_.”
+>> (a)     First, the process of implication of terms is “_best understood as an exercise in giving effect to the parties’ presumed intentions_”. It is “_an exercise in filling the gaps in the contract_.”
 
-(b)     Secondly, it is only in the scenario where “_the parties did not contemplate the issue at all and so left a gap_” that it would be appropriate to imply a term into the contract.
+>> (b)     Secondly, it is only in the scenario where “_the parties did not contemplate the issue at all and so left a gap_” that it would be appropriate to imply a term into the contract.
 
-(c)     Thirdly, the business efficacy and officious bystander tests “_remain the prevailing approach for the implication of terms under Singapore law_”. On that basis, “_a term that is not reasonable, not equitable, unclear, or that contradicts an express term of the contract, will not be implied_” as it “will _necessarily fail the officious bystander test_”.
+>> (c)     Thirdly, the business efficacy and officious bystander tests “_remain the prevailing approach for the implication of terms under Singapore law_”. On that basis, “_a term that is not reasonable, not equitable, unclear, or that contradicts an express term of the contract, will not be implied_” as it “will _necessarily fail the officious bystander test_”.
 
-(d)     Fourthly, there may be more than one legal basis on which it may be determined that a term \[accords\] with the parties’ presumed intentions. The business efficacy basis is “_clearly favoured in the commercial context as it is safe to assume that commercial parties are rational, and as such, seek business efficacy in their transaction._”
+>> (d)     Fourthly, there may be more than one legal basis on which it may be determined that a term \[accords\] with the parties’ presumed intentions. The business efficacy basis is “_clearly favoured in the commercial context as it is safe to assume that commercial parties are rational, and as such, seek business efficacy in their transaction._”
 
-(e)     Fifthly, the threshold for implying a term is “_necessarily a high one_” i.e., a term should only be implied if it is necessary.
+>> (e)     Fifthly, the threshold for implying a term is “_necessarily a high one_” i.e., a term should only be implied if it is necessary.
 
-(f)    In the premises, the implication of terms should be considered using a “three-step process”:
+>> (f)    In the premises, the implication of terms should be considered using a “three-step process”:
 
-“_The first step is to ascertain how the gap in the contract arises. Implication will be considered only if the court discerns that the gap arose because the parties did not contemplate the gap._
+>>> “_The first step is to ascertain how the gap in the contract arises. Implication will be considered only if the court discerns that the gap arose because the parties did not contemplate the gap._
 
-_At the second step, the court considers whether it is necessary in the business or commercial sense to imply a term in order to give the contract efficacy._
+>>> _At the second step, the court considers whether it is necessary in the business or commercial sense to imply a term in order to give the contract efficacy._
 
-_Finally, the court considers the specific term to be implied. This must be one which the parties, having regard to the need for business efficacy, would have responded “Oh, of course!” had the proposed term been put to them at \[the\] time of the contract. If it is not possible to find such a clear response, then, the gap persists and the consequences of the gap \[ensue\]._”
+>>> _Finally, the court considers the specific term to be implied. This must be one which the parties, having regard to the need for business efficacy, would have responded “Oh, of course!” had the proposed term been put to them at \[the\] time of the contract. If it is not possible to find such a clear response, then, the gap persists and the consequences of the gap \[ensue\]._”
 
 150    B2C2’s primary contention in relation to the first proposed term is that such a term would contradict the express term in the Agreement under “Trading & Order Execution” that:
 
-“Furthermore, once an order is filled, you are notified by the Platform and such an action is irreversible.”
+> “Furthermore, once an order is filled, you are notified by the Platform and such an action is irreversible.”
 
 This is, it is said, indicative that the parties had turned their minds to the question of the reversibility of completed orders and had concluded that this should not be permitted. There was therefore no gap to be filled by the proposed implied term permitting reversibility in particular circumstances.
 
@@ -560,91 +557,91 @@ This is, it is said, indicative that the parties had turned their minds to the q
 
 155    There are four relevant passages in the Agreement. First, under the heading “General Terms” it is provided:
 
-This Agreement may be changed at any time by the Company. It is the responsibility of the User to keep himself/herself updated with the current version of the Agreement. Users and Members waive any claim with regarding this issue.
+> This Agreement may be changed at any time by the Company. It is the responsibility of the User to keep himself/herself updated with the current version of the Agreement. Users and Members waive any claim with regarding this issue.
 
 Secondly, under “Membership and Users of the Platform” it is provided:
 
-This agreement may be changed at any time by the Company. It is the responsibility of the user to keep himself/herself updated with the current version of the Agreement.
+> This agreement may be changed at any time by the Company. It is the responsibility of the user to keep himself/herself updated with the current version of the Agreement.
 
 Third, clause (b) of the “Representation and Warranties” section provides:
 
-b.    You will follow all acceptable use policies and all other terms and conditions relating to the use of the services in respect of the website, and will not transmit offensive material, junk messages, advertisements or any type of solicitation whatsoever of any products or services to other members of the service.
+> b.    You will follow all acceptable use policies and all other terms and conditions relating to the use of the services in respect of the website, and will not transmit offensive material, junk messages, advertisements or any type of solicitation whatsoever of any products or services to other members of the service.
 
 Fourth, clause (h) of the “Representation and Warranties” section provides:
 
-h.    You agree that the Company reserves the right to change any of the terms, rights, obligations, privileges… with or without providing notice of such change. You are responsible for reviewing the information and terms of usage as may be posted from time to time. Continued use of the services or non-termination of your membership after changes are posted or emailed constitutes your acceptance or deemed acceptance of the terms as modified. \[emphasis added\]
+> h.    You agree that the Company reserves the right to change any of the terms, rights, obligations, privileges… with or without providing notice of such change. You are responsible for reviewing the information and terms of usage as may be posted from time to time. Continued use of the services or non-termination of your membership after changes are posted or emailed constitutes your acceptance or deemed acceptance of the terms as modified. \[emphasis added\]
 
 156    Clause (h) is a somewhat unusual clause which permits Quoine unilaterally to alter the Agreement without notice but it unclear as to precisely how this can be done. The use of the expression “_rights, obligations, privileges_” in addition to the word _“terms_” introduces a measure of uncertainty as does the reference not merely to the _terms of usage_ but also to _the information_ which may be posted. The last sentence, however, refers solely to the _“_terms as modified”. Clause (h) encompasses the first two passages cited above and thus it is only necessary to consider the scope of that clause.
 
 157    The Risk Disclosure Statement does what its name suggests. It is entitled “Risks in Virtual Currency Transactions” and the introduction states:
 
-There are many risks associated with virtual currency transactions. Please read the following to gain a sufficient understanding of the features, mechanisms, and risks in virtual currency transactions. _Please execute your transaction with understanding such features, mechanisms and risks without objection_ and based on your own judgment and responsibility. \[emphasis added\]
+> There are many risks associated with virtual currency transactions. Please read the following to gain a sufficient understanding of the features, mechanisms, and risks in virtual currency transactions. _Please execute your transaction with understanding such features, mechanisms and risks without objection_ and based on your own judgment and responsibility. \[emphasis added\]
 
 158    Ten separate risks are described, two of which are material in this case. The first, “Risks due to Stop-Out”, relates to the right of Quoine unilaterally to place a market order to force-close a margin trader’s positions in the event that the trader’s liability exceeds its collateral:
 
-**7**.     **Risks due to Stop-Out**
+> **7**.     **Risks due to Stop-Out**
 
-<Characteristics of margin trading>
+> &lt;Characteristics of margin trading&gt;
 
-The stop-out system allows the Company to cancel non-executed new orders and **_forcibly execute a reversing trade, and settle all, of a customer’s positions to protect the customer from escalating losses when the customer’s margin falls short of the Company’s prescribed ratio of the margin to required margin_** **(the “stop-out,”** which the Company may change at its discretion).
+> The stop-out system allows the Company to cancel non-executed new orders and **_forcibly execute a reversing trade, and settle all, of a customer’s positions to protect the customer from escalating losses when the customer’s margin falls short of the Company’s prescribed ratio of the margin to required margin_** **(the “stop-out,”** which the Company may change at its discretion).
 
-The amount of a loss will not be determined until the settlement is completed **_because the final settlement price in the case of a stop-out is determined by market prices_****.**
+> The amount of a loss will not be determined until the settlement is completed **_because the final settlement price in the case of a stop-out is determined by market prices_****.**
 
-If market circumstances shift dramatically or something else happens, **_the final settlement price may significantly differ from the one at the time the transaction was initiated, and it is possible that a customer’s loss may exceed the amount that the customer has deposited with the Company_**_._ Customers must promptly deposit any shortfall in funds with the Company. \[emphasis added\]
+> If market circumstances shift dramatically or something else happens, **_the final settlement price may significantly differ from the one at the time the transaction was initiated, and it is possible that a customer’s loss may exceed the amount that the customer has deposited with the Company_**_._ Customers must promptly deposit any shortfall in funds with the Company. \[emphasis added\]
 
 159    The second, “System Risks”, applies to both spot and margin traders:
 
-**8**.     **System Risks**
+> **8**.     **System Risks**
 
-<For both spot and margin trading>
+> &lt;For both spot and margin trading&gt;
 
-Customers execute transactions using an electronic transaction system. If a customer incorrectly enters an order, the customer’s intended order may not be executed, or an unintended order may be executed.
+> Customers execute transactions using an electronic transaction system. If a customer incorrectly enters an order, the customer’s intended order may not be executed, or an unintended order may be executed.
 
-The electronic transaction system may be unusable temporarily or for a certain period for many reasons, such as malfunctioning telecommunications or system equipment, or telecommunication network problems at the Company or a customer, or an order may be invalidated if a customer's instructions for placing an order arrive late (or not at all) to the Company's system. In addition, a customer's ability to transact may be suspended in some cases whenever there is an electronic transaction system failure.
+> The electronic transaction system may be unusable temporarily or for a certain period for many reasons, such as malfunctioning telecommunications or system equipment, or telecommunication network problems at the Company or a customer, or an order may be invalidated if a customer's instructions for placing an order arrive late (or not at all) to the Company's system. In addition, a customer's ability to transact may be suspended in some cases whenever there is an electronic transaction system failure.
 
-If there is a sudden and severe change in the market, etc., the retrieval of price information may be delayed, leading to discrepancies between the price information on the electronic transaction system and the actual market prices.
+> If there is a sudden and severe change in the market, etc., the retrieval of price information may be delayed, leading to discrepancies between the price information on the electronic transaction system and the actual market prices.
 
-If information such as the login ID or password used for electronic verification on the electronic transaction system is leaked due to a theft or intrusion, etc., the information may be fraudulently used by a third party, and the relevant customer may suffer losses.
+> If information such as the login ID or password used for electronic verification on the electronic transaction system is leaked due to a theft or intrusion, etc., the information may be fraudulently used by a third party, and the relevant customer may suffer losses.
 
-There is the risk that a system failure may occur due to changes to the external environment, etc., and this may disrupt a customer’s ability to execute transactions. A “system failure” is when the Company finds that a malfunction (not including the obstructed network lines or problems with a customer's computer, etc.) has clearly arisen in the system required to provide the Company’s services, and customers are no longer able to place orders over the Internet (the Company's website, mobile site, or applications) or customers' orders arrive late or cannot be placed.
+> There is the risk that a system failure may occur due to changes to the external environment, etc., and this may disrupt a customer’s ability to execute transactions. A “system failure” is when the Company finds that a malfunction (not including the obstructed network lines or problems with a customer's computer, etc.) has clearly arisen in the system required to provide the Company’s services, and customers are no longer able to place orders over the Internet (the Company's website, mobile site, or applications) or customers' orders arrive late or cannot be placed.
 
-Please be aware that in the event that a customer loses any opportunity (e.g., the Company is unable to receive a customer’s order and the customer therefore loses the opportunity to place the order, losing profits that he or she ordinarily would have earned) due to emergency system maintenance or a system failure, the Company will not be able to execute a process to fix the error because it will be unable to identify the order details that the customer intended to place (the original order). **_The system may produce an aberrant value for the buy or sell price of the virtual currency calculated by the system. Please be aware that if the Company finds that a transaction took effect based on an aberrant value, the Company may cancel the transaction. Your understanding is appreciated._** \[emphasis added\]
+> Please be aware that in the event that a customer loses any opportunity (e.g., the Company is unable to receive a customer’s order and the customer therefore loses the opportunity to place the order, losing profits that he or she ordinarily would have earned) due to emergency system maintenance or a system failure, the Company will not be able to execute a process to fix the error because it will be unable to identify the order details that the customer intended to place (the original order). **_The system may produce an aberrant value for the buy or sell price of the virtual currency calculated by the system. Please be aware that if the Company finds that a transaction took effect based on an aberrant value, the Company may cancel the transaction. Your understanding is appreciated._** \[emphasis added\]
 
 160    Quoine contends that when the Risk Disclosure Statement was uploaded onto the website on 22 March 2017, it had the effect, _inter alia_, of introducing a new term into the Agreement expressly permitting the Defendant to cancel a transaction if it had taken place based at an aberrant value (the “aberrant value clause”). It accepts that no express notice was placed on the website drawing attention to the fact that the Agreement had been modified as a result of the uploading of the Risk Disclosure Statement. It contends, however, that on its true interpretation the combined effect of clause (h) with the preceding clause (b) of the Agreement does not require this to be done. The mere uploading of the Terms and Conditions was sufficient to modify the Agreement to incorporate the aberrant value clause which automatically came into effect without notice to the users of the Platform and regardless of whether they had seen it or not. The Risk Disclosure Statement constitutes “information” and/or “terms of usage” within the meaning of clause (h) because it changed the terms on which users could trade on the Platform and altered their rights. Finally, it contends that the seven trades on 19 April 2017 were based on an aberrant value so it was contractually entitled to reverse the trades.
 
 161    B2C2 disputes these contentions. It asserts:
 
-(a)     that the Risk Disclosure Statement was not within the scope of clause (h); more specifically that since the Risk Disclosure Statement and the Agreement were accessible via different links on the website, the two could not be read together and there was no other indication on the website that the Risk Disclosure Statement did contain additional terms of the Agreement;
+> (a)     that the Risk Disclosure Statement was not within the scope of clause (h); more specifically that since the Risk Disclosure Statement and the Agreement were accessible via different links on the website, the two could not be read together and there was no other indication on the website that the Risk Disclosure Statement did contain additional terms of the Agreement;
 
-(b)     that the Risk Disclosure Statement was a mere summary of risks and was not a document which a reasonable reader would expect to contain contractual terms; more specifically that the aberrant value clause was too vague and imprecise to constitute a contractual term and was inconsistent with the express irreversibility term;
+> (b)     that the Risk Disclosure Statement was a mere summary of risks and was not a document which a reasonable reader would expect to contain contractual terms; more specifically that the aberrant value clause was too vague and imprecise to constitute a contractual term and was inconsistent with the express irreversibility term;
 
-(c)     that clause (h) was contrary to section 3(2)(_b_)(i) of the Unfair Contract Terms Act (Cap 396, 1994 Rev Ed) (“UCTA”); and
+> (c)     that clause (h) was contrary to section 3(2)(_b_)(i) of the Unfair Contract Terms Act (Cap 396, 1994 Rev Ed) (“UCTA”); and
 
-(d)     that under common law where a condition is particularly onerous and unusual, the party seeking to enforce it must show that the condition was brought to the notice of the other party, relying on _Interfoto Picture Library Ltd v Stiletto Visual Programmes Ltd_ .
+> (d)     that under common law where a condition is particularly onerous and unusual, the party seeking to enforce it must show that the condition was brought to the notice of the other party, relying on _Interfoto Picture Library Ltd v Stiletto Visual Programmes Ltd_ <span class="citation"> \[1988\] 2 WLR 615</span>.
 
 162    The following preliminary matters therefore need to be considered.
 
-(a)     First, what is the effect in law of a unilateral variation clause such as clause (h)?
+> (a)     First, what is the effect in law of a unilateral variation clause such as clause (h)?
 
-(b)     Second, when can an alleged term be incorporated into an existing contract in circumstances where that term is contained in a separate document and itself has no independent contractual effect?
+> (b)     Second, when can an alleged term be incorporated into an existing contract in circumstances where that term is contained in a separate document and itself has no independent contractual effect?
 
-163    As to the first, unilateral variation clauses are not unlawful _per se_, in the sense that a party can reserve to itself the right to amend a contract without first obtaining the consent of the other party, but it is an unusual power and thus there must be clear language to reserve this sort of power: see _Wandsworth London Borough Council v D’Silva_ \[1998\] IRLR 193 and _OCBC Capital Investment Asia Ltd v Wong Hua Choon_ . I accept therefore that clause (h) is a lawful clause, the meaning and scope of which is a matter of contractual interpretation. Whilst it is not necessary for the consent of the other party to be obtained to any such modification, it must be a requirement that the other party has the means of knowing that there has been a modification and what that modification is. Again the way in which this is to be done will be a matter of interpretation of the clause in question.
+163    As to the first, unilateral variation clauses are not unlawful _per se_, in the sense that a party can reserve to itself the right to amend a contract without first obtaining the consent of the other party, but it is an unusual power and thus there must be clear language to reserve this sort of power: see _Wandsworth London Borough Council v D’Silva_ <span class="citation">\[1998\] IRLR 193</span> and _OCBC Capital Investment Asia Ltd v Wong Hua Choon_ <span class="citation">\[2012\] 2 SLR 311</span>. I accept therefore that clause (h) is a lawful clause, the meaning and scope of which is a matter of contractual interpretation. Whilst it is not necessary for the consent of the other party to be obtained to any such modification, it must be a requirement that the other party has the means of knowing that there has been a modification and what that modification is. Again the way in which this is to be done will be a matter of interpretation of the clause in question.
 
 164    As to the second, it was contended that it was not legally necessary for a document, parts of which contained terms which were said to be incorporated into a contract, itself to have contractual force so long as the particular terms sought to be incorporated were capable of having contractual effect. Reliance was placed on passages in Sir Kim Lewison’s _The Interpretation of Contracts_ (Sweet & Maxwell, 6th Ed, 2015) (“_Lewison_”) at pp 127–128:
 
-(_c_)     _Incorporation of other documentary material_
+> (_c_)     _Incorporation of other documentary material_
 
-It is not necessary for the incorporated document itself to have any contractual force or indeed any legal effect; it may be merely a printed form. The terms of the incorporated document must, however, be capable of having contractual force. In _Keeley v Fosroc International Ltd_, Auld L.J. said:
+> It is not necessary for the incorporated document itself to have any contractual force or indeed any legal effect; it may be merely a printed form. The terms of the incorporated document must, however, be capable of having contractual force. In _Keeley v Fosroc International Ltd_, Auld L.J. said:
 
-“On the question of construction… where a contract of employment expressly incorporates an instrument such as a collective agreement or staff handbook, it does not necessarily follow that all the provisions in that instrument or document are apt to be terms of the contract. For example, some provisions, read in their context, may be declarations of an aspiration or policy falling short of a contractual undertaking; see e.g. _Alexander and others v Standard Telephones and Cables Ltd. (No.2)_ \[1991\] I.R.L.R. 286, per Hobhouse J, as he then was, at paragraph 31; and _Kaur v MG Rover Group Ltd_ \[2005\] I.R.L.R. 40, CA, per Keene L.J., with whom Brooke and Jonathan Parker L.J.J. agreed, at paragraphs 9, 31 and 32. It is necessary to consider in their respective contexts the incorporating words and the provision in question incorporated by them.”
+>> “On the question of construction… where a contract of employment expressly incorporates an instrument such as a collective agreement or staff handbook, it does not necessarily follow that all the provisions in that instrument or document are apt to be terms of the contract. For example, some provisions, read in their context, may be declarations of an aspiration or policy falling short of a contractual undertaking; see e.g. _Alexander and others v Standard Telephones and Cables Ltd. (No.2)_ <span class="citation">\[1991\] I.R.L.R. 286</span>, per Hobhouse J, as he then was, at paragraph 31; and _Kaur v MG Rover Group Ltd_ <span class="citation">\[2005\] I.R.L.R. 40</span>, CA, per Keene L.J., with whom Brooke and Jonathan Parker L.J.J. agreed, at paragraphs 9, 31 and 32. It is necessary to consider in their respective contexts the incorporating words and the provision in question incorporated by them.”
 
-Likewise, in _Martland v Co-operative Insurance Society Ltd_, Elias P. said:
+> Likewise, in _Martland v Co-operative Insurance Society Ltd_, Elias P. said:
 
-“Not all terms typically found in a collective agreement will be incorporated. That is so, even where the contract of employment ostensibly incorporates all relevant terms from the collective agreement. In order to be apt for incorporation the terms must, by their nature and character, be suitable to take effect as contractual terms. Some collective terms will not do so because, for example, they are too vague or aspirational, or because their purpose is solely to regulate the relationship between the collective parties.”
+>> “Not all terms typically found in a collective agreement will be incorporated. That is so, even where the contract of employment ostensibly incorporates all relevant terms from the collective agreement. In order to be apt for incorporation the terms must, by their nature and character, be suitable to take effect as contractual terms. Some collective terms will not do so because, for example, they are too vague or aspirational, or because their purpose is solely to regulate the relationship between the collective parties.”
 
-In _Harlow v Artermis International Corp Ltd_, an employee’s letter of engagement stated that: “All other terms and conditions are as detailed in the Staff Handbook as issued to you, and subject to its most recent update”. It was held that certain paragraphs of the employer’s redundancy policy described in the Staff Handbook had been incorporated into the contract.
+> In _Harlow v Artermis International Corp Ltd_, an employee’s letter of engagement stated that: “All other terms and conditions are as detailed in the Staff Handbook as issued to you, and subject to its most recent update”. It was held that certain paragraphs of the employer’s redundancy policy described in the Staff Handbook had been incorporated into the contract.
 
-In _Hyundai Merchant Marine Co Ltd v Americas Bulk Transport Ltd (The Pacific Champ)_, the effect of the parties’ dealings was to incorporate a pro forma charterparty which had no independent contractual effect, although it was held on the facts that no contract came into existence.
+> In _Hyundai Merchant Marine Co Ltd v Americas Bulk Transport Ltd (The Pacific Champ)_, the effect of the parties’ dealings was to incorporate a pro forma charterparty which had no independent contractual effect, although it was held on the facts that no contract came into existence.
 
 165    I therefore accept that it is legally permissible for a term of a contract to be contained in another document which is not itself a document having contractual effect, but it must be clear that the term in question is intended to have contractual effect and the term itself must have sufficient clarity to be contractually enforceable. Again this will be a matter of interpretation.
 
@@ -652,21 +649,21 @@ In _Hyundai Merchant Marine Co Ltd v Americas Bulk Transport Ltd (The Pacific Ch
 
 167    I do not consider that it would be legally impermissible for such a term to be incorporated from a document which had not been previously accepted by the parties for one reason or another as containing additional clauses, even if those clauses were such as to introduce a fundamental change in the contractual relationship. In my judgment, clauses could be incorporated from such a document in an appropriate case but it is likely to be an exceptional case where a document which had not previously been specifically identified by the parties as likely to contain any terms would be effective to introduce a term modifying an existing term. It will be a question of fact in each case whether the document in question could properly be said to be one which the parties intended and understood to be capable of effecting such a change.
 
-168    With that background I can turn to consider the interpretation of clause (h). It must be read as a whole in the context of the Agreement and in the light of the surrounding circumstances when the Agreement was made: _Zurich Insurance (Singapore) Pte Ltd v B-Gold Interior Design & Construction Pte Ltd_ ; _Y.E.S. F&B Group Pte Ltd v Soup Restaurant Singapore Pte Ltd_ . The first sentence reads:
+168    With that background I can turn to consider the interpretation of clause (h). It must be read as a whole in the context of the Agreement and in the light of the surrounding circumstances when the Agreement was made: _Zurich Insurance (Singapore) Pte Ltd v B-Gold Interior Design & Construction Pte Ltd_ <span class="citation">\[2008\] 3 SLR(R) 1029</span>; _Y.E.S. F&B Group Pte Ltd v Soup Restaurant Singapore Pte Ltd_ <span class="citation">\[2015\] 5 SLR 1187</span>. The first sentence reads:
 
-“You agree that the Company reserves the right to change any of the terms, rights, obligations, privileges… with or without providing notice of such change”
+> “You agree that the Company reserves the right to change any of the terms, rights, obligations, privileges… with or without providing notice of such change”
 
 This sentence is clear on its face. It gives the Company the right to alter the Agreement without the consent of the Members and it is not required to give express notice to them.
 
 169    The fact that it is express notice that is being excluded is apparent from the subsequent sentences. The second sentence reads:
 
-“You are responsible for reviewing the information and terms of usage as may be posted from time to time”.
+> “You are responsible for reviewing the information and terms of usage as may be posted from time to time”.
 
 which makes it clear from this that any changes can be communicated indirectly by being posted on the website.
 
 170    This is confirmed by the third sentence:
 
-“Continued use of the services or non-termination of your membership after changes are posted or emailed constitutes your acceptance or deemed acceptance of the terms as modified.”
+> “Continued use of the services or non-termination of your membership after changes are posted or emailed constitutes your acceptance or deemed acceptance of the terms as modified.”
 
 which serves to highlight that notice of change may be communicated directly to each Member by e-mail or indirectly by posting it on the website. The Member is then given the opportunity to terminate its membership in consequence.
 
@@ -676,11 +673,11 @@ which serves to highlight that notice of change may be communicated directly to 
 
 173    Quoine did not do this but instead merely uploaded the Risk Disclosure Statement onto the website. It did not otherwise draw attention to the fact that this document was intended to contain modifications to the Agreement. The following questions therefore arise on the first two contentions of B2C2 set out in \[162\] above.
 
-(a)     Could uploading the Risk Disclosure Statement onto the website on 22 March 2017 have served to amend the Agreement pursuant to Clause (h)?
+> (a)     Could uploading the Risk Disclosure Statement onto the website on 22 March 2017 have served to amend the Agreement pursuant to Clause (h)?
 
-(b)     If it did, is the aberrant value clause sufficiently clear to be enforceable?
+> (b)     If it did, is the aberrant value clause sufficiently clear to be enforceable?
 
-(c)     Finally, do the provisions of clause (b) affect matters?
+> (c)     Finally, do the provisions of clause (b) affect matters?
 
 #### (a)   Could the uploading the Risk Disclosure Statement onto the website on 22 March 2017 have served to amend the Agreement pursuant to Clause (h)?
 
@@ -714,7 +711,7 @@ which serves to highlight that notice of change may be communicated directly to 
 
 #### The Law on Unilateral Mistake
 
-184    The law in relation to unilateral mistake has been developed over the years in common law jurisdictions and was comprehensively considered in Singapore by the Court of Appeal in _Chwee Kin Keong and others v Digilandmall.com Pte Ltd_ (“_Chwee_”).
+184    The law in relation to unilateral mistake has been developed over the years in common law jurisdictions and was comprehensively considered in Singapore by the Court of Appeal in _Chwee Kin Keong and others v Digilandmall.com Pte Ltd_ <span class="citation">\[2005\] 1 SLR(R) 502</span>(“_Chwee_”).
 
 185    In _Chwee_, the defendant sold products over the internet using two different websites. A particular Hewlett Packard laser printer was advertised for sale on both websites at a price of $3,854. One afternoon, an employee of the defendant mistakenly altered the price of the printers to $66. The error was not identified until the following morning when a potential customer checked with the defendant whether the price was correct. The error was then corrected.
 
@@ -722,83 +719,83 @@ which serves to highlight that notice of change may be communicated directly to 
 
 187    The judgment of the Court of Appeal was delivered by Chao Hick Tin JA. The following passages should be noted:
 
-**Unilateral mistake in common law**
+> **Unilateral mistake in common law**
 
-30    We will first consider the statements of law advanced by the judge below. It is trite law that, as a general rule, a party to a contract is bound even though he may have made a mistake in entering into the contract. The law looks at the objective facts to determine whether a contract has come into being. The real motive or intention of the parties is irrelevant: see Treitel, _The Law of Contract_ (Sweet & Maxwell, 11th Ed, 2003) at 1. The _raison d’etre_ behind this rule is the promotion of commercial certainty.
+> 30    We will first consider the statements of law advanced by the judge below. It is trite law that, as a general rule, a party to a contract is bound even though he may have made a mistake in entering into the contract. The law looks at the objective facts to determine whether a contract has come into being. The real motive or intention of the parties is irrelevant: see Treitel, _The Law of Contract_ (Sweet & Maxwell, 11th Ed, 2003) at 1. The _raison d’etre_ behind this rule is the promotion of commercial certainty.
 
-31    However, there is an exception to this rule when the offeree knows that the offeror does not intend the terms of the offer to be the natural meaning of the words: see _Shogun Finance Ltd v Hudson_ (“_Shogun Finance_”) at \[123\] and _Hartog v Colin & Shields_ \[1939\] 3 All ER 566 (“_Hartog_”). The reason behind this exception is self-evident, as a party who is aware of the error made by the other party cannot claim that there is _consensus ad idem._ The law should not go to the aid of a party who knows that the objective appearance does not correspond with reality. It would go against the grain of justice if the law were to deem the mistaken party bound by such a contract.
+> 31    However, there is an exception to this rule when the offeree knows that the offeror does not intend the terms of the offer to be the natural meaning of the words: see _Shogun Finance Ltd v Hudson_ (“_Shogun Finance_”) at \[123\] and _Hartog v Colin & Shields_ \[1939\] 3 All ER 566 (“_Hartog_”). The reason behind this exception is self-evident, as a party who is aware of the error made by the other party cannot claim that there is _consensus ad idem._ The law should not go to the aid of a party who knows that the objective appearance does not correspond with reality. It would go against the grain of justice if the law were to deem the mistaken party bound by such a contract.
 
-…
+> …
 
-33    Indeed, in law, there are three categories of mistake, namely, common, mutual and unilateral mistakes. In a common mistake, both parties make the same mistake. In a mutual mistake, both parties misunderstand each other and are at cross-purposes. In a unilateral mistake, only one of the parties makes a mistake and the other party knows of his mistake. For the purpose of the present proceedings, we are only concerned with the effect of a unilateral mistake.
+> 33    Indeed, in law, there are three categories of mistake, namely, common, mutual and unilateral mistakes. In a common mistake, both parties make the same mistake. In a mutual mistake, both parties misunderstand each other and are at cross-purposes. In a unilateral mistake, only one of the parties makes a mistake and the other party knows of his mistake. For the purpose of the present proceedings, we are only concerned with the effect of a unilateral mistake.
 
-34    However, it does not follow that every mistake would vitiate a contract. It has to be a sufficiently important or fundamental mistake as to a term for that to happen. There is no doubt that the error in the present case as to the price is a fundamental one. Accordingly, it is wholly unnecessary for us to deal with the question as to what nature of mistake would constitute a serious mistake sufficient to vitiate a contract. It is also unnecessary for us to address a related controversial question whether a mistake as to quality, or the substance of the thing contracted for, is of sufficient gravity to negate an agreement.
+> 34    However, it does not follow that every mistake would vitiate a contract. It has to be a sufficiently important or fundamental mistake as to a term for that to happen. There is no doubt that the error in the present case as to the price is a fundamental one. Accordingly, it is wholly unnecessary for us to deal with the question as to what nature of mistake would constitute a serious mistake sufficient to vitiate a contract. It is also unnecessary for us to address a related controversial question whether a mistake as to quality, or the substance of the thing contracted for, is of sufficient gravity to negate an agreement.
 
-…
+> …
 
-37    Accordingly, the law will declare void a contract which was purportedly entered into where the non-mistaken party was actually aware of the mistake made by the mistaken party. This proposition is not in dispute. But should this rule also apply to a case where the non-mistaken party did not have actual knowledge of the error but ought to have known about the other party’s mistake, _ie_, where there is constructive knowledge? The judge below thought that it should be the case.
+> 37    Accordingly, the law will declare void a contract which was purportedly entered into where the non-mistaken party was actually aware of the mistake made by the mistaken party. This proposition is not in dispute. But should this rule also apply to a case where the non-mistaken party did not have actual knowledge of the error but ought to have known about the other party’s mistake, _ie_, where there is constructive knowledge? The judge below thought that it should be the case.
 
-38    Rajah JC found, at \[140\] and \[142\], that the appellants had actual knowledge that the price stated on the websites was a mistake. However, he also found, in the alternative, that the appellants had constructive knowledge (at \[144\]–\[145\]):
+> 38    Rajah JC found, at \[140\] and \[142\], that the appellants had actual knowledge that the price stated on the websites was a mistake. However, he also found, in the alternative, that the appellants had constructive knowledge (at \[144\]–\[145\]):
 
-I find, in the alternative, that the \[appellants\], given each of their backgrounds, would in any event, each have separately realised and appreciated, before placing their purchase orders, that a manifest mistake had occurred – even if no communications on the error had taken place between them. Further, the character of the mistake was such that any reasonable person similarly circumstanced as each of the \[appellants\] would have had every reason to believe that a manifest error had occurred. ...
+>> I find, in the alternative, that the \[appellants\], given each of their backgrounds, would in any event, each have separately realised and appreciated, before placing their purchase orders, that a manifest mistake had occurred – even if no communications on the error had taken place between them. Further, the character of the mistake was such that any reasonable person similarly circumstanced as each of the \[appellants\] would have had every reason to believe that a manifest error had occurred. ...
 
-If the price of a product is so absurdly low in relation to its known market value, it stands to reason that a reasonable man would harbour a real suspicion that the price may not be correct or that there may be some troubling underlying basis for such a pricing. ...
+>> If the price of a product is so absurdly low in relation to its known market value, it stands to reason that a reasonable man would harbour a real suspicion that the price may not be correct or that there may be some troubling underlying basis for such a pricing. ...
 
-…
+> …
 
-40    It is clear that the state of a person’s mind is a question of fact. It has to be proved like any other fact. In _Vallance v The Queen_ (1961) 108 CLR 56, Windeyer J put the point very eloquently at 83:
+> 40    It is clear that the state of a person’s mind is a question of fact. It has to be proved like any other fact. In _Vallance v The Queen_ (1961) 108 CLR 56, Windeyer J put the point very eloquently at 83:
 
-A man’s own intention is for him a subjective state, just as are his sensations of pleasure or of pain. But the state of another man’s mind, or of his digestion, is an objective fact. When it has to be proved, it is to be proved in the same way as other objective facts are proved.
+>> A man’s own intention is for him a subjective state, just as are his sensations of pleasure or of pain. But the state of another man’s mind, or of his digestion, is an objective fact. When it has to be proved, it is to be proved in the same way as other objective facts are proved.
 
-41    As is so often alluded to in the cases, in the absence of an express admission or incontrovertible evidence, the fact of knowledge would invariably have to be inferred from all the surrounding circumstances, including the experiences and idiosyncrasies of the person and what a reasonable person would have known in a similar situation. If a court, upon weighing all the circumstances, thinks that the non-mistaken party is probably aware of the error made by the mistaken party, it is entitled to find, as a fact, that the former party has actual knowledge of the error. Following from that holding, the court should declare the contract so formed as void on the ground of unilateral mistake.
+> 41    As is so often alluded to in the cases, in the absence of an express admission or incontrovertible evidence, the fact of knowledge would invariably have to be inferred from all the surrounding circumstances, including the experiences and idiosyncrasies of the person and what a reasonable person would have known in a similar situation. If a court, upon weighing all the circumstances, thinks that the non-mistaken party is probably aware of the error made by the mistaken party, it is entitled to find, as a fact, that the former party has actual knowledge of the error. Following from that holding, the court should declare the contract so formed as void on the ground of unilateral mistake.
 
-42    In order to enable the court to come to the conclusion that the non-mistaken party had actual knowledge of the mistake, the court would go through a process of reasoning where it may consider what a reasonable person, placed in the similar situation, would have known. In this connection, we would refer to what is called “Nelsonian knowledge”, namely, wilful blindness or shutting one’s eyes to the obvious. Clearly, if the court finds that the non-mistaken party is guilty of wilful blindness, it will be in line with logic and reason to hold that that party had actual knowledge.
+> 42    In order to enable the court to come to the conclusion that the non-mistaken party had actual knowledge of the mistake, the court would go through a process of reasoning where it may consider what a reasonable person, placed in the similar situation, would have known. In this connection, we would refer to what is called “Nelsonian knowledge”, namely, wilful blindness or shutting one’s eyes to the obvious. Clearly, if the court finds that the non-mistaken party is guilty of wilful blindness, it will be in line with logic and reason to hold that that party had actual knowledge.
 
-43    This then gives rise to the question as to the circumstances under which a party should make inquiry. When should such a party make inquiries failing which he would be considered to be shutting his eyes to the obvious? We do not think this question is amenable to a clear definitive answer. Situations in which such a question could arise are infinite. But we could accept what Mance J said in _OT Africa Line Ltd v Vickers Plc_ \[1996\] 1 Lloyd’s Rep 700 (“_OT Africa_”) at 703 that there must be a “real reason to suppose the existence of a mistake”. What would constitute “real reason” must again depend on the circumstances of each case. Academicians may well query whether this should be based on an “objective” or “subjective” test. At the end of the day, the court must approach it sensibly. The court must be satisfied that the non-mistaken party is, in fact, privy to a “real reason” that warrants the making of an inquiry.
+> 43    This then gives rise to the question as to the circumstances under which a party should make inquiry. When should such a party make inquiries failing which he would be considered to be shutting his eyes to the obvious? We do not think this question is amenable to a clear definitive answer. Situations in which such a question could arise are infinite. But we could accept what Mance J said in _OT Africa Line Ltd v Vickers Plc_ \[1996\] 1 Lloyd’s Rep 700 (“_OT Africa_”) at 703 that there must be a “real reason to suppose the existence of a mistake”. What would constitute “real reason” must again depend on the circumstances of each case. Academicians may well query whether this should be based on an “objective” or “subjective” test. At the end of the day, the court must approach it sensibly. The court must be satisfied that the non-mistaken party is, in fact, privy to a “real reason” that warrants the making of an inquiry.
 
-44    Here, we would reiterate that expressions such as “taking advantage”, “good faith”, “snapping up”, used by the courts to describe the situations under consideration were often just the bases upon which the court, in each case, had come to its conclusions as to whether the non-mistaken party had actual knowledge of the error made by the mistaken party. While we recognise that the distinction between actual knowledge and constructive knowledge can be a fine one and can often be difficult to discern, it is nonetheless not something unfamiliar to the courts. The courts are accustomed to making such a distinction.
+> 44    Here, we would reiterate that expressions such as “taking advantage”, “good faith”, “snapping up”, used by the courts to describe the situations under consideration were often just the bases upon which the court, in each case, had come to its conclusions as to whether the non-mistaken party had actual knowledge of the error made by the mistaken party. While we recognise that the distinction between actual knowledge and constructive knowledge can be a fine one and can often be difficult to discern, it is nonetheless not something unfamiliar to the courts. The courts are accustomed to making such a distinction.
 
-…
+> …
 
-53    In our opinion, it is only where the court finds that there is actual knowledge that the case comes within the ambit of the common law doctrine of unilateral mistake. There is no _consensus ad idem_. The concept of constructive notice is basically an equitable concept: see _The English and Scottish Mercantile Investment Company, Limited v Brunton_ at 707 _per_ Lord Esher MR. In the absence of actual knowledge on the part of the non-mistaken party, a contract should not be declared void under the common law as there would then be no reason to displace the objective principle. To the extent that the judge below seems to have thought otherwise, _ie_, that where the non-mistaken party has constructive knowledge of the mistake the contract thus entered into would be void under common law, we would respectfully differ. (emphasis added)
+> 53    In our opinion, it is only where the court finds that there is actual knowledge that the case comes within the ambit of the common law doctrine of unilateral mistake. There is no _consensus ad idem_. The concept of constructive notice is basically an equitable concept: see _The English and Scottish Mercantile Investment Company, Limited v Brunton_ at 707 _per_ Lord Esher MR. In the absence of actual knowledge on the part of the non-mistaken party, a contract should not be declared void under the common law as there would then be no reason to displace the objective principle. To the extent that the judge below seems to have thought otherwise, _ie_, that where the non-mistaken party has constructive knowledge of the mistake the contract thus entered into would be void under common law, we would respectfully differ. (emphasis added)
 
 188    Accordingly, in order to succeed in rendering a contract void under the common law doctrine of unilateral mistake, the Defendant must show, first, that there was a sufficiently important or fundamental mistake as to a term of the contract, in the sense that the offeror did not intend the terms of the offer to be that which on its face was offered and, secondly, that the Plaintiff who is seeking to enforce that contract must have actual knowledge of the mistake. Actual knowledge is to be determined by the court as a question of fact and it is sufficient if the court concludes that the person in question was probably aware of the mistake or that he or she was shutting her mind to the obvious. The principle or purpose underlying the doctrine is set out in _Chwee_ at \[31\]:
 
-The law should not go to the aid of a party who knows that the objective appearance does not correspond with reality. It would go against the grain of justice if the law were to deem the mistaken party bound by such a contract.
+> The law should not go to the aid of a party who knows that the objective appearance does not correspond with reality. It would go against the grain of justice if the law were to deem the mistaken party bound by such a contract.
 
 189    The distinction between actual knowledge and constructive knowledge, which acts not to render the contract void at law but to make it voidable in equity is, as the Court of Appeal accepted, a narrow one. The distinction lies in the difference between actual knowledge, determined as set out above, and constructive knowledge in the sense that although the person in question did not have actual knowledge, he or she ought to have known about the other’s mistake.
 
 190    Chao Hick Tin JA considered the equitable jurisdiction in the following passages in _Chwee_:
 
-62    The equitable jurisdiction of the courts has developed over the years to ameliorate the rigours of the common law and to give relief where justice so requires. The main authority which the court below relied upon to reject the existence of an equitable jurisdiction in the courts to deal with unilateral mistake is _Great Peace Shipping_ where Lord Phillips of Worth Matravers MR, who delivered the judgment of the English Court of Appeal, found difficulties with Denning LJ’s broad formulation of the equitable jurisdiction in _Solle v Butcher_ because of his failure to distinguish between what was void in law and what was voidable in equity.
+> 62    The equitable jurisdiction of the courts has developed over the years to ameliorate the rigours of the common law and to give relief where justice so requires. The main authority which the court below relied upon to reject the existence of an equitable jurisdiction in the courts to deal with unilateral mistake is _Great Peace Shipping_ where Lord Phillips of Worth Matravers MR, who delivered the judgment of the English Court of Appeal, found difficulties with Denning LJ’s broad formulation of the equitable jurisdiction in _Solle v Butcher_ because of his failure to distinguish between what was void in law and what was voidable in equity.
 
-63    However, it seems to us that there is probably another reason why the court below had to come to that conclusion. By holding that the doctrine of unilateral mistake in common law encompasses even situations where the non-mistaken party does not have actual knowledge but only constructive knowledge of the mistake, there will hardly be any need or room for the intervention of equity. This is of great importance for, as we will come to later, even in equity, constructive knowledge _per se_ will not entitle the mistaken party to relief. Rajah JC’s concept of the common law doctrine of unilateral mistake would be wider than what we envisage the scope of the court’s equitable jurisdiction should be.
+> 63    However, it seems to us that there is probably another reason why the court below had to come to that conclusion. By holding that the doctrine of unilateral mistake in common law encompasses even situations where the non-mistaken party does not have actual knowledge but only constructive knowledge of the mistake, there will hardly be any need or room for the intervention of equity. This is of great importance for, as we will come to later, even in equity, constructive knowledge _per se_ will not entitle the mistaken party to relief. Rajah JC’s concept of the common law doctrine of unilateral mistake would be wider than what we envisage the scope of the court’s equitable jurisdiction should be.
 
-…
+> …
 
-70    … The case of _Riverlate Properties Ltd v Paul_ \[1975\] Ch 133 is instructive as it illustrated the circumstances under which the court should exercise its equitable jurisdiction. There, the plaintiff lessor, through its agent, had mistakenly omitted to insert a clause to place the defendant lessee under an obligation to bear a part of the cost of the exterior and structural repairs of the demised premises. The lessor sought rectification, or, alternatively, rescission in equity on the ground that the lessor had made a mistake which the lessee and/or her agent knew. The English Court of Appeal held that as the error was purely that of the lessor and/or its solicitors and the lessee and/or her solicitors had no knowledge of such error and were not guilty of anything approaching sharp practice, there were no grounds to intervene. Russell LJ said (at 141):
+> 70    … The case of _Riverlate Properties Ltd v Paul_ \[1975\] Ch 133 is instructive as it illustrated the circumstances under which the court should exercise its equitable jurisdiction. There, the plaintiff lessor, through its agent, had mistakenly omitted to insert a clause to place the defendant lessee under an obligation to bear a part of the cost of the exterior and structural repairs of the demised premises. The lessor sought rectification, or, alternatively, rescission in equity on the ground that the lessor had made a mistake which the lessee and/or her agent knew. The English Court of Appeal held that as the error was purely that of the lessor and/or its solicitors and the lessee and/or her solicitors had no knowledge of such error and were not guilty of anything approaching sharp practice, there were no grounds to intervene. Russell LJ said (at 141):
 
-If reference be made to principles of equity, it operates on conscience. If conscience is clear at the time of the transaction, why should equity disrupt the transaction? If a man may be said to have been fortunate in obtaining a property at a bargain price, or on terms that make it a good bargain, because the other party unknown to him has made a miscalculation or other mistake, some high-minded men might consider it appropriate that he should agree to a fresh bargain to cure the miscalculation or mistake, abandoning his good fortune. But if equity were to enforce the views of those high-minded men, we have no doubt that it would run counter to the attitudes of much the greater part of ordinary mankind (not least the world of commerce), and would be venturing upon the field of moral philosophy in which it would soon be in difficulties.
+>> If reference be made to principles of equity, it operates on conscience. If conscience is clear at the time of the transaction, why should equity disrupt the transaction? If a man may be said to have been fortunate in obtaining a property at a bargain price, or on terms that make it a good bargain, because the other party unknown to him has made a miscalculation or other mistake, some high-minded men might consider it appropriate that he should agree to a fresh bargain to cure the miscalculation or mistake, abandoning his good fortune. But if equity were to enforce the views of those high-minded men, we have no doubt that it would run counter to the attitudes of much the greater part of ordinary mankind (not least the world of commerce), and would be venturing upon the field of moral philosophy in which it would soon be in difficulties.
 
-…
+> …
 
-74    A simple way to distinguish _Great Peace Shipping_ from the present case would be to say that it was a case on common mistake and, to that extent, what was discussed therein could not be applicable to a case involving unilateral mistake. However, we would go further than that. We would be loath to hold that there is no equitable jurisdiction in the courts with regard to unilateral mistake just because it may be difficult to delineate the scope or extent of that jurisdiction. By its very nature, the manner in which equity should be applied must depend on the facts of each case and the dictates of justice. Equity has intervened in many aspects of human dealings in the contractual setting. For example, it has rescinded a contract induced by innocent misrepresentation: see _Redgrave v Hurd_ (1881) 20 Ch D 1. Often, a case on innocent misrepresentation does raise issues of mistake. Equity has also intervened where there is undue influence. As such, we see no logic in denying the existence of this jurisdiction in the area of unilateral mistake. Additionally, it should be noted that two subsequent English High Court decisions, _Huyton SA v Distribuidora Internacional de Productos Agricolas SA de CV_ \[2003\] 2 Lloyd’s Rep 780 and _Harrison v Halliwell Landau_ \[2004\] EWHC 1316, had accepted that the equitable remedy of rescission for unilateral mistake still survived _Great Peace Shipping_.
+> 74    A simple way to distinguish _Great Peace Shipping_ from the present case would be to say that it was a case on common mistake and, to that extent, what was discussed therein could not be applicable to a case involving unilateral mistake. However, we would go further than that. We would be loath to hold that there is no equitable jurisdiction in the courts with regard to unilateral mistake just because it may be difficult to delineate the scope or extent of that jurisdiction. By its very nature, the manner in which equity should be applied must depend on the facts of each case and the dictates of justice. Equity has intervened in many aspects of human dealings in the contractual setting. For example, it has rescinded a contract induced by innocent misrepresentation: see _Redgrave v Hurd_ (1881) 20 Ch D 1. Often, a case on innocent misrepresentation does raise issues of mistake. Equity has also intervened where there is undue influence. As such, we see no logic in denying the existence of this jurisdiction in the area of unilateral mistake. Additionally, it should be noted that two subsequent English High Court decisions, _Huyton SA v Distribuidora Internacional de Productos Agricolas SA de CV_ \[2003\] 2 Lloyd’s Rep 780 and _Harrison v Halliwell Landau_ \[2004\] EWHC 1316, had accepted that the equitable remedy of rescission for unilateral mistake still survived _Great Peace Shipping_.
 
-75    We appreciate that there are difficulties in delineating precisely the considerations which should apply for equity to intervene. One suggested way to differentiate the application of the common law rule and equity would be to hold that the former is limited to mistakes with regard to the subject matter of the contract (like that in _Bell v Lever Bros_), while the latter can have regard to a wider and perhaps open-ended category of “fundamental” mistake: see _William Sindall Plc v Cambridgeshire County Council_ _per_ Hoffmann LJ at 1042.
+> 75    We appreciate that there are difficulties in delineating precisely the considerations which should apply for equity to intervene. One suggested way to differentiate the application of the common law rule and equity would be to hold that the former is limited to mistakes with regard to the subject matter of the contract (like that in _Bell v Lever Bros_), while the latter can have regard to a wider and perhaps open-ended category of “fundamental” mistake: see _William Sindall Plc v Cambridgeshire County Council_ _per_ Hoffmann LJ at 1042.
 
-76    In view of the difficulties, one may be tempted to take a clear simplistic approach, namely, where there is actual knowledge, the contract would be void at common law. But where there is no actual knowledge, the contract ought to be performed. There would then be no room for equity to operate. But we believe that simplicity may not always lead to a just result, especially where innocent third parties are involved.
+> 76    In view of the difficulties, one may be tempted to take a clear simplistic approach, namely, where there is actual knowledge, the contract would be void at common law. But where there is no actual knowledge, the contract ought to be performed. There would then be no room for equity to operate. But we believe that simplicity may not always lead to a just result, especially where innocent third parties are involved.
 
-77    We do not think this court should approach the issue in a rigid and dogmatic fashion. Equity is dynamic. A great attribute, thus an advantage, of equity, is its flexibility to achieve the ends of justice. Constructive notice is a concept of equity and whether constructive notice should lead the court to intervene must necessarily depend on the presence of other factors which could invoke the conscience of the court, such as “sharp practice” or “unconscionable conduct”. Negligence _per se_, on the other hand, should not be sufficient to invoke equity. Parties to a contract do not owe a duty of care to each other.
+> 77    We do not think this court should approach the issue in a rigid and dogmatic fashion. Equity is dynamic. A great attribute, thus an advantage, of equity, is its flexibility to achieve the ends of justice. Constructive notice is a concept of equity and whether constructive notice should lead the court to intervene must necessarily depend on the presence of other factors which could invoke the conscience of the court, such as “sharp practice” or “unconscionable conduct”. Negligence _per se_, on the other hand, should not be sufficient to invoke equity. Parties to a contract do not owe a duty of care to each other.
 
-78    However, “unconscionability” cannot be imputed based on what a reasonable person would have known. It must be based on matters the non-mistaken party knows: see _Can-Dive Services v Pacific Coast Energy Corp_ (2000) 74 BCLR (3d) 30 (“Can-Dive”) per Southin JA at \[142\]. One cannot act unconscionably if one does not know of facts which could render an act so. Thus, we do not think we can accept the views of Shaw J, the lower court judge in _Can-Dive_, that constructive knowledge alone would suffice to invoke equity’s conscience. However, as we have indicated earlier, Canadian jurisprudence has moved in that direction.
+> 78    However, “unconscionability” cannot be imputed based on what a reasonable person would have known. It must be based on matters the non-mistaken party knows: see _Can-Dive Services v Pacific Coast Energy Corp_ (2000) 74 BCLR (3d) 30 (“Can-Dive”) per Southin JA at \[142\]. One cannot act unconscionably if one does not know of facts which could render an act so. Thus, we do not think we can accept the views of Shaw J, the lower court judge in _Can-Dive_, that constructive knowledge alone would suffice to invoke equity’s conscience. However, as we have indicated earlier, Canadian jurisprudence has moved in that direction.
 
-79    The point is raised by the appellants as to the relevance of the negligence of the mistaken party. Clearly, more often than not, whenever a mistake has occurred, there would have been carelessness, though the degree may vary from case to case. This will be a factor which the court should take into account to determine where equity lies. All we would add is that carelessness on the part of the mistaken party does not, _ipso facto_, disentitle that party to relief.
+> 79    The point is raised by the appellants as to the relevance of the negligence of the mistaken party. Clearly, more often than not, whenever a mistake has occurred, there would have been carelessness, though the degree may vary from case to case. This will be a factor which the court should take into account to determine where equity lies. All we would add is that carelessness on the part of the mistaken party does not, _ipso facto_, disentitle that party to relief.
 
-80    To the extent that the court below thought that there is no equitable jurisdiction in the courts to deal with the situation where one party is mistaken as to an important or fundamental term, we would respectfully disagree. Where the case falls within the common law doctrine of unilateral mistake, there is, in effect, no contract. There will be no room for equity to intervene. But where it does not and the court finds that there is constructive knowledge on the part of the non-mistaken party, the court would, in the exercise of its equitable jurisdiction, be entitled to intervene and grant relief when it is unconscionable for the non-mistaken party to insist that the contract be performed. Accordingly, we accept the _amicus curiae_’s submission that constructive knowledge alone should not suffice to invoke equity. There must be an additional element of impropriety. The conduct of deliberately not bringing the suspicion of a possible mistake to the attention of the mistaken party could constitute such impropriety.
+> 80    To the extent that the court below thought that there is no equitable jurisdiction in the courts to deal with the situation where one party is mistaken as to an important or fundamental term, we would respectfully disagree. Where the case falls within the common law doctrine of unilateral mistake, there is, in effect, no contract. There will be no room for equity to intervene. But where it does not and the court finds that there is constructive knowledge on the part of the non-mistaken party, the court would, in the exercise of its equitable jurisdiction, be entitled to intervene and grant relief when it is unconscionable for the non-mistaken party to insist that the contract be performed. Accordingly, we accept the _amicus curiae_’s submission that constructive knowledge alone should not suffice to invoke equity. There must be an additional element of impropriety. The conduct of deliberately not bringing the suspicion of a possible mistake to the attention of the mistaken party could constitute such impropriety.
 
-…
+> …
 
-83    In contrast, once the court should hold that a contract comes within the common law principle of unilateral mistake, it is void _ab initio_ for all purposes. Moreover, as pointed out earlier, the line between actual knowledge and constructive knowledge may often be hard to draw. In a difficult case where the court is not convinced that the non-mistaken party has actual knowledge but is well satisfied that there is constructive knowledge and where there is evidence of unconscionable conduct or sharp practice on the part of the non-mistaken party, relief in equity may be granted on terms to ensure that justice is attained with regard to all affected parties.
+> 83    In contrast, once the court should hold that a contract comes within the common law principle of unilateral mistake, it is void _ab initio_ for all purposes. Moreover, as pointed out earlier, the line between actual knowledge and constructive knowledge may often be hard to draw. In a difficult case where the court is not convinced that the non-mistaken party has actual knowledge but is well satisfied that there is constructive knowledge and where there is evidence of unconscionable conduct or sharp practice on the part of the non-mistaken party, relief in equity may be granted on terms to ensure that justice is attained with regard to all affected parties.
 
 191    There thus must not only be constructive knowledge but, in addition, there must be an element of impropriety. Further, carelessness on the part of the mistaken party does not of itself disentitle it to relief but is a factor to be taken into account. Regard may be had to any loss or damage to innocent third parties in weighing the equitable balance.
 
@@ -808,9 +805,9 @@ If reference be made to principles of equity, it operates on conscience. If cons
 
 194    On the facts in _Chwee_, it was a plain case. Here, computers are involved in a different way. There was no human intervention at the time the seven trades were effected. On the facts, no human was aware of the trades until after they had been happened.
 
-195    The doctrine of unilateral mistake is well developed in circumstances where the error is a human error and the nature of the error and the knowledge or lack of it is directly ascertainable from the humans involved. Where computers are concerned, the law is less well developed. In his judgment at first instance in _Chwee Kin Keong and others v Digilandmall.com Pte Ltd_ , V K Rajah JC made the following observation at \[102\]:
+195    The doctrine of unilateral mistake is well developed in circumstances where the error is a human error and the nature of the error and the knowledge or lack of it is directly ascertainable from the humans involved. Where computers are concerned, the law is less well developed. In his judgment at first instance in _Chwee Kin Keong and others v Digilandmall.com Pte Ltd_ <span class="citation">\[2004\] 2 SLR(R) 594</span>, V K Rajah JC made the following observation at \[102\]:
 
-Inevitably mistakes will occur in the course of electronic transmissions. This can result from human interphasing, machine error or a combination of such factors. Examples of such mistakes would include (a) human error (b) programming of software errors and (c) transmission problems in the communication systems. Computer glitches can cause transmission failures, garbled information or even change the nature of the information transmitted. This case is a paradigm example of an error on the human side. Such errors can be magnified almost instantaneously and may be harder to detect than if made in a face to face transaction or through physical document exchanges. Who bears the risk of such mistakes? It is axiomatic that normal contractual principles apply but the contractual permutations will obviously be sometimes more complex and spread over a greater magnitude of transactions. The financial consequences could be considerable. The court has to be astute and adopt a pragmatic and judicious stance in resolving such issues. (emphasis added)
+> Inevitably mistakes will occur in the course of electronic transmissions. This can result from human interphasing, machine error or a combination of such factors. Examples of such mistakes would include (a) human error (b) programming of software errors and (c) transmission problems in the communication systems. Computer glitches can cause transmission failures, garbled information or even change the nature of the information transmitted. This case is a paradigm example of an error on the human side. Such errors can be magnified almost instantaneously and may be harder to detect than if made in a face to face transaction or through physical document exchanges. Who bears the risk of such mistakes? It is axiomatic that normal contractual principles apply but the contractual permutations will obviously be sometimes more complex and spread over a greater magnitude of transactions. The financial consequences could be considerable. The court has to be astute and adopt a pragmatic and judicious stance in resolving such issues. (emphasis added)
 
 196    Quoine relied on this passage in support of a submission that in a case such as the present, where algorithmic trading is involved, the court should adopt a pragmatic and judicious stance such that, although there may be a need for certainty that an executed trade will stand, there is a greater need to protect the market from the potentially harmful consequences of a clearly erroneous trade. Quoine went on to submit that, in consequence the court “should intervene where the trade is clearly erroneous and it would be unjust to allow the trade to stand having regard to the circumstances in which it was executed”.[^45]
 
@@ -836,7 +833,7 @@ Inevitably mistakes will occur in the course of electronic transmissions. This c
 
 207    As Lord Briggs observed in a recent UK Supreme Court decision, _Warner-Lambert Co Ltd v Generics (UK) Ltd_ \[2018\] UKSC 56, at \[165\]:
 
-Even if the manufacturer is a corporation using a factory entirely staffed by robots, if the manufacturing process is only protected by the patent if it is carried out for a particular purpose, the requirement to identify a mental element on the part of the manufacturer is simply inescapable. The court is well versed in identifying the governing mind of a corporation and, when the need arises, will no doubt be able to do the same for robots. \[emphasis added\]
+> Even if the manufacturer is a corporation using a factory entirely staffed by robots, if the manufacturing process is only protected by the patent if it is carried out for a particular purpose, the requirement to identify a mental element on the part of the manufacturer is simply inescapable. The court is well versed in identifying the governing mind of a corporation and, when the need arises, will no doubt be able to do the same for robots. \[emphasis added\]
 
 208    So also with computers used for trading purposes. Where the law is in a formative state it is, I think, appropriate for a court (of first instance at any rate) to develop the law only so far as necessitated by the facts of the case before it. With this in mind I do not intend to express any views on the precise legal relationship between computers and those who control or program them. The algorithmic programmes in the present case are deterministic, they do and only do what they have been programmed to do. They have no mind of their own. They operate when called upon to do so in the pre-ordained manner. They do not know why they are doing something or what the external events are that cause them to operate in the way that they do.
 
@@ -850,39 +847,39 @@ Even if the manufacturer is a corporation using a factory entirely staffed by ro
 
 212    Stepping back, it is clear that if a number of errors or omissions had not occurred, Quoine would have, or would very likely have, avoided any liability.
 
-(a)     Quoine could have included a specific clause in the Agreement entitling them to reverse abnormal trades. Other platform operators had done so. Quoine was considering this and did so in September 2017.
+> (a)     Quoine could have included a specific clause in the Agreement entitling them to reverse abnormal trades. Other platform operators had done so. Quoine was considering this and did so in September 2017.
 
-(b)     The failure properly to update the login credentials in Quoine’s Quoter Program.
+> (b)     The failure properly to update the login credentials in Quoine’s Quoter Program.
 
-(c)     The failure to incorporate an exception message in the Quoter Program to alert Quoine to the fact that it was not working.
+> (c)     The failure to incorporate an exception message in the Quoter Program to alert Quoine to the fact that it was not working.
 
-(d)     The failure to incorporate a circuit breaker in the Platform’s software to prevent trades when the order book was empty.
+> (d)     The failure to incorporate a circuit breaker in the Platform’s software to prevent trades when the order book was empty.
 
-(e)     The failure to incorporate a circuit breaker to prevent orders at an abnormal price from being placed on the order book.
+> (e)     The failure to incorporate a circuit breaker to prevent orders at an abnormal price from being placed on the order book.
 
-(f)     The failure to ensure that, in the case of a force-closure, the forced sales were only within a given price range.
+> (f)     The failure to ensure that, in the case of a force-closure, the forced sales were only within a given price range.
 
-(g)     The failure to ensure that, in the case of a force-closure, only assets which were actually held by a counterparty in its account at the time were the subject of a market order.
+> (g)     The failure to ensure that, in the case of a force-closure, only assets which were actually held by a counterparty in its account at the time were the subject of a market order.
 
 213    Mr Lozada very fairly conceded that many of these steps could have been taken and were not.[^46] It is with this background that I turn to consider what are said to be the mistakes which it is alleged that Mr Boonen had either actual or constructive knowledge of when he wrote the relevant part of the program. The substantive plea is in paragraph 16 of the Defence:
 
-In the circumstances, the Counterparties were not bound by the Trades and/or the Defendant had the right and/or was entitled to reverse and/or cancel the Trades and/or deduct the proceeds received by the Plaintiff from the Trades from the Account on the basis that (a) the Trades and/or Contracts were entered into by a unilateral mistake on the part of the Counterparties and (b) consequently, the Contracts were void _ab initio_ for unilateral mistake at common law or voidable for unilateral mistake in equity.
+> In the circumstances, the Counterparties were not bound by the Trades and/or the Defendant had the right and/or was entitled to reverse and/or cancel the Trades and/or deduct the proceeds received by the Plaintiff from the Trades from the Account on the basis that (a) the Trades and/or Contracts were entered into by a unilateral mistake on the part of the Counterparties and (b) consequently, the Contracts were void _ab initio_ for unilateral mistake at common law or voidable for unilateral mistake in equity.
 
 214    Particulars are then given. Particulars (b) and (c) read as follows:
 
-(b)    The Counterparties did not intend to enter into the Trades and the Contracts and/or to transact at the prices of 9.99999 or 10 BTC for 1 ETH.
+> (b)    The Counterparties did not intend to enter into the Trades and the Contracts and/or to transact at the prices of 9.99999 or 10 BTC for 1 ETH.
 
-(c)    Further and/or in the alternative, the Defendant avers that at the time that the Trades were executed, the Counterparties held and/or were operating under the mistaken belief and/or assumption and/or understanding that (i) the Plaintiff and the Counterparties were contracting to buy or sell BTC or ETH at the actual market prices of ETH/BTC pursuant to the Trades and/or Contracts; and/or (ii) the price of 9.99999 or 10 BTC for 1 ETH accurately represented the actual market prices of ETH/BTC which were or ought to have been available on the Platform on 19 April 2017; and/or (iii) the Force Closure Orders were placed and the Trades were executed in circumstances where the Platform operated in the correct manner and/or as it was intended to function and under normal market conditions on the Platform.
+> (c)    Further and/or in the alternative, the Defendant avers that at the time that the Trades were executed, the Counterparties held and/or were operating under the mistaken belief and/or assumption and/or understanding that (i) the Plaintiff and the Counterparties were contracting to buy or sell BTC or ETH at the actual market prices of ETH/BTC pursuant to the Trades and/or Contracts; and/or (ii) the price of 9.99999 or 10 BTC for 1 ETH accurately represented the actual market prices of ETH/BTC which were or ought to have been available on the Platform on 19 April 2017; and/or (iii) the Force Closure Orders were placed and the Trades were executed in circumstances where the Platform operated in the correct manner and/or as it was intended to function and under normal market conditions on the Platform.
 
 215    These particulars were refined in paragraph 38 of the Defendant’s Closing Submissions:
 
-38.    In our submission, the Court is entitled to and ought to find that the Contracts were void for unilateral mistake in common law on the following grounds:
+> 38.    In our submission, the Court is entitled to and ought to find that the Contracts were void for unilateral mistake in common law on the following grounds:
 
-(a)    The Counterparties entered into the Contracts under the mistaken belief, understanding and/or assumption that it was necessary to close out their positions in response to the margin calls which the Platform made on them _i.e._, that it was necessary enter into the Contracts.
+>> (a)    The Counterparties entered into the Contracts under the mistaken belief, understanding and/or assumption that it was necessary to close out their positions in response to the margin calls which the Platform made on them _i.e._, that it was necessary enter into the Contracts.
 
-(b)    The Counterparties entered into the Contracts under the mistaken belief, understanding and/or assumption that they were buying ETH for BTC under the Contracts at prices which accurately represented or did not deviate significantly from the true market value and/or price of ETH relative to BTC on the Platform as of 19 April 2017.
+>> (b)    The Counterparties entered into the Contracts under the mistaken belief, understanding and/or assumption that they were buying ETH for BTC under the Contracts at prices which accurately represented or did not deviate significantly from the true market value and/or price of ETH relative to BTC on the Platform as of 19 April 2017.
 
-(c)    B2C2 had actual knowledge of the mistakes made by the Counterparties.
+>> (c)    B2C2 had actual knowledge of the mistakes made by the Counterparties.
 
 216    As to the first of these, Quoine submits that if the Quoter Program had not malfunctioned the Platform would not have detected the Counterparties to be in breach of their margin requirements and the force-closure orders would never have been placed. On this basis it is said that if B2C2 and the Counterparties had hypothetically met on the exchange floor for the purpose of reaching agreement, they would not have agreed to enter into contracts at the deep prices. As indicated above, I do not accept that this is the correct approach. The question that must be asked is whether the Counterparties mistakenly believed that the Platform computer was so programmed as to ensure that it was necessary to close out their positions in response to the margin calls.
 
@@ -890,25 +887,25 @@ In the circumstances, the Counterparties were not bound by the Trades and/or the
 
 218    The evidence in relation to this aspect of the case is sparse. There is nothing in the Risk Disclosure Statement which supports the asserted belief. Indeed, it points in the other direction as Risks 6 and 7 demonstrate:
 
-**6**.     **Risks Due to Leverage Effects, etc.**
+> **6**.     **Risks Due to Leverage Effects, etc.**
 
-<Characteristics of margin transactions>
+> &lt;Characteristics of margin transactions&gt;
 
-In virtual currency margin trading, the margin principal and profit are not guaranteed.
+> In virtual currency margin trading, the margin principal and profit are not guaranteed.
 
-Virtual currency margin trading involves significant risks due to leveraging. The more leverage you use, the more you can trade relative to the actual amount of money that you invest (including the amount of deposited margin), so you may reap bigger profits, but your losses may also similarly increase significantly if market prices are inconsistent with your expectations.
+> Virtual currency margin trading involves significant risks due to leveraging. The more leverage you use, the more you can trade relative to the actual amount of money that you invest (including the amount of deposited margin), so you may reap bigger profits, but your losses may also similarly increase significantly if market prices are inconsistent with your expectations.
 
-Therefore, the Company may execute a compulsory reversing trade of your entire position and settle the transaction using the Company’s prescribed methods to protect you from escalating losses in the case that the market moves in a direction that is unfavorable to your position, and you may suffer greater losses than the money you invested (including the amount of deposited margin).
+> Therefore, the Company may execute a compulsory reversing trade of your entire position and settle the transaction using the Company’s prescribed methods to protect you from escalating losses in the case that the market moves in a direction that is unfavorable to your position, and you may suffer greater losses than the money you invested (including the amount of deposited margin).
 
-**7**.     **Risks Due to Stop-Out**
+> **7**.     **Risks Due to Stop-Out**
 
-<Characteristics of margin trading>
+> &lt;Characteristics of margin trading&gt;
 
-The stop-out system allows the Company to cancel non-executed new orders and forcibly execute a reversing trade, and settle all, of a customer’s positions to protect the customer from escalating losses when the customer’s margin falls short of the Company’s prescribed ratio of the margin to required margin (the “stop-out,” which the Company may change at its discretion).
+> The stop-out system allows the Company to cancel non-executed new orders and forcibly execute a reversing trade, and settle all, of a customer’s positions to protect the customer from escalating losses when the customer’s margin falls short of the Company’s prescribed ratio of the margin to required margin (the “stop-out,” which the Company may change at its discretion).
 
-The amount of a loss will not be determined until the settlement is completed because the final settlement price in the case of a stop-out is determined by market prices.
+> The amount of a loss will not be determined until the settlement is completed because the final settlement price in the case of a stop-out is determined by market prices.
 
-If market circumstances shift dramatically or something else happens, the final settlement price may significantly differ from the one at the time the transaction was initiated, and it is possible that a customer’s loss may exceed the amount that the customer has deposited with the Company. Customers must promptly deposit any shortfall in funds with the Company.
+> If market circumstances shift dramatically or something else happens, the final settlement price may significantly differ from the one at the time the transaction was initiated, and it is possible that a customer’s loss may exceed the amount that the customer has deposited with the Company. Customers must promptly deposit any shortfall in funds with the Company.
 
 219    It is therefore necessary to have regard to Mr Tseung’s evidence to see whether, notwithstanding this, he held the asserted belief. Mr Tseung was one of the co-founders of Pulsar, the primary Counterparty. He gives evidence that when he identified that a margin call had been made on Pulsar he was both alarmed and surprised because he considered that because of the fact that Pulsar’s leveraged positions with Quoine were not substantial, there should have been no risk of Pulsar breaching Quoine’s margin requirements.[^47] He then discussed the incident with Mr Lozada and concluded that the depletion of the order book and/or the placement of B2C2’s orders had caused the Platform wrongly to evaluate Pulsar’s positions and detect that Pulsar had breached its margin requirements[^48]. Two points should be made. First the evidence shows that the margin call was not caused by B2C2’s orders and secondly, there is no evidence that the margin call was wrongly made in the circumstances that did exist due to the illiquidity in the order book.
 
@@ -924,35 +921,35 @@ If market circumstances shift dramatically or something else happens, the final 
 
 225    Again there is no support for this belief in the Agreement or in the Risk Disclosure Statement as the following passages demonstrate:
 
-\[From the Agreement\]
+> \[From the Agreement\]
 
-**Trading & Order Execution**
+> **Trading & Order Execution**
 
-Only registered users or Members are allowed to buy, sell and use the services provided by the Platform. The exchange functions of The Platform will fill in orders at the best possible available market price. Note that as markets move continuously, the prices displayed on user interfaces, on our web app or on mobile apps are in no way guaranteed. The Platform, however, has been designed to allow members to fill at best possible prices and in a timely manner. Nevertheless the Company will not be liable under any circumstances for the consequences of any delay in order filling or failure to deliver or perform. Furthermore, once an order is filled, you are notified via the Platform and such an action is irreversible.
+> Only registered users or Members are allowed to buy, sell and use the services provided by the Platform. The exchange functions of The Platform will fill in orders at the best possible available market price. Note that as markets move continuously, the prices displayed on user interfaces, on our web app or on mobile apps are in no way guaranteed. The Platform, however, has been designed to allow members to fill at best possible prices and in a timely manner. Nevertheless the Company will not be liable under any circumstances for the consequences of any delay in order filling or failure to deliver or perform. Furthermore, once an order is filled, you are notified via the Platform and such an action is irreversible.
 
-\[From the Risk Disclosure Statement\]
+> \[From the Risk Disclosure Statement\]
 
-**Risks in Virtual Currency Transactions**
+> **Risks in Virtual Currency Transactions**
 
-There are many risks associated with virtual currency transactions. Please read the following to gain a sufficient understanding of the features, mechanisms, and risks in virtual currency transactions. Please execute your transaction with understanding such features, mechanisms and risks without objection and based on your own judgment and responsibility.
+> There are many risks associated with virtual currency transactions. Please read the following to gain a sufficient understanding of the features, mechanisms, and risks in virtual currency transactions. Please execute your transaction with understanding such features, mechanisms and risks without objection and based on your own judgment and responsibility.
 
-1.     **Price Fluctuation Risk**
+> 1\.     **Price Fluctuation Risk**
 
-<For both spot and margin trading\*>
+> &lt;For both spot and margin trading\*&gt;
 
-Virtual currency is not legal tender and does not have legal tender as an underlying asset. The value of virtual currency fluctuates all the time. The value of virtual currency may be affected by trends in the prices of goods, legal tender, the securities market, and other markets, natural disasters, war, political upheaval, strikes, increased regulation, the spread of other similar virtual currencies, or an unexpected or extraordinary event that occurs in the future. Therefore, the value of the virtual currency that you hold or the value of your virtual currency transaction may change rapidly or drop sharply. Please also be aware that the value of virtual currency may fall below the purchase price or may drop to zero.
+> Virtual currency is not legal tender and does not have legal tender as an underlying asset. The value of virtual currency fluctuates all the time. The value of virtual currency may be affected by trends in the prices of goods, legal tender, the securities market, and other markets, natural disasters, war, political upheaval, strikes, increased regulation, the spread of other similar virtual currencies, or an unexpected or extraordinary event that occurs in the future. Therefore, the value of the virtual currency that you hold or the value of your virtual currency transaction may change rapidly or drop sharply. Please also be aware that the value of virtual currency may fall below the purchase price or may drop to zero.
 
-\* “Margin trading” in this material means contract for difference (CFD) trading.
+> \* “Margin trading” in this material means contract for difference (CFD) trading.
 
-**3**.     **Liquidity Risk**
+> **3**.     **Liquidity Risk**
 
-<For both spot and margin trading>
+> &lt;For both spot and margin trading&gt;
 
-Depending on market trends or trade volumes, etc., your transaction may be difficult or impossible to execute, or you may be forced to execute it at a very unfavorable price.
+> Depending on market trends or trade volumes, etc., your transaction may be difficult or impossible to execute, or you may be forced to execute it at a very unfavorable price.
 
-<Characteristics of margin trading>
+> &lt;Characteristics of margin trading&gt;
 
-Depending on market trends or trade volumes, etc., it may be difficult to execute a reversing trade of your position, potentially widening your losses.
+> Depending on market trends or trade volumes, etc., it may be difficult to execute a reversing trade of your position, potentially widening your losses.
 
 226    The expression “best possible available market price” in the Agreement must be a reference to the best price available on the Platform rather than on other platforms as is made clear by the later statement under the “The Platform Data & Content Copyright” section of the Agreement which draws a distinction between the actual price available on the Platform and “live market value data” provided by Quoine for which Quoine accept no responsibility.
 
@@ -980,7 +977,7 @@ Depending on market trends or trade volumes, etc., it may be difficult to execut
 
 ### Defence 5. Is Quoine entitled to reverse the trades on the basis that those contracts were void under the doctrine of mutual mistake at common law?
 
-237    The law in relation to mutual mistake was not in dispute. B2C2 referred me to the Court of Appeal decision in _Olivine Capital Pte Ltd v Chia Chin Yan_ and Quoine to the recent decision of the English High Court in _Triple Seven MSN 27251 Ltd v Azman Air Services Ltd_ \[2018\] EWHC 1348. It is common ground that four requirements, in particular, have to be met. First, at the time of the contract, there must be an assumption shared by both parties as to a particular state of affairs. Secondly, that assumption must be fundamental to the performance of the contract. Third, the assumption must have been wrong and fourth, performance of the contract must either be impossible or be radically different to what was contemplated. There are other aspects to the defence but in the circumstances of this case I need not consider the law further.
+237    The law in relation to mutual mistake was not in dispute. B2C2 referred me to the Court of Appeal decision in _Olivine Capital Pte Ltd v Chia Chin Yan_ <span class="citation">\[2014\] 2 SLR 1371</span> and Quoine to the recent decision of the English High Court in _Triple Seven MSN 27251 Ltd v Azman Air Services Ltd_ \[2018\] EWHC 1348. It is common ground that four requirements, in particular, have to be met. First, at the time of the contract, there must be an assumption shared by both parties as to a particular state of affairs. Secondly, that assumption must be fundamental to the performance of the contract. Third, the assumption must have been wrong and fourth, performance of the contract must either be impossible or be radically different to what was contemplated. There are other aspects to the defence but in the circumstances of this case I need not consider the law further.
 
 238    As with the defence of unilateral mistake, Quoine contends that the correct approach is to ask the hypothetical “meeting on the floor of the exchange” question: see \[200\]–\[204\] above. For the same reasons I reject that approach in relation to mutual mistake as well. Quoine went on to submit that at the time the trades were executed both parties wrongly assumed that (i) the Platform was working correctly and (ii) that therefore the trades were being transacted at normal market conditions, (_ie_, at prices which accurately reflected or did not deviate significantly from the world-wide price).
 
@@ -990,9 +987,9 @@ Depending on market trends or trade volumes, etc., it may be difficult to execut
 
 240    Paragraph 18 of the Defence pleads:
 
-Further and/or in the alternative, the Defendant had the right to and/or was entitled to reverse and/or cancel the Trades and/or deduct the proceeds received by the Plaintiff from the Trades from the Account in order to prevent the Plaintiff from being unjustly enriched, at the expense of the Counterparties and/or the Defendant, if it was allowed to retain the proceeds from the Trades executed at the Abnormal Rate by mistake.
+> Further and/or in the alternative, the Defendant had the right to and/or was entitled to reverse and/or cancel the Trades and/or deduct the proceeds received by the Plaintiff from the Trades from the Account in order to prevent the Plaintiff from being unjustly enriched, at the expense of the Counterparties and/or the Defendant, if it was allowed to retain the proceeds from the Trades executed at the Abnormal Rate by mistake.
 
-241    The doctrine of unjust enrichment provides a cause of action for one party against another party who has received a benefit from the first party in circumstances which make it unjust for the second party to retain the benefit. There are three elements to the claim: _Singapore Swimming Club v Koh Sin Chong Freddie_ at \[90\]. First there must have been a benefit that was received by or which accrued to the second party. Second the benefit or enrichment must be at the expense of the first party. Thirdly, that enrichment must be unjust.
+241    The doctrine of unjust enrichment provides a cause of action for one party against another party who has received a benefit from the first party in circumstances which make it unjust for the second party to retain the benefit. There are three elements to the claim: _Singapore Swimming Club v Koh Sin Chong Freddie_ <span class="citation">\[2016\] 3 SLR 845</span> at \[90\]. First there must have been a benefit that was received by or which accrued to the second party. Second the benefit or enrichment must be at the expense of the first party. Thirdly, that enrichment must be unjust.
 
 242    Had Quoine not reversed the seven trades, B2C2 would have received a substantial benefit in terms of the BTC that had been transferred into its account. This benefit would have been at the expense of the Counterparties who would have had to make up the shortfall between the BTC actually in their accounts and those that had been transferred pursuant to their margin trading contracts with Quoine. As a matter of legal formality therefore, on the facts of this case, the cause of action does not accrue until after B2C2 succeeds in this litigation and has the benefit that it should have had if Quoine had not wrongly reversed the trades. Further, technically, it is a cause of action vested in the Counterparties who are not parties to this action rather than in Quoine.
 
@@ -1000,21 +997,21 @@ Further and/or in the alternative, the Defendant had the right to and/or was ent
 
 244    In this case, however, it has been pleaded as a defence and B2C2 has not sought to strike it out. It joined issue with it in its Reply and the case was argued on the basis that it was properly raised as a defence. It was only in B2C2’s written closing submissions that the legal position was first raised. I therefore propose to treat it as a defence so that the substance of the matter may be decided.
 
-245    The first two requirements of unjust enrichment are satisfied in this case. The sole issue is whether it would be unjust in the circumstances of this case for B2C2 to retain the proceeds of the Trades. Both parties drew my attention to the decision of the Court of Appeal in _Wee Chiaw Sek Anna v Ng Li-Ann Genevieve (sole executrix of the estate of Ng Hock Seng, deceased)_ (“_Anna Wee_”) together with extracts from the well-known works of reference, _Goff & Jones: The Law of Unjust Enrichment_ (Sweet & Maxwell, 9th ed, 2016) (“_Goff & Jones_”) and Andrew Burrows_, The Law of Restitution_ (Oxford University Press, 3rd ed, 2011) (“_Burrows_).
+245    The first two requirements of unjust enrichment are satisfied in this case. The sole issue is whether it would be unjust in the circumstances of this case for B2C2 to retain the proceeds of the Trades. Both parties drew my attention to the decision of the Court of Appeal in _Wee Chiaw Sek Anna v Ng Li-Ann Genevieve (sole executrix of the estate of Ng Hock Seng, deceased)_ <span class="citation">\[2013\] 3 SLR 801</span>(“_Anna Wee_”) together with extracts from the well-known works of reference, _Goff & Jones: The Law of Unjust Enrichment_ (Sweet & Maxwell, 9th ed, 2016) (“_Goff & Jones_”) and Andrew Burrows_, The Law of Restitution_ (Oxford University Press, 3rd ed, 2011) (“_Burrows_).
 
 246    It is sufficient to cite the following passage from _Anna Wee_ at \[132\]–\[134\] where the Court of Appeal quoted from both _Burrows_ and an earlier edition of _Goff & Jones_:
 
-132    This list of “unjust factors” has been catalogued in academic treatises. _Burrows_ …, for example, summarised the unjust factors as follows (at p 86):
+> 132    This list of “unjust factors” has been catalogued in academic treatises. _Burrows_ …, for example, summarised the unjust factors as follows (at p 86):
 
-As regards the cause of action of unjust enrichment, the main unjust factors can be listed as follows: mistake, duress, undue influence, exploitation of weakness, human incapacity, failure of consideration, ignorance, legal compulsion, necessity, illegality and public authority ultra vires exaction and payment.
+>> As regards the cause of action of unjust enrichment, the main unjust factors can be listed as follows: mistake, duress, undue influence, exploitation of weakness, human incapacity, failure of consideration, ignorance, legal compulsion, necessity, illegality and public authority ultra vires exaction and payment.
 
-133     _Goff & Jones_ summarised them as follows (at para 1-22):
+> 133     _Goff & Jones_ summarised them as follows (at para 1-22):
 
-Lack of consent and want of authority; mistake; duress; undue influence; failure of basis; necessity; secondary liability; _ultra vires_ receipts and payments by public bodies; legal incapacity; illegality; and money paid pursuant to a judgment that is later reversed.
+>> Lack of consent and want of authority; mistake; duress; undue influence; failure of basis; necessity; secondary liability; _ultra vires_ receipts and payments by public bodies; legal incapacity; illegality; and money paid pursuant to a judgment that is later reversed.
 
-134    It is important to reiterate that there is no freestanding claim in unjust enrichment on the abstract basis that it is “unjust” for the defendant to retain the benefit – there must be a particular recognised unjust factor or event which gives rise to a claim. The following observations by Prof Birks in a seminal article are, in this regard, apposite (see Peter Birks, “The English recognition of unjust enrichment” \[1991\] LMCLQ 473 (at 482)):
+> 134    It is important to reiterate that there is no freestanding claim in unjust enrichment on the abstract basis that it is “unjust” for the defendant to retain the benefit – there must be a particular recognised unjust factor or event which gives rise to a claim. The following observations by Prof Birks in a seminal article are, in this regard, apposite (see Peter Birks, “The English recognition of unjust enrichment” \[1991\] LMCLQ 473 (at 482)):
 
-‘Unjust’ is the generalization of all the factors which the law recognizes as calling for restitution. Hence, at the lower level of generality the plaintiff must put his finger on a specific ground for restitution, a circumstance recognized as rendering the defendant’s enrichment ‘unjust’ and therefore reversible.
+>> ‘Unjust’ is the generalization of all the factors which the law recognizes as calling for restitution. Hence, at the lower level of generality the plaintiff must put his finger on a specific ground for restitution, a circumstance recognized as rendering the defendant’s enrichment ‘unjust’ and therefore reversible.
 
 247    In this case Quoine maintains that the unjust factors are mistake and lack of consent due to ignorance. It contends that in the circumstances in which the trades were executed, they were executed as a result of the automated actions taken by Quoine’s systems which would not have occurred if the Quoter Program was operating properly. Essentially the mistakes relied upon are the same as were raised in respect of unilateral mistake. First, the mistake as to the necessity of making the margin call, which I have rejected as being a mistaken belief and therefore need not be considered further. Secondly, the mistake as to the “world-wide price” which I have held to be an honestly held but mistaken belief.
 
@@ -1022,23 +1019,23 @@ Lack of consent and want of authority; mistake; duress; undue influence; failure
 
 249    B2C2, however, contends that regardless what the mistakes or lack of consent were, if the defences of mistake fail then the case on unjust enrichment must also necessarily fail. The contract is valid and therefore the fact that one party has made a bad bargain does not prevent the other party who has made a good bargain from keeping the fruits of the contract. My attention was drawn to two passages, one from _Burrows_ and the other from _Goff & Jones_:[^50]
 
-\[From _Burrows_\]
+> \[From _Burrows_\]
 
-(**a**)     **Defendant’s legal entitlement**
+> (**a**)     **Defendant’s legal entitlement**
 
-(_i_)     _The general rule_
+> (_i_)     _The general rule_
 
-Where the defendant is legally entitled to the enrichment – in the sense that that enrichment is owed to it by the claimant under a valid legal obligation – there can normally be no liability to make restitution despite there being an unjust factor. The reason for this is that the prima facie injustice established by the unjust factor is normally outweighed by the fact that the defendant is legally entitled to the enrichment. Overall, therefore, the enrichment is not unjust. Although sometimes overlooked, this qualification should be seen as a significant qualification to the width of the unjust factors.
+> Where the defendant is legally entitled to the enrichment – in the sense that that enrichment is owed to it by the claimant under a valid legal obligation – there can normally be no liability to make restitution despite there being an unjust factor. The reason for this is that the prima facie injustice established by the unjust factor is normally outweighed by the fact that the defendant is legally entitled to the enrichment. Overall, therefore, the enrichment is not unjust. Although sometimes overlooked, this qualification should be seen as a significant qualification to the width of the unjust factors.
 
-\[From _Goff & Jones_ at para 9-94\]
+> \[From _Goff & Jones_ at para 9-94\]
 
-Where a benefit is mistakenly conferred by one party on another under a contract, a claim in unjust enrichment will commonly fail even if the mistake would otherwise support such a claim. As we explain in \[Chapter 3\], the contract will bar the claim, to the extent that it entitles the defendant to receive the relevant benefit. For the claim to succeed, the claimant will need to show that the contract is invalid, being either non-existent, void or voidable. This is not a matter for the law of unjust enrichment, but the law of contract.
+> Where a benefit is mistakenly conferred by one party on another under a contract, a claim in unjust enrichment will commonly fail even if the mistake would otherwise support such a claim. As we explain in \[Chapter 3\], the contract will bar the claim, to the extent that it entitles the defendant to receive the relevant benefit. For the claim to succeed, the claimant will need to show that the contract is invalid, being either non-existent, void or voidable. This is not a matter for the law of unjust enrichment, but the law of contract.
 
 250     _Burrows_ goes on to consider exceptions to the general rule as being in cases where the _prima facie_ injustice constituted by there being an unjust factor is not outweighed by the Defendant’s contractual entitlement to the enrichment.
 
-251    The question was considered in a Privy Council decision in _Fairfield Sentry Ltd (in Liquidation) v Migani_ \[2014\] UKPC 9 where at \[18\], Lord Sumption said this:
+251    The question was considered in a Privy Council decision in _Fairfield Sentry Ltd (in Liquidation) v Migani_ <span class="citation">\[2014\] UKPC 9</span> where at \[18\], Lord Sumption said this:
 
-The basic principle is not in dispute. The payee of money “cannot be said to have been unjustly enriched if he was entitled to receive the sum paid to him”: _Kleinwort Benson Ltd v Lincoln City Council_ at 408B (Lord Hope). Or, as Professor Burrows has put it in his _Restatement of the English Law of Unjust Enrichment_ (2012) at §3(6), “in general, an enrichment is not unjust if the benefit was owed to the defendant by the claimant under a valid contractual, statutory or other legal obligation.” Therefore, to the extent that a payment made under a mistake discharges a contractual debt of the payee, it cannot be recovered, unless (which is not suggested) the mistake is such as to avoid the contract: _Barclays Bank Ltd v W.J. Simms Son & Cooke (Southern) Ltd_ , 695. So far as the payment exceeds the debt properly due, then the payer is in principle entitled to recover the excess.
+> The basic principle is not in dispute. The payee of money “cannot be said to have been unjustly enriched if he was entitled to receive the sum paid to him”: _Kleinwort Benson Ltd v Lincoln City Council_ at 408B (Lord Hope). Or, as Professor Burrows has put it in his _Restatement of the English Law of Unjust Enrichment_ (2012) at §3(6), “in general, an enrichment is not unjust if the benefit was owed to the defendant by the claimant under a valid contractual, statutory or other legal obligation.” Therefore, to the extent that a payment made under a mistake discharges a contractual debt of the payee, it cannot be recovered, unless (which is not suggested) the mistake is such as to avoid the contract: _Barclays Bank Ltd v W.J. Simms Son & Cooke (Southern) Ltd_ , 695. So far as the payment exceeds the debt properly due, then the payer is in principle entitled to recover the excess.
 
 252    I therefore accept that it is only in exceptional circumstances that a claim for unjust enrichment can succeed where a contract has been held valid. I do not consider that this is such a case. B2C2 was enriched because Quoine failed to take any of the steps necessary to protect itself or the margin traders identified in \[212\] above and the Counterparties did not take any sufficient steps to ensure that their beliefs were correct. This is not a case of B2C2 getting an unjustified windfall, it is the inevitable result of the way the parties have chosen to trade with each other. The defence of unjust enrichment thus fails.
 
@@ -1046,7 +1043,7 @@ The basic principle is not in dispute. The payee of money “cannot be said to h
 
 ## Relief if Quoine is liable
 
-254    The primary relief sought by B2C2 is specific performance coupled with additional damages. It however accepts that specific performance is a discretionary remedy and will only be ordered where it is just and equitable to do so. The two primary considerations are whether damages would be an adequate remedy and whether the person against whom the relief is being sought would suffer substantial hardship: see _Lee Chee Wei v Tan Hor Peow Victor and others_ at \[53\], and _Lim Beng Cheng v Lim Ngee Sing_ at \[97\].
+254    The primary relief sought by B2C2 is specific performance coupled with additional damages. It however accepts that specific performance is a discretionary remedy and will only be ordered where it is just and equitable to do so. The two primary considerations are whether damages would be an adequate remedy and whether the person against whom the relief is being sought would suffer substantial hardship: see _Lee Chee Wei v Tan Hor Peow Victor and others_ <span class="citation">\[2007\] 3 SLR(R) 537</span> at \[53\], and _Lim Beng Cheng v Lim Ngee Sing_ <span class="citation">\[2016\] 1 SLR 524</span> at \[97\].
 
 255    B2C2 asserts that this is a case where damages will not be an adequate remedy because cryptocurrencies in general and BTC in particular are highly volatile so that the inherent value is difficult to ascertain and will thus make damages difficult to assess. I do not accept this. Courts are accustomed to assess damages in relation to volatile assets and this case will be no different.
 
@@ -1180,7 +1177,7 @@ There are many risks associated with virtual currency transactions. Please read 
 
 ## 1.   Price Fluctuation Risk
 
-<For both spot and margin trading\*>
+&lt;For both spot and margin trading\*&gt;
 
 Virtual currency is not legal tender and does not have legal tender as an underlying asset. The value of virtual currency fluctuates all the time. The value of virtual currency may be affected by trends in the prices of goods, legal tender, the securities market, and other markets, natural disasters, war, political upheaval, strikes, increased regulation, the spread of other similar virtual currencies, or an unexpected or extraordinary event that occurs in the future. Therefore, the value of the virtual currency that you hold or the value of your virtual currency transaction may change rapidly or drop sharply. Please also be aware that the value of virtual currency may fall below the purchase price or may drop to zero.
 
@@ -1188,17 +1185,17 @@ Virtual currency is not legal tender and does not have legal tender as an underl
 
 ## 2.   Business Hours Risk
 
-<For both spot and margin trading>
+&lt;For both spot and margin trading&gt;
 
 The value of virtual currency may in some cases fluctuate widely when the Company is not open for business (including when we are performing maintenance). The Company bears no liability whatsoever if you are unable to execute a virtual currency transaction outside of business hours.
 
 ## 3.   Liquidity Risk
 
-< For both spot and margin trading >
+&lt; For both spot and margin trading &gt;
 
 Depending on market trends or trade volumes, etc., your transaction may be difficult or impossible to execute, or you may be forced to execute it at a very unfavorable price.
 
-<Characteristics of margin trading>
+&lt;Characteristics of margin trading&gt;
 
 Depending on market trends or trade volumes, etc., it may be difficult to execute a reversing trade of your position, potentially widening your losses.
 
@@ -1212,13 +1209,13 @@ Furthermore, virtual currency may be deleted because it is recorded electronical
 
 ## 5.   Risks Due to Changes in Fees, Required Margin, etc.
 
-<For both spot and margin trading>
+&lt;For both spot and margin trading&gt;
 
 The Company may amend its rules, etc. on transactions using Bitcoin (BTC) and Ethereum (ETH) in the future. In particular, the Company may change its fees (including the fee rate), the required margin, or the stop order rate, etc. depending on the situation. If these rule changes are made, extra funds may be required due to that change and the chances of being subject to a lstop-out may increase.
 
 ## 6.   Risks Due to Leverage Effects, etc.
 
-<Characteristics of margin transactions>
+&lt;Characteristics of margin transactions&gt;
 
 In virtual currency margin trading, the margin principal and profit are not guaranteed.
 
@@ -1228,7 +1225,7 @@ Therefore, the Company may execute a compulsory reversing trade of your entire p
 
 ## 7.   Risks Due to Stop-Out
 
-<Characteristics of margin trading>
+&lt;Characteristics of margin trading&gt;
 
 The stop-out system allows the Company to cancel non-executed new orders and forcibly execute a reversing trade, and settle all, of a customer’s positions to protect the customer from escalating losses when the customer’s margin falls short of the Company’s prescribed ratio of the margin to required margin (the “stop-out,” which the Company may change at its discretion).
 
@@ -1238,7 +1235,7 @@ If market circumstances shift dramatically or something else happens, the final 
 
 ## 8.   System Risks
 
-<For both spot and margin trading>
+&lt;For both spot and margin trading&gt;
 
 Customers execute transactions using an electronic transaction system. If a customer incorrectly enters an order, the customer’s intended order may not be executed, or an unintended order may be executed.
 
@@ -1254,7 +1251,7 @@ Please be aware that in the event that a customer loses any opportunity (e.g., t
 
 ## 9.   Bankruptcy Risk
 
-<For both spot and margin trading>
+&lt;For both spot and margin trading&gt;
 
 The Company may not be able to continue its business if the external environment changes (including more stringent regulations regarding virtual currency), the Company’s financial condition deteriorates, or a service provider, etc. retained to provide systems or necessary services to the Company goes bankrupt, etc.
 
@@ -1264,7 +1261,7 @@ The Company may receive deposits of money or virtual currency from customers, bu
 
 ## 10.   Risks Due to Changes to Legislation and the Tax Code
 
-<For both spot and margin trading>
+&lt;For both spot and margin trading&gt;
 
 Many changes are taking place now regarding the laws, regulations, and tax code in relation to virtual currency that applies to individuals who execute virtual currency transactions. In the future, virtual currency may be banned, restrictions or taxes may become more onerous, etc. and holding or trading virtual currency may be restricted or treated less favorably than it is now due to changes to laws, regulations, the tax code, or government policy, etc. In that case, customers may suffer unexpected losses.
 
