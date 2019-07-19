@@ -1,5 +1,5 @@
 ---
-title: Re LP (adult patient: medical treatment) 
+title: Re LP (adult patient\: medical treatment) 
 subtitle: "[2006] SGHC 13 / 23\_January\_2006"
 tags:
   - Civil Procedure

@@ -1,5 +1,5 @@
 ---
-title: EB v EC (divorce: maintenance of stepchildren) 
+title: EB v EC (divorce\: maintenance of stepchildren) 
 subtitle: "[2006] SGHC 44 / 15\_March\_2006"
 tags:
   - Family Law
