@@ -27,10 +27,10 @@ glob("/*/report.md", { root: __dirname }, function (er, files) {
                 fs.unlinkSync(indexPath)
             }
             fileCount++
-            console.log(`Done: ${file}`)
         } catch (e) {
             console.log(`Error: ${file}`, e)
+            console.log(`(${fileCount}/${totalFiles})`)
         }
-        console.log(`(${fileCount}/${totalFiles})`)
     })
+    console.log(`(${fileCount}/${totalFiles})`)
 })
