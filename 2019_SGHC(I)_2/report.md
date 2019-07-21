@@ -1,3 +1,12 @@
+---
+title: Kiri Industries Ltd v Senda International Capital Ltd and another
+subtitle: "[2019] SGHC(I) 2 / Decision Date: 12\_March\_2019"
+tags:
+  - Companies
+  - Shares
+  - Valuation
+layout: single
+---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Kiri Industries Ltd _v_ Senda International Capital Ltd and another
 

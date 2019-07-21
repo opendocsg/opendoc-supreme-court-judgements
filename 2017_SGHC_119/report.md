@@ -1,3 +1,13 @@
+---
+title: Ang Lilian v Public Prosecutor
+subtitle: "[2017] SGHC 119 / 24\_May\_2017"
+tags:
+  - Criminal Law
+  - Offences
+  - Hurt
+  - Domestic maid abuse
+layout: single
+---
  Charge Number Sentence 
 
  C1A: MCN 900287/14 2 months’ imprisonment 

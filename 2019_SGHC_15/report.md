@@ -1,3 +1,13 @@
+---
+title: Gulf Hibiscus Ltd v Rex International Holding Ltd and another
+subtitle: "[2019] SGHC 15 / Decision Date: 24\_January\_2019"
+tags:
+  - Arbitration
+  - Stay of court proceedings
+  - Inherent jurisdiction
+  - General discretion to lift stay of court proceedings
+layout: single
+---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Gulf Hibiscus Ltd _v_ Rex International Holding Ltd and another  
 

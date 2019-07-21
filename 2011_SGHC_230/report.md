@@ -1,3 +1,15 @@
+---
+title: >-
+  Madihill Development Sdn Bhd and another v Sinesinga Sdn Bhd (transferee to
+  part of the
+subtitle: "[2011] SGHC 230 / 21\_October\_2011"
+tags:
+  - Conflict of Laws
+  - Foreign Judgments
+  - Enforcement
+  - Reciprocal Enforcement of Commonwealth Judgments
+layout: single
+---
  Date Event 24 August 2009 SSB obtained judgment against MDS and RT in the High Court in Kuala Lumpur, Malaysia. 15 September 2009 MDS and RT filed a Notice of Appeal to the Malaysian Court of Appeal against the judgment. 17 February 2010 SSB filed Originating Summons No 187 of 2010/D (“OS 187/2010”), in Singapore to register the Malaysian judgment in Singapore under RECJA. 
 
 # Madihill Development Sdn Bhd and another v Sinesinga Sdn Bhd (transferee to part of the 

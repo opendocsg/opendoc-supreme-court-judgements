@@ -1,3 +1,12 @@
+---
+title: Ozone Community Corp v Advance Magazine Publishers Inc
+subtitle: "[2010] SGHC 16 / 15\_January\_2010"
+tags:
+  - Trade Marks and Trade Names
+  - Registration Criteria
+  - Conflicts with earlier marks
+layout: single
+---
  Registration No Mark Class Specification of Goods/Services 
 
  T98/02808F “GLAMOUR” 9 CD-ROMS; compact discs; prerecorded audio and video cassettes; electronic publications; computer software and optical apparatus and equipment 

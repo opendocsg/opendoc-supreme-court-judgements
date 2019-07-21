@@ -1,3 +1,11 @@
+---
+title: Columbia Asia Healthcare Sdn Bhd and another v Hong Hin Kit Edward and another
+subtitle: "[2016] SGHC 188 / 09\_September\_2016"
+tags:
+  - Damages
+  - Assessment
+layout: single
+---
  S/N Name Sum (US$) 
 
  1 Kusnandar & Co (“Kusnandar”) US$183,261.90 183,261. 

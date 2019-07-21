@@ -1,3 +1,11 @@
+---
+title: Public Prosecutor v Saiful Rizam bin Assim and other appeals
+subtitle: "[2014] SGHC 12 / 15\_January\_2014"
+tags:
+  - Criminal Procedure and Sentencing
+  - sentencing
+layout: single
+---
  Charges convicted on Charges taken into consideration 
 
  R1 Saiful • 1 × theft as servant under s 381 of the Penal Code (Cap 224, 2008 Rev Ed) (“the PC”) (DAC 45721/2012) 

@@ -1,3 +1,9 @@
+---
+title: Ferrero SPA v Sarika Connoisseur Cafe Pte Ltd
+subtitle: "[2011] SGHC 176 / 26\_July\_2011"
+tags: null
+layout: single
+---
  No Trade Mark No Trade mark Specifications 
 
  1 T73/59592H (registered on 16 August 1973) 

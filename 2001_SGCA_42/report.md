@@ -1,3 +1,6 @@
+---
+layout: single
+---
 # Bean Innovations Pte Ltd and Another v Flexon (Pte) Ltd 
 
 

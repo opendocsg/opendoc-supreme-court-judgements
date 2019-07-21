@@ -1,3 +1,17 @@
+---
+title: Nagaenthran a/l K Dharmalingam v Public Prosecutor and another appeal
+subtitle: "[2019] SGCA 37 / Decision Date: 27\_May\_2019"
+tags:
+  - Criminal Law
+  - Statutory offences
+  - Misuse of Drugs Act
+  - Administrative Law
+  - Judicial review
+  - Ambit
+  - Constitutional Law
+  - Judicial Power
+layout: single
+---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Nagaenthran a/l K Dharmalingam _v_ Public Prosecutor and another appeal  
 

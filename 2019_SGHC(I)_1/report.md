@@ -1,3 +1,13 @@
+---
+title: BCBC Singapore Pte Ltd and another v PT Bayan Resources TBK and another
+subtitle: "[2019] SGHC(I) 1 / Decision Date: 9\_January\_2019"
+tags:
+  - Contract
+  - Breach
+  - Remedies
+  - Damages
+layout: single
+---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # BCBC Singapore Pte Ltd and another _v_ PT Bayan Resources TBK and another
 

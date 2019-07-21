@@ -1,3 +1,14 @@
+---
+title: ISO Industry Pte Ltd v Fu Loong Lithographer Pte Ltd
+subtitle: "[2016] SGHC 3 / 11\_January\_2016"
+tags:
+  - Contract
+  - contractual terms
+  - express terms
+  - Contract
+  - breach
+layout: single
+---
  Document Abbreviation 
 
  “Plaintiffs’ Closing Submissions” dated 17 August 2015 Plaintiff’s 1st WS 

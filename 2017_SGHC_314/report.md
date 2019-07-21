@@ -1,3 +1,13 @@
+---
+title: Mukherjee Amitava v DyStar Global Holdings (Singapore) Pte Ltd and others
+subtitle: "[2017] SGHC 314 / 19\_December\_2017"
+tags:
+  - Companies
+  - Direc tors
+  - 'Sec tion 199 of the Companies Ac t (Cap 50, 2006 Rev Ed)'
+  - Direc tor’s right to inspec t c ompany’s rec ords
+layout: single
+---
 # Mukherjee Amitava v DyStar Global Holdings (Singapore) Pte Ltd and others 
 
 

@@ -1,3 +1,11 @@
+---
+title: >-
+  The Personal Representatives of the Estate of Tan Cheong Leong (Malaysian
+  Inquiry
+subtitle: "[2001] SGHC 278 / 24\_September\_2001"
+tags: null
+layout: single
+---
 # The Personal Representatives of the Estate of Tan Cheong Leong (Malaysian Inquiry 
 
 # Committee No 3672139) (Deceased) v Lim Chun Chuan alias Lim Choon Hua (The Executrix 

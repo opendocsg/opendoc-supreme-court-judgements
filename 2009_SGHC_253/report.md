@@ -1,3 +1,9 @@
+---
+title: Satinder Singh Garcha v Uthayasurian Sidambaram and Another
+subtitle: "[2009] SGHC 253 / 12\_November\_2009"
+tags: null
+layout: single
+---
  (a) the $300,000 was held on trust in a trust account by the 1st Defendant, to be disbursed or paid out on the instructions of the client; 
 
  (b) there were delays in issuing the Writ as the Plaintiff chose to initiate other avenues of complaint with the police and the Law Society of Singapore, it is therefore not appropriate to award interest from the date when the money was wrongfully paid out of the 1st Defendant’s solicitor’s account; 

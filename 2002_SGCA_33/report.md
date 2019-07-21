@@ -1,3 +1,6 @@
+---
+layout: single
+---
 # Thongthot Yordsa-Art and Another v Public Prosecutor 
 
 

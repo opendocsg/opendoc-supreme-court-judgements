@@ -1,3 +1,9 @@
+---
+title: Engineering Construction Pte Ltd v Sanchoon Builders Pte Ltd
+subtitle: "[2010] SGHC 293 / 07\_October\_2010"
+tags: null
+layout: single
+---
  Part A: 
 
  (1) Improvement works to pedestrian mall in front of Blocks 608 and 706, Clementi West Street 1 and 2: 

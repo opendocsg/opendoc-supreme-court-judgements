@@ -1,3 +1,6 @@
+---
+layout: single
+---
 # Muhammad Afzal Khan v Public Prosecutor 
 
 

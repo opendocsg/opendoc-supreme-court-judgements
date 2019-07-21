@@ -1,3 +1,6 @@
+---
+layout: single
+---
 # Collector of Land Revenue v Heng Long Investment Pte Ltd 
 
 

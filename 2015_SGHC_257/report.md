@@ -1,3 +1,15 @@
+---
+title: Public Prosecutor v AXR
+subtitle: "[2015] SGHC 257 / 06\_October\_2015"
+tags:
+  - Criminal Law
+  - Offences
+  - Rape
+  - Criminal Law
+  - Offences
+  - Unnatural offences
+layout: single
+---
  1 st CHARGE on 25 February 2005, at Blk [X] Marine Terrace, #[X], Singapore, did commit carnal intercourse against the order of nature on one [V], Female / 23 years old, (Date of Birth (“DOB”): XX August 1992), who was 12 years old on 25 February 2005, to wit , by penetrating the mouth of the said [V] with your penis, and you have thereby committed an offence punishable under section 377 of the Penal Code (Cap 224, 1985 Rev Ed). 
 
  2 nd CHARGE on 25 February 2005, at Blk [X] Marine Terrace, #[X], Singapore, did commit an indecent act with a child, namely one [V], Female / 23 years old, (DOB: XX August 1992), who was 12 years old on 25 February 2005, to wit , by licking her at her vagina area, and you have thereby committed an offence punishable under section 7 of the Children and Young Person’s Act (Cap 38, 2001 Rev Ed). 

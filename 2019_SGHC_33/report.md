@@ -1,3 +1,12 @@
+---
+title: Public Prosecutor v Moad Fadzir bin Mustaffa and another
+subtitle: "[2019] SGHC 33 / Decision Date: 15\_February\_2019"
+tags:
+  - Criminal Law
+  - Statutory offences
+  - Misuse of Drugs Act
+layout: single
+---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Public Prosecutor _v_ Moad Fadzir bin Mustaffa and another  
 

@@ -1,3 +1,6 @@
+---
+layout: single
+---
 # Denko-HLB Sdn Bhd v Fagerdala Singapore Pte Ltd 
 
 

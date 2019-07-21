@@ -1,3 +1,15 @@
+---
+title: Long Kim Wing v LTX-Credence Singapore Pte Ltd
+subtitle: "[2017] SGHC 151 / 30\_June\_2017"
+tags:
+  - Employment Law
+  - Wrongful Dismissal
+  - Misconduct
+  - Employment Law
+  - Wrongful Dismissal
+  - Due inquiry
+layout: single
+---
  (a) One month’s salary in lieu of notice $ 17,064. 
 
  (b) Severance package amounting to 22.67 years of service x $18, 

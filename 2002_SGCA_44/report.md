@@ -1,3 +1,6 @@
+---
+layout: single
+---
 # Azman bin Ismail and Others v Public Prosecutor 
 
 

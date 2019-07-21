@@ -1,3 +1,6 @@
+---
+layout: single
+---
 # Ali bin Serti v Public Prosecutor 
 
 

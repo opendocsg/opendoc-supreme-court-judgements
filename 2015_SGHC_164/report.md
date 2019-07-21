@@ -1,3 +1,12 @@
+---
+title: Public Prosecutor v Ng Kean Meng Terence
+subtitle: "[2015] SGHC 164 / 25\_June\_2015"
+tags:
+  - Criminal Law
+  - Offences
+  - Rape
+layout: single
+---
  2 ND CHARGE sometime in November 2013 in the evening, at Block 30 Tanglin Halt Road #06-170, Singapore, committed Rape on [V], then a female of age 13 years old (Date of Birth: [X] August 2000), to wit by penetrating the vagina of the said [V] with your penis, with her consent, and you have thereby committed an offence under Section 375(1)(b) of the Penal Code Chapter 224, and punishable under Section 375(2) of the Penal Code Chapter 224. 4TH CHARGE on or about 29th October 2013, at Block 30 Tanglin Halt Road #06-170, Singapore, did sexually penetrate with your finger, the vagina of one [V], who was then under 14 years of age, to wit, 13 years (Date of Birth: [X] August 2000), with her consent, and you thereby committed an offence under Section 376A(1)(b), and punishable under section 376A(3) of the Penal Code, Chapter 224 (2008 Rev. Ed.). 
 
 # Public Prosecutor v Ng Kean Meng Terence 

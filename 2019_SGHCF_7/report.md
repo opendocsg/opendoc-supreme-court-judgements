@@ -1,3 +1,12 @@
+---
+title: UQP v UQQ
+subtitle: "[2019] SGHCF 7 / Decision Date: 26\_March\_2019"
+tags:
+  - Family Law
+  - Matrimonial assets
+  - Matrimonial home
+layout: single
+---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # UQP _v_ UQQ
 

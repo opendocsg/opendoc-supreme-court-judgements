@@ -1,3 +1,6 @@
+---
+layout: single
+---
 # Public Service Commission v Linda Lai Swee Lin 
 
 

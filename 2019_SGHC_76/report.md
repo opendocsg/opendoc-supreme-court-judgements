@@ -1,3 +1,13 @@
+---
+title: Soh Tian Khoon Raymond v Public Prosecutor
+subtitle: "[2019] SGHC 76 / Decision Date: 15\_March\_2019"
+tags:
+  - Criminal Procedure and Sentencing
+  - Disclosure
+  - Evidence
+  - Witnesses
+layout: single
+---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Soh Tian Khoon Raymond _v_ Public Prosecutor  
 

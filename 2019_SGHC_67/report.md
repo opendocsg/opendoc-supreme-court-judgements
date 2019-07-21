@@ -1,3 +1,14 @@
+---
+title: Liu Yanzhe and another v Tan Eu Jin and others
+subtitle: "[2019] SGHC 67 / Decision Date: 21\_March\_2019"
+tags:
+  - Tort
+  - Misrepresentation
+  - Fraud and deceit
+  - Contract
+  - Fraudulent
+layout: single
+---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Liu Yanzhe and another _v_ Tan Eu Jin and others  
 

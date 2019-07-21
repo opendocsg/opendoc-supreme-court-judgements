@@ -1,3 +1,9 @@
+---
+title: Public Prosecutor v Sufian bin Nordin and others
+subtitle: "[2010] SGHC 74 / 10\_March\_2010"
+tags: null
+layout: single
+---
 1\. Sufian Bin Nordin @ AF (“B1”) (Male/24 years old) Date of Birth : 14 July 1985 
 
 2\. Suhardi Bin Ali @ “Baby Boy” (“B2”) (Male/30 years old) Date of Birth : 25 July 1979 

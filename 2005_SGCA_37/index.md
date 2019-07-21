@@ -1,5 +1,5 @@
 ---
-title: CX v CY (minor\: custody and access) 
+title: "CX v CY (minor: custody and access)"
 subtitle: "[2005] SGCA 37 / 19\_July\_2005"
 tags:
   - Family Law
@@ -18,6 +18,5 @@ tags:
   - Circumstances where sole custody order should be made instead of making joint or no custody order
   - Circumstances where no custody order should be made instead of making joint custody order
   - Whether joint custody order should be varied
-
 ---
 

@@ -1,3 +1,9 @@
+---
+title: Yan Jun v Attorney-General
+subtitle: "[2013] SGHC 245 / 14\_November\_2013"
+tags: null
+layout: single
+---
  Claims Amount Notes 
 
  Loss of liberty $ 60,000 General 

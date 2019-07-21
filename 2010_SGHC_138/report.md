@@ -1,3 +1,9 @@
+---
+title: Public Prosecutor v AHB
+subtitle: "[2010] SGHC 138 / 05\_May\_2010"
+tags: null
+layout: single
+---
  That you, AHB, 
 
  1st Charge sometime in early 2006, at [address redacted], did use criminal force on [Y], female 13 years old,... to wit, by touching her breasts and vagina, knowing it likely that you would thereby outrage the modesty of the said [Y], and you have thereby committed an offence punishable under section 354 of the Penal Code (Chapter 224. 1985 Rev Ed). 

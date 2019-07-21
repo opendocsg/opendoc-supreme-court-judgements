@@ -1,3 +1,6 @@
+---
+layout: single
+---
 # Chan Choon Wai v Public Prosecutor 
 
 

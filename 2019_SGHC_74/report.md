@@ -1,3 +1,12 @@
+---
+title: Globe-Sea Offshore Engineering Pte Ltd v DNET Contract Services Pte Ltd
+subtitle: "[2019] SGHC 74 / Decision Date: 18\_March\_2019"
+tags:
+  - Civil Procedure
+  - Appeals
+  - Leave
+layout: single
+---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Globe-Sea Offshore Engineering Pte Ltd _v_ DNET Contract Services Pte Ltd  
 

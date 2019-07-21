@@ -1,3 +1,15 @@
+---
+title: Public Prosecutor v BQW
+subtitle: "[2018] SGHC 136 / 04\_June\_2018"
+tags:
+  - Criminal law
+  - Offences
+  - Sexual assault by penetration
+  - Criminal procedure and sentencing
+  - Sentencing
+  - Sexual assault by penetration
+layout: single
+---
  1st charge On the first occasion sometime in September 2015, in the office rest area of [the Restaurant], Singapore, did penetrate, with your finger, the vagina of [the Victim], a girl then under 14 years of age, without her consent, and you have thereby committed an offence under [s 376(2)( a )] and punishable under [s 376(4)( b )] of the [Penal Code (Cap 224, 2008 Rev Ed) (“the PC”)]. 2nd charge On the 2nd occasion sometime between September 2015 and December 2015, in the office rest area of [the Restaurant], Singapore, did penetrate, with your finger, the vagina of [the Victim], a female then under 14 years of age, without her consent, and you have thereby committed an offence under [s 376(2)( a )] and punishable under [s 376(4)( b )] of the [PC]. 
 
  3rd charge On the 3rd occasion sometime between September 2015 and December 2015, in the office rest area of [the Restaurant], Singapore, did penetrate, with your finger, the vagina of [the Victim], a female then under 14 years of age, without her consent, and you have thereby committed an offence under [s 376(2)( a )] and punishable under [s 376(4)( b )] of the [PC]. 

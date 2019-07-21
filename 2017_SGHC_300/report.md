@@ -1,3 +1,14 @@
+---
+title: >-
+  Telecom Credit Inc v Star Commerce Pte Ltd (Midas United Group Pte Ltd,
+  garnishee)
+subtitle: "[2017] SGHC 300 / 17\_November\_2017"
+tags:
+  - Civil procedure
+  - Judgments and orders
+  - Garnishee orders
+layout: single
+---
 # Telecom Credit Inc v Star Commerce Pte Ltd (Midas United Group Pte Ltd, garnishee)
 
 **Case Number** :Suit No 389 of 2016 (Registrar's Appeals Nos 102 and 103 of 2017)

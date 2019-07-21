@@ -1,3 +1,12 @@
+---
+title: 'Mykytowych, Pamela Jane v V I P Hotel'
+subtitle: "[2015] SGHC 113 / 19\_May\_2015"
+tags:
+  - Tort
+  - Negligence
+  - Damages
+layout: single
+---
  a. Pain and suffering for fracture of knee (left patella) $50,000. b. Pain and suffering for abrasion to the left knee $500. 
 
  c. Pain and suffering for strained left ankle $5,000. 

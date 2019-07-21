@@ -1,3 +1,6 @@
+---
+layout: single
+---
 # Beam Technology (Mfg) Pte Ltd v Standard Chartered Bank 
 
 

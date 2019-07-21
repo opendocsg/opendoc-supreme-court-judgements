@@ -1,3 +1,11 @@
+---
+title: 'Clinique Laboratories, LLC v Clinique Suisse Pte Ltd and another'
+subtitle: "[2010] SGHC 189 / 02\_July\_2010"
+tags:
+  - TRADE MARKS AND TRADE NAMES
+  - infringement
+layout: single
+---
  Trade Mark No. Mark Class / Specification 
 
  T98/10162Z C l a s s 03 : Cosmetics; toiletries; perfumery; non-medicated preparations for care of hair, skin and body; essential oils. 

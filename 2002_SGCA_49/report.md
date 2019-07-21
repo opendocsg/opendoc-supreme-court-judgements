@@ -1,3 +1,6 @@
+---
+layout: single
+---
 # The Cherry 
 
 

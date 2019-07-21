@@ -1,3 +1,13 @@
+---
+title: >-
+  Denmark Skibstekniske Konsulenter A/S I Likvidation (formerly known as Knud E
+  Hansen
+subtitle: "[2010] SGHC 108 / 09\_April\_2010"
+tags:
+  - Enforcement
+  - Foreign award
+layout: single
+---
 # Denmark Skibstekniske Konsulenter A/S I Likvidation (formerly known as Knud E Hansen 
 
 # A/S) v Ultrapolis 3000 Investments Ltd (formerly known as Ultrapolis 3000 Theme Park 

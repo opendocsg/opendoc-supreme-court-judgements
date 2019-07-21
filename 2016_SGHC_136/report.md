@@ -1,3 +1,12 @@
+---
+title: Public Prosecutor v Pram Nair
+subtitle: "[2016] SGHC 136 / 18\_July\_2016"
+tags:
+  - Criminal Law
+  - Offences
+  - Rape
+layout: single
+---
  1ST CHARGE On or about 6 May 2012, at or about 2.25 a.m. at the Siloso Beach at 51 Imbiah Walk near “Wavehouse”, Singapore, did commit rape of one [V], a female then aged 20 years old (D.O.B. XXX), to wit, by penetrating the vagina of the said [V] with your penis without her consent, and you have thereby committed an offence under section 375(1)(a), punishable under section 375(2) of the Penal Code (Chapter 224, Revised Edition 2008). 
 
  2ND CHARGE on or about 6 May 2012, at or about 2.25 a.m. at the Siloso Beach at 51 Imbiah Walk near “Wavehouse”, Singapore, did sexually penetrate with your finger the vagina of one [V], a female then aged 20 years old (D.O.B. XXX), without her consent, and you have thereby committed an offence under section 376(2)(a), punishable under section 376(3) of the Penal Code (Chapter 224, Revised Edition 2008). 

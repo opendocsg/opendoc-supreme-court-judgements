@@ -1,3 +1,11 @@
+---
+title: >-
+  Ng Tsorng Chinn and another v Vijaykumar Nanalal Shah (executor of the estate
+  of Nanalal
+subtitle: "[2012] SGHC 55 / 15\_March\_2012"
+tags: null
+layout: single
+---
  Date Event 
 
  5 July 1962 The Deceased purchased, inter alia , Lot 23-150. 

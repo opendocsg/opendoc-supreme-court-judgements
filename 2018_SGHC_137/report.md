@@ -1,3 +1,15 @@
+---
+title: Ma Wenjie v Public Prosecutor and another appeal
+subtitle: "[2018] SGHC 137 / 08\_June\_2018"
+tags:
+  - Criminal Law
+  - statutory offences
+  - Passports Act
+  - Criminal Procedure and Sentencing
+  - sentencing
+  - appeals
+layout: single
+---
  S/N [serial number][name] 
 
 1\. G44824755 MA ZHELAIYE (Female / 01.03.1949) 
