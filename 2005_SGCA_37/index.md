@@ -1,5 +1,5 @@
 ---
-title: CX v CY (minor\: custody and access) 
+title: "CX v CY (minor: custody and access)"
 subtitle: "[2005] SGCA 37 / 19\_July\_2005"
 tags:
   - Family Law

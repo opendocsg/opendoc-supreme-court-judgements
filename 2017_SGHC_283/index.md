@@ -1,5 +1,5 @@
 ---
-title: Re \: Attilan Group Ltd 
+title: "Re : Attilan Group Ltd"
 subtitle: "[2017] SGHC 283 / 08\_November\_2017"
 tags:
   - Companies
