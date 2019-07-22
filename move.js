@@ -1,7 +1,7 @@
 /*
     Place this file in root folder of repo
     npm i glob gray-matter
-    node embed-front-matter
+    node move
 */
 
 const glob = require('glob')

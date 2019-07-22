@@ -1,0 +1,102 @@
+---
+title: Lee Chez Kee v Public Prosecutor
+subtitle: "[2008] SGCA 20 / 12\_May\_2008"
+tags:
+  - Courts and Jurisdiction
+  - Court judgments
+  - Binding force
+  - >-
+    Approach of courts in dealing with long-standing decisions that were shown
+    to be incorrect
+  - Whether doctrine of stare decisis applying
+  - Criminal Law
+  - Complicity
+  - Abetment
+  - >-
+    Whether existing interpretation of ss 111 and 113 Penal Code (Cap 224, 1985
+    Rev Ed) in conformity with interpretation of s 34 Penal Code (Cap 224, 1985
+    Rev Ed)
+  - Criminal Law
+  - Complicity
+  - Common intention
+  - Meaning of \"criminal act\"
+  - 'Section 34 Penal Code (Cap 224, 1985 Rev Ed)'
+  - Criminal Law
+  - Complicity
+  - Common intention
+  - Participation
+  - >-
+    Whether s 34 Penal Code (Cap 224, 1985 Rev Ed) requiring presence at scene
+    of criminal act to constitute participation
+  - Criminal Law
+  - Complicity
+  - Common intention
+  - Proof of common intention
+  - Manner in which common intention may be proved
+  - Inferences made from circumstances of case
+  - 'Section 34 Penal Code (Cap 224, 1985 Rev Ed)'
+  - Criminal Law
+  - Complicity
+  - Common intention
+  - Requisite intention
+  - >-
+    Whether s 34 Penal Code (Cap 224, 1985 Rev Ed) requiring common intention of
+    parties to commit the offence actually committed in a \"twin crime\"
+    situation
+  - >-
+    Whether additional mens rea requirement of secondary offenders is that of
+    subjective knowledge on the part of secondary offender in relation to the
+    likelihood of collateral offence happening
+  - Whether secondary offender possessing such requisite intention
+  - 'Section 34 Penal Code (Cap 224, 1985 Rev Ed)'
+  - Criminal Law
+  - Complicity
+  - Common object
+  - >-
+    Whether existing interpretation of s 149 Penal Code (Cap 224, 1985 Rev Ed)
+    in conformity with interpretation of s 34 Penal Code (Cap 224, 1985 Rev Ed)
+  - Criminal Law
+  - Complicity
+  - Gang robbery
+  - >-
+    Whether existing interpretation of s 396 Penal Code (Cap 224, 1985 Rev Ed)
+    in conformity with interpretation of s 34 Penal Code (Cap 224, 1985 Rev Ed)
+  - Criminal Procedure and Sentencing
+  - Statements
+  - Admissibility
+  - >-
+    Whether out-of-court confessions of co-accused not party to proceedings
+    falling within general prohibition against hearsay evidence
+  - >-
+    Whether out-of-court confessions of co-accused not party to proceedings
+    admissible under s 378(1)(b)(i) Criminal Procedure Code (Cap 68, 1985 Rev
+    Ed)
+  - Evidence
+  - Admissibility of evidence
+  - Hearsay
+  - >-
+    Characterisation of hearsay rule considering nature of Evidence Act (Cap 97,
+    1997 Rev Ed)
+  - >-
+    Relationship between hearsay rule as expressed in Evidence Act and Criminal
+    Procedure Code (Cap 68, 1985 Rev Ed)
+  - Evidence
+  - Proof of evidence
+  - Confessions
+  - Confessions of accomplice not jointly charged
+  - Statutory Interpretation
+  - Statutes
+  - 'Evidence Act (Cap 97, 1997 Rev Ed)'
+  - Classification as a facilitative statute
+  - 'Purposive interpretation of Evidence Act (Cap 97, 1997 Rev Ed)'
+  - When does interpretation give effect to legislative intent
+  - Statutory Interpretation
+  - Statutes
+  - 'Penal Code (Cap 224, 1985 Rev Ed)'
+  - >-
+    Whether recourse to English common law permissible in interpreting Penal
+    Code
+  - When does interpretation give effect to legislative intent
+layout: single
+---
+
